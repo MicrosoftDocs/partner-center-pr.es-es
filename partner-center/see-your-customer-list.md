@@ -1,12 +1,8 @@
 ---
-title: Administrar la lista de clientes | Centro de partners
+title: "Administrar la lista de clientes | Centro de partners"
 description: "Los registros de cliente son unos los activos de información más importantes del Centro de partners."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a947ffb17f490a3ec195cb33000c84c1e1070459
-
 ---
 
 # Administrar la lista de clientes
@@ -71,7 +67,5 @@ Para obtener más información, consulta las siguientes secciones:
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

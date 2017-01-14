@@ -1,12 +1,8 @@
 ---
-title: Crear varios usuarios para una cuenta de cliente | Centro de partners
-description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv).
+title: "Crear varios usuarios para una cuenta de cliente | Centro de partners"
+description: "Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv)."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
-
 ---
 
 # Crear varios usuarios para una cuenta de cliente
@@ -34,7 +30,7 @@ Escribe los siguientes datos en el archivo de datos:
 | Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
 | Nombre para mostrar    | El nombre que aparecerá en el Centro de partners (campo obligatorio).                            | Límite de 50 caracteres                         |
 | Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
-| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
+| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | Dejar vacío                        |
 
  
 
@@ -68,7 +64,5 @@ El Centro de partners asigna automáticamente los permisos de **Puede usar licen
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

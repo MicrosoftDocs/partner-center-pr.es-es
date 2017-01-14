@@ -1,12 +1,8 @@
 ---
-title: Leer factura | Centro de partners
+title: "Leer factura | Centro de partners"
 description: "La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners."
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
-
 ---
 
 # Leer factura
@@ -38,12 +34,12 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>El número de cliente.</td>
 </tr>
 <tr class="even">
-<td>Facturar a</td>
-<td>La dirección a la que enviamos tu factura. (Esta es la dirección legal de la empresa asociada al control de la empresa y no se puede cambiar.)</td>
+<td>Bill to</td>
+<td>La dirección a la que enviamos tu factura. Para cambiar esta dirección, edita tu perfil de cuenta del Centro de partners.</td>
 </tr>
 <tr class="odd">
-<td>Cargos periódicos</td>
-<td>Cargos fijos mensuales (o anuales) para las licencias compradas basadas en el uso, facturados previamente al uso del servicio. Este número es la suma de todos los cargos en la columna &quot;Subtotal&quot; del archivo de conciliación basada en licencia (columna T).</td>
+<td>Recurring charges</td>
+<td>Cargos fijos mensuales (o anuales) para las licencias adquiridas basadas en el uso, facturados previamente al uso del servicio. Este número es la suma de todos los cargos en la columna &quot;Subtotal&quot; del archivo de conciliación basada en licencia (columna T).</td>
 </tr>
 <tr class="even">
 <td>Usage charges</td>
@@ -98,8 +94,8 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>La dirección del sitio web para acceder al servicio de atención al cliente.</td>
 </tr>
 <tr class="even">
-<td>Service recipient address</td>
-<td>La dirección en la que se usa el servicio. Para cambiar esta dirección, edita tu perfil de cuenta del Centro de partners.</td>
+<td>Destinatario del servicio</td>
+<td>La dirección en la que se usa el servicio. (Esta es la dirección legal de la compañía asociada al control de la compañía y no se puede cambiar).</td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +110,5 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

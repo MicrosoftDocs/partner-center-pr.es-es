@@ -1,12 +1,8 @@
 ---
-title: Ver los registros de actividades de los clientes | Centro de partners
+title: "Ver los registros de actividades de los clientes | Centro de partners"
 description: "Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
-
 ---
 
 # Ver los registros de actividades de los clientes
@@ -41,7 +37,5 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

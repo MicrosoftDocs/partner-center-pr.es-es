@@ -3,10 +3,6 @@ title: "Facturación | Centro de partners"
 Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencias y basadas en uso de tus clientes."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
-
 ---
 
 # Facturación
@@ -194,7 +190,5 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

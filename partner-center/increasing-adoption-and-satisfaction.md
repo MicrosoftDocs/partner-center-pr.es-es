@@ -3,10 +3,6 @@ title: "Aumentar la adopción y la satisfacción | Centro de partners"
 description: "Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre cómo y si los clientes están usando las licencias que adquirieron."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
-
 ---
 
 # Aumentar la adopción y la satisfacción
@@ -38,7 +34,7 @@ Terminología:
 
 -   **Uso %** = derechos activos/derechos totales
 
-    A veces el porcentaje de uso es excesivo, o mayor que 100%. Esto puede suceder por varias razones:
+    A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede suceder por varias razones:
 
     -   Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
 
@@ -82,7 +78,5 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

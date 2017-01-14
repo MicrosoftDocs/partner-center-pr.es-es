@@ -1,17 +1,17 @@
 
-# [Inscribirse en el programa CSP](enrolling-in-the-csp-program.md)
-## [Transición de Pinpoint al Centro de partners](importing-pinpoint-profiles-into-partner-center.md)
+# [Inscríbete en el programa CSP](enrolling-in-the-csp-program.md)
 ## [Contratos, listas de precios y ofertas de CSP](csp-documents-and-learning-resources.md)
 # [Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
-## [Actualizar perfil de partner](update-your-partner-profile.md)
+## [Actualizar perfil de asociado](update-your-partner-profile.md)
+## [Transición de Pinpoint al Centro de partners](importing-pinpoint-profiles-into-partner-center.md)
+## [Crear un perfil de marketing](create-a-marketing-profile.md)
 ## [Crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md)
 ## [Restaurar una cuenta suspendida del Centro de partners](suspended-partner-center-account.md)
 ## [Restablecer una contraseña de usuario](reset-a-user-password.md)
-## [Crear un perfil de marketing](create-a-marketing-profile.md)
 ## [Ver ofertas y precios](see-offers-and-pricing.md)
 ## [Personalizar el catálogo](customize-the-catalog.md)
 # [Facturación](billing.md)
-## [Leer factura](read-your-bill.md)
+## [Leer tu factura](read-your-bill.md)
 ## [Usar los archivos de conciliación](use-the-reconciliation-files.md)
 ## [Impuestos y exenciones de impuestos](tax-and-tax-exemptions.md)
 ## [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
@@ -52,6 +52,5 @@
 # [Plantillas de contrato de cliente](agreements.md)
 
 
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

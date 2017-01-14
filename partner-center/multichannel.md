@@ -1,12 +1,8 @@
 ---
-title: Multicanal | Centro de partners
+title: "Multicanal | Centro de partners"
 description: "Una opción del programa Proveedor de soluciones en la nube es permitir que un partner controle todo el ciclo de vida de suscripción de un cliente, incluidas las ventas, el aprovisionamiento, el soporte técnico y la renovación."
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
-
 ---
 
 # Multicanal
@@ -60,7 +56,5 @@ El soporte técnico multicanal se aplica cuando el cliente:
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

@@ -1,12 +1,8 @@
 ---
-title: Crear cuentas de usuario y establecer permisos | Centro de partners
-description: El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners.
+title: "Crear cuentas de usuario y establecer permisos | Centro de partners"
+description: "El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 19faea7877a7501b8761b58e084e33f77cf95752
-
 ---
 
 # Crear cuentas de usuario y establecer permisos
@@ -91,12 +87,13 @@ En la siguiente tabla se explica el conjunto completo de actividades que cada ro
 <td><ul>
 <li><p>Buscar y ver un cliente</p></li>
 <li><p>Editar detalles del cliente</p></li>
-<li><p>Estado y solicitudes de servicio</p></li>
-<li><p>Administración en nombre de</p></li>
+<li><p>Estado del servicio</p></li>
+<li><p>Crear vales de soporte para los clientes</p></li>
+<li><p>Administrar servicios en nombre de clientes</p></li>
 </ul></td>
 <td><ul>
-<li><p>Ver perfiles de partners</p></li>
-<li><p>Crear una entrada de cliente</p></li>
+<li><p>Ver perfiles de asociados</p></li>
+<li><p>Crear una nueva lista de clientes</p></li>
 <li><p>Editar la información de facturación del cliente</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Solicitar una relación</p></li>
@@ -148,7 +145,5 @@ En la siguiente tabla se explica el conjunto completo de actividades que cada ro
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

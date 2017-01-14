@@ -3,10 +3,6 @@ title: "Agregar licencias o servicios a una suscripción existente | Centro de p
 description: "Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
-
 ---
 
 # Agregar licencias o servicios a una suscripción existente
@@ -94,7 +90,5 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

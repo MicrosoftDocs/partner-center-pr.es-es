@@ -1,12 +1,8 @@
 ---
-title: Multipartner | Centro de partners
-description: Es posible que un cliente quiera trabajar con varios partners especializados en distintos servicios en el programa Proveedor de soluciones en la nube.
+title: "Multipartner | Centro de partners"
+description: "Es posible que un cliente quiera trabajar con varios partners especializados en distintos servicios en el programa Proveedor de soluciones en la nube."
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
-
 ---
 
 # Multipartner
@@ -34,7 +30,5 @@ La funcionalidad multipartner no sirve para:
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

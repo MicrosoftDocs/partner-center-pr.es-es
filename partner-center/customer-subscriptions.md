@@ -1,12 +1,8 @@
 ---
-title: Suscripciones de cliente | Centro de partners
+title: "Suscripciones de cliente | Centro de partners"
 description: "Los partners pueden vender suscripciones a los clientes y administrarlas a trav√©s del Centro de partners."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bf3ed3ab9e44253e4e46db3c331d14b11b33cfa4
-
 ---
 
 # Suscripciones de cliente
@@ -42,7 +38,5 @@ Los partners pueden vender suscripciones a los clientes y administrarlas a trav√
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

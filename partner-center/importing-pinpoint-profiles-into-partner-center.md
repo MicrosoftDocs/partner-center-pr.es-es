@@ -3,10 +3,6 @@ title: "Transición de Pinpoint al Centro de partners | Centro de partners"
 Description: "En esta página se describe información sobre cómo realizar la transición de Pinpoint al Centro de partners."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 86fc2844519317c9008721b2ccda5b586f72a727
-
 ---
 
 # Transición de Pinpoint al Centro de partners
@@ -20,10 +16,17 @@ Al importar tu perfil de Pinpoint, se retirará tu cuenta de Pinpoint y usarás 
 
 **Nota**  Toma nota de las referencias de clientes que tengas en tu cuenta de Pinpoint. No puedes importar información de referencias de Pinpoint al Centro de partners.
 
- 
+ **Información importante para los asociados que administran perfiles en Pinpoint**
 
-## <a href="" id="importpinpointprofiles"></a>
+Como sabrás, Microsoft está trabajando duro para crear una experiencia nueva y mejorada para los asociados en la publicación y mantenimiento de sus perfiles. Al final, se migrarán todos los perfiles de asociados a esta nueva experiencia y Pinpoint se desconectará posteriormente en 2017.
 
+Gracias por tu paciencia mientras se completa esta interesante actualización. Proporcionaremos actualizaciones y supervisión durante el proceso. Mientras tanto, ten en cuenta lo siguiente:
+
+-   Si no aparece tu perfil en [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) y te gustaría modificarlo, [inicia sesión](https://go.microsoft.com/fwlink/?linkid=838394) en esta herramienta.
+-   Si te has inscrito en el programa de [proveedor de servicios en la nube](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) de Microsoft, inicia sesión en el [Centro de partners](https://go.microsoft.com/fwlink/?linkid=838396). Puedes crear un nuevo perfil o importar tu perfil de Pinpoint existente. Ten en cuenta que todos los cambios de tu perfil deben realizarse antes de importarlo. Consulta la siguiente información para obtener más detalles.
+-   Si no puedes modificar tu perfil, ponte en contacto con tu [Centro de servicios regional](https://go.microsoft.com/fwlink/?linkid=838398). 
+
+**Opiniones de los clientes:** como parte de la transición planeada de Pinpoint al Centro de partners, se ha retirado la funcionalidad de opiniones de los clientes; los asociados ya no pueden obtener acceso a ellas. Se envió una comunicación a todos los asociados afectados a través de su contacto de correo electrónico designado antes de quitar la funcionalidad y las opiniones relacionadas. El plan actual es reemplazarla por un sistema más sólido y de confianza en el futuro.
 
 **Importar información del perfil de Pinpoint**
 
@@ -51,7 +54,5 @@ Para obtener más información sobre perfiles de marketing del Centro de partner
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

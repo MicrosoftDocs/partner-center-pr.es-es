@@ -3,10 +3,6 @@ title: "Migración de suscripciones de Dynamics AX a Dynamics 365 | Centro de pa
 description: "Microsoft presenta Dynamics 365, la próxima generación de aplicaciones empresariales inteligentes con las que tu organización podrá crecer, evolucionar y transformarse para satisfacer las necesidades de tus clientes y aprovechar nuevas oportunidades."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
-
 ---
 
 # Migración de suscripciones de Dynamics AX a Dynamics 365
@@ -117,7 +113,5 @@ Una vez que el cliente te acepte como su proveedor indirecto, los pasos de aprov
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

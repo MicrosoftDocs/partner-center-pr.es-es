@@ -3,10 +3,6 @@ title: "Usar los archivos de conciliación | Centro de partners"
 description: "Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
-
 ---
 
 # Usar los archivos de conciliación
@@ -59,7 +55,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 ## <a href="" id="licencebasedfiles"></a> Campos de archivo basados en licencia
 
 
-Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el identificador de suscripción del Centro de partners.
+Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el id. de suscripción del Centro de partners.
 
 <table>
 <colgroup>
@@ -467,7 +463,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>MeteredRegion</td>
 <td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
-<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE.UU., Centro-sur de EE.UU.</td>
+<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE. UU., Centro-sur de EE. UU.</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
@@ -502,7 +498,5 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

@@ -1,12 +1,8 @@
 ---
-title: Impuestos y exenciones fiscales | Centro de partners
-description: Como el Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners.
+title: "Impuestos y exenciones fiscales | Centro de partners"
+description: "Como el Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
-
 ---
 
 # Impuestos y exenciones fiscales
@@ -74,7 +70,5 @@ Como el Proveedor de soluciones en la nube es un canal de ventas centrado en la 
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

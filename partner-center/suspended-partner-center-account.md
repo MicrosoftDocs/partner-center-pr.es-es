@@ -1,12 +1,8 @@
 ---
-title: Restaurar una cuenta suspendida del Centro de partners | Centro de partners
+title: "Restaurar una cuenta suspendida del Centro de partners | Centro de partners"
 description: "Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión."
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: baafd51417845f4edd627a5fd71aceb6456ce3f5
-
 ---
 
 # Restaurar una cuenta suspendida del Centro de partners
@@ -37,7 +33,5 @@ Microsoft puede suspender una cuenta del Centro de partners por los siguientes m
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

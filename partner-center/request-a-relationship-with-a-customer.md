@@ -3,10 +3,6 @@ title: "Solicitar relación con un cliente | Centro de partners"
 description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
-
 ---
 
 # Solicitar relación con un cliente
@@ -40,7 +36,5 @@ Para volver a establecer los privilegios de administrador delegado que el client
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

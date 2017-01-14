@@ -1,12 +1,8 @@
 ---
-title: Cambiar suscripciones de Azure a otro partner | Centro de partners
+title: "Cambiar suscripciones de Azure a otro partner | Centro de partners"
 description: "Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
-
 ---
 
 # Cambiar suscripciones de Azure a otro partner
@@ -14,7 +10,7 @@ ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
 
 Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes.
 
-**Nota**  Actualmente no hay ningún proceso automático para clientes de Azure para cambiar de EA, Open u otros programas de licencias a CSP. Este es un proceso manual que requiere acciones de partners y clientes. Asimismo, por el momento no es posible cambiar los partners de las suscripciones de Proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft DynamicsCRM.
+**Nota**  Actualmente no hay ningún proceso automático para clientes de Azure para cambiar de EA, Open u otros programas de licencias a CSP. Este es un proceso manual que requiere acciones de partners y clientes. Asimismo, por el momento no es posible cambiar los partners de las suscripciones de Proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
  
 
@@ -56,15 +52,15 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
 6.  Nuevo partner de CSP:
 
-    Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos Commandlets de Powershell.
+    Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos commandlets de Powershell.
 
-    -   Agrega el nuevo partner como el revendedor de la cuenta:
+    -   Agrega el nuevo asociado como el revendedor de la cuenta:
 
         **PS C:\\&gt; Add-AzureRMAccount -tenant "CustomerDomainName"**
 
         Para encontrar el valor de customerDomainName: en el menú del Centro de partners, selecciona **Clientes**. En la lista de clientes, selecciona el cliente. En el menú del cliente, selecciona **Cuenta** y usa el valor de **Nombre de dominio**.
 
-    -   Observa los roles de la cuenta, incluidos los partners CSP anteriores:
+    -   Observa los roles de la cuenta, incluidos los asociados de CSP anteriores:
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
@@ -78,7 +74,5 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 

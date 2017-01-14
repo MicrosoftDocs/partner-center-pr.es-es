@@ -3,10 +3,6 @@ title: "Restablecer una contraseña de usuario | Centro de partners"
 description: "Si los usuarios olvidan la contraseña, puedes asignarles una contraseña temporal nueva. Pueden usarla la próxima vez que inicien sesión en el Centro de partners."
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
-
 ---
 
 # Restablecer una contraseña de usuario
@@ -36,7 +32,5 @@ Si los usuarios olvidan la contraseña, puedes asignarles una contraseña tempor
 
 
 
-
-<!--HONumber=Nov16_HO4-->
-
+<!--HONumber=Jan17_HO2-->
 
