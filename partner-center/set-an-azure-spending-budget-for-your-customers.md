@@ -1,14 +1,22 @@
 ---
-title: "Establecer un presupuesto de gastos de Azure para tus clientes | Centro de partners"
-description: "En el Centro de partners, puedes establecer un presupuesto mensual por cliente para que su factura de Azure no sea una sorpresa a final de mes."
+title: Establecer un presupuesto de gastos de Azure para tus clientes | Centro de partners
+description: En el Centro de partners, puedes establecer un presupuesto mensual por cliente para que su factura de Azure no sea una sorpresa a final de mes.
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
+
 ---
 
 # Establecer un presupuesto de gastos de Azure para tus clientes
 
+**Se aplica a**
 
-Para ayudar a los clientes a administrar sus gastos de Azure, puedes establecer una presupuesto de gastos mensuales para que su factura de Azure no sea mayor que lo previsto. Establecer un presupuesto de gastos de Azure te permite comparar los gastos de Azure de tus clientes con el presupuesto durante el mes. Con esta característica, puedes: 
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Para ayudar a los clientes a administrar sus gastos de Azure, puedes establecer un presupuesto de gastos mensuales para que su factura de Azure no sea mayor que lo previsto. Establecer un presupuesto de gastos de Azure te permite comparar los gastos de Azure de tus clientes con el presupuesto durante el mes. Con esta característica, puedes: 
 
 -   Recibir una notificación por correo electrónico si los gastos de un cliente se acercan al límite del presupuesto.
 -   Revisar los costos estimados de Azure de tus clientes por mes.
@@ -57,5 +65,7 @@ Los datos de gastos de Azure son una estimación, los importes de facturación r
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

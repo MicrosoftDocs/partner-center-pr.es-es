@@ -3,10 +3,18 @@ title: "Usar los archivos de conciliación | Centro de partners"
 description: "Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
+
 ---
 
 # Usar los archivos de conciliación
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
 
@@ -55,7 +63,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 ## <a href="" id="licencebasedfiles"></a> Campos de archivo basados en licencia
 
 
-Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el id. de suscripción del Centro de partners.
+Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el identificador de suscripción del Centro de partners.
 
 <table>
 <colgroup>
@@ -498,5 +506,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

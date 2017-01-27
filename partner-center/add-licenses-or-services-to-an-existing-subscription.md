@@ -3,10 +3,17 @@ title: "Agregar licencias o servicios a una suscripción existente | Centro de p
 description: "Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
+
 ---
 
 # Agregar licencias o servicios a una suscripción existente
 
+**Se aplica a**
+
+-  Centro de partners
 
 Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción. Para obtener más información, consulta [Cambiar a otro plan de Office 365 para empresas](http://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -90,5 +97,7 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

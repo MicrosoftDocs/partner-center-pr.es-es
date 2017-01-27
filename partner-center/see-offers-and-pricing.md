@@ -1,14 +1,22 @@
 ---
-title: "Ver ofertas y precios | Centro de partners"
-description: "Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube junto con los precios de los partners, ve al menú Panel y elige Precios y ofertas."
+title: Ver ofertas y precios | Centro de partners
+description: "Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube, junto con los precios para los partners, ve al menú Panel y elige Precios y ofertas."
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
+
 ---
 
 # Ver ofertas y precios
 
+**Se aplica a**
 
-Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube junto con los precios de los partners, ve al menú Panel y elige **Precios y ofertas**.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube, junto con los precios para los partners, ve al menú Panel y elige **Precios y ofertas**.
 
 ## Precios
 
@@ -34,5 +42,7 @@ Para los partners de CSP que usan los SDK del Centro de partners, Microsoft tamb
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

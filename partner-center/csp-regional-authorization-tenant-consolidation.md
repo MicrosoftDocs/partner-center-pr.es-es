@@ -3,12 +3,20 @@ title: "Consolidación de los inquilinos de autorización regional de CSP | Cent
 description: "Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
+
 ---
 
 # Consolidación de los inquilinos de autorización regional de CSP
 
+**Se aplica a**
 
-Parte de la información hace referencia al producto de versión preliminar, el cual puede sufrir importantes modificaciones antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, con respecto a la información que se ofrece aquí.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+\[Parte de la información hace referencia a la versión preliminar del producto, que puede sufrir modificaciones importantes antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
 
 Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
@@ -154,5 +162,7 @@ Con el registro de actividades, los partners pueden ver un registro de todos los
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

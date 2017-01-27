@@ -3,10 +3,17 @@ title: "Transición de Pinpoint al Centro de partners | Centro de partners"
 Description: "En esta página se describe información sobre cómo realizar la transición de Pinpoint al Centro de partners."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
+
 ---
 
 # Transición de Pinpoint al Centro de partners
 
+**Se aplica a**
+
+-  Centro de partners
 
 En esta página se describe información sobre cómo realizar la transición de Pinpoint al Centro de partners. Importar los perfiles de Pinpoint es el paso de transición principal para usar el Centro de partners. Importa tus perfiles de marketing de Pinpoint para usarlos como tu perfil de marketing del Centro de partners.
 
@@ -54,5 +61,7 @@ Para obtener más información sobre perfiles de marketing del Centro de partner
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

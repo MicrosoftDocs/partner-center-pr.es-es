@@ -3,10 +3,18 @@ title: "Solicitar relación con un cliente | Centro de partners"
 description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
+
 ---
 
 # Solicitar relación con un cliente
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 La solicitud de relación con un cliente se usa para los escenarios [multipartner](multipartner.md) y [multicanal](multichannel.md). También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
 
@@ -36,5 +44,7 @@ Para volver a establecer los privilegios de administrador delegado que el client
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

@@ -1,12 +1,20 @@
 ---
-title: "Leer factura | Centro de partners"
+title: Leer factura | Centro de partners
 description: "La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
+
 ---
 
-# Leer factura
+# Leer tu factura
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners.
 
@@ -110,5 +118,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

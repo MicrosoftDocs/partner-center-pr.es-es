@@ -1,12 +1,19 @@
 ---
-title: "Crear varios usuarios para una cuenta de cliente | Centro de partners"
-description: "Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv)."
+title: Crear varios usuarios para una cuenta de cliente | Centro de partners
+description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv).
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
+
 ---
 
-# Crear varios usuarios para una cuenta de cliente
+# Agregar varios usuarios a una cuenta de cliente
 
+**Se aplica a**
+
+-  Centro de partners
 
 Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv). Puedes descargar un archivo de datos de ejemplo del Centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
 
@@ -30,7 +37,7 @@ Escribe los siguientes datos en el archivo de datos:
 | Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
 | Nombre para mostrar    | El nombre que aparecerá en el Centro de partners (campo obligatorio).                            | Límite de 50 caracteres                         |
 | Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
-| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | Dejar vacío                        |
+| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
 
  
 
@@ -64,5 +71,7 @@ El Centro de partners asigna automáticamente los permisos de **Puede usar licen
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

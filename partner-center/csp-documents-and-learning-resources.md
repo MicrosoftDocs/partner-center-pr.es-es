@@ -1,12 +1,20 @@
 ---
-title: "Contratos de CSP, listas de precios y ofertas | Centro de partners"
-description: "Microsoft publica muchos documentos que los partners de CSP necesitan para decidir si quieren inscribirse en el programa, inscribir nuevos clientes, vender productos y servicios Microsoft a los clientes y conciliar su factura."
+title: Contratos de CSP, listas de precios y ofertas | Centro de partners
+description: Microsoft publica muchos documentos que los partners de CSP necesitan para decidir si quieren inscribirse en el programa, inscribir nuevos clientes, vender productos y servicios Microsoft a los clientes y conciliar su factura.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
+
 ---
 
 # Contratos, listas de precios y ofertas de CSP
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Microsoft publica muchos documentos que los partners de CSP necesitan para decidir si quieren inscribirse en el programa, inscribir nuevos clientes, vender productos y servicios Microsoft a los clientes y conciliar su factura.
 
@@ -47,12 +55,14 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Contrato de revendedores de soluciones en la nube de Microsoft: Taiwán](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
+[Contrato de revendedores de soluciones en la nube de Microsoft: Microsoft Cloud Alemania](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
 ## <a href="" id="customeragreementtemplate"></a>Plantilla de contrato de cliente
 
 
-Los partners son responsables de garantizar que los clientes comprenden y aceptan los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Proporcionamos a los asociados una plantilla para el material que deben cubrir cuando inscriben un cliente nuevo.
+Los partners son responsables de garantizar que los clientes comprendan y acepten los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Proporcionamos a los asociados una plantilla para el material que deben cubrir cuando inscriben un cliente nuevo.
 
-[Plantillas de acuerdo de cliente](agreements.md)
+[Plantillas de acuerdos de cliente](agreements.md)
 
 ## Precios
 
@@ -78,5 +88,7 @@ Para los partners de CSP que usan la API de registro de uso CREST, Microsoft tam
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

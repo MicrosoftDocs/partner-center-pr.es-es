@@ -1,12 +1,19 @@
 ---
-title: "Cambiar suscripciones de Azure a otro partner | Centro de partners"
+title: Cambiar suscripciones de Azure a otro partner | Centro de partners
 description: "Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
+
 ---
 
-# Cambiar suscripciones de Azure a otro partner
+# Cambiar las suscripciones de Azure a otro partner
 
+**Se aplica a**
+
+-  Centro de partners
 
 Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes.
 
@@ -52,15 +59,15 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
 6.  Nuevo partner de CSP:
 
-    Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos commandlets de Powershell.
+    Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos Commandlets de Powershell.
 
-    -   Agrega el nuevo asociado como el revendedor de la cuenta:
+    -   Agrega el nuevo partner como el revendedor de la cuenta:
 
         **PS C:\\&gt; Add-AzureRMAccount -tenant "CustomerDomainName"**
 
         Para encontrar el valor de customerDomainName: en el menú del Centro de partners, selecciona **Clientes**. En la lista de clientes, selecciona el cliente. En el menú del cliente, selecciona **Cuenta** y usa el valor de **Nombre de dominio**.
 
-    -   Observa los roles de la cuenta, incluidos los asociados de CSP anteriores:
+    -   Observa los roles de la cuenta, incluidos los partners CSP anteriores:
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
@@ -74,5 +81,7 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

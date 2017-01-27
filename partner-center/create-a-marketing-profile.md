@@ -1,12 +1,19 @@
 ---
-title: "Crear un perfil de marketing | Centro de partners"
+title: Crear un perfil de marketing | Centro de partners
 description: "Cada año, en Microsoft atraemos a millones de clientes potenciales cualificados a nuestras propiedades web."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
+
 ---
 
 # Crear un perfil de marketing
 
+**Se aplica a**
+
+-  Centro de partners
 
 Cada año, en Microsoft atraemos a millones de clientes potenciales cualificados a nuestras propiedades web. Podemos ayudarte a hacer crecer tu mercado distribuyendo las soluciones a los clientes. Las referencias de Microsoft te ayudarán a conectarte con clientes que buscan tus soluciones únicas para satisfacer sus necesidades empresariales. Para participar, crea un perfil de marketing en el Centro de partners.
 
@@ -83,5 +90,7 @@ Gracias por tu paciencia mientras se completa esta interesante actualización. P
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

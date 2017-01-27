@@ -1,8 +1,7 @@
-
 # [Inscríbete en el programa CSP](enrolling-in-the-csp-program.md)
 ## [Contratos, listas de precios y ofertas de CSP](csp-documents-and-learning-resources.md)
 # [Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
-## [Actualizar perfil de asociado](update-your-partner-profile.md)
+## [Actualizar el perfil de partner](update-your-partner-profile.md)
 ## [Transición de Pinpoint al Centro de partners](importing-pinpoint-profiles-into-partner-center.md)
 ## [Crear un perfil de marketing](create-a-marketing-profile.md)
 ## [Crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md)
@@ -13,7 +12,7 @@
 # [Facturación](billing.md)
 ## [Leer tu factura](read-your-bill.md)
 ## [Usar los archivos de conciliación](use-the-reconciliation-files.md)
-## [Impuestos y exenciones de impuestos](tax-and-tax-exemptions.md)
+## [Impuestos y exenciones fiscales](tax-and-tax-exemptions.md)
 ## [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
 ## [Escenarios comunes de facturación](common-billing-scenarios.md)
 ## [Impago, fraude o uso incorrecto](non-payment--fraud--or-misuse.md)
@@ -21,7 +20,7 @@
 # [Cuentas de cliente](customer-accounts.md)
 ## [Consultar la lista de clientes](see-your-customer-list.md)
 ## [Agregar un cliente nuevo](add-a-new-customer.md)
-## [Cambiar suscripciones de Azure a otro partner](switch-azure-subscriptions-to-a-different-partner.md)
+## [Cambiar las suscripciones de Azure a otro partner](switch-azure-subscriptions-to-a-different-partner.md)
 ## [Actualizar la información de la cuenta de cliente](update-customer-account-info.md)
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 # [Suscripciones de cliente](customer-subscriptions.md)
@@ -39,18 +38,23 @@
 ## [Multipartner](multipartner.md)
 ## [Solicitar relación con un cliente](request-a-relationship-with-a-customer.md)
 # [Soporte técnico de Microsoft](support-from-microsoft--.md)
-## [Comprueba el estado del servicio](check-service-health.md)
-## [Notifica los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
-## [Notifica problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
-## [Obtener las notificaciones de estado de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
+## [Comprobar el estado del servicio](check-service-health.md)
+## [Notificar los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
+## [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
+## [Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
 # [Soporte al cliente](customer-support.md)
-## [Proporcionar soporte técnico para la facturación](provide-billing-support.md)
-## [Proporciona soporte técnico](provide-technical-support.md)
+## [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
+## [Proporcionar soporte técnico](provide-technical-support.md)
 ## [Comunicación con el cliente de Microsoft](customer-communication-from-microsoft.md)
 ## [Autoservicio de soporte técnico al cliente](customer-self-support.md)
 ## [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md)
-# [Plantillas de contrato de cliente](agreements.md)
+# [Plantillas de acuerdos de cliente](agreements.md)
+# [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md)
+## [Inscribirse en el Centro de partners para Microsoft Cloud Alemania](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania](user-management-in-partner-center-for-microsoft-cloud-germany.md)
+
 
 
 <!--HONumber=Jan17_HO2-->
+
 

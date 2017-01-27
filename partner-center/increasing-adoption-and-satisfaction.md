@@ -1,14 +1,21 @@
 ---
 title: "Aumentar la adopción y la satisfacción | Centro de partners"
-description: "Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre cómo y si los clientes están usando las licencias que adquirieron."
+description: "Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
+
 ---
 
 # Aumentar la adopción y la satisfacción
 
+**Se aplica a**
 
-Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre cómo y si los clientes están usando las licencias que adquirieron. Esta información está disponible para los productos de Office (incluidos OneDrive Empresarial junto con SharePoint).
+-  Centro de partners
+
+Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan. Esta información está disponible para los productos de Office (incluidos OneDrive Empresarial junto con SharePoint).
 
 Puedes ver los datos de todos los clientes a través del programa Proveedor de soluciones en la nube. Ten en cuenta que algunos clientes pueden comprar licencias de otros partners o directamente de Microsoft. En ese caso, verás el total de licencias de todos los partners. Para ver solo tu propias licencias, consulta las suscripciones del cliente en su lugar.
 
@@ -78,5 +85,7 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

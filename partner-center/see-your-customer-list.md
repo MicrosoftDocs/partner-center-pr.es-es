@@ -1,14 +1,22 @@
 ---
-title: "Administrar la lista de clientes | Centro de partners"
-description: "Los registros de cliente son unos los activos de información más importantes del Centro de partners."
+title: Administrar la lista de clientes | Centro de partners
+description: "Los registros de cliente son unos de los recursos de información más importantes del Centro de partners."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
+
 ---
 
 # Administrar la lista de clientes
 
+**Se aplica a**
 
-Los registros de cliente son unos los activos de información más importantes del Centro de partners. Puedes buscar en la base de datos de cuentas de cliente, exportar la base de datos de clientes completa o un subconjunto a un formato de archivo de valores separados por comas (.csv) compatible con Excel. También puedes exportar información de las suscripciones de un cliente a un archivo .csv.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Los registros de cliente son unos de los recursos de información más importantes del Centro de partners. Puedes buscar en la base de datos de cuentas de cliente, exportar la base de datos de clientes completa o un subconjunto a un formato de archivo de valores separados por comas (.csv) compatible con Excel. También puedes exportar información de las suscripciones de un cliente a un archivo .csv.
 
 Los registros de actividad también proporcionan datos exportables sobre transacciones y acciones de administración para los clientes. Para obtener más información, consulta [Ver los registros de actividades de los cliente](#pc-cloud-sltn-provider-activity-logs).
 
@@ -67,5 +75,7 @@ Para obtener más información, consulta las siguientes secciones:
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

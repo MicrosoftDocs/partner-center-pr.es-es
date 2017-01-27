@@ -1,12 +1,19 @@
 ---
-title: "Asignar o revocar licencias a varios usuarios | Centro de partners"
-description: "Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios."
+title: Asignar o revocar licencias a varios usuarios | Centro de partners
+description: Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
+
 ---
 
 # Asignar o revocar licencias a varios usuarios
 
+**Se aplica a**
+
+-  Centro de partners
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
@@ -80,5 +87,7 @@ El Centro de partners realiza un seguimiento y muestra todos los derechos de lic
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

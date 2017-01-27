@@ -3,12 +3,21 @@ title: "Restablecer una contraseña de usuario | Centro de partners"
 description: "Si los usuarios olvidan la contraseña, puedes asignarles una contraseña temporal nueva. Pueden usarla la próxima vez que inicien sesión en el Centro de partners."
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
+
 ---
 
 # Restablecer una contraseña de usuario
 
+**Se aplica a**
 
-Si los usuarios olvidan la contraseña, puedes asignarles una contraseña temporal nueva. Pueden utilizarla la próxima vez que inicien sesión en el Centro de partners.
+-  Centro de partners
+   
+>**Nota** Si estás inscrito en el programa Proveedor de soluciones en la nube (CSP) de Microsoft Cloud Alemania, consulta [Administración de usuarios en el Centro de partners para Microsoft Cloud Alemania](user-management-in-partner-center-for-microsoft-cloud-germany.md) para obtener información sobre cómo restablecer la contraseña de un usuario.
+
+Si los usuarios olvidan su contraseña, puedes asignarles una contraseña temporal. Pueden usarla la próxima vez que inicien sesión en el Centro de partners.
 
 **Restablecer una contraseña de usuario como administrador**
 
@@ -21,16 +30,19 @@ Si los usuarios olvidan la contraseña, puedes asignarles una contraseña tempor
 
 **Restablece tu propia contraseña**
 
-1.  Inicia sesión en el Centro de partners. A continuación, selecciona tu nombre en la parte superior de la pantalla y elige **Mi perfil**.
-2.  Puedes ver tus propias funciones y ver las instrucciones para cambiar de contraseña.
+1.  Inicia sesión en el Centro de partners. A continuación, selecciona tu nombre en la parte superior de la pantalla y selecciona **Mi perfil**.
+
+2.  Puedes ver tus propios roles y ver las instrucciones para cambiar de contraseña.
 
  
 
  
+
 
 
 
 
 
 <!--HONumber=Jan17_HO2-->
+
 

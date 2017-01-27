@@ -1,14 +1,24 @@
 ---
 title: "Inscríbete en el programa CSP | Centro de partners"
-description: 'Antes de inscribirte en el programa Proveedor de soluciones en la nube, obtén más información sobre los Requisitos del programa CSP.'
+description: "Antes de inscribirte en el programa Proveedor de soluciones en la nube, obtén más información sobre los requisitos del programa CSP."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
+
 ---
 
-# Inscríbete en el programa CSP
+# Inscribirse en el programa Proveedor de soluciones en la nube
 
+**Se aplica a**
 
-Antes de inscribirte en el programa Proveedor de soluciones en la nube, obtén más información sobre los [Requisitos del programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
+-  Centro de partners
+
+>**Nota**<br>
+Para obtener información sobre la inscripción en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania, consulta [Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania](enroll-in-csp-for-microsoft-cloud-germany.md) y [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md).
+
+Antes de inscribirte en el programa Proveedor de soluciones en la nube (CSP), obtén más información sobre los [requisitos del programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116).
 
 Para obtener más información sobre el contrato de partner y otros requisitos del programa, consulta [Contratos, precios, listas y ofertas CSP](csp-documents-and-learning-resources.md).
 
@@ -54,5 +64,7 @@ Ten en cuenta que tu dirección de correo de autenticadas por AD Azure existente
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 

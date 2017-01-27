@@ -1,14 +1,22 @@
 ---
 title: "Facturación | Centro de partners"
-Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencias y basadas en uso de tus clientes."
+Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
+translationtype: Human Translation
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
+
 ---
 
 # Facturación
 
+**Se aplica a**
 
-Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencias y basadas en uso de tus clientes.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
 
 Para la facturación, ve al menú **Panel**, a continuación, selecciona **Facturación**. Esta página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
 
@@ -24,7 +32,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 
 [Usar los archivos de conciliación](use-the-reconciliation-files.md)
 
-[Impuestos y exenciones de impuestos](tax-and-tax-exemptions.md)
+[Impuestos y exenciones fiscales](tax-and-tax-exemptions.md)
 
 [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
 
@@ -190,5 +198,7 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 
 
 
+
 <!--HONumber=Jan17_HO2-->
+
 
