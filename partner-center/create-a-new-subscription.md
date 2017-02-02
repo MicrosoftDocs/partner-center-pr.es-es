@@ -4,13 +4,17 @@ description: "Después de crear un registro del cliente en el Centro de partners
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 57f9cd6572f656cd43594a606d39942b5fdc724e
-ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
 ---
 
 # Crear una suscripción nueva
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 
@@ -22,13 +26,15 @@ Después de crear un registro del cliente en el Centro de partners, puedes vende
 4.  Después de agregar la suscripción, ábrela haciendo clic en el nombre de la suscripción en la lista de suscripciones. En esta página de edición, puedes seleccionar licencias de complementos, si están disponibles.
 5.  En la página de edición también puedes cambiar la cantidad de licencias o suspender la suscripción.
 
-**Permitir al cliente administrar su suscripción de Azure**
+**Permitir a los clientes administrar sus suscripciones de Azure**
 
-1.  Como el Administrador de CSP, crea una suscripción de Azure para el cliente (consulta **Crear una suscripción nueva** anteriormente).
-2.  Usa la Administración en nombre de (AOBO) en el Portal de Azure del cliente desde la página **Administración de servicios** o desde la lista de clientes. (Como parte de la AOBO, la dirección URL contiene un inquilino de destino, para que el Portal de Azure sepa que el usuario pertenece al inquilino de CSP pero está accediendo al cliente).
-3.  En la lista de suscripciones, selecciona la suscripción de Azure del cliente.
-4.  Asigna un rol a cualquiera de los usuarios del cliente para que pueda crear y administrar recursos con su suscripción. (Aunque los usuarios del cliente pueden administrar los recursos con su suscripción, el partner sigue siendo el responsable financiero).
+Después de crear una suscripción de Microsoft Azure para un cliente, puedes permitirles administrar la suscripción. Para ello, debes iniciar sesión en el Portal de administración de Microsoft Azure del cliente. 
 
+1.  Para abrir el Azure Portal del cliente, expande el listado del cliente en tu lista de clientes o selecciona el nombre del cliente y, después, selecciona **Portal de administración de Microsoft Azure**.
+    
+    **Nota**  Si se te solicita iniciar sesión en Azure Portal, puede que no tengas privilegios administrativos delegados. Selecciona **Solicitar una relación** para invitar al cliente a identificarte como su asociado de registro. Una vez que el cliente acepte tu invitación, se te conceden automáticamente privilegios administrativos delegados. 
+2.  En el Azure Portal, abre la lista de suscripciones del cliente y selecciona la suscripción de Azure del cliente.
+3.  Asigna un rol a cualquiera de los usuarios del cliente para que pueda crear y administrar recursos con su suscripción.
 
  
 
@@ -37,6 +43,6 @@ Después de crear un registro del cliente en el Centro de partners, puedes vende
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

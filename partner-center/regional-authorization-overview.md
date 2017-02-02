@@ -4,22 +4,23 @@ description: "Con la autorización regional, los partners con empresas internaci
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4e069db47de242d8aa3807bc238c5f213c26a1fd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 ---
 
 # Autorización regional de CSP
 
 
-\[Parte de la información hace referencia a la versión preliminar del producto, el cual puede sufrir importantes modificaciones antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
+\[Parte de la información hace referencia a la versión preliminar del producto, que puede sufrir modificaciones importantes antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
 
 Con la autorización regional, los partners con empresas internacionales ahora pueden administrar más fácilmente los clientes de diferentes regiones y países de todo el mundo. Esto reduce el número de inquilinos que los partners deben administrar, reduce las fechas de facturación que los partners tienen para controlar y ofrece a los partners una vista más consolidada de sus ventas.
 
-En el pasado, a excepción de la Unión Europea y AELC, los partners necesitaban tener una entidad física en cada país donde querían realizar transacciones. Esto significa que los partners necesitaban tener varios inquilinos configurados en el Centro de partners con varias fechas de facturación y otras opciones de configuración. En regiones como América Latina, los partners no podían trabajar fácilmente con clientes de regiones o países vecinos y, en algunos casos, se les restringió completamente las transacciones.
+En el pasado, a excepción de la Unión Europea y AELC, los partners necesitaban tener una entidad física en cada país donde querían realizar transacciones. Esto significa que los partners necesitaban tener varios inquilinos configurados en el Centro de partners con varias fechas de facturación y otras opciones de configuración. En regiones como América Latina, los partners no podían trabajar fácilmente con clientes de regiones o países vecinos y, en algunos casos, se les restringieron completamente las transacciones.
 
-## Planeación
+>**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
+## Planificación
 
 Los partners tienen varias opciones para consolidar sus inquilinos regionales, tal como se describe a continuación.
 
@@ -141,11 +142,8 @@ Si quieres consolidar inquilinos, te recomendamos lo siguiente:
 
 -   **Varias regiones o países, pero con transacciones solo en uno**. Si solo realizas transacciones en un país o región, pero tienes otros inquilinos configurados, usa el inquilino de transacciones como tu nuevo inquilino centralizado para esa región y cancela tus otros inquilinos.
 
--   **Varios países o regiones, pero con transacciones solo en uno.** Si realizas transacciones en un número de regiones o países, te recomendamos que centralices en el inquilino con el mayor número de puestos. Deberías cancelar las suscripciones en los países o regiones donde haya las cantidades más pequeñas de puestos.
+-   **Varios países o regiones, pero con transacciones solo en uno.** Si realizas transacciones en un número de regiones o países, te recomendamos que centralices en el inquilino con el mayor número de puestos. Deberías cancelar las suscripciones en los países o las regiones donde haya las cantidades más pequeñas de puestos.
 
-    **Nota**  Revisa las instrucciones para cancelar la suscripción en [Consolidación de los inquilinos de autorización regional de CSP](csp-regional-authorization-tenant-consolidation.md) antes de cancelar las suscripciones.
-
-     
 
 ## Información de país o región
 
@@ -160,11 +158,14 @@ Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
 
 -   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá clientes situados en cualquier país o región de la siguiente lista: Argentina, Bahamas, Barbados, Belice, Bolivia, Bermudas, Islas Caimán, Chile, Colombia, Costa Rica, Curaçao, República Dominicana, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú, Puerto Rico, San Cristóbal y Nieves, Trinidad y Tobago, Uruguay, Venezuela, Islas Vírgenes.
 
--   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Austria, Bélgica, Bulgaria, Croacia, Chipre, República Checa, Dinamarca, Estonia, Islas Feroe, Finlandia, Francia, Alemania, Grecia, Hungría, Islandia, Irlanda, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Países Bajos, Noruega, Polonia, Portugal, Rumanía, Eslovaquia, Eslovenia, España, Suecia, Suiza, Reino Unido
+-   **Si la ubicación de venta de Microsoft es un país o una región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Alemania, Austria, Bélgica, Bulgaria, Croacia, Chipre, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Islandia, Islas Feroe, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Países Bajos, Noruega, Polonia, Portugal, Reino Unido, República Checa, Rumania, Suecia, Suiza
 
--   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Afganistán, Albania, Argelia, Armenia, Azerbaiyán, Bahréin, Bielorrusia, Bosnia y Herzegovina, Egipto, Georgia, Irak, Israel, Jordania, Kazajistán, Kuwait, Kirguistán, Líbano, Libia, República de Macedonia (ex-República Yugoslava de Macedonia), Moldova, Mongolia, Montenegro, Marruecos, Omán, Pakistán, Autoridad Palestina, Qatar, Arabia Saudí, Serbia, Sudáfrica, Tayikistán, Túnez, Turquía, Turkmenistán, Ucrania, Emiratos Árabes Unidos, Uzbekistán, Yemen, Zimbabue
+    >**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
--   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Angola, Botsuana, Camerún, Cabo Verde, Costa de Marfil, Etiopía, Ghana, Kenia, Mauricio, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia
+
+-   **Si la ubicación de venta de Microsoft es un país o una región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Afganistán, Albania, Arabia Saudí, Argelia, Armenia, Autoridad Palestina, Azerbaiyán, Baréin, Belarús, Bosnia y Herzegovina, Catar, Egipto, Emiratos Árabes Unidos, Georgia, Irak, Israel, Jordania, Kazajistán, Kirguistán, Kuwait, Líbano, Libia, Marruecos, Moldova, Mongolia, Montenegro, Omán, Pakistán, República de Macedonia (ex-República Yugoslava de Macedonia), Serbia, Sudáfrica, Tayikistán, Túnez, Turkmenistán,Turquía, Ucrania, Uzbekistán, Yemen, Zimbabue
+
+-   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Angola, Botsuana, Camerún, Cabo Verde, Côte d'Ivoire, Etiopía, Ghana, Kenia, Mauricio, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia
 
 -   **Si la ubicación de venta de Microsoft es Rusia**, tu territorio incluirá los clientes situados en Rusia.
 
@@ -191,6 +192,6 @@ Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

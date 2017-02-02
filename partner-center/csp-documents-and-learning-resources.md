@@ -4,13 +4,17 @@ description: Microsoft publica muchos documentos que los partners de CSP necesit
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # Contratos, listas de precios y ofertas de CSP
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Microsoft publica muchos documentos que los partners de CSP necesitan para decidir si quieren inscribirse en el programa, inscribir nuevos clientes, vender productos y servicios Microsoft a los clientes y conciliar su factura.
 
@@ -51,17 +55,19 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Contrato de revendedores de soluciones en la nube de Microsoft: Taiwán](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
+[Contrato de revendedores de soluciones en la nube de Microsoft: Microsoft Cloud Alemania](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
 ## <a href="" id="customeragreementtemplate"></a>Plantilla de contrato de cliente
 
 
-Los partners son responsables de garantizar que los clientes comprenden y aceptan los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Proporcionamos a los partners una plantilla para el material que deben cubrir cuando inscriben un cliente nuevo.
+Los partners son responsables de garantizar que los clientes comprendan y acepten los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Proporcionamos a los asociados una plantilla para el material que deben cubrir cuando inscriben un cliente nuevo.
 
-[Plantilla de contrato de cliente](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[Plantillas de acuerdos de cliente](agreements.md)
 
 ## Precios
 
 
-Puedes descargar detalles sobre los precios para partners en la página **Ventas**. Hay dos listas de precios separadas: una para los servicios basados en licencias, por ejemplo Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM y otra para los servicios basados en uso, por ejemplo, Microsoft Azure.
+Puedes descargar detalles sobre los precios para asociados en la página **Ventas**. Hay dos listas de precios separadas: una para los servicios basados en licencias, por ejemplo Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM y otra para los servicios basados en uso, por ejemplo, Microsoft Azure.
 
 La lista de precios basados en licencias se actualiza mensualmente y Microsoft publica nuevos precios 30 días antes de entren en vigor.
 
@@ -83,6 +89,6 @@ Para los partners de CSP que usan la API de registro de uso CREST, Microsoft tam
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

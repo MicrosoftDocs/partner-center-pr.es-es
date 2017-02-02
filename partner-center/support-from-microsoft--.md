@@ -4,33 +4,37 @@ description: Cuando se producen problemas con un servicio Microsoft o con el Cen
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d39eb07b6c26908a956b8db6c7e1e5da349fe445
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
 
 ---
 
 # Soporte técnico de Microsoft
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Cuando se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 
-[Comprueba el estado del servicio](check-service-health.md)
+[Comprobar el estado del servicio](check-service-health.md)
 
-[Notifica los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
+[Notificar los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
 
-[Notifica problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
+[Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
 
-[Obtener las notificaciones de estado de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
-
- 
+[Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
 
  
 
+ 
 
 
 
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

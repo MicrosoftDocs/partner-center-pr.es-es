@@ -4,13 +4,17 @@ description: "Para poder vender suscripciones, administrar la facturación o pro
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
 # Agregar un cliente nuevo
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Para poder vender suscripciones, administrar la facturación o proporcionar soporte técnico, antes debes crear un registro de clientes en el Centro de partners. Esto incluye su información de contacto y un dominio de Azure AD.
 
@@ -35,6 +39,6 @@ Para revisar los datos del cliente más adelante, incluida la adición de licenc
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

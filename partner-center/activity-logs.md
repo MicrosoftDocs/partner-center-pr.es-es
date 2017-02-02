@@ -4,13 +4,17 @@ description: "Los registros de actividades proporcionan información sobre las t
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # Ver los registros de actividades de los clientes
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes. Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas. También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.
 
@@ -42,6 +46,6 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

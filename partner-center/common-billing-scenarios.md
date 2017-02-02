@@ -4,13 +4,17 @@ description: "En este tema se explica qué debes esperar ver en tu factura despu
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # Escenarios comunes de facturación
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de puestos de una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se verán afectadas de forma diferente.
 
@@ -78,7 +82,7 @@ En los meses que no haya cambios en las suscripciones basadas en licencia, se mo
 <li>Del 8 de junio al 11 de junio para 20 puestos = cargo CERO</li>
 <li>Del 12 de junio al 14 de junio por 15 puestos = cargo CERO</li>
 </ul>
-<p>Fecha límite de facturación: cargo anticipado para el período de mes completo desde el 15 de junio hasta el 14 de julio para 15 puestos. Si el cargo por suscripción mensual es 10USD, el costo sería 10USD x 15 puestos = 150USD.</p></td>
+<p>Fecha límite de facturación: cargo anticipado para el período de mes completo desde el 15 de junio hasta el 14 de julio para 15 puestos. Si el cargo por suscripción mensual es 10 USD, el costo sería 10 USD x 15 puestos = 150 USD.</p></td>
 </tr>
 <tr class="odd">
 <td>Suscripción existente: aumento o reducción de la cantidad de licencias</td>
@@ -90,13 +94,13 @@ En los meses que no haya cambios en las suscripciones basadas en licencia, se mo
 </ul></td>
 <td><p>Uso prorrateado:</p>
 <ul>
-<li>Del 15 de julio al 19 de julio por 15 puestos = 26,61USD</li>
-<li>Del 20 de julio al 30 de julio por 12 puestos = 46,84USD</li>
-<li>Del 31 de julio al 9 de agosto por 18 puestos = 63,87USD</li>
-<li>Del 10 de agosto al 14 de agosto por 10 puestos = 17,74USD</li>
+<li>Del 15 de julio al 19 de julio por 15 puestos = 26,61 USD</li>
+<li>Del 20 de julio al 30 de julio por 12 puestos = 46,84 USD</li>
+<li>Del 31 de julio al 9 de agosto por 18 puestos = 63,87 USD</li>
+<li>Del 10 de agosto al 14 de agosto por 10 puestos = 17,74 USD</li>
 </ul>
-La inversión del cargo anticipado para el período de mes completo desde el 15 de julio hasta el 14 de agosto =-165USD.
-<p>Fecha límite de facturación: cargo anticipado para el período de mes completo desde el 15 de agosto hasta el 14 de septiembre para 10 puestos = 110USD.</p></td>
+La inversión del cargo anticipado para el período de mes completo desde el 15 de julio hasta el 14 de agosto =-165 USD.
+<p>Fecha límite de facturación: cargo anticipado para el período de mes completo desde el 15 de agosto hasta el 14 de septiembre para 10 puestos = 110 USD.</p></td>
 </tr>
 <tr class="even">
 <td>Cancelación: no hay cambios de asientos anteriores</td>
@@ -106,7 +110,7 @@ La inversión del cargo anticipado para el período de mes completo desde el 15 
 </ul></td>
 <td>Previously billed advance charge: August 15th to September 14th for 10 seats = 100 USD.
 <p>Parte consumida del cargo anticipado desde el 15 de agosto hasta el 24 de agosto.</p>
-<p>Crédito por días sin usar: del 25 de agosto al 14 de septiembre por 10 puestos =-74,51USD.</p></td>
+<p>Crédito por días sin usar: del 25 de agosto al 14 de septiembre por 10 puestos =-74,51 USD.</p></td>
 </tr>
 <tr class="odd">
 <td>Cancelación: con cambios de puestos anteriores</td>
@@ -116,14 +120,14 @@ La inversión del cargo anticipado para el período de mes completo desde el 15 
 <li>cargos por uso prorrateado</li>
 <li>un crédito por días no usados</li>
 </ul></td>
-<td>Cargo anticipado facturado anteriormente: del 15 de agosto al 14 de septiembre por 10 puestos = 100USD.
+<td>Cargo anticipado facturado anteriormente: del 15 de agosto al 14 de septiembre por 10 puestos = 100 USD.
 <p>Uso prorrateado:</p>
 <ul>
 <li>Del 15 de agosto al 24 de agosto por 10 puestos</li>
 <li>Del 25 de agosto al 14 de septiembre por 5 puestos</li>
 </ul>
 <p>Crédito por días sin usar: del 1 de septiembre al 14 de septiembre por 5 puestos.</p>
-<p>La inversión del cargo anticipado para el período de mes completo desde el 15 de agosto hasta el 14 de septiembre =-100USD.</p></td>
+<p>La inversión del cargo anticipado para el período de mes completo desde el 15 de agosto hasta el 14 de septiembre =-100 USD.</p></td>
 </tr>
 </tbody>
 </table>
@@ -139,6 +143,6 @@ La inversión del cargo anticipado para el período de mes completo desde el 15 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

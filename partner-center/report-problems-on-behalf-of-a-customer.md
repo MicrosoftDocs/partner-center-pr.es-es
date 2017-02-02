@@ -1,18 +1,22 @@
 ---
 title: Notificar problemas en nombre de un cliente | Centro de partners
-Description: "Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte técnico."
+Description: Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
 # Notificar problemas en nombre de un cliente
 
+**Se aplica a**
 
-Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte técnico. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
 **Enviar una solicitud de servicio para un cliente**
 
@@ -88,6 +92,6 @@ Si inicias sesión en el Centro de administración de Office 365 directamente, v
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

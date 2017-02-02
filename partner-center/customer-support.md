@@ -4,15 +4,19 @@ description: "Eres el primer punto de contacto para tus clientes y se espera que
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # Soporte al cliente
 
+**Se aplica a**
 
-Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y cuenta, como los siguientes:
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y de cuenta, como los siguientes:
 
 -   Soporte técnico para suscripciones y facturación
 
@@ -53,6 +57,6 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

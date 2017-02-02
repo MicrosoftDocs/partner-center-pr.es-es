@@ -1,18 +1,22 @@
 ---
 title: Actualizar perfil de partner | Centro de partners
-description: "La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte son correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles."
+description: "La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
-# Actualizar perfil de partner
+# Actualizar el perfil de partner
 
+**Se aplica a**
 
-La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte son correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
 
 **Actualizar detalles de soporte**
 
@@ -38,6 +42,6 @@ La primera vez que inicies sesión en el Centro de partners como administrador, 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

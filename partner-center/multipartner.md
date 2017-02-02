@@ -4,13 +4,17 @@ description: Es posible que un cliente quiera trabajar con varios partners espec
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # Multipartner
 
+**Se aplica a**
+
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
 
 Es posible que un cliente quiera trabajar con varios partners especializados en distintos servicios en el programa Proveedor de soluciones en la nube. Por ejemplo, un partner de Office 365 y otro partner de Microsoft Azure. O bien, en una suscripción única de Office 365, un partner de Exchange Online y otro de SharePoint Online.
 
@@ -35,6 +39,6 @@ La funcionalidad multipartner no sirve para:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

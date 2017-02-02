@@ -1,18 +1,21 @@
 ---
 title: Obtener notificaciones de servicio automatizadas con nuestras API | Centro de partners
-description: Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio en tiempo real, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado.
+description: Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado en tiempo real.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 3e61c181c450cb31e167ce3cb8063886ce521aa7
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
 
 ---
 
 # Obtener notificaciones de servicio automatizadas con nuestras API
 
+**Se aplica a**
 
-Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio en tiempo real, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado. Estas API están disponibles públicamente y los partners pueden usarlas en nombre de sus clientes gracias a sus privilegios de administrador delegado.
+-  Centro de partners
+
+Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado en tiempo real. Estas API están disponibles públicamente y los partners pueden usarlas en nombre de sus clientes gracias a sus privilegios de administrador delegado.
 
 Estas API están disponibles para los desarrolladores:
 
@@ -29,6 +32,6 @@ API de REST de Azure Insights: [código](http://go.microsoft.com/fwlink/p/?LinkI
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

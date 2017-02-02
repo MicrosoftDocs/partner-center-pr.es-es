@@ -1,18 +1,22 @@
 ---
 title: "Proporcionar soporte técnico sobre la facturación | Centro de partners"
-description: "Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte técnico necesario respecto a cualquier pregunta sobre facturación de tus clientes."
+description: "Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
 
 ---
 
 # Proporcionar soporte técnico sobre la facturación
 
+**Se aplica a**
 
-Eres el responsable de la relación de facturación con tus clientes y proporcionarás todo el soporte técnico necesario respecto a cualquier pregunta sobre facturación de tus clientes.
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes.
 
 ## <a href="" id="microsoftresources"></a>Recursos de Microsoft
 
@@ -49,6 +53,6 @@ Eres el responsable de la relación de facturación con tus clientes y proporcio
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

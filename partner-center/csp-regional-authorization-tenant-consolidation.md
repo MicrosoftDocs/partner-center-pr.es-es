@@ -4,15 +4,19 @@ description: "Usa estas instrucciones para consolidar los inquilinos para difere
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # Consolidación de los inquilinos de autorización regional de CSP
 
+**Se aplica a**
 
-\[Parte de la información hace referencia a la versión preliminar del producto, el cual puede sufrir modificaciones importantes antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud Alemania
+
+\[Parte de la información hace referencia a la versión preliminar del producto, que puede sufrir modificaciones importantes antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
 
 Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
@@ -159,6 +163,6 @@ Con el registro de actividades, los partners pueden ver un registro de todos los
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

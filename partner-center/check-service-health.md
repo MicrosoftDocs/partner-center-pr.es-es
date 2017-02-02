@@ -4,13 +4,16 @@ description: "Una de las primeras cosas que puedes hacer si un cliente está exp
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a74387912aaebc5e3712b28539cacc1829e76902
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
 
 ---
 
 # Comprobar el estado del servicio
 
+**Se aplica a**
+
+-  Centro de partners
 
 Una de las primeras cosas que puedes hacer si un cliente está experimentando problemas con un servicio es comprobar el estado de dicho servicio.
 
@@ -35,6 +38,6 @@ Si el problema persiste después de finalizar la interrupción del servicio, env
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
