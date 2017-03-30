@@ -2,13 +2,11 @@
 title: "Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania | Centro de partners para Microsoft Cloud Alemania"
 description: "Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud Alemania no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud Alemania."
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
-
+ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
 **Se aplica a**
 
@@ -26,7 +24,7 @@ Administración de licencias | Centro de administración de Office 365 o portal 
 >**Nota**<br>
 En el momento en que se publicó este artículo, la documentación sobre la administración de licencias de usuario de clientes en el portal de administración de Azure o el portal de administración de Office 365 aún no estaba disponible.
 
-## Cómo administrar usuarios en el portal de Azure para Microsoft Cloud Alemania 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud Alemania 
 
 Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, puedes abrir el portal de Azure para Microsoft Cloud Alemania sin tener que volver a iniciar sesión. Sin embargo, si necesitas iniciar sesión directamente en el portal de Azure para Microsoft Cloud Alemania, ve a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
@@ -46,9 +44,3 @@ Después de haber iniciado sesión correctamente en el portal de Azure para Micr
 -  [**Centro de partners para Microsoft Cloud Alemania**](partner-center-for-microsoft-cloud-germany.md)
 
 -  [**Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania**](enroll-in-csp-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-

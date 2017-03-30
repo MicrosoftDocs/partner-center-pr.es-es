@@ -3,13 +3,11 @@ title: "Facturación | Centro de partners"
 Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Facturación
+# <a name="billing"></a>Facturación
 
 **Se aplica a**
 
@@ -25,7 +23,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 -   Agrega tus propios cargos y tarifas por los productos y servicios que proporciones.
 -   Envía al cliente una sola factura para todos los cargos.
 
-## Facturación
+## <a name="billing"></a>Facturación
 
 
 [Leer tu factura](read-your-bill.md)
@@ -42,7 +40,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 
 [Servicios PSTN](o365-e5-in-csp-advisory.md)
 
-## En esta sección
+## <a name="in-this-section"></a>En esta sección
 
 
 -   [Conceptos básicos de la facturación](#billingbasics)
@@ -194,11 +192,5 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Solicitar relación con un cliente | Centro de partners"
 description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Solicitar relación con un cliente
+# <a name="request-a-relationship-with-a-customer"></a>Solicitar relación con un cliente
 
 **Se aplica a**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 La solicitud de relación con un cliente se usa para los escenarios [multipartner](multipartner.md) y [multicanal](multichannel.md). También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
 
-Ten en cuenta que este proceso solo agrega privilegios de administrador delegado. A menos que sea el revendedor CSP original de la suscripción, el partner no recibirá una factura de estas suscripciones, ni puede agregar o quitar puestos, realizar pedidos de complementos, realizar la transición o la migración de las suscripciones o cambiar el partner de registro.
+Ten en cuenta que este proceso solo agrega privilegios de administrador delegado. A menos que sea el revendedor de Proveedor de soluciones en la nube (CSP) original de la suscripción, el partner no recibirá una factura de estas suscripciones, ni puede agregar o quitar puestos, realizar pedidos de complementos, realizar la transición o la migración de las suscripciones o cambiar el partner de registro.
 
 <a href="" id="requestarelationship"></a>
 **Solicitar una relación**
@@ -40,11 +38,5 @@ Para volver a establecer los privilegios de administrador delegado que el client
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

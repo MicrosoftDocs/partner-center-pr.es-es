@@ -3,13 +3,11 @@ title: "Personalizar el catálogo | Centro de partners"
 description: "El catálogo muestra todos los productos y los complementos de Microsoft disponibles para que los vendan los partners."
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Personalizar el catálogo
+# <a name="customize-the-catalog"></a>Personalizar el catálogo
 
 **Se aplica a**
 
@@ -27,11 +25,5 @@ El catálogo muestra los productos y complementos de Microsoft disponibles para 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: Leer factura | Centro de partners
 description: "La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Leer tu factura
+# <a name="read-your-bill"></a>Leer tu factura
 
 **Se aplica a**
 
@@ -20,7 +18,7 @@ La factura mensual es un resumen de todos los cargos (incluidos el programa, los
 
 Para obtener información detallada sobre los cargos, usa los archivos de conciliación correspondiente. Los archivos de conciliación incluyen los identificadores de cliente y de suscripción que usarás para crear facturas de cliente. Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
 
-## Definiciones de archivo de factura
+## <a name="invoice-file-definitions"></a>Definiciones de archivo de factura
 
 
 <table>
@@ -114,11 +112,5 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

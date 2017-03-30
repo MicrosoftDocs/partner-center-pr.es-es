@@ -3,13 +3,11 @@ title: "Autorización regional de CSP | Centro de partners"
 description: "Con la autorización regional, los partners con empresas internacionales ahora pueden administrar más fácilmente los clientes de diferentes regiones y países de todo el mundo."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Autorización regional de CSP
+# <a name="csp-regional-authorization"></a>Autorización regional de CSP
 
 
 \[Parte de la información hace referencia a la versión preliminar del producto, que puede sufrir modificaciones importantes antes de que se publique la versión comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, respecto a la información que se ofrece aquí.\]
@@ -20,11 +18,11 @@ En el pasado, a excepción de la Unión Europea y AELC, los partners necesitaban
 
 >**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
-## Planificación
+## <a name="planning"></a>Planificación
 
 Los partners tienen varias opciones para consolidar sus inquilinos regionales, tal como se describe a continuación.
 
-### Inquilinos separados para países o regiones indivuales
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Inquilinos separados para países o regiones indivuales
 
 La consolidación de los inquilinos es opcional. Los partners pueden continuar administrando sus clientes internacionales con inquilinos independientes, tal como se muestra en la siguiente tabla.
 
@@ -67,7 +65,7 @@ La consolidación de los inquilinos es opcional. Los partners pueden continuar a
 
  
 
-## Un inquilino para varias regiones o países
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un inquilino para varias regiones o países
 
 
 Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CSP en un solo inquilino de CSP.
@@ -99,7 +97,7 @@ Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CS
 
  
 
-## Algunos inquilinos para algunas regiones o países
+## <a name="some-tenants-for-some-regions-or-countries"></a>Algunos inquilinos para algunas regiones o países
 
 
 Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CSP en un algunos inquilinos de CSP.
@@ -135,7 +133,7 @@ Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CS
 
  
 
-## Inquilinos de consolidación
+## <a name="consolidating-tenants"></a>Inquilinos de consolidación
 
 
 Si quieres consolidar inquilinos, te recomendamos lo siguiente:
@@ -145,7 +143,7 @@ Si quieres consolidar inquilinos, te recomendamos lo siguiente:
 -   **Varios países o regiones, pero con transacciones solo en uno.** Si realizas transacciones en un número de regiones o países, te recomendamos que centralices en el inquilino con el mayor número de puestos. Deberías cancelar las suscripciones en los países o las regiones donde haya las cantidades más pequeñas de puestos.
 
 
-## Información de país o región
+## <a name="countryregion-information"></a>Información de país o región
 
 
 Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
@@ -163,7 +161,7 @@ Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
     >**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
 
--   **Si la ubicación de venta de Microsoft es un país o una región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Afganistán, Albania, Arabia Saudí, Argelia, Armenia, Autoridad Palestina, Azerbaiyán, Baréin, Belarús, Bosnia y Herzegovina, Catar, Egipto, Emiratos Árabes Unidos, Georgia, Irak, Israel, Jordania, Kazajistán, Kirguistán, Kuwait, Líbano, Libia, Marruecos, Moldova, Mongolia, Montenegro, Omán, Pakistán, República de Macedonia (ex-República Yugoslava de Macedonia), Serbia, Sudáfrica, Tayikistán, Túnez, Turkmenistán,Turquía, Ucrania, Uzbekistán, Yemen, Zimbabue
+-   **Si la ubicación de venta de Microsoft es un país o una región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Afganistán, Albania, Arabia Saudí, Argelia, Armenia, Autoridad Nacional Palestina, Azerbaiyán, Baréin, Belarús, Bosnia y Herzegovina, Catar, Egipto, Emiratos Árabes Unidos, Georgia, Irak, Israel, Jordania, Kazajistán, Kirguistán, Kuwait, Líbano, Libia, Marruecos, Moldova, Mongolia, Montenegro, Omán, Pakistán, República de Macedonia (ex-República Yugoslava de Macedonia), Serbia, Sudáfrica, Tayikistán, Túnez, Turkmenistán,Turquía, Ucrania, Uzbekistán, Yemen, Zimbabue
 
 -   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Angola, Botsuana, Camerún, Cabo Verde, Côte d'Ivoire, Etiopía, Ghana, Kenia, Mauricio, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia
 
@@ -187,11 +185,5 @@ Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

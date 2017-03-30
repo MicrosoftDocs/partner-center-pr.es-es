@@ -3,13 +3,11 @@ title: Cambiar suscripciones de Azure a otro partner | Centro de partners
 description: "Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Cambiar las suscripciones de Azure a otro partner
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Cambiar las suscripciones de Azure a otro partner
 
 **Se aplica a**
 
@@ -17,7 +15,7 @@ ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes.
 
-**Nota**  Actualmente no hay ningún proceso automático para clientes de Azure para cambiar de EA, Open u otros programas de licencias a CSP. Este es un proceso manual que requiere acciones de partners y clientes. Asimismo, por el momento no es posible cambiar los partners de las suscripciones de Proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+**Nota**  Actualmente no hay ningún proceso automático para clientes de Azure para cambiar de EA, Open u otros programas de licencias a CSP. Este es un proceso manual que requiere acciones de partners y clientes. Asimismo, por el momento no es posible cambiar los partners de las suscripciones de Proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft DynamicsCRM.
 
  
 
@@ -77,11 +75,5 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

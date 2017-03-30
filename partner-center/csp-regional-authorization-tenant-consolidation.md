@@ -3,13 +3,11 @@ title: "Consolidación de los inquilinos de autorización regional de CSP | Cent
 description: "Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Consolidación de los inquilinos de autorización regional de CSP
+# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
 **Se aplica a**
 
@@ -24,14 +22,14 @@ Usa estas instrucciones para consolidar los inquilinos para diferentes países o
 
  
 
-## Preparación para la migración
+## <a name="prepare-for-migration"></a>Preparación para la migración
 
 
 -   Inicia sesión en <https://partnercenter.microsoft.com> con la cuenta de transición (la cuenta existente) y tome nota de todos los clientes y todos los servicios aprovisionados para dichos clientes.
 
 ![lista de clientes regionales](images/regionalcustomer1.png)
 
-## Migración de las cuentas de cliente
+## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
 
 1.  Inicia sesión en <https://partnercenter.microsoft.com> con la cuenta de transición (la nueva cuenta) y navega hasta la lista de clientes desde el panel del centro de partners.
@@ -46,7 +44,7 @@ Usa estas instrucciones para consolidar los inquilinos para diferentes países o
 
 Los clientes aparecerán en la lista de clientes del partner después de enviar el acuerdo, uno por uno.
 
-## Migración de suscripciones basadas en uso de Office 365 y que no sean de Azure
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migración de suscripciones basadas en uso de Office 365 y que no sean de Azure
 
 
 1.  Cuando el cliente haya firmado el contrato, puedes volver a crear sus suscripciones en tu inquilino de partner centralizado.
@@ -73,7 +71,7 @@ Antes de pasar a la siguiente sección, asegúrate de todas las suscripciones de
 
  
 
-## Deshabilitar las suscripciones de Office 365 en la cuenta de partner de Transición desde
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Deshabilitar las suscripciones de Office 365 en la cuenta de partner de Transición desde
 
 
 Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición desde** detiene toda facturación futura. No es necesario deshabilitar manualmente las suscripciones de Azure, porque las suscripciones de Azure se deshabilitan automáticamente durante el proceso de migración.
@@ -93,7 +91,7 @@ Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición d
 
 5.  Selecciona al siguiente cliente de la lista y repite el proceso de deshabilitar todas las suscripciones.
 
-## Migración de suscripciones basadas en uso de Azure
+## <a name="migrating-azure-usage-based-subscriptions"></a>Migración de suscripciones basadas en uso de Azure
 
 
 Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el uso de Azure de forma manual, como sucede con las suscripciones de CSP de Office 365. El soporte técnico de Microsoft Azure puede migrar las suscripciones de Azure, así como todos los servicios o los recursos implementados, desde las cuentas de revendedor de CSP de **Transición desde** a la cuenta de revendedor de CSP de **Transición a**. Durante esta transición, el cliente no experimentará ninguna interrupción del servicio.
@@ -110,7 +108,7 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 
 6.  Repite estos pasos para todas las suscripciones de todos tus clientes para detener futuros cargos en las cuentas **Transición desde**. El partner recibirá una factura final con un crédito por el número de días sin usar entre el día de la cancelación y el último día del período de facturación. Tras ese período de facturación final, no se generarán más futuras.
 
-### Notas
+### <a name="notes"></a>Notas
 
 -   Deshabilitar la suscripción desde la cuenta de CSP de **Transición desde** no afecta a servicio del cliente final, siempre que el servicio se haya aprovisionado desde la cuenta de CSP **Transición a** antes de la deshabilitación.
 
@@ -122,7 +120,7 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 
      
 
-### Simplificación de la migración mediante la exportación
+### <a name="simplify-migration-using-export"></a>Simplificación de la migración mediante la exportación
 
 Si usas la **Función de exportación**, puedes capturar las suscripciones que necesites usar en tu nueva estructura consolidada:
 
@@ -134,11 +132,11 @@ Si usas la **Función de exportación**, puedes capturar las suscripciones que n
 
 4.  Usa esta lista para volver a crear las suscripciones en el nuevo inquilino consolidado.
 
-### Registro de API
+### <a name="api-registration"></a>Registro de API
 
 Para obtener más información acerca del registro de API, visita esta [página web](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx) (en inglés).
 
-## Registro de actividades del Centro de partners
+## <a name="partner-center-activity-log"></a>Registro de actividades del Centro de partners
 
 
 Con el registro de actividades, los partners pueden ver un registro de todos los cambios que afectan a los clientes en su inquilino. Esto ayuda a los partners a realizar un seguimiento de los cambios en un inquilino del cliente.
@@ -158,11 +156,5 @@ Con el registro de actividades, los partners pueden ver un registro de todos los
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

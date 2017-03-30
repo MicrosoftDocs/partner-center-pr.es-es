@@ -3,13 +3,11 @@ title: Obtener precios especiales para ofertas | Centro de partners
 Description: "Microsoft proporciona precios especiales reducidos para grupos exclusivos de clientes, como para usos educativos, sin ánimo de lucro o gubernamentales, o para conjuntos de clientes muy grandes."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Obtener precios especiales para ofertas
+# <a name="get-special-pricing-for-offers"></a>Obtener precios especiales para ofertas
 
 **Se aplica a**
 
@@ -54,11 +52,5 @@ Microsoft proporciona precios especiales reducidos para grupos exclusivos de cli
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

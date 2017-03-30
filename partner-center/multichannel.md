@@ -3,28 +3,27 @@ title: Multicanal | Centro de partners
 description: "Una opción del programa Proveedor de soluciones en la nube es permitir que un partner controle todo el ciclo de vida de suscripción de un cliente, incluidas las ventas, el aprovisionamiento, el soporte técnico y la renovación."
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
-
+ms.openlocfilehash: fb3df0b095fb04552bcf5492467e319be943dd0d
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Multicanal
+# <a name="multichannel-support"></a>Soporte técnico multicanal
 
 **Se aplica a**
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud Alemania
 
-Una opción del programa Proveedor de soluciones en la nube es permitir que un partner controle todo el ciclo de vida de suscripción de un cliente: ventas, aprovisionamiento, soporte técnico y renovación. Pero, en muchos casos, los clientes ya tienen suscripciones que requieren aprovisionamiento o soporte técnico y que ya adquirieron previamente de otro canal.
+En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar. El soporte técnico multicanal se aplica cuando el cliente:
 
-El soporte técnico multicanal se aplica cuando el cliente:
+-   Ya ha adquirido suscripciones directamente de Microsoft o a través de los programas Advisor, Open o EA.
 
--   ya ha adquirido suscripciones de Microsoft directamente o a través de los programas Advisor, Open o EA.
+-   Te ha comprado la suscripción cuando estabas en el programa Advisor, pero ahora eres un revendedor indirecto del programa Proveedor de soluciones en la nube.
 
--   te ha comprado las suscripciones cuando estabas en el programa Advisor, pero ahora estás en el programa Proveedor de soluciones en la nube.
+-   Ha adquirido las suscripciones a un tercero que no se encuentra en el programa Proveedor de soluciones en la nube ni es un partner de redifusión de Microsoft. Los clientes no pueden cambiar suscripciones basadas en licencias a otro partner en el programa Proveedor de soluciones en la nube. Deben esperar al final del período de suscripción o cancelarlas antes de moverlas.
 
--   ha comprado las suscripciones a un tercero que no se encuentra en el programa Proveedor de soluciones en la nube o un programa de partner de redifusión de Microsoft. Los clientes no pueden cambiar suscripciones de CSP basadas en licencias a otro partner en el programa Proveedor de soluciones en la nube. Deben esperar al final del período de suscripción o cancelarlas antes de moverlas.
+>**Importante**<br>
+Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners. 
 
 <table>
 <colgroup>
@@ -44,11 +43,13 @@ El soporte técnico multicanal se aplica cuando el cliente:
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Partners indirectos</strong></p></td>
+<td><p><strong>Revendedores indirectos en CSP</strong></p></td>
 <td><ul>
-<li><p>El partner indirecto crea la invitación de CSP, basada en el vínculo del Centro de partners y puede enviarla directamente al cliente final o a sus revendedores para que estos la envíen a los clientes finales.</p></li>
-<li><p>Los revendedores que trabajan para un partner indirecto en el programa CSP no pueden crear sus propias invitaciones de CSP. Deben usar la que les proporciona el partner indirecto.</p></li>
-<li><p>El socio indirecto será el propietario de la relación, pero pueden especificar un revendedor para que obtenga los privilegios de administrador delegado necesarios para administrar el aprovisionamiento y/o el soporte técnico.</p></li>
+<li><p>Los revendedores indirectos que trabajan para un partner directo de CSP no pueden crear sus propias invitaciones de CSP. Deben usar la que les proporciona el partner directo.</p></li>
+
+<li><p>El partner directo crea una invitación para el cliente final y puede enviártela para que puedas enviarla al cliente o, directamente, al cliente final.</p></li>
+
+<li><p>El partner directo tendrá la relación de cliente, pero pueden solicitar que el cliente conceda privilegios de administrador delegado a un revendedor indirecto.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -60,11 +61,5 @@ El soporte técnico multicanal se aplica cuando el cliente:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

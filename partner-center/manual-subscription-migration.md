@@ -3,13 +3,11 @@ title: "Migración de suscripciones de Dynamics AX a Dynamics 365 | Centro de pa
 description: "Microsoft presenta Dynamics 365, la próxima generación de aplicaciones empresariales inteligentes con las que tu organización podrá crecer, evolucionar y transformarse para satisfacer las necesidades de tus clientes y aprovechar nuevas oportunidades."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Migrar suscripciones de Dynamics AX a Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar suscripciones de Dynamics AX a Dynamics 365
 
 **Se aplica a**
 
@@ -59,7 +57,7 @@ Se retira la línea de productos de Microsoft Dynamics AX, con fecha de aplicaci
 
 El plan actual de Microsoft Dynamics CRM Online se retirará de forma definitiva 1 de noviembre de 2016. Consulta [Información importante para los clientes de CRM Online](https://go.microsoft.com/fwlink/?linkid=831667) para conocer más detalles sobre nuevas opciones de licencias.
 
-## Clientes de transición hacia los nuevos planes de productos
+## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
 
 
 Microsoft ofrece de forma continua nuevos productos y servicios a revendedores y proveedores. En estos casos, un revendedor podría tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde antiguas SKU a unas más recientes que requieren la siguiente secuencia:
@@ -70,8 +68,7 @@ Microsoft ofrece de forma continua nuevos productos y servicios a revendedores y
 
 En los siguientes procedimientos, se mueve un cliente de Dynamics AX7 Enterprise a Dynamics 365 para operaciones.
 
-<a href="" id="purchasenewsubsc"></a>
-El revendedor debe mover un cliente con una suscripción existente para Dynamics AX Enterprise a Dynamics 365 para operaciones. El primer paso es comprar Dynamics 365 para operaciones.
+<a href="" id="purchasenewsubsc"></a>El revendedor debe mover un cliente con una suscripción existente para Dynamics AX Enterprise a Dynamics 365 para operaciones. El primer paso es comprar Dynamics 365 para operaciones.
 
 **Comprar la nueva suscripción**
 
@@ -80,8 +77,7 @@ El revendedor debe mover un cliente con una suscripción existente para Dynamics
 
     El cliente ahora debería tener las suscripciones antigua y nueva; en este ejemplo, serían la antigua suscripción Dynamics AX Enterprise y la nueva suscripción de destino, Dynamics 365 para operaciones, Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a>
-El siguiente paso es reasignar todas las licencias de usuario existentes a la nueva suscripción.
+<a href="" id="reassignlicenses"></a> El siguiente paso es reasignar todas las licencias de usuario existentes a la nueva suscripción.
 
 **Reasignar licencias de usuario**
 
@@ -91,8 +87,7 @@ El siguiente paso es reasignar todas las licencias de usuario existentes a la nu
 4.  Selecciona **Enviar**. Una página de confirmación enumera las nuevas asignaciones de licencias.
 5.  Sigue los mismos pasos con otros usuarios del cliente que necesiten la reasignación de licencias.
 
-<a href="" id="cancelsubscriptions"></a>
-Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción antigua al nivel superior del cliente.
+<a href="" id="cancelsubscriptions"></a> Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción antigua al nivel superior del cliente.
 
 **Cancelar la suscripción antigua**
 
@@ -102,7 +97,7 @@ Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de
 
 Se ha suspendido la suscripción antigua y la nueva suscripción está activa. Se cancelará el aprovisionamiento de la suscripción suspendida automáticamente después de 120 días. El cliente no incurre en costos adicionales para la suscripción antigua.
 
-## Consideraciones adicionales
+## <a name="additional-considerations"></a>Consideraciones adicionales
 
 
 Si el cliente se mueve desde el canal abierto hasta el programa de servicios en la nube para un aprovisionamiento de suscripción adicional, también deberás migrar sus suscripciones existentes:
@@ -116,11 +111,5 @@ Una vez que el cliente te acepte como su proveedor indirecto, los pasos de aprov
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

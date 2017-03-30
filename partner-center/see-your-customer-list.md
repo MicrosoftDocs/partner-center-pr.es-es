@@ -3,13 +3,11 @@ title: Administrar la lista de clientes | Centro de partners
 description: "Los registros de cliente son unos de los recursos de información más importantes del Centro de partners."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Administrar la lista de clientes
+# <a name="manage-your-customer-list"></a>Administrar la lista de clientes
 
 **Se aplica a**
 
@@ -18,23 +16,17 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 Los registros de cliente son unos de los recursos de información más importantes del Centro de partners. Puedes buscar en la base de datos de cuentas de cliente, exportar la base de datos de clientes completa o un subconjunto a un formato de archivo de valores separados por comas (.csv) compatible con Excel. También puedes exportar información de las suscripciones de un cliente a un archivo .csv.
 
-Los registros de actividad también proporcionan datos exportables sobre transacciones y acciones de administración para los clientes. Para obtener más información, consulta [Ver los registros de actividades de los cliente](#pc-cloud-sltn-provider-activity-logs).
+Los registros de actividad también proporcionan datos exportables sobre transacciones y acciones de administración para los clientes. Para obtener más información, consulta [Ver los registros de actividades de los clientes](activity-logs.md).
 
-Para obtener más información, consulta las siguientes secciones:
 
--   [Buscar un cliente](#see-your-customer-list-viewcustomerlist)
--   [Exportar la lista de clientes](#see-your-customer-list-exportcustomerlist)
--   [Exportar la lista de suscripciones de un cliente](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**Buscar un cliente**
+## <a name="search-for-a-customer"></a>Buscar un cliente
 
 1.  En el menú **Panel**, selecciona **Clientes**.
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
 3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
 
-<a href="" id="exportcustomerlist"></a>
-**Exportar la lista de clientes**
+
+## <a name="export-your-customer-list"></a>Exportar la lista de clientes
 
 1.  En el menú **Panel**, selecciona **Clientes**.
 2.  Selecciona **Exportar clientes**.
@@ -46,12 +38,12 @@ Para obtener más información, consulta las siguientes secciones:
     -   **Nombre de dominio principal**;
     -   **Relación**: relación comercial del partner con cada cliente de la lista.
 
-    De manera predeterminada, el Centro de partners exporta la lista de clientes completa, independientemente de longitud. También puedes buscar en la lista de cliente por nombre de la empresa o dominio y exportar ese subconjunto de datos.
+    De manera predeterminada, el Centro de partners exporta la lista de clientes completa, independientemente de longitud. También puedes buscar en la lista de clientes por nombre de empresa o dominio y exportar ese subconjunto de datos.
 
-3.  Si eres un proveedor indirecto, puedes filtrar la lista de clientes por revendedor indirecto. Selecciona la lista desplegable **Filtrar por revendedor indirecto** y elige el revendedor en la lista.
+3.  Si eres un proveedor indirecto, puedes filtrar la lista de clientes por revendedor indirecto. Selecciona **Filtrar por revendedor indirecto** en la lista y elige un revendedor.
 
-<a href="" id="exportsubscriptions"></a>
-**Exportar suscripciones de un cliente**
+
+## <a name="export-customer-subscription-information"></a>Exportar información de suscripción de cliente
 
 1.  En el menú **Panel**, selecciona **Clientes**.
 2.  Selecciona el **Nombre de la empresa** para cualquier cliente. Se abrirá la página **Suscripciones** del cliente y se mostrará la lista completa de suscripciones de producto.
@@ -62,8 +54,8 @@ Para obtener más información, consulta las siguientes secciones:
     -   **Estado**;
     -   **Revendedor**: el identificador del revendedor que posee y administra la suscripción.
 
-    **Nota**  
-    Para obtener más información sobre la administración de suscripciones, consulta [Administrar las suscripciones de cliente](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions).
+>**Nota**<br>
+Para obtener más información sobre la administración de suscripciones, consulta [Suscripciones de cliente](customer-subscriptions.md).
 
      
 
@@ -71,11 +63,5 @@ Para obtener más información, consulta las siguientes secciones:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

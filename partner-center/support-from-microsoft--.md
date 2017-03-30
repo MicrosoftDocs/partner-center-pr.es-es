@@ -3,13 +3,11 @@ title: "Soporte técnico de Microsoft | Centro de partners"
 description: Cuando se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Soporte técnico de Microsoft
+# <a name="support-from-microsoft"></a>Soporte técnico de Microsoft
 
 **Se aplica a**
 
@@ -30,11 +28,5 @@ Cuando se producen problemas con un servicio Microsoft o con el Centro de partne
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

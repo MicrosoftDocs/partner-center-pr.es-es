@@ -2,15 +2,14 @@
 title: Plantillas de acuerdos de cliente del Centro de partners | Centro de partners
 description: "Descargar plantillas de acuerdos de cliente específicas del mercado del Centro de partners"
 author: John Miller
-translationtype: Human Translation
-ms.sourcegitcommit: fd3b8984043843932b2eff460e73b9a36acf87e2
-ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
-
+ms.openlocfilehash: 7b48417afec9a83edcb194fb9c53d112de882cf7
+ms.sourcegitcommit: 23c0c3f85ef98e810cd0b9d953d3215f87daedbb
+translationtype: HT
 ---
-#Plantillas de acuerdos de cliente del Centro de partners
+#<a name="partner-center-customer-agreement-templates"></a>Plantillas de acuerdos de cliente del Centro de partners
 Te damos la bienvenida al repositorio de plantillas de acuerdos de cliente del Centro de partners.  Aquí encontrarás todos los acuerdos de cliente correspondientes.  Los hemos enumerados por región y país para ayudarte a navegar de forma más sencilla.  Ten en cuenta que es importante proporcionar al cliente el acuerdo correcto según su ubicación.  Algunas ubicaciones tienen disponibles versiones del acuerdo en varios idiomas, según las preferencias de idioma del cliente.
 
-##Norteamérica, América Central, Sudamérica y el Caribe
+##<a name="north-america-central-america-south-america-and-the-caribbean"></a>Norteamérica, América Central, Sudamérica y el Caribe
 
 - Argentina: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [español](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Bahamas: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
@@ -42,7 +41,7 @@ Te damos la bienvenida al repositorio de plantillas de acuerdos de cliente del C
 - Venezuela: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [español](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - Islas Vírgenes de los Estados Unidos: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)
 
-##Europa
+##<a name="europe"></a>Europa
 - Albania: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - Armenia: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - Austria: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [alemán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
@@ -87,10 +86,11 @@ Te damos la bienvenida al repositorio de plantillas de acuerdos de cliente del C
 - Ucrania: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [ucraniano](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_UKR_Jul2016_CR_.pdf) 
 - Reino Unido: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##Microsoft Cloud Alemania
-- Toda la UE/EFTA: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_CFG_EMEA__ENG__Jul2016__CR_.pdf)
+##<a name="microsoft-cloud-germany"></a>Microsoft Cloud Alemania
+- Toda la UE/EFTA: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_ENG_Mar2017_CR_for_German_Cloud.pdf)
+- Toda la UE/EFTA: [alemán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_GER_Mar2017_CR_for_German_Cloud.pdf)
 
-##Oriente Medio y África
+##<a name="middle-east-and-africa"></a>Oriente Medio y África
 - Argelia: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [francés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf), [árabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - Angola: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [portugués](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)     
 - Baréin: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [árabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
@@ -123,7 +123,7 @@ Te damos la bienvenida al repositorio de plantillas de acuerdos de cliente del C
 - Yemen: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [árabe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - Zimbabue: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##Asia y Pacífico
+##<a name="asia-and-pacific"></a>Asia y Pacífico
 - Australia: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - Bangladesh: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - Brunéi: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [malayo bahasa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
@@ -147,11 +147,5 @@ Te damos la bienvenida al repositorio de plantillas de acuerdos de cliente del C
 - Uzbekistán: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [ruso](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf) 
 - Vietnam: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [vietnamita](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_VIT_Jul2016_CR_.pdf) 
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

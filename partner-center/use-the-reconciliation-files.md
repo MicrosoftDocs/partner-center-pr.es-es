@@ -3,13 +3,11 @@ title: "Usar los archivos de conciliación | Centro de partners"
 description: "Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Usar los archivos de conciliación
+# <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
 **Se aplica a**
 
@@ -17,13 +15,6 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 -  Centro de partners para Microsoft Cloud Alemania
 
 Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
-
-## En esta sección:
-
-
--   [Desglosar por partner](#itemizebypartner)
--   [Archivos de conciliación basada en licencia](#licencebasedfiles)
--   [Archivos de conciliación basada en uso](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>Desglosar por partner
 
@@ -44,7 +35,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 <tbody>
 <tr class="odd">
 <td>Id. de MPN</td>
-<td><p>El id. de MPN del partner CSP (directo o indirectamente).</p></td>
+<td><p>Id. de Microsoft Partner Network (MPN) del partner de CSP (directo o indirecto).</p></td>
 </tr>
 <tr class="even">
 <td>Id. de MPN del revendedor</td>
@@ -83,9 +74,9 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Identificador único del cliente en la plataforma de facturación de Microsoft. Puede ser útil para identificar al cliente cuando este se pone en contacto con el soporte técnico, pero no para la conciliación.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>Id. de Microsoft único, en formato GUID, usado para identificar al cliente.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Identificador único de la oferta. Identificador de la oferta estándar según la lista de precios.</p></td>
-<td>306855</td>
+<td><p>Identificador único de la oferta. Identificador de la oferta estándar según la lista de precios.</p>
+<p><b>Nota</b>: este valor no coincide con el id. de oferta de la lista de precios. Consulta DurableOfferID a continuación.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Identificador único de oferta duradera, según se define en la lista de precios.</p></td>
+<td><p>Id. de oferta duradera único, según se define en la lista de precios.</p>
+<p><b>Nota</b>: este valor coincide con el id. de oferta de la lista de precios.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Tipo de cargo o ajuste.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Cargos:</td>
-<td><ul>
-<li>PURCHASE_FEE: cargo inicial de una suscripción</li>
-<li>CYCLE_FEE: cargos periódicos de una suscripción</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: cuota de uso de acceso tras la cancelación por uso impagado durante el período de facturación actual.</li>
-<li>CYCLE_USAGEFEE: cuota de uso de acceso para el período de facturación actual</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Prorrateos:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: cuotas prorrateadas tras la compra</li>
-<li>CANCEL_PRORATE: reembolso prorrateado de la parte no usada del servicio tras la cancelación</li>
-<li>ACTIVATION_PRORATE: cuotas prorrateadas desde la activación hasta el final del período de facturación</li>
-<li>RENEW_PRORATE: cuotas prorrateada tras la renovación de la suscripción</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Prorrateo de instancias:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: cargos prorrateados reembolsados al cliente al cambiar los puestos asociados</li>
-<li>CYCLE_INSTANCEPRORATE: cargos prorrateados evaluados del cliente al cambiar los puestos asociados</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Créditos:</td>
-<td><ul>
-<li>CREDIT: crédito aplicado a un instrumento de pago</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Contrapartidas:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: reembolso parcial o total para un elemento de línea</li>
-<li>ONE_TIME_REFUND: reembolso único procesado para el cliente</li>
-<li>TAX_REFUND: reembolso debido a la validación del certificado de exención de impuestos</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Descuentos:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: descuento que se aplica cuando se activa la suscripción</li>
-<li>CYCLE_DISCOUNT: descuento que se aplica en cargos periódicos</li>
-<li>RENEW_DISCOUNT: descuento que se aplica cuando se renueva la suscripción</li>
-<li>CANCEL_DISCOUNT: cargos que se aplican cuando se cancelan los descuentos</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>Tipo de cargo o ajuste. Consulta <a href="#charge_types">Asignación de cargos entre una factura y el archivo de conciliación</a></p></td>
+<td><p>Consulta <a href="#charge_types">Asignación de cargos entre una factura y el archivo de conciliación</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td><p>Id. de MPN del revendedor de registro de la suscripción. Ver [Desglosar por partner](#itemizebypartner)</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente.</p></td>
+<td>ejemplo.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>Alias de la suscripción. Si no se especifica ningún alias, el Centro de partners usa OfferName.</p></td>
+<td>PROJECT ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este es un campo idéntico al nombre de la oferta).</p></td>
+<td>PROJECT ONLINE PREMIUM SIN CLIENTE DE PROJECT</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>Campos de archivos basados en el uso
 
@@ -347,7 +292,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nombre de la oferta de servicio</p></td>
+<td><p>Alias de la oferta de servicio.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Descripción del tipo de elemento de línea</p></td>
-<td>CUOTA DE USO DE ACCESO DEL CICLO ACTUAL</td>
+<td><p>Tipo de cargo o ajuste. Consulta <a href="#charge_types">Asignación de cargos entre una factura y el archivo de conciliación</a></p></td>
+<td><p>Consulta <a href="#charge_types">Asignación de cargos entre una factura y el archivo de conciliación</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -471,7 +416,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>MeteredRegion</td>
 <td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
-<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE. UU., Centro-sur de EE. UU.</td>
+<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE.UU., Centro-sur de EE.UU.</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
@@ -493,20 +438,235 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td><p>Número de conexiones de Bus de servicio aprovisionadas y usadas en un día determinado.</p></td>
 <td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tenías un paquete de 25 de conexiones de Bus de servicio aprovisionadas y utilizaste 1 durante ese día, la declaración de uso diario de ese día sería "25 conexiones/30 días. Utilizadas: 1,000000".</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>Id. de Microsoft único, en formato GUID, usado para identificar al cliente.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente.</p></td>
+<td>ejemplo.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>Asignación de cargos entre una factura y el archivo de conciliación
+
+La factura proporciona un resumen de los cargos, mientras que el archivo de conciliación proporciona un desglose detallado de las transacciones de elementos de línea, incluidos los tipos de cargo.
+
+Para hacer referencias cruzadas de cantidades de cargos entre el archivo de conciliación y la factura, puedes usar las opciones de filtro de Microsoft Excel para filtrar por tipo de cargo en el archivo de conciliación con el fin de asignar los cargos de facturación a un conjunto de desgloses de cargos del archivo de conciliación.
+
+La siguiente tabla muestra las asignaciones entre una sección de factura y los tipos de cargo asociados que es posible que se muestren en los archivos de conciliación. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Descripción del cargo de facturación</strong></p>
+</td>
+<td>
+<p><strong>Descripción del cargo del archivo de conciliación (columna ChargeType)</strong></p>
+</td>
+<td>
+<p><strong>¿Qué es este cargo?</strong></p>
+</td>
+<td>
+<p><strong>¿Cómo asigno estos valores de ChargeType a la factura?</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>Cargos periódicos</strong></p>
+</td>
+<td>
+<p>Prorrateo de instancia de cancelación</p>
+</td>
+<td>
+<p>Cargos prorrateados reembolsados al cliente al cambiar los puestos asociados</p>
+</td>
+<td rowspan="8">
+<p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa de ciclo</p>
+</td>
+<td>
+<p>Cargos periódicos de una suscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Prorrateo de instancia de ciclo</p>
+</td>
+<td>
+<p>Cargos prorrateados evaluados del cliente al cambiar los puestos asociados</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifas prorrateadas al cancelar</p>
+</td>
+<td>
+<p>Reembolso prorrateado de la parte no usada del servicio tras la cancelación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifas prorrateadas al comprar</p>
+</td>
+<td>
+<p>Tarifas prorrateadas tras la compra</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa de compra</p>
+</td>
+<td>
+<p>Cargo inicial de una suscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa prorrateada al renovar</p>
+</td>
+<td>
+<p>Tarifas prorrateadas tras la renovación de la suscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa de renovación</p>
+</td>
+<td>
+<p>Cargo por renovar una suscripción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Otros productos y servicios</strong></p>
+</td>
+<td>
+<p>Tarifas prorrateadas al activar</p>
+</td>
+<td>
+<p>Tarifas prorrateadas desde la activación hasta el final del período de facturación</p>
+</td>
+<td>
+<p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>Cargos de uso</strong></p>
+</td>
+<td>
+<p>Evaluar la tarifa de uso al cancelar</p>
+</td>
+<td>
+<p>Tarifa de uso de acceso tras la cancelación por uso impagado durante el período de facturación actual</p>
+</td>
+<td rowspan="2">
+<p>Desde el archivo basado en uso, suma la columna <strong>PretaxCharges</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Evaluar la tarifa de uso para el ciclo actual</p>
+</td>
+<td>
+<p>tarifa de uso de acceso para el período de facturación actual</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Créditos y ajustes</strong></p>
+</td>
+<td>
+<p>Desplazamiento de un elemento de línea</p>
+</td>
+<td>
+<p>Reembolso parcial o total de un elemento de línea, incluidos impuestos</p>
+</td>
+<td>
+<p>Desde el archivo basado en licencia, suma la columna <strong>TotalForCustomer</strong>.</p>
+<p>Desde el archivo basado en uso, suma la columna <strong>PostTaxTotal</strong>.</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>Otros descuentos</strong></br>
+<em>(basado en uso)</em></p>
+</td>
+<td>
+<p>Descuento de activación</p>
+</td>
+<td>
+<p>Descuento que se aplica cuando se activa la suscripción</p>
+</td>
+<td rowspan="4">
+<p>Desde el archivo basado en uso, suma la columna <strong>PretaxCharges</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Descuento de ciclo</p>
+</td>
+<td>
+<p>Descuento que se aplica en cargos periódicos</p>
+</td>
+</tr><tr>
+<td>
+<p>Descuento de renovación</p>
+</td>
+<td>
+<p>Descuento que se aplica cuando se renueva la suscripción</p>
+</td>
+</tr><tr>
+<td>
+<p>Descuento de cancelación</p>
+</td>
+<td>
+<p>Cargos que se aplican cuando se cancelan los descuentos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Otros descuentos</strong></br>
+<em>(basado en licencia)</em></p>
+</td>
+<td>
+<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>Desde el archivo basado en licencia, suma la columna <strong>TotalOtherDiscount</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Impuestos</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
+</td>
+<td>
+<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
+<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Consulta Créditos y ajustes, más arriba.</em></p>
+</td>
+<td>
+<p>Impuestos o impuesto de valor añadido (IVA)</p>
+</td>
+<td>
+<p>Desde el archivo basado en licencia, suma la columna <strong>Tax</strong>.</p>
+<p>Desde el archivo basado en uso, suma la columna <strong>TaxAmount</strong>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

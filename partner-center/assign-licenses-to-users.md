@@ -3,13 +3,11 @@ title: "Tareas de administración de usuarios para las cuentas de cliente | Cent
 description: "Después de comprar una nueva suscripción para un cliente, puedes asignar licencias a usuarios específicos."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Tareas de administración de usuarios para las cuentas de cliente
+# <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
 **Se aplica a**
 
@@ -74,7 +72,7 @@ Si necesitas restaurar esta cuenta antes de 30 días, puedes encontrarla en la p
 
     Todas las cuentas de usuario seleccionadas volverán a aparecer en la página **Usuarios y licencias**.
 
-## Temas relacionados
+## <a name="related-topics"></a>Temas relacionados
 
 
 [Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ Si necesitas restaurar esta cuenta antes de 30 días, puedes encontrarla en la p
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

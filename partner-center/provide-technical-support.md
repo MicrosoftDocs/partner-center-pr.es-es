@@ -3,13 +3,11 @@ title: "Proporcionar soporte técnico | Centro de partners"
 description: Como partner de Proveedor de soluciones en la nube, tienes privilegios de administrador delegado que te dan acceso a todos los entornos de tus clientes.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Proporcionar soporte técnico
+# <a name="provide-technical-support"></a>Proporcionar soporte técnico
 
 **Se aplica a**
 
@@ -42,11 +40,5 @@ En el Centro de partners, puedes:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

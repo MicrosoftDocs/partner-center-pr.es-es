@@ -3,13 +3,11 @@ title: Notificar los problemas que tengas con el Centro de partners | Centro de 
 description: "Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 671be5c70498194b0fb8081afd9ada750b732690
-ms.openlocfilehash: 539ed7d366713060aa1d559512f31462f7f0aace
-
+ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Notificar los problemas que tengas con el Centro de partners
+# <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
 **Se aplica a**
 
@@ -33,26 +31,20 @@ Si se produce un error mientras estás en una página del Centro de partners, se
 >**Nota**<br>
 En las páginas del Centro de partners que incluyan **/pcv/** en la dirección URL, puedes abrir la herramienta manualmente para recopilar esta información.
 
-1.  Ve a la página con el problema.
+1.    Ve a la página con el problema.
 
-2.  Presiona **Ctrl+Alt+D** para abrir la herramienta de diagnóstico para clientes del Centro de partners.
+2.    Presiona **Ctrl+Alt+D** para abrir la herramienta de diagnóstico para clientes del Centro de partners.
 
 Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico. Para enviar la información:
 
-1.  Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar. 
+1.    Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar. 
 
     >**Nota**<br>
     En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía. Esto es correcto.
 
-2.  Sigue las instrucciones en pantalla para guardar el archivo.
+2.    Sigue las instrucciones en pantalla para guardar el archivo.
 
-3.  Adjunta el archivo a la solicitud de soporte técnico del Centro de partners.
+3.    Adjunta el archivo a la solicitud de soporte técnico del Centro de partners.
 
 Es posible que el soporte técnico del Centro de partners te pida que ejecutes esta herramienta varias veces para obtener la información más actualizada.
-
-
-
-
-<!--HONumber=Jan17_HO3-->
-
 

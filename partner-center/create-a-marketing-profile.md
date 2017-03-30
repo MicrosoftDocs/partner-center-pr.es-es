@@ -3,13 +3,11 @@ title: Crear un perfil de marketing | Centro de partners
 description: "Cada año, en Microsoft atraemos a millones de clientes potenciales cualificados a nuestras propiedades web."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Crear un perfil de marketing
+# <a name="create-a-marketing-profile"></a>Crear un perfil de marketing
 
 **Se aplica a**
 
@@ -37,7 +35,7 @@ Gracias por tu paciencia mientras se completa esta interesante actualización. P
 2.  En la pestaña **Perfiles**, selecciona **Agregar un perfil de marketing**.
 3.  Actualizar la información sobre la compañía, incluida la información de contacto, atributos que resaltan la experiencia de tu negocio y una descripción que cumpla con las *Directrices de perfil* que encontrarás a continuación.
 
-## Directrices de perfil
+## <a name="profile-guidelines"></a>Directrices de perfil
 
 
 -   Tu perfil puede tener hasta 2500 caracteres, pero los perfiles concisos suelen ser más eficaces.
@@ -54,7 +52,7 @@ Gracias por tu paciencia mientras se completa esta interesante actualización. P
 
 -   Las palabras clave que los clientes escriben para buscar tienen más peso. Incluye palabras clave que describen con precisión tus ofertas de negocio, así como terminología del sector que pueden usar tus clientes para buscar soluciones.
 
-## Diez sugerencias para tener un gran perfil
+## <a name="ten-tips-for-a-great-profile"></a>Diez sugerencias para tener un gran perfil
 
 
 1.  **Conoce a tu público** Escribe como si hablaras al cliente, no a tu equipo interno o a Microsoft.
@@ -77,7 +75,7 @@ Gracias por tu paciencia mientras se completa esta interesante actualización. P
 
 10. **Mantén tu perfil actualizado** Mantén tu perfil sincronizado con la presencia web de tu compañía. Con cada versión del servicio o el software, actualiza tu perfil y tu sitio para garantizar una experiencia óptima del cliente.
 
-## Temas relacionados
+## <a name="related-topics"></a>Temas relacionados
 
 
 [Transición de Pinpoint al Centro de partners](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Gracias por tu paciencia mientras se completa esta interesante actualización. P
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

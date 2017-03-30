@@ -3,13 +3,11 @@ title: Notificar problemas en nombre de un cliente | Centro de partners
 Description: Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Notificar problemas en nombre de un cliente
+# <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
 **Se aplica a**
 
@@ -45,7 +43,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
     3.  Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
 
-## Preguntas más frecuentes
+## <a name="faq"></a>Preguntas más frecuentes
 
 
 **¿Qué se incluye como parte de los derechos de soporte técnico?**
@@ -87,11 +85,5 @@ Si inicias sesión en el Centro de administración de Office 365 directamente, v
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

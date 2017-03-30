@@ -3,13 +3,11 @@ title: "Disponibilidad de SKU única de Office 365 E5 en CSP | Centro de partner
 description: "La SKU única de Office 365 Enterprise E5 está disponible en CSP e incluye Conferencia RTC."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Aviso para partners de Office 365: Disponibilidad de SKU única de Office 365 E5 en CSP
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Aviso para partners de Office 365: Disponibilidad de SKU única de Office 365 E5 en CSP
 
 **Se aplica a**
 
@@ -17,24 +15,24 @@ ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 A partir del 5 de octubre de 2016, la SKU única de Office 365 Enterprise E5 estará disponible en CSP. Como parte de este cambio, la SKU de Office 365 Enterprise E5 incluye Conferencia RTC (donde el servicio Conferencia RTC esté disponible).
 
-## Resumen
+## <a name="summary"></a>Resumen
 
 
 Esta oferta de Office 365 Enterprise E5 simplifica la compra del conjunto de nube más completo y seguro para productividad y comunicaciones. Ahora puedes incluir servicios de conferencia de Skype sin usar complementos para administrar los puntos de precio diferentes.
 
 Los cambios mencionados anteriormente afectan a los pedidos y la facturación de los partners. Los Servicios RTC en algunos países también están sujetos a impuestos especiales y requisitos normativos.
 
-## Recomendaciones de partners
+## <a name="partner-recommendations"></a>Recomendaciones de partners
 
 
 Consulta tus asesores fiscales y legales para comprender la responsabilidad de tu organización respecto a las normativas, impuestos, y tasas de los servicios RTC y otras posibles responsabilidades.
 
-## Detalles
+## <a name="details"></a>Detalles
 
 
 En los Estados Unidos y Puerto Rico, los servicios RTC de Skype Empresarial están sujetos a impuestos especiales y requisitos normativos. Microsoft fija el precio de los servicios RTC con los impuestos incluidos. Los impuestos y normativas específicos de los servicios RTC afectarán a las transacciones de partners de Office 365 relativas a la nueva oferta unificada de Office 365 E5. Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
-## Disponibilidad de catálogo y lista de precios
+## <a name="price-list-and-catalog-availability"></a>Disponibilidad de catálogo y lista de precios
 
 
 Muchos partners de CSP requieren amplios plazos para integrar sus sistemas de administración de pedidos con la plataforma de comercio de Microsoft a través de API. Para garantizar que los partners pueden cerrar cualquier oportunidad de E5 antes de que sus sistemas estén listos para comercializar la SKU única de Office 365 Enterprise E5, las SKU siguientes permanecerán en la lista de precios de CSP hasta el 1 de julio de 2017:
@@ -46,7 +44,7 @@ Los partners verán varias SKU de Office 365 Enterprise E5 en la lista de precio
 
 Después del lanzamiento del 5 de octubre, algunas SKU mostrarán el mismo nombre para mostrar de la oferta, pero con diferentes puntos de precio, ya que la SKU única tendrá el mismo precio en todo el mundo, independientemente de la disponibilidad de RTC. Los partners deben aprovisionar la SKU única en la lista de precios (resaltada en gris en la tabla siguiente e identificada por el identificador de la oferta) y al lado del nombre de la oferta que se muestra en la página del catálogo del Centro de partners. En las próximas semanas, el texto del nombre para mostrar de la oferta definirá qué SKU llegarán al final de su ciclo de vida el 1 de julio de 2017.
 
-### SKU aparezca en la lista de precios de CSP por la fecha y la disponibilidad de RTC
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>SKU aparezca en la lista de precios de CSP por la fecha y la disponibilidad de RTC
 
 **Antes de lanzamiento de SKU única de Office 365 Enterprise E5**
 
@@ -196,7 +194,7 @@ Un ejemplo de conciliación de partners:
 
  
 
-## Recursos adicionales
+## <a name="additional-resources"></a>Recursos adicionales
 
 
 Para obtener más información, visita el sitio de [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Los recursos específicos de Office 365 Enterprise E5 se pueden encontrar en la [página de Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) en la pestaña **Comercializar y vender**:
@@ -211,11 +209,5 @@ Para obtener más información, visita el sitio de [Drumbeat](https://drumbeat.o
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

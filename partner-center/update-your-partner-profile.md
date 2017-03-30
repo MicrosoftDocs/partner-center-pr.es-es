@@ -3,13 +3,11 @@ title: Actualizar perfil de partner | Centro de partners
 description: "La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Actualizar el perfil de partner
+# <a name="update-your-partner-profile"></a>Actualizar el perfil de partner
 
 **Se aplica a**
 
@@ -37,11 +35,5 @@ La primera vez que inicies sesión en el Centro de partners como administrador, 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

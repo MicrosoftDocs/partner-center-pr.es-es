@@ -3,13 +3,11 @@ title: Agregar un cliente nuevo | Centro de partners
 description: "Para poder vender suscripciones, administrar la facturación o proporcionar soporte técnico, antes debes crear un registro de clientes en el Centro de partners. Esto incluye su información de contacto y un dominio de Azure AD."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Agregar un cliente nuevo
+# <a name="add-a-new-customer"></a>Agregar un cliente nuevo
 
 **Se aplica a**
 
@@ -34,11 +32,5 @@ Para revisar los datos del cliente más adelante, incluida la adición de licenc
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

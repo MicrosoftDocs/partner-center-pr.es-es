@@ -3,13 +3,11 @@ title: Asignar o revocar licencias a varios usuarios | Centro de partners
 description: Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Asignar o revocar licencias a varios usuarios
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
 **Se aplica a**
 
@@ -19,7 +17,7 @@ Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez 
 
 El Centro de partners realiza un seguimiento y muestra todos los derechos de licencia pertenecientes a los clientes.
 
-## En esta sección
+## <a name="in-this-section"></a>En esta sección
 
 
 -   [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ El Centro de partners realiza un seguimiento y muestra todos los derechos de lic
 6.  En **Asignar y revocar licencias**, borra las casillas de los productos asignados a los usuarios. Por ejemplo, si todos los usuarios seleccionados tienen licencias de Office 365 Enterprise y deseas revocarlas, selecciona la casilla para borrarla.
 7.  Selecciona **Guardar**.
 
-## Temas relacionados
+## <a name="related-topics"></a>Temas relacionados
 
 
 [Asignar licencias a un usuario](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ El Centro de partners realiza un seguimiento y muestra todos los derechos de lic
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
