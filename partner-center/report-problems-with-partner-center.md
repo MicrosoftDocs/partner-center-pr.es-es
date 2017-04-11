@@ -41,7 +41,7 @@ Puedes obtener una vista previa de la información de diagnóstico y luego guard
 
 1.  Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar. 
 
-    >**Nota**<br>
+    >**Nota**<br />
     En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía. Esto es correcto.
 
 2.  Sigue las instrucciones en pantalla para guardar el archivo.
