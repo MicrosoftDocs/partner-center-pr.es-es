@@ -3,15 +3,17 @@ title: "Proporcionar soporte técnico sobre la facturación | Centro de partners
 description: "Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="provide-billing-support"></a>Proporcionar soporte técnico sobre la facturación
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes.

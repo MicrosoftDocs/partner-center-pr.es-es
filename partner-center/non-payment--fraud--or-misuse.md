@@ -3,15 +3,17 @@ title: Impago, fraude o uso incorrecto | Centro de partners
 description: "Tú eres el responsable financiero de las compras fraudulentas que hagan tus clientes o de los impagos de tus clientes por servicios comprados. Por lo tanto, te recomendamos que implementes controles de mitigación de riesgos para la prevención y detección del fraude."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Tú eres el responsable financiero de las compras fraudulentas que hagan tus clientes o de los impagos de tus clientes por servicios comprados. Por lo tanto, te recomendamos que implementes controles de mitigación de riesgos para la prevención y detección del fraude. Eres responsable de decidir si quieres extender el crédito a un cliente.

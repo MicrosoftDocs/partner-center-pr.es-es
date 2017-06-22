@@ -3,15 +3,18 @@ title: Notificar los problemas que tengas con el Centro de partners | Centro de 
 description: "Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Ponte en contacto con soporte técnico del Centro de partners si detectas problemas con el Centro de partners, como errores o interrupciones del servicio.
@@ -28,7 +31,8 @@ Ponte en contacto con soporte técnico del Centro de partners si detectas proble
 
 Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Selecciona **Recopilar más información** del vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes del Centro de partners. Esta herramienta recopila información que necesita el equipo de soporte técnico del Centro de partners para determinar la causa del error. 
 
->**Nota**<br>
+**Nota**
+
 En las páginas del Centro de partners que incluyan **/pcv/** en la dirección URL, puedes abrir la herramienta manualmente para recopilar esta información.
 
 1.    Ve a la página con el problema.
@@ -39,7 +43,7 @@ Puedes obtener una vista previa de la información de diagnóstico y luego guard
 
 1.    Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar. 
 
-    >**Nota**<br />
+    >**Nota**<br>
     En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía. Esto es correcto.
 
 2.    Sigue las instrucciones en pantalla para guardar el archivo.

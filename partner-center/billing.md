@@ -3,20 +3,22 @@ title: "Facturación | Centro de partners"
 Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 85a187589eebf1724f98f16f15ae58e5ea105baf
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="billing"></a>Facturación
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
 
-Para la facturación, ve al menú **Panel**, a continuación, selecciona **Facturación**. Esta página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
+Para la facturación, ve al menú **Panel**, a continuación, selecciona **Facturación**. Esta página de facturación muestra tu historial de facturación y la tendencia, el saldo adeudado del mes actual (o anual si se factura de forma anual), vínculos a tu factura y archivos de conciliación y el pago más reciente.
 
 -   Microsoft no tiene requisitos o condiciones relativos a cómo controlar la facturación propia.
 -   Para determinar el uso de los clientes, usa el identificador o el nombre de cliente y otros campos pertinentes de los archivos de conciliación.
@@ -76,7 +78,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <tr class="odd">
 <td>Reglas de facturación</td>
 <td><ul>
-<li>Recibirás una factura cada mes por el programa CSP.</li>
+<li>Recibirás una factura cada mes (o cada año si la facturación es anual) para el programa CSP.</li>
 <li>Las suscripciones basadas en licencia se facturan en función del número de licencias adquiridas, no por el número de licencias usadas.</li>
 <li>Azure (suscripciones basadas en uso) se factura según las tarifas de uso medido, en función del consumo.</li>
 <li>El precio se garantiza durante la vigencia de la suscripción. Los precios pueden cambiar en el momento de la renovación de la suscripción.</li>
@@ -92,7 +94,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <td>Ajustes, créditos y cancelaciones</td>
 <td><ul>
 <li>No se permiten créditos para cuentas de prueba y pruebas de integración. Para evitar cargos de suscripción o cargos por anulación anticipada al realizar pruebas, puedes cancelar la suscripción durante el "período gratuito". Eres responsable de todos los cargos por uso de consumo de los servicios de Azure.</li>
-<li>Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación mensual después de la aplicación del crédito o ajuste.</li>
+<li>Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación mensual (o anual) después de la aplicación del crédito o ajuste.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -105,12 +107,24 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <li>Podrás obtener más información fiscal de la oficina de impuestos local o asesor fiscal.</li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td>Frecuencia</td>
+<td>
+La facturación basada en licencia puede ser mensual o anual. Para seleccionar, realiza una de las siguientes opciones:
+<ol>
+<li>Selecciona el cliente.</li>
+<li>Haz clic en Agregar suscripción.</li>
+<li>En la frecuencia de facturación, selecciona mensual o anual. (Nota: Una vez que hagas esta selección no se puede cambiar).</li>
+<li>Selecciona la suscripción en el catálogo.</li>
+</ol>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licensebasedbilling"></a>Facturación basada en licencias
+## <a href="" id="licensebasedbilling"></a>Facturación basada en licencia
 
 
 <table>
@@ -132,9 +146,9 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <td>Reglas de facturación</td>
 <td><ul>
 <li>Las suscripciones son anuales y se renuevan automáticamente.</li>
-<li>La facturación se hace en 12 pagos mensuales por suscripción anual.</li>
+<li>La facturación se realiza en 12 pagos mensuales o un pago único por suscripción anual.</li>
 <li>Se factura por adelantado para el siguiente período de facturación para los servicios basados en licencias, según las licencias al final del período de facturación anterior).</li>
-<li>Se factura o acredita por período vencido para cualquier cambio en el número de licencias (cálculo prorrata según el número de puestos-días). El cálculo prorrata usa la siguiente fórmula: [REDONDEO((REDONDEO(Precio unitario *Cantidad/ Número de días en el mes prorrateado, 2) * Número de días prorrateados)/Cantidad, 2) * Cantidad]</li>
+<li>Se factura o acredita por período vencido para cualquier cambio en el número de licencias (cálculo prorrata según el número de puestos-días). El cálculo prorrata usa la siguiente fórmula: [REDONDEO ((REDONDEO (Precio unitario * Cantidad / Número de días en el mes prorrateado, 2) * Número de días prorrateados) / Cantidad, 2) * Cantidad]</li>
 <li>Los pagos se facturarán por los puestos vendidos (no los puestos aprovisionados).</li>
 </ul></td>
 </tr>
@@ -143,6 +157,18 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <td><ul>
 <li>Actualmente, no se cobran tarifas por anulación anticipada debido a la cancelación de servicios basados en licencias.</li>
 <li>Los créditos de cancelación para los servicios basados en licencias se prorratean para los días sin usar en el caso de cancelaciones a mitad de ciclo (así como la disminución de licencias según la fórmula anterior).</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Frecuencia</td>
+<td>
+La facturación basada en licencia puede ser mensual o anual. Para seleccionar, realiza una de las siguientes opciones:
+<ol>
+<li>Selecciona el cliente.</li>
+<li>Haz clic en Agregar suscripción.</li>
+<li>En la frecuencia de facturación, selecciona mensual o anual. (Nota: Una vez que hagas esta selección no se puede cambiar).</li>
+<li>Selecciona la suscripción en el catálogo.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>

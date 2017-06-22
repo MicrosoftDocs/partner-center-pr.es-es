@@ -3,15 +3,17 @@ title: Soporte al cliente | Centro de partners
 description: "Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y de cuenta como los siguientes: Soporte para suscripciones y facturación. Ayuda para el aprovisionamiento y la implementación, así como para la configuración de software. Resolución de problemas de rendimiento, de disponibilidad del servicio, de conectividad del cliente y del escritorio del cliente debido a falta de ajustes de configuración o ajustes mal configurados, una integración de software incompleta, problemas de permisos u otros problemas de implementación. Administración de actualizaciones para los servicios y software. Proporcionar respuestas a preguntas sobre el uso. Los Proveedores de soluciones en la nube deben proporcionar una descripción clara a los clientes sobre cómo recibirán el soporte técnico. Si no ofreces soporte telefónico las 24 horas, debes proporcionar un contrato de nivel de servicio para explicar las opciones de las que disponen los clientes. Microsoft no proporciona soporte técnico a los clientes de CSP."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="customer-support"></a>Soporte al cliente
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y de cuenta, como los siguientes:

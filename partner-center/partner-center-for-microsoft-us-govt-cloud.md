@@ -2,9 +2,11 @@
 title: Centro de partners para Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government
 description: El Centro de partners para Microsoft Cloud for US Government es el portal empresarial para los partners de Microsoft que quieren ofrecer soluciones en la nube de Microsoft a clientes que trabajan con los organismos gubernamentales en los Estados Unidos.
 author: MaggiePucciEvans
-ms.openlocfilehash: 38bdfa4ca862dc2cfb6854505c43d83cc4a252bd
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 2eac70334691c353310d21168c2f48e3bea452c5
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro de partners para Microsoft Cloud for US Government
 
@@ -34,7 +36,7 @@ En el momento en el que se publicó este artículo, las siguientes característi
 - Buscar un partner
 - Perfiles de marketing
 - Referencias
-- Solicitar relación con un cliente existente (multicanal, multipartner)
+- Solicitar una relación de revendedor con un cliente (multicanal, multipartner)
 - Análisis de licencias
 - Perspectivas de clientes
 - Modelo y configuración de revendedor o proveedor indirectos

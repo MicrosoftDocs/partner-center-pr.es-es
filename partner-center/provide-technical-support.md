@@ -3,15 +3,17 @@ title: "Proporcionar soporte técnico | Centro de partners"
 description: Como partner de Proveedor de soluciones en la nube, tienes privilegios de administrador delegado que te dan acceso a todos los entornos de tus clientes.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="provide-technical-support"></a>Proporcionar soporte técnico
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Como partner de Proveedor de soluciones en la nube, tienes privilegios de administrador delegado que te dan acceso a todos los entornos de tus clientes. Estos privilegios te proporcionan la capacidad de configurar y administrar directamente las suscripciones de tus clientes, y proporcionar soporte técnico para ellas.

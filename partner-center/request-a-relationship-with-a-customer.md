@@ -3,36 +3,46 @@ title: "Solicitar relación con un cliente | Centro de partners"
 description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/09/2017
 ---
-# <a name="request-a-relationship-with-a-customer"></a>Solicitar relación con un cliente
+# <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-La solicitud de relación con un cliente se usa para los escenarios [multipartner](multipartner.md) y [multicanal](multichannel.md). También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
+Para administrar la suscripción o el servicio de un cliente en su nombre, el cliente debe conceder permisos de administrador de dicho servicio. Para obtener los permisos de administrador de un cliente, envíale un correo electrónico con una solicitud de relación de revendedor. Cuando el cliente apruebe la solicitud, podrás iniciar sesión en el portal de administración del servicio y administrar el servicio en nombre del cliente. 
 
-Ten en cuenta que este proceso solo agrega privilegios de administrador delegado. A menos que sea el revendedor de Proveedor de soluciones en la nube (CSP) original de la suscripción, el partner no recibirá una factura de estas suscripciones, ni puede agregar o quitar puestos, realizar pedidos de complementos, realizar la transición o la migración de las suscripciones o cambiar el partner de registro.
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente para establecer una relación de revendedor contigo
 
-<a href="" id="requestarelationship"></a>
-**Solicitar una relación**
+1.  Selecciona **Clientes** desde el menú **Panel** y, a continuación, selecciona **Solicitar una relación de revendedor**.
 
-1.  En el Centro de partners, ve al menú Panel &gt; **Clientes** &gt; **Solicitar una relación de revendedor**.
-2.  Copia el texto del correo electrónico. Puedes editar o eliminar los dos primeros párrafos, pero el vínculo debe quedar tal cual. La dirección URL de este vínculo es específica de tu cuenta de revendedor y no tiene incluye ninguna información de cliente. Puedes reutilizar el mismo vínculo cada vez que solicites una relación.
-3.  Envíala al cliente. Para aceptarla, el cliente puede hacer clic en el vínculo de invitación e iniciar sesión con una cuenta de administrador.
-4.  Después, el cliente puede revisar todos sus partners de diferentes servicios en la página **Relaciones de partner**, incluidos los partners que tienen privilegios de administrador delegado para cada servicio.
+2.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico en la aplicación de mensajería predeterminada o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 
-    Ten en cuenta que en el modelo multicanal, los clientes solo pueden tener un partner de transacciones CSP con privilegios de administrador delegado por servicio. También pueden tener permisos concedidos a otros partners que no forman parte del programa CSP.
+    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
 
-5.  El partner sabrá que el cliente ha aceptado la invitación cuando el cliente aparezca en la lista de clientes del partner en el Centro de partners. Posteriormente, el partner puede aprovisionar y administrar las suscripciones CSP del cliente.
+3.  Envía el correo electrónico a tu cliente.
 
-Los clientes tienen la opción de quitar privilegios de administrador delegado de cualquier o de todos los partners (incluidos los del programa CSP). Los clientes pueden hacerlo en su propio portal de administración. La cuenta del cliente y la relación comercial se siguen aplicando, a menos que el cliente y el partner lo renegocien. El asociado sigue siendo responsable de proporcionar soporte técnico para el cliente y de continuar respetando los términos del contrato de revendedores de soluciones en la nube, incluso después de que un cliente quite los permisos de administrador delegado del partner. En esta situación, si el cliente necesita ayuda, el partner debe llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+4.  Una vez que el cliente acepte tu invitación, aparecerá en la página **Clientes** y, podrás aprovisionar y administrar el servicio para el cliente desde allí.
 
-Para volver a establecer los privilegios de administrador delegado que el cliente ha quitado, puedes repetir el proceso de solicitud de una relación.
+ >**Nota**<br>
+    En un escenario multicanal, solo un partner puede tener permisos de administrador para administrar un servicio en nombre del cliente. 
+
+5.  Para administrar la cuenta, servicios, usuarios y licencias de un cliente, expande el registro del cliente, selecciona la flecha hacia abajo situada junto a su nombre.
+
+
+>**Importante**<br>
+Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+
+
+
+
 
  
 

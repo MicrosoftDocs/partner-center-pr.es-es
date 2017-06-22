@@ -3,15 +3,17 @@ title: Notificar problemas en nombre de un cliente | Centro de partners
 Description: Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.

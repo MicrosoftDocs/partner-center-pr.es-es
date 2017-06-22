@@ -3,9 +3,11 @@ title: "Inscríbete en el programa CSP | Centro de partners"
 description: "Antes de inscribirte en el programa Proveedor de soluciones en la nube, obtén más información sobre los requisitos del programa CSP."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
+ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/07/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -19,7 +21,7 @@ Para obtener información sobre la inscripción en el programa Proveedor de solu
 Antes de inscribirte en el programa Proveedor de soluciones en la nube (CSP), obtén más información sobre los [requisitos del programa CSP]( http://go.microsoft.com/fwlink/p/?LinkId=617116). Para obtener más información sobre el contrato de partner y otros requisitos del programa, consulta [Contratos, precios, listas y ofertas CSP](csp-documents-and-learning-resources.md). 
 
 >**Importante**<br>
-Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners.  
+Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Esta restricción se aplica solo al inquilino utilizado para llevar a cabo las transacciones de CSP. Los partners de CSP que usan a un inquilino no relacionados con CSP para su uso corporativo, pueden adquirir servicios en línea desde otro CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners.  
 
 Obtén información sobre cómo tener derecho a incentivos del programa CSP, incorporarte a la plataforma de incentivos y conseguir fondos de incentivos. Consulta [Detalles del programa](https://go.microsoft.com/fwlink/?linkid=831533).
 
@@ -40,11 +42,32 @@ El programa Proveedor de soluciones en la nube está disponible para las compañ
 | Taiwán                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Estados Unidos                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Australia, Fiyi                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Argentina, Bahamas, Barbados, Belice, Bermudas, Bolivia, Chile, Colombia, Costa Rica, Curazao, Ecuador, El Salvador, Guatemala, Honduras, Islas Caimán, Islas Vírgenes, Jamaica, México, Nicaragua, Panamá, Paraguay, Perú, Puerto Rico, República Dominicana, San Cristóbal y Nieves, Trinidad y Tobago, Uruguay, Venezuela,                                                                                                           |
-| Alemania, Austria, Bélgica, Bulgaria, Chipre, Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Islandia, Islas Feroe, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Noruega, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumania, Suecia, Suiza,                                                                                          |
-| Afganistán, Albania, Arabia Saudí, Argelia, Armenia, Autoridad Nacional Palestina, Azerbaiyán, Baréin, Belarús, Bosnia y Herzegovina, Qatar, Egipto, Emiratos Árabes Unidos, Georgia, Iraq, Israel, Jordania, Kazajistán, Kirguistán, Kuwait, Líbano, Libia, Macedonia (ERYM), Marruecos, Moldova, Mongolia, Montenegro, Omán, Pakistán, Serbia, Sudáfrica, Tayikistán, Túnez, Turkmenistán, Turquía, Ucrania, Uzbekistán, Yemen, Zimbabue |
+| Anguila, Antigua y Barbuda, Argentina, Aruba, Bahamas, Barbados, Belice, Bolivia, Bermudas, Bonaire, Chile, Colombia, Costa Rica, Curazao, República Dominicana, Ecuador, El Salvador, Guayana francesa, Guadalupe, Guatemala, Honduras, Islas Caimán, Islas Turcas y Caicos, Islas Vírgenes de los Estados Unidos, Jamaica, Martinica, México, Nicaragua, Panamá, Paraguay, Perú, Puerto Rico, San Cristóbal y Nieves, Santa Lucía, San Martín, San Vicente y las Granadinas, Sint Maarten, Surinam, Trinidad y Tobago, Uruguay, Venezuela.                                                                                                           |
+| Alemania, Andorra, Austria, Bélgica, Bulgaria, Croacia, Chipre, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Groenlandia, Hungría, Irlanda, Isla de Man, Islandia, Italia, Jersey, Letonia, Liechtenstein, Lituania, Luxemburgo, Madagascar, Malaui, Mali, Malta, Mayotte, Mónaco, Países Bajos, Nueva Caledonia, Noruega, Polonia, Portugal, Reino Unido, Rumanía, San Marino, Eslovaquia, Eslovenia, España, Suecia, Suiza, Ciudad del Vaticano.                                                                                          |
+| Afganistán, Albania, Arabia Saudí, Argelia, Armenia, Autoridad Nacional Palestina, Azerbaiyán, Baréin, Belarús, Benín, Bosnia y Herzegovina, Burundi, Catar, Comoras, Egipto, Emiratos Árabes Unidos, Georgia, Iraq, Israel, Jordania, Kazajistán, Kirguistán, Kuwait, Líbano, Libia, Macedonia (ERYM), Marruecos, Moldova, Mongolia, Montenegro, Mozambique, Omán, Pakistán, Reunión, Serbia, Seychelles, Sudáfrica, Tayikistán, Togo, Túnez, Turkmenistán, Turquía, Ucrania, Uzbekistán, Yemen, Zimbabue |
 | Angola, Botsuana, Cabo Verde, Camerún, Côte d’Ivoire, Etiopía, Ghana, Kenia, Mauricio, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
-| Bangladesh, Brunéi Darussalam, Filipinas, Hong Kong (RAE), Indonesia, Macao (RAE), Malasia, Nepal, Singapur, Sri Lanka, Tailandia, Vietnam                                                                                                                                                                                                                                                                                              |
+| Bangladesh, Bután, Brunéi Darussalam, Camboya, Filipinas, Indonesia, Islas Marshall, Laos, Malasia, Maldivas, Myanmar, Nepal, Papúa Nueva Guinea, RAE de Hong Kong, RAE de Macao, Singapur, Sri Lanka, Tailandia, Tonga, Vietnam                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Monedas de facturación según el país
+
+La ubicación geográfica determina la moneda en la que se factura como se muestra en la siguiente tabla. 
+
+| Moneda | País |
+| ---- | ---- |
+| USD | Albania, Anguila, Antigua y Barbuda, Argentina, Armenia, Aruba, Azerbaiyán, Bahamas, Bahréin, Bangladesh, Barbados, Belarús, Belice, Benín, Bermudas, Bolivia, Bonaire, Brasil, Brunéi, Burundi, Camerún, Islas Caimán, Chile, Colombia, Comoras, Costa Rica, Curazao, República Dominicana, Ecuador, Egipto, El Salvador, Fiyi, Guayana francesa, Polinesia francesa, Georgia, Ghana, Guatemala, Honduras, RAE de Hong Kong, Indonesia, Irak, Israel, Jamaica, Kazajistán, Kenia, Kuwait, Kirguistán, Líbano, Macao RAE, Madagascar, Malawi, Malasia, Malí, Mauricio, Mayotte, México, Marruecos, Namibia, Nueva Caledonia, Nicaragua, Nigeria, Omán, Pakistán, Panamá, Paraguay, Perú, Filipinas, Puerto Rico, Qatar, Reunión, Ruanda, Santa Lucía, San Martín, San Vicente y las Granadinas, Arabia Saudí, Serbia, Seychelles, Singapur, Sint Maarten, Sudáfrica, Sri Lanka, Surinam, Tanzania, Tailandia, Timor-Leste, Togo, Trinidad y Tobago, Túnez, Turquía, Islas Turcas y Caicos, Islas Vírgenes de EE. UU., Ucrania, Emiratos Árabes Unidos, Estados Unidos, Uruguay, Venezuela, Vietnam  | 
+| TWD | Taiwán |
+| SEK | Suecia |
+| INR | India |
+| RUB | Rusia |
+| NZD | Nueva Zelanda |
+| NOK | Noruega |
+| KRW | Corea |
+| JPY | Japón |
+| GBP | Isla de Man, Jersey, Reino Unido |
+| EUR | Alemania, Austria, Bélgica, Bulgaria, Chipre, Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Islandia, Islas Feroe, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Noruega, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumania, Suecia, Suiza. |
+| DKK | Dinamarca |
+| CHF | Suiza |
+| CAD | Canadá |
+| AUD | Australia, Islas Marshall, Papúa Nueva Guinea, Tonga |
 
  
 

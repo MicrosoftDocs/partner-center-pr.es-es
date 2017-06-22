@@ -2,9 +2,10 @@
 title: "Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government"
 description: "Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud for US Government no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud for US Government."
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 Las siguientes tareas del Centro de partners se administran con el portal de administración de Azure para Microsoft Cloud for US Government:
 
-Administración de usuarios de partners
+- Administración de usuarios de partners
 
-Administración de licencias y usuarios de cliente
+- Administración de licencias y usuarios de cliente
 
-Restablecer contraseñas de usuario
+- Restablecer contraseñas de usuario
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud for US Government
 

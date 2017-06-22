@@ -2,9 +2,11 @@
 title: Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government
 description: "Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government, obtén más información sobre los requisitos del programa CSP."
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government
 
@@ -18,7 +20,7 @@ Los partners de Microsoft del programa Proveedor de soluciones en la nube (CSP) 
 
 Para obtener más información, consulta [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
-Antes de inscribirte en el programa Proveedor de soluciones en la nube (CSP), debes crear una nueva cuenta de Microsoft Azure Government. Para crear esta cuenta, completa el [formulario de validación de Microsoft Government Cloud](https://aka.ms/azgovcspreq) y envíalo por correo electrónico a <azgovcsp@microsoft.com>.
+Antes de inscribirte en el programa Proveedor de soluciones en la nube (CSP), debes crear una nueva cuenta de Microsoft Azure Government. Para crear esta cuenta, completa el [formulario de validación de Microsoft Government Cloud](http://azuregov.microsoft.com/csp) y envíalo por correo electrónico a <azgovcsp@microsoft.com>.
 
 >**Importante**<br>
 Si tienes una cuenta existente en el Centro de partners y quieres inscribirte en el CSP de Microsoft Cloud for US <Government></Government>, debes crear una nueva cuenta independiente para el Centro de partners para Microsoft Cloud for US Government.
@@ -35,7 +37,7 @@ Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsof
 
 1.  Inicia el proceso de inscripción. 
 
-2.  Inicia sesión con las credenciales de administrador global de la cuenta de Microsoft Cloud for US Government de la organización para Microsoft Azure. Si la organización no tiene ninguna cuenta para este portal, puedes crear una si completas el [formulario de validación de Microsoft Government Cloud](https://aka.ms/azgovcspreq) y lo envías por correo electrónico a <azgovcsp@microsoft.com>.
+2.  Inicia sesión con las credenciales de administrador global de la cuenta de Microsoft Cloud for US Government de la organización para Microsoft Azure. Si la organización no tiene ninguna cuenta para este portal, puedes crear una si completas el formulario de validación de [Microsoft Government Cloud](http://azuregov.microsoft.com/csp).
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>Paso 2: Solicitar convertirse en partner de Proveedor de soluciones en la nube desde Microsoft Cloud for US Government

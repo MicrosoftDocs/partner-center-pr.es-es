@@ -3,15 +3,17 @@ title: Ver ofertas y precios | Centro de partners
 description: "Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube, junto con los precios para los partners, ve al menú Panel y elige Precios y ofertas."
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
-ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e4217e8cef7067a6917beb86299f9eee9ea6490c
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: es-ES
 ---
 # <a name="see-offers-and-pricing"></a>Ver ofertas y precios
 
 **Se aplica a**
 
 -  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 Para ver una lista de ofertas disponibles en los programas Proveedor de soluciones en la nube, junto con los precios para los partners, ve al menú Panel y elige **Precios y ofertas**.

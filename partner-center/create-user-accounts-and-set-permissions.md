@@ -3,40 +3,51 @@ title: Crear cuentas de usuario y establecer permisos | Centro de partners
 description: El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
+ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 05/25/2017
 ---
-# <a name="create-user-accounts-and-set-permissions"></a>Crear cuentas de usuario y establecer permisos
+# <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
 **Se aplica a**
 
 -  Centro de partners
 
-El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners. Estas tareas las debe hacer un administrador con los permisos **Administrador global** o **Administrador de administración de usuarios**. En **Configuración de la cuenta** &gt; **Administración de usuarios**, puedes agregar cuentas y establecer o actualizar los permisos.
+Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe hacer un administrador con los permisos de administrador de administración de usuarios. 
 
-**Agregar un usuario nuevo**
+## <a name="add-a-new-user"></a>Agregar un usuario nuevo
 
-1.  En el Centro de partners, ve al menú Panel &gt; **Configuración de la cuenta** &gt; **Administración de usuarios**.
-2.  Elige **Agregar usuario**.
+1. En el menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios**.
 
-3.  Escribe el nombre completo del usuario y crea una dirección de correo única para él.
+2.  Selecciona **Agregar usuario**.
 
-4.  Selecciona el tipo de agente y el tipo de administrador. El acceso al Centro de partners se basa en roles, por lo que las selecciones que hagas en este paso personalizan la vista de usuario para mostrar solamente la funcionalidad necesaria. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección [Establecer permisos de usuario](#setuserpermissions).
+3.  Escribe el nombre completo y la dirección de correo electrónico del usuario.
 
-5.  Agrega el usuario. Verás una pantalla de confirmación con una contraseña temporal para el inicio de sesión nuevo. Tienes que copiar esta información y enviarla al nuevo usuario: no es accesible después de salir de la pantalla. Cuando el usuario inicie sesión por primera vez, se le pedirá que actualice la contraseña.
+4.  Selecciona el tipo de agente y el tipo de administrador. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección [Asignar permisos de usuario](#assignuserpermissions).
 
-### <a href="" id="setuserpermissions"></a>Establecer permisos de usuario
+5.  Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
-El acceso al Centro de partners se basa en roles, lo que significa que puedes personalizar la vista de usuario para mostrar solamente la funcionalidad que este último necesita para su función de trabajo. Para cada usuario, tienes que seleccionar dos opciones:
+>**Importante**<br>
+Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
 
--   El ajuste **agente** controla el tipo de datos de cliente y la información de Microsoft que el usuario puede ver.
+>El usuario tendrá que iniciar sesión en el Centro de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Centro de partners por primera vez, se le pedirá cambiar la contraseña.    
 
--   El ajuste **admin** determina el grado de control que el usuario posee sobre el entorno del Centro de partners y todos los demás servicios Microsoft (cuentas, perfiles e incidencias de soporte técnico). Esta configuración influye fuera del Centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios Microsoft (incluso los que no estén relacionados con CSP) y un administrador global también puede acceder a las cuentas de usuario y cuentas de cliente más allá de CSP.
 
-    El valor predeterminado siempre debe ser **No admin**, a menos que el rol del usuario necesite acceso adicional para completar las tareas y brindar soporte a los clientes.
+### <a href="" id="assignuserpermissions"></a>Asignar permisos de usuario
 
-En la siguiente tabla se explica el conjunto completo de actividades que cada rol puede hacer en el Centro de partners.
+El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas. 
+
+Para cada usuario, tienes que seleccionar dos niveles de permisos:
+
+-   Los permisos de agente controlan qué tipo de datos de cliente e información de la cuenta pueden ser vistas y cambiadas por el usuario.
+
+-   Los permisos de administrador controlan el nivel de acceso que el usuario tiene a las características del Centro de partners. Esta configuración influye fuera del Centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios Microsoft (incluso los que no estén relacionados con CSP) y un administrador global también puede acceder a las cuentas de usuario y cuentas de cliente más allá de CSP.
+
+>**Importante** El valor predeterminado siempre debe ser **No admin**, a menos que el rol del usuario necesite acceso adicional para completar las tareas y brindar soporte a los clientes.
+
+La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 
 <table>
 <colgroup>
@@ -59,7 +70,7 @@ En la siguiente tabla se explica el conjunto completo de actividades que cada ro
 <li><p>Solicitar privilegios de administrador delegado</p></li>
 <li><p>Ver precios y ofertas</p></li>
 <li><p>Facturación</p></li>
-<li><p>Administración en nombre de</p></li>
+<li><p>Administrar en nombre de un cliente</p></li>
 <li><p>Registrar un revendedor de valor agregado</p></li>
 </ul></td>
 <td><ul>
@@ -73,18 +84,18 @@ En la siguiente tabla se explica el conjunto completo de actividades que cada ro
 <li><p>Administración de clientes</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Ver incidencias de soporte técnico</p></li>
-<li><p>Solicitar una relación</p></li>
+<li><p>Solicitar relación con un cliente</p></li>
 <li><p>Administrar clientes potenciales</p></li>
 <li><p>Ver el contrato de cliente</p></li>
 <li><p>Registrar un revendedor de valor agregado</p></li>
 </ul></td>
 <td><ul>
-<li><p>Crear incidencias de soporte técnico para los servicios o el Centro de partners</p></li>
+<li><p>Crear solicitudes de servicio para los problemas con el Centro de partners</p></li>
 <li><p>Resolver incidencias de soporte técnico</p></li>
 <li><p>Ver el estado del servicio</p></li>
 <li><p>Ver precios y ofertas</p></li>
 <li><p>Facturación</p></li>
-<li><p>Administración en nombre de</p></li>
+<li><p>Administrar en nombre de un cliente</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -93,15 +104,15 @@ En la siguiente tabla se explica el conjunto completo de actividades que cada ro
 <li><p>Buscar y ver un cliente</p></li>
 <li><p>Editar detalles del cliente</p></li>
 <li><p>Estado del servicio</p></li>
-<li><p>Crear vales de soporte para los clientes</p></li>
-<li><p>Administrar servicios en nombre de clientes</p></li>
+<li><p>Solicitar soporte técnico en nombre de los clientes (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)</p></li>
+<li><p>Administrar las suscripciones y servicios en nombre de los clientes (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Ver perfiles de asociados</p></li>
-<li><p>Crear una nueva lista de clientes</p></li>
+<li><p>Crear una nueva cuenta de cliente</p></li>
 <li><p>Editar la información de facturación del cliente</p></li>
-<li><p>Administración de suscripciones</p></li>
-<li><p>Solicitar una relación</p></li>
+<li><p>Administrar las suscripciones</p></li>
+<li><p>Solicitar relación con un cliente</p></li>
 <li><p>Administrar clientes potenciales</p></li>
 <li><p>Ver precios y ofertas</p></li>
 <li><p>Ver el contrato de cliente</p></li>
