@@ -3,10 +3,11 @@ title: Suscripciones de cliente | Centro de partners
 description: "Los partners pueden vender suscripciones a los clientes y administrarlas a través del Centro de partners."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: es-ES
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="customer-subscriptions"></a>Suscripciones de cliente
 
@@ -23,6 +24,8 @@ Puedes vender suscripciones a los clientes y administrarlas a través del Centro
 [Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
 
 [Suspender una suscripción](suspend-a-subscription.md)
+
+[Eliminar una relación con revendedor o un cliente](remove-a-relationship.md)
 
 [Agregar licencias o servicios a una suscripción existente](add-licenses-or-services-to-an-existing-subscription.md)
 

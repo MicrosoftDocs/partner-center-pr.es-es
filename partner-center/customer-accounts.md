@@ -3,11 +3,11 @@ title: Cuentas de cliente | Centro de partners
 Description: "Como partner revendedor, debes crear una cuenta para cada uno de tus clientes en el Centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico."
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
-ms.openlocfilehash: e3f035ce8451cbbc923b2ae34efb9948afb972c0
-ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.openlocfilehash: b2d2565031d0377bdeeca62e32910240e96b4b61
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/26/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="customer-accounts"></a>Cuentas de cliente
 
@@ -22,6 +22,8 @@ Como partner revendedor, debes crear una cuenta para cada uno de tus clientes en
 [Consultar la lista de clientes](see-your-customer-list.md)
 
 [Agregar un cliente nuevo](add-a-new-customer.md)
+
+[Eliminar una relación](remove-a-relationship.md)
 
 [Cambiar las suscripciones de Azure a otro partner](switch-azure-subscriptions-to-a-different-partner.md)
 

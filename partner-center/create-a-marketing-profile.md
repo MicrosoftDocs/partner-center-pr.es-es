@@ -3,11 +3,11 @@ title: Crear un perfil de marketing | Centro de partners
 description: "Atrae a más clientes potenciales al crear un perfil de marketing en el Centro de partners."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>Crear un perfil de marketing
 
@@ -30,7 +30,7 @@ Crea un perfil para cada país en el que tengas autorización para hacer negocio
 
 1.  En el [Centro de partners](http://go.microsoft.com/fwlink/p/?LinkId=808956), desde el menú **Panel**, selecciona **Referencias** &gt; **Perfiles de Marketing** &gt; **[Agregar un perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.    En la página **Crear un perfil de marketing**, selecciona una región y después escribe tu información de perfil, incluidas las secciones de información de partner y la experiencia.
+2.  En la página **Crear un perfil de marketing**, selecciona una región y después escribe tu información de perfil, incluidas las secciones de información de partner y la experiencia.
 
     Más adelante, tras completar el primer perfil, podrás crear perfiles adicionales basados en este, seleccionando **Copiar a partir de un perfil existente**.
 
@@ -83,11 +83,9 @@ Se recomienda que habilites esta configuración. Sin embargo, si hay productos q
 
 #### <a href="" id="#target_size"></a>Tamaño de destino
 
-Para ayudarle a refinar los tipos de referencias que recibes, puedes agregar una preferencia para que solo funcione con empresas de determinados tamaños. Al agregar estas preferencias, puedes decidir no usar referencias de empresas de otros tamaños.
+Puedes dejar de participar en las referencias de las empresas que no cumplan con el tamaño del cliente de destino.
 
-Los resultados de búsqueda del cliente usan la capacidad de respuesta de la empresa como factor. Para ayudar a mejorar tu visibilidad en las búsquedas futuras, responde rápidamente a las solicitudes entrantes del cliente.
-
-Descartar las referencias de las empresas que no cumplen con el tamaño de destino del cliente ayudará a tener más capacidad de respuesta general.
+Si es así, dispondrás de más tiempo para pasar en los negocios que coincidan con corresponden a aquellos con los que desees trabajar.
 
 ### <a href="" id="#locations"></a> Ubicaciones
 

@@ -3,11 +3,11 @@ title: Crear cuentas de usuario y establecer permisos | Centro de partners
 description: El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -65,6 +65,8 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <td><p><strong>Agente de administración</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
+<li><p>Agregar una lista de dispositivos en el Centro de partners</p></li>
+<p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
 <li><p>Solicitar privilegios de administrador delegado</p></li>
@@ -82,6 +84,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <td><p><strong>Agente de ventas</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
+<li><p>Agregar una lista de dispositivos en el Centro de partners</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Ver incidencias de soporte técnico</p></li>
 <li><p>Solicitar relación con un cliente</p></li>

@@ -3,11 +3,11 @@ title: "Solicitar relación con un cliente | Centro de partners"
 description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
@@ -40,13 +40,6 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 >**Importante**<br>
 Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
+## <a name="related-topics"></a>Temas relacionados
 
-
-
-
- 
-
- 
-
-
-
+[Eliminar una relación](remove-a-relationship.md)

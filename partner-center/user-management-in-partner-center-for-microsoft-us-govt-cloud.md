@@ -2,10 +2,11 @@
 title: "Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government"
 description: "Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud for US Government no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud for US Government."
 author: MaggiePucciEvans
-ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
-ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
+ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
 ms.translationtype: HT
 ms.contentlocale: es-ES
+ms.lasthandoff: 06/15/2017
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -13,18 +14,18 @@ ms.contentlocale: es-ES
 
 -  Centro de partners para Microsoft Cloud for US Government
 
-Las siguientes tareas del Centro de partners se administran con el portal de administración de Azure para Microsoft Cloud for US Government:
+Las siguientes tareas del Centro de partners se administran en el portal de administración de Azure para Microsoft Cloud for US Government:
 
 - Administración de usuarios de partners
 
 - Administración de licencias y usuarios de cliente
 
-- Restablecer contraseñas de usuario
+- Restablecimiento de contraseñas de usuarios
 
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud for US Government
 
-Si has iniciado sesión en el Centro de partners para Microsoft Cloud for US Government, puedes abrir el portal de Azure para Microsoft Cloud for US Government sin tener que volver a iniciar sesión. Sin embargo, si necesitas iniciar sesión directamente en el portal de Azure para Microsoft Cloud for US Government, ve a (https://portal.azure.us/). 
+Si has iniciado sesión en el Centro de partners para Microsoft Cloud for US Government, puedes abrir el portal de Azure para Microsoft Cloud for US Government sin tener que volver a iniciar sesión. Sin embargo, si tienes que iniciar sesión directamente en el portal de Azure para Microsoft Cloud para el gobierno de los Estados Unidos, ve a (https://portal.azure.us/) e inicia sesión con las credenciales de administrador global para tu inquilino de Azure AD para Microsoft Cloud for US Government.
 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud for US Government, abre la página de introducción a Azure Active Directory (Azure AD) y sigue las instrucciones sobre estos temas:
 
