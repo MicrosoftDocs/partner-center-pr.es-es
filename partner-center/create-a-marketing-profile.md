@@ -3,12 +3,21 @@ title: Crear un perfil de marketing | Centro de partners
 description: "Atrae a más clientes potenciales al crear un perfil de marketing en el Centro de partners."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>Crear un perfil de marketing
 
 **Se aplica a**
@@ -24,15 +33,19 @@ El primer paso para obtener clientes potenciales es crear un perfil de marketing
 *  **La experiencia de búsqueda [Buscar un partner](https://partnercenter.microsoft.com/pcv/search)**. Los clientes potenciales pueden buscar por su cuenta programas de partners para localizar a partners que cumplan los criterios de búsqueda. 
 *  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft, a continuación, pueden presentar tu empresa a los clientes potenciales.
 
+**Usuarios de Pinpoint, C2PC y Sales Connect**: estamos combinando estas herramientas en el Centro de partners. Si has usado estas herramientas en el pasado, crea un nuevo perfil de marketing en el Centro de partners para continuar generando y administrando tus clientes potenciales. Ten en cuenta que actualmente no se admiten los perfiles de importación de los sitios anteriores. 
+
 ## <a name="create-a-profile"></a>Crear un perfil
 
-Crea un perfil para cada país en el que tengas autorización para hacer negocios.
+Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
-1.  En el [Centro de partners](http://go.microsoft.com/fwlink/p/?LinkId=808956), desde el menú **Panel**, selecciona **Referencias** &gt; **Perfiles de Marketing** &gt; **[Agregar un perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Inicia sesión en [Centro de partners](http://go.microsoft.com/fwlink/p/?LinkId=808956) con un [cuenta de agente de administración o administrador global](create-user-accounts-and-set-permissions.md).
 
-2.  En la página **Crear un perfil de marketing**, selecciona una región y después escribe tu información de perfil, incluidas las secciones de información de partner y la experiencia.
+2.  En el menú **Panel**, selecciona **Referencias** &gt; **Perfiles de marketing** &gt; **[Agregar un perfil de marketing](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-    Más adelante, tras completar el primer perfil, podrás crear perfiles adicionales basados en este, seleccionando **Copiar a partir de un perfil existente**.
+3.  En la página **Crear un perfil de marketing**, selecciona una región y después escribe tu información de perfil, incluidas las secciones de información de partner y la experiencia.
+    
+    Ten en cuenta que mientras el Centro de partners admite varios idiomas, algunos elementos, tales como la descripción y las etiquetas de forma libre puede que tengan que incluir texto de diferentes idiomas, tal y como se indica en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 
@@ -49,8 +62,9 @@ La descripción puede tener hasta 1000 caracteres. Sugerencias para una buena de
 *  **No te preocupes por llenar la descripción con palabras clave de búsqueda**. Las herramientas de búsqueda del cliente buscarán palabras clave que se generan en la sección de la experiencia de Partner, no en la descripción.
 *  **Mantén tu perfil actualizado**. Con cada servicio o lanzamiento de software, actualiza tu perfil y mantenlo sincronizado con el sitio web de tu empresa.
 *  **No hagas referencia a otra compañía asociada a Microsoft por nombre**, a menos que se trate de una subsidiaria o que de alguna forma esté relacionada con tu compañía, o que tenga un contrato actual con esa compañía asociada para actuar en asociación o para promoverse mutuamente con el fin de compartir las oportunidades de trabajo.
+*  **Para las regiones con varios idiomas**, considera la posibilidad de incluir texto de varios idiomas en la descripción.
 
-#### <a href="" id="linkedin"></a>Página de la compañía de LinkedIn: más formas de conectarse
+#### <a href="" id="linkedin"></a> Página de la empresa LinkedIn: más formas de conectarse
 
 Agrega la página de la compañía de LinkedIn para reforzar las conexiones con los clientes potenciales. 
 
@@ -70,7 +84,7 @@ Empieza agregando tus propias etiquetas en la sección de la experiencia de part
 *  **Soluciones, habilidades y capacidades**. Estas etiquetas son de forma libre y proporcionan la capacidad de agregar palabras clave de búsqueda exclusivas para sus capacidades.
 
 Otras etiquetas que se usan en la búsqueda:
-*  **[Etiquetas de las competencias](https://partner.microsoft.com/membership/competencies)** son una designación merecida que presenta las capacidades de tu empresa.
+*  **Etiquetas de competencia** son una designación merecida que presenta las capacidad de tu empresa.
 *  Las **Etiquetas de aprobación** se obtienen cuando Microsoft o los clientes que han trabajado contigo avalan tu trabajo.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir a Microsoft avalar mis áreas de experiencia
@@ -91,13 +105,19 @@ Si es así, dispondrás de más tiempo para pasar en los negocios que coincidan 
 
 Puedes agregar hasta 5 ubicaciones por región. Estas ubicaciones aparecen cuando los clientes buscan partners por proximidad. 
 
-Indicar las ubicaciones que sean ubicaciones oficiales de la empresa y que se puedan validar. Elige ubicaciones que sean centrales a los mercados que sirves y representen mejor la capacidad de tu empresa para cumplir con sus tareas.
+Indicar las ubicaciones que sean ubicaciones oficiales de la empresa y que se puedan validar. Elige ubicaciones que sean centrales a los mercados que ofrezcan y representen mejor la capacidad de tu empresa para cumplir con sus tareas.
+
+Cada ubicación que agregas se convierte en una página de perfil diferente. Al actualizar las páginas de perfil, asegúrate de actualizarlas en cada ubicación.
+
+## <a name="review-your-profile"></a>Revisar tu perfil
+
+Después de publicar tu perfil, aparecen actualizaciones en las búsquedas de [Buscar un partner](https://partnercenter.microsoft.com/pcv/search) en el plazo de 24 horas. 
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Mejorar la visibilidad de tu perfil 
 
 *  **[Responder rápidamente a las solicitudes](responding-to-referrals.md)**. Cuando recibas una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para que los futuros clientes.
 *  **Sé selectivo con las etiquetas**.  Es mejor tener menos etiquetas que representen mejor las ofertas de tu empresa, soluciones, propuestas de valor y una posición única donde puedas demostrar coherentemente éxito.  Esto tendrá sus frutos en los futuros resultados de búsqueda.
-*  **Conseguir [etiquetas de las competencias](https://partner.microsoft.com/membership/competencies)** a través de Microsoft para demostrar la competencia en nuestros productos.
+*  **Conseguir etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
 *  **Conseguir etiquetas de aprobación** de los clientes que aprecian tu trabajo.
 
 ## <a name="related-topics"></a>Temas relacionados

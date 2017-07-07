@@ -2,11 +2,12 @@
 title: "Quitar una relación con un revendedor o un cliente | Centro de partners"
 description: "Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners."
 author: KPacquer
-ms.openlocfilehash: d6528a2910de0400a70f43ea1a02a79e32467fa8
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+robots: noindex,nofollow
+ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
+ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 06/27/2017
 ---
 # <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>Eliminar una relación con revendedor o un cliente
 

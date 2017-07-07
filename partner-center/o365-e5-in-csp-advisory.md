@@ -3,9 +3,11 @@ title: "Disponibilidad de SKU única de Office 365 E5 en CSP | Centro de partner
 description: "La SKU única de Office 365 Enterprise E5 está disponible en CSP e incluye Conferencia RTC."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Aviso para partners de Office 365: Disponibilidad de SKU única de Office 365 E5 en CSP
 
@@ -30,12 +32,12 @@ Consulta tus asesores fiscales y legales para comprender la responsabilidad de t
 ## <a name="details"></a>Detalles
 
 
-En los Estados Unidos y Puerto Rico, los servicios RTC de Skype Empresarial están sujetos a impuestos especiales y requisitos normativos. Microsoft fija el precio de los servicios RTC con los impuestos incluidos. Los impuestos y normativas específicos de los servicios RTC afectarán a las transacciones de partners de Office 365 relativas a la nueva oferta unificada de Office 365 E5. Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
+En los Estados Unidos, Puerto Rico y Canadá, los servicios RTC de Skype Empresarial están sujetos a impuestos especiales y requisitos normativos. Microsoft fija el precio de los servicios RTC con los impuestos incluidos. Los impuestos y normativas específicos de los servicios RTC afectarán a las transacciones de partners de Office 365 relativas a la nueva oferta unificada de Office 365 E5. Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
 ## <a name="price-list-and-catalog-availability"></a>Disponibilidad de catálogo y lista de precios
 
 
-Muchos partners de CSP requieren amplios plazos para integrar sus sistemas de administración de pedidos con la plataforma de comercio de Microsoft a través de API. Para garantizar que los partners pueden cerrar cualquier oportunidad de E5 antes de que sus sistemas estén listos para comercializar la SKU única de Office 365 Enterprise E5, las SKU siguientes permanecerán en la lista de precios de CSP hasta el 1 de julio de 2017:
+Muchos partners de CSP requieren amplios plazos para integrar sus sistemas de administración de pedidos con la plataforma de comercio de Microsoft a través de API. Para garantizar que los partners pueden cerrar cualquier oportunidad de E5 antes de que sus sistemas estén listos para comercializar la SKU única de Office 365 Enterprise E5, las SKU siguientes permanecerán en la lista de precios de CSP hasta el 1 de julio de 2017: 
 
 -   Office 365 Enterprise E5 sin Conferencia RTC
 -   SKU de complementos de Conferencia RTC (en mercados habilitados para RTC)
@@ -53,6 +55,7 @@ Después del lanzamiento del 5 de octubre, algunas SKU mostrarán el mismo nombr
 **Identificador de oferta**
 
 **Precio unitario**
+
 
 **ERP**
 

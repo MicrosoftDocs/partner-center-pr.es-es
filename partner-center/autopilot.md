@@ -1,41 +1,41 @@
 ---
-title: "Agregar un perfil de implementaciones sin interacción para simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners"
-description: "Agregar un perfil de implementaciones sin interacción en el Centro de partners para simplificar la configuración del dispositivo con Autopilot de Windows"
+title: "Simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners"
+description: "Agregar un perfil de implementación de AutoPilot de Windows en el Centro de partners para simplificar la configuración del dispositivo con AutoPilot de Windows"
 author: KPacquer
-keywords: "autopilot, autopilot de windows, microsoft autopilot, ztd, sin interacción, oobe, pantallas de inicio de sesión"
+keywords: "autopilot, autopilot de windows, microsoft autopilot, implementación sin interacción, oobe, pantallas de inicio de sesión"
 robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: c51d9204b352b548a4095e96944aacdbcde97fa2
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 07/01/2017
 ---
-# <a name="add-a-zero-touch-deployment-profile-to-simplify-device-setup-with-windows-autopilot"></a>Agregar un perfil de implementaciones sin interacción para simplificar la configuración del dispositivo con Autopilot de Windows
+# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar la configuración del dispositivo con AutoPilot de Windows 
 
-Autopilot de Windows puede simplificar y proteger la instalación del dispositivo para los nuevos dispositivos de Windows 10 Pro desde el primer arranque en tan solo unos pasos. 
+AutoPilot de Windows simplifica y protege la configuración del dispositivo para los nuevos dispositivos de Windows 10 Pro desde el primer arranque en tan solo unos pasos. Para obtener más información, consulta [Introducción a AutoPilot de Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
 
 ## <a name="features"></a>Características
 
 *  **Deshabilitar los permisos de administrador local** para los usuarios finales que configuren los dispositivos
 *  **Mostrar la página de inicio de sesión de una organización**. La organización puede predefinir una página de inicio de sesión que agrega el dispositivo como un dispositivo de trabajo y se une el dispositivo con Azure Active Directory.
-*  **Inscribir el dispositivo en un MDM**, por ejemplo: Microsoft Intune, una vez que OOBE se ha completado.
-*  **Simplificar la experiencia OOBE** para usar solo los pasos y las decisiones necesarias, utilizando un perfil de implementación sin interacción (ZTD). 
+*  **Inscribir el dispositivo en un Administrador de dispositivos móviles (MDM)**, como por ejemplo, Microsoft Intune, una vez que OOBE se ha completado.
+*  **Simplificar la experiencia OOBE** para usar solo los pasos y las decisiones necesarias, utilizando un perfil de implementación de AutoPilot de Windows. 
 
 ## <a name="requirements"></a>Requisitos
 
 *  Dispositivos preinstalados con Windows 10 Pro Creators Update (versión 1703 o posterior)
-*  Identificador de dispositivo conocido como un hash del hardware (128 HWH o 4k HWH), normalmente proporcionado por un OEM. Usarás los identificadores para asignar los perfiles de la organización en el Centro de partners.
+*  Identificador de dispositivo conocido como un hash del hardware (128 HWH o 4k HWH), normalmente proporcionado por un OEM. Usarás los identificadores para asignar los perfiles de la organización en el Centro de partners. Después de agosto de 2017 ya no necesitarás el hash de hardware. 
 *  Los dispositivos deben tener acceso a Internet. Cuando no se puede conectar el dispositivo, la experiencia OOBE se mostrará de forma predeterminada en las pantallas.
 *  Inscribir el dispositivo en un MDM requiere Azure Active Directory Premium.
 
 ## <a name="add-organization-login-pages-to-oobe"></a>Agregar las páginas de inicio de sesión de la organización a OOBE
 
-Para agregar las páginas específicas de la organización, agrega los dispositivos al [directorio de Azure AD](https://go.microsoft.com/fwlink/?linkid=848958) de la organización y crea páginas de inicio de sesión.
+Para agregar las páginas específicas de la organización, agrega los dispositivos al [Azure AD Directory](https://go.microsoft.com/fwlink/?linkid=848958) de la organización y crea páginas de inicio de sesión.
 
 
-## <a name="remove--windows-pages-from-oobe-with-a-zero-touch-deployment-ztd-profile"></a>Quitar páginas de Windows de OOBE con un perfil de implementación sin interacción (ZTD)
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Quitar páginas de Windows de OOBE con un perfil de implementación de AutoPilot de Windows
 
-### <a name="examples-of-settings-in-a-ztd-profile"></a>Ejemplos de configuración en un perfil ZTD
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Ejemplos de configuración de un perfil de implementación de AutoPilot de Windows
 *  Omitir la configuración de privacidad durante la instalación
 *  Deshabilitar la cuenta de administrador local en el programa de instalación
 *  Omitir automáticamente las páginas durante la instalación
@@ -44,19 +44,21 @@ Para agregar las páginas específicas de la organización, agrega los dispositi
 
 ### <a name="add-devices-and-apply-a-profile"></a>Agregar dispositivos y aplicar un perfil
 
-En el Centro de partners, puedes crear un perfil ZTD y aplicarlo a una lista de dispositivos.
+En el Centro de partners, puedes crear un perfil de implementación de AutoPilot de Windows y aplicarlo a una lista de dispositivos.
 
 Para configurar los dispositivos, sube una lista de los dispositivos al Centro de partners, crea un perfil que se aplique a los dispositivos y aplícala.
 
 1.  Agrega la lista de dispositivo al Centro de partners. (Los agentes de ventas y los agentes de administración tienen acceso para agregar la lista de dispositivos al Centro de partners).
 
-    a.  Solicitar el OEM un archivo .csv que enumera los nuevos dispositivos. Este archivo contiene el número de serie, el Id. del producto y el identificador de dispositivo generados desde la herramienta OEM Activation 3.0. 
+    a.  Crea un archivo .csv con el script de PowerShell del tema: [Introducción a AutoPilot de Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Este archivo .csv incluye información del dispositivo, como por ejemplo, el número de serie, nombre del OEM, nombre del modelo, id. del producto y el identificador del dispositivo. 
 
     b.  Desde el panel del Centro de partners, ve a **Clientes** > selecciona el cliente que recibe los dispositivos > **Dispositivos > Agregar dispositivos**.
 
     c.  Pon nombre al lote de dispositivos, por ejemplo, "equipos del departamento de ventas de Contoso, pedido de abril de 2017". 
 
     d.  Haz clic en **Examinar** > selecciona el archivo de información de dispositivo > **Validar**.
+
+    **Nota:** Si recibes un mensaje de error después de intentar subir el archivo .csv, comprueba el formato del archivo. Después de agosto, puedes usar solo el Hash de Hardware o el nombre del OEM, número de serie y modelo en ese orden de columna o el id. del producto de Windows. También puedes usar el archivo .csv de muestra al que puedes tener acceso desde el vínculo situado junto a **Agregar dispositivos**.
 
 2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar los perfiles en el Centro de partners).
 
@@ -94,6 +96,4 @@ Una vez que hayas asignado un perfil a un dispositivo, puedes actualizarlo, incl
 
 3. Ve al perfil que quieras quitar y elimínalo. El perfil se eliminará de todos los dispositivos.
 
-
 Desde **Dispositivos**, selecciona el perfil. Aquí podrás modificar la configuración existente.
-

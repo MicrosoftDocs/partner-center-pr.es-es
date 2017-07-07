@@ -3,11 +3,11 @@ title: Crear cuentas de usuario y establecer permisos | Centro de partners
 description: El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -44,6 +44,9 @@ Para cada usuario, tienes que seleccionar dos niveles de permisos:
 -   Los permisos de agente controlan qué tipo de datos de cliente e información de la cuenta pueden ser vistas y cambiadas por el usuario.
 
 -   Los permisos de administrador controlan el nivel de acceso que el usuario tiene a las características del Centro de partners. Esta configuración influye fuera del Centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios Microsoft (incluso los que no estén relacionados con CSP) y un administrador global también puede acceder a las cuentas de usuario y cuentas de cliente más allá de CSP.
+
+##<a name="assign-permissions-for-incentives-users"></a>Asignar permisos para los usuarios de incentivos
+Cuando configuras los usuarios de incentivos, puedes proporcionarles el rol de administrador o usuario de incentivos.  El administrador de incentivos puede editar la información bancaria y fiscal, reclamar a Microsoft un pago, así como administrar usuarios de incentivos. Los usuarios de incentivos pueden revisar programas, información bancaria y fiscal, pero no pueden editar. A menudo, ofrecen programas de incentivos reales a los clientes. Los usuarios y administradores de incentivos pueden tener otros roles en el Centro de partners para la organización, pero para trabajar con programas de incentivos deben ser usuarios o administradores de incentivos.
 
 >**Importante** El valor predeterminado siempre debe ser **No admin**, a menos que el rol del usuario necesite acceso adicional para completar las tareas y brindar soporte a los clientes.
 
@@ -148,6 +151,23 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <td><ul>
 <li><p>Ver, crear y administrar usuarios</p></li>
 <li><p>Ver todos los perfiles de socios</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Administrador de incentivos</strong></p></td>
+<td><ul>
+<li><p>Ver y administrar todos los programas de incentivos</p></li>
+<li><p>Editar perfiles bancarios y fiscales de los programas de incentivos</p></li>
+<LI><p>Administrar usuarios de incentivos</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Usuario de incentivos</strong></p></td>
+<td><ul>
+<li><p>Ver programas de incentivos</p></li>
+<li><p>Ver perfiles bancarios y fiscales</p></li>
 </ul></td>
 <td></td>
 </tr>
