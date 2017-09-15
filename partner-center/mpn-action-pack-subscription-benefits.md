@@ -1,0 +1,134 @@
+---
+title: "Beneficios de la suscripción a Action Pack | Centro de partners"
+description: "Muestra los beneficios que se incluyen en una suscripción a Microsoft Action Pack."
+author: MaggiePucciEvans
+ms.openlocfilehash: 8b0f7beb5f82d980606e1171b9361ca0f00f7d4a
+ms.sourcegitcommit: b47e6fbf9a226c62927f77063dd6880f79fe7868
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 08/02/2017
+---
+# <a name="action-pack-subscription-benefits"></a><span data-ttu-id="f3e0c-103">Beneficios de la suscripción a Action Pack</span><span class="sxs-lookup"><span data-stu-id="f3e0c-103">Action Pack subscription benefits</span></span>
+
+<span data-ttu-id="f3e0c-104">Los beneficios de la suscripción a Action Pack incluyen el software de derechos de uso interno más reciente que puedes usar para gestionar tu empresa, vender sus soluciones, desarrollar aplicaciones y formar a tus empleados.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-104">Action Pack subscription benefits include the latest internal-use rights software that you can use to run your business, sell your solutions, develop applications, and train your employees.</span></span> 
+
+>**<span data-ttu-id="f3e0c-105">Importante</span><span class="sxs-lookup"><span data-stu-id="f3e0c-105">Important</span></span>**<br>
+<span data-ttu-id="f3e0c-106">Estas licencias no se deben revender ni usar para actividades de generación de ingresos directos, con fines comerciales, fines personales ni formación de clientes.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-106">These licenses must not be resold or used for direct revenue-generating activities, commercial purposes, personal purposes, or customer training.</span></span>  
+
+<span data-ttu-id="f3e0c-107">Ahora los beneficios principales ofrecen a los partners el poder elegir una combinación de servicios en línea y licencias de software locales.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-107">Core Benefits now give partners the power of choice to mix-and-match online services and on-premise software licenses.</span></span> <span data-ttu-id="f3e0c-108">Los partners pueden elegir entre soluciones profesionales para productividad, demostración, desarrollo, pruebas y fines de formación interna.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-108">Partners can choose between work-alike solutions for productivity, demonstration, development, testing, and internal training purposes.</span></span> 
+
+<span data-ttu-id="f3e0c-109">Consulta la Guía de uso del producto para obtener información importante acerca de los derechos de uso de las licencia y las limitaciones sobre cada producto de software o servicio en línea.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-109">Refer to the Product Usage Guide for important details regarding license use rights and limitations about each software product or online service.</span></span> <span data-ttu-id="f3e0c-110">Tu organización debe cumplir los términos de uso descritos en la guía.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-110">Your organization must comply with the use terms outlined in the guide.</span></span>
+
+## <a name="operating-systems"></a><span data-ttu-id="f3e0c-111">Sistemas operativos</span><span class="sxs-lookup"><span data-stu-id="f3e0c-111">Operating systems</span></span>
+
+|**<span data-ttu-id="f3e0c-112">Software de Microsoft</span><span class="sxs-lookup"><span data-stu-id="f3e0c-112">Microsoft software</span></span>**   |**<span data-ttu-id="f3e0c-113">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-113">License grants</span></span>**   |
+|-------------------------|:--------------------:|
+|<span data-ttu-id="f3e0c-114">Windows10 Professional o Windows10 Enterprise (rama actual o rama de servicio a largo plazo 2016) (solo actualización)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-114">Windows 10 Professional or Windows 10 Enterprise (Current Branch or 2016 Long Term Service Branch) (Upgrade Only)</span></span>|<span data-ttu-id="f3e0c-115">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-115">10</span></span>|
+|<span data-ttu-id="f3e0c-116">Windows10 Pro for Advanced PCs</span><span class="sxs-lookup"><span data-stu-id="f3e0c-116">Windows 10 Pro for Advanced PCs</span></span>|<span data-ttu-id="f3e0c-117">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-117">10</span></span>|
+|<span data-ttu-id="f3e0c-118">Microsoft Desktop Optimization Pack 2015</span><span class="sxs-lookup"><span data-stu-id="f3e0c-118">Microsoft Desktop Optimization Pack 2015</span></span>|<span data-ttu-id="f3e0c-119">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-119">10</span></span>|
+|<span data-ttu-id="f3e0c-120">Windows Embedded8.1 Industry Pro</span><span class="sxs-lookup"><span data-stu-id="f3e0c-120">Windows Embedded 8.1 Industry Pro</span></span>|<span data-ttu-id="f3e0c-121">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-121">10</span></span>|
+|<span data-ttu-id="f3e0c-122">Windows Embedded8.1 Industry Enterprise</span><span class="sxs-lookup"><span data-stu-id="f3e0c-122">Windows Embedded 8.1 Industry Enterprise</span></span>|<span data-ttu-id="f3e0c-123">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-123">10</span></span>|
+|<span data-ttu-id="f3e0c-124">Windows Embedded8 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-124">Windows Embedded 8 Standard</span></span> | <span data-ttu-id="f3e0c-125">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-125">10</span></span>|
+|<span data-ttu-id="f3e0c-126">Windows Embedded7 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-126">Windows Embedded 7 Standard</span></span>|<span data-ttu-id="f3e0c-127">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-127">10</span></span>|
+|<span data-ttu-id="f3e0c-128">Windows Embedded POS Ready7</span><span class="sxs-lookup"><span data-stu-id="f3e0c-128">Windows Embedded POS Ready 7</span></span>|<span data-ttu-id="f3e0c-129">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-129">10</span></span>|
+|<span data-ttu-id="f3e0c-130">Microsoft SQL Server2016 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-130">Microsoft SQL Server 2016 Standard</span></span>|<span data-ttu-id="f3e0c-131">2</span><span class="sxs-lookup"><span data-stu-id="f3e0c-131">2</span></span>|
+|<span data-ttu-id="f3e0c-132">Licencias de acceso de cliente (CAL) de Microsoft SQL Server 2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-132">Microsoft SQL Server 2016 client access licenses (CALs)</span></span>|<span data-ttu-id="f3e0c-133">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-133">10</span></span>|
+|<span data-ttu-id="f3e0c-134">Windows Server2016 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-134">Windows Server 2016 Standard</span></span> |<span data-ttu-id="f3e0c-135">16</span><span class="sxs-lookup"><span data-stu-id="f3e0c-135">16</span></span>|
+|<span data-ttu-id="f3e0c-136">CAL de Windows Server2016 (sin edición específica)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-136">Windows Server 2016 CALs (not edition specific)</span></span> |<span data-ttu-id="f3e0c-137">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-137">10</span></span>|
+|<span data-ttu-id="f3e0c-138">CAL de Servicios de Escritorio remoto (RDS) de Windows Server2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-138">Windows Server 2016 Remote Desktop Services (RDS) CALs</span></span>|<span data-ttu-id="f3e0c-139">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-139">10</span></span>|
+|<span data-ttu-id="f3e0c-140">CAL de Windows MultiPoint Server 2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-140">Windows MultiPoint Server 2016 CALs</span></span>|<span data-ttu-id="f3e0c-141">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-141">10</span></span>|
+|<span data-ttu-id="f3e0c-142">Windows MultiPoint Server2016 Premium</span><span class="sxs-lookup"><span data-stu-id="f3e0c-142">Windows MultiPoint Server 2016 Premium</span></span> |<span data-ttu-id="f3e0c-143">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-143">1</span></span>|
+|<span data-ttu-id="f3e0c-144">Windows Server2016 Essentials</span><span class="sxs-lookup"><span data-stu-id="f3e0c-144">Windows Server 2016 Essentials</span></span>|<span data-ttu-id="f3e0c-145">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-145">1</span></span>|
+|<span data-ttu-id="f3e0c-146">Windows Server 2012 R2 Foundation</span><span class="sxs-lookup"><span data-stu-id="f3e0c-146">Windows Server 2012 R2 Foundation</span></span>| <span data-ttu-id="f3e0c-147">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-147">1</span></span>|
+|<span data-ttu-id="f3e0c-148">Windows Storage Server2016 Workgroup</span><span class="sxs-lookup"><span data-stu-id="f3e0c-148">Windows Storage Server 2016 Workgroup</span></span>|<span data-ttu-id="f3e0c-149">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-149">1</span></span>|
+
+## <a name="productivity"></a><span data-ttu-id="f3e0c-150">Productividad</span><span class="sxs-lookup"><span data-stu-id="f3e0c-150">Productivity</span></span>
+
+### <a name="choice-of-cloud-services-or-on-premises-product-for-licenses-granted"></a><span data-ttu-id="f3e0c-151">Elección de servicios en la nube o producto local para las licencias otorgadas</span><span class="sxs-lookup"><span data-stu-id="f3e0c-151">Choice of cloud services or on-premises product for licenses granted</span></span>
+
+| **<span data-ttu-id="f3e0c-152">Servicio en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-152">Cloud service</span></span>**     |**<span data-ttu-id="f3e0c-153">Local</span><span class="sxs-lookup"><span data-stu-id="f3e0c-153">On-premise</span></span>**      |**<span data-ttu-id="f3e0c-154">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-154">License grants</span></span>**      |
+|----------------|:-------------|:--------------:|
+|<span data-ttu-id="f3e0c-155">Puestos de Microsoft Office 365 (E3)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-155">Microsoft Office 365 (E3) Seats</span></span>|<span data-ttu-id="f3e0c-156">Microsoft Office Professional Plus2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-156">Microsoft Office Professional Plus 2016</span></span> |<span data-ttu-id="f3e0c-157">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-157">5</span></span>|
+|                               |<span data-ttu-id="f3e0c-158">CAL estándar de Microsoft Exchange Server2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-158">Microsoft Exchange Server 2016 Standard CALs</span></span> |<span data-ttu-id="f3e0c-159">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-159">5</span></span>|
+|                               |<span data-ttu-id="f3e0c-160">CAL estándar de Microsoft Skype Empresarial Server 2015</span><span class="sxs-lookup"><span data-stu-id="f3e0c-160">Microsoft Skype for Business Server 2015 Standard CALs</span></span>|<span data-ttu-id="f3e0c-161">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-161">5</span></span>|
+|                               |<span data-ttu-id="f3e0c-162">CAL de Microsoft SharePoint Server 2013 Enterprise (incluidas CAL estándar)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-162">Microsoft SharePoint Server 2013 Enterprise CALs (include Standard CALs)</span></span>|<span data-ttu-id="f3e0c-163">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-163">5</span></span>|
+
+
+### <a name="available-on-premise-only"></a><span data-ttu-id="f3e0c-164">Solo disponibles de forma local</span><span class="sxs-lookup"><span data-stu-id="f3e0c-164">Available on-premise only</span></span>
+
+|**<span data-ttu-id="f3e0c-165">Software de Microsoft</span><span class="sxs-lookup"><span data-stu-id="f3e0c-165">Microsoft software</span></span>**   |**<span data-ttu-id="f3e0c-166">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-166">License grants</span></span>**   |
+|--------------------------|:--------------------:|
+|<span data-ttu-id="f3e0c-167">Microsoft Office Professional Plus2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-167">Microsoft Office Professional Plus 2016</span></span>|<span data-ttu-id="f3e0c-168">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-168">5</span></span>|
+|<span data-ttu-id="f3e0c-169">Microsoft Project Professional2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-169">Microsoft Project Professional 2016</span></span>|<span data-ttu-id="f3e0c-170">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-170">1</span></span>|
+|<span data-ttu-id="f3e0c-171">Skype Empresarial Server2015</span><span class="sxs-lookup"><span data-stu-id="f3e0c-171">Skype for Business Server 2015</span></span> |<span data-ttu-id="f3e0c-172">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-172">1</span></span>|
+|<span data-ttu-id="f3e0c-173">Microsoft SharePoint Server2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-173">Microsoft SharePoint Server 2016</span></span>|<span data-ttu-id="f3e0c-174">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-174">1</span></span>|
+|<span data-ttu-id="f3e0c-175">Microsoft Visio Profesional2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-175">Microsoft Visio Professional 2016</span></span> |<span data-ttu-id="f3e0c-176">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-176">1</span></span>|
+|<span data-ttu-id="f3e0c-177">Microsoft Exchange Server2016 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-177">Microsoft Exchange Server 2016 Standard</span></span>|<span data-ttu-id="f3e0c-178">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-178">1</span></span>|
+
+### <a name="earn-additional-cloud-licenses"></a><span data-ttu-id="f3e0c-179">Obtener licencias de la nube adicionales</span><span class="sxs-lookup"><span data-stu-id="f3e0c-179">Earn additional cloud licenses</span></span>
+
+|**<span data-ttu-id="f3e0c-180">Servicio en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-180">Cloud service</span></span>**      |**<span data-ttu-id="f3e0c-181">Detalles de la oferta</span><span class="sxs-lookup"><span data-stu-id="f3e0c-181">Offer details</span></span>**   |
+|------------------------|:-------------------------|
+|<span data-ttu-id="f3e0c-182">Puestos de Microsoft Office 365 (E3)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-182">Microsoft Office 365 (E3) Seats</span></span> |<span data-ttu-id="f3e0c-183">Los partners pueden conseguir licencias adicionales de Office 365 mediante la venta de Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-183">Partners can earn additional Office 365 licenses by selling Microsoft Online Services.</span></span>  <span data-ttu-id="f3e0c-184">Los partners pueden optar a recibir 5 puestos adicionales de Office 365 si venden 25 puestos de Office 365 en los 12meses anteriores.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-184">Partners are eligible to receive an additional five seats of Office 365 after selling 25 seats of Office 365 within the previous 12 months.</span></span>|
+
+## <a name="business-solutions"></a><span data-ttu-id="f3e0c-185">Soluciones empresariales</span><span class="sxs-lookup"><span data-stu-id="f3e0c-185">Business solutions</span></span>
+
+### <a name="available-cloud-services-only"></a><span data-ttu-id="f3e0c-186">Solo disponibles como servicios en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-186">Available cloud services only</span></span>
+
+|**<span data-ttu-id="f3e0c-187">Servicios en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-187">Cloud services</span></span>**   |**<span data-ttu-id="f3e0c-188">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-188">License grants</span></span>**   |**<span data-ttu-id="f3e0c-189">Comentarios</span><span class="sxs-lookup"><span data-stu-id="f3e0c-189">Comments</span></span>**   |
+|----------------------|:-------------------:|:-------------------:|
+|<span data-ttu-id="f3e0c-190">Microsoft Dynamics CRM Online (suscripción de usuario)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-190">Microsoft Dynamics CRM Online (user subscription)</span></span>|<span data-ttu-id="f3e0c-191">0 puestos iniciales</span><span class="sxs-lookup"><span data-stu-id="f3e0c-191">0 seats initial</span></span>|<span data-ttu-id="f3e0c-192">Los partners pueden obtener 5 puestos adicionales a través de 1 acuerdo de CRM Online con un mínimo de 5 puestos o al menos 50 puestos de ventas de O365 en los 12meses anteriores.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-192">Partner can gain additional 5 Seats through 1 CRM Online deal with a minimum of 5 seats or at least 50 seats of O365 sales in the previous 12 months.</span></span>|
+
+### <a name="available-on-premise-only"></a><span data-ttu-id="f3e0c-193">Solo disponibles de forma local</span><span class="sxs-lookup"><span data-stu-id="f3e0c-193">Available on-premise only</span></span>
+
+|**<span data-ttu-id="f3e0c-194">Software de Microsoft</span><span class="sxs-lookup"><span data-stu-id="f3e0c-194">Microsoft software</span></span>**   |**<span data-ttu-id="f3e0c-195">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-195">License grants</span></span>**   |**<span data-ttu-id="f3e0c-196">Comentarios</span><span class="sxs-lookup"><span data-stu-id="f3e0c-196">Comments</span></span>**|
+|----------------------------|:-----------------------:|:------------------|
+|<span data-ttu-id="f3e0c-197">Microsoft Dynamics CRM Workgroup Server2016</span><span class="sxs-lookup"><span data-stu-id="f3e0c-197">Microsoft Dynamics CRM Workgroup Server 2016</span></span>|<span data-ttu-id="f3e0c-198">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-198">1</span></span>|<span data-ttu-id="f3e0c-199">1 licencia de servidor proporciona acceso para 5 usuarios.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-199">1 server license provides access to five users.</span></span>|
+
+### <a name="additional-partner-benefits"></a><span data-ttu-id="f3e0c-200">Beneficios adicionales para partners</span><span class="sxs-lookup"><span data-stu-id="f3e0c-200">Additional partner benefits</span></span>
+
+|**<span data-ttu-id="f3e0c-201">Servicio en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-201">Cloud service</span></span>**   |**<span data-ttu-id="f3e0c-202">Detalles de la oferta</span><span class="sxs-lookup"><span data-stu-id="f3e0c-202">Offer details</span></span>**|
+|---------------------------|:----------------------|
+|<span data-ttu-id="f3e0c-203">Microsoft Dynamics CRM Online Pro (suscripción de usuario)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-203">Microsoft Dynamics CRM Online Pro (user subscription)</span></span>|<span data-ttu-id="f3e0c-204">Los partners pueden adquirir hasta 100 puestos de CRM Online por 45USD.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-204">Partners may purchase up to 100 CRM Online seats for $45.</span></span>  <span data-ttu-id="f3e0c-205">Este es el máximo en todo el mundo en todos los países de suscripción.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-205">This is a worldwide maximum across all subscribing countries.</span></span>|
+
+## <a name="management"></a><span data-ttu-id="f3e0c-206">Administración</span><span class="sxs-lookup"><span data-stu-id="f3e0c-206">Management</span></span>
+
+### <a name="choice-of-cloud-services-or-on-premises-product-for-licenses-granted"></a><span data-ttu-id="f3e0c-207">Elección de servicios en la nube o producto local para las licencias otorgadas</span><span class="sxs-lookup"><span data-stu-id="f3e0c-207">Choice of cloud services or on-premises product for licenses granted</span></span>
+
+| **<span data-ttu-id="f3e0c-208">Servicio en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-208">Cloud service</span></span>**   | **<span data-ttu-id="f3e0c-209">Local</span><span class="sxs-lookup"><span data-stu-id="f3e0c-209">On-premise</span></span>**   | **<span data-ttu-id="f3e0c-210">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-210">License grants</span></span>**   |
+|-------------------- |------------------|-------------- |
+|<span data-ttu-id="f3e0c-211">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="f3e0c-211">Microsoft Intune</span></span>| <span data-ttu-id="f3e0c-212">Microsoft System Center2016 Client Management Suite</span><span class="sxs-lookup"><span data-stu-id="f3e0c-212">Microsoft System Center 2016 Client Management Suite</span></span>| <span data-ttu-id="f3e0c-213">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-213">5</span></span> |
+                     |<span data-ttu-id="f3e0c-214">Microsoft System Center Configuration Manager (rama actual y LTSB 1606)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-214">Microsoft System Center Config Mgr (current branch & LTSB 1606)</span></span>| 
+                     |<span data-ttu-id="f3e0c-215">Microsoft System Center Endpoint Protection</span><span class="sxs-lookup"><span data-stu-id="f3e0c-215">Microsoft System Center Endpoint Protection</span></span>| 
+
+### <a name="available-on-premise-only"></a><span data-ttu-id="f3e0c-216">Solo disponibles de forma local</span><span class="sxs-lookup"><span data-stu-id="f3e0c-216">Available on-premise only</span></span>
+
+|**<span data-ttu-id="f3e0c-217">Software de Microsoft</span><span class="sxs-lookup"><span data-stu-id="f3e0c-217">Microsoft software</span></span>**   |**<span data-ttu-id="f3e0c-218">Concesiones de licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-218">License grants</span></span>**   |
+|-------------------------|:-----------------------:|
+|<span data-ttu-id="f3e0c-219">Licencia de administración de clientes de Advanced Threat Analytics</span><span class="sxs-lookup"><span data-stu-id="f3e0c-219">Advanced Threat Analytics Client Management License</span></span>|<span data-ttu-id="f3e0c-220">5</span><span class="sxs-lookup"><span data-stu-id="f3e0c-220">5</span></span>|
+|<span data-ttu-id="f3e0c-221">R Server para Hadoop en Red Hat</span><span class="sxs-lookup"><span data-stu-id="f3e0c-221">R Server for Hadoop on Red Hat</span></span> |<span data-ttu-id="f3e0c-222">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-222">1</span></span>|
+|<span data-ttu-id="f3e0c-223">R Server para Red Hat Linux</span><span class="sxs-lookup"><span data-stu-id="f3e0c-223">R Server for Red Hat Linux</span></span>|<span data-ttu-id="f3e0c-224">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-224">1</span></span>|
+|<span data-ttu-id="f3e0c-225">R Server para SUSE Linux</span><span class="sxs-lookup"><span data-stu-id="f3e0c-225">R Server for SUSE Linux</span></span>|<span data-ttu-id="f3e0c-226">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-226">1</span></span>|
+|<span data-ttu-id="f3e0c-227">R Server para Teradata DB</span><span class="sxs-lookup"><span data-stu-id="f3e0c-227">R Server for Teradata DB</span></span> |<span data-ttu-id="f3e0c-228">1</span><span class="sxs-lookup"><span data-stu-id="f3e0c-228">1</span></span>|
+<span data-ttu-id="f3e0c-229">Microsoft System Center2016 Standard</span><span class="sxs-lookup"><span data-stu-id="f3e0c-229">Microsoft System Center 2016 Standard</span></span>|<span data-ttu-id="f3e0c-230">16</span><span class="sxs-lookup"><span data-stu-id="f3e0c-230">16</span></span>|
+|<span data-ttu-id="f3e0c-231">Microsoft System Center2016 Client Management Suite</span><span class="sxs-lookup"><span data-stu-id="f3e0c-231">Microsoft System Center 2016 Client Management Suite</span></span>|<span data-ttu-id="f3e0c-232">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-232">10</span></span>| 
+|<span data-ttu-id="f3e0c-233">Microsoft System Center Configuration Manager (rama actual y LTSB 1606)</span><span class="sxs-lookup"><span data-stu-id="f3e0c-233">Microsoft System Center Config Mgr (current branch & LTSB 1606)</span></span>|<span data-ttu-id="f3e0c-234">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-234">10</span></span>
+|<span data-ttu-id="f3e0c-235">Microsoft System Center Endpoint Protection</span><span class="sxs-lookup"><span data-stu-id="f3e0c-235">Microsoft System Center Endpoint Protection</span></span>|<span data-ttu-id="f3e0c-236">10</span><span class="sxs-lookup"><span data-stu-id="f3e0c-236">10</span></span>
+
+### <a name="additional-partner-benefits"></a><span data-ttu-id="f3e0c-237">Beneficios adicionales para partners</span><span class="sxs-lookup"><span data-stu-id="f3e0c-237">Additional partner benefits</span></span>
+
+|**<span data-ttu-id="f3e0c-238">Servicio en la nube</span><span class="sxs-lookup"><span data-stu-id="f3e0c-238">Cloud service</span></span>**   |**<span data-ttu-id="f3e0c-239">Detalles de la oferta</span><span class="sxs-lookup"><span data-stu-id="f3e0c-239">Offer details</span></span>**   |
+|----------------------|:----------------------------|
+|<span data-ttu-id="f3e0c-240">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="f3e0c-240">Microsoft Azure</span></span>|<span data-ttu-id="f3e0c-241">Crédito mensual de 100USD.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-241">US$100 monthly credit.</span></span>  <span data-ttu-id="f3e0c-242">El crédito de Microsoft Azure se suma a las licencias actuales locales del software de uso interno</span><span class="sxs-lookup"><span data-stu-id="f3e0c-242">Microsoft Azure credit is in addition to current onpremises internal-use software licenses</span></span>|
+|<span data-ttu-id="f3e0c-243">Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="f3e0c-243">Enterprise Mobility Suite</span></span> |<span data-ttu-id="f3e0c-244">5 licencias</span><span class="sxs-lookup"><span data-stu-id="f3e0c-244">5 licenses</span></span>|
+
+<span data-ttu-id="f3e0c-245">Los suscriptores de Microsoft Action Pack también reciben 3 suscripciones a Visual Studio Professional. Tienes disponibles 3 suscripciones a Visual Studio Professional a través de tu suscripción a Microsoft Action Pack.</span><span class="sxs-lookup"><span data-stu-id="f3e0c-245">Microsoft Action Pack subscribers also receive three Visual Studio Professional Subscriptions Three Visual Studio Professional subscriptions are available to you through your Microsoft Action Pack subscription.</span></span>
+
+
+
+
+
+
+
+
+
