@@ -1,52 +1,51 @@
 ---
-title: Competencia de centro de datos
-description: "La competencia de centro de datos reconoce a partners que están transformando centros de datos en soluciones más flexibles, escalables y rentables."
+title: Data Center Competency
+description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
 author: Daniel Simpson
-keywords: competencia, competencias, centro de datos
-robots: noindex,nofollow
-ms.openlocfilehash: 1d1efbc21817a63c1de86ebb4862525afff43945
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Datacenter
+ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="datacenter"></a>Centro de datos
-La competencia de centro de datos reconoce a partners que están transformando centros de datos en soluciones más flexibles, escalables y rentables.
-##<a name="datacenter-solutions-option"></a>Opción de soluciones de centro de datos
-La opción de soluciones de centro de datos es ideal si prefieres demostrar tus conocimientos mediante la aprobación de exámenes o certificaciones. Elige los exámenes en el área de especialización que prefieras para obtener la competencia de centro de datos.
+#<a name="datacenter"></a>Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
 ###<a name="silver"></a>Silver
-1. Tu organización debe tener **2** personas que hayan aprobado cualquiera de los exámenes.
+1. Your organization must have **2** individuals pass any one of the exams.
 
-    - Área de especialización en **System Center** 2012
+    - **System Center** 2012 focus area
 
-        - [Examen 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx): Administración e implementación del administración de configuración de System Center 2012
-        - [Examen 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Supervisión y funcionamiento de una nube privada con System Center 2012
-        - [Examen 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuración e implementación de una nube privada con System Center 2012
+        - [Exam 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx): Administering and Deploying System Center 2012 Configuration Manager
+        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012
+        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012
 
-    - Área de especialización en **Virtualización**
+    - **Virtualization** focus area
 
-        - [Examen 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Virtualización de servidores con Windows Server Hyper-V y System Center
+        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-    - Área de especialización en **Windows Server 2012**
+    - **Windows Server 2012** focus area
 
-        - [Examen 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Instalación y configuración de Windows Server 2012
-        - [Examen 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administración de Windows Server 2012
-        - [Examen 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuración de servicios avanzados de Windows Server 2012
-        - [Examen 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Diseño e implementación de una infraestructura de servidor
-        - [Examen 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementación de una infraestructura de servidor avanzada
-        - [Examen 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Actualización de tus conocimientos sobre MCSA Windows Server 2012
+        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
+        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
+        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
+        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
+        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-    - Área de especialización en **Windows Server** 2016
-        - [Examen 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Instalación, almacenamiento y computación con Windows Server 2016
-        - [Examen 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Acceso a redes con Windows Server 2016
-        - [Examen 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identidad con Windows Server 2016
-        - [Examen 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Actualización de tus conocimientos sobre MCSA: Windows Server 2016
-        - [Examen 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Protección de Windows Server 2016
+    - **Windows Server** 2016 focus area
+        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
+        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
+        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
 
 ###<a name="gold"></a>Gold
-1. Tu organización debe tener **4** personas que hayan aprobado la certificación necesaria.
+1. Your organization must have **4** individuals pass the required certification.
 
-    - **4** personas deben aprobar uno de los exámenes siguientes:
+    - **4** individuals must pass one of the following exams:
 
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016

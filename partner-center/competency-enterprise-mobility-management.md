@@ -1,123 +1,122 @@
 ---
-title: "Competencia de administración de movilidad empresarial"
-description: "La competencia de administración de movilidad empresarial está destinada a partners que destaquen por ser expertos en soluciones de administración de movilidad seguras y con más capacidad para grandes empresas."
+title: Enterprise Mobility Management Competency
+description: The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 author: Daniel Simpson
-keywords: "competencia,competencias,administración de movilidad empresarial"
-robots: noindex,nofollow
-ms.openlocfilehash: 837cd337355a6baa8672477d08ee529e690db87a
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Mobility Management
+ms.openlocfilehash: 1eea9a16018af1471733ea321d68061e62c1b75f
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="enterprise-mobility-management"></a>Administración de movilidad empresarial
-La competencia de administración de movilidad empresarial está destinada a partners que destaquen por ser expertos en soluciones de administración de movilidad seguras y con más capacidad para grandes empresas.
+#<a name="enterprise-mobility-management"></a>Enterprise Mobility Management
+The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 
-- [Opción de partner de empresa](#enterprise-partner-option)
-- [Opción de partner SMB](#smb-partner-option)
+- [Enterprise Partner option](#enterprise-partner-option)
+- [SMB Partner option](#smb-partner-option)
 
 
-##<a name="enterprise-partner-option"></a>Opción de partner de empresa
-La opción de partner de empresa es ideal para partners que están impulsando la adopción de Enterprise Mobility + Security con sus clientes de empresa, y que eligen obtener la competencia mediante el cumplimiento de los umbrales de rendimiento. Realiza todos los pasos para obtener la competencia de administración de movilidad empresarial.
-
-###<a name="silver"></a>Silver
-
-1. Tu organización debe cumplir con los umbrales de rendimiento.
-
-    - Agregar 3 nuevos clientes de Enterprise Mobility + Security (EMS) e implementar 500 derechos activos
-    - Cumplir con los umbrales de ingresos de uno o una combinación de los componentes aptos (derechos) de EMS.
-    - Microsoft Intune, Azure Information Protection o Azure Active Directory Premium (AADP) en los últimos 12 meses.
-    - Los puestos deben ser licencias pagadas para que sean aptos. No se aplican puestos de prueba o gratuitos.
-    - Para poder participar, tendrás que estar asociado como administrador delegado de Microsoft Intune o EMS, partner de transacciones, partner de Fast Track o partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
-  
-2. Tu organización debe tener **2** personas que hayan aprobado los requisitos de la evaluación.
-
-    - **2** personas deben realizar la siguiente evaluación:
-        - [Evaluación técnica de información general sobre Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
-
-    **Y**
-
-    - Las mismas **2** personas deben aprobar una de las siguientes evaluaciones:
-        - [Evaluación técnica de administración de dispositivos móviles](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Evaluación técnica de administración de acceso e identidad](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Evaluación técnica de protección de la información](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Evaluación técnica de Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
-
-###<a name="gold"></a>Gold
-
-1. Tu organización debe cumplir con los umbrales de rendimiento.
-
-    - Agregar 5 nuevos clientes de Enterprise Mobility + Security (EMS) e implementar 4000 derechos activos
-    - Cumplir con los umbrales de ingresos de uno o una combinación de los componentes aptos (derechos) de EMS.
-    - Microsoft Intune, Azure Information Protection o Azure Active Directory Premium (AADP) en los últimos 12 meses.
-    - Los puestos deben ser licencias pagadas para que sean aptos. No se aplican puestos de prueba o gratuitos.
-    - Para poder participar, tendrás que estar asociado como administrador delegado de Microsoft Intune o EMS, partner de transacciones, partner de Fast Track o partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
-  
-2. Tu organización debe tener **4** personas que hayan aprobado los requisitos de la evaluación.
-
-    - **4** personas deben realizar la siguiente evaluación:
-        - [Evaluación técnica de información general sobre Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
-
-    **Y**
-
-    - Las mismas **4** personas deben aprobar una de las siguientes evaluaciones:
-        - [Evaluación técnica de administración de dispositivos móviles](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Evaluación técnica de administración de acceso e identidad](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Evaluación técnica de protección de la información](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Evaluación técnica de Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
-    
-##<a name="smb-partner-option"></a>Opción de partner SMB
-La opción de pequeñas y medianas empresas (SMB) es ideal para partners que están impulsando la opción de Enterprise Mobility + Security entre pequeñas y medianas empresas, y que eligen obtener la competencia mediante el cumplimiento de los umbrales de rendimiento. Realiza todos los pasos de la opción para obtener la competencia de administración de movilidad empresarial.
+##<a name="enterprise-partner-option"></a>Enterprise Partner option
+The Enterprise Partner option is ideal for partners who are driving Enterprise Mobility + Security adoption with their enterprise customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Enterprise Mobility Management competency.
 
 ###<a name="silver"></a>Silver
 
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    - Agregar 20 nuevos clientes de Enterprise Mobility + Security (EMS) e implementar 125 derechos activos
-    - Cumplir con los umbrales de ingresos de uno o una combinación de los componentes aptos (derechos) de EMS.
-    - Microsoft Intune, Azure Information Protection o Azure Active Directory Premium (AADP) en los últimos 12 meses.
-    - Los puestos deben ser licencias pagadas para que sean aptos. No se aplican puestos de prueba o gratuitos.
-    - Para poder participar, tendrás que estar asociado como administrador delegado de Microsoft Intune o EMS, partner de transacciones, partner de Fast Track o partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+    - Add 3 new Enterprise Mobility + Security (EMS) customers and deploy 500 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Tu organización debe tener **2** personas que hayan aprobado los requisitos de la evaluación.
+2. Your organization must have **2** individuals pass the assessment requirements.
 
-    - **2** personas deben realizar la siguiente evaluación:
-        - [Evaluación técnica de información general sobre Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **Y**
+    **AND**
 
-    - Las mismas **2** personas deben aprobar una de las siguientes evaluaciones:
-        - [Evaluación técnica de administración de dispositivos móviles](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Evaluación técnica de administración de acceso e identidad](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Evaluación técnica de protección de la información](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Evaluación técnica de Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
 ###<a name="gold"></a>Gold
 
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    - Agregar 5 nuevos clientes de Enterprise Mobility + Security (EMS) e implementar 4000 derechos activos
-    - Cumplir con los umbrales de ingresos de uno o una combinación de los componentes aptos (derechos) de EMS.
-    - Microsoft Intune, Azure Information Protection o Azure Active Directory Premium (AADP) en los últimos 12 meses.
-    - Los puestos deben ser licencias pagadas para que sean aptos. No se aplican puestos de prueba o gratuitos.
-    - Para poder participar, tendrás que estar asociado como administrador delegado de Microsoft Intune o EMS, partner de transacciones, partner de Fast Track o partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Tu organización debe tener **4** personas que hayan aprobado los requisitos de la evaluación.
+2. Your organization must have **4** individuals pass the assessment requirements.
+
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+
+    **AND**
+
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
     
-    - **4** personas deben realizar la siguiente evaluación:
-        - [Evaluación técnica de información general sobre Enterprise Mobility Suite](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+##<a name="smb-partner-option"></a>SMB Partner option
+The Small/Mid-market Business (SMB) option is ideal for partners who are driving Enterprise Mobility + Security adoptions among small and mid-market businesses, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within the option to attain the Enterprise Mobility Management competency.
 
-    **Y**
+###<a name="silver"></a>Silver
 
-    - Las mismas **4** personas deben aprobar una de las siguientes evaluaciones:
-        - [Evaluación técnica de administración de dispositivos móviles](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [Evaluación técnica de administración de acceso e identidad](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [Evaluación técnica de protección de la información](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Evaluación técnica de Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+1. Your organization must meet the performance thresholds.
+
+    - Add 20 new Enterprise Mobility + Security (EMS) customers and deploy 125 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
+  
+2. Your organization must have **2** individuals pass the assessment requirements.
+
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+
+    **AND**
+
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+
+###<a name="gold"></a>Gold
+
+1. Your organization must meet the performance thresholds.
+
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
+  
+2. Your organization must have **4** individuals pass the assessment requirements.
+    
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+
+    **AND**
+
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
 
 

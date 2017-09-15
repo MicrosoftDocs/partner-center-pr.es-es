@@ -1,29 +1,29 @@
 ---
-title: "Cambiar la contraseña temporal | Centro de partners"
-description: "En cuanto obtengas la contraseña temporal, inicia sesión en el Centro de partners y cámbiala."
+title: Change your temporary password | Partner Center
+description: As soon as you get your temporary password, log on to Partner Center and change it.
 author: labrenne
 ms.openlocfilehash: 8d9fb0c2bc1982b34e6a818a95915542f9005fcf
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="change-your-temporary-password"></a>Cambiar la contraseña temporal
+# <a name="change-your-temporary-password"></a>Change your temporary password
 
-**Se aplica a**
+**Applies to**
 
--  Centro de partners
+-  Partner Center
 
-Inicia sesión en el Centro de partners y cambia la contraseña temporal.
+Log on to Partner Center and change your temporary password.
 
-En cuanto recibas la contraseña temporal desde el administrador global, inicia sesión en el Centro de partners y cámbiala. Si eres un administrador de incentivos, al hacerlo así te permitirá que realices la migración de inscripción de incentivos de la organización. Si eres un usuario de incentivos, podrás acceder a todos los datos de incentivos.
+As soon as you receive your temporary password from the global admin, log on to Partner Center and change it. If you are an incentives admin, doing so will permit you to complete the migration of your organization’s incentive enrollment. If you are an incentives user, you will then be able to access all your incentives data.
 
-1.  En el **Panel**, conéctate con tu nuevo Id. de usuario y la contraseña temporal.
+1.  From the **Dashboard**, sign in with your new user ID and temporary password.
 
-2.  Al iniciar sesión en el Centro de partners por primera vez, se te pedirá que cambies la contraseña.
+2.  When you log in to Partner Center for the first time, you will be prompted to change your password.
 
-Si pierdes la contraseña, el administrador global tendrá que ir a  **Configuración de la cuenta** >**Administración de usuarios** para crear una nueva contraseña temporal para ti.
-Para obtener más información, consulta [Restablecer una contraseña de usuario](reset-a-user-password.md).
+If you lose your password, your global admin will need to go to  **Account settings** >**User management** to create a new temporary password for you.
+For more information see [Reset a user password](reset-a-user-password.md) .
 
 
  

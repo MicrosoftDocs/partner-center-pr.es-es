@@ -1,106 +1,128 @@
 ---
-title: Competencia de aplicaciones empresariales en la nube
-description: "La competencia de aplicaciones empresariales en la nube es para partners especializados en la implementación y administración de Microsoft Dynamics 365 para sus clientes."
+title: Cloud Business Applications Competency
+description: The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 author: Daniel Simpson
-keywords: competencia,competencias, aplicaciones empresariales en la nube
-robots: noindex,nofollow
-ms.openlocfilehash: d3a04e666685622d706b0a13341f4c25a3cd6420
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, Cloud Business Applications
+ms.openlocfilehash: 978f3b8939f7f5fb3e4788182fa4d49bb89b3ec0
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="cloud-business-applications"></a>Aplicaciones empresariales en la nube 
-La competencia de aplicaciones empresariales en la nube es para partners especializados en la implementación y administración de Microsoft Dynamics 365 para sus clientes.
+#<a name="cloud-business-applications"></a>Cloud Business Applications 
+The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 
-- [Opción de participación de clientes empresariales](#enterprise-customer-engagement-option)
-- [Opción de operaciones empresariales](#enterprise-operations-option)
+- [Enterprise Customer Engagement option](#enterprise-customer-engagement-option)
+- [Enterprise Operations option](#enterprise-operations-option)
 
 
-##<a name="enterprise-customer-engagement-option"></a>Opción de participación de clientes empresariales
-La opción de participación de clientes empresariales es ideal para que los partners interactúen con dichos clientes. Realiza todos los pasos para lograr la competencia de aplicaciones empresariales en la nube.
+##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement option
+The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers. Complete all the steps within to attain the Cloud Business Applications competency.
 
 ###<a name="silver"></a>Silver
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    **Mercados desarrollados**
+    - **Developed Markets**
 
-    - El partner debe haber ganado 100.000USD de ingresos como mínimo: nuevos ingresos netos en los últimos doce meses.
+        - Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.
+    
+    - **Mercados en desarrollo**
+
+        - El partner debe haber ganado como mínimo 100000USD de ingresos: nuevos ingresos netos en los últimos 12 meses.
+
     - Cumplir con los umbrales de ingresos de Dynamics 365 Enterprise Plan 1 y sus aplicaciones componentes, Dynamics 365 Enterprise Plan 2.
-    - Para estos clientes, tienes que estar asociado como partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. Tu organización debe tener **5** personas que hayan aprobado los requisitos de exámenes.
+2. Your organization must have **5** individuals pass the exam requirements.
 
-    - **5** personas deben aprobar los siguientes exámenes:
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Implementación online de participación del cliente de Microsoft Dynamics 365
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Personalización y configuración de Microsoft Dynamics 365
+    - **5** individuals must pass all the following exams:
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
     
-    **Y**
+    **AND**
     
-    - Las mismas **5** personas deben aprobar uno de los siguientes exámenes:
+    - The same **5** individuals must pass one of the following exams:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
 
 ###<a name="gold"></a>Gold
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    **Mercados desarrollados**
+    - **Mercados desarrollados**
     
-    - El partner debe haber ganado 300.000USD de ingresos como mínimo: nuevos ingresos netos en los últimos doce meses.
-    - Cumplir con los umbrales de ingresos de Dynamics 365 Enterprise Plan 1 y sus aplicaciones componentes, Dynamics 365 Enterprise Plan 2.
-    - Para estos clientes, tienes que estar asociado como partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+        - El partner debe haber ganado como mínimo 300000USD de ingresos: nuevos ingresos netos en los últimos 12 meses.
+
+    - **Mercados en desarrollo**
+
+        - El partner debe haber ganado como mínimo 100000USD de ingresos: nuevos ingresos netos en los últimos 12 meses.
   
-2. Tu organización debe tener **15** personas que hayan aprobado los requisitos de exámenes.
+    - Cumplir con los umbrales de ingresos de Dynamics 365 Enterprise Plan 1 y sus aplicaciones componentes, Dynamics 365 Enterprise Plan 2.
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
-    - **15** personas deben aprobar los siguientes exámenes:
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Implementación online de participación del cliente de Microsoft Dynamics 365
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Personalización y configuración de Microsoft Dynamics 365
+2. Your organization must have **15** individuals pass the exam requirements.
+
+    - **15** individuals must pass all the following exams:
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
     
-    **Y**
+    **AND**
 
-    - Las mismas **15** personas deben aprobar uno de los siguientes exámenes:
+    - The same **15** individuals must pass one of the following exams:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
 
-##<a name="enterprise-operations-option"></a>Opción de operaciones empresariales
-La opción de operaciones empresariales es ideal para partners que interactúen con clientes empresariales, especialmente en las SKU de operaciones de Dynamics 365. Realiza todos los pasos para lograr la competencia de aplicaciones empresariales en la nube.
+##<a name="enterprise-operations-option"></a>Enterprise Operations option
+The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU. Complete all the steps within to attain the Cloud Business Applications competency.
 
 ###<a name="silver"></a>Silver
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    **Mercados desarrollados**
+    - **Developed Markets**
     
-    - El partner debe haber ganado 100.000USD de ingresos como mínimo de Dynamics 365 Enterprise Plan 2, SKU de operaciones y AX 2012 On-Premise
-    - El partner debe haber obtenido un mínimo de 25.000USD en nuevos ingresos netos procedentes de la venta de Dynamics 365 Enterprise Plan 2 y SKU de operaciones en los últimos doce meses
-    - Para estos clientes, tienes que estar asociado como partner digital de registro. 
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+        - Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
   
-2. Tu organización debe tener **5** personas que hayan aprobado los requisitos de exámenes.
+    - **Mercados en desarrollo**
+
+        - El partner debe haber ganado como mínimo 50000USD de ingresos de Dynamics 365 Enterprise Plan 2, SKU de operaciones y AX 2012 On-Premise.
+        - El partner debe haber obtenido un mínimo de 12.000USD en nuevos ingresos netos procedentes de la venta de Dynamics 365 Enterprise Plan 2 y SKU de operaciones en los últimos doce meses 
+
+    - Para estos clientes, tienes que estar asociado como partner digital de registro.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
+
+2. Your organization must have **5** individuals pass the exam requirements.
  
-    - **5** personas deben aprobar los siguientes exámenes:
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Finanzas
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribución y venta
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Introducción al desarrollo
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrar una infraestructura de base de datos de SQL de Microsoft
+    - **5** individuals must pass all the following exams:
+        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
+        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
+        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
+        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure
 
 ###<a name="gold"></a>Gold
 
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    **Mercados desarrollados**
+    - **Developed Markets**
 
-    - El partner debe haber ganado 300.000USD de ingresos como mínimo de Dynamics 365 Enterprise Plan 2, SKU de operaciones y AX 2012 On-Premise
-    - El partner debe haber obtenido un mínimo de 75.000USD en nuevos ingresos netos procedentes de la venta de Dynamics 365 Enterprise Plan 2 y SKU de operaciones en los últimos doce meses
-    - Para estos clientes, tienes que estar asociado como partner digital de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+        - Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
   
-2. Tu organización debe tener **15** personas que hayan aprobado los requisitos de exámenes.
+    - **Mercados en desarrollo**
 
-    - **15** personas deben aprobar los siguientes exámenes:
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Finanzas
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribución y venta
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Introducción al desarrollo
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrar una infraestructura de base de datos de SQL de Microsoft
+        - El partner debe haber ganado como mínimo 150000USD de ingresos de Dynamics 365 Enterprise Plan 2, SKU de operaciones y AX 2012 On-Premise. 
+        - El partner debe haber obtenido un mínimo de 37.000USD en nuevos ingresos netos procedentes de la venta de Dynamics 365 Enterprise Plan 2 y SKU de operaciones en los últimos doce meses 
+
+    - Para estos clientes, tienes que estar asociado como partner digital de registro.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
+
+
+2. Your organization must have **15** individuals pass the exam requirements.
+
+    - **15** individuals must pass all the following exams:
+        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials
+        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade
+        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction
+        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure
  
