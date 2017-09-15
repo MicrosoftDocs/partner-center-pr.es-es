@@ -1,111 +1,115 @@
 ---
-title: "Migración de suscripciones de Dynamics AX a Dynamics 365 | Centro de partners"
-description: "Microsoft presenta Dynamics 365, la próxima generación de aplicaciones empresariales inteligentes con las que tu organización podrá crecer, evolucionar y transformarse para satisfacer las necesidades de tus clientes y aprovechar nuevas oportunidades."
+title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
+description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
+ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar suscripciones de Dynamics AX a Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrate Dynamics AX subscriptions to Dynamics 365
 
-**Se aplica a**
+**Applies to**
 
--  Centro de partners
+-  Partner Center
 
-Microsoft presenta Dynamics 365, la próxima generación de aplicaciones empresariales inteligentes con las que tu organización podrá crecer, evolucionar y transformarse para satisfacer las necesidades de tus clientes y aprovechar nuevas oportunidades. Como parte del nuevo producto, Microsoft presenta el 1 de noviembre de 2016 los planes de suscripción para clientes Microsoft Dynamics. Son similares, aunque no idénticos, a los planes actuales.
+Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities. Como parte del nuevo producto, el 1 de noviembre de 2016 Microsoft introdujo los planes de suscripción a Microsoft Dynamics para clientes. Son similares a los planes actuales, aunque no idénticos.
 
-Las instrucciones de este documento describen cómo proveedores indirectos pueden cambiar suscripciones existentes de Microsoft Dynamics AX de los clientes a la nueva suscripción Microsoft Dynamics 365. Las instrucciones también se aplican a otros productos de Microsoft que se actualizan a versiones nuevas, resultando necesario que los proveedores migren las suscripciones de clientes a una nueva SKU.
+Las instrucciones de este documento describen el modo en el que los proveedores indirectos pueden cambiar las suscripciones actuales a Microsoft Dynamics AX y a Microsoft Dynamics CRM Online de los clientes a la nueva suscripción a Microsoft Dynamics 365. The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.
 
-**Cambios de licencias de Microsoft Dynamics AX**
+Los planes de Microsoft Dynamics CRM Online y AX se han retirado.  A partir del 1 de julio de 2017, ya no se pueden renovar los planes antiguos, y tampoco se renovarán automáticamente las suscripciones a E4 existentes cuando caduquen.
 
-Se retira la línea de productos de Microsoft Dynamics AX, con fecha de aplicación a partir del 1 de noviembre de 2016. Para obtener más información sobre las nuevas opciones de licencias para Dynamics 365, revisa a la próxima Guía de licencias que se publicará próximamente. Consulta la tabla siguiente para obtener más información sobre la asignación de licencias:
+Cuando las suscripciones a CRM Online y AX finalicen, se cancelarán. Para garantizar que los clientes no vean interrumpidos sus servicios, planifica la transición de aquellos clientes cuyas suscripciones vayan a caducar a una opción de SKU compatible, como aparece a continuación. Recomendamos trasladar los clientes a las nuevas suscripciones antes de la fecha de finalización anual de la suscripción para evitar interrupciones en el servicio a los clientes. 
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Licencia de Dynamics AX retirada</strong></p></td>
-<td><p><strong>Licencia de Dynamics 365</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX Enterprise</p></td>
-<td><p>Dynamics 365 Enterprise edition Plan 2</p>
-<p>O Dynamics 365 para operaciones</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tarea de Dynamics AX</p></td>
-<td><p>Dynamics 365 para miembro del equipo</p></td>
-</tr>
-<tr class="even">
-<td><p>Dynamics AX funcional</p></td>
-<td><p>Dynamics 365 para miembro del equipo</p></td>
-</tr>
-<tr class="odd">
-<td><p>Dispositivo de Dynamics AX</p></td>
-<td><p>Dynamics 365 para dispositivo de operaciones</p></td>
-</tr>
-</tbody>
-</table>
+En la página de detalles de la suscripción, verá que el estado de las suscripciones que van a caducar ha cambiado de "Se renovará automáticamente el [fecha]" a "Expira el [fecha]". 
 
- 
+Si usas la API (CREST o el Centro de partners), puedes descubrir las suscripciones que van a caducar evaluando la fecha de finalización de la suscripción junto con la propiedad auto renew = False. Las suscripciones se establecieron en auto renew=False el 1 de julio de 2017. Puedes mover a los clientes a un plan nuevo en cualquier momento. 
+
+**Cambios en las licencias de Microsoft Dynamics AX**
+
+La línea de productos de Microsoft Dynamics AX se retiró a partir del 1 de noviembre de 2016. Para obtener más información sobre las nuevas opciones de licencias para Dynamics 365, revisa la [Guía de licencias](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).
+
+ Consulta la tabla siguiente para obtener más información sobre la asignación de licencias:
+
+|**SKU retirado**   |**Dynamics 365 SKU**   |
+|-------------------|:----------------------|
+|Enterprise SKU|Plan Microsoft Dynamics 365 for Unified Operations o Microsoft Dynamics 365 |
+|Tarea|Microsoft Dynamics 365 for Activity
+|Tarea/autoservicio|Microsoft Dynamics 365 for Team Members|
+|Dispositivo|Dispositivo de Microsoft Dynamics 365 for Operations|
+
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Cambios de licencias de Microsoft Dynamics CRM Online 
 
 **Microsoft Dynamics CRM Online**
 
-El plan actual de Microsoft Dynamics CRM Online se retirará de forma definitiva 1 de noviembre de 2016. Consulta [Información importante para los clientes de CRM Online](https://go.microsoft.com/fwlink/?linkid=831667) para conocer más detalles sobre nuevas opciones de licencias.
+El plan actual de Microsoft Dynamics CRM Online se retiró el 1 de noviembre de 2016. Para obtener más información sobre las nuevas opciones de licencias para Microsoft Dynamics 365, revisa la [Guía de licencias](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf). Consulta [Información importante para los clientes de CRM Online](https://go.microsoft.com/fwlink/?linkid=831667) para conocer más detalles sobre nuevas opciones de licencias.
 
-## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
+Consulta la tabla siguiente para obtener más información sobre la asignación de licencias:
+
+|**SKU retirado**   |**Dynamics 365 SKU**   |
+|-------------------|:----------------------|
+|Enterprise|Plan Dynamics 365 Enterprise Customer Engagement |
+|Professional|Plan Dynamics 365 Enterprise Customer Engagement, Dynamics 365 for Sales o Dynamics 365 for Customer Service|
+|Basic|Plan Dynamics 365 for Team Members, Dynamics 365 for Sales, Dynamics 365 for Customer Service o Dynamics 365 Enterprise Customer Engagement|
+|Essential|Dynamics 365 for Team Members|
+|Complemento de servicio de campo|Plan Dynamics 365 Enterprise Customer Engagement o Dynamics 365 for Field Service|
+|Complemento de automatización de servicios de proyecto|Plan Dynamics 365 Enterprise Customer Engagement o Dynamics 365 for Project Service Automation|
 
 
-Microsoft ofrece de forma continua nuevos productos y servicios a revendedores y proveedores. En estos casos, un revendedor podría tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde antiguas SKU a unas más recientes que requieren la siguiente secuencia:
 
--   [Comprar la nueva suscripción](#manual-subscription-migration-purchasenewsubsc);
--   [Reasignar licencias de usuario actual](#manual-subscription-migration-reassignlicenses);
+## <a name="transition-customers-to-new-product-plans"></a>Clientes en transición a los nuevos planes de producto
+
+
+Microsoft continuously offers new products and services to resellers and providers. In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down. Migrating customers from old SKUs to newer ones requires the following sequence:
+
+-   [Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);
+-   [Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);
 -   [Cancelar la suscripción antigua](#manual-subscription-migration-cancelsubscriptions).
 
-En los siguientes procedimientos, se mueve un cliente de Dynamics AX7 Enterprise a Dynamics 365 para operaciones.
+En los siguientes procedimientos, moverás a un cliente de Microsoft Dynamics AX o CRM Online a Dynamics 365.
 
-<a href="" id="purchasenewsubsc"></a>El revendedor debe mover un cliente con una suscripción existente para Dynamics AX Enterprise a Dynamics 365 para operaciones. El primer paso es comprar Dynamics 365 para operaciones.
+En este ejemplo, el revendedor debe mover un cliente con una suscripción existente para Dynamics AX Enterprise a Dynamics 365 for Operations. El primer paso es comprar Dynamics 365 for Operations.  Repite estos pasos para un cliente de CRM Online que se mueva a Microsoft Dynamics 365.
+
+<a href="" id="purchasenewsubsc"></a>
 
 **Comprar la nueva suscripción**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y elige **Agregar suscripciones**.
-2.  Selecciona la suscripción que quieras adquirir del catálogo (en este caso, Dynamics 365 para operaciones, Enterprise Edition), escribe el número de licencias y elige **Enviar**.
+1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.
+2.  Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.
 
-    El cliente ahora debería tener las suscripciones antigua y nueva; en este ejemplo, serían la antigua suscripción Dynamics AX Enterprise y la nueva suscripción de destino, Dynamics 365 para operaciones, Enterprise Edition.
+    Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a> El siguiente paso es reasignar todas las licencias de usuario existentes a la nueva suscripción.
+<a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.
 
-**Reasignar licencias de usuario**
+**Reassign user licenses**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y elige **Usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
-2.  Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
-3.  En la página **Administrar licencias**, desactiva la casilla de verificación de la licencia **Dynamics AX Enterprise** y selecciona la licencia **Dynamics 365 para operaciones**.
-4.  Selecciona **Enviar**. Una página de confirmación enumera las nuevas asignaciones de licencias.
-5.  Sigue los mismos pasos con otros usuarios del cliente que necesiten la reasignación de licencias.
+1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**. The customer’s Users and Licenses page opens.
+2.  To re-assign user licenses, select the user to reassign and then select **Manage licenses**.
+3.  On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.
+4.  Select **Submit**. A confirmation page lists the new license assignments.
+5.  Continue the same steps with any other customer users that need license reassignment.
 
-<a href="" id="cancelsubscriptions"></a> Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción antigua al nivel superior del cliente.
+<a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.
 
-**Cancelar la suscripción antigua**
+**Cancel the old subscription**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y selecciona la suscripción que quieres cancelar.
-2.  En la página de detalles de suscripción, establece el **Estado** de la suscripción a **Suspendida**.
-3.  Selecciona **Enviar**.
+1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.
+2.  In the subscription details page, set the subscription **Status** to **Suspended**.
+3.  Select **Submit**.
 
-Se ha suspendido la suscripción antigua y la nueva suscripción está activa. Se cancelará el aprovisionamiento de la suscripción suspendida automáticamente después de 120 días. El cliente no incurre en costos adicionales para la suscripción antigua.
+The old subscription is suspended, and the new subscription is active. The suspended subscription will automatically be de-provisioned after 120 days. The customer incurs no additional costs for the old subscription.
 
-## <a name="additional-considerations"></a>Consideraciones adicionales
+## <a name="additional-considerations"></a>Additional considerations
 
 
-Si el cliente se mueve desde el canal abierto hasta el programa de servicios en la nube para un aprovisionamiento de suscripción adicional, también deberás migrar sus suscripciones existentes:
+If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:
 
--   Si el cliente recibe su suscripción antigua a través del canal abierto, el movimiento al CSP en la nueva SKU es sencillo.
--   Si el cliente no se ha establecido aún como tu cliente, puedes invitarle. Para obtener información, consulta el tema de ayuda [Solicitar una relación con un cliente](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+-   If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.
+-   If the customer is not yet established as your customer, you can invite them. For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.
 
-Una vez que el cliente te acepte como su proveedor indirecto, los pasos de aprovisionamiento son prácticamente iguales que los descritos anteriormente: compras la nueva suscripción y, a continuación, asignas las licencias de usuario. La única diferencia implica la cancelación de suscripciones antiguas. Un nuevo proveedor no puede cancelar/suspender suscripciones adquiridas a través de otros canales. Si el cliente adquirió suscripciones anteriores en otro canal de ventas, como el canal abierto, el cliente deberá cancelarlas por sí mismo a través de dicho canal.
+After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses. The only difference involves cancellation of old subscription(s). A new provider cannot cancel suspend/cancel subscriptions acquired via other channels. If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.
 
  
 
