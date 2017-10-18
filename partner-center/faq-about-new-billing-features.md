@@ -3,18 +3,18 @@ title: "Preguntas frecuentes sobre las nuevas características de facturación |
 Description: "A continuación se incluyen algunas de las preguntas frecuentes relacionadas con las características de alineación de facturación, evaluación gratuita y facturación anual del Centro de partners."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
 **Se aplica a**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Centro de partners
+-  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
 A continuación se incluyen algunas de las preguntas frecuentes relacionadas con las características de alineación de facturación, evaluación gratuita y facturación anual del Centro de partners. 
@@ -247,7 +247,7 @@ Esta documentación debe revisarse y deben realizarse preparaciones para impleme
 
 **P:** ¿Cuándo estará disponible?
 
-**R:** Tenemos previsto que esté disponible en septiembre de 2018.
+**R:** Tenemos previsto que esté disponible el 17 de octubre de 2017.
 
 **P:** ¿Quién puede participar?
 
