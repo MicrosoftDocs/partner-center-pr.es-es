@@ -4,11 +4,11 @@ description: "Comparte nuestro objetivo de que mil millones de dispositivos teng
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: competencia,competencias,Windows y dispositivos
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows y dispositivos 
 Comparte nuestro objetivo de que mil millones de dispositivos tengan instalado Windows 10. Esta oportunidad abarca servicios, aplicaciones y dispositivos. Esta competencia te ofrece herramientas, contenido y recursos que te ayudarán a crear y mejorar tu rentable práctica de Windows 10.
@@ -87,7 +87,7 @@ La opción de partner de dispositivos es ideal si prefieres demostrar tus conoci
 
         - Área de especialización en **creadores de sistemas**
 
-            - [Examen 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Preinstalación OEM de Windows 10
+            - [Examen 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Fabricación e implementación de OEM para Windows10
 
     **O bien,**
 

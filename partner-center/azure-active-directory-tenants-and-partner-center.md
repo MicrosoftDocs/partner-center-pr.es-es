@@ -3,11 +3,11 @@ title: Cuentas profesionales y Centro de partners | Centro de partners
 description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional.
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>Tu cuenta profesional y Centro de partners  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
-Necesitamos vincular una cuenta profesional de tu organización a tu nueva cuenta de Centro de partners para que los usuarios del inquilino puedan conectarse al Centro de partners con sus nombres de usuario y contraseñas de Azure AD (cuenta profesional).
+Necesitamos vincular una cuenta profesional de tu organización a tu nueva cuenta de Centro de partners para que los usuarios del inquilino puedan conectarse al Centro de partners con sus nombres de usuario y contraseñas.
 
 Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Centro de partners. 
 
@@ -25,9 +25,9 @@ Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del
 
 Si tu empresa aún no tiene una cuenta profesional, puedes crear una de forma gratuita durante el proceso de inscripción. Selecciona **Crear un inquilino** en la página **Iniciar sesión en Azure Active Directory**. Cuando creas un nuevo inquilino de Azure Active Directory, vas a crear una nueva cuenta profesional. Azure Active Directory es de solución de administración de identidades de inicio de sesión único de Microsoft.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>¿No estás seguro de si tu empresa ya tiene una cuenta profesional de Azure?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>¿No estás seguro de si tu empresa ya tiene una cuenta profesional?
 
-Si no estás seguro de si tu empresa tiene una cuenta profesional de Azure, sigue estos pasos para comprobarlo. Ten en cuenta que si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional de Azure.
+Si no estás seguro de si tu empresa tiene una cuenta profesional, sigue estos pasos para comprobarlo. Ten en cuenta que si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional.
 1.  Inicia sesión en el portal de administración de Azure en https://ms.portal.azure.com
 2.  Selecciona Azure Active Directory en el menú y luego selecciona Nombres de dominio.
 3.  Si ya tienes una cuenta profesional, se mostrará tu nombre de dominio.
@@ -36,7 +36,7 @@ Si no estás seguro de si tu empresa tiene una cuenta profesional de Azure, sigu
 
 Si quieres usar una cuenta profesional existente, pero tienes problemas para iniciar sesión, busca el escenario en el siguiente diagrama que mejor se adapte a tu situación y sigue los pasos recomendados. 
 
-![¿Tienes una cuenta profesional de Azure o necesitas crear una?](images/onboardingAADFlow.png)
+![¿Tienes una cuenta profesional o necesitas crear una?](images/onboardingAADFlow.png)
 
 Para obtener más información sobre cómo agregar dominios a Azure AD, consulta [Agregar o asociar un dominio de Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
