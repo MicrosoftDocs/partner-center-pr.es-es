@@ -1,13 +1,13 @@
 ---
 title: "Facturación | Centro de partners"
-Description: "Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes."
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>Facturación
 
@@ -17,12 +17,17 @@ ms.lasthandoff: 10/18/2017
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
+Para la facturación, ve al menú **Panel** y luego selecciona **Facturación** para tu historial de facturación y las tendencias, vínculos a tu factura y archivo de conciliación y el pago más reciente.
 
-Para la facturación, ve al menú **Panel**, a continuación, selecciona **Facturación**. Esta página de facturación muestra tu historial de facturación y las tendencias, vínculos a tu factura y archivos de conciliación y el pago más reciente.
+Los partners del programa Proveedor de soluciones en la nube que han elegido la facturación mensual pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en el uso).
+
+>**Nota**<br>
+La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+
+Información clave para saber cómo facturar a tus clientes:
 
 -   Microsoft no tiene requisitos o condiciones relativos a cómo controlar la facturación propia.
--   Para determinar el uso de los clientes, usa el identificador o el nombre de cliente y otros campos pertinentes de los archivos de conciliación.
+-   Para determinar el uso de un cliente, usa el identificador o el nombre de cliente y otros campos pertinentes de los archivos de conciliación.
 -   Agrega tus propios cargos y tarifas por los productos y servicios que proporciones.
 -   Envía al cliente una sola factura para todos los cargos.
 
@@ -66,7 +71,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <td>Fechas</td>
 <td><ul>
 <li>La fecha de facturación mensual es el día del mes que se seleccione durante la inscripción. Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación.</li>
-<li>Encontrarás las listas de precios 1 mes antes, a medida que se actualice cada mes. Los precios de basados en licencia se garantizan para el período de la suscripción; normalmente 12 meses desde la fecha de compra. Los precios basados en uso pueden cambiar cada mes. Proporcionaremos un aviso de 30 días en relación con cualquier cambio de precio a través de la publicación de nuestra Lista de precios para partners.</li>
+<li>Encontrarás las listas de precios un (1) mes antes, a medida que se actualice cada mes. Los precios de basados en licencia se garantizan para el período de la suscripción; normalmente 12 meses desde la fecha de compra. Los precios basados en uso pueden cambiar cada mes. Proporcionaremos un aviso de 30 días en relación con cualquier cambio de precio a través de la publicación de nuestra Lista de precios para partners.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ Para la facturación, ve al menú **Panel**, a continuación, selecciona **Factu
 <tr class="even">
 <td>Disponibilidad de las facturas</td>
 <td><ul>
-<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación en el Centro de partners.</li>
+<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">

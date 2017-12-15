@@ -2,11 +2,11 @@
 title: Comprar o renovar Action Pack | Centro de partners
 description: "Aprende a comprar o renovar una suscripción a Microsoft Action Pack."
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Comprar o renovar una suscripción a Microsoft Action Pack
 
@@ -44,7 +44,7 @@ Para obtener información sobre los beneficios incluidos con Microsoft Action Pa
 
 7. Tu pedido se ha confirmado. Selecciona **Cerrar**.
 
-Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. Sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Renovar la suscripción a Action Pack
@@ -67,7 +67,7 @@ Tu suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 9. Tu pedido se ha confirmado. Selecciona **Cerrar**.
 
-Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. Sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
@@ -79,12 +79,12 @@ Tu suscripción a Action Pack se renovará automáticamente cada año en esta fe
 3. Selecciona **Desactivar renovación automática** si no quieres que tu suscripción a Action Pack se renueve automáticamente cada año. 
 
     >**Nota**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. Te recordaremos la renovación de la suscripción antes de que caduque dicha suscripción.
+    Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos la renovación de la suscripción antes de que caduque dicha suscripción.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar la suscripción a Action Pack
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Para cancelar la suscripción a Microsoft Action Pack, debes ponerse en contacto con soporte técnico del Centro de partners.
 
 1. Ve a https://partnercenter.microsoft.com/es-es/partner/support.
 
@@ -106,9 +106,7 @@ Para comprobar el estado de la solicitud de servicio, selecciona **Solicitudes d
 
 [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 
-[Conseguir más información sobre los requisitos de competencias para las suscripciones Silver y Gold](learn-about-competencies.md)
-
-[Crear un perfil de marketing para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+[Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
 
 
 

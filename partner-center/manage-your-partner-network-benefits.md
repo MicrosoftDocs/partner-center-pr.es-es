@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
+description: "Como un miembro de Microsoft Partner Network, tienes derecho a determinados beneficios de suscripción. Explica cómo activar y administrar los beneficios de suscripción en el Centro de partners."
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de la suscripción a Microsoft Partner Network
 
-**Applies to**
+**Se aplica a:**
 
--  Partner Center
+-  Centro de partners
 
 La suscripción a Microsoft Partner Network te proporciona algunos paquetes de beneficios. Para poder comprar y activar los beneficios de la suscripción, tu organización debe ser miembro de Microsoft Partner Network. Si no eres miembro de la red, puedes unirte en [https://partner.microsoft.com](https://partner.microsoft.com).
 
->**Ten en cuenta** que este vínculo te llevará a otro sitio web. Return to this site, Partner Center, to renew and upgrade your network membership.
+>**Ten en cuenta** que este vínculo te llevará a otro sitio web. Vuelve a este sitio, el Centro de partners, para renovar y actualizar tu suscripción a la red.
 
 Tras unirte o renovar la suscripción en Microsoft Partner Network, puedes comprar ofertas de beneficios.
 
@@ -39,11 +39,11 @@ Para ver y administrar todos los beneficios de la suscripción que has recibido,
 
     a. Selecciona **Obtener claves** para mostrar las claves de licencia del producto. Asegúrate de seguir las instrucciones que se indican.
 
-    b. Select the language you want the product to be displayed in.
+    b. Selecciona el idioma en el que quieres que el producto se muestre.
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    c. Selecciona el tipo de sistema operativo (SO) de los equipos en los vas a instalar el software.
 
-    d. Follow the links to download and install the software installation packages.
+    d. Sigue los vínculos para descargar e instalar los paquetes de instalación de software.
 
 
 #### <a name="manage-cloud-services-benefits"></a>Administrar los beneficios de servicios de nube
@@ -68,9 +68,9 @@ Para ver y administrar todos los beneficios de la suscripción que has recibido,
     >**Importante**<br>
 Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en la **configuración de la cuenta**.
 
-3. Repite este proceso para cada suscripción que desees asignar. Users can manage their subscriptions in the Visual Studio portal. 
+3. Repite este proceso para cada suscripción que desees asignar. Los usuarios pueden administrar sus suscripciones en el portal de Visual Studio. 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    Puede reasignar suscripciones en cualquier momento mediante la eliminación de un usuario asignado y, a continuación, asignar un usuario diferente. 
 
 
 #### <a name="manage-support-benefits"></a>Administrar los beneficios de soporte técnico
@@ -85,7 +85,7 @@ Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos u
 
     b.  Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    Como medida de seguridad, te enviaremos un mensaje de instrucciones para acceder a soporte técnico de Microsoft a esta dirección de correo electrónico, además del correo electrónico de la cuenta de Centro de partners del usuario. Ten en cuenta que puede tardar varios días activar este beneficio y que el usuario asignado reciba las instrucciones por correo electrónico.    
     
     c.  Cuando hayas terminado de escribir la dirección de correo electrónico alternativa, selecciona **Asignar usuario**. 
 

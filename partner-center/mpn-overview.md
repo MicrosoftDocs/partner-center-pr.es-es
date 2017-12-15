@@ -2,36 +2,51 @@
 title: "Suscripción a Microsoft Partner Network | Centro de partners"
 description: "Obtén información sobre los beneficios de unirse a Microsoft Partner Network."
 author: MaggiePucciEvans
-ms.openlocfilehash: c265251cfc7ba49032aea16e46a687cb34670a38
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+keywords: "partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, beneficios, beneficios de MPN, suscripción"
+ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-on-partner-center"></a>Administra tu suscripción a Microsoft Partner Network en el Centro de partners
+# <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
-## <a name="three-paths-to-partnership"></a>Tres rutas de asociación
+## <a name="join-the-microsoft-partner-network"></a>Únete a Microsoft Partner Network.
 
-Microsoft Partner Network proporciona tres tipos de suscripción. Cada uno de ellos proporciona un conjunto de beneficios que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el nivel que se adapte a sus propias necesidades empresariales para acceder a los beneficios y desarrollarás tu relación con nosotros y con otros partners de la red.
+Microsoft Partner Network proporciona tres tipos de suscripción. Cada uno de ellos proporciona un conjunto de beneficios que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el programa en el nivel que se adapte a tus propias necesidades empresariales para acceder a más beneficios y desarrollarás tu relación con nosotros y con otros partners de la red.
 
--   **Miembro de la red**. Al unirte a este nivel básico gratuito, recibirás un conjunto de [beneficios de derechos de uso interno básicos]( https://partner.microsoft.com/membership/core-benefits) que te ayudarán a desarrollar tu negocio y pasar al siguiente nivel.
+-   **Miembro de la red** Cuando te unes a este nivel básico gratuito, recibes una serie de [beneficios principales de derechos de uso interno](https://partner.microsoft.com/membership/core-benefits) que pueden ayudarte a ahorrar tiempo y dinero mientras refuerzas tus capacidades, proporcionas un mejor servicio a los clientes y creas conexiones para alcanzar el potencial completo de tu negocio.
 
--   **Action Pack.** Compra [Action Pack](mpn-get-action-pack.md), una suscripción anual asequible, para obtener beneficios adicionales, incluido el acceso a herramientas de desarrollo, soporte, formación y software.
+    [Más información sobre Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
 
--   **Competencia.** Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades tus clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. 
+    [Únete ahora mismo a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
-    -   Gana una suscripción Silver para demostrar tu capacidad, experiencia y compromiso.
+-   **Action Pack** Compra Action Pack, una suscripción anual asequible, para obtener beneficios de red adicionales, incluido el acceso a herramientas de desarrollo, soporte, formación y software. En este nivel puedes mejorar tu experiencia y desarrollar nuevos conocimientos.
 
-    -   Gana una suscripción Gold para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft.
+    [Más información sobre Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-    [Consigue más información](learn-about-competencies.md) sobre los requisitos de competencias para suscripciones Silver y Gold.
+    [Suscribirse ahora mismo a Action Pack](mpn-get-action-pack.md)
 
+-   **Competencia** Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte a satisfacer las necesidades de tus clientes y ser reconocible a los posibles clientes. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
 
-## <a name="next-steps"></a>Pasos siguientes
+    -   Obtén competencias Silver para demostrar tu capacidad, experiencia y compromiso.
 
-[Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
+    -   Obtén competencias Gold para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft.
 
-[Comprar o renovar Action Pack](mpn-get-action-pack.md)
+    [Más información sobre cómo obtener competencias Silver y Gold](https://partner.microsoft.com/membership/competencies)
 
-[Información sobre el programa Proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider)
+   
+## <a name="get-started-with-partner-center"></a>Empezar a trabajar con el Centro de partners
+
+Para que sea más fácil colaborar con Microsoft y para ayudarte a ahorrar tiempo y dinero, estamos trabajando en segundo plano para trasladar las funcionalidades, características y flujos de trabajo que actualmente se encuentran dispersos en varios sitios web y herramientas para el Centro de partners, este sitio. 
+
+A medida que trasladamos funcionalidades específicas al Centro de partners, estamos retirando los sitios heredados que se usaban para alojarlas. Para seguir sacando partido de estas características, debes crear una cuenta en este sitio, Centro de partners. 
+
+Por ejemplo, si has usado para obtener y administrar referencias en Pinpoint, ese sitio se ha retirado y todas las funcionalidades de referencia están ahora en el Centro de partners. Sigue estos pasos para empezar a trabajar en el Centro de partners:   
+
+-   [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
+
+-   [Crear un perfil de negocio para obtener referencias de cliente](create-a-marketing-profile.md)
+
+-   [Administrar los beneficios de la suscripción a Microsoft Partner Network](manage-your-partner-network-benefits.md)
 

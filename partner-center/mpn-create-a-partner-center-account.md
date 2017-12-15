@@ -2,11 +2,11 @@
 title: Crear una cuenta del Centro de partners | Centro de partners
 description: "Aprende a administrar tu suscripción a Microsoft Partner Network, tus ofertas y tus beneficios en el Centro de partners."
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
@@ -25,15 +25,15 @@ Tras crear una cuenta del Centro de partners, podrás:
 
 -   Comprar ofertas de beneficios de la suscripción, incluido Microsoft Action Pack 
 
--   Activate and manage your network membership benefits
+-   Activar y administrar los beneficios de las suscripciones de red
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
 Para crear una cuenta en el Centro de partners, deberás tener a mano la siguiente información. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
--   Credenciales de administrador global para el inquilino de Microsoft Azure Active Directory (Azure AD) de tu empresa Si no tienes la certeza de si tu empresa tiene ya un inquilino de Azure AD, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
+-   Correo electrónico profesional del administrador global. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
 
-    Si tu empresa aún no tiene ningún inquilino de Azure AD, puedes crear uno durante el proceso de creación de la cuenta. 
+    Si tu empresa no tiene una cuenta profesional, puedes crear una durante el proceso de creación de la cuenta. 
 
 -   El nombre legal de tu empresa, la dirección y el contacto principal. Necesitamos esta información para confirmar que la empresa tiene un perfil establecido y que tienes autorización para actuar en su nombre. 
 
@@ -41,17 +41,17 @@ Para crear una cuenta en el Centro de partners, deberás tener a mano la siguien
 
 -   El nombre y el correo electrónico empresarial de la persona que quieras que sea el contacto principal. Para ayudar a garantizar la seguridad y la privacidad de tu empresa, le enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a tu empresa. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
 
-We’ll verify this information during the account creation process. 
+Comprobaremos esta información durante el proceso de creación de la cuenta. 
  
 ## <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
 1.  Revisa la información de la página **Bienvenida** y después haz clic en **Siguiente**.
 
-2.  Inicia sesión en el inquilino de Azure AD de tu empresa como administrador global. Si no tienes la certeza de si tu empresa tiene ya un inquilino de Azure AD, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
+2.  Inicia sesión con el correo electrónico profesional como administrador global. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
 
-    Selecciona **Iniciar sesión en Azure AD** si sabes que tu empresa tiene un inquilino de Azure AD. En la página siguiente, escribe las credenciales de administrador global del inquilino de tu empresa. 
+    Selecciona **Iniciar sesión en Azure AD** si sabes que tu empresa tiene una cuenta de correo electrónico profesional. En la página siguiente, escribe las credenciales de administrador global del inquilino de tu empresa. 
 
-    Si tu empresa no tiene ningún inquilino de Azure AD, selecciona **Crear nuevo inquilino** para configurar uno ahora. Tras configurar un inquilino de Azure AD, inicia sesión con las credenciales de administrador global de tu nuevo inquilino.
+    Si tu empresa no tiene una cuenta profesional, selecciona **Crear nuevo inquilino** para configurar una ahora. Tras configurar un inquilino de Azure AD (cuenta profesional), inicia sesión con las credenciales de administrador global de tu nueva cuenta de correo electrónico profesional.
 
 3.  Proporciona o actualiza el perfil legal de tu empresa y la información del contacto principal de la organización y a continuación selecciona **Inscribirse ahora**. 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**Importante**<br> Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a la empresa. Cuando el contacto principal verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  Lee y acepta los términos y condiciones del acuerdo de Microsoft Partner Network. 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  Comprueba que te hayan agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
     a. En menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios** y selecciona tu nombre de la lista de usuarios. 
 

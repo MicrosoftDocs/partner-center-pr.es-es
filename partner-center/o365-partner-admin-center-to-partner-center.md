@@ -1,10 +1,21 @@
 ---
-Título: Clientes del Centro de administración de partners de Office 365: Prepárate para mover las operaciones empresariales al Centro de partners | Descripción del Centro de partners: Consideraciones clave para los clientes del Centro de administración de partners de Office 365 al migrar al Centro de partners ms.prod: Autor: KPacquer
+title: "Clientes del Centro de administración de partners de Office 365: vuestras operaciones empresariales se están moviendo al Centro de partners| Centros de partners"
+description: "Consideraciones clave para los clientes del Centro de administración de partners de Office 365 al migrar al Centro de partners"
+author: KPacquer
+ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 11/10/2017
 ---
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes del Centro de administración de partners de Office 365: Preparaos para migrar las operaciones empresariales al Centro de partners
 
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes del Centro de administración de partners de Office 365: Prepárate mover las operaciones empresariales al Centro de partners
+**Se aplica a** 
 
-Estamos trasladando las características del Centro de administración de partners de Office 365 al Centro de partners para ayudarte a administrar a tus clientes en todo el ciclo de vida empresarial. Además de las características que ya conoces, ahora podrás: 
+- Centro de partners
+- Centro de administración de partners de Office 365
+
+Estamos trasladando las características del Centro de administración de partners de Office 365 al Centro de partners para ayudarte a administrar tus clientes en todo el ciclo de vida empresarial. Además de las características que ya conoces, ahora podrás: 
 
 *  Hacer crecer tu negocio a través de [referencias](referrals.md) y administrar a tus nuevos clientes a medida que lleguen.
 *  Enviar invitaciones de relación a los clientes en nombre de tu empresa y de tu proveedor.

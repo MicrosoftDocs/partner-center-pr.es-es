@@ -3,11 +3,11 @@ title: Responder a las referencias | Centro de partners
 description: "Evaluar, negociar y responder a las referencias a través del Centro de partners."
 author: KPacquer
 keywords: referencia, RFI, Buscar un partner
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Responder a las referencias en | Centro de partners
 
@@ -19,7 +19,7 @@ Como partner de Microsoft calificado, puede recibir negocios potenciales a trav�
 
 ## <a name="referral-management"></a>Administración de referencias
 
-Empieza mediante la configuración de un [perfil de marketing](create-a-marketing-profile.md) para cada región donde hagas negocios. Una vez que tu perfil está activo, podremos dirigir a los clientes a tu empresa, a través de:
+Empieza mediante la configuración de un [perfil de negocio](create-a-marketing-profile.md) para cada región donde hagas negocios. Una vez que tu perfil está activo, podremos dirigir a los clientes a tu empresa, a través de:
 
 *  Actividades de marketing de Microsoft
 *  Ventas internas de Microsoft y agentes de servicios
@@ -27,7 +27,7 @@ Empieza mediante la configuración de un [perfil de marketing](create-a-marketin
 
 Cuando un cliente esté interesado contactar contigo, te enviará una solicitud de información (RFI). 
 
-Cuando esto sucede, enviaremos un correo electrónico al contacto que se indica en tu [perfil de marketing](create-a-marketing-profile.md) específico de la región y ubicación seleccionados. También puedes ver las RFI entrantes: ve a **Panel > Referencias > Referencias de cliente**.
+Cuando esto sucede, enviaremos un correo electrónico al contacto que se indica en tu [perfil de negocio](create-a-marketing-profile.md) específico de la región y ubicación seleccionados. También puedes ver las RFI entrantes: ve a **Panel > Referencias > Referencias de cliente**.
 
 Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para tener más posibilidades de éxito, te recomendamos responder y aceptar o rechazar las nuevas referencias en 24 horas o menos.
 
@@ -59,9 +59,9 @@ Revisa tus últimos referencias (**ganada, perdida, omitida, perdida, rechazada*
 
 Aquí te mostramos algunas sugerencias para asegurarte de que estás recibiendo más referencias adecuadas para tu empresa:
 
-*  **Revisa la información de contacto en tu [perfil de marketing](create-a-marketing-profile.md)** para cada ubicación para asegurarte de que tu equipo recibe alertas entrantes.
+*  **Revisa la información de contacto en tu [perfil de negocio](create-a-marketing-profile.md)** para cada ubicación para asegurarte de que tu equipo recibe alertas entrantes.
 
-*  **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de marketing](create-a-marketing-profile.md). Quita las palabras clave que generaría referencias que no te interesan. Si no te interesa trabajar con empresas de un tamaño determinado, actualiza esta preferencia.
+*  **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de negocio](create-a-marketing-profile.md). Quita las palabras clave que generaría referencias que no te interesan. Si no te interesa trabajar con empresas de un tamaño determinado, actualiza esta preferencia.
 
 *  **Responde rápidamente a las referencias**. Al responder a las solicitudes entrantes a tiempo, aumentaremos tu visibilidad en los resultados de futuras búsquedas de clientes. Asegúrate de que tu equipo responde rápidamente con tu propósito.
 
