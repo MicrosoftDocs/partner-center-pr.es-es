@@ -3,75 +3,70 @@ title: Crear varios usuarios para una cuenta de cliente | Centro de partners
 description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv).
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-
+keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 12/08/2017
 ---
+# <a name="add-multiple-users-to-a-customer-account"></a><span data-ttu-id="548ac-104">Agregar varios usuarios a una cuenta de cliente</span><span class="sxs-lookup"><span data-stu-id="548ac-104">Add multiple users to a customer account</span></span>
 
-# Agregar varios usuarios a una cuenta de cliente
+**<span data-ttu-id="548ac-105">Se aplica a</span><span class="sxs-lookup"><span data-stu-id="548ac-105">Applies to</span></span>**
 
-**Se aplica a**
+-  <span data-ttu-id="548ac-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="548ac-106">Partner Center</span></span>
 
--  Centro de partners
+<span data-ttu-id="548ac-107">Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv).</span><span class="sxs-lookup"><span data-stu-id="548ac-107">You can add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to Partner Center.</span></span> <span data-ttu-id="548ac-108">Puedes descargar un archivo de datos de ejemplo del Centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.</span><span class="sxs-lookup"><span data-stu-id="548ac-108">You can download a sample data file from Partner Center and then edit it for your use, or you can create a new data file using the data model defined below.</span></span>
 
-Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv). Puedes descargar un archivo de datos de ejemplo del Centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
-
-## <a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
+## <a href="" id="creatingtheimportcsvfile"></a><span data-ttu-id="548ac-109">Requisitos del archivo de datos:</span><span class="sxs-lookup"><span data-stu-id="548ac-109">Data file requirements</span></span>
 
 
-Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, es necesario cumplir los siguientes requisitos:
+<span data-ttu-id="548ac-110">Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, es necesario cumplir los siguientes requisitos:</span><span class="sxs-lookup"><span data-stu-id="548ac-110">To add multiple users to a customer’s account using the bulk upload process, you’ll need to meet the following requirements:</span></span>
 
--   Debes tener permisos de administrador global para la cuenta de cliente.
--   Cada usuario debe tener una dirección de correo electrónico exclusiva, anexa a los dominios de correo electrónico del cliente.
--   Puedes subir hasta 100 registros a la vez. Si es necesario agregar más de 100 usuarios, crea y sube archivos de datos adicionales.
--   Todos los usuarios deben estar en la misma **ubicación** geográfica.
--   Escribe solo los datos que se describen a continuación. Unos datos extraños hará que la carga sufra un error.
+-   <span data-ttu-id="548ac-111">Debes tener permisos de administrador global para la cuenta de cliente.</span><span class="sxs-lookup"><span data-stu-id="548ac-111">You must have global administrator permissions to the customer account;</span></span>
+-   <span data-ttu-id="548ac-112">Cada usuario debe tener una dirección de correo electrónico exclusiva, anexa a los dominios de correo electrónico del cliente.</span><span class="sxs-lookup"><span data-stu-id="548ac-112">Each user must have a unique email address, appended to the customer's email domain(s);</span></span>
+-   <span data-ttu-id="548ac-113">Puedes subir hasta 100 registros a la vez.</span><span class="sxs-lookup"><span data-stu-id="548ac-113">You can upload up to 100 records at a time.</span></span> <span data-ttu-id="548ac-114">Si es necesario agregar más de 100 usuarios, crea y sube archivos de datos adicionales.</span><span class="sxs-lookup"><span data-stu-id="548ac-114">If you need to add more than 100 users, create and upload additional data files.</span></span>
+-   <span data-ttu-id="548ac-115">Todos los usuarios deben estar en la misma **ubicación** geográfica.</span><span class="sxs-lookup"><span data-stu-id="548ac-115">All users must be in the same geographic **Location**.</span></span>
+-   <span data-ttu-id="548ac-116">Escribe solo los datos que se describen a continuación.</span><span class="sxs-lookup"><span data-stu-id="548ac-116">Enter only the data described below.</span></span> <span data-ttu-id="548ac-117">Unos datos extraños hará que la carga sufra un error.</span><span class="sxs-lookup"><span data-stu-id="548ac-117">Extraneous data will cause the upload to fail.</span></span>
 
-Escribe los siguientes datos en el archivo de datos:
+<span data-ttu-id="548ac-118">Escribe los siguientes datos en el archivo de datos:</span><span class="sxs-lookup"><span data-stu-id="548ac-118">Enter the following data in the data file:</span></span>
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nombre de columna** | **Descripción**                                                              | **Limitaciones**                             |
-| Nombre      | El nombre de pila del usuario (campo opcional)                                           | Límite de 50 caracteres                         |
-| Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
-| Nombre para mostrar    | El nombre que aparecerá en el Centro de partners (campo obligatorio).                            | Límite de 50 caracteres                         |
-| Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
-| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
+| **<span data-ttu-id="548ac-119">Nombre de columna</span><span class="sxs-lookup"><span data-stu-id="548ac-119">Column name</span></span>** | **<span data-ttu-id="548ac-120">Descripción</span><span class="sxs-lookup"><span data-stu-id="548ac-120">Description</span></span>**                                                              | **<span data-ttu-id="548ac-121">Limitaciones</span><span class="sxs-lookup"><span data-stu-id="548ac-121">Limitation</span></span>**                             |
+| <span data-ttu-id="548ac-122">Nombre</span><span class="sxs-lookup"><span data-stu-id="548ac-122">First name</span></span>      | <span data-ttu-id="548ac-123">El nombre de pila del usuario (campo opcional)</span><span class="sxs-lookup"><span data-stu-id="548ac-123">User’s first name (optional field)</span></span>                                           | <span data-ttu-id="548ac-124">Límite de 50 caracteres</span><span class="sxs-lookup"><span data-stu-id="548ac-124">50-character limit</span></span>                         |
+| <span data-ttu-id="548ac-125">Apellidos</span><span class="sxs-lookup"><span data-stu-id="548ac-125">Last name</span></span>       | <span data-ttu-id="548ac-126">Los apellidos del usuario (campo opcional)</span><span class="sxs-lookup"><span data-stu-id="548ac-126">User's last name (optional field)</span></span>                                            | <span data-ttu-id="548ac-127">Límite de 50 caracteres</span><span class="sxs-lookup"><span data-stu-id="548ac-127">50-character limit</span></span>                         |
+| <span data-ttu-id="548ac-128">Nombre para mostrar</span><span class="sxs-lookup"><span data-stu-id="548ac-128">Display name</span></span>    | <span data-ttu-id="548ac-129">El nombre que aparecerá en el Centro de partners (campo obligatorio).</span><span class="sxs-lookup"><span data-stu-id="548ac-129">Name displayed in Partner Center (required field)</span></span>                            | <span data-ttu-id="548ac-130">Límite de 50 caracteres</span><span class="sxs-lookup"><span data-stu-id="548ac-130">50-character limit</span></span>                         |
+| <span data-ttu-id="548ac-131">Correo electrónico</span><span class="sxs-lookup"><span data-stu-id="548ac-131">Email</span></span>           | <span data-ttu-id="548ac-132">La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).</span><span class="sxs-lookup"><span data-stu-id="548ac-132">User’s business email address at customer company (required field)</span></span>           | <span data-ttu-id="548ac-133">Cada usuario debe tener una dirección de correo electrónico exclusiva.</span><span class="sxs-lookup"><span data-stu-id="548ac-133">Each user must have a unique email address</span></span> |
+| <span data-ttu-id="548ac-134">Actualización de estado</span><span class="sxs-lookup"><span data-stu-id="548ac-134">Status update</span></span>   | <span data-ttu-id="548ac-135">Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no.</span><span class="sxs-lookup"><span data-stu-id="548ac-135">Used to indicate whether or not the new user record was successfully created</span></span> | <span data-ttu-id="548ac-136">\*\*Dejar vacío\* \ *</span><span class="sxs-lookup"><span data-stu-id="548ac-136">\*\*Leave empty\*\*</span></span>                        |
 
  
 
-### <a href="" id="createmultipleuseraccounts"></a>Para crear varias cuentas de usuario
+### <a href="" id="createmultipleuseraccounts"></a><span data-ttu-id="548ac-137">Para crear varias cuentas de usuario</span><span class="sxs-lookup"><span data-stu-id="548ac-137">To create multiple user accounts</span></span>
 
 <a href="" id="creatingtheaccounts"></a>
-1.  Crea un archivo de datos de valores separados por comas (.csv) con los datos que se han descrito anteriormente. Guarda el archivo para que puedas acceder a él en un paso posterior.
-2.  Desde el menú **Panel**, selecciona **Clientes** y elige un cliente de la lista.
-3.  Selecciona **Subir usuarios**.
-4.  En **Subir información de usuarios**, selecciona **Examinar**.
-5.  En el selector de archivos, selecciona el archivo de datos y, a continuación, selecciona **Abrir**.
-6.  Selecciona **Validar**.
+1.  <span data-ttu-id="548ac-138">Crea un archivo de datos de valores separados por comas (.csv) con los datos que se han descrito anteriormente.</span><span class="sxs-lookup"><span data-stu-id="548ac-138">Create a comma-separated value (.csv) data file with the data described above.</span></span> <span data-ttu-id="548ac-139">Guarda el archivo para que puedas acceder a él en un paso posterior.</span><span class="sxs-lookup"><span data-stu-id="548ac-139">Save the file so you can browse to it in a later step.</span></span>
+2.  <span data-ttu-id="548ac-140">Desde el menú **Panel**, selecciona **Clientes** y elige un cliente de la lista.</span><span class="sxs-lookup"><span data-stu-id="548ac-140">From the **Dashboard** menu, select **Customers**, then choose a customer from the list.</span></span>
+3.  <span data-ttu-id="548ac-141">Selecciona **Subir usuarios**.</span><span class="sxs-lookup"><span data-stu-id="548ac-141">Select **Upload users**.</span></span>
+4.  <span data-ttu-id="548ac-142">En **Subir información de usuarios**, selecciona **Examinar**.</span><span class="sxs-lookup"><span data-stu-id="548ac-142">Under **Upload user info**, select **Browse**.</span></span>
+5.  <span data-ttu-id="548ac-143">En el selector de archivos, selecciona el archivo de datos y, a continuación, selecciona **Abrir**.</span><span class="sxs-lookup"><span data-stu-id="548ac-143">In the file selector, select your data file and then select **Open**.</span></span>
+6.  <span data-ttu-id="548ac-144">Selecciona **Validar**.</span><span class="sxs-lookup"><span data-stu-id="548ac-144">Select **Validate**.</span></span>
 
-    **Nota**: La mayoría de los errores de creación de cuentas se deben a problemas en los archivos de datos, lo que incluye la falta de información, unas direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.
+    <span data-ttu-id="548ac-145">**Nota**: La mayoría de los errores de creación de cuentas se deben a problemas en los archivos de datos, lo que incluye la falta de información, unas direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.</span><span class="sxs-lookup"><span data-stu-id="548ac-145">**Note**  Most account creation errors are caused by data file issues, including missing information, malformed or duplicated email addresses, or too many records in the file.</span></span>
 
      
 
-7.  Cuando el Centro de partners haya validado el archivo, selecciona la **Ubicación** geográfica para los nuevos usuarios.
-8.  Selecciona **Guardar**.
-9.  Descarga la información de la contraseña temporal para los usuarios.
+7.  <span data-ttu-id="548ac-146">Cuando el Centro de partners haya validado el archivo, selecciona la **Ubicación** geográfica para los nuevos usuarios.</span><span class="sxs-lookup"><span data-stu-id="548ac-146">After Partner Center validates the file, select the geographic **Location** for the new users.</span></span>
+8.  <span data-ttu-id="548ac-147">Selecciona **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="548ac-147">Select **Save**.</span></span>
+9.  <span data-ttu-id="548ac-148">Descarga la información de la contraseña temporal para los usuarios.</span><span class="sxs-lookup"><span data-stu-id="548ac-148">Download the temporary password information for the users.</span></span>
 
-**IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
+<span data-ttu-id="548ac-149">**IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante.</span><span class="sxs-lookup"><span data-stu-id="548ac-149">**IMPORTANT:** Be sure to download the file with the temporary passwords now as you won't be able to do this later.</span></span> <span data-ttu-id="548ac-150">Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.</span><span class="sxs-lookup"><span data-stu-id="548ac-150">New users must log in to their new account using the temporary password for their new accounts.</span></span>
 
-El Centro de partners asigna automáticamente los permisos de **Puede usar licencias y servicios** a los nuevos usuarios.
-
- 
+<span data-ttu-id="548ac-151">El Centro de partners asigna automáticamente los permisos de **Puede usar licencias y servicios** a los nuevos usuarios.</span><span class="sxs-lookup"><span data-stu-id="548ac-151">Partner Center automatically assigns permissions of **Can use licenses and services** to the new users.</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
