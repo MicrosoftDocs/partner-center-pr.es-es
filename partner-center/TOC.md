@@ -18,11 +18,13 @@
 ## [Cuentas profesionales y Centro de partners](azure-active-directory-tenants-and-partner-center.md)
 ## [Actualizar tu perfil de partner](update-your-partner-profile.md)
 ## [Restaurar una cuenta suspendida del Centro de partners](suspended-partner-center-account.md)
-## [Restablecer una contraseña de usuario](reset-a-user-password.md)
 ## [Crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md)
+## [Restablecer una contraseña de usuario](reset-a-user-password.md)
 ## [Añadir Servicios compartidos para partners de Azure](shared-services.md)
 ## [Precios y ofertas](pricing-and-offers.md)
 ## [Personalizar el catálogo](customize-the-catalog.md)
+
+# [Hacer crecer tu negocio](grow-your-business.md)
 
 # [Referencias](referrals.md)
 ## [Crear un perfil de negocio](create-a-marketing-profile.md)
@@ -76,13 +78,13 @@
 ## [Multicanal](multichannel.md)
 ## [Multipartner](multipartner.md)
 
-# [Soporte de Microsoft](support-from-microsoft.md)
-## [Comprobar el estado del servicio](check-service-health.md)
+# [Obtener soporte técnico de Microsoft](support-from-microsoft.md)
 ## [Notificar los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
 ## [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
 ## [Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
 
-# [Soporte al cliente](customer-support.md)
+# [Proporcionar soporte técnico a tus clientes](customer-support.md)
+## [Comprobar el estado del servicio](check-service-health.md)
 ## [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
 ## [Proporcionar soporte técnico](provide-technical-support.md)
 ## [Comunicación con el cliente de Microsoft](customer-communication-from-microsoft.md)

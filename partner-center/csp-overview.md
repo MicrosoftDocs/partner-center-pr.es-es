@@ -2,11 +2,11 @@
 title: "Programa Proveedor de soluciones en la nube: vender soluciones en la nube bajo petición | Centro de partners"
 description: El programa Proveedor de soluciones en la nube puede ayudar a tu negocio crecer con los nuevos clientes y la nueva experiencia.
 author: labrenne
-ms.openlocfilehash: f6b2b3ea1e42f82b8e391c4a65a86a314e7f4c40
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
+ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición | Centro de partners 
 

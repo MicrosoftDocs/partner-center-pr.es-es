@@ -2,11 +2,11 @@
 title: Unirse a Microsoft Partner Network| Centro de partners
 description: Adquirir Microsoft Action Pack y obtener competencias en el Centro de partners
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Unirse a Microsoft Partner Network (MPN)
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>Novedad del Centro de partners
 
  Asociarse con Microsoft te proporciona acceso a nuevas oportunidades para transformar tu negocio. En el Centro de partners puedes adquirir y renovar Microsoft Action Pack y tienes fácil acceso a la información sobre competencias y cómo lograrlas.
+
+ Estamos gradualmente invitando a los partners a administrar su suscripción del Centro de partners en su fecha de aniversario de MAPS o Competency, y cuando estén disponibles las capacidades del Centro de partners y se demuestre que cumplen las necesidades de sus negocios.  Por ahora, planifica la renovación y la administración de tu suscripción del Partner Membership Center (PMC) hasta que recibas una invitación para trasladarte.
 
 ## <a name="get-your-mpn-id"></a>Obtener el id. de MPN
 

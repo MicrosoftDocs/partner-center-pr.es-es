@@ -1,19 +1,20 @@
 ---
-title: User management tasks for customer accounts | Partner Center
-description: After you buy a new subscription for a customer, you can assign licenses to specific users.
+title: "Tareas de administración de usuarios para las cuentas de cliente | Centro de partners"
+description: "Después de comprar una nueva suscripción para un cliente, puedes asignar licencias a usuarios específicos."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>User management tasks for customer accounts
+# <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
-**Applies to**
+**Se aplica a**
 
--  Partner Center
+-  Centro de partners
 
 
 
@@ -45,7 +46,7 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 
 2.  En el menú del cliente, selecciona **Usuarios y licencias**.
 
-3.  Elige uno o varios usuarios de la lista. If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.
+3.  Elige uno o varios usuarios de la lista. Si, por ejemplo, el cliente acaba de adquirir nuevas licencias y quieres asignarlas a personas que aún no las tienen, puedes usar la opción **Filtrar usuarios por...** para buscar el grupo adecuado.
 
 4.  Selecciona **Administrar licencias**. Realiza los cambios y haz clic en **Guardar**.
 
@@ -63,9 +64,9 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 <a href="" id="deleteuseraccounts"></a>
 **Eliminar cuentas de usuario de un cliente**
 
-1.  En el menú **Panel**, selecciona **Clientes**. Choose the customer from the list.
+1.  En el menú **Panel**, selecciona **Clientes**. Elige el cliente de la lista.
 
-2.  En el menú del cliente, selecciona **Usuarios y licencias**. Choose the user from the list.
+2.  En el menú del cliente, selecciona **Usuarios y licencias**. Elige el usuario de la lista.
 
 3.  En la parte inferior de la pantalla, selecciona **Eliminar cuenta de usuario**.
 
@@ -87,9 +88,9 @@ Si necesitas restaurar esta cuenta, puedes encontrarla en la pestaña **Usuarios
 ## <a name="related-topics"></a>Temas relacionados
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md)
+[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[Crear varios usuarios para una cuenta de cliente](adding-multiple-users-to-a-customer-account.md)
 
  
 

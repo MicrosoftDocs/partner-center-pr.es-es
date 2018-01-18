@@ -3,11 +3,11 @@ title: "Suscripción a Microsoft Partner Network | Centro de partners"
 description: "Obtén información sobre los beneficios de unirse a Microsoft Partner Network."
 author: MaggiePucciEvans
 keywords: "partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, beneficios, beneficios de MPN, suscripción"
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
@@ -17,15 +17,15 @@ Microsoft Partner Network proporciona tres tipos de suscripción. Cada uno de el
 
 -   **Miembro de la red** Cuando te unes a este nivel básico gratuito, recibes una serie de [beneficios principales de derechos de uso interno](https://partner.microsoft.com/membership/core-benefits) que pueden ayudarte a ahorrar tiempo y dinero mientras refuerzas tus capacidades, proporcionas un mejor servicio a los clientes y creas conexiones para alcanzar el potencial completo de tu negocio.
 
-    [Más información sobre Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
+    -   [Más información sobre Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
 
-    [Únete ahora mismo a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [Únete ahora mismo a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **Action Pack** Compra Action Pack, una suscripción anual asequible, para obtener beneficios de red adicionales, incluido el acceso a herramientas de desarrollo, soporte, formación y software. En este nivel puedes mejorar tu experiencia y desarrollar nuevos conocimientos.
 
-    [Más información sobre Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+    -   [Más información sobre Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
-    [Suscribirse ahora mismo a Action Pack](mpn-get-action-pack.md)
+    -   [Suscribirse ahora mismo a Action Pack](mpn-get-action-pack.md)
 
 -   **Competencia** Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte a satisfacer las necesidades de tus clientes y ser reconocible a los posibles clientes. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
 

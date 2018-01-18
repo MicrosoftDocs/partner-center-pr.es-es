@@ -3,11 +3,11 @@ title: "Usar los archivos de conciliación | Centro de partners"
 description: "Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -149,7 +149,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Precio por puesto. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+<td><p>Precio por puesto, tal y como se publica en la lista de precios en el momento de compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p><strong>Cargos periódicos</strong></p>
 </td>
 <td>
+<p>Tarifa de activación</p>
+</td>
+<td>
+<p>El importe cobrado al cliente cuando usa la suscripción después de adquirirla</p>
+</td>
+<td rowspan="8">
+<p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Prorrateo de instancia de cancelación</p>
 </td>
 <td>
 <p>Cargos prorrateados reembolsados al cliente al cambiar los puestos asociados</p>
-</td>
-<td rowspan="8">
-<p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
 </td>
 </tr>
 <tr>

@@ -3,11 +3,12 @@ title: "Crear una suscripción nueva | Centro de partners"
 description: "Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+Keywords: subscription, create new, add subscription,
+ms.openlocfilehash: 19bc20920cc2bfcdf3f39f8c1b8fcf207d51004d
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="create-a-new-subscription"></a>Crear una suscripción nueva
 
@@ -19,7 +20,7 @@ ms.lasthandoff: 10/17/2017
 
 Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 
-Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Ofertas y precios del Centro de partners, abre la matriz de ofertas y, selecciona la pestaña Office_Dynamics_Windows_Intune, columna I. 
+Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y Ofertas del Centro de partners. 
 
 
 **Crear una suscripción nueva**

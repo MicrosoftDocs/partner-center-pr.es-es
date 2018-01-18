@@ -1,13 +1,14 @@
 ---
 title: Crear un perfil de negocio | Centro de partners
-description: "Atrae a más clientes potenciales al crear un perfil de negocio en el Centro de partners."
+description: Crea un perfil de negocio en el Centro de partners para obtener oportunidades de ventas de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
+ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 11/28/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -23,20 +24,25 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 **Se aplica a**
 
 -  Centro de partners
+-  Partners de Microsoft Partner Network
+-  Partners del programa Proveedor de soluciones en la nube
 
 Como partner de Microsoft calificado, puedes crear un perfil de negocio para presentar tu negocio a los clientes que buscan sus soluciones únicas y la experiencia para satisfacer sus necesidades empresariales.
 
-Microsoft compromete a millones de clientes cada año a través de marketing, ventas y los esfuerzos de servicio. La mayoría de estas interacciones crean oportunidades para que podamos proporcionar referencias a nuestros partners como clientes potenciales. 
+Microsoft compromete a millones de clientes cada año a través de marketing, ventas y esfuerzos de servicio. La mayoría de estas interacciones crean oportunidades para que podamos proporcionar referencias a nuestros partners como clientes potenciales. 
 
 El primer paso para obtener clientes potenciales es crear un perfil de negocio. Aquí te mostramos tu perfil a los clientes que están buscando partners que pueden ayudarles a implementar los productos y soluciones de Microsoft a través de:
 
-*  **La experiencia de búsqueda [Buscar un partner](https://partnercenter.microsoft.com/pcv/search)**. Los clientes potenciales pueden buscar por su cuenta programas de partners para localizar a partners que cumplan los criterios de búsqueda.
+*  **La experiencia de búsqueda [Buscar un proveedor de soluciones](https://partnercenter.microsoft.com/pcv/search)**. Los clientes potenciales pueden buscar por su cuenta programas de partners para localizar a partners que cumplan los criterios de búsqueda.
 
-*  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft, a continuación, pueden presentar tu empresa a los clientes potenciales.
+*  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft pueden, después, presentar tu empresa a los clientes potenciales.
 
-**Pinpoint y C2PC**: Estamos incorporando estas herramientas al Centro de partners. Si has usado estas herramientas en el pasado, crea un nuevo perfil de negocio en el Centro de partners para continuar generando y administrando tus clientes potenciales. Ten en cuenta que actualmente no se admiten los perfiles de importación de los sitios anteriores. 
+>**Importante**<br>
+Para ayudar a nuestros partners a optimizar las operaciones empresariales, estamos consolidando características y funcionalidades que solían estar distribuidas en varias herramientas y sitios web del Centro de partners, este sitio. Como parte de este esfuerzo, hemos trasladado todas las funcionalidades de las referencias al Centro de partners y hemos retirado los sitios C2PC y Pinpoint. Si usaste Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberás crear un nuevo perfil de negocio en el Centro de partners para seguir obteniendo referencias. Ya no se admite la importación de perfiles de estos sitios. 
 
 ## <a name="create-a-profile"></a>Crear un perfil
+
+>**Nota** Antes de crear un perfil de negocio, debes tener una cuenta del Centro de partners. Si aún no tienes una cuenta del Centro de partners, consulta [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md) para obtener ayuda cuando crees una. 
 
 Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
@@ -46,7 +52,7 @@ Crea perfiles para cada región en la que tengas autorización para hacer negoci
 
 3.  En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
     
-    Ten en cuenta que mientras el Centro de partners admite varios idiomas, algunos elementos, tales como la descripción y las etiquetas de forma libre puede que tengan que incluir texto de diferentes idiomas, tal y como se indica en este tema.
+    >**Nota** Mientras el Centro de partners admite varios idiomas, algunos elementos, tales como la descripción y las etiquetas de forma libre puede que tengan que incluir texto de diferentes idiomas, tal y como se indica en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 

@@ -1,42 +1,43 @@
 ---
-title: Assign support contacts | Partner Center
-description: As a reseller partner, you can designate a reseller as a support contact.
+title: "Asignar contactos de soporte técnico | Centro de partners"
+description: "Como partner revendedor, puedes designar un revendedor como un contacto de soporte técnico."
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-ms.openlocfilehash: 9fedebc3c7b2deb6b6e3911905d3ca92bd15ee43
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
+keywords: "agente de ayuda, soporte técnico, asignar contacto de soporte técnico, contacto de soporte técnico designado"
+ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="assign-support-contacts"></a>Assign support contacts
+# <a name="assign-support-contacts"></a>Asignar contactos de soporte técnico
 
-**Applies to**
+**Se aplica a:**
 
--  Partner Center
+-  Centro de partners
 
-When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated product reseller, rather than providing the support yourself.
+Cuando configuras las suscripciones de servicios Microsoft para los clientes, puedes asignar el soporte técnico de estos productos a un distribuidor designado del producto, en lugar de proporcionarlo tú.
 
-After you set up support contacts, customers see your assigned support contact's information on the product support pages. For example, when Office customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.
+Una vez configurado los contactos de soporte técnico, los clientes verán esta información en las páginas de soporte técnico. Por ejemplo, cuando los clientes de Office necesitan asistencia, pueden ir a la página Office.com, iniciar sesión con sus credenciales de administrador, selecciona el icono **Administrador** y, en la sección **Soporte técnico** consulta la información de contacto del soporte técnico asignado.
 
-This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios. 
+Esto puede usarse para escenarios [multipartner](multipartner.md) y [multicanal](multichannel.md). 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>Assign contacts
+## <a name="assign-contacts"></a>Asignar contactos
 
-1.  Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller. Negotiate a support agreement with them for handling technical support.
+1.  Para empezar, [solicitar una relación](request-a-relationship-with-a-customer.md) con el revendedor del producto designado. Negociar un contrato de soporte técnico con ellos para administrarlo.
 
-2.  From the Partner Center Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
+2.  En el panel del Centro de partners, selecciona **Clientes**, a continuación, selecciona un cliente y luego selecciona una suscripción, por ejemplo, Office 365 Empresa Premium.
 
-3.  In  **Designated support contact**, select the designated product reseller, and then click **Submit**. 
+3.  En **Contacto de soporte técnico designado**, selecciona el revendedor de producto designado y, a continuación, haz clic en **Enviar**. 
 
-    Notes: 
+    Notas: 
     
-    *  For new subscriptions, the designated support contact defaults to the indirect provider. También puedes cambiarlo a un revendedor indirecto que disponga de privilegios de administrador de delegación.
+    *  Para las nuevas suscripciones, el contacto de soporte técnico designado es de forma predeterminada el proveedor indirecto. También puedes cambiarlo a un revendedor indirecto que disponga de privilegios de administrador de delegación.
     
-    *  If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md). After the relationship is established, they should appear in the list.  
+    *  Si no aparece el nombre de tu proveedor local en la lista de contactos de soporte técnico disponibles, agrégalo usando la [solicitud de relación](request-a-relationship-with-a-customer.md). Una vez establecida la relación, debería aparecer en la lista.  
 
-4.  Review that the changes are correct, and then select **Close**.
+4.  Comprueba que los cambios sean correctos y, a continuación, selecciona **Cerrar**.
 
 ## <a name="related-topics"></a>Temas relacionados
 

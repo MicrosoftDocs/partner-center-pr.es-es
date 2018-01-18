@@ -1,37 +1,38 @@
 ---
 title: Crear una cuenta del Centro de partners | Centro de partners
-description: "Aprende a administrar tu suscripción a Microsoft Partner Network, tus ofertas y tus beneficios en el Centro de partners."
+description: Los miembros de Microsoft Partner Network necesitan crear cuentas del Centro de partners para administrar sus ventajas y competencias de la red y crear un perfil de negocio.
 author: MaggiePucciEvans
-ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
 **Se aplica a:**
 
 -   Centro de partners
+-   Miembros de Microsoft Partner Network
 
 
 Este artículo explica cómo crear una cuenta del Centro de partners y está destinada a aquellos partners que van a trasladar la información de su suscripción de Partner Network del Partner Membership Center al Centro de partners. 
 
 Para poder crear una cuenta en el Centro de partners, tu empresa debe ser miembro de Microsoft Partner Network. Si aún no eres miembro de la red, puedes [unirte ahora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Obtén más información](https://partner.microsoft.com/membership) acerca de la suscripción en Microsoft Partner Network.  
 
->**Nota**<br> Si sigues estos vínculos, te dirigirás al sitio web de Microsoft Partner Network. Vuelve a este sitio, el [Centro de partners](https://partnercenter.microsoft.com/partner/home), si necesitas renovar la suscripción a Action Pack.
-
 Tras crear una cuenta del Centro de partners, podrás:
 
--   Comprar ofertas de beneficios de la suscripción, incluido Microsoft Action Pack 
+-   [Comprar o renovar una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
--   Activar y administrar los beneficios de las suscripciones de red
+-   [Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+
+-   [Obtener y administrar ventas potenciales de Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
 Para crear una cuenta en el Centro de partners, deberás tener a mano la siguiente información. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
--   Correo electrónico profesional del administrador global. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
+-   Correo electrónico profesional del administrador global. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Cuenta profesional de tu empresa y Centro de partners](azure-active-directory-tenants-and-partner-center.md).
 
     Si tu empresa no tiene una cuenta profesional, puedes crear una durante el proceso de creación de la cuenta. 
 
@@ -47,11 +48,11 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
 1.  Revisa la información de la página **Bienvenida** y después haz clic en **Siguiente**.
 
-2.  Inicia sesión con el correo electrónico profesional como administrador global. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Centro de partners e inquilinos de Azure Active Directory](azure-active-directory-tenants-and-partner-center.md).
+2.  Inicia sesión como administrador global en la cuenta profesional de tu empresa. Si no estás seguro de tu cuenta profesional de la empresa, consulta [Cuenta profesional de tu empresa y Centro de partners](azure-active-directory-tenants-and-partner-center.md).
 
-    Selecciona **Iniciar sesión en Azure AD** si sabes que tu empresa tiene una cuenta de correo electrónico profesional. En la página siguiente, escribe las credenciales de administrador global del inquilino de tu empresa. 
+    Selecciona **Iniciar sesión** si sabes que tu empresa tiene una cuenta de correo electrónico profesional. En la página siguiente, escribe las credenciales de administrador global de la cuenta profesional de tu empresa. 
 
-    Si tu empresa no tiene una cuenta profesional, selecciona **Crear nuevo inquilino** para configurar una ahora. Tras configurar un inquilino de Azure AD (cuenta profesional), inicia sesión con las credenciales de administrador global de tu nueva cuenta de correo electrónico profesional.
+    Si tu empresa no tiene una cuenta profesional, selecciona **Crear una** para configurar una ahora. Tras crear tu cuenta profesional, inicia sesión con las credenciales de administrador global de la cuenta profesional que acabas de crear.
 
 3.  Proporciona o actualiza el perfil legal de tu empresa y la información del contacto principal de la organización y a continuación selecciona **Inscribirse ahora**. 
 
@@ -69,12 +70,12 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Agregar usuarios de la cuenta y asignarles permisos](create-user-accounts-and-set-permissions.md)
+-   [Agregar usuarios de la cuenta y asignarles permisos](create-user-accounts-and-set-permissions.md)
 
-[Comprar o renovar una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Comprar o renovar una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Administrar los beneficios de la suscripción](manage-your-partner-network-benefits.md)
+-   [Administrar los beneficios de la suscripción](manage-your-partner-network-benefits.md)
 
-[Conseguir más información sobre los requisitos de competencias para las suscripciones Silver y Gold](learn-about-competencies.md)
+-   [Conseguir más información sobre los requisitos de competencias para las suscripciones Silver y Gold](learn-about-competencies.md)
 
-[Crear un perfil de marketing para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+-   [Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)

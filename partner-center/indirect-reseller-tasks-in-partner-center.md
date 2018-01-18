@@ -3,11 +3,12 @@ title: "Asociación con los proveedores indirectos en CSP | Centro de partners"
 description: "Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft y que tu revendes a los clientes."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: "revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2"
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -184,7 +185,7 @@ Si un proveedor indirecto quiere contactar contigo en el Centro de partners, ini
 
 3.  Para confirmar la asociación con el proveedor, activa la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu paǵina de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
 
-    >**Nota** Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a tu inquilino de Azure AD.
+    >**Nota** Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
 
 4.  Selecciona **Proveedores indirectos** desde tu menú **Panel** para ver una lista de los proveedores con los que tienes una asociación. 
 
