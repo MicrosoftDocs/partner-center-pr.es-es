@@ -3,11 +3,11 @@ title: "Preguntas frecuentes sobre las nuevas características de facturación |
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: ddd10efe487effdd2571869f2a4231118f946b8b
-ms.sourcegitcommit: 4b697e2e18426edc95b9165f380b784bb10937ed
+ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -312,7 +312,7 @@ Secciones:
 
 **P:** ¿Veré la evaluación gratuita en mi factura y el archivo de conciliación?
 
--   **R:** No, las evaluaciones gratuitas no aparecerán en tu factura ni en el archivo de conciliación basado en licencia. Aparecerá en tu factura y en el archivo de conciliación basada en licencia después de convertir una evaluación de prueba en una suscripción de pago. La suscripción convertida aparecerá en tu factura y en tu archivo de conciliación basada en licencia de la misma forma que cualquier otra suscripción. 
+-   **R:** No, las evaluaciones gratuitas no aparecerán en tu factura ni en el archivo de conciliación basado en licencia. Aparecerá en tu factura y en el archivo de conciliación basada en licencia después de convertir una evaluación de prueba en una suscripción de pago. La suscripción convertida aparecerá en la factura y en el archivo de conciliación basada en licencia de la misma forma que en cualquier otra suscripción nueva.
 
 **P:** ¿Las evaluaciones de prueba afectan a los incentivos?
 
@@ -526,7 +526,7 @@ El partner suspende la suscripción el 5 de julio pero la vuelve a activar el 15
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/07/2018   |31/07/2018   |30 $  |1   |30 $   |
 |05/07/2018   |31/07/2018   |   -26,19 $   |1   |-26,19 $|
-|10/07/2018   |31/07/2018   |-21,34 $   |1   |21,34 $|
+|10/07/2018   |31/07/2018   |-21,37USD   |1   |21,37USD|
 
 ### <a name="scenario-change-license-quantity"></a>Escenario: cambiar cantidad de licencias 
 
@@ -564,7 +564,7 @@ El archivo de conciliación del 15 de junio contendrá lo siguiente:
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
 |-----------------|:-------------|:----------------|:------------|:------|
 |01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
-|10/06/2018   |30/06/2018   |5 $   |1   |5 $   |
+|10/06/2018   |30/06/2018   |3,50USD   |1   |3,50USD   |
 
 El archivo de conciliación del 15 de julio contendrá lo siguiente:
 
@@ -578,7 +578,7 @@ El archivo de conciliación del 15 de julio contendrá lo siguiente:
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Escenario: nueva compra el 29, 30 o 31 
 
-La fecha de facturación del partner es el 15. El 31 de mayo el partner adquiere una nueva suscripción por 30 $ al mes. Las suscripciones adquiridas el 29, 30 o 31 recibirán un período gratuito hasta el principio del mes siguiente. En este ejemplo, el cliente obtiene un período gratuito de un día; término de pago de 12 meses comienza el 1 de junio. 
+La fecha de facturación del partner es el décimo quinto día del mes. El 29 de mayo, el partner adquiere una nueva suscripción (1 licencia a 30USD/mes) con una frecuencia de facturación mensual. La fecha de aniversario de las suscripciones adquiridas el 29, 30 o 31 se establecerá de forma predeterminada en el día 1. En este escenario, la suscripción recibirá un período gratuito desde el 29 al 31 de mayo y la línea de facturación aparecerá el 1 de junio mostrando el cargo con un mes de antelación.
 
 El archivo de conciliación del 15 de junio contendrá lo siguiente:
 

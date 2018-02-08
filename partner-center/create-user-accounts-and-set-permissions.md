@@ -4,11 +4,11 @@ description: El administrador crea una cuenta de usuario para cada empleado del 
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -38,7 +38,7 @@ Anota la nueva información de inicio de sesión del usuario se muestra en esta 
 
 El usuario tendrá que iniciar sesión en el Centro de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Centro de partners por primera vez, se le pedirá cambiar la contraseña. 
 
-
+>**Nota**<br> Si el administrador global ha dejado la organización o ha cambiado a otro rol y necesitas agregar un nuevo administrador global, tienes que registrar una solicitud de servicio en el [portal de MPN](https://partner.microsoft.com/support). El agente de soporte técnico puede solicitar la elevación de un usuario a administrador global si el solicitante es capaz de proporcionar la información necesaria de identidad personal y proporcionar información adicional sobre la organización.
 
 ## <a name="assign-user-permissions"></a>Asignar permisos de usuario
 
@@ -59,9 +59,9 @@ Las categorías generales de los roles son:
 
 En cada una de estas categorías generales, un usuario solo puede tener un rol, pero ese mismo usuario también puede tener roles en las otras categorías generales. 
 
->**Importante** Si un usuario no necesita un rol específico, deja la designación en la configuración predeterminada: **Administra la cuenta de tu organización como**. A los usuarios se les deben asignar al menos un rol para trabajar en el Centro de partners.
+>**Importante** Si un usuario no necesita un rol específico, deja la designación en la configuración predeterminada: **Administra la cuenta de la organización como**. A los usuarios se les deben asignar al menos un rol para trabajar en el Centro de partners.
 
-La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners. Cuando pienses cómo quieres asignar roles, ten en cuenta el trabajo que un usuario hace en tu organización. Por ejemplo, es posible que quieras que el administrador global sea el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
+La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
 
 <table>
 <colgroup>
@@ -121,14 +121,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <li><p>Ver competencias</p></li>
 <li><p>Ver y administrar ventajas</p></li>
 <li><p>Ver y adquirir ofertas de MPN</p></li>
-<li><p>Ver facturas y el historial de pedidos de ofertas de MPN</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de administración de usuarios</strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar usuarios</p></li>
-<li><p>Ver todos los perfiles de partners</p></li>
+<li><p>Ver facturas e historial de pedidos de ofertas de MPN</p></li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -70,6 +70,7 @@
 ## [Simplificar la configuración del dispositivo con Windows AutoPilot](autopilot.md)
 
 # Análisis y datos del Centro de partners
+## [Obtener datos y analizar tu negocio](data-analysis-lp.md)
 ## [Aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners.md)
 
 # [Trabajar con otros partners](work-with-other-partners.md)

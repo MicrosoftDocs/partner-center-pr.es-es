@@ -2,13 +2,14 @@
 title: "Programa Proveedor de soluciones en la nube: vender soluciones en la nube bajo petición | Centro de partners"
 description: El programa Proveedor de soluciones en la nube puede ayudar a tu negocio crecer con los nuevos clientes y la nueva experiencia.
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: CSP, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
-# <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición | Centro de partners 
+# <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición 
 
 **Se aplica a**
 

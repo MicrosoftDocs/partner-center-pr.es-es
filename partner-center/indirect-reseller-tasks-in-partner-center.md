@@ -4,11 +4,11 @@ description: "Como revendedor indirecto en CSP, trabajarás con proveedores indi
 ms.prod: 
 author: MaggiePucciEvans
 keywords: "revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2"
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -102,76 +102,10 @@ Anota la nueva información de inicio de sesión del usuario se muestra en esta 
 
 ## <a name="assign-user-permissions"></a>Asignar permisos de usuario
 
-El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar tareas específicas. 
+El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar tareas específicas. Para obtener información sobre cuál es la mejor opción para asignar roles, consulta [Crear cuentas de usuario y establecer permisos](Create-user-accounts-and-set-permissions.md)
 
-Para cada usuario debes seleccionar dos niveles de permiso o seleccionar **no es un administrador** o **no un agente**:
 
--   Los permisos de agente controlan qué tipo de datos de cliente y de información de la cuenta puede ver y cambiar el usuario.
-
--   Los permisos de administrador controlan el nivel de acceso que el usuario tiene a las características del Centro de partners. Esta configuración influye fuera del Centro de partners: un administrador de facturación puede acceder a todas las cuentas de usuario y cuentas de cliente más allá de CSP.
-
-La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rol en el Centro de partners</strong></p></td>
-<td><p><strong>Lo que se puede hacer</strong></p></td>
-<td><p><strong>Lo que no se puede hacer</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agente de administración</strong></p></td>
-<td><ul>
-<li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
-<li><p>Solicitar privilegios de administrador delegado</p></li>
-<li><p>Administrar en nombre de un cliente</p></li>
-</ul></td>
-<td><ul>
-<li><p>Administración de usuarios</p></li>
-<li><p>Solicitudes de servicio para el Centro de partners</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Agente del departamento de soporte técnico</strong></p></td>
-<td><ul>
-<li><p>Buscar y ver un cliente</p></li>
-<li><p>Estado del servicio</p></li>
-<li><p>Solicitar soporte técnico en nombre de los clientes (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)</p></li>
-<li><p>Administrar las suscripciones y servicios en nombre de los clientes (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Ver perfiles de partners</p></li>
-<li><p>Solicitar una relación con un cliente</p></li>
-<li><p>Administrar clientes potenciales</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administrador global</strong></p></td>
-<td><ul>
-<li><p>Puede acceder a todas las cuentas o servicios Microsoft con privilegios completos</p></li>
-<li><p>Crear incidencias de soporte técnico para el Centro de partners</p></li>
-<li><p>Ver, crear y administrar los usuarios de partners</p></li>
-<li><p>Aceptar una solicitud de asociación de un proveedor indirecto</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de administración de usuarios</strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar usuarios</p></li>
-<li><p>Ver todos los perfiles de partners</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## <a name="connect-with-an-indirect-provider"></a>Conectar con un proveedor indirecto
+## <a name="connect-with-an-indirect-provider"></a>Ponerse en contacto con un proveedor indirecto
 
 Trabajar con un proveedor indirecto te permite ofrecer a los clientes una selección más amplia de servicios y soluciones en la nube de Microsoft. Los proveedores indirectos cuentan con los sistemas y las infraestructuras para proporcionar un nivel sólido de facturación y soporte para que tú puedas centrarte en las soluciones de tecnología y la interacción con el cliente. 
 
@@ -197,13 +131,13 @@ Si un proveedor indirecto quiere contactar contigo en el Centro de partners, ini
  
 ## <a name="connect-with-customers"></a>Conectar con clientes
 
-Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
+ Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conectar con clientes existentes
 
-Los clientes con los que ya realices transacciones a través de otros portales, como el Centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes del Centro de partners después inscribirlos correctamente como revendedores indirectos. Selecciona **Panel** y luego **clientes** para ver la lista de clientes. 
+Los clientes con los que ya realices transacciones a través de otros portales, como el Centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes del Centro de partners después inscribirlos correctamente como revendedores indirectos. Selecciona **Panel** y luego **Clientes** para ver la lista de clientes. 
 
-Si en la lista de clientes falta alguno de tus clientes existentes, puede que debas establecer relaciones de revendedor con él. Para ello, envíale por correo electrónico una invitación para conectarse contigo en el Centro de partners, tal como se describe a continuación.
+Cuando te pones en contacto con un proveedor indirecto, no ganas automáticamente sus clientes. De igual modo, los clientes con los que trabajes por tu cuenta o a través del proveedor indirecto, pero no a través del Centro de partners, no aparecerán automáticamente en tu lista de clientes cuanto te inscribes en el Centro de partners. Tendrás que establecer una relación de revendedor con los clientes para realizar transacciones en el Centro de partners.  Para ello, envíales por correo electrónico una invitación para ponerse en contacto contigo en el Centro de partners, tal y como se describe a continuación.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de revendedor contigo
 
