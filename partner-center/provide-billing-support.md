@@ -3,10 +3,11 @@ title: "Proporcionar soporte técnico sobre la facturación | Centro de partners
 description: "Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: es-ES
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>Proporcionar soporte técnico sobre la facturación
 
@@ -36,17 +37,15 @@ Eres el responsable de la relación de la facturación con tus clientes y propor
 ## <a href="" id="billingdisputes"></a>Conflictos de facturación
 
 
--   [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md) para aclarar dudas o diferencias sobre la facturación.
+-   [Notificar problemas](report-problems-with-partner-center.md) para aclarar dudas o diferencias sobre la facturación.
 
 ## <a href="" id="escalatingissues"></a>Escalado de problemas
 
 
 -   [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md) a través del canal de soporte técnico para partners en nombre del cliente..
--   Una vez resuelto el problema, debes comunicar y cerrar el bucle con el cliente.
+-   Una vez resuelto el problema, debes comunicar y cerrar el bucle con el cliente. 
 
  
-
- 
-
+Conflictos de facturación Notificar problemas (https://msdn.microsoft.com/es-es/partner-center/report-problems-with-partner-center) para aclarar dudas o diferencias sobre la facturación.
 
 

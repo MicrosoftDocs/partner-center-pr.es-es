@@ -2,11 +2,11 @@
 title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de partners
 description: "Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -38,6 +38,8 @@ Puede llevarnos varios días revisar y comprobar la información que has proporc
 4. El empleado al que se le ha asignado el rol de administrador de perfil de negocio debe configurar tu perfil de negocio para que puedas recibir referencias de clientes.
 
 ### <a name="enroll-as-a-direct-partner"></a>Inscribirse como un partner directo
+
+>**Nota**<br> Estamos actualizando los requisitos de inscripción de partners directos por lo que actualmente no aceptamos nuevas solicitudes. Tenemos previsto volver a abrir el proceso de solicitud a partir del segundo trimestre de 2018. Plantéate la posibilidad de inscribirte como revendedor indirecto.
 
 Como partner directo, tienes la relación integral con tu cliente y con Microsoft.
 

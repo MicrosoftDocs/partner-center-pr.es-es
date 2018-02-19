@@ -3,9 +3,12 @@ title: Cambiar suscripciones de Azure a otro partner | Centro de partners
 description: "Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner"
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="switch-azure-subscriptions-to-a-different-partner"></a>Cambiar las suscripciones de Azure a otro partner
 
@@ -17,13 +20,16 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
 **Nota**  Actualmente no hay ningún proceso automático para clientes de Azure para cambiar de EA, Open u otros programas de licencias a CSP. Este es un proceso manual que requiere acciones de partners y clientes. Asimismo, por el momento no es posible cambiar los partners de las suscripciones de Proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft DynamicsCRM.
 
+
  
 
 **Cambia partners para suscripciones de Azure**
 
-1.  Para transferir una suscripción de Azure a un partner nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de CSP actual de registro por escrito.
+1.  Para transferir una suscripción de Azure a un partner nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de CSP actual de registro por escrito. 
 
-2.  El CSP de la suscripción debe realizar las siguientes tareas:
+    >**Nota**<br> Es responsabilidad del partner actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo partner. El cliente debe tener previsto trabajar estrechamente con el partner actual para que la transición se realice sin problemas.
+
+2.  El partner de CSP de la suscripción debe realizar las siguientes tareas:
 
     Crear un vale de servicio de Azure desde el Centro de partners para solicitar una transferencia de suscripción:
 
@@ -69,7 +75,12 @@ Un cliente puede cambiar el partner del programa Proveedor de soluciones en la n
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    Quita los permisos de acceso obsoletos para la suscripción y los recursos mediante la administración de la suscripción en Azure Portal. En el menú del Centro de partners, selecciona **Clientes**. Expande la lista del cliente y selecciona **Ver suscripciones**. En el menú del cliente, selecciona **Administración de servicios**. En **Microsoft Azure**, haz clic en el vínculo para ir al **Portal de administración de Microsoft Azure**.
+7. Quitar permisos de acceso obsoletos
+
+    -  En el menú del Centro de partners, selecciona **Clientes**. 
+    -  Expande la lista del cliente y selecciona **Ver suscripciones**. 
+    -  En el menú del cliente, selecciona **Administración de servicios**. 
+    -  En **Microsoft Azure**, haz clic en el vínculo para ir al **Portal de administración de Microsoft Azure**.
 
  
 
