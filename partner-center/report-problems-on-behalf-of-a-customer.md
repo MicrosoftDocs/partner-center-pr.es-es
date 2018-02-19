@@ -1,12 +1,14 @@
 ---
 title: Notificar problemas en nombre de un cliente | Centro de partners
-Description: Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte.
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -26,24 +28,25 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 3.  Para un servicio que da problemas, selecciona **Crear o ver solicitud de servicio**. Se te redirigirá al portal de Microsoft Azure o al Centro de administración de Office 365.
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  Selecciona **Nueva solicitud de soporte técnico**.
-    2.  Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
+**Nota** Para que puedas crear solicitudes de servicio para tu cliente en Azure, el proveedor indirecto debe concederte acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365.   
+
+1.  Selecciona **Nueva solicitud de soporte técnico**.
+2.  Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
         -   En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
         -   En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
 
-    3.  Más tarde, si quieres ver las solicitudes de servicio del cliente en el portal de Microsoft Azure, selecciona **Administrar solicitudes de soporte técnico**.
+3.  Más tarde, si quieres ver las solicitudes de servicio del cliente en el portal de Microsoft Azure, selecciona **Administrar solicitudes de soporte técnico**.
 
-    **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    1.  En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Tienes que seleccionar **Más...** para ver otros temas.
-    2.  Rellena el formulario de solicitud de servicio y, a continuación, selecciona **Enviar**.
-        **Nota**  Asegúrate de incluir tu información de contacto, no la del cliente.
 
-         
+**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    3.  Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
+1. En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Tienes que seleccionar **Más...** para ver otros temas.    
+2. Rellena el formulario de solicitud de servicio y, a continuación, selecciona **Enviar**.
+    **Nota**  Asegúrate de incluir tu información de contacto, no la del cliente.
+3. Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
 
 ## <a name="faq"></a>Preguntas más frecuentes
 

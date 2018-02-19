@@ -3,11 +3,11 @@ title: "Cambiar la contraseña temporal | Centro de partners"
 description: "En cuanto obtengas la contraseña temporal, inicia sesión en el Centro de partners y cámbiala."
 author: labrenne
 Keywords: temporary password, change password, reset password
-ms.openlocfilehash: 51ec7c393357c8e349e725fb6276cdc0469af757
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: fd910f1ede32f030f4295f8d59a28cd6d0486206
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="change-your-temporary-password"></a>Cambiar la contraseña temporal
 
