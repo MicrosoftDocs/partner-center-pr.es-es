@@ -1,14 +1,14 @@
 ---
-title: Mover los clientes de servicios de licencias al Programa de servicios en la nube en el Centro de partners | Centro de partners
+title: Mover los clientes de servicios basados en licencia al Programa Proveedor de soluciones en la nube en el Centro de partners | Centro de partners
 description: "No se pueden mover automáticamente los clientes y sus suscripciones al Centro de partners, pero puedes moverlos manualmente."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>Mover los clientes de servicios basados en licencias al Programa de servicios en la nube en el Centro de partners
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Mover los clientes de servicios basados en licencia al Programa Proveedor de soluciones en la nube en el Centro de partners
 
 **Se aplica a:**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 Actualmente en el Centro de partners no puedes mover tus clientes y sus suscripciones automáticamente de un programa de licencias a otro. Sin embargo, puedes mover manualmente los clientes individuales mediante el uso de las funcionalidades multicanal y de varios partners en el Centro de partners. Obtén más información sobre las [funcionalidades multicanal y de varios partners de CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>Mover las suscripciones basadas en licencia de tu cliente al Programa de servicios en la nube (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Mover las suscripciones basadas en licencia de tus clientes al Programa Proveedor de soluciones en la nube (CSP)
 
 1. Selecciona Clientes en el menú **Panel** del Centro de partners y a continuación selecciona **Solicitar una relación de revendedor**.
 

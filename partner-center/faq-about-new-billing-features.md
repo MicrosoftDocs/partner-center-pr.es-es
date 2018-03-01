@@ -1,12 +1,13 @@
 ---
 title: "Preguntas frecuentes sobre las nuevas características de facturación | Centro de partners"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
+ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
-ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
+ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
+ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -397,192 +398,271 @@ Antes de implementar la alineación de fechas de facturación, hemos facturado y
 
 Las suscripciones que se encuentran en el período gratuito el 20 de febrero no recibirán ningún cargo entre la fecha de compra y la fecha de facturación del partner. Además, no se realizará el cargo durante el primer mes del período de pago de 12 meses. Si usas un archivo de conciliación para realizar la verificación, ten en cuenta que el cargo de este primer mes dejará de estar visible en el archivo de conciliación.  
 
+No hay ningún cambio en las API, facturación o incentivos como resultado de este cambio de lógica de facturación. Informa a los equipos de ventas y de contabilidad de esta nueva lógica de facturación y asegúrate de que ajustan las operaciones según sea necesario. Consulta las siguientes Preguntas frecuentes con escenarios de facturación detallados.  
 
-**P:**¿Cuáles son los cambios?
 
--   **R:** Las suscripciones basadas en licencia ya no tendrán un período gratuito desde la fecha de compra hasta la fecha de facturación del partner.
+**P1:** ¿Qué está cambiando con la fecha de facturación?
 
-**P:** ¿Cuándo se eliminará el período grauito?
+-   **R:** Las suscripciones basadas en licencia ya no tendrán un período gratuito. Actualmente, existe un período gratuito desde la fecha de compra hasta la fecha de facturación del partner.
+
+**P2:** ¿Cuándo se eliminará el período gratuito?
 
 - **R:** A partir del 20 de febrero de 2018, las nuevas suscripciones no tendrán un período gratuito.
 
-**P:** ¿Se verán afectadas las suscripciones en período gratuito el 20 de febrero de 2018?
+**P3:** ¿Cuál será el impacto de las suscripciones en el período gratuito el 20 de febrero?
 
-- **R:** El período gratuito continuará hasta la fecha de facturación del partner para las suscripciones que todavía están en el período gratuito el 20 de febrero de 2018. Además, no se realizará el cargo durante el primer mes del período de pago de 12 meses. Si usas el archivo de conciliación para realizar la verificación, recuerda que puede que el cargo de este primer mes no aparezca en el archivo de conciliación. Consulta los siguientes escenarios para obtener una explicación más detallada.
+- **R:** Las suscripciones que están en el período gratuito el 20 de febrero de 2018 seguirán recibiendo un período gratuito desde la fecha de la compra hasta la fecha de facturación del partner. Estas licencias también recibirán un "período gratuito ampliado" y no se realizará el cargo durante el primer mes del período de pago de 12 meses. El "período gratuito ampliado" no se aplicará a licencias agregadas en el primer mes. Si aumentas la cantidad de licencias en el primer mes, se te cobrará por aquellas licencias agregadas en la siguiente factura/conciliación. Si el archivo de conciliación se usa para realizar la verificación, ten en cuenta que puede que el cargo de este primer mes no aparezca en el archivo de conciliación. Consulta los siguientes escenarios para obtener una explicación más detallada.
 
-**P:** ¿Cuándo comenzará el período de pago de 12 meses?
+**P4:** ¿Cuándo comenzará el período de pago de 12 meses para una nueva suscripción?
 
-- **R:** Actualmente, el período de pago comienza en la fecha de facturación del partner después de la fecha de compra. Cuando se elimine el período gratuito, el período de pago para las nuevas suscripciones comenzará en la fecha de compra.
+- **R:** Actualmente, el período de pago comienza en la fecha de facturación del partner después de la fecha de compra. A partir del 20 de febrero de 2018, el período de pago para las nuevas suscripciones comenzará en la fecha de compra.
 
-**P:** ¿Cuándo se renovarán automáticamente las suscripciones?
+**P5:** ¿Cuándo se renovarán automáticamente las suscripciones?
 
-- **R:** Actualmente, las suscripciones se renuevan automáticamente 12 meses después de la fecha de facturación del partner después de la fecha de compra. Cuando se elimine el período gratuito, las suscripciones se renovarán automáticamente 12 meses después de la fecha de compra.
+- **R:** Las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación. Actualmente, esto significa que las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación del partner después de la fecha de compra. A partir del 20 de febrero de 2018, las nuevas suscripciones se renovarán automáticamente 12 meses después de la fecha de compra.
 
-**P:** ¿Y si adquiero la suscripción el día 29, 30 o 31?
+**P6:** ¿Y si adquiero la suscripción el día 29, 30 o 31 del mes?
 
-- **R:** La suscripción se aprovisionará en la fecha de compra, pero el período de pago de 12 meses no comenzará hasta la primera fecha del mes siguiente.
+- **R:** La suscripción estará disponible desde la fecha de compra, pero el período de pago de 12 meses no comenzará hasta el primer día del mes siguiente.
 
-**P:** ¿Qué ofertas se ven afectadas por este cambio?
+**P7:** ¿Qué ofertas se ven afectadas?
 
-- **R:** Todas las suscripciones basadas en licencia de CSP se ven afectadas.
+- **R:** La eliminación del período gratuito se aplica a todas las suscripciones basadas en licencia de CSP.
 
-**P:** ¿Cómo afecta este cambio al archivo de concilación y facturación?
+**P8:** ¿Cómo afecta esto al archivo de conciliación y facturación? 
 
-- **R:** Ya no se verá la "línea de facturación de 0$" que representa el período gratuito.
+- **R:** Ya no se verá la "línea de facturación de 0$" en el archivo de conciliación ni en el de facturación. Actualmente, la línea de facturación de $0 representa el período gratuito.
 
-**P:** ¿Cambiará la fecha de facturación?
+**P9:** ¿Cambiará la fecha de facturación?
 
-- **R:** No, seguirás recibiendo el archivo conciliación y facturación en la fecha de facturación existente.
+- **R:** No, seguirás recibiendo el archivo de conciliación y facturación en la fecha de facturación existente.
 
-**P:¿** Cambiarán las fechas de inicio y finalización de cargos mensuales para las suscripciones existentes?
+**P10:** ¿Cambiarán las fechas de inicio y finalización de cargos mensuales para las suscripciones existentes?
 
-- **R:** No, las fechas de inicio y finalización de cargos mensuales de las suscripciones existentes seguirán alineándose con la fecha de facturación. Sin embargo, las nuevas suscripciones se alinearán con la fecha de compra. Ver un ejemplo abajo.
+- **R:** No, las fechas de inicio y finalización de cargos mensuales de las suscripciones existentes seguirán alineándose con la fecha de facturación. Sin embargo, las nuevas suscripciones se alinearán con la fecha de compra. Consulta el ejemplo que se indica a continuación.
 
-**P:** ¿Cambiará el cálculo de incentivos?
+**P11:** ¿Cambiará el cálculo de incentivos?
 
-- **R:** No.
+- **R:** No, no hay ningún cambio en los cálculos de incentivos.
 
-**P:** ¿Cambiarán las API?
+**P12:** ¿Habrá algún cambio en las API?
 
-- **R:** No.
+- **R:** No, no hay ningún cambio en las API.
 
 ### <a name="common-scenarios"></a>Escenarios comunes
 
 
 |**Escenarios**   |**Escenario 1: El período gratuito de suscripción finaliza antes del 20 de febrero de 2018**   |**Escenario 2: La suscripción se encuentra en el período gratuito el 20 de febrero de 2018**  | **Escenario 3: La suscripción se adquiere el 20 de febrero de 2018 o en una fecha posterior**   |
 |----------|:------------|:--------------------|:------------|
-|Fecha de compra |1 de febrero    | 1 de febrero    | 1 de junio     |
-|Fecha de aprovisionamiento | 1 de febrero   |1 de febrero   |1 de junio   |
-|Fecha de facturación   | 15   |25   | 15|
-|Período gratuito   | 1 de febrero - 15 de febrero|1 de febrero - 24 de febrero   |Sin período gratuito|
-|Cargo mes 1   | 15 de febrero - 14 de marzo | 25 de febrero de 2018 - 24 de marzo de 2018 Sin cargo alguno, no aparecerá en el archivo de conciliación|1 de junio - 30 de junio   |
-|Cargo mes 2   | 15 de marzo - 14 de abril|25 de marzo - 24 de abril   |1 de julio - 31 de julio|
-|Comienza el período de pago   | 15 de febrero de 2018 | 25 de marzo de 2018| 1 de junio de 2018| 
+|Fecha de compra |1 de febrero de 2018    | 1 de febrero de 2018    | 1 de junio de 2018     |
+|Fecha de aprovisionamiento | 1 de febrero de 2018   |1 de febrero de 2018   |1 de junio de 2018   |
+|Fecha de facturación   | Decimoquinto día de cada mes   |Vigésimo quinto día de cada mes   | Decimoquinto día de cada mes|
+|Período gratuito   | 1 de febrero de 2018-14 de febrero de 2018|1 de febrero de 2018-24 de febrero de 2018   |Sin período gratuito|
+|Cargo mes 1   | 15 de febrero de 2018-14 de marzo de 2018 | Las licencias vigentes el 24 de febrero de 2018 recibirán un período gratuito ampliado hasta el 24 de marzo de 2018. Se te cobrarán las licencias agregadas después del 24 de febrero de 2018. |1 de junio de 2018 - 30 de junio de 2018   |
+|Cargo mes 2   | 15 de marzo de 2018 - 14 de abril de 2018|25 de marzo de 2018 - 24 de abril de 2018   |1 de julio de 2018 - 31 de julio de 2018|
+|Comienza el período de pago   | 15 de febrero de 2018 | 25 de febrero de 2018| 1 de junio de 2018| 
 |Finaliza el período de pago | 14 de febrero de 2019   |24 de febrero de 2019   | 31 de mayo de 2019  |
 |Fecha de renovación | 15 de febrero de 2019 |25 de febrero de 2019   |1 de junio de 2019|
 
-### <a name="scenario---new-purchase"></a>Escenario: nueva compra
+### <a name="scenario-4---new-purchase"></a>Escenario 4: Nueva compra
 
-La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción a un precio de 30 $ al mes. El archivo de conciliación del 15 de junio contendrá lo siguiente:
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018 el partner adquiere una nueva suscripción. El precio de la suscripción es 30$ por licencia al mes. 
 
-- Cargo de 30 $ durante el mes 1 (1 de junio - 30 de junio)
+El 15 de junio el archivo de conciliación contendrá solo las siguientes líneas de facturación:
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio
 
-### <a name="scenario-suspend-and-reactivate-a-subscription-in-less-than-30-days-after-purchase"></a>Escenario: suspender y volver a activar una suscripción en menos de 30 días después de la compra
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
 
-La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción por 30 $ al mes. El 5 de junio, el partner suspende la suscripción. El 10 de junio, el partner vuelve a activar la suscripción. El archivo de conciliación del 15 de junio contendrá lo siguiente:
+### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Escenario 5a: Suspender y volver a activar antes de la fecha de facturación
 
-- Cargo de 30 $ durante el mes 1 (1 de junio - 30 de junio). 
-- -Crédito de cancelación de 30 $. Ten en cuenta que la fecha de inicio del cargo es el 5 de junio que es cuando el partner suspende la suscripción. El crédito no se prorratea. El partner recibe 100% del crédito porque suspendió la suscripción en los primeros 30 días.
-- Cargo de reactivación de 30 $. Ten en cuenta que la fecha de inicio del cargo es el 10 de junio que es cuando el partner volvió a activar la suscripción. El importe no se prorratea. No se prorratean todas las cancelaciones y reactivaciones en el plazo de 30 días de la fecha de compra.
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018 el partner adquiere una nueva suscripción. El precio de la suscripción es 30$ por licencia al mes. El 5 de junio de 2018, el partner suspende la suscripción. El 10 de junio de 2018, el partner vuelve a activar la suscripción. El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio. 
+- Crédito de cancelación de -30$ para el período de servicio comprendido entre el 5 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días. 
+- Cargo de 30$ para el período de servicio comprendido entre el 10 y el 30 de junio. El cargo no se prorratea porque la suscripción se volvió a activar en los primeros 30 días. 
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
-|05/06/2018   |30/06/2018   |-30 $   |1   |30 $   |
-|10/06/2018   |30/06/2018   |30 $   |1   |30 $   |
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
+|05/06/2018   |30/06/2018   |-30 $   |1   |30$   |Cuota de cancelación |
+|10/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
 
+Ten en cuenta que cuando se suspende una suscripción y vuelve a activarse, la fecha de renovación automática seguirá siendo 12meses desde la fecha de compra original.
 
-### <a name="scenario-suspend-a-subscription-in-less-than-30-days-after-purchase-and-reactivate-after-30-days"></a>Escenario: suspender una suscripción en menos de 30 días después de la compra y volverla a activar después de 30 días
+### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Escenario 5b: Suspender y volver a activar después de la fecha de facturación pero menos de 30 días desde la fecha de la compra
 
-La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción por 30 $ al mes. El 5 de junio, el partner suspende la suscripción. El archivo de conciliación del 15 de junio contendrá lo siguiente:
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018 el partner adquiere una nueva suscripción. El precio de la suscripción es 30$ por licencia al mes. El 20 de junio de 2018, el partner suspende la suscripción. El 25 de junio de 2018, el partner vuelve a activar la suscripción. El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
-|05/06/2018   |30/06/2018   |-30 $   |1   |30 $   |
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio. 
 
-El 10 de julio, el partner vuelve a activar la suscripción. El archivo de conciliación del 15 de julio contendrá el siguiente cargo:
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
 
-- Cargo de reactivación de 21,29 $. La fecha de inicio del cargo es el 10 de julio que es cuando el partner volvió a activar la suscripción y el importe se prorratea en 21,29 $. No se prorratean todas las cancelaciones y reactivaciones después de 30 días desde la fecha de compra. 
+El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
+- Crédito de cancelación de -30$ para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
+- Cargo de 30$ para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo no se prorratea porque la suscripción se volvió a activar en los primeros 30 días.
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 31 de julio.
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|10/07/2018   |31/07/2018   |21,29 $   |1   |21,29 $   |
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación |
+|25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
+|01/07/2018   |31/07/2018   |30 $   |1   |30$   |Tarifa de ciclo |
 
-La fecha de renovación de la suscripción permanece hasta el 1 de junio del año siguiente, 12 meses después de la fecha de compra original.
+### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Escenario 5c: Suspender y volver a activar (otra cantidad de licencias) después de la fecha de facturación pero menos de 30 días desde la fecha de la compra
 
-### <a name="scenario-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Escenario: suspensión y reactivación de una suscripción en más de 30 días después de la compra 
-La fecha de facturación del partner es el 15 del mes. El 1 de junio el partner adquiere una nueva suscripción de una licencia a un precio de 30 $ al mes. El archivo de conciliación del 15 de junio contendrá únicamente lo siguiente: cargo de 30$ durante el mes 1 (1 de junio - 30 de junio).
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018 el partner adquiere una nueva suscripción. El precio de la suscripción es 30$ por licencia al mes. El 20 de junio de 2018, el partner suspende la suscripción. El 25 de junio de 2018, el partner vuelve a activar la suscripción con dos licencias. El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio. 
 
-El partner suspende la suscripción el 5 de julio pero la vuelve a activar el 15 de julio. El archivo de conciliación del 15 de julio contendrá lo siguiente:
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
 
-- Cargo de 30 $ durante el mes 2 (1 de julio - 31 de julio).
+El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
+- Crédito de cancelación de -30$ para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
+- Cargo de 30$ para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo no se prorratea porque la suscripción se suspendió en los primeros 30 días.
+- Crédito de -30$ para el período de servicio comprendido entre el 1 y el 30 de junio. El partner vuelve a activar la suscripción con otra cantidad de licencias, lo que se traduce en un crédito y renovaciones prorrateadas.
+- Renovación prorrateada de 24$ para el período de servicio comprendido entre el 1 y el 24 de junio. El partner tenía 1 licencia durante este período de servicio. Aunque se ha suspendido la suscripción desde el 20 de junio hasta el 24 de junio, el cliente seguirá recibiendo el cobro durante estos días. El precio unitario se calcula como sigue: (precio mensual o número de días en período de servicio total)*número de días en período de servicio prorrateado*número de licencias = (30/30)*24*1 = 24$.
+- Renovación prorrateada de 12$ para el período de servicio comprendido entre el 25 y el 30 de junio. El partner tenía 2 licencias durante este período de servicio. El precio unitario se calcula como (30/30)*6*2= 12$.
+- Cargo de 60$ para el período de servicio comprendido entre el 1 y el 31 de julio.
 
-- -Crédito de cancelación de 26,19 $. Ten en cuenta que la fecha de inicio del cargo es el 5 de julio que es cuando el partner suspendió la suscripción y el crédito se prorratea. No se prorratean todas las cancelaciones y reactivaciones después de 30 días desde la fecha de compra.
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
+|25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
+|01/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Prorrateo de instancia de ciclo |
+|01/06/2018   |24/06/2018   |24$   |1   |24$   |Prorrateo de instancia de ciclo |
+|25/06/2018   |30/06/2018   |6$   |2   |12$   |Prorrateo de instancia de ciclo |
+|01/07/2018   |31/07/2018   |30 $   |2   |60$   |Tarifa de ciclo |
 
-- Cargo de reactivación de 21,37 $. Ten en cuenta que la fecha de inicio del cargo es el 10 de julio que es cuando el partner volvió a activar la suscripción y el cargo se prorratea.
+### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Escenario 6: Suspensión de una suscripción en menos de 30 días después de la compra y reactivación después de 30 días después de la compra 
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/07/2018   |31/07/2018   |30 $  |1   |30 $   |
-|05/07/2018   |31/07/2018   |   -26,19 $   |1   |-26,19 $|
-|10/07/2018   |31/07/2018   |-21,37USD   |1   |21,37USD|
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio el partner adquiere una nueva suscripción de una licencia a 30$ al mes. El 5 de junio, el partner suspende la suscripción. El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-### <a name="scenario-change-license-quantity"></a>Escenario: cambiar cantidad de licencias 
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio
+- Crédito de cancelación de -30$ para el período de servicio comprendido entre el 5 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
 
-La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción por 30 $ al mes. El 10 de junio el partner aumenta la cantidad de licencias de 1a 2 licencias. El archivo de conciliación del 15 de junio contendrá lo siguiente:
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar
+|05/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación
 
-- Cargo de 30 $ durante el mes 1 (1 de junio - 30 de junio). Aunque el partner aumentó la cantidad de licencias antes de la fecha de facturación del 15 de junio, el cambio no se reconocerá en el sistema de facturación de Microsoft hasta el día de aniversario de suscripción el 1 de julio.
+El 10 de julio, el partner vuelve a activar la suscripción. El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
+- Cargo de reactivación 21,30$ para el período de servicio comprendido entre el 10 y el 31 de julio. Las reactivaciones después de 30 días desde la fecha de compra se traducen en un cargo prorrateado. 
 
-El 1 de julio, el día de aniversario de la suscripción, el sistema de facturación de Microsoft reconocerá que la cantidad de licencias se cambió de 1a 2 el 10 de junio. El sistema de facturación generará un crédito y cargos prorrateados durante el mes 1 y un cargo durante el mes 2. El archivo de conciliación del 15 de julio contendrá lo siguiente:
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|10/07/2018   |31/07/2018   |21,30$   |1   |21,30$   |Tarifa de activación |
 
-- -Crédito de 30 $ durante mes 1.
-- Cargo prorrateado de 9 $ durante mes 1 (1 de junio – 9 de junio) para 1 licencia.
-- Cargo prorrateado de 42 $ durante mes 1 (10 de junio – 30 de junio) para 2 licencias.
-- Cargo de 60 $ durante mes 2 (1 de julio - 31 de julio) para 2 licencias.
+El 15 de agosto el archivo de conciliación contendrá las siguientes líneas de facturación:
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 31 de agosto.
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |-30 $   |1   |-30 $|
-|01/06/2018   |09/06/2018   |9 $   |1   |9 $|
-|10/06/2018   |30/06/2018   |21 $   |2   |42 $|
-|01/07/2018   |31/07/2018   |30 $   |2   |60 $   |
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/08/2018   |31/08/2018   |30$   |1   |30$   |Tarifa de ciclo |
 
-### <a name="scenario-add-on-subscriptions"></a>Escenario: suscripciones de complemento
+Ten en cuenta que cuando se suspende una suscripción y vuelve a activarse, la fecha de renovación automática seguirá siendo 12meses desde la fecha de compra original. 
 
-La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción por 30 $ al mes. El 10 de junio el partner adquiere una nueva suscripción de complemento por 5 $ al mes. La fecha de renovación de suscripción de complemento se alinea con la fecha de renovación de suscripción base que es el 1 de junio. 
+### <a name="scenario-7-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Escenario 7: Suspensión y reactivación de una suscripción en más de 30 días después de la compra 
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio el partner adquiere una nueva suscripción de una licencia a un precio de 30$ al mes. 
 
-El archivo de conciliación del 15 de junio contendrá lo siguiente:
+El 15 de junio el archivo de conciliación contendrá solo las siguientes líneas de facturación:
 
-- Cargo de 30 $ durante el mes 1 (1 de junio - 30 de junio). Se trata de la suscripción de base.
-- Cargo prorrateado de 3,50 $ durante mes 1 (10 de junio - 30 de junio) de la suscripción de complemento. La fecha de inicio del cargo es el 10 de junio que es cuando la suscripción de complemento se adquirió y el importe se prorratea.
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio.
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |
-|10/06/2018   |30/06/2018   |3,50USD   |1   |3,50USD   |
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+
+El partner suspende la suscripción el 5 de julio pero la vuelve a activar el 15 de julio. El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
+
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 31 de julio.
+- Crédito de cancelación de -26,14$ para el período de servicio comprendido entre el 5 y el 31 de julio. Las cancelaciones después de 30 días desde la fecha de compra se traducen en un crédito prorrateado. Cálculo = (precio mensual/días en período de servicio total) x días del período de servicio prorrateado x cantidad de licencias x (-1) = (30/31) x 27 x 1 x (-1) =-26,14.
+- Cargo de reactivación 21,30$ para el período de servicio comprendido entre el 10 y el 31 de julio. Las reactivaciones después de 30 días desde la fecha de compra se traducen en un cargo prorrateado. Cálculo = (30/31) x 22 x 1 = 21,30.
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/07/2018   |31/07/2018   |30 $  |1   |30$   |Tarifa de ciclo |
+|05/07/2018   |31/07/2018   |   -26,14$   |1   |-26,14$|Cuota de cancelación |
+|10/07/2018   |31/07/2018   |-21,30$   |1   |21,30$|Tarifa de activación |
+
+El archivo de conciliación del 15 de agosto contendrá lo siguiente:
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 31 de agosto.
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/08/2018   |31/08/2018   |30$  |1   |30$   |Tarifa de ciclo |
+
+### <a name="scenario-8-change-of-license-quantity"></a>Escenario 8: Cambiar cantidad de licencias 
+
+La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere una nueva suscripción por 30 $ al mes. El 10 de junio el partner aumenta la cantidad de licencias de 1a 2 licencias. El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
+
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio. Aunque el partner aumentó la cantidad de licencias antes de la fecha de facturación del 15 de junio, el cambio no se reconoce en el sistema de facturación de Microsoft hasta el día de aniversario de suscripción el 1 de julio.
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+
+El 1 de julio, el día de aniversario de la suscripción, el sistema de facturación de Microsoft reconocerá que la cantidad de licencias se cambió de 1a 2 el 10 de junio. El sistema de facturación generará un crédito y renovaciones prorrateadas para el período de servicio comprendido entre el 1 y el 9 de junio y el 10 y el 30 de junio. 
 
 El archivo de conciliación del 15 de julio contendrá lo siguiente:
 
-- Cargo de 30 $ durante el mes 2 (1 de julio - 31 de julio). Se trata de la suscripción de base.
-- Cargo de 5 $ durante el mes 2 (1 de julio - 31 de julio). Se trata de la suscripción de complemento.
+- Crédito de -30$ para el período de servicio comprendido entre el 1 y el 30 de junio.
+- Renovación prorrateada de 9$ para el período de servicio comprendido entre el 1 y el 9 de junio. Se trata del período cuando el cliente tenía 1 licencia. Cálculo = (precio mensual/total de días en período de servicio total) x días del período de servicio prorrateado x número de licencias = (30/30) x 9 x 1 = 9.
+- Renovación prorrateada de 42$ para el período de servicio comprendido entre el 10 y el 30 de junio. Se trata del período cuando el cliente tenía 2 licencias. Cálculo = (30/30) x 21 x 2 = 42.
+- Cargo de 60$ para el período de servicio comprendido entre el 1 y el 31 de julio.
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/07/2018   |31/07/2018   |30 $   |1   |30 $   |
-|01/07/2018   |31/07/2018   |5 $   |1   |5 $   |
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |-30 $   |1   |-30$|Prorrateo de instancia de ciclo |
+|01/06/2018   |09/06/2018   |9 $   |1   |9$|Prorrateo de instancia de ciclo |
+|10/06/2018   |30/06/2018   |21 $   |2   |42$|Prorrateo de instancia de ciclo |
+|01/07/2018   |31/07/2018   |30 $   |2   |60$   |Tarifa de ciclo |
 
-### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Escenario: nueva compra el 29, 30 o 31 
+### <a name="scenario-9-add-on-subscriptions"></a>Escenario 9: Suscripciones de complemento
 
-La fecha de facturación del partner es el décimo quinto día del mes. El 29 de mayo, el partner adquiere una nueva suscripción (1 licencia a 30USD/mes) con una frecuencia de facturación mensual. La fecha de aniversario de las suscripciones adquiridas el 29, 30 o 31 se establecerá de forma predeterminada en el día 1. En este escenario, la suscripción recibirá un período gratuito desde el 29 al 31 de mayo y la línea de facturación aparecerá el 1 de junio mostrando el cargo con un mes de antelación.
+La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio el partner adquiere una nueva suscripción de una licencia a un precio de 30$ al mes. El 10 de junio el partner adquiere una nueva suscripción de complemento por 5$ al mes. La fecha de renovación de suscripción de complemento se alinea con la fecha de renovación de suscripción base que es el 1 de junio. 
 
-El archivo de conciliación del 15 de junio contendrá lo siguiente:
+El 10 de junio el partner adquiere una suscripción de complemento de una licencia a un precio de 5$ al mes. 
 
-- Cargo de 30 $ durante el mes 1 (1 de junio - 30 de junio)
+El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|01/06/2018   | 30/06/2018   |30 $   |1   |30 $  |
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio. Se trata de la suscripción base.
+- Cargo prorrateado de 3,50$ para el período de servicio comprendido entre el 10 y el 30 de junio. Se trata de la suscripción de complemento. 
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|10/06/2018   |30/06/2018   |3,50USD   |1   |3,50$   |Tarifas prorrateadas al comprar |
+
+El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
+
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 31 de julio. Se trata de la suscripción base.
+- Cargo de 5$ para el período de servicio comprendido entre el 1 y el 31 de julio. Se trata de la suscripción de complemento.
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|-------|
+|01/07/2018   |31/07/2018   |30 $   |1   |30$   |Tarifa de ciclo |
+|01/07/2018   |31/07/2018   |5 $   |1   |5$   |Tarifa de ciclo |
+
+Ten en cuenta que la suscripción de complemento tendrá una fecha de renovación automática de 1 de junio de 2019, que se alinea con la de suscripción base.
+
+### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Escenario 10: Nueva compra el 29, 30 o 31 
+
+La fecha de facturación del partner es el decimoquinto día del mes. El 29 de mayo el partner adquiere una nueva suscripción de una licencia a un precio de 30$ al mes. Las suscripciones adquiridas el 29, 30 o 31 tendrán un período gratuito desde la fecha de compra hasta el primer día del mes siguiente. El día de aniversario de suscripción predeterminado será el 1. En este escenario, la suscripción recibirá un período gratuito desde el 29 de mayo hasta el 31 de mayo y el período de pago de 12meses comenzará el 1 de junio. 
+
+El 15 de junio el archivo de conciliación contendrá las siguientes líneas de facturación:
+
+- Cargo de 30$ para el período de servicio comprendido entre el 1 y el 30 de junio.
+
+|**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
+|-----------------|:-------------|:----------------|:------------|:------|------|
+|01/06/2018   | 30/06/2018   |30 $   |1   |30$  |Tarifas prorrateadas al comprar |
+
+Ten en cuenta que la suscripción se renovará automáticamente el 1 de junio de 2019.

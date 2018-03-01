@@ -1,48 +1,46 @@
 ---
-title: "Información sobre los próximos requisitos de las competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners"
-description: "Consulta lo que se requiere para actualizar a los niveles de suscripción Gold y Silver."
+title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
+description: "Obtén más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold."
 author: Maggiepuccievans
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency, Microsoft Partner Network, network membership
-ms.openlocfilehash: da6bb2cef3b28681075854136415bc5b01acd2bd
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+keywords: "competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red"
+ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="upcoming-microsoft-competency-requirements-for-gold-and-silver-membership"></a>Próximos requisitos de competencias de Microsoft para suscripciones Silver y Gold
+# <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competencias de Microsoft para suscripciones Silver y Gold
 
-**Applies to**
+**Se aplica a:**
 
--  Partner Center
+-  Centro de partners
 
-Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business. Microsoft competencies are designed to prepare you to meet your customers’ needs, and to help you attract new customers who are looking for Microsoft-certified solution providers.
+Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades tus clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
 
-Pronto se establecerán los requisitos para las suscripciones Silver y Gold. 
+- Gana una **suscripción Silver** para demostrar tu capacidad, experiencia y compromiso
 
-- Gana una **suscripción Silver** para demostrar tu capacidad, experiencia y compromiso.
+- Gana una **suscripción Gold** para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft
 
-- Earn a **Gold membership** to demonstrate your best-in-class capability within a specific Microsoft solution area.
-
-Read about what's required to earn Silver and Gold membership in the following areas of expertise:
+Leer acerca de lo que se requiere para ganar las suscripciones Silver y Gold en las siguientes áreas de la experiencia:
 
 
-| Competencies  | Technologies |
+| Competencias  | Tecnologías |
 |   ------------------   |   -------   |
-| [Application Development competency](competency-application-development.md) | HTML5, C#, ASP.NET, UWP, Microsoft Azure apps |
-| [Application Integration competency](competency-application-integration.md) | Windows Server, SQL server/database, C#, Azure, BizTalk Server 2013|
-| [Cloud Business Applications competency](competency-cloud-business-applications.md)| Microsoft Dynamics 365/Enterprise/Operations/AX, SQL database |
-| [Cloud Customer Relationship Management competency](competency-cloud-customer-relationship-management.md)| Dynamics 365/Dynamics CRM |
-| [Cloud Platform competency](competency-cloud-platform.md)| Azure, Linux on Azure |
-| [Cloud Productivity competency](competency-cloud-productivity.md)| Microsoft Office 365 services (Exchange Online, SharePoint Online, Skype for Business, or Yammer)|
-| [Collaboration and Content competency](competency-collaboration-and-content.md)| Office 365, SharePoint Server 2016, App Builder |
-| [Communications competency](competency-communications.md)| Skype for Business, Enterprise Voice Skype for Business 2015 |
-| [Data Analytics competency](competency-data-analytics.md)| SQL databases, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
-| [Data Platform competency](competency-data-platform.md)| SQL databases, SQL Server 2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
-| [Data Center competency](competency-datacenter.md)| System Center 2012, Windows Server virtualization and Hyper-V, Windows Server 2012/2016 |
-| [DevOps competency](competency-devops.md)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, software lifecycle, scrum certifications |
-| [Enterprise Mobility Management competency](competency-enterprise-mobility-management.md)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, identity & access management, info protection, cloud app security |
-| [Enterprise Resource Planning competency](competency-enterprise-resource-planning.md)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server 2012 databases  |
-| [Messaging competency](competency-messaging.md)| Office 365, Exchange Server 2016 |
-| [Project and Portfolio Management competency](competency-project-and-portfolio-management.md)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
-| [Small and Midmarket Cloud Solutions competency](competency-small-and-midmarket-cloud-solutions.md)| Office 365 |
-| [Windows and Devices competency](competency-windows-and-devices.md)| Windows 10, Windows 10 IoT, Universal Windows Platform, Surface Hub, Office 365, Skype for Business 2015, enterprise deployment |
+| [Competencia de desarrollo de aplicaciones](https://partner.microsoft.com/membership/application-development-competency) | Aplicaciones HTML5, C#, ASP.NET, para UWP y para Microsoft Azure |
+| [Competencia de integración de aplicaciones](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL Server/base de datos, C#, Azure, BizTalk Server 2013|
+| [Competencia de aplicaciones empresariales en la nube](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/empresariales/operaciones/AX, base de datos SQL |
+| [Competencia de administración de relaciones con los clientes en la nube](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
+| [Competencia de plataformas en la nube](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Linux en Azure |
+| [Competencia de productividad en la nube](https://partner.microsoft.com/membership/cloud-productivity-competency)| Servicios de Microsoft Office 365 (Exchange Online, SharePoint Online, Skype Empresarial o Yammer)|
+| [Competencia de colaboración y contenido](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365, SharePoint Server 2016, Creador de aplicaciones |
+| [Competencia de comunicaciones](https://partner.microsoft.com/membership/communications-competency)| Skype Empresarial, Telefonía empresarial de Skype Empresarial 2015 |
+| [Competencia de análisis de datos](https://partner.microsoft.com/membership/data-analytics-competency)| Bases de datos SQL, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
+| [Competencia de plataformas de datos](https://partner.microsoft.com/membership/data-platform-competency)| Bases de datos SQL, SQL Server 2016, almacenamiento de datos de Azure, servicios de datos de Azure, Transact-SQL |
+| [Competencia de centros de datos](https://partner.microsoft.com/membership/datacenter-competency)| Almacenamiento de datos de Azure, virtualización de servidores y Hyper-V de Windows Server, Windows Server 2012/2016 |
+| [Competencia de DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, ciclo de vida del software, certificaciones Scrum |
+| [Competencia de administración de movilidad empresarial](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Movilidad + seguridad empresarial (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), administración de dispositivos móviles, administración de identidades y accesos, protección de información, seguridad de aplicaciones en la nube |
+| [Competencia de planificación de recursos empresariales](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX GP/SL/NAV/365, planificación de recursos (ERP), bases de datos SQL Server 2012  |
+| [Competencia de mensajes](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
+| [Competencia de administración de carteras y proyectos](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, administración de carteras y proyectos (PPM), SharePoint Server 2016|
+| [Competencia de soluciones en la nube para pequeñas y medianas empresas](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Competencia de Windows y dispositivos](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, Plataforma universal de Windows, Surface Hub, Office 365, Skype Empresarial 2015, implementación empresarial |
