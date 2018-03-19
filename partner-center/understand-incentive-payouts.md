@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: Comprender los pagos de incentivos | Centro de partners
 description: Mira las ganancias y pagos de los programas de incentivos.
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>Comprender los pagos de incentivos
 
-**Applies to**
+**Se aplica a**
 
 -  Centro de partners
 
 Los administradores y usuarios de incentivos obtienen un resumen de las ganancias y los pagos que han recibido o van a recibir por sus programas de incentivos.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>Información de resumen sobre ganancias y pagos
 
 Los usuarios y administradores de incentivos pueden ver su posición financiera en los programas de incentivos en los que están participando en **Resumen de pagos**. Puedes analizar cada área de la información de resumen según sea necesario. 
 
@@ -49,7 +49,7 @@ La tabla de ganancias y pagos de programa/producto muestra un desglose de la can
 
 ## <a name="analyze-incentives-earnings"></a>Análisis de las ganancias de incentivos
 
-Descubre las oportunidades de lograr más ganancias de tu organización con los programas de incentivos y dónde qué te han pagado ya. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. Cada programa y cada tipo de ganancia tendrán distintos requisitos y fechas de inicio y fin. 
+Descubre las oportunidades de lograr más ganancias de tu organización con los programas de incentivos y dónde qué te han pagado ya. Esta información te aclara las facturas que están pendientes de cobrar.  Conoce los programas y las actividades que han tenido mayor éxito y descubre las ubicaciones que están obteniendo ganancias. En cada programa puedes ver las posibles ganancias totales, el tiempo durante el que puedes participar en el programa y cuándo caduca. Cada programa y cada tipo de ganancia tendrán distintos requisitos y fechas de inicio y fin. 
 
 ## <a name="earning-trends"></a>Tendencias de ganancias 
 
@@ -96,12 +96,12 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 
 ## <a name="downloading-earnings-transactions"></a>Descargar transacciones de ganancias 
 
-|**Campo**        |**Definition**     |
+|**Campo**        |**Definición**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Identificador único que se crea para cada apunte de ganancias. |               
 |Nombre del partner   | Nombre registrado del partner en el Centro de partners.                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | El país o la región del identificador de MPN V-Org del partner.|
+|MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
+|Ubicación       | El país o la región del identificador de MPN V-Org del partner.|
 |Nombre del programa   |El nombre del programa de incentivos. |
 |Nombre del cliente  |   El nombre del cliente. |
 |Ubicación del cliente  | El país donde se encuentra el cliente.  |
@@ -113,11 +113,11 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |Fecha de finalización de contrato |La fecha de finalización del contrato de licencia, incluidas las renovaciones y las extensiones. |
 |Fecha de inicio de suscripción    |La fecha de inicio de una suscripción.|
 |Fecha de finalización de suscripción  |La fecha de finalización de una suscripción.|
-|Product SKU    |El número de SKU de un producto.|
+|SKU de producto    |El número de SKU de un producto.|
 |Nombre del producto   |El nombre del producto de Microsoft.|
 |Fecha de transacción   |La fecha y la hora a las que se realizó la transacción (hora UTC).|
 |Recuento de licencias  |El número de licencias vendidas. |
-|Quantity   |El número de unidades vendidas.| 
+|Cantidad   |El número de unidades vendidas.| 
 |Cantidad anterior |La cantidad de unidades del último período de ganancias. |
 |Precio unitario |El precio por unidad vendida.| 
 |Importe de la transacción |El tipo de cálculo se multiplica por esta cantidad para calcular las ganancias de incentivos.|
@@ -128,7 +128,7 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |Período de ganancia     |El período de la ganancia según el programa. |
 |Inicio del período de ganancia   |El inicio del período de ganancia de un programa (hora UTC). |
 |Finalización del período de ganancia |La finalización del período de ganancia de un programa (hora UTC).|
-|Calculation Date   |La fecha en la que se calculan las ganancias (hora UTC).|
+|Fecha del cálculo   |La fecha en la que se calculan las ganancias (hora UTC).|
 |Divisa de las ganancias   |La divisa del importe de la ganancia. |
 |Tipo de cambio de la ganancia|El tipo de cambio usado para convertir la divisa de la transacción a la divisa de la ganancia.|
 |Divisa de informe|La divisa usada para los informes.|
@@ -145,8 +145,8 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |**Nombre de columna**   |**Descripción**   |
 |-------------------|:--------------------|
 |Nombre del partner|El nombre registrado del partner en el Centro de partners.|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
+|Ubicación       | El país o la región del identificador de MPN V-Org del partner|
 |Nombre del programa   |El nombre del programa de incentivos. |
 |Tipo de ganancia   |El tipo de ganancia (reembolso, ajuste). |
 |Divisa de importe del pago|   El tipo de divisa que se usa para el pago-|

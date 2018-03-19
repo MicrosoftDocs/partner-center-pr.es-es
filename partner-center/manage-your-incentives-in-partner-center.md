@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Administrar los incentivos en el Centro de partners 
 
-**Applies to**
+**Se aplica a**
 
--  Partner Center
+-  Centro de partners
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>Incentivos de partners 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+Ya sea si estás realizando negocios en la nube, a nivel local o en otro lugar intermedio, los incentivos de partners fomentan la rentabilidad y el crecimiento.
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>Participar en el programa de incentivos de partners
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+Puedes participar en el programa de incentivos de CSP si cumples los criterios siguientes:
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   Disponer de un contrato de Microsoft Partner Network (MPN) 
+-   Un contrato de distribuidor de soluciones en la nube válido (solo para proveedores indirectos)
+-   Un contrato de revendedor (solo para revendedores directos)
+-   Cumplir con los requisitos de las competencias
 
-As soon as you become eligible, you will be invited to join the program.
+En cuanto seas apto, te invitarán a unirte al programa.
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>Un sitio, un inicio de sesión
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+Ahora que la administración de incentivos de partners está disponible en el Centro de partners, puedes registrarte para obtener incentivos, acceder a los perfiles de impuestos y pagos, acceder a las ganancias y extractos de pago y administrar usuarios; todo aquí en el Centro de partners. 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+A partir de los partners ya inscritos, ofrecemos a los partners opciones para administrar incentivos en el Centro de partners en fases a partir de julio. Mantente a la espera de un correo electrónico en el que te informaremos si ya ha llegado el momento de configurar tu organización para lograr incentivos en el Centro de partners. 
 
-Admins, if you have received the email, follow these three easy steps today:
+Administrador: si has recibido el correo electrónico, sigue hoy mismo estos tres sencillos pasos:
 
 1.  Inicia sesión en el Centro de partners 
 2.  Sigue las instrucciones que haya en el correo electrónico para configurar los usuarios de incentivos 
 3.  Proporciona credenciales de inicio de sesión del Centro de partners a los usuarios de incentivos recién configurados
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+Cuando el administrador de incentivos haya recibido las credenciales, puede completar la migración que permitirá a la organización administrar los incentivos aquí, en el Centro de partners.
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[Crear cuentas de usuario y asignar permisos](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[Restablecer una contraseña de usuario](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[Comprender los pagos de incentivos](understand-incentive-payouts.md)
 

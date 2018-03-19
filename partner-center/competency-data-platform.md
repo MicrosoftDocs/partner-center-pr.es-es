@@ -1,81 +1,81 @@
 ---
-title: Data Platform Competency
-description: The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
+title: Competencia de plataforma de datos
+description: "La competencia de plataforma de datos reconoce a partners que buscan diseñar y desarrollar plataformas de base de datos versátiles y con más capacidad para llevar a cabo sus actividades empresariales."
 author: Daniel Simpson
-keywords: competency,competencies,data platform
+keywords: competencia,competencias,plataforma de datos
 ms.openlocfilehash: c415e79d831ccb742f39915574014f1d939c5821
 ms.sourcegitcommit: 6c5a1ce9da7ee313ef88ef584dbf4ecb4dc0d12c
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/21/2017
 ---
-#<a name="data-platform"></a>Data Platform
-The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
+#<a name="data-platform"></a>Plataforma de datos
+La competencia de plataforma de datos reconoce a partners que buscan diseñar y desarrollar plataformas de base de datos versátiles y con más capacidad para llevar a cabo sus actividades empresariales.
 
-- [Big Data option](#big-data-option) 
-- [SQL Server Specialist option](#sql-server-specialist-option)
+- [Opción de Big Data](#big-data-option) 
+- [Opción de especialista en SQL Server](#sql-server-specialist-option)
 
-##<a name="big-data-option"></a>Big Data option
-The Big Data option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Platform competency.
+##<a name="big-data-option"></a>Opción de Big Data
+La opción de Big Data es ideal si prefieres demostrar tus conocimientos mediante la aprobación de evaluaciones. Realiza todos los pasos para obtener la competencia de la plataforma de datos.
 
 ###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass the required assessments.
+1. Tu organización debe tener **2** personas que hayan aprobado las evaluaciones obligatorias.
 
-    - **2** individuals must pass the following assessment:
+    - **2** personas deben aprobar la evaluación siguiente:
         - [Evaluación técnica de información básica sobre análisis de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    **AND**
+    **Y**
 
-    - The same **2** individuals must pass one of the following assessments:
+    - Las mismas **2** personas deben aprobar una de las siguientes evaluaciones:
         - [Evaluación técnica de SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
         - [Evaluación técnica de almacenamiento de datos de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
         - [Evaluación técnica de servicios de datos de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
 ###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the required assessments.
+1. Tu organización debe tener **4** personas que hayan aprobado las evaluaciones obligatorias.
 
-    - **4** individuals must pass the following assessment:
+    - **4** personas deben aprobar la evaluación siguiente:
         - [Evaluación técnica de información básica sobre análisis de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    **AND**
+    **Y**
 
-    - The same **4** individuals must pass one of the following assessments:
+    - Las mismas **4** personas deben aprobar una de las siguientes evaluaciones:
         - [Evaluación técnica de SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
         - [Evaluación técnica de almacenamiento de datos de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
         - [Evaluación técnica de servicios de datos de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-##<a name="sql-server-specialist-option"></a>SQL Server Specialist option
-The SQL Server Specialist option is ideal if you prefer to prove your skills by passing exams within a particular area of specialization. Complete all the steps within the option to attain the Data Platform competency.
+##<a name="sql-server-specialist-option"></a>Opción de especialista en SQL Server
+La opción de especialista de SQL Server es ideal si prefieres demostrar tus conocimientos mediante la aprobación de exámenes de un área de especialización determinada. Realiza todos los pasos de la opción para obtener la competencia de análisis de plataformas de datos.
 
 ###<a name="silver"></a>Silver
-1. Your organization must have **1** individual pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individual must pass an assessment.
+1. Tu organización debe tener **1** persona que haya aprobado todos los exámenes de cualquiera de las dos áreas de especialización: **Administración de bases de datos** o **Desarrollo de bases de datos**, y la persona debe también aprobar una evaluación.
 
-    - **Database Administration** focus area
-        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
-        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
+    - Área de especialización en **Administración de bases de datos**
+        - [Examen 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrar una infraestructura de base de datos de SQL 
+        - [Examen 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Aprovisionamiento de bases de datos de SQL
 
-    - **Database Development** focus area
-        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
-        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
-        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+    - Área de especialización en **Desarrollo de bases de datos**
+        - [Examen 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Desarrollar bases de datos de SQL
+        - [Examen 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Consultar datos con Transact-SQL
+        - [Examen 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Diseño e implementación de soluciones de plataforma de datos en la nube
 
-    **AND**
+    **Y**
 
     - [Evaluación técnica de información básica sobre análisis de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
 ###<a name="gold"></a>Gold
-1. Your organization must have 2 individuals pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individuals must pass an assessment.
+1. Tu organización debe tener 2 personas que hayan aprobado todos los exámenes de cualquiera de las dos áreas de especialización: **Administración de bases de datos** o **Desarrollo de bases de datos**, y las personas deben también aprobar una evaluación.
 
-    - **Database Administration** focus area
-        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
-        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
+    - Área de especialización en **Administración de bases de datos**
+        - [Examen 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administrar una infraestructura de base de datos de SQL 
+        - [Examen 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Aprovisionamiento de bases de datos de SQL
 
-    - **Database Development** focus area
-        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
-        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
-        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+    - Área de especialización en **Desarrollo de bases de datos**
+        - [Examen 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Desarrollar bases de datos de SQL
+        - [Examen 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Consultar datos con Transact-SQL
+        - [Examen 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Diseño e implementación de soluciones de plataforma de datos en la nube
 
-    **AND**
+    **Y**
 
     - [Evaluación técnica de información básica sobre análisis de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
