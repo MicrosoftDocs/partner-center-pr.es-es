@@ -1,12 +1,12 @@
 ---
-title: "Asociación con los revendedores indirectos en CSP | Centro de partners"
+title: Asociación con los revendedores indirectos en CSP | Centro de partners
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -72,6 +72,7 @@ Según el nivel de acceso e intervención que quieras que tenga el revendedor, p
 | **Para ello** | **Realiza lo siguiente** | **Donde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar al revendedor para que administre la cuenta del cliente y tener permisos de administrador para administrar sus suscripciones | Asociar un revendedor a una cuenta de cliente cuando se agregue un nuevo cliente | En la página **Nuevo cliente** |
+|Permitir al revendedor administrar la cuenta de Azure de un cliente|Asociar un revendedor a una cuenta de Azure de cliente cuando se agregue un nuevo cliente|En el **portal del servicio de Azure**, seleccione [Configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar al revendedor indirecto permisos de **propietario del espacio empresarial**|
 | Dar al revendedor créditos para incentivos | Asociar el revendedor con la suscripción (nueva o existente) | En la página **Nueva suscripción** |
 | Delegar la atención al cliente al revendedor en determinadas suscripciones | Selecciona el revendedor desde la lista **Contacto de soporte técnico designado** | En la página de detalles de la suscripción: Selecciona el cliente en página **Clientes** y, a continuación, selecciona la suscripción del cliente en la página **Suscripciones** |
 

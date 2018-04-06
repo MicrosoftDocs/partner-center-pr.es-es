@@ -1,14 +1,14 @@
 ---
 title: Contratos de CSP, listas de precios y ofertas | Centro de partners
-description: "En este artículo incluye vínculos a las guías del programa Proveedor de soluciones en la nube, acuerdos de partner, acuerdos de clientes, listas de precios y ofertas."
+description: En este artículo incluye vínculos a las guías del programa Proveedor de soluciones en la nube, acuerdos de partner, acuerdos de clientes, listas de precios y ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-keywords: "guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas"
+keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Contratos de Proveedor de soluciones en la nube, listas de precios y ofertas
 

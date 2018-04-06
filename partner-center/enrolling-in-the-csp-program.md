@@ -1,12 +1,12 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de partners
-description: "Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio"
+description: Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio
 author: labrenne
-ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
-ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.openlocfilehash: 073daadbe2cfee4eb891e2698a2b11c31da39ec0
+ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2018
+ms.lasthandoff: 02/19/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -47,7 +47,45 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 
 - Si has estado trabajando con clientes con los que quieres seguir trabajando con a través del Centro de partners, deberás [asociarlos](request-a-relationship-with-a-customer.md) a tu cuenta del Centro de partners.  Microsoft puede conectarles a tu facturación. 
 
+| Disponibilidad por mercado |
+|----------------------------------------------------------------------------------------------|
+| Brasil  |
+| Canadá  |
+| India   |
+| Japón   |
+| Corea del Sur   |
+| Nueva Zelanda |
+| Rusia  |
+| Taiwán  |
+| Estados Unidos |
+| Australia, Fiyi  |
+| Anguila, Antártida, Antigua y Barbuda, Argentina, Aruba, Bahamas, Barbados, Belice, Bermudas, Bolivia, Bonaire, Saba y San Eustaquio, Islas Vírgenes Británicas, Islas Caimán, Chile, Colombia, Costa Rica, Curazao, Dominica, República Dominicana, Ecuador, El Salvador, Islas Malvinas, Guayana Francesa, Granada, Guadalupe, Guatemala, Guyana, Haití, Honduras, Jamaica, Martinica, México, Montserrat, Nicaragua, Panamá, Paraguay, Perú, Puerto Rico, San Bartolomé, San Cristóbal y Nieves, Santa Lucía, San Martín (zona francesa), San Vicente y las Granadinas, San Eustaquio, Sint Maarten (zona neerlandesa), Georgia del Sur e Islas Sandwich del Sur, Surinam, Trinidad y Tobago, Islas Turcas y Caicos, Islas Vírgenes de los Estados Unidos de América, Uruguay, Venezuela. |
+| Islas Åland, Andorra, Austria, Bélgica, Isla Bouvet, Bulgaria, Croacia, Chipre, República Checa, Dinamarca, Estonia, Finlandia, Francia, Alemania, Gibraltar, Grecia, Groenlandia, Guernsey, Hungría, Islandia, Irlanda, Isla de Man, Italia, Jan Mayen, Jersey, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Países Bajos, Noruega, Polonia, Portugal, Rumanía, San Marino, Eslovaquia, Eslovenia, España, Svalbard, Suecia, Suiza, Reino Unido, Ciudad del Vaticano, Islas Feroe  |
+| Afganistán, Albania, Argelia, Armenia, Azerbaiyán, Bahréin, Belarús, Benín, Bosnia y Herzegovina, Territorio Británico del Océano Índico, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, Congo, Congo (RDC), Yibuti, Egipto, Guinea Ecuatorial, Eritrea, Polinesia Francesa, Gabón, Gambia, Georgia, Guinea, Guinea-Bissau, Irak, Israel, Jordania, Kazajistán, Kosovo, Kuwait, Kirguistán, Líbano, Lesoto, Liberia, Libia, Macedonia (ex-República Yugoslava de Macedonia), Madagascar, Malawi, Mali, Mauritania, Mayotte, Moldova, Mongolia, Montenegro, Marruecos, Mozambique, Nueva Caledonia, Níger, Omán, Pakistán, Autoridad Palestina, Qatar, Reunión, Arabia Saudí, Serbia, Seychelles, Sierra Leona, Somalia, Sudáfrica, Suazilandia, Tayikistán, Togo, Túnez, Turquía, Turkmenistán, Ucrania, Emiratos Árabes Unidos, Uzbekistán, Yemen, Zimbabue |
+| Angola, Botsuana, Cabo Verde, Camerún, Côte d'Ivoire, Etiopía, Ghana, Kenia, Mauricio, Namibia, Nigeria, Ruanda, Senegal, Tanzania, Uganda, Zambia |
+| Samoa Americana, Bangladesh, Bután, Brunéi Darussalam, Camboya, Isla Christmas, Islas Cocos, Islas Cook, Guam, Islas Heard y McDonald, RAE de Hong Kong, Indonesia, Kiribati, Laos, RAE de Macao, Malasia, Maldivas, Islas Marshall Micronesia, Myanmar, Nauru, Nepal, Niue, Isla Norfolk, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Filipinas, Islas Pitcairn, Samoa, Singapur, Islas Salomón, Sri Lanka, Tailandia, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis y Futuna |
 
+## <a name="billing-currencies-by-country"></a>Monedas de facturación por país
+
+La ubicación geográfica determina la moneda en la que se factura como se muestra en la siguiente tabla. Ten en cuenta que, debido a impuestos e implicaciones legales, si quieres usar una moneda de facturación diferente, deberás crear un nuevo inquilino y especificar dicha moneda. 
+
+| Moneda | País |
+| ---- | ---- |
+| USD | Albania y San Eustaquio, Anguila, Antártida, Antigua y Barbuda, Argentina, Armenia, Aruba, Azerbaiyán, Bahamas, Bahréin, Bangladesh, Barbados, Belarús, Belice, Benín, Bermudas, Bolivia, Bonaire, Brasil, Territorio Británico del Océano Índico, Brunéi, Burundi, Camerún, Islas Caimán, República Centroafricana, Chile, Colombia, Comoras, Costa Rica, Curazao, República Dominicana, Ecuador, Egipto, El Salvador, Guinea Ecuatorial, Eritrea, Guayana Francesa, Polinesia Francesa, Georgia, Ghana, Guatemala, Guinea-Bissau, Honduras, RAE de Hong Kong, Indonesia, Irak, Israel, Jamaica, Kazajistán, Kenia, Kuwait, Kirguistán, Líbano, Lesoto, RAE de Macao, Madagascar, Malawi, Malasia, Mali, Mauritania, Mauricio, Mayotte, México, Marruecos, Namibia, Nueva Caledonia, Nicaragua, Nigeria, Omán, Pakistán, Panamá, Paraguay, Perú, Filipinas, Puerto Rico, Qatar, Reunión, Ruanda, Saba, Santa Lucía, San Martín, San Vicente y las Granadinas, Arabia Saudí, Serbia, Seychelles, Sierra Leona, Singapur, Sint Maarten, Somalia, Sudáfrica, Sri Lanka, Surinam, Suazilandia, Tanzania, Tailandia, Timor-Leste, Togo, Trinidad y Tobago, Túnez, Turquía, Islas Turcas y Caicos, Islas Vírgenes de EE. UU., Ucrania, Emiratos Árabes Unidos, Estados Unidos, Uruguay, Venezuela, Vietnam, Yemen. | 
+| TWD | Taiwán |
+| SEK | Suecia |
+| INR | India |
+| RUB | Rusia |
+| NZD | Nueva Zelanda, Vanuatu |
+| NOK | Jan Mayen, Noruega, Svalbard |
+| KRW | Corea |
+| JPY | Japón |
+| GBP | Isla de Man, Jersey, Reino Unido |
+| EUR | Andorra, Austria, Bélgica, Isla Bouvet, Croacia, República Checa, Estonia, Islas Feroe, Finlandia, Francia, Alemania, Grecia, Hungría, Islandia, Irlanda, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo/Bélgica, Países Bajos, Polonia, Portugal, Rumanía, San Marino, Eslovaquia, Eslovenia, España |
+| DKK | Dinamarca |
+| CHF | Suiza |
+| CAD | Canadá |
+| AUD | Australia, Isla Christmas, Islas Cocos, Islas Cook, Fiyi, Isla Heard y McDonald, Kiribati, Islas Marshall, Nauru, Niue, Isla Norfolk, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Islas Pitcairn, Islas Salomón, Tokelau, Tonga, Tuvalu, Wallis y Futuna. |
 
 
 

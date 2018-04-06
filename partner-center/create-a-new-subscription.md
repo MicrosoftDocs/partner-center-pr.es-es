@@ -1,16 +1,16 @@
 ---
-title: "Crear una suscripción nueva | Centro de partners"
-description: "Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo."
+title: Crear, suspender o cancelar suscripciones de clientes | Centro de partners
+description: Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>Crear una suscripción nueva
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
 **Se aplica a**
 
@@ -42,18 +42,23 @@ Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Pa
 
 7.  En la página de edición también puedes cambiar la cantidad de licencias o suspender la suscripción.
 
+## <a name="suspend-or-cancel-a-subscription"></a>Suspender o cancelar una suscripción
 
-**Permitir a los clientes administrar sus suscripciones de Azure**
+Los partners pueden suspender o cancelar una suscripción si el cliente lo solicita, o en casos de impago o fraude.
 
-Después de crear una suscripción de Microsoft Azure para un cliente, puedes permitirles administrar la suscripción. Para ello, debes iniciar sesión en el Portal de administración de Microsoft Azure del cliente. 
+Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podrán iniciar sesión ni acceder a los servicios. Los administradores aún pueden iniciar sesión y acceder a los datos.
 
-1.  Para abrir el Azure Portal del cliente, expande el listado del cliente en tu lista de clientes o selecciona el nombre del cliente y, después, selecciona **Portal de administración de Microsoft Azure**.
-    
- >**Nota** <br> Si se te solicita iniciar sesión en Azure Portal, puede que no tengas privilegios administrativos delegados. Selecciona **Solicitar una relación** para invitar al cliente a identificarte como su asociado de registro. Una vez que el cliente acepte tu invitación, se te conceden automáticamente privilegios administrativos delegados. 
+**Suspender una suscripción**
 
-2.  En el Azure Portal, abre la lista de suscripciones del cliente y selecciona la suscripción de Azure del cliente.
+1.  Desde el menú **Panel**, selecciona **Clientes** y elige un cliente de la lista.
+2.  Selecciona la suscripción que deseas administrar.
+3.  En la sección **Estado**, elige **Suspendido**. A continuación, selecciona **Enviar** para enviar los cambios.
+4.  Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).
 
-3.  Asigna un rol a cualquiera de los usuarios del cliente para que pueda crear y administrar recursos con su suscripción.
+Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Suspendida** indica la fecha en que la suscripción expiraría automáticamente si no se vuelve a activar. 
+
+
+
 
  
 

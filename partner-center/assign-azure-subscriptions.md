@@ -1,13 +1,13 @@
 ---
 title: Asignar suscripciones de Azure en el Centro de partners | Centro de partners
-description: Ahora, puedes asignar suscripciones de Azure a tus clientes en el Centro de partners.
+description: Ahora puedes asignar suscripciones de Azure a los clientes en el Centro de partners. También puedes permitirles que administren las suscripciones por sí mismos.
 author: Labrenne
-keywords: "Azure, suscripción de Azure, suscripción, suscripciones, asignar suscripción"
-ms.openlocfilehash: 3843c3146eefe5c54c763a4b136b9c52367546c5
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
+keywords: Azure, suscripción de Azure, suscripción, suscripciones, asignar suscripción, administrar suscripción de azure
+ms.openlocfilehash: 718ad562fe62e84621d40d289027b71ec7928069
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 03/01/2018
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Asignar suscripciones de Azure en el Centro de partners
 
@@ -34,5 +34,17 @@ El aprovisionamiento de Azure es como el aprovisionamiento de suscripciones basa
 7. Selecciona **Agregar** para agregar un usuario a la suscripción. 
 
 8. Después de agregar el usuario a la suscripción, puedes asignar al usuario una función y la cuenta específica a la que el usuario tendrá acceso. 
+
+**Permitir a los clientes administrar sus suscripciones de Azure**
+
+Después de crear una suscripción de Microsoft Azure para un cliente, puedes permitirles administrar la suscripción. Para ello, debes iniciar sesión en el Portal de administración de Microsoft Azure del cliente. 
+
+1.  Para abrir el Azure Portal del cliente, expande el listado del cliente en tu lista de clientes o selecciona el nombre del cliente y, después, selecciona **Portal de administración de Microsoft Azure**.
+    
+ >**Nota** <br> Si se te solicita iniciar sesión en Azure Portal, puede que no tengas privilegios administrativos delegados. Selecciona **Solicitar una relación** para invitar al cliente a identificarte como su asociado de registro. Una vez que el cliente acepte tu invitación, se te conceden automáticamente privilegios administrativos delegados. 
+
+2.  En el Azure Portal, abre la lista de suscripciones del cliente y selecciona la suscripción de Azure del cliente.
+
+3.  Asigna un rol a cualquiera de los usuarios del cliente para que pueda crear y administrar recursos con su suscripción.
 
 

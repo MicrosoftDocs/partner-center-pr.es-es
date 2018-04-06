@@ -1,14 +1,14 @@
 ---
-title: "Escenarios comunes de facturación | Centro de partners"
-description: "En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de licencias de una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se verán afectadas de forma diferente."
+title: Escenarios comunes de facturación | Centro de partners
+description: En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de licencias de una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se verán afectadas de forma diferente.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
@@ -42,8 +42,6 @@ Solo se te facturarán los servicios que usaste en el período de facturación a
 **Facturación:** las suscripciones basadas en licencia se facturan por adelantado el día del aniversario de la suscripción.
 
 **Día de aniversario:** las suscripciones con facturación mensual se alinean con la fecha de facturación de partner y las suscripciones con facturación anual se alinean con la fecha de compra.
-
-**Periodo gratuito:** las suscripciones con facturación mensual reciben un período gratuito desde la fecha de compra hasta la próxima fecha de facturación del partner.
 
 **Plazo:** todas las suscripciones basadas en licencia tienen un plazo de pago de 12meses. El plazo pagado comienza en la fecha de compra para suscripciones de facturación anual y en la fecha de facturación siguiente a la fecha de compra para suscripciones de facturación mensual.
 

@@ -1,13 +1,13 @@
 ---
-title: "Conceptos básicos sobre facturación | Centro de partners"
+title: Conceptos básicos sobre facturación | Centro de partners
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -59,7 +59,6 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 <tr class="odd">
 <td>Ajustes, créditos y cancelaciones</td>
 <td><ul>
-<li>No se permiten créditos para cuentas de prueba y pruebas de integración. Para evitar cargos de suscripción o cargos por anulación anticipada al realizar pruebas, puedes cancelar la suscripción durante el "período gratuito". Eres responsable de todos los cargos por uso de consumo de los servicios de Azure.</li>
 <li>Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación después de la aplicación del crédito o ajuste.</li>
 </ul></td>
 </tr>
@@ -78,7 +77,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 
  
 
-## <a name="license-based-billing"></a>Facturación basada en licencias
+## <a name="license-based-billing"></a>Facturación basada en licencia
 
 
 
@@ -89,15 +88,6 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Incentivo de hasta un mes gratuito</td>
-<td><ul>
-<li>Las nuevas suscripciones con facturación mensual seguirán recibiendo un período gratuito y se alinearán con la fecha de facturación del partner.</li>
-<LI> Las suscripciones con facturación anual no ofrecerán un período gratuito y se alinean con la fecha de compra. Los partners seguirán recibiendo su factura y los archivos de conciliación en su fecha de facturación mensual, que contendrán la actividad de facturación de suscripciones mensuales y anuales.
-<li>Todas las suscripciones se renuevan automáticamente por un período de 12 meses, con 12 gastos anticipados mensuales, si la suscripción no se cancela según los contratos adecuados.</li>
-<li>El período gratuito no se aplica a los servicios basados en uso.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Reglas de facturación</td>
 <td><ul>
 <li>Las suscripciones son anuales y se renuevan automáticamente.</li>
@@ -107,7 +97,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 <li>Los pagos se facturarán por los puestos vendidos (no los puestos aprovisionados).</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Ajustes, créditos y cancelaciones</td>
 <td><ul>
 <li>Actualmente, no se cobran tarifas por anulación anticipada debido a la cancelación de servicios basados en licencias.</li>
@@ -133,7 +123,6 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 <tr class="odd">
 <td>Reglas de facturación</td>
 <td><ul>
-<li>La facturación comienza en la fecha de inicio de la suscripción. No hay ningún "período gratuito" para la facturación basada en uso.</li>
 <li>Las suscripciones son mensuales y se renuevan automáticamente según las nuevas tarifas de servicio de uso medido. La facturación se hace mensualmente por período vencido, en función del uso.</li>
 <li>Las tarifas de servicio de uso medido pueden cambiar durante el ciclo de facturación.
 <ul>

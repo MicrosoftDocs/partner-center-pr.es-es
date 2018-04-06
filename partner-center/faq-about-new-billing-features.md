@@ -1,13 +1,13 @@
 ---
-title: "Preguntas frecuentes sobre las nuevas características de facturación | Centro de partners"
+title: Preguntas frecuentes sobre las nuevas características de facturación | Centro de partners
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
+ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
-ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
+ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
+ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 03/15/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -87,11 +87,11 @@ Secciones:
 
 -   **R:** Para sacar partido de la facturación anual hay algunos cambios necesarios en las API. Encontrarás más información en los siguientes artículos:
 
-    - https://partnercenter.microsoft.com/es-es/partner/developer
+    - https://partnercenter.microsoft.com/en-us/partner/developer
 
-    - https://msdn.microsoft.com/es-es/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
-    - Código de muestra: https://msdn.microsoft.com/es-es/library/partnercenter/mt634667.aspx 
+    - Código de muestra: https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
 
 <a href="" id="placingyourorder"></a>**Cómo realizar un pedido y la facturación**
 
@@ -103,11 +103,11 @@ Secciones:
 
 -   **R:** Al agregar una suscripción nueva, se te pedirá que selecciones una frecuencia de facturación. Puedes elegir la opción de facturación anual en este momento. Una vez que se selecciona la facturación anual se mostrarán todas las ofertas disponibles.
 
-**P: ** ¿Si elijo facturación anual cuando se me facturará?    
+**P:** Si elijo facturación anual, ¿cuándo se me facturará?    
 
--   **R:** Se facturará en la siguiente fecha de facturación. Por ejemplo, si la fecha de facturación es el 1 de febrero, siempre se te facturará el 1 de febrero. Por lo tanto, si compras una suscripción facturada anualmente el 29 de octubre de 2017 o el 15 de enero de 2018, se te facturará por la suscripción anual del 1 de febrero de 2018, en ambos casos. 
+-   **R:** Se te facturará en la siguiente fecha de facturación. Por ejemplo, si la fecha de facturación es el 1, y compras una suscripción con facturación anual el 29 de octubre de 2017, se te facturará el 1 de noviembre de 2017. Suponiendo que no hagas ningún cambio en la licencia, se te facturará de nuevo el 1 de noviembre de 2018. Si haces un cambio en la licencia, recibirás un crédito y una renovación en la próxima fecha de facturación. 
 
-**P:** ¿Puedo dividir una suscripción para que una parte se facture mensualmente y la otra anualmente?  
+**P:** ¿Puedo dividir una suscripción para que una parte se facture mensualmente, y la otra, anualmente?  
 
 -   **R:** No. Toda la suscripción debe tener la misma frecuencia de facturación. Toda la suscripción debe tener una facturación mensual o anual.
 
@@ -268,158 +268,158 @@ Secciones:
 
 
 
-## <a href="" id="freetrialsfaq"></a>Preguntas frecuentes sobre evaluaciones gratuitas
+## <a href="" id="freetrialsfaq"></a>Preguntas frecuentes de pruebas gratuitas
 
-**P:** ¿Qué son evaluaciones gratuitas?
+**P1:** ¿Qué son las pruebas gratuitas?
 
--   **R:** Puedes ofrecer a tus clientes una evaluación gratuita de 30 días en determinados productos. Esto permite a los clientes evaluar el producto antes de comprarlo. Hay evaluaciones disponibles para los siguientes productos: 
+-   **R:** Puedes ofrecer a tus clientes una prueba gratuita de 30 días para ciertos productos. Esto permite a los clientes evaluar el producto antes de comprarlo. Hay pruebas gratuitas disponibles para los siguientes productos: 
 
-    - Office 365 Empresa Premium  
-    - Office 365 E3  
-    - Office 365 E5 sin PSTN  
-    - Office 365 E5 sin PSTN  
-    - Enterprise Mobility & Security E5  
-    - Plan Dynamics 365 Customer Engagement 1  
-    - Dynamics 365 for Financials  
+    - Office 365 Empresa Premium (a partir del 17 de octubre de 2017)
+    - Office 365 E3 (a partir del 17 de octubre de 2017)
+    - Office 365 E5 con RTC (a partir del 17 de octubre de 2017)
+    - Office 365 E5 sin RTC (a partir del 17 de octubre de 2017)
+    - Enterprise Mobility + Security E5 (a partir del 17 de octubre de 2017)
+    - Dynamics 365 Customer Engagement Plan 1 (a partir del 17 de octubre de 2017)
+    - Dynamics 365 for Financials (a partir del 17 de octubre de 2017)
+    - Microsoft 365 Empresa (a partir del 1 de marzo de 2018)
     
-**P:** ¿Se elimina el período gratuito con la entrega de las evaluaciones gratuitas?
-
--   **R:** No, las suscripciones con facturación mensual seguirán teniendo un período gratuito. Sin embargo, no habrá ningún período gratuito para la facturación anual.
-
-**P:** La alineación de facturación se ha retrasado hasta el primer trimestre de CY18. ¿Cómo afecta esto al período gratuito y a la facturación en general?
-
--   **R:** Las nuevas suscripciones con facturación mensual seguirán recibiendo un período gratuito y se alinean con la fecha de facturación del partner. Las suscripciones con facturación anual no ofrecerán un período gratuito y se alinean con la fecha de compra. Los partners seguirán recibiendo su factura y los archivos de conciliación en su fecha de facturación mensual, que contendrán la actividad de facturación de suscripciones mensuales y anuales.
-
-**P:¿** ¿Cuándo se eliminará el período gratuito de las suscripciones con frecuencia de facturación mensual?
-
--   **A:** CY18 Q1.
-
-**P: ¿** ¿Son la facturación anual y las evaluaciones gratuitas diferentes en la nube soberana frente a la nube pública?
+**P2: ¿** ¿Son la facturación anual y las pruebas gratuitas diferentes en la nube soberana frente a la nube pública?
 
 -   **R:** No. Son iguales. La única diferencia serán las SKU de prueba que están disponibles en el momento de inicio.
 
-**P:** ¿Cuándo esto estará disponible para las SKU enumeradas anteriormente?
+**P3:** ¿Quién puede participar?
 
--   **A:** 17 de octubre de 2017.
+-   **R:** Todos los partners pueden participar. Sin embargo, actualmente no está disponible en China. 
 
-**P:** ¿Quién puede participar?
-
--   **R:** Todos los partners pueden participar. Sin embargo, no está disponible actualmente en China. Las evaluaciones gratuitas estarán disponibles para los clientes y partners chinos antes de finales de 2017. 
-
-**P:** ¿Qué acciones debo realizar para sacar partido de estas evaluaciones gratuitas?
+**P4:** ¿Qué debo hacer para aprovechar estas pruebas gratuitas?
 
 -   **R:** Considera cómo la evaluación gratuita puede incorporarse en tu ritmo de ventas y el impacto que tendrá en tus procesos internos. También puede ser necesario modificar las API para incluir la conversión de una evaluación gratuita a una suscripción de pago. Hay especificaciones técnicas detalladas para cambios de API en la vista Anuncios del Centro de partners.
 
-**P:** ¿Veré la evaluación gratuita en mi factura y el archivo de conciliación?
+**P5:** ¿Veré la prueba gratuita en mi factura y el archivo de conciliación?
 
 -   **R:** No, las evaluaciones gratuitas no aparecerán en tu factura ni en el archivo de conciliación basado en licencia. Aparecerá en tu factura y en el archivo de conciliación basada en licencia después de convertir una evaluación de prueba en una suscripción de pago. La suscripción convertida aparecerá en la factura y en el archivo de conciliación basada en licencia de la misma forma que en cualquier otra suscripción nueva.
 
-**P:** ¿Las evaluaciones de prueba afectan a los incentivos?
+**P6:** ¿Afectan las pruebas gratuitas a los incentivos?
 
--   **R:** No. La evaluación gratuita no tiene ningún efecto en los incentivos.
+-   **R:** No. La prueba gratuita no tiene ningún efecto en los incentivos.
 
-**P:** ¿Estarán disponibles las evaluaciones gratuitas para los demás productos de Office y CSP adicionales en el futuro?
+**P7:** ¿Estarán disponibles las pruebas gratuitas para productos de Office adicionales en el futuro?
 
--   **R:** No lo sabemos aún. Proporcionamos evaluaciones gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de evaluación gratuita en el futuro.
+-   **R:** Proporcionamos pruebas gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de prueba gratuita en el futuro.
 
-**P:** ¿Puede un cliente tener más de una evaluación gratuita?
+**P8:** ¿Puede un cliente tener más de una prueba gratuita?
 
--   **R:** Cada cliente tiene derecho a una evaluación gratuita por oferta disponible.
+-   **R:** Cada cliente tiene derecho a una prueba gratuita por oferta disponible.
 
-**P:** ¿Hay límites para una evaluación gratuita?
+**P9:** ¿Hay límites para una prueba gratuita?
 
--   **R:** Sí. La evaluación gratuita es para un máximo de 25 licencias. El número de licencias no se puede cambiar durante el período de prueba. Una vez que la evaluación se convierte en una suscripción de pago, puedes agregar licencias adicionales a la suscripción.
+-   **R:** Sí. La evaluación gratuita es para un máximo de 25 licencias. El número de licencias no se puede cambiar durante el período de prueba. Una vez que la prueba se convierte en una suscripción de pago, puedes agregar licencias adicionales a la suscripción.
 
-**P:** ¿Una evaluación gratuita se convierte automáticamente en una suscripción de pago?
+**P10:** Una prueba gratuita, ¿se convierte automáticamente en una suscripción de pago?
 
 -   **R:** No. Tendrás que convertir tú mismo la suscripción en el Centro de partners o a través de la API.
 
-**P:** ¿Pueden usarse las evaluaciones gratuitas en suscripciones facturadas tanto mensualmente como anualmente?
+**P11:** ¿Pueden usarse las pruebas gratuitas en suscripciones facturadas tanto mensual como anualmente?
 
--   **R:** Sí. Puedes elegir la frecuencia de facturación al convertir la evaluación gratuita en una suscripción de pago.
+-   **R:** Sí. Puedes elegir la frecuencia de facturación al convertir la prueba en una suscripción de pago.
 
-**P:** ¿La fecha de inicio de la suscripción se basará en la fecha de inicio de la evaluación gratuita o en la fecha en que se convierte en una suscripción de pago? 
+**P12:** La fecha de inicio de la suscripción, ¿se basará en la fecha de inicio de la prueba gratuita o en la fecha en que se convierte en una suscripción de pago? 
 
 -   **R:** La fecha de inicio se basa en la fecha del cambio. Si la evaluación gratuita se convierte en una oferta de pago con facturación anual, la fecha de renovación de suscripción será de doce meses desde la fecha de conversión. R: Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de suscripción será de doce meses desde la fecha de facturación tras la fecha de conversión.
 
-**P:** ¿Podemos agregar o quitar puestos durante la evaluación gratuita?
+**P13:** ¿Podemos agregar o quitar puestos durante la prueba gratuita?
 
--   **R:** No. Las evaluaciones gratuitas tendrán 25 licencias de manera predeterminada y no se pueden actualizar.
+-   **R:** No. Las pruebas gratuitas tendrán 25 licencias de manera predeterminada y no se pueden actualizar.
 
-**P:** ¿Hay pruebas para ofertas de complementos como ATP y RTC?
+**P14:** ¿Hay pruebas para ofertas de complementos, como ATP y RTC?
 
--   **R:** No hay evaluaciones gratuitas para ninguna oferta de complementos.
+-   **R:** En este momento, no hay pruebas gratuitas para ofertas de complementos.
 
-**P:** ¿Puedo ofrecer una evaluación gratuita de una oferta que ya posee un cliente?
+**P15:** ¿Puedo ofrecer una prueba gratuita de una oferta que ya posee un cliente?
 
--   **R:** No. Si la oferta ya pertenece al cliente no puede usarse para una evaluación gratuita.
+-   **R:** No. Si la oferta ya pertenece al cliente, no puede usarse para una prueba gratuita.
 
-**P:** ¿Podré ver todas mis ofertas de prueba pendientes?
+**P16:** ¿Podré ver todas mis ofertas de prueba pendientes?
 
--   **R:** Sí. La página de cliente muestra todas las suscripciones. Aquí se incluyen la suscripción de evaluación gratuita y la suscripción de pago.
+-   **R:** Sí. La página de cliente muestra todas las suscripciones. Esto incluye las suscripciones de pruebas gratuitas y las suscripciones de pago.
 
-**P:** ¿Se me notificará sobre evaluaciones gratuitas que van a caducar?
+**P17:** ¿Se me notificará sobre pruebas gratuitas que van a caducar?
 
 -   **R:** No. Puedes realizar un seguimiento de las fechas de caducidad próximas desde la vista del cliente en el Centro de partners, o puedes consultar la API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan a la fecha de caducidad.
 
-**P:** ¿Si un cliente ha tenido una evaluación gratuita para una oferta también puede usar otra evaluación para otra oferta? 
+**P18:** Si un cliente ha tenido una prueba gratuita para una oferta también, ¿puede usar otra prueba para otra oferta? 
 
--   **R:** Sí. Los clientes pueden registrarse para una versión de evaluación por oferta. Por ejemplo, pueden obtener una evaluación gratuita para Office 365 Empresa Premium y una evaluación gratuita para Office 365 E3.
+-   **R:** Sí. Los clientes pueden registrarse para una versión de evaluación por oferta. Por ejemplo, pueden obtener una prueba gratuita para Office 365 Empresa Premium y una prueba gratuita para Office 365 E3.
 
-**P:** ¿Qué ocurre cuando finaliza el período de evaluación? ¿Mi cliente o yo recibiremos una notificación? ¿Qué notificaciones aparecen al intentar iniciar sesión en una versión de evaluación que ha caducado?
+**P19:** ¿Qué ocurre cuando finaliza el período de prueba? ¿Mi cliente o yo recibiremos una notificación? ¿Qué notificaciones aparecen al intentar iniciar sesión en una versión de evaluación que ha caducado?
 
--   **R:** Una vez que ha caducado una evaluación, un cliente que intenta iniciar sesión en esa versión de evaluación verá un mensaje que indica que ha terminado el período de evaluación. No habrá notificaciones para indicar que una evaluación caduca pero como partner puedes realizar un seguimiento a través de la vista de clientes o a través de consultas en la API.
+-   **R:** Una vez que ha caducado una evaluación, un cliente que intenta iniciar sesión en esa versión de evaluación verá un mensaje que indica que ha terminado el período de evaluación. No habrá notificaciones para indicar que una prueba caduca, pero, como partner, puedes realizar un seguimiento a través de la vista de clientes o a través de consultas en la API.
 
-**P:** ¿Se puede extender una evaluación?
+**P20:** ¿Se puede extender una prueba?
 
--   **R:** No. La versión de evaluación debe convertirse en una versión de pago o caducará después de 30 días.
+-   **R:** No. La versión de prueba debe convertirse en una versión de pago o caducará después de 30 días.
 
-**P:** Cuando una versión de evaluación caduca, ¿se puede acceder a la información de la versión de evaluación?
+**P21:** Cuando una versión de prueba caduca, ¿se puede acceder a la información de la versión de prueba?
 
--   **R:** Sí. Los datos se almacenan en línea con estándares de retención de datos. Cuando hayas comprado una nueva suscripción con los mismos planes de servicio, se pueden acceder a los datos desde la suscripción recientemente activada.
+-   **R:** Sí. Los datos se almacenan en línea con estándares de retención de datos. Cuando hayas comprado una nueva suscripción con los mismos planes de servicio, se puede acceder a los datos del cliente desde la suscripción recientemente activada.
 
-**P:** ¿Las evaluaciones gratuitas están disponibles para ofertas de gobierno y educación?
+**P22:** ¿Hay pruebas gratuitas disponibles para ofertas de Gobierno y Educación?
 
--   **R:** En este momento no hay evaluaciones gratuitas para ofertas de gobierno y educación.
+-   **R:** En este momento, no hay pruebas gratuitas para ofertas de Gobierno y Educación.
 
-**P:** ¿Pueden convertirse las evaluaciones gratuitas de clientes del programa Proveedor de soluciones en la nube (CSP) en otras suscripciones de programa, tales como EA, Open o MOSP? 
+**P23:** ¿Pueden convertirse las pruebas gratuitas de clientes del programa Proveedor de soluciones en la nube (CSP) en otros inquilinos de programa, como EA, Open o MOSP? 
 
--   **R:** No. No se pueden transferir las suscripciones de CSP a otro programa.
+-   **R:** No. Las suscripciones no pueden transferirse de CSP a otro programa.
 
-**P:** ¿Cómo puedo obtener soporte técnico en evaluaciones gratuitas? 
+**P24:** ¿Cómo puedo obtener soporte técnico en pruebas gratuitas? 
 
 -   **R:** Envía una solicitud de servicio a través del Centro de partners.
 
 ## <a href="" id="billingalignmentfaq"></a>Alineación de facturación: finalización del período gratuito
 
-El 20 de febrero, el Programa CSP implementará la "alineación de fechas de facturación" para las nuevas suscripciones con una frecuencia de facturación mensual. Esta "alineación de fechas de facturación" proporcionará a los partners más flexibilidad y capacidad de previsión para las ventas y facturación, así como para el aprovisionamiento y la administración de planes de clientes. Las suscripciones adquiridas antes del 20 de febrero obtienen un período gratuito a partir de la fecha de la compra hasta la fecha de facturación del partner. Las suscripciones adquiridas después del 20 de febrero ya no recibirán un período gratuito. El período pagado de 12 meses comenzará (alineará) en la fecha de la compra frente a la fecha de facturación del partner. Los partners ya no verán una "línea de facturación de 0$" que representa el período gratuito en el archivo de conciliación. No hay ningún cambio en las API, facturación o incentivos.  Los partners deben informar a sus equipos de ventas y de contabilidad de esta nueva lógica de facturación y asegurarse de que las operaciones se ajustan según sea necesario.  
+A partir del 21 de febrero de 2018, el programa Proveedor de soluciones en la nube (CSP) comenzará a implementar la "alineación de fechas de facturación" para las nuevas suscripciones con frecuencia de facturación mensual. Esta "alineación de fechas de facturación" proporcionará a los partners más flexibilidad y capacidad de previsión para las ventas y facturación, así como para el aprovisionamiento y la administración de planes de clientes. 
 
-Antes de implementar la alineación de fechas de facturación, hemos facturado y realizado el cargo en la fecha de aniversario de facturación del partner, la fecha en la que el partner se registró en el programa CSP; no en la fecha de aniversario de suscripción del cliente, la fecha en que el cliente adquirió su suscripción. Después del 20 de febrero, los partners recibirán el cargo en su fecha de aniversario de suscripción, lo que elimina este período gratuito.  Los partners seguirán recibiendo facturas en su fecha de aniversario de facturación, pero la fecha de vigencia de la factura será la fecha de aniversario de suscripción del cliente. 
+**ACTUALIZACIÓN DEL 23 DE FEBRERO:** Anteriormente habíamos anunciado una fecha de implementación del 20 de febrero, pero nuestra implementación real se ha retrasado ligeramente y se ha escalonado por categoría de producto.  Revisa el gráfico a continuación para conocer la fecha de implementación por categoría de producto. 
 
-Las suscripciones que se encuentran en el período gratuito el 20 de febrero no recibirán ningún cargo entre la fecha de compra y la fecha de facturación del partner. Además, no se realizará el cargo durante el primer mes del período de pago de 12 meses. Si usas un archivo de conciliación para realizar la verificación, ten en cuenta que el cargo de este primer mes dejará de estar visible en el archivo de conciliación.  
+|**Categoría de producto**   |**Día de implementación**   |
+|-----------------|:-------------|
+|Office  |21 de febrero   |
+|Windows, Minecraft   |22 de febrero   |
+|Office 365 China   |23 de febrero   |
+|Dynamics/Intune   |23 de febrero   |
 
-No hay ningún cambio en las API, facturación o incentivos como resultado de este cambio de lógica de facturación. Informa a los equipos de ventas y de contabilidad de esta nueva lógica de facturación y asegúrate de que ajustan las operaciones según sea necesario. Consulta las siguientes Preguntas frecuentes con escenarios de facturación detallados.  
+Las suscripciones adquiridas antes de la fecha de implementación (véase el gráfico anterior) se benefician de un período gratuito desde la fecha de compra hasta la fecha de facturación del partner. Las suscripciones adquiridas después de la fecha de implementación ya no recibirán un período gratuito. El período pagado de 12 meses comenzará (se alineará) en la fecha de la compra, en lugar de con la facturación del partner. Los partners ya no verán una "línea de facturación de 0$" que representa el período gratuito en el archivo de conciliación. No hay ningún cambio en las API, facturación o incentivos.  Los partners deben informar a sus equipos de ventas y de contabilidad de esta nueva lógica de facturación y asegurarse de que las operaciones se ajustan según sea necesario.  
 
+Antes de implementar la alineación de fechas de facturación, hemos facturado y realizado el cargo en la fecha de aniversario de facturación del partner, la fecha en la que el partner se registró en el programa CSP; no en la fecha de aniversario de suscripción del cliente, la fecha en que el cliente adquirió su suscripción. Después de la fecha de implementación, los partners recibirán el cargo en su fecha de aniversario de suscripción, lo que elimina este período gratuito.  Los partners seguirán recibiendo facturas en su fecha de aniversario de facturación, pero la fecha de vigencia de la factura será la fecha de aniversario de suscripción del cliente. 
 
-**P1:** ¿Qué está cambiando con la fecha de facturación?
+Las suscripciones que se encuentran en el período gratuito en la fecha de implementación no recibirán ningún cargo entre la fecha de compra y la fecha de facturación del partner. Además, no se realizará el cargo durante el primer mes del período de pago de 12 meses. Si usas un archivo de conciliación para realizar la verificación, ten en cuenta que el cargo de este primer mes dejará de estar visible en el archivo de conciliación.  
+
+**P1:** ¿Qué cambia con la fecha de facturación?
 
 -   **R:** Las suscripciones basadas en licencia ya no tendrán un período gratuito. Actualmente, existe un período gratuito desde la fecha de compra hasta la fecha de facturación del partner.
 
 **P2:** ¿Cuándo se eliminará el período gratuito?
 
-- **R:** A partir del 20 de febrero de 2018, las nuevas suscripciones no tendrán un período gratuito.
+- **R:** A partir de la fecha de implementación que se enumeran en el cuadro siguiente, las nuevas suscripciones no recibirán un período gratuito.
 
-**P3:** ¿Cuál será el impacto de las suscripciones en el período gratuito el 20 de febrero?
+|**Categoría de producto**   |**Día de implementación**   |
+|-----------------|:-------------|
+|Office  |21 de febrero   |
+|Windows, Minecraft   |22 de febrero   |
+|Office 365 China   |23 de febrero   |
+|Dynamics/Intune   |23 de febrero   |
 
-- **R:** Las suscripciones que están en el período gratuito el 20 de febrero de 2018 seguirán recibiendo un período gratuito desde la fecha de la compra hasta la fecha de facturación del partner. Estas licencias también recibirán un "período gratuito ampliado" y no se realizará el cargo durante el primer mes del período de pago de 12 meses. El "período gratuito ampliado" no se aplicará a licencias agregadas en el primer mes. Si aumentas la cantidad de licencias en el primer mes, se te cobrará por aquellas licencias agregadas en la siguiente factura/conciliación. Si el archivo de conciliación se usa para realizar la verificación, ten en cuenta que puede que el cargo de este primer mes no aparezca en el archivo de conciliación. Consulta los siguientes escenarios para obtener una explicación más detallada.
+**P3:** ¿Cuál será el efecto en las suscripciones que se encuentren en el período gratuito a la fecha de implementación?
+
+- **R:** Las suscripciones que estén en el período gratuito a la fecha de implementación seguirán recibiendo un período gratuito desde la fecha de la compra hasta la fecha de facturación del partner. Estas licencias también recibirán un "período gratuito ampliado" y no se realizará el cargo durante el primer mes del período de pago de 12 meses. El "período gratuito ampliado" no se aplicará a licencias agregadas en el primer mes. Si aumentas la cantidad de licencias en el primer mes, se te cobrará por aquellas licencias agregadas en la siguiente factura/conciliación. Si el archivo de conciliación se usa para realizar la verificación, ten en cuenta que puede que el cargo de este primer mes no aparezca en el archivo de conciliación. Consulta los siguientes escenarios para obtener una explicación más detallada.
 
 **P4:** ¿Cuándo comenzará el período de pago de 12 meses para una nueva suscripción?
 
-- **R:** Actualmente, el período de pago comienza en la fecha de facturación del partner después de la fecha de compra. A partir del 20 de febrero de 2018, el período de pago para las nuevas suscripciones comenzará en la fecha de compra.
+- **R:** Actualmente, el período de pago comienza en la fecha de facturación del partner después de la fecha de compra. A partir de la fecha de implementación, el período de pago para las nuevas suscripciones comenzará en la fecha de compra.
 
 **P5:** ¿Cuándo se renovarán automáticamente las suscripciones?
 
-- **R:** Las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación. Actualmente, esto significa que las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación del partner después de la fecha de compra. A partir del 20 de febrero de 2018, las nuevas suscripciones se renovarán automáticamente 12 meses después de la fecha de compra.
+- **R:** Las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación. Actualmente, esto significa que las suscripciones se renuevan automáticamente 12 meses después de la primera fecha de facturación del partner después de la fecha de compra. A partir de la fecha de implementación, las nuevas suscripciones se renovarán automáticamente 12 meses después de la fecha de compra.
 
 **P6:** ¿Y si adquiero la suscripción el día 29, 30 o 31 del mes?
 
@@ -452,7 +452,7 @@ No hay ningún cambio en las API, facturación o incentivos como resultado de es
 ### <a name="common-scenarios"></a>Escenarios comunes
 
 
-|**Escenarios**   |**Escenario 1: El período gratuito de suscripción finaliza antes del 20 de febrero de 2018**   |**Escenario 2: La suscripción se encuentra en el período gratuito el 20 de febrero de 2018**  | **Escenario 3: La suscripción se adquiere el 20 de febrero de 2018 o en una fecha posterior**   |
+|**Escenarios**   |**Escenario 1: El período gratuito de suscripción termina antes de la fecha de implementación**   |**Escenario 2: La suscripción está dentro del período gratuito a la fecha de implementación**  | **Escenario 3: La suscripción se compró en la fecha de implementación o después**   |
 |----------|:------------|:--------------------|:------------|
 |Fecha de compra |1 de febrero de 2018    | 1 de febrero de 2018    | 1 de junio de 2018     |
 |Fecha de aprovisionamiento | 1 de febrero de 2018   |1 de febrero de 2018   |1 de junio de 2018   |
@@ -486,7 +486,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
 |05/06/2018   |30/06/2018   |-30 $   |1   |30$   |Cuota de cancelación |
 |10/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
 
@@ -525,18 +525,16 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 - Crédito de cancelación de -30$ para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
-- Cargo de 30$ para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo no se prorratea porque la suscripción se suspendió en los primeros 30 días.
-- Crédito de -30$ para el período de servicio comprendido entre el 1 y el 30 de junio. El partner vuelve a activar la suscripción con otra cantidad de licencias, lo que se traduce en un crédito y renovaciones prorrateadas.
-- Renovación prorrateada de 24$ para el período de servicio comprendido entre el 1 y el 24 de junio. El partner tenía 1 licencia durante este período de servicio. Aunque se ha suspendido la suscripción desde el 20 de junio hasta el 24 de junio, el cliente seguirá recibiendo el cobro durante estos días. El precio unitario se calcula como sigue: (precio mensual o número de días en período de servicio total)*número de días en período de servicio prorrateado*número de licencias = (30/30)*24*1 = 24$.
+- Cargo de 30$ para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo de reactivación no se prorratea porque la suscripción se volvió a activar en los primeros 30 días. El cargo también se basa en la cantidad de licencias original de 1.
+- Crédito de -6$ para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo de reactivación solo le cobró por 1 licencia durante el período de servicio del 25 y el 30 de junio, cuando tenía 2 licencias. El crédito de -6$ revierte el cargo incorrecto para el período de servicio del 25 al 30 de junio.
 - Renovación prorrateada de 12$ para el período de servicio comprendido entre el 25 y el 30 de junio. El partner tenía 2 licencias durante este período de servicio. El precio unitario se calcula como (30/30)*6*2= 12$.
 - Cargo de 60$ para el período de servicio comprendido entre el 1 y el 31 de julio.
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
+|20/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación |
 |25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
-|01/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Prorrateo de instancia de ciclo |
-|01/06/2018   |24/06/2018   |24$   |1   |24$   |Prorrateo de instancia de ciclo |
+|25/6/2018   |30/6/2018   |-6$   |1   |-6$   |Prorrateo de instancia de ciclo |
 |25/06/2018   |30/06/2018   |6$   |2   |12$   |Prorrateo de instancia de ciclo |
 |01/07/2018   |31/07/2018   |30 $   |2   |60$   |Tarifa de ciclo |
 
@@ -549,8 +547,8 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar
-|05/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar
+|05/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación
 
 El 10 de julio, el partner vuelve a activar la suscripción. El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
@@ -578,7 +576,7 @@ El 15 de junio el archivo de conciliación contendrá solo las siguientes línea
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 
 El partner suspende la suscripción el 5 de julio pero la vuelve a activar el 15 de julio. El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
@@ -588,7 +586,7 @@ El partner suspende la suscripción el 5 de julio pero la vuelve a activar el 15
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/07/2018   |31/07/2018   |30 $  |1   |30$   |Tarifa de ciclo |
+|01/07/2018   |31/07/2018   |30 $  |1   |30 $   |Tarifa de ciclo |
 |05/07/2018   |31/07/2018   |   -26,14$   |1   |-26,14$|Cuota de cancelación |
 |10/07/2018   |31/07/2018   |-21,30$   |1   |21,30$|Tarifa de activación |
 
@@ -607,7 +605,7 @@ La fecha de facturación del partner es el 15. El 1 de junio el partner adquiere
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 
 El 1 de julio, el día de aniversario de la suscripción, el sistema de facturación de Microsoft reconocerá que la cantidad de licencias se cambió de 1a 2 el 10 de junio. El sistema de facturación generará un crédito y renovaciones prorrateadas para el período de servicio comprendido entre el 1 y el 9 de junio y el 10 y el 30 de junio. 
 
@@ -620,8 +618,8 @@ El archivo de conciliación del 15 de julio contendrá lo siguiente:
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/06/2018   |30/06/2018   |-30 $   |1   |-30$|Prorrateo de instancia de ciclo |
-|01/06/2018   |09/06/2018   |9 $   |1   |9$|Prorrateo de instancia de ciclo |
+|01/06/2018   |30/06/2018   |-30 $   |1   |-30 $|Prorrateo de instancia de ciclo |
+|01/06/2018   |09/06/2018   |9 $   |1   |9 $|Prorrateo de instancia de ciclo |
 |10/06/2018   |30/06/2018   |21 $   |2   |42$|Prorrateo de instancia de ciclo |
 |01/07/2018   |31/07/2018   |30 $   |2   |60$   |Tarifa de ciclo |
 
@@ -638,8 +636,8 @@ El 15 de junio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
-|10/06/2018   |30/06/2018   |3,50USD   |1   |3,50$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
+|10/06/2018   |30/06/2018   |3,50USD   |1   |3,50USD   |Tarifas prorrateadas al comprar |
 
 El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 
@@ -648,8 +646,8 @@ El 15 de julio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|-------|
-|01/07/2018   |31/07/2018   |30 $   |1   |30$   |Tarifa de ciclo |
-|01/07/2018   |31/07/2018   |5 $   |1   |5$   |Tarifa de ciclo |
+|01/07/2018   |31/07/2018   |30 $   |1   |30 $   |Tarifa de ciclo |
+|01/07/2018   |31/07/2018   |5 $   |1   |5 $   |Tarifa de ciclo |
 
 Ten en cuenta que la suscripción de complemento tendrá una fecha de renovación automática de 1 de junio de 2019, que se alinea con la de suscripción base.
 
@@ -663,6 +661,6 @@ El 15 de junio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|01/06/2018   | 30/06/2018   |30 $   |1   |30$  |Tarifas prorrateadas al comprar |
+|01/06/2018   | 30/06/2018   |30 $   |1   |30 $  |Tarifas prorrateadas al comprar |
 
 Ten en cuenta que la suscripción se renovará automáticamente el 1 de junio de 2019.

@@ -1,12 +1,12 @@
 ---
 title: Comprar o renovar Action Pack | Centro de partners
-description: "Aprende a comprar o renovar una suscripción a Microsoft Action Pack."
+description: Aprende a comprar o renovar una suscripción a Microsoft Action Pack.
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Comprar o renovar una suscripción a Microsoft Action Pack
 
@@ -96,6 +96,14 @@ Para cancelar la suscripción a Microsoft Action Pack, debes ponerse en contacto
 
 Para comprobar el estado de la solicitud de servicio, selecciona **Solicitudes de servicio > Solicitudes del Centro de partners**y, a continuación, selecciona **Abrir**. Elige la solicitud de servicio apropiada de la lista.  
 
+## <a name="how-to-get-your-maps-invoice"></a>Cómo obtener la factura de la suscripción a MAP
+
+Para descargar una copia de la factura de suscripción a Microsoft Action Pack, debes seguir los pasos indicados a continuación.
+
+1. Inicia sesión en [partnercenter.microsoft.com](https://partnercenter.microsoft.com). 
+2. Haz clic en Asociación. 
+3. Elegir Ofertas y luego haz clic en Comprado. 
+4. Haz clic en Descargar factura.
  
 ## <a name="next-steps"></a>Pasos siguientes
 
