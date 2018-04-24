@@ -1,13 +1,13 @@
 ---
 title: Multicanal | Centro de partners
-description: "En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar."
+description: En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-La característica multicanal del Centro de partners admite escenarios cuando un cliente quiera contratar un partner para administrar y dar soporte técnico a una suscripción obtenida en otro lugar. El soporte técnico multicanal se aplica cuando el cliente:
+La función multicanal del Panel de partners admite escenarios como cuando un cliente quiera contratar a un partner para administrar y dar soporte técnico a una suscripción obtenida en otro lugar. El soporte técnico multicanal se aplica cuando el cliente:
 
 -   Ya ha adquirido suscripciones directamente de Microsoft o a través de los programas Advisor, Open o EA.
 
@@ -45,7 +45,7 @@ La característica multicanal del Centro de partners admite escenarios cuando un
 </table>
 
 >**Importante**<br>
-Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners. 
+Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners. 
 
 ## <a name="see-also"></a>Consulta también
 

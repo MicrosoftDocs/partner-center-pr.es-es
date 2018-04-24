@@ -1,14 +1,14 @@
 ---
-title: "Agregar licencias o servicios a una suscripción existente | Centro de partners"
-description: "Si el cliente necesita más licencias de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción."
+title: Agregar licencias o servicios a una suscripción existente | Centro de partners
+description: Si el cliente necesita más licencias de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-keywords: "agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente"
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 
@@ -88,7 +88,7 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 1.  Para ver si una suscripción es apta para la actualización, elige el cliente y después abre su lista de suscripciones.
 2.  Si la actualización se puede actualizar, verás un icono informativo justo después del nombre de la suscripción. Mantén el cursor sobre este icono y, después, selecciona **Actualizar ahora**.
 3.  Selecciona la oferta nueva y, después, elige **Enviar**.
-4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el Centro de partners proporciona una lista de las cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el Panel de partners ofrece una lista de las cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

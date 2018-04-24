@@ -3,14 +3,14 @@ title: Cuentas profesionales y Centro de partners | Centro de partners
 description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional.
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
-robots: 
-ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
+# <a name="your-company-work-account-and-the-partner-dashboard"></a>Cuenta profesional de tu empresa y Panel de partners  
 
 **Se aplica a**
 
@@ -18,11 +18,11 @@ ms.lasthandoff: 12/21/2017
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
-Necesitamos vincular una cuenta profesional de tu empresa a tu nueva cuenta de Centro de partners para que los usuarios del inquilino puedan conectarse al Centro de partners con sus nombres de usuario y contraseñas.
+Necesitamos vincular tu cuenta profesional de la empresa a tu nueva cuenta del Panel de partners, para que los usuarios de cuentas puedan iniciar sesión en el Panel de partners con sus nombres de usuario y contraseñas de sus cuentas profesionales.
 
-Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Centro de partners. 
+Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Panel de partners. 
 
->**Nota:** Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Centro de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Centro de partners, piensa en crear una nueva cuenta para solo aquellos usuarios que tendrán que trabajar en el Centro de partners.
+>**Nota** Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Panel de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Panel de partners, piensa en crear una nueva cuenta solo para los usuarios que tendrán que trabajar en el Panel de partners.
 
 Si tu empresa aún no tiene una cuenta profesional, puedes crear una durante el proceso de inscripción. 
 

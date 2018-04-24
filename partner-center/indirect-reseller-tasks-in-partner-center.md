@@ -1,14 +1,14 @@
 ---
-title: "Asociación con los proveedores indirectos en CSP | Centro de partners"
-description: "Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft y que tu revendes a los clientes."
-ms.prod: 
+title: Asociación con los proveedores indirectos en CSP | Panel de partners
+description: Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft y que tu revendes a los clientes.
+ms.prod: ''
 author: MaggiePucciEvans
-keywords: "revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2"
-ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
+ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -22,7 +22,7 @@ Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte té
 -   Ayuda para comercializar tus productos y servicios 
 -   Ayuda para establecer los términos de financiación y crédito
 
-Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) para encontrar uno.
+Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
 
 
 Para obtener más información sobre lo que se requiere para vender en el programa CSP como revendedor indirecto, consulta [Comenzar a trabajar como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
@@ -30,18 +30,18 @@ Para obtener más información sobre lo que se requiere para vender en el progra
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Inscribirse como revendedor indirecto en el programa de Proveedor de soluciones en la nube
 
->**Nota** Si ya estás inscrito en el CSP, es posible que tengas que proporcionar únicamente la información de contacto de la asistencia al cliente para crear una cuenta de revendedor en el Centro de partners. 
+>**Nota** Si ya estás inscrito en el CSP, es posible que tengas que proporcionar únicamente la información de contacto de soporte técnico al cliente para crear una cuenta de distribuidor en el Panel de partners. 
 
 ### <a name="before-you-begin"></a>Antes de comenzar
 
-Si no tienes experiencia alguna con el CSP, deberás inscribirte en el programa como un revendedor indirecto y crear una cuenta en el Centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
+Si no tienes experiencia alguna con el CSP, deberás inscribirte en el programa como distribuidor indirecto y crear una cuenta en el Panel de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
 -   **Credenciales de administrador global para tu cuenta profesional**<br>
-Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [Cuentas profesionales y el Centro de partners](azure-active-directory-tenants-and-partner-center.md).
+Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [Cuentas profesionales y el Panel de partners](azure-active-directory-tenants-and-partner-center.md).
 
 
 -   **El nombre de usuario y la contraseña que uses para iniciar sesión en el sitio del Partner Membership Center**<br>
-Usamos esta información para vincular tu Id. de Microsoft Partner Network (Id. de MPN) con tu nueva cuenta del Centro de partners, para que puedas administrar los beneficios y los datos de tu suscripción en el Centro de partners.
+Usamos esta información para vincular tu id. de Microsoft Partner Network (id. de MPN) con tu nueva cuenta del Panel de partners, para que puedas administrar los beneficios y los datos de tu suscripción en el Panel de partners.
 
 -   **Nombre legal de empresa, dirección, contacto principal y los detalles de soporte técnico de su organización.**<br>
 Necesitamos esta información para confirmar que la organización tiene un perfil establecido con Microsoft y que estás autorizado para actuar en su nombre.
@@ -58,13 +58,13 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
     Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Tras crear tu cuenta profesional, inicia sesión con las credenciales de administrador global de tu nueva cuenta.
 
-4.  Revisa la información sobre cómo asociar tu Id. de Microsoft Partner Network (Id. de MPN) con la nueva cuenta del Centro de partners. Necesitamos vincular el Id. de MPN de tu organización con la nueva cuenta de Centro de partners para que puedas administrar los beneficios e incentivos de la suscripción en el Centro de partners. Selecciona **Iniciar sesión**.
+4.  Revisa la información sobre cómo asociar tu id. de Microsoft Partner Network (id. de MPN) con la nueva cuenta del Panel de partners. Necesitamos vincular el id. de MPN de tu organización con la nueva cuenta del Panel de partners, para que puedas administrar los beneficios e incentivos de la suscripción en el Panel de partners. Selecciona **Iniciar sesión**.
 
-5.  Escribe el nombre de usuario que uses para iniciar sesión en el sitio del Partner Membership Center (PMC). El sitio Partner Membership Center es donde actualmente administras tu cuenta de partner de Microsoft. Iniciar sesión en el Partner Membership Center nos permite recuperar tu Id. de MPN y asociarlo a la nueva cuenta del Centro de partners. Selecciona **Siguiente**. 
+5.  Escribe el nombre de usuario que uses para iniciar sesión en el sitio del Partner Membership Center (PMC). El sitio Partner Membership Center es donde actualmente administras tu cuenta de partner de Microsoft. Iniciar sesión en el Partner Membership Center nos permite recuperar tu id. de MPN y asociarlo a la nueva cuenta del Panel de partners. Selecciona **Siguiente**. 
 
 6.  Escribe la contraseña de tu cuenta del Partner Membership Center y, a continuación, selecciona **Iniciar sesión**.
 
-7.  Selecciona el perfil de organización con el Id. de MPN que esté vinculado a tu incentivos, beneficios de suscripción y competencias para que podamos enviar esta información a tu cuenta del Centro de partners. Selecciona **Continuar**.
+7.  Selecciona el perfil de organización con el id. de MPN que esté vinculado a tus incentivos, beneficios de suscripción y competencias, para que podamos enviar esta información a tu cuenta del Panel de partners. Selecciona **Continuar**.
 
     Si el Id. de MPN que quieres usar no aparece en esta página, selecciona **Cancelar** y vuelve a iniciar con el nombre de usuario y contraseña del perfil de la organización que quieras usar. 
 
@@ -74,50 +74,50 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
     El contacto primario debe ser la persona de tu organización con la que podemos ponernos en contacto para la aplicación (puede ser tú u otra persona de tu organización). Ten en cuenta que no aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en la Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook. 
 
-    >**Importante** Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico a la dirección principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y (2) y que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
+    >**Importante** Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Panel de partners y (2) que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
 
-9.  Cuando tu cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
+9.  Cuando tu cuenta del Panel de partners esté lista para usarse, comprueba que se te haya agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
-    a.  En menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios** y selecciona tu nombre de la lista de usuarios. 
+    a.  En tu **Panel**, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
 
-    b.  Selecciona **Agente de administración** si aún no está seleccionado y a continuación selecciona **Actualización**.   
+    b.  Selecciona tu nombre de la lista de usuarios y, después, selecciona **Agente de administración** si aún no está seleccionado. Selecciona **Actualización**.   
 
 ## <a name="add-a-new-user"></a>Agregar un nuevo usuario
 
-1. En el menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios**.
+1. En tu **Panel**, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.
 
 2. Selecciona **Agregar usuario**.
 
-3. Escribe el nombre completo y la dirección de correo electrónico del usuario.
+3. Introduce el nombre completo y la dirección de correo electrónico específica del usuario.
 
-4. Selecciona el tipo de agente y el tipo de administrador. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección [Asignar permisos de usuario](#assignuserpermissions).
+4. Selecciona el tipo de agente y el tipo de administrador. El acceso al Panel de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las funciones que el usuario necesite para completar tareas específicas. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección [Asignar permisos de usuario](#assignuserpermissions).
 
 5. Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
 
 >**Importante**<br>
-Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
+Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario, ya que no volverás a tener acceso a ella. <br>
 
->El usuario tendrá que iniciar sesión en el Centro de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Centro de partners por primera vez, se le pedirá cambiar la contraseña.        
+>El usuario tendrá que iniciar sesión en el Panel de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Panel de partners por primera vez, se le pedirá cambiar la contraseña.        
 
 ## <a name="assign-user-permissions"></a>Asignar permisos de usuario
 
-El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar tareas específicas. Para obtener información sobre cuál es la mejor opción para asignar roles, consulta [Crear cuentas de usuario y establecer permisos](Create-user-accounts-and-set-permissions.md)
+El acceso al Panel de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista de los usuarios de la organización y mostrar solo las funciones que necesiten para completar tareas específicas. Para obtener información sobre cuál es la mejor opción para asignar roles, consulta [Crear cuentas de usuario y establecer permisos](Create-user-accounts-and-set-permissions.md)
 
 
 ## <a name="connect-with-an-indirect-provider"></a>Ponerse en contacto con un proveedor indirecto
 
 Trabajar con un proveedor indirecto te permite ofrecer a los clientes una selección más amplia de servicios y soluciones en la nube de Microsoft. Los proveedores indirectos cuentan con los sistemas y las infraestructuras para proporcionar un nivel sólido de facturación y soporte para que tú puedas centrarte en las soluciones de tecnología y la interacción con el cliente. 
 
-Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) para encontrar uno. Cuando encuentres un proveedor con el que desees asociarte, contáctales directamente para hablar de sus programas de revendedores, nivel de soporte técnico y condiciones. Si ambos queréis trabajar juntos, tendréis que conectar vuestras cuentas en el Centro de partners. 
+Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) para encontrar uno. Cuando encuentres un proveedor con el que desees asociarte, contáctales directamente para hablar de sus programas de revendedores, nivel de soporte técnico y condiciones. Si tú y el proveedor queréis trabajar juntos, tendréis que conectar vuestras cuentas en el Panel de partners. 
 
-Si un proveedor indirecto quiere contactar contigo en el Centro de partners, iniciarán el siguiente flujo de trabajo:
+Si un proveedor indirecto quiere conectarse contigo en el Panel de partners, seguirán este flujo de trabajo:
 
-1.  El proveedor indirecto te envía una invitación por correo electrónico que les autoriza a ser tu proveedor indirecto. El correo electrónico incluirá un vínculo al Centro de partners y asociará tu cuenta a la cuenta del proveedor.
+1.  El proveedor indirecto te envía una invitación por correo electrónico que les autoriza a ser tu proveedor indirecto. El correo electrónico incluirá un vínculo al Panel de partners y asociará tu cuenta a la cuenta del proveedor.
 
-2.  Para aceptar la invitación, haz clic en el vínculo del correo electrónico del proveedor. Debes iniciar sesión de nuevo en el Centro de partners.
+2.  Para aceptar la invitación, haz clic en el vínculo del correo electrónico del proveedor. Puede que necesites iniciar sesión de nuevo en el Panel de partners.
 
-3.  Para confirmar la asociación con el proveedor, activa la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu paǵina de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
+3.  Para confirmar la asociación con el proveedor, marca la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu paǵina de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
 
     >**Nota** Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
 
@@ -129,17 +129,17 @@ Si un proveedor indirecto quiere contactar contigo en el Centro de partners, ini
 
     >**Importante** Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
  
-## <a name="connect-with-customers"></a>Conectar con clientes
+## <a name="connect-with-customers"></a>Conectar con los clientes
 
- Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
+ Para realizar transacciones con clientes en el Panel de partners, tus clientes deben tener cuentas del Panel de partners y tú debes establecer relaciones de distribuidor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conectar con clientes existentes
 
-Los clientes con los que ya realices transacciones a través de otros portales, como el Centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes del Centro de partners después inscribirlos correctamente como revendedores indirectos. Selecciona **Panel** y luego **Clientes** para ver la lista de clientes. 
+Los clientes con los que ya realices transacciones a través de otros portales, como el Centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes del Panel de partners después de inscribirlos correctamente como revendedores indirectos. Selecciona **Clientes** en tu menú **Panel** para ver la lista de clientes. 
 
-Cuando te pones en contacto con un proveedor indirecto, no ganas automáticamente sus clientes. De igual modo, los clientes con los que trabajes por tu cuenta o a través del proveedor indirecto, pero no a través del Centro de partners, no aparecerán automáticamente en tu lista de clientes cuanto te inscribes en el Centro de partners. Tendrás que establecer una relación de revendedor con los clientes para realizar transacciones en el Centro de partners.  Para ello, envíales por correo electrónico una invitación para ponerse en contacto contigo en el Centro de partners, tal y como se describe a continuación.
+Cuando te pones en contacto con un proveedor indirecto, no ganas automáticamente sus clientes. De igual modo, los clientes con los que trabajes por tu cuenta o a través del proveedor indirecto, pero no a través del Panel de partners, no aparecerán automáticamente en tu lista de clientes cuanto te inscribas en el Panel de partners. Tendrás que establecer una relación de distribuidor con los clientes para realizar transacciones en el Panel de partners.  Para ello, envíales por correo electrónico una invitación para ponerse en contacto contigo en el Panel de partners, como se describe a continuación.
 
-#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de revendedor contigo
+#### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de distribuidor contigo
 
 1.  Selecciona **Clientes** desde el menú **Panel** y, a continuación, selecciona **Solicitar una relación de revendedor**.
 
@@ -156,7 +156,7 @@ Cuando te pones en contacto con un proveedor indirecto, no ganas automáticament
 
 ### <a name="connect-with-new-customers"></a>Conectar con nuevos clientes
 
-Cuanto atraigas a nuevos clientes, deberás conectar con ellos en el Centro de partners. Puedes conseguir nuevos clientes a través de diversos canales, incluyendo:
+Cuanto atraigas a nuevos clientes, deberás conectar con ellos en el Panel de partners. Puedes conseguir nuevos clientes a través de diversos canales, incluyendo:
 
 -   Tus propias actividades de marketing
 -   Referencias de Microsoft
@@ -183,13 +183,13 @@ Para obtener permisos de administrador para administrar las suscripciones y los 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
+[Administrar tu cuenta del Panel de partners](partner-center-account-setup.md)
 
 [Administrar clientes y sus suscripciones](customer-accounts.md)
 
 [Crear un perfil de negocio](create-a-marketing-profile.md)
 
-[Obtener información sobre los incentivos de partner en el Centro de partners](manage-your-incentives-in-partner-center.md)
+[Obtener información sobre los incentivos de partner en el Panel de partners](manage-your-incentives-in-partner-center.md)
 
 
 

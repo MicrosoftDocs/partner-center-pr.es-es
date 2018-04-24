@@ -4,11 +4,11 @@ description: Después de crear un registro del cliente en el Centro de partners,
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
+Después de crear un registro del cliente en el Panel de partners, puedes venderle suscripciones a productos del catálogo.
 
-Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y Ofertas del Centro de partners. 
+Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Panel de partners. 
 
 
 **Crear una suscripción nueva**

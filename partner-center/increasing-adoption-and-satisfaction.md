@@ -1,13 +1,13 @@
 ---
-title: "Aumentar la adopción y la satisfacción | Centro de partners"
-description: "Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan."
+title: Aumentar la adopción y la satisfacción | Centro de partners
+description: Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -26,11 +26,11 @@ Puedes ver los datos de todos los clientes a través del programa Proveedor de s
 
 **Para un único cliente**
 
--   Selecciona **Clientes** desde el menú Centro de partners, elige un cliente y después selecciona **Información sobre el cliente**.
+-   Selecciona **Clientes** desde el menú **Panel**, elige un cliente y después selecciona **Detalles del cliente**.
 
 **En la cartera**
 
-1.  En el **Panel** del Centro de partners, desplázate hacia abajo hasta la sección **Análisis de la licencia de Office**.
+1.  En el **Panel**, selecciona **Analizar**.
 2.  Para descargar los datos de uso y la implementación en todo el conjunto de clientes, selecciona las opciones de **exportación**.
 
 Terminología:

@@ -1,14 +1,14 @@
 ---
 title: Ver los registros de actividades de los clientes | Centro de partners
-description: "Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes."
+description: Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
@@ -32,7 +32,7 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
     Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada. Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.
 
-3.  Selecciona **Exportar registro**. El Centro de partners convierte los datos de suscripción del cliente en un archivo .csv y lo carga en la carpeta de descarga predeterminada de tu equipo. Las columnas de datos incluyen lo siguiente:
+3.  Selecciona **Registro de exportaciones** para copiar los datos de suscripción del cliente a un archivo .csv y descargarlo a la carpeta de descarga predeterminada de tu equipo. Las columnas de datos incluyen lo siguiente:
     -   **Cliente afectado**: El nombre de la compañía del cliente.
     -   **Acción**: El nombre del producto de la suscripción.
     -   **Usuario de partner**: El usuario asociado con la actividad.

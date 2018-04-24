@@ -3,22 +3,22 @@ title: Trasladarse del Centro de administración de partners al Centro de partne
 description: Encuentra las características que te has acostumbrado a usar en el Centro de administración de partners en el Centro de partners
 author: labrenne
 keywords: PAC, administrador de Office 365, características de PAC
-ms.openlocfilehash: 5ead4e1461050ff093b91ffc836984f77f59400f
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="moving-from-partner-admin-center-pac-to-partner-center"></a>Trasladarse del Centro de administración de partners (PAC) al Centro de partners
+# <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Pasar del Centro de administración de partners (PAC) al Panel de partners
 
 Se aplica a:
 - Centro de partners
 - Centro de administración de partners
 
-Bienvenido al Centro de partners El Centro de partners evoluciona en un único lugar donde administrarás tu asociación con Microsoft y con los clientes. En el Centro de partners, puedes administrar la pertenencia, las referencias de cliente, los incentivos y todos los demás aspectos del programa Proveedor de soluciones en la nube (CSP). En el Centro de partners, podrás hacer la mayoría lo que hacías en PAC, aunque algunas de las características o acciones funcionarán de manera diferente. 
+¡Bienvenido al Panel de partners! El Panel de partners va evolucionando hacia un único lugar donde podrás administrar tu asociación con Microsoft y con tus clientes. En el Panel de partners puedes administrar la pertenencia, las referencias de clientes, los incentivos y todos los demás aspectos del programa Proveedor de soluciones en la nube (CSP). En el Panel de partners podrás realizar la mayor parte de lo que hacías en el PAC, aunque algunas de las funciones o acciones funcionarán de manera diferente. 
 
 
-|**Acción**   |**PAC**   |**Centro de partners**   |
+|**Acción**   |**PAC**   |**Panel de partners**   |
 |--------------|:--------------|:---------------|
 |La introducción de alto nivel de la actividad de tu cuenta y clientes|Pantalla Inicio|Panel|
 |Conseguir nuevos clientes y proporcionar presupuestos de servicios de evaluación y de pago|Crear negocio -> Enviar presupuesto|Los presupuestos pagos comillas no están disponibles. Las pruebas de CSP están disponibles si el partner asesor se convierte en revendedor indirecto de CSP y se asocia con un proveedor indirecto de CSP que admite las pruebas. |
@@ -31,4 +31,4 @@ Bienvenido al Centro de partners El Centro de partners evoluciona en un único l
 |Ver el estado de Microsoft Online Services que administras|Estado del servicio -> Estado agregado|Panel -> Estado del servicio|
 
 >Importante<br>
-No podrás enviar Presupuestos de evaluación y de pago a clientes a través del Centro de partners. Además, para buscar los clientes en el Centro de partners, usa el nombre del cliente o los dominios del cliente disponibles cuando estableciste la relación de partners con el cliente.
+No podrás enviar presupuestos de pago ni de prueba a los clientes a través del Panel de partners. Además, para buscar clientes en el Panel de partners, puedes usar el nombre del cliente o los dominios del cliente disponibles cuando estableciste la relación de partner con el cliente.

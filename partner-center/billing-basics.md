@@ -3,11 +3,11 @@ title: Conceptos básicos sobre facturación | Centro de partners
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -53,7 +53,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 <tr class="even">
 <td>Disponibilidad de las facturas</td>
 <td><ul>
-<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.</li>
+<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Panel de partners. Ten en cuenta que las facturas mensuales están disponibles en el Panel de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">

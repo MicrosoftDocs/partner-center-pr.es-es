@@ -1,14 +1,14 @@
 ---
-title: "Consolidación de los inquilinos de autorización regional de CSP | Centro de partners"
-description: "Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones."
+title: Consolidación de los inquilinos de autorización regional de CSP | Centro de partners
+description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migrar clientes, aprovisionamiento, cuenta de inquilino, consolidar inquilinos
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
@@ -29,14 +29,14 @@ Usa estas instrucciones para consolidar los inquilinos para diferentes países o
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
 
--   Inicia sesión en <https://partnercenter.microsoft.com> con la cuenta de transición (la cuenta existente) y tome nota de todos los clientes y todos los servicios aprovisionados para dichos clientes.
+-   Inicia sesión en tu **Panel** con la cuenta de **Transición** (la existente que se moverá) y toma nota de todos los clientes y todos los servicios aprovisionados para dichos clientes.
 
 ![lista de clientes regionales](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
 
-1.  Inicia sesión en <https://partnercenter.microsoft.com> con la cuenta de transición (la nueva cuenta) y navega hasta la lista de clientes desde el panel del centro de partners.
+1.  Inicia sesión en tu **Panel** con la cuenta de **Transición** (la nueva a la que estás pasando) y navegar a la lista Clientes desde **Clientes**.
 
 2.  Selecciona Clientes.
 
@@ -53,7 +53,7 @@ Los clientes aparecerán en la lista de clientes del partner después de enviar 
 
 1.  Cuando el cliente haya firmado el contrato, puedes volver a crear sus suscripciones en tu inquilino de partner centralizado.
 
-2.  En el panel del centro de partners, haz clic en **Clientes** en la barra de navegación izquierda.
+2.  En el **Panel**, selecciona **Clientes**.
 
 3.  Abre el nombre de la compañía del cliente que deseas migrar.
 
@@ -80,7 +80,7 @@ Antes de pasar a la siguiente sección, asegúrate de todas las suscripciones de
 
 Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición desde** detiene toda facturación futura. No es necesario deshabilitar manualmente las suscripciones de Azure, porque las suscripciones de Azure se deshabilitan automáticamente durante el proceso de migración.
 
-1.  Inicia sesión en <https://partnercenter.microsoft.com> con la cuenta de CSP de **Transición desde** y navega hasta la lista de clientes.
+1.  Inicia sesión en el **Panel** con la cuenta de CSP **desde donde se realiza la transición** y navega hasta la lista de clientes.
 
 2.  Abre al cliente cuyas suscripciones quieras deshabilitar y, a continuación, selecciona la primera oferta que deshabilitar.
 3.  Establece la suscripción en **suspendida**y, a continuación, haz clic en **enviar**.
@@ -140,21 +140,6 @@ Si usas la **Función de exportación**, puedes capturar las suscripciones que n
 
 Para obtener más información acerca del registro de API, visita esta [página web](https://go.microsoft.com/fwlink/?linkid=847990) (en inglés).
 
-## <a name="partner-center-activity-log"></a>Registro de actividades del Centro de partners
-
-
-Con el registro de actividades, los partners pueden ver un registro de todos los cambios que afectan a los clientes en su inquilino. Esto ayuda a los partners a realizar un seguimiento de los cambios en un inquilino del cliente.
-
-**Ver el registro de actividades**
-
-1.  En el panel del Centro de partners, haz clic en el vínculo **Registro de actividades**.
-2.  En la página **Registro de actividades**, mira los cambios realizados en las cuentas de cliente. Para filtrar el registro de actividades por fecha, elige las fechas **Desde** y **A** para restringir los registros seleccionados en el registro. Para filtrar por cliente en el **Registro de actividades**, usa el cuadro de búsqueda.
-
-**Exportación del registro de actividades**
-
--   Haz clic en **Exportar registro** para exportar los datos del registro de actividades a un archivo CSV.
-
-    También puedes exportar la lista de clientes y la lista de suscripciones de un cliente individual (desde la página de suscripción de dicho cliente).
 
  
 

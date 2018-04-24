@@ -1,27 +1,27 @@
 ---
-title: "Añadir Servicios compartidos para partners de Azure | Centro de partners"
+title: Añadir Servicios compartidos para partners de Azure | Centro de partners
 description: Los partners de CSP ahora pueden comprar suscripciones de Azure para su uso propio.
 author: labrenne
-Keywords: Azure, servicios compartidos, inquilino
-ms.openlocfilehash: 0329f2ae97444a8a8c3799b2dfcb42378c4f2f80
-ms.sourcegitcommit: aa846217ee4158d835ec3c8f776d1fb299594994
+Keywords: Azure, shared services, tenant
+ms.openlocfilehash: 2cff9cb607618dbee7734bdbce109d729e9646ba
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/04/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="add-azure-partner-shared-services"></a>Añadir Servicios compartidos para partners de Azure
+# <a name="add-azure-partner-shared-services"></a>Agregar Servicios compartidos para partners de Azure
 
 **Se aplica a**
 
 -  Centro de partners
 
-Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio. Ofrece a los partners la oportunidad de usar un método uniforme para comprar, seguir y administrar Azure, además de la capacidad de consolidar sus contratos de licencia y de reventa de Azure con Microsoft. Con los Servicios compartidos para partners de Azure, los asociados ahora tienen la flexibilidad para usar las suscripciones de Azure en CSP del mismo modo que lo hacen con los programas de Web-Direct y del Contrato Enterprise de Microsoft. Eso les permite acceder a escenarios como la creación de entornos de desarrollo y pruebas, la implementación de cargas de trabajo internas y servicios de hosting para servicios compartidos o aplicaciones multiinquilino.  
+Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio. Ofrece a los partners la oportunidad de usar un método uniforme para comprar, seguir y administrar Azure, además de la capacidad de consolidar sus contratos de licencia y distribución de Azure con Microsoft. Con los Servicios compartidos para partners de Azure, los asociados ahora tienen la misma flexibilidad para usar las suscripciones de Azure en CSP que cuando lo hacen con los programas Web Direct y Contrato Enterprise de Microsoft, lo que les permite acceder a escenarios como la creación de entornos de desarrollo y pruebas, la implementación de cargas de trabajo internas y los servicios compartidos de hosting o aplicaciones multiinquilino.  
 
 ## <a name="create-the-shared-services-tenant"></a>Crear inquilino de servicios compartidos
 
-1. En el Centro de partners, ve al menú **Panel** > **Configuración de la cuenta** > **Servicios compartidos**.
+1. Ve a **Configuración** > **Ver toda la configuración** > **Servicios compartidos**.
 
-    ![**Configuración de cuenta** > **Servicios compartidos**](images/sharedservices2.png)
+    ![**Configuración de cuenta**>**Servicios compartidos**](images/sharedservices2.png)
 
 2. Si aún no tienes un inquilino de servicios compartidos, haz clic en **Crear servicios compartidos**.
 
@@ -41,7 +41,7 @@ Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta par
 
 - Uso principal de la suscripción de Azure: Servicios internos/compartidos es para poder usar Azure para sus propios fines de desarrollo. El inquilino compartido que utilice para aprovisionar esta oferta no puede usarse para otros servicios como Office 365 o puestos de Dynamics. 
 
-- Puedes cancelar la suscripción, como cualquier otro servicio. Ve al menú **Panel** > **Configuración de la cuenta** > **Servicios compartidos**. Selecciona la suscripción Azure Servicios internos/compartidos y cancélala.
+- Puedes cancelar la suscripción como lo haces con cualquier otra. Ve a **Configuración** > **Ver toda la configuración** > **Servicios compartidos**. Selecciona la suscripción Azure - Carga de trabajo interna/servicios compartidos y cancélala.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Acceso a detalles de consumo de Servicios compartidos para partners de Azure
 
@@ -49,6 +49,6 @@ Encontrarás el consumo de Azure en tu factura de CSP y el archivo de conciliaci
 
 ## <a name="azure-partner-shared-services-pricing"></a>Precios de Servicios compartidos para partners de Azure
 
-Para ver el nuevo archivo de precios de Servicios compartidos para partners de Azure, visite **Servicios basados en uso > Precios y ofertas** y selecciona la lista de precios del mes actual. En las próximas semanas, también se incluirá en la API una tarjeta de tarifas específica.
+Para ver el nuevo archivo de precios de Servicios compartidos para partners de Azure, ve a **Vender** > **Precios y ofertas** y selecciona la lista de precios del mes actual. En las próximas semanas, también se incluirá en la API una tarjeta de tarifas específica.
 
 

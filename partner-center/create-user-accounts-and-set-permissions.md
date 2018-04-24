@@ -4,11 +4,11 @@ description: El administrador crea una cuenta de usuario para cada empleado del 
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
-ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
+ms.openlocfilehash: 8c29fecf1d630021a58973e0e8e0e9844dac04e0
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -16,39 +16,39 @@ ms.lasthandoff: 01/18/2018
 
 -  Centro de partners
 
-Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe hacer un administrador con los permisos de administrador de administración de usuarios. 
+Crear cuentas de usuario para los empleados que necesiten acceder al Panel de partners. Estas tareas las debe hacer un administrador con los permisos de administrador de administración de usuarios. 
 
->**Nota**<br> Ahora tienes la capacidad de asignar usuarios a tres nuevos roles en el Centro de partners que te ayudarán a administrar tu empresa, administrador MPN, administrador de perfil de negocio y administrador de referencias. Consulta la sección Asignar permisos de usuario, que aparece más adelante, para obtener más información sobre cada rol.
+>**Nota**<br> Ya tienes la capacidad de asignar usuarios a tres nuevos roles del Panel de partners que te ayudarán a administrar tu empresa, administrar MPN, administrar perfiles de negocio y administrar referencias. Consulta Asignar permisos de usuario, que viene más adelante, para conocer los detalles de cada rol.
 
 
 ## <a name="add-a-new-user"></a>Agregar un nuevo usuario
 
-1. En el menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios**.
+1. En el menú **Configuración**, selecciona **Administración de usuarios**.
 
 2.  Selecciona **Agregar usuario**.
 
 3.  Escribe el nombre completo y la dirección de correo electrónico del usuario.
 
-4.  Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección Asignar permisos de usuario, que aparece más adelante.
+4.  Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Panel de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las funciones que el usuario necesite para completar tareas específicas. Para obtener más información sobre lo que puede hacer cada rol, consulta la sección Asignar permisos de usuario, que aparece más adelante.
 
 5.  Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
 >**Importante**<br>
 Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. 
 
-El usuario tendrá que iniciar sesión en el Centro de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Centro de partners por primera vez, se le pedirá cambiar la contraseña. 
+El usuario tendrá que iniciar sesión en el Panel de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Panel de partners por primera vez, se le pedirá cambiar la contraseña. 
 
 >**Nota**<br> Si el administrador global ha dejado la organización o ha cambiado a otro rol y necesitas agregar un nuevo administrador global, tienes que registrar una solicitud de servicio en el [portal de MPN](https://partner.microsoft.com/support). El agente de soporte técnico puede solicitar la elevación de un usuario a administrador global si el solicitante es capaz de proporcionar la información necesaria de identidad personal y proporcionar información adicional sobre la organización.
 
 ## <a name="assign-user-permissions"></a>Asignar permisos de usuario
 
-El acceso al Centro de partners se basa en roles. Los permisos que asignes a un usuario personalizan la vista del usuario para mostrar solo las características que el usuario necesite para completar las tareas específicas. 
+El acceso al Panel de partners se basa en roles. Los permisos que asignes a un usuario personalizan la vista del usuario para mostrar solo las características que el usuario necesite para completar las tareas específicas. 
 
-Para cada usuario, debes asignar al menos un nivel de permiso. Uno de estos niveles puede ser el nivel predeterminado, que es **Administra la cuenta de tu organización como**. Si no asignas un rol a un usuario, no podrán trabajar en el Centro de partners.
+Para cada usuario, debes asignar al menos un nivel de permiso. Uno de estos niveles puede ser el nivel predeterminado, que es **Administra la cuenta de tu organización como**. Si no asignas un rol a un usuario, no podrá trabajar en el Panel de partners.
 
 -   Los permisos de agente controlan qué tipo de datos de cliente y de información de la cuenta puede ver y cambiar el usuario.
 
--   Los permisos de administrador controlan el nivel de acceso que el usuario tiene a las características del Centro de partners. Esta configuración influye fuera del Centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios Microsoft (incluso los que no estén relacionados con CSP) y un administrador global también puede acceder a las cuentas de usuario y cuentas de cliente más allá de CSP.
+-   Los permisos de administrador controlan el nivel de acceso que el usuario tiene a las funciones del Panel de partners. Esta configuración influye fuera del Panel de partners: un administrador de facturación puede acceder a las facturas de todos los servicios Microsoft (incluso los que no estén relacionados con CSP) y un administrador global también puede acceder a las cuentas de usuario y cuentas de cliente más allá del CSP.
 
 Las categorías generales de los roles son: 
 
@@ -59,9 +59,9 @@ Las categorías generales de los roles son:
 
 En cada una de estas categorías generales, un usuario solo puede tener un rol, pero ese mismo usuario también puede tener roles en las otras categorías generales. 
 
->**Importante** Si un usuario no necesita un rol específico, deja la designación en la configuración predeterminada: **Administra la cuenta de la organización como**. A los usuarios se les deben asignar al menos un rol para trabajar en el Centro de partners.
+>**Importante** Si un usuario no necesita un rol específico, deja la designación en la configuración predeterminada: **Administra la cuenta de la organización como**. A los usuarios se les deben asignar al menos un rol para poder trabajar en el Panel de partners.
 
-La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
+La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
 
 <table>
 <colgroup>
@@ -70,14 +70,14 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Rol en el Centro de partners</strong></p></td>
+<td><p><strong>Roles del Panel de partners</strong></p></td>
 <td><p><strong>Lo que se puede hacer</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador global</strong></p></td>
 <td><ul>
 <li><p>Puede acceder a todas las cuentas o servicios Microsoft con privilegios completos</p></li>
-<li><p>Crear incidencias de soporte técnico para el Centro de partners</p></li>
+<li><p>Crear incidencias de soporte técnico para el Panel de partners</p></li>
 <li><p>Ver contratos, listas de precios y ofertas</p></li>
 <li><p>Facturación</p></li>
 <li><p>Ver, crear y administrar los usuarios de partners</p></li>
@@ -128,7 +128,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <td><p><strong>Agente de administración</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el Centro de partners</p></li>
+<li><p>Agregar una lista de dispositivos al Panel de partners</p></li>
 <p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
@@ -143,7 +143,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Centro de partners.
 <td><p><strong>Agente de ventas</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el Centro de partners</p></li>
+<li><p>Agregar una lista de dispositivos al Panel de partners</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Ver incidencias de soporte técnico</p></li>
 <li><p>Solicitar relación con un cliente</p></li>

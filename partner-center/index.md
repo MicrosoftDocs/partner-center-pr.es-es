@@ -2,17 +2,17 @@
 title: Esto es el Centro de partners de Microsoft
 description: Centro de partners de Microsoft
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>Esto es el Centro de partners de Microsoft
+# <a name="welcome-to-your-partner-dashboard"></a>Bienvenido a tu Panel de partners
 
-El Centro de partners de Microsoft, este sitio, es donde los partners comerciales de Microsoft acuden para crear, administrar y hacer crecer sus negocios. (Ten en cuenta que no todo el contenido que se trata en esta página se aplicará a cada partner. Algunas características se están implementando en fases).
+El Panel de partners de Microsoft, este sitio, es donde los partners comerciales de Microsoft acuden para crear, administrar y hacer crecer sus negocios. (Ten en cuenta que no todo el contenido tratado en esta página será de aplicación para todos los partners. Algunas funciones se están implementando en fases).
 
-## <a name="create-an-account-on-partner-center-to"></a>Crea una cuenta del Centro de partners para:
+## <a name="create-a-partner-dashboard-account-to"></a>Crea una cuenta del Panel de partners para:
 
 -   Administrar tu asociación con Microsoft
     -   Adquirir el Microsoft Action Pack y otras ventajas de la suscripción de derechos de uso interno 
@@ -35,7 +35,7 @@ El Centro de partners de Microsoft, este sitio, es donde los partners comerciale
    
 
 >**Importante**<br>
-El Centro de partners evoluciona continuamente para incluir más características y funcionalidades. Descubre las [novedades](whats-new-in-pc.md).
+El Panel de partners evoluciona continuamente para incluir más funciones y funcionalidades. Descubre las [novedades](whats-new-in-pc.md).
 
 
 ## <a name="get-started"></a>Introducción
@@ -46,7 +46,7 @@ Inscríbete en el programa de partners que se ajuste a tus objetivos, configura 
 |------------|:-------------|
 |[Únete a Microsoft Partner Network](mpn-overview.md)|Asociarse con Microsoft para obtener acceso a servicios y software de derechos de uso interno, Microsoft Action Pack y obtener competencias Silver y Gold |
 |[Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición | Centro de partners](csp-overview.md) | Cuál es el modelo CSP adecuado para ti, dónde puedes vender a través del CSP, qué puedes vender a través del CSP |
-|[Configurar la cuenta del Centro de partners](partner-center-account-setup.md)|Crear cuentas de usuario, administrar tus perfiles, administrar las contraseñas y personalizar el catálogo de productos |
+|[Configurar la cuenta del Panel de partners](partner-center-account-setup.md)|Crear cuentas de usuario, administrar tus perfiles, administrar las contraseñas y personalizar el catálogo de productos |
 |[Configurar las cuentas de cliente](customer-accounts.md)|Agregar usuarios, crear cuentas nuevas y mirar la lista de clientes |
 |[Trabajar con otros partners](work-with-other-partners.md)|Buscar partners cuya experiencia complemente la tuya |
 
@@ -57,7 +57,7 @@ Aprovecha estas oportunidades para hacer crecer tu negocio:
 | **Ve aquí**  |**Para obtener más información sobre este tema**   |
 |------------|:-------------|
 |[Hacer crecer tu negocio con referencias de Microsoft](referrals.md)|Crear un perfil de negocio para los clientes y luego recibir referencias y responder a ellas|
-|[Aplicación de análisis del Centro de partners para Power BI](power-bi-app-for-direct-partners.md)| Obtener información sobre el rendimiento de tu empresa con el conocido panel de Microsoft Power BI|
+|[Aplicación de análisis de partners para Power BI](power-bi-app-for-direct-partners.md)| Obtén información sobre el rendimiento de tu empresa con el conocido panel de Microsoft Power BI|
 |[Administrar las suscripciones de los clientes](customer-subscriptions.md)|Nuevas suscripciones, suscripciones de evaluación, asignar licencias, promociones y descuentos|
 |[Agregar competencias a tu perfil de negocio](learn-about-competencies.md)|Demostrar experiencia y obtener información sobre las opciones de las competencias|
 |[Facturación](billing.md)|Revisar los escenarios de facturación, los impuestos y el IVA y los presupuestos de gastos de Azure |

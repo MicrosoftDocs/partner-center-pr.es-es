@@ -1,13 +1,13 @@
 ---
 title: Hacer crecer tu negocio con referencias de Microsoft | Centro de partners
-description: "Generar negocios potenciales y contactar con los clientes que necesitan ayuda para la implementación de soluciones y productos de Microsoft."
+description: Generar negocios potenciales y contactar con los clientes que necesitan ayuda para la implementación de soluciones y productos de Microsoft.
 author: KPacquer
 keywords: referencias, perfil de negocio, buscar un partner
-ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -21,7 +21,7 @@ Muchos clientes buscan expertos cualificados para que les ayuden a implementar l
 
 Queremos que te conectes con clientes que necesitan tus soluciones y experiencia. Es el paso más importante que puedes seguir para comenzar a obtener clientes potenciales de nosotros es [crear un perfil de negocio](create-a-marketing-profile.md) que muestre las ofertas, soluciones y experiencia de tu empresa. Tu perfil de negocio figurará en todos los lugares en los que los clientes y agentes de ventas internos de Microsoft buscan partners calificados. 
 
- Después de publicar tu perfil de negocio, comenzarás a recibir clientes potenciales a través de la característica Referencias del Centro de partners. Es importante responder a las referencias en el plazo de tiempo establecido para continuar recibiendo estos clientes potenciales y, lo más importante, lograr acuerdos. Consulta [Responder a las referencias](responding-to-referrals.md) para obtener más información sobre cómo administrar los clientes potenciales en el Centro de partners.  
+ Después de publicar tu perfil de negocio, comenzarás a recibir clientes potenciales a través de la función Referencias del Panel de partners. Es importante responder a las referencias en el plazo de tiempo establecido para continuar recibiendo estos clientes potenciales y, lo más importante, lograr acuerdos. Consulta [Responder a las referencias](responding-to-referrals.md) para obtener más información sobre cómo administrar los clientes potenciales en el Panel de partners.  
 
 ¡Buena suerte!
 

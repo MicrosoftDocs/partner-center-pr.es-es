@@ -1,13 +1,13 @@
 ---
-title: "Simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners"
-description: "Agregar un perfil de implementación de AutoPilot de Windows en el Centro de partners para simplificar la configuración del dispositivo con AutoPilot de Windows"
+title: Simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners
+description: Agregar un perfil de implementación de AutoPilot de Windows en el Centro de partners para simplificar la configuración del dispositivo con AutoPilot de Windows
 author: KPacquer
-keywords: "autopilot, autopilot de windows, microsoft autopilot, implementación sin interacción, oobe, pantallas de inicio de sesión"
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+keywords: autopilot, autopilot de windows, microsoft autopilot, implementación sin interacción, oobe, pantallas de inicio de sesión
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar la configuración del dispositivo con AutoPilot de Windows 
 
@@ -23,7 +23,7 @@ AutoPilot de Windows simplifica y protege la configuración del dispositivo para
 ## <a name="requirements"></a>Requisitos
 
 *  Dispositivos preinstalados con Windows 10 Pro Creators Update (versión 1703 o posterior) o con Windows 10 Pro for Advanced PCs.
-*  Identificador de dispositivo conocido como un hash del hardware (128 HWH o 4k HWH), normalmente proporcionado por un OEM. Usarás los identificadores para asignar los perfiles de la organización en el Centro de partners. Después de septiembre de 2017 ya no necesitarás el hash de hardware. 
+*  Identificador de dispositivo conocido como un hash del hardware (128 HWH o 4k HWH), normalmente proporcionado por un OEM. Usarás identificadores para asignar los perfiles de la organización en el Panel de partners. 
 *  Los dispositivos deben tener acceso a Internet. Cuando no se puede conectar el dispositivo, la experiencia OOBE se mostrará de forma predeterminada en las pantallas.
 *  Inscribir el dispositivo en un MDM requiere Azure Active Directory Premium.
 
@@ -34,7 +34,7 @@ Para agregar las páginas específicas de la organización, agrega los dispositi
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Quitar páginas de Windows de OOBE con un perfil de implementación de AutoPilot de Windows
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Ejemplos de configuración de un perfil de implementación de AutoPilot de Windows
+**Ejemplos de configuración de un perfil de implementación de AutoPilot de Windows**
 *  Omitir la configuración de privacidad durante la instalación
 *  Deshabilitar la cuenta de administrador local en el programa de instalación
 *  Omitir automáticamente las páginas durante la instalación
@@ -43,19 +43,19 @@ Para agregar las páginas específicas de la organización, agrega los dispositi
 
 ### <a name="add-devices-and-apply-a-profile"></a>Agregar dispositivos y aplicar un perfil
 
-En el Centro de partners, puedes crear un perfil de implementación de AutoPilot de Windows y aplicarlo a una lista de dispositivos.
+En tu panel, puedes crear un perfil de implementación de Windows AutoPilot y aplicarlo a una lista de dispositivos.
 
-Para configurar los dispositivos, sube una lista de los dispositivos al Centro de partners, crea un perfil que se aplique a los dispositivos y aplícala.
+Para configurar los dispositivos, carga una lista de los dispositivos crea un perfil que se aplique a los dispositivos y aplícalo.
 
-1.  Agrega la lista de dispositivo al Centro de partners.
+1.  Agrega la lista de dispositivos.
 
-    Los agentes de ventas y los agentes de administración tienen acceso para agregar la lista de dispositivos al Centro de partners.
+    Los agentes de ventas y los agentes de administración tienen acceso para agregar la lista de dispositivos al Panel de partners.
     
-    Los revendedores indirectos pueden trabajar con su proveedor indirecto para agregarla.
+    Los distribuidores indirectos pueden trabajar con su proveedor indirecto para agregarla.
 
     a.  Crea un archivo .csv con el script de PowerShell del tema: [Introducción a AutoPilot de Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Este archivo .csv incluye información del dispositivo, como por ejemplo, el número de serie, nombre del OEM, nombre del modelo, id. del producto y el identificador del dispositivo. 
 
-    b.  Desde el panel del Centro de partners, ve a **Clientes** > selecciona el cliente que recibe los dispositivos > **Dispositivos > Agregar dispositivos**.
+    b.  Desde el panel, ve a **Clientes** > selecciona el cliente que recibe los dispositivos > **Dispositivos > Agregar dispositivos**.
 
     c.  Pon nombre al lote de dispositivos, por ejemplo, "equipos del departamento de ventas de Contoso, pedido de abril de 2017". 
 
@@ -63,7 +63,7 @@ Para configurar los dispositivos, sube una lista de los dispositivos al Centro d
 
     **Nota:** Si recibes un mensaje de error después de intentar subir el archivo .csv, comprueba el formato del archivo. Después de agosto, puedes usar solo el Hash de Hardware o el nombre del OEM, número de serie y modelo en ese orden de columna o el id. del producto de Windows. También puedes usar el archivo .csv de muestra al que puedes tener acceso desde el vínculo situado junto a **Agregar dispositivos**.
 
-2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar los perfiles en el Centro de partners).
+2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar perfiles en el Panel de partners).
 
     a.  Desde **Dispositivos**, haz clic en **Agregar nuevo perfil**.
 

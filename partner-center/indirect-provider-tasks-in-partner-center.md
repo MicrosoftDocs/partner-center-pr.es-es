@@ -2,11 +2,11 @@
 title: Asociación con los revendedores indirectos en CSP | Centro de partners
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
-ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
-ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
+ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -16,7 +16,7 @@ Los nuevos revendedores están entrando al mercado y buscando maneras de ofrecer
 
 En el modelo de revendedor-proveedor indirecto (dos niveles), te asociarás con revendedores indirectos para ofrecer soluciones de Microsoft Cloud a los clientes. Puedes comprar productos y suscripciones directamente desde Microsoft y, después, ofrecer estas soluciones a los clientes a través de tus revendedores. 
 
-Como proveedor indirecto, puedes usar el Centro de partners para:
+Como proveedor indirecto, puedes usar el Panel de partners para:
 
 -   Conectar con los revendedores indirectos que pueden ayudarte a expandir tu alcance y tu base de clientes
 -   Establecer asociaciones con revendedores indirectos que os permitan servir a clientes comunes
@@ -25,17 +25,17 @@ Como proveedor indirecto, puedes usar el Centro de partners para:
 
 Para obtener más información sobre el modelo indirecto en CSP, consulta [Explorar el modelo indirecto](https://partner.microsoft.com/cloud-solution-provider/indirect) en el [sitio web de Microsoft Partner Network]( https://partner.microsoft.com). 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Tareas de proveedor indirect en el Centro de partners
+## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Tareas de proveedor indirecto en el Panel de partners
 
-Completa los siguientes pasos para establecer y administrar tu asociación con revendedores indirectos y clientes en el Centro de partners. Los pasos 2 y 3 se describen de forma más detallada más adelante.
+Completa los siguientes pasos para establecer y administrar tu asociación con los distribuidores indirectos y clientes. Los pasos 2 y 3 se describen de forma más detallada más adelante.
 
-1.  Revisa el perfil de tu compañía en [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). 
+1.  Revisa el perfil de tu compañía en [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Para realizar cambios en el perfil de proveedor indirecto de tu empresa, envía una solicitud de soporte del Centro de partners e incluye el nombre de tu empresa, el logotipo y la dirección URL de destino de cada ubicación. Actualizaremos tu perfil en un plazo de entre dos y tres semanas.<br>
+    -   Para realizar cambios en el perfil de proveedor indirecto de tu empresa, envía una solicitud de soporte técnico del Panel de partners e incluye el nombre de tu empresa, el logotipo y la dirección URL de destino de cada ubicación. Actualizaremos tu perfil en un plazo de entre dos y tres semanas.<br>
 
 2.  Conectar con revendedores indirectos
 
-    - Antes de poder interactuar y realizar transacciones con los revendedores, debe establecer asociaciones con ellos en el Centro de partners. <br>
+    - Antes de poder interactuar y realizar transacciones con los revendedores, debes establecer asociaciones con ellos en el Panel de partners. <br>
 
 3.  Conectar con los clientes
 
@@ -44,11 +44,11 @@ Completa los siguientes pasos para establecer y administrar tu asociación con r
 
 Después de completar estos pasos, puedes administrar tus asociaciones con los revendedores en la página **Revendedores indirectos** desde el menú **Panel**.
 
->**Importante**<br> Antes de empezar a trabajar con los revendedores en el Centro de partners, deben inscribirse como revendedores indirectos en el programa CSP y tengan cuentas en el Centro de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
+>**Importante**<br> Antes de empezar a trabajar con los distribuidores, estos deben estar inscritos como distribuidores indirectos en el programa CSP y tener cuentas en el Panel de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
 
 ## <a name="connect-with-indirect-resellers"></a>Conectar con indirectos revendedores
 
-Para interactuar y realizar transacciones con revendedores indirectos en el Centro de partners, debes establecer una asociación con ellos. Tener una asociación con un revendedor indirecto te permite a ti y al revendedor servir a clientes comunes.
+Para interactuar y realizar transacciones con los distribuidores indirectos en el Panel de partners, debes establecer una asociación con ellos. Tener una asociación con un revendedor indirecto te permite a ti y al revendedor servir a clientes comunes.
 
 Para establecer una asociación, envía un correo electrónico al revendedor con una solicitud de asociación. Asegúrate de tener a mano la dirección de correo electrónico del revendedor antes de comenzar. 
 
@@ -58,7 +58,7 @@ Para establecer una asociación, envía un correo electrónico al revendedor con
 
 3. Selecciona **Abrir en un correo electrónico** para abrir el mensaje en la aplicación de correo electrónico predeterminada o selecciona **Copiar en el portapapeles** y, a continuación, pega el mensaje en un correo electrónico. Selecciona **Listo** cuando termines.
 
-   >**Importante** Puedes editar el texto en el mensaje de correo electrónico, pero asegúrate de incluir el vínculo ya que se trata de un vínculo personalizado para la cuenta del Centro de partners.
+   >**Importante** Puedes editar el texto del mensaje de correo electrónico, pero asegúrate de incluir el vínculo, ya que está personalizado para tu cuenta del Panel de partners.
 
 4. Una vez que el revendedor acepte la solicitud de asociación, aparecerá en la lista de revendedores indirectos y podrás realizar lo siguiente: 
 
@@ -79,7 +79,7 @@ Según el nivel de acceso e intervención que quieras que tenga el revendedor, p
 
 ## <a name="connect-with-customers"></a>Conectar con los clientes
 
-Cuando consigas nuevos clientes, deberás crear cuentas para ellos en el Centro de partners. Cuando agregues una nueva cuenta de cliente, puedes designar un revendedor específico para administrar la cuenta y administrar las suscripciones y los servicios de los clientes en su nombre. 
+Cuando consigas nuevos clientes, deberás crear cuentas para ellos en tu Panel de partners. Cuando agregues una nueva cuenta de cliente, puedes designar un revendedor específico para administrar la cuenta y administrar las suscripciones y los servicios de los clientes en su nombre. 
 
 Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando la administración de cuenta y suscripción al revendedor. Esto significa que el revendedor tiene acceso de administrador para las suscripciones y los servicios del cliente y puede administrarlas en su nombre.
 

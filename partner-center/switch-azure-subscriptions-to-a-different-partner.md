@@ -4,11 +4,11 @@ description: Un cliente puede cambiar el partner del programa Proveedor de soluc
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -32,7 +32,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
     Crear un vale de servicio de Azure desde el Centro de partners para solicitar una transferencia de suscripción:
 
-    -   En el menu del panel del Centro de partners, selecciona **Clientes**, selecciona el cliente de la lista y, a continuación, selecciona **Administración de servicios**. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
+    -   En el menú del panel, selecciona **Clientes**, selecciona el cliente de la lista y, a continuación, selecciona **Administración de servicios**. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
 
     -   Desde el portal de Azure, selecciona **Nueva solicitud de soporte técnico**.
 
@@ -57,7 +57,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
     Revisa el formulario, rellena la información sobre el nuevo partner y fírmalo. Comprueba que el nuevo cliente tiene un acuerdo contractual en vigor. Vuelve a enviar el formulario al partner de registro actual.
 
-    *Importante*: si el nuevo partner de CSP no tiene una relación de revendedor con el cliente, debe establecer una antes de que se transfiera la suscripción. [Puedes encontrar información sobre cómo hacer esto aquí](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
+    *Importante*: si el nuevo partner de CSP no tiene una relación de revendedor con el cliente, debe establecer una antes de que se transfiera la suscripción. [Puedes encontrar información sobre cómo hacer esto aquí](request-a-relationship-with-a-customer.md).
 
 5.  Partner actual:
 

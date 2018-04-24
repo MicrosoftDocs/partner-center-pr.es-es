@@ -4,11 +4,11 @@ description: Puedes asignar licencias y servicios a un usuario, o a varios usuar
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
-El Centro de partners realiza un seguimiento y muestra todos los derechos de licencia pertenecientes a los clientes.
+El Panel de partners realiza un seguimiento de todos los derechos de licencia pertenecientes a los clientes y los muestra.
 
 ## <a name="in-this-section"></a>En esta sección
 
@@ -55,7 +55,7 @@ El Centro de partners realiza un seguimiento y muestra todos los derechos de lic
 7.  Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8.  Selecciona **Guardar**. El Centro de partners abre una página de confirmación **Licencias actualizadas** que muestra los usuarios y sus nuevas licencias.
+8.  Selecciona **Guardar**. El Panel de partners abre una página de confirmación de **Licencias actualizadas** que enumera a los usuarios y sus nuevas licencias.
 
 **Nota**: Es posible que algunos productos de Microsoft no estén disponibles en ciertas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 

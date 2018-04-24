@@ -1,13 +1,13 @@
 ---
-title: "Suscripción a Microsoft Partner Network | Centro de partners"
-description: "Obtén información sobre los beneficios de unirse a Microsoft Partner Network."
+title: Suscripción a Microsoft Partner Network | Centro de partners
+description: Obtén información sobre los beneficios de unirse a Microsoft Partner Network.
 author: MaggiePucciEvans
-keywords: "partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, beneficios, beneficios de MPN, suscripción"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, beneficios, beneficios de MPN, suscripción
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
@@ -36,15 +36,15 @@ Microsoft Partner Network proporciona tres tipos de suscripción. Cada uno de el
     [Más información sobre cómo obtener competencias Silver y Gold](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>Empezar a trabajar con el Centro de partners
+## <a name="get-started-with-the-partner-dashboard"></a>Introducción al Panel de partners
 
-Para que sea más fácil colaborar con Microsoft y para ayudarte a ahorrar tiempo y dinero, estamos trabajando en segundo plano para trasladar las funcionalidades, características y flujos de trabajo que actualmente se encuentran dispersos en varios sitios web y herramientas para el Centro de partners, este sitio. 
+Para que sea más fácil colaborar con Microsoft y para ayudarte a ahorrar tiempo y dinero, estamos trabajando en segundo plano para trasladar las funcionalidades, las funciones y los flujos de trabajo que actualmente se encuentran dispersos por varios sitios web, así como las herramientas, hasta el Panel de partners, este sitio. 
 
-A medida que trasladamos funcionalidades específicas al Centro de partners, estamos retirando los sitios heredados que se usaban para alojarlas. Para seguir sacando partido de estas características, debes crear una cuenta en este sitio, Centro de partners. 
+A medida que trasladamos funcionalidades específicas al Panel de partners, vamos retirando los sitios heredados que se usaban para alojarlas. Para seguir sacando partido de estas funciones, debes crear una cuenta en este sitio, el Panel de partners. 
 
-Por ejemplo, si has usado para obtener y administrar referencias en Pinpoint, ese sitio se ha retirado y todas las funcionalidades de referencia están ahora en el Centro de partners. Sigue estos pasos para empezar a trabajar en el Centro de partners:   
+Por ejemplo, si acostumbrabas a obtener y administrar referencias en Pinpoint, ese sitio se ha retirado y todas sus funcionalidades relativas a referencias están ahora en el Centro de partners. Sigue estos pasos para empezar a trabajar en el Panel de partners:   
 
--   [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
+-   [Crear una cuenta del Panel de partners](mpn-create-a-partner-center-account.md)
 
 -   [Crear un perfil de negocio para obtener referencias de cliente](create-a-marketing-profile.md)
 

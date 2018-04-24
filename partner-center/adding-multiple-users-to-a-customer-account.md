@@ -4,11 +4,11 @@ description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, me
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
-ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 12/08/2017
 
 -  Centro de partners
 
-Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv). Puedes descargar un archivo de datos de ejemplo del Centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
+Puedes agregar varios usuarios a la vez a una cuenta de cliente, cargando un archivo de datos con formato de archivo de valores separados por comas (.csv) en el panel partners. Puedes descargar un archivo de datos de muestra desde el Panel de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos usando el modelo de datos que se define a continuación.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
 
@@ -36,7 +36,7 @@ Escribe los siguientes datos en el archivo de datos:
 | **Nombre de columna** | **Descripción**                                                              | **Limitaciones**                             |
 | Nombre      | El nombre de pila del usuario (campo opcional)                                           | Límite de 50 caracteres                         |
 | Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
-| Nombre para mostrar    | El nombre que aparecerá en el Centro de partners (campo obligatorio).                            | Límite de 50 caracteres                         |
+| Nombre para mostrar    | El nombre que aparece en el Panel de partners (campo obligatorio).                            | Límite de 50 caracteres                         |
 | Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
 | Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
 
@@ -56,13 +56,13 @@ Escribe los siguientes datos en el archivo de datos:
 
      
 
-7.  Cuando el Centro de partners haya validado el archivo, selecciona la **Ubicación** geográfica para los nuevos usuarios.
+7.  Cuando el Panel de partners haya validado el archivo, selecciona la **Ubicación** geográfica para los nuevos usuarios.
 8.  Selecciona **Guardar**.
 9.  Descarga la información de la contraseña temporal para los usuarios.
 
 **IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
 
-El Centro de partners asigna automáticamente los permisos de **Puede usar licencias y servicios** a los nuevos usuarios.
+El Panel de partners asigna automáticamente los permisos de **Puede usar licencias y servicios** a los nuevos usuarios.
 
  
 

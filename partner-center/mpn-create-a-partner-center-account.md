@@ -2,11 +2,11 @@
 title: Crear una cuenta del Centro de partners | Centro de partners
 description: Los miembros de Microsoft Partner Network necesitan crear cuentas del Centro de partners para administrar sus ventajas y competencias de la red y crear un perfil de negocio.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 Este artículo explica cómo crear una cuenta del Centro de partners y está destinada a aquellos partners que van a trasladar la información de su suscripción de Partner Network del Partner Membership Center al Centro de partners. 
 
-Para poder crear una cuenta en el Centro de partners, tu empresa debe ser miembro de Microsoft Partner Network. Si aún no eres miembro de la red, puedes [unirte ahora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Obtén más información](https://partner.microsoft.com/membership) acerca de la suscripción en Microsoft Partner Network.  
+Para poder crear una cuenta en el Centro de partners, tu empresa debe ser miembro de Microsoft Partner Network. Si aún no eres miembro de la red, puedes [unirte ahora](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Obtén más información](https://partner.microsoft.com/membership) acerca de la suscripción en Microsoft Partner Network.  
 
 Tras crear una cuenta del Centro de partners, podrás:
 
@@ -64,9 +64,9 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
 5.  Comprueba que te hayan agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
-    a. En menú **Panel**, selecciona **Configuración de la cuenta > Administración de usuarios** y selecciona tu nombre de la lista de usuarios. 
+    a. En tu **Panel**, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
 
-    b. Selecciona **Agente de administración** si aún no está seleccionado y a continuación selecciona **Actualización**. 
+    b. Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.  
 
 ## <a name="next-steps"></a>Pasos siguientes
 
