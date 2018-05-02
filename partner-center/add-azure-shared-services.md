@@ -1,5 +1,5 @@
 ---
-title: "Añadir Servicios compartidos para partners de Azure | Centro de partners"
+title: Añadir Servicios compartidos para partners de Azure | Centro de partners
 description: Los partners de CSP ahora pueden comprar suscripciones de Azure para su uso propio.
 author: labrenne
 Keywords: Azure, servicios compartidos, inquilino
