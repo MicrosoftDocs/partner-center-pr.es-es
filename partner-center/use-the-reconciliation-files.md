@@ -3,11 +3,11 @@ title: Usar los archivos de conciliación | Centro de partners
 description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -204,7 +204,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente.</p></td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente.</p></td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>Campos de archivos de compra de pago único
+
+|**Campo** |**Definición**|
+|:----------------|:-----------------------------|
+|PartnerId |Id. de partner, en formato de GUID. |
+|CustomerId |Id. de Microsoft único, en formato GUID, usado para identificar al cliente. |
+|CustomerName |Nombre de la organización del cliente según se indica en el Centro de partners. Esto es muy importante para conciliar la factura con la información del sistema. |
+|CustomerDomainName |Nombre de dominio del cliente. |
+|CustomerCountry |El país donde se encuentra el cliente. |
+|InvoiceNumber |Número de factura donde aparece la transacción especificada. |
+|MpnId |Id. de MPN del partner CSP (directo o indirecto). |
+|Id. de MPN del revendedor |Solo aparece en los archivos de conciliación de partners en el modelo indirecto. Id. de MPN del revendedor de registro de la reserva. Corresponde al id. de revendedor indicado para la reserva específica en el Centro de partners. Si un partner CSP vendió la reserva directamente al cliente, su id. de MPN aparece dos veces, como id. de MPN y como id. de MPN del revendedor. Si un partner CSP tiene un revendedor sin un id. de MPN, este valor se establece en el id. de MPN del partner. Si el partner CSP quita un id. de revendedor, este valor se establece en -1. |
+|OrderId |Identificador único de un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar la reserva al ponerse en contacto con el soporte técnico, pero no para la reconciliación. |
+|OrderDate |Fecha de realización del pedido. |
+|ProductId |Identificador del producto. |
+|SkuId  |Id. de un SKU concreto. |
+|AvailabilityId |Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc. |
+|SkuName  |Título para un SKU concreto. |
+|ProductName |Nombre del producto. |
+|ChargeType |Tipo de cargo o ajuste. |
+|UnitPrice |Precio por producto pedido. |
+|Quantity |Número de productos pedidos. |
+|Subtotal |Total sin impuestos. Comprueba que el subtotal coincide con el total previsto, en el caso de un descuento. |
+|TaxTotal |Total de todos los impuestos aplicables. |
+|Total |Número total de esta compra. |
+|Moneda |Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación. |
+|DiscountDetails |Lista detallada de los descuentos relevantes. |
 
 
 

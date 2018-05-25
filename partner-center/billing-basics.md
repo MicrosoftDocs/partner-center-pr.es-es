@@ -3,11 +3,11 @@ title: Conceptos básicos sobre facturación | Centro de partners
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -144,3 +144,32 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>Facturación de un solo uso
+
+Los partners del programa de Proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes instancias reservadas en máquinas virtuales de Microsoft Azure. Los clientes pueden reservar máquinas virtuales por adelantando (para periodos de uno a tres años) y lograr ahorros significativos en el uso de Azure.   
+
+Tus clientes pagan por adelantado para Azure Reserved VM Instances. Al comprar Azure Reserved VM Instances en nombre de un cliente, recibirás facturas y archivos de conciliación para estos cargos únicos. 
+
+>[!IMPORTANT]
+>Si has comprado Azure Reserved VM Instances para un cliente en un mercado con una moneda diferente a la tuya, la divisa de facturación predeterminada se basa en el mercado del cliente, no en tu ubicación. Si tienes clientes en varios mercados, recibirás facturas y archivos de conciliación independientes para cada divisa en la que los clientes deben facturar, lo que te permite facturar a los clientes en la divisa adecuada. 
+
+Para obtener acceso a archivos de conciliación y facturas de cargo único, selecciona **Facturación** en el Panel de partners y luego selecciona **Una vez**. 
+
+### <a name="manage-your-one-time-billing"></a>Administrar tu facturación única
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Ver el estado actual de facturación, facturas y archivos de conciliación
+
+1.  En el Panel de partners, selecciona **Facturación** y, después, **Una vez** para ver el estado de facturación. 
+2.  Selecciona una factura o un archivo de conciliación para ver información más detallada. 
+
+#### <a name="view-a-customers-order-history"></a>Ver el historial de pedidos de un cliente
+
+1.  En el menú del panel, selecciona **Clientes**.
+2.  En tu página **Clientes**, busca el cliente cuyo historial de pedidos quieres ver y, a continuación, selecciona la flecha abajo para expandir el registro del cliente. 
+3.  Selecciona **Vea pedidos** para mostrar el historial de pedidos.
+
+#### <a name="create-a-credit-or-void-note"></a>Crear una nota nula o de crédito
+
+En algún momento es posible que debas anular una factura y, a continuación, emitir una nueva. Por ejemplo, un cliente puede cambiar el nombre de su negocio y, a continuación, recibir una factura con el nombre anterior. 
+
+Para anular una factura y que se emita una nueva, descargar el formulario en la página de facturación en ajustes.

@@ -2,11 +2,11 @@
 title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de partners
 description: Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -29,6 +29,7 @@ Puede llevarnos varios días revisar y comprobar la información que has proporc
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Inscribirse como un revendedor indirecto
 
+
 1. Una vez que te has inscrito como un revendedor indirecto, debes [encontrar un proveedor indirecto](https://partnercenter.microsoft.com/partner/find-a-provider) con el que trabajar. El proveedor con el que trabajes te enviará clientes, administrará las compras de software que puedes vender y se encargará del soporte y facturación de los clientes, lo que te permite centrarte en la creación de tu negocio de revendedor.
 
 2. El administrador global debe configurar tu cuenta en el Panel de partners. El administrador global puede agregar empleados de tu organización que trabajarán en el Panel de partners, asignarles roles y permisos en función del trabajo que realicen y configurar el perfil de organización.
@@ -39,7 +40,7 @@ Puede llevarnos varios días revisar y comprobar la información que has proporc
 
 ### <a name="enroll-as-a-direct-partner"></a>Inscribirse como un partner directo
 
->**Nota**<br> Estamos actualizando los requisitos de inscripción de partners directos por lo que actualmente no aceptamos nuevas solicitudes. Tenemos previsto volver a abrir el proceso de solicitud a partir del segundo trimestre de 2018. Plantéate la posibilidad de inscribirte como revendedor indirecto.
+>**Nota**<br> Estamos actualizando los requisitos de inscripción de partners directos por lo que actualmente no aceptamos nuevas solicitudes. Tenemos previsto volver a abrir el proceso de solicitud a partir del 31 de agosto. Plantéate la posibilidad de inscribirte como revendedor indirecto. 
 
 Como partner directo, tienes la relación integral con tu cliente y con Microsoft.
 

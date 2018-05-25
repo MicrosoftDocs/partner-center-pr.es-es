@@ -1,14 +1,14 @@
 ---
 title: Leer factura | Centro de partners
-description: "La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners."
+description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -97,29 +97,44 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>Invoice date</td>
 <td>La fecha en la que recibes tu factura.</td>
 </tr>
+
 <tr class="odd">
+<td>Condiciones de pago</td>
+<td>Para las compras de pago único siempre serán 60días.</td>
+</tr>
+
+
+<tr class="even">
 <td>Payment due date</td>
 <td>Fecha en la que debe recibirse tu pago.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Customer PO</td>
 <td>El número de pedido de compra.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Customer service</td>
 <td>La dirección del sitio web para acceder al servicio de atención al cliente.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Destinatario del servicio</td>
 <td>La dirección en la que se usa el servicio. (Esta es la dirección legal de la compañía asociada al control de la compañía y no se puede cambiar).</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>Lista desglosada de los cargos de pago único
 
- 
-
+|**Campo** |**Definición**|
+|:----------------|:-----------------------------|
+|Fecha |Fecha de compra. |
+|Descripción |Nombre del producto. |
+|Cantidad |Número de productos (reservas, por ejemplo) adquiridos. |
+|Precio unitario |Precio por producto (reserva, por ejemplo). |
+|Descuentos |Descuentos aplicables. |
+|Importe antes de impuestos |Subtotal de las compras antes de impuestos. |
+|Impuesto sobre ventas |Importe de impuestos. |
+|Total |Total que se pagará. |
  
 
 

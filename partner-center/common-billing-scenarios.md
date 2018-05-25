@@ -4,11 +4,11 @@ description: En este tema se explica qué debes esperar ver en tu factura despu�
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 3cb6ca72b9337d384e8537e155a455fba80eb6d6
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
@@ -28,24 +28,23 @@ En este tema se explica qué debes esperar ver en tu factura después de agregar
 
 ## <a href="" id="usagebased"></a>Facturación basada en uso
 
-Solo se te facturarán los servicios que usaste en el período de facturación anterior. La factura incluye cualquier servicio o aplicación de Azure habilitado que se use durante el período de facturación.
+Las suscripciones basadas en uso se facturan mensualmente, por período vencido, el día del aniversario de la suscripción. Por ejemplo, si la fecha de aniversario de suscripción es el día 15, se te cobrará el 15 de enero por el período de servicio del 15 de diciembre al 14 de enero. Se te hará un cargo de nuevo el 15 de febrero durante el período de servicio del 15 de enero al 14 de febrero, etc. Los cargos que se generan el día del aniversario de la suscripción aparecerán en el siguiente archivo de conciliación y factura.
 
--   Las tarifas de servicio de uso medido pueden cambiar durante el ciclo de facturación.
-    -   Aumentos de precio: se proporciona un aviso de 30 días.
-    -   Disminuciones de precio: se reflejan el día en que tiene lugar el cambio.
-    -   Las suscripciones existentes se facturan según la tarifa en vigor al comienzo del ciclo de facturación.
-    -   Las nuevas suscripciones (aquellas que se crearon durante el ciclo de facturación) se facturan según la tarifa en vigor en el momento en que las agregaste.
--   Si cancelas una suscripción durante el primer ciclo de facturación, los cargos por uso aparecerán en el archivo de conciliación correspondiente al período en el que estuvo activa la suscripción.
+La suscripción basada en uso se puede suspender en cualquier momento. 
+
+La lista de precios CSP de Azure se publica mensualmente y se puede encontrar en la página de venta de Centro de partners->Precios y ofertas. Ten en cuenta que los precios pueden cambiar a diario y se reflejan en la pestaña Historial de cambios de la lista de precios.
+
+Los cargos por uso se basan en los precios diarios. Si el precio cambia durante el período de servicio, verás una línea de facturación para cada período de servicio prorrateado y precio aplicable.
 
 ## <a href="" id="licensebased"></a>Facturación basada en licencia
 
 **Facturación:** las suscripciones basadas en licencia se facturan por adelantado el día del aniversario de la suscripción.
 
-**Día de aniversario:** las suscripciones con facturación mensual se alinean con la fecha de facturación de partner y las suscripciones con facturación anual se alinean con la fecha de compra.
+**Día de aniversario:** el aniversario es el día del mes en que compraste la suscripción. Por ejemplo, si has comprado la suscripción el 15 de enero, el día de aniversario será el 15 de cada mes.
 
-**Plazo:** todas las suscripciones basadas en licencia tienen un plazo de pago de 12meses. El plazo pagado comienza en la fecha de compra para suscripciones de facturación anual y en la fecha de facturación siguiente a la fecha de compra para suscripciones de facturación mensual.
+**Plazo:** todas las suscripciones basadas en licencia tienen un plazo de pago de 12meses, que comienza en la fecha de compra.
 
-**Cancelación:** si se cancelan suscripciones en los primeros 30 días del plazo pagado, se abonara el 100%. Las suscripciones canceladas después de 30 días se abonará de forma prorrateada.
+**Cancelación:** las suscripciones suspendidas el mes 1 serán abonadas al 100%. Las suscripciones suspendidas los meses 2-12 se abonarán de forma prorrateada.
 
 **Renovación:** todas las suscripciones basadas en licencia se renuevan automáticamente 12meses después de que comience el plazo pagado.
 
@@ -56,83 +55,78 @@ Solo se te facturarán los servicios que usaste en el período de facturación a
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/1/2018         | 14/1/2018   |Tarifa de compra   |0,00       |1       |0,00    
-|15/1/2018         |14/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
+|13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|15/2/2018         |14/3/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
-Seguirá facturándose el día 15 de cada mes hasta que se suspenda la suscripción.
+|13/2/2018         |12/3/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 **Escenario 2: Cambiar cantidad de licencias**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/1/2018         |14/1/2018    |Tarifa de compra   |0,00       |1        |0,00    
-|15/1/2018         |14/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
+|13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 El 1 de febrero aumentas la cantidad de licencias de una a dos. El 15 de febrero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 15/1/2018        |14/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |4,00    
-|15/1/2018         |31/1/2018    | Prorrateo de instancia de ciclo   |2,21       |1        |2,21    
-|1/2/2018         |14/2/2018    | Prorrateo de instancia de ciclo   |1,82       |2        |3,64    
-|15/2/2018         |14/3/2018    | Prorrateo de instancia de ciclo   |4,00       |2        |8,00    
+| 13/1/2018        |12/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |4,00    
+|13/1/2018         |31/1/2018    | Prorrateo de instancia de ciclo   |2.45       |1        |2.45    
+|1/2/2018         |12/2/2018    | Prorrateo de instancia de ciclo   |1.55       |2        |3.10    
+|13/2/2018         |12/3/2018    | Prorrateo de instancia de ciclo   |4,00       |2        |8,00    
 
 **Fórmulas de precio unitario:**
 
-El precio mensual es 4,00 y hay 31 días en el periodo de servicio 15/1/2018 – 14/2/2018. Esto equivale a un precio diario de 0,13 (4/31).
+El precio mensual es 4,00 y hay 31 días en el periodo de servicio 13/1/2018 – 12/2/2018. Esto equivale a un precio diario de 0,129 (4/31).
 
-Hay 17 días en el período de prorrateo 15/1/2018 – 31/1/2018.
+Hay 19 días en el período de prorrateo 13/1/2018 – 31/1/2018.
 
-Precio unitario de prorrateo = 2,21 = 17 x 0,13
+Precio unitario de prorrateo = 2,451 = 19 x 0,129
 
-Hay 14 días en el período de prorrateo 1/2/2018 – 14/2/2018.
+Hay 12 días en el período de prorrateo 1/2/2018 – 12/2/2018.
 
-Precio unitario de prorrateo = 1,82 = 14 x 0,13
+Precio unitario de prorrateo = 1,54 = 12 x 0,129
 
 **Escenario 3: Suspensión antes de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13/1/2018         |14/1/2018    |Tarifa de compra   |0,00       |1        |0,00    
-|15/1/2018         |14/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
+|13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-15/1/2018|14/2/2018|Cuota de cancelación|-4,00|1|4,00
+13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|4,00
 
 **Escenario 4: Suspensión después de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/1/2018|14/1/2018|Tarifa de compra|0,00|1|0,00
-15/1/2018|14/2/2018|Tarifa de ciclo|4,00|1|4,00
+13/1/2018|12/2/2018|Tarifa de ciclo|4,00|1|4,00
 
 El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-15/2/2018|14/3/2018|Tarifa de ciclo|4,00|1|4,00
+13/2/2018|12/3/2018|Tarifa de ciclo|4,00|1|4,00
 
 El 1 de marzo suspendes la suscripción. El 15 de marzo el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/3/2018|14/3/2018|Cuota de cancelación|-1,96|1|-1,96
+1/3/2018|12/3/2018|Cuota de cancelación|-1,72|1|-1,72
 
 **Fórmulas de precio unitario:**
 
-El precio mensual es 4,00 y hay 28 días en el periodo de servicio 15/2/2018 – 14/3/2018. Esto equivale a un precio diario de 0,14 (4/28).
+El precio mensual es 4,00 y hay 28 días en el periodo de servicio 13/2/2018 – 12/3/2018. Esto equivale a un precio diario de 0,143 (4/28).
 
 Precio unitario = días en período de servicio x precio diario x número de licencias.
 
-Hay 14 días en el período de cancelación 1/3/2018 – 14/3/2018. 
+Hay 12 días en el período de cancelación 1/3/2018 – 12/3/2018. 
 
-Por lo tanto, el precio unitario =-1,96 (14x0,14 x(-1)).
+Por lo tanto, el precio unitario =-1,716 (14x0,14 x(-1)).
 
 ## <a name="annual-billing-scenarios"></a>Escenarios de facturación anual
 
