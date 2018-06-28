@@ -3,11 +3,12 @@ title: Preguntas frecuentes sobre las nuevas características de facturación | 
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936234"
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -474,7 +475,7 @@ El 15 de junio el archivo de conciliación contendrá solo las siguientes línea
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 
 ### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Escenario 5a: Suspender y volver a activar antes de la fecha de facturación
 
@@ -486,7 +487,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 |05/06/2018   |30/06/2018   |-30 $   |1   |30$   |Cuota de cancelación |
 |10/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
 
@@ -500,7 +501,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 
 El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 - Crédito de cancelación de -30$ para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
@@ -509,9 +510,9 @@ El 15 de julio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|20/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación |
+|20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
 |25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
-|01/07/2018   |31/07/2018   |30 $   |1   |30$   |Tarifa de ciclo |
+|01/07/2018   |31/07/2018   |30 $   |1   |30 $   |Tarifa de ciclo |
 
 ### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Escenario 5c: Suspender y volver a activar (otra cantidad de licencias) después de la fecha de facturación pero menos de 30 días desde la fecha de la compra
 
@@ -521,7 +522,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|01/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifas prorrateadas al comprar |
+|01/06/2018   |30/06/2018   |30 $   |1   |30 $   |Tarifas prorrateadas al comprar |
 
 El 15 de julio el archivo de conciliación contendrá las siguientes líneas de facturación:
 - Crédito de cancelación de -30$ para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
@@ -532,7 +533,7 @@ El 15 de julio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
-|20/06/2018   |30/06/2018   |-30 $   |1   |-30$   |Cuota de cancelación |
+|20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
 |25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
 |25/6/2018   |30/6/2018   |-6$   |1   |-6$   |Prorrateo de instancia de ciclo |
 |25/06/2018   |30/06/2018   |6$   |2   |12$   |Prorrateo de instancia de ciclo |
@@ -563,7 +564,7 @@ El 15 de agosto el archivo de conciliación contendrá las siguientes líneas de
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/08/2018   |31/08/2018   |30$   |1   |30$   |Tarifa de ciclo |
+|01/08/2018   |31/08/2018   |30$   |1   |30 $   |Tarifa de ciclo |
 
 Ten en cuenta que cuando se suspende una suscripción y vuelve a activarse, la fecha de renovación automática seguirá siendo 12meses desde la fecha de compra original. 
 
@@ -595,7 +596,7 @@ El archivo de conciliación del 15 de agosto contendrá lo siguiente:
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
-|01/08/2018   |31/08/2018   |30$  |1   |30$   |Tarifa de ciclo |
+|01/08/2018   |31/08/2018   |30$  |1   |30 $   |Tarifa de ciclo |
 
 ### <a name="scenario-8-change-of-license-quantity"></a>Escenario 8: Cambiar cantidad de licencias 
 
@@ -661,6 +662,6 @@ El 15 de junio el archivo de conciliación contendrá las siguientes líneas de 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|01/06/2018   | 30/06/2018   |30 $   |1   |30 $  |Tarifas prorrateadas al comprar |
+|29/5/2018   | 30/6/2018   |30 $   |1   |30 $  |Tarifas prorrateadas al comprar |
 
 Ten en cuenta que la suscripción se renovará automáticamente el 1 de junio de 2019.
