@@ -3,12 +3,12 @@ title: Descubre las ofertas de terceros que quieres vender | Centro de partners
 description: Busca y encuentra los tipos de ofertas de terceros que encajen bien en tu cartera.
 author: labrenne
 keywords: ofertas de terceros, software para comprar, buscar aplicaciones de terceros
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991729"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204959"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descubre las ofertas de terceros que quieres vender
 
@@ -31,7 +31,7 @@ Busca y encuentra los tipos de ofertas de terceros que encajen bien en tu carter
 
 Para obtener más detalles, selecciona un producto. Esto te llevará a la página de detalles que proporciona información detallada sobre el producto, como por ejemplo, qué hace, cómo funciona con productos de Microsoft, cómo formar a tu equipo comercial para venderlo y recomendaciones sobre cómo crear un marketing eficaz para él. 
 
-Encontrarás un vínculo al sitio web de ISV, información de contacto y, a menudo, un vídeo de demostración del producto. 
+Encontrarás también un vínculo al sitio web de ISV, información de contacto y, a menudo, un vídeo de demostración del producto. 
 
 ## <a name="add-the-product-to-your-portfolio"></a>Agregar el producto a la cartera
 

@@ -2,11 +2,12 @@
 title: Asociación con los revendedores indirectos en CSP | Centro de partners
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
-ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919895"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -125,6 +126,9 @@ Para obtener más información sobre la administración de suscripciones y las c
 [Cuentas de cliente](customer-accounts.md)
 
 [Suscripciones de cliente](customer-subscriptions.md)
+
+
+
 
 
 

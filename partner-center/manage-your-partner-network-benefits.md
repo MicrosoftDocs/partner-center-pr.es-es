@@ -1,35 +1,36 @@
 ---
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
-description: Como un miembro de Microsoft Partner Network, tienes derecho a determinados beneficios de suscripción. Explica cómo activar y administrar los beneficios de suscripción en el Centro de partners.
+description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Explica cómo activar y administrar las ventajas de suscripción en el panel de partners.
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, ventajas de miembro, miembro
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207285"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de la suscripción a Microsoft Partner Network
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
 **Se aplica a:**
 
 -  Centro de partners
 
-La suscripción a Microsoft Partner Network te proporciona algunos paquetes de beneficios. Para poder comprar y activar los beneficios de la suscripción, tu organización debe ser miembro de Microsoft Partner Network. Si no eres miembro de la red, puedes unirte en [https://partner.microsoft.com](https://partner.microsoft.com).
+>[!IMPORTANT]
+>En este artículo se explica cómo empezar a usar las ventajas de Microsoft Partner Network (MPN) en el panel de partners (antes conocido como Centro de partners), o sea en este sitio. Si no has recibido una invitación para mover la información de la organización desde el Partner Membership Center (PMC) al panel de partners, deberías seguir administrando tu suscripción a las ventajas de miembro MPN en el PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
 
->**Ten en cuenta** que este vínculo te llevará a otro sitio web. Vuelve a este sitio, el Centro de partners, para renovar y actualizar tu suscripción a la red.
-
-Tras unirte o renovar la suscripción en Microsoft Partner Network, puedes comprar ofertas de beneficios.
+Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas de suscripción que te ayudarán a construir y hacer crecer tu negocio. Si aún no eres miembro de MPN, puedes unirte en el [sitio MPN](https://partner.microsoft.com/membership).
 
 
-## <a name="manage-your-membership-benefits"></a>Administrar los beneficios de la suscripción
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Administrar las ventajas de la suscripción en el panel
 
-Tras comprar un paquete de beneficios, deberás asignar licencias, suscripciones y otros beneficios a los empleados, para que empiecen a usarlos. 
+Tras comprar un paquete de ventajas de suscripción, deberás obtener claves de software y asignar licencias, suscripciones y otras ventajas a los empleados, para que empiecen a usarlas. 
 
-Los paquetes de beneficios incluyen asignaciones de software de derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. 
+Los paquetes de ventajas incluyen asignaciones de software de derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para ver y administrar sus beneficios de pertenencia, selecciona **Beneficios** en el menú **Panel**. Se abre la página **Beneficios**. 
+Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere inicio de sesión).
 
-#### <a name="manage-software-benefits"></a>Administrar los beneficios de software
+#### <a name="manage-software-benefits"></a>Administrar las ventajas de software
 
 1.  Selecciona **Software** para ver la lista de tus beneficios de software. 
 
@@ -70,12 +71,13 @@ Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos u
 
 3. Repite este proceso para cada suscripción que desees asignar. Los usuarios pueden administrar sus suscripciones en el portal de Visual Studio. 
 
-    Puede reasignar suscripciones en cualquier momento mediante la eliminación de un usuario asignado y, a continuación, asignar un usuario diferente. 
+    Puedes reasignar suscripciones en cualquier momento mediante la eliminación de un usuario asignado y, a continuación, asignar un usuario diferente. 
 
+#### <a name="manage-technical-benefits"></a>Administrar las ventajas técnicas
 
-#### <a name="manage-support-benefits"></a>Administrar los beneficios de soporte técnico
+1. Selecciona **Ventajas técnicas** para ver la lista de tus ventajas técnicas de Microsoft.
 
-1. Selecciona **Soporte** para ver la lista de tus beneficios relacionados con el soporte técnico de Microsoft. 
+    Las ventajas técnicas pueden incluir incidentes de soporte técnico de productos de Microsoft, horas de asesoría de partner y servicios de preventas técnicas e implementación.   
 
 2. Busca el beneficio de soporte técnico que quieras empezar a usar y a continuación selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles de dicho beneficio. 
 
@@ -83,11 +85,14 @@ Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos u
    
     a.  Selecciona un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en la **configuración de la cuenta**.
 
-    b.  Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. 
+    b.  Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del panel de partners de tu empresa. 
     
-    Como medida de seguridad, te enviaremos un mensaje de instrucciones para acceder a soporte técnico de Microsoft a esta dirección de correo electrónico, además del correo electrónico de la cuenta de Centro de partners del usuario. Ten en cuenta que puede tardar varios días activar este beneficio y que el usuario asignado reciba las instrucciones por correo electrónico.    
+    Como medida de seguridad, enviaremos un correo electrónico con instrucciones para acceder al soporte técnico de productos de Microsoft a esta dirección de correo electrónico, además del correo electrónico a la cuenta del panel del usuario. Ten en cuenta que pueden pasar varios días para activarse este beneficio y que el usuario asignado reciba las instrucciones por correo electrónico.    
     
-    c.  Cuando hayas terminado de escribir la dirección de correo electrónico alternativa, selecciona **Asignar usuario**. 
+    c.  Cuando hayas terminado de introducir la dirección de correo electrónico alternativa, selecciona **Asignar usuario**. 
+
+4. Puedes usar la asistencia técnica de preventas o la ventaja de horas de asesoría para solicitar asistencia técnica durante las preventas, el diseño, la implementación y las fases de desarrollo de aplicaciones de las soluciones en la nube e híbridas. Para solicitar asistencia, rellena el [formulario de solicitud](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+) y, a continuación, selecciona **Enviar solicitud**.
 
 
 #### <a name="see-also"></a>Consulta también

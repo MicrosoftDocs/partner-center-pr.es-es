@@ -1,12 +1,13 @@
 ---
-title: "Quitar una relación de revendedor con un cliente | Centro de partners"
-description: "Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners."
+title: Quitar una relación de revendedor con un cliente | Centro de partners
+description: Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners.
 author: KPacquer
-ms.openlocfilehash: e178318e50b6a2b3bb7a6d7ecf7ec83f6d93b7c3
-ms.sourcegitcommit: 955622c85ff0905647974fc598139579191b55da
+ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088972"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Quitar una relación de revendedor con un cliente
 
@@ -20,11 +21,11 @@ Esta característica:
 *  Quita el cliente de tu lista de clientes del Centro de partners.
 *  Te quita a ti de la [lista de contactos de soporte técnico disponibles](assign-support-contacts.md) de tu cliente.
 *  Te quita tus privilegios de administrador de delegación del cliente.
-*  Te quita la posibilidad de realizar compras en nombre de tu cliente.
+*  Quita la posibilidad de realizar compras en nombre del cliente.
 
-Para quitar la relación, en primer lugar deberás suspender las suscripciones activas que queden:
+Para quitar la relación, deberás primero cancelar las reservas RI de Azure, cancelar las compras de software y suspender las suscripciones activas restantes:
 
-1.  Suspende cualquier suscripción activa. En el panel, ve a **Clientes** > selecciona un cliente > **Suscripciones** > selecciona una suscripción > **Suspendida**. 
+1.  Suspender todas las suscripciones activas. En el panel, ve a **Clientes** > selecciona un cliente > **Suscripciones** > selecciona una suscripción > **Suspendida**. 
 
    Repite este procedimiento para cada suscripción activa.
 

@@ -3,11 +3,12 @@ title: Prepararse para trasladarse del Centro de administración de partners al 
 description: Funcionalidad de Centro de administración de partners de Office 365 se traslada al Centro de partners.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911299"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>El Centro de administración de partners se está mudando al Panel de partners
 
@@ -27,7 +28,7 @@ Durante abril de 2018, el PAC se irá retirando y los partners del CSP comenzar�
 
 **Partners del programa Proveedor de soluciones en la nube** Si eres partner de CSP, se te redirigirá automáticamente al Panel de partners a partir de abril de 2018. 
 
-**Partners asesores** Si eres partner asesor, se te redirigirá automáticamente al Panel de partners durante mayo de 2018.
+**Partners asesores** (si no transacciones a través de CSP y usas PAC para proporcionar pruebas/ofertas para los clientes) Tan pronto como decidamos la línea de tiempo para el redireccionamiento automático al Centro de partners, lo anunciaremos aquí. 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>¡Comienza a usar ahora mismo el Panel de partners de Microsoft!

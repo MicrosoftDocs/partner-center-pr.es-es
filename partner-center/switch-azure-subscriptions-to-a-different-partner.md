@@ -4,11 +4,12 @@ description: Un cliente puede cambiar el partner del programa Proveedor de soluc
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088962"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -50,8 +51,8 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
     -   Id. de suscripción que se va a transferir. En el listado de clientes expandido, selecciona **Ver suscripciones** y luego expande la suscripción seleccionada para ver el **Id. de suscripción**.
 
-    >**Nota**<br> Transferir una suscripción genera dos identificadores de suscripción que verás en la página **Editar suscripción** de la suscripción transferida: **1**- El identificador de suscripción del Centro de partners se usa para fines de facturación. Este identificador aparecerán en el archivo de conciliación. 
-    **2**- El identificador de suscripción original de Azure se conserva y aparecerá en el Centro de partners, así como en el portal de administración de Azure. **Al registrar vales de soporte técnico, deberás usar ambos identificadores.**
+    >**Nota**<br> Transferir una suscripción genera dos identificadores de suscripción que verás en la página **Editar suscripción** de la suscripción transferida: **1**- El identificador de suscripción del Centro de partners se usa para fines de facturación. 
+    **2**- El id. de suscripción original de Azure se conserva y aparecerá en el Centro de partners, así como en el portal de administración de Azure. Este id. aparecerá en el archivo de conciliación.  **Al registrar vales de soporte técnico, deberás usar ambos id.**
 
 4.  Para el cliente y el nuevo partner para la suscripción:
 

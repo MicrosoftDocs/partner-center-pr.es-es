@@ -1,52 +1,52 @@
 ---
 title: Suscripción a Microsoft Partner Network | Centro de partners
-description: Obtén información sobre los beneficios de unirse a Microsoft Partner Network.
+description: Obtén información sobre las ventajas de asociarse con Microsoft.
 author: MaggiePucciEvans
-keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, beneficios, beneficios de MPN, suscripción
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207225"
 ---
-# <a name="partner-with-microsoft"></a>Asóciate con Microsoft
+# <a name="partner-with-microsoft"></a>Partner de Microsoft
 
-## <a name="join-the-microsoft-partner-network"></a>Únete a Microsoft Partner Network.
+Cuando te unes a un programa de partners de Microsoft, te conviertes en parte de una comunidad global que se conecta a las relaciones, las informaciones, las herramientas, los recursos y los programas que necesitas para sorprender a tus clientes y hacer crecer tu negocio. 
 
-Microsoft Partner Network proporciona tres tipos de suscripción. Cada uno de ellos proporciona un conjunto de beneficios que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el programa en el nivel que se adapte a tus propias necesidades empresariales para acceder a más beneficios y desarrollarás tu relación con nosotros y con otros partners de la red.
+Consulta [¿Por qué Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) para obtener más información sobre las ventajas de asociarte con Microsoft. 
 
--   **Miembro de la red** Cuando te unes a este nivel básico gratuito, recibes una serie de [beneficios principales de derechos de uso interno](https://partner.microsoft.com/membership/core-benefits) que pueden ayudarte a ahorrar tiempo y dinero mientras refuerzas tus capacidades, proporcionas un mejor servicio a los clientes y creas conexiones para alcanzar el potencial completo de tu negocio.
 
-    -   [Más información sobre Microsoft Partner Network](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a>El programa de partners de Microsoft trabaja para ti
 
-    -   [Únete ahora mismo a Microsoft Partner Network](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+Microsoft Partner Network ofrece tres niveles de suscripción. Cada nivel ofrece un conjunto de ventajas que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el programa al nivel que se adapte a tus propias necesidades, para acceder a más ventajas y desarrollar tu relación con nosotros y con otros partners de la red. 
 
--   **Action Pack** Compra Action Pack, una suscripción anual asequible, para obtener beneficios de red adicionales, incluido el acceso a herramientas de desarrollo, soporte, formación y software. En este nivel puedes mejorar tu experiencia y desarrollar nuevos conocimientos.
+Para obtener más información acerca de la red de partners, revisa la [información general de suscripción](https://partner.microsoft.com/membership) del [sitio de red de partners](https://partner.microsoft.com). 
 
-    -   [Más información sobre Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+Obtén información sobre los niveles de pertenencia y las [ventajas del software de derechos de uso interno](https://partner.microsoft.com/membership/internal-use-software) en el [sitio de red de partners](https://partner.microsoft.com). 
 
-    -   [Suscribirse ahora mismo a Action Pack](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a>Nivel 1: Introducción a Action Pack 
 
--   **Competencia** Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte a satisfacer las necesidades de tus clientes y ser reconocible a los posibles clientes. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
+Al comprar una suscripción anual a Microsoft Action Pack, obtienes acceso a herramientas de desarrollo, soporte técnico, formación y software que te ayudarán a crear tu práctica de Microsoft un mundo donde lo primero es la nube. En este nivel de pertenencia, puedes mejorar tu experiencia y desarrollar nuevos conocimientos.
 
-    -   Obtén competencias Silver para demostrar tu capacidad, experiencia y compromiso.
+Consulta [Obtener Action Pack](mpn-get-action-pack.md) para obtener más información acerca de cómo comprar por primera vez o renovar esta ventaja de suscripción.  
 
-    -   Obtén competencias Gold para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft.
+>[!IMPORTANT]
+>Entre ahora y final de año, vamos a mover la administración de suscripciones de Action Pack desde el Partner Membership Center (PMC) al panel de partners. La renovación de la suscripción a Action Pack puede variar de un momento a otro, por lo que debes revisar cuidadosamente la información de [Obtener Action Pack](mpn-get-action-pack.md).  
 
-    [Más información sobre cómo obtener competencias Silver y Gold](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a>Introducción al Panel de partners
+### <a name="level-2---take-the-next-step"></a>Nivel 2: Dar el siguiente paso
 
-Para que sea más fácil colaborar con Microsoft y para ayudarte a ahorrar tiempo y dinero, estamos trabajando en segundo plano para trasladar las funcionalidades, las funciones y los flujos de trabajo que actualmente se encuentran dispersos por varios sitios web, así como las herramientas, hasta el Panel de partners, este sitio. 
+Gana **competencias Silver** para presentar tu experiencia especializada, tus habilidades y tu pensamiento estratégico. 
+    
+Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades de tus clientes y ser reconocible para posibles clientes. 
 
-A medida que trasladamos funcionalidades específicas al Panel de partners, vamos retirando los sitios heredados que se usaban para alojarlas. Para seguir sacando partido de estas funciones, debes crear una cuenta en este sitio, el Panel de partners. 
+[Más información sobre cómo obtener competencias Silver](https://partner.microsoft.com/membership/competencies)
 
-Por ejemplo, si acostumbrabas a obtener y administrar referencias en Pinpoint, ese sitio se ha retirado y todas sus funcionalidades relativas a referencias están ahora en el Centro de partners. Sigue estos pasos para empezar a trabajar en el Panel de partners:   
 
--   [Crear una cuenta del Panel de partners](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a>Nivel 3: Unirse al nivel de elite
 
--   [Crear un perfil de negocio para obtener referencias de cliente](create-a-marketing-profile.md)
+Gana **competencias Gold** para demostrar la capacidad más alta y especializada para satisfacer las necesidades de los clientes. 
 
--   [Administrar los beneficios de la suscripción a Microsoft Partner Network](manage-your-partner-network-benefits.md)
+[Más información sobre cómo obtener competencias Gold](https://partner.microsoft.com/membership/competencies)
 
