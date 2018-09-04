@@ -1,13 +1,15 @@
 ---
 title: Administrar tu cuenta del Centro de partners | Centro de partners
-description: Después de que se te acepte en el programa Proveedor de soluciones en la nube, tú o el administrador tendréis que configurar la cuenta de la empresa en el Centro de partners.
+description: Administrar perfiles de la organización, información bancaria y fiscal y los usuarios.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: eee73df917d894fa780e15eedb61b7180b511047
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 225e2e6ea5bb9d0f5527974edc488707aa46989a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875965"
 ---
 # <a name="manage-your-partner-dashboard-account"></a>Administrar tu cuenta del Panel de partners
 
@@ -15,9 +17,12 @@ ms.lasthandoff: 04/08/2018
 
 -  Centro de partners
 
-La cuenta que crees en el Panel de partners al inscribirte es tu correo electrónico profesional junto con información de tu empresa. Después de crear una cuenta en el Panel de partners, el administrador o tú tendréis que completar la configuración del perfil completo de tu empresa, incluyendo los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. 
+La cuenta que crees en el Panel de partners al inscribirte es tu correo electrónico profesional junto con información de tu empresa. Después de crear una cuenta en el panel de partners, el administrador o tú que finalizar la configuración de perfil completo de tu empresa incluidos los detalles de soporte técnico, exenciones fiscales si procede y la información de contacto principal. 
 
-El administrador también debe crear cuentas de usuario para todos aquellos que usarán el Panel de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias y proporcionar soporte técnico.
+El administrador o tú también creará cuentas de usuario para todos aquellos que usarán el panel de partners para agregar o administrar a clientes, vender suscripciones, trabajar con la facturación y facturación, crear perfiles de negocio, administrar referencias, trabajar con incentivos los programas y proporcionar soporte técnico.
+
+>[!NOTE]
+>Configuración de la cuenta se encuentra en la esquina superior derecha del panel. Cuando se selecciona el icono, podrás seleccionar dónde quieres administrar. Por ejemplo, selecciona el **icono de la cuenta**y, a continuación, selecciona la **administración de usuarios**. Esto te llevará a la página de administración de usuario y también se abre un panel adicional que incluye todas las opciones de **configuración de la cuenta** .
 
 
 ## <a name="resources-to-help-you-manage-your-partner-dashboard-account"></a>Recursos para ayudarte a administrar tu cuenta del Panel de partners

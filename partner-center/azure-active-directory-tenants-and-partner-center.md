@@ -4,11 +4,13 @@ description: Para crear una cuenta del Centro de partners, tu empresa debe tener
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
-ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876085"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Cuenta profesional de tu empresa y Panel de partners  
 

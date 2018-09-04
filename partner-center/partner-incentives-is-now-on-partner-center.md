@@ -1,12 +1,14 @@
 ---
-title: "Los incentivos de partners ya están disponibles en el Centro de partners | Centro de partners"
-description: "Los programas de incentivos animan a los partners a desarrollar nuevas técnicas de marketing, ofrecen formación y mucho más"
+title: Los incentivos de partners ya están disponibles en el Centro de partners | Centro de partners
+description: Los programas de incentivos animan a los partners a desarrollar nuevas técnicas de marketing, ofrecen formación y mucho más
 author: labrenne
-ms.openlocfilehash: df329e690c839a8763268479fd52b5797fcc4a4c
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875675"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Los incentivos de partners ya están disponibles en el Centro de partners 
 

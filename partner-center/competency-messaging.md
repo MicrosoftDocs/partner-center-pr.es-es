@@ -3,40 +3,47 @@ title: Competencia de mensajes
 description: La competencia de mensajes reconoce a partners que obtienen una ventaja competitiva, acortan los ciclos de ventas y hacen crecer sus negocios al demostrar sus conocimientos como proveedor de soluciones de Microsoft Exchange cualificado.
 author: Daniel Simpson
 keywords: competencia,competencias,mensajes
-ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875685"
 ---
-#<a name="messaging"></a>Mensajes
-La competencia de mensajes reconoce a partners que obtienen una ventaja competitiva, acortan los ciclos de ventas y hacen crecer sus negocios al demostrar sus conocimientos como proveedor de soluciones de Microsoft Exchange cualificado.
+>[!IMPORTANT]
+>Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="hybrid-services-partner-option"></a>Opción de partner de servicios híbridos
-Aprueba los exámenes o certificaciones para poner a prueba tus conocimientos sobre el producto.
+<!--
+#Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-###<a name="silver"></a>Silver
-1. Tu organización debe tener **2** personas que hayan aprobado los requisitos de certificación o examen.
+##Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
+
+###Silver
+1. Your organization must have **2** individuals pass the exam or certification requirements.
     
-    - **2** personas deben aprobar, cada una, los siguientes exámenes:
-        - [Examen 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitación de servicios de Microsoft Office 365
-        - [Examen 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Diseñar e implementar Microsoft Exchange Server 2016
+    - **2** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **O bien,**
+    **OR**
 
-     - **2** personas deben aprobar la certificación siguiente:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productividad
+     - **2** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a>Gold
-1. Tu organización debe tener **4** personas que hayan aprobado los requisitos de certificación o examen.
+###Gold
+1. Your organization must have **4** individuals pass the exam or certification requirements.
 
-    - **4** personas deben aprobar, cada una, los siguientes exámenes:
-        - [Examen 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitación de servicios de Microsoft Office 365
-        - [Examen 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Diseñar e implementar Microsoft Exchange Server 2016
+    - **4** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **O bien,**
+    **OR**
 
-    - **4** personas deben aprobar la certificación siguiente:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productividad
-
+    - **4** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+-->
 

@@ -1,10 +1,14 @@
 ---
-title: "Versión de prueba de las nuevas características del Centro de partners"
-description: "Prueba las nuevas características del Centro de partners antes de su lanzamiento y cuéntanos tu opinión. Ayuda a determinar el futuro del Centro de partners."
+title: Versión de prueba de las nuevas características del Centro de partners
+description: Prueba las nuevas características del Centro de partners antes de su lanzamiento y cuéntanos tu opinión. Ayuda a determinar el futuro del Centro de partners.
 author: MaggiePucciEvans
-ms.openlocfilehash: 61c8188ec08ed8fb22c4e3eade24e7273e2dd6ed
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876665"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Versión de prueba de las nuevas características del Centro de partners
 

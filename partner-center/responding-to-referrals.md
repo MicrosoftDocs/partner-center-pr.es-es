@@ -1,13 +1,15 @@
 ---
 title: Responder a las referencias | Centro de partners
-description: "Evaluar, negociar y responder a las referencias a través del Centro de partners."
+description: Evaluar, negociar y responder a las referencias a través del Centro de partners.
 author: KPacquer
 keywords: referencia, RFI, Buscar un partner
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875425"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Responder a las referencias en | Centro de partners
 

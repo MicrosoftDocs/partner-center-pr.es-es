@@ -1,85 +1,93 @@
 ---
 title: Competencia de plataformas en la nube
-description: "La competencia de plataformas en la nube se ha diseñado para que los partners saquen partido de la creciente demanda de soluciones de software como servicio (SaaS) e infraestructura integradas en Microsoft Azure."
+description: La competencia de plataformas en la nube se ha diseñado para que los partners saquen partido de la creciente demanda de soluciones de software como servicio (SaaS) e infraestructura integradas en Microsoft Azure.
 author: Daniel Simpson
 keywords: competencia,competencias,plataforma en la nube
-ms.openlocfilehash: 1ae6408b2fc7efca904e84907be1735c76ea480e
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 625bf04a692a13ae88ad3487d99aea36be50be02
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875195"
 ---
-#<a name="cloud-platform"></a>Plataforma en la nube
-La competencia de plataformas en la nube se ha diseñado para que los partners saquen partido de la creciente demanda de soluciones de software como servicio (SaaS) e infraestructura integradas en Microsoft Azure.
+>[!IMPORTANT]
+>Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="azure-consumption-option"></a>Opción de consumo de Azure
-La opción de consumo de Azure es ideal para partners que están impulsando el uso/adopción de Azure entre sus clientes y que deciden obtener esta competencia cumpliendo con los umbrales de rendimiento. Realiza todos los pasos para obtener la competencia de la plataforma en la nube.
+<!--
+#Cloud Platform
+The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 
-###<a name="silver"></a>Silver
+##Azure Consumption option
+The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Cloud Platform competency.
 
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+###Silver
 
-    - **Mercados desarrollados**
-        - Los partners deben demostrar un consumo de clientes de Azure de 15.000USD en los 12 meses anteriores
+1. Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+        - Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months
     
-    - **Mercados en desarrollo** 
-        - Los partners deben demostrar un consumo de clientes de Azure de 10000USD en los 12 meses anteriores.
+    - **Developing Markets** 
+        - Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months
 
-    - Para estos clientes, tienes que estar asociado como partner digital de registro o partner de transacciones de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.  
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. Tu organización debe tener **1** persona que haya aprobado los requisitos de examen o evaluación.
+2. Your organization must have **1** individual pass the exam or assessment requirements.
 
-    - **1** persona debe aprobar una de las evaluaciones siguientes:
-        - [Evaluación técnica de Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [Evaluación técnica para el uso de Azure para análisis de datos y soluciones de plataforma de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Evaluación técnica para el uso de Microsoft Azure para el desarrollo de aplicaciones](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Evaluación técnica para usar Azure para soluciones de Internet de las cosas](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Evaluación técnica para usar el servicio de escritorio remoto de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **1** individual must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **O bien,**
+    **OR**
 
-    - **1** persona debe aprobar uno de los exámenes siguientes:
-        - [Examen 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Desarrollo de soluciones de Microsoft Azure
-        - [Examen 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementación de soluciones de infraestructura de Microsoft Azure
-        - [Examen 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Arquitectura de soluciones de Microsoft Azure*
-        - [Examen 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Arquitectura de soluciones de Microsoft Azure 
-        - [Examen 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Diseño e implementación de soluciones de plataforma de datos en la nube
-        - [Examen 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Diseño e implementación de soluciones de análisis de Big Data
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux en Azure
+    - **1** individual must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-*Se retira el 31 de diciembre de 2017. Este examen seguirá aceptándose para calificación de competencias hasta el 31 de diciembre de 2018. Puedes registrarte para este examen hasta el 30 de noviembre de 2017.
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-Después del 30 de noviembre de 2017, deberás registrarte para el examen de reemplazo indicado anteriormente, examen 70-535.  
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
 
-###<a name="gold"></a>Gold
+###Gold
 
-1. Tu organización debe cumplir con los umbrales de rendimiento.
+1. Your organization must meet the performance thresholds.
 
-    - Los partners deben demostrar un consumo de clientes de Azure de 100.000USD en los 12 meses anteriores
-    - Para estos clientes, tienes que estar asociado como partner digital de registro o partner de transacciones de registro.
-    - [Más información](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) sobre estas asociaciones.
+    - Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. Tu organización debe tener **2** personas que hayan aprobado los requisitos de examen o evaluación.
+2. Your organization must have **2** individuals pass the exam or assessment requirements.
 
-    - **2** personas deben aprobar una de las evaluaciones siguientes:
-        - [Evaluación técnica de plataforma en la nube](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [Evaluación técnica para el uso de Azure para análisis de datos y soluciones de plataforma de datos](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Evaluación técnica para el uso de Microsoft Azure para el desarrollo de aplicaciones](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Evaluación técnica para usar Azure para soluciones de Internet de las cosas](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Evaluación técnica para usar el servicio de escritorio remoto de Azure](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **O bien,**
+    **OR**
 
-    - **2** personas deben aprobar uno de los exámenes siguientes:
-        - [Examen 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Desarrollo de soluciones de Microsoft Azure
-        - [Examen 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementación de soluciones de infraestructura de Microsoft Azure
-        - [Examen 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Arquitectura de soluciones de Microsoft Azure*
-        - [Examen 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Arquitectura de soluciones de Microsoft Azure 
-        - [Examen 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Diseño e implementación de soluciones de plataforma de datos en la nube
-        - [Examen 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Diseño e implementación de soluciones de análisis de Big Data
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux en Azure
+    - **2** individuals must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-*Se retira el 31 de diciembre de 2017. Este examen seguirá aceptándose para calificación de competencias hasta el 31 de diciembre de 2018. Puedes registrarte para este examen hasta el 30 de noviembre de 2017.
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-Después del 30 de noviembre de 2017, deberás registrarte para el examen de reemplazo indicado anteriormente, examen 70-535. 
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535. 
+-->

@@ -2,12 +2,13 @@
 title: Quitar una relación de revendedor con un cliente | Centro de partners
 description: Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners.
 author: KPacquer
-ms.openlocfilehash: eb48bb660fbd6acac91426eff5c0b9f4c8c45729
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088972"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875515"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Quitar una relación de revendedor con un cliente
 

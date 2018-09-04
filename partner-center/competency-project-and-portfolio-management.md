@@ -1,38 +1,47 @@
 ---
-title: "Competencia de administración de carteras y proyectos"
-description: "La competencia de administración de carteras y proyectas reconoce a partners que demuestran la capacidad de ofrecer soluciones de administración de proyectos empresariales a sus clientes."
+title: Competencia de administración de carteras y proyectos
+description: La competencia de administración de carteras y proyectas reconoce a partners que demuestran la capacidad de ofrecer soluciones de administración de proyectos empresariales a sus clientes.
 author: Daniel Simpson
 keywords: competencia, competencias
-ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876035"
 ---
-# <a name="project-and-portfolio-management"></a>Administración de carteras y proyectos 
-La competencia de administración de carteras y proyectas reconoce a partners que demuestran la capacidad de ofrecer soluciones de administración de proyectos empresariales a sus clientes.
+>[!IMPORTANT]
+>Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="project-and-portfolio-partner-option"></a>Opción de partner de carteras y proyectos
-La opción de partner de carteras y proyectos es ideal para partners que ofrecen administración de proyectos y carteras en toda la empresa, tanto a nivel local como en la nube. Realiza todos los pasos de la opción para obtener la competencia de administración de carteras y proyectos.
+<!--
 
-###<a name="silver"></a>Silver
-1. Tu organización debe tener **2** personas que hayan aprobado los requisitos de exámenes.
+# Project and Portfolio Management 
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-    - **2** personas deben aprobar, cada una, los siguientes exámenes:
+## Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gestionar proyectos con Microsoft Project
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gestionar proyectos y carteras con Microsoft PPM
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-###<a name="gold"></a>Gold
-1. Tu organización debe tener **4** personas que hayan aprobado los requisitos de exámenes.
+    - **2** individuals must each pass all the following exams:
 
-    - **4** personas deben aprobar, cada una, los siguientes exámenes:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Gestionar proyectos con Microsoft Project
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Gestionar proyectos y carteras con Microsoft PPM
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    **Y** 
+    - **4** individuals must each pass all the following exams:
 
-    - **2** de estas **4** personas deben aprobar, cada una, el siguiente examen:
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gestionar Microsoft SharePoint Server 2016
+    **AND** 
+
+    - **2** of the same **4** individuals must each pass the following exam:
+
+        *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+-->

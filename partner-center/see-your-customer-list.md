@@ -1,12 +1,15 @@
 ---
 title: Administrar la lista de clientes | Centro de partners
-description: "Los registros de cliente son unos de los recursos de información más importantes del Centro de partners."
+description: Los registros de cliente son unos de los recursos de información más importantes del Centro de partners.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876825"
 ---
 # <a name="manage-your-customer-list"></a>Administrar la lista de clientes
 
@@ -27,6 +30,12 @@ Los registros de actividad también proporcionan datos exportables sobre transac
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
 3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
 
+## <a name="update-a-customers-company-name"></a>Actualizar el nombre de la empresa de un cliente
+
+En el menú **Panel**, selecciona **Clientes**.
+2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
+3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
+4.  En la información de **facturación** del cliente, actualiza el nombre de la empresa. Al guardar el nuevo valor, se reflejarán en la lista de clientes. Esto cambiará solo el nombre de empresa de factura y el valor de la lista de clientes. No se reflejarán en cualquier lugar else.
 
 ## <a name="export-your-customer-list"></a>Exportar la lista de clientes
 

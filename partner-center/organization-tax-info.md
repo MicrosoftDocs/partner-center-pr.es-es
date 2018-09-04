@@ -1,12 +1,14 @@
 ---
-title: "Información fiscal de la organización | Centro de partners"
-description: "Si procede, debe agregarse el número de IVA a la información de tu organización"
+title: Información fiscal de la organización | Centro de partners
+description: Si procede, debe agregarse el número de IVA a la información de tu organización
 author: labrenne
-ms.openlocfilehash: 5d95c6bf8524b2d8af746e163dc50e33c5696e54
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874645"
 ---
 # <a name="organization-tax-information"></a>Información fiscal de la organización
 

@@ -4,11 +4,13 @@ description: Una de las primeras cosas que puedes hacer si un cliente está expe
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 Keywords: health, service health,service problems
-ms.openlocfilehash: bd55232bb1b7326613114d53e8b75ade353a676b
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4b9d3d1009f647098a025a76ab11c314193ec4d3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874635"
 ---
 # <a name="check-service-health"></a>Comprobar el estado del servicio
 

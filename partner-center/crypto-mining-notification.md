@@ -4,12 +4,13 @@ description: Notificación acerca de una posible criptominería.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
-ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2018
-ms.locfileid: "1936204"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876235"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notificación del Panel de partners para actividad de minería de criptomonedas
 

@@ -3,11 +3,13 @@ title: Conceptos básicos sobre facturación | Centro de partners
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876395"
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -146,7 +148,7 @@ Azure funciona con el modelo "pagar por uso", en el que solo se facturan los ser
 
 ## <a name="one-time-billing"></a>Facturación de un solo uso
 
-Los partners del programa de Proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes instancias reservadas en máquinas virtuales de Microsoft Azure. Los clientes pueden reservar máquinas virtuales por adelantando (para periodos de uno a tres años) y lograr ahorros significativos en el uso de Azure.   
+Los partners del programa de Proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes instancias reservadas en máquinas virtuales de Microsoft Azure. Los clientes pueden reservar máquinas virtuales de antemano (para periodos de uno a tres años) y tener ahorros significativos en el uso de Azure.   
 
 Tus clientes pagan por adelantado para Azure Reserved VM Instances. Al comprar Azure Reserved VM Instances en nombre de un cliente, recibirás facturas y archivos de conciliación para estos cargos únicos. 
 
@@ -168,8 +170,8 @@ Para obtener acceso a archivos de conciliación y facturas de cargo único, sele
 2.  En tu página **Clientes**, busca el cliente cuyo historial de pedidos quieres ver y, a continuación, selecciona la flecha abajo para expandir el registro del cliente. 
 3.  Selecciona **Vea pedidos** para mostrar el historial de pedidos.
 
-#### <a name="create-a-credit-or-void-note"></a>Crear una nota nula o de crédito
+#### <a name="download-a-credit-note"></a>Descargar una nota de crédito
 
-En algún momento es posible que debas anular una factura y, a continuación, emitir una nueva. Por ejemplo, un cliente puede cambiar el nombre de su negocio y, a continuación, recibir una factura con el nombre anterior. 
-
-Para anular una factura y que se emita una nueva, descargar el formulario en la página de facturación en ajustes.
+En caso de que se ejercer un crédito completo (Void factura) y una renovación prorrateada, te ofrecemos una nota de crédito para cancelar la factura original y también un documento nuevo completo. Puedes solicitar un crédito y renovación por los motivos siguientes:
+-   Correcciones de pedido de compra o de dirección
+-   Genera la factura y, a continuación, se aplicó un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extraído atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, incorporación de cambios en un reembolso.

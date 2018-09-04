@@ -1,16 +1,18 @@
 ---
-title: "Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners"
-description: "Usuarios PMC: ahora estamos administrando la suscripción a MPN a través del Centro de partners. Esto es lo que tienes que hacer."
+title: Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners
+description: 'Usuarios PMC: ahora estamos administrando la suscripción a MPN a través del Centro de partners. Esto es lo que tienes que hacer.'
 author: KPacquer
-keywords: "suscripción a mpn, competencias, de pmc a centro de partners"
+keywords: suscripción a mpn, competencias, de pmc a centro de partners
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875865"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners
 
@@ -43,7 +45,7 @@ El administrador de la organización agrega empleados a la cuenta del Centro de 
 
 ## <a href="" id="nonadmin_tasks"></a> Tareas de los empleados: actualizar cuentas
 
-1.  Obtén la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el administrador de la organización para pedirle que te la vuelva a enviar directamente. 
+1.  Obtén la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el Administrador de la organización para pedirle que vuelva directamente. 
 
 2.  Conectar la cuenta de Microsoft Partner University. En el Panel del Centro de partners, selecciona **Actualizar tu perfil** > **Obtener acceso a Partner University**.  Una vez conectado a esta cuenta, podrás volver a acceder a Partner University.
 

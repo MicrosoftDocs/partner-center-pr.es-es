@@ -4,11 +4,13 @@ description: La factura mensual es un resumen de todos los cargos (incluidos el 
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875185"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -25,6 +27,7 @@ Los partners del programa Proveedor de soluciones en la nube que han elegido la 
 >**Nota**<br>
 La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
 
+Recibirás una factura para basado en licencia (Office365) y los cargos (Azure) basados en uso y una factura independiente para un solo uso (Azure reserved VM instances) cargos.
 
 Para obtener información detallada sobre los cargos, usa los archivos de conciliación correspondientes. Los archivos de conciliación incluyen los identificadores de cliente y de suscripción que usarás para crear facturas de cliente. Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
 
@@ -54,28 +57,36 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>La dirección a la que enviamos tu factura. Para cambiar esta dirección, ve a Configuración de la cuenta > Perfil de facturación de partner. </td>
 </tr>
 <tr class="odd">
-<td>Recurring charges</td>
+<td>Cargos basado en licencia</td>
 <td>Cargos fijos mensuales (o anuales) para las licencias adquiridas basadas en el uso, facturados previamente al uso del servicio. Este número es la suma de todos los cargos en la columna &quot;Subtotal&quot; del archivo de conciliación basada en licencia (columna T).</td>
 </tr>
 <tr class="even">
-<td>Usage charges</td>
+<td>Cargos basados en uso</td>
 <td>El uso de Azure, incluidos nuevos servicios o aplicaciones habilitados y usados durante el mes de facturación. Este número es la suma de todos los cargos en la columna &quot;PretaxCharges&quot; del archivo de conciliación basada en uso (columna Z).</td>
 </tr>
 <tr class="odd">
-<td>Créditos y ajustes</td>
-<td>Crédito o ajustes que corresponden a los cambios realizados en las suscripciones (por ejemplo: aumento o disminución de puestos).</td>
-</tr>
-<tr class="even">
-<td>Other discounts</td>
+<td>Descuentos</td>
 <td>Por ejemplo, el descuento que el cliente recibe del precio normal de la suscripción. Esto se muestra como un importe fijo, no como un precio por unidad o licencia.</td>
 </tr>
 <tr class="odd">
-<td>Taxes</td>
+<td>Créditos</td>
+<td>Crédito o ajustes que corresponden a los cambios realizados en las suscripciones (por ejemplo: aumento o disminución de puestos).</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Subtotal</td>
+<td>Total antes de impuestos y cargos exclusivas de impuestos y créditos por período.</td>
+</tr>
+<td>Tax</td>
 <td>El total de impuestos para los cargos actuales según se suman en la sección de detalles a partir de la página 2 de la factura. Este número es la suma de todos los cargos de:
 <ul>
 <li>la columna &quot;TaxAmount&quot; del archivo de conciliación basada en uso (columna AA) y </li>
 <li>la columna &quot;Tax&quot; del archivo basado en licencia (columna U).</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>Otros créditos</td>
+<td>Créditos exclusivas de impuestos.</td>
 </tr>
 <tr class="even">
 <td>Total current charges</td>
@@ -97,13 +108,10 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>Invoice date</td>
 <td>La fecha en la que recibes tu factura.</td>
 </tr>
-
 <tr class="odd">
 <td>Condiciones de pago</td>
 <td>Para las compras de pago único siempre serán 60días.</td>
 </tr>
-
-
 <tr class="even">
 <td>Payment due date</td>
 <td>Fecha en la que debe recibirse tu pago.</td>

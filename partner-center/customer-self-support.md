@@ -1,14 +1,16 @@
 ---
-title: "Autoservicio de soporte técnico al cliente | Centro de partners"
-description: "Autoservicio de soporte técnico al cliente"
+title: Autoservicio de soporte técnico al cliente | Centro de partners
+description: Autoservicio de soporte técnico al cliente
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-keywords: "autoservicio de soporte técnico al cliente, autoservicio de soporte técnico,"
-ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: autoservicio de soporte técnico al cliente, autoservicio de soporte técnico,
+ms.localizationpriority: medium
+ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874585"
 ---
 # <a name="customer-self-support"></a>Autoservicio de soporte técnico al cliente
 
@@ -26,7 +28,7 @@ Los clientes pueden iniciar sesión en su propio centro de administración de Mi
 
 Para comprar suscripciones adicionales o cancelar sus suscripciones, los clientes deben ponerse en contacto con sus partners de Proveedor de soluciones en la nube. Los clientes no pueden cambiar sus propias suscripciones directamente con Microsoft.
 
-Los clientes pueden encontrar respuestas de autoservicio a las preguntas de ayuda y procedimientos a través del centro de administración en línea, TechNet o las comunidades de Microsoft Office 365. Una lista de recursos de producto está disponible en la página [Soporte técnico](https://partnercenter.microsoft.com/partner/support) del Centro de partners. Animamos a los partners a que pongan estos recursos a la disponibilidad de sus clientes como primera medida.
+Cuando los clientes necesitan ayuda con los productos, pueden encontrar en la [compatibilidad con](https://partnercenter.microsoft.com/partner/support)recursos de producto. Animamos a los partners a que pongan estos recursos a la disponibilidad de sus clientes como primera medida.
 
  
 

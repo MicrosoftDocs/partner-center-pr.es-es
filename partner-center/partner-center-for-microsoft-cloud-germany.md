@@ -2,11 +2,13 @@
 title: Centro de partners para Microsoft Cloud Alemania | Centro de partners para Microsoft Cloud Alemania
 description: El Centro de partners para Microsoft Cloud Alemania es el portal de empresa para los partners de Microsoft que deseen ofrecer soluciones en la nube de Microsoft a los clientes de países de la UE y la EFTA. Microsoft Cloud Alemania garantiza que los datos de clientes residen en Alemania y un administrador de datos de confianza alemán designado controla el acceso a estos. Los clientes comerciales en la Unión Europea (UE) y la Asociación de Libre Comercio Europea (EFTA) pueden almacenar y administrar los datos de los clientes en cumplimiento de las leyes y normas alemanas vigentes, así como de los estándares internacionales más importantes. Microsoft no puede acceder a los datos de los clientes sin la aprobación y la supervisión del administrador de datos de confianza alemán o el cliente.
 author: MaggiePucciEvans
-ms.openlocfilehash: 6d659b325ed205642398499bd882c510d482e25c
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876345"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 
@@ -136,7 +138,7 @@ Ten en cuenta que las API de CREST no estarán disponibles para el programa CSP 
 
 |Administración de cuentas de usuario |Administración de licencias |
 |       :---:      |    :---:       |
-|Create user accounts for a customer (Crear cuentas de usuario para un cliente) |Get a list of available licenses (Obtener una lista de licencias disponibles)   |
+|Crear cuentas de usuario para un cliente |Get a list of available licenses (Obtener una lista de licencias disponibles)   |
 |Delete user accounts for a customer (Eliminar cuentas de usuario de un cliente) |Assign licenses to a user (Asignar licencias a un usuario)  |
 |Update user accounts for a customer (Actualizar cuentas de usuario para un cliente) |Check which licenses are assigned to a user (Comprobar qué licencias se asignan a un usuario) |
 |Get a list of all user accounts for a customer (Obtener una lista de todas las cuentas de usuario para un cliente)  |  |

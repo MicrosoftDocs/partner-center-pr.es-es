@@ -3,10 +3,13 @@ title: Escalar problemas a Microsoft | Centro de partners
 description: Se espera que soluciones los problemas en nombre de los clientes.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876465"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Escalar problemas a Microsoft
 
@@ -30,7 +33,21 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 -   Problemas regionales que afectan a varios inquilinos
 
-Para obtener ayuda de Microsoft, envía una solicitud de soporte al Centro de partners. Debes comunicar y cerrar el bucle con el cliente cuando se haya resuelto el problema. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
+## <a name="submit-a-support-request"></a>Envía una solicitud de soporte técnico
+
+1. En el panel, selecciona **los clientes**.
+2. Selecciona al cliente que necesita la compatibilidad.
+3. Seleccione la **administración del servicio** y **solicitudes de servicio**.
+4. Selecciona **nueva solicitud** y, a continuación, selecciona **Microsoft Office 365**.
+5. Se toman en el portal de Office 365, donde tienes que iniciar sesión con tus credenciales de panel de partners.
+6. Selecciona el **soporte técnico**, **nueva solicitud de servicio** del menú de la izquierda.
+7. Seleccione el tema de soporte técnico.
+
+>[!NOTE]
+>Es importante iniciar desde el panel para que se mantiene la relación entre partners y clientes. 
+
+
+Para obtener información sobre cómo informar de problemas en nombre del cliente, consulta [notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
 
  
 

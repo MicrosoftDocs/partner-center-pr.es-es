@@ -1,13 +1,15 @@
 ---
-title: "Actualiza tu suscripción a Microsoft Partner Network | Centro de partners"
-description: "Cuando actualizas tu suscripción a Microsoft Partner Network, puedes beneficiarte de beneficios exclusivos. Aprende a buscar y comprar ofertas disponibles."
+title: Actualiza tu suscripción a Microsoft Partner Network | Centro de partners
+description: Cuando actualizas tu suscripción a Microsoft Partner Network, puedes beneficiarte de beneficios exclusivos. Aprende a buscar y comprar ofertas disponibles.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875715"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualizar tu suscripción a Microsoft Partner Network
 
@@ -42,7 +44,7 @@ Action Pack es una suscripción anual asequible a servicios, software y soporte 
 
 - Recibe 100 USD de crédito de Microsoft Azure cada mes
 
-Para obtener más información acerca de Microsoft Action Pack, ve a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Para obtener más información sobre Microsoft Action Pack, ve a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 >**Ten en cuenta** que este vínculo te llevará a otro sitio web. Vuelve a este sitio, Centro de partners, para suscribirte a Action Pack.
 
@@ -65,7 +67,7 @@ Para obtener más información acerca de Microsoft Action Pack, ve a [https://pa
 
 Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. Sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
 
-### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de suscripción a Action Pack
+### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
 
 1. En menú **Panel**, selecciona **Asociación > Ofertas**. Microsoft Action Pack aparece en **Ofertas adquiridas**.
 
@@ -104,7 +106,7 @@ Si desactivas la renovación automática de la suscripción, no podrás volver a
 
 Para cancelar la suscripción a Microsoft Action Pack, debes ponerse en contacto con soporte técnico del Centro de partners.
 
-1. Ve a https://partnercenter.microsoft.com/es-es/partner/support.
+1. Ve a https://partnercenter.microsoft.com/partner/support.
 
 2. Selecciona **Informar de problemas con el Centro de partners**y, a continuación, selecciona **Nueva solicitud** en la página siguiente.
 
