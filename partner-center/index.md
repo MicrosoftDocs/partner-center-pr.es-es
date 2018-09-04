@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Comienza aquí para obtener ayuda con el panel de partners
-description: ¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra las respuestas en la Biblioteca de ayuda del Panel de partners.
+description: ¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra las respuestas de esta biblioteca de Ayuda del panel creada específicamente para los partners en los programas de CSP y MPN.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919905"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876375"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Comienza aquí para obtener ayuda con el panel del centro de partners
+# <a name="start-here-for-help-with-partner-dashboard"></a>Comienza aquí para obtener ayuda con el panel de partners
 
-¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra las respuestas en la Biblioteca de Ayuda del Panel de partners.
+¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra las respuestas de esta biblioteca de Ayuda del panel creada específicamente para los partners en los programas de CSP y MPN.
 
 Si ya estás familiarizado con el panel, consulta las [novedades](/partner-center/whats-new-in-pc).
 
