@@ -3,11 +3,13 @@ title: Software de terceros disponible en el Centro de partners | Centro de part
 description: Ya puedes descubrir y adquirir software de terceros para agregar a la cartera que ofreces a los clientes.
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
-ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/28/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877445"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Agregar software de terceros a la cartera
 

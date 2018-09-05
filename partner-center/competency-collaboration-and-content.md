@@ -1,45 +1,53 @@
 ---
-title: "Competencia de colaboración y contenido"
-description: "La competencia de colaboración y contenido reconoce a partners que ofrecen soluciones de SharePoint que ayudan a las empresas a compartir, colaborar y aumentar la productividad."
+title: Competencia de colaboración y contenido
+description: La competencia de colaboración y contenido reconoce a partners que ofrecen soluciones de SharePoint que ayudan a las empresas a compartir, colaborar y aumentar la productividad.
 author: Daniel Simpson
-keywords: "competencia,competencias,colaboración y contenido"
-ms.openlocfilehash: a924848c5e342ab18ff02c7887e4143f88407530
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: competencia,competencias,colaboración y contenido
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877075"
 ---
-#<a name="collaboration-and-content"></a>Colaboración y contenido
-La competencia de colaboración y contenido reconoce a partners que ofrecen soluciones de SharePoint que ayudan a las empresas a compartir, colaborar y aumentar la productividad.
+>[!IMPORTANT]
+>Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-##<a name="sharepoint-services-partner-option"></a>Opción de partner de servicios de SharePoint
-Aprueba los exámenes o certificaciones para poner a prueba tus conocimientos sobre el producto.
+<!--
 
-###<a name="silver"></a>Silver
+#Collaboration and Content
+The Collaboration and Content competency recognizes partners delivering SharePoint solutions that help companies share, collaborate, and improve productivity.
 
-1. Tu organización debe tener **2** personas que hayan aprobado los requisitos de certificación o examen.
+##SharePoint Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
 
-    - **2** personas deben aprobar los siguientes exámenes:
-        - [Examen 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitación de servicios de Microsoft Office 365
-        - [Examen 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gestionar Microsoft SharePoint Server 2016
+###Silver
 
-    **O bien,**
+1. Your organization must have **2** individuals pass either the exam or certification requirements.
 
-    - **2** personas deben aprobar una de las siguientes certificaciones:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productividad
-        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): Creador de aplicaciones
+    - **2** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
 
-###<a name="gold"></a>Gold
-1. Tu organización debe tener **4** personas que hayan aprobado los requisitos de certificación o examen.
+    **OR**
 
-    - **4** personas deben aprobar los siguientes exámenes:
-        - [Examen 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Habilitación de servicios de Microsoft Office 365
-        - [Examen 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Gestionar Microsoft SharePoint Server 2016
+    - **2** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
 
-    **O bien,**
+###Gold
+1. Your organization must have **4** individuals pass either the exam or certification requirements.
 
-    - **4** personas deben aprobar una de las siguientes certificaciones:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productividad
-        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): Creador de aplicaciones
- 
+    - **4** individuals must pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+
+    **OR**
+
+    - **4** individuals must pass one of the following certifications:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+        - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder
+ -->
 

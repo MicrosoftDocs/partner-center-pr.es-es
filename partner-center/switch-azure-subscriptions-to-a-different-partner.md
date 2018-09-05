@@ -4,12 +4,13 @@ description: Un cliente puede cambiar el partner del programa Proveedor de soluc
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088962"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877565"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088962"
 -  Centro de partners
 
 Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en la nube u otro partner para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones del partner y del cliente.
+
+**Ten en cuenta**  En este momento son para transferir las suscripciones solo a los proveedores indirectos o directo.
 
 **Nota**  Por el momento, no es posible cambiar los partners de las suscripciones del Proveedor de soluciones en la nube para las suscripciones de Office365, Enterprise Mobility Suite o Microsoft DynamicsCRM.
 

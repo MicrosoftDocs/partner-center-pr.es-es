@@ -1,12 +1,15 @@
 ---
 title: Restaurar una cuenta suspendida del Centro de partners | Centro de partners
-description: "Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión."
+description: Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877035"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar una cuenta suspendida del Centro de partners
 
@@ -39,9 +42,9 @@ Si tu cuenta está vencida, sigue las instrucciones de la factura para organizar
 
 **Para enviar una solicitud de soporte**
 
-1.    En el menú **Panel**, selecciona **Solicitudes de soporte técnico > Solicitudes del Centro de partners**.
-2.    Selecciona **Nueva solicitud**. 
-3.    Rellena el formulario y luego selecciona **Enviar**. Un representante de soporte técnico del Centro de partners se pondrá en contacto contigo para explicarte por qué se ha suspendido tu cuenta y cómo restablecerla.
+1.  En el menú **Panel**, selecciona **Solicitudes de soporte técnico > Solicitudes del Centro de partners**.
+2.  Selecciona **Nueva solicitud**. 
+3.  Rellena el formulario y luego selecciona **Enviar**. Un representante de soporte técnico del Centro de partners se pondrá en contacto contigo para explicarte por qué se ha suspendido tu cuenta y cómo restablecerla.
 
 
 

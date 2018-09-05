@@ -1,14 +1,16 @@
 ---
-title: "Tareas de administración de usuarios para las cuentas de cliente | Centro de partners"
-description: "Después de comprar una nueva suscripción para un cliente, puedes asignar licencias a usuarios específicos."
+title: Tareas de administración de usuarios para las cuentas de cliente | Centro de partners
+description: Después de comprar una nueva suscripción para un cliente, puedes asignar licencias a usuarios específicos.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
-ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877005"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 

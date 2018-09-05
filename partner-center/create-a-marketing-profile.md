@@ -4,11 +4,13 @@ description: Crea un perfil de negocio en el Centro de partners para obtener opo
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877630"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Crear un perfil de negocio para obtener ventas potenciales de Microsoft
@@ -58,7 +60,7 @@ Introduce tu empresa, agrega un logotipo y una breve descripción y un vínculo 
 
 El logotipo puede ser un archivo GIF, JPG o PNG, con un ancho máximo de 300 píxeles. Te recomendamos que uses las relaciones de aspecto cuadradas o largas. Las relaciones de aspecto alargadas no se recomiendan.
 
-La descripción puede tener hasta 1000 caracteres. Sugerencias para una buena descripción: 
+La descripción puede tener hasta 2500 caracteres. Sugerencias para una buena descripción: 
 
 *  **Sé breve**, empieza con lo que es importante en una frase o dos. Esto debe ser el encabezado que llame la atención de los clientes. En la experiencia de búsqueda Buscar un partner, mostramos la primera o segunda línea como vista previa en los resultados de búsqueda.
 *  **Céntrate en experiencias de tu empresa con ofertas específicas de Microsoft**. Los clientes que buscan referencias, buscan por lo general partners con experiencia específica en Microsoft.

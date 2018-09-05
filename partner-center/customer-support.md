@@ -1,14 +1,17 @@
 ---
-title: Soporte al cliente | Centro de partners
-description: "Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y de cuenta como los siguientes: Soporte para suscripciones y facturación. Ayuda para el aprovisionamiento y la implementación, así como para la configuración de software. Resolución de problemas de rendimiento, de disponibilidad del servicio, de conectividad del cliente y del escritorio del cliente debido a falta de ajustes de configuración o ajustes mal configurados, una integración de software incompleta, problemas de permisos u otros problemas de implementación. Administración de actualizaciones para los servicios y software. Proporcionar respuestas a preguntas sobre el uso. Los Proveedores de soluciones en la nube deben proporcionar una descripción clara a los clientes sobre cómo recibirán el soporte técnico. Si no ofreces soporte telefónico las 24 horas, debes proporcionar un contrato de nivel de servicio para explicar las opciones de las que disponen los clientes. Microsoft no proporciona soporte técnico a los clientes de CSP."
+title: Proporcionar soporte técnico a tus clientes | El centro de partners
+description: Los partners son necesarios para recibir las solicitudes entrantes de soporte técnico de los clientes, diagnosticar problemas ocurrido de la capacidad del partner y, a continuación, solucionar problemas que están dentro del ámbito de los límites de soporte técnico de línea base.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877275"
 ---
-# <a name="customer-support"></a>Soporte al cliente
+# <a name="providing-support-to-your-customers"></a>Proporcionar soporte técnico a tus clientes
 
 **Se aplica a**
 
@@ -16,37 +19,31 @@ ms.contentlocale: es-ES
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-Eres el primer punto de contacto para tus clientes y se espera que les proporciones servicios de soporte técnico y de cuenta, como los siguientes:
+## <a name="microsoft-partner-support-guidance"></a>Directrices de soporte técnico de partners de Microsoft
 
--   Soporte técnico para suscripciones y facturación
+Los partners que realizas transacciones en el modelo de CSP son el Asesor de confianza a sus clientes y el propietario de la relación-to-end, incluida la compatibilidad con cuando su cliente tiene un problema o una pregunta. Mediante el tacto de compatibilidad con los partners de puntos obtener más información del cliente y su empresa, para identificar los nuevos servicios y soluciones que controlan el valor.
 
--   Ayuda para el aprovisionamiento y la implementación, así como para la configuración de software
+Para cumplir el requisito de soporte técnico, el partner puede vender soporte técnico de otra entidad, es posible que subcontratar todo o parte de su estructura de soporte técnico o puede establecer una estructura para proporcionar soporte técnico directamente.  Los partners pueden cargar todos o parte de la compatibilidad que proporciona a los clientes. El partner debe articular a sus clientes la compatibilidad que se proporcionan, las horas de servicio y ponte en contacto con el método, así como el precio (si la carga de soporte técnico). 
 
--   Resolución de problemas de rendimiento, de disponibilidad del servicio, de conectividad del cliente y del escritorio del cliente debido a falta de ajustes de configuración o ajustes mal configurados, una integración de software incompleta, problemas de permisos u otros problemas de implementación.
+Los partners son necesarios para recibir las solicitudes entrantes de soporte técnico de los clientes, diagnosticar problemas ocurrido de la capacidad del partner y, a continuación, solucionar problemas que están dentro del ámbito de los límites de soporte técnico de línea base. Si el partner no puede resolver el problema, pueden escalar problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
--   Administración de las actualizaciones de software y servicios
+- Soporte de problema **comercial** está disponible para todos los partners del programa CSP
+-   Soporte **técnico** de problema está disponible a través de:
+    -   Soporte técnico Premier para los Partners (Comisión de la base)
+    -   Soporte técnico avanzado para Partners (Comisión de la base)
+    -   Signature Cloud Support (incluido con competencias Gold y Silver)
 
--   Proporcionar respuestas a preguntas sobre el uso.
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar soporte técnico, administración de suscripciones y facturación 
 
-Los proveedores de soluciones en la nube deben proporcionar a los clientes una descripción clara de cómo recibirán soporte técnico. Si no ofreces soporte telefónico las 24 horas, debes proporcionar un contrato de nivel de servicio para explicar las opciones de las que disponen los clientes. Microsoft no proporciona soporte técnico a los clientes de CSP.
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar soporte técnico, administración de suscripciones y facturación a los clientes. Consulta los siguientes documentos para obtener más información.
 
-## <a href="" id="supportingtrainingcustomers"></a>Ofrecer soporte técnico y aprendizaje a los clientes
+-   [Suscripciones de Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [Suscripciones de Azure que venden a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [Suscripciones de Office 365 que venden a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los números de adopción de tu cuenta son bajos o buscas oportunidades de ventas verticales, conviene tener en cuenta los cursos de formación. Al enseñar a tus clientes cómo hacer un mejor uso del software de solución en la nube que han comprado, es más probable que veas un aumento en la productividad y satisfacción, y una disminución de las necesidades de soporte técnico. Para obtener sugerencias y consejos, consulta [Aumentar la adopción y la satisfacción](increasing-adoption-and-satisfaction.md).
-
-## <a name="customer-support"></a>Soporte al cliente
-
-
-[Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
-
-[Proporcionar soporte técnico](provide-technical-support.md)
-
-[Comunicación con el cliente de Microsoft](customer-communication-from-microsoft.md)
-
-[Autoservicio de soporte técnico al cliente](customer-self-support.md)
-
-[Escalar problemas a Microsoft](escalate-problems-to-microsoft.md)
 
  
 

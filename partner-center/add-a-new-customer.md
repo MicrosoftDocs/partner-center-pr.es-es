@@ -4,11 +4,13 @@ description: Para poder vender suscripciones, administrar la facturación o prop
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
-ms.openlocfilehash: cb9a6b2b62b838936f214707ddb0a32b3691c167
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876865"
 ---
 # <a name="add-a-new-customer"></a>Agregar un cliente nuevo
 

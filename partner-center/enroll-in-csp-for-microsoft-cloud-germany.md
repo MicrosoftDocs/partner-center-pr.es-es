@@ -1,11 +1,14 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania | Centro de partners para Microsoft Cloud Alemania
-description: "Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania, obtén más información sobre los requisitos del programa CSP."
+description: Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania, obtén más información sobre los requisitos del programa CSP.
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877505"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania
 
@@ -33,7 +36,7 @@ Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsof
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Paso 1: Crea una cuenta del Centro de partners para Microsoft Cloud Alemania 
 
-1.  Para inscribirte en CSP de Microsoft Cloud Alemania, ve a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) y selecciona **Iniciar sesión**. 
+1.  Para inscribirte en CSP de Microsoft Cloud Alemania, ve a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) y selecciona el **Inicio de sesión**. 
 
 2.  Inicia sesión con credenciales de administrador global para la cuenta de Microsoft Cloud Alemania de tu empresa para Office 365, Microsoft Azure o Microsoft Dynamics. Si tu empresa no tiene una cuenta para estos portales, selecciona **Crear una** para suscribirte a uno.
 
@@ -71,7 +74,7 @@ Después de asignar usuarios a la función de agente de administración, aparece
 
 1.  Inicia sesión en el portal de Azure Alemania en https://portal.microsoftazure.de/.
 
-2.  Asigna la función de agente de administración a los usuarios adecuados de la organización. Para ello, tendrás que agregar estos usuarios al grupo **AdminAgent** integrado. Consulta [Administración de la pertenencia a grupos de los usuarios del inquilino de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obtener más información sobre cómo hacerlo.
+2.  Asigna la función de agente de administración a los usuarios adecuados de la organización. Para ello, tendrás que agregar estos usuarios al grupo integrado **AdminAgent**. Consulta [Administración de la pertenencia a grupos de los usuarios del inquilino de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obtener más información sobre cómo hacerlo.
  
 
 ## <a name="related-topics"></a>Temas relacionados

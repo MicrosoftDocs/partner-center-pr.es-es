@@ -3,12 +3,13 @@ title: Administrar los beneficios de Microsoft Partner Network | Centro de partn
 description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Explica cómo activar y administrar las ventajas de suscripción en el panel de partners.
 author: MaggiePucciEvans
 keywords: MPN, ventajas de miembro, miembro
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207285"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876915"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
@@ -25,6 +26,9 @@ Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Administrar las ventajas de la suscripción en el panel
 
 Tras comprar un paquete de ventajas de suscripción, deberás obtener claves de software y asignar licencias, suscripciones y otras ventajas a los empleados, para que empiecen a usarlas. 
+
+>[!IMPORTANT]
+>Si bien no tiene que ser un administrador global de la organización para comprar de beneficios, es necesario ser el administrador global para asignar beneficios a los empleados.  Si quieres, puede convertirse en un administrador global siguiendo las instrucciones que aparecen en la [página **prestaciones** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inicio de sesión necesario). Además, la organización puede que haya un administrador global por lo tanto, asegúrate de ponte en contacto con tu equipo.
 
 Los paquetes de ventajas incluyen asignaciones de software de derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

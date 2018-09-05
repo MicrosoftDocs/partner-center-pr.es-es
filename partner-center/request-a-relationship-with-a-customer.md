@@ -1,13 +1,15 @@
 ---
-title: "Solicitar relación con un cliente | Centro de partners"
-description: "La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico."
+title: Solicitar relación con un cliente | Centro de partners
+description: La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877225"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
@@ -31,9 +33,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 
 4.  Una vez que el cliente acepte tu invitación, aparecerá en la página **Clientes** y, podrás aprovisionar y administrar el servicio para el cliente desde allí.
 
- >**Nota**<br>
-    En un escenario multicanal, solo un partner puede tener permisos de administrador para administrar un servicio en nombre del cliente. 
-
+ 
 5.  Para administrar la cuenta, servicios, usuarios y licencias de un cliente, expande el registro del cliente, selecciona la flecha hacia abajo situada junto a su nombre.
 
 

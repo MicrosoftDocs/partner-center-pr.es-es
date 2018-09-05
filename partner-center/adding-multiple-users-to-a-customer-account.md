@@ -4,11 +4,13 @@ description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, me
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876975"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
 
@@ -54,15 +56,13 @@ Escribe los siguientes datos en el archivo de datos:
 
     **Nota**: La mayoría de los errores de creación de cuentas se deben a problemas en los archivos de datos, lo que incluye la falta de información, unas direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.
 
-     
-
 7.  Cuando el Panel de partners haya validado el archivo, selecciona la **Ubicación** geográfica para los nuevos usuarios.
 8.  Selecciona **Guardar**.
 9.  Descarga la información de la contraseña temporal para los usuarios.
 
 **IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
 
-El Panel de partners asigna automáticamente los permisos de **Puede usar licencias y servicios** a los nuevos usuarios.
+10. Los nuevos usuarios se les asignará automáticamente los permisos de **puede usar licencias y servicios** . 
 
  
 

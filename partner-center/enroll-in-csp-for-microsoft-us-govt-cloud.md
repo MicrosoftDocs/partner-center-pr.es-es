@@ -1,12 +1,14 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government
-description: "Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government, obtén más información sobre los requisitos del programa CSP."
+description: Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government, obtén más información sobre los requisitos del programa CSP.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877205"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government
 

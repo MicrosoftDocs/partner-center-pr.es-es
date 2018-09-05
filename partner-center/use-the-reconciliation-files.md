@@ -3,11 +3,13 @@ title: Usar los archivos de conciliación | Centro de partners
 description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877555"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -516,8 +518,8 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>Cargos periódicos</strong></p>
+<td rowspan="10">
+<p><strong>Cargos basado en licencia</strong></p>
 </td>
 <td>
 <p>Tarifa de activación</p>
@@ -525,7 +527,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <td>
 <p>El importe cobrado al cliente cuando usa la suscripción después de adquirirla</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Tarifa de renovación</p>
 </td>
@@ -595,16 +598,10 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </tr>
 <tr>
 <td>
-<p><strong>Otros productos y servicios</strong></p>
-</td>
-<td>
 <p>Tarifas prorrateadas al activar</p>
 </td>
 <td>
 <p>Tarifas prorrateadas desde la activación hasta el final del período de facturación</p>
-</td>
-<td>
-<p>Desde el archivo basado en licencia, suma la columna <strong>Amount</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </tr>
 <tr>
 <td>
-<p><strong>Créditos y ajustes</strong></p>
+<p><strong>Créditos</strong></p>
 </td>
 <td>
 <p>Desplazamiento de un elemento de línea</p>
@@ -644,12 +641,9 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>Desde el archivo basado en uso, suma la columna <strong>PostTaxTotal</strong>.</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>Otros descuentos</strong></br>
-<em>(basado en uso)</em></p>
+<p><strong>Descuentos basados en uso</strong></p>
 </td>
 <td>
 <p>Descuento de activación</p>
@@ -657,6 +651,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <td>
 <p>Descuento que se aplica cuando se activa la suscripción</p>
 </td>
+
 <td rowspan="4">
 <p>Desde el archivo basado en uso, suma la columna <strong>PretaxCharges</strong>.</p>
 </td>
@@ -668,14 +663,16 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <td>
 <p>Descuento que se aplica en cargos periódicos</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Descuento de renovación</p>
 </td>
 <td>
 <p>Descuento que se aplica cuando se renueva la suscripción</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Descuento de cancelación</p>
 </td>
@@ -683,16 +680,17 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>Cargos que se aplican cuando se cancelan los descuentos</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>Otros descuentos</strong></br>
-<em>(basado en licencia)</em></p>
+<p><strong>Descuentos basado en licencia</strong></p>
 </td>
 <td>
 <p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>Desde el archivo basado en licencia, suma la columna <strong>TotalOtherDiscount</strong>.</p>
@@ -704,7 +702,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 <td>
 <p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
-<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Consulta Créditos y ajustes, más arriba.</em></p>
+<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Los créditos, consulta la sección anterior.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

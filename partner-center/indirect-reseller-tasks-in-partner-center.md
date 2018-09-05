@@ -4,11 +4,13 @@ description: Como revendedor indirecto en CSP, trabajarás con proveedores indir
 ms.prod: ''
 author: MaggiePucciEvans
 keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
-ms.openlocfilehash: ff694f4cdb1b232812618f8b78ffc24238f0947e
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877215"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -80,7 +82,7 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
     a.  En tu **Panel**, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
 
-    b.  Selecciona tu nombre de la lista de usuarios y, después, selecciona **Agente de administración** si aún no está seleccionado. Selecciona **Actualización**.   
+    b.  Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.   
 
 ## <a name="add-a-new-user"></a>Agregar un nuevo usuario
 
@@ -96,7 +98,7 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
 
 >**Importante**<br>
-Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario, ya que no volverás a tener acceso a ella. <br>
+Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
 
 >El usuario tendrá que iniciar sesión en el Panel de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Panel de partners por primera vez, se le pedirá cambiar la contraseña.        
 

@@ -3,11 +3,14 @@ title: Facturación de Azure Reservations | Centro de partners
 Description: Information about billing for Azure reservations.
 author: v-petand
 keywords: Azure RI, instancias reservadas de azure, reservas, vm, administrar, facturación, comprar
-ms.openlocfilehash: c7d18770499b134b59630a33b945f39bf4e741de
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+robots: noindex, nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877415"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Facturación de Microsoft Azure Reserved VM Instances
 
@@ -118,6 +121,6 @@ Para anular una factura y que se emita una nueva, descargar el formulario en la 
 | Administración de Azure Reservations en el Panel de partners | [Administración de Azure Reservations en el Panel de partners](azure-reservations-manage.md)
 |Comprar Azure Reservations en el Azure Portal | [Pagar por adelantado máquinas virtuales con instancias reservadas de máquina virtual](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) en la Ayuda de Azure |
 |Administración de Azure Reservations en el Azure Portal   |[Administración de instancias reservadas de máquina virtual](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) en la Ayuda de Azure  |
-|Comprar Azure Reservations con la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) en la documentación de desarrolladores del Centro de partners
+|Comprar Azure Reservations con la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners
 
  

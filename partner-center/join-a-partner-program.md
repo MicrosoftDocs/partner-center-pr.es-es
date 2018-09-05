@@ -2,11 +2,13 @@
 title: Unirse a Microsoft Partner Network| Centro de partners
 description: Adquirir Microsoft Action Pack y obtener competencias en el Centro de partners
 author: labrenne
-ms.openlocfilehash: e4a6ecccb4831075ee7d2852eb9998b0a1eaa3f1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877115"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Unirse a Microsoft Partner Network (MPN)
 
