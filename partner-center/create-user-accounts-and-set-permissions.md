@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874575"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405437"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -61,6 +61,12 @@ En cada una de estas categorías generales, un usuario solo puede tener un rol, 
 
 >[!Important]
 >A los usuarios se les deben asignar al menos un rol para poder trabajar en el Panel de partners.
+
+
+### <a name="find-your-global-admin"></a>Busca el administrador global
+
+A veces, es posible que debas tienen su rol cambiado un usuario o un nuevo usuario podrían querer una asignación de roles específicos.  
+Para buscar un administrador global que permite realizar cambios en los roles o asignar roles a un nuevo usuario, desde el **icono de configuración** en la parte superior derecha del panel, selecciona la **administración de usuarios** y filtrar de administrador global. 
 
 Para obtener información específica sobre los roles y lo que puede hacer cada rol, consulta [asignar permisos de usuario](permissions-overview.md).
 

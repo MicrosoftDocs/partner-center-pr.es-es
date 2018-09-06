@@ -6,15 +6,14 @@ ms.author: mhopkins
 ms.date: 07/12/2018
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
-ms.prod: partner-center
 keywords: datos de negocios
 ms.localizationpriority: medium
-ms.openlocfilehash: 07764ef38b11da51b7e55d64f0017fb319bbe677
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f275972e91e30a6e4cc58a6b13d509088af810ce
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877345"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405447"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analizar el rendimiento de los revendedores indirectos 
 
