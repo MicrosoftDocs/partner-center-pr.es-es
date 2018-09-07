@@ -4,12 +4,12 @@ description: Todos los empleados que necesitan trabajar en el panel de partners 
 author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875995"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630616"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar permisos y roles de los usuarios
 
@@ -62,6 +62,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. 
 <td><ul>
 <li><p>Ver, crear y administrar usuarios</p></li>
 <li><p>Ver todos los perfiles de partners</p></li>
+<li><p>Ver, crear y administrar los usuarios de partners</p></li>
 </ul></td>
 </tr>
 <tr class="even">
