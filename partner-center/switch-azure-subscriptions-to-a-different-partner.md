@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877565"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966162"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877565"
 
 Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en la nube u otro partner para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones del partner y del cliente.
 
-**Ten en cuenta**  En este momento son para transferir las suscripciones solo a los proveedores indirectos o directo.
+>[!Note]  
+>En este momento son para transferir las suscripciones solo a los proveedores indirectos o directo.
 
-**Nota**  Por el momento, no es posible cambiar los partners de las suscripciones del Proveedor de soluciones en la nube para las suscripciones de Office365, Enterprise Mobility Suite o Microsoft DynamicsCRM.
+>[!Note] 
+>No es actualmente posible cambiar los partners para las suscripciones de proveedor de soluciones en la nube de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
 
 
@@ -30,7 +32,8 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
 1.  Para transferir una suscripción de Azure a un partner nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de registro actual por escrito. 
 
-    >**Nota**<br> Es responsabilidad del partner actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo partner. El cliente debe tener previsto trabajar estrechamente con el partner actual para que la transición se realice sin problemas.
+    >[!Note]
+    >Es responsabilidad del partner actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo partner. El cliente debe tener previsto trabajar estrechamente con el partner actual para que la transición se realice sin problemas.
 
 2.  El partner de la suscripción debe realizar las siguientes tareas:
 
@@ -54,7 +57,8 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
     -   Id. de suscripción que se va a transferir. En el listado de clientes expandido, selecciona **Ver suscripciones** y luego expande la suscripción seleccionada para ver el **Id. de suscripción**.
 
-    >**Nota**<br> Transferir una suscripción genera dos identificadores de suscripción que verás en la página **Editar suscripción** de la suscripción transferida: **1**- El identificador de suscripción del Centro de partners se usa para fines de facturación. 
+     >[!Note]
+     >Transferir una suscripción genera dos identificadores de suscripción que verás en la página **Editar suscripción** de la suscripción transferida: **1**- El identificador de suscripción del Centro de partners se usa para fines de facturación. 
     **2**- El id. de suscripción original de Azure se conserva y aparecerá en el Centro de partners, así como en el portal de administración de Azure. Este id. aparecerá en el archivo de conciliación.  **Al registrar vales de soporte técnico, deberás usar ambos id.**
 
 4.  Para el cliente y el nuevo partner para la suscripción:
@@ -62,6 +66,9 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
     Revisa el formulario, rellena la información sobre el nuevo partner y fírmalo. Comprueba que el nuevo cliente tiene un acuerdo contractual en vigor. Vuelve a enviar el formulario al partner de registro actual.
 
     *Importante*: si el nuevo partner de CSP no tiene una relación de revendedor con el cliente, debe establecer una antes de que se transfiera la suscripción. [Puedes encontrar información sobre cómo hacer esto aquí](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >El nuevo partner CSP y el inquilino del cliente deben estar en la misma región. 
 
 5.  Partner actual:
 
