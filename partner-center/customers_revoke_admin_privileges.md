@@ -34,7 +34,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 
 5.  Una vez que el cliente acepte tu invitación, aparecerá en la página **Clientes** y, podrás aprovisionar y administrar el servicio para el cliente desde allí.
 
-6.  Para administrar la cuenta, servicios, usuarios y licencias del cliente, expande el registro del cliente, selecciona la flecha abajo situada junto a su nombre y, a continuación, selecciona el portal de administración del servicio que quieras administrar.
+6.  Para administrar la cuenta, servicios, usuarios y licencias del cliente, expande el registro del cliente, selecciona la flecha abajo situada junto a su nombre y, a continuación, selecciona el portal de administración para el servicio que desea administrar.
 
 
 >**Importante**<br>
@@ -50,7 +50,7 @@ Los clientes pueden averiguar cuáles de sus partners tienen privilegios de admi
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Los clientes pueden administrar los privilegios de administrador delegados en un partner 
 
-El cliente puede decidir retirarte tus privilegios de administrador delegado de su inquilino, pero conservar la relación contigo con fines de renovación de licencias y suscripciones. Los clientes administran los derechos y permisos de sus cuentas de Office 365 en la página **Relaciones con los partners** del Centro de administración de Office 365. En esta página, los clientes pueden:
+El cliente puede decidir retirarte tus privilegios de administrador delegado de su inquilino, pero conservar la relación contigo con fines de renovación de licencias de suscripción y. Los clientes administran los derechos y permisos de sus cuentas de Office 365 en la página **Relaciones con los partners** del Centro de administración de Office 365. En esta página, los clientes pueden:
 
 - Consultar los partners con los que tienen una relación y qué partners han delegado privilegios de administrador
 
@@ -109,8 +109,8 @@ Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 
 - No puedes administrar dispositivos que el cliente ha agregado a través de la Microsoft Store para empresas, Microsoft Store para educación o Portal de Microsoft Intune.
 
->**Importante** La experiencia de administración de Autopilot actual en el panel puede continuar cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
+>**Importante** La experiencia de administración de Autopilot en el panel puede continuar cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
 
   - Los partners deben tener privilegios de administración delegada del cliente para poder agregar, actualizar o eliminar perfiles y aplicar o quitar perfiles de todos los dispositivos del inquilino del cliente.
 
-- Partners se deben conceder privilegios de administración delegada del cliente antes de que los partners pueden quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner puede quitar solo los dispositivos agregados anteriormente por el mismo partner.
+- Partners se deben conceder privilegios de administración delegada del cliente antes de que el partner puede quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner puede quitar solo los dispositivos agregados anteriormente por el mismo partner.
