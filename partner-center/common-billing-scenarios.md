@@ -5,20 +5,18 @@ ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
+ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876595"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "4121120"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+-   Facturación de programa de proveedor de soluciones en la nube
 
 En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de licencias en una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se ven afectadas de forma diferente.
 
@@ -74,7 +72,7 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 El 1 de febrero aumentas la cantidad de licencias de una a dos. El 15 de febrero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13/1/2018        |12/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |4,00    
+| 13/1/2018        |12/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |-4,00    
 |13/1/2018         |31/1/2018    | Prorrateo de instancia de ciclo   |2.45       |1        |2.45    
 |1/2/2018         |12/2/2018    | Prorrateo de instancia de ciclo   |1.55       |2        |3.10    
 |13/2/2018         |12/3/2018    | Prorrateo de instancia de ciclo   |4,00       |2        |8,00    
@@ -98,10 +96,10 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
-1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+El 1 de febrero suspendes una suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|4,00
+13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00
 
 **Escenario 4: Suspensión después de 30 días**
 
@@ -128,7 +126,7 @@ Precio unitario = días en período de servicio x precio diario x número de lic
 
 Hay 12 días en el período de cancelación 1/3/2018 – 12/3/2018. 
 
-Por lo tanto, el precio unitario =-1,716 (14x0,14 x(-1)).
+Por lo tanto, el precio unitario = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Escenarios de facturación anual
 
