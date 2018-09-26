@@ -4,12 +4,12 @@ description: Todos los empleados que necesitan trabajar en el panel de partners 
 author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630616"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227449"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar permisos y roles de los usuarios
 
@@ -17,7 +17,7 @@ ms.locfileid: "3630616"
 
 - Panel de partners
 
-Cada rol en el panel de información incluye algunos permisos permiten al usuario realizar tareas específicas. Todas las personas que funciona en el panel debe estar asignado un rol.
+Cada rol en el panel incluye algunos permisos permiten al usuario realizar tareas específicas. Todos los usuarios que funciona en el panel debe estar asignado un rol.
 
 Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una sola ubicación. 
 
@@ -28,6 +28,8 @@ Por ejemplo:
 
 
 La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
+
+Para obtener información general de roles y permisos, lee [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -97,14 +99,14 @@ La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. 
 <li><p>Crear nuevas ubicaciones</p></li>
 <li><p>Inscribir ubicaciones en programas (excepciones son CSP y programas de revendedores indirectos)</p></li>
 <li><p>Administrar perfiles relacionados con las cuentas de ubicación administran</p></li>
-<li><p>Asigna administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos, roles de usuario de incentivos para los usuarios</p></li>
+<li><p>Asigna administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos, roles de usuario de incentivos a los usuarios</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador de incentivos</strong></p></td>
 <td><ul>
 <li><p>Asignar roles de incentivos</p></li>
-<li><p>Inicia y administra reclamaciones de incentivos</p></li>
+<li><p>Inicia y administra las notificaciones de incentivos</p></li>
 <li><p>Permite ver y editar todos los aspectos de los programas de incentivos</p></li>
 <li><p>Ver detalles bancarios y fiscales</p></li>
 <LI><p>Ganancias de reembolso y cooperación de vista</p></li>
@@ -128,7 +130,7 @@ La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. 
 <td><p><strong>Agente de administración</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el panel de partners <</p></li>
+<li><p>Agregar una lista de dispositivos al panel de partners <</p></li>
 <p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
