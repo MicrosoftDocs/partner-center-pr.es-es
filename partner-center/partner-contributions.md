@@ -1,22 +1,22 @@
 ---
-title: Contribución de partners - permanecer en la parte superior indicadores de rendimiento | El centro de partners
-Description: Use partner contributions to understand how your business is growing and succeeding
+title: Contribución de partners - mantenerse encima de los indicadores de rendimiento | El centro de partners
+Description: Use partner contributions data to understand how your business is growing and succeeding
 Author: labrenne
 keywords: datos de negocios
 ms.localizationpriority: medium
-ms.openlocfilehash: bfdc1f67225ac7ca24fa33d3992b95617d16b321
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
+ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875535"
+ms.lasthandoff: 10/01/2018
+ms.locfileid: "4242808"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribución de partners: permanezca sobre los indicadores de rendimiento
 
 **Aplicable a**
 - Centro de partners
 
-Los datos determinan las decisiones comerciales. Usa las métricas de la página Contribución de partners para identificar tus logros, los de tus clientes y qué áreas necesitan más atención. También puedes ver cómo lo estás haciendo en comparación con otros partners. Usa esta información a medida que planees nuevo objetivos empresariales.
+Los datos determinan las decisiones comerciales. Usa las métricas de la página Contribución de partners para identificar tus logros, los de tus clientes y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 
 >[!NOTE]
 >Contribución de partners actualmente solo está disponible para los partners que venden Dynamics 365.
@@ -44,6 +44,9 @@ Estamos siguiendo estas métricas:
 
 Cada métrica se muestra mediante una barra (1a 4) que representa la escala frente a otros asociados, usando los filtros seleccionados (producto, carga de trabajo, ubicación de clientes). Los valores de debajo de estas barras son los intervalos de valores mínimo y máximo (min & max). Cada barra de intervalo min & max se muestra manteniendo el cursor sobre la barra.  
 
+8. **Mes de la actualización de datos**: las métricas se calculan para los 12 últimos meses hasta el mes seleccionado.
+9. **Tendencias de métricas**: tendencia mes de 12 finales en comparación con la del mes anterior. Las flechas indican la dirección de tendencia. Si no ves una flecha, no ha cambiado la tendencia.
+
 >[!NOTE] 
 >- Las métricas se acumulan para todos los clientes durante los 12últimos meses (TTM), a excepción de los “individuos certificados”        
 >- Las métricas se calculan según los filtros aplicados de producto, carga de trabajo y ubicación de los clientes
@@ -54,9 +57,9 @@ Agradecemos comentarios del usuario en contribución de partners. Envíe a PCPCI
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 1. ¿Por qué no puedo ver la página contribución de partners?
-    - Contribución de partners actualmente solo está disponible para los partners que venden Dynamics 365 con cuentas de MPN o CSP. Esta característica no está habilitada aún para China y Alemania.
+    - Contribución de partners está disponible actualmente solo para partners que venden Dynamics 365 con cuentas de MPN o de CSP. Esta característica no está habilitada aún para China y Alemania.
 2. Soy un partner de Dynamics 365, ¿por qué no puedo ver los datos de contribución de partners?
-      - Tal vez no tengas un rol de cuenta MPN o CSP. Por ejemplo: Asesor y DAP no están habilitados aún.  
+      - Puede que no tenga un rol de cuenta MPN o CSP. Por ejemplo: Asesor y DAP no están habilitadas aún.  
     - Puede que no tenga el rol de usuario adecuados en la organización para ver esta página. Ponte en contacto con el administrador global.
 
     - La organización se encuentra en China o Alemania.
@@ -64,9 +67,9 @@ Agradecemos comentarios del usuario en contribución de partners. Envíe a PCPCI
 3. ¿Mi nuevos ingresos netos > 0, pero no tienen datos para los usuarios activos mensuales (MAU)?
     - Para la mayoría de las licencias por volumen o canal abierto clientes, facturación aparece antes de aprovisionar puestos por lo que no podemos ver MAU aún.
 
-4.  ¿Por qué mi MAU > 0, pero puedo no tener ningún dato para nuevos ingresos netos?
+4.  ¿Por qué mi MAU > 0, pero no tienen datos para nuevos ingresos netos?
     - Para Web directo o revendedor, puestos aprovisionados antes de que comience el ciclo de facturación. Facturación puede producirse un mes, trimestre o año más adelante en función de los términos de la suscripción. Esto también ocurre con las suscripciones de prueba, los derechos de uso interno y los clientes del gobierno.
 5.  ¿Mis datos de ingresos no coinciden?
-    - Esto es más probable debido a la asociación DPOR, las diferencias de temporización o datos que no sea en la nube.
+    - Esto es más probable debido a la asociación, las diferencias de temporización o datos en la nube que no sea DPOR.
 6.  ¿Mis datos individuales certificadas por baja?
-    - Solo mostramos los ubicados en un área de inquilino del cliente determinado y que hayan pasado a 1 o más de los 5 exámenes necesarios para la competencia de aplicaciones empresariales en la nube, atracción de clientes o ruta de acceso de finanzas y Ops.   
+    - Aquí solo mostramos los ubicados en un área de inquilino del cliente en particular y que hayan pasado a 1 o más de los 5 exámenes necesarios para la competencia de aplicaciones empresariales en la nube, la participación de clientes o la ruta de acceso de finanzas y Ops.   
