@@ -3,12 +3,12 @@ title: Usar promociones para atraer a nuevos clientes | Centro de partners
 description: Como partner de Microsoft en el programa de Proveedor de soluciones en la nube, puedes comprar suscripciones al precio de promoción y pasar el ahorro a tus clientes.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875385"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377687"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 
@@ -34,8 +34,8 @@ Dedica un momento a revisar estos datos importantes sobre promociones:
 
 Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Selecciona **Promociones** desde tu menú **Panel** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
 
->**Nota**<br>
-También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
+> [!NOTE]  
+> También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Comprar suscripciones a precios de promoción
 

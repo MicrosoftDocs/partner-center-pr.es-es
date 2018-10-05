@@ -4,12 +4,12 @@ description: En el Centro de partners, puedes establecer un presupuesto mensual 
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875375"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377477"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Establecer un presupuesto de gastos de Azure para tus clientes
 
@@ -29,7 +29,8 @@ Para ayudar a los clientes a administrar sus gastos de Azure, puedes establecer 
 
 Los datos de gastos de Azure son una estimación, los importes de facturación reales pueden variar y el valor no refleja los impuestos, créditos, ajustes u otros cargos que se puedan aplicar. Los datos de gastos se actualizan una vez al día. Los clientes seguirán usando (y se les seguirá cobrando por) los servicios y recursos de Azure, a menos que cambies la configuración de su cuenta en Azure Portal. 
 
->**Nota**   Esta característica no está disponible en las cuentas de espacio aislado o Test in Production (TIP).
+> [!NOTE]  
+> Esta característica no está disponible en el espacio aislado o Test en las cuentas de Production (TIP).
 
 **Activar las notificaciones por correo electrónico**
 1.  En el menú Panel, selecciona **Microsoft Azure spending**.

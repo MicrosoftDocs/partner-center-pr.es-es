@@ -4,12 +4,12 @@ description: Instala la Aplicación del Centro de partners para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 69250785b9ab27dc0aa41c28c0ef84667506aeaf
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cba33fde9095850af24f857e4bec84abb83607df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875175"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377647"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP)
 
@@ -19,8 +19,8 @@ ms.locfileid: "2875175"
 
 Consigue una representación visual de los datos de tu empresa con la Aplicación de análisis del Centro de partners para Power BI. La aplicación, diseñada para los partners directos en el programa de Proveedor de soluciones en la nube (CSP), se conecta al conocido marco de Power BI. 
 
->**Nota**<br>
-Eres partner directo si trabaja directamente con Microsoft y con los clientes. 
+> [!NOTE]  
+> Eres partner directo si trabaja directamente con Microsoft y con los clientes. 
 
 Instala la aplicación para obtener vistas gráficas de lo siguiente: 
 

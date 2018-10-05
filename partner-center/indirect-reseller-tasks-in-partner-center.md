@@ -5,12 +5,12 @@ ms.prod: ''
 author: MaggiePucciEvans
 keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9d2c9953244eda43be5af02f5324087df571047a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877215"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377757"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -32,7 +32,8 @@ Para obtener más información sobre lo que se requiere para vender en el progra
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Inscribirse como revendedor indirecto en el programa de Proveedor de soluciones en la nube
 
->**Nota** Si ya estás inscrito en el CSP, es posible que tengas que proporcionar únicamente la información de contacto de soporte técnico al cliente para crear una cuenta de distribuidor en el Panel de partners. 
+> [!NOTE]  
+> Si ya estás inscrito en CSP, puede que tengas proporcionar soporte técnico al cliente solo ponte en contacto con información para crear una cuenta de revendedor en el panel de partners. 
 
 ### <a name="before-you-begin"></a>Antes de comenzar
 
@@ -69,14 +70,14 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 7.  Selecciona el perfil de organización con el id. de MPN que esté vinculado a tus incentivos, beneficios de suscripción y competencias, para que podamos enviar esta información a tu cuenta del Panel de partners. Selecciona **Continuar**.
 
     Si el Id. de MPN que quieres usar no aparece en esta página, selecciona **Cancelar** y vuelve a iniciar con el nombre de usuario y contraseña del perfil de la organización que quieras usar. 
-
-    >**Importante** Seleccionar el identificador de MPN asociado con el perfil de organización activa que se encuentre en el mismo país o región que el inquilino de Azure AD.
+    > [!IMPORTANT]  
+    > Selecciona el identificador de MPN asociado con un perfil de organización activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
 
 8.  Proporciona o actualiza el perfil comercial legal de tu organización, la información de contacto principal y la información de soporte técnico al cliente. Selecciona **Inscribirse ahora**.
 
     El contacto primario debe ser la persona de tu organización con la que podemos ponernos en contacto para la aplicación (puede ser tú u otra persona de tu organización). Ten en cuenta que no aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en la Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook. 
-
-    >**Importante** Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Panel de partners y (2) que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
+    > [!IMPORTANT]  
+    > Para ayudar a garantizar la seguridad y privacidad de la organización, te enviaremos un correo electrónico al contacto principal para comprobar que (1) configurándolo registrado para una cuenta del panel de partners y (2) y que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
 
 9.  Cuando tu cuenta del Panel de partners esté lista para usarse, comprueba que se te haya agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
@@ -97,8 +98,8 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 5. Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
 
->**Importante**<br>
-Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
+> [!IMPORTANT]  
+> Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
 
 >El usuario tendrá que iniciar sesión en el Panel de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Panel de partners por primera vez, se le pedirá cambiar la contraseña.        
 
@@ -121,15 +122,16 @@ Si un proveedor indirecto quiere conectarse contigo en el Panel de partners, seg
 
 3.  Para confirmar la asociación con el proveedor, marca la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu paǵina de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
 
-    >**Nota** Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
+    > [!NOTE]  
+    > Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de los clientes y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
 
 4.  Selecciona **Proveedores indirectos** desde tu menú **Panel** para ver una lista de los proveedores con los que tienes una asociación. 
 
 5.  Selecciona **Ver clientes** para ver una lista de los clientes que compartes con el proveedor.
 
 6.  Selecciona **Invitar a nuevos clientes** para pedir a un nuevo cliente que autorice relaciones de revendedor contigo y con tu proveedor indirecto a la vez. Asegúrate de tener a mano la dirección de correo electrónico del cliente para enviarle la invitación por correo electrónico.  
-
-    >**Importante** Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
+    > [!IMPORTANT]  
+    > Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
  
 ## <a name="connect-with-customers"></a>Conectar con los clientes
 

@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, impago, el cliente no pagará la factura, riesgo en línea, robo de servicio, uso incorrecto de servicio, suspender una suscripción,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876285"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377707"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -61,7 +61,8 @@ Estas recomendaciones pueden ayudarte a desarrollar directivas y prácticas que 
 
 #### <a name="post-purchase-customer-account-management"></a>Administración de cuentas de clientes posterior a la compra
 - Trabaja con los clientes para comprender sus necesidades comerciales de uso de la nube y establece umbrales de supervisión apropiados.
-    >**Nota** Puedes [establecer un presupuesto de gastos mensual de Azure](set-an-azure-spending-budget-for-your-customers.md) en el Centro de partners para supervisar el uso de los clientes durante el mes y recibir notificaciones cuando los clientes estén cerca del límite de su presupuesto.
+    > [!NOTE]  
+    >  Puedes [establecer un presupuesto de gastos mensual de Azure](set-an-azure-spending-budget-for-your-customers.md) en el centro de partners para supervisar el uso de cliente durante el mes y recibir notificaciones cuando los clientes estén cerca de su presupuesto.
 - Supervisa periódicamente [registros de actividades de los clientes](activity-logs.md) para ayudar a detectar actividades fraudulentas de forma anticipada
 - Toma medidas rápidas cuando se detecten actividades sospechosas
 - Evita conceder a los clientes acceso de administrativo total a las suscripciones sin primero implementar controles de mitigación de riesgos
@@ -74,8 +75,8 @@ Estas recomendaciones pueden ayudarte a desarrollar directivas y prácticas que 
 
 Para obtener más estrategias detalladas para mitigar los riesgos en línea, consulta la [Guía de administración de riesgos en las transacciones en línea.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
 
->**Importante**<br>
-Si Microsoft detecta una actividad de partner o cliente que confirmamos o sospechamos que infringe la directiva de uso aceptable, tomaremos medidas de aplicación. El cliente podría suspenderse inmediatamente y Microsoft te notificará sobre las medidas de aplicación o se enviará información actualizada sobre tus solicitudes.
+> [!IMPORTANT]  
+> Si Microsoft detecta una actividad de partner o cliente que confirmamos o sospechamos que infringe la directiva de uso aceptable, tomaremos medidas de aplicación. El cliente podría suspenderse inmediatamente y Microsoft te notificará sobre las medidas de aplicación o se enviará información actualizada sobre tus solicitudes.
 
  
 

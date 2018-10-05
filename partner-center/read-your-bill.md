@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875185"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377547"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -24,10 +24,10 @@ Para la facturación, ve al menú **Panel** y luego selecciona **Facturación** 
 
 Los partners del programa Proveedor de soluciones en la nube que han elegido la facturación mensual pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en el uso).
 
->**Nota**<br>
-La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+> [!NOTE]  
+> La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
 
-Recibirás una factura para basado en licencia (Office365) y los cargos (Azure) basados en uso y una factura independiente para un solo uso (Azure reserved VM instances) cargos.
+Recibirás una factura para (Office365) basado en licencia y basadas en uso cargos de (Azure) y una factura independiente para un solo uso (Azure reserved VM instances) cargos.
 
 Para obtener información detallada sobre los cargos, usa los archivos de conciliación correspondientes. Los archivos de conciliación incluyen los identificadores de cliente y de suscripción que usarás para crear facturas de cliente. Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
 
@@ -75,7 +75,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Total antes de impuestos y cargos exclusivas de impuestos y créditos por período.</td>
+<td>Total antes de impuestos y cargos exclusivas de impuestos y créditos.</td>
 </tr>
 <td>Tax</td>
 <td>El total de impuestos para los cargos actuales según se suman en la sección de detalles a partir de la página 2 de la factura. Este número es la suma de todos los cargos de:
@@ -86,7 +86,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="odd">
 <td>Otros créditos</td>
-<td>Créditos exclusivas de impuestos.</td>
+<td>Créditos de impuestos exclusiva.</td>
 </tr>
 <tr class="even">
 <td>Total current charges</td>

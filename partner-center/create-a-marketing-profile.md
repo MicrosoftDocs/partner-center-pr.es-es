@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877630"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377627"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -39,20 +39,21 @@ El primer paso para obtener clientes potenciales es crear un perfil de negocio. 
 
 *  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft pueden, después, presentar tu empresa a los clientes potenciales.
 
->**Importante**<br>
-Para ayudar a nuestros partners a optimizar las operaciones empresariales, estamos consolidando funciones y funcionalidades que solían estar distribuidas entre varias herramientas y sitios web del Panel de partners, este sitio. Como parte de este esfuerzo, hemos trasladado todas las funcionalidades relativas a las referencias al Panel de partners y hemos retirado los sitios C2PC y Pinpoint. Si usaste Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberás crear un nuevo perfil de negocio en el Panel de partners para seguir obteniendo referencias. Ya no se admite la importación de perfiles de estos sitios. 
+> [!IMPORTANT]  
+> Para ayudar a nuestros partners a optimizar las operaciones empresariales, estamos consolidando funciones y funcionalidades que solían estar distribuidas entre varias herramientas y sitios web del Panel de partners, este sitio. Como parte de este esfuerzo, hemos trasladado todas las funcionalidades relativas a las referencias al Panel de partners y hemos retirado los sitios C2PC y Pinpoint. Si usaste Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberás crear un nuevo perfil de negocio en el Panel de partners para seguir obteniendo referencias. Ya no se admite la importación de perfiles de estos sitios. 
 
 ## <a name="create-a-profile"></a>Crear un perfil
 
->**Nota** Antes de crear un perfil de negocio, debes tener una cuenta del Panel de partners. Si aún no tienes una cuenta del Panel de partners, consulta [Crear una cuenta del Panel de partners](mpn-create-a-partner-center-account.md) para obtener ayuda para crear una. 
+> [!NOTE]  
+>  Antes de poder crear un perfil de negocio, debes tener una cuenta del panel de partners. Si aún no tienes una cuenta del Panel de partners, consulta [Crear una cuenta del Panel de partners](mpn-create-a-partner-center-account.md) para obtener ayuda para crear una. 
 
 Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
 1.  En el menú **Panel**, selecciona **Referencias** &gt; **Perfiles de negocio** &gt;, selecciona un país o región > **[Crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
-    
-    >**Nota** Mientras que el Panel de partners admite varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, puede que tengan que incluir texto de diferentes idiomas, tal y como se indicó en este tema.
+    > [!NOTE]  
+    >  Mientras que el panel de partners admite varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, puede que tengan que incluir texto de diferentes idiomas, como se indicó en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 

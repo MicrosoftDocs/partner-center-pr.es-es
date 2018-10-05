@@ -5,12 +5,12 @@ ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Inquilino de Azure AD, consolidar tus inquilinos, estrategia de inquilinos, inquilinos de CSP, cuentas partners en CSP, mercados y territorios de CSP, ¿dónde puedo vender a través de CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876385"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377637"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Estrategias de consolidación de inquilinos de CSP
 
@@ -21,7 +21,8 @@ Con la autorización regional, los partners con empresas internacionales ahora p
 
 En el pasado, a excepción de la Unión Europea y AELC, los partners necesitaban tener una entidad física en cada país donde querían realizar transacciones. Esto significa que los partners necesitaban tener varios inquilinos configurados en el Centro de partners con varias fechas de facturación y otras opciones de configuración. En regiones como América Latina, los partners no podían trabajar fácilmente con clientes de regiones o países vecinos y, en algunos casos, se les restringieron completamente las transacciones.
 
->**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
+> [!NOTE]  
+>  Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
 ## <a name="planning"></a>Planificación
 
@@ -163,7 +164,8 @@ Ten en cuenta lo siguiente antes de comenzar a consolidar inquilinos:
 
 -   **Si la ubicación de venta de Microsoft es un país o una región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Islas Åland, Andorra, Austria, Bélgica, Isla Bouvet, Bulgaria, Croacia, Chipre, República Checa, Dinamarca, Estonia, Islas Feroe, Finlandia, Francia, Alemania, Grecia, Gibraltar, Groenlandia, Guernsey, Hungría, Islandia, Irlanda, Isla de Man, Italia, Jersey, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Mónaco, Países Bajos, Noruega, Polonia, Portugal, Rumanía, San Marino, Eslovaquia, Eslovenia, España, Svalbard, Suecia, Suiza, Reino Unido, Ciudad del Vaticano. 
 
-    >**Nota**<br> Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
+    > [!NOTE]  
+>  Si te has inscrito en [CSP de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md) y vendes a clientes de países o regiones de la UE y la EFTA, no puedes consolidar el inquilino del Centro de partners de Microsoft Cloud Alemania con tus otros inquilinos.  
 
 
 -   **Si la ubicación de venta de Microsoft es un país o región en la siguiente lista**, tu territorio incluirá los clientes situados en cualquier país o región de la siguiente lista: Afganistán, Albania, Argelia, Armenia, Azerbaiyán, Bahréin, Belarús, Benín, Bosnia y Herzegovina, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, Congo, Congo (RDC), Yibuti, Egipto, Guinea Ecuatorial, Eritrea, Polinesia Francesa, Gabón, Gambia, Georgia, Guinea, Guinea-Bissau, Irak, Israel, Jordania, Kazajistán, Kuwait, Kirguistán, Líbano, Liberia, Libia, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Marruecos, Nueva Caledonia, Níger, Omán, Pakistán, Autoridad Palestina, Qatar, República de Macedonia (ERYM), Reunión, Arabia Saudí, Serbia, Seychelles, Sierra Leona, Somalia, Sudáfrica, Tayikistán, Togo, Túnez, Turquía, Turkmenistán, Ucrania, Emiratos Árabes Unidos, Uzbekistán, Yemen, Zimbabue. 

@@ -4,12 +4,12 @@ description: Obtén información sobre cómo restaurar una cuenta suspendida del
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877035"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377557"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar una cuenta suspendida del Centro de partners
 
@@ -21,8 +21,8 @@ En este artículo se explica qué hacer si se ha suspendido tu cuenta del Centro
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
->**Importante**<br>
-Mientras tu cuenta del Centro de partners esté suspendida, podrás seguir administrando las implementaciones, las licencias y los servicios existentes. Sin embargo, no podrás autorizar ni revender nuevas licencias o servicios hasta que tu cuenta vuelva a estar al día.
+> [!IMPORTANT]  
+> Mientras tu cuenta del Centro de partners esté suspendida, podrás seguir administrando las implementaciones, las licencias y los servicios existentes. Sin embargo, no podrás autorizar ni revender nuevas licencias o servicios hasta que tu cuenta vuelva a estar al día.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Por qué se suspenden las cuentas del Centro de partners
 

@@ -4,12 +4,12 @@ description: En algunos casos, es posible que los clientes quieran contratarte p
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875845"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377487"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -46,8 +46,8 @@ La función multicanal del Panel de partners admite escenarios como cuando un cl
 </tbody>
 </table>
 
->**Importante**<br>
-Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners. 
+> [!IMPORTANT]  
+> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners. 
 
 ## <a name="see-also"></a>Consulta también
 

@@ -3,12 +3,12 @@ title: Unirse a Microsoft Partner Network| Centro de partners
 description: Adquirir Microsoft Action Pack y obtener competencias en el Centro de partners
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877115"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377797"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Unirse a Microsoft Partner Network (MPN)
 
@@ -37,7 +37,8 @@ Para hacer negocios como partner de Microsoft, necesitas un número de id. de MP
 
 4.  Si te inscribes a través de una organización existente, se te pedirá el nombre y dirección de la organización.
 
->**Nota**<br> Debes proporcionar la dirección de la sede central de la organización de cada ubicación donde vendes.
+> [!NOTE]  
+>  Debes proporcionar la dirección de la sede central de la organización de cada ubicación donde vendes.
 
 Como miembro de Network a este nivel básico gratuito, recibirás un conjunto de [beneficios de derechos de uso interno básicos](https://partner.microsoft.com/membership/core-benefits) que te ayudarán a desarrollar tu negocio y pasar al siguiente nivel. 
 

@@ -4,12 +4,12 @@ description: Recursos para hacer crecer tu negocio de partner de Microsoft. Incl
 keywords: referencias, responder a las referencias, clientes potenciales, oportunidades de ventas, perfil de marketing, perfil de negocio, hacer crecer tu negocio, oportunidades de negocio, competencias, suscripción silver, suscripción gold, ofertas de evaluación, expansión de mercado, nubes nacionales
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876455"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377447"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Haz crecer tu negocio de partner de Microsoft 
 
@@ -23,7 +23,8 @@ Usar el Centro de partners para:
 -   Ofrecer precios promocionales en productos de Microsoft (partners de CSP)
 -   Vender en mercados adicionales (partners de CSP)
 
->**Nota** Tu empresa debe inscribirse en Microsoft Partner Network y tener una cuenta del Centro de partners para sacar partido de estas funcionalidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
+> [!NOTE]  
+>  Tu empresa debe inscribirse en Microsoft Partner Network y tener una cuenta del centro de partners para sacar partido de estas funcionalidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
 
 ## <a name="resources-to-help-your-business-grow"></a>Recursos para ayudar a hacer crecer tu negocio
 

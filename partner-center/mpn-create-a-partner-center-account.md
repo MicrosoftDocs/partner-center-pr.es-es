@@ -3,12 +3,12 @@ title: Crear una cuenta del Centro de partners | Centro de partners
 description: Los miembros de Microsoft Partner Network necesitan crear cuentas del Centro de partners para administrar sus ventajas y competencias de la red y crear un perfil de negocio.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876785"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377777"
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
@@ -60,7 +60,8 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
     El contacto principal debe ser la persona de tu empresa con la que podamos ponernos en contacto respecto a la aplicación (puedes ser tú u otra persona de la empresa). También usaremos esta información para comprobar que dicha persona trabaja en la empresa y se ha inscrito para tener una cuenta del Centro de partners.
 
-    >**Importante**<br> Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a la empresa. Cuando el contacto principal verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
+    > [!IMPORTANT]  
+    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a la empresa. Cuando el contacto principal verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
 
 4.  Lee y acepta los términos y condiciones del acuerdo de Microsoft Partner Network. 
 

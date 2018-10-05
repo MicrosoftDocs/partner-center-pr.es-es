@@ -3,12 +3,12 @@ title: Administración de usuarios y licencias en el Centro de partners para Mic
 description: Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud for US Government no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud for US Government.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5cf8f4f33043f6130789ea2402067f759fa98343
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7fc99106d522fc8b7c36a36267873a65826b9f68
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876215"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377737"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -31,7 +31,8 @@ Si has iniciado sesión en el Centro de partners para Microsoft Cloud for US Gov
 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud for US Government, abre la página de introducción a Azure Active Directory (Azure AD) y sigue las instrucciones sobre estos temas:
 
->**Nota** Seleccionar los siguientes vínculos te llevará a un sitio web diferente. 
+> [!NOTE]  
+> Seleccionar los siguientes vínculos te llevará a un sitio Web diferente. 
 
 -  [**Agregar nuevos usuarios a Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

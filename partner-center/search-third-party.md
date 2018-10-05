@@ -4,12 +4,12 @@ description: Busca y encuentra los tipos de ofertas de terceros que encajen bien
 author: labrenne
 keywords: ofertas de terceros, software para comprar, buscar aplicaciones de terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876725"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377507"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descubre las ofertas de terceros que quieres vender
 
@@ -51,7 +51,8 @@ La compra de software de terceros se realiza de la misma forma que la compra de 
 7.  Después de agregar la suscripción, ábrela haciendo clic en el nombre de la suscripción en la lista de suscripciones. 
 8.  En la página **Editar suscripciones** puedes cambiar la cantidad de licencias o suspender la suscripción.
 
->**Nota**<br> Asigna la licencia al cliente en el sitio de administración de terceros.
+> [!NOTE]  
+>  Asigna la licencia al cliente en el sitio de administración de terceros.
 
     
 

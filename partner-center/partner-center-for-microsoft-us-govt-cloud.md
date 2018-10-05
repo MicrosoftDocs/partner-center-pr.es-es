@@ -3,12 +3,12 @@ title: Centro de partners para Microsoft Cloud for US Government | Centro de par
 description: El Centro de partners para Microsoft Cloud for US Government es el portal empresarial para los partners de Microsoft que quieren ofrecer soluciones en la nube de Microsoft a clientes que trabajan con los organismos gubernamentales en los Estados Unidos.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875645"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377527"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro de partners para Microsoft Cloud for US Government
 
@@ -30,8 +30,8 @@ Para obtener más información, consulta la [hoja de datos de Microsoft Cloud fo
 
 Una vez que te hayas inscrito en el programa Proveedor de soluciones en la nube (CSP) para Microsoft Cloud for US Government, usarás el Centro de partners para vender soluciones y servicios específicos en la nube a clientes del gobierno de los Estados Unidos. 
 
->**Nota**<br>
-En el momento en el que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud for US Government (desde la publicación, es posible que se hayan agregado algunas características al Centro de partners y que esta lista no esté actualizada):
+> [!NOTE]  
+> En el momento en el que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud for US Government (desde la publicación, es posible que se hayan agregado algunas características al Centro de partners y que esta lista no esté actualizada):
 
 - Buscar un partner
 - Perfiles de negocio

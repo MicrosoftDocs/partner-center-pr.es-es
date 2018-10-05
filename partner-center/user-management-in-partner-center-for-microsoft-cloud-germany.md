@@ -3,12 +3,12 @@ title: Administración de usuarios y licencias en el Centro de partners para Mic
 description: Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud Alemania no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud Alemania.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875775"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377417"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
@@ -25,8 +25,8 @@ Administración de usuarios de clientes | Centro de administración de Office 36
 Restablecer contraseñas de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de licencias | Centro de administración de Office 365 o portal de licencias de Azure Active Directory de Microsoft Cloud Alemania
 
->**Nota**<br>
-En el momento en que se publicó este artículo, la documentación sobre la administración de licencias de usuario de clientes en el portal de administración de Azure o el portal de administración de Office 365 aún no estaba disponible.
+> [!NOTE]  
+> En el momento en que se publicó este artículo, la documentación sobre la administración de licencias de usuario de clientes en el portal de administración de Azure o el portal de administración de Office 365 aún no estaba disponible.
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud Alemania 
 
@@ -34,7 +34,8 @@ Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, 
 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud Alemania, abre la página de introducción a Azure Active Directory (Azure AD) y luego sigue las instrucciones en estos temas:
 
->**Nota** Seleccionar los siguientes vínculos te llevará a un sitio web diferente. 
+> [!NOTE]  
+> Seleccionar los siguientes vínculos te llevará a un sitio Web diferente. 
 
 -  [**Agregar nuevos usuarios a Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

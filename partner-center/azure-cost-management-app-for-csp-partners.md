@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877455"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377807"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Aplicación de administración de costos de Azure para partners de CSP de Azure  
 
@@ -41,8 +41,9 @@ Al registrar una aplicación web de Azure Active Directory en el Centro de partn
 ## <a name="add-a-secret-key-to-your-app"></a>Agregar una clave secreta a la aplicación
 1.  En la lista desplegable situada junto al botón **Agregar clave**, selecciona una duración de 1 o 2 años.
 2.  Haz clic en **Agregar clave**. 
-3.  Copia y guarda el valor de la clave secreta. Lo necesitarás para la evaluación gratuita de 30 días.
-<br>**Nota**: las claves secretas de la aplicación son como contraseñas con fechas de caducidad más largas. Guarda el valor de clave en una ubicación segura para uso futuro.
+3.  Copia y guarda el valor de la clave secreta. Lo necesitarás para la evaluación gratuita de 30 días.<br>
+> [!NOTE]  
+> Las claves secretas de la aplicación son como contraseñas con fechas de caducidad más largas. Guarda el valor de clave en una ubicación segura para uso futuro.
 
 ## <a name="next-steps"></a>Pasos siguientes
 Inicia una [evaluación gratuita de 30 días](https://go.microsoft.com/fwlink/?linkid=857895).

@@ -3,12 +3,12 @@ title: Inscribirse en el programa Proveedor de soluciones en la nube de Microsof
 description: Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania, obtén más información sobre los requisitos del programa CSP.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877505"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377657"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania
 
@@ -24,8 +24,8 @@ Para obtener más información, consulta [Centro de partners para Microsoft Clou
 
 Si tienes una cuenta existente en el Centro de partners y quieres inscribirte en el CSP de Microsoft Cloud Alemania, debes crear una nueva cuenta independiente para el Centro de partners para Microsoft Cloud Alemania.
 
->**Importante**<br>
-Si ya te has inscrito en el programa CSP y quieres vender también a clientes y partners dentro de los países o las regiones de Microsoft Cloud Alemania, deberás crear una nueva cuenta del Centro de partners para este mercado específico.  
+> [!IMPORTANT]  
+> Si ya te has inscrito en el programa CSP y quieres vender también a clientes y partners dentro de los países o las regiones de Microsoft Cloud Alemania, deberás crear una nueva cuenta del Centro de partners para este mercado específico.  
 
 Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsoft Cloud Alemania, deberás proporcionar la siguiente información (puedes obtener esta información antes de iniciar el proceso de inscripción):
 
@@ -36,7 +36,7 @@ Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsof
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Paso 1: Crea una cuenta del Centro de partners para Microsoft Cloud Alemania 
 
-1.  Para inscribirte en CSP de Microsoft Cloud Alemania, ve a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) y selecciona el **Inicio de sesión**. 
+1.  Para inscribirse en el CSP de Microsoft Cloud Alemania, ve a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) y selecciona el **Inicio de sesión**. 
 
 2.  Inicia sesión con credenciales de administrador global para la cuenta de Microsoft Cloud Alemania de tu empresa para Office 365, Microsoft Azure o Microsoft Dynamics. Si tu empresa no tiene una cuenta para estos portales, selecciona **Crear una** para suscribirte a uno.
 
@@ -56,8 +56,8 @@ Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsof
 
 2.  Selecciona **Aceptar y continuar**. La revisión de la solicitud puede llevar varios días. Recibirás un mensaje cuando se haya completado la revisión.
 
-    >**Importante**<br>
-    Al seleccionar **Aceptar y continuar**, confirmas que estás autorizado a actuar en nombre de tu empresa y aceptas que Microsoft encargue una comprobación de antecedentes crediticios antes de revisar la solicitud de Proveedor de soluciones en la nube de tu empresa.
+> [!IMPORTANT]  
+> Al seleccionar **Aceptar y continuar**, confirmas que estás autorizado a actuar en nombre de tu empresa y aceptas que Microsoft encargue una comprobación de antecedentes crediticios antes de revisar la solicitud de Proveedor de soluciones en la nube de tu empresa.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>Paso 3: Firmar el contrato de revendedor de Microsoft Cloud Alemania 
 
@@ -69,8 +69,8 @@ Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsof
 
 Microsoft Cloud Alemania proporciona una instancia diferente de Microsoft Azure, ya que se ofrece desde centros de datos alemanes con una red dedicada que funciona en Alemania. Para permitir que los administradores administren los usuarios y licencias en el portal de Azure Alemania, tendrás que asignarles manualmente la función de agente de administración.
 
->**Nota**<br>
-Después de asignar usuarios a la función de agente de administración, aparecerá el menú **Clientes** en el menú Panel y podrás obtener acceso a la lista de clientes y [agregar nuevos clientes](add-a-new-customer.md).   
+> [!NOTE]  
+> Después de asignar usuarios a la función de agente de administración, aparecerá el menú **Clientes** en el menú Panel y podrás obtener acceso a la lista de clientes y [agregar nuevos clientes](add-a-new-customer.md).   
 
 1.  Inicia sesión en el portal de Azure Alemania en https://portal.microsoftazure.de/.
 

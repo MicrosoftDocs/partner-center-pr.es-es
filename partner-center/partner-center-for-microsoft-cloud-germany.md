@@ -3,12 +3,12 @@ title: Centro de partners para Microsoft Cloud Alemania | Centro de partners par
 description: El Centro de partners para Microsoft Cloud Alemania es el portal de empresa para los partners de Microsoft que deseen ofrecer soluciones en la nube de Microsoft a los clientes de países de la UE y la EFTA. Microsoft Cloud Alemania garantiza que los datos de clientes residen en Alemania y un administrador de datos de confianza alemán designado controla el acceso a estos. Los clientes comerciales en la Unión Europea (UE) y la Asociación de Libre Comercio Europea (EFTA) pueden almacenar y administrar los datos de los clientes en cumplimiento de las leyes y normas alemanas vigentes, así como de los estándares internacionales más importantes. Microsoft no puede acceder a los datos de los clientes sin la aprobación y la supervisión del administrador de datos de confianza alemán o el cliente.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876345"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377587"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 
@@ -28,8 +28,8 @@ Para obtener más información, consulta la [hoja de datos de Microsoft Cloud Al
 
 Una vez que te hayas inscrito en el programa Proveedor de soluciones en la nube (CSP) para Microsoft Cloud Alemania, usarás el Centro de partners para vender soluciones y servicios específicos de la nube alemana a los clientes de países o regiones de la UE y la EFTA. 
 
->**Nota**<br>
-En el momento en que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud Alemania (desde la publicación, algunas de las características pueden haberse agregado al Centro de partners y esta lista puede estar desactualizada):
+> [!NOTE]  
+> En el momento en que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud Alemania (desde la publicación, algunas de las características pueden haberse agregado al Centro de partners y esta lista puede estar desactualizada):
 
 - Buscar un partner
 - Perfiles de negocio

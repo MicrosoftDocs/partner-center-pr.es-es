@@ -4,12 +4,12 @@ description: Es posible que un cliente quiera trabajar con varios partners espec
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f145d4334a2b83c3e0939dc3d9d0acfe77d8edba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874835"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377457"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
@@ -33,8 +33,8 @@ La funcionalidad multipartner no sirve para:
 
 -   Cambiar el partner de registro de una suscripción
 
->**Importante**<br>
-Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners.  
+> [!IMPORTANT]  
+> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners.  
 
  
 

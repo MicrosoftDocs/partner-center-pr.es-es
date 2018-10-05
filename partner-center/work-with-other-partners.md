@@ -3,12 +3,12 @@ title: Trabajar con otros partners | Centro de partners
 description: Trabaja con otros partners de CSP para satisfacer las necesidades de los clientes que compartes.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877105"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377697"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 
@@ -48,6 +48,6 @@ La característica multicanal del Centro de partners admite escenarios cuando un
 
 El soporte técnico para multicanal también está disponible en las ofertas de la nube de Microsoft a nivel nacional.
 
->**Importante**<br>
-Actualmente, un partner en CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners. 
+> [!IMPORTANT]  
+> Actualmente, un partner en CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners. 
 

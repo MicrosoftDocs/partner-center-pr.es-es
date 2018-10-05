@@ -4,12 +4,12 @@ description: Nuestros partners usan varias métricas para evaluar si su negocio 
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875615"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377617"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -21,7 +21,8 @@ Nuestros partners usan varias métricas para evaluar si su negocio está crecien
 
 Puedes ver los datos de todos los clientes a través del programa Proveedor de soluciones en la nube. Ten en cuenta que algunos clientes pueden comprar licencias de otros partners o directamente de Microsoft. En ese caso, verás el total de licencias de todos los partners. Para ver solo tu propias licencias, consulta las suscripciones del cliente en su lugar.
 
->**Nota**<br> Actualmente, solo mostramos datos de Office 365 y Dynamics 365. Habilitaremos datos de productos adicionales en el futuro.
+> [!NOTE]  
+>  Actualmente, solo mostramos datos de Office 365 y Dynamics 365. Habilitaremos datos de productos adicionales en el futuro.
 
 ## <a name="find-license-and-user-data"></a>Buscar datos de usuario y de licencia
 

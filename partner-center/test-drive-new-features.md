@@ -3,12 +3,12 @@ title: Versión de prueba de las nuevas características del Centro de partners
 description: Prueba las nuevas características del Centro de partners antes de su lanzamiento y cuéntanos tu opinión. Ayuda a determinar el futuro del Centro de partners.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876665"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377577"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Versión de prueba de las nuevas características del Centro de partners
 
@@ -22,7 +22,8 @@ Publicamos continuamente nuevas características y funcionalidades en el Centro 
 
 Estamos encantados de invitarte a probar nuevas características antes de que se publiquen en la comunidad mundial del Centro de partners y de que compartas tus ideas al respecto. Echa un vistazo a la [página de anuncios del Centro de partners](https://partnercenter.microsoft.com/pcv/announcements) para obtener información sobre las próximas características. De este modo, puedes empezar a planificar cómo usarlos para hacer crecer tu negocio. Ten en cuenta que puede haber varias características disponibles para que las pruebes en un momento dado.
 
->**Importante**<br> Seguimos corrigiendo los errores y mejorando el rendimiento de las características durante la fase de vista previa del lanzamiento de una característica, lo que significa que puede haber cambios en el funcionamiento final de dicha característica. Por estas razones y otras, es posible que las versiones de vista previa tengan un comportamiento impredecible y esto no transmite una garantía implícita o real de Microsoft.
+> [!IMPORTANT]  
+> Seguimos corrigiendo los errores y mejorando el rendimiento de las características durante la fase de vista previa del lanzamiento de una característica, lo que significa que puede haber cambios en el funcionamiento final de dicha característica. Por estas razones y otras, es posible que las versiones de vista previa tengan un comportamiento impredecible y esto no transmite una garantía implícita o real de Microsoft.
 
 Para cada próxima característica, puedes hacer lo siguiente:
 
@@ -32,11 +33,13 @@ Para cada próxima característica, puedes hacer lo siguiente:
 
 -   Consultar la fecha prevista para poner a disposición una vista previa de la característica y la fecha de lanzamiento prevista para toda la comunidad mundial del Centro de partners 
 
-    >**Nota**<br> Por *fecha de lanzamiento prevista*, nos referimos a la fecha en la que tenemos previsto que la característica esté disponible para todos los usuarios del Centro de partners de todo el mundo. Sin embargo, hay algunos factores que pueden afectar a la fecha de lanzamiento, como la decisión de incorporar comentarios que mejoren la característica, y podemos decidir volver a programar la fecha de lanzamiento o no lanzar una versión comercial de la característica.  
+    > [!NOTE]  
+>  Por *fecha de lanzamiento prevista*, nos referimos a la fecha en la que tenemos previsto que la característica esté disponible para todos los usuarios del Centro de partners de todo el mundo. Sin embargo, hay algunos factores que pueden afectar a la fecha de lanzamiento, como la decisión de incorporar comentarios que mejoren la característica, y podemos decidir volver a programar la fecha de lanzamiento o no lanzar una versión comercial de la característica.  
 
 -   Desliza el conmutador hasta **Activado** para activar la vista previa de la característica.
 
->**Nota**<br> Solo los administradores globales y los agentes de administración pueden activar las versiones de vista previa de características. Sin embargo, cualquiera de los usuarios del Centro de partners puede ver y usar características de vista previa si tienen los permisos correspondientes.
+> [!NOTE]  
+>  Solo los administradores globales y los agentes de administración pueden activar las versiones de vista previa de características. Sin embargo, cualquiera de los usuarios del Centro de partners puede ver y usar características de vista previa si tienen los permisos correspondientes.
  
 ## <a name="tell-us-what-you-think"></a>Cuéntanos tu opinión
 

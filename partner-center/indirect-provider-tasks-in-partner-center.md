@@ -3,12 +3,12 @@ title: Asociación con los revendedores indirectos en CSP | Centro de partners
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876775"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377767"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -46,7 +46,8 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
 Después de completar estos pasos, puedes administrar tus asociaciones con los revendedores en la página **Revendedores indirectos** desde el menú **Panel**.
 
->**Importante**<br> Antes de empezar a trabajar con los distribuidores, estos deben estar inscritos como distribuidores indirectos en el programa CSP y tener cuentas en el Panel de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
+> [!IMPORTANT]   
+> Antes de empezar a trabajar con los distribuidores, estos deben estar inscritos como distribuidores indirectos en el programa CSP y tener cuentas en el Panel de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
 
 ## <a name="connect-with-indirect-resellers"></a>Conectar con indirectos revendedores
 
@@ -59,8 +60,8 @@ Para establecer una asociación, envía un correo electrónico al revendedor con
 2. En la página **Revendedores indirectos**, selecciona **Solicitar una asociación**. Aparecerá un borrador de mensaje de correo electrónico.
 
 3. Selecciona **Abrir en un correo electrónico** para abrir el mensaje en la aplicación de correo electrónico predeterminada o selecciona **Copiar en el portapapeles** y, a continuación, pega el mensaje en un correo electrónico. Selecciona **Listo** cuando termines.
-
-   >**Importante** Puedes editar el texto del mensaje de correo electrónico, pero asegúrate de incluir el vínculo, ya que está personalizado para tu cuenta del Panel de partners.
+    > [!IMPORTANT]  
+    >  Puedes editar el texto del mensaje de correo electrónico, pero Asegúrate de incluir el vínculo, ya que está personalizado para tu cuenta del panel de partners.
 
 4. Una vez que el revendedor acepte la solicitud de asociación, aparecerá en la lista de revendedores indirectos y podrás realizar lo siguiente: 
 
@@ -97,8 +98,8 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 5.  Si el pedido es correcto, selecciona **Enviar**. Si el pedido no es correcto, selecciona **Cancelar** para cancelar toda la operación y empezar de nuevo.
 
 6.  Tras enviar el pedido, aparecerá la página **Confirmación**. En **Información de configuración**, se muestran el nombre de usuario y la contraseña temporal del administrador de la cuenta. Copia la información de nombre de usuario de la cuenta y la contraseña para enviarla al nuevo cliente. 
-
-    >**Importante** Asegúrate de conservar el nombre de usuario de la cuenta y la contraseña, ya que no podrás acceder a esta información de nuevo, una vez cerrada esta página.
+    > [!IMPORTANT]  
+    > Asegúrate de anote el nombre de la cuenta de usuario y la contraseña ya no podrás acceder a esta información de nuevo después de cerrar esta página.
 
 7.  Selecciona **Listo**. El cliente nuevo aparece en la lista de clientes, asociado con el revendedor indirecto. Ahora el revendedor tiene acceso de administrador a la información de la cuenta del cliente y a las suscripciones y puede administrar las suscripciones en su nombre.
 

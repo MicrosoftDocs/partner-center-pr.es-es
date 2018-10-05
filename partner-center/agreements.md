@@ -4,12 +4,12 @@ description: Descargar plantillas de acuerdos de cliente de un mercado e idioma 
 author: Maggie Evans
 keywords: Contratos de Microsoft Cloud, plantillas de acuerdos de clientes, acuerdos de cliente CSP, MCA, MCA, CSP, ¿dónde puedo vender a través de CSP?, países y regiones CSP, MCA de CSP en varios idiomas, CSP Norteamérica, CSP América Central, CSP Sudamérica, CSP Caribe, CSP de Microsoft Cloud for US Government, CSP de Microsoft Cloud Germany, CSP Oriente Medio, CSP África, CSP Europa, CSP Asia, CSP Pacífico, MCA de CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877515"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377817"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Contratos de clientes y mercados de Proveedor de soluciones en la nube de Microsoft
 
@@ -17,8 +17,8 @@ En este artículo se indican los mercados disponibles en el canal de ventas de P
 
 Algunas ubicaciones tienen disponibles versiones del contrato en varios idiomas para ajustarse a las preferencias de idioma del cliente. Debes proporcionar al cliente la versión en su idioma preferido.
 
->**Nota**<br>
-Las plantillas de cliente del Contrato de Microsoft Cloud que se muestran a continuación son válidas a partir del 1 de septiembre de 2017 para todas las regiones y todos los idiomas.
+> [!NOTE]  
+> Las plantillas de cliente del Contrato de Microsoft Cloud que se muestran a continuación son válidas a partir del 1 de septiembre de 2017 para todas las regiones y todos los idiomas.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Norteamérica, América Central, Sudamérica y el Caribe

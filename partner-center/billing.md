@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones de impuestos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876365"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377747"
 ---
 # <a name="billing"></a>Facturación
 
@@ -24,8 +24,8 @@ Para la facturación, ve al menú **Panel** y luego selecciona **Facturación** 
 
 Los partners del programa Proveedor de soluciones en la nube que elijan que se les facture mensualmente pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en uso).
 
->**Nota**<br>
-La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+> [!NOTE]  
+> La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
 
 Información clave para saber cómo facturar a tus clientes:
 

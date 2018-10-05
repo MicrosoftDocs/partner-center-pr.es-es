@@ -4,12 +4,12 @@ description: Como partner revendedor, los clientes pueden delegar en TI para que
 author: labrenne
 keywords: privilegios de administrador, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a6d14398bdd9a439bc001ecb3d03bc9d7774937
-ms.sourcegitcommit: 3478fc6fe1a061e5973307fffd039b4bee5d8e1c
+ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/08/2018
-ms.locfileid: "3806683"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377437"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Los clientes delegan privilegios administrativos en los partners
 
@@ -37,8 +37,8 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 6.  Para administrar la cuenta, servicios, usuarios y licencias del cliente, expande el registro del cliente, selecciona la flecha abajo situada junto a su nombre y, a continuación, selecciona el portal de administración para el servicio que desea administrar.
 
 
->**Importante**<br>
-Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, ponte en contacto con soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+> [!IMPORTANT]  
+> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, ponte en contacto con soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
 Los clientes pueden averiguar cuáles de sus partners tienen privilegios de administrador para su inquilino desde dentro del portal de administración de Office 365. Para ello:
 
@@ -46,7 +46,7 @@ Los clientes pueden averiguar cuáles de sus partners tienen privilegios de admi
 
 2. Selecciona **Configuración** → **Relaciones con partners**.
 
-3. En la página de **relaciones de partners** , el cliente verá una lista de los asociados con los que trabajan y aquellos que se han concedido privilegios de administración para sus inquilinos.
+3. En la página de **relaciones de partners** , el cliente verá una lista de los asociados con el que funcionan y aquellos que se han concedido privilegios de administración para sus inquilinos.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Los clientes pueden administrar los privilegios de administrador delegados en un partner 
 
@@ -62,8 +62,8 @@ Quitar los privilegios de administración delegados de un partner:
 2. En el panel de detalles, selecciona **Quitar administrador delegado**.
 3. En el panel de confirmación, seleccione **Quitar**.
 
->**Importante**<br>
-Las asignaciones de roles de Azure AD al partner son implícitas. Si intentas enumerar los miembros de los roles de Azure AD mediante Portal/PowerShell/Graph de Azure AD, no aparecerá el partner. Para averiguar si los socios están asignados a roles de Azure AD, debes hacer referencia a la página de relaciones con partners del Portal de administración de Office 365, para averiguar si el privilegio de administrador delegado se ha concedido al partner o no.
+> [!IMPORTANT]  
+> Las asignaciones de roles de Azure AD al partner son implícitas. Si intentas enumerar los miembros de los roles de Azure AD mediante Portal/PowerShell/Graph de Azure AD, no aparecerá el partner. Para averiguar si los socios están asignados a roles de Azure AD, debes hacer referencia a la página de relaciones con partners del Portal de administración de Office 365, para averiguar si el privilegio de administrador delegado se ha concedido al partner o no.
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Privilegios de administrador delegado en Azure AD 
 
@@ -109,7 +109,8 @@ Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 
 - No puedes administrar dispositivos que el cliente ha agregado a través de la Microsoft Store para empresas, Microsoft Store para educación o Portal de Microsoft Intune.
 
->**Importante** La experiencia de administración de Autopilot en el panel puede continuar cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
+> [!IMPORTANT]  
+> La experiencia de administración de Autopilot actual en el panel puede continuar cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
 
   - Los partners deben tener privilegios de administración delegada del cliente para poder agregar, actualizar o eliminar perfiles y aplicar o quitar perfiles de todos los dispositivos del inquilino del cliente.
 

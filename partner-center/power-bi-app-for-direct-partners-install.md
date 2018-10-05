@@ -4,12 +4,12 @@ description: Sigue los pasos siguientes para obtener la versión preliminar de l
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874765"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377517"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
@@ -39,7 +39,8 @@ Antes de instalar la versión preliminar de la Aplicación de análisis del Cent
 
 4.  En la ventana emergente **Conectar con el análisis del Centro de partners**, comprueba que el **método de autenticación** está establecido en **oAuth2** o selecciona **oAuth2** de la lista si no lo está. 
 
-    >**Nota**<br> Esta ventana puede tardar unos minutos en aparecer.
+    > [!NOTE]  
+>  Esta ventana puede tardar unos minutos en aparecer.
 
 5.  En la página **Conector de análisis del Centro de partners**, inicia sesión con las credenciales de administrador global, agente de administración o administrador de facturación correspondientes al inquilino de Azure AD de tu empresa y a continuación selecciona **Iniciar sesión**.
  

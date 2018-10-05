@@ -4,12 +4,12 @@ description: Funcionalidad de Centro de administración de partners de Office 36
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875595"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377597"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>El Centro de administración de partners se está mudando al Panel de partners
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875595"
 
 -  Centro de partners
 
->**Nota** Todas las fechas se han actualizado desde la publicación inicial de este artículo.
+> [!NOTE]  
+>  Todas las fechas se han actualizado desde la publicación inicial de este artículo.
 
 El Centro de administración de partners de Office 365 (PAC) se está mudando al Panel de partners de Microsoft.
 
@@ -36,7 +37,8 @@ Durante abril de 2018, el PAC se irá retirando y los partners del CSP comenzar�
 
 Comienza a usar ahora mismo el [Panel de partners de Microsoft](https://partnercenter.microsoft.com/) para estar listo cuando te traslades desde el PAC.  Para el Panel de partners usarás las mismas credenciales que usas para PAC. 
 
->**IMPORTANTE** Algunas características y funciones que estaban disponibles en el PAC no lo estarán en el Panel de partners.
+> [!IMPORTANT]  
+> Algunas características y funciones que estaban disponibles en PAC no estarán disponibles en el panel de partners.
 
  Lee la [comparación en paralelo](moving-from-pac-to-pc.md) para comprender y familiarizarte con estos cambios.  Encontrarás información adicional sobre la administración de cuentas, la administración de clientes, las licencias y suscripciones, los precios y ofertas, y mucho más en la [Ayuda del Panel de partners de Microsoft](https://partnercenter.microsoft.com/partner/help).
 

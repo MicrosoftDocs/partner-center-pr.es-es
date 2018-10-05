@@ -4,12 +4,12 @@ description: Cuando actualizas tu suscripción a Microsoft Partner Network, pued
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875715"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377787"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualizar tu suscripción a Microsoft Partner Network
 
@@ -46,7 +46,8 @@ Action Pack es una suscripción anual asequible a servicios, software y soporte 
 
 Para obtener más información sobre Microsoft Action Pack, ve a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Ten en cuenta** que este vínculo te llevará a otro sitio web. Vuelve a este sitio, Centro de partners, para suscribirte a Action Pack.
+> [!NOTE]  
+> Este vínculo te llevará a otro sitio Web. Vuelve a este sitio, Centro de partners, para suscribirte a Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Suscribirse a Microsoft Action Pack
@@ -75,8 +76,8 @@ Tu suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 3. Selecciona **Desactivar renovación automática** si no quieres que tu suscripción a Action Pack se renueve automáticamente cada año. 
 
-    >**Nota**<br>
-Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te lo recordaremos la renovación de la suscripción antes de que caduque la suscripción.
+   > [!NOTE]  
+> Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te lo recordaremos la renovación de la suscripción antes de que caduque la suscripción.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar la suscripción Action Pack
