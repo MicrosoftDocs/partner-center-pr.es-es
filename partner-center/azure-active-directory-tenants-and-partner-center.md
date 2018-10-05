@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876085"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377497"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Cuenta profesional de tu empresa y Panel de partners  
 
@@ -24,7 +24,8 @@ Necesitamos vincular tu cuenta profesional de la empresa a tu nueva cuenta del P
 
 Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Panel de partners. 
 
->**Nota** Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Panel de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Panel de partners, piensa en crear una nueva cuenta solo para los usuarios que tendrán que trabajar en el Panel de partners.
+> [!NOTE]  
+>  Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el panel de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Panel de partners, piensa en crear una nueva cuenta solo para los usuarios que tendrán que trabajar en el Panel de partners.
 
 Si tu empresa aún no tiene una cuenta profesional, puedes crear una durante el proceso de inscripción. 
 
