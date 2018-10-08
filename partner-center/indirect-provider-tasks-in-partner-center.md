@@ -3,12 +3,12 @@ title: Asociación con los revendedores indirectos en CSP | Centro de partners
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377767"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445467"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -33,7 +33,7 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
 1.  Revisa el perfil de tu compañía en [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Para realizar cambios en el perfil de proveedor indirecto de tu empresa, envía una solicitud de soporte técnico del Panel de partners e incluye el nombre de tu empresa, el logotipo y la dirección URL de destino de cada ubicación. Actualizaremos tu perfil en un plazo de entre dos y tres semanas.<br>
+    -   Para realizar cambios en el perfil de proveedor indirecto de tu empresa, ponte en contacto con tu representante de Microsoft.<br>
 
 2.  Conectar con revendedores indirectos
 
