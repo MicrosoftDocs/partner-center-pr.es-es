@@ -1,25 +1,25 @@
 ---
 title: Asignar roles a los usuarios y permisos | El centro de partners
-description: Todos los empleados que necesitan trabajar en el panel de partners se les deben asignar un rol.
+description: Todos los empleados que necesitan trabajar en el centro de Partners deben tener asignado un rol.
 author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
-ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
+ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "4227449"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489491"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar permisos y roles de los usuarios
 
 **Se aplica a:**
 
-- Panel de partners
+- Centro de partners
 
-Cada rol en el panel incluye algunos permisos permiten al usuario realizar tareas específicas. Todos los usuarios que funciona en el panel debe estar asignado un rol.
+Cada rol en el centro de partners incluye algunos permisos permiten al usuario realizar tareas específicas. Todos los que funciona en el centro de partners debe tener asignado un rol.
 
-Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una sola ubicación. 
+Según el tamaño de la organización, algunos usuarios pueden funcionar en distintas ubicaciones o solo para una ubicación. 
 
 Por ejemplo:
 
@@ -27,9 +27,9 @@ Por ejemplo:
 - Los administradores de incentivos pueden administrar para una o varias ubicaciones, pero que deben especificarse esas ubicaciones.
 
 
-La siguiente tabla explica lo que puede hacer cada rol en el Panel de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
+La siguiente tabla explica lo que puede hacer cada rol en el centro de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
 
-Para obtener información general de roles y permisos, lee [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
+Para obtener información general de roles y permisos, leer [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -38,14 +38,14 @@ Para obtener información general de roles y permisos, lee [crear cuentas de usu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Roles del Panel de partners</strong></p></td>
+<td><p><strong>Rol en el centro de partners</strong></p></td>
 <td><p><strong>Lo que se puede hacer</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador global</strong></p></td>
 <td><ul>
 <li><p>Puede acceder a todas las cuentas o servicios Microsoft con privilegios completos</p></li>
-<li><p>Crear incidencias de soporte técnico para el Panel de partners</p></li>
+<li><p>Crear incidencias de soporte técnico para el centro de partners</p></li>
 <li><p>Ver contratos, listas de precios y ofertas</p></li>
 <li><p>Facturación</p></li>
 <li><p>Ver, crear y administrar los usuarios de partners</p></li>
@@ -94,19 +94,19 @@ Para obtener información general de roles y permisos, lee [crear cuentas de usu
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Administrador de cuentas</strong></p></td>
+<td><p><strong>Administrador de la cuenta</strong></p></td>
 <td><ul>
 <li><p>Crear nuevas ubicaciones</p></li>
 <li><p>Inscribir ubicaciones en programas (excepciones son CSP y programas de revendedores indirectos)</p></li>
-<li><p>Administrar perfiles relacionados con las cuentas de ubicación administran</p></li>
-<li><p>Asigna administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos, roles de usuario de incentivos a los usuarios</p></li>
+<li><p>Administrar perfiles de las cuentas de ubicación que se administran</p></li>
+<li><p>Asigna el administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos, roles de usuario de incentivos a los usuarios</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador de incentivos</strong></p></td>
 <td><ul>
 <li><p>Asignar roles de incentivos</p></li>
-<li><p>Inicia y administra las notificaciones de incentivos</p></li>
+<li><p>Inicia y administra reclamaciones de incentivos</p></li>
 <li><p>Permite ver y editar todos los aspectos de los programas de incentivos</p></li>
 <li><p>Ver detalles bancarios y fiscales</p></li>
 <LI><p>Ganancias de reembolso y cooperación de vista</p></li>
@@ -130,7 +130,7 @@ Para obtener información general de roles y permisos, lee [crear cuentas de usu
 <td><p><strong>Agente de administración</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos al panel de partners <</p></li>
+<li><p>Agregar una lista de dispositivos en el centro de partners <</p></li>
 <p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
@@ -145,7 +145,7 @@ Para obtener información general de roles y permisos, lee [crear cuentas de usu
 <td><p><strong>Agente de ventas</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos al Panel de partners</p></li>
+<li><p>Agregar una lista de dispositivos en el centro de partners</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Ver incidencias de soporte técnico</p></li>
 <li><p>Solicitar relación con un cliente</p></li>

@@ -4,12 +4,12 @@ description: Obtén información sobre cómo restaurar una cuenta suspendida del
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377557"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489481"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar una cuenta suspendida del Centro de partners
 
@@ -36,13 +36,13 @@ Microsoft suspenderá una cuenta del Centro de partners por cualquiera de los si
 
 Si sabes que tu cuenta está al día, envía una solicitud de soporte al soporte técnico del centro de partners para averiguar por qué se ha suspendido tu cuenta. 
 
-Si no estás seguro de si tu cuenta está al día, selecciona **Facturación** desde el menú **Panel** para comprobar tu factura. La página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
+Si no estás seguro de si tu cuenta está al día, selecciona la opción **de facturación** desde el menú del **Centro de partners** para comprobar tu factura. La página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
 
 Si tu cuenta está vencida, sigue las instrucciones de la factura para organizar el pago y, a continuación, envía una solicitud de soporte técnico para pedir que se restablezca la cuenta. 
 
 **Para enviar una solicitud de soporte**
 
-1.  En el menú **Panel**, selecciona **Solicitudes de soporte técnico > Solicitudes del Centro de partners**.
+1.  En el menú del **Centro de partners** , selecciona **solicitudes de soporte técnico > solicitudes del centro de partners**.
 2.  Selecciona **Nueva solicitud**. 
 3.  Rellena el formulario y luego selecciona **Enviar**. Un representante de soporte técnico del Centro de partners se pondrá en contacto contigo para explicarte por qué se ha suspendido tu cuenta y cómo restablecerla.
 

@@ -3,12 +3,12 @@ title: Quitar una relación de revendedor con un cliente | Centro de partners
 description: Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners.
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: 37b4866a4bdb0d2785581c71a329c236ab9a4d81
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875515"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489741"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Quitar una relación de revendedor con un cliente
 
@@ -26,11 +26,11 @@ Esta característica:
 
 Para quitar la relación, deberás primero cancelar las reservas RI de Azure, cancelar las compras de software y suspender las suscripciones activas restantes:
 
-1.  Suspender todas las suscripciones activas. En el panel, ve a **Clientes** > selecciona un cliente > **Suscripciones** > selecciona una suscripción > **Suspendida**. 
+1.  Suspender todas las suscripciones activas. Desde el centro de partners, ve a **los clientes** > selecciona un cliente > **suscripciones** > selecciona una suscripción > **suspendida**. 
 
    Repite este procedimiento para cada suscripción activa.
 
-2.  Quitar la relación en el Centro de partners: desde el panel, ve a **Clientes** > selecciona un cliente > **Cuenta** > **Quitar la relación de revendedor**.
+2.  Quitar la relación del centro de partners: desde el centro de partners, ve a **los clientes** > selecciona un cliente > **cuenta** > **quitar la relación de revendedor**.
 
     Ten en cuenta que si las suscripciones son sigue activas, el vínculo **Quitar la relación de revendedor** no estará activo. 
 

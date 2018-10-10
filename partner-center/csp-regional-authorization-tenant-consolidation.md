@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: migrar clientes, aprovisionamiento, cuenta de inquilino, consolidar inquilinos
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875985"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489671"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
@@ -31,14 +31,14 @@ Usa estas instrucciones para consolidar los inquilinos para diferentes países o
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
 
--   Inicia sesión en tu **Panel** con la cuenta de **Transición** (la existente que se moverá) y toma nota de todos los clientes y todos los servicios aprovisionados para dichos clientes.
+-   Iniciar sesión el **Centro de partners** con la cuenta de **transición** (existente) (lo que se moverá) y tome nota de todos los clientes y todos los servicios aprovisionados para dichos clientes.
 
 ![lista de clientes regionales](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
 
-1.  Inicia sesión en tu **Panel** con la cuenta de **Transición** (la nueva a la que estás pasando) y navegar a la lista Clientes desde **Clientes**.
+1.  Iniciar sesión el **Centro de partners** con la cuenta de **transición** (nuevo) (lo que estás pasando) y navega hasta la lista de los clientes de **los clientes**.
 
 2.  Selecciona Clientes.
 
@@ -55,7 +55,7 @@ Los clientes aparecerán en la lista de clientes del partner después de enviar 
 
 1.  Cuando el cliente haya firmado el contrato, puedes volver a crear sus suscripciones en tu inquilino de partner centralizado.
 
-2.  En el **Panel**, selecciona **Clientes**.
+2.  Desde el **Centro de partners** , selecciona **los clientes**.
 
 3.  Abre el nombre de la compañía del cliente que deseas migrar.
 
@@ -82,7 +82,7 @@ Antes de pasar a la siguiente sección, asegúrate de todas las suscripciones de
 
 Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición desde** detiene toda facturación futura. No es necesario deshabilitar manualmente las suscripciones de Azure, porque las suscripciones de Azure se deshabilitan automáticamente durante el proceso de migración.
 
-1.  Inicia sesión en el **Panel** con la cuenta de CSP **desde donde se realiza la transición** y navega hasta la lista de clientes.
+1.  Inicia sesión en el **Centro de partners** con la cuenta CSP **Transición desde** y navegar a la lista de clientes.
 
 2.  Abre al cliente cuyas suscripciones quieras deshabilitar y, a continuación, selecciona la primera oferta que deshabilitar.
 3.  Establece la suscripción en **suspendida**y, a continuación, haz clic en **enviar**.
@@ -130,7 +130,7 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 
 Si usas la **Función de exportación**, puedes capturar las suscripciones que necesites usar en tu nueva estructura consolidada:
 
-1.  Haz clic en **Clientes** en el panel para ver la lista de clientes de la estructura existente.
+1.  Haz clic en **los clientes** en el centro de partners para ver la lista de clientes de la estructura existente.
 
 2.  Abre el nombre del cliente deseado.
 

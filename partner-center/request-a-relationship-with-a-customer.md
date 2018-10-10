@@ -4,12 +4,12 @@ description: La solicitud de relación con un cliente se usa para los escenarios
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377537"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489511"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
@@ -23,7 +23,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente para establecer una relación de revendedor contigo
 
-1.  Selecciona **Clientes** desde el menú **Panel** y, a continuación, selecciona **Solicitar una relación de revendedor**.
+1.  Selecciona **los clientes** desde el menú del **Centro de partners** y, a continuación, selecciona **solicitar una relación de revendedor**.
 
 2.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico en la aplicación de mensajería predeterminada o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 

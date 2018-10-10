@@ -4,12 +4,12 @@ description: Microsoft presenta Dynamics 365, la próxima generación de aplicac
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876305"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489791"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar suscripciones de Dynamics AX a Dynamics 365
 
@@ -78,7 +78,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 **Comprar la nueva suscripción**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y elige **Agregar suscripciones**.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y elige **Agregar suscripciones**.
 2.  Selecciona la suscripción que quieras adquirir del catálogo (en este caso, Dynamics 365 para operaciones, Enterprise Edition), escribe el número de licencias y elige **Enviar**.
 
     El cliente ahora debería tener las suscripciones antigua y nueva; en este ejemplo, serían la antigua suscripción Dynamics AX Enterprise y la nueva suscripción de destino, Dynamics 365 para operaciones, Enterprise Edition.
@@ -87,7 +87,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 **Reasignar licencias de usuario**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y elige **Usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y elige **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
 2.  Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
 3.  En la página **Administrar licencias**, desactiva la casilla de verificación de la licencia **Dynamics AX Enterprise** y selecciona la licencia **Dynamics 365 para operaciones**.
 4.  Selecciona **Enviar**. Una página de confirmación enumera las nuevas asignaciones de licencias.
@@ -97,7 +97,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 **Cancelar la suscripción antigua**
 
-1.  En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y selecciona la suscripción que quieres cancelar.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y selecciona la suscripción que quieres Cancelar.
 2.  En la página de detalles de suscripción, establece el **Estado** de la suscripción a **Suspendida**.
 3.  Selecciona **Enviar**.
 

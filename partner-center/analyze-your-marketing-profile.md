@@ -4,12 +4,12 @@ description: Evaluar, negociar y responder a las referencias a través del Centr
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875365"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489341"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizar la eficacia de tu perfil de negocio
 <!-- 
@@ -26,7 +26,7 @@ Tras publicar el [perfil de negocio](create-a-marketing-profile.md) de tu empres
 
 Cuando empieces a [responder a estas referencias](responding-to-referrals.md), empezarás a obtener datos sobre cuántas RFI se convierten en ofertas comerciales ganadas.
 
-Usa estos informes cuando perfecciones tus perfiles empresariales para generar más clientes potenciales y más clientes potenciales relevantes. Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción. Desde el Panel de partners, ve a **Referencias > Páginas de Marketing**.
+Usa estos informes cuando perfecciones tus perfiles empresariales para generar más clientes potenciales y más clientes potenciales relevantes. Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción. Desde el menú del centro de partners, ve a **referencias > páginas de Marketing**.
 
 Estos informes muestran el rendimiento de los perfiles empresariales en todas las regiones. Los informes muestran datos de los últimos 90días agrupados por semanas.
 

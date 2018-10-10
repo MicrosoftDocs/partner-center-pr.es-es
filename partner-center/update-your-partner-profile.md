@@ -4,12 +4,12 @@ description: La primera vez que inicies sesión como administrador, asegúrate d
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 34372626af495800abba254b06a161243a991e6f
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 9e76754e1783f818c43019a62fced69ed75904fd
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197673"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489011"
 ---
 # <a name="update-your-partner-profile"></a>Actualizar el perfil de partner
 
@@ -19,16 +19,16 @@ ms.locfileid: "4197673"
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-La primera vez que inicies sesión en el Centro de partners como administrador, asegúrate de que los detalles de soporte sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
+La primera vez que se inicia sesión en el centro de partners como administrador, asegúrate de que la compatibilidad con la información es correcta, exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
 
 
-**Asociar tu Id. de MPN a tu cuenta del panel de partners**
+**Asociar tu Id. de MPN a tu cuenta del centro de partners**
 
-Para poder administrar los incentivos, beneficios de la suscripción y competencias y administrar usuarios, la ubicación de MPN debe estar asociado a tu cuenta del panel de partners.
+Para poder administrar los incentivos, beneficios de suscripción y competencias y administrar usuarios, la ubicación de MPN debe estar asociado a tu cuenta del centro de partners.
 
-Como inscribirte en el panel de partners, en la pantalla de **asociar tu Id. de MPN a tu cuenta del panel de partners**, escribe un Id. de MPN en el cuadro de búsqueda. Esto nos permitirá conectar ese identificador de MPN a la ubicación.
+Como inscribirte en el centro de partners, en la pantalla de **asociar tu Id. de MPN a tu cuenta del centro de partners**, escribe un Id. de MPN en el cuadro de búsqueda. Esto nos permitirá conectarse a ese identificador de MPN de tu ubicación.
 
-1. También puede iniciar sesión en el panel de partners, ve al **icono de configuración** y seleccionar la **configuración de partners**.
+1. También puede iniciar sesión en el centro de partners, ve al **icono de configuración** y seleccionar la **configuración de partners**.
 
 2. En la lista de las ubicaciones en el perfil de partner, selecciona las ubicaciones que quieres asociar a ese identificador de MPN o escribe el Id. de MPN en el cuadro de búsqueda.
 
@@ -38,7 +38,7 @@ Como inscribirte en el panel de partners, en la pantalla de **asociar tu Id. de 
 
 **Actualizar detalles de soporte** 
 
-1.  Ve el **icono de configuración** y seleccionar la **configuración de partners**.
+1.  Ve al **icono de configuración** y seleccionar la **configuración de partners**.
 2.  En la sección de **soporte técnico** de la página, selecciona la **actualización**.
 3.  Si alguno de tus clientes llama a Microsoft para obtener soporte técnico, Microsoft los derivará de nuevo al sitio web, correo electrónico e información de contacto telefónico que registres en la lista del perfil de soporte.
 
@@ -48,9 +48,9 @@ Como inscribirte en el panel de partners, en la pantalla de **asociar tu Id. de 
 
 **Comprobar y actualizar tu información de perfil**
 
-1.  Ve el **icono de configuración** y seleccionar la **configuración de partners**. 
+1.  Ve al **icono de configuración** y seleccionar la **configuración de partners**. 
 2.  Revisa **Perfil de partner**, **Perfil de facturación de partner** y **Perfil de organización**.
-3.  Si necesitas cambiar los detalles de tu domicilio, se puede contactar con tu empresa para su comprobación. Al realizar cambios en los detalles del legales, puede afectar la información de impuestos. Asegúrate de que tu información de impuestos permanece precisa. Ponte en contacto con [soporte técnico](https://partner.microsoft.com/support/contact-support) con preguntas.
+3.  Si necesitas cambiar los detalles de la dirección legal, se puede contactar con tu empresa para su comprobación. Al realizar cambios en los detalles del legales, es posible que afecta a la información de impuestos. Asegúrate de que la información de impuestos permanece precisa. Ponte en contacto con [soporte técnico](https://partner.microsoft.com/support/contact-support) con preguntas.
 
  
 

@@ -3,12 +3,12 @@ title: Ofertas de terceros | Centro de partners
 description: A medida que crece tu negocio, puedes desarrollar y aumentar tu cartera de ofertas, incluidas las ofertas de terceros en los paquetes de producto.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874595"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490121"
 ---
 # <a name="third-party-offers"></a>Ofertas de terceros 
 
@@ -16,18 +16,18 @@ ms.locfileid: "2874595"
 
 - Centro de partners
 
-Ofertas de terceros es una nueva función comercial del Centro de partners que permite a los partners revendedores directos e indirectos que venden a través del programa Proveedor de soluciones en la nube (CSP) la posibilidad de realizar transacciones, administrar y admitir soluciones SaaS de terceros.  
+Ofertas de terceros es una característica del centro de partners que proporciona directo y socios de revendedores indirectos que venden a través del programa de proveedor de soluciones en la nube (CSP) la posibilidad de realizar transacciones, administrar y admitir soluciones SaaS de terceros.  
 
 Con Ofertas de terceros, los partners de CSP no solo pueden comprar soluciones de origen, o de Microsoft, sino también soluciones de terceros o de partners de ISV... todo a través de una única plataforma comercial y con una factura.  A medida que crece tu negocio, puedes desarrollar y aumentar tu cartera de ofertas, incluyendo ofertas de terceros en tus paquetes de productos. 
 
-Ahora podrás encontrar muchos tipos diferentes de ofertas de terceros en el Centro de partners, que funcionan con productos de Microsoft. Los clientes sacan partido de una selección más amplia de soluciones diferenciadas que tú muestras, vendes y administras fácilmente en una única ubicación, siendo su partner de Microsoft de confianza. El Centro de partners facilita la detección, transacción y administración de estos servicios para que ofrezcas soluciones y sus ventajas de forma más rápida.
+Puedes encontrar distintos tipos de ofertas de terceros en el centro de partners que funcionan con productos de Microsoft. Los clientes beneficiarán de tener una selección más amplia de soluciones diferenciadas que se detectan, vender y administrar fácilmente en una única ubicación, su partner de Microsoft de confianza. El centro de partners facilita la detección, transacción y administrar estos servicios para que pueda proporcionar soluciones y sus ventajas con mayor rapidez.
 
-## <a name="microsoft-partners-that-sell-through-our-cloud-solutions-program"></a>Partners de Microsoft que venden a través de nuestro Programa de soluciones en la nube
+## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Partners de Microsoft en el programa de proveedor de soluciones en la nube
 
-Las ofertas de terceros están diseñadas para ser fáciles de administrar y comercializar.  Para garantizar el éxito y la mejor experiencia para ti y para tus clientes, te recomendamos la siguiente lista de comprobación para empezar a trabajar hoy mismo con Ofertas de terceros:
+Las ofertas de terceros están diseñadas para ser fáciles de administrar y comercializar. Para garantizar la mejor experiencia para TI y los clientes, te recomendamos usar la siguiente lista de comprobación para empezar a trabajar con ofertas de terceros:
 
-1. Revisa todos los materiales que vienen a continuación, comenzando por el seminario web de incorporación y las preguntas frecuentes
-2. Familiarízate con el catálogo de Ofertas de terceros del Centro de partners
+1. Revisa todos los materiales que vienen a continuación, comenzando por la incorporación seminario Web y las preguntas más frecuentes
+2. Familiarizarte con las ofertas de terceros en el catálogo del centro de partners
 3. Conecta con el ISV respecto a las ofertas de terceros que te interesan
 4. Establece cuotas y objetivos para los vendedores
 5. Entrena a tus vendedores

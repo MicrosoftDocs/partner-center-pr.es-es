@@ -4,12 +4,12 @@ description: El catálogo muestra todos los productos y los complementos de Micr
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874935"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488551"
 ---
 # <a name="customize-the-catalog"></a>Personalizar el catálogo
 
@@ -23,7 +23,7 @@ El catálogo muestra los productos y complementos de Microsoft disponibles para 
 
 **Personalizar el catálogo**
 
-1.  Ve al menú Panel &gt; **Vender** &gt; **Catálogo**.
+1.  Ve al menú Centro de partners &gt; **vender** &gt; **catálogo**.
 2.  Elige hasta cinco ofertas para mostrarlas en la parte superior del catálogo.
 
  

@@ -4,12 +4,12 @@ description: Evaluar, negociar y responder a las referencias a través del Centr
 author: KPacquer
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875425"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489461"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Responder a las referencias en | Centro de partners
 
@@ -29,7 +29,7 @@ Empieza mediante la configuración de un [perfil de negocio](create-a-marketing-
 
 Cuando un cliente esté interesado contactar contigo, te enviará una solicitud de información (RFI). 
 
-Cuando esto sucede, enviaremos un correo electrónico al contacto que se indica en tu [perfil de negocio](create-a-marketing-profile.md) específico de la región y ubicación seleccionados. También puedes ver las RFI entrantes: ve a **Panel > Referencias > Referencias de cliente**.
+Cuando esto sucede, enviaremos un correo electrónico al contacto que se indica en tu [perfil de negocio](create-a-marketing-profile.md) específico de la región y ubicación seleccionados. También puedes ver las RFI entrantes: ve a **Centro de partners > referencias > referencias de cliente**.
 
 Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para tener más posibilidades de éxito, te recomendamos responder y aceptar o rechazar las nuevas referencias en 24 horas o menos.
 

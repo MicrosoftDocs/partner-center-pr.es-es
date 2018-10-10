@@ -3,12 +3,12 @@ title: Usar promociones para atraer a nuevos clientes | Centro de partners
 description: Como partner de Microsoft en el programa de Proveedor de soluciones en la nube, puedes comprar suscripciones al precio de promoción y pasar el ahorro a tus clientes.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377687"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488991"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 
@@ -32,14 +32,14 @@ Dedica un momento a revisar estos datos importantes sobre promociones:
 
 ## <a name="see-available-promotions"></a>Ver las promociones disponibles
 
-Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Selecciona **Promociones** desde tu menú **Panel** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
+Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Selecciona **promociones** desde el menú del **Centro de partners** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
 
 > [!NOTE]  
 > También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Comprar suscripciones a precios de promoción
 
-1. En el menú **Panel**, selecciona **Clientes** y selecciona el cliente que está comprando la suscripción. 
+1. En el menú del **Centro de partners** , selecciona **los clientes** y, a continuación, selecciona al cliente que está comprando la suscripción. 
 
 2. Selecciona **Agregar suscripción**.
 

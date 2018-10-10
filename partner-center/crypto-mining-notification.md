@@ -1,25 +1,25 @@
 ---
-title: Notificación del Panel de partners para actividad de criptominería | Panel de partners
+title: Notificación del centro de partners para actividad de criptominería | El centro de partners
 description: Notificación acerca de una posible criptominería.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876235"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488931"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Notificación del Panel de partners para actividad de minería de criptomonedas
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación del centro de partners para actividad de minería de criptomonedas
 
 **Se aplica a**
 
--  Panel de partners
+-  Centro de partners
 -  Partners de CSP
 
-Puede que hayas recibido la siguiente notificación del Panel de Partner sobre minería de criptomonedas:
+Es posible que ha recibido la siguiente notificación del centro de partners sobre minería de criptomonedas:
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ Si la actividad es inesperada, ten en cuenta lo siguiente:
 
 2.  Comprender cómo se crearon los recursos en primer lugar. Esto puede requerir revisar los registros de Azure Resource Manager para actividades de aprovisionamiento de recursos.
 
-3.  Si necesitas saber quién ha creado la suscripción, revisa los registros de actividad del Panel de partners.
+3.  Si necesitas saber quién ha creado la suscripción, revisa los registros de actividades del centro de partners.
 
 La detección de las actividades de minería de criptomonedas se basa en la heurística y no puede ser 100% preciso. Asegúrate de que dispones de sistemas de control y supervisión implementados para protegerte frente a actividades fraudulentas u otras no permitidas. Para obtener más información, consulta [Impago, fraude o uso incorrecto](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Si tienes preguntas o dudas sobre la notificación, puedes usar el siguiente procedimiento para abrir una solicitud de soporte técnico.
 
-1.  En el Panel, selecciona **Soporte técnico** y, a continuación, **Solicitudes del Centro de partners**.
+1.  En el centro de partners, selecciona **soporte técnico** y, a continuación, selecciona **las solicitudes del centro de partners**.
 3.  Selecciona **Nueva solicitud**. 
 4.  En el menú desplegable **Tipo de problemas**, selecciona **Agregar o administrar clientes**.
 5.  En el menú desplegable **Impacto**, selecciona **Moderado**.

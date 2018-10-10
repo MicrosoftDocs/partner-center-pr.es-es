@@ -4,12 +4,12 @@ description: El programa Proveedor de soluciones en la nube puede ayudar a tu ne
 author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP indirecto, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
 ms.localizationpriority: medium
-ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875755"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488751"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición 
 
@@ -33,14 +33,14 @@ El programa Proveedor de soluciones en la nube (CSP) te ayuda a ir más allá de
 
 #### <a name="new-expanded-requirements"></a>Nuevos requisitos expandidos:
 
-Soporte
-- Expande tus capacidades de soporte técnico adquiriendo soporte técnico de nube personales y prioridades con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
+Compatibilidad
+- Expande tus capacidades de soporte técnico, adquisición de asistencia de nube personales y prioridades con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
 
 Servicios
 
-- Demostrar que proporciones al menos un servicio administrada, IP servicio o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
+- Demostrar que proporcionar al menos un servicio administrada, servicio IP o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
 
-- Cumplir con las capacidades de infraestructura mínima, por ejemplo, facturación y aprovisionamiento.
+- Cumplir con las capacidades de infraestructura mínima, como de facturación y aprovisionamiento.
 Nos estamos supervisión del rendimiento anual para confirmar que los partners de facturación directa que cumplan con estos requisitos demostración crecimiento de empresa en constante. No hay ningún objetivos de rendimiento específicos en su lugar en este momento, pero Microsoft puede implementar un rendimiento en el futuro de la barra. 
 
 - Un identificador de Microsoft Partner Network (MPN) activo para la ubicación en la que quieras realizar las ventas
@@ -61,7 +61,7 @@ El programa Proveedor de soluciones en la nube está disponible en las regiones 
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>¿Qué puedo vender a través del programa CSP?
 
-Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), así como una variedad de ofertas adicionales que cambian con frecuencia. Para ver las ofertas del CSP del mes actual, inicia sesión en el Panel de partners y luego ve a la página [**Precios y ofertas**](https://partnercenter.microsoft.com/pcv/sales).
+Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), así como una variedad de ofertas adicionales que cambian con frecuencia. Para ver que el CSP ofrece del mes actual, inicia sesión en el centro de partners y, a continuación, ve a la página [**precios y ofertas**](https://partnercenter.microsoft.com/pcv/sales) .
 
 ## <a name="see-also"></a>Ver también 
 
@@ -72,5 +72,5 @@ Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partne
 |Vender en las nubes nacionales de Microsoft   | [Se aplican para vender en las nubes nacionales de Microsoft](csp-national-clouds-overview.md)|
 |Dónde y qué puedes vender   |[Contratos de clientes y mercados de Proveedor de soluciones en la nube de Microsoft](agreements.md)|
 |  | [Estrategias de inquilinos de CSP](regional-authorization-overview.md)
-|Tareas de proveedor indirecto en el Panel de partners  |[Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-provider-tasks-in-partner-center.md)|
-|Tareas de distribuidor indirecto en el Panel de partners   |[Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)|
+|Tareas de proveedor indirecto en el centro de partners  |[Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-provider-tasks-in-partner-center.md)|
+|Tareas de distribuidor indirecto en el centro de partners   |[Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)|

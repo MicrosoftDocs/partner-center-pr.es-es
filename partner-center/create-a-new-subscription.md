@@ -5,12 +5,12 @@ ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874855"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489111"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -21,14 +21,14 @@ ms.locfileid: "2874855"
 -  Centro de partners para Microsoft Cloud Alemania
 -  Partners de CSP
 
-Después de crear un registro del cliente en el Panel de partners, puedes venderle suscripciones a productos del catálogo.
+Después de crear un registro del cliente en el centro de partners, puedes venderle suscripciones a productos del catálogo.
 
-Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Panel de partners. 
+Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y Ofertas del Centro de partners. 
 
 
 **Crear una suscripción nueva**
 
-1.  Desde el menú **Panel**, selecciona **Clientes** y elige un cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
 
 2.  Selecciona **Nueva suscripción**.
 
@@ -54,7 +54,7 @@ Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podr�
 
 **Suspender una suscripción**
 
-1.  Desde el menú **Panel**, selecciona **Clientes** y elige un cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
 2.  Selecciona la suscripción que deseas administrar.
 3.  En la sección **Estado**, elige **Suspendido**. A continuación, selecciona **Enviar** para enviar los cambios.
 4.  Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).

@@ -1,15 +1,15 @@
 ---
 title: Renovar tus ofertas MPN | Centro de partners
-description: Renueva tus ofertas MPN desde el Panel de partners
+description: Renovar tus ofertas MPN desde el centro de partners
 author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, renovación de competencias, fecha de renovación
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875485"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489351"
 ---
 # <a name="renew-your-mpn-offers"></a>Renovar tus ofertas MPN
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875485"
 
 - Centro de partners
 
-La ventana de renovación de suscripciones de ofertas MPN comienza un día después del aniversario de la fecha de compra. Por ejemplo, si compraste Microsoft Action Pack el 1 de septiembre de 2018, tu ventana de renovación comienza el 2 de septiembre de 2019. Puedes renovar la suscripción en el Panel de partners.
+La ventana de renovación de suscripciones de ofertas MPN comienza un día después del aniversario de la fecha de compra. Por ejemplo, si compraste Microsoft Action Pack el 1 de septiembre de 2018, tu ventana de renovación comienza el 2 de septiembre de 2019. Para renovar la suscripción en el centro de partners.
 
-En el menú **Panel**, selecciona **Ofertas de suscripción**.
+En el **Centro de partners**, selecciona **ofertas de suscripción**.
 En la pestaña **Compradas** podrás ver, para cada una de las ofertas adquiridas:
 
 - Tu fecha de expiración

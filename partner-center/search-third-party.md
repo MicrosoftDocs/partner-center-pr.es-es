@@ -4,12 +4,12 @@ description: Busca y encuentra los tipos de ofertas de terceros que encajen bien
 author: labrenne
 keywords: ofertas de terceros, software para comprar, buscar aplicaciones de terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377507"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488591"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descubre las ofertas de terceros que quieres vender
 
@@ -42,7 +42,7 @@ Si estás interesado en adquirir el software pero tienes alguna pregunta adicion
 
 La compra de software de terceros se realiza de la misma forma que la compra de software de origen. 
 
-1. En el **panel**, selecciona **Clientes**.
+1. En el **Centro de partners**, selecciona **los clientes**
 2. Selecciona **Nueva suscripción**.
 3. Para obtener instrucciones detalladas, consulta [Crear, suspender o cancelar suscripciones de cliente](create-a-new-subscription.md).
 4.  Selecciona la opción de facturación mensual para software de terceros. La facturación anual y la facturación de evaluación no están disponibles para soluciones de terceros.

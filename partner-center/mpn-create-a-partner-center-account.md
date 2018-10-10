@@ -3,12 +3,12 @@ title: Crear una cuenta del Centro de partners | Centro de partners
 description: Los miembros de Microsoft Partner Network necesitan crear cuentas del Centro de partners para administrar sus ventajas y competencias de la red y crear un perfil de negocio.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377777"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488951"
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
@@ -67,7 +67,7 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
 5.  Comprueba que te hayan agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
-    a. En tu **Panel**, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
+    a. En el **Centro de partners**, selecciona el icono de **configuración** y, a continuación, selecciona la **administración de usuarios**.  
 
     b. Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.  
 

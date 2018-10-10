@@ -5,18 +5,18 @@ author: v-petand
 keywords: Azure RI, instancias reservadas de azure, reservas, vm, administrar, facturación, comprar
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877415"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489441"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Facturación de Microsoft Azure Reserved VM Instances
 
 **Se aplica a**
 
--  Panel de partners
+-  Centro de partners
 -  Portal de Microsoft Azure
 -  Partners de CSP
 
@@ -27,7 +27,7 @@ Tus clientes pagan por adelantado para Azure Reserved VM Instances. Al comprar A
 >[!IMPORTANT]
 >Si has comprado Azure Reserved VM Instances para un cliente en un mercado con una moneda diferente a la tuya, la divisa de facturación predeterminada se basa en el mercado del cliente, no en tu ubicación. Si tienes clientes en varios mercados, recibirás facturas y archivos de conciliación independientes para cada divisa en la que los clientes deben facturar, lo que te permite facturar a los clientes en la divisa adecuada. 
 
-Para obtener acceso a archivos de conciliación y facturas de cargo único, selecciona **Facturación** en el Panel de partners y luego selecciona **Una vez**. 
+Para acceder a archivos de conciliación y facturas de cargo único, selecciona la opción **de facturación** del centro de partners y, a continuación, selecciona **una vez**. 
 
 Para obtener más información general sobre facturación en el programa Proveedor de soluciones en la nube, consulta [Conceptos básicos sobre facturación](billing-basics.md).
 
@@ -98,12 +98,12 @@ Para obtener más información general sobre facturación en el programa Proveed
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Ver el estado actual de facturación, facturas y archivos de conciliación
 
-1.  En el Panel de partners, selecciona **Facturación** y, después, **Una vez** para ver el estado de facturación. 
+1.  En el centro de partners, selecciona **de facturación** y, a continuación, **una vez** para ver el estado de facturación. 
 2.  Selecciona una factura o un archivo de conciliación para ver información más detallada. 
 
 ### <a name="view-a-customers-order-history"></a>Ver el historial de pedidos de un cliente
 
-1.  En el menú del panel, selecciona **Clientes**.
+1.  Selecciona **los clientes** en el menú del centro de partners.
 2.  En tu página **Clientes**, busca el cliente cuyo historial de pedidos quieres ver y, a continuación, selecciona la flecha abajo para expandir el registro del cliente. 
 3.  Selecciona **Vea pedidos** para mostrar el historial de pedidos.
 
@@ -117,8 +117,8 @@ Para anular una factura y que se emita una nueva, descargar el formulario en la 
 |**Para obtener información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
 |Reservas de Azure en introducción de CSP  | [Vender Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Comprar reservas de Azure para los clientes de tu Panel de partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
-| Administración de Azure Reservations en el Panel de partners | [Administración de Azure Reservations en el Panel de partners](azure-reservations-manage.md)
+|Comprar reservas de Azure para tus clientes en el centro de partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
+| Administración de Azure reservations en el centro de partners | [Administración de Azure reservations en el centro de partners](azure-reservations-manage.md)
 |Comprar Azure Reservations en el Azure Portal | [Pagar por adelantado máquinas virtuales con instancias reservadas de máquina virtual](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) en la Ayuda de Azure |
 |Administración de Azure Reservations en el Azure Portal   |[Administración de instancias reservadas de máquina virtual](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) en la Ayuda de Azure  |
 |Comprar Azure Reservations con la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners

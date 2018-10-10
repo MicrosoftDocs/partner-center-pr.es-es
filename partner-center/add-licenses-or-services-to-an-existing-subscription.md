@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874875"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489731"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 
@@ -90,7 +90,7 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 1.  Para ver si una suscripción es apta para la actualización, elige el cliente y después abre su lista de suscripciones.
 2.  Si la actualización se puede actualizar, verás un icono informativo justo después del nombre de la suscripción. Mantén el cursor sobre este icono y, después, selecciona **Actualizar ahora**.
 3.  Selecciona la oferta nueva y, después, elige **Enviar**.
-4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el Panel de partners ofrece una lista de las cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el centro de partners proporciona una lista de cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

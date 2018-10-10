@@ -3,12 +3,12 @@ title: Versión de prueba de las nuevas características del Centro de partners
 description: Prueba las nuevas características del Centro de partners antes de su lanzamiento y cuéntanos tu opinión. Ayuda a determinar el futuro del Centro de partners.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377577"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489471"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Versión de prueba de las nuevas características del Centro de partners
 
@@ -49,7 +49,7 @@ Te animamos a compartir tus ideas y opiniones sobre una versión preliminar espe
 
 -   Usa el formulario de comentarios que encontrarás en la esquina inferior derecha de la ventana del Centro de partners para enviarnos directamente tus comentarios. 
 
--   Solicita soporte técnico si tienes algún problema con una vista previa de característica. Para crear una solicitud de soporte técnico, selecciona **Solicitudes de soporte técnico > Solicitudes del Centro de partners** desde el menú **Panel** y, a continuación, selecciona **Nueva solicitud** en la página **Solicitudes del Centro de partners**.
+-   Solicita soporte técnico si tienes algún problema con una vista previa de característica. Para crear una solicitud de soporte técnico, selecciona **solicitudes de soporte técnico > solicitudes del centro de partners** desde el menú del **Centro de partners** y, a continuación, selecciona **la solicitud de nuevo** en la página de **solicitudes del centro de partners** .
 
 Ayúdanos a mejorarte.
 

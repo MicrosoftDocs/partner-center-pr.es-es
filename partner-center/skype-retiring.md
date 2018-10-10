@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: Planes de Skype Empresarial que retiran Skype y Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875465"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489811"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
 
@@ -51,13 +51,13 @@ Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partn
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar a los usuarios a nuevos planes
 
-1. Para comprar la nueva suscripción, en el **menú Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y luego selecciona **Agregar suscripciones**.
+1. Para comprar la nueva suscripción, en el **menú del centro de partners**, selecciona **los clientes**, selecciona al cliente que quieras mover y, a continuación, selecciona **Agregar suscripciones**.
 
 2. Selecciona la suscripción que quieras adquirir del catálogo (en este caso, una de las opciones que se indican más arriba), escribe el número de licencias y, a continuación, **Enviar**. 
 
 El cliente ahora debería tener las suscripciones antiguas y las nuevas, la suscripción del antiguo plan 1 de Skype Empresarial Online y la nueva suscripción de ‘destino’, por ejemplo, Opción 1: Office 365 Enterprise F1.
 
-3. Para reasignar licencias de los usuarios del cliente, desde el menú **Panel**, selecciona **Clientes**, selecciona el cliente que estés moviendo y, a continuación, selecciona **Usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+3. Para reasignar licencias de los usuarios del cliente, desde el menú del **Centro de partners** , selecciona **los clientes**, selecciona el cliente se mueven y, a continuación, selecciona **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
 
 4. Para reasignar una licencia de usuario, selecciona el usuario a reasignar y, a continuación, selecciona **Administrar licencias**.
 
@@ -67,7 +67,7 @@ El cliente ahora debería tener las suscripciones antiguas y las nuevas, la susc
 
 Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción retirada al nivel de cliente.
 
-7. En el menú **Panel**, selecciona **Clientes**. Selecciona el cliente cuya suscripción estés cancelando.
+7. En el menú del **Centro de partners** , selecciona **los clientes**. Selecciona el cliente cuya suscripción estés cancelando.
 
 8. En la página de detalles de suscripción, establece el estado de la suscripción en **Suspendida**.
 

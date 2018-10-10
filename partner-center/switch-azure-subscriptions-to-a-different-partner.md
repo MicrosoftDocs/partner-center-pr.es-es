@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966162"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488971"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -24,7 +24,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 >En este momento son para transferir las suscripciones solo a los proveedores indirectos o directo.
 
 >[!Note] 
->No es actualmente posible cambiar los partners para las suscripciones de proveedor de soluciones en la nube de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+>No es es posible cambiar a los partners para suscripciones de proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
 
 
@@ -39,7 +39,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
     Crear un vale de servicio de Azure desde el Centro de partners para solicitar una transferencia de suscripción:
 
-    -   En el menú del panel, selecciona **Clientes**, selecciona el cliente de la lista y, a continuación, selecciona **Administración de servicios**. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
+    -   En el menú del centro de partners, selecciona **los clientes**, selecciona al cliente de la lista y, a continuación, selecciona la **administración del servicio**. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
 
     -   Desde el portal de Azure, selecciona **Nueva solicitud de soporte técnico**.
 

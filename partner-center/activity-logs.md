@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875905"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488651"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
@@ -27,7 +27,7 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 **Ver y exportar los registros de actividades**
 
-1.  Desde el menú **Panel**, selecciona **Registro de actividades**.
+1.  En el menú del **Centro de partners** , selecciona el **Registro de actividades**.
 2.  Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.
 
     Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.

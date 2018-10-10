@@ -4,12 +4,12 @@ description: Cuando actualizas tu suscripción a Microsoft Partner Network, pued
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377787"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489711"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualizar tu suscripción a Microsoft Partner Network
 
@@ -47,12 +47,12 @@ Action Pack es una suscripción anual asequible a servicios, software y soporte 
 Para obtener más información sobre Microsoft Action Pack, ve a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Este vínculo te llevará a otro sitio Web. Vuelve a este sitio, Centro de partners, para suscribirte a Action Pack.
+> Este vínculo te llevará a otro sitio Web. Vuelve a este sitio, el centro de partners, para suscribirte a Action Pack.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Suscribirse a Microsoft Action Pack
 
-1. En menú **Panel**, selecciona **Asociación > Ofertas**. Microsoft Action Pack aparece en **Ofertas disponibles**. Selecciona **Suscríbete ahora**. 
+1. En el menú del **Centro de partners** , selecciona **asociación > ofertas**. Microsoft Action Pack aparece en **Ofertas disponibles**. Selecciona **Suscríbete ahora**. 
 
 2. Selecciona **Siguiente** para aceptar los [términos y condiciones](https://go.microsoft.com/fwlink/?linkid=842232) para derechos de uso interno concedidos por Microsoft Partner Network.  
 
@@ -70,7 +70,7 @@ Tu suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
 
-1. En menú **Panel**, selecciona **Asociación > Ofertas**. Microsoft Action Pack aparece en **Ofertas adquiridas**.
+1. En el menú del **Centro de partners** , selecciona **asociación > ofertas**. Microsoft Action Pack aparece en **Ofertas adquiridas**.
 
 2. Selecciona **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción. 
 
@@ -82,7 +82,7 @@ Tu suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar la suscripción Action Pack
 
-1. En menú **Panel**, selecciona **Asociación > Ofertas**. Microsoft Action Pack aparece en **Ofertas adquiridas**.
+1. En el menú del **Centro de partners** , selecciona **asociación > ofertas**. Microsoft Action Pack aparece en **Ofertas adquiridas**.
 
 2. Selecciona **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción y, a continuación, selecciona **Renovar suscripciones** en **Acciones**.  
 

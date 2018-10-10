@@ -3,12 +3,12 @@ title: Ofrecer a los clientes versiones de prueba de productos Microsoft | Centr
 description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0babc2c529008d7b76250323b5c4ab5f2f18ada1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4fb7c8752ee6c7ce322ec735a1b3c41a00f92c75
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875315"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488581"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes versiones de prueba de productos de Microsoft
 
@@ -20,7 +20,7 @@ Una buena manera de presentar a los clientes nuevos productos de Microsoft es of
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registrar al cliente para una prueba
 
-1.  Desde **Vender**, en el Panel, ve a **Catálogo**. 
+1.  Desde **vender** en el centro de partners, ve al **catálogo**. 
 2.  En el catálogo, en **Frecuencia de facturación**, haz clic en **Oferta de prueba**. Esto permite mostrar solo evaluaciones gratuitas y oculta otras ofertas que no son gratuitas. Las pruebas aparecerán en la pestaña **Pruebas** del catálogo.
 3.  Selecciona la evaluación gratuita que quieras ofrecer y luego selecciona **enviar**. Todas las pruebas están activadas durante 30 días y no recibirás ningún cargo. También puedes convertirla en una suscripción de pago en cualquier momento durante el período de prueba.
 

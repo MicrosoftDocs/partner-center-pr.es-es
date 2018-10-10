@@ -4,22 +4,22 @@ description: Ahora puedes asignar suscripciones de Azure a los clientes en el Ce
 author: Labrenne
 keywords: Azure, suscripción de Azure, suscripción, suscripciones, asignar suscripción, administrar suscripción de azure
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377567"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489031"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Asignar suscripciones de Azure en el Panel de partners
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Asignar suscripciones de Azure en el Centro de partners
 
 **Se aplica a**
 
 -  Centro de partners
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>Asignar suscripciones de Azure a tus clientes en el Panel de partners
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Asignar suscripciones de Azure a tus clientes en el Centro de partners
 
-1. Selecciona **Clientes** en tu menú **Panel** y localiza el cliente que quieras administrar.
+1. Selecciona **los clientes** desde el menú del **Centro de partners** y localiza al cliente que quieres administrar.
 
 2.  Selecciona la flecha abajo situada al final de la fila para expandir el registro del cliente y, a continuación, selecciona **Portal de administración de Microsoft Azure**. Se te dirigirá a Azure Portal, donde puedes administrar las suscripciones del cliente. 
 

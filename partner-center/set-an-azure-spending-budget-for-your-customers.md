@@ -4,12 +4,12 @@ description: En el Centro de partners, puedes establecer un presupuesto mensual 
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377477"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488961"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Establecer un presupuesto de gastos de Azure para tus clientes
 
@@ -33,23 +33,23 @@ Los datos de gastos de Azure son una estimación, los importes de facturación r
 > Esta característica no está disponible en el espacio aislado o Test en las cuentas de Production (TIP).
 
 **Activar las notificaciones por correo electrónico**
-1.  En el menú Panel, selecciona **Microsoft Azure spending**.
+1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
 2.  Activa la opción **Obtener correos electrónicos** para recibir una notificación cuando los clientes usan el 80% o más de su presupuesto. Esto te ayudará a mantener controlada tu factura de Azure. Puedes cambiar la dirección de correo electrónico predeterminado a uno personal o a cualquier otro correo electrónico para recibir notificaciones.
 
 **Establecer un presupuesto**
-1.  En el menú Panel, selecciona **Microsoft Azure spending**.
+1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
 2.  Selecciona los clientes para los que quieres establecer un presupuesto. 
 3. Escribe un valor en el cuadro **Presupuesto mensual** y luego selecciona **Aplicar**.
 4.  Para comprobar el gasto actual, vuelve a esta página.
 5.  También se pueden establecer presupuestos individuales en **Usage-based subscriptions** en una página de administración del cliente.
 
 **Quitar un presupuesto**
-1.  En el menú Panel, selecciona **Microsoft Azure spending**.
+1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
 2.  Selecciona los clientes de la lista.
 3.  Selecciona **Remove budget**.
 
 **Consultar los costos desglosados**
-1.  En el menú Panel, selecciona **Clientes**.
+1.  En el menú del centro de partners, selecciona **los clientes**.
 2.  En la lista de clientes, selecciona un cliente.
 3.  En la página de administración del cliente, en **Usage-based subscriptions**, elige una suscripción. Consulta el uso estimado actual y una lista de costos desglosados por servicio.
 

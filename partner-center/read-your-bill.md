@@ -1,16 +1,16 @@
 ---
 title: Leer factura | Centro de partners
-description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el panel del Centro de partners.
+description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el centro de partners.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377547"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489411"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377547"
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-Para la facturación, ve al menú **Panel** y luego selecciona **Facturación** para tu historial de facturación y las tendencias, vínculos a tu factura y archivo de conciliación y el pago más reciente.
+Para la facturación, ve al menú **Centro de partners** y, a continuación, selecciona la opción **de facturación** para ver el historial de facturación y las tendencias, vínculos a tu factura y archivo de conciliación y el pago más reciente.
 
 Los partners del programa Proveedor de soluciones en la nube que han elegido la facturación mensual pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en el uso).
 
@@ -75,7 +75,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <tr class="even">
 <tr class="even">
 <td>Subtotal</td>
-<td>Total antes de impuestos y cargos exclusivas de impuestos y créditos.</td>
+<td>Total antes de impuestos y cargos exclusiva de impuestos y créditos.</td>
 </tr>
 <td>Tax</td>
 <td>El total de impuestos para los cargos actuales según se suman en la sección de detalles a partir de la página 2 de la factura. Este número es la suma de todos los cargos de:
