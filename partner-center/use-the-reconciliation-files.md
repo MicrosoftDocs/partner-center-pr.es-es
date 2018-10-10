@@ -1,15 +1,15 @@
 ---
 title: Usar los archivos de conciliación | Centro de partners
-description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners.
+description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877555"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489961"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -19,7 +19,7 @@ ms.locfileid: "2877555"
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación desde el panel del Centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
+Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
 
 ## <a href="" id="itemizebypartner"></a>Desglosar por partner
 
@@ -46,7 +46,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 <td>Id. de MPN del revendedor</td>
 <td><p>Solo aparece en los archivos de conciliación de partners en el modelo indirecto.</p>
 <p>El Id. de MPN del revendedor de registro de la suscripción. Corresponde al id. de revendedor indicado para la suscripción específica en el Centro de partners.</p>
-<p>Para ver o actualizar el revendedor, en el menú del Centro de partners, selecciona <strong>Clientes</strong> y, después, elige el cliente de la lista. En el menú del cliente, selecciona <strong>Suscripciones</strong> y elige la suscripción de la lista. Selecciona <strong>Actualizar</strong> para cambiar el valor de <strong>Revendedor (id. de MPN)</strong>.</p>
+<p>Para ver o actualizar el revendedor, en el menú del centro de partners, selecciona <strong>los clientes</strong>y luego elige el cliente de la lista. En el menú del cliente, selecciona <strong>Suscripciones</strong> y elige la suscripción de la lista. Selecciona <strong>Actualizar</strong> para cambiar el valor de <strong>Revendedor (id. de MPN)</strong>.</p>
 <p>Si un partner CSP vendió la suscripción directamente al cliente, su id. de MPN aparece dos veces, como id. de MPN y como id. de MPN del revendedor.</p>
 <p>Si un partner CSP tiene un revendedor sin un id. de MPN, este valor se establece en el id. de MPN del partner.</p>
 <p>Si el partner CSP quita un id. de revendedor, este valor se establece en -1.</p></td>
@@ -702,7 +702,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 <td>
 <p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
-<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Los créditos, consulta la sección anterior.</em></p>
+<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Créditos, consulta la sección anterior.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

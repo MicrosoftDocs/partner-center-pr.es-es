@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875865"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490081"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners
 
@@ -31,7 +31,7 @@ Comienza a configurar los usuarios al instante para que puedan continuar teniend
 
 El administrador de la organización agrega empleados a la cuenta del Centro de partners, agregándolos individualmente o mediante el uso de datos PMC para crear varios usuarios a la vez:
 
-1.  En el Panel del Centro de partners, selecciona **Agregar nuevo usuario** para agregar a una persona o **Configurar tu equipo** (o Agregar usuarios que usan datos de PMC) para agregar varios usuarios a la vez.
+1.  En el centro de partners, selecciona **Agregar un nuevo usuario** para agregar una persona o **Configurar el equipo** (o agregar usuarios que usan datos de PMC) para agregar varios usuarios a la vez.
     
     Sigue las instrucciones en pantalla para finalizar la configuración.
 
@@ -45,16 +45,16 @@ El administrador de la organización agrega empleados a la cuenta del Centro de 
 
 ## <a href="" id="nonadmin_tasks"></a> Tareas de los empleados: actualizar cuentas
 
-1.  Obtén la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el Administrador de la organización para pedirle que vuelva directamente. 
+1.  Obtén la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el Administrador de la organización para pedirle que volver a enviar directamente. 
 
-2.  Conectar la cuenta de Microsoft Partner University. En el Panel del Centro de partners, selecciona **Actualizar tu perfil** > **Obtener acceso a Partner University**.  Una vez conectado a esta cuenta, podrás volver a acceder a Partner University.
+2.  Conectar la cuenta de Microsoft Partner University. En el centro de partners, selecciona **actualizar tu perfil** > **acceso Get Partner University**.  Una vez conectado a esta cuenta, podrás volver a acceder a Partner University.
 
-3.  Asociar certificaciones y exámenes técnicos de Microsoft. En el Panel del Centro de partners, selecciona **Actualizar tu perfil** > **Asociar exámenes y certificaciones**. 
+3.  Asociar certificaciones y exámenes técnicos de Microsoft. En el centro de partners, selecciona **actualizar tu perfil** > **asociar exámenes y certificaciones**. 
 
 4.  Opcional: [Configurar autoservicio de restablecimiento de contraseña](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>Comprobar el estado del equipo y recibir logros de competencias
 
-1.  Descubre qué empleados de la organización se han conectado a sus cuentas de Microsoft Partner University y han asociado sus exámenes y certificaciones: en el Panel del Centro de partners, selecciona **Comprobar el estado del equipo**.
+1.  Descubre qué empleados de la organización se han conectado a sus cuentas de Microsoft Partner University y asociado sus exámenes y certificaciones: en el centro de partners, selecciona **comprobar el estado del equipo**.
 
 2.  **Espera 24 horas** después de que un empleado haya asociado su cuenta o completado un objetivo basado en los conocimientos. Posteriormente, el progreso se muestra en la sección **Asociación > Competencias**.

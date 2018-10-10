@@ -4,12 +4,12 @@ description: Como partner de Proveedor de soluciones en la nube, tienes privileg
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a502898058897c6ae05667b951ddc47d7d4697
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ef609fcfae2837b72a378afe66b351bf3cc622c7
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874605"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490041"
 ---
 # <a name="provide-technical-support"></a>Proporcionar soporte técnico
 
@@ -28,25 +28,25 @@ En el Centro de partners, puedes:
 
 **Realiza tareas de administración para tus clientes**
 
-1.  En el menú **Panel**, selecciona **Clientes**. Elige el cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige el cliente de la lista.
 2.  En el menú del cliente, selecciona **Administración de servicios**.
-3.  En la sección de **Servicios de administración** , elige el servicio que tendrán que trabajar en para abrir el portal de administración del servicio.
-4.  Si encuentras un problema con una cuenta de cliente como servicios que están inactivos o una experiencia degradada, deberías empezar por comprobar el estado del servicio. Consulta [Comprobar el estado del servicio](check-service-health.md).
+3.  En la sección **Administrar servicios** , elige el servicio que tendrán que trabajar en para abrir el portal de administración del servicio.
+4.  Si encuentras un problema con una cuenta de cliente como servicios que están inactivos o una experiencia de degradado, deberías empezar por comprobar el estado del servicio. Consulta [Comprobar el estado del servicio](check-service-health.md).
 5.  Para derivar un problema en curso a Microsoft, presenta una solicitud de servicio. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
 
  
-## <a name="microsoft-partner-support-guidance"></a>Directrices de soporte técnico de partners de Microsoft
+## <a name="microsoft-partner-support-guidance"></a>Instrucciones de soporte técnico de partners de Microsoft
 
-Los partners que realizas transacciones en el modelo de CSP son el Asesor de confianza a sus clientes y el propietario de la relación-to-end, incluida la compatibilidad con cuando su cliente tiene un problema o una pregunta. Mediante el tacto de compatibilidad con los partners de puntos obtener más información del cliente y su empresa, para identificar los nuevos servicios y soluciones que controlan el valor.
+Transacciones en el modelo de CSP están Asesor de confianza a sus clientes y partners el propietario de la relación a extremo, incluida la compatibilidad con cuando su cliente tiene un problema o una pregunta. A través de la entrada táctil de soporte técnico de los partners de puntos pueden más información sobre el cliente y su negocio, para identificar los nuevos servicios y soluciones que impulsan el valor.
 
-Para cumplir el requisito de soporte técnico, el partner puede vender soporte técnico de otra entidad, es posible que subcontratar todo o parte de su estructura de soporte técnico o puede establecer una estructura para proporcionar soporte técnico directamente.  Los partners pueden cargar todos o parte de la compatibilidad que proporciona a los clientes. El partner debe articular a sus clientes la compatibilidad que se proporcionan, las horas de servicio y ponte en contacto con el método, así como el precio (si la carga de soporte técnico). 
+Para cumplir el requisito de soporte técnico, el partner puede vender soporte técnico de otra entidad, es posible que subcontratar todo o parte de su estructura de soporte técnico o se puede configurar una estructura para proporcionar compatibilidad directamente.  Los partners pueden cargar todos o parte de la compatibilidad que proporciona a los clientes. El partner debe articular a sus clientes la compatibilidad que se proporcionan, las horas de servicio y ponte en contacto con el método, así como el precio (si la carga de soporte técnico). 
 
-Los partners son necesarios para recibir las solicitudes entrantes de soporte técnico de los clientes, diagnosticar problemas ocurrido de la capacidad del partner y, a continuación, solucionar problemas que están dentro del ámbito de los límites de soporte técnico de línea base. Si el partner no puede resolver el problema, pueden escalar problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
+Los partners son necesarios para recibir las solicitudes entrantes de soporte técnico de los clientes, diagnosticar problemas de lo mejor de la capacidad del partner y, a continuación, solucionar problemas que están dentro del ámbito de los límites de soporte técnico de la base de referencia. Si el partner no puede resolver un problema, pueden escalar problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
-- Soporte de problema **comercial** está disponible para todos los partners del programa CSP
+- Soporte de problema **comercial** está disponible para todos los partners en el programa CSP
 -   Soporte **técnico** de problema está disponible a través de:
-    -   Soporte técnico Premier para los Partners (Comisión de la base)
-    -   Soporte técnico avanzado para Partners (Comisión de la base)
+    -   Soporte técnico Premier para los Partners (tarifa de base)
+    -   Soporte técnico avanzado para Partners (tarifa de base)
     -   Signature Cloud Support (incluido con competencias Gold y Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar soporte técnico, administración de suscripciones y facturación 

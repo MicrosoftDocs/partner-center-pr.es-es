@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877095"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490011"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877095"
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
-El Panel de partners realiza un seguimiento de todos los derechos de licencia pertenecientes a los clientes y los muestra.
+el centro de partners realiza un seguimiento y muestra todos los derechos de licencia pertenecientes a los clientes.
 
 ## <a name="in-this-section"></a>En esta sección
 
@@ -31,7 +31,7 @@ El Panel de partners realiza un seguimiento de todos los derechos de licencia pe
 <a href="" id="assign-licenses-to-groups"></a>
 **Asignar licencias a varios usuarios**
 
-1.  Desde el menú **Panel**, selecciona **Clientes** y luego elige un cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**y, a continuación, elige a un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 
@@ -57,7 +57,7 @@ El Panel de partners realiza un seguimiento de todos los derechos de licencia pe
 7.  Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8.  Selecciona **Guardar**. El Panel de partners abre una página de confirmación de **Licencias actualizadas** que enumera a los usuarios y sus nuevas licencias.
+8.  Selecciona **Guardar**. El centro de partners abre una página de confirmación **actualizan de licencias** a los usuarios y sus nuevas licencias.
 
 **Nota**: Es posible que algunos productos de Microsoft no estén disponibles en ciertas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
@@ -66,7 +66,7 @@ El Panel de partners realiza un seguimiento de todos los derechos de licencia pe
 <a href="" id="revoking-licenses"></a>
 **Revocación de las asignaciones de licencia de los usuarios**
 
-1.  Desde el menú **Panel**, selecciona **Clientes** y luego elige un cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**y, a continuación, elige a un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 

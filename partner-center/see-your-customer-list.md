@@ -4,12 +4,12 @@ description: Los registros de cliente son unos de los recursos de información m
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377467"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490171"
 ---
 # <a name="manage-your-customer-list"></a>Administrar la lista de clientes
 
@@ -26,20 +26,20 @@ Los registros de actividad también proporcionan datos exportables sobre transac
 
 ## <a name="search-for-a-customer"></a>Buscar un cliente
 
-1.  En el menú **Panel**, selecciona **Clientes**.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**.
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
 3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
 
-## <a name="update-a-customers-company-name"></a>Actualizar el nombre de la empresa de un cliente
+## <a name="update-a-customers-company-name"></a>Actualizar el nombre de la compañía del cliente
 
-En el menú **Panel**, selecciona **Clientes**.
+En el menú del **Centro de partners** , selecciona **los clientes**.
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
 3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
 4.  En la información de **facturación** del cliente, actualiza el nombre de la empresa. Al guardar el nuevo valor, se reflejarán en la lista de clientes. Esto cambiará solo el nombre de empresa de factura y el valor de la lista de clientes. No se reflejarán en cualquier lugar else.
 
 ## <a name="export-your-customer-list"></a>Exportar la lista de clientes
 
-1.  En el menú **Panel**, selecciona **Clientes**.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**.
 2.  Selecciona **Exportar clientes**.
 
     El Centro de partners convierte la lista de clientes completa en un archivo .csv y lo carga en la carpeta de descarga predeterminada de tu equipo. También puedes exportar subconjuntos de datos de clientes. Las columnas de datos incluyen lo siguiente:
@@ -56,7 +56,7 @@ En el menú **Panel**, selecciona **Clientes**.
 
 ## <a name="export-customer-subscription-information"></a>Exportar información de suscripción de cliente
 
-1.  En el menú **Panel**, selecciona **Clientes**.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**.
 2.  Selecciona el **Nombre de la empresa** para cualquier cliente. Se abrirá la página **Suscripciones** del cliente y se mostrará la lista completa de suscripciones de producto.
 3.  Selecciona **Exportar suscripciones**. El Centro de partners convierte los datos de suscripción del cliente en un archivo .csv y lo carga en la carpeta de descarga predeterminada de tu equipo. Las columnas de datos incluyen lo siguiente:
     -   **Id. de suscripción**;

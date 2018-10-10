@@ -4,12 +4,12 @@ Description: Information on basic billing scenarios and the differences between 
 author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876395"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490071"
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -55,7 +55,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 <tr class="even">
 <td>Disponibilidad de las facturas</td>
 <td><ul>
-<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Panel de partners. Ten en cuenta que las facturas mensuales están disponibles en el Panel de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.</li>
+<li>Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -155,23 +155,23 @@ Tus clientes pagan por adelantado para Azure Reserved VM Instances. Al comprar A
 >[!IMPORTANT]
 >Si has comprado Azure Reserved VM Instances para un cliente en un mercado con una moneda diferente a la tuya, la divisa de facturación predeterminada se basa en el mercado del cliente, no en tu ubicación. Si tienes clientes en varios mercados, recibirás facturas y archivos de conciliación independientes para cada divisa en la que los clientes deben facturar, lo que te permite facturar a los clientes en la divisa adecuada. 
 
-Para obtener acceso a archivos de conciliación y facturas de cargo único, selecciona **Facturación** en el Panel de partners y luego selecciona **Una vez**. 
+Para acceder a archivos de conciliación y facturas de cargo único, selecciona la opción **de facturación** del centro de partners y, a continuación, selecciona **una vez**. 
 
 ### <a name="manage-your-one-time-billing"></a>Administrar tu facturación única
 
 #### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Ver el estado actual de facturación, facturas y archivos de conciliación
 
-1.  En el Panel de partners, selecciona **Facturación** y, después, **Una vez** para ver el estado de facturación. 
+1.  En el centro de partners, selecciona **de facturación** y, a continuación, **una vez** para ver el estado de facturación. 
 2.  Selecciona una factura o un archivo de conciliación para ver información más detallada. 
 
 #### <a name="view-a-customers-order-history"></a>Ver el historial de pedidos de un cliente
 
-1.  En el menú del panel, selecciona **Clientes**.
+1.  Selecciona **los clientes** en el menú del centro de partners.
 2.  En tu página **Clientes**, busca el cliente cuyo historial de pedidos quieres ver y, a continuación, selecciona la flecha abajo para expandir el registro del cliente. 
 3.  Selecciona **Vea pedidos** para mostrar el historial de pedidos.
 
 #### <a name="download-a-credit-note"></a>Descargar una nota de crédito
 
-En caso de que se ejercer un crédito completo (Void factura) y una renovación prorrateada, te ofrecemos una nota de crédito para cancelar la factura original y también un documento nuevo completo. Puedes solicitar un crédito y renovación por los motivos siguientes:
--   Correcciones de pedido de compra o de dirección
--   Genera la factura y, a continuación, se aplicó un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extraído atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, incorporación de cambios en un reembolso.
+En caso de que se ejercer un crédito completo (Void factura) y una renovación prorrateada, tendrás una nota de crédito para cancelar la factura original y también un documento nuevo completo. Puedes solicitar un crédito y renovación por los motivos siguientes:
+-   Correcciones de orden de compra o de dirección
+-   Genera la factura y, a continuación, se ha aplicado un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extrajo atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, incorporación de cambios en un reembolso.

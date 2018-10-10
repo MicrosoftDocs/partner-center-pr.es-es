@@ -4,26 +4,26 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877405"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489781"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
 **Se aplica a**
 
--  Panel de partners
+-  Centro de partners
 -  Portal de Microsoft Azure
 -  Partners de CSP
 
-Para administrar Azure reservations posterior tus clientes a la compra, tendrás seleccionar el cliente y la reserva que quieres administrar en el panel de partners y, a continuación, realizar cambios en la reserva en el portal de Azure. 
+Para administrar Azure reservations posterior los clientes a la compra, tendrás que selecciona el cliente y la reserva que quieres administrar en el centro de partners y, a continuación, realizar cambios en la reserva en el portal de Azure. 
 
-1. Para empezar, selecciona **Clientes** en el menú del panel y, a continuación, el cliente cuyas reservas quieres administrar. 
+1. Para empezar, selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente cuyas reservas quieres administrar. 
 
-2. En el menú de la página de detalles del cliente, selecciona **las reservas de Azure** y, a continuación, selecciona la reserva específica que quieras administrar.  
+2. En el menú de la página de detalles del cliente, selecciona **reservas de Azure** y, a continuación, selecciona la reserva específica que quieras administrar.  
 
 3. En **Acciones**, selecciona **Administrar** para ir al registro de reserva del cliente en Azure Portal. En la página de detalles de la reserva, sigue los pasos siguientes para completar tareas.  
 
@@ -48,16 +48,16 @@ Un intercambio permite a un cliente recibir un reembolso prorrateado en función
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar un reembolso o cambio en nombre de un cliente 
 
-Para enviar una solicitud de soporte para un reembolso o cambio en nombre de los clientes, selecciona el cliente y la reserva en el Panel de partners y, a continuación, crea la solicitud de soporte en el Azure Portal. 
+Para presentar una solicitud de soporte técnico para un reembolso o cambio en nombre de los clientes, tendrás seleccionar el cliente y la reserva en el centro de partners y, a continuación, crear la solicitud de soporte técnico en el portal de Azure. 
 
 >[!NOTE]
 >Soporte técnico de Microsoft puede pedirte proporcionar el id. de reserva y el id. del pedido de reserva. Puedes encontrar esta información en la página **Propiedades** de la reserva del Azure Portal. 
 
-1. Para empezar, selecciona **Clientes** en el menú del panel y, a continuación, el cliente que quiere un reembolso. 
+1. Para empezar, selecciona **los clientes** desde el el el el menú de centro de partners y, a continuación, selecciona el cliente que quiere un reembolso. 
 
 2. En la página de detalles del cliente, selecciona **Azure Reservations** y, a continuación, la reserva específica que el cliente quiera que se le reembolse.  
 
-3. En **las acciones**, selecciona **reembolsar** para ir al registro de reserva del cliente en el Azure portal e iniciar una solicitud de soporte técnico.  
+3. En **las acciones**, selecciona **reembolsar** para ir al registro de reserva del cliente en Azure portal e iniciar una solicitud de soporte técnico.  
 
 4. En la página **Nueva solicitud de soporte técnico**, sigue los pasos siguientes para solicitar un reembolso. Selecciona **Siguiente** después de cada paso. 
 
@@ -70,8 +70,8 @@ Para enviar una solicitud de soporte para un reembolso o cambio en nombre de los
 ## <a name="azure-reservations-resources"></a>Recursos de Azure Reservations
 |**Para obtener información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
-|Reservas de Azure en introducción de CSP  | [Vender instancias reservadas de Azure de Microsoft](azure-reservations.md) |
-|Comprar reservas de Azure para los clientes de tu Panel de partners   |[Comprar reservas de Azure](azure-reservations-buying.md) |
+|Reservas de Azure en introducción de CSP  | [Vender instancias reservadas de Microsoft Azure](azure-reservations.md) |
+|Comprar reservas de Azure para tus clientes en el centro de partners   |[Comprar reservas de Azure](azure-reservations-buying.md) |
 |Determinación del tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual del cliente   |[Cambio de tamaño de la VM para el uso máximo de reserva de Azure](azure-usage.md)   |
 |Comprar Azure Reservations con la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners
 

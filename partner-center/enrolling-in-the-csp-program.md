@@ -3,12 +3,12 @@ title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de 
 description: Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377677"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489931"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -21,23 +21,23 @@ ms.locfileid: "4377677"
 
 Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesitas un id. de MPN. ¿Todavía no tienes uno? Únete [aquí](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Al rellenar la solicitud de CSP, necesitarás el id. de MPN, la dirección empresarial completa, la información bancaria y el correo electrónico profesional del empleado que actuará como administrador del Panel de partners.
+Al rellenar la solicitud de CSP, tendrás que tu Id. de MPN, dirección empresarial completa, información bancaria y correo electrónico profesional del empleado que actuará como el administrador para el centro de partners.
 
 Decide qué [modelo CSP modelo funciona](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) en tu caso y completa la solicitud. 
 
 Puede llevarnos varios días revisar y comprobar la información que has proporcionado. Recibirás un correo cuando se haya completado la revisión.
 
 > [!IMPORTANT]  
-> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Esta restricción se aplica solo al inquilino utilizado para llevar a cabo las transacciones de CSP. Los partners de CSP que usan a un inquilino no relacionado con CSP para su uso corporativo, pueden adquirir servicios en línea de otro partner CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de las funciones se anunciarán a través de los canales de comunicación habituales, incluido el Panel de partners.
+> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Esta restricción se aplica solo al inquilino utilizado para llevar a cabo las transacciones de CSP. Los partners de CSP que usan a un inquilino no relacionado con CSP para su uso corporativo, pueden adquirir servicios en línea de otro partner CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el centro de partners.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Inscribirse como un revendedor indirecto
 
 
 1. Una vez que te has inscrito como un revendedor indirecto, debes [encontrar un proveedor indirecto](https://partnercenter.microsoft.com/partner/find-a-provider) con el que trabajar. El proveedor con el que trabajes te enviará clientes, administrará las compras de software que puedes vender y se encargará del soporte y facturación de los clientes, lo que te permite centrarte en la creación de tu negocio de revendedor.
 
-2. El administrador global debe configurar tu cuenta en el Panel de partners. El administrador global puede agregar empleados de tu organización que trabajarán en el Panel de partners, asignarles roles y permisos en función del trabajo que realicen y configurar el perfil de organización.
+2. El administrador global debe configurar tu cuenta en el centro de partners. El administrador global puede agregar la organización los empleados que trabajarán en el centro de partners, asignarles roles y permisos en función del trabajo que realicen y configurar el perfil de organización.
 
-3. Los empleados recibirán un correo electrónico con sus contraseñas temporales. Deben iniciar sesión en el Panel de partners y cambiar su contraseña. Luego pueden empezar a trabajar.
+3. Los empleados recibirán un correo electrónico con sus contraseñas temporales. Deben iniciar sesión en el centro de partners y cambiar su contraseña. Luego pueden empezar a trabajar.
 
 4. El empleado al que se le ha asignado el rol de administrador de perfil de negocio debe configurar tu perfil de negocio para que puedas recibir referencias de clientes.
 
@@ -47,21 +47,21 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 
 - Una vez que te hayas inscrito y cumplas los criterios de aceptación como partner directo, el administrador global puede configurar tu cuenta, agregar empleados, asignarles roles y permisos en función de su trabajo y configurar el perfil de organización. 
 
-- Si has estado trabajando con clientes con los que quieres seguir trabajando a través del Panel de partners, deberás [asociarlos](request-a-relationship-with-a-customer.md) a tu cuenta del Panel de partners.  Microsoft puede conectarles a tu facturación. 
+- Si has estado trabajando con clientes que quieres seguir trabajando con a través del centro de partners, tendrás que [asociarlos](request-a-relationship-with-a-customer.md) a tu cuenta en el centro de partners.  Microsoft puede conectarles a tu facturación. 
 
 > [!NOTE]  
 >  Los requisitos para convertirse en partner directo recientemente han cambiado y surtirán efecto a partir del 31 de agosto de 2018. Los partners directos deberá cumplir los requisitos de nuevo a partir de su siguiente período de inscripción del 31 de agosto de 2018.
 
 #### <a name="new-expanded-requirements"></a>Nuevos requisitos expandidos:
 
-Soporte
-- Expande tus capacidades de soporte técnico mediante la adquisición de soporte técnico de la nube de soporte, con prioridad con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
+Compatibilidad
+- Expande tus capacidades de soporte técnico, adquisición de asistencia de nube personales y prioridades con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
 
 Servicios
 
-- Demostrar que proporciones al menos un servicio administrado, IP servicio o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
+- Demostrar que proporcionar al menos un servicio administrada, servicio IP o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
 
-- Cumplir con las capacidades de infraestructura mínima, por ejemplo, facturación y aprovisionamiento.
+- Cumplir con las capacidades de infraestructura mínima, como de facturación y aprovisionamiento.
 Nos estamos supervisión del rendimiento anual para confirmar que los partners de facturación directa que cumplan con estos requisitos demostración crecimiento de empresa en constante. No hay ningún objetivos de rendimiento específicos en su lugar en este momento, pero Microsoft puede implementar un rendimiento en el futuro de la barra. 
 
 - Un identificador de Microsoft Partner Network (MPN) activo para la ubicación en la que quieras realizar las ventas

@@ -4,12 +4,12 @@ description: Dado que Proveedor de soluciones en la nube es un canal de ventas c
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874895"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489611"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -23,9 +23,9 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 
 **Archivar una exención fiscal**
 
-1.  Busca tu **Id. de Microsoft** en el menú Panel &gt; **Configuración de la cuenta** &gt; **Perfil de la organización**.
-2.  Busca tu **Id. de MPN** en el menú Panel &gt; **Configuración de la cuenta** &gt; **Perfil de partner**.
-3.  Crea un vale de soporte nuevo. En el menú Panel, selecciona **Solicitudes de servicio** &gt; **Solicitudes del Centro de partners** &gt; **Nueva solicitud**.
+1.  Buscar el **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
+2.  Busca tu **Id. de MPN** del centro de partners &gt; **configuración de la cuenta** &gt; **perfil de Partner**.
+3.  Crea un vale de soporte nuevo. En el menú del centro de partners, selecciona **las solicitudes de servicio** &gt; **solicitudes del centro de partners** &gt; **nueva solicitud**.
 4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.
 5.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
 
@@ -49,7 +49,7 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 <p>Microsoft no admite créditos ni segundas facturaciones. Es por eso que, antes de vender suscripciones, tienes que registrar el número del identificación a efectos de IVA en el Centro de partners.</p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
-<li>En el Centro de partners, ve al menú Panel &gt; <strong>Configuración de la cuenta</strong> &gt; <strong>Perfil de facturación de partner</strong>.</li>
+<li>En el centro de partners, ve al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación del Partner</strong>.</li>
 <li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
 <li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
 </ol></td>

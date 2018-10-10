@@ -4,12 +4,12 @@ description: Recursos para hacer crecer tu negocio de partner de Microsoft. Incl
 keywords: referencias, responder a las referencias, clientes potenciales, oportunidades de ventas, perfil de marketing, perfil de negocio, hacer crecer tu negocio, oportunidades de negocio, competencias, suscripción silver, suscripción gold, ofertas de evaluación, expansión de mercado, nubes nacionales
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 19a518e32ed352adf4363fc6a7ae84fb5a00e5ca
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377447"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489661"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Haz crecer tu negocio de partner de Microsoft 
 
@@ -24,7 +24,7 @@ Usar el Centro de partners para:
 -   Vender en mercados adicionales (partners de CSP)
 
 > [!NOTE]  
->  Tu empresa debe inscribirse en Microsoft Partner Network y tener una cuenta del centro de partners para sacar partido de estas funcionalidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
+>  Tu empresa debe inscribirse en Microsoft Partner Network y tener una cuenta de centro de partners para sacar partido de estas funcionalidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
 
 ## <a name="resources-to-help-your-business-grow"></a>Recursos para ayudar a hacer crecer tu negocio
 
@@ -36,7 +36,7 @@ Usar el Centro de partners para:
 | Ofrecer precios promocionales de clientes a suscripciones de Microsoft | En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite pasar los ahorros a los clientes y hacer crecer tu negocio. Lee [Ofrecer precios promocionales de clientes a suscripciones de Microsoft](promotions.md) para obtener más información. | Partners de CSP |
 | Vender en mercados adicionales | El canal de ventas de Proveedor de soluciones en la nube está disponible en numerosos países y regiones. Consulta [Mercados del Proveedor de soluciones en la nube](agreements.md) para revisar la lista. Para obtener una introducción al canal de Proveedor de soluciones en la nube, consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md).  | Partners de CSP |
 Vender en sectores especializados como que organizaciones sin ánimo de lucro y education|[Vender en sectores especializados](get-special-pricing-for-offers.md)|Partners de CSP|
-|Hacer crecer tu negocio a través de las actividades muchas disponibles en el programa de incentivos cooperación. Notificaciones de archivo para las actividades a través del panel.| [Crear y administrar notificaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
+|Hacer crecer tu negocio a través de las diversas actividades que están disponibles en el programa de incentivos cooperación. Notificaciones de archivo para las actividades a través del centro de partners.| [Crear y administrar notificaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
 |Crear nuevos conjuntos de software, incluyendo ofertas de terceros que funcionan con el software de Microsoft que vendes ya|[Descubre las ofertas de terceros](third-party-offers.md)|Partners de CSP|
 
 ## <a name="see-also"></a>Consulta también

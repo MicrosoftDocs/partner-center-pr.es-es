@@ -3,12 +3,12 @@ title: Migrar suscripciones de Office 365 E4 a las versiones más recientes de O
 description: La edición de Office 365 Enterprise E4 se retirará a partir del 7 de abril de 2017. Obtén información sobre cómo migrar las suscripciones de cliente a las versiones más recientes de Office 365.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377717"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490181"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar de suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
@@ -65,7 +65,7 @@ Sigue estos pasos para migrar la suscripción a Office 365 Enterprise E4 de un c
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Paso 1 - Comprar la nueva suscripción
 
-1. En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y, a continuación, **Agregar suscripciones**.
+1. En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y, a continuación, selecciona **Agregar suscripciones**.
 
 2. Selecciona la suscripción que quieras adquirir del catálogo (en este caso, una de las opciones que se indican más arriba), escribe el número de licencias y, a continuación, **Enviar**.
 
@@ -73,7 +73,7 @@ Sigue estos pasos para migrar la suscripción a Office 365 Enterprise E4 de un c
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Paso 2: Reasignar licencias de los usuarios del cliente
 
-1. En el menú **Panel**, selecciona **Clientes**, selecciona el cliente que deseas mover y elige, a continuación, **Usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+1. En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y, a continuación, selecciona **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
 
 2. Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
 
@@ -87,7 +87,7 @@ Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Paso 3 - Cancelar la suscripción antigua
 
-1. En el menú **Panel**, selecciona **Clientes**. Selecciona al cliente que quieres mover y selecciona la suscripción que quieres cancelar.
+1. En el menú del **Centro de partners** , selecciona **los clientes**. Selecciona al cliente que quieres mover y selecciona la suscripción que quieres cancelar.
 
 2. En la página de detalles de suscripción, establece el estado de la suscripción a **Suspendida**.
 

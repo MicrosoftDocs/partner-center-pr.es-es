@@ -4,12 +4,12 @@ description: Generar negocios potenciales y contactar con los clientes que neces
 author: KPacquer
 keywords: referencias, perfil de negocio, buscar un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: ce9879cd727fd65ae3db1a7ee78b59556662ad53
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874615"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489241"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -23,7 +23,7 @@ Muchos clientes buscan expertos cualificados para que les ayuden a implementar l
 
 Queremos que te conectes con clientes que necesitan tus soluciones y experiencia. Es el paso más importante que puedes seguir para comenzar a obtener clientes potenciales de nosotros es [crear un perfil de negocio](create-a-marketing-profile.md) que muestre las ofertas, soluciones y experiencia de tu empresa. Tu perfil de negocio figurará en todos los lugares en los que los clientes y agentes de ventas internos de Microsoft buscan partners calificados. 
 
- Después de publicar tu perfil de negocio, comenzarás a recibir clientes potenciales a través de la función Referencias del Panel de partners. Es importante responder a las referencias en el plazo de tiempo establecido para continuar recibiendo estos clientes potenciales y, lo más importante, lograr acuerdos. Consulta [Responder a las referencias](responding-to-referrals.md) para obtener más información sobre cómo administrar los clientes potenciales en el Panel de partners.  
+ Después de publicar tu perfil de negocio, comenzarás a recibir clientes potenciales a través de la función de las referencias en el centro de partners. Es importante responder a las referencias en el plazo de tiempo establecido para continuar recibiendo estos clientes potenciales y, lo más importante, lograr acuerdos. Consulta [responder a las referencias](responding-to-referrals.md) para obtener más información sobre cómo administrar los clientes potenciales en el centro de partners.  
 
 ¡Buena suerte!
 

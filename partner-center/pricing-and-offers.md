@@ -3,12 +3,12 @@ title: Precios y ofertas | Centro de partners
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875085"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490201"
 ---
 # <a name="pricing-and-offers"></a>Precios y ofertas
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875085"
 
 Para ver las últimas listas de precios y ofertas del programa Proveedor de soluciones en la nube, ve a **Vender > Precios y ofertas**. Encontrarás listas de precios independientes para los servicios basados en licencias, tales como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite y para los servicios basados en uso, como por ejemplo, Azure. 
 
-La lista de ofertas incluye las diferentes gamas de productos que se pueden adquirir a través del Panel de partners. Actualmente se incluyen los siguientes productos: Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM y Microsoft Azure. Esta lista aumentará.
+La lista de ofertas incluye las diferentes gamas de productos que se pueden comprar a través del centro de partners. Actualmente se incluyen los siguientes productos: Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM y Microsoft Azure. Esta lista aumentará.
 
 Dentro de cada una de estas gamas de productos hay diferentes SKU y paquetes de productos que están a tu disposición para que los vendas en tu negocio. Siempre puedes acceder a la información más reciente de cada uno de estos productos con la Matriz de ofertas para distribuidores de servicios en la nube que está disponible en la página Precios y ofertas.
 
@@ -47,8 +47,8 @@ Los servicios basados en licencias incluye una vista previa de lista de precios,
 
 Obtén información sobre los diferentes paquetes de productos y SKU que están disponibles para vender en la Matriz de ofertas para revendedores de soluciones en la nube en la página Precios y ofertas. La matriz de ofertas incluye las ofertas que están disponibles por configuración regional. Si un artículo se encuentra en la lista de precios pero aún no aparece en la matriz de ofertas, esto significa que aún no se pueden solicitar los productos. En cuanto estén disponibles para pedirse, la matriz de ofertas se actualiza.
 
-Para los partners del CSP que usan los Kits de desarrollo de software (SDK) del Panel de partners. Microsoft también publica una lista de los servicios de Azure en CSP en la página Precios y ofertas.
+Para los partners CSP que usan los Kits de desarrollo de partners centro de Software (SDK). Microsoft también publica una lista de los servicios de Azure en CSP en la página Precios y ofertas.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Preguntas sobre la lista de precios y la matriz de ofertas
 
-Si tienes preguntas sobre la lista de precios o la matriz de ofertas, envía una solicitud de servicio a través del Panel de partners.
+Si tienes preguntas sobre la lista de precios o la oferta de la matriz, envía una solicitud de servicio a través del centro de partners.

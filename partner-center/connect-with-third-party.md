@@ -4,12 +4,12 @@ description: Comprar software de terceros que funcione con los productos de Micr
 author: labrenne
 keywords: ofertas de terceros, software a comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062167"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489851"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Agregar software de terceros a la cartera
 
@@ -53,7 +53,7 @@ En la página de detalles encontrarás un vínculo al sitio web de ISV, informac
 
 La compra de software de terceros se realiza de la misma forma que la compra de software de origen. 
 
-1. En el **panel**, selecciona **Clientes**.
+1. En el **Centro de partners**, selecciona **los clientes**
 2. Selecciona **Nueva suscripción**.
 3. Selecciona la opción de facturación mensual para software de terceros. La facturación anual y la facturación de prueba no están disponibles para soluciones de terceros.
 4. En la pestaña de terceros, selecciona el producto que quieres comprar.

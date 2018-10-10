@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877495"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489591"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -36,7 +36,7 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 ## <a name="check-the-customer-qualifications"></a>Comprobar las calificaciones de cliente
 
-1.  En el menú **Panel**, selecciona **Clientes**. Elige el cliente de la lista.
+1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige el cliente de la lista.
 2.  En el menú del cliente, selecciona **Cuenta**. En la sección **Información de la compañía**, buscar **Calificaciones especiales**.
 3.  Si el elemento **Calificaciones especiales** está establecido en **Ninguno** pero el cliente cumple los requisitos, puedes **Actualizar** sus detalles para incluirlos.
 

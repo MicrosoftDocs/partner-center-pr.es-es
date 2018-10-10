@@ -4,18 +4,18 @@ description: Como partner revendedor, los clientes pueden delegar en TI para que
 author: labrenne
 keywords: privilegios de administrador, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377437"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489881"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Los clientes delegan privilegios administrativos en los partners
 
 **Aplicable a**
 
--  Panel de partners
+-  Centro de partners
 
 Para administrar la suscripción o el servicio de un cliente en su nombre, el cliente debe conceder permisos de administrador de dicho servicio. Para obtener los permisos de administrador de un cliente, envíale un correo electrónico con una solicitud de relación de revendedor. Cuando el cliente apruebe la solicitud, podrás iniciar sesión en el portal de administración del servicio y administrar el servicio en nombre del cliente. 
 
@@ -46,7 +46,7 @@ Los clientes pueden averiguar cuáles de sus partners tienen privilegios de admi
 
 2. Selecciona **Configuración** → **Relaciones con partners**.
 
-3. En la página de **relaciones de partners** , el cliente verá una lista de los asociados con el que funcionan y aquellos que se han concedido privilegios de administración para sus inquilinos.
+3. En la página de **relaciones de partners** , el cliente verá una lista de los asociados con el que trabajan y aquellos que se han concedido privilegios de administración para sus inquilinos.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Los clientes pueden administrar los privilegios de administrador delegados en un partner 
 
@@ -89,11 +89,11 @@ Cada suscripción de Azure tiene su propio conjunto de roles de administración 
 
 ## <a name="windows-autopilot"></a>WindowsAutoPilot 
 
-Desde el panel de partners, los partners de CSP pueden administrar perfiles Autopilot para sus clientes sin privilegios de administrador. Obtén más información sobre [Simplificar la configuración de dispositivos con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
+Desde el centro de partners, los partners de CSP pueden administrar perfiles Autopilot para sus clientes sin privilegios de administrador. Obtén más información sobre [Simplificar la configuración de dispositivos con Windows Autopilot.](https://docs.microsoft.com/partner-center/autopilot)
 
 Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 
-|**Operación**   |**Socio de facturación directa y proveedor indirecto**   |**Revendedor indirecto**   |
+|**Operación**   |**Partners de facturación directa y proveedor indirecto**   |**Revendedor indirecto**   |
 |-----------------|-----------------------------------| -----------------------------|
 |Agregar dispositivos (con un archivo csv)  |Sí      |No|
 |Quitar dispositivos   |Sí   |No|
@@ -110,8 +110,8 @@ Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 - No puedes administrar dispositivos que el cliente ha agregado a través de la Microsoft Store para empresas, Microsoft Store para educación o Portal de Microsoft Intune.
 
 > [!IMPORTANT]  
-> La experiencia de administración de Autopilot actual en el panel puede continuar cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
+> La experiencia de administración de Autopilot en el centro de partners puede seguir cambiar. En el momento en que se publicó este artículo, se están planteando los siguientes cambios:
 
   - Los partners deben tener privilegios de administración delegada del cliente para poder agregar, actualizar o eliminar perfiles y aplicar o quitar perfiles de todos los dispositivos del inquilino del cliente.
 
-- Partners se deben conceder privilegios de administración delegada del cliente antes de que el partner puede quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner puede quitar solo los dispositivos agregados anteriormente por el mismo partner.
+- Partners se deben conceder privilegios de administración delegada del cliente antes de que los partners pueden quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner quitar solo los dispositivos agregados anteriormente por el mismo partner.
