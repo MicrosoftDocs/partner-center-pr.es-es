@@ -4,12 +4,12 @@ description: Todos los empleados que necesitan trabajar en el centro de Partners
 author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489491"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528372"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar permisos y roles de los usuarios
 
@@ -108,7 +108,7 @@ Para obtener información general de roles y permisos, leer [crear cuentas de us
 <li><p>Asignar roles de incentivos</p></li>
 <li><p>Inicia y administra reclamaciones de incentivos</p></li>
 <li><p>Permite ver y editar todos los aspectos de los programas de incentivos</p></li>
-<li><p>Ver detalles bancarios y fiscales</p></li>
+<li><p>Permite ver y editar detalles bancarios y fiscales</p></li>
 <LI><p>Ganancias de reembolso y cooperación de vista</p></li>
 <LI><p>Compatibilidad con el acceso</p></li>
 <LI><p>Pagos de incentivos de disputa</p></li>
