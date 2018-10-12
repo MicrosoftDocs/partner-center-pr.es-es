@@ -4,12 +4,12 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489781"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562277"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
@@ -42,6 +42,16 @@ Cuando cambien las necesidades empresariales de tus clientes, es posible que qui
 
 Los clientes pueden cancelar una reserva en cualquier momento (hasta 50000$ al año). La cancelación permite al cliente devolver los meses restantes de una reserva de Azure a Microsoft por un cargo por anulación anticipada. El balance prorrateado restante, menos la cuota, se reembolsarán a la comprobar original del cliente. 
 
+Consulta a continuación para las cuotas y detalles de cancelación.
+
+|**Fecha de cancelación**<br> (en días)   |**Usage**    |**Crédito**  |**Finalización anticipada**<br> de empresa    |**Límite de reembolso** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|Menos de 5                       | No          | 100%       | No                              | 50000 USD   |
+|Menos de 5                       | Sí         | Prorrateado  | No                              | 50000 USD   |
+|Más de 5                        | No          | Prorrateado  | 12%                             | 50000 USD   |
+|Más de 5                        | Sí         | Prorrateado  | 12%                             | 50000 USD   |
+
+
 **Cómo funcionan los intercambios** 
 
 Un intercambio permite a un cliente recibir un reembolso prorrateado en función de la duración de tiempo restante de la reserva y aplicar el importe del reembolso a una nueva reserva.   
@@ -53,7 +63,7 @@ Para presentar una solicitud de soporte técnico para un reembolso o cambio en n
 >[!NOTE]
 >Soporte técnico de Microsoft puede pedirte proporcionar el id. de reserva y el id. del pedido de reserva. Puedes encontrar esta información en la página **Propiedades** de la reserva del Azure Portal. 
 
-1. Para empezar, selecciona **los clientes** desde el el el el menú de centro de partners y, a continuación, selecciona el cliente que quiere un reembolso. 
+1. Para empezar, selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente que quiere un reembolso. 
 
 2. En la página de detalles del cliente, selecciona **Azure Reservations** y, a continuación, la reserva específica que el cliente quiera que se le reembolse.  
 
