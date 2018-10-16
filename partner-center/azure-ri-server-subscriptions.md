@@ -4,13 +4,15 @@ description: Al llevar a Azure RI y las suscripciones de servidor a su programa 
 author: v-petand
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: e600102f4323cfe84538633ce07224f4331f0512
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53a6276b1979df3655b946c979d3ee354a827abb
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875925"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658131"
 ---
+<!-- Mike Aasen wrote and owns this topic -->
+
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + suscripciones de servidor para Azure
 
 **Se aplica a**
@@ -39,13 +41,13 @@ Microsoft empareja estos asombrosos ahorros con la sencillez en la selección y 
 
 -   Disfrutar de capacidad de cálculo con prioridad en regiones de Azure 
  
-Windows Server suscripciones y SQL Server vendidas en CSP también incluyen ventaja híbrida de Azure, anteriormente disponibles únicamente a través de Software Assurance que se vende en programas de licencias tradicionales. Ventaja híbrida de Azure permite ahorros importantes en software de servidor en comparación con las tarifas de pago por uso. Al hacer que los compromisos de 1 o 3 años usen tanto software de servidor de Microsoft (a través de suscripciones) como de cálculo de Azure (a través de RI), los clientes de CSP pueden maximizar su ahorro en las soluciones de cálculo de nube. Esta ventaja será especialmente atractiva para los clientes solo de CSP que actualmente no tienen acceso a Software Assurance. 
+Windows Server suscripciones y SQL Server vendidas en CSP también incluyen la ventaja híbrida de Azure, anteriormente disponibles únicamente a través de Software Assurance vende en programas de licencias tradicionales. Ventaja híbrida de Azure permite ahorros importantes en software de servidor en comparación con las tarifas de pago por uso. Al hacer que los compromisos de 1 o 3 años usen tanto software de servidor de Microsoft (a través de suscripciones) como de cálculo de Azure (a través de RI), los clientes de CSP pueden maximizar su ahorro en las soluciones de cálculo de nube. Esta ventaja será especialmente atractiva para los clientes solo de CSP que actualmente no tienen acceso a Software Assurance. 
 
 Con una combinación inigualable de precios atractivos y flexibilidad de implementación incomparable, los clientes verán el mejor valor general cuando elijan Azure Reserved VM Instances y suscripciones de servidor. 
  
 ### <a name="why-is-this-announcement-good-news-for-microsoft-partners"></a>¿Por qué son buenas noticias este anuncio para los partners de Microsoft? 
 
-Al llevar Azure Reserved VM Instances y suscripciones de servidor con ventaja híbrida de Azure a CSP, Microsoft está habilitando mejor partners para que hagan crecer sus prácticas de solución de nube mediante el uso de software de servidor y VM de Azure de bajo coste para ganar más persistente y de destino en el caso de las cargas de trabajo de nube. Hasta ahora, los partners de CSP solo han podido vender máquinas virtuales de Azure de pago por uso y tenían que usar otros programas de licencias para adquirir suscripciones de software para Windows Server y SQL Server.  
+Al llevar Azure Reserved VM Instances y suscripciones de servidor con ventaja híbrida de Azure a CSP, Microsoft está habilitando mejor los partners hacer crecer sus prácticas de solución de nube mediante el uso de software de servidor y VM de Azure de bajo coste para ganar más persistente y de destino en el caso de las cargas de trabajo de nube. Hasta ahora, los partners de CSP solo han podido vender máquinas virtuales de Azure de pago por uso y tenían que usar otros programas de licencias para adquirir suscripciones de software para Windows Server y SQL Server.  
 
 El modelo de negocio para partners de otorgar licencias de Azure Reserved VM Instances y suscripciones de servidor en el nivel de cliente, proporciona previsibilidad de costos y mejora la escalabilidad que simplifica el proceso de ventas. No es necesario que los partners implementen complejos procesos y herramientas para adquirir, administrar y fijar precios de Reserved Instances para todos sus clientes: esto permite a los partners centrarse más tiempo en los clientes y ampliar su portfolio de soluciones de nube de valor agregado de administración de TI. 
 
@@ -61,7 +63,7 @@ Para comprender cómo puedes situar las Azure Reservations con tus clientes y qu
 
 2.  Revisar y comprender la Modern Commerce Operating Guide
 
-5.  Revisar las Azure RI y suscripciones de servidor, preguntas más frecuentes
+5.  Revisa las Azure RI y suscripciones de servidor, preguntas más frecuentes
 
 6.  Comprender las actualizaciones de Azure Reservations y suscripciones de servidor en la [API del centro de partners (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
@@ -71,12 +73,12 @@ A continuación te mostramos una lista completa de recursos para ayudarte a inco
 -   [Azure Reservations y suscripciones de servidor con presentación de introducción de ventaja híbrida de Azure](https://www.yammer.com/cloudpartnercommunity/#/files/133462305)
 -   [Suscripciones de servidor con presentación de introducción de ventaja híbrida de Azure](https://www.yammer.com/cloudpartnercommunity/#/files/141644181)
 -   [Seminario web de introducción de Azure Reservations](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
--   [Las suscripciones de servidor en el seminario Web CSP (parte 2)](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July) : parte 2 del seminario Web de introducción de reservas de Azure, esta sesión profundiza en las ventajas de venta de suscripciones de servidor en CSP.  Incluye un resumen de las ventajas de cliente de instancias reservadas, descripción que las suscripciones de servidor están disponibles, usa los derechos de las suscripciones de servidor y transacciones de las suscripciones de servidor en CSP.
+-   [Las suscripciones de servidor en el seminario Web CSP (parte 2)](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July) : parte 2 del seminario Web de introducción de reservas de Azure, esta sesión profundiza en las ventajas de vender suscripciones de servidor en CSP.  Incluye un resumen de las ventajas de cliente de instancias reservadas, descripción que las suscripciones de servidor están disponibles, usa los derechos de las suscripciones de servidor y transacciones de las suscripciones de servidor en CSP.
 -   (Actualizado) [Modern Commerce Operations Guide](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): guía completa que abarca clave la directiva y aspectos operativos como acuerdos, pedidos a través del centro de partners, factura, precios detalles de la lista, incentivos, archivo de conciliación, API/SDK, espacio aislado y Azure Servicios compartidos para partners.
 -   (Actualizado) [Hoja de ventas](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 -   [La versión moderna ofrece una matriz de disponibilidad en países y monedas de clientes](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [Módulo de licencias de Azure en Partner University](https://aka.ms/azure_partner_licensing)
--   (Actualizado) [Azure RI y suscripciones de servidor preguntas más frecuentes](https://www.yammer.com/cloudpartnercommunity/#/files/141644205)
+-   (Actualizado) [Azure RI + suscripciones de servidor preguntas más frecuentes](https://www.yammer.com/cloudpartnercommunity/#/files/141644205)
 -   [Introducción de precios de Azure](https://azure.microsoft.com/en-us/pricing/#explore-cost)
 -   [Calculadora de precios de Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
 -   Azure lista de precios de las reservas: que se encuentra en la sección de **Reservas de Azure** de la página del centro de partners [precios y ofertas](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) .
