@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b05a46f7dd9cb4cd2c5621610d55264c4ff3701
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489841"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541481"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -18,7 +18,7 @@ ms.locfileid: "4489841"
 
 -  Centro de partners
 
-Crear cuentas de usuario para los empleados que necesitan acceder al centro de partners. Estas tareas las deben hacer el Administrador de administración de usuario, Administrador de cuentas o el administrador global. 
+Crear cuentas de usuario para los empleados que necesitan acceder al centro de partners. Estas tareas deben hacerse mediante el Administrador de administración de usuario, Administrador de cuentas o el administrador global. 
 
 
 ## <a name="add-a-new-user"></a>Agregar un nuevo usuario
@@ -29,7 +29,7 @@ Crear cuentas de usuario para los empleados que necesitan acceder al centro de p
 
 3.  Escribe el nombre completo y la dirección de correo electrónico del usuario.
 
-4.  Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas.  Si quieren que los usuarios una asignación de roles, pueden encontrar los administradores de TI de cuenta de contacto, ve a la **administración de usuarios** y filtrado de administrador de cuenta.
+4.  Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas.  Si quieren que los usuarios una asignación de roles, pueden encontrar los administradores de TI de cuenta de contacto, ve a la **administración de usuarios** y el filtrado en el Administrador de cuentas.
 
 5.  Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
@@ -47,7 +47,7 @@ El acceso al Centro de partners se basa en roles. Los permisos que asignes a un 
 
 Para trabajar en el centro de partners, debes tener un rol asignado.  Hay dos tipos generales de roles: los administradores de TI y los agentes.
 
-- Permisos de administrador controlan el nivel de acceso que el usuario tiene que las características del centro de partners. Esta configuración influye fuera del centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios de Microsoft (incluso los que no estén relacionados con CSP) y un administrador global puede tener acceso a las cuentas de usuario y cuentas de cliente más allá de CSP también.
+- Permisos de administrador controlan el nivel de acceso que el usuario tiene que las características del centro de partners. Esta configuración influye fuera del centro de partners: un administrador de facturación puede acceder a todas las facturas de todos los servicios de Microsoft (incluso los que no estén relacionados con CSP) y un administrador global puede acceder a las cuentas de usuario y cuentas de cliente más allá de CSP también.
 
 - Los permisos de agente controlan qué tipo de datos de cliente y de información de la cuenta puede ver y cambiar el usuario.
     
@@ -61,13 +61,13 @@ Las categorías generales de los roles son:
 En cada una de estas categorías generales, un usuario solo puede tener un rol, pero ese mismo usuario también puede tener roles en las otras categorías generales. 
 
 >[!Important]
->Los usuarios deben asignarse al menos un rol para trabajar en el centro de partners.
+>Personas deben incluirse en el inquilino para tener acceso al centro de partners. Asignaciones de roles proporcionan acceso adicional.
 
 
 ### <a name="find-your-global-admin"></a>Busca el administrador global
 
-A veces, un usuario puede que tengas que su rol cambiado o un nuevo usuario puede una asignación de rol específico.  
-Para buscar un administrador global que puede realizar cambios en los roles o asignar roles a un nuevo usuario, desde el **icono de configuración** en la parte superior derecha del centro de partners, selecciona la **administración de usuarios** y el filtro de administrador global. 
+A veces, un usuario podría debe tener su rol cambiado o un nuevo usuario quizá quiera una asignación de roles específicos.  
+Para buscar un administrador global que puede realizar cambios en los roles o asignar roles a un nuevo usuario, desde el **icono de configuración** en la parte superior derecha del centro de partners, selecciona la **administración de usuarios** y filtrar de administrador global. 
 
 Para obtener información específica sobre los roles y lo que puede hacer cada rol, consulta [asignar permisos de usuario](permissions-overview.md).
 

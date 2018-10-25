@@ -1,25 +1,25 @@
 ---
 title: Asignar roles a los usuarios y permisos | El centro de partners
-description: Todos los empleados que necesitan trabajar en el centro de Partners deben tener asignado un rol.
+description: Todos los empleados que necesitan trabajar en el centro de partners se les deben asignar un rol.
 author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528372"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541482"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Asignar permisos y roles de los usuarios
+# <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
 **Se aplica a:**
 
 - Centro de partners
 
-Cada rol en el centro de partners incluye algunos permisos permiten al usuario realizar tareas específicas. Todos los que funciona en el centro de partners debe tener asignado un rol.
+Cada rol en el centro de partners viene con determinados permisos lo que permite a un usuario para realizar tareas específicas. Todos los usuarios que funciona en el centro de partners debe tener asignado un rol.
 
-Según el tamaño de la organización, algunos usuarios pueden funcionar en distintas ubicaciones o solo para una ubicación. 
+Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una ubicación. 
 
 Por ejemplo:
 
@@ -98,14 +98,13 @@ Para obtener información general de roles y permisos, leer [crear cuentas de us
 <td><ul>
 <li><p>Crear nuevas ubicaciones</p></li>
 <li><p>Inscribir ubicaciones en programas (excepciones son CSP y programas de revendedores indirectos)</p></li>
-<li><p>Administrar perfiles de las cuentas de ubicación que se administran</p></li>
-<li><p>Asigna el administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos, roles de usuario de incentivos a los usuarios</p></li>
+<li><p>Administrar perfiles relacionados con las cuentas de ubicación administran</p></li>
+<li><p>Asignar otros administradores de cuenta, administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos y los roles de usuario de incentivos para los usuarios</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Administrador de incentivos</strong></p></td>
 <td><ul>
-<li><p>Asignar roles de incentivos</p></li>
 <li><p>Inicia y administra reclamaciones de incentivos</p></li>
 <li><p>Permite ver y editar todos los aspectos de los programas de incentivos</p></li>
 <li><p>Permite ver y editar detalles bancarios y fiscales</p></li>
