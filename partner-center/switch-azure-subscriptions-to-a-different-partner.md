@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488971"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511396"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
@@ -23,8 +23,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 >[!Note]  
 >En este momento son para transferir las suscripciones solo a los proveedores indirectos o directo.
 
->[!Note] 
->No es es posible cambiar a los partners para suscripciones de proveedor de soluciones en la nube para las suscripciones de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
+>[!Note]No es es posible cambiar a los partners para las suscripciones de proveedor de soluciones en la nube de Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
 
 
@@ -68,7 +67,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
     *Importante*: si el nuevo partner de CSP no tiene una relación de revendedor con el cliente, debe establecer una antes de que se transfiera la suscripción. [Puedes encontrar información sobre cómo hacer esto aquí](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >El nuevo partner CSP y el inquilino del cliente deben estar en la misma región. 
+    >El nuevo partner CSP y el inquilino del cliente deben estar en el mismo país. 
 
 5.  Partner actual:
 
@@ -95,9 +94,9 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
     -  En el menú del cliente, selecciona **Administración de servicios**. 
     -  En **Microsoft Azure**, haz clic en el vínculo para ir al **Portal de administración de Microsoft Azure**.
 
- 
+ 
 
- 
+ 
 
 
 
