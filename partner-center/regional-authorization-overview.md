@@ -1,16 +1,19 @@
 ---
 title: Autorización regional de CSP | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Con la autorización regional, los partners con empresas internacionales ahora pueden administrar más fácilmente los clientes de diferentes regiones y países de todo el mundo.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Inquilino de Azure AD, consolidar tus inquilinos, estrategia de inquilinos, inquilinos de CSP, cuentas partners en CSP, mercados y territorios de CSP, ¿dónde puedo vender a través de CSP?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377637"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796638"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Estrategias de consolidación de inquilinos de CSP
 
@@ -69,7 +72,7 @@ La consolidación de los inquilinos es opcional. Los partners pueden continuar a
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>Un inquilino para varias regiones o países
 
@@ -101,7 +104,7 @@ Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CS
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>Algunos inquilinos para algunas regiones o países
 
@@ -137,7 +140,7 @@ Los partners pueden elegir consolidar sus operaciones de varios inquilinos de CS
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>Inquilinos de consolidación
 
@@ -211,7 +214,7 @@ La ubicación geográfica determina la moneda en la que se factura como se muest
 | AUD | Australia, Isla Christmas, Islas Cocos, Islas Cook, Fiyi, Isla Heard y McDonald, Kiribati, Islas Marshall, Nauru, Niue, Isla Norfolk, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Islas Pitcairn, Islas Salomón, Tokelau, Tonga, Tuvalu, Wallis y Futuna. |
 
 
- 
+ 
 
 
 

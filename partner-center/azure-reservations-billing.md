@@ -1,16 +1,19 @@
 ---
 title: Facturación de Azure Reservations | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information about billing for Azure reservations.
 author: v-petand
+ms.author: v-petand
 keywords: Azure RI, instancias reservadas de azure, reservas, vm, administrar, facturación, comprar
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489441"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796728"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Facturación de Microsoft Azure Reserved VM Instances
 

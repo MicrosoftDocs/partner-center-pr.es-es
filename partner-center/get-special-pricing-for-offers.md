@@ -1,15 +1,18 @@
 ---
 title: Vender en sectores especializados | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 Description: Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, and government users.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489591"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795018"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -49,11 +52,11 @@ Una vez que tú y el cliente hayáis cualificado para un programa de oferta espe
 [Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo](minecraft-subscriptions.md)
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,22 @@
 ---
 title: Competencia de soluciones en la nube para pequeñas y medianas empresas
+ms.topic: article
+ms.date: 10/29/2018
 description: La Competencia soluciones en la nube para pequeñas y medianas empresas te ayuda a crear tu marca como partner especializado en la venta e implementación de soluciones de Office 365 para pequeñas y medianas empresas.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competencia, competencias, soluciones en la nube para pequeñas y medianas empresas
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876195"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796858"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Small and Midmarket Cloud Solutions 

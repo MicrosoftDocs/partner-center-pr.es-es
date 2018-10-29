@@ -1,16 +1,19 @@
 ---
 title: Agregar licencias o servicios a una suscripción existente | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Si el cliente necesita más licencias de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489731"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795978"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 
@@ -38,7 +41,7 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Empresa</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 Empresa Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -47,14 +50,14 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Empresa Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Empresa Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 Empresa Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -64,12 +67,12 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Empresa India y Office 365 Empresa Essentials India se pueden actualizar a Office 365 Empresa Premium India, no a Office 365 Empresa Premium.</p></td>
+<td><p>¹ Office365BusinessIndia y Office365BusinessEssentialsIndia pueden actualizarse a Office365BusinessPremiumIndia, no a Office365BusinessPremium.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 Las suscripciones se pueden actualizar si se cumplen estas condiciones:
 
@@ -90,11 +93,11 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 1.  Para ver si una suscripción es apta para la actualización, elige el cliente y después abre su lista de suscripciones.
 2.  Si la actualización se puede actualizar, verás un icono informativo justo después del nombre de la suscripción. Mantén el cursor sobre este icono y, después, selecciona **Actualizar ahora**.
 3.  Selecciona la oferta nueva y, después, elige **Enviar**.
-4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el centro de partners proporciona una lista de cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el centro de partners proporciona una lista de las cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
- 
+ 
 
- 
+ 
 
 
 

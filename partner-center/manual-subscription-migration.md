@@ -1,15 +1,18 @@
 ---
 title: Migración de suscripciones de Dynamics AX a Dynamics 365 | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft presenta Dynamics 365, la próxima generación de aplicaciones empresariales inteligentes con las que tu organización podrá crecer, evolucionar y transformarse para satisfacer las necesidades de tus clientes y aprovechar nuevas oportunidades.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489791"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797138"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar suscripciones de Dynamics AX a Dynamics 365
 
@@ -42,7 +45,7 @@ La línea de productos de Microsoft Dynamics AX se retiró a partir del 1 de nov
 |Tarea/autoservicio|Microsoft Dynamics 365 for Team Members|
 |Dispositivo|Dispositivo de Microsoft Dynamics 365 for Operations|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Cambios de licencias de Microsoft Dynamics CRM Online 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Cambios de licencias de Microsoft Dynamics CRM Online 
 
 **Microsoft Dynamics CRM Online**
 
@@ -113,9 +116,9 @@ Si el cliente se mueve desde el canal abierto hasta el programa de servicios en 
 
 Una vez que el cliente te acepte como su proveedor indirecto, los pasos de aprovisionamiento son prácticamente iguales que los descritos anteriormente: compras la nueva suscripción y, a continuación, asignas las licencias de usuario. La única diferencia implica la cancelación de suscripciones antiguas. Un nuevo proveedor no puede cancelar/suspender suscripciones adquiridas a través de otros canales. Si el cliente adquirió suscripciones anteriores en otro canal de ventas, como el canal abierto, el cliente deberá cancelarlas por sí mismo a través de dicho canal.
 
- 
+ 
 
- 
+ 
 
 
 

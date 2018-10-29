@@ -1,16 +1,19 @@
 ---
 title: Impago, fraude o uso incorrecto | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Estrategias para administrar los riesgos de las transacciones en línea, incluyendo el impago del cliente de artículos y servicios y las actividades fraudulentas o uso incorrecto.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, impago, el cliente no pagará la factura, riesgo en línea, robo de servicio, uso incorrecto de servicio, suspender una suscripción,
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377707"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795428"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -78,9 +81,9 @@ Para obtener más estrategias detalladas para mitigar los riesgos en línea, con
 > [!IMPORTANT]  
 > Si Microsoft detecta una actividad de partner o cliente que confirmamos o sospechamos que infringe la directiva de uso aceptable, tomaremos medidas de aplicación. El cliente podría suspenderse inmediatamente y Microsoft te notificará sobre las medidas de aplicación o se enviará información actualizada sobre tus solicitudes.
 
- 
+ 
 
- 
+ 
 
 
 

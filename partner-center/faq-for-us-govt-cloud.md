@@ -1,16 +1,19 @@
 ---
 title: Preguntas más frecuentes para el Centro de partners de Microsoft Cloud for US Government | Preguntas más frecuentes para el Centro de partners de Microsoft Cloud for US Government
+ms.topic: article
+ms.date: 10/29/2018
 description: Usa estas preguntas más frecuentes para obtener más información acerca del programa Proveedor de soluciones en la nube (CSP) de Microsoft Cloud for US Government. También puedes ponerte en contacto con el administrador de cuentas para obtener más información.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490221"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797188"
 ---
-# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes para el centro de partners para Microsoft Cloud for US Government
+# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes del centro de partners para Microsoft Cloud for US Government
 
 **Se aplica a**
 
@@ -23,11 +26,11 @@ Usa estas preguntas más frecuentes para obtener más información acerca del pr
 ### <a name="common"></a>Común
 **¿Qué es Microsoft Cloud for US Government?**
 
-Diseñado para el gobierno de Estados Unidos desde el principio, Microsoft Cloud for Government permite que los clientes del sector público de los Estados Unidos: desde grandes agencias federales ayuntamientos de Ciudad pequeña: seleccionar entre una variedad de servicios de informática de nube. Para dirigirse mejor a las necesidades específicas de los clientes, Microsoft ha realizado una gran inversión en centros de datos y se compromete a cumplir las directivas, exigencias y requisitos estatales y federales de los Estados Unidos. 
+Diseñado para el gobierno de Estados Unidos desde el principio, Microsoft Cloud for Government permite que los clientes del sector público de los Estados Unidos: desde grandes agencias federales ayuntamientos de Ciudad pequeña: seleccionar entre una variedad de servicios de informática en la nube. Para dirigirse mejor a las necesidades específicas de los clientes, Microsoft ha realizado una gran inversión en centros de datos y se compromete a cumplir las directivas, exigencias y requisitos estatales y federales de los Estados Unidos. 
 
 **¿Quién puede participar en el programa CSP de Microsoft Cloud for US Government?**
 
-Los partners en Estados Unidos que sirven estatales y entidades gubernamentales locales en sus capacidades gubernamentales son válidos para el programa CSP de Microsoft Government cloud. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government. Para poder participar, necesitas demostrar que trabajas con los clientes del gobierno. El proceso de registro en el programa CSP en Microsoft Cloud for US Government se ha aumentado para capturar datos adicionales para realizar la validación. Los tipos de prueba pueden incluir, pero no se limitan a, números de contrato de gobierno y una carta de patrocinio del cliente del gobierno.
+Los partners en Estados Unidos que sirven nos, estatales y entidades gubernamentales locales en sus capacidades gubernamentales son válidos para el programa CSP de Microsoft Government cloud. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government. Para poder participar, necesitas demostrar que trabajas con los clientes del gobierno. El proceso de registro en el programa CSP en Microsoft Cloud for US Government se ha aumentado para capturar datos adicionales para realizar la validación. Los tipos de prueba pueden incluir, pero no se limitan a, números de contrato de gobierno y una carta de patrocinio del cliente del gobierno.
 
 **¿Son los precios de cliente los mismos que para CSP Commercial?**
 
@@ -41,7 +44,7 @@ Sí. El modelo de descuento para partners del programa CSP de Microsoft Cloud fo
 
 El programa CSP de Microsoft Government Cloud es diferente del programa CSP Commercial en las siguientes áreas:
 
--   Elegibilidad: El programa CSP de Microsoft Government cloud solo está disponible para los partners en Estados Unidos que sirven estatales y entidades gubernamentales locales en sus capacidades gubernamentales. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government.
+-   Elegibilidad: El programa CSP de Microsoft Government cloud solo está disponible para los partners en Estados Unidos que sirven nos, estatales y entidades gubernamentales locales en sus capacidades gubernamentales. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government.
 
 -   Incorporación: los partners deben incorporarse al programa CSP de Microsoft Cloud for US Government independientemente del programa CSP Commercial.
 
@@ -75,7 +78,7 @@ Existen dos diferencias entre el acuerdo de Microsoft Cloud para US Government C
 
 -   Necesita estar incorporado en el contrato de CSP con su cliente.
 
--   Se ha se ha adaptado para cumplir con las leyes y normas leyes locales, estatales y federales.
+-   Se ha se ha adaptado para cumplir con las leyes locales, estatales y federales y.
 
 *Contrato de distribuidor de Microsoft Cloud (MCDA)*
 

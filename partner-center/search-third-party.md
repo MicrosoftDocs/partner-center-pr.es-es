@@ -1,15 +1,18 @@
 ---
 title: Descubre las ofertas de terceros que quieres vender | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Busca y encuentra los tipos de ofertas de terceros que encajen bien en tu cartera.
 author: labrenne
+ms.author: labrenne
 keywords: ofertas de terceros, software para comprar, buscar aplicaciones de terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488591"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796968"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descubre las ofertas de terceros que quieres vender
 

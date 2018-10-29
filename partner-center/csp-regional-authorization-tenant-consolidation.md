@@ -1,16 +1,19 @@
 ---
 title: Consolidación de los inquilinos de autorización regional de CSP | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: migrar clientes, aprovisionamiento, cuenta de inquilino, consolidar inquilinos
 ms.localizationpriority: medium
-ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6285b9dfe88052939a50d6675a190f3e5419cdbb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489671"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797288"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
@@ -24,9 +27,9 @@ ms.locfileid: "4489671"
 
 Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
-**Nota**: Debes tener en cuenta todas las suscripciones y recuentos de puestos para tus clientes aprovisionados desde las cuentas de transición. Se te volverá a aprovisionar esas mismas suscripciones exactas con la misma cantidad de puestos en la nueva cuenta de Central CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado. Los partners eligen si consolidar sus inquilinos. Una vez completada la consolidación, los partners no pueden volver a su estado anterior. Ten en cuenta que es posible que también sean necesarias ciertas acciones por parte del cliente.
+**Nota**: debes tener en cuenta todas las suscripciones y recuentos de puestos para tus clientes aprovisionados desde las cuentas de transición. Se te volverá a aprovisionar esas mismas suscripciones exactas con la misma cantidad de puestos en la nueva cuenta de Central CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado. Los partners eligen si consolidar sus inquilinos. Una vez completada la consolidación, los partners no pueden volver a su estado anterior. Ten en cuenta que es posible que también sean necesarias ciertas acciones por parte del cliente.
 
- 
+ 
 
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
@@ -38,7 +41,7 @@ Usa estas instrucciones para consolidar los inquilinos para diferentes países o
 ## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
 
-1.  Iniciar sesión el **Centro de partners** con la cuenta de **transición** (nuevo) (lo que estás pasando) y navega hasta la lista de los clientes de **los clientes**.
+1.  Iniciar sesión el **Centro de partners** con la cuenta de **transición** (nuevo) (el que estás pasando) y navega hasta la lista de los clientes de **los clientes**.
 
 2.  Selecciona Clientes.
 
@@ -73,9 +76,9 @@ Repite estos pasos para migrar las suscripciones de todos los demás clientes.
 
 Antes de pasar a la siguiente sección, asegúrate de todas las suscripciones de cliente existente en las cuentas de partner de **Transición desde** se vuelven a aprovisionar en la cuenta de partner de **Transición a**.
 
-**Nota** Los partners deben suspender las suscripciones en la cuenta de inquilino de partner de **Transición desde** en el Centro de partners el mismo día que se realice la transición de dichas suscripciones y configurarlas en la cuenta de inquilino de partner de **Transición a** en el Centro de partners para asegurarse de que no se produce una facturación doble. Se denegarán las solicitudes de soporte técnico referentes a créditos debidas a cualquier superposición en la facturación que se produzca por no deshabilitar correctamente las suscripciones de **Transición desde**.
+**Nota**los Partners deben suspender las suscripciones en la cuenta de inquilino de Partner **Transición desde** en el centro de partners el mismo día que se realizó la transición de dichas suscripciones y en la cuenta de inquilino de Partner **Transición a** en no se produce el centro de partners para garantizar una facturación doble. Se denegarán las solicitudes de soporte técnico referentes a créditos debidas a cualquier superposición en la facturación que se produzca por no deshabilitar correctamente las suscripciones de **Transición desde**.
 
- 
+ 
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Deshabilitar las suscripciones de Office 365 en la cuenta de partner de Transición desde
 
@@ -87,9 +90,9 @@ Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición d
 2.  Abre al cliente cuyas suscripciones quieras deshabilitar y, a continuación, selecciona la primera oferta que deshabilitar.
 3.  Establece la suscripción en **suspendida**y, a continuación, haz clic en **enviar**.
 
-    **Nota**: Suspender la suscripción garantiza que no se produce una facturación doble.
+    **Nota**: suspender la suscripción garantiza que no se produce una facturación doble.
 
-     
+     
 
     La suscripción muestra **suspendida** en la lista de suscripciones.
 
@@ -108,9 +111,9 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 4.  El partner confirma que la suscripción de Azure en las cuentas de revendedor de CSP de **Transición desde** ahora muestra suspendida en el Centro de partners, en la sección de suscripciones del cliente.
 5.  El partner confirma que la suscripción de Azure las cuenta de revendedor de CSP de **Transición a** ahora muestra un estado de **activa** en el Centro de partners, en la sección de suscripciones del cliente.
 
-    **Nota**: Deshabilitar las suscripciones en el cliente no modifica la apariencia de dicho cliente en la lista de clientes. Actualmente no hay ninguna opción para quitar clientes de la lista. Los partners deben evitar volver a agregar suscripciones a estos clientes en el futuro desde su cuenta de **Transición desde**.
+    **Nota**deshabilitar las suscripciones en el cliente no modifica la apariencia del cliente en la lista de clientes. Actualmente no hay ninguna opción para quitar clientes de la lista. Los partners deben evitar volver a agregar suscripciones a estos clientes en el futuro desde su cuenta de **Transición desde**.
 
-     
+     
 
 6.  Repite estos pasos para todas las suscripciones de todos tus clientes para detener futuros cargos en las cuentas **Transición desde**. El partner recibirá una factura final con un crédito por el número de días sin usar entre el día de la cancelación y el último día del período de facturación. Tras ese período de facturación final, no se generarán más futuras.
 
@@ -122,15 +125,15 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 
 -   Actualmente no hay ninguna manera de quitar por completo a un cliente de la lista de clientes.
 
--   **Nota** Los partners deben suspender las suscripciones en la cuenta de inquilino de partner de **Transición desde** en el Centro de partners el mismo día que se realice la transición de dichas suscripciones y configurarlas en la cuenta de inquilino de partner de **Transición a** en el Centro de partners para asegurarse de que no se produce una facturación doble. Microsoft no admitirá las solicitudes de soporte técnico referentes a créditos debidas a cualquier superposición en la facturación que se produzca por no deshabilitar correctamente las suscripciones de **Transición desde**.
+-   **Nota**los Partners deben suspender las suscripciones en la cuenta de inquilino de Partner **Transición desde** en el centro de partners el mismo día que se realizó la transición a de dichas suscripciones y en la cuenta de **Transición al** inquilino de Partner en el centro de partners para garantizar que no se produce una facturación doble. Microsoft no admitirá las solicitudes de soporte técnico referentes a créditos debidas a cualquier superposición en la facturación que se produzca por no deshabilitar correctamente las suscripciones de **Transición desde**.
 
-     
+     
 
 ### <a name="simplify-migration-using-export"></a>Simplificación de la migración mediante la exportación
 
 Si usas la **Función de exportación**, puedes capturar las suscripciones que necesites usar en tu nueva estructura consolidada:
 
-1.  Haz clic en **los clientes** en el centro de partners para ver la lista de clientes de la estructura existente.
+1.  Haz clic en **los clientes** del centro de partners para ver la lista de clientes de la estructura existente.
 
 2.  Abre el nombre del cliente deseado.
 
@@ -143,9 +146,9 @@ Si usas la **Función de exportación**, puedes capturar las suscripciones que n
 Para obtener más información acerca del registro de API, visita esta [página web](https://go.microsoft.com/fwlink/?linkid=847990) (en inglés).
 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,22 @@
 ---
 title: Competencia de administración de relaciones con los clientes en la nube
+ms.topic: article
+ms.date: 10/29/2018
 description: Si consigues la competencia de administración de relaciones con los clientes en la nube, te convertirás en un proveedor premium de Microsoft Dynamics CRM Online o Dynamics 365.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Competencia,competencias, administración de relaciones con los clientes en la nube
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874825"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796288"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Cloud Customer Relationship Management

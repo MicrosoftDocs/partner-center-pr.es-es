@@ -1,15 +1,18 @@
 ---
 title: Usar los archivos de conciliación | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489961"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797298"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -54,7 +57,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Campos de archivo basados en licencia
 

@@ -1,15 +1,18 @@
 ---
 title: Simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Agregar un perfil de implementación de AutoPilot de Windows en el Centro de partners para simplificar la configuración del dispositivo con AutoPilot de Windows
 author: KPacquer
+ms.author: kenpacq
 keywords: autopilot, autopilot de windows, microsoft autopilot, implementación sin interacción, oobe, pantallas de inicio de sesión
 ms.localizationpriority: medium
-ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2c8e8953fbb79493a3704c9c8ea6982928c3fe92
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489401"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796658"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar la configuración del dispositivo con AutoPilot de Windows 
 
@@ -65,7 +68,7 @@ Para configurar los dispositivos, carga una lista de los dispositivos crea un pe
 
     **Nota:** Si recibes un mensaje de error después de intentar subir el archivo .csv, comprueba el formato del archivo. Después de agosto, puedes usar solo el Hash de Hardware o el nombre del OEM, número de serie y modelo en ese orden de columna o el id. del producto de Windows. También puedes usar el archivo .csv de muestra al que puedes tener acceso desde el vínculo situado junto a **Agregar dispositivos**.
 
-2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar perfiles en el centro de partners).
+2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar los perfiles en el centro de partners).
 
     a.  Desde **Dispositivos**, haz clic en **Agregar nuevo perfil**.
 

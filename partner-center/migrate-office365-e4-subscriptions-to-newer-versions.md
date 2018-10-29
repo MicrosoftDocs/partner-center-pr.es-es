@@ -1,14 +1,17 @@
 ---
 title: Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365 | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: La edición de Office 365 Enterprise E4 se retirará a partir del 7 de abril de 2017. Obtén información sobre cómo migrar las suscripciones de cliente a las versiones más recientes de Office 365.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490181"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796109"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar de suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
@@ -97,7 +100,7 @@ Se ha suspendido la suscripción antigua y la nueva suscripción está activa. S
 
 
 
- 
+ 
 
 
 

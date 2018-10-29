@@ -1,16 +1,19 @@
 ---
 title: Crear varios usuarios para una cuenta de cliente | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Puedes agregar varios usuarios a la vez a una cuenta de cliente, mediante la carga en el Centro de partners de un archivo de datos con el formato de archivo de valores separados por comas (.csv).
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
-ms.openlocfilehash: 123c2c7b80398a860aa894449052502d41409c85
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488821"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795678"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488821"
 
 -  Centro de partners
 
-Puedes agregar varios usuarios a una cuenta de cliente al mismo tiempo, cargando un archivo de datos en el formato de archivo de valores separados por comas (.csv) en el centro de partners. Puedes descargar un archivo de datos de muestra desde el centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
+Puedes agregar varios usuarios a una cuenta de cliente al mismo tiempo, al cargar un archivo de datos en el formato de archivo de valores separados por comas (.csv) al centro de partners. Puedes descargar un archivo de datos de muestra desde el centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
 
@@ -42,7 +45,7 @@ Escribe los siguientes datos en el archivo de datos:
 | Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
 | Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
 
- 
+ 
 
 ### <a href="" id="createmultipleuseraccounts"></a>Para crear varias cuentas de usuario
 
@@ -54,7 +57,7 @@ Escribe los siguientes datos en el archivo de datos:
 5.  En el selector de archivos, selecciona el archivo de datos y, a continuación, selecciona **Abrir**.
 6.  Selecciona **Validar**.
 
-    **Nota**: La mayoría de los errores de creación de cuentas se deben a problemas en los archivos de datos, lo que incluye la falta de información, unas direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.
+    **Nota**mayoría de los errores de creación de cuentas se debe a problemas de archivo de datos, incluida la falta de información, direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.
 
 7.  Cuando el centro de partners haya validado el archivo, selecciona la **ubicación** geográfica para los nuevos usuarios.
 8.  Selecciona **Guardar**.
@@ -64,9 +67,9 @@ Escribe los siguientes datos en el archivo de datos:
 
 10. Los nuevos usuarios se les asignará automáticamente los permisos de **Usar licencias y servicios** . 
 
- 
+ 
 
- 
+ 
 
 
 

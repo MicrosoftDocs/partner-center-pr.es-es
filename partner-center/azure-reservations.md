@@ -1,17 +1,20 @@
 ---
 title: Introducción de reservas de Microsoft Azure | El centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, reservas, administrar, facturación, comprar, Azure RI, instancias reservadas de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658121"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797238"
 ---
-# <a name="sell-microsoft-azure-reserved-instances"></a>Vender instancias reservadas de Azure de Microsoft 
+# <a name="sell-microsoft-azure-reserved-instances"></a>Vender Microsoft Azure Reserved Instances 
 
 **Se aplica a**
 
@@ -22,7 +25,7 @@ ms.locfileid: "4658121"
 Los partners en el programa de proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes instancias de Microsoft Azure reservadas. Los clientes pueden obtener ahorros importantes cuando reservan de antemano. Azure Reserved Instances ofrece a los clientes sencillez y flexibilidad de las siguientes maneras:
 
 -   Períodos de reserva de uno o tres años 
--   Fácil empezar; instalación se completó en segundos 
+-   Fácil de empezar a trabajar; instalación se completó en segundos 
 -   Cancelar o cambiar instancias reservadas en cualquier momento por reembolso ajustado 
 -   Administrar el uso de instancias reservadas en el nivel de departamento individual o de organización 
 
@@ -53,7 +56,7 @@ La disponibilidad de Azure Reserved Instances atraerá a los clientes de las sig
 -   Las instancias reservadas pueden ofrecer importantes ahorros sobre precios de pago por uso (PAYG)
 -   Mejores presupuestos y previsiones con pagos por adelantado para períodos de uno o tres años 
 -   Capacidad informática priorizada en la región de Azure más cercana a sus oficinas  
--   Azure reservations proporcionan la base para soluciones de infraestructura de extremo a extremo cuando se combina con el software, como Microsoft Windows Server y la base de datos de SQL de Azure.   
+-   Azure reservations proporcionan la base para soluciones de infraestructura de extremo a extremo cuando se combina con software, como Microsoft Windows Server y Azure SQL Database.   
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 

@@ -1,14 +1,17 @@
 ---
 title: Crear una cuenta del Centro de partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Los miembros de Microsoft Partner Network necesitan crear cuentas del Centro de partners para administrar sus ventajas y competencias de la red y crear un perfil de negocio.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488951"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796208"
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 

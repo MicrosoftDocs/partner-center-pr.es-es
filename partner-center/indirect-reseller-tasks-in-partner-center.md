@@ -1,16 +1,19 @@
 ---
 title: Asociación con los proveedores indirectos en CSP | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft y que tu revendes a los clientes.
 ms.prod: ''
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 9446b5ffa0a33716172232fc3b337cbe26225cfa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490021"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795498"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -37,14 +40,14 @@ Para obtener más información sobre lo que se requiere para vender en el progra
 
 ### <a name="before-you-begin"></a>Antes de comenzar
 
-Si eres principiante en CSP, deberás inscribirte en el programa como un revendedor indirecto y crear una cuenta en el centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
+Si estás familiarizado con el CSP, tendrás que inscribirse en el programa como un revendedor indirecto y crear una cuenta en el centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
 -   **Credenciales de administrador global para tu cuenta profesional**<br>
 Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [cuentas profesionales y el centro de partners](azure-active-directory-tenants-and-partner-center.md).
 
 
 -   **El nombre de usuario y la contraseña que uses para iniciar sesión en el sitio del Partner Membership Center**<br>
-Usamos esta información para vincular Microsoft Id. la organización Partner Network (Id. de MPN) con la nueva cuenta de centro de partners para que pueda administrar los beneficios de pertenencia a grupos y los datos en el centro de partners.
+Usamos esta información para vincular Microsoft Id. tu organización Partner Network (Id. de MPN) con la nueva cuenta de centro de partners para que pueda administrar los beneficios de pertenencia a grupos y los datos en el centro de partners.
 
 -   **Nombre legal de empresa, dirección, contacto principal y los detalles de soporte técnico de su organización.**<br>
 Necesitamos esta información para confirmar que la organización tiene un perfil establecido con Microsoft y que estás autorizado para actuar en su nombre.
@@ -125,7 +128,7 @@ Si un proveedor indirecto quiere conectarse contigo en el centro de partners, co
     > [!NOTE]  
     > Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de los clientes y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
 
-4.  Selecciona **los proveedores indirectos** desde el menú del **Centro de partners** para ver una lista de los proveedores de que tienes una asociación. 
+4.  Selecciona **los proveedores indirectos** en el menú del **Centro de partners** para ver una lista de los proveedores de que tienes una asociación. 
 
 5.  Selecciona **Ver clientes** para ver una lista de los clientes que compartes con el proveedor.
 
@@ -133,13 +136,13 @@ Si un proveedor indirecto quiere conectarse contigo en el centro de partners, co
     > [!IMPORTANT]  
     > Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
  
-## <a name="connect-with-customers"></a>Conectar con los clientes
+## <a name="connect-with-customers"></a>Conectar con clientes
 
  Para realizar transacciones con clientes en el centro de partners, tus clientes deben tener cuentas del centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conectar con clientes existentes
 
-Los clientes que ya realices transacciones de a través de otros portales, como el centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes en el centro de partners después inscribirlos correctamente como revendedor indirecto. Selecciona **los clientes** desde el menú del **Centro de partners** para ver la lista de clientes. 
+Los clientes que ya realices transacciones de a través de otros portales, como el centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes en el centro de partners después inscribirlos correctamente como un revendedor indirecto. Selecciona **los clientes** desde el menú del **Centro de partners** para ver la lista de clientes. 
 
 Cuando te pones en contacto con un proveedor indirecto, no ganas automáticamente sus clientes. De igual modo, los clientes que se trabaja con tu propia o a través de tu proveedor indirecto, pero no a través del centro de partners, no automáticamente aparecerán en la lista de clientes cuanto te inscribas en el centro de partners. Tendrás que establecer una relación de revendedor con los clientes para realizar transacciones en el centro de partners.  Para ello, envíales una invitación para conectarse contigo en el centro de partners, tal como se describe a continuación.
 

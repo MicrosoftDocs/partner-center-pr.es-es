@@ -1,15 +1,18 @@
 ---
 title: Conceptos básicos sobre facturación | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490071"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797108"
 ---
 # <a name="billing-basics"></a>Conceptos básicos sobre facturación
 
@@ -77,7 +80,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>Facturación basada en licencia
 
@@ -109,7 +112,7 @@ Ya tienes una opción de facturación anual además de la opción mensual. Consu
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>Facturación basada en uso
 
@@ -172,6 +175,6 @@ Para acceder a archivos de conciliación y facturas de cargo único, selecciona 
 
 #### <a name="download-a-credit-note"></a>Descargar una nota de crédito
 
-En caso de que se ejercer un crédito completo (Void factura) y una renovación prorrateada, tendrás una nota de crédito para cancelar la factura original y también un documento nuevo completo. Puedes solicitar un crédito y renovación por los motivos siguientes:
+En caso de que se ejercer un crédito completo (Void factura) y una renovación prorrateada, te ofrecemos una nota de crédito para cancelar la factura original y también un documento nuevo completo. Puedes solicitar un crédito y renovación por los motivos siguientes:
 -   Correcciones de orden de compra o de dirección
--   Genera la factura y, a continuación, se ha aplicado un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extrajo atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, incorporación de cambios en un reembolso.
+-   Genera la factura y, a continuación, se ha aplicado un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extraído atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, extraer en un reembolso.

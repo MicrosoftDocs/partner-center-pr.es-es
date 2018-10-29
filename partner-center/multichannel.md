@@ -1,15 +1,18 @@
 ---
 title: Multicanal | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489421"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795748"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -19,7 +22,7 @@ ms.locfileid: "4489421"
 -  Centro de partners para Microsoft Cloud for US Government
 -  Centro de partners para Microsoft Cloud Alemania
 
-La característica multicanal del centro de partners admite escenarios cuando un cliente quiera contratar un partner para administrar y admitir una suscripción obtenida. El soporte técnico multicanal se aplica cuando el cliente:
+La característica multicanal del centro de partners admite escenarios cuando un cliente quiera contratar un partner para administrar y dar soporte a una suscripción obtenida. El soporte técnico multicanal se aplica cuando el cliente:
 
 -   Ya ha adquirido suscripciones directamente de Microsoft o a través de los programas Advisor, Open o EA.
 
@@ -55,11 +58,11 @@ La característica multicanal del centro de partners admite escenarios cuando un
 
 Si eres revendedor indirecto, consulta el tema [Asociación con proveedores indirectos](indirect-reseller-tasks-in-partner-center.md)
 
-Si eres proveedor indirecto, consulta el tema [Asociación con revendedores indirectos](indirect-provider-tasks-in-partner-center.md) 
+Si eres proveedor indirecto, consulta el tema [Asociación con revendedores indirectos](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

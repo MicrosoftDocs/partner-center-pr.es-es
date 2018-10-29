@@ -1,15 +1,18 @@
 ---
 title: Comprar o renovar Microsoft Action Pack | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Obtén información sobre cómo obtener Microsoft Action Pack, si lo compras por primera vez o si lo renuevas.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obtener action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490131"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795048"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack
 
@@ -54,7 +57,7 @@ Después de que te hayas unido correctamente a la red de partners, sigue las [in
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Renovar una suscripción a Microsoft Action Pack en el centro de partners
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar una suscripción a Microsoft Action Pack en el centro de partners
 
 1. Ve a tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) y, a continuación, selecciona **Compradas**. Busca el icono de la **Suscripción a Microsoft Action Pack** .  
 

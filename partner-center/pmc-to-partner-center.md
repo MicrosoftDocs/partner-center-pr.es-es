@@ -1,18 +1,21 @@
 ---
 title: Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: 'Usuarios PMC: ahora estamos administrando la suscripción a MPN a través del Centro de partners. Esto es lo que tienes que hacer.'
 author: KPacquer
+ms.author: kenpacq
 keywords: suscripción a mpn, competencias, de pmc a centro de partners
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490081"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794958"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Transición de la suscripción a MPN desde el Partner Membership Center hasta el Centro de partners
 
@@ -45,7 +48,7 @@ El administrador de la organización agrega empleados a la cuenta del Centro de 
 
 ## <a href="" id="nonadmin_tasks"></a> Tareas de los empleados: actualizar cuentas
 
-1.  Obtén la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el Administrador de la organización para pedirle que volver a enviar directamente. 
+1.  Obtener la información de inicio de sesión, desde Microsoft Partner Center o desde el administrador. Si no recibes la información de inicio de sesión, ponte en contacto con el Administrador de la organización para pedirle que vuelva a enviar directamente. 
 
 2.  Conectar la cuenta de Microsoft Partner University. En el centro de partners, selecciona **actualizar tu perfil** > **acceso Get Partner University**.  Una vez conectado a esta cuenta, podrás volver a acceder a Partner University.
 

@@ -1,15 +1,18 @@
 ---
 title: Agregar software de terceros a tu cartera  | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Comprar software de terceros que funcione con los productos de Microsoft
 author: labrenne
+ms.author: labrenne
 keywords: ofertas de terceros, software a comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489851"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795768"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Agregar software de terceros a la cartera
 

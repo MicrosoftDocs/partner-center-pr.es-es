@@ -1,15 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + suscripciones de servidor para Azure | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Al llevar a Azure RI y las suscripciones de servidor a su programa CSP, estamos habilitando mejor a nuestros partners para que aborden la creciente demanda de clientes de rápido crecimiento para soluciones más rentables a fin de admitir cargas de trabajo de nube altamente predecibles y persistentes. El programa CSP permite a los partners adquirir, aprovisionar y administrar Azure RI y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, suscripciones, VM, reserva, reservado instancia
 ms.localizationpriority: medium
-ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
-ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
+ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2018
-ms.locfileid: "5591921"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797038"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 

@@ -1,15 +1,18 @@
 ---
 title: Aumentar la adopción y la satisfacción | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489601"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795258"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -29,7 +32,7 @@ Puedes ver los datos de todos los clientes a través del programa Proveedor de s
 
 **Para un único cliente**
 
--   Selecciona **clientes** en el **Centro de partners**, elige a un cliente y luego selecciona **la perspectiva del cliente**.
+-   Selecciona **los clientes** desde el **Centro de partners**, elige a un cliente y luego selecciona **la perspectiva del cliente**.
 
 **En la cartera**
 
@@ -80,11 +83,11 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

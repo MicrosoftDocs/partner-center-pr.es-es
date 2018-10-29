@@ -1,16 +1,19 @@
 ---
 title: Obtener competencias de Microsoft | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Obtén competencias Silver y Gold de Microsoft para demostrar tu experiencia probada en ofrecer soluciones de calidad en un área especializada de negocios.
 author: KPacquer
+ms.author: kenpacq
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, ventajas, objetivos de rendimiento, objetivos de habilidades
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490161"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796898"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

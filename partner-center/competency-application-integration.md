@@ -1,19 +1,22 @@
 ---
 title: Competencia de integración de aplicaciones
+ms.topic: article
+ms.date: 10/29/2018
 description: La competencia de integración de aplicaciones reconoce a partners y desarrolladores que integran soluciones y aplicaciones únicas en los distintos productos de todo el ecosistema de Microsoft.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competencia,competencias, integración de aplicaciones
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876695"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797318"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -1,19 +1,22 @@
 ---
 title: Competencia de administración de movilidad empresarial
+ms.topic: article
+ms.date: 10/29/2018
 description: La competencia de administración de movilidad empresarial está destinada a partners que destaquen por ser expertos en soluciones de administración de movilidad seguras y con más capacidad para grandes empresas.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competencia,competencias,administración de movilidad empresarial
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e6c5fd30a82992d41a22b4892d27ec4709b4b931
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876075"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796248"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

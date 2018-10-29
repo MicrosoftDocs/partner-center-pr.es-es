@@ -1,14 +1,17 @@
 ---
 title: Trabajar con otros partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Trabaja con otros partners de CSP para satisfacer las necesidades de los clientes que compartes.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377697"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794888"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 

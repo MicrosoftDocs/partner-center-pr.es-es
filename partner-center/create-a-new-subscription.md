@@ -1,16 +1,19 @@
 ---
 title: Crear, suspender o cancelar suscripciones de clientes | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489111"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796408"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -64,7 +67,7 @@ Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Su
 
 
 
- 
+ 
 
 
 

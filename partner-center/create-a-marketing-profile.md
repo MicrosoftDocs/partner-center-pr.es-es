@@ -1,16 +1,19 @@
 ---
 title: Crear un perfil de negocio | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Crea un perfil de negocio en el Centro de partners para obtener oportunidades de ventas de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
+ms.author: kenpacq
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489771"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797258"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -99,7 +102,7 @@ Otras etiquetas que se usan en la búsqueda:
 
 Se recomienda que dejes marcado este ajuste. 
 
-Al demostrar éxito con los clientes a través del centro de partners o participar en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos específicos, servicios y sectores que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
+Como demostrar éxito con los clientes a través del centro de partners, o participar en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos específicos, servicios y sectores que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
 
 Sin embargo, si hay productos para los que proporcionas servicios y que prefieres que no aparezcan en tu perfil, puedes desactivar esta casilla y administrar manualmente tu perfil. Estas recomendaciones no serán visibles para los clientes, pero puedes agregarlos a tu perfil en cualquier momento.
 

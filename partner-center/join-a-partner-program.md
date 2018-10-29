@@ -1,14 +1,17 @@
 ---
 title: Unirse a Microsoft Partner Network| Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Adquirir Microsoft Action Pack y obtener competencias en el Centro de partners
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489721"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796998"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Unirse a Microsoft Partner Network (MPN)
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489721"
 
  Asociarse con Microsoft te proporciona acceso a nuevas oportunidades para transformar tu negocio. En el centro de partners adquirir y renovar Microsoft Action Pack y tienes fácil acceso a información sobre competencias y cómo lograrlas.
 
- Estamos gradualmente invitando a los partners a administrar su suscripción en el centro de partners en su MAPS o Competency fecha de aniversario, y cuando las capacidades clave de centro de partners estén disponibles y probada para satisfacer las necesidades de sus negocios.  Por ahora, planifica la renovación y la administración de tu suscripción del Partner Membership Center (PMC) hasta que recibas una invitación para trasladarte.
+ Estamos gradualmente invitando a los partners a administrar su suscripción en el centro de partners en su MAPS o Competency fecha de aniversario, así como cuando las capacidades clave de centro de partners estén disponibles y se demuestre para satisfacer las necesidades de sus negocios.  Por ahora, planifica la renovación y la administración de tu suscripción del Partner Membership Center (PMC) hasta que recibas una invitación para trasladarte.
 
 ## <a name="get-your-mpn-id"></a>Obtener el id. de MPN
 

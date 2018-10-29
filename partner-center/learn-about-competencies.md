@@ -1,15 +1,18 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Obtén más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
-author: Maggiepuccievans
+author: MaggiePucciEvans
+ms.author: evansma
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red
 ms.localizationpriority: medium
-ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875735"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796828"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competencias de Microsoft para suscripciones Silver y Gold
 

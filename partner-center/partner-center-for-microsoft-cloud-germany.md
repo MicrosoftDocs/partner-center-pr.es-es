@@ -1,14 +1,17 @@
 ---
 title: Centro de partners para Microsoft Cloud Alemania | Centro de partners para Microsoft Cloud Alemania
+ms.topic: article
+ms.date: 10/29/2018
 description: El Centro de partners para Microsoft Cloud Alemania es el portal de empresa para los partners de Microsoft que deseen ofrecer soluciones en la nube de Microsoft a los clientes de países de la UE y la EFTA. Microsoft Cloud Alemania garantiza que los datos de clientes residen en Alemania y un administrador de datos de confianza alemán designado controla el acceso a estos. Los clientes comerciales en la Unión Europea (UE) y la Asociación de Libre Comercio Europea (EFTA) pueden almacenar y administrar los datos de los clientes en cumplimiento de las leyes y normas alemanas vigentes, así como de los estándares internacionales más importantes. Microsoft no puede acceder a los datos de los clientes sin la aprobación y la supervisión del administrador de datos de confianza alemán o el cliente.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377587"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797268"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 

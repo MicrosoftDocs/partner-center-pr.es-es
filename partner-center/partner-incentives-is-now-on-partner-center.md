@@ -1,14 +1,17 @@
 ---
 title: Los incentivos de partners ya están disponibles en el Centro de partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Los programas de incentivos animan a los partners a desarrollar nuevas técnicas de marketing, ofrecen formación y mucho más
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488741"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797308"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Los incentivos de partners ya están disponibles en el Centro de partners 
 
@@ -33,9 +36,9 @@ Cuando te unes al programa, podrás optar por las ganancias de reembolso y coope
 ## <a name="one-site-one-log-on"></a>Un sitio, un inicio de sesión
 
 Ahora que el programa de incentivos de partners de Microsoft se ha trasladado al Centro de partners, podrás llevar a cabo todo tu trabajo administrativo, como por ejemplo, administrar usuarios, trabajar en nombre de los clientes, registrarse para certificaciones e incentivos, informar de ganancias de incentivos y obtener pagos. Todos los datos de incentivos está disponible en los incentivos del **Centro de partners**. Los datos de incentivos se actualizan a diario.
- 
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>Establecer los usuarios en el Centro de partners
- 
+ 
 El primer paso es completar tu cuenta de incentivos del Centro de partners mediante la configuración de los usuarios de incentivos en dicho centro. Has recibido un correo electrónico con una lista de usuarios de incentivos de la organización. Cuando el Administrador de incentivos de la organización ha completado la configuración de usuario, todos los datos de incentivos aparecerán en el **Centro de partners**de incentivos.
 
 **Consulta también**

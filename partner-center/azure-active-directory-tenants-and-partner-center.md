@@ -1,18 +1,21 @@
 ---
 title: Cuentas profesionales y Centro de partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional.
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489751"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796398"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>Tu cuenta de trabajo de la empresa y el centro de partners  
+# <a name="your-company-work-account-and-the-partner-center"></a>Tu cuenta de trabajo de empresa y el centro de partners  
 
 **Se aplica a**
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489751"
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
-Necesitamos vincular tu cuenta profesional de empresa a tu nueva cuenta del centro de partners, para que los usuarios de la cuenta pueden iniciar sesión en el centro de partners con sus nombres de usuario y contraseñas.
+Necesitamos vincular tu cuenta profesional de empresa a tu nueva cuenta del centro de partners, para que los usuarios de cuentas puedan iniciar sesión en el centro de partners con sus nombres de usuario y contraseñas.
 
 Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Centro de partners. 
 

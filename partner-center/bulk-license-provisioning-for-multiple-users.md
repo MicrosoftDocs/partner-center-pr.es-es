@@ -1,16 +1,19 @@
 ---
 title: Asignar o revocar licencias a varios usuarios | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490011"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795358"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -57,11 +60,11 @@ el centro de partners realiza un seguimiento y muestra todos los derechos de lic
 7.  Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8.  Selecciona **Guardar**. El centro de partners abre una página de confirmación **actualizan de licencias** a los usuarios y sus nuevas licencias.
+8.  Selecciona **Guardar**. El centro de partners abre una página de confirmación de **licencias actualizan** a los usuarios y sus nuevas licencias.
 
-**Nota**: Es posible que algunos productos de Microsoft no estén disponibles en ciertas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
+**Nota**algunos productos de Microsoft pueden no estar disponibles en ciertas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **Revocación de las asignaciones de licencia de los usuarios**
@@ -82,9 +85,9 @@ el centro de partners realiza un seguimiento y muestra todos los derechos de lic
 
 [Asignar licencias a un usuario](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

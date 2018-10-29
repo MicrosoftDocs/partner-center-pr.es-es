@@ -1,14 +1,17 @@
 ---
 title: Asociación con los revendedores indirectos en CSP | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490141"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795198"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -37,17 +40,17 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
 2.  Conectar con indirectos revendedores
 
-    - Antes de poder interactuar y realizar transacciones con revendedores, debes establecer asociaciones con ellos en el centro de partners. <br>
+    - Antes de poder interactuar y realizar transacciones con los revendedores, debes establecer asociaciones con ellos en el centro de partners. <br>
 
 3.  Conectar con los clientes
 
     - Asociar los nuevos clientes y suscripciones con revendedores
     - Establecer relaciones de revendedor con clientes ya existentes <br>
 
-Después de completar estos pasos, puedes administrar tus asociaciones con los revendedores de soluciones en la página de **revendedores indirectos** desde el menú del **Centro de partners** .
+Después de completar estos pasos, puedes administrar tus asociaciones con los revendedores de soluciones en la página de **revendedores indirectos** en el menú del **Centro de partners** .
 
 > [!IMPORTANT]   
-> Antes de empezar a trabajar con los revendedores, que deben estar inscritos como distribuidores indirectos en el programa CSP y tengan cuentas del centro de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
+> Antes de empezar a trabajar con los distribuidores, que deben estar inscritos como distribuidores indirectos en el programa CSP y tengan cuentas del centro de partners. Indica a tus revendedores que consulten [Asociación con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP. 
 
 ## <a name="connect-with-indirect-resellers"></a>Conectar con indirectos revendedores
 
@@ -55,7 +58,7 @@ Para interactuar y realizar transacciones con revendedores indirectos en el cent
 
 Para establecer una asociación, envía un correo electrónico al revendedor con una solicitud de asociación. Asegúrate de tener a mano la dirección de correo electrónico del revendedor antes de comenzar. 
 
-1. Selecciona **los revendedores indirectos** desde el menú del **Centro de partners** . 
+1. Selecciona **los revendedores indirectos** en el menú del **Centro de partners** . 
 
 2. En la página **Revendedores indirectos**, selecciona **Solicitar una asociación**. Aparecerá un borrador de mensaje de correo electrónico.
 
@@ -88,7 +91,7 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Agregar a nuevos clientes y asociarlas con revendedores indirectos
 
-1.  Selecciona **los revendedores indirectos** desde el menú del **Centro de partners** . 
+1.  Selecciona **los revendedores indirectos** en el menú del **Centro de partners** . 
 
 2.  Busca el revendedor indirecto que quieras asignar a los clientes nuevos para y, a continuación, selecciona **Agregar nuevo cliente**. Ten en cuenta que ya has seleccionado el revendedor indirecto en el formulario de los datos del cliente. Proporciona los datos del cliente y, a continuación, selecciona **Siguiente: suscripciones**. 
 3.  En la página **Nueva suscripción**, selecciona las suscripciones que el cliente quiera comprar y, a continuación, escribe el número de licencias que el cliente necesite. 
@@ -99,7 +102,7 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 
 6.  Tras enviar el pedido, aparecerá la página **Confirmación**. En **Información de configuración**, se muestran el nombre de usuario y la contraseña temporal del administrador de la cuenta. Copia la información de nombre de usuario de la cuenta y la contraseña para enviarla al nuevo cliente. 
     > [!IMPORTANT]  
-    > Asegúrate de anote el nombre de la cuenta de usuario y la contraseña ya no podrás acceder a esta información de nuevo después de cerrar esta página.
+    > Asegúrate de toma nota del nombre de la cuenta de usuario y contraseña ya no podrás acceder a esta información de nuevo después de cerrar esta página.
 
 7.  Selecciona **Listo**. El cliente nuevo aparece en la lista de clientes, asociado con el revendedor indirecto. Ahora el revendedor tiene acceso de administrador a la información de la cuenta del cliente y a las suscripciones y puede administrar las suscripciones en su nombre.
 

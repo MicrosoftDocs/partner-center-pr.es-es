@@ -1,14 +1,17 @@
 ---
 title: Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania | Centro de partners para Microsoft Cloud Alemania
+ms.topic: article
+ms.date: 10/29/2018
 description: Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud Alemania no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud Alemania.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ae81568aeeb703470549d08b0e39b6ec07e0ba6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377417"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797028"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 

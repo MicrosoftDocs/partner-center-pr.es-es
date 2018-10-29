@@ -1,15 +1,18 @@
 ---
 title: Administrar la lista de clientes | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Los registros de cliente son unos de los recursos de información más importantes del Centro de partners.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490171"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796118"
 ---
 # <a name="manage-your-customer-list"></a>Administrar la lista de clientes
 
@@ -30,7 +33,7 @@ Los registros de actividad también proporcionan datos exportables sobre transac
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
 3.  Selecciona la **flecha abajo** al final de una fila de cliente para ver el id. de Microsoft del cliente y los vínculos rápidos de suscripciones y servicios asociados.
 
-## <a name="update-a-customers-company-name"></a>Actualizar el nombre de la compañía del cliente
+## <a name="update-a-customers-company-name"></a>Actualizar el nombre de la empresa de un cliente
 
 En el menú del **Centro de partners** , selecciona **los clientes**.
 2.  Para buscar un cliente, escribe el nombre de cliente o el nombre de dominio en el cuadro de búsqueda.
@@ -68,11 +71,11 @@ En el menú del **Centro de partners** , selecciona **los clientes**.
 > [!NOTE]  
 > Para obtener más información sobre la administración de suscripciones, consulta [Suscripciones de cliente](customer-subscriptions.md).
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

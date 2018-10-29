@@ -1,15 +1,18 @@
 ---
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Se explica cómo activar y administrar los beneficios de suscripción del centro de partners.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489801"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796388"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
@@ -18,7 +21,7 @@ ms.locfileid: "4489801"
 -  Centro de partners
 
 >[!IMPORTANT]
->En este artículo se explica cómo empezar a usar Microsoft Partner Network (MPN) ventajas en el centro de partners (anteriormente conocido como centro de partners) - este sitio. Si no has recibido una invitación para mover tu información de empresa de Partner Membership Center (PMC) al centro de partners, deben seguir administrar los beneficios de suscripción a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
+>En este artículo se explica cómo empezar a usar Microsoft Partner Network (MPN) ventajas en el centro de partners (anteriormente conocido como centro de partners) - este sitio. Si no has recibido una invitación para mover la información de empresa de Partner Membership Center (PMC) al centro de partners, deben seguir administrar los beneficios de suscripción a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
 
 Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas de suscripción que te ayudarán a construir y hacer crecer tu negocio. Si aún no eres miembro de MPN, puedes unirte en el [sitio MPN](https://partner.microsoft.com/membership).
 
@@ -28,7 +31,7 @@ Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas
 Tras comprar un paquete de ventajas de suscripción, deberás obtener claves de software y asignar licencias, suscripciones y otras ventajas a los empleados, para que empiecen a usarlas. 
 
 >[!IMPORTANT]
->Mientras que no tienes que ser un administrador global de la organización para comprar de beneficios, es necesario ser el administrador global para asignar beneficios a los empleados.  Si quieres, puede convertirse en un administrador global siguiendo las instrucciones en la [página de **ventajas** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inicio de sesión necesario). Además, la organización puede haber un administrador global así que asegúrate de comprobar con tu equipo.
+>Mientras que no tienes que ser un administrador global de la organización a comprar de beneficios, es necesario ser el administrador global para asignar beneficios a los empleados.  Si quieres, puede convertirse en un administrador global siguiendo las instrucciones en la [página **prestaciones** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inicio de sesión necesario). Además, la organización puede que haya un administrador global así que asegúrate de comprobar con tu equipo.
 
 Los paquetes de ventajas incluyen asignaciones de software de derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 

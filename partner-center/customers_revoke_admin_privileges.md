@@ -1,15 +1,18 @@
 ---
 title: Los clientes delegan privilegios administrativos en los partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Como partner revendedor, los clientes pueden delegar en TI para que su administrador. También pueden quitar privilegios.
 author: labrenne
+ms.author: labrenne
 keywords: privilegios de administrador, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489881"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795738"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Los clientes delegan privilegios administrativos en los partners
 
@@ -46,7 +49,7 @@ Los clientes pueden averiguar cuáles de sus partners tienen privilegios de admi
 
 2. Selecciona **Configuración** → **Relaciones con partners**.
 
-3. En la página de **relaciones de partners** , el cliente verá una lista de los asociados con el que trabajan y aquellos que se han concedido privilegios de administración para sus inquilinos.
+3. En la página de **relaciones de partners** , el cliente verá una lista de los partners con los que trabajan y aquellos que se han concedido privilegios de administración para sus inquilinos.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Los clientes pueden administrar los privilegios de administrador delegados en un partner 
 
@@ -105,7 +108,7 @@ Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 
 - Si un cliente quita privilegios de administración delegada, pero conserva la relación de revendedor contigo, puedes seguir administrar los perfiles de Autopilot para ellos.
 
-- Puedes administrar dispositivos de los clientes que puedes u otro partner agregado. 
+- Puedes administrar dispositivos de los clientes que puedes o a otro partner han agregado. 
 
 - No puedes administrar dispositivos que el cliente ha agregado a través de la Microsoft Store para empresas, Microsoft Store para educación o Portal de Microsoft Intune.
 
@@ -114,4 +117,4 @@ Lo que puedes hacer depende de en qué modelo CSP que estás inscrito.
 
   - Los partners deben tener privilegios de administración delegada del cliente para poder agregar, actualizar o eliminar perfiles y aplicar o quitar perfiles de todos los dispositivos del inquilino del cliente.
 
-- Partners se deben conceder privilegios de administración delegada del cliente antes de que los partners pueden quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner quitar solo los dispositivos agregados anteriormente por el mismo partner.
+- Partners se deben conceder privilegios de administración delegada del cliente antes de que el partner puede quitar los dispositivos agregados por otros partners o por el cliente en el inquilino del cliente. De lo contrario, el partner puede quitar solo los dispositivos agregados anteriormente por el mismo partner.

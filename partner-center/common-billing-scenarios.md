@@ -1,16 +1,19 @@
 ---
 title: Escenarios comunes de facturación | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de licencias de una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se verán afectadas de forma diferente.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
-ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
+ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "4121120"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795638"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
@@ -96,7 +99,7 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
-El 1 de febrero suspendes una suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00

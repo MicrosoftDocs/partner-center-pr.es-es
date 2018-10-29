@@ -1,15 +1,18 @@
 ---
 title: Notificar los problemas que tengas con el Centro de partners | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489281"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795328"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
@@ -31,7 +34,7 @@ Soporte técnico del centro de partners de contacto Si detectas problemas con el
 
 **Enviar diagnósticos**
 
-Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Desde el vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico de cliente, selecciona **recopilar más información** . Esta herramienta recopila información que necesita el equipo de soporte técnico de partners para determinar la causa del error. 
+Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Selecciona **recopilar más información** en el vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes. Esta herramienta recopila información que necesita el equipo de soporte técnico de partners para determinar la causa del error. 
 
 >[!NOTE]
 >En las páginas del Centro de partners que incluyan **/pcv/** en la dirección URL, puedes abrir la herramienta manualmente para recopilar esta información.

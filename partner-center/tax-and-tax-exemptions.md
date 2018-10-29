@@ -1,15 +1,18 @@
 ---
 title: Impuestos y exenciones fiscales | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489611"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796014"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -23,7 +26,7 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 
 **Archivar una exención fiscal**
 
-1.  Buscar el **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
+1.  Busca tu **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
 2.  Busca tu **Id. de MPN** del centro de partners &gt; **configuración de la cuenta** &gt; **perfil de Partner**.
 3.  Crea un vale de soporte nuevo. En el menú del centro de partners, selecciona **las solicitudes de servicio** &gt; **solicitudes del centro de partners** &gt; **nueva solicitud**.
 4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.
@@ -71,11 +74,11 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,22 @@
 ---
 title: Competencia de análisis de datos
+ms.topic: article
+ms.date: 10/29/2018
 description: Si tu organización está en el negocio de examinar datos que ayudan a los clientes a tener información más detallada, realizar predicciones o generar recomendaciones, la competencia de análisis de datos te ofrece una plataforma para crear y demostrar tus capacidades.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competencia,competencias,análisis de datos
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875305"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796228"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Data Analytics

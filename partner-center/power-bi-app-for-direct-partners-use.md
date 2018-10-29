@@ -1,15 +1,18 @@
 ---
 title: Aplicación de análisis del Centro de partners para Power BI | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Usa la Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e356b860b0975960939838203981c054a89289e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ebb25e28781780843fe6019fe0e29582fa020797
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876172"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796928"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Ver los datos de tu empresa con la Aplicación de análisis del Centro de partners para Microsoft Power BI
 

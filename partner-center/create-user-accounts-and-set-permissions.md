@@ -1,16 +1,19 @@
 ---
 title: Crear cuentas de usuario y establecer permisos | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: El administrador crea una cuenta de usuario para cada empleado del partner que necesite acceder al Centro de partners.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541481"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796608"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 

@@ -1,14 +1,17 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489931"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796598"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -50,18 +53,18 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 - Si has estado trabajando con clientes que quieres seguir trabajando con a través del centro de partners, tendrás que [asociarlos](request-a-relationship-with-a-customer.md) a tu cuenta en el centro de partners.  Microsoft puede conectarles a tu facturación. 
 
 > [!NOTE]  
->  Los requisitos para convertirse en partner directo recientemente han cambiado y surtirán efecto a partir del 31 de agosto de 2018. Los partners directos deberá cumplir los requisitos de nuevo a partir de su siguiente período de inscripción del 31 de agosto de 2018.
+>  Los requisitos para convertirse en partner directo recientemente han cambiado y surtirán efecto a partir del 31 de agosto de 2018. Los partners directos deberá cumplir los requisitos de nuevos a partir de su siguiente período de inscripción del 31 de agosto de 2018.
 
 #### <a name="new-expanded-requirements"></a>Nuevos requisitos expandidos:
 
-Compatibilidad
-- Expande tus capacidades de soporte técnico, adquisición de asistencia de nube personales y prioridades con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
+Soporte
+- Expande tus capacidades de soporte técnico adquiriendo soporte de nube personales y priorizada con una avanzada de soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
 
 Servicios
 
-- Demostrar que proporcionar al menos un servicio administrada, servicio IP o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
+- Demostrar que proporcionar al menos un servicio administrado, IP servicio o aplicación de la solución de cliente. Más información sobre cómo agregar los servicios administrados
 
-- Cumplir con las capacidades de infraestructura mínima, como de facturación y aprovisionamiento.
+- Cumplir con las capacidades de infraestructura mínima, por ejemplo, facturación y aprovisionamiento.
 Nos estamos supervisión del rendimiento anual para confirmar que los partners de facturación directa que cumplan con estos requisitos demostración crecimiento de empresa en constante. No hay ningún objetivos de rendimiento específicos en su lugar en este momento, pero Microsoft puede implementar un rendimiento en el futuro de la barra. 
 
 - Un identificador de Microsoft Partner Network (MPN) activo para la ubicación en la que quieras realizar las ventas

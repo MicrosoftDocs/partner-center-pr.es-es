@@ -1,15 +1,17 @@
 ---
 title: Contratos de clientes y mercados disponibles de Proveedor de soluciones en la nube de Microsoft | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Descargar plantillas de acuerdos de cliente de un mercado e idioma específicos del Centro de partners
 author: Maggie Evans
 keywords: Contratos de Microsoft Cloud, plantillas de acuerdos de clientes, acuerdos de cliente CSP, MCA, MCA, CSP, ¿dónde puedo vender a través de CSP?, países y regiones CSP, MCA de CSP en varios idiomas, CSP Norteamérica, CSP América Central, CSP Sudamérica, CSP Caribe, CSP de Microsoft Cloud for US Government, CSP de Microsoft Cloud Germany, CSP Oriente Medio, CSP África, CSP Europa, CSP Asia, CSP Pacífico, MCA de CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377817"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797328"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Contratos de clientes y mercados de Proveedor de soluciones en la nube de Microsoft
 

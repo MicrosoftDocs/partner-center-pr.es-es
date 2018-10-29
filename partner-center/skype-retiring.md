@@ -1,15 +1,18 @@
 ---
 title: Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365 | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Planes de Skype Empresarial que retiran Skype y Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489811"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797168"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
 
@@ -57,7 +60,7 @@ Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partn
 
 El cliente ahora debería tener las suscripciones antiguas y las nuevas, la suscripción del antiguo plan 1 de Skype Empresarial Online y la nueva suscripción de ‘destino’, por ejemplo, Opción 1: Office 365 Enterprise F1.
 
-3. Para reasignar licencias de los usuarios del cliente, desde el menú del **Centro de partners** , selecciona **los clientes**, selecciona el cliente se mueven y, a continuación, selecciona **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+3. Para reasignar licencias de usuarios del cliente, en el menú del **Centro de partners** , selecciona **los clientes**, selecciona el cliente se mueven y, a continuación, selecciona **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
 
 4. Para reasignar una licencia de usuario, selecciona el usuario a reasignar y, a continuación, selecciona **Administrar licencias**.
 

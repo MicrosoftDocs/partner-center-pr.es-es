@@ -1,14 +1,17 @@
 ---
 title: Usar promociones para atraer a nuevos clientes | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Como partner de Microsoft en el programa de Proveedor de soluciones en la nube, puedes comprar suscripciones al precio de promoción y pasar el ahorro a tus clientes.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488991"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795058"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 
@@ -32,7 +35,7 @@ Dedica un momento a revisar estos datos importantes sobre promociones:
 
 ## <a name="see-available-promotions"></a>Ver las promociones disponibles
 
-Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Selecciona **promociones** desde el menú del **Centro de partners** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
+Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Seleccionar **promociones** desde el menú del **Centro de partners** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
 
 > [!NOTE]  
 > También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
