@@ -1,16 +1,19 @@
 ---
 title: Transferir suscripciones de Azure | Centro de partners
+ms.topic: article
+ms.date: 10/29/2018
 description: Un cliente puede cambiar el partner del programa Proveedor de soluciones en la nube que se usará para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones de partners y clientes.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
-ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
+ms.openlocfilehash: f91716aa6ebf2c2b8f2867f1bad61947ad3776e0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5511396"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796699"
 ---
 # <a name="transfer-azure-subscriptions"></a><span data-ttu-id="7b31d-105">Transferir suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="7b31d-105">Transfer Azure subscriptions</span></span> 
 

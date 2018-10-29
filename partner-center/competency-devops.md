@@ -1,19 +1,22 @@
 ---
 title: Competencia de DevOps
+ms.topic: article
+ms.date: 10/29/2018
 description: Si tienes gran experiencia trabajando con empresas ayudándoles a administrar los ciclos de vida de su software y sacando partido de las funciones DevOps de la plataforma de desarrollo de Microsoft, la competencia de DevOps es la opción ideal para establecer tu organización como partner de Microsoft.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: competencia, competencias, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875725"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794808"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="d9ca6-104">Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="d9ca6-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="fa7ae-104">Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="fa7ae-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
