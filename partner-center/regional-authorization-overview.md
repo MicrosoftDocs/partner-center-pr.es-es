@@ -336,7 +336,7 @@ Si la ubicación de tu compañía está en la lista siguiente, puedes vender ofe
 |  Mozambique     |          |
 |  Omán           |   USD    |
 |  Pakistán       |   USD    |
-|  Palestina, territorio ocupado |        |
+|  Palestinian Territory, Occupied |        |
 |  Catar          |   USD    |
 |  Arabia Saudí   |   USD    |
 |  Serbia         |   USD    |
@@ -374,13 +374,13 @@ Si la ubicación de tu empresa es Rusia, puedes vender ofertas CSP a los cliente
 |  Rusia         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Mercado y la región de Taiwán
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-Si la ubicación de tu empresa es Taiwán, puedes vender ofertas CSP a los clientes en Taiwán.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  País/región | Moneda |
 |  -------------- |:--------:|
-|  Taiwán         |   TWD    |
+|  Taiwan         |   TWD    |
 |
 
 ## <a name="united-states-region-and-market"></a>Mercado y la región de Estados Unidos
