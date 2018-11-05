@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP indirecto, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795218"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066697"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición 
 
@@ -31,13 +31,13 @@ El programa Proveedor de soluciones en la nube (CSP) te ayuda a ir más allá de
 
 ### <a name="direct-bill-model"></a>Modelo de facturación directa
 
- En el modelo de facturación directa, los partners adquieren suscripciones y productos de Microsoft directamente de Microsoft y los venden directamente a sus clientes mediante sus vendedores propios. Los partners que ya operan con la infraestructura adecuada de ventas, facturación y soporte, o están deseando desarrollarla, pueden elegir el modelo directo de CSP. Los requisitos para convertirse en partner directo recientemente han cambiado y surtirán efecto a partir del 31 de agosto de 2018. Los partners directos deberá cumplir los requisitos de nuevos a partir de su siguiente período de inscripción del 31 de agosto de 2018.
+ En el modelo de facturación directa, los partners adquieren suscripciones y productos de Microsoft directamente de Microsoft y los venden directamente a sus clientes mediante sus vendedores propios. Los partners que ya operan con la infraestructura adecuada de ventas, facturación y soporte, o están deseando desarrollarla, pueden elegir el modelo directo de CSP. Los requisitos para convertirse en partner directo recientemente han cambiado y surtirán efecto a partir del 31 de agosto de 2018. Los partners directos deberá cumplir los requisitos de nuevos a partir del 31 de agosto de 2018 su siguiente período de inscripción.
 
 
 #### <a name="new-expanded-requirements"></a>Nuevos requisitos expandidos:
 
 Soporte
-- Expande tus capacidades de soporte técnico adquiriendo soporte de nube personales y priorizada con una avanzada de soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de los Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
+- Expande tus capacidades de soporte técnico, compras en la nube de soporte, con prioridad compatibilidad con una avanzada soporte técnico de Microsoft para el paquete de los Partners. O bien, elige un soporte técnico Premier de Microsoft para el paquete de Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
 
 Servicios
 
@@ -60,7 +60,9 @@ En el modelo indirecto, los proveedores (también conocidos como distribuidores)
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>¿Dónde puedo vender a través del programa CSP?
 
-El programa Proveedor de soluciones en la nube está disponible en las regiones y países que figuran en la [página de contratos de clientes y mercados de Proveedor de soluciones en la nube de Microsoft](agreements.md).  
+Ubicación de tu empresa determina el mercado. Tu mercado incluye las regiones o países donde puedes vender ofertas CSP. Ver [monedas y mercados regionales del programa de proveedor de soluciones en la nube](regional-authorization-overview.md) para obtener una lista completa de los mercados CSP y monedas.
+
+Antes de que se puede pedir que ofertas del CSP en nombre de un cliente, el cliente debe firmar el contrato de nube de Microsoft. Puedes encontrar el contrato de Microsoft Cloud aplicable para la ubicación de tu cliente [aquí](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>¿Qué puedo vender a través del programa CSP?
 
@@ -73,7 +75,6 @@ Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partne
 |:---------------------------|:--------------------|
 |Requisitos para cada modelo CSP   | [Programa Proveedor de soluciones en la nube](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Vender en las nubes nacionales de Microsoft   | [Se aplican para vender en las nubes nacionales de Microsoft](csp-national-clouds-overview.md)|
-|Dónde y qué puedes vender   |[Contratos de clientes y mercados de Proveedor de soluciones en la nube de Microsoft](agreements.md)|
-|  | [Estrategias de inquilinos de CSP](regional-authorization-overview.md)
+|Plantillas de cliente del contrato de Microsoft en la nube   |[Contratos de nube de Microsoft por región e idioma](agreements.md)|
 |Tareas de proveedor indirecto en el centro de partners  |[Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-provider-tasks-in-partner-center.md)|
 |Tareas de distribuidor indirecto en el centro de partners   |[Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)|
