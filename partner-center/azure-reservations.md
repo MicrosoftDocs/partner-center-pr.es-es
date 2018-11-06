@@ -1,84 +1,55 @@
 ---
 title: Introducción de reservas de Microsoft Azure | El centro de partners
 ms.topic: article
-ms.date: 10/29/2018
-Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
+ms.date: 11/05/2018
+Description: Overview of selling Microsoft Azure Reservations through CSP.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, reservas, administrar, facturación, comprar, Azure RI, instancias reservadas de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 34b5460ca97b03d05758202912882c313c042427
+ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797238"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "6075276"
 ---
-# <a name="sell-microsoft-azure-reserved-instances"></a><span data-ttu-id="4a1ec-103">Vender Microsoft Azure Reserved Instances</span><span class="sxs-lookup"><span data-stu-id="4a1ec-103">Sell Microsoft Azure Reserved Instances</span></span> 
+# <a name="sell-microsoft-azure-reservations"></a><span data-ttu-id="e176b-103">Vender reservas de Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e176b-103">Sell Microsoft Azure reservations</span></span>
 
-**<span data-ttu-id="4a1ec-104">Se aplica a</span><span class="sxs-lookup"><span data-stu-id="4a1ec-104">Applies to</span></span>**
+**<span data-ttu-id="e176b-104">Se aplica a</span><span class="sxs-lookup"><span data-stu-id="e176b-104">Applies to</span></span>**
 
--  <span data-ttu-id="4a1ec-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-105">Partner Center</span></span>
--  <span data-ttu-id="4a1ec-106">Portal de Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="4a1ec-106">Microsoft Azure portal</span></span>
--  <span data-ttu-id="4a1ec-107">Partners de CSP</span><span class="sxs-lookup"><span data-stu-id="4a1ec-107">Partners in CSP</span></span>
+-  <span data-ttu-id="e176b-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-105">Partner Center</span></span>
+-  <span data-ttu-id="e176b-106">Portal de Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e176b-106">Microsoft Azure portal</span></span>
+-  <span data-ttu-id="e176b-107">Partners de CSP</span><span class="sxs-lookup"><span data-stu-id="e176b-107">Partners in CSP</span></span>
 
-<span data-ttu-id="4a1ec-108">Los partners en el programa de proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes instancias de Microsoft Azure reservadas.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-108">Partners in the Cloud Solution Provider program (CSP) can offer their customers reserved instances of Microsoft Azure.</span></span> <span data-ttu-id="4a1ec-109">Los clientes pueden obtener ahorros importantes cuando reservan de antemano.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-109">Customers can gain significant savings when they reserve in advance.</span></span> <span data-ttu-id="4a1ec-110">Azure Reserved Instances ofrece a los clientes sencillez y flexibilidad de las siguientes maneras:</span><span class="sxs-lookup"><span data-stu-id="4a1ec-110">Azure Reserved Instances offer customers simplicity and flexibility in the following ways:</span></span>
+<span data-ttu-id="e176b-108">Los partners en el programa de proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes reservas de Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="e176b-108">Partners in the Cloud Solution Provider program (CSP) can offer their customers Microsoft Azure reservations.</span></span> <span data-ttu-id="e176b-109">Los clientes pueden obtener ahorros importantes cuando reservan de antemano.</span><span class="sxs-lookup"><span data-stu-id="e176b-109">Customers can gain significant savings when they reserve in advance.</span></span> <span data-ttu-id="e176b-110">Reservas de Azure ofrecen a los clientes sencillez y flexibilidad de las siguientes maneras:</span><span class="sxs-lookup"><span data-stu-id="e176b-110">Azure reservations offer customers simplicity and flexibility in the following ways:</span></span>
 
--   <span data-ttu-id="4a1ec-111">Períodos de reserva de uno o tres años</span><span class="sxs-lookup"><span data-stu-id="4a1ec-111">One or three-year reservation terms</span></span> 
--   <span data-ttu-id="4a1ec-112">Fácil de empezar a trabajar; instalación se completó en segundos</span><span class="sxs-lookup"><span data-stu-id="4a1ec-112">Easy to get started; setup completed in seconds</span></span> 
--   <span data-ttu-id="4a1ec-113">Cancelar o cambiar instancias reservadas en cualquier momento por reembolso ajustado</span><span class="sxs-lookup"><span data-stu-id="4a1ec-113">Cancel or exchange reserved instances at any time for adjusted refund</span></span> 
--   <span data-ttu-id="4a1ec-114">Administrar el uso de instancias reservadas en el nivel de departamento individual o de organización</span><span class="sxs-lookup"><span data-stu-id="4a1ec-114">Manage reserved instances usage at the organizational or individual department level</span></span> 
+-   <span data-ttu-id="e176b-111">Períodos de reserva de uno o tres años</span><span class="sxs-lookup"><span data-stu-id="e176b-111">One or three-year reservation terms</span></span>
+ 
+-   <span data-ttu-id="e176b-112">Introducción; sencilla instalación se completó en segundos</span><span class="sxs-lookup"><span data-stu-id="e176b-112">Easy to get started; setup completed in seconds</span></span> 
 
-> [!NOTE]  
-> <span data-ttu-id="4a1ec-115">Reservas de Azure no están disponibles actualmente en los mercados siguientes:</span><span class="sxs-lookup"><span data-stu-id="4a1ec-115">Azure reservations are not currently available in the following markets:</span></span>
-  
-> * <span data-ttu-id="4a1ec-116">Argentina</span><span class="sxs-lookup"><span data-stu-id="4a1ec-116">Argentina</span></span>
-> * <span data-ttu-id="4a1ec-117">Azerbaiyán</span><span class="sxs-lookup"><span data-stu-id="4a1ec-117">Azerbaijan</span></span>
-> * <span data-ttu-id="4a1ec-118">Belarús</span><span class="sxs-lookup"><span data-stu-id="4a1ec-118">Belarus</span></span>
-> * <span data-ttu-id="4a1ec-119">Brasil</span><span class="sxs-lookup"><span data-stu-id="4a1ec-119">Brazil</span></span>
-> * <span data-ttu-id="4a1ec-120">China</span><span class="sxs-lookup"><span data-stu-id="4a1ec-120">China</span></span>
-> * <span data-ttu-id="4a1ec-121">India</span><span class="sxs-lookup"><span data-stu-id="4a1ec-121">India</span></span>
-> * <span data-ttu-id="4a1ec-122">Indonesia</span><span class="sxs-lookup"><span data-stu-id="4a1ec-122">Indonesia</span></span>
-> * <span data-ttu-id="4a1ec-123">Kazajistán</span><span class="sxs-lookup"><span data-stu-id="4a1ec-123">Kazakhstan</span></span>
-> * <span data-ttu-id="4a1ec-124">Liechtenstein</span><span class="sxs-lookup"><span data-stu-id="4a1ec-124">Liechtenstein</span></span>
-> * <span data-ttu-id="4a1ec-125">Malasia</span><span class="sxs-lookup"><span data-stu-id="4a1ec-125">Malaysia</span></span>
-> * <span data-ttu-id="4a1ec-126">México</span><span class="sxs-lookup"><span data-stu-id="4a1ec-126">Mexico</span></span>
-> * <span data-ttu-id="4a1ec-127">Rusia</span><span class="sxs-lookup"><span data-stu-id="4a1ec-127">Russia</span></span>
-> * <span data-ttu-id="4a1ec-128">Arabia Saudí</span><span class="sxs-lookup"><span data-stu-id="4a1ec-128">Saudi Arabia</span></span>
-> * <span data-ttu-id="4a1ec-129">Sudáfrica</span><span class="sxs-lookup"><span data-stu-id="4a1ec-129">South Africa</span></span>
-> * <span data-ttu-id="4a1ec-130">Corea del Sur</span><span class="sxs-lookup"><span data-stu-id="4a1ec-130">South Korea</span></span>
-> * <span data-ttu-id="4a1ec-131">Taiwán</span><span class="sxs-lookup"><span data-stu-id="4a1ec-131">Taiwan</span></span>
-> * <span data-ttu-id="4a1ec-132">Turquía</span><span class="sxs-lookup"><span data-stu-id="4a1ec-132">Turkey</span></span>
-> * <span data-ttu-id="4a1ec-133">Ucrania</span><span class="sxs-lookup"><span data-stu-id="4a1ec-133">Ukraine</span></span>
+-   <span data-ttu-id="e176b-113">Cancelar o cambiar instancias reservadas en cualquier momento por reembolso ajustado</span><span class="sxs-lookup"><span data-stu-id="e176b-113">Cancel or exchange reserved instances at any time for adjusted refund</span></span> 
 
-<span data-ttu-id="4a1ec-134">La disponibilidad de Azure Reserved Instances atraerá a los clientes de las siguientes maneras:</span><span class="sxs-lookup"><span data-stu-id="4a1ec-134">The availability of Azure Reserved Instances will appeal to your customers in the following ways:</span></span>
+-   <span data-ttu-id="e176b-114">Administrar el uso de instancias reservadas en el nivel de departamento individual o de organización</span><span class="sxs-lookup"><span data-stu-id="e176b-114">Manage reserved instances usage at the organizational or individual department level</span></span> 
 
--   <span data-ttu-id="4a1ec-135">Las instancias reservadas pueden ofrecer importantes ahorros sobre precios de pago por uso (PAYG)</span><span class="sxs-lookup"><span data-stu-id="4a1ec-135">Reserved instances can offer significant savings over pay-as-you-go (PAYG) pricing</span></span>
--   <span data-ttu-id="4a1ec-136">Mejores presupuestos y previsiones con pagos por adelantado para períodos de uno o tres años</span><span class="sxs-lookup"><span data-stu-id="4a1ec-136">Better budgeting and forecasting with upfront payment for one-year or three-year terms</span></span> 
--   <span data-ttu-id="4a1ec-137">Capacidad informática priorizada en la región de Azure más cercana a sus oficinas</span><span class="sxs-lookup"><span data-stu-id="4a1ec-137">Prioritized computing capacity in the Azure region closest to their offices</span></span>  
--   <span data-ttu-id="4a1ec-138">Azure reservations proporcionan la base para soluciones de infraestructura de extremo a extremo cuando se combina con software, como Microsoft Windows Server y Azure SQL Database.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-138">Azure reservations provide the foundation for end to end infrastructure solutions when combined with software like Microsoft Windows Server and Azure SQL Database.</span></span>   
+<span data-ttu-id="e176b-115">Reservas de Azure pueden recurrir a los clientes de las siguientes maneras:</span><span class="sxs-lookup"><span data-stu-id="e176b-115">Azure reservations can appeal to customers in the following ways:</span></span>
 
-## <a name="before-you-begin"></a><span data-ttu-id="4a1ec-139">Antes de comenzar</span><span class="sxs-lookup"><span data-stu-id="4a1ec-139">Before you begin</span></span>
+-   <span data-ttu-id="e176b-116">Las reservas pueden ofrecer importantes ahorros sobre precios de pago por uso (PAYG)</span><span class="sxs-lookup"><span data-stu-id="e176b-116">Reservations can offer significant savings over pay-as-you-go (PAYG) pricing</span></span>
 
-<span data-ttu-id="4a1ec-140">Antes de adquirir Azure Reservations en nombre de los clientes, asegúrate de revisar la siguiente información.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-140">Before you buy Azure reservations on behalf of your customers, be sure to review the information below.</span></span> <span data-ttu-id="4a1ec-141">Algunas cosas que debes saber en este momento...</span><span class="sxs-lookup"><span data-stu-id="4a1ec-141">A few things to know at this time…</span></span>
+-   <span data-ttu-id="e176b-117">Mejores presupuestos y previsiones con pagos por adelantado para períodos de uno o tres años</span><span class="sxs-lookup"><span data-stu-id="e176b-117">Better budgeting and forecasting with upfront payment for one-year or three-year terms</span></span> 
 
--   <span data-ttu-id="4a1ec-142">Los clientes ya deben tener una suscripción de Azure activa para poder comprar reservas en su nombre.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-142">Customers must already have an active Azure subscription before you can purchase reservations on their behalf</span></span>  
--   <span data-ttu-id="4a1ec-143">Los costes de software no se incluyen en los precios de reserva de Azure.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-143">Software costs are not included in Azure reservation prices</span></span> 
--   <span data-ttu-id="4a1ec-144">Los agentes del departamento de soporte técnico y ventas necesitan acceso explícito a la suscripción de Azure para poder comprarla o administrarla en el Azure Portal y archivar solicitudes de soporte, incluidos los cambios y los reembolsos, en nombre del cliente.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-144">Sales and help desk agents need explicit access to the Azure subscription so they can buy or manage it in the Azure portal and file support requests, including for exchanges and refunds, on behalf of the customer</span></span>  
--   <span data-ttu-id="4a1ec-145">Si eres un proveedor indirecto y compras Azure Reservations a través del Azure Portal, el Partner en registro (revendedor indirecto) se hereda de la suscripción CSP de Azure que selecciones.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-145">If you’re an indirect provider and you buy Azure reservations through the Azure portal, the Partner on Record (indirect reseller) is inherited from the Azure CSP subscription you select.</span></span> 
--   <span data-ttu-id="4a1ec-146">El Partner en registro para Azure Reservations no se puede cambiar después de su adquisición.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-146">The Partner on Record for Azure reservations cannot be changed post-purchase.</span></span> <span data-ttu-id="4a1ec-147">Puedes cancelar la reserva existente y comprar una nueva con el nuevo Partner en registro.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-147">You can cancel the existing reservation and purchase a new one with the new Partner on Record.</span></span> 
--   <span data-ttu-id="4a1ec-148">Si un cliente quiere transferir una suscripción de Azure desde Direct o EA a CSP, no se transfieren las reservas.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-148">If a customer wants to transfer an Azure subscription from Direct or EA to CSP, reservations do not get transferred.</span></span> 
+-   <span data-ttu-id="e176b-118">Capacidad informática priorizada en la región de Azure más cercana a sus oficinas</span><span class="sxs-lookup"><span data-stu-id="e176b-118">Prioritized computing capacity in the Azure region closest to their offices</span></span>  
+
+-   <span data-ttu-id="e176b-119">Azure reservations proporcionan la base para soluciones de infraestructura de extremo a extremo cuando se combina con el software, como Microsoft Windows Server y Azure SQL Database</span><span class="sxs-lookup"><span data-stu-id="e176b-119">Azure reservations provide the foundation for end to end infrastructure solutions when combined with software like Microsoft Windows Server and Azure SQL Database</span></span>   
 
 >[!NOTE]
-> <span data-ttu-id="4a1ec-149">Puedes comprar, vender y administrar Azure reservations en el centro de partners y el portal de Azure tanto con la API del centro de partners.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-149">You can buy, sell, and manage Azure reservations in both the Partner Center and the Azure portal, and using the Partner Center API.</span></span> <span data-ttu-id="4a1ec-150">Sigue los vínculos siguientes para obtener información.</span><span class="sxs-lookup"><span data-stu-id="4a1ec-150">Follow the links below to learn how.</span></span> 
+> <span data-ttu-id="e176b-120">Puedes comprar, vender y administrar Azure reservations en el centro de partners y el portal de Azure tanto con la API del centro de partners.</span><span class="sxs-lookup"><span data-stu-id="e176b-120">You can buy, sell, and manage Azure reservations in both the Partner Center and the Azure portal, and using the Partner Center API.</span></span> <span data-ttu-id="e176b-121">Sigue los vínculos siguientes para obtener información.</span><span class="sxs-lookup"><span data-stu-id="e176b-121">Follow the links below to learn how.</span></span>
 
-## <a name="azure-reservations-resources"></a><span data-ttu-id="4a1ec-151">Recursos de Azure Reservations</span><span class="sxs-lookup"><span data-stu-id="4a1ec-151">Azure reservations resources</span></span>
-|**<span data-ttu-id="4a1ec-152">Para obtener información acerca de</span><span class="sxs-lookup"><span data-stu-id="4a1ec-152">For information about</span></span>**   |**<span data-ttu-id="4a1ec-153">Lee esto</span><span class="sxs-lookup"><span data-stu-id="4a1ec-153">Read this</span></span>**    |
+## <a name="azure-reservations-resources"></a><span data-ttu-id="e176b-122">Recursos de Azure Reservations</span><span class="sxs-lookup"><span data-stu-id="e176b-122">Azure reservations resources</span></span>
+|**<span data-ttu-id="e176b-123">Para obtener información acerca de</span><span class="sxs-lookup"><span data-stu-id="e176b-123">For information about</span></span>**   |**<span data-ttu-id="e176b-124">Lee esto</span><span class="sxs-lookup"><span data-stu-id="e176b-124">Read this</span></span>**    |
 |:-----------------------------|:-----------------|
-|<span data-ttu-id="4a1ec-154">Comprar reservas de Azure para tus clientes en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-154">Purchasing Azure reservations for your customers in Partner Center</span></span>   |[<span data-ttu-id="4a1ec-155">Comprar reservas de Azure</span><span class="sxs-lookup"><span data-stu-id="4a1ec-155">Buy Azure reservations</span></span>](azure-reservations-buying.md)
-|<span data-ttu-id="4a1ec-156">Administración de Azure reservations en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-156">Managing Azure reservations in Partner Center</span></span> | [<span data-ttu-id="4a1ec-157">Administración de Azure reservations en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-157">Managing Azure reservations in Partner Center</span></span>](azure-reservations-manage.md)
-|<span data-ttu-id="4a1ec-158">Determinación del tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual del cliente</span><span class="sxs-lookup"><span data-stu-id="4a1ec-158">Determine the correct VM size and verify customer VM usage</span></span>   |[<span data-ttu-id="4a1ec-159">Cambio de tamaño de la VM para el uso máximo de reserva de Azure</span><span class="sxs-lookup"><span data-stu-id="4a1ec-159">VM sizing for maximum Azure reservation usage</span></span>](azure-usage.md)   |
-|<span data-ttu-id="4a1ec-160">Comprar Azure Reservations con la API del Centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-160">Purchasing Azure reservations using the Partner Center API</span></span> | <span data-ttu-id="4a1ec-161">[Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners</span><span class="sxs-lookup"><span data-stu-id="4a1ec-161">[Purchase Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in the Partner Center developer documentation</span></span>
-
- 
-
+| <span data-ttu-id="e176b-125">Documentación de reservas de Azure para tus clientes</span><span class="sxs-lookup"><span data-stu-id="e176b-125">Azure reservations documentation for your customers</span></span> | [<span data-ttu-id="e176b-126">¿Cuáles son las reservas de Azure?</span><span class="sxs-lookup"><span data-stu-id="e176b-126">What are Azure reservations?</span></span>](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+|<span data-ttu-id="e176b-127">Comprar reservas de Azure para tus clientes en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-127">Purchasing Azure reservations for your customers in Partner Center</span></span>   |[<span data-ttu-id="e176b-128">Comprar reservas de Azure</span><span class="sxs-lookup"><span data-stu-id="e176b-128">Buy Azure reservations</span></span>](azure-reservations-buying.md)
+|<span data-ttu-id="e176b-129">Administración de Azure reservations en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-129">Managing Azure reservations in Partner Center</span></span> | [<span data-ttu-id="e176b-130">Administración de Azure reservations en el centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-130">Managing Azure reservations in Partner Center</span></span>](azure-reservations-manage.md)
+|<span data-ttu-id="e176b-131">Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual de cliente</span><span class="sxs-lookup"><span data-stu-id="e176b-131">Determining the correct VM size and verifying customer VM usage</span></span>   |[<span data-ttu-id="e176b-132">Cambio de tamaño de la VM para el uso máximo de reserva de Azure</span><span class="sxs-lookup"><span data-stu-id="e176b-132">VM sizing for maximum Azure reservation usage</span></span>](azure-usage.md)   |
+|<span data-ttu-id="e176b-133">Comprar Azure Reservations con la API del Centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-133">Purchasing Azure reservations using the Partner Center API</span></span> | <span data-ttu-id="e176b-134">[Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners</span><span class="sxs-lookup"><span data-stu-id="e176b-134">[Purchase Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in the Partner Center developer documentation</span></span>
