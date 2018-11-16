@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795599"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012608"
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -144,7 +144,7 @@ Secciones:
 
 **P:** ¿Es posible cambiar la frecuencia de facturación de una suscripción de mensual a anual y viceversa? 
 
--   **R:** No. Una vez que hayas seleccionado la frecuencia de facturación, no se puede cambiar. 
+-   **R:** Sí. Vea **para cambiar la frecuencia de facturación de un servicio en línea** en [conceptos básicos sobre facturación](https://docs.microsoft.com/en-us/partner-center/billing-basics).
 
 **P:** ¿La facturación anual está disponible para las ofertas de complementos?   
 
