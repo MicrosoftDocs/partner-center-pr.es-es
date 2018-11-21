@@ -6,12 +6,13 @@ description: Antes de inscribirte en el programa Proveedor de soluciones en la n
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+robots: noindex, nofollow
+ms.openlocfilehash: dcdb7b10a55191cf6a07f0cb2d66014dfdd6e5aa
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796978"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460932"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud Alemania
 
@@ -19,71 +20,6 @@ ms.locfileid: "5796978"
 
 -  Centro de partners para Microsoft Cloud Alemania
 
-## <a name="before-you-begin"></a>Antes de comenzar
+>[!IMPORTANT] En función de la evolución de las necesidades de los clientes, nuestra estrategia en la nube para Alemania se centrará en la distribución de las regiones en la nube nuevo en Alemania que sean coherentes con nuestra nube global que ofrece. Con este enfoque, se se ya no acepta a nuevos clientes o implementar los nuevos servicios desde el Microsoft Cloud Alemania disponible actualmente. Los clientes existentes pueden seguir usando los actual en la nube servicios disponibles hoy en día, lo que tendrás mantenemos con actualizaciones de seguridad necesarias.
 
-Los partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP) pueden usar el Centro de partners para Microsoft Cloud Alemania con el fin de vender soluciones y servicios de nube a los clientes de países o regiones de la Unión Europea (UE) o de la Asociación Europea de Libre Comercio (EFTA).
-
-Para obtener más información, consulta [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md).
-
-Si tienes una cuenta existente en el Centro de partners y quieres inscribirte en el CSP de Microsoft Cloud Alemania, debes crear una nueva cuenta independiente para el Centro de partners para Microsoft Cloud Alemania.
-
-> [!IMPORTANT]  
-> Si ya te has inscrito en el programa CSP y quieres vender también a clientes y partners dentro de los países o las regiones de Microsoft Cloud Alemania, deberás crear una nueva cuenta del Centro de partners para este mercado específico.  
-
-Para crear una cuenta del Centro de partners e inscribirte en el CSP de Microsoft Cloud Alemania, deberás proporcionar la siguiente información (puedes obtener esta información antes de iniciar el proceso de inscripción):
-
--  Identificador de Microsoft Partner Network (MPN) de tu empresa 
--  Una dirección comercial en uno de los países o regiones donde funciona Microsoft Cloud Alemania (actualmente se limita a los países o las regiones de la UE y la EFTA) 
-
-## <a name="how-to-enroll"></a>Cómo inscribirse 
-
-### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Paso 1: Crea una cuenta del Centro de partners para Microsoft Cloud Alemania 
-
-1.  Para inscribirse en el CSP de Microsoft Cloud Alemania, ve a [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) y selecciona el **Inicio de sesión**. 
-
-2.  Inicia sesión con credenciales de administrador global para la cuenta de Microsoft Cloud Alemania de tu empresa para Office 365, Microsoft Azure o Microsoft Dynamics. Si tu empresa no tiene una cuenta para estos portales, selecciona **Crear una** para suscribirte a uno.
-
-3.  Rellena el formulario de creación de cuenta del Centro de partners con las siguientes instrucciones y luego seleccione **Continuar**.   
-
-    **Mercado** | Selecciona el país o la región donde se encuentra la organización. Solo las organizaciones con oficinas en un país o región miembro de la Unión Europea o la EFTA pueden participar en el programa de Microsoft Cloud Alemania y vender a los clientes en este mercado. No puedes cambiar de mercado después de crear la cuenta. Para vender en varios mercados, crea una cuenta para cada mercado donde quieras vender.
-
-    **Ubicación de la oficina** | Escribe la dirección y el número de teléfono de la dirección de la oficina principal de la empresa en los mercados donde funciona Microsoft Cloud Alemania.
-
-    **Administración del Centro de partners** | Escribe la información de contacto de la persona de tu empresa que puede firmar acuerdos y ser el contacto de administración de la cuenta principal de Microsoft. 
-
-4.  Es posible que se te pida resolver un desafío por teléfono o SMS para demostrar que no eres un robot. Escribe el número de teléfono que usaste en la pantalla anterior. Una vez que resuelvas el desafío, selecciona **Crear cuenta**. Aparecerá la pantalla de confirmación de la cuenta. Guarda la información de esta página o toma nota de esta, ya que la necesitarás más adelante en el proceso. Selecciona **Continuar**.
-
-### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-in-markets-served-by-microsoft-cloud-germany"></a>Paso 2: Solicitar convertirse en partner de Proveedor de soluciones en la nube en mercados donde funciona Microsoft Cloud Alemania 
-
-1.  Rellena la información que falte en el formulario de inscripción, incluidos los detalles de atención al cliente de tu empresa y tu id. de Microsoft Partner Network. 
-
-2.  Selecciona **Aceptar y continuar**. La revisión de la solicitud puede llevar varios días. Recibirás un mensaje cuando se haya completado la revisión.
-
-> [!IMPORTANT]  
-> Al seleccionar **Aceptar y continuar**, confirmas que estás autorizado a actuar en nombre de tu empresa y aceptas que Microsoft encargue una comprobación de antecedentes crediticios antes de revisar la solicitud de Proveedor de soluciones en la nube de tu empresa.
-
-### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>Paso 3: Firmar el contrato de revendedor de Microsoft Cloud Alemania 
-
-1. Inicia sesión en el Centro de partners para Microsoft Cloud Alemania usando el vínculo proporcionado en el correo electrónico de aprobación de la solicitud. 
-
-2. En la página **Acuerdo**, lee los términos y, si estás de acuerdo, selecciona **Aceptar y continuar** para firmar digitalmente el [contrato de revendedor de Microsoft Cloud Alemania](https://go.microsoft.com/fwlink/p/?linkid=831385). Crear la cuenta puede tardar varias horas. Cierra sesión en el Centro de partners para Microsoft Cloud Alemania y vuelve a iniciarla más adelante.
-
-### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-azure-germany-portal"></a>Paso 4: Asignar usuarios a la función de agente de administración en el portal de Azure Alemania 
-
-Microsoft Cloud Alemania proporciona una instancia diferente de Microsoft Azure, ya que se ofrece desde centros de datos alemanes con una red dedicada que funciona en Alemania. Para permitir que los administradores administren los usuarios y licencias en el portal de Azure Alemania, tendrás que asignarles manualmente la función de agente de administración.
-
-> [!NOTE]  
-> Después de asignar usuarios a la función de agente de administración, aparecerá el menú de **los clientes** en la el menú del centro de partners y podrás acceder a tu lista de clientes y [Agregar nuevos clientes](add-a-new-customer.md).   
-
-1.  Inicia sesión en el portal de Azure Alemania en https://portal.microsoftazure.de/.
-
-2.  Asigna la función de agente de administración a los usuarios adecuados de la organización. Para ello, tendrás que agregar estos usuarios al grupo integrado **AdminAgent**. Consulta [Administración de la pertenencia a grupos de los usuarios del inquilino de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) para obtener más información sobre cómo hacerlo.
- 
-
-## <a name="related-topics"></a>Temas relacionados
-
--  [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md)
-
--  [Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
+>Más adelante, nuevos clientes tienen la opción de usar las regiones europeas actualmente disponibles o las regiones nuevas en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft ofrecer servicios de nube desde centros de datos nuevos en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).

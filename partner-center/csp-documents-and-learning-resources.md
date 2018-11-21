@@ -8,14 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796068"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460962"
 ---
-# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa proveedor de soluciones en la nube, contratos, listas de precios y ofertas
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa de proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
 **Se aplica a**
 
@@ -49,20 +49,18 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Acuerdo de Revendedor de nube de Microsoft: Taiwán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud Alemania](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Plantillas de acuerdos de nube de Microsoft
 
-Como partner en CSP, eres responsables de revisar junto a tus clientes, los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Sigue el vínculo siguiente para encontrar el contrato de Microsoft Cloud, tendrás que revisar con los nuevos clientes. 
+Como partner en CSP, eres responsables de revisar junto a tus clientes, los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Sigue el vínculo siguiente para encontrar el contrato de Microsoft Cloud, deberás revisarlos con los nuevos clientes. 
 
 [Plantillas de cliente](agreements.md) del contrato de Microsoft en la nube
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modificación de secreto profesional el contrato de Microsoft Cloud (Alemania)
 
-En Alemania, el código de penales (sección 203) y los códigos de conducta profesionales requieren que están determinadas relaciones de cliente que ser confidenciales, por ejemplo, la relación entre paciente y sus médicos y la relación entre abogados y sus clientes. Estos grupos profesionales tienen que garantizar el secreto profesional. Para que estos y otras profesiones a adquirir los servicios en la nube de proveedores de soluciones en la nube, el proveedor de servicios en la nube debe concluir un acuerdo por escrito con el cliente que garantiza el secreto profesional. 
+En Alemania, el código de penales (sección 203) y los códigos de conducta profesionales requieren determinadas relaciones de cliente que deben ser confidenciales, por ejemplo, la relación entre paciente y sus médicos y la relación entre abogados y sus clientes. Estos grupos profesionales tienen que garantizar el secreto profesional. Para que estos y otras profesiones a adquirir los servicios en la nube de proveedores de soluciones en la nube, el proveedor de servicios de nube debe concluir un acuerdo por escrito con el cliente que garantiza el secreto profesional. 
 
 Si trabaja en Alemania, debes proporcionar esta modificación secreto profesional a tus clientes hay además del contrato de la nube de Microsoft.
 
@@ -74,13 +72,13 @@ Si trabaja en Alemania, debes proporcionar esta modificación secreto profesiona
 ## <a name="pricing"></a>Precios
 
 
-Descargar detalles de precios de basados en licencias, basadas en uso y un solo uso compras desde la página **precios y ofertas** , disponible desde el menú del **Centro de partners** . 
+Descargar detalles de precios de basados en licencias, basadas en uso y única compras desde la página **precios y ofertas** , disponible desde el menú del **Centro de partners** . 
 
 La lista de precios basados en licencias se actualiza mensualmente y Microsoft publica nuevos precios 30 días antes de entren en vigor. Algunos ejemplos de servicios basados en licencia incluyen Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM. 
 
 Los precios basados en uso son dinámicos y cambian frecuentemente. Los ejemplos de servicios basados en uso incluyen Microsoft Azure.
 
-Precio de compra de pago único también es dinámico. Algunos ejemplos de compras de un solo uso son reservas de Microsoft Azure y las suscripciones correspondientes a Windows Server y el software SQL. 
+Precio de compra de pago único también es dinámico. Algunos ejemplos de compras de un solo uso son las reservas de Microsoft Azure y las suscripciones correspondientes a Windows Server y el software SQL. 
 
 
 ## <a name="offers"></a>Ofertas

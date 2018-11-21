@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: nubes nacionales, Microsoft Cloud Alemania, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f56912c872e3eb02ceb13ee00ba9fe13998ef33
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795248"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460922"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Se aplican para vender en las nubes nacionales de Microsoft
 
@@ -36,7 +36,10 @@ Los partners calificados pueden vender soluciones en la nube de Microsoft a clie
 
 -   [**Microsoft Cloud Alemania**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Alemania ofrece Azure, Office 365 y Dynamics 365 desde centros de datos alemanes a través de un modelo único. En este modelo, el acceso a los datos del cliente se controla mediante un administrador de datos alemán que se rige por la legislación alemana. T-Systems International GmbH, una filial de Deutsche Telecom, actúa como el administrador de datos independiente de Microsoft Cloud Alemania. 
 
-    Para obtener información sobre cómo inscribirse y vender a clientes de Microsoft Cloud Alemania, consulta [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md). 
+    >[!IMPORTANT] En función de la evolución de las necesidades de los clientes, nuestra estrategia en la nube para Alemania se centrará en la distribución de las regiones en la nube nuevo en Alemania que sean coherentes con nuestra nube global que ofrece. Con este enfoque, se se ya no acepta a nuevos clientes o implementar los nuevos servicios desde el Microsoft Cloud Alemania disponible actualmente. Los clientes existentes pueden seguir usando los actual en la nube servicios disponibles hoy en día, lo que tendrás mantenemos con actualizaciones de seguridad necesarias.
+
+    >Más adelante, nuevos clientes tienen la opción de usar las regiones europeas actualmente disponibles o las regiones nuevas en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft ofrecer servicios de nube desde centros de datos nuevos en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+
     
 -   [**Azure y Office 365 operado por 21Vianet en China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft ofrece servicios en la nube en China a través de una asociación única con Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), un filial propiedad exclusiva de Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet es el proveedor de Internet independiente de operadores de telefonía móvil de servicios de centros de datos, alojamiento, redes administradas e infraestructuras informáticas en la nube más importante de China. 
 
