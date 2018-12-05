@@ -7,12 +7,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f6793b1b7524a5f715dd416e17c08679d14f9818
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796888"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683514"
 ---
 # <a name="customer-accounts"></a>Cuentas de cliente
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796888"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Como partner revendedor, debes crear una cuenta para cada uno de los clientes en el centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico. Debes crear una cuenta del centro de partners para cada uno de los clientes, incluidos a los que ya tenías antes de migrar el centro de partners.
 

@@ -7,12 +7,12 @@ ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b69825b95009ea2eaada2b59dc2f59869771191
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ba8d2d81e8e618b27b1ca8703d24d7b67a9698d5
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796138"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683614"
 ---
 # <a name="support-from-microsoft"></a>Soporte técnico de Microsoft
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796138"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Si se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 

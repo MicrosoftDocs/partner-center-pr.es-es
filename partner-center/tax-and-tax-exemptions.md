@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796014"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683744"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -20,13 +20,13 @@ ms.locfileid: "5796014"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners. Las reglas varían según el país o región. Los partners deben trabajar con su asesor fiscal para archivar las exenciones fiscales correspondientes en función de su ubicación y la de sus clientes. Para marcar la cuenta de revendedor de Microsoft como no gravable, el partner debe enviar los certificados de exención a Microsoft.
 
 **Archivar una exención fiscal**
 
-1.  Busca tu **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
+1.  Buscar el **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
 2.  Busca tu **Id. de MPN** del centro de partners &gt; **configuración de la cuenta** &gt; **perfil de Partner**.
 3.  Crea un vale de soporte nuevo. En el menú del centro de partners, selecciona **las solicitudes de servicio** &gt; **solicitudes del centro de partners** &gt; **nueva solicitud**.
 4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.

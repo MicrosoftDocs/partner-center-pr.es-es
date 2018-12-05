@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795618"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683774"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795618"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
@@ -37,7 +37,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 **Nota** Cuando se necesita crear una solicitud de servicio para el cliente en Azure, tener en cuenta lo siguiente:
 
-- Para que puedas crear solicitudes de servicio para el cliente en Azure, tu proveedor indirecto debe concederte que acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365. 
+- Para crear solicitudes de servicio para el cliente en Azure, tu proveedor indirecto debe concederte que acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365. 
 
 - Aunque el administrador del departamento de soporte del centro de partners no puede crear solicitudes de servicio en el portal de servicio de Azure, lo que puede hacer es crear un grupo de soporte técnico en el portal de servicio de Azure y asigna a ese grupo de permisos para registrar las solicitudes de soporte técnico.
 

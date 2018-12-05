@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022238"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683824"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -20,7 +20,7 @@ ms.locfileid: "6022238"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
 
@@ -209,7 +209,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar unívocamente el cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td>
 </tr>
 <tr class="odd">

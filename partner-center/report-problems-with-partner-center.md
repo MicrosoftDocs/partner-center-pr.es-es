@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795328"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683684"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795328"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Soporte técnico del centro de partners de contacto Si detectas problemas con el centro de partners, como errores o interrupciones del servicio.
 

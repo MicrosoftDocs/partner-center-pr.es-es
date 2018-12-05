@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794848"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683694"
 ---
 # <a name="add-a-new-customer"></a>Agregar un cliente nuevo
 
@@ -21,10 +21,10 @@ ms.locfileid: "5794848"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
 
 
-Antes de poder vender suscripciones, administrar la facturación o proporcionar soporte técnico, debes crear una cuenta para tu cliente en el centro de partners. Esto incluye su información de contacto y un dominio de Azure AD.
+
+Antes de que puedes vender suscripciones, administrar la facturación o proporcionar soporte técnico, debes crear una cuenta para tu cliente en el centro de partners. Esto incluye su información de contacto y un dominio de Azure AD.
 
 Para los clientes que ya tengan cuentas de clientes y suscripciones a través de un escenario [Multicanal](multichannel.md) o [Multipartner](multipartner.md), puedes [Solicitar una relación con un cliente](request-a-relationship-with-a-customer.md), en lugar de seguir estos pasos.
 

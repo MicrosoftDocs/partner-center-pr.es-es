@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795748"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683674"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795748"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 La característica multicanal del centro de partners admite escenarios cuando un cliente quiera contratar un partner para administrar y dar soporte a una suscripción obtenida. El soporte técnico multicanal se aplica cuando el cliente:
 

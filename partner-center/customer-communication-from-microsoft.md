@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: comunicación, comunicaciones con clientes, hablar con Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797208"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683464"
 ---
 # <a name="customer-communication-from-microsoft"></a>Comunicación con clientes de Microsoft
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797208"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 En general, esperamos que todas las comunicaciones con el cliente provengan del partner de Proveedor de soluciones en la nube. Dado que tú eres el responsable de la relación de facturación de los clientes, Microsoft no enviará comunicaciones directamente a tus clientes en relación con sus suscripciones.
 

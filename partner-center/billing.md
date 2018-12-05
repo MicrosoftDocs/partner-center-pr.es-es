@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones de impuestos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796368"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683454"
 ---
 # <a name="billing"></a>Facturación
 
@@ -21,8 +21,8 @@ ms.locfileid: "5796368"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
-
+ 
+ 
 Para la facturación, ve al menú **Centro de partners** y, a continuación, selecciona la opción **de facturación** para ver el historial de facturación y las tendencias, vínculos a tu factura y archivo de conciliación y el pago más reciente.
 
 Los partners del programa Proveedor de soluciones en la nube que elijan que se les facture mensualmente pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en uso).

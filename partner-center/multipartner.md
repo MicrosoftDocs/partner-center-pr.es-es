@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 0094b7f8b6314e776d5d4db6a19c49eb2ff0f4e1
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795178"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683494"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795178"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 Característica multipartner del centro de partners admite escenarios cuando un cliente quiere trabajar con más de un partner. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero quiere contratar a otro partner especializado en Microsoft Azure.
 

@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012608"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683814"
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012608"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
 
 A continuación se incluyen algunas de las preguntas frecuentes relacionadas con las características de evaluación gratuita y facturación anual del Centro de partners. 
 
@@ -515,7 +515,7 @@ El 15 de julio el archivo de conciliación contendrá las siguientes líneas de 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
-|25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
+|25/06/2018   |30/6/2018   |30 $   |1   |30$   |Tarifa de activación |
 |01/07/2018   |31/07/2018   |30 $   |1   |30 $   |Tarifa de ciclo |
 
 ### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Escenario 5c: Suspender y volver a activar (otra cantidad de licencias) después de la fecha de facturación pero menos de 30 días desde la fecha de la compra
@@ -538,7 +538,7 @@ El 15 de julio el archivo de conciliación contendrá las siguientes líneas de 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Importe**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20/06/2018   |30/06/2018   |-30 $   |1   |-30 $   |Cuota de cancelación |
-|25/06/2018   |30/06/2018   |30 $   |1   |30$   |Tarifa de activación |
+|25/06/2018   |30/6/2018   |30 $   |1   |30$   |Tarifa de activación |
 |25/6/2018   |30/6/2018   |-6$   |1   |-6$   |Prorrateo de instancia de ciclo |
 |25/06/2018   |30/06/2018   |6$   |2   |12$   |Prorrateo de instancia de ciclo |
 |01/07/2018   |31/07/2018   |30 $   |2   |60$   |Tarifa de ciclo |
