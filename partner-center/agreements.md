@@ -2,29 +2,30 @@
 title: Plantillas de cliente del contrato de Microsoft Cloud | El centro de partners
 ms.topic: article
 ms.date: 11/03/2018
-description: Buscar y descargar versiones específicas de la región y el idioma del contrato de Microsoft en la nube para revisar con los clientes.
+description: Buscar y descargar versiones específicas de la región y el idioma del contrato de nube de Microsoft para revisar con los clientes.
 author: Maggie Evans
+ms.author: evensma
 keywords: Contratos de Microsoft Cloud, plantillas de acuerdos de clientes, acuerdos de cliente CSP, MCA, MCA, CSP, ¿dónde puedo vender a través de CSP?, países y regiones CSP, MCA de CSP en varios idiomas, CSP Norteamérica, CSP América Central, CSP Sudamérica, CSP Caribe, CSP de Microsoft Cloud for US Government, CSP de Microsoft Cloud Germany, CSP Oriente Medio, CSP África, CSP Europa, CSP Asia, CSP Pacífico, MCA de CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715286"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776539"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de nube de Microsoft por región e idioma
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de Microsoft Cloud por región e idioma
 
 **Se aplica a**
 
 - Partners de CSP
 
-Para poder realizar un pedido en el nombre de un cliente, el cliente debe aceptar y firmar el contrato de nube de Microsoft.
+Antes de que se puede colocar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el contrato de nube de Microsoft.
 
 >[!IMPORTANT]
-> A partir de 7 de noviembre de 2018, tendrás que confirmar que un cliente ha aceptado el acuerdo de nube de Microsoft al proporcionar información acerca de la persona que lo ha firmado. Para obtener más información, consulta [Confirmar aceptación de un cliente del contrato de nube de Microsoft](confirm-consent.md) .
+> A partir de 7 de noviembre de 2018, tendrás que confirmar que un cliente ha aceptado el acuerdo de nube de Microsoft al proporcionar información acerca de la persona que lo ha firmado. Para obtener más información, vea [Confirmar aceptación de un cliente del contrato de nube de Microsoft](confirm-consent.md) .
 
-Contratos de Microsoft en la nube son específicos de una región y están disponibles en varios idiomas. Encontrar la ubicación y el idioma preferido del cliente en una de las listas de abajo para descargar el acuerdo correcto.
+Contratos de nube de Microsoft son específicos de una región y está disponible en varios idiomas. Buscar ubicación y el idioma preferido del cliente en una de las listas siguientes para descargar el acuerdo correcto.
 
 Si no estás seguro de qué regiones y los mercados que puedes vender, encontrar la ubicación de tu empresa en esta lista: [monedas y mercados regionales del programa de proveedor de soluciones en la nube](regional-authorization-overview.md).
 
@@ -119,7 +120,7 @@ Si no estás seguro de qué regiones y los mercados que puedes vender, encontrar
 - Georgia: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Alemania: [inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [alemán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    En Alemania, el código de penales (sección 203) y los códigos de conducta profesionales requieren determinadas relaciones de cliente que deben ser confidenciales, por ejemplo, la relación entre paciente y sus médicos y la relación entre abogados y sus clientes. Estos grupos profesionales tienen que garantizar el secreto profesional. Para que estos y otras profesiones a adquirir los servicios en la nube de proveedores de soluciones en la nube, el proveedor de servicios de nube debe concluir un acuerdo por escrito con el cliente que garantiza el secreto profesional.
+    En Alemania, el código de penales (sección 203) y los códigos de conducta profesionales requieren que están determinadas relaciones de cliente que ser confidenciales, por ejemplo, la relación entre paciente y sus médicos y la relación entre abogados y sus clientes. Estos grupos profesionales tienen que garantizar el secreto profesional. Para que estos y otras profesiones para adquirir servicios en la nube de proveedores de soluciones en la nube, el proveedor de servicios de nube debe concluir un acuerdo por escrito con el cliente que garantiza el secreto profesional.
 
     Si trabaja en Alemania, debes proporcionar esta modificación secreto profesional a tus clientes hay además del contrato de la nube de Microsoft.
 
