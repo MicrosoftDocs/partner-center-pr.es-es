@@ -2,18 +2,19 @@
 title: Asignar contactos de soporte técnico | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Como partner revendedor, puedes designar un revendedor como un contacto de soporte técnico.
+description: Cuando configuras las suscripciones de servicios Microsoft para los clientes, puedes asignar el soporte técnico de estos productos a un distribuidor designado del producto, en lugar de proporcionarlo tú.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: agente de ayuda, soporte técnico, asignar contacto de soporte técnico, contacto de soporte técnico designado
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795298"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917257"
 ---
 # <a name="assign-support-contacts"></a>Asignar contactos de soporte técnico
 
@@ -32,7 +33,7 @@ Esto puede usarse para escenarios [multipartner](multipartner.md) y [multicanal]
 
 1.  Para empezar, [solicitar una relación](request-a-relationship-with-a-customer.md) con el revendedor del producto designado. Negociar un contrato de soporte técnico con ellos para administrarlo.
 
-2.  En el menú del **Centro de partners** , selecciona **los clientes**, a continuación, selecciona a un cliente y luego selecciona una suscripción, por ejemplo, Office 365 empresa Premium.
+2.  En el menú del **Centro de partners** , selecciona **los clientes**, a continuación, selecciona a un cliente, a continuación, selecciona una suscripción, por ejemplo, Office 365 empresa Premium.
 
 3.  En **Contacto de soporte técnico designado**, selecciona el revendedor de producto designado y, a continuación, haz clic en **Enviar**. 
 

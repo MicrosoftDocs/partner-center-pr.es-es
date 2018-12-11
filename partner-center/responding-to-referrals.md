@@ -2,17 +2,18 @@
 title: Responder a las referencias | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Evaluar, negociar y responder a las referencias a través del Centro de partners.
+description: Como partner de Microsoft calificado, puedes evaluar, negociar y responder a las referencias a través del centro de partners.
 author: KPacquer
 ms.author: kenpacq
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796178"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917617"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Responder a las referencias en | Centro de partners
 

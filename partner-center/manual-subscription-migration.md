@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797138"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917297"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrar suscripciones de Dynamics AX a Dynamics 365
 
@@ -69,9 +70,9 @@ Consulta la tabla siguiente para obtener más información sobre la asignación 
 
 Microsoft ofrece de forma continua nuevos productos y servicios a revendedores y proveedores. En estos casos, un revendedor podría tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde antiguas SKU a unas más recientes que requieren la siguiente secuencia:
 
--   [Comprar la nueva suscripción](#manual-subscription-migration-purchasenewsubsc);
--   [Reasignar licencias de usuario actual](#manual-subscription-migration-reassignlicenses);
--   [Cancelar la suscripción antigua](#manual-subscription-migration-cancelsubscriptions).
+-   [Comprar la nueva suscripción](#purchase-the-new-subscription);
+-   [Reasignar licencias de usuario actual](#reassign-user-license);
+-   [Cancelar la suscripción antigua](#cancel-the-old-subscription).
 
 En los siguientes procedimientos, moverás a un cliente de Microsoft Dynamics AX o CRM Online a Dynamics 365.
 
@@ -79,7 +80,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 <a href="" id="purchasenewsubsc"></a>
 
-**Comprar la nueva suscripción**
+### <a name="purchase-the-new-subscription"></a>Comprar la nueva suscripción
 
 1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y elige **Agregar suscripciones**.
 2.  Selecciona la suscripción que quieras adquirir del catálogo (en este caso, Dynamics 365 para operaciones, Enterprise Edition), escribe el número de licencias y elige **Enviar**.
@@ -88,7 +89,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 <a href="" id="reassignlicenses"></a> El siguiente paso es reasignar todas las licencias de usuario existentes a la nueva suscripción.
 
-**Reasignar licencias de usuario**
+### <a name="reassign-user-licenses"></a>Reasignar licencias de usuario
 
 1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y elige **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
 2.  Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
@@ -98,7 +99,7 @@ En este ejemplo, el revendedor debe mover un cliente con una suscripción existe
 
 <a href="" id="cancelsubscriptions"></a> Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción antigua al nivel superior del cliente.
 
-**Cancelar la suscripción antigua**
+### <a name="cancel-the-old-subscription"></a>Cancelar la suscripción antigua
 
 1.  En el menú del **Centro de partners** , selecciona **los clientes**, selecciona al cliente que deseas mover y selecciona la suscripción que quieres Cancelar.
 2.  En la página de detalles de suscripción, establece el **Estado** de la suscripción a **Suspendida**.

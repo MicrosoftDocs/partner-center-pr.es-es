@@ -2,17 +2,18 @@
 title: Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365 | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: Planes de Skype Empresarial que retiran Skype y Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797168"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917627"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
 

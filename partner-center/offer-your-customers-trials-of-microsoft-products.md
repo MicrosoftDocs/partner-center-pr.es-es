@@ -2,16 +2,17 @@
 title: Ofrecer a los clientes versiones de prueba de productos Microsoft | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días.
+description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Puedes registrarte en estas versiones de prueba en el catálogo, al igual que muchos otros servicios en línea.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5455d32d1ccd51da1bd1a9537fbead5fbc34a8eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795278"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917447"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes versiones de prueba de productos de Microsoft
 

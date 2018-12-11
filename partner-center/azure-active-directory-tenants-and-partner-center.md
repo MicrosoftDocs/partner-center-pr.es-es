@@ -2,20 +2,21 @@
 title: Cuentas profesionales y Centro de partners | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional.
+description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional. Si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional.
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796398"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917527"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>Tu cuenta de trabajo de empresa y el centro de partners  
+# <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
 
 **Se aplica a**
 
@@ -23,7 +24,7 @@ ms.locfileid: "5796398"
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
-Necesitamos vincular tu cuenta profesional de empresa a tu nueva cuenta del centro de partners, para que los usuarios de cuentas puedan iniciar sesión en el centro de partners con sus nombres de usuario y contraseñas.
+Necesitamos vincular una cuenta profesional de tu empresa a tu nueva cuenta de Centro de partners para que los usuarios del inquilino puedan conectarse al Centro de partners con sus nombres de usuario y contraseñas.
 
 Si tu empresa ya tiene una cuenta profesional, puedes vincularla a tu cuenta del Centro de partners. 
 
@@ -47,7 +48,7 @@ Si quieres usar una cuenta profesional existente, pero tienes problemas para ini
 
 Para obtener más información sobre cómo agregar dominios a Azure AD, consulta [Agregar o asociar un dominio de Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-# <a name="about-microsoft-azure"></a>Acerca de Microsoft Azure
+## <a name="about-microsoft-azure"></a>Acerca de Microsoft Azure
 
 Microsoft Azure es una plataforma de nube pública que las empresas pueden usar para compilar, implementar y administrar aplicaciones a través de una red global de centros de datos administrados por Microsoft. Las empresas usan Azure para crear una infraestructura de TI virtual con funciones virtuales o servicios, en lugar de equipos físicos. 
 

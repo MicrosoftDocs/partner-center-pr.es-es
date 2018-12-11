@@ -8,12 +8,13 @@ keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, imp
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795428"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917598"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795428"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  Centro de partners para Microsoft Cloud Alemania
+
+
 
 Eres el responsable financiero por las compras fraudulentas que hagan tus clientes o el impago de un cliente por los servicios comprados. Por lo tanto, te recomendamos encarecidamente que establezcas controles de mitigación de riesgos, detección y prevención de fraudes.
 

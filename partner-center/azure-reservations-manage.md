@@ -2,17 +2,18 @@
 title: Administrar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, reservas, administrar, facturación, comprar, Cancelar, exchange, tarifa de finalización anticipada
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011415"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917717"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
@@ -24,7 +25,7 @@ ms.locfileid: "7011415"
 
 Para administrar Azure reservations posterior tus clientes a la compra, tendrás que selecciona el cliente y la reserva que quieres administrar en el centro de partners y, a continuación, realizar cambios en la reserva en el portal de Azure. 
 
-1. Para empezar, selecciona **los clientes** en el menú del centro de partners y, a continuación, selecciona al cliente cuyas reservas quieres administrar. 
+1. Para empezar, selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente cuyas reservas quieres administrar. 
 
 2. En el menú de la página de detalles del cliente, selecciona **reservas de Azure** y, a continuación, selecciona la reserva específica que quieras administrar.  
 
@@ -40,19 +41,19 @@ Para administrar Azure reservations posterior tus clientes a la compra, tendrás
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Cancelar o cambiar una reserva 
 
-Si en cualquier momento cambien las necesidades empresariales de un cliente, es posible que quieren cancelar una reserva y obtener un reembolso o cambiar el importe del reembolso prorrateado de una reserva para usarlo para el precio de una nueva reserva.
+Si en cualquier momento cambien las necesidades empresariales de un cliente, es posible que quieren cancelar una reserva y obtener un reembolso o cambiar el importe de reembolso prorrateado de una reserva para usarlo para el precio de una nueva reserva.
 
-En ambos de estos escenarios, Microsoft reembolsos la cantidad que, para que, a continuación, puede administrar las transacciones financieras resultantes con los clientes. Microsoft no ponerse en contacto con los clientes directamente sobre facturación, las cancelaciones o reembolsos.   
+En estos dos escenarios, Microsoft reembolsos la cantidad para TI para que, a continuación, puede administrar las transacciones financieras resultantes con los clientes. Microsoft no ponte en contacto con los clientes directamente sobre facturación, las cancelaciones o reembolsos.   
  
 
 **Cómo funcionan las cancelaciones**
 
-Los clientes pueden solicitar cancelar una reserva en cualquier momento (importe del reembolso limitado a 50 000 $ al año). Cancelar una reserva permite al cliente devolver la cantidad de los demás meses de una reserva de Azure para una cuota de finalización anticipada. El balance prorrateado restante, menos la cuota de finalización anticipado, se devuelve a tu cuenta para que pueda reembolsar la cuenta del cliente. 
+Los clientes pueden solicitar cancelar una reserva en cualquier momento (importe del reembolso limitado a 50 000 $ al año). Cancelar una reserva, permite que el cliente devolver la cantidad de los demás meses de una reserva de Azure para una cuota de finalización anticipada. El balance prorrateado restante, menos la cuota de finalización anticipado, se devuelve a tu cuenta para que pueda reembolsar la cuenta del cliente. 
 
 Consulta a continuación para las cuotas y los detalles de la cancelación.
 
 
-|**Fecha de cancelación**<br> (en días)   |**Usage**    |**Crédito**  |**Finalización anticipada**<br> de empresa    |**Límite de reembolso** | 
+|**Fecha de cancelación**<br> (días)   |**Usage**    |**Crédito**  |**Finalización anticipada**<br> de empresa    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 o menos                         | No          | 100%       | No                              | 50000 USD   |
 |5 o menos                         | Sí         | Prorrateado  | No                              | 50000 USD   |
@@ -74,7 +75,7 @@ Para presentar una solicitud de soporte técnico para un reembolso o cambio en n
 >[!NOTE]
 >Soporte técnico de Microsoft puede pedirte proporcionar el id. de reserva y el id. del pedido de reserva. Puedes encontrar esta información en la página **Propiedades** de la reserva del Azure Portal. 
 
-1. Para empezar, selecciona **los clientes** en el menú del centro de partners y, a continuación, selecciona al cliente que quiere un reembolso. 
+1. Para empezar, selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente que quiere un reembolso. 
 
 2. En la página de detalles del cliente, selecciona **Azure Reservations** y, a continuación, la reserva específica que el cliente quiera que se le reembolse.  
 

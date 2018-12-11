@@ -2,19 +2,20 @@
 title: Añadir Servicios compartidos para partners de Azure | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Los partners de CSP ahora pueden comprar suscripciones de Azure para su uso propio.
+description: Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio.
 author: labrenne
 ms.author: labrenne
 Keywords: Azure, shared services, tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: c663ffe58575acc02663492bf14f5ae3a3c8b43e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795728"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917637"
 ---
-# <a name="add-azure-partner-shared-services"></a>Agregar Servicios compartidos para partners de Azure
+# <a name="add-azure-partner-shared-services"></a>Añadir Servicios compartidos para partners de Azure
 
 **Se aplica a**
 
