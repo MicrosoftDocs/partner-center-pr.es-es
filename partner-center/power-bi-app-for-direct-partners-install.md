@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795538"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131704"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
 **Se aplica a:**
 
--   Centro de partners
+- Centro de partners
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
+Selecciona la aplicación que está más relevante para tu negocio de la siguiente lista de aplicaciones de Power BI disponibles:
+- [Partner directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Partners indirectos](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Distribuidor indirecto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Antes de instalar la versión preliminar de la Aplicación de análisis del Centro de partners, asegúrate de que cumples los requisitos siguientes.
 
--   Eres partner directo en el programa de Proveedor de soluciones de nube y en el Centro de partners. Eres partner directo si trabaja directamente con Microsoft y con los clientes.
+- Elige la aplicación de Power BI correcta para tu negocio.
 
--   Tienes una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium.
+- Tienes una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium.
 
--   Puedes iniciar sesión en Power BI.
+- Puedes iniciar sesión en Power BI.
 
--   Puedes iniciar sesión como administrador global, agente de administración o administrador de facturación en [el inquilino de Azure Active Directory (Azure AD) de tu empresa](azure-active-directory-tenants-and-partner-center.md).
+- Puedes iniciar sesión como administrador global, agente de administración o administrador de facturación en [el inquilino de Azure Active Directory (Azure AD) de tu empresa](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>Para instalar la aplicación
 
