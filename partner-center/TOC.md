@@ -1,6 +1,7 @@
 # [Obtener información sobre el Centro de partners de Microsoft](index.md)
 
 # [Suscripción a la red de partners](mpn-overview.md)
+## [Transición de PMC al Centro de partners](pmc-to-partner-center.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
 ## Ofertas de suscripción
 ### [Action Pack](mpn-get-action-pack.md)
