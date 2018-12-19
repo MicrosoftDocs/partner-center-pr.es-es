@@ -1,113 +1,160 @@
 ---
-title: Simplificar la configuración del dispositivo con Autopilot de Windows | Centro de partners
-ms.topic: article
-ms.date: 10/29/2018
-description: Agregar un perfil de implementación de AutoPilot de Windows en el Centro de partners para simplificar la configuración del dispositivo con AutoPilot de Windows
-author: KPacquer
-ms.author: kenpacq
-keywords: autopilot, autopilot de windows, microsoft autopilot, implementación sin interacción, oobe, pantallas de inicio de sesión
+title: Personalizar la experiencia out-of-box de un dispositivo con perfiles de Windows Autopilot | El centro de partners
+description: Preconfigurar experiencia out-of-box de un dispositivo con perfiles Autopilot.
+author: maggiepuccievans
+keywords: AutoPilot, autopilot de windows, autopilot de microsoft, implementación sin interacción, oobe, pantallas de inicio de sesión, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6e6e015424eb8be83bae21b2e15bdc072e480b
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917567"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976812"
 ---
-<!--Maggie, 12/7/18 - removed line telling indirect resellers to go through their indirect providers for autopilot stuff as per Bhavya Chopra in bug 19841770.-->
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar la experiencia out-of-box de un dispositivo con perfiles de Windows Autopilot
 
-# <a name="simplify-device-setup-with-windows-autopilot"></a>Simplificar la configuración del dispositivo con AutoPilot de Windows 
+**Se aplica a**
 
-AutoPilot de Windows simplifica y protege la configuración del dispositivo para los nuevos dispositivos de Windows 10 Pro desde el primer arranque en tan solo unos pasos. Para obtener más información, consulta [Introducción a AutoPilot de Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
+- Los partners de CSP directo factura, los proveedores indirectos y distribuidores indirectos
 
-## <a name="features"></a>Características
+Si puedes administrar dispositivos de los clientes, puede que tengas personalizar la experiencia out-of-box (OOBE) para los usuarios del cliente. Puedes configurar previamente nuevos dispositivos con perfiles Autopilot de Windows antes de entregar los dispositivos a los clientes y aplicar los perfiles nuevos a los dispositivos que ya hayan comprado los clientes. En este artículo se explica cómo crear y aplicar los perfiles Autopilot a los dispositivos en el centro de partners.
 
-- **Deshabilitar los permisos de administrador local** para los usuarios finales que configuren los dispositivos
-- **Mostrar la página de inicio de sesión de una organización**. La organización puede predefinir una página de inicio de sesión que agrega el dispositivo como un dispositivo de trabajo y se une el dispositivo con Azure Active Directory.
-- **Inscribir el dispositivo en un Administrador de dispositivos móviles (MDM)**, como por ejemplo, Microsoft Intune, una vez que OOBE se ha completado.
-- **Simplificar la experiencia OOBE** para usar solo los pasos y las decisiones necesarias, utilizando un perfil de implementación de AutoPilot de Windows.
+Si no ya estás familiarizado con Autopilot, revisa la información de estos artículos:
 
-## <a name="requirements"></a>Requisitos
+- [Introducción a WindowsAutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Guía de referencia de implementación de AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-- Dispositivos preinstalados con Windows 10 Pro Creators Update (versión 1703 o posterior) o con Windows 10 Pro for Advanced PCs.
-- Identificador de dispositivo conocido como un hash del hardware (128 HWH o 4k HWH), normalmente proporcionado por un OEM. Usarás identificadores para asignar los perfiles de la organización en el centro de partners.
-- Los dispositivos deben tener acceso a Internet. Cuando no se puede conectar el dispositivo, la experiencia OOBE se mostrará de forma predeterminada en las pantallas.
-- Inscribir el dispositivo en un MDM requiere Azure Active Directory Premium.
+## <a name="overview"></a>Introducción
 
-## <a name="add-company-branded-sign-in-pages-to-oobe"></a>Agregar páginas de marca de empresa iniciar sesión en la OOBE
+Con la característica Windows Autopilot en el centro de partners, puedes crear perfiles personalizados para aplicar a dispositivos de los clientes. La siguiente configuración de perfil estaba disponible en el momento en que se publicó este artículo:
 
-Para agregar las páginas específicas de la empresa, agrega los dispositivos al [directorio de Azure AD](https://go.microsoft.com/fwlink/?linkid=848958) de tu empresa y crea páginas de inicio de sesión.
+- Omitir la configuración de privacidad. Esta opción de configuración opcional del perfil de Autopilot permite a las organizaciones preguntar sobre la configuración de privacidad durante el proceso OOBE.
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Quitar páginas de Windows de OOBE con un perfil de implementación de AutoPilot de Windows
+- Deshabilitar la creación de cuentas de administrador local en el dispositivo. Las organizaciones pueden decidir si el usuario configura el dispositivo debe tener acceso de administrador una vez completado el proceso.
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Ejemplos de configuración de un perfil de implementación de AutoPilot de Windows
+- Configura automáticamente el dispositivo para el trabajo o escuela. Todos los dispositivos registrados con Autopilot automáticamente se considerarán trabajo o colegio dispositivos, por lo que esta pregunta no se le pida durante el proceso OOBE.
 
-- Omitir la configuración de privacidad durante la instalación
-- Deshabilitar la cuenta de administrador local en el programa de instalación
-- Omitir automáticamente las páginas durante la instalación
-  - Seleccionar automáticamente la configuración de trabajo o centro docente
-  - Omitir páginas de configuración de registro de OEM, OneDrive y Cortana
+- Omitir páginas de configuración de registro de OEM, OneDrive y Cortana. Todos los dispositivos registrados con Autopilot omitirán automáticamente estas páginas durante el proceso de out-of-box rápida (OOBE).
 
-### <a name="add-devices-and-apply-a-profile"></a>Agregar dispositivos y aplicar un perfil
+- Omitir contrato de licencia de usuario final (CLUF). A partir de Windows 10, versión 1709, las organizaciones pueden decidir omitir la página del CLUF presentada durante el proceso de configuración rápida. Consulta [desestimación del CLUF de Windows Autopilot](#windows-autopilot-eula-dismissal) a continuación para obtener información importante a tener en cuenta acerca de la omisión de la página del CLUF durante la instalación de Windows.
 
-Desde el centro de partners, puedes crear un perfil de implementación de Windows AutoPilot y aplicarlo a una lista de los dispositivos.
+Se aplican los permisos de administración de dispositivos y el perfil y limitaciones siguientes:
 
-Para configurar los dispositivos, carga una lista de los dispositivos crea un perfil que se aplique a los dispositivos y aplícalo.
+- Los partners de CSP pueden seguir administrar los perfiles de Autopilot para los clientes existentes con los que tienen relaciones de revendedor, incluso si los clientes han quitado los privilegios de administración delegada del partner.
 
-1.  Agrega la lista de dispositivos.
+- Puedes administrar los dispositivos existentes para los clientes que se han agregado por el usuario o por otro partner de CSP.
 
-    Los agentes de ventas y los agentes de administración tienen acceso para agregar la lista de dispositivos al Centro de partners.
+- No puedes administrar dispositivos que se haya cargado tu cliente a Microsoft Store para empresas o el Portal de Microsoft Intune.
 
-    a. Crear un archivo .csv con el script de PowerShell desde el tema de [Introducción a AutoPilot de Windows](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Este archivo .csv incluye información del dispositivo, como por ejemplo, el número de serie, nombre del OEM, nombre del modelo, id. del producto y el identificador del dispositivo. 
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Crear y administrar perfiles Autopilot en el centro de partners
 
-    b. Desde el centro de partners, ve a **los clientes** > selecciona el cliente que recibe los dispositivos > **dispositivos > agregar dispositivos**.
+En el centro de partners, puedes crear perfiles de implementación de Windows Autopilot y aplicarlos a los dispositivos.
 
-    c. Pon nombre al lote de dispositivos, por ejemplo, "equipos del departamento de ventas de Contoso, pedido de abril de 2017". 
+>[!NOTE]
+>Crear y aplicar los perfiles sólo los agentes de administración.
 
-    d. Seleccione **Examinar** > selecciona el archivo de información de dispositivo > **Validar**.
+### <a name="create-a-new-autopilot-profile"></a>Crear un nuevo perfil de Autopilot
 
-    **Nota:** Si recibes un mensaje de error después de intentar subir el archivo .csv, comprueba el formato del archivo. Después de agosto, puedes usar solo el Hash de Hardware o el nombre del OEM, número de serie y modelo en ese orden de columna o el id. del producto de Windows. También puedes usar el archivo .csv de muestra al que puedes tener acceso desde el vínculo situado junto a **Agregar dispositivos**.
+1. Selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente que vas a crear el perfil de Autopilot para.
 
-2.  Crea un perfil que se pueda aplicar a los dispositivos. (Sólo los agentes de administración tienen acceso para crear y aplicar los perfiles en el centro de partners).
+2. En la página de detalles del cliente, selecciona **los dispositivos**.
 
-    a.  En **los dispositivos**, selecciona **Agregar nuevo perfil**.
+3. En **los perfiles de Windows Autopilot** selecciona **Agregar nuevo perfil**.
 
-    b.  Pon un nombre al perfil, por ejemplo, "perfil de Escritorio Contoso – Omitir el proceso OOBE por completo".
+4. Escribe el nombre del perfil y una descripción y, a continuación, configura las opciones de configuración rápida. Elegir entre:  
 
-    c.  Configura las opciones de OOBE. Por ejemplo, activa **Omitir la configuración rápida en el programa de instalación**.
+   - Omitir la configuración de privacidad en configuración
+   
+   - Deshabilitar la cuenta de administrador local en el programa de instalación
+   
+   - Omitir automáticamente las páginas durante la instalación<br>
+        (Incluye *páginas de configuración de registro de OEM, OneDrive y omitir Cortana*y *Seleccionar automáticamente la configuración de trabajo o escuela* )
+   
+   - Omitir contrato de licencia de usuario final (CLUF)<br> 
+       >[!IMPORTANT] Consulta [desestimación del CLUF de Windows Autopilot](#windows-autopilot-eula-dismissal) a continuación para obtener información importante a tener en cuenta acerca de la omisión de la página del CLUF durante la instalación de Windows.
 
-    d.  Selecciona **Enviar**.
+5. Selecciona **Enviar** cuando hayas acabado.
 
-3.  Aplicar el perfil.
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Aplicar un perfil de Autopilot a dispositivos de los clientes
 
-    a.  Desde **Dispositivos**, en el panel **Asignar y eliminar dispositivos**, selecciona los dispositivos que quieras configurar. Para seleccionar un lote completo, haz clic en la casilla de verificación junto al nombre del lote (por ejemplo, "equipos del departamento de ventas de Contoso, pedido de marzo de 2017").
+>[!NOTE]
+>Las siguientes instrucciones se suponen que ya has agregado dispositivos del cliente al centro de partners y que puedes acceder a su lista de dispositivos. Si aún no ha agregado los dispositivos del cliente, sigue las instrucciones de [Agregar dispositivos a una cuenta de cliente](#add-devices-to-a-customers-account) y, a continuación, sigue los pasos siguientes.
 
-    b.  Seleccione **Aplicar perfil**y selecciona el perfil (por ejemplo, "Contoso Desktop perfil – omitir todos los OOBE"). Los dispositivos mostrarán el perfil en la columna Perfil.
+Después de crear un perfil de Autopilot para un cliente, se puede aplicar a los dispositivos del cliente.
 
-4.  Opcional: Comprueba que tu perfil funciona.
+1. Selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente que creó el perfil de Autopilot para.
 
-    a.  Conecta un dispositivo a la red y, a continuación, activar.
+2. En la página de detalles del cliente, selecciona **los dispositivos**.
+
+3. En **los perfiles de aplicar a dispositivos** selecciona los dispositivos o grupos de dispositivos que quieres agregar perfiles para y, a continuación, seleccione **Aplicar perfil**. El perfil que aplica solo aparece en la columna **perfil** .
+
+4. Sigue los pasos siguientes para comprobar que el perfil se aplicará correctamente en el dispositivo.
+
+    a.  Conecta un dispositivo a la red y enciéndelo.
 
     b.  Comprueba que aparezcan las pantallas OOBE apropiadas (si es el caso).
 
-    c.  Para preparar el dispositivo para un usuario nuevo, completa la experiencia OOBE y, a continuación, restablece el dispositivo a la configuración predeterminada de fábrica.
+    c.  Cuando se detiene el proceso OOBE, restablece el dispositivo a su configuración predeterminada de fábrica para prepararlo para un usuario nuevo.
 
-## <a name="to-update-or-delete-a-profile"></a>Actualizar o eliminar un perfil 
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Quitar un perfil de Autopilot de dispositivo de un cliente
 
-Una vez que hayas asignado un perfil a un dispositivo, puedes actualizar, incluso si ya has entregado el dispositivo al cliente. Cuando el dispositivo se conecte a Internet, descarga la versión más reciente de tu perfil durante el proceso OOBE. Si el cliente restaura su dispositivo con la configuración predeterminada de fábrica, el dispositivo descargará de nuevo las últimas actualizaciones a tu perfil. 
+1. Selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente que creó el perfil de Autopilot para.
 
-### <a name="remove-a-profile-from-a-device"></a>Quitar un perfil de un dispositivo
+2. En la página de detalles del cliente, selecciona **los dispositivos**.
 
-1. Selecciona el dispositivo (o el lote de dispositivos) del que quieras quitar el perfil. 
+3. En **los perfiles de aplicar a dispositivos** seleccionar los dispositivos que quieres quitar el perfil y, a continuación, selecciona **quitar perfil**.
 
-2. En el panel **Asignar y eliminar dispositivos**, selecciona **Quitar perfil**.
+  >[!NOTE]
+  >Eliminar un perfil de un dispositivo no elimina el perfil de tu lista. Si quieres eliminar un perfil, sigue las instrucciones de [actualización o eliminar un perfil de Autopilot](#update-or-delete-an-autopilot-profile).
 
-3. Ve al perfil que quieras quitar y elimínalo. El perfil se eliminará de todos los dispositivos.
+### <a name="update-or-delete-an-autopilot-profile"></a>Actualizar o eliminar un perfil de Autopilot
 
-Desde **Dispositivos**, selecciona el perfil. Aquí podrás modificar la configuración existente.
+Si un cliente quiere cambiar la experiencia out-of-box después de que hayas enviado los dispositivos a ellos, puedes cambiar el perfil del centro de partners.
 
-## <a name="windows-autopilot-eula-dismissal--important-information"></a>Desestimación del CLUF de Windows Autopilot: información importante
+Cuando el dispositivo del cliente se conecta a internet, que descargue la versión más reciente de perfil durante el proceso OOBE. También, siempre que un cliente restaura un dispositivo con la configuración predeterminada de fábrica, el dispositivo se vuelve a descargar la versión más reciente del perfil durante el proceso OOBE.
 
-Esta herramienta te permite configurar instalaciones individuales de Windows en dispositivos que administras para tus clientes. Si tienes la autorización del cliente para hacerlo, puedes suprimir u ocultar determinadas pantallas de configuración que normalmente se muestran a los usuarios al configurar Windows, incluida la pantalla de aceptación de términos de licencia. 
+1. Selecciona **clientes** en el menú del centro de partners y, a continuación, selecciona al cliente que quiere cambiar un perfil de Autopilot.
 
-Al usar esta función, aceptas suprimir u ocultar cualquiera de las pantallas que están diseñadas para proporcionar a los usuarios aviso o aceptación de términos significa que has obtenido el consentimiento y la autorización pertinentes el cliente para ocultar los términos y que en nombre del cliente (ya sea una organización o un usuario individual) autorizas notificaciones y aceptas los términos aplicables al cliente. Esto incluye que estás de acuerdo con los términos y condiciones de la licencia o el anuncio que se presenta al usuario si no la suprimiste u ocultaste con esta herramienta. Tu cliente no puede usar el software de Windows en esos dispositivos si ha adquirido de manera válida una licencia para el software desde Microsoft o sus distribuidores con licencia.
+2. En la página de detalles del cliente, selecciona **los dispositivos**.
+
+3. En **los perfiles de Windows Autopilot** selecciona el perfil que tengas que actualizar. Realiza los cambios necesarios y, a continuación, selecciona **Enviar**.
+
+Para eliminar el perfil, selecciona **eliminar el perfil** de la esquina superior derecha de la página.
+
+### <a name="add-devices-to-a-customers-account"></a>Agregar dispositivos a una cuenta de cliente
+
+>[!NOTE]
+>Los agentes de ventas y los agentes de administración pueden agregar dispositivos a una cuenta de cliente.
+
+Antes de que se pueden aplicar perfiles personalizados de Autopilot para dispositivos de los clientes, debe ser capaz de acceder a la lista de dispositivos del cliente.
+
+Si vas a usar el nombre de OEM, número de serie y combinación de modelos, ten en cuenta estas limitaciones:
+
+- Funciona tuplas solo para dispositivos más recientes (4 k hash, por ejemplo) y no se admite para 128b hash (RS2 y dispositivos anteriores).
+
+- El registro de tupla distingue mayúsculas de minúsculas, por lo que los datos en el archivo deben coincidir con el fabricante y modelo de nombres ***exactamente*** como proporcionados por el proveedor de OEM (proveedor de hardware).
+
+Sigue estas instrucciones para agregar dispositivos a una cuenta de cliente en el centro de partners.
+
+1. Selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente cuyos dispositivos que quieres administrar.
+
+2. En la página de detalles del cliente, selecciona **los dispositivos**.
+
+3. En **los perfiles de aplicar a dispositivos** seleccionar **Agregar dispositivos**.
+
+4. Escribe un nombre para la lista de dispositivos y, a continuación, selecciona **Examinar** para cargar la lista del cliente (en formato de archivo .csv) en el centro de partners.
+
+    >[!NOTE]
+    >Debe haber recibido este archivo .csv con la compra del dispositivo. Si no recibes un archivo .csv, puedes crear una tú mismo siguiendo los pasos de [Agregar dispositivos a Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+
+5. Carga el archivo .csv y, a continuación, selecciona **Guardar**.
+
+Si recibes un mensaje de error al intentar cargar el archivo .csv, comprueba el formato del archivo. Puedes usar solo, el hash de hardware o el nombre del OEM, número de serie y modelo (en ese orden de columna) o el identificador de producto de Windows. También puedes usar el archivo .csv de muestra proporcionado desde el vínculo situado junto a **Agregar dispositivos** para crear una lista de dispositivos.
+
+## <a name="windows-autopilot-eula-dismissal"></a>Desestimación del CLUF de Windows Autopilot
+
+### <a name="important-information"></a>INFORMACIÓN IMPORTANTE
+
+Windows Autopilot te permite configurar instalaciones personalizadas de Windows en dispositivos que administras para tus clientes. Si autorizado no lo haces, el cliente, puedes suprimir u ocultar determinadas pantallas de configuración que normalmente se muestran a los usuarios al configurar Windows, incluida la pantalla de aceptación de términos (contrato de licencia de usuario final).
+
+Al usar esta función, aceptas suprimir u ocultar cualquiera de las pantallas que está diseñada para proporcionar a los usuarios aviso o aceptación de significa términos que has obtenido el consentimiento suficiente y autorización desde el cliente para ocultar los términos y que, en nombre de el cliente (si una organización o un usuario individual como el caso), autorizas notificaciones y aceptas los términos aplicables al cliente. Esto incluye que estás de acuerdo con los términos y condiciones de la licencia o el anuncio que se presenta al usuario si no la suprimiste u ocultaste con esta herramienta. Tu cliente no puede usar el software de Windows en esos dispositivos si ha adquirido de manera válida una licencia para el software desde Microsoft o sus distribuidores con licencia.
