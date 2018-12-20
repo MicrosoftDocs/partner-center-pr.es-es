@@ -1,19 +1,19 @@
 ---
 title: CSP directo nuevos requisitos de partners | El centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/18/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
-author: labrenne
+program.author: labrenne
 ms.author: labrenne
 keywords: CSP, partner directo, facturación directa, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1179109ab7a745b61ee38fa2fdb0a8cde656bc42
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917647"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980609"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nuevos requisitos de partners directos de CSP
 
@@ -21,30 +21,22 @@ ms.locfileid: "8917647"
 
 - Centro de partners
 
-Transformación digital es la evolución de la manera en que nuestros clientes hacer negocios. Para seguir el ritmo y continuar ofreciendo servicio extraordinaria, nos debemos evolucionan, demasiado. Como parte de nuestros esfuerzos en curso para ayudar a todos los partners que participan en el programa CSP correcta y hacer crecer, hemos actualizado los requisitos de inscripción para los partners directos. Estos nuevos requisitos fortalecer nuestra empresas y la técnicas relaciones con partners la infraestructura que admiten funcionalidad y operaciones para escalar, y que están creciendo base a una velocidad mayor que el promedio a sus clientes.
+## <a name="enroll-as-a-direct-partner"></a>Inscribirse como un partner directo
 
-Si actualmente estás inscrito en el programa CSP como un partner directo, debes prepararte satisfacer estos requisitos de soporte técnico y servicios actualizados por su inscripción siguiente período siguiendo el 31 de agosto de 2018. Si no (o prefieres no) para cumplir los requisitos de nuevos, tendrás que volver a inscribirte como revendedor de CSP.
+Como partner directo, tienes la relación integral con tu cliente y con Microsoft. Hemos actualizado los requisitos de inscripción para partners de facturación directa a partir del 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de su empresa con el modelo de inscripción correcto de CSP y reforzar las relaciones de cliente con servicios de valor agregado y soporte técnico. 
 
-## <a name="the-new-requirements"></a>Los nuevos requisitos
+### <a name="minimum-requirements"></a>Requisitos mínimos
 
-**Compatibilidad**
+|**Requisito**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**Id. de MPN**   |Un identificador de Microsoft Partner Network (MPN) activo para la ubicación de la empresa.   |
+|**Aprobación**   |La autoridad para aceptar y firmar acuerdos legales en nombre de la organización.|
+|**Compatibilidad**   |Admite la capacidad para proporcionar el primer nivel de producto en la nube a los clientes.|
+|**Servicio administrado**   |Al menos un servicio administrado, IP servicio o aplicación de la solución de cliente. Obtén más información sobre cómo agregar [los servicios administrados](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Cuentas por cobrar** |La infraestructura de la organización en su lugar para administrar el cliente de facturación y aprovisionamiento. 
 
-- Expande las funcionalidades de soporte técnico, soporte técnico de la nube de soporte, con prioridad con una avanzada soporte técnico de Microsoft para el paquete de los Partners de compras. O bien, elige un soporte técnico Premier de Microsoft para el paquete de Partners para tener acceso a todo el catálogo de servicios proactivos, 24/7 con privilegios elevados correcciones y soporte técnico y administración de cuentas técnicas a través de la nube, híbrida y local. 
+Obtén más información sobre cómo convertirse en [revendedor de CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-**Servicios**
+## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de revendedor directo a indirecto
 
-- Demostrar que proporciones al menos un servicio administrado, IP servicio o aplicación de la solución de cliente. 
-
-Más información sobre cómo agregar [servicios administrados](https://partner.microsoft.com/business-opportunities/managed-services-provider) 
-
-- Cumplir con las capacidades de infraestructura mínima, por ejemplo, facturación y aprovisionamiento.
-Nos estamos supervisión del rendimiento anual para confirmar que los partners directos que cumplan estos requisitos demostración crecimiento de empresa en constante. No hay ningún objetivos de rendimiento específicos en su lugar en este momento, pero Microsoft puede implementar un rendimiento en el futuro de la barra. 
-
-## <a name="working-with-an-indirect-provider"></a>Trabajar con un proveedor indirecto
-
-Los partners que no pueden o (prefieren no) para satisfacer la inscripción directa necesaria requisitos pueden participar como un revendedor en el programa CSP. Como revendedor, los partners funcionará con un proveedor indirecto que ofrece infraestructura, soporte técnico y servicios. Esto permite a los revendedores de rampa de su solución de nube ofertas rápidamente, controlan los costos de antemano y centran en satisfacer las necesidades de los clientes.  
-
-Más información sobre cómo convertirse en [revendedor de CSP](https://partner.microsoft.com/cloud-solution-provider)
-
-
-
+Si decides pasar de un negocio de facturación directa a negocio de revendedor indirecto, hay varios pasos que tendrá que hacer. Para obtener más información sobre la transición, lee la [transición de proveedor de soluciones en la nube (CSP) de partner directo al revendedor indirecto de CSP](transition-direct-to-indirect) 
