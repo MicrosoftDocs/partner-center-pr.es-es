@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795638"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990967"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
@@ -33,7 +33,9 @@ En este tema se explica qué debes esperar ver en tu factura después de agregar
 
 Las suscripciones basadas en uso se facturan mensualmente, por período vencido, el día del aniversario de la suscripción. Por ejemplo, si la fecha de aniversario de suscripción es el día 15, se te cobrará el 15 de enero por el período de servicio del 15 de diciembre al 14 de enero. Se te hará un cargo de nuevo el 15 de febrero durante el período de servicio del 15 de enero al 14 de febrero, etc. Los cargos que se generan el día del aniversario de la suscripción aparecerán en el siguiente archivo de conciliación y factura.
 
-La suscripción basada en uso se puede suspender en cualquier momento. 
+En ocasiones, puedes observar que faltan algunos cargos por uso de la factura, o que el uso de un mes anterior se cargará en la factura del mes actual. Esto no es un error. Esto significa que el servicio era marca después de que se ha producido en los servicios. Uso notificado en 24 horas al final del ciclo de facturación aparecerá en la factura del mes siguiente. 
+
+Las suscripciones basadas en uso se pueden suspender en cualquier momento. 
 
 La lista de precios CSP de Azure se publica mensualmente y se puede encontrar en la página de venta de Centro de partners->Precios y ofertas. Ten en cuenta que los precios pueden cambiar a diario y se reflejan en la pestaña Historial de cambios de la lista de precios.
 
@@ -99,7 +101,7 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
-El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+El 1 de febrero suspendes una suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00

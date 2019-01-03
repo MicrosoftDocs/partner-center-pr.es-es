@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683794"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990937"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -57,7 +57,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="even">
 <td>Bill to</td>
-<td>La dirección a la que enviamos tu factura. Para cambiar esta dirección, ve a Configuración de la cuenta > Perfil de facturación de partner. </td>
+<td>La dirección a la que enviamos tu factura. Para cambiar el nombre de la empresa o la dirección, edita tu perfil de facturación del centro de partners. </td>
 </tr>
 <tr class="odd">
 <td>Cargos basado en licencia</td>
@@ -105,11 +105,11 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="odd">
 <td>Billing period</td>
-<td>A los partners de CSP se les factura mensual o anualmente.</td>
+<td>El período mensual lleva a la fecha de facturación. Este es el período durante el cual se consumen servicios basados en uso y los servicios basados en licencia se para los ajustes de crédito o los cambios en el número de licencias.</td>
 </tr>
 <tr class="even">
 <td>Invoice date</td>
-<td>La fecha en la que recibes tu factura.</td>
+<td>La fecha de facturación o la fecha de aniversario en el que se generó tu factura cada mes.</td>
 </tr>
 <tr class="odd">
 <td>Condiciones de pago</td>
@@ -129,7 +129,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="odd">
 <td>Destinatario del servicio</td>
-<td>La dirección en la que se usa el servicio. (Esta es la dirección legal de la compañía asociada al control de la compañía y no se puede cambiar).</td>
+<td>La dirección en la que se usa el servicio. (Esto es la dirección legal de la compañía asociada control).</td>
 </tr>
 </tbody>
 </table>

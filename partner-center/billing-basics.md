@@ -8,41 +8,41 @@ ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917607"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990947"
 ---
 # <a name="billing-overview"></a>Información general de facturación
 
-**Se aplica a**
+**Aplicable a**
 
 -  Centro de partners
--  Partners del programa CSP
+-  Partners en el programa CSP
 
 Dependiendo de los productos, soluciones y servicios que comprar en nombre de los clientes, se te facturará para estas compras en una o varias de las siguientes maneras:
 -   [Facturación basada en licencia](#licensebasedbilling)
 
-    Al comprar productos o servicios en línea que requieren licencias, se te cobra por cada licencia que has comprado (no en el uso de licencias). Puedes elegir si se facturará una vez al mes o una vez al año. Si tu empresa necesita cambiar, puedes cambiar de uno a otro y vuelva a. 
+    Al comprar productos o servicios en línea que requieren licencias, se te cobra por cada licencia que has comprado (no en el uso de licencias). Puedes elegir si se facturará una vez al mes o una vez al año. Si tu empresa necesita cambiar, puedes cambiar de uno a otro y volver a. 
     
     Para obtener más información sobre mensualmente frente a la facturación anual, consulta las [preguntas más frecuentes](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features)de facturación.
 
 -   [Facturación basada en uso](#usagebasedbilling)
 
-    Al comprar servicios en línea, como las suscripciones de Azure, se te cobra para los tipos de uso mensuales. Facturación mensual solo está disponible para los productos basados en uso. Servicios basados en uso, como Azure, se facturan según las tarifas de uso medidas, en función del consumo.
+    Al comprar servicios en línea, como las suscripciones de Azure, se te cobra para las tasas de uso mensual. Facturación mensual solo está disponible para los productos basados en uso. Servicios basados en uso, como Azure, se facturan según las tarifas de uso medidas, en función del consumo.
 
 -   [Facturación de un solo uso](#onetimebilling)
 
     Al comprar Azure reservations u otras suscripciones de software, pagan por adelantado para un término predefinido. Dado que estás pagar por adelantado, se te cobra una suma global. 
     
-Si has elegido la opción de facturación mensual o que hayas comprado los productos basados en uso se facturan mensualmente, la fecha de facturación mensual es el día del mes que hayas seleccionado al crear la cuenta CSP en el centro de partners. Después de que has creado correctamente tu cuenta de CSP, Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación.
+Si has elegido que se les facture mensualmente, o si has comprado los productos basados en uso se facturan mensualmente, la fecha de facturación mensual es el día del mes que hayas seleccionado al crear la cuenta CSP en el centro de partners. Después de que has creado correctamente tu cuenta de CSP, Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación. Una vez creado, no se puede cambiar esta fecha. 
 
 ## <a name="pricing-and-invoicing"></a>Precios y la facturación
 Encontrarás las listas de precios un (1) mes antes, a medida que se actualice cada mes. Los precios de basados en licencia se garantizan para el período de la suscripción; normalmente 12 meses desde la fecha de compra. Los precios basados en uso pueden cambiar cada mes. 
 
-Los precios para productos, servicios y las suscripciones de software se garantizan a través de la duración de la suscripción, sin embargo, los precios pueden cambiar cuando se renueve.
+Se garantizan que los precios para productos, servicios y las suscripciones de software a través de la duración de la suscripción, sin embargo, los precios pueden cambiar cuando se renueve.
 
 Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación después de la aplicación del crédito o ajuste.
 
@@ -50,7 +50,7 @@ Puedes ver y descargar las facturas y los archivos de conciliación desde la pá
 
 ## <a name="payment-terms"></a>Condiciones de pago
 
-Condiciones de pago son netos 60 días. Las facturas se deben pagar por la factura de la fecha de vencimiento (60 días después de la fecha de facturación) o tu cuenta será pendientes de pago, lo que puede afectar a la inscripción en CSP. Se puede recuperar toda la funcionalidad de sus cuentas suspendidas cuando pagas el pasado cantidad pendiente.
+Condiciones de pago son netos 60 días. Las facturas se deben pagar por la factura de la fecha de vencimiento (60 días después de la fecha de facturación) o tu cuenta será pendientes de pago, lo que puede afectar a su inscripción en CSP. Se puede recuperar toda la funcionalidad de sus cuentas suspendidas cuando pague el pasado cantidad pendiente.
 
 ### <a name="tax"></a>Tax
 
@@ -66,11 +66,11 @@ Puedes encontrar más información fiscal de la oficina de impuestos local o ase
 
 Al comprar un producto basado en licencia en nombre de un cliente, puedes elegir facturación mensual o anualmente. Si quieres cambiar la frecuencia de facturación en un momento posterior, utilice el siguiente procedimiento. 
 
-Cambiar de facturación mensual a la facturación anual es útil si tienes varias suscripciones que se facturarán mensualmente y quieres se alinean a ellos con una fecha de facturación comunes. Cambia la facturación anual en la facturación mensual es útil en la adaptación de las fechas de facturación a las de los clientes individuales. 
+Cambiar de facturación mensual a la facturación anual es útil si tienes varias suscripciones que se facturarán mensualmente y quieres alinear los objetos en una fecha de facturación comunes. Cambia la facturación anual en la facturación mensual es útil para adaptar sus fechas de facturación a las de los clientes individuales. 
 
-Al cambiar la frecuencia de facturación, el término anual se actualiza para reflejar que la fecha de que cambiar la frecuencia de facturación y una nueva fecha de renovación establecidas. 
+Al cambiar la frecuencia de facturación, el término anual se actualiza para reflejar que la fecha que ha cambiado la frecuencia de facturación y una nueva fecha de renovación establecidas. 
 
-Puedes cambiar la frecuencia de facturación siempre que cambien las necesidades de tu negocio. 
+Puedes cambiar la frecuencia de facturación siempre que cambien las necesidades de tu empresa. 
 
 ### <a name="billing-rules-for-annual-billing"></a>Reglas de facturación para la facturación anual
 
@@ -86,11 +86,11 @@ Puedes cambiar la frecuencia de facturación siempre que cambien las necesidades
 
 ### <a name="to-change-the-billing-frequency-of-an-online-service"></a>Para cambiar la frecuencia de facturación de un servicio en línea
 
-1.  Selecciona **los clientes** desde el menú del centro de partners y, a continuación, selecciona al cliente con la suscripción que quieres cambiar. 
+1.  Selecciona **los clientes** en el menú del centro de partners y, a continuación, selecciona al cliente con la suscripción que quieres cambiar. 
 
 2.  En la página de suscripciones del cliente, selecciona la suscripción que quieres cambiar. 
 
-3.  En la página de detalles, en la **frecuencia de facturación**, selecciona **mensual** o **anual**. Verás una página de confirmación con información importante acerca de cómo cambiar la frecuencia de facturación, así como una lista de las suscripciones que se va a cambiar. 
+3.  En la página de detalles, en la **frecuencia de facturación**, seleccione **mensual** o **anual**. Verás una página de confirmación con información importante acerca de cómo cambiar la frecuencia de facturación, así como una lista de las suscripciones que se va a cambiar. 
 
 4.  Selecciona **Aceptar** para realizar el cambio o **Cancelar** deshacer esta acción. 
 
@@ -102,7 +102,7 @@ Los créditos de cancelación para los servicios basados en licencias se prorrat
 
 ## <a href="" id="usagebasedbilling"></a>Facturación basada en uso
 
-Algunos productos y servicios Microsoft usan un modelo de facturación "retenidos", en el que se te facturarán solo para los servicios usados. Por ejemplo, Microsoft Azure utiliza este modelo. 
+Algunos productos y servicios Microsoft usan un modelo de facturación "retenidos", en el que se te facturarán solo para los servicios que se usan. Por ejemplo, Microsoft Azure utiliza este modelo. 
 
 ### <a name="billing-rules"></a>Reglas de facturación
 -   Las suscripciones son mes a mes y se renuevan automáticamente las nuevas tarifas de servicio de uso medido. Se te cobra cada mes para el uso del mes anterior.
@@ -130,7 +130,7 @@ Verás los créditos de cualquier tipo, incluso los créditos de SLA, en la sigu
 Puedes comprar suscripciones de software y reservas de Azure de antemano, para los términos de uno o tres años. Cuando hayas comprado de antemano, se te cobra para todo el costo de suma total de uno de ellos. Este tipo de facturación se denomina facturación única.
 
 >[!IMPORTANT]
->Si has comprado Azure reservations y suscripciones de software de un cliente en una ubicación con una moneda diferente a la tuya, la divisa de facturación predeterminada se basa en la ubicación del cliente, no en su ubicación. Si tienes clientes en varias ubicaciones, recibirás facturas independientes y archivos de conciliación para clientes de cada divisa deben facturar, lo que te permite facturar a los clientes en la divisa adecuada. 
+>Si has comprado Azure reservations y suscripciones de software para un cliente en una ubicación con una moneda diferente a la tuya, la divisa de facturación predeterminada se basa en la ubicación del cliente, no en su ubicación. Si tienes clientes en varias ubicaciones, recibirás facturas independientes y archivos de conciliación para clientes de cada divisa necesitan facturar, lo que te permite facturar a los clientes en la divisa adecuada. 
 
 ### <a name="manage-your-one-time-billing"></a>Administrar tu facturación única
 
@@ -150,8 +150,8 @@ Puedes comprar suscripciones de software y reservas de Azure de antemano, para l
 
 **Descargar una nota de crédito**
 
-Si es necesario solicitar un crédito o renovación, tendrás una nota de crédito para cancelar la factura original. Es posible que solicitar un crédito y renovación por los motivos siguientes:
+Si es necesario solicitar un crédito o renovación, tendrás una nota de crédito para cancelar la factura original. Puede solicitar un crédito y renovación por los motivos siguientes:
 
 -   Correcciones de pedido de compra o de dirección
 
--   Genera la factura y, a continuación, se ha aplicado un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extraído atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, extraer en un reembolso.
+-   Genera la factura y, a continuación, se aplicó un reembolso de impuestos. Puedes solicitar un crédito y renovación para obtener el reembolso de impuestos extraído atrás en la factura original. Esto también es true para los reembolsos, ya puedes solicitar un crédito y renovación de la factura original y, a continuación, extraer en un reembolso.
