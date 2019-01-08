@@ -6,12 +6,12 @@ description: Al quitar una relación empresariales, cualquier relación cerrada 
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797078"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995679"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Quitar una relación de revendedor con un cliente
 
@@ -28,13 +28,12 @@ Esta característica:
 *  Quita la posibilidad de realizar compras en nombre del cliente.
 
 Para quitar la relación, deberás primero cancelar las reservas RI de Azure, cancelar las compras de software y suspender las suscripciones activas restantes:
-
-1.  Suspender todas las suscripciones activas. Desde el centro de partners, ve a **los clientes** > selecciona un cliente > **suscripciones** > selecciona una suscripción > **suspendida**. 
+1. Suspender todas las suscripciones activas. Desde el centro de partners, ve a **los clientes** > selecciona un cliente > **suscripciones** > selecciona una suscripción > **suspendida**. 
 
    Repite este procedimiento para cada suscripción activa.
 
-2.  Quitar la relación del centro de partners: desde el centro de partners, ve a **los clientes** > selecciona un cliente > **cuenta** > **quitar la relación de revendedor**.
+2. Quitar la relación del centro de partners: desde el centro de partners, ve a **los clientes** > selecciona un cliente > **cuenta** > **quitar la relación de revendedor**.
 
-    Ten en cuenta que si las suscripciones son sigue activas, el vínculo **Quitar la relación de revendedor** no estará activo. 
+   Ten en cuenta que si las suscripciones son sigue activas, el vínculo **Quitar la relación de revendedor** no estará activo. 
 
 Para volver a establecer la relación, repite el proceso de [solicitar una relación](request-a-relationship-with-a-customer.md).

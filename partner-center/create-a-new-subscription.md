@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683724"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995869"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -30,23 +30,23 @@ Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Pa
 
 **Crear una suscripción nueva**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
+1. En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
 
-2.  Selecciona **Nueva suscripción**.
+2. Selecciona **Nueva suscripción**.
 
-3.  Selecciona el tipo de facturación de suscripción que quieras usar.  Consulta [Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
+3. Selecciona el tipo de facturación de suscripción que quieras usar.  Consulta [Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
  
- >[!Note]
- >Puedes ofrecer a los clientes las suscripciones de prueba. Los productos disponibles para la versión de prueba están en la pestaña evaluación del catálogo. Consulta [Ofrecer a los clientes evaluaciones de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+>[!Note]
+>Puedes ofrecer a los clientes las suscripciones de prueba. Los productos disponibles para la versión de prueba están en la pestaña evaluación del catálogo. Consulta [Ofrecer a los clientes evaluaciones de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
  
 4. Después de seleccionar la frecuencia de facturación, selecciona los productos que quieres suscripciones en el catálogo. La disponibilidad de productos depende del tipo de cliente (educación, gobierno etc.) y la frecuencia de facturación que has seleccionado. Si un producto no está disponible, el cliente puede que ya tenga una suscripción a dicho producto y solo se permite una. O bien, puede que hayas suspendido la suscripción en cuyo caso puedes volver a activarla en lugar de adquirir una nueva.
 
 5. Comprueba la suscripción que quieres agregar y escribe el número de licencias. A continuación, selecciona **Enviar** el pedido.
 
-6.  Después de agregar la suscripción, ábrela haciendo clic en el nombre de la suscripción en la lista de suscripciones. En esta página de edición, puedes seleccionar licencias de complementos, si están disponibles.
+6. Después de agregar la suscripción, ábrela haciendo clic en el nombre de la suscripción en la lista de suscripciones. En esta página de edición, puedes seleccionar licencias de complementos, si están disponibles.
 
-7.  En la página de edición también puedes cambiar la cantidad de licencias o suspender la suscripción.
+7. En la página de edición también puedes cambiar la cantidad de licencias o suspender la suscripción.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender o cancelar una suscripción
 
@@ -66,7 +66,7 @@ Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Su
 
 
 
- 
+ 
 
 
 

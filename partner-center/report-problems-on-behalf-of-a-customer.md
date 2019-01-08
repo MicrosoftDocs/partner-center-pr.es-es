@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
-ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
+ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2018
-ms.locfileid: "8973905"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995969"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -27,7 +27,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 **Enviar una solicitud de servicio para un cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **las solicitudes de servicio** y, a continuación, la **solicitud de cliente**. 
+1.  En el menú del **Centro de partners** , selecciona **las solicitudes de servicio** y, a continuación, **una solicitud de cliente**. 
 
 2.  En la página de solicitudes de cliente, busca el cliente que quieras.
 
@@ -41,34 +41,36 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 - Aunque el administrador del departamento de soporte del centro de partners no puede crear solicitudes de servicio en el portal de servicio de Azure, lo que puede hacer es crear un grupo de soporte técnico en el portal de servicio de Azure y asigna a ese grupo de permisos para registrar las solicitudes de soporte técnico.
 
-1.  Selecciona **Nueva solicitud de soporte técnico**.
-2.  Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
-        -   En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
-        -   En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
+1. Selecciona **Nueva solicitud de soporte técnico**.
+2. Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
+-   En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
+-   En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
 
-3.  Más tarde, si quieres ver las solicitudes de servicio del cliente en el portal de Microsoft Azure, selecciona **Administrar solicitudes de soporte técnico**.
+3. Más tarde, si quieres ver las solicitudes de servicio del cliente en el portal de Microsoft Azure, selecciona **Administrar solicitudes de soporte técnico**.
 
 Debes crear una solicitud de soporte para un cliente cuando no tiene permisos de administrador para que el cliente. Esto puede suceder en uno de los dos escenarios: 
  
--   No se ha generado ninguna solicitar privilegios de administrador cuando se estableció la relación por primera vez.
--   Puedes administrar las suscripciones de Azure y no de un cliente otros, lo que no requiere que tenga permisos administrativos.
+-   No ha solicitado privilegios de administrador cuando se estableció la relación por primera vez.
+-   Administrar las suscripciones de Azure y no de un cliente otros, lo que no requiere que tenga permisos administrativos.
  
 En cualquiera de estos casos, puedes usar el siguiente procedimiento para crear una solicitud de soporte técnico. 
 
-1.  Copia el nombre de dominio del cliente de su página de la cuenta del centro de partners.
+1. Copia el nombre de dominio del cliente de su página de la cuenta del centro de partners.
 
-2.  Ve a https://portal.azure.com/[customerdomainname]. 
+2. Ve a https://portal.azure.com/[customerdomainname]. 
 
-3.  Selecciona la suscripción de Azure que requiere soporte técnico.
+3. Selecciona la suscripción de Azure que requiere compatibilidad con.
 
-4.  Selecciona la **nueva solicitud de soporte técnico**y, a continuación, sigue las instrucciones para crear la solicitud. 
+4. Selecciona la **nueva solicitud de soporte técnico**y, a continuación, sigue las instrucciones para crear la solicitud. 
 
  
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
 1. En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Tienes que seleccionar **Más...** para ver otros temas.    
 2. Rellena el formulario de solicitud de servicio y, a continuación, selecciona **Enviar**.
-    **Nota**  Asegúrate de incluir tu información de contacto, no la del cliente.
+
+>[**Nota**]  Asegúrate de incluir tu información de contacto, no el cliente.
+
 3. Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
 
 ## <a name="faq"></a>Preguntas más frecuentes
@@ -111,7 +113,7 @@ Si inicias sesión en el Centro de administración de Office 365 directamente, v
 
 **¿Cómo puedo obtener soporte técnico de Dynamics 365 adicional?**
 
- Si estás experimentando problemas relacionados con: Dynamics 365 Plan suscripciones, licencias, facturación, finanzas y operaciones, IURs o requiere más soporte técnico:
+Si estás experimentando problemas relacionados con: Dynamics 365 Plan suscripciones, licencias, facturación, finanzas y operaciones, IURs o requiere más soporte técnico:
  
 Ponte en contacto con [soporte técnico de Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

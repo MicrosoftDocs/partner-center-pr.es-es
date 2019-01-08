@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683674"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995609"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -37,20 +37,20 @@ La característica multicanal del centro de partners admite escenarios cuando un
 <tbody>
 <tr class="odd">
 <td><p><strong>Servicios basados en licencias</strong></p></td>
-<td><p>Para proporcionar soporte técnico para cuentas multicanal, debes solicitar permisos del cliente para administrar sus suscripciones. Consulta [Solicitar una relación de revendedor con un cliente](request-a-relationship-with-a-customer.md) para obtener información sobre cómo hacerlo.</p></td>
+<td><p>Para proporcionar soporte técnico para cuentas multicanal, debes solicitar permisos del cliente para administrar sus suscripciones. Consulta <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Solicitar una relación de revendedor con un cliente</a> para obtener información sobre cómo hacerlo.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Servicios basados en el uso</strong></p></td>
 <td>
-<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro canal, como Advisor, Open o EA, necesitarás crear una nueva suscripción de Azure en el Centro de partners, entrar los detalles de suscripción a mano y, a continuación, cancelar los servicios individuales o toda la suscripción.</p>
-<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro partner, por ejemplo, puede cambiar los servicios de Azure a otro partner. Para obtener más información, consulta [Cambia suscripciones de Azure a otro partner](switch-azure-subscriptions-to-a-different-partner.md).</p>
+<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro canal, como Advisor, Open, o EA & #39; todo que crear una nueva suscripción de Azure en el centro de partners, entrar los detalles de suscripción y, a continuación, cancelar la persona servicios o toda la suscripción.</p>
+<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro partner, por ejemplo, puede cambiar los servicios de Azure a otro partner. Para obtener más información, consulta <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Cambia suscripciones de Azure a otro partner</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el centro de partners. 
+> Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el centro de partners. 
 
 ## <a name="see-also"></a>Consulta también
 
@@ -60,9 +60,9 @@ Si eres revendedor indirecto, consulta el tema [Asociación con proveedores indi
 
 Si eres proveedor indirecto, consulta el tema [Asociación con revendedores indirectos](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

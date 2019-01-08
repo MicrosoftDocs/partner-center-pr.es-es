@@ -6,12 +6,12 @@ description: Prueba las nuevas características del Centro de partners antes de 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797128"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995739"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Versión de prueba de las nuevas características del Centro de partners
 
@@ -30,16 +30,16 @@ Estamos encantados de invitarte a probar nuevas características antes de que se
 
 Para cada próxima característica, puedes hacer lo siguiente:
 
--   Obtener información sobre la característica y decidir si quieres probarla. Para ello selecciona **Más información** en la descripción de la característica. 
+- Obtener información sobre la característica y decidir si quieres probarla. Para ello selecciona **Más información** en la descripción de la característica. 
 
--   Encontrar instrucciones sobre cómo probar la característica
+- Encontrar instrucciones sobre cómo probar la característica
 
--   Consultar la fecha prevista para poner a disposición una vista previa de la característica y la fecha de lanzamiento prevista para toda la comunidad mundial del Centro de partners 
+- Consultar la fecha para ofrecer una característica de vista previa y la fecha prevista para lanzamiento prevista la característica en la comunidad mundial del centro de partners.
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Por *fecha de lanzamiento prevista*, nos referimos a la fecha en la que tenemos previsto que la característica esté disponible para todos los usuarios del Centro de partners de todo el mundo. Sin embargo, hay algunos factores que pueden afectar a la fecha de lanzamiento, como la decisión de incorporar comentarios que mejoren la característica, y podemos decidir volver a programar la fecha de lanzamiento o no lanzar una versión comercial de la característica.  
 
--   Desliza el conmutador hasta **Activado** para activar la vista previa de la característica.
+- Desliza el conmutador hasta **Activado** para activar la vista previa de la característica.
 
 > [!NOTE]  
 >  Solo los administradores globales y los agentes de administración pueden activar las versiones de vista previa de características. Sin embargo, cualquiera de los usuarios del Centro de partners puede ver y usar características de vista previa si tienen los permisos correspondientes.

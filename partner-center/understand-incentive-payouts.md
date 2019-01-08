@@ -6,14 +6,14 @@ description: Mira las ganancias y pagos de los programas de incentivos.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795948"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995959"
 ---
-#<a name="incentive-payouts-overview"></a>Información general de pagos de incentivos
+# <a name="incentive-payouts-overview"></a>Información general de pagos de incentivos
 
 **Se aplica a**
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795948"
 
 Los administradores y usuarios de incentivos obtienen un resumen de las ganancias y los pagos que han recibido o van a recibir por sus programas de incentivos.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Información de resumen sobre ganancias y pagos
+## <a name="summary-information-on-earnings-and-payout"></a>Información de resumen sobre ganancias y pagos
 
 Los usuarios y administradores de incentivos pueden ver su posición financiera en los programas de incentivos en los que están participando en **Resumen de pagos**. Puedes analizar cada área de la información de resumen según sea necesario. 
 

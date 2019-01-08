@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990997"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995949"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -57,7 +57,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Campos de archivo basados en licencia
 
@@ -179,7 +179,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Cargo por importe de impuestos, en función de las reglas fiscales de tu mercado y las circunstancias específicas.</p></td>
+<td><p>Cargo por importe, en función del mercado & #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nombre de la organización del cliente según se indica en el Centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Cliente & #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>Id. de MPN del revendedor de registro de la suscripción. Ver [Desglosar por partner](#itemizebypartner)</p></td>
+<td><p>Id. de MPN del revendedor de registro de la suscripción. Ver <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Desglosar por partner</a></p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Cliente & #39; nombre de dominio de s, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Nombre de la organización del cliente según se indica en el Centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Cliente & #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>Id. de MPN del revendedor de registro de la suscripción. Ver [Desglosar por partner](#itemizebypartner)</p></td>
+<td><p>Id. de MPN del revendedor de registro de la suscripción. Ver <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Desglosar por partner</a></p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Cargo por importe de impuestos, en función de las reglas fiscales de tu mercado y las circunstancias específicas.</p></td>
+<td><p>Cargo por importe, en función del mercado & #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
 <td>0.08 USD</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Cliente & #39; nombre de dominio de s, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 <td>
 <p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
-<p><em>Excepción: "Desplazamiento de un elemento de línea" ya incluye impuestos. Créditos, consulta la sección anterior.</em></p>
+<p><em>Excepción: &quot;desplazamiento de un elemento de línea&quot; ya incluye impuestos. Créditos, consulta la sección anterior.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

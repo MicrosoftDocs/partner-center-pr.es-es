@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795258"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995839"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -70,24 +70,24 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> la velocidad de adopción de usuario es baja y muchas licencias no se usan.</p>
+<td><p><strong>Problema:</strong> La velocidad de adopción de usuario es baja y muchas de las licencias no & #39; t que se usa.</p>
 <p><strong>Lo que debes tener en cuenta:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para obtener una visión de las formas que podrían incorporarlo en su día para simplificar las tareas que ya estén haciendo o para permitir nuevos tipos de productividad.</p>
 <p><strong>Lo que puedes probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problema:</strong> hay un alto volumen de las llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
 <p><strong>Lo que debes tener en cuenta:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
-<p><strong>Lo que puedes probar:</strong> puedes usar una estrategia de dos vías en la que se ofrece formación (presencial o en línea) para aumentar los conocimientos globales del cliente y, al mismo tiempo, se destacan algunas de las opciones de autoservicio que los clientes tienen a su disposición.</p>
-<p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema [Autoservicio de soporte técnico al cliente](customer-self-support.md) además de la información de contacto de soporte técnico.</p></td>
+<p><strong>Lo que puedes probar:</strong> Puedes usar una doble estrategia ofrece formación (presencial o en línea) para aumentar el cliente & #39; s experiencia general, mientras fomentan algunas de las opciones de autoservicio disponibles para los clientes.</p>
+<p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoservicio de soporte técnico al cliente</a> además de la información de contacto de soporte técnico.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

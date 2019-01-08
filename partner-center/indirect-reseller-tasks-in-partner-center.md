@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917497"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995999"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -63,7 +63,7 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
 3.  Inicia sesión con tu cuenta profesional. Selecciona **Iniciar sesión** y luego escribe el nombre de usuario y la contraseña que usas para iniciar sesión como administrador global para Office 365, Microsoft Azure o Microsoft Dynamics CRM. 
 
-    Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Tras crear tu cuenta profesional, inicia sesión con las credenciales de administrador global de tu nueva cuenta.
+Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Tras crear tu cuenta profesional, inicia sesión con las credenciales de administrador global de tu nueva cuenta.
 
 4.  Revisa la información sobre cómo asociar tu Id. de Microsoft Partner Network (Id. de MPN) con la nueva cuenta del Centro de partners. Necesitamos vincular el Id. de MPN de tu organización con la nueva cuenta de centro de partners para que pueda administrar los beneficios e incentivos en el centro de partners. Selecciona **Iniciar sesión**.
 
@@ -73,21 +73,21 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 
 7.  Selecciona el perfil de organización con el Id. de MPN que esté vinculado a tu incentivos, beneficios de suscripción y competencias para que podamos enviar esta información a tu cuenta del Centro de partners. Selecciona **Continuar**.
 
-    Si el Id. de MPN que quieres usar no aparece en esta página, selecciona **Cancelar** y vuelve a iniciar con el nombre de usuario y contraseña del perfil de la organización que quieras usar. 
-    > [!IMPORTANT]  
-    > Selecciona el identificador de MPN asociado con un perfil de organización activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
+Si el Id. de MPN que quieres usar no aparece en esta página, selecciona **Cancelar** y vuelve a iniciar con el nombre de usuario y contraseña del perfil de la organización que quieras usar. 
+> [!IMPORTANT]  
+> Selecciona el identificador de MPN asociado con un perfil de organización activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
 
 8.  Proporciona o actualiza el perfil comercial legal de tu organización, la información de contacto principal y la información de soporte técnico al cliente. Selecciona **Inscribirse ahora**.
 
-    El contacto primario debe ser la persona de tu organización con la que podemos ponernos en contacto para la aplicación (puede ser tú u otra persona de tu organización). Ten en cuenta que no aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en la Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook. 
-    > [!IMPORTANT]  
-    > Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico a la dirección principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y (2) y que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
+El contacto primario debe ser la persona de tu organización con la que podemos ponernos en contacto para la aplicación (puede ser tú u otra persona de tu organización). Ten en cuenta que no aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en la Web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook. 
+> [!IMPORTANT]  
+> Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico a la dirección principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y (2) y que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos comprobando la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
 
 9.  Cuando tu cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
-    a.  En el **Centro de partners**, selecciona el icono de **configuración** y, a continuación, selecciona la **administración de usuarios**.  
+a.  En el **Centro de partners**, selecciona el icono de **configuración** y, a continuación, selecciona la **administración de usuarios**.  
 
-    b.  Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.   
+b.  Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.   
 
 ## <a name="add-a-new-user"></a>Agregar un nuevo usuario
 
@@ -102,10 +102,10 @@ Ten en cuenta que puede llevarnos varios días revisar y comprobar la informaci�
 5. Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Anota la nueva información de inicio de sesión del usuario se muestra en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a dicha información. <br>
-
->El usuario tendrá que iniciar sesión en el centro de partners con su nombre de usuario y la contraseña temporal. Cuando el usuario inicie sesión en el centro de partners por primera vez, se le pedirá cambiar la contraseña.        
+> 
+> El usuario tendrá que iniciar sesión en el centro de partners con su nombre de usuario y la contraseña temporal. Cuando el usuario inicie sesión en el centro de partners por primera vez, se le pedirá cambiar la contraseña.        
 
 ## <a name="assign-user-permissions"></a>Asignar permisos de usuario
 
@@ -126,24 +126,24 @@ Si un proveedor indirecto quiere conectarse contigo en el centro de partners, co
 
 3.  Para confirmar la asociación con el proveedor, marca la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu paǵina de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
 
-    > [!NOTE]  
-    > Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de los clientes y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
+> [!NOTE]  
+> Cuando establezcas una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de los clientes y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador del proveedor a tu cuenta profesional en el portal de Office 365. 
 
 4.  Selecciona **los proveedores indirectos** en el menú del **Centro de partners** para ver una lista de los proveedores de que tienes una asociación. 
 
 5.  Selecciona **Ver clientes** para ver una lista de los clientes que compartes con el proveedor.
 
 6.  Selecciona **Invitar a nuevos clientes** para pedir a un nuevo cliente que autorice relaciones de revendedor contigo y con tu proveedor indirecto a la vez. Asegúrate de tener a mano la dirección de correo electrónico del cliente para enviarle la invitación por correo electrónico.  
-    > [!IMPORTANT]  
-    > Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
+> [!IMPORTANT]  
+> Tu proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
  
 ## <a name="connect-with-customers"></a>Conectar con clientes
 
- Para realizar transacciones con clientes en el centro de partners, tus clientes deben tener cuentas del centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
+Para realizar transacciones con clientes en el centro de partners, tus clientes deben tener cuentas del centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, dicho proveedor indirecto también debe tener relaciones de revendedor con tus clientes. 
 
 ### <a name="connect-with-existing-customers"></a>Conectar con clientes existentes
 
-Los clientes que ya realices transacciones de a través de otros portales, como el centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes en el centro de partners después inscribirlos correctamente como revendedor indirecto. Selecciona **los clientes** desde el menú del **Centro de partners** para ver la lista de clientes. 
+Los clientes que ya realices transacciones de a través de otros portales, como el centro de administración de partners de Office 365 o el portal de administración de Microsoft Azure, aparecerán en la lista de clientes en el centro de partners después inscribirlos correctamente como un revendedor indirecto. Selecciona **los clientes** desde el menú del **Centro de partners** para ver la lista de clientes. 
 
 Cuando te pones en contacto con un proveedor indirecto, no ganas automáticamente sus clientes. De igual modo, los clientes que se trabaja con tu propia o a través de tu proveedor indirecto, pero no a través del centro de partners, no automáticamente aparecerán en la lista de clientes cuanto te inscribas en el centro de partners. Tendrás que establecer una relación de revendedor con los clientes para realizar transacciones en el centro de partners.  Para ello, envíales una invitación para conectarse contigo en el centro de partners, tal como se describe a continuación.
 
@@ -153,7 +153,7 @@ Cuando te pones en contacto con un proveedor indirecto, no ganas automáticament
 
 2.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 
-    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
+Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
 
 3.  Envía el correo electrónico a tu cliente.
 
@@ -182,7 +182,7 @@ Para obtener permisos de administrador para administrar las suscripciones y los 
 
 3.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 
-    Puedes editar el texto del correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que vincula directamente al cliente con tu cuenta y con la cuenta del proveedor. Selecciona **Listo** cuando hayas completado este paso.
+Puedes editar el texto del correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que vincula directamente al cliente con tu cuenta y con la cuenta del proveedor. Selecciona **Listo** cuando hayas completado este paso.
 
 4.  Una vez que el cliente te autoriza a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
 

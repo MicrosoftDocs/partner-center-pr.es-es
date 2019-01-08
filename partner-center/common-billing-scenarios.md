@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: 8493464ce0855d8a267e6953162dbc35a2792d05
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990967"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995979"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
@@ -58,11 +58,13 @@ Los cargos por uso se basan en los precios diarios. Si el precio cambia durante 
 **Escenario 1: Nueva suscripción**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/2/2018         |12/3/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
@@ -70,11 +72,13 @@ El 15 de febrero el archivo de conciliación basado en licencia contendrá la si
 **Escenario 2: Cambiar cantidad de licencias**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 El 1 de febrero aumentas la cantidad de licencias de una a dos. El 15 de febrero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13/1/2018        |12/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |-4,00    
@@ -97,11 +101,13 @@ Precio unitario de prorrateo = 1,54 = 12 x 0,129
 **Escenario 3: Suspensión antes de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    
 
 El 1 de febrero suspendes una suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00
@@ -109,16 +115,19 @@ El 1 de febrero suspendes una suscripción. El 15 de febrero el archivo de conci
 **Escenario 4: Suspensión después de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Tarifa de ciclo|4,00|1|4,00
 
 El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/2/2018|12/3/2018|Tarifa de ciclo|4,00|1|4,00
 
 El 1 de marzo suspendes la suscripción. El 15 de marzo el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/3/2018|12/3/2018|Cuota de cancelación|-1,72|1|-1,72
@@ -138,6 +147,7 @@ Por lo tanto, el precio unitario = -1,716 (12 x 0,143 x (-1)).
 **Escenario 1: Nueva suscripción**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
@@ -149,37 +159,41 @@ Adquieres una nueva suscripción el 11/02/17 con una licencia por 211,20USD al a
 -   Cargo de 211,20USD para el período del 11/02/17 al 10/02/18. 
 
 El 12/02/17 adquieres una segunda licencia. Tu fecha de facturación es el 14/02/17. Se generarán los archivos de factura y de conciliación. El archivo de conciliación contendrá las siguientes líneas de facturación: 
+
 |Fecha de inicio de cargo  |Fecha de fin de cargo  |Tipo de cargo  |Precio unitario |Cantidad | Importe |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Tarifas prorrateadas al comprar |211,20 |1 | 211,20 |
- 
+
 En el aniversario de la suscripción, 11/03/17, el sistema de facturación de Microsoft crea las siguientes líneas de facturación para el aumento de licencias e 12/02/17: 
 -   Crédito de –211,20USD para el período del 11/02/17 al 10/02/18. 
 -   Cargo prorrateado de 0,58USD por licencia para 1 licencia para el período del 11/02/17 al 11/02/17. 
 -   Cargo prorrateado de 15,62USD por licencia para 2 licencias para el período del 12/02/17 al 10/03/2017. 
 -   Cargo prorrateado de 195,00USD por licencia para 2 licencias para el período del 11/03/2017 al 10/02/2018. 
- 
+
 El 11/02/17 adquieres una suscripción. El 12/02/17 agregas una licencia. Tu fecha de facturación es el 14/02/17. El 11/02/18 se renueva la suscripción.
 
 La próxima fecha de facturación es el 14/03/17 y se generan los archivos de factura y conciliación. El archivo de conciliación contendrá las siguientes líneas de facturación: 
+
 |Fecha de inicio de cargo  |Fecha de fin de cargo  |Tipo de cargo  |Precio unitario |Cantidad | Importe |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
 |11/02/2017 |10/02/2018 |Prorrateo de instancia de ciclo |-211,20 |1 |-211,20 |
 |11/02/2017 |11/02/2017 |Prorrateo de instancia de ciclo |0,58 |1 |0,58 |
 |12/02/2017 |10/03/2017 |Prorrateo de instancia de ciclo |15,62 |2 |31,25 |
 |11/03/2017 |10/02/2018 |Prorrateo de instancia de ciclo |195,00 |2 |390,00 |
- 
+
 La suscripción se renueva el 11/02/18 por otro período de 12 meses.
 
 
 **Escenario 3: Cambiar cantidad de licencias**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
 
 El 1 de febrero aumentas la cantidad de licencias de una a dos. El 15 de febrero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  | 
 13/1/2018|12/1/2019|Prorrateo de instancia de ciclo|-48,00|1|-48,00
@@ -203,11 +217,13 @@ Por lo tanto, el precio unitario = 44,98 (346x0,13x2)
 **Escenario 4: Suspensión antes de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
 
 El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Cuota de cancelación|-48,00|1|-48,00
@@ -215,12 +231,14 @@ El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de concil
 **Escenario 5: Suspensión después de 30 días**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
 
 El 15 de febrero el archivo de conciliación basado en licencia no contendrá ninguna línea de facturación para esta suscripción.
 El 1 de marzo suspendes tu suscripción. El 15 de marzo el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/3/2018|12/1/2019|Cuota de cancelación|-41,34|1|-41,34
@@ -238,16 +256,19 @@ Por lo tanto, el precio unitario = 41,34 (318x0,13x1). Dado que es un crédito, 
 **Escenario 6: Suspender y reactivar**
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
 
 El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Cuota de cancelación|-48,00|1|-48,00
 
 El 1 de marzo vuelves a activar tu suscripción. El 15 de marzo el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Importe |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/3/2018|12/1/2019|Tarifas prorrateadas al comprar|41,34|1|41,34

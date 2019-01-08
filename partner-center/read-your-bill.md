@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990937"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995879"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -146,7 +146,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 |Importe antes de impuestos |Subtotal de las compras antes de impuestos. |
 |Impuesto sobre ventas |Importe de impuestos. |
 |Total |Total que se pagará. |
- 
+ 
 
 
 

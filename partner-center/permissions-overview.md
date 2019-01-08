@@ -2,17 +2,17 @@
 title: Asignar roles a los usuarios y permisos | El centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Todos los empleados que necesitan trabajar en el centro de partners se les deben asignar un rol.
+description: Todos los empleados que necesitan trabajar en el centro de Partners deben tener asignado un rol.
 author: labrenne
 ms.author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795108"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995919"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -20,9 +20,9 @@ ms.locfileid: "5795108"
 
 - Centro de partners
 
-Cada rol en el centro de partners viene con determinados permisos lo que permite a un usuario para realizar tareas específicas. Todos los usuarios que funciona en el centro de partners debe tener asignado un rol.
+Cada rol en el centro de partners viene con determinados permisos permiten al usuario realizar tareas específicas. Todos los usuarios que funciona en el centro de partners debe tener asignado un rol.
 
-Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una ubicación. 
+Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una sola ubicación. 
 
 Por ejemplo:
 
@@ -32,7 +32,7 @@ Por ejemplo:
 
 La siguiente tabla explica lo que puede hacer cada rol en el centro de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
 
-Para obtener información general de roles y permisos, leer [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
+Para obtener información general de roles y permisos, lee [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -102,7 +102,7 @@ Para obtener información general de roles y permisos, leer [crear cuentas de us
 <li><p>Crear nuevas ubicaciones</p></li>
 <li><p>Inscribir ubicaciones en programas (excepciones son CSP y programas de revendedores indirectos)</p></li>
 <li><p>Administrar perfiles relacionados con las cuentas de ubicación administran</p></li>
-<li><p>Asignar otros administradores de cuenta, administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos y los roles de usuario de incentivos para los usuarios</p></li>
+<li><p>Asignar otros administradores de la cuenta, administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos y los roles de usuario de incentivos para los usuarios</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -113,26 +113,26 @@ Para obtener información general de roles y permisos, leer [crear cuentas de us
 <li><p>Permite ver y editar detalles bancarios y fiscales</p></li>
 <LI><p>Ganancias de reembolso y cooperación de vista</p></li>
 <LI><p>Compatibilidad con el acceso</p></li>
-<LI><p>Pagos de incentivos de disputa</p></li>
+<LI><p>Pagos de incentivos disputa</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Usuario de incentivos</strong></p></td>
 <td><ul>
-<li><p>Permite ver los programas de incentivos</p></li>
+<li><p>Ver programas de incentivos</p></li>
 <li><p>Permite ver e iniciar reclamaciones de incentivos</p></li>
 <li><p>Ver detalles bancarios y fiscales</p></li>
 <li><p>Ganancias de reembolso y cooperación de vista</p></li>
 <LI><p>Ganancias de reembolso y cooperación de vista</p></li>
 <LI><p>Compatibilidad con el acceso</p></li>
-<LI><p>Pagos de incentivos de disputa</p></li>
+<LI><p>Pagos de incentivos disputa</p></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>Agente de administración</strong></p></td>
 <td><ul>
 <li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el centro de partners <</p></li>
+<li><p>Agregar una lista de dispositivos en el centro de partners&lt;</p></li>
 <p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
 <li><p>Administración de suscripciones</p></li>
 <li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>

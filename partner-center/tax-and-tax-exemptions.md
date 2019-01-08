@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683744"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995809"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -48,7 +48,7 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 </tr>
 <tr class="even">
 <td>Unión Europea</td>
-<td><p>En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe estar [aceptado como válido](http://go.microsoft.com/fwlink/p/?LinkId=808160).</p>
+<td><p>En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe estar <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">aceptado como válido</a>.</p>
 <p>Microsoft no admite créditos ni segundas facturaciones. Es por eso que, antes de vender suscripciones, tienes que registrar el número del identificación a efectos de IVA en el Centro de partners.</p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
@@ -74,11 +74,11 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

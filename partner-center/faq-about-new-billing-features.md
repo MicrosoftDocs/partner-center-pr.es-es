@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683814"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996019"
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -138,7 +138,7 @@ Secciones:
 
 -   **R:** Sí. Puedes cambiar la cantidad de licencias de tus suscripciones en cualquier momento. Agregar licencias adicionales no afectará a la frecuencia de facturación. 
 
-**P:**¿Puedo agregar licencias que tienen una facturación mensual a una suscripción existente que tiene facturación anual? 
+**P:** ¿Puedo agregar licencias que tienen una facturación mensual a una suscripción existente que tiene facturación anual? 
 
 -   **R:** Cuando adquieres una suscripción con facturación anual, cualquier licencia adicional seguirá la misma frecuencia de facturación. Si necesitas después adquirir liencias con facturación mensual, tendrás que adquirir una nueva suscripción.
 
@@ -242,17 +242,17 @@ Secciones:
 
 **P:** ¿Con quién te puedes poner en contacto si tienes preguntas sobre los incentivos?
 
--   **R:** Ponte en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
+- **R:** Ponte en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-    - Norteamérica: ocina@microsoft.com
+  - Norteamérica: ocina@microsoft.com
 
-    - América Latina y Brasil: ocilatam@microsoft.com
+  - América Latina y Brasil: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (excepto Japón): ociapgc@microsoft.com
+  - APOAC (excepto Japón): ociapgc@microsoft.com
 
-    - Japón: ocijp@microsoft.com
+  - Japón: ocijp@microsoft.com
 
 
 **P:** ¿Qué sucede si suspendo mi suscripción? 

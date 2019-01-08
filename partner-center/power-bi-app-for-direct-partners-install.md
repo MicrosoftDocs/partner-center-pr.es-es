@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131704"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995559"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
@@ -22,7 +22,7 @@ ms.locfileid: "6131704"
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
-Selecciona la aplicación que está más relevante para tu negocio de la siguiente lista de aplicaciones de Power BI disponibles:
+Selecciona la aplicación que está más relevante para tu negocio de la siguiente lista de las aplicaciones de Power BI disponibles:
 - [Partner directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [Partners indirectos](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
@@ -45,16 +45,16 @@ Antes de instalar la versión preliminar de la Aplicación de análisis del Cent
 
 2. En **¿Ya tienes una cuenta?** selecciona **Iniciar sesión**. 
 
-3.  En la página siguiente, escribe tu nombre de usuario y tu contraseña de Power BI y a continuación selecciona **Iniciar sesión**. 
+3. En la página siguiente, escribe tu nombre de usuario y tu contraseña de Power BI y a continuación selecciona **Iniciar sesión**. 
 
-4.  En la ventana emergente **Conectar con el análisis del Centro de partners**, comprueba que el **método de autenticación** está establecido en **oAuth2** o selecciona **oAuth2** de la lista si no lo está. 
+4. En la ventana emergente **Conectar con el análisis del Centro de partners**, comprueba que el **método de autenticación** está establecido en **oAuth2** o selecciona **oAuth2** de la lista si no lo está. 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Esta ventana puede tardar unos minutos en aparecer.
 
-5.  En la página **Conector de análisis del Centro de partners**, inicia sesión con las credenciales de administrador global, agente de administración o administrador de facturación correspondientes al inquilino de Azure AD de tu empresa y a continuación selecciona **Iniciar sesión**.
+5. En la página **Conector de análisis del Centro de partners**, inicia sesión con las credenciales de administrador global, agente de administración o administrador de facturación correspondientes al inquilino de Azure AD de tu empresa y a continuación selecciona **Iniciar sesión**.
  
-6.  Cuando se te pida acceso, selecciona **Aceptar**. 
+6. Cuando se te pida acceso, selecciona **Aceptar**. 
 
 Una vez que el servicio de análisis del Centro de partners esté conectado a Power BI, empezarán a cargarse datos. En función de la cantidad de datos, esto puede tardar hasta 10minutos. 
 
