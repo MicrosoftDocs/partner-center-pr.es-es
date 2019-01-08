@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683704"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995779"
 ---
 # <a name="manage-your-customer-list"></a><span data-ttu-id="9d02c-103">Administrar la lista de clientes</span><span class="sxs-lookup"><span data-stu-id="9d02c-103">Manage your customer list</span></span>
 
@@ -71,11 +71,11 @@ ms.locfileid: "8683704"
 > [!NOTE]  
 > <span data-ttu-id="9d02c-150">Para obtener más información sobre la administración de suscripciones, consulta [Suscripciones de cliente](customer-subscriptions.md).</span><span class="sxs-lookup"><span data-stu-id="9d02c-150">For more information about subscription management, see [Customer subscriptions](customer-subscriptions.md).</span></span>
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

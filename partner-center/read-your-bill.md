@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990937"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995879"
 ---
 # <a name="read-your-bill"></a><span data-ttu-id="0262a-105">Leer tu factura</span><span class="sxs-lookup"><span data-stu-id="0262a-105">Read your bill</span></span>
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990937"
 |<span data-ttu-id="0262a-182">Importe antes de impuestos</span><span class="sxs-lookup"><span data-stu-id="0262a-182">Pre-tax amount</span></span> |<span data-ttu-id="0262a-183">Subtotal de las compras antes de impuestos.</span><span class="sxs-lookup"><span data-stu-id="0262a-183">Sub-total of the purchases before taxes.</span></span> |
 |<span data-ttu-id="0262a-184">Impuesto sobre ventas</span><span class="sxs-lookup"><span data-stu-id="0262a-184">Sales tax</span></span> |<span data-ttu-id="0262a-185">Importe de impuestos.</span><span class="sxs-lookup"><span data-stu-id="0262a-185">Tax amount.</span></span> |
 |<span data-ttu-id="0262a-186">Total</span><span class="sxs-lookup"><span data-stu-id="0262a-186">Total</span></span> |<span data-ttu-id="0262a-187">Total que se pagará.</span><span class="sxs-lookup"><span data-stu-id="0262a-187">Total to be paid.</span></span> |
- 
+ 
 
 
 
