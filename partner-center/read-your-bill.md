@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995879"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997344"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -28,7 +28,7 @@ Para la facturación, ve al menú **Centro de partners** y, a continuación, sel
 Los partners del programa Proveedor de soluciones en la nube que han elegido la facturación mensual pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en el uso).
 
 > [!NOTE]  
-> La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período de facturación actual y está disponible en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+> La factura mensual es un resumen de todos los cargos: en el programa, productos y los clientes: para el período de facturación actual y está disponible en los dos (2) días de la fecha de facturación seleccionada en hora UTC. Por ejemplo, si tienes un 12 de septiembre fecha de facturación, el proceso de generación de facturas comience a las 12:00 A.M. UTC en los 13 y completar mediante UTC de 12 a. M. en el 14. Si no ves la factura mediante UTC 23:59:00 en el día 15, que está fuera de tu contrato de nivel de servicio y debe presentar una solicitud de servicio. 
 
 Recibirás una factura para basado en licencia (Office365) y los cargos (Azure) basados en uso y una factura independiente para un solo uso (Azure reserved VM instances) cargos.
 
