@@ -7,16 +7,16 @@ keywords: referencias, responder a las referencias, clientes potenciales, oportu
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776489"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000045"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Haz crecer tu negocio de partner de Microsoft 
 
-Microsoft ofrece muchos recursos para ayudarte a hacer crecer tu negocio de partner. Obtén información sobre cómo las funcionalidades de este sitio, Microsoft Partner Center, pueden ayudarte a atraer a nuevos clientes y obtener más rentabilidad.
+Microsoft ofrece muchos recursos para ayudarte a hacer crecer tu negocio de partner. Obtén información sobre cómo las funcionalidades de este sitio, Microsoft Partner Center pueden ayudarte a atraer a nuevos clientes y obtener más rentabilidad.
 
 Usar el Centro de partners para:
 
@@ -38,7 +38,7 @@ Usar el Centro de partners para:
 | Ofrecer suscripciones de evaluación de clientes a productos de Microsoft (partners de CSP) | Lee [Ofrecer evaluaciones de clientes de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md) para descubrir cómo usar las suscripciones de evaluación para vender más a tu base de clientes.| Partners de CSP |
 | Ofrecer precios promocionales de clientes a suscripciones de Microsoft | En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite pasar los ahorros a los clientes y hacer crecer tu negocio. Lee [Ofrecer precios promocionales de clientes a suscripciones de Microsoft](promotions.md) para obtener más información. | Partners de CSP |
 | Vender en mercados adicionales | El canal de ventas de Proveedor de soluciones en la nube está disponible en numerosos países y regiones. Consulta [Mercados del Proveedor de soluciones en la nube](agreements.md) para revisar la lista. Para obtener una introducción al canal de Proveedor de soluciones en la nube, consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md).  | Partners de CSP |
-Vender en sectores especializados como que organizaciones sin ánimo de lucro y education|[Vender en sectores especializados](get-special-pricing-for-offers.md)|Partners de CSP|
-|Hacer crecer tu negocio a través de las actividades de muchas disponibles en el programa de incentivos cooperación. Notificaciones de archivo para las actividades a través del centro de partners.| [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
+Vender en sectores especializados como que organizaciones sin ánimo de lucro y educación|[Vender en sectores especializados](get-special-pricing-for-offers.md)|Partners de CSP|
+|Hacer crecer tu negocio a través de las diversas actividades que están disponibles en el programa de incentivos cooperación. Notificaciones de archivo para las actividades a través del centro de partners.| [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
 |Crear nuevos conjuntos de software, incluyendo ofertas de terceros que funcionan con el software de Microsoft que vendes ya|[Descubre las ofertas de terceros](third-party-offers.md)|Partners de CSP|
-|
+|¿Es una Superestrella en vender y administrar Azure de tu empresa? Se aplican para inscribirse en el programa de proveedor de servicios de Microsoft Azure experto|[Programa de proveedor de servicios de Microsoft de experto en Azure](azure-expert-msp.md)|Partners de CSP|
