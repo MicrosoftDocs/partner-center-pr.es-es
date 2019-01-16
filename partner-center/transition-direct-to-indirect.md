@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facturación directa, transición, revendedor indirecto
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004631"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011112"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transición de partner directo de proveedor de soluciones en la nube (CSP) al revendedor indirecto de CSP 
 
@@ -153,6 +153,8 @@ Puedes administrar los clientes de facturación directa y los clientes de revend
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscribirse en los incentivos de revendedor indirecto 
 
-Después de que te has inscrito correctamente como revendedor indirecto en el inquilino de partner existente de facturación directa, recibirás una invitación para inscribirse en los incentivos de revendedor indirecto antes de 30 días. La invitación se basa en el asociado de cuenta MPN que está actualmente asociada con tu inquilino de partner CSP. La invitación se enviará a la dirección de correo electrónico asociada con la cuenta MPN del partner. 
+Después de que te has inscrito correctamente como un revendedor indirecto en el inquilino de partner existente de facturación directa, recibirás una invitación para inscribirse en los incentivos de revendedor indirecto antes de 30 días. La invitación se basa en el asociado de cuenta MPN que está actualmente asociada con tu inquilino de partner CSP. La invitación se enviará a la dirección de correo electrónico asociada con la cuenta MPN del partner. 
 
 También está autorizado para inscribirse en programas de incentivos de facturación directa con ese mismo inquilino de partner. Debe administrar los programas por separado.
+
+Consulta también [información adicional sobre convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [Facturación directa al revendedor indirecto preguntas más frecuentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

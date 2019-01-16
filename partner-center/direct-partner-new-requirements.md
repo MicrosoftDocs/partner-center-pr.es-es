@@ -1,19 +1,19 @@
 ---
 title: CSP directo nuevos requisitos de partners | El centro de partners
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: CSP, partner directo, facturación directa, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001685"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011092"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Nuevos requisitos de partners directos de CSP
 
@@ -37,7 +37,8 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 
 Más información sobre cómo convertirse en [revendedor de CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de revendedor directo a indirecto
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+Si decides pasar de una empresa de facturación directa a negocio de revendedor indirecto, hay varios pasos que tendrás que realizar. Para obtener más información acerca de la transición, lee la [transición de proveedor de soluciones en la nube (CSP) de partner directo al revendedor indirecto de CSP](transition-direct-to-indirect.md). 
+
+Consulta también [información adicional sobre convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [Facturación directa al revendedor indirecto preguntas más frecuentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

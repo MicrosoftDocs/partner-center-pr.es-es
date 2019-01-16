@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776549"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011102"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
@@ -28,6 +28,8 @@ Ten en cuenta que la opción de no solicitar permisos no está disponible para l
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de distribuidor contigo
+
+Ten en cuenta, puedes solicitar una relación de revendedor con un cliente desde dentro de su país o la misma región.
 
 1.  Selecciona **los clientes** desde el menú del **Centro de partners** y, a continuación, selecciona **solicitar una relación de revendedor**.
 
@@ -48,7 +50,7 @@ Ten en cuenta que la opción de no solicitar permisos no está disponible para l
 > [!IMPORTANT]  
 > Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación de cliente
+## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación del cliente
 
 La experiencia del cliente para aceptar una invitación de relación de revendedor de un partner de proveedor de soluciones en la nube está cambiando el 1 de noviembre de 2018. Para obtener más información sobre los cambios, consulta la siguiente tabla. Para obtener más información sobre la nueva experiencia en Microsoft Store para empresas, consulta [trabajar con proveedores de soluciones en la tienda Microsoft para empresas](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
 
