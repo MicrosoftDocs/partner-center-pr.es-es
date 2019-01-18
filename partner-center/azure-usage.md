@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, reservas, vm, administrar, uso, cambio de tamaño
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917547"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014822"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de la VM de Microsoft Azure para el uso máximo de reserva 
 
@@ -119,7 +119,7 @@ A continuación, encontrarás instrucciones para cada uno de estos métodos.
 
 Puedes obtener datos de uso de reserva con la API Azure Utilization para comprobar que el cliente está obteniendo el descuento de la reserva y para ver a qué VM (máquinas virtuales) se aplica el descuento. Compara el ejemplo A con el ejemplo B para ver cómo comprobar el uso de reserva de un cliente. 
 
-![Ejemplos de uso de reserva](images\usage5.png)
+![Ejemplos de uso de reserva](images/usage5.png)
 
 -   El reservationId identifica la reserva de Azure que se usó para aplicar el descuento a la VM.
 -   consumptionMeter es el MeterId para la VM que tiene el descuento de reserva aplicado.
