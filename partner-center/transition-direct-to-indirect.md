@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facturación directa, transición, revendedor indirecto
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011112"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015731"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transición de partner directo de proveedor de soluciones en la nube (CSP) al revendedor indirecto de CSP 
 
@@ -39,7 +39,7 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino exist
 4. Selecciona Inscribirse ahora. Tu negocio de revendedor indirecto usará al mismo inquilino de AAD que usas para tu negocio directo.
 
 >[!Note]
->La opción para inscribirse como revendedor indirecto con tu inquilino de AAD de facturación directa solo está disponible para dirigir a los partners de factura que se identifican de eliminación de facturación directa. 
+>Inicialmente, esta nueva funcionalidad de transición estará disponible para los partners de septiembre a las fechas de aniversario de diciembre. Si no "t tienen una fecha de aniversario entre septiembre y diciembre, no verás la funcionalidad en este momento. Partners con fechas de aniversario después de diciembre de 2018 se notificará más adelante una vez que la característica está habilitada para los partners.
 
 
 5. Cuando se aprueba la inscripción, inicie sesión en el centro de partners nuevo.
@@ -54,7 +54,7 @@ Cuando haya aceptado el acuerdo de revendedor indirecto, observe que el perfil d
 ![Acuerdo de revendedor indirecto](images/direct/direct3.png)
 
 >[!Important] 
->Una vez que te has inscrito correctamente como revendedor indirecto con tu inquilino de partner existente de facturación directa, no hay ninguna opción de reversión para quitar las funcionalidades de revendedor indirecto. Antes de continuar con la inscripción, estar seguro de que quieres que la transición a un revendedor indirecto.
+>Una vez inscribirte como revendedor indirecto con la nueva funcionalidad, no hay ninguna opción para revertir a un inquilino solo directo factura. Asegúrate de que evaluar completamente tus necesidades empresariales antes de inscribirte como revendedor indirecto.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Mientras se realiza la transición desde direct a revendedor indirecto
 
