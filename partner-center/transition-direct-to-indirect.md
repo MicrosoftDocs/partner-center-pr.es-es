@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facturación directa, transición, revendedor indirecto
-ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
-ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
+ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "9015731"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024917"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Transición de partner directo de proveedor de soluciones en la nube (CSP) al revendedor indirecto de CSP 
+## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de proveedor de soluciones en la nube (CSP) dirigir socio de facturación al revendedor indirecto de CSP 
 
 **Se aplica a:**
  - Partners de CSP
