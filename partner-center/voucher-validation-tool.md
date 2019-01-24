@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015395"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025339"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Usar la herramienta de validación de asientos y rescate en el centro de partners para validar, reservar y canjear asientos 
 
@@ -47,11 +47,13 @@ Cuando haya reservado un asientos de tu lista de asientos, puedes actualizar el 
 ## <a name="redeem-a-voucher"></a>Canjear un asientos
 
 Una vez que has reservado un asientos, se pueden canjear. 
+
 1. En la lista de asientos reservados, selecciona los asientos que quieras canjear. 
-2. Actualizar la lista de asistentes si fuera necesario y selecciona la **actualización**.
-3. Ahora, verás una lista de asientos **Redeemed** .
+2. Ahora, verás una lista de asientos **Redeemed** .
+
 4. Para crear una notificación, seleccione **crear una notificación**, o bien, en la página de detalles de asientos, seleccione **crear una notificación**.
-5. Al seleccionar **crear una notificación** , pasa a la herramienta de pago en línea de Software Assurance asientos ventaja (SAVB) con el fin de facturación de Microsoft.
+
+5. Al seleccionar **crear una notificación** , pasa a la [Herramienta de pago en línea de Software Assurance asientos ventaja (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) con el fin de facturación de Microsoft.
 
 
 ### <a name="cancel-a-voucher"></a>Cancelar una asientos
