@@ -3,24 +3,124 @@ layout: LandingPage
 hide_bc: true
 title: Comienza aquí para obtener ayuda con el centro de partners
 ms.topic: landing-page
-ms.date: 10/29/2018
-description: ¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra que las respuestas en el centro de partners ayuda biblioteca creado específicamente para partners en los programas CSP y MPN. 
+ms.date: 01/29/2019
+description: Ayuda del centro de partners para hacer crecer tu negocio en el programa de proveedor de soluciones de nube de Microsoft. Configurar tu cuenta, conectar con los clientes, comprar una suscripción a Action Pack y obtener más información para partners en los programas de CSP y MPN. 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
+ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776529"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "9035475"
 ---
-# <a name="start-here-for-help-with-partner-center"></a>Comienza aquí para obtener ayuda con el centro de partners
+# <a name="partner-center-help"></a>Ayuda del Centro de partners
 
-¿Necesitas ayuda para configurar tu cuenta, conectarte con clientes o comprar una suscripción a ActionPack? Encuentra que las respuestas en el centro de partners ayuda biblioteca creado específicamente para partners en los programas CSP y MPN.
+¿Tienes preguntas sobre los procedimientos recomendados para administrar tu cuenta, conectarte con clientes, comprar una suscripción a Action Pack, realizar la inscripción en un programa de incentivos? Encuentra que las respuestas en el centro de partners biblioteca de ayuda.
 
-Si ya estás familiarizado con el centro de partners, consulta [Novedades](/partner-center/whats-new-in-pc).
+
+<ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Anuncios</h3>
+                        <p>Inicia sesión en el panel del centro de partners para descubrir noticias y tiempo cambios importantes.</p>
+                        <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Iniciar sesión ahora</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Yammer</h3>
+                        <p>Mantenerse en contacto a través de nuestra comunidad de Yammer.</p>
+                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Unirse a la Comunidad</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>  
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="images/i_api.png" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>API y SDK programa de usuarios pioneros</h3>
+                        <p>Obtener acceso a talleres, nuevas características y el soporte de expertos.</p>
+                        <p><a href="/partner-center/develop/early-adopter-program"><b>Comenzar</b></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
+</ul>
+
+<h2>Novedades</h2>
+<p>Obtener la información más reciente sobre las nuevas características, ventajas, ofertas y oportunidades para hacer crecer tu negocio.</p>
+<ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
+                        <h3>Programas de software assurance</h3>
+                        <p>Ahora pueden inscribirse en formación de Software assurance y servicios de implementación en el centro de partners.</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
+                        <h3>Herramienta de validación de asientos y rescate</h3>
+                        <p>Reclamar y canjear asientos que admiten las necesidades de negocio y desarrollo de tus clientes.</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
+                        <h3>Administrar las referencias de las forma más eficaz</h3>
+                        <p>Hemos mejorado cómo puede revisar de referencia RFI y Aceptar o rechazar ellos.</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>       
+</ul>
+
+
+<h2>Trabajar en el centro de partners</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -76,59 +176,19 @@ Si ya estás familiarizado con el centro de partners, consulta [Novedades](/part
     </li>
 </ul>
 
-<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+
+
+
+<ul id="products2" class="cardsY cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
-                    <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">Un paseo por el centro de partners</a> (inicio de sesión necesario)</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Nuevo. <a href="/partner-center/azure-ri-server-subscriptions">Vender reservas de Azure a través de CSP</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3><a href="/partner-center/">Explorar y buscar todos los artículos de ayuda</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
                     <div class="cardText">
                         <h3><a href="/partner-center/mpn-get-action-pack">Obtener Microsoft Action Pack (MAPS)</a></h3>
                     </div>
@@ -140,43 +200,33 @@ Si ya estás familiarizado con el centro de partners, consulta [Novedades](/part
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                        </div>
+                    </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/partner-center-account-setup">Administrar la cuenta</a></h3>
+                        <h3><a href="/partner-center/develop/">Referencia de API/SDK del centro de partners</a></h3>
                     </div>
                 </div>
             </div>
         </div>
     </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">Anuncios</a> (se requiere inicio de sesión)</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-<hr />
-
-<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Soporte técnico</h3>
-                        <p>Explora recursos de soporte técnico, incluyendo soporte técnico de productos, chat, formación, foros de la comunidad de formación, blogs y Yammer.<br /><br /><a href="/partner-center/customer-support">Ofrecer soporte técnico a tus clientes</a><br /><a href="/partner-center/support-from-microsoft">Obtener soporte técnico de Microsoft</a><br /><a href="https://partnercenter.microsoft.com/partner/support">Recursos adicionales</a></p>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">¿No es un partner? Únete ahora mismo a Microsoft Partner Network.</a></h3>
                     </div>
                 </div>
             </div>
         </div>
-    </li>
+    </li>    
 </ul>
+
