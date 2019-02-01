@@ -6,12 +6,12 @@ description: Comprender los distintos modelos para vender en CSP y determinar qu
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001705"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042589"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -66,11 +66,20 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Un identificador de Microsoft Partner Network (MPN) activo para la ubicación de la empresa.   |
 |**Aprobación**   |La autoridad para aceptar y firmar acuerdos legales en nombre de la organización.|
-|**Soporte**   |Admite la capacidad para proporcionar el primer nivel de producto en la nube a los clientes.|
+|**Compatibilidad**   |Admite la capacidad para proporcionar el primer nivel de producto en la nube a los clientes.|
 |**Servicios administrados**   |Al menos un servicio administrado, servicio IP o aplicación de la solución de cliente. Obtén más información sobre cómo agregar [los servicios administrados](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Cuentas por cobrar** |La infraestructura de la organización en su lugar para administrar el cliente de facturación y aprovisionamiento. 
 
 
+Después de revisar los requisitos mínimos, debe completar un cuestionario de validación rápida para confirmar que puede usar. 
+
+[Evaluación de proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- Una vez que te hayas inscrito y cumplas los criterios de aceptación como partner directo, el administrador global puede configurar tu cuenta, agregar empleados, asignarles roles y permisos en función de su trabajo y configurar el perfil de organización.
+
+- Si has estado trabajando con clientes que quieres seguir trabajando con a través del centro de partners, deberás [asociarlos](request-a-relationship-with-a-customer.md) a tu cuenta en el centro de partners. Microsoft puede conectarles a tu facturación. 
+
+Para obtener información acerca de la transición de un socio de facturación directa a un revendedor indirecto, lee la [transición de socio de facturación directa de proveedor de soluciones en la nube (CSP) para el revendedor indirecto de CSP](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados y monedas regionales del CSP
 
