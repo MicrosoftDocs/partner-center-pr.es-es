@@ -4,21 +4,21 @@ hide_bc: true
 title: Comienza aquí para obtener ayuda con el centro de partners
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Ayuda del centro de partners para hacer crecer tu negocio en el programa de proveedor de soluciones de nube de Microsoft. Configurar tu cuenta, conectar con los clientes, comprar una suscripción a Action Pack y obtener más información para partners en los programas de CSP y MPN. 
+description: El centro de partners puede ayudar a hacer crecer tu negocio en el programa de proveedor de soluciones en la nube (CSP) de Microsoft. Configurar tu cuenta, conectar con los clientes, comprar una suscripción a Action Pack y obtener más información para partners en los programas de CSP y MPN. 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035475"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043572"
 ---
-# <a name="partner-center-help"></a>Ayuda del Centro de partners
+# <a name="welcome-to-partner-center"></a>Bienvenido al centro de partners
 
-¿Tienes preguntas sobre los procedimientos recomendados para administrar tu cuenta, conectarte con clientes, comprar una suscripción a Action Pack, realizar la inscripción en un programa de incentivos? Encuentra que las respuestas en el centro de partners biblioteca de ayuda.
+Microsoft Partner Center es la única ubicación para administrar la relación de principio a fin con Microsoft. Tiene herramientas y recursos que te ayudarán a realizar transacciones y hacer crecer sus negocios, incluyendo las opciones de pertenencia, las referencias de clientes y el programa de proveedor de soluciones en la nube (CSP). Obtén información sobre los procedimientos recomendados para administrar tu cuenta, conectarte con clientes, comprar una suscripción a Action Pack y realizar la inscripción en un programa de incentivos en la biblioteca de Ayuda del centro de partners.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ ms.locfileid: "9035475"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ms.locfileid: "9035475"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>

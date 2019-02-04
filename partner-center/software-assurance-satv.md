@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: cupones, garantía de software, formación, inscripción en SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015391"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043592"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de Software Assurance formación asientos (SATV) en el centro de partners
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
 Hacer crecer tu negocio al realizar la inscripción en los programas de partners de Software Assurance. Microsoft compensa a los partners para ofrecer servicios de formación, planificación y otros para los clientes empresariales que tienen Software Assurance. 
 
@@ -72,7 +72,7 @@ Tarda hasta 24 horas para nuestros sistemas reflejar que activamente estás insc
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Reservar y canjear cupones
 
-Ahora es posible reservar y canjear asientos y empezar de aprendizaje a los clientes. Administrador MPN de tu empresa tiene acceso a la herramienta de validación de asientos y rescate (VVR) en el centro de partners y agrega usuarios que tendrán que trabajar en la herramienta. Para obtener más información sobre VVR, leer [asientos administrar en la herramienta de rescate y la validación de asientos](voucher-validation-tool).
+Ahora es posible reservar y canjear asientos y empezar de aprendizaje a los clientes. Administrador MPN de tu empresa tiene acceso a la herramienta de validación de asientos y rescate (VVR) en el centro de partners y agrega usuarios que tendrán que trabajar en la herramienta. Para obtener más información sobre VVR, leer [asientos administrar en la herramienta de rescate y la validación de asientos](voucher-validation-tool.md).
 
 >[!Note]
 >La herramienta VVR ha trasladado al centro de partners. A partir de marzo de 2019, se retirará el sitio de herramienta VVR antiguo.
