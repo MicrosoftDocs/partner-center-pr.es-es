@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Crea un perfil de negocio en el Centro de partners para obtener oportunidades de ventas de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797258"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062363"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -52,11 +52,11 @@ El primer paso para obtener clientes potenciales es crear un perfil de negocio. 
 
 Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
-1.  En el menú del **Centro de partners** , selecciona **las referencias** &gt; **perfiles de negocio** &gt; selecciona un país o región > **[crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  En el menú del **Centro de partners** , selecciona **las referencias** &gt; **perfiles de negocio** &gt; selecciona un > de país/región **[crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
     > [!NOTE]  
-    >  Aunque el centro de partners admite varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, puede que tengan que incluir texto de diferentes idiomas, como se indica en este tema.
+    >  Aunque el centro de partners admite varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, es posible que tengan que incluir texto de diferentes idiomas, como se indicó en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 
@@ -102,7 +102,7 @@ Otras etiquetas que se usan en la búsqueda:
 
 Se recomienda que dejes marcado este ajuste. 
 
-Como demostrar éxito con los clientes a través del centro de partners, o participar en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos específicos, servicios y sectores que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
+Al demostrar éxito con los clientes a través del centro de partners, o participar en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos específicos, servicios y sectores que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
 
 Sin embargo, si hay productos para los que proporcionas servicios y que prefieres que no aparezcan en tu perfil, puedes desactivar esta casilla y administrar manualmente tu perfil. Estas recomendaciones no serán visibles para los clientes, pero puedes agregarlos a tu perfil en cualquier momento.
 

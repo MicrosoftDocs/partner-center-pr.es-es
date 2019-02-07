@@ -3,16 +3,16 @@ title: 'Vender suscripciones a Minecraft: Education Edition a clientes del secto
 ms.topic: article
 ms.date: 10/29/2018
 description: 'Vender suscripciones a Minecraft: Education Edition a clientes cualificados del sector educativo.'
-author: KPacquer
-ms.author: kenpacq
-keywords: Partners autorizados del sector educativo
+author: labrenne
+ms.author: labrenne
+keywords: Partners de educación autorizados, educación, vender a education, escuelas
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796588"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062333"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo
 

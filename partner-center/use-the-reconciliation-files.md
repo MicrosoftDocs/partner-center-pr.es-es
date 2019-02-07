@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995949"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062383"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -179,7 +179,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Cargo por importe, en función del mercado & #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
+<td><p>Cargo por importe, en función del market& #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Customer& #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Cliente & #39; nombre de dominio de s, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Customer& #39; nombre de dominio de s, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Cliente & #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Customer& #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Cargo por importe, en función del mercado & #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
+<td><p>Cargo por importe, en función del market& #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
 <td>0.08 USD</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Cliente & #39; nombre de dominio de s, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Customer& #39; nombre de dominio de s, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

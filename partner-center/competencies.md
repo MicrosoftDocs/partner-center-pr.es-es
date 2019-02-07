@@ -3,17 +3,17 @@ title: Obtener competencias de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Obtén competencias Silver y Gold de Microsoft para demostrar tu experiencia probada en ofrecer soluciones de calidad en un área especializada de negocios.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, ventajas, objetivos de rendimiento, objetivos de habilidades
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796898"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062343"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Para comprobar tu progreso en una competencia, en el centro de partners del cent
 
 ### <a href="" id="associating_achievements"></a>Conectar a tus empleados para que logren sus objetivos basados en los conocimientos
 
-1.  Agrega cuentas de usuario de los empleados de la organización. Desde el [Centro de partners](http://partnercenter.microsoft.com), ve a **configuración de la cuenta > Agregar usuario**. (Los usuarios de PMC pueden agregar varios usuarios de forma simultánea seleccionando **Agregar usuarios que usan datos de PMC**.)
+1.  Agrega cuentas de usuario de los empleados de la organización. Desde el [Centro de partners](http://partnercenter.microsoft.com), ve a la **cuenta configuración > para agregar un usuario**. (Los usuarios de PMC pueden agregar varios usuarios de forma simultánea seleccionando **Agregar usuarios que usan datos de PMC**.)
 
     Después de crear las cuentas de usuario, te enviaremos un nuevo nombre de usuario y una contraseña y te pediremos que descargues un archivo de registro que incluye información para ayudar a restablecer el nombre de usuario y la contraseña, según sea necesario. También puedes [configurar las cuentas de usuarios para que puedan restablecer las contraseñas por sí mismos](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Pide a los empleados de la organización que se conecten y asocien su cuenta de Microsoft (MSA) a su cuenta de usuario. (Desde el [Centro de partners](http://partnercenter.microsoft.com), ve a **configuración de la cuenta**). Los empleados pueden usar las MSA iguales o diferentes para asociar certificaciones y sus exámenes técnicos de Microsoft y sus cuentas mediante Microsoft Partner University.
+2. Pide a los empleados de la organización que se conecten y asocien su cuenta de Microsoft (MSA) a su cuenta de usuario. (Desde el [Centro de partners](http://partnercenter.microsoft.com), ve a **configuración de la cuenta**). Los empleados pueden usar las MSA iguales o diferentes para asociar certificaciones y exámenes técnicos de su Microsoft y sus cuentas mediante Microsoft Partner University.
 
 3.  **Espera 24 horas** después de que un empleado haya asociado su cuenta o completado un objetivo basado en los conocimientos. Posteriormente, el progreso se muestra en la sección **Competencias**.
 

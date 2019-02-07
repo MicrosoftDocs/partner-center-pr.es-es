@@ -3,16 +3,16 @@ title: Hacer crecer tu negocio con referencias de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Generar negocios potenciales y contactar con los clientes que necesitan ayuda para la implementación de soluciones y productos de Microsoft.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: referencias, perfil de negocio, buscar un partner
 ms.localizationpriority: medium
-ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 914439dbd6d0f75299931569af2e9d4dec0fbb55
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794828"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062323"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

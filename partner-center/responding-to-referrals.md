@@ -1,27 +1,30 @@
 ---
 title: Responder a las referencias | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 01/17/2019
 description: Como partner de Microsoft calificado, puedes evaluar, negociar y responder a las referencias a través del centro de partners.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: c9f2a1e9451d64dd51b469b62c7a0bb07f955631
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917617"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062303"
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Responder a las referencias en | Centro de partners
+# <a name="responding-to-referrals"></a>Responder a las referencias
 
-**Se aplica a:**
+**Aplicable a**
 
 -  Centro de partners
 
-Como partner de Microsoft calificado, puede recibir negocios potenciales a través de las referencias del Centro de partners. Administrar los clientes potenciales entrantes, responder rápidamente a aquellos que son una buena opción y omitir or rechazar a aquellos que no lo son. Revisa los tipos de clientes potenciales que vienen. 
+Como partner de Microsoft calificado, puede recibir negocios potenciales a través de las referencias. En el centro de partners, puedes administrar clientes potenciales entrantes, responder rápidamente a aquellos que son una buena opción y omitir o rechazar a aquellos que no están. 
+
+> [!IMPORTANT]
+> Hemos hecho algunas actualizaciones a la experiencia de la administración de referencias y están en el proceso de lanzar a todos los partners. Hasta que tu cuenta está configurado para usar la nueva experiencia, algunas cosas que debes funcionen de manera un poco diferente. Estas diferencias se explican a continuación. 
 
 ## <a name="referral-management"></a>Administración de referencias
 
@@ -29,50 +32,44 @@ Empieza mediante la configuración de un [perfil de negocio](create-a-marketing-
 
 *  Actividades de marketing de Microsoft
 *  Ventas internas de Microsoft y agentes de servicios
-*  Búsquedas de cliente, mediante la herramienta **[Buscar un partner](https://partnercenter.microsoft.com/pcv/search)**.
+*  Búsqueda de cliente, mediante la herramienta de búsqueda de **[proveedor de soluciones](https://www.microsoft.com/solution-providers/home)** .
 
-Cuando un cliente esté interesado contactar contigo, te enviará una solicitud de información (RFI). 
+Cuando un cliente esté interesado en obtener más información sobre las soluciones y servicios, tendrás enviarle, envía una solicitud de información (RFI). El contacto que se enumeran en tu [perfil de negocio](create-a-marketing-profile.md) específicos de la región y ubicación seleccionados recibirán un correo electrónico generados por el sistema. También puedes ver las RFI entrantes yendo a **las referencias de clientes de las referencias >**.
 
-Cuando esto sucede, enviaremos un correo electrónico al contacto que se indica en tu [perfil de negocio](create-a-marketing-profile.md) específico de la región y ubicación seleccionados. También puedes ver las RFI entrantes: ve a **Centro de partners > referencias > referencias de cliente**.
-
-Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para tener más posibilidades de éxito, te recomendamos responder y aceptar o rechazar las nuevas referencias en 24 horas o menos.
+Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para tener más posibilidades de éxito, te recomendamos Aceptar o rechazar las nuevas referencias en 24 horas o menos.
 
 ### <a name="new-referrals"></a>Nuevas referencias
 
-Te mostraremos una descripción general de la RFI. Desde aquí, puedes decidir si estás interesado en saber más acerca de la referencia. 
+En su **Bandeja de entrada**, te mostraremos una descripción general de la RFI. Desde aquí, puedes decidir si estás interesado en la referencia. 
 
-*  **Me interesa**:Pasaremos la referencia a **Evaluación**, para ver los detalles completos del cliente y la oferta. 
-*  **No, gracias**: Lo archivaremos como **Omitido**. Notificaremos al cliente para elegir a un partner diferente.
-*  Si no responde dentro de 72 horas, lo archivaremos como **Perdida**. Notificaremos al cliente para elegir a un partner diferente.
+Revisa los detalles y no dudes en contacto con el cliente si quieres obtener más información acerca de sus necesidades empresariales. A continuación, Aceptar o rechazar la referencia: 
 
-### <a name="evaluating-referrals"></a>Evaluar las referencias
+*  **Aceptar**: Escribe el valor de la cantidad estimada, la fecha estimada de cierre y selecciona **Aceptar**. Pasaremos la referencia a **activa**, lo que significa que vas a interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudar a encontrar ofertas similares en el futuro.
+*  **Rechazar**: crearemos guardarla como **rechazada** y notificar al cliente para elegir otro partner.
 
-Revisa los detalles y ponte en contacto con el cliente. Habla con él sobre sus necesidades empresariales y determinar si tienes una oferta que puede ayudarle. Aceptar o rechazar la referencia: 
+Si no responde dentro del período de tiempo asignado (actualmente 14 días), crearemos guardarla como **caducadas** y notificar al cliente para elegir a otro partner.
 
-*  **Aceptar**: Escribe el valor de la cantidad estimada, la fecha estimada de cierre y selecciona **Aceptar**. Usaremos esta información para ayudarte a buscar ofertas similares. Pasaremos la referencia a **En negociación**. Esto nos indica que vas a interactuar activamente con el cliente para satisfacer sus necesidades.
-*  **Rechazar**: La archivaremos como **Rechazada**. Notificaremos al cliente para elegir a un partner diferente.
-*  Si no responde dentro de 7 días, lo archivaremos como **Expirada**. Notificaremos al cliente para elegir a un partner diferente.
+> [!NOTE]
+> El proceso descrito anteriormente refleja la nueva experiencia. Si tu cuenta aún no está usando esta experiencia, verás una sección de **nuevo** en lugar de la **Bandeja de entrada**. Para las nuevas referencias, tendrás 72 horas para elegir **me interesa** (que se mueve la referencia a una sección independiente de la **evaluación** y muestra más detalles) o **No, gracias** (que archiva la referencia). Si seleccionas **me interesa**, tendrás 7 días para aceptar la referencia.
 
-### <a name="negotiating-referrals"></a>Negociar referencias
+### <a name="active-referrals"></a>Referencias de activas
 
-Trabaja para cerrar el trato con el cliente. Nos gustaría saber si has ganado o perdido la oferta y guardarla como **Ganada** o **Perdida**. 
+Trabaja para cerrar el trato con el cliente. Cuando hayas terminado, selecciona **ganados** o **perdidos** para notificar el resultado, por lo que nos podemos archivar según corresponda.
 
 ### <a name="archived-referrals"></a>Referencias archivadas
 
-Revisa tus últimos referencias (**ganada, perdida, omitida, perdida, rechazada** o **expirada**) en cualquier momento. 
+Revisa tus últimos referencias (**ganados, perdido, rechazada** o **ha caducado**) en cualquier momento. 
 
 ## <a name="getting-more-referrals"></a>Obtener más referencias
 
-Aquí te mostramos algunas sugerencias para asegurarte de que estás recibiendo más referencias adecuadas para tu empresa:
-
-*  **Revisa la información de contacto en tu [perfil de negocio](create-a-marketing-profile.md)** para cada ubicación para asegurarte de que tu equipo recibe alertas entrantes.
+Estas son algunas sugerencias que te ayudarán a obtener más referencias adecuadas para tu empresa:
 
 *  **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de negocio](create-a-marketing-profile.md). Quita las palabras clave que generaría referencias que no te interesan. Si no te interesa trabajar con empresas de un tamaño determinado, actualiza esta preferencia.
 
+*  **Revisa la información de contacto en tu [perfil de negocio](create-a-marketing-profile.md)** para cada ubicación para asegurarte de que tu equipo recibe alertas entrantes.
+
 *  **Responde rápidamente a las referencias**. Al responder a las solicitudes entrantes a tiempo, aumentaremos tu visibilidad en los resultados de futuras búsquedas de clientes. Asegúrate de que tu equipo responde rápidamente con tu propósito.
 
-*  **Sé selectivo con las ofertas que aceptas**. Controlamos los tipos de ofertas que aceptas y rechazas y usamos esta información para ayudar a encontrar ofertas similares. 
-
-   Aceptar ofertas que no son una buena opción no mejora tus resultados de búsqueda y puede afectar a la calidad de los clientes potenciales que recibes.
+*  **Sé selectivo con las ofertas que aceptas**. Controlamos los tipos de ofertas que aceptas y rechazas y usamos esta información para ayudar a encontrar ofertas similares. Aceptar ofertas que no son una buena opción no mejora tus resultados de búsqueda y puede afectar a la calidad de los clientes potenciales que recibes.
 
 *  **Informan del tamaño estimado del negocio, las fechas de cierre y el estado final de tus negocios** (ganados o perdidos). Usaremos esta información para seguir ofreciéndote referencias de calidad.
