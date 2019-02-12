@@ -7,16 +7,16 @@ author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 98527a89422ff30638c4d6ecc44efac5c147a7f6
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9028508"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066022"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance planear servicios en el centro de partners
+# <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planificación de Software Assurance del Centro de partners
 
-Hacer crecer tu negocio al realizar la inscripción en los programas de partners de Software Assurance. Microsoft compensa a los partners para ofrecer servicios de formación, planificación y otros para los clientes empresariales que tienen Software Assurance.
+Hacer crecer tu negocio al realizar la inscripción en los programas de servicios de planificación de Software Assurance. Microsoft compensa a los partners para ofrecer servicios de formación, planificación y otros para los clientes empresariales que tienen Software Assurance.
 
 Como una planificación aprobadas de servicios de partners, Microsoft compensa proporcionar compromisos de planificación de implementación para los clientes empresariales. Participar en este programa puede ayudarte a atrae a más clientes, se convierten en su partner de planificación de confianza y dar lugar a compromisos adicionales del cliente.
 
@@ -25,7 +25,7 @@ Si no estás familiarizado con los servicios de planificación de Software Assur
 
 ## <a name="get-started"></a>Comenzar
 
-Si estás familiarizado con los servicios de planificación de Software Assurance, sigue los pasos siguientes. Si ya estás activo en una planificación programas en los servicios y la información de tu cuenta de partner se ha movido al centro de partners, se inicia en el paso cuatro (4) a continuación. 
+Si estás familiarizado con el servicio de planeación de Software Assurance, sigue los pasos siguientes. Si ya estás activo en los programas en los servicios de planificación y la información de tu cuenta de partner se ha movido al centro de partners, se inicia en el paso cuatro (4) a continuación. 
 
 1. Comprobar la elegibilidad de programa 
 2. Inscribirse en un programa de servicio planificación
@@ -39,7 +39,7 @@ En este artículo se explica cómo completar cada paso.
 
 ## <a name="confirm-eligibility"></a>Confirmar la elegibilidad
 
-Antes de inscribirte en un programa de servicios de planificación, tu empresa debe cumplir los requisitos de formación de cumplimiento y las competencias y consultor líderes la participación de clientes debe cumplir requisitos de exámenes y formación técnica. 
+Antes de inscribirte en el programa de servicios de planificación, tu empresa debe cumplir los requisitos de formación de cumplimiento y las competencias y consultor líderes la participación de clientes debe cumplir requisitos de exámenes y formación técnica. 
 
 Cada programa de servicios de planificación tiene requisitos de elegibilidad único. Consulta [Comprobar elegibilidad](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) para obtener más información sobre cómo planear los requisitos de elegibilidad de servicios.
 
@@ -59,9 +59,9 @@ Sigue estos pasos para ver el estado de elegibilidad de tu empresa.
 
 5. Después de que los participantes del programa de tu empresa completan el curso de formación necesarios, volver a la [página de inscripción](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) y firmar el contrato de proveedor del programa de servicio de planificación de Microsoft. 
 
-## <a name="enroll-in-a-planning-service-program"></a>Inscribirse en un programa de servicio planificación
+## <a name="enroll-in-the-planning-services-program"></a>Inscribirse en el programa de servicios de planificación
 
-Después de que tu empresa cumple los requisitos de elegibilidad para un programa de servicios de planificación y los participantes del programa han pasado el curso de formación de cumplimiento, estás listo para inscribir. 
+Después de que tu empresa cumple los requisitos de elegibilidad para el programa de servicios de planificación y los participantes del programa han pasado el curso de formación de cumplimiento, estás listo para inscribir. 
 
 Sigue estos pasos para inscribirse en un programa de servicio de planificación.
 
@@ -69,7 +69,7 @@ Sigue estos pasos para inscribirse en un programa de servicio de planificación.
 2. Selecciona los servicios de planificación para abrir la pestaña de servicios de planificación.
 3. Seleccione el programa que quieras inscribirse y selecciona **inscribir.**
 
-Cuando hayas completado este proceso, se aprobará loations de tu empresa para entregar las ofertas que has inscrito. Los empleados de la organización aparece como un rol de contacto para cualquier ubicación aprobada en MPN será aptos para acceder a la herramienta VVR para administrar los vales de planificación de servicios en nombre de esa ubicación. 
+Cuando hayas completado este proceso, se aprobará las ubicaciones de empresa para entregar las ofertas que has inscrito. Los empleados de tu compañía aparece como un administrador de partners de MPN será aptos para acceder a la herramienta VVR para administrar los vales de planificación de servicios en nombre de cualquier ubicación.
 >[!Note]
 > Tendrás que renovar los requisitos y volver a inscribirse en programas de servicios de planificación cada año.
 
@@ -92,7 +92,6 @@ Después de la empresa haya completado la participación y siempre completado en
 >[!NOTE]
 > También tendrás que subir una copia de la participación de clientes de entrega en este paso. 
 
-Después de completar y enviar el informe de finalización, guarda el archivo de recibo de envío resultante (en formato XML) en el dispositivo ya que necesitarás para canjear el asientos.
 
 Sigue los pasos de [asientos administrar en la herramienta de rescate (VVR) y la validación de asientos](voucher-validation-tool.md).
 
@@ -102,7 +101,12 @@ Una vez que has reservado un asientos, se pueden canjear.
 
 1. En la lista de asientos reservados, selecciona los asientos que quieras canjear. 
 2. Ahora, verás una lista de asientos **Redeemed** .
+3. Selecciona las casillas de verificación junto a los asientos deseados y haz clic en **canjear seleccionado asientos**.
+4. En la página del canje de asientos confirmar, revisa la información de asientos para una precisión y luego selecciona **Sí** para canjear el asientos.
 
-4. Para crear una notificación, seleccione **crear una notificación**, o bien, en la página de detalles de asientos, seleccione **crear una notificación**.
+5. Para crear una notificación, seleccione **crear una notificación**, o bien, en la página de detalles de asientos, seleccione **crear una notificación**.
 
-5. Al seleccionar **crear una notificación** , pasa a la [Herramienta de pago en línea de Software Assurance asientos ventaja (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) con el fin de facturación de Microsoft.
+6. Al seleccionar **crear una notificación** , pasa a la [Herramienta de pago en línea de Software Assurance asientos ventaja (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) con el fin de facturación de Microsoft.
+
+
+
