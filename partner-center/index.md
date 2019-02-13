@@ -9,12 +9,12 @@ author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
-ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
+ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
+ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043572"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066055"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenido al centro de partners
 
@@ -86,8 +86,8 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programas de software assurance</h3>
-                        <p>Ahora pueden inscribirse en formación de Software assurance y servicios de implementación en el centro de partners.</p></a>
+                        <h3>Programas de Software Assurance</h3>
+                        <p>Ahora pueden inscribirse en formación de Software Assurance y servicios de implementación en el centro de partners.</p></a>
                     </div>
                 </div>
             </div>
