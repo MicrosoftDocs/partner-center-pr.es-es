@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000055"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075188"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa de proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
-**Se aplica a**
+**Se aplica a:**
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
@@ -41,7 +41,7 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Acuerdo de Revendedor de nube de Microsoft: Norteamérica, América Central, Sudamérica y Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Acuerdo de Revendedor de nube de Microsoft: Europa, Oriente Medio y África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,7 +51,7 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Acuerdo de Revendedor de nube de Microsoft: Taiwán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Plantillas de acuerdos de nube de Microsoft
