@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079263"
+ms.locfileid: "9079734"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa de proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -43,6 +43,8 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Acuerdo de Revendedor de nube de Microsoft: Europa, Oriente Medio y África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Acuerdo de Revendedor de nube de Microsoft: Japón](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -57,6 +59,7 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 ## <a name="microsoft-cloud-agreement-templates"></a>Plantillas de acuerdos de nube de Microsoft
 
 Como partner en CSP, eres responsables de revisar junto a tus clientes, los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Ve a las [plantillas de cliente](agreements.md) del contrato de Microsoft Cloud para encontrar el contrato de Microsoft Cloud, deberás revisarlos con los nuevos clientes. 
+
 
 
 
