@@ -8,22 +8,22 @@ ms.author: labrenne
 keywords: CSP, partner directo, facturación directa, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
+ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011092"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079756"
 ---
-# <a name="csp-direct-partner-new-requirements"></a>Nuevos requisitos de partners directos de CSP
+# <a name="csp-direct-partner-new-requirements"></a>Nuevos requisitos de partners directos del CSP
 
-**Se aplica a**
+**Se aplica a:**
 
 - Centro de partners
 
 ## <a name="enroll-as-a-direct-partner"></a>Inscribirse como un partner directo
 
-Como partner directo, tienes la relación integral con tu cliente y con Microsoft. Hemos actualizado los requisitos de inscripción para partners de facturación directa a partir de agosto 31,2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de su empresa con el modelo de inscripción correcto de CSP y reforzar relaciones con sus clientes con los servicios de valor agregados y soporte técnico. 
+Como partner de facturación directa, que posee la relación de principio a fin con el cliente y con Microsoft. Hemos actualizado los requisitos de inscripción para partners de facturación directa a partir del 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de su empresa con el modelo de inscripción correcto de CSP y reforzar relaciones con sus clientes con los servicios de valor agregados y soporte técnico. 
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
@@ -31,11 +31,15 @@ Como partner directo, tienes la relación integral con tu cliente y con Microsof
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Un identificador de Microsoft Partner Network (MPN) activo para la ubicación de la empresa.   |
 |**Aprobación**   |La autoridad para aceptar y firmar acuerdos legales en nombre de la organización.|
-|**Soporte**   |Admite la capacidad para proporcionar el primer nivel de producto en la nube a los clientes.|
+|**Soporte**  |Admite la capacidad para proporcionar el primer nivel de producto en la nube a los clientes. Un plan de soporte técnico de Microsoft, cualquier compatibilidad con avanzada para Partners (ASfP) o soporte técnico Premier para los Partners (PSfP), según tus necesidades. [Comparar los planes de soporte técnico](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Servicios administrados**   |Al menos un servicio administrado, servicio IP o aplicación de la solución de cliente. Obtén más información sobre cómo agregar [los servicios administrados](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Cuentas por cobrar** |La infraestructura de la organización en su lugar para administrar el cliente de facturación y aprovisionamiento. 
 
-Más información sobre cómo convertirse en [revendedor de CSP](https://partner.microsoft.com/cloud-solution-provider)
+Después de revisar los requisitos mínimos anteriores, debe completar un cuestionario de validación rápida para confirmar que puede usar. 
+
+[Cuestionario de proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+Evaluación del cuestionario determina la elegibilidad para inscribirse en el programa de facturación directa de CSP. Una vez que hayas confirmado mediante el cuestionario que cumplan los criterios de facturación directa y han enviado el formulario de inscripción, realizaremos una revisión de empresas de la compañía incluida una comprobación de crédito. Si estás aprobado de crédito, tendrás que confirmar la compra de un ASfP o PSfP plan y, por último, acepta el contrato de términos de facturación directa para empezar a realizar transacciones con clientes como partner de facturación directa.
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de revendedor directo a indirecto
 
