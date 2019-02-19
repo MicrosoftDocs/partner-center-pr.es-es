@@ -6,12 +6,12 @@ description: Como proveedor o distribuidor indirecto, puedes colaborar con los r
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795198"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081359"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -40,9 +40,9 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
 2.  Conectar con indirectos revendedores
 
-    - Antes de poder interactuar y realizar transacciones con los revendedores, debes establecer asociaciones con ellos en el centro de partners. <br>
+    - Antes de poder interactuar y realizar transacciones con revendedores, debes establecer asociaciones con ellos en el centro de partners. <br>
 
-3.  Conectar con los clientes
+3.  Conectar con clientes
 
     - Asociar los nuevos clientes y suscripciones con revendedores
     - Establecer relaciones de revendedor con clientes ya existentes <br>
@@ -75,12 +75,65 @@ Para establecer una asociación, envía un correo electrónico al revendedor con
 
 Según el nivel de acceso e intervención que quieras que tenga el revendedor, puedes realizar una o más de las acciones que se describen a continuación.
 
+Para las suscripciones existentes, si decides trabajar con un revendedor indirecto, puedes actualizar los detalles de suscripción para incluir el revendedor indirecto.
+
+- En la página de detalles de suscripción, en el campo de **revendedor (Id. de MPN)** , agrega el revendedor que quieres trabajar con. Esto garantiza que el revendedor recibirán los incentivos adecuados.
+
 | **Para ello** | **Realiza lo siguiente** | **Donde** |
 |   ------------------   |   -------   |   -----   |
 | Habilitar al revendedor para que administre la cuenta del cliente y tener permisos de administrador para administrar sus suscripciones | Asociar un revendedor a una cuenta de cliente cuando se agregue un nuevo cliente | En la página **Nuevo cliente** |
 |Permitir al revendedor administrar la cuenta de Azure de un cliente|Asociar un revendedor a una cuenta de Azure de cliente cuando se agregue un nuevo cliente|En el **portal del servicio de Azure**, seleccione [Configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar al revendedor indirecto permisos de **propietario del espacio empresarial**|
 | Dar al revendedor créditos para incentivos | Asociar el revendedor con la suscripción (nueva o existente) | En la página **Nueva suscripción** |
 | Delegar la atención al cliente al revendedor en determinadas suscripciones | Selecciona el revendedor desde la lista **Contacto de soporte técnico designado** | En la página de detalles de la suscripción: Selecciona el cliente en página **Clientes** y, a continuación, selecciona la suscripción del cliente en la página **Suscripciones** |
+
+En la actualidad, los proveedores indirectos usar panel del centro de partners para realizar pedido y, opcionalmente, elige un revendedor indirecto como el PartnerOnRecord. Si no eligen un revendedor indirecto, hemos tratarlo como una transacción de nivel 1 e incentivar como tal, el proveedor indirecto. Si elegir uno, tratamos el orden como transacción de nivel 2 y te incentivar el proveedor indirecto y el revendedor indirecto según corresponda:
+
+ 
+
+También hay una experiencia donde un proveedor indirecto también puedes actualizar la PartnerOnRecord para las suscripciones existentes:
+
+ 
+
+¿Saber si tenemos documentación existente en cómo indirecto proveedores deben administrar el PartnerOnRecord configuración Ten?
+El motivo para que pedir esto es porque parece haber bastante un conjunto significativo de las transacciones de nivel 2 que no se han configurado correctamente por los proveedores indirectos, lo que provoca que los pagos de incentivos incorrecto. A medida que pasa el tiempo, los partners había realizado esto e iniciado llegar a Microsoft para obtener un backpay de incentivos. Si no tenemos cobertura de documentación en esta área, me gustaría obtener la Ayuda reunir uno.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>Conectar con los clientes
@@ -102,7 +155,7 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 
 6.  Tras enviar el pedido, aparecerá la página **Confirmación**. En **Información de configuración**, se muestran el nombre de usuario y la contraseña temporal del administrador de la cuenta. Copia la información de nombre de usuario de la cuenta y la contraseña para enviarla al nuevo cliente. 
     > [!IMPORTANT]  
-    > Asegúrate de toma nota del nombre de la cuenta de usuario y contraseña ya no podrás acceder a esta información de nuevo después de cerrar esta página.
+    > Asegúrate de anote el nombre de la cuenta de usuario y la contraseña ya no podrás acceder a esta información de nuevo después de cerrar esta página.
 
 7.  Selecciona **Listo**. El cliente nuevo aparece en la lista de clientes, asociado con el revendedor indirecto. Ahora el revendedor tiene acceso de administrador a la información de la cuenta del cliente y a las suscripciones y puede administrar las suscripciones en su nombre.
 
