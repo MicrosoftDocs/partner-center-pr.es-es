@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079734"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083148"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa de proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -27,13 +27,12 @@ Revisa la información de este artículo para comprender los requisitos para par
 
 ## <a name="cloud-solution-provider-program-guide"></a>Guía del programa Proveedor de soluciones en la nube
 
-
 Revisa los requisitos para convertirse en un partner del programa de Proveedor de soluciones en la nube
 
 [Guía del programa para partners de Proveedor de soluciones en la nube](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Si se requiere una letra de estado de certificación o la confirmación, puedes solicitar [ponerse en contacto con soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create).
+>Si necesita una carta comercial confirmar o el estado de la certificación como un partner de Microsoft autorizado en el programa de proveedor de soluciones en la nube, [Ponte en contacto con soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar una.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Contrato de partner del proveedor de soluciones en la nube
 
@@ -42,8 +41,6 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 [Acuerdo de Revendedor de nube de Microsoft: Norteamérica, América Central, Sudamérica y Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Acuerdo de Revendedor de nube de Microsoft: Europa, Oriente Medio y África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft requiere que los partners firmen este contrato para unirse al programa
 
 [Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Plantillas de cliente del contrato de Microsoft en la nube
 
-## <a name="microsoft-cloud-agreement-templates"></a>Plantillas de acuerdos de nube de Microsoft
+Para poder realizar un pedido en el nombre de un cliente, el cliente debe aceptar y firmar el contrato de nube de Microsoft aplicables. Contratos de Microsoft Cloud son específicos de una región y están disponibles en varios idiomas. Ve a las [plantillas de cliente](agreements.md) del contrato de Microsoft Cloud para encontrar el contrato de Microsoft Cloud, deberás revisarlos con los nuevos clientes.
 
-Como partner en CSP, eres responsables de revisar junto a tus clientes, los términos y condiciones de Microsoft, incluido el uso aceptable de los productos y servicios de Microsoft. Ve a las [plantillas de cliente](agreements.md) del contrato de Microsoft Cloud para encontrar el contrato de Microsoft Cloud, deberás revisarlos con los nuevos clientes. 
-
-
-
+>[!IMPORTANT]
+>Debes confirmar que un cliente ha aceptado el acuerdo de nube de Microsoft al proporcionar información acerca de la persona que ha firmado. Para obtener más información, consulta [confirmación de aceptación de cliente de contrato de Microsoft Cloud preguntas más frecuentes](confirm-consent-faq.md) y [Confirmar aceptación de un cliente del contrato de Microsoft en la nube](confirm-consent.md) .
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Modificación de secreto profesional el contrato de Microsoft Cloud (Alemania)
 

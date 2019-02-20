@@ -5,18 +5,18 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: cliente, los clientes, consentimiento
+keywords: cliente, clientes, da su consentimiento, MCA, contrato de Microsoft Cloud, plantillas de acuerdos de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000035"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083198"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del contrato de Microsoft en la nube
 
-**Se aplica a**
+**Se aplica a:**
 -  Centro de partners
 
 Como partner, debes obtener la aceptación de tu cliente del contrato de Microsoft en la nube antes de que se pueden pedir productos de Microsoft y servicios para que el cliente. Para mejorar la ayuda a los partners cumplan los requisitos de cumplimiento, Microsoft te pide a los partners para confirmar la aceptación al proporcionar la siguiente información relativa a la persona que ha aceptado el acuerdo: 
@@ -31,7 +31,7 @@ Como partner, debes obtener la aceptación de tu cliente del contrato de Microso
 
 -   Fecha de aceptación
 
-Para obtener más información, consulta la [confirmación de aceptación de cliente de contrato de Microsoft Cloud preguntas más frecuentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Para obtener más información, consulta la confirmación de aceptación de cliente del contrato de Microsoft Cloud [Preguntas más frecuentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
 ## <a name="schedule"></a>Programación
 
@@ -63,7 +63,8 @@ Para obtener más información, consulta la [confirmación de aceptación de cli
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmar la aceptación del cliente para un nuevo cliente
 
-Usa el siguiente procedimiento para confirmar la aceptación del cliente mientras creas a un nuevo inquilino del cliente en el centro de partners. Ten en cuenta que debe ser un agente de administración o el agente de ventas para hacer esto. 
+Usa el siguiente procedimiento para confirmar la aceptación del cliente mientras creas a un nuevo inquilino del cliente en el centro de partners. Ten en cuenta que debe ser un agente de administración o el agente de ventas para hacer esto.
+ 
 1.  Selecciona **los clientes**y, a continuación, **nuevo cliente** y, a continuación, selecciona **la información de cuenta**.
 
 2.  Escribe la información acerca de la **empresa** y el **contacto principal**.
@@ -79,7 +80,6 @@ Usa el siguiente procedimiento para confirmar la aceptación del cliente mientra
 ![Agregar la fecha de aceptación](images/mca/MCA3.png)
 
 De manera predeterminada, se muestra la información de usuario de contacto principal. Si esto no es correcto, selecciona la **actualización** y, a continuación, escribe el **nombre**, **apellido**, **dirección de correo electrónico**, y **número de teléfono* (opcional) de la persona que ha aceptado el acuerdo.
-
 
 6.  Seleccione **siguiente** para continuar con el resto de los pasos para crear al inquilino del cliente.
 

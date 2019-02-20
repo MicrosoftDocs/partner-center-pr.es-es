@@ -6,12 +6,12 @@ description: Usa estas preguntas más frecuentes para obtener más información 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 8da6afb92a42f04463a34ecb3506fcf9146e15cd
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797188"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083218"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes del centro de partners para Microsoft Cloud for US Government
 
@@ -24,9 +24,10 @@ ms.locfileid: "5797188"
 Usa estas preguntas más frecuentes para obtener más información acerca del programa Proveedor de soluciones en la nube (CSP) de Microsoft Cloud for US Government. También puedes ponerte en contacto con el administrador de cuentas para obtener más información. 
 
 ### <a name="common"></a>Común
+
 **¿Qué es Microsoft Cloud for US Government?**
 
-Diseñado para el gobierno de Estados Unidos desde el principio, Microsoft Cloud for Government permite que los clientes del sector público de los Estados Unidos: desde grandes agencias federales ayuntamientos de Ciudad pequeña: seleccionar entre una variedad de servicios de informática en la nube. Para dirigirse mejor a las necesidades específicas de los clientes, Microsoft ha realizado una gran inversión en centros de datos y se compromete a cumplir las directivas, exigencias y requisitos estatales y federales de los Estados Unidos. 
+Diseñado para el gobierno de Estados Unidos desde el principio, Microsoft Cloud for Government permite a los clientes del sector público en los Estados Unidos: desde grandes agencias federales ayuntamientos de Ciudad pequeña: seleccionar entre una variedad de servicios de informática de nube. Para dirigirse mejor a las necesidades específicas de los clientes, Microsoft ha realizado una gran inversión en centros de datos y se compromete a cumplir las directivas, exigencias y requisitos estatales y federales de los Estados Unidos. 
 
 **¿Quién puede participar en el programa CSP de Microsoft Cloud for US Government?**
 
@@ -68,9 +69,9 @@ Existen dos diferencias entre el MCRA para Microsoft Cloud for US Government y e
 
 -   El anexo de US Government Cloud contiene responsabilidad adicional de partner para realizar transacciones con los servicios de US Government Cloud.
 
--   El documento A contiene el contrato de Microsoft Cloud (MCA) que debe incluirse en cada contrato de los servicios de US Government Cloud realizado entre el CSP y el cliente.
+-   El documento A contiene el contrato de Microsoft Cloud (acuerdo de nube de Microsoft) que debe incluirse en cada contrato de servicios de US Government Cloud entrado el CSP y el cliente.
 
-*El acuerdo de Microsoft Cloud (MCA) se presenta como documento A en MCRA.*
+*Contrato de Microsoft Cloud (contrato de Microsoft Cloud) presenta como un documento en MCRA*
 
 Los CSP se necesitan para incorporar el documento A en contrato de gobierno creado entre los CSP y los clientes que compren Microsoft Cloud for US Government. El contrato se publica en el Centro de partners y está disponible en inglés.
 
@@ -88,7 +89,7 @@ Existen dos diferencias entre el MCDA para Microsoft Cloud for US Government y e
 
 -   El anexo de Microsoft Cloud for US Government contiene responsabilidad adicionales de partner para realizar transacciones con los servicios de US Government Cloud.
 
--   El documento A contiene el contrato de Microsoft Cloud (MCA) que debe incluirse en cada contrato de los servicios de US Government Cloud realizado entre el CSP y sus clientes.
+-   El documento A contiene el contrato de Microsoft Cloud (acuerdo de nube de Microsoft) que debe incluirse en cada contrato de servicios de US Government Cloud entre el CSP y sus clientes.
 
 **¿Cuáles son las calificaciones para vender Microsoft Cloud for US Government?**
 
@@ -108,7 +109,7 @@ No. Los requisitos y criterios de facturación del programa CSP de Microsoft Clo
 
 **¿Es posible cambiar a Microsoft Cloud for US Government los datos hospedados en centros de datos comerciales?**
 
-Para facilitar y mantener la integridad del aislamiento de Microsoft Cloud for US Government, no hay ningún mecanismo para trasladar los servicios existentes del cliente a Microsoft Cloud for US Government. Si un cliente o partner tiene Azure, será responsable de cualquier movimiento de datos a un nuevo entorno dentro de Microsoft Cloud for US Government.
+Para facilitar y mantener la integridad del aislamiento de Microsoft Cloud for US Government, no hay ningún mecanismo para trasladar los servicios existentes de un cliente a Microsoft Cloud for US Government. Si un cliente o partner tiene Azure, será responsable de cualquier movimiento de datos a un nuevo entorno dentro de Microsoft Cloud for US Government.
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Microsoft Cloud for US Government de Azure
