@@ -7,16 +7,16 @@ author: labrenne
 ms.author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 07009b774d0cbd8e8a5a857fd23ad7bad1bd83f1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4ae09cf4edc73eb57e729e7937dde5d1e07b2db5
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797049"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083398"
 ---
-# <a name="add-third-party-software-to-your-portfolio"></a>Agregar software de terceros a la cartera
+# <a name="purchase-third-party-software-for-your-customers"></a>Comprar software de terceros para los clientes
 
-**Se aplica a** 
+**Se aplica a:** 
 
 - Centro de partners
 

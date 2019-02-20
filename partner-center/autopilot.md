@@ -2,21 +2,21 @@
 title: Personalizar la experiencia out-of-box de un dispositivo con los perfiles de Windows Autopilot | El centro de partners
 description: Preconfigurar experiencia out-of-box de un dispositivo con perfiles Autopilot.
 ms.topic: article
-ms.date: 2/6/19
+ms.date: 02/06/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot de windows, autopilot de microsoft, implementación sin interacción, oobe, pantallas de inicio de sesión, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e83c63bb10c041549f5a09bc32bdae979d462d
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062283"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083408"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar la experiencia out-of-box de un dispositivo con los perfiles de Windows Autopilot
 
-**Aplicable a**
+**Se aplica a:**
 
 - Los partners de CSP directo factura, los proveedores indirectos y distribuidores indirectos
 
