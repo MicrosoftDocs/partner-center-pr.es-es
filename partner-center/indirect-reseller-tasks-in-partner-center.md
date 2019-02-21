@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: revendedores indirectos, revendedores, proveedores indirectos, proveedores, asociación, VAR, nivel2, nivel 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995999"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086753"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
-La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de relación con los clientes completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
+La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder mercado, pero que no quieran administrar varios proveedores o que no tengan una infraestructura de administración de relación de cliente de principio a fin colocar, pueden inscribirse en el programa de proveedor de soluciones en la nube (CSP) de Microsoft como indirecto revendedores.
 
 Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionarte soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft y que tu revendes a los clientes.
 

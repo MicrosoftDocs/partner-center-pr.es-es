@@ -4,18 +4,13 @@ hide_bc: true
 title: Comienza aquí para obtener ayuda con el centro de partners
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: El centro de partners puede ayudar a hacer crecer tu negocio en el programa de proveedor de soluciones en la nube (CSP) de Microsoft. Configurar tu cuenta, conectar con los clientes, comprar una suscripción a Action Pack y obtener más información para partners en los programas de CSP y MPN. 
+description: "El centro de partners puede ayudar a hacer crecer tu negocio en el programa de proveedor de soluciones en la nube (CSP) de Microsoft. Configurar tu cuenta, conectar con los clientes, comprar una suscripción a Action Pack y obtener más información para partners en los programas de CSP y MPN.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066055"
 ---
+
 # <a name="welcome-to-partner-center"></a>Bienvenido al centro de partners
 
 Microsoft Partner Center es la única ubicación para administrar la relación de principio a fin con Microsoft. Tiene herramientas y recursos que te ayudarán a realizar transacciones y hacer crecer sus negocios, incluyendo las opciones de pertenencia, las referencias de clientes y el programa de proveedor de soluciones en la nube (CSP). Obtén información sobre los procedimientos recomendados para administrar tu cuenta, conectarte con clientes, comprar una suscripción a Action Pack y realizar la inscripción en un programa de incentivos en la biblioteca de Ayuda del centro de partners.
@@ -28,7 +23,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft Partner Center es la única ubicación para administrar la relación d
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

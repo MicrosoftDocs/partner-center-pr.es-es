@@ -7,162 +7,123 @@ author: labrenne
 ms.author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995919"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086733"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
-**Se aplica a:**
 
-- Centro de partners
+Hayas configurado tu perfil de partner incluidos nombre legal y dirección, detalles de soporte técnico, exenciones fiscales, información bancaria y el contacto principal de tu empresa. Siguiente paso: Haz que los usuarios configurados con las contraseñas y roles para que puedan comenzar a trabajar en el centro de partners contigo.
 
-Cada rol en el centro de partners viene con determinados permisos permiten al usuario realizar tareas específicas. Todos los usuarios que funciona en el centro de partners debe tener asignado un rol.
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurar los empleados a trabajar en el centro de partners
 
-Según el tamaño de la organización algunos usuarios pueden funcionar en distintas ubicaciones o solo para una sola ubicación. 
+Determinar los tipos de acceso de los usuarios al centro de partners por los roles y permisos que les darías. Roles están relacionados con los programas que participa en tu negocio. Por ejemplo, si tu empresa es una empresa de proveedor de soluciones en la nube (CSP), no solo tendrá Azure AD estándar de inquilino de funciones de administración como administrador global, pero que las funciones específicas del programa CSP. Cada programa tiene roles específicos.
 
-Por ejemplo:
+>[!Note]
+> Roles de inquilino de Azure Active Directory (AAD) incluyen el administrador global, Administrador de usuarios y las funciones CSP. Roles de AAD de no incluyen administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos y usuario de incentivos. 
 
-- El administrador global puede ser el Administrador de la empresa legal y una ubicación específica; o bien, el administrador global puede ser el Administrador de solo una de las ubicaciones de la empresa. 
-- Los administradores de incentivos pueden administrar para una o varias ubicaciones, pero que deben especificarse esas ubicaciones.
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Administrar las transacciones comerciales en el centro de partners (Azure AD y roles CSP)
+
+|**Rol**|**Lo que se puede hacer**|
+|----------------------------------|:---------------------------------|
+|Administrador global|• Puede tener acceso a todas las cuentas o servicios Microsoft con privilegios completos
+|      |• Crear incidencias de soporte técnico para el centro de partners
+||• Ver contratos, listas de precios y ofertas
+||• Ver, crear y administrar usuarios de partners|
+|Administrador de usuarios   | • Ver, crear y administrar usuarios
+||• Ver todos los perfiles de partners
+||• Ver, crear y administrar usuarios de partners  |
+|Usuario predeterminado|  Ver mi perfil   |
+|Agente de administración | • Administración de clientes
+||• Agregar la lista de dispositivos a la Center< de partners
+||• Crear y aplicar los perfiles a los dispositivos
+||• Administración de suscripciones
+||Solicitudes de servicio y estado del servicio de • para los clientes
+||• Solicitud privilegios de administrador
+||• Ver precios y ofertas
+||• La facturación
+||• Administrar en nombre de un cliente
+||• Registrar un valor agregado revendedor|
+|Agente de ventas | • Administración de clientes
+||• Agregar una lista de dispositivos en el centro de partners
+||• Administración de suscripciones
+||• Ver incidencias de soporte técnico
+||• Solicitar una relación con un cliente
+||• Administrar clientes potenciales
+||• Ver el contrato de cliente
+||• Registrar un revendedor de valor agregado|
+|Agente del departamento de soporte técnico| • Buscar y ver un cliente
+||• Editar detalles de los clientes
+||• Ayudan a resolver problemas del cliente con la administración de facturación o de suscripción
+||• Solicitar soporte en nombre de los clientes (Nota: debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)
+||• Administrar suscripciones y facturación problemas en nombre de los clientes (Nota: debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365)|
+|
+### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Proveedor de Panel de control (CPV). (Las funciones CSP y no AAD)
+CPVs desarrollar aplicaciones para su uso por los partners de proveedor de soluciones en la nube (CSP) para que puedan integrar sus sistemas con las API del centro de partners. 
+
+|**Rol**   |**Lo que puedes hacer**|
+|------------------------------|:----------------------------|
+|Administrador global| Ver y administrar tu perfil CPV|
+||Ver y administrar cualquiera de los usuarios que necesitan acceder a las funcionalidades CPV|
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Administrar tu empresa (funciones que no sean AAD) y la suscripción a MPN
+
+|**Rol** | **Lo que puedes hacer**|
+|----------------------------|:----------------------------|
+|Administrador MPN|•CAN agregar usuarios del inquilino que no sean
+||• Ver, crear y administrar las solicitudes de servicio de partners
+||• Vista legales, organización, empresas y perfiles MPN
+||• Ver detalles de usuario y sus datos de habilidades
+||• Ver competencias
+||• Ver y administrar ventajas
+||• Vista y compra de ofertas MPN
+||Facturas y el historial de pedidos de ofertas • vista MPN
+||• Puede ver los datos de contribución de partners
+||• Puede trabajar en la herramienta de validación de asientos|
+|Administrador de la cuenta| • Agregar usuarios del inquilino que no sean
+||• Agregar o eliminar ubicaciones
+||-Administrar perfiles relacionados con las cuentas que eres el Administrador de 
+||• Asignar roles para los usuarios de inquilino a las funciones que no sean de AAD 
+||• Inscribir ubicaciones en los programas
+
+## <a name="manage-referrals-non-aad-roles"></a>Administrar las referencias (funciones que no sean AAD)
+
+|**Rol**|**Lo que puedes hacer**|
+|-----------------------------|:------------------------|
+|Administrador de referencias       |• Ver, crear y administrar perfiles de negocio
+||• Recibir y administrar las referencias
+||• Ver, crear y administrar las solicitudes de servicio de partners|
+|Administrador de perfil de negocio   |•View, crear y administrar el perfil de negocio 
+||• Ver, crear y administrar las solicitudes de servicio de partners|
+
+## <a name="manage-incentives--non-aad-roles"></a>Administrar incentivos (funciones que no sean AAD)
+
+|**Rol** | **Lo que puedes hacer**|
+|------------------------------|:-------------------------|
+|Administrador de incentivos|• Inicia y administra los incentivos 
+||• Permite ver y editar todos los aspectos de los programas de incentivos
+||• Permite ver y editar detalles bancarios y fiscales
+||• Ganancias de reembolso y cooperación de vista
+||• Soporte de acceso
+||• Los pagos de incentivos disputa|
+|Usuario de incentivos|• Ver programas de incentivos
+||• Puede ver e iniciar reclamaciones de incentivos
+||• Ganancias de reembolso y cooperación de vista
+||• Ganancias de reembolso y cooperación de vista
+||• Soporte de acceso
 
 
-La siguiente tabla explica lo que puede hacer cada rol en el centro de partners. Al pensar en cómo quieres asignar los roles, ten en cuenta el trabajo que un usuario hace en la organización. Por ejemplo, es posible que quieras que el administrador global sea también el agente de administración. La persona que administra el marketing también puede ser la persona que debe administrar el perfil de negocio.
 
-Para obtener información general de roles y permisos, lee [crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md).
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rol en el centro de partners</strong></p></td>
-<td><p><strong>Lo que se puede hacer</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador global</strong></p></td>
-<td><ul>
-<li><p>Puede acceder a todas las cuentas o servicios Microsoft con privilegios completos</p></li>
-<li><p>Crear incidencias de soporte técnico para el centro de partners</p></li>
-<li><p>Ver contratos, listas de precios y ofertas</p></li>
-<li><p>Facturación</p></li>
-<li><p>Ver, crear y administrar los usuarios de partners</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administrador de facturación</strong></p></td>
-<td><ul>
-<li><p>Puede acceder a todas las facturas de Microsoft con privilegios completos</p></li>
-<li><p>Ver contratos, listas de precios y ofertas</p></li>
-<li><p>Facturación</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de administración de usuarios</strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar usuarios</p></li>
-<li><p>Ver todos los perfiles de partners</p></li>
-<li><p>Ver, crear y administrar los usuarios de partners</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administrador de perfil de negocio</strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar el perfil de negocio </p></li>
-<li><p>Ver, crear y administrar las solicitudes de servicio de los partners</p></li>
-</ul></td>
-<tr class="odd">
-<td><p><strong>Administrador de referencias </strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar los perfiles de negocio</p></li>
-<li><p>Recibir y administrar las referencias</p></li>
-<li><p>Ver, crear y administrar las solicitudes de servicio de los partners</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administrador de partners de MPN</strong></p></td>
-<td><ul>
-<li><p>Ver, crear y administrar las solicitudes de servicio de los partners</p></li>
-<li><p>Ver perfiles legales, de la organización, del negocio y de MPN</p></li>
-<li><p>Ver los detalles de los usuarios y sus datos de habilidades</p></li>
-<li><p>Ver competencias</p></li>
-<li><p>Ver y administrar ventajas</p></li>
-<li><p>Ver y adquirir ofertas de MPN</p></li>
-<li><p>Ver facturas e historial de pedidos de ofertas de MPN</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de la cuenta</strong></p></td>
-<td><ul>
-<li><p>Crear nuevas ubicaciones</p></li>
-<li><p>Inscribir ubicaciones en programas (excepciones son CSP y programas de revendedores indirectos)</p></li>
-<li><p>Administrar perfiles relacionados con las cuentas de ubicación administran</p></li>
-<li><p>Asignar otros administradores de la cuenta, administrador MPN, Administrador de perfil de negocio, Administrador de referencias, Administrador de incentivos y los roles de usuario de incentivos para los usuarios</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrador de incentivos</strong></p></td>
-<td><ul>
-<li><p>Inicia y administra reclamaciones de incentivos</p></li>
-<li><p>Permite ver y editar todos los aspectos de los programas de incentivos</p></li>
-<li><p>Permite ver y editar detalles bancarios y fiscales</p></li>
-<LI><p>Ganancias de reembolso y cooperación de vista</p></li>
-<LI><p>Compatibilidad con el acceso</p></li>
-<LI><p>Pagos de incentivos disputa</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Usuario de incentivos</strong></p></td>
-<td><ul>
-<li><p>Ver programas de incentivos</p></li>
-<li><p>Permite ver e iniciar reclamaciones de incentivos</p></li>
-<li><p>Ver detalles bancarios y fiscales</p></li>
-<li><p>Ganancias de reembolso y cooperación de vista</p></li>
-<LI><p>Ganancias de reembolso y cooperación de vista</p></li>
-<LI><p>Compatibilidad con el acceso</p></li>
-<LI><p>Pagos de incentivos disputa</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agente de administración</strong></p></td>
-<td><ul>
-<li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el centro de partners&lt;</p></li>
-<p><li>Crear y aplicar los perfiles a los dispositivos</p></li>
-<li><p>Administración de suscripciones</p></li>
-<li><p>Estado del servicio y solicitudes de servicio para clientes</p></li>
-<li><p>Solicitar privilegios de administrador delegado</p></li>
-<li><p>Ver precios y ofertas</p></li>
-<li><p>Facturación</p></li>
-<li><p>Administrar en nombre de un cliente</p></li>
-<li><p>Registrar un revendedor de valor agregado</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Agente de ventas</strong></p></td>
-<td><ul>
-<li><p>Administración de clientes</p></li>
-<li><p>Agregar una lista de dispositivos en el centro de partners</p></li>
-<li><p>Administración de suscripciones</p></li>
-<li><p>Ver incidencias de soporte técnico</p></li>
-<li><p>Solicitar relación con un cliente</p></li>
-<li><p>Administrar clientes potenciales</p></li>
-<li><p>Ver el contrato de cliente</p></li>
-<li><p>Registrar un revendedor de valor agregado</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Agente del departamento de soporte técnico</strong></p></td>
-<td><ul>
-<li><p>Buscar y ver un cliente</p></li>
-<li><p>Editar detalles del cliente</p></li>
-<li><p>Ayudar a resolver problemas del cliente referentes a la facturación o la administración de las suscripciones</p></li>
-<li><p>Solicitar soporte técnico en nombre de los clientes. (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365).</p></li>
-<li><p>Administrar los problemas referidos a suscripciones y facturación en nombre de los clientes. (Nota: Debes ser un agente administrador para completar esta tarea en las suscripciones de Office 365).</p></li>
-</ul></td>
-</tr>
+
+
+
+
+
+
+
+

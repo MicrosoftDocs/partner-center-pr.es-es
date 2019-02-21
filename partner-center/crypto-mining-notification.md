@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796168"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086723"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación del centro de partners para actividad de minería de criptomonedas
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796168"
 
 Es posible que ha recibido la siguiente notificación del centro de partners sobre minería de criptomonedas:
  
-![](images/crypto1.png)
+![Imagen de notificación de seguridad en el centro de partners](images/crypto1.png)
 
 El propósito de esta notificación es informar al usuario de que hemos detectado minería de criptomonedas en una o varias de tus suscripciones de Azure durante la semana pasada. La minería de criptomonedas no equivale necesariamente a una actividad fraudulenta. Sin embargo, es inusual porque el costo de la ejecución de la minería de criptomonedas en Azure tiende a ser superior a las posibles recompensas económicas. Para protegerse frente al fraude financiero que puede afectarte a ti o a tu cliente, ten en cuenta los siguientes pasos:
 
@@ -37,7 +37,7 @@ El propósito de esta notificación es informar al usuario de que hemos detectad
 Si la actividad es normal, vuelve a la página de detalles de la suscripción de Azure del cliente y confirma que la minería de criptomonedas es legítima. 
 
 
-![](images/crypto2.png)
+![Imagen de la página de detalles de suscripción de Azure del cliente](images/crypto2.png)
 
 Si la actividad es inesperada, ten en cuenta lo siguiente:
 
