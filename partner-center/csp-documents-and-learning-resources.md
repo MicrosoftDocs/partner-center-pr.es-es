@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083148"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098772"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del programa de proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -29,7 +29,7 @@ Revisa la información de este artículo para comprender los requisitos para par
 
 Revisa los requisitos para convertirse en un partner del programa de Proveedor de soluciones en la nube
 
-[Guía del programa para partners de Proveedor de soluciones en la nube](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Guía del programa para partners de Proveedor de soluciones en la nube](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >Si necesita una carta comercial confirmar o el estado de la certificación como un partner de Microsoft autorizado en el programa de proveedor de soluciones en la nube, [Ponte en contacto con soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar una.
@@ -38,19 +38,19 @@ Revisa los requisitos para convertirse en un partner del programa de Proveedor d
 
 Microsoft requiere que los partners firmen este contrato para unirse al programa de Proveedor de soluciones en la nube. Revisar la guía para el mercado o la nube a nivel nacional en el que vas a vender.
 
-[Acuerdo de Revendedor de nube de Microsoft: Norteamérica, América Central, Sudamérica y Caribe](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Norteamérica, América Central, Sudamérica y Caribe](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Asia, Australia y Pacífico](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Europa, Oriente Medio y África](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Europa, Oriente Medio y África](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Japón](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Japón](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Corea del Sur](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Corea del Sur](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Taiwán](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Taiwán](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Acuerdo de Revendedor de nube de Microsoft: Microsoft Cloud para el gobierno de los Estados Unidos](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Plantillas de cliente del contrato de Microsoft en la nube
 

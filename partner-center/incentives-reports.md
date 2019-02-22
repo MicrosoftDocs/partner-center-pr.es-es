@@ -6,12 +6,12 @@ description: Ahora los programas de incentivos Ventas OSA y Uso de servicios en 
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796188"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098722"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Los informes de datos dinámicos sustituyen a los informes mensuales en algunos programas de incentivos.
 
@@ -35,7 +35,7 @@ En la actualidad esto afecta a los programas de incentivos de Venta OSA y Uso de
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Empieza a usar la nueva funcionalidad de informes: 
 
-1. Descarga y revisa los activos de preparación en [Informes de incentivos de partner en la Partner Incentives Experience](http://aka.ms/osareadiness ) de MPN.
+1. Descarga y revisa los activos de preparación en [Informes de incentivos de partner en la Partner Incentives Experience](https://aka.ms/osareadiness ) de MPN.
 
 2. Ve a [PIE](https://partnerincentives.microsoft.com/)
 

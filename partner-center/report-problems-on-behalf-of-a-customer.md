@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995969"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098852"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -105,7 +105,7 @@ No, no se ofrece soporte técnico por teléfono para este programa.
 
 Si inicias sesión en el portal de Microsoft Azure directamente, verás el centro en tu propio contexto, no en el de un cliente. Por lo tanto, solo debes iniciar sesión directamente en el portal de Microsoft Azure al crear una solicitud de servicio para tus propias suscripciones.
 
-El derecho de soporte técnico de CSP no proporciona soporte técnico para tu propia suscripción de partner, por lo que al crear una solicitud de servicio para tu suscripción de partner, debes proporcionar la autorización válida del plan de soporte técnico. Algunos ejemplos son un id. de contrato de MPN o un plan de soporte técnico Premier o de Azure. Consulta [Preguntas más frecuentes de soporte técnico de Azure](http://go.microsoft.com/fwlink/?LinkId=717532).
+El derecho de soporte técnico de CSP no proporciona soporte técnico para tu propia suscripción de partner, por lo que al crear una solicitud de servicio para tu suscripción de partner, debes proporcionar la autorización válida del plan de soporte técnico. Algunos ejemplos son un id. de contrato de MPN o un plan de soporte técnico Premier o de Azure. Consulta [Preguntas más frecuentes de soporte técnico de Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **¿Qué sucede si inicio sesión en el portal del Centro de administración de Office 365 y omitir Partner Center?**
 
@@ -113,7 +113,7 @@ Si inicias sesión en el Centro de administración de Office 365 directamente, v
 
 **¿Cómo puedo obtener soporte técnico de Dynamics 365 adicional?**
 
-Si estás experimentando problemas relacionados con: Dynamics 365 Plan suscripciones, licencias, facturación, finanzas y operaciones, IURs o requiere más soporte técnico:
+Si estás experimentando problemas relacionados con: Dynamics 365 Plan suscripciones, licencias, facturación, finanzas & operaciones, IURs o requieren más soporte técnico:
  
 Ponte en contacto con [soporte técnico de Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

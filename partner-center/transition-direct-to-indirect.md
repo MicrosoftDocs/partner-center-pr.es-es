@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: facturación directa, transición, revendedor indirecto
-ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083378"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098802"
 ---
 **Se aplica a:**
  - Partners de CSP
@@ -157,4 +157,4 @@ Después de que te has inscrito correctamente como un revendedor indirecto en el
 
 También está autorizado para inscribirse en programas de incentivos de facturación directa con ese mismo inquilino de partner. Debe administrar los programas por separado.
 
-Consulta también [información adicional sobre convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [Facturación directa al revendedor indirecto preguntas más frecuentes sobre](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Consulta también [información adicional sobre convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [Facturación directa al revendedor indirecto preguntas más frecuentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

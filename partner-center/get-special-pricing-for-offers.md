@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795018"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098742"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -26,8 +26,8 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 |**Precios especiales**   |**Calificaciones necesarias para el revendedor**   |**Calificaciones necesarias para el cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Educación   |Convertirse en [vendedor autorizado de Educación](https://www.mepn.com).   | Debes ser [usuario cualificado de Educación](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Gobierno   |Para vender Azure, inscríbete con el [formulario de validación en la nube de Microsoft Government](http://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   Ninguna|
+|Educación   |Convertirse en [vendedor autorizado de Educación](https://www.mepn.com).   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Gobierno   |Para vender Azure, inscríbete con el [formulario de validación en la nube de Microsoft Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   Ninguna|
 |Organizaciones sin ánimo de lucro  |Ninguna<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
 
 

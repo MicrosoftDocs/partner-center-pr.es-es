@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Partners de educación autorizados, educación, vender a education, escuelas
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062333"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098762"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062333"
 Los partners que trabajan con instituciones del sector educativo pueden ofrecerles **Minecraft: Education Edition**. Puedes comprar la suscripción en nombre del cliente en el centro de partners y, a continuación, el cliente descarga el software de la [Tienda Microsoft para educación](https://educationstore.microsoft.com). 
 
 >[!IMPORTANT]
->Para vender ofertas del sector educativo a los clientes del sector, debes estar inscrito en el programa Proveedor de soluciones en la nube (CSP) y ser un [vendedor autorizado para el sector educativo (AEP)](https://www.mepn.com). Además, el cliente debe ser un [usuario cualificado del sector educativo](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
+>Para vender ofertas del sector educativo a los clientes del sector, debes estar inscrito en el programa Proveedor de soluciones en la nube (CSP) y ser un [vendedor autorizado para el sector educativo (AEP)](https://www.mepn.com). Además, el cliente debe ser un [usuario cualificado del sector educativo](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Comprar **Minecraft: Education Edition** en nombre del cliente

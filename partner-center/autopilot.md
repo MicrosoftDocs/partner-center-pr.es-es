@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot de windows, autopilot de microsoft, implementación sin interacción, oobe, pantallas de inicio de sesión, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083408"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098832"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar la experiencia out-of-box de un dispositivo con los perfiles de Windows Autopilot
 
@@ -25,7 +25,7 @@ Si puedes administrar dispositivos de los clientes, puede que tengas personaliza
 Si no ya estás familiarizado con Autopilot, revisa la información de estos artículos:
 
 - [Introducción a WindowsAutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Guía de referencia de implementación de AutoPilot](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Introducción
 
