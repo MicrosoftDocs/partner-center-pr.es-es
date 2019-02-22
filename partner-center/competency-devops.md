@@ -8,15 +8,15 @@ ms.author: dansimp
 keywords: competencia, competencias, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794808"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098892"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="fa7ae-104">Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="fa7ae-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="03e56-104">Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="03e56-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
@@ -39,7 +39,7 @@ The DevOps Partner option is ideal for partners who use Microsoft Visual Studio 
     - **1** of the same **2** individuals must pass one of the following exams:
 
         * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
-        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
@@ -56,7 +56,7 @@ The DevOps Partner option is ideal for partners who use Microsoft Visual Studio 
     - **2** of the same **4** individuals must pass one of the following exams:
 
         * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
-        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [PMI Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 -->        
