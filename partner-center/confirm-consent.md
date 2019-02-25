@@ -1,18 +1,18 @@
 ---
 title: Confirmar la aceptación del cliente del contrato de Microsoft en la nube | El centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: cliente, clientes, da su consentimiento, MCA, contrato de Microsoft Cloud, plantillas de acuerdos de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083198"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099443"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del contrato de Microsoft en la nube
 
@@ -46,7 +46,7 @@ Para obtener más información, consulta la confirmación de aceptación de clie
 
 **7 de noviembre de 2018**
 
--   Socios de facturación directa y los proveedores indirectos **deben** confirman la aceptación del cliente del contrato de nube de Microsoft. Confirmación es *obligatorio*.
+-   Los partners de facturación directa y proveedores indirectos **deben** confirmar aceptación del cliente del contrato de Microsoft en la nube cuando transacciones a través del panel del centro de partners. Confirmación es *obligatorio*.
 
 -   Si no se proporciona la confirmación para un cliente determinado:
 
@@ -57,6 +57,33 @@ Para obtener más información, consulta la confirmación de aceptación de clie
 -   Confirmación de aceptación de cliente puede hacerse a través del centro de partners o API del centro de partners.
 
 -   Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft.
+
+-   Esto se aplica a los entornos de producción y espacio aislado.
+
+**11 de marzo de 2018**
+
+- Los partners de facturación directa y Providersmust indirecto confirmar aceptación del cliente del contrato de nube de Microsoft en el entorno de espacio aislado CSP cuando transacciones a través de la API del centro de partners.
+- Si no se proporciona la confirmación para un cliente determinado:
+
+    - No podrás crear nuevos pedidos de cliente mediante la API del centro de partners.
+ 
+    - No podrás cambiar el número de puestos de suscripciones existentes basados en puestos para este cliente mediante la API del centro de partners.
+- Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft. 
+
+**22 de marzo, 12018**
+
+- Los partners de facturación directa y Providersmust indirecto confirmar aceptación del cliente del contrato de nube de Microsoft en el entorno de producción de CSP cuando transacciones a través de la API del centro de partners.
+
+- Si no se proporciona la confirmación para un cliente determinado:
+  - No podrás crear nuevos pedidos de cliente mediante la API del centro de partners.
+
+  - No podrás cambiar el número de puestos de suscripciones existentes basados en puestos para este cliente mediante la API del centro de partners.
+-  Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft.
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Confirmar la aceptación del cliente en el centro de partners
