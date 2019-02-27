@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: roles, permisos, administración, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086733"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117218"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -74,7 +74,7 @@ CPVs desarrollar aplicaciones para su uso por los partners de proveedor de soluc
 
 |**Rol** | **Lo que puedes hacer**|
 |----------------------------|:----------------------------|
-|Administrador MPN|•CAN agregar usuarios del inquilino que no sean
+|Administrador de partners de MPN|•CAN agregar usuarios del inquilino que no sean
 ||• Ver, crear y administrar las solicitudes de servicio de partners
 ||• Vista legales, organización, empresas y perfiles MPN
 ||• Ver detalles de usuario y sus datos de habilidades
@@ -82,8 +82,9 @@ CPVs desarrollar aplicaciones para su uso por los partners de proveedor de soluc
 ||• Ver y administrar ventajas
 ||• Vista y compra de ofertas MPN
 ||Facturas y el historial de pedidos de ofertas • vista MPN
-||• Puede ver los datos de contribución de partners
+||• Ver datos de contribución de partners
 ||• Puede trabajar en la herramienta de validación de asientos|
+||-Ver un análisis de datos de cliente
 |Administrador de la cuenta| • Agregar usuarios del inquilino que no sean
 ||• Agregar o eliminar ubicaciones
 ||-Administrar perfiles relacionados con las cuentas que eres el Administrador de 
