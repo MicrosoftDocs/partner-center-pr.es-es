@@ -2,18 +2,18 @@
 title: Facturación | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones de impuestos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683454"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122182"
 ---
 # <a name="billing"></a>Facturación
 
@@ -42,6 +42,7 @@ Información clave para saber cómo facturar a tus clientes:
 |:-----------------------------|:-----------------|
 |Conceptos básicos sobre facturación, pagos, facturas y mucho más   |[Conceptos básicos sobre facturación](billing-basics.md)
 |Muchas características nuevas de facturación, como la facturación anual   |[Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md)|
+|Tipos de facturación   |[Descripción de los tipos de facturación en el centro de partners](billing-different-types.md)   |
 |Aspectos clave para leer tu factura   |[Leer tu factura](read-your-bill.md)   |
 |Cómo leer y usar el archivo de conciliación   |[Usar los archivos de conciliación](use-the-reconciliation-files.md)|
 |Escenarios comunes de facturación (encuentra escenarios adicionales de facturación en [Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md))|[Escenarios comunes de facturación](common-billing-scenarios.md)|

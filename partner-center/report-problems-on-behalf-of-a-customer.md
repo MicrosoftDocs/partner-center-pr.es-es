@@ -1,19 +1,19 @@
 ---
 title: Notificar problemas en nombre de un cliente | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
-Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
+ms.date: 03/01/2019
+Description: Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema Escalar problemas a Microsoft, presenta una incidencia de soporte.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+Keywords: solicitud de servicio, el vale de servicio, se admite, se admite derecho, aobo, aobo de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098852"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122202"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -25,7 +25,7 @@ ms.locfileid: "9098852"
 
 Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
-**Enviar una solicitud de servicio para un cliente**
+## <a name="submit-a-service-request-for-a-customer"></a>Enviar una solicitud de servicio para un cliente
 
 1.  En el menú del **Centro de partners** , selecciona **las solicitudes de servicio** y, a continuación, **una solicitud de cliente**. 
 
@@ -33,13 +33,14 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 3.  En el menú desplegable **Nueva solicitud**, selecciona **Azure** o **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se te redirigirá al Microsoft Azure Portal o al Centro de administración de Office 365.
 
-**Microsoft Azure**
+### <a name="microsoft-azure"></a>Microsoft Azure
 
-**Nota** Cuando se necesita crear una solicitud de servicio para el cliente en Azure, tener en cuenta lo siguiente:
-
-- Para que puedas crear solicitudes de servicio para el cliente en Azure, tu proveedor indirecto debe concederte que acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365. 
-
-- Aunque el administrador del departamento de soporte del centro de partners no puede crear solicitudes de servicio en el portal de servicio de Azure, lo que puede hacer es crear un grupo de soporte técnico en el portal de servicio de Azure y asigna a ese grupo de permisos para registrar las solicitudes de soporte técnico.
+> [!IMPORTANT]
+> Cuando se necesita crear una solicitud de servicio para el cliente en Azure, tener en cuenta lo siguiente:
+>
+>- Para que puedas crear solicitudes de servicio para el cliente en Azure, tu proveedor indirecto debe concederte que acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365. 
+>
+>- Aunque el administrador del departamento de soporte del centro de partners no puede crear solicitudes de servicio en el portal de servicio de Azure, lo que puede hacer es crear un grupo de soporte técnico en el portal de servicio de Azure y asigna a ese grupo de permisos para registrar las solicitudes de soporte técnico.
 
 1. Selecciona **Nueva solicitud de soporte técnico**.
 2. Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
@@ -64,17 +65,29 @@ En cualquiera de estos casos, puedes usar el siguiente procedimiento para crear 
 4. Selecciona la **nueva solicitud de soporte técnico**y, a continuación, sigue las instrucciones para crear la solicitud. 
 
  
-**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Tienes que seleccionar **Más...** para ver otros temas.    
 2. Rellena el formulario de solicitud de servicio y, a continuación, selecciona **Enviar**.
 
->[**Nota**]  Asegúrate de incluir tu información de contacto, no el cliente.
+   > [!TIP]
+   > Asegúrate de incluir tu información de contacto, no el cliente.
 
 3. Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
 
-## <a name="faq"></a>Preguntas más frecuentes
+### <a name="support-for-azure-marketplace-products"></a>Soporte técnico de productos de Azure Marketplace
 
+Microsoft no proporciona soporte técnico de productos de Azure Marketplace. Tendrás que ponerse en contacto con el proveedor de Software independiente (ISV) que se publique el producto para obtener soporte técnico.
+
+Para encontrar información de contacto de ISV:
+
+1.  En la página del catálogo de soluciones, selecciona el producto que necesita ayuda.
+2.  En la página del producto encontrarás información de contacto de soporte técnico. Esto puede ser una o varias de las siguientes acciones:
+    - Un vínculo a un punto de entrada de soporte técnico en el sitio Web de ISV
+    - Un correo electrónico de soporte técnico 
+    - Un número de teléfono de contacto de soporte técnico
+
+## <a name="faq"></a>Preguntas más frecuentes
 
 **¿Qué se incluye como parte de los derechos de soporte técnico?**
 

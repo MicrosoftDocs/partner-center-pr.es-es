@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062383"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122282"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -464,34 +464,428 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>Campos de archivos de compra de pago único
+## <a href="" id="marketplacefilefields"></a>Campos de archivos de una sola vez y periódicos
 
-|**Campo** |**Definición**|
-|:----------------|:-----------------------------|
-|PartnerId |Id. de partner, en formato de GUID. |
-|CustomerId |Id. de Microsoft único, en formato GUID, usado para identificar al cliente. |
-|CustomerName |Nombre de la organización del cliente según se indica en el Centro de partners. Esto es muy importante para conciliar la factura con la información del sistema. |
-|CustomerDomainName |Nombre de dominio del cliente. |
-|CustomerCountry |El país donde se encuentra el cliente. |
-|InvoiceNumber |Número de factura donde aparece la transacción especificada. |
-|MpnId |Id. de MPN del partner CSP (directo o indirecto). |
-|Id. de MPN del revendedor |Solo aparece en los archivos de conciliación de partners en el modelo indirecto. Id. de MPN del revendedor de registro de la reserva. Corresponde al id. de revendedor indicado para la reserva específica en el Centro de partners. Si un partner CSP vendió la reserva directamente al cliente, su id. de MPN aparece dos veces, como id. de MPN y como id. de MPN del revendedor. Si un partner CSP tiene un revendedor sin un id. de MPN, este valor se establece en el id. de MPN del partner. Si el partner CSP quita un id. de revendedor, este valor se establece en -1. |
-|OrderId |Identificador único de un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar la reserva al ponerse en contacto con el soporte técnico, pero no para la reconciliación. |
-|OrderDate |Fecha de realización del pedido. |
-|ProductId |Identificador del producto. |
-|SkuId  |Id. de un SKU concreto. |
-|AvailabilityId |Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc. |
-|SkuName  |Título para un SKU concreto. |
-|ProductName |Nombre del producto. |
-|ChargeType |Tipo de cargo o ajuste. |
-|UnitPrice |Precio por producto pedido. |
-|Quantity |Número de productos pedidos. |
-|Subtotal |Total sin impuestos. Comprueba que el subtotal coincide con el total previsto, en el caso de un descuento. |
-|TaxTotal |Total de todos los impuestos aplicables. |
-|Total |Número total de esta compra. |
-|Moneda |Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación. |
-|DiscountDetails |Lista detallada de los descuentos relevantes. |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Columna</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>Identificador único del inquilino de Microsoft Azure Active Directory para una entidad de facturación específica, en formato GUID. No es necesario para la reconciliación, pero puede ser información útil. Igual en todas las filas.</p></td>
+</tr>
+
+<tr class="even">
+<td>Id. de cliente</td>
+<td><p>Microsoft Azure Active Directory inquilino identificador exclusivo, en formato GUID, que se usa para identificar al cliente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nombre del cliente</td>
+<td><p>Nombre de la organización del cliente según se indica en el Centro de partners.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+</tr>
+
+<tr class="odd">
+<td>País de cliente</td>
+<td><p>El país donde se encuentra el cliente.</p></td>
+</tr>
+
+<tr class="even">
+<td>Número de factura</td>
+<td><p>Número de factura donde aparece la transacción especificada.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>Id. de MPN del partner CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>MpnId de revendedor</td>
+<td><p>Id. de MPN del revendedor de registro de la suscripción.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id. de pedido</td>
+<td><p>Identificador único de un pedido en la plataforma de comercio de Microsoft. Puede ser útil para identificar al pedido al ponerse en contacto con el soporte técnico, pero no para la conciliación.</p></td>
+</tr>
+
+<tr class="even">
+<td>Fecha del pedido</td>
+<td><p>Fecha de realización del pedido.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>Identificador del producto.</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>Id. de un SKU concreto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nombre SKU</td>
+<td><p>Título para un SKU concreto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nombre del producto</td>
+<td><p>Nombre del producto.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>El nombre del Editor del producto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>Identificador único de este publicador.</p></td>
+</tr>
+
+<tr class="even">
+<td>Descripción de la suscripción</td>
+<td><p>Nombre descriptivo de la suscripción.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id. de suscripción</td>
+<td><p>Identificador único de una suscripción en la plataforma de comercio de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Día de inicio de los cargos. La hora siempre corresponde al comienzo del día, 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Día de finalización de los cargos. La hora siempre corresponde al fin del día, 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Término y Billingcycle</td>
+<td><p>La longitud del término y el ciclo de facturación de la compra. Por ejemplo, "1 año, mensualmente".</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo de cargo</td>
+<td><p>Tipo de cargo o ajuste.</p></td>
+</tr>
+
+<tr class="even">
+<td>Precio unitario</td>
+<td><p>El precio de su publicación en la lista de precios en el momento de compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Precio unitario eficaz</td>
+<td><p>El precio unitario después de que se han realizado ajustes.</p></td>
+</tr>
+
+<tr class="even">
+<td>Cantidad</td>
+<td><p>Número de unidades. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo de unidad</td>
+<td><p>El tipo de unidad que se va a comprar.</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>Una explicación de los descuentos aplicables.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Subtotal</td>
+<td><p>Total sin impuestos. Comprueba que el subtotal coincide con el total previsto, en el caso de un descuento.</p></td>
+</tr>
+
+<tr class="even">
+<td>Total de impuestos</td>
+<td><p>Cargo por importe de impuestos, en función de las reglas fiscales de tu mercado y las circunstancias específicas.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Total</td>
+<td><p>Total con impuestos. Comprueba si se cobran impuestos en la factura.</p></td>
+</tr>
+
+<tr class="even">
+<td>Moneda</td>
+<td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>Un identificador alternativo para un identificador.</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>Campos de archivos de uso prorrateado diarios
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Columna</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>Id. de partner, en formato de GUID.</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>Nombre del partner.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>Id. de Microsoft único, en formato GUID, usado para identificar al cliente.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>Nombre de la organización del cliente según se indica en el Centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>Nombre de dominio del cliente. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class="even">
+<td>País de cliente</td>
+<td><p>El país donde se encuentra el cliente.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>Id. de MPN del partner CSP.</p></td>
+</tr>
+
+<tr class="even">
+<td>Revendedor MPNID</td>
+<td><p>Id. de MPN del revendedor de registro de la suscripción. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>Número de factura donde aparece la transacción especificada. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>Identificador del producto.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>Id. de un SKU concreto.</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nombre SKU</td>
+<td><p>Título para un SKU concreto.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>El nombre del publicador.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>El identificador del Editor, en formato GUID. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class=”even">
+<td>Descripción de la suscripción</td>
+<td><p>Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este es un campo idéntico al nombre de la oferta).</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id. de suscripción</td>
+<td><p>Identificador único de una suscripción en la plataforma de facturación de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Fecha de inicio del ciclo de facturación, excepto cuando se presentan fechas de datos de uso latentes no cargados previamente (del ciclo de facturación anterior). La hora siempre corresponde al comienzo del día, 0:00.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Fecha de finalización del ciclo de facturación, excepto cuando se presentan fechas de datos de uso latentes no cargados previamente (del ciclo de facturación anterior). La hora siempre corresponde al fin del día, 23:59.</p></td>
+</tr>
+
+<tr class="even">
+<td>Fecha de uso</td>
+<td><p>Fecha de uso del servicio.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo de medidor</td>
+<td><p>El tipo de metros.</p></td>
+</tr>
+
+<tr class="even">
+<td>Categoría de metro</td>
+<td><p>El servicio de nivel superior para el uso.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Id. de metro</td>
+<td><p>El identificador para el medidor que se usa.</p></td>
+</tr>
+
+<tr class="even">
+<td>Medidor subcategoría.</td>
+<td><p>El tipo de servicio de Azure que puede afectar a la velocidad.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Nombre de metro</td>
+<td><p>La unidad de medida para el medidor está consumiendo.</p></td>
+</tr>
+
+<tr class="even">
+<td>Región de metro</td>
+<td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Unidad</td>
+<td><p>La unidad del nombre del recurso.</p></td>
+</tr>
+
+<tr class="even">
+<td>Cantidad consumida</td>
+<td><p>La cantidad de servicio consumida (horas, GB, etc.) durante el período de notificación. También incluye cualquier uso no facturado de períodos anteriores.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Ubicación de recurso</td>
+<td><p>El centro de datos donde se ejecuta el medidor.</p></td>
+</tr>
+
+<tr class="even">
+<td>Servicio consumida</td>
+<td><p>El servicio de plataforma de Azure que usaste.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Grupo de recursos</td>
+<td><p>El grupo de recursos en el que se está ejecutando el medidor implementado.</p></td>
+</tr>
+
+<tr class="even">
+<td>URI de recurso</td>
+<td><p>El URI del recurso que se usa.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Tipo de cargo</td>
+<td><p>Tipo de cargo o ajuste. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class="even">
+<td>Precio unitario</td>
+<td><p>Precio por licencia, ya que publica en la lista de precios en el momento de compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Cantidad</td>
+<td><p>Número de licencias. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+</tr>
+
+<tr class="even">
+<td>Tipo de unidad</td>
+<td><p>El tipo de unidad el medidor se cargará en. No está disponible para la actividad actual.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Antes de impuestos de facturación</td>
+<td><p>Importe total antes de impuestos.</p></td>
+</tr>
+
+<tr class="even">
+<td>Divisa de facturación</td>
+<td><p>La divisa en la región geográfica del cliente</p></td>
+</tr>
+
+<tr class="odd">
+<td>Precios total sin impuestos</td>
+<td><p>El precio antes de que se agregan los impuestos.</p></td>
+</tr>
+
+<tr class="even">
+<td>Moneda de precios</td>
+<td><p>La divisa en la lista de precios.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Información de servicio 1</td>
+<td><p>Número de conexiones de Bus de servicio aprovisionadas y usadas en un día determinado.</p></td>
+</tr>
+
+<tr class="even">
+<td>Información sobre el servicio 2</td>
+<td><p>Un campo heredado que captura metadatos específicos del servicio opcional.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Etiquetas</td>
+<td><p>Etiquetas que se asigna al medidor en orden para agrupar registros de facturación. Por ejemplo, puedes usar etiquetas para distribuir los costes por el departamento que usa el medidor.</p></td>
+</tr>
+
+<tr class="even">
+<td>Información adicional</td>
+<td><p>Cualquier información adicional que no se tratan en otras columnas.</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>Asignación de cargos entre una factura y el archivo de conciliación
