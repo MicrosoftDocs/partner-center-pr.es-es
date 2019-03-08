@@ -4,34 +4,34 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Sigue los pasos siguientes para obtener la versión preliminar de la Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995559"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585868"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
-**Se aplica a:**
+**Se aplica a**
 
 - Centro de partners
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
-Selecciona la aplicación que está más relevante para tu negocio de la siguiente lista de las aplicaciones de Power BI disponibles:
-- [Partner directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+Seleccione la aplicación que es más apropiada para su negocio de la siguiente lista de aplicaciones de Power BI disponibles:
+- [Socio directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
-- [Partners indirectos](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Socio indirecta](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [Distribuidor indirecto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Revendedor indirecto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 Antes de instalar la versión preliminar de la Aplicación de análisis del Centro de partners, asegúrate de que cumples los requisitos siguientes.
 
-- Elige la aplicación de Power BI correcta para tu negocio.
+- Elegir la correcta aplicación de Power BI para su negocio.
 
 - Tienes una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium.
 
@@ -56,10 +56,10 @@ Antes de instalar la versión preliminar de la Aplicación de análisis del Cent
  
 6. Cuando se te pida acceso, selecciona **Aceptar**. 
 
-Una vez que el servicio de análisis del Centro de partners esté conectado a Power BI, empezarán a cargarse datos. En función de la cantidad de datos, esto puede tardar hasta 10minutos. 
+Una vez que el servicio de análisis del Centro de partners esté conectado a Power BI, empezarán a cargarse datos. En función de la cantidad de datos, esto puede tardar hasta 10 minutos. 
 
 Cuando finalice la carga de los datos, puedes empezar a usar el panel y los informes de la Aplicación de análisis del Centro de partners en Power BI.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Ver los datos de tu empresa con la Aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Ver sus datos empresariales con la aplicación de análisis de Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

@@ -3,17 +3,17 @@ title: 'Clientes del Centro de administración de partners de Office 365: vuestr
 ms.topic: article
 ms.date: 10/29/2018
 description: Consideraciones clave para los clientes del Centro de administración de partners de Office 365 al migrar al Centro de partners
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 73c92447cf7f27a6266d6802c3b42526fc9669bc
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1e2a63828c7fd875c737a650633439a43ab325ed
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062313"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587378"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes del Centro de administración de partners de Office 365: Preparaos para migrar las operaciones empresariales al Centro de partners
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Clientes de Office 365 asociado admin center: Prepárese mover las operaciones empresariales al centro de partners
 
 **Se aplica a** 
 
@@ -38,11 +38,11 @@ En el Centro de partners las tareas se realizan de forma distinta a como lo hace
 
 | Característica del Centro de administración de partners de Office 365                       | ¿Dónde está en el Centro de partners? | 
 |   -----------------------------------------------  | -------------- |
-| Crear negocio: Crear oferta de compra | Trabajar con tu proveedor para vender ofertas a tus clientes |
-| Crear negocio: Solicitar permisos de administrador delegado | El centro de partners: Los clientes > solicitar una relación de revendedor |
-| Crear negocio: Crear invitaciones de evaluación | No disponible. Puedes seguir usando el Centro de administración de partners de Office 365 para esto |
-| Solicitudes de servicio: Lista de clientes: Centro de administración de Office 365 | Centro de partners: Servicios de administración los clientes > |
-| Solicitudes de servicio: Lista de clientes: Solicitudes de servicio | Centro de partners: Solicitudes de cliente de > de solicitud de servicio |
-| Solicitudes de servicio: Marcadas | Panel: Clientes: Selecciona la estrella junto al nombre de empresa |
-| Solicitud de servicio > Administración de clientes > Administrar en nombre de (AOBO) | El centro de partners: Los clientes > un > cliente seleccionar una selección de > de suscripción el distribuidor designado del producto |
+| Cree su negocio: Crear oferta de compra | Trabajar con tu proveedor para vender ofertas a tus clientes |
+| Cree su negocio: Solicitar permisos de administrador delegado | Centro de partners: Los clientes > solicitar una relación de revendedor |
+| Cree su negocio: Crear invitaciones de evaluación | No está disponible. Puedes seguir usando el Centro de administración de partners de Office 365 para esto |
+| Solicitudes de servicio: Lista de clientes: Office 365 | Centro de partners: Los clientes > Administrar servicios |
+| Solicitudes de servicio: Lista de clientes: Solicitudes de servicio | Centro de partners: Solicitud de servicio > las solicitudes de cliente |
+| Solicitudes de servicio: Marcados | Dasbhoard: Los clientes: seleccione la estrella junto al nombre de la empresa |
+| Solicitud de servicio > Administración de clientes > Administrar en nombre de (AOBO) | Centro de partners: Los clientes > Seleccionar un cliente > seleccione una suscripción > seleccione el revendedor de producto designado |
 

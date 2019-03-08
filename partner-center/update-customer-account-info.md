@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683664"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587048"
 ---
 # <a name="update-customer-account-info"></a>Actualizar la información de la cuenta de cliente
 
@@ -26,7 +26,7 @@ En el Centro de partners, puedes actualizar la información de facturación de u
 
 **Actualizar detalles del cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**. A continuación, elige el cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**. A continuación, elige el cliente de la lista.
 2.  En el menú del cliente, selecciona **Cuenta** y luego **Actualizar**.
 3.  Después de realizar los cambios, selecciona **Enviar**.
 

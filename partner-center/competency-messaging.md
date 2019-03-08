@@ -3,20 +3,20 @@ title: Competencia de mensajes
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de mensajes reconoce a partners que obtienen una ventaja competitiva, acortan los ciclos de ventas y hacen crecer sus negocios al demostrar sus conocimientos como proveedor de soluciones de Microsoft Exchange cualificado.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: competencia,competencias,mensajes
+keywords: competencia, competencias, mensajes
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 886a12c6e9ce4783e465e8562428f01ab5f51a7e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796938"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586428"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Messaging

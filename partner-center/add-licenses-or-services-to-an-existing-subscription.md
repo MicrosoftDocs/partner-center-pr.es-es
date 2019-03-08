@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098782"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585438"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 
@@ -41,7 +41,7 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 empresa</td>
 <td><ul>
 <li>Office 365 Empresa Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -50,14 +50,14 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 empresa Premium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 empresa Essentials</td>
 <td><ul>
 <li>Office 365 Empresa Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -67,7 +67,7 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia y Office365BusinessEssentialsIndia pueden actualizarse a Office365BusinessPremiumIndia, no a Office365BusinessPremium.</p></td>
+<td><p>¹ India de negocio de office 365 y Office 365 empresa Essentials India pueden actualizarse a Office 365 Business Premium India, no a Office 365 empresa Premium.</p></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ Para obtener más información acerca del impacto que esto tendrá en la factura
 1.  Para ver si una suscripción es apta para la actualización, elige el cliente y después abre su lista de suscripciones.
 2.  Si la actualización se puede actualizar, verás un icono informativo justo después del nombre de la suscripción. Mantén el cursor sobre este icono y, después, selecciona **Actualizar ahora**.
 3.  Selecciona la oferta nueva y, después, elige **Enviar**.
-4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el centro de partners proporciona una lista de las cuentas y los servicios afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Puede que sean necesarias otras acciones para realizar la transición de algunas cuentas de usuario para determinados servicios. Si es así, el centro de partners proporciona una lista de cuentas y servicios que se vieron afectados. Para obtener ayuda, consulta el artículo de Knowledge Base [Problemas al reasignar licencias durante el cambio de planes en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

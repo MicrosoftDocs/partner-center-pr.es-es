@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098812"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585308"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -24,11 +24,11 @@ ms.locfileid: "9098812"
 
 Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners. Las reglas varían según el país o región. Los partners deben trabajar con su asesor fiscal para archivar las exenciones fiscales correspondientes en función de su ubicación y la de sus clientes. Para marcar la cuenta de revendedor de Microsoft como no gravable, el partner debe enviar los certificados de exención a Microsoft.
 
-**Archivar una exención fiscal**
+**Archivo de una exención fiscal**
 
-1.  Buscar el **Id. de Microsoft** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de organización**.
-2.  Busca tu **Id. de MPN** del centro de partners &gt; **configuración de la cuenta** &gt; **perfil de Partner**.
-3.  Crea un vale de soporte nuevo. En el menú del centro de partners, selecciona **las solicitudes de servicio** &gt; **solicitudes del centro de partners** &gt; **nueva solicitud**.
+1.  Buscar su **Microsoft ID** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil organización**.
+2.  Buscar su **Id. de MPN** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de socio**.
+3.  Crea un vale de soporte nuevo. En el menú del centro de partners, seleccione **las solicitudes de servicio** &gt; **solicita el centro de partners** &gt; **nueva solicitud**.
 4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.
 5.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
 
@@ -52,7 +52,7 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 <p>Microsoft no admite créditos ni segundas facturaciones. Es por eso que, antes de vender suscripciones, tienes que registrar el número del identificación a efectos de IVA en el Centro de partners.</p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
-<li>En el centro de partners, ve al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación del Partner</strong>.</li>
+<li>En el centro de partners, vaya al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación</strong>.</li>
 <li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
 <li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
 </ol></td>

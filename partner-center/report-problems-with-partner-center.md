@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683684"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587758"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
@@ -22,26 +22,26 @@ ms.locfileid: "8683684"
 -  Centro de partners para Microsoft Cloud for US Government
 
 
-Soporte técnico del centro de partners de contacto Si detectas problemas con el centro de partners, como errores o interrupciones del servicio.
+Centro de partners póngase en contacto con el soporte técnico si encuentra problemas con el centro de partners, incluidos los errores o interrupciones del servicio.
 
 **Notificar un problema con el centro de partners**
 
-1.  En el **Centro de partners**, selecciona el icono de **soporte técnico** y, a continuación, selecciona **las solicitudes del centro de partners**.
+1.  En su **centro de partners**, seleccione el **soporte** icono y, a continuación, seleccione **solicita el centro de partners**.
 
 2.  Selecciona **Nueva solicitud**.
 
-3.  Rellena el formulario y luego selecciona **Enviar**. Un representante del soporte técnico de partners se el seguimiento.
+3.  Rellena el formulario y luego selecciona **Enviar**. Un representante de Soporte para partners se pondrá en contacto contigo.
 
-**Enviar diagnósticos**
+**Envío de diagnósticos**
 
-Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Selecciona **recopilar más información** en el vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes. Esta herramienta recopila información que necesita el equipo de soporte técnico de partners para determinar la causa del error. 
+Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Selecciona **Recopilar más información** del vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes. Esta herramienta recopila información que necesita el equipo de Soporte para partners para determinar la causa del error. 
 
 >[!NOTE]
 >En las páginas del Centro de partners que incluyan **/pcv/** en la dirección URL, puedes abrir la herramienta manualmente para recopilar esta información.
 
 1.  Ve a la página con el problema.
 
-2.  Presiona **Ctrl + Alt + D** para abrir la herramienta de diagnóstico para clientes.
+2.  Presiona **Ctrl+Alt+D** para abrir la herramienta de diagnóstico para clientes.
 
 Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico. Para enviar la información:
 
@@ -54,5 +54,5 @@ Puedes obtener una vista previa de la información de diagnóstico y luego guard
 
 5.  Adjunta el archivo a la solicitud de soporte técnico.
 
-Puede solicitar soporte técnico de partners te pida que ejecutes esta herramienta varias veces para obtener la información más actualizada.
+Es posible que el Soporte para partners te pida que ejecutes varias veces esta herramienta para obtener la información más actualizada.
 

@@ -3,20 +3,20 @@ title: Descubre las ofertas de terceros que quieres vender | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Busca y encuentra los tipos de ofertas de terceros que encajen bien en tu cartera.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: ofertas de terceros, software para comprar, buscar aplicaciones de terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796968"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585458"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Descubre las ofertas de terceros que quieres vender
 
-**Aplicable a**
+**Se aplica a**
 
 -  Centro de partners
 
@@ -45,7 +45,7 @@ Si estás interesado en adquirir el software pero tienes alguna pregunta adicion
 
 La compra de software de terceros se realiza de la misma forma que la compra de software de origen. 
 
-1. En el **Centro de partners**, selecciona **los clientes**
+1. Desde el **centro de partners**, seleccione **a los clientes**
 2. Selecciona **Nueva suscripción**.
 3. Para obtener instrucciones detalladas, consulta [Crear, suspender o cancelar suscripciones de cliente](create-a-new-subscription.md).
 4.  Selecciona la opción de facturación mensual para software de terceros. La facturación anual y la facturación de evaluación no están disponibles para soluciones de terceros.

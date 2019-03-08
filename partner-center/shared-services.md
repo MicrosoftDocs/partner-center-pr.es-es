@@ -2,18 +2,18 @@
 title: Añadir Servicios compartidos para partners de Azure | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio.
-author: labrenne
+description: Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para el uso propio.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, servicios compartidos, inquilino
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917637"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586988"
 ---
 # <a name="add-azure-partner-shared-services"></a>Añadir Servicios compartidos para partners de Azure
 
@@ -21,7 +21,7 @@ ms.locfileid: "8917637"
 
 -  Centro de partners
 
-Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio. Ofrece a los partners la oportunidad de usar un método uniforme para comprar, seguir y administrar Azure, además de la capacidad de consolidar sus contratos de licencia y distribución de Azure con Microsoft. Con los Servicios compartidos para partners de Azure, los asociados ahora tienen la misma flexibilidad para usar las suscripciones de Azure en CSP que cuando lo hacen con los programas Web Direct y Contrato Enterprise de Microsoft, lo que les permite acceder a escenarios como la creación de entornos de desarrollo y pruebas, la implementación de cargas de trabajo internas y los servicios compartidos de hosting o aplicaciones multiinquilino.  
+Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para el uso propio.  Crea la oportunidad para asociados de usar un método uniforme para comprar, seguimiento y administración de Azure además de la capacidad para consolidar su Azure las licencias y revender contratos con Microsoft. Con los Servicios compartidos para partners de Azure, los asociados ahora tienen la misma flexibilidad para usar las suscripciones de Azure en CSP que cuando lo hacen con los programas Web Direct y Contrato Enterprise de Microsoft, lo que les permite acceder a escenarios como la creación de entornos de desarrollo y pruebas, la implementación de cargas de trabajo internas y los servicios compartidos de hosting o aplicaciones multiinquilino.  
 
 ## <a name="create-the-shared-services-tenant"></a>Crear inquilino de servicios compartidos
 
@@ -47,7 +47,7 @@ Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta par
 
 - Uso principal de la suscripción de Azure: Servicios internos/compartidos es para poder usar Azure para sus propios fines de desarrollo. El inquilino compartido que utilice para aprovisionar esta oferta no puede usarse para otros servicios como Office 365 o puestos de Dynamics. 
 
-- Puedes cancelar la suscripción como lo haces con cualquier otra. Ve a **Configuración** > **Ver toda la configuración** > **Servicios compartidos**. Selecciona la suscripción Azure - Carga de trabajo interna/servicios compartidos y cancélala.
+- Puedes cancelar la suscripción, como cualquier otro servicio. Ve a **Configuración** > **Ver toda la configuración** > **Servicios compartidos**. Selecciona la suscripción Azure - Carga de trabajo interna/servicios compartidos y cancélala.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Acceso a detalles de consumo de Servicios compartidos para partners de Azure
 

@@ -3,19 +3,19 @@ title: Quitar una relación de revendedor con un cliente | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Al quitar una relación empresariales, cualquier relación cerrada de negocio desaparecerá de la vista en el Centro de partners.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062273"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587908"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Quitar una relación de revendedor con un cliente
 
-**Se aplica a:**
+**Se aplica a**
 
 -   Centro de partners
 
@@ -28,11 +28,11 @@ Esta característica:
 *  Quita la posibilidad de realizar compras en nombre del cliente.
 
 Para quitar la relación, deberás primero cancelar las reservas RI de Azure, cancelar las compras de software y suspender las suscripciones activas restantes:
-1. Suspender todas las suscripciones activas. Desde el centro de partners, ve a **los clientes** > selecciona un > cliente **suscripciones** > selecciona un > suscripción **suspendida**. 
+1. Suspender todas las suscripciones activas. En el centro de partners, vaya a **clientes** > Seleccionar un cliente > **suscripciones** > seleccione una suscripción > **Suspended**. 
 
    Repite este procedimiento para cada suscripción activa.
 
-2. Quitar la relación del centro de partners: desde el centro de partners, ve a **los clientes** > seleccionar una **cuenta**de cliente > > **quitar la relación de revendedor**.
+2. Quite la relación en el centro de partners: En el centro de partners, vaya a **clientes** > Seleccionar un cliente > **cuenta** > **Quitar relación de revendedor**.
 
    Ten en cuenta que si las suscripciones son sigue activas, el vínculo **Quitar la relación de revendedor** no estará activo. 
 

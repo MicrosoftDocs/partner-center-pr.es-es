@@ -3,20 +3,20 @@ title: Competencia de colaboración y contenido
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de colaboración y contenido reconoce a partners que ofrecen soluciones de SharePoint que ayudan a las empresas a compartir, colaborar y aumentar la productividad.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: competencia,competencias,colaboración y contenido
+keywords: competencia, competencias, colaboración y contenido
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 41a64628a2ee016555c2515fcec58cf389899dbd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795968"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583998"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

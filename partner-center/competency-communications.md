@@ -3,20 +3,20 @@ title: Competencia de comunicaciones
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de comunicaciones reconoce a partners que ofrecen soluciones de Skype Empresarial innovadoras y personalizadas.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: competencia,competencias,comunicaciones
+keywords: competencia, competencias, comunicaciones
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a537ec778cf2c9b482dda1d733ac89ec76a69800
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794638"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586168"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Communications

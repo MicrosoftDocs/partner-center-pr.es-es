@@ -3,20 +3,20 @@ title: Competencia de centro de datos
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de centro de datos reconoce a partners que están transformando centros de datos en soluciones más flexibles, escalables y rentables.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competencia, competencias, centro de datos
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356d94a49a43e24d11e0c7adf49fa36178559876
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795568"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584278"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Datacenter

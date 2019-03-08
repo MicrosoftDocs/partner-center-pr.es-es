@@ -2,28 +2,28 @@
 title: Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365 | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
-author: labrenne
+Description: Transición de los clientes con la que va a expirar Skype para Business Online Plan 1 de suscripciones a una opción admitida de SKU. Se recomienda mover los clientes para nuevas suscripciones antes de la fecha de finalización de la suscripción anual.
+author: LauraBrenner
 ms.author: labrenne
 keywords: Planes de Skype Empresarial que retiran Skype y Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917627"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586108"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrar las suscripciones de plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
 
-**Aplicable a**
+**Se aplica a**
 
 - Centro de partners
 
 El plan 1 de Skype Empresarial Online se retirará con efectividad desde el 1 de agosto de 2018. Después de esa fecha, los clientes ya no pueden adquirir nuevas suscripciones del plan 1 de Skype Empresarial y las suscripciones existentes no se renovarán automáticamente cuando caduquen, no proporcionando opción de renovación. En la página de detalles de la suscripción, el estado de la suscripción del plan 1 de Skype Empresarial Online ha cambiado a "Expira el [fecha]" desde "Se renueva automáticamente en [fecha]".  
 
-Para garantizar la continuidad para los clientes, debes pasar a los clientes con suscripciones del plan 1 de Skype Empresarial Online a una opción de SKU compatible, enumerada a continuación. Recomendamos pasar a los clientes a las nuevas suscripciones, antes de la fecha de finalización anual de la suscripción, para evitar interrupciones del servicio a los clientes. 
+Para garantizar la continuidad para los clientes, debes pasar a los clientes con suscripciones del plan 1 de Skype Empresarial Online a una opción de SKU compatible, enumerada a continuación. Te recomendamos mover los clientes a las nuevas suscripciones antes de la fecha de finalización para evitar interrupciones en el servicio a los clientes. 
 
 >[!NOTE]
 >Se retiran tanto el plan 1 de Skype Empresarial Online como los SKU de entidades gubernamentales.
@@ -32,20 +32,20 @@ Si usas la API (CREST o Centro de partners), puedes descubrir suscripciones a pu
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Planes de sustitución del plan 1 de Skype Empresarial Online
 
-Con los nuevos planes, los clientes pueden aprovechar las funciones y la funcionalidad más recientes de Office 365. Los detalles de precios se encuentran en la lista de precios y en la matriz de lista de ofertas del Centro de partners. 
+Con los nuevos planes, los clientes pueden aprovechar las funciones y la funcionalidad más recientes de Office 365. Los detalles de precios se encuentran en la lista de precios y en la matriz de lista de ofertas en el Centro de partners. 
 
 - Opción 1: Office 365 Enterprise F1
 - Opción 2: Microsoft 365 Enterprise F1
 - Opción 3: Otros planes de Office 365
 
-|**Función**    |**Opción 1**   |**Opción 2**   |**Opción 3**   |
+|**Característica**    |**Opción 1**   |**Opción 2**   |**Opción 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
 |Obtener todas las funciones incluidas en el plan 1 de Skype Empresarial Online|Sí   |Sí   |Sí   |
 |Mensajería instantánea y presencia |Sí   |Sí   |Sí   |
 |Audio y vídeo punto a punto a través de IP|Sí   |Sí   |Sí   
 |Unirse a reuniones como usuario autenticado| Sí   |Sí   |Sí   |
 
-## <a name="transition-customers-to-new-product-plans"></a>Pasar a los clientes a nuevos planes de producto
+## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
 
 Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partners. En estos casos, podrías tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde SKU retiradas a unas más recientes que requieren los siguiente pasos:
 
@@ -55,13 +55,13 @@ Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partn
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar a los usuarios a nuevos planes
 
-1. Para comprar la nueva suscripción, en el **menú del centro de partners**, selecciona **los clientes**, selecciona al cliente que quieras mover y, a continuación, selecciona **Agregar suscripciones**.
+1. Para comprar la nueva suscripción, en la **menú Centro de partners**, seleccione **clientes**, seleccione el cliente que desea mover y, a continuación, seleccione **agregar suscripciones**.
 
 2. Selecciona la suscripción que quieras adquirir del catálogo (en este caso, una de las opciones que se indican más arriba), escribe el número de licencias y, a continuación, **Enviar**. 
 
 El cliente ahora debería tener las suscripciones antiguas y las nuevas, la suscripción del antiguo plan 1 de Skype Empresarial Online y la nueva suscripción de ‘destino’, por ejemplo, Opción 1: Office 365 Enterprise F1.
 
-3. Para reasignar licencias de usuarios del cliente, en el menú del **Centro de partners** , selecciona **los clientes**, selecciona el cliente se mueven y, a continuación, selecciona **los usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+3. Para volver a asignar las licencias de los usuarios del cliente, desde el **centro de partners** menú, seleccione **clientes**, seleccione el cliente que está moviendo y, a continuación, seleccione **usuarios y licencias** . La página Usuarios y licencias del cliente se abrirá.
 
 4. Para reasignar una licencia de usuario, selecciona el usuario a reasignar y, a continuación, selecciona **Administrar licencias**.
 
@@ -71,11 +71,11 @@ El cliente ahora debería tener las suscripciones antiguas y las nuevas, la susc
 
 Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de forma segura la suscripción retirada al nivel de cliente.
 
-7. En el menú del **Centro de partners** , selecciona **los clientes**. Selecciona el cliente cuya suscripción estés cancelando.
+7. Desde el **centro de partners** menú, seleccione **clientes**. Selecciona el cliente cuya suscripción estés cancelando.
 
 8. En la página de detalles de suscripción, establece el estado de la suscripción en **Suspendida**.
 
 9. Selecciona **Enviar**.
 
-Queda suspendida la suscripción antigua y la nueva suscripción queda activa. Se cancelará el aprovisionamiento de la suscripción suspendida automáticamente después de 120 días. El cliente no incurre en costos adicionales para la suscripción antigua.
+Se ha suspendido la suscripción antigua y la nueva suscripción está activa. Se cancelará el aprovisionamiento de la suscripción suspendida automáticamente después de 120 días. El cliente no incurre en costos adicionales para la suscripción antigua.
 

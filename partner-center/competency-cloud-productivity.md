@@ -3,20 +3,20 @@ title: Competencia de productividad en la nube
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de productividad en la nube es para partners especializados en implementaciones empresariales de Office 365. Tu empresa destacará entre la competencia con esta competencia como proveedor de soluciones en la nube de eficacia probada para clientes que buscan partners de soluciones en la nube cualificados.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competencia, competencias, productividad en la nube
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794648"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585498"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Cloud Productivity competency

@@ -1,41 +1,41 @@
 ---
-title: Crear y administrar una notificación de incentivos | El centro de partners
+title: Crear y administrar una notificación de incentivos | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Cooperación incentivos iniciar las notificaciones del centro de partners. Puedes ver toda la actividad que entra en la creación de la notificación en el historial.
-author: labrenne
+description: Iniciar incentivos Co-op notificaciones del centro de partners. Puedes ver toda la actividad que entra en la creación de tu reclamación en Historial.
+author: LauraBrenner
 ms.author: labrenne
-keywords: reclamaciones de incentivos, cooperación notificaciones, fondos de cooperación
+keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2af4ac084f10639aee4d627ff4d9fc0ad3208569
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025325"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586418"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>Crear y administrar una notificación de incentivos
+# <a name="create-and-manage-an-incentives-claim"></a>Crear y gestionar reclamaciones de incentivos
 
 **Se aplica a**
 - Centro de partners
 
-Puedes iniciar una notificación de incentivos de en el centro de partners. 
+Puede iniciar una notificación de incentivos desde dentro del centro de partners. 
 
-1. En **los incentivos** en el panel del centro de partners, selecciona **notificaciones**.
+1. Desde **incentivos** en el panel del centro de partners, seleccione **notificaciones**.
 
-2.  Si ya tienes una notificación en proceso, la página de información general de notificaciones muestra información sobre el estado de reclamaciones existentes y fondos aprueban, reclamado y totales.
+2.  Si ya tienes una reclamación en proceso, la página de información general sobre notificaciones muestra información sobre el estado de las reclamaciones existentes y los fondos aprobados, reclamados y totales.
 
-3.  Para crear una nueva notificación, seleccione **crear una notificación**.
+3.  Para crear una nueva reclamación, selecciona **Crear una reclamación**.
 
-4.  Cuando se ha rellenado el formulario inicial y seleccionado **Crear notificación**, se le dirigirá a la página de detalles de notificación donde podrás agregar facturas, del CSR, pruebas documentos y métricas. También puedes agregar información adicional si es necesario.
+4.  Cuando se ha rellenado el formulario inicial y seleccionado **crear notificación**, se le llevará a la página de detalles de notificación donde podrá agregar facturas, de CSR, documentos de prueba y las métricas. También puedes agregar información adicional si es necesario.
 
-La página de detalles de notificaciones te permite solicitar otros usuarios de la organización para cargar la documentación en el formulario. Para cada uno de los documentos que se cargan, puedes proporcionar detalles explicación. 
+La página de detalles de reclamaciones te permite solicitar a otras personas en la organización que carguen documentación en el formulario. Para cada uno de los documentos de apoyo que cargues, puedes proporcionar detalles explicativos. 
 
-### <a name="manage-your-claims"></a>Administrar tus notificaciones
+### <a name="manage-your-claims"></a>Administrar las reclamaciones
 
-Puedes ver toda la actividad que entra en la creación de la notificación en el **historial**. Cada vez que un compañero de trabajo agrega un documento de soporte o comentarios en algo, la acción se almacena en el **historial**. Hasta que envíes la solicitud, el estado es la **Edición**. Estado de la notificación cambia a medida que avanza el proceso de aprobación. En ocasiones, durante la revisión de la solicitud, puede recibir comentarios sobre un elemento específico en la documentación (documentos MPC). Comentarios y solicitudes para obtener información adicional también aparecerán en el historial de notificación. 
+Puede ver toda la actividad entra en la creación de la notificación en **historial**. Cada vez que un compañero de trabajo agrega un documento de soporte o comentarios en algo, la acción se almacena en **historial**. Hasta que envíes la reclamación, el estado es **edición**. El estado de la reclamación cambia a medida que se va moviendo por el proceso de aprobación. A veces, durante la revisión de una reclamación, puede que recibas comentarios sobre algún elemento específico de la documentación (documentos POE). También aparecen en el historial de reclamaciones los comentarios y las solicitudes para obtener más información. 
 
-Una vez que envíes a menos que un revisor solicita información adicional, no puedes editar la notificación.
+No puedes editar tus reclamaciones tras enviarlas, salvo en el caso de que un revisor solicite información adicional.
 
-Para obtener más información, consulte [Guía de cooperación de incentivos de partners](https://assets.microsoft.com/coop-guidebook.pdf)
+Para obtener más información, consulta la [guía de cooperación de incentivos de partners](https://assets.microsoft.com/coop-guidebook.pdf)

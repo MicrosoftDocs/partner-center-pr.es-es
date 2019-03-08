@@ -3,20 +3,20 @@ title: Competencia de planificación de recursos empresariales
 ms.topic: article
 ms.date: 10/29/2018
 description: Conviértete en partner de Microsoft demostrando la importancia de tu organización en el desarrollo e implementación de soluciones Dynamics para las necesidades de planificación de recursos empresariales.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: competencia,competencias,planificación de recursos empresariales
+keywords: competencia, competencias, planificación de recursos empresariales
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795548"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584338"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Enterprise Resource Planning 

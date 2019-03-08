@@ -2,19 +2,19 @@
 title: Ofrecer a los clientes versiones de prueba de productos Microsoft | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Puedes registrarte en estas versiones de prueba en el catálogo, al igual que muchos otros servicios en línea.
-author: labrenne
+description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Puede registrarse para estas evaluaciones en el catálogo al igual que muchos otros servicios en línea.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ed6b4b4b0a6bcbcbebfd5ac0f93a2d1fc9cb69d4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917447"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585068"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes versiones de prueba de productos de Microsoft
+# <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes pruebas de productos de Microsoft
 
 **Se aplica a**
 
@@ -24,7 +24,7 @@ Una buena manera de presentar a los clientes nuevos productos de Microsoft es of
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registrar al cliente para una prueba
 
-1.  Desde **vender** en el centro de partners, ve al **catálogo**. 
+1.  Desde **vender** en el centro de partners, vaya a **catálogo**. 
 2.  En el catálogo, en **Frecuencia de facturación**, haz clic en **Oferta de prueba**. Esto permite mostrar solo evaluaciones gratuitas y oculta otras ofertas que no son gratuitas. Las pruebas aparecerán en la pestaña **Pruebas** del catálogo.
 3.  Selecciona la evaluación gratuita que quieras ofrecer y luego selecciona **enviar**. Todas las pruebas están activadas durante 30 días y no recibirás ningún cargo. También puedes convertirla en una suscripción de pago en cualquier momento durante el período de prueba.
 

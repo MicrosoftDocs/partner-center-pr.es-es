@@ -7,16 +7,16 @@ keywords: referencias, responder a las referencias, clientes potenciales, oportu
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 896d2214f9d036919298a847ce3f31f53f7a21ee
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000045"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586808"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Haz crecer tu negocio de partner de Microsoft 
 
-Microsoft ofrece muchos recursos para ayudarte a hacer crecer tu negocio de partner. Obtén información sobre cómo las funcionalidades de este sitio, Microsoft Partner Center pueden ayudarte a atraer a nuevos clientes y obtener más rentabilidad.
+Microsoft ofrece muchos recursos para ayudarte a hacer crecer tu negocio de partner. Obtenga información sobre cómo las capacidades de este sitio, Microsoft Partner Center pueden ayudarle a atraer a nuevos clientes y obtener más rentabilidad.
 
 Usar el Centro de partners para:
 
@@ -27,18 +27,18 @@ Usar el Centro de partners para:
 - Vender en mercados adicionales (partners de CSP)
 
 > [!NOTE]  
-> Tu empresa debe inscribirse en Microsoft Partner Network y tener una cuenta de centro de partners para sacar partido de estas funcionalidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
+> Su empresa debe estar inscrito en Microsoft Partner Network y tener una cuenta de centro de partners para aprovechar estas capacidades. Consulta [Únete a Microsoft Partner Network](mpn-overview.md) para obtener información sobre cómo unirse a la red. En el caso de algunas funcionalidades, también debed ser un revendedor del programa Proveedor de soluciones en la nube (CSP). Consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md) para obtener información sobre cómo vender a través de este programa.
 
 ## <a name="resources-to-help-your-business-grow"></a>Recursos para ayudar a hacer crecer tu negocio
 
-|  **Para ello**  |  **Lee este documento para descubrir cómo**  |  **Se aplica a**  |
+|  **Para ello**  |  **Lea esta para obtener información sobre cómo**  |  **Se aplica a**  |
 |--------------|-----------|--------------
 | Obtener y administrar ventas potenciales | Para empezar, debes [crear un perfil de negocio](create-a-marketing-profile.md) para que los clientes puedan encontrar proveedores de soluciones y luego debes leer [Administrar oportunidades de ventas en el Centro de partners](responding-to-referrals.md). | Todos los partners de red |
 | Obtener el estado de partner Silver o Gold | Consulta [Competencia de los partners](https://partner.microsoft.com/membership/competencies) en el sitio de Microsoft Partner Network para obtener información sobre cómo calificar para los niveles de suscripción Silver o Gold. Cuando estés listo para trasladar tu información de competencia al Centro de partners, lee [Administrar tus competencias en el Centro de partners](competencies.md). | Todos los partners de red |
 | Ofrecer suscripciones de evaluación de clientes a productos de Microsoft (partners de CSP) | Lee [Ofrecer evaluaciones de clientes de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md) para descubrir cómo usar las suscripciones de evaluación para vender más a tu base de clientes.| Partners de CSP |
 | Ofrecer precios promocionales de clientes a suscripciones de Microsoft | En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite pasar los ahorros a los clientes y hacer crecer tu negocio. Lee [Ofrecer precios promocionales de clientes a suscripciones de Microsoft](promotions.md) para obtener más información. | Partners de CSP |
 | Vender en mercados adicionales | El canal de ventas de Proveedor de soluciones en la nube está disponible en numerosos países y regiones. Consulta [Mercados del Proveedor de soluciones en la nube](agreements.md) para revisar la lista. Para obtener una introducción al canal de Proveedor de soluciones en la nube, consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md).  | Partners de CSP |
-Vender en sectores especializados como que organizaciones sin ánimo de lucro y educación|[Vender en sectores especializados](get-special-pricing-for-offers.md)|Partners de CSP|
-|Hacer crecer tu negocio a través de las diversas actividades que están disponibles en el programa de incentivos cooperación. Notificaciones de archivo para las actividades a través del centro de partners.| [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
-|Crear nuevos conjuntos de software, incluyendo ofertas de terceros que funcionan con el software de Microsoft que vendes ya|[Descubre las ofertas de terceros](third-party-offers.md)|Partners de CSP|
-|¿Es una Superestrella en vender y administrar Azure de tu empresa? Se aplican para inscribirse en el programa de proveedor de servicios de Microsoft Azure experto|[Programa de proveedor de servicios de Microsoft de experto en Azure](azure-expert-msp.md)|Partners de CSP|
+Vender en sectores especializadas como organizaciones sin ánimo de lucro y educativas|[Vender a industrias especializadas](get-special-pricing-for-offers.md)|Partners de CSP|
+|Haz crecer tu empresa mediante diversas actividades disponibles en el programa de cooperación de incentivos. Notificaciones de archivo para las actividades a través del centro de partners.| [Crear y administrar las notificaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
+|Vender suscripciones a productos de Azure Marketplace|[Vender suscripciones a productos de Azure Marketplace](sell-marketplace-products.md)|Partners de CSP|
+|¿Es una Superestrella en venta y administración de Azure de su empresa? Se aplican para inscribirse en el programa proveedor de servicios de Microsoft Azure experto|[Programa de proveedor de servicios de experto en Microsoft Azure](azure-expert-msp.md)|Partners de CSP|

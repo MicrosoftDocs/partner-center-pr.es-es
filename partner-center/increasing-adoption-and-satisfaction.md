@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995839"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586728"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -30,13 +30,13 @@ Puedes ver los datos de todos los clientes a través del programa Proveedor de s
 ## <a name="find-license-and-user-data"></a>Buscar datos de usuario y de licencia
 
 
-**Para un único cliente**
+**Para un solo cliente**
 
--   Selecciona **los clientes** desde el **Centro de partners**, elige a un cliente y luego selecciona **la perspectiva del cliente**.
+-   Seleccione **clientes** desde el **centro de partners**, elija un cliente y luego seleccione **Customer insights**.
 
 **En la cartera**
 
-1.  En el **Centro de partners**, selecciona **analizar**.
+1.  En el **centro de partners**, seleccione **analizar**.
 2.  Para descargar los datos de uso y la implementación en todo el conjunto de clientes, selecciona las opciones de **exportación**.
 
 Terminología:
@@ -49,7 +49,7 @@ Terminología:
 
 -   **Uso %** = derechos activos/derechos totales
 
-    A veces el porcentaje de uso es excesivo, o mayor que 100%. Esto puede suceder por varias razones:
+    A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede suceder por varias razones:
 
     -   Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
 
@@ -70,14 +70,14 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> La velocidad de adopción de usuario es baja y muchas de las licencias no & #39; t que se usa.</p>
-<p><strong>Lo que debes tener en cuenta:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para obtener una visión de las formas que podrían incorporarlo en su día para simplificar las tareas que ya estén haciendo o para permitir nuevos tipos de productividad.</p>
-<p><strong>Lo que puedes probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
+<td><p><strong>Problema:</strong> La tasa de adopción de usuario es bajo y muchos licencias&#39;t que se va a usar.</p>
+<p><strong>Lo que debe considerar:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para obtener una visión de las formas que podrían incorporarlo en su día para simplificar las tareas que ya estén haciendo o para permitir nuevos tipos de productividad.</p>
+<p><strong>Lo que puede probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema:</strong> hay un alto volumen de las llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
-<p><strong>Lo que debes tener en cuenta:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
-<p><strong>Lo que puedes probar:</strong> Puedes usar una doble estrategia ofrece formación (presencial o en línea) para aumentar el cliente & #39; s experiencia general, mientras fomentan algunas de las opciones de autoservicio disponibles para los clientes.</p>
+<td><p><strong>Problema:</strong> hay un alto volumen de llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
+<p><strong>Lo que debe considerar:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
+<p><strong>Lo que puede probar:</strong> Puede usar una estrategia dual de oferta de entrenamiento (en persona o en línea) para aumentar el cliente&#39;s experiencia general, promoviendo también algunas de las opciones disponibles para los clientes de autoservicio.</p>
 <p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoservicio de soporte técnico al cliente</a> además de la información de contacto de soporte técnico.</p></td>
 </tr>
 </tbody>

@@ -2,17 +2,17 @@
 title: Usar los archivos de conciliación | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners.
+description: Para obtener una vista detallada del elemento de línea de cada carga de un ciclo de facturación, descargue los archivos de conciliación de centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122282"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585138"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -22,9 +22,9 @@ ms.locfileid: "9122282"
 -  Centro de partners para Microsoft Cloud for US Government
 
 
-Para obtener una vista detallada del elemento de línea de cada cargo en un ciclo de facturación, descarga los archivos de conciliación del centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
+Para obtener una vista detallada del elemento de línea de cada carga de un ciclo de facturación, descargue los archivos de conciliación de centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
 
-## <a href="" id="itemizebypartner"></a>Desglosar por partner
+## <a href="" id="itemizebypartner"></a>Detallar asociado
 
 
 Los partners del modelo indirecto pueden usar estos campos adicionales en ambos archivos de conciliación basada en uso y en licencia para realizar el desglose por revendedor.
@@ -49,7 +49,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 <td>Id. de MPN del revendedor</td>
 <td><p>Solo aparece en los archivos de conciliación de partners en el modelo indirecto.</p>
 <p>El Id. de MPN del revendedor de registro de la suscripción. Corresponde al id. de revendedor indicado para la suscripción específica en el Centro de partners.</p>
-<p>Para ver o actualizar el revendedor, en el menú del centro de partners, selecciona <strong>los clientes</strong>y luego elige el cliente de la lista. En el menú del cliente, selecciona <strong>Suscripciones</strong> y elige la suscripción de la lista. Selecciona <strong>Actualizar</strong> para cambiar el valor de <strong>Revendedor (id. de MPN)</strong>.</p>
+<p>muestra de eTo o actualiza el distribuidor, en el menú del centro de partners, seleccione <strong>clientes</strong>, a continuación, elija el cliente de la lista. En el menú del cliente, selecciona <strong>Suscripciones</strong> y elige la suscripción de la lista. Selecciona <strong>Actualizar</strong> para cambiar el valor de <strong>Revendedor (id. de MPN)</strong>.</p>
 <p>Si un partner CSP vendió la suscripción directamente al cliente, su id. de MPN aparece dos veces, como id. de MPN y como id. de MPN del revendedor.</p>
 <p>Si un partner CSP tiene un revendedor sin un id. de MPN, este valor se establece en el id. de MPN del partner.</p>
 <p>Si el partner CSP quita un id. de revendedor, este valor se establece en -1.</p></td>
@@ -59,10 +59,10 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 
  
 
-## <a href="" id="licensebasedfiles"></a> Campos de archivo basados en licencia
+## <a href="" id="licensebasedfiles"></a> Campos de archivo de licencia
 
 
-Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el identificador de suscripción del Centro de partners.
+Para conciliar los cargos en función de los pedidos del cliente, compara el Syndication\_Partner\_Subscription\_Number del archivo de conciliación con el id. de suscripción del Centro de partners.
 
 <table>
 <colgroup>
@@ -74,7 +74,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <tr class="odd">
 <td><strong>Columna</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de muestra</strong></td>
+<td><strong>Valor de ejemplo</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
@@ -106,13 +106,13 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <tr class="odd">
 <td>OfferID</td>
 <td><p>Identificador único de la oferta. Identificador de la oferta estándar según la lista de precios.</p>
-<p><b>Nota</b>: este valor no coincide con el id. de oferta de la lista de precios. Consulta DurableOfferID a continuación.</p></td>
+<p><b>Nota</b>: Este valor no coincide con Id. de oferta desde la lista de precios. Consulta DurableOfferID a continuación.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Id. de oferta duradera único, según se define en la lista de precios.</p>
-<p><b>Nota</b>: este valor coincide con el id. de oferta de la lista de precios.</p></td>
+<td><p>Identificador único de oferta duradera, según se define en la lista de precios.</p>
+<p><b>Nota</b>: Este valor coincide con el Id. de oferta desde la lista de precios.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>La fecha de finalización de la suscripción: 12 meses + x días después de la fecha de inicio (para que se alinee con la fecha de facturación del partner) o 12 meses a partir de la fecha de renovación.</p>
+<td><p>La fecha de finalización de la suscripción: 12 meses + x días después de la fecha de inicio (para alinearse con fecha de facturación del asociado) o 12 meses a partir de la fecha de renovación.</p>
 <p>En el momento de la renovación, los precios se actualizan según la lista de precios actual. Es posible que se necesite una comunicación con el cliente antes de la renovación automatizada.</p>
 <p>La hora siempre corresponde al comienzo del día, 0:00.</p></td>
 <td>1/2/2015 0:00</td>
@@ -158,12 +158,12 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>Quantity</td>
+<td>Cantidad</td>
 <td><p>Número de puestos. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
+<td>Volumen</td>
 <td><p>Total del precio para la cantidad. Es de utilidad para comprobar que el cálculo de la cantidad coincide con la manera de calcular este valor para los clientes.</p></td>
 <td>13.32</td>
 </tr>
@@ -178,8 +178,8 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Tax</td>
-<td><p>Cargo por importe, en función del market& #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
+<td>Impuestos</td>
+<td><p>Importe de impuestos, según el mercado&#39;reglas s y circunstancias concretas.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -188,13 +188,13 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Currency</td>
+<td>Moneda</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer& #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Cliente&#39;nombre de la organización s notificados en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer& #39; nombre de dominio de s, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Cliente&#39;nombre de dominio de s, que ayuda a identificar el cliente. No debe usarse para identificar al cliente como el cliente o socio puede actualizar el dominio personal de forma predeterminada a través del portal de Office 365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -226,7 +226,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Campos de archivos basados en el uso
+## <a href="" id="usagebasedfiles"></a>Campos de archivo basada en uso
 
 
 Para conciliar los cargos en función del uso de tu cliente, compara los valores de ResellerID/ResellerName/ResellerBillableAccount del archivo de conciliación, el nombre del cliente y el id. de suscripción del Centro de partners.
@@ -243,7 +243,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td><strong>Columna</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de muestra</strong></td>
+<td><strong>Valor de ejemplo</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
@@ -262,7 +262,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer& #39; nombre de la organización s según se indica en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
+<td><p>Cliente&#39;nombre de la organización s notificados en el centro de partners. Esto es muy importante para conciliar la factura con la información del sistema.</p></td>
 <td>Cliente de prueba A</td>
 </tr>
 <tr class="even">
@@ -310,7 +310,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Identificador único de un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar la suscripción al ponerse en contacto con el soporte técnico, pero no para la conciliación.</p></td>
+<td><p>Identificador único de un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
@@ -383,7 +383,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Cargo por importe, en función del market& #39; las reglas fiscales de s y las circunstancias específicas de impuestos.</p></td>
+<td><p>Importe de impuestos, según el mercado&#39;reglas s y circunstancias concretas.</p></td>
 <td>0.08 USD</td>
 </tr>
 <tr class="even">
@@ -392,7 +392,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>0.93 USD</td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
+<td>Moneda</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
@@ -424,7 +424,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>MeteredRegion</td>
 <td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
-<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE.UU., Centro-sur de EE.UU.</td>
+<td>Asia oriental, Sur asiático, Norte de Europa, Europa occidental, Norte central de EE. UU., Sur central de EE. UU.</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
@@ -444,7 +444,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Número de conexiones de Bus de servicio aprovisionadas y usadas en un día determinado.</p></td>
-<td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tenías un paquete de 25 de conexiones de Bus de servicio aprovisionadas y utilizaste 1 durante ese día, la declaración de uso diario de ese día sería "25 conexiones/30 días. Utilizadas: 1,000000".</td>
+<td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tuviera un paquete de 25 de conexiones de bus de servicio aprovisionada y ha utilizado 1 durante ese día, el extracto de uso diario durante ese día indicaría "25 conexiones / 30 días: utilizado: 1.000000”.</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -453,7 +453,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer& #39; nombre de dominio de s, que se usa para identificar al cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Cliente&#39;nombre de dominio de s, que ayuda a identificar el cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 <td>ejemplo.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -464,7 +464,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>Campos de archivos de una sola vez y periódicos
+## <a href="" id="marketplacefilefields"></a>Campos del archivo periódicas y únicas
 
 <table>
 <colgroup>
@@ -473,7 +473,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Columna</th>
+<th>Column</th>
 <th>Descripción</th>
 </tr>
 </thead>
@@ -487,7 +487,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>Id. de cliente</td>
-<td><p>Microsoft Azure Active Directory inquilino identificador exclusivo, en formato GUID, que se usa para identificar al cliente.</p></td>
+<td><p>Microsoft Azure Active Directory inquilino identificador único, en formato GUID, que usa para identificar al cliente.</p></td>
 </tr>
 
 <tr class="odd">
@@ -497,11 +497,11 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el partner o el cliente puede actualizar el dominio cortesía de forma predeterminada a través del portal de O365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
+<td><p>Nombre de dominio del cliente, que se usa para identificar al cliente. No debe usarse para identificar al cliente como el cliente o socio puede actualizar el dominio personal de forma predeterminada a través del portal de Office 365. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación.</p></td>
 </tr>
 
 <tr class="odd">
-<td>País de cliente</td>
+<td>País del cliente</td>
 <td><p>El país donde se encuentra el cliente.</p></td>
 </tr>
 
@@ -516,13 +516,13 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>MpnId de revendedor</td>
+<td>Reseller MpnId</td>
 <td><p>Id. de MPN del revendedor de registro de la suscripción.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Id. de pedido</td>
-<td><p>Identificador único de un pedido en la plataforma de comercio de Microsoft. Puede ser útil para identificar al pedido al ponerse en contacto con el soporte técnico, pero no para la conciliación.</p></td>
+<td><p>Identificador único para un pedido en la plataforma de comercio de Microsoft. Puede ser útil para identificar al pedido al ponerse en contacto con el soporte técnico, pero no para la conciliación.</p></td>
 </tr>
 
 <tr class="even">
@@ -546,7 +546,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>Nombre SKU</td>
+<td>Nombre de SKU</td>
 <td><p>Título para un SKU concreto.</p></td>
 </tr>
 
@@ -557,22 +557,22 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>El nombre del Editor del producto.</p></td>
+<td><p>El nombre del publicador del producto.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>Identificador único de este publicador.</p></td>
+<td><p>Identificador único para este publicador.</p></td>
 </tr>
 
 <tr class="even">
 <td>Descripción de la suscripción</td>
-<td><p>Nombre descriptivo de la suscripción.</p></td>
+<td><p>Nombre descriptivo de una suscripción.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Id. de suscripción</td>
-<td><p>Identificador único de una suscripción en la plataforma de comercio de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
+<td>Id. de la suscripción</td>
+<td><p>Identificador único para una suscripción en la plataforma de comercio de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
 </tr>
 
 <tr class="even">
@@ -587,7 +587,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>Término y Billingcycle</td>
-<td><p>La longitud del término y el ciclo de facturación de la compra. Por ejemplo, "1 año, mensualmente".</p></td>
+<td><p>La duración del período y ciclo de facturación para la compra. Por ejemplo, "1 año, mes".</p></td>
 </tr>
 
 <tr class="odd">
@@ -597,12 +597,12 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>Precio unitario</td>
-<td><p>El precio de su publicación en la lista de precios en el momento de compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+<td><p>El precio publicado en la lista de precios en el momento de la compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Precio unitario eficaz</td>
-<td><p>El precio unitario después de que se han realizado ajustes.</p></td>
+<td>Precio unitario efectivo</td>
+<td><p>El precio por unidad una vez realizados los ajustes.</p></td>
 </tr>
 
 <tr class="even">
@@ -612,12 +612,12 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="odd">
 <td>Tipo de unidad</td>
-<td><p>El tipo de unidad que se va a comprar.</p></td>
+<td><p>El tipo de unidad que se compra.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>Una explicación de los descuentos aplicables.</p></td>
+<td><p>Explicación de los descuentos aplicables.</p></td>
 </tr>
 
 <tr class="odd">
@@ -648,7 +648,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>Campos de archivos de uso prorrateado diarios
+## <a href="" id="dailyratedusagefields"></a>Campos del archivo de uso diario calificados
 
 
 <table>
@@ -658,7 +658,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Columna</th>
+<th>Column</th>
 <th>Descripción</th>
 </tr>
 </thead>
@@ -690,7 +690,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>País de cliente</td>
+<td>País del cliente</td>
 <td><p>El país donde se encuentra el cliente.</p></td>
 </tr>
 
@@ -700,7 +700,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>Revendedor MPNID</td>
+<td>Distribuidor MPNID</td>
 <td><p>Id. de MPN del revendedor de registro de la suscripción. No está disponible para la actividad actual.</p></td>
 </tr>
 
@@ -725,7 +725,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Nombre SKU</td>
+<td>Nombre de SKU</td>
 <td><p>Título para un SKU concreto.</p></td>
 </tr>
 
@@ -736,7 +736,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>El identificador del Editor, en formato GUID. No está disponible para la actividad actual.</p></td>
+<td><p>El identificador del publicador, en formato GUID. No está disponible para la actividad actual.</p></td>
 </tr>
 
 <tr class=”even">
@@ -745,7 +745,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Id. de suscripción</td>
+<td>Id. de la suscripción</td>
 <td><p>Identificador único de una suscripción en la plataforma de facturación de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
 </tr>
 
@@ -766,37 +766,37 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="odd">
 <td>Tipo de medidor</td>
-<td><p>El tipo de metros.</p></td>
+<td><p>El tipo de medidor.</p></td>
 </tr>
 
 <tr class="even">
-<td>Categoría de metro</td>
+<td>Categoría de medidor</td>
 <td><p>El servicio de nivel superior para el uso.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Id. de metro</td>
-<td><p>El identificador para el medidor que se usa.</p></td>
+<td>Id. de medidor</td>
+<td><p>El identificador del medidor que se va a usar.</p></td>
 </tr>
 
 <tr class="even">
-<td>Medidor subcategoría.</td>
-<td><p>El tipo de servicio de Azure que puede afectar a la velocidad.</p></td>
+<td>Subcategoría de medidor</td>
+<td><p>El tipo de servicio de Azure que puede afectar a la tarifa.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Nombre de metro</td>
-<td><p>La unidad de medida para el medidor está consumiendo.</p></td>
+<td>Nombre de medidor</td>
+<td><p>La unidad de medida del medidor consumido.</p></td>
 </tr>
 
 <tr class="even">
-<td>Región de metro</td>
+<td>Región de medidor</td>
 <td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Unidad</td>
-<td><p>La unidad del nombre del recurso.</p></td>
+<td><p>La unidad del nombre de recurso.</p></td>
 </tr>
 
 <tr class="even">
@@ -805,13 +805,13 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Ubicación de recurso</td>
-<td><p>El centro de datos donde se ejecuta el medidor.</p></td>
+<td>Ubicación de recursos</td>
+<td><p>El centro de datos donde se está ejecutando el medidor.</p></td>
 </tr>
 
 <tr class="even">
-<td>Servicio consumida</td>
-<td><p>El servicio de plataforma de Azure que usaste.</p></td>
+<td>Servicio consumido</td>
+<td><p>El servicio de la plataforma Azure que usó.</p></td>
 </tr>
 
 <tr class="odd">
@@ -821,7 +821,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>URI de recurso</td>
-<td><p>El URI del recurso que se usa.</p></td>
+<td><p>El URI del recurso que se va a usar.</p></td>
 </tr>
 
 <tr class="odd">
@@ -831,7 +831,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>Precio unitario</td>
-<td><p>Precio por licencia, ya que publica en la lista de precios en el momento de compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
+<td><p>Precio por licencia, como se publica en la lista de precios en el momento de la compra. Asegúrate de que coincide con la información almacenada en tu sistema de facturación durante la conciliación.</p></td>
 </tr>
 
 <tr class="odd">
@@ -841,27 +841,27 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>Tipo de unidad</td>
-<td><p>El tipo de unidad el medidor se cargará en. No está disponible para la actividad actual.</p></td>
+<td><p>El tipo de unidad que se cobra el medidor. No está disponible para la actividad actual.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Antes de impuestos de facturación</td>
-<td><p>Importe total antes de impuestos.</p></td>
+<td>Impuestos de facturación anterior a</td>
+<td><p>Cantidad total antes de impuestos.</p></td>
 </tr>
 
 <tr class="even">
 <td>Divisa de facturación</td>
-<td><p>La divisa en la región geográfica del cliente</p></td>
+<td><p>La moneda en la región geográfica del cliente</p></td>
 </tr>
 
 <tr class="odd">
-<td>Precios total sin impuestos</td>
-<td><p>El precio antes de que se agregan los impuestos.</p></td>
+<td>Precio total antes de impuestos</td>
+<td><p>Los precios antes de que se agregan los impuestos.</p></td>
 </tr>
 
 <tr class="even">
-<td>Moneda de precios</td>
-<td><p>La divisa en la lista de precios.</p></td>
+<td>Precios de moneda</td>
+<td><p>La moneda en la lista de precios.</p></td>
 </tr>
 
 <tr class="odd">
@@ -870,13 +870,13 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>Información sobre el servicio 2</td>
-<td><p>Un campo heredado que captura metadatos específicos del servicio opcional.</p></td>
+<td>Información de servicio 2</td>
+<td><p>Un campo heredado que captura los metadatos específicos del servicio opcional.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Etiquetas</td>
-<td><p>Etiquetas que se asigna al medidor en orden para agrupar registros de facturación. Por ejemplo, puedes usar etiquetas para distribuir los costes por el departamento que usa el medidor.</p></td>
+<td><p>Etiquetas que asigna al medidor en orden para agrupar los registros de facturación. Por ejemplo, puede usar etiquetas para distribuir los costos por el departamento que utiliza el medidor.</p></td>
 </tr>
 
 <tr class="even">
@@ -902,21 +902,21 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <tbody>
 <tr>
 <td>
-<p><strong>Descripción del cargo de facturación</strong></p>
+<p><strong>Descripción de cargos de facturación</strong></p>
 </td>
 <td>
-<p><strong>Descripción del cargo del archivo de conciliación (columna ChargeType)</strong></p>
+<p><strong>Descripción de cargos del archivo de conciliación (columna ChargeType)</strong></p>
 </td>
 <td>
 <p><strong>¿Qué es este cargo?</strong></p>
 </td>
 <td>
-<p><strong>¿Cómo asigno estos valores de ChargeType a la factura?</strong></p>
+<p><strong>¿Cómo se asignan estos ChargeTypes a la factura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Cargos basado en licencia</strong></p>
+<p><strong>Cargos de licencia</strong></p>
 </td>
 <td>
 <p>Tarifa de activación</p>
@@ -965,7 +965,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>Tarifas prorrateadas al comprar</p>
 </td>
 <td>
-<p>El tipo de cargo de una suscripción cuando se utiliza la facturación anual</p>
+<p>El tipo de gasto para una suscripción cuando se usa la facturación anual</p>
 </td>
 </tr>
 <tr>
@@ -973,7 +973,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>Tarifa de compra</p>
 </td>
 <td>
-<p>El tipo de cargo de una suscripción cuando se utiliza la facturación mensual</p>
+<p>El tipo de gasto para una suscripción cuando se usa la facturación mensual</p>
 </td>
 </tr>
 <tr>
@@ -1081,10 +1081,10 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 
 <tr>
 <td>
-<p><strong>Descuentos basado en licencia</strong></p>
+<p><strong>Descuentos de licencias</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1098,8 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p><strong>Impuestos</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
-<p><em>Excepción: &quot;desplazamiento de un elemento de línea&quot; ya incluye impuestos. Créditos, consulta la sección anterior.</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
+<p><em>Excepción: &quot;Desplazamiento de un elemento de línea&quot; ya incluye los impuestos. Consulte los créditos, más arriba.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

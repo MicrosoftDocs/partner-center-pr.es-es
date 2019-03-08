@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Crea un perfil de negocio en el Centro de partners para obtener oportunidades de ventas de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062363"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587338"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,26 +43,26 @@ El primer paso para obtener clientes potenciales es crear un perfil de negocio. 
 *  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft pueden, después, presentar tu empresa a los clientes potenciales.
 
 > [!IMPORTANT]  
-> Para ayudar a nuestros partners a optimizar las operaciones empresariales, estamos consolidando características y funcionalidades que solían estar distribuidas entre varias herramientas y sitios Web en el centro de partners, este sitio. Como parte de este esfuerzo, hemos trasladado todas las funcionalidades de las referencias al centro de partners y hemos retirado los sitios C2PC y Pinpoint. Si usaste Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, tendrás que crear un nuevo perfil de negocio en el centro de partners para seguir obteniendo referencias. Ya no se admite la importación de perfiles de estos sitios. 
+> Para ayudar a nuestros asociados de optimizar las operaciones de negocio, nos estamos consolidar las características y capacidades que usa se distribuyan entre varias herramientas y los sitios Web en el centro de partners, este sitio. Como parte de ese esfuerzo, hemos movido todas las funcionalidades relacionadas con las referencias para el centro de partners y retirar los sitios de punto de anclaje y C2PC. Si usa Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberá crear un nuevo perfil de negocio en el centro de partners para continuar recibiendo las referencias. Ya no se admite la importación de perfiles de estos sitios. 
 
 ## <a name="create-a-profile"></a>Crear un perfil
 
 > [!NOTE]  
->  Antes de poder crear un perfil de negocio, debes tener una cuenta del centro de partners. Si aún no tienes una cuenta del Centro de partners, consulta [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md) para obtener ayuda cuando crees una. 
+>  Para poder crear un perfil de negocio, debe tener una cuenta de centro de partners. Si aún no tienes una cuenta del Centro de partners, consulta [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md) para obtener ayuda cuando crees una. 
 
 Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
-1.  En el menú del **Centro de partners** , selecciona **las referencias** &gt; **perfiles de negocio** &gt; selecciona un > de país/región **[crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Desde el **centro de partners** menú, seleccione **referencias** &gt; **perfiles de negocio** &gt; seleccione un país o región >  **[ Crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
     > [!NOTE]  
-    >  Aunque el centro de partners admite varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, es posible que tengan que incluir texto de diferentes idiomas, como se indicó en este tema.
+    >  Aunque el centro de partners es compatible con varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, que tenga que incluir texto de idiomas diferentes, como se indicó en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 
 Introduce tu empresa, agrega un logotipo y una breve descripción y un vínculo a tu sitio web. 
 
-El logotipo puede ser un archivo GIF, JPG o PNG, con un ancho máximo de 300 píxeles. Te recomendamos que uses las relaciones de aspecto cuadradas o largas. Las relaciones de aspecto alargadas no se recomiendan.
+El logotipo puede ser un archivo GIF, JPG o PNG, con un ancho máximo de 300 píxeles. Te recomendamos que uses las relaciones de aspecto cuadradas o largas. Las relaciones de aspecto altas no se recomiendan.
 
 La descripción puede tener hasta 2500 caracteres. Sugerencias para una buena descripción: 
 
@@ -75,7 +75,7 @@ La descripción puede tener hasta 2500 caracteres. Sugerencias para una buena de
 *  **No hagas referencia a otra compañía asociada a Microsoft por nombre**, a menos que se trate de una subsidiaria o que de alguna forma esté relacionada con tu compañía, o que tenga un contrato actual con esa compañía asociada para actuar en asociación o para promoverse mutuamente con el fin de compartir las oportunidades de trabajo.
 *  **Para las regiones con varios idiomas**, considera la posibilidad de incluir texto de varios idiomas en la descripción.
 
-#### <a href="" id="linkedin"></a> Página de la empresa LinkedIn: más formas de conectarse
+#### <a href="" id="linkedin"></a> Página de la compañía de LinkedIn: más formas de conectarse
 
 Agrega la página de la compañía de LinkedIn para reforzar las conexiones con los clientes potenciales. 
 
@@ -98,11 +98,11 @@ Otras etiquetas que se usan en la búsqueda:
 *  **Etiquetas de competencia** son una designación merecida que presenta las capacidad de tu empresa.
 *  Las **Etiquetas de aprobación** se obtienen cuando Microsoft o los clientes que han trabajado contigo avalan tu trabajo.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir a Microsoft avalar mis áreas de experiencia
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que Microsoft promociona mis áreas de experiencia
 
 Se recomienda que dejes marcado este ajuste. 
 
-Al demostrar éxito con los clientes a través del centro de partners, o participar en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos específicos, servicios y sectores que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
+Demostración de éxito con los clientes a través del centro de partners, o participar en otros programas o las certificaciones de Microsoft, vamos a agregar automáticamente indicaciones para sus productos específicos, servicios y sectores que contribuyen al éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
 
 Sin embargo, si hay productos para los que proporcionas servicios y que prefieres que no aparezcan en tu perfil, puedes desactivar esta casilla y administrar manualmente tu perfil. Estas recomendaciones no serán visibles para los clientes, pero puedes agregarlos a tu perfil en cualquier momento.
 

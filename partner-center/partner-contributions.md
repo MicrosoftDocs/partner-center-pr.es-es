@@ -1,77 +1,77 @@
 ---
-title: 'Contribución de partners: mantenerse en la parte superior indicadores de rendimiento | El centro de partners'
+title: 'Contribución de partners: mantenerse en la parte superior de los indicadores de rendimiento | Centro de partners'
 ms.topic: article
 ms.date: 10/29/2018
-Description: Use partner contributions data to understand how your business is growing and succeeding
-author: labrenne
+Description: Usar datos de las contribuciones de socios comerciales para comprender cómo está creciendo y dirige su negocio
+author: LauraBrenner
 ms.author: labrenne
 keywords: datos de negocios
 ms.localizationpriority: medium
-ms.openlocfilehash: 704b7123a8eceea9e16692d9e5413875d9f6d92d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995829"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587368"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Contribución de partners: mantenerse en la parte superior de los indicadores de rendimiento
 
-**Aplicable a**
+**Se aplica a**
 - Centro de partners
 
 Los datos determinan las decisiones comerciales. Usa las métricas de la página Contribución de partners para identificar tus logros, los de tus clientes y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 
 >[!NOTE]
->Contribución de partners actualmente solo está disponible para los partners que venden Dynamics 365.
+>La contribución de partners actualmente solo está disponible para los partners que venden Dynamics 365.
 
 Estamos siguiendo estas métricas:
 
-**Rendimiento de los partners**
+**Rendimiento del socio**
 
-1. **Ingresos**: Nuevos ingresos netos a través de todos los tipos de licencia (EA, CSP, Web, directa), distribuidos para el producto y filtros que hayas seleccionado
-2. **Nuevos clientes agregados**: Número de clientes que estás agregando.
-3. **Net puestos de pago agrega**: número de nuevos puestos de pago que has agregado para el producto y filtro que hayas seleccionado.  Clientes netos agregados = (Puestos agregados) – (Puestos perdidos) 
+1. **Ingresos**: Revierte los ingresos netos del nuevo en todos los tipos de licencia (EA, CSP, Web, Direct) del producto y los filtros que ha seleccionado
+2. **Se agregaron nuevos clientes**: Número de clientes que se va a agregar.
+3. **Agrega puestos pago netos**: Número de puestos de pago nuevo ha agregado para el producto y de filtro ha seleccionado.  Clientes netos agregados = (Puestos agregados) – (Puestos perdidos) 
 
-**Capacidad de los partners**
-4. **Acciones individuales certificadas**: Esfuerzos invertidos en formar la base de consulta. Este es el número de personas que han superado 1 o más de los 5 exámenes que cuentan para llegar hacia la carga de trabajo hayas seleccionado. Suma de todos las personas asociadas contigo, por todas las ubicaciones de tu empresa.
-5. **Instancias de producción**: implementaciones completadas correctamente. Se trata de la instantánea más reciente de instancias de producción disponibles.
+**Capacidad de asociado**
+4. **Certified individuos**: Inversión esfuerzos en el entrenamiento de la base de consultor. Este es el número de personas que han superado 1 o más de los 5 exámenes que cuentan para llegar hacia la carga de trabajo hayas seleccionado. Suma de todos las personas asociadas contigo, por todas las ubicaciones de tu empresa.
+5. **Las instancias de producción**: Las implementaciones se completó correctamente. Se trata de la instantánea más reciente de instancias de producción disponibles.
 
-**Éxito con los clientes**
+**Éxito del cliente**
 
-6.  **Usuarios activos mensuales (MAU)**: Incremento del uso activo del producto.
+6.  **Usuarios activos al mes (MAU)**: Aumento del uso activo del producto.
 (Número de usuarios únicos que ha realizado una acción de forma intencionada en los últimos doce meses)/12
-7. **MAU en función de puestos asignados**: Incremento del uso activo del producto en comparación con lo que los clientes pensaban implementar. “(MAU)/(número actual de puestos asignados)”. Puestos asignados que incluyen licencias que se han implementado en cuentas de usuario específicas.  Incluye solo suscripciones activas y en periodo de gracia. 
+7. **Vs MAU asignado puestos**: Aumento del uso activo para el producto en comparación con los clientes pretende implementar. “(MAU)/(número actual de puestos asignados)”. Puestos asignados que incluyen licencias que se han implementado en cuentas de usuario específicas.  Incluye solo suscripciones activas y en periodo de gracia. 
 
 
 **Medida**
 
-Cada métrica se muestra mediante una barra (1a 4) que representa la escala frente a otros asociados, usando los filtros seleccionados (producto, carga de trabajo, ubicación de clientes). Los valores de debajo de estas barras son los intervalos de valores mínimo y máximo (min & max). Cada barra de intervalo min & max se muestra manteniendo el cursor sobre la barra.  
+Cada métrica se muestra mediante una barra (1 a 4) que representa la escala frente a otros asociados, usando los filtros seleccionados (producto, carga de trabajo, ubicación de clientes). Los valores de debajo de estas barras son los intervalos de valores mínimo y máximo (min & max). Cada barra de intervalo min & max se muestra manteniendo el cursor sobre la barra.  
 
-8. **Mes de la actualización de datos**: las métricas se calculan para los 12 últimos meses hasta el mes seleccionado.
-9. **Tendencias de métricas**: tendencia mes de 12 finales en comparación con el mes anterior. Las flechas indican la dirección de tendencia. Si no ves una flecha, no ha cambiado la tendencia.
+8. **Actualización de datos mes**: Se calculan las métricas para los últimos 12 meses hasta el mes seleccionado.
+9. **Tendencia de las métricas**: Tendencia de 12 meses finales en comparación con el mes anterior. Las flechas indican la dirección de tendencia. Si no ve una flecha, la tendencia no ha cambiado.
 
 >[!NOTE] 
->- Las métricas se acumulan para todos los clientes durante los 12últimos meses (TTM), a excepción de los “individuos certificados”        
+>- Las métricas se acumulan para todos los clientes durante los 12 últimos meses (TTM), a excepción de los “individuos certificados”        
 >- Las métricas se calculan según los filtros aplicados de producto, carga de trabajo y ubicación de los clientes
 >- Los datos de métricas se recopilan únicamente para los clientes que te hayan elegido como su partner digital de registro (DPOR). 
 
-Agradecemos comentarios del usuario en contribución de partners. Envíe a PCPCI@microsoft.com.  
+Agradecemos tus comentarios sobre la contribución de partners. Envíalos a PCPCI@microsoft.com.  
 
 ## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
-1. ¿Por qué no puedo ver la página contribución de partners?
-    - Contribución de partners actualmente solo está disponible para los partners que venden Dynamics 365 con cuentas de MPN o de CSP. Esta característica no está habilitada aún para China y Alemania.
+1. ¿Por qué no puedo ver la página de contribución de partners?
+    - La contribución de partners solamente está actualmente disponible para los partners que vendan Dynamics 365 con cuentas MPN o CSP. Esta función aún no está habilitada para China ni Alemania.
 2. Soy un partner de Dynamics 365, ¿por qué no puedo ver los datos de contribución de partners?
-    - Puede que no tenga un rol de cuenta MPN o CSP. Por ejemplo: Asesor y DAP no están habilitados aún.  
-    - Puede que no tenga el rol de usuario adecuados en la organización para ver esta página. Ponte en contacto con el administrador global.
-    - La organización se encuentra en China o Alemania.
+    - Puede que no tengas un rol de cuenta de MPN o CSP. Por ejemplo: Advisor y DAP no están habilitadas todavía.  
+    - Es posible que no tengas el rol de usuario adecuado en tu organización para ver esta página. Ponte en contacto con tu administrador global.
+    - Tu organización se encuentra en China o Alemania.
 
-3. ¿Mi nuevos ingresos netos > 0, pero no tienen datos para los usuarios activos mensuales (MAU)?
-    - Para la mayoría de las licencias por volumen o canal abierto a los clientes, facturación aparece antes de aprovisionar puestos por lo que no podemos ver MAU aún.
+3. Mis nuevos ingresos netos > 0, pero no tengo datos de usuarios activos mensuales (MAU)
+    - Para la mayoría de los clientes de licencias por volumen o canal, la facturación aparece antes del aprovisionamiento de puestos por lo que aún no podemos ver MAU.
 
-4. ¿Por qué mi MAU > 0, pero no tienen datos para nuevos ingresos netos?
-   - Para Web directo o revendedor, puestos aprovisionados antes de comenzar el ciclo de facturación. Facturación puede producirse un mes, trimestre o año más adelante en función de los términos de la suscripción. Esto también ocurre con las suscripciones de prueba, los derechos de uso interno y los clientes del gobierno.
-5. ¿No coinciden los datos de ingresos?
-   - Esto es más probable debido a la asociación, las diferencias de temporización o datos de nube no DPOR.
-6. ¿Mis datos individuales certificadas por baja?
-   - Solo mostramos los ubicados en un área de inquilino del cliente en particular y que hayan pasado a 1 o más de los 5 exámenes necesarios para la competencia de aplicaciones empresariales en la nube, la participación de clientes o la ruta de acceso de finanzas y Ops.   
+4. ¿Por qué es mi MAU A 0, pero no tengo datos de nuevos ingresos netos?
+   - Para Web directa o revendedor, los puestos se aprovisionan antes de que comience el ciclo de facturación. La facturación puede producirse un mensual, trimestral o anualmente más adelante, en función de los términos de la suscripción. Esto también ocurre con clientes con suscripciones de prueba, derechos de uso interno y del gobierno.
+5. Mis datos de ingresos no coinciden
+   - Esto suele deberse a la asociación de DPOR, las diferencias de tiempo o danos que no son de la nube.
+6. ¿Por qué son bajos mis datos individuales certificados?
+   - Solo mostramos los ubicados en un área de inquilino del cliente determinada y que han pasado 1 o varios de los 5 exámenes necesarios para la ruta de las competencias de aplicaciones de negocio de nube, participación de los clientes u finanzas y operaciones.   

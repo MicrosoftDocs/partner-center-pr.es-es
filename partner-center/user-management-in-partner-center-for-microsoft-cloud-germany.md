@@ -6,12 +6,12 @@ description: Para cumplir con los requisitos específicos de la industria, regio
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e371869ec5fcf6ffbd9d1b078a9e7658aa480a61
-ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
+ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8962367"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587038"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
@@ -20,9 +20,9 @@ ms.locfileid: "8962367"
 -  Centro de partners para Microsoft Cloud Alemania
 
 > [!IMPORTANT]
-> En función de la evolución de las necesidades de los clientes, nuestra estrategia en la nube para Alemania se centrará en la distribución de las regiones en la nube nuevo en Alemania coherentes con nuestra nube global que ofrece. Con este enfoque, se se ya no acepta a nuevos clientes o implementar los nuevos servicios desde el Microsoft Cloud Alemania disponible actualmente. Los clientes existentes pueden seguir usando la actual servicios en la nube está disponibles en la actualidad, lo que tendrás mantenemos con actualizaciones de seguridad necesarias.
+> En función de la evolución de las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en el suministro de las nuevas regiones de nube en Alemania, que son coherentes con nuestra oferta de nube global. Siguiendo este enfoque, ya no aceptaremos nuevos clientes ni implementaremos ningún nuevo servicio desde Microsoft Cloud Alemania. Los clientes existentes pueden seguir usando los actuales servicios de nube disponibles a fecha de hoy, que mantendremos con las actualizaciones de seguridad necesarias.
 >  
-> Más adelante, nuevos clientes tienen la opción de usar las regiones de alfabetos actualmente disponibles o las regiones nuevas en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft ofrecer servicios de nube de centros de datos de nuevo en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+> Todavía más, los nuevos clientes tienen la opción de usar las regiones europeas actualmente disponibles o las nuevas regiones en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft entregará servicios en la nube desde nuevos centros de datos en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
 Para cumplir con las leyes y normas alemanas que rigen la recopilación y el uso de datos de personas físicas, así como con los estándares internacionales más importantes, las siguientes funcionalidades de administración de usuarios y licencias no están disponibles en el Centro de partners para Microsoft Cloud Alemania. En su lugar, agrega y administra los usuarios y las licencias en el portal de Azure para Microsoft Cloud Alemania o el centro de administración de Office 365.
 
@@ -35,23 +35,23 @@ Administración de licencias | Centro de administración de Office 365 o portal 
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud Alemania 
 
-Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, puedes abrir el portal de Azure para Microsoft Cloud Alemania sin tener que volver a iniciar sesión. Sin embargo, si necesitas iniciar sesión directamente en el portal de Azure para Microsoft Cloud Alemania, ve a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, puedes abrir el portal de Azure para Microsoft Cloud Alemania sin tener que volver a iniciar sesión. Sin embargo, si necesitas iniciar sesión directamente en el Azure Portal para Microsoft Cloud Alemania, ve a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud Alemania, abre la página de introducción a Azure Active Directory (Azure AD) y luego sigue las instrucciones en estos temas:
 
 > [!NOTE]  
-> Seleccionar los siguientes vínculos te llevará a un sitio Web diferente. 
+> Selecciona los siguientes vínculos le llevará a un sitio Web diferente. 
 
 -  [Agregar nuevos usuarios a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Asignar a un usuario roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Asignar a un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Restablecer la contraseña para un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Restablecer la contraseña de un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Temas relacionados**
 
--  [Microsoft Azure Alemania](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md)
+-  [Centro de partners de Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md)
 
 

@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
 ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795678"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584248"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
 
@@ -21,9 +21,9 @@ ms.locfileid: "5795678"
 
 -  Centro de partners
 
-Puedes agregar varios usuarios a una cuenta de cliente al mismo tiempo, al cargar un archivo de datos en el formato de archivo de valores separados por comas (.csv) al centro de partners. Puedes descargar un archivo de datos de muestra desde el centro de partners y después modificarlo para usarlo, o puedes crear un nuevo archivo de datos mediante el modelo de datos que se define a continuación.
+Puede agregar varios usuarios a una cuenta de cliente al mismo tiempo, al cargar un archivo de datos en el formato de archivo de valores separados por comas (.csv) en el centro de partners. Puede descargar un archivo de datos de ejemplo desde el centro de partners y, a continuación, modificarlo para su uso, o puede crear un nuevo archivo de datos utilizando el modelo de datos que se definen a continuación.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
+## <a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos
 
 
 Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, es necesario cumplir los siguientes requisitos:
@@ -38,12 +38,12 @@ Escribe los siguientes datos en el archivo de datos:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nombre de columna** | **Descripción**                                                              | **Limitaciones**                             |
+| **Nombre de columna** | **Descripción**                                                              | **Limitación**                             |
 | Nombre      | El nombre de pila del usuario (campo opcional)                                           | Límite de 50 caracteres                         |
 | Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
 | Nombre para mostrar    | Nombre que aparece en el centro de partners (campo obligatorio)                            | Límite de 50 caracteres                         |
 | Correo electrónico           | La dirección de correo electrónico comercial del usuario en la compañía del cliente (campo obligatorio).           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
-| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\* \ *                        |
+| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Deje en blanco\*\*                        |
 
  
 
@@ -51,21 +51,21 @@ Escribe los siguientes datos en el archivo de datos:
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Crea un archivo de datos de valores separados por comas (.csv) con los datos que se han descrito anteriormente. Guarda el archivo para que puedas acceder a él en un paso posterior.
-2.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
+2.  Desde el **centro de partners** menú, seleccione **clientes**, a continuación, elija un cliente de la lista.
 3.  Selecciona **Subir usuarios**.
 4.  En **Subir información de usuarios**, selecciona **Examinar**.
 5.  En el selector de archivos, selecciona el archivo de datos y, a continuación, selecciona **Abrir**.
 6.  Selecciona **Validar**.
 
-    **Nota**mayoría de los errores de creación de cuentas se debe a problemas de archivo de datos, incluida la falta de información, direcciones de correo electrónico con formato incorrecto o duplicadas o un exceso de registros en el archivo.
+    **Tenga en cuenta**  mayoría de los errores de creación de cuenta está provocada por problemas de archivo de datos, incluida la falta de información, direcciones de correo electrónico con formato incorrecto o está duplicado o hay demasiados registros en el archivo.
 
-7.  Cuando el centro de partners haya validado el archivo, selecciona la **ubicación** geográfica para los nuevos usuarios.
+7.  Una vez que el centro de partners se valida el archivo, seleccione el geográfica **ubicación** para los nuevos usuarios.
 8.  Selecciona **Guardar**.
 9.  Descarga la información de la contraseña temporal para los usuarios.
 
-**IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
+**IMPORTANTE:** Asegúrese de descargar el archivo con las contraseñas temporales ahora, ya no podrá hacerlo más tarde. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
 
-10. Los nuevos usuarios se les asignará automáticamente los permisos de **Usar licencias y servicios** . 
+10. Los nuevos usuarios reciben asignación automática de permisos de **Puede usar licencias y servicios**. 
 
  
 

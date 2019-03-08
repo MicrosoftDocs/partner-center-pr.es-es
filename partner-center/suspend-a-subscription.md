@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683524"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585318"
 ---
 # <a name="suspend-a-subscription"></a>Suspender una suscripción
 
@@ -28,7 +28,7 @@ Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podr�
 
 **Suspender una suscripción**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige a un cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**, a continuación, elija un cliente de la lista.
 2.  Selecciona la suscripción que deseas administrar.
 3.  En la sección **Estado**, elige **Suspendido**. A continuación, selecciona **Enviar** para enviar los cambios.
 4.  Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).

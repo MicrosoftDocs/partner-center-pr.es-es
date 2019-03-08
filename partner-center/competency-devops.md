@@ -3,20 +3,20 @@ title: Competencia de DevOps
 ms.topic: article
 ms.date: 10/29/2018
 description: Si tienes gran experiencia trabajando con empresas ayudándoles a administrar los ciclos de vida de su software y sacando partido de las funciones DevOps de la plataforma de desarrollo de Microsoft, la competencia de DevOps es la opción ideal para establecer tu organización como partner de Microsoft.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competencia, competencias, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098892"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585738"
 ---
 >[!IMPORTANT]
->Para obtener más información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -3,42 +3,42 @@ title: Prepararse para trasladarse del Centro de administración de partners al 
 ms.topic: article
 ms.date: 10/29/2018
 description: Funcionalidad de Centro de administración de partners de Office 365 se traslada al Centro de partners.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
+Keywords: PAC, Asesor de Office 365, asesor, partner de distribución, PAC retirar, PAC retirada
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa9f6c7aa568de00a2f6bece7755c006283cca4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d96eca0fcaccc58745f77963e664dc830fcbfe97
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794948"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587428"
 ---
-# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Centro de administración de partners se traslada al centro de partners
+# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Centro de administración de socios se mueve el centro de partners
 
 **Se aplica a**
 
 -  Centro de partners
 
 > [!NOTE]  
->  Todas las fechas se han actualizado desde la publicación inicial de este artículo.
+>  Se han actualizado todas las fechas desde el registro inicial de este artículo.
 
-El centro de administración de partners de Office 365 (PAC) se traslada a Microsoft Partner Center.
+El centro de administración asociado (PAC) de Office 365 está pasando a la Microsoft Partner Center.
 
-El centro de partners de Microsoft evoluciona en un único lugar donde podrás administrar tu asociación con Microsoft y con los clientes. En el centro de partners puedes administrar pertenencia, las referencias de clientes, incentivos y todos los demás aspectos del programa proveedor de soluciones en la nube (CSP). Retiraremos el PAC a partir de mediados de abril de 2018.
+Estamos evolucionando el centro de partners de Microsoft en el lugar único donde va a administrar su asociación con Microsoft y sus clientes. En el centro de partners puede administrar la pertenencia, las referencias de clientes, incentivos y todos los demás aspectos del programa proveedor de soluciones en la nube (CSP). Retiraremos el PAC a partir de mediados de abril de 2018.
 
 ## <a name="the-office-365-partner-admin-center-pac-will-be-retired"></a>Se retirará el centro de administración de partners de Office 365 (PAC)
 
-Durante abril de 2018, PAC se retirará y los partners de CSP comenzarán a ser redirigidos automáticamente a Microsoft Partner Center. La redirección sucederá en fases, y una vez que se le redirige al centro de partners, no podrás trabajar en el PAC. 
+Durante abril de 2018, se retirará el PAC y asociados de CSP iniciarán automáticamente le redirige a la Microsoft Partner Center. Se realizará la redirección en fases, y una vez que se le redirigirá a la del centro de partners, no podrá trabajar en PAC. 
 
-**Partners de proveedor de soluciones en la nube** Si eres un partner CSP, se te redirigirá automáticamente al centro de partners a partir de abril de 2018. 
+**Los asociados del proveedor de soluciones de nube** si es un asociado de CSP, se le redirigirá automáticamente para el centro de partners a partir de abril de 2018. 
 
 **Partners asesores** (si no transacciones a través de CSP y usas PAC para proporcionar pruebas/ofertas para los clientes) Tan pronto como decidamos la línea de tiempo para el redireccionamiento automático al Centro de partners, lo anunciaremos aquí. 
 
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comienza a usar ahora mismo el Centro de partners de Microsoft
 
-Empezar a usar [El centro de partners de Microsoft](https://partnercenter.microsoft.com/) ahora para estar listo para el movimiento desde el PAC.  Usarás las mismas credenciales para el centro de partners que usas para PAC. 
+Empezar a usar [el Microsoft Partner Center](https://partnercenter.microsoft.com/) ahora para prepararse para la migración de PAC.  Usará las mismas credenciales para el centro de partners que usó para PAC. 
 
 > [!IMPORTANT]  
 > Algunas características y funciones que estaban disponibles en PAC no estará disponibles en el centro de partners.

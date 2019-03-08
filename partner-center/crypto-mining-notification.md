@@ -1,28 +1,28 @@
 ---
-title: Notificación del centro de partners para actividad de criptominería | El centro de partners
+title: Notificación de centro de partners para la actividad de minería de datos de clave criptográfica | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Notificación acerca de una posible criptominería.
-author: v-petand
+author: LauraBrenner
 ms.author: v-petand
-Keywords: crypto-mining, cryptocurrency mining, security
+Keywords: minería de datos de minería de datos Crypto, criptomoneda, seguridad
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086723"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587498"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación del centro de partners para actividad de minería de criptomonedas
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación de centro de partners para la actividad de minería de datos de criptomoneda
 
 **Se aplica a**
 
 -  Centro de partners
 -  Partners de CSP
 
-Es posible que ha recibido la siguiente notificación del centro de partners sobre minería de criptomonedas:
+Puede que haya recibido la notificación de centro de partners siguiente sobre la minería de criptomoneda:
  
 ![Imagen de notificación de seguridad en el centro de partners](images/crypto1.png)
 
@@ -37,7 +37,7 @@ El propósito de esta notificación es informar al usuario de que hemos detectad
 Si la actividad es normal, vuelve a la página de detalles de la suscripción de Azure del cliente y confirma que la minería de criptomonedas es legítima. 
 
 
-![Imagen de la página de detalles de suscripción de Azure del cliente](images/crypto2.png)
+![Imagen de página de detalles de suscripción de Azure del cliente](images/crypto2.png)
 
 Si la actividad es inesperada, ten en cuenta lo siguiente:
 
@@ -45,13 +45,13 @@ Si la actividad es inesperada, ten en cuenta lo siguiente:
 
 2.  Comprender cómo se crearon los recursos en primer lugar. Esto puede requerir revisar los registros de Azure Resource Manager para actividades de aprovisionamiento de recursos.
 
-3.  Si necesitas saber quién ha creado la suscripción, revisa los registros de actividades del centro de partners.
+3.  Si necesita averiguar quién creó la suscripción, revise los registros de actividad del centro de partners.
 
-La detección de las actividades de minería de criptomonedas se basa en la heurística y no puede ser 100% preciso. Asegúrate de que dispones de sistemas de control y supervisión implementados para protegerte frente a actividades fraudulentas u otras no permitidas. Para obtener más información, consulta [Impago, fraude o uso incorrecto](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+La detección de las actividades de minería de criptomonedas se basa en la heurística y no puede ser 100 % preciso. Asegúrate de que dispones de sistemas de control y supervisión implementados para protegerte frente a actividades fraudulentas u otras no permitidas. Para obtener más información, consulta [Impago, fraude o uso incorrecto](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Si tienes preguntas o dudas sobre la notificación, puedes usar el siguiente procedimiento para abrir una solicitud de soporte técnico.
 
-1.  En el centro de partners, selecciona el **soporte técnico** y, a continuación, selecciona **las solicitudes del centro de partners**.
+1.  En el centro de partners, seleccione **soporte** y, a continuación, seleccione **solicita el centro de partners**.
 3.  Selecciona **Nueva solicitud**. 
 4.  En el menú desplegable **Tipo de problemas**, selecciona **Agregar o administrar clientes**.
 5.  En el menú desplegable **Impacto**, selecciona **Moderado**.

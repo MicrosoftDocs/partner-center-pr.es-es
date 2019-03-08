@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683754"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584178"
 ---
 # <a name="customize-the-catalog"></a>Personalizar el catálogo
 
@@ -26,7 +26,7 @@ El catálogo muestra los productos y complementos de Microsoft disponibles para 
 
 **Personalizar el catálogo**
 
-1.  Ve al menú Centro de partners &gt; **vender** &gt; **catálogo**.
+1.  Vaya al menú del centro de partners &gt; **vender** &gt; **catálogo**.
 2.  Elige hasta cinco ofertas para mostrarlas en la parte superior del catálogo.
 
  

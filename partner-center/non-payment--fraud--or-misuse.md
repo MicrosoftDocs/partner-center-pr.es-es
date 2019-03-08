@@ -10,11 +10,11 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995909"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584388"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -67,7 +67,7 @@ Estas recomendaciones pueden ayudarte a desarrollar directivas y prácticas que 
 #### <a name="post-purchase-customer-account-management"></a>Administración de cuentas de clientes posterior a la compra
 - Trabaja con los clientes para comprender sus necesidades comerciales de uso de la nube y establece umbrales de supervisión apropiados.
     > [!NOTE]  
-    >  Puedes [establecer un presupuesto de gastos mensual de Azure](set-an-azure-spending-budget-for-your-customers.md) en el centro de partners para supervisar el uso de cliente durante el mes y recibir notificaciones cuando los clientes estén cerca de su presupuesto.
+    >  También puede [establecer un presupuesto de gasto mensual de Azure](set-an-azure-spending-budget-for-your-customers.md) en el centro de partners para supervisar el uso del cliente durante el mes y recibir una notificación cuando los clientes estén cerca de su presupuesto.
 - Supervisa periódicamente [registros de actividades de los clientes](activity-logs.md) para ayudar a detectar actividades fraudulentas de forma anticipada
 - Toma medidas rápidas cuando se detecten actividades sospechosas
 - Evita conceder a los clientes acceso de administrativo total a las suscripciones sin primero implementar controles de mitigación de riesgos

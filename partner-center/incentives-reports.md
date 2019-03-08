@@ -3,19 +3,19 @@ title: Los informes de datos dinámicos sustituyen a los informes mensuales en a
 ms.topic: article
 ms.date: 10/29/2018
 description: Ahora los programas de incentivos Ventas OSA y Uso de servicios en línea pueden obtener informes de datos dinámicos.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098722"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583848"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Los informes de datos dinámicos sustituyen a los informes mensuales en algunos programas de incentivos.
 
-**Se aplica a:**
+**Se aplica a**
 
 -  Centro de partners
 

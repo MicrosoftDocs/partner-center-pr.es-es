@@ -6,12 +6,12 @@ description: Prueba las nuevas características del Centro de partners antes de 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995739"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585888"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Versión de prueba de las nuevas características del Centro de partners
 
@@ -34,7 +34,7 @@ Para cada próxima característica, puedes hacer lo siguiente:
 
 - Encontrar instrucciones sobre cómo probar la característica
 
-- Consultar la fecha para ofrecer una característica de vista previa y la fecha prevista para lanzamiento prevista la característica en la comunidad mundial del centro de partners.
+- Consulte nuestra fecha objetivo para poner a disposición de vista previa y la fecha de publicación de destino para una característica cuando publicamos la característica a la Comunidad del centro de partners en todo el mundo.
 
 > [!NOTE]  
 >  Por *fecha de lanzamiento prevista*, nos referimos a la fecha en la que tenemos previsto que la característica esté disponible para todos los usuarios del Centro de partners de todo el mundo. Sin embargo, hay algunos factores que pueden afectar a la fecha de lanzamiento, como la decisión de incorporar comentarios que mejoren la característica, y podemos decidir volver a programar la fecha de lanzamiento o no lanzar una versión comercial de la característica.  
@@ -52,7 +52,7 @@ Te animamos a compartir tus ideas y opiniones sobre una versión preliminar espe
 
 -   Usa el formulario de comentarios que encontrarás en la esquina inferior derecha de la ventana del Centro de partners para enviarnos directamente tus comentarios. 
 
--   Solicita soporte técnico si tienes algún problema con una vista previa de característica. Para crear una solicitud de soporte técnico, selecciona **solicitudes de soporte técnico > solicitudes del centro de partners** desde el menú del **Centro de partners** y, a continuación, selecciona **la solicitud de nuevo** en la página de **solicitudes del centro de partners** .
+-   Solicita soporte técnico si tienes algún problema con una vista previa de característica. Para crear una solicitud de soporte técnico, seleccione **admitir solicitudes > solicita el centro de partners** desde el **centro de partners** menú y, a continuación, seleccione **nueva solicitud** en el **Solicita el centro de partners** página.
 
 Ayúdanos a mejorarte.
 

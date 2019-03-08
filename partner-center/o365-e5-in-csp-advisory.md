@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795659"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585338"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Aviso para partners de Office 365: Disponibilidad de SKU única de Office 365 E5 en CSP
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Aviso de asociado de Office 365: Disponibilidad de único SKU de Office 365 E5 en CSP
 
 **Se aplica a**
 
@@ -53,13 +53,13 @@ Después del lanzamiento del 5 de octubre, algunas SKU mostrarán el mismo nombr
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>SKU aparezca en la lista de precios de CSP por la fecha y la disponibilidad de RTC
 
-**Antes de lanzamiento de SKU única de Office 365 Enterprise E5**
+**Antes de Ent solo Office 365. E5 Inicio de único SKU**
 
-**Nombre para mostrar de oferta**
+**Nombre para mostrar de la oferta**
 
-**Identificador de oferta**
+**Id. de oferta**
 
-**Precio unitario**
+**Precio por unidad**
 
 
 **ERP**
@@ -94,13 +94,13 @@ Complemento RTC
 
  
 
-**Después del lanzamiento de SKU única de Office 365 Enterprise E5**
+**Después de la versión de Ent solo Office 365. E5 Inicio de único SKU**
 
-**Nombre para mostrar de oferta**
+**Nombre para mostrar de la oferta**
 
-**Identificador de oferta**
+**Id. de oferta**
 
-**Precio unitario**
+**Precio por unidad**
 
 **ERP**
 
@@ -114,9 +114,9 @@ Complemento RTC
 
 **35.00**
 
-**SKU única nueva**
+**Nueva SKU única**
 
-**Office 365 Enterprise E5 sin Conferencia RTC**
+**Office 365 Enterprise E5 sin conferencia RTC**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,7 +124,7 @@ Complemento RTC
 
 **35.00**
 
-**SKU única nueva para los miembros sin RTC**
+**Nueva SKU solo para los miembros que no sean RTC**
 
 Office 365 Enterprise E5 sin Conferencia RTC
 
@@ -148,7 +148,7 @@ Complemento RTC
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Facturas y archivos de conciliación de partners
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Las facturas y archivos de conciliación de asociado
 
 
 El archivo de conciliación de CSP y las facturas de CSP proporcionan elementos de línea independientes para los componentes RTC y que no son RTC de la SKU única de Office 365 Enterprise E5. Los dos elementos de línea tienen nombres e identificadores idénticos, pero cada elemento de línea tiene un precio unitario único (ejemplo: 28,40 $ y 2,00 $). Esto separa el componente Conferencia RTC de Skype Empresarial de la oferta de Office 365, para que puedas aplicar correctamente los impuestos.
@@ -168,14 +168,14 @@ Un ejemplo de conciliación de partners:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>ID_oferta_durable</strong></td>
-<td><strong>Nombre_Oferta</strong></td>
-<td><strong>Fecha_Inicio_Suscripción</strong></td>
-<td><strong>Fecha_Fin_Suscripción</strong></td>
-<td><strong>Fecha_Inicio_Cargos</strong></td>
-<td><strong>Fecha_Fin_Cargos</strong></td>
-<td><strong>Tipo_Cargo</strong></td>
-<td><strong>Precio_Unitario</strong></td>
+<td><strong>Durable_offer_ID</strong></td>
+<td><strong>Offer_Name</strong></td>
+<td><strong>Subscription_Start_Date</strong></td>
+<td><strong>Subscription_End_Date</strong></td>
+<td><strong>Charge_Start_Date</strong></td>
+<td><strong>Charge_End_Date</strong></td>
+<td><strong>Charge_Type</strong></td>
+<td><strong>Unit_Price</strong></td>
 </tr>
 <tr class="even">
 <td><p>a044b16a-1861-4308-8086-a3a3b506fac2</p></td>
@@ -207,11 +207,11 @@ Un ejemplo de conciliación de partners:
 
 Para obtener más información, visita el sitio de [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx). Los recursos específicos de Office 365 Enterprise E5 se pueden encontrar en la [página de Office 365 E5](https://drumbeat.office.com/partner/pages/e5.aspx) en la pestaña **Comercializar y vender**:
 
--   **Licencias de Office 365 Enterprise E5**
+-   **Office 365 Enterprise E5 licencias**
 
--   **Introducción a las licencias de servicios RTC de Skype Empresarial**
+-   **Introducción a las licencia de servicios de Skype para la empresa RTC**
 
--   **Preguntas más frecuentes sobre licencias de Office 365 E5 y Skype Empresarial**
+-   **Office 365 E5 y Skype for Business p+f sobre licencias**
 
  
 

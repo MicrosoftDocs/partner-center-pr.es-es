@@ -1,161 +1,161 @@
 ---
-title: Confirmación de aceptación de cliente preguntas más frecuentes de contrato de Microsoft Cloud | El centro de partners
+title: Preguntas frecuentes de confirmación de aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: FAQ for customer acceptance confirmation
-author: v-petand
+Description: Preguntas más frecuentes sobre la confirmación de aceptación del cliente
+author: LauraBrenner
 ms.author: v-petand
-keywords: cliente, los clientes, consentimiento, preguntas más frecuentes, MCA, contrato de Microsoft en la nube
+keywords: cliente, los clientes, consentimiento, preguntas más frecuentes, MCA, contrato en la nube de Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 0db55ed973a90ddb84a6b35c033eb87a3561b559
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083228"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587408"
 ---
-# <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Confirmación de aceptación de cliente de contrato de Microsoft Cloud preguntas más frecuentes
+# <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Preguntas frecuentes de confirmación de aceptación del cliente del Contrato de Microsoft Cloud
 
 -   [Proceso](##processfaq)
 
 -   [Directiva](#policyfaq)
 
--   [Técnicas](#technicalfaq)
+-   [Técnica](#technicalfaq)
 
 -   [Recursos adicionales](#additionalresourcesfaq)
 
 
 ## <a href="" id="processfaq"></a>Proceso
 
-**¿Qué es el proceso de nuevo para confirmar la aceptación del cliente del contrato de Microsoft en la nube?**
+**¿Qué es el nuevo proceso para confirmar la aceptación del cliente del contrato en la nube de Microsoft?**
 
-Microsoft se compromete a nuestros clientes y partners mantendrás en las normas. Como partner en el programa de proveedor de soluciones en la nube (CSP) de Microsoft, eres responsable de términos revisión Microsoft y condiciones, incluido el uso aceptable de los productos y servicios con los clientes de Microsoft. Para ayudar a los partners en cumplimiento de requisitos mejor y garantizar la transparencia, estamos habilitando un nuevo proceso que requiere que los partners CSP confirmar que sus clientes han aceptado los términos del contrato de nube de Microsoft. A partir de 7 de agosto de 2018, hemos introducido un nuevo campo en el panel del centro de partners interfaz de usuario, así como una API del centro de partners para los partners para proporcionar esta información. Inicialmente será opcional proporcionar esta confirmación, sin embargo, será necesario a partir de 7 de noviembre de 2018. 
+Microsoft se compromete a ayudar a nuestros clientes y los partners se mantienen en esta línea. Como asociado en el programa de proveedor de soluciones en la nube (CSP) de Microsoft, usted es responsable de la términos revisión de Microsoft y condiciones, incluido el uso aceptable de productos y servicios con los clientes de Microsoft. Para ayudar mejor a los asociados que cumple los requisitos normativos y para garantizar la transparencia, está contribuyendo a un nuevo proceso que requiere que los asociados de CSP confirmar que los clientes han aceptado los términos del contrato en la nube de Microsoft. A partir del 7 de agosto de 2018, hemos introducido un nuevo campo en el panel del centro de partners interfaz de usuario también se asocia un Partner Center API para proporcionar esta información. Inicialmente será opcional proporcionar esta confirmación, pero que será necesaria a partir del 7 de noviembre de 2018. 
 
-**¿Cuando se desplace este requisito en vigor?**
+**¿Si este requisito entran en vigor?**
 
-Los partners pueden comenzar confirmar aceptación tan pronto como la funcionalidad está disponible en el 7 de agosto de 2018. A partir de 7 de noviembre de 2018, los usuarios de panel del centro de Partners deben para confirmar la aceptación del cliente del contrato de nube de Microsoft en todas las transacciones nuevas. 22 de marzo de 2019 será necesarios hacer lo mismo los usuarios de la API del centro de partners. La fecha límite para los usuarios de la API se ha ampliado para permitir que adicionales tiempo de implementación técnica.
+Los partners pueden comenzar a confirmar la aceptación tan pronto como la funcionalidad esté disponible, el 7 de agosto de 2018. A partir del 7 de noviembre de 2018, los usuarios del panel del centro de partners son necesarias para confirmar la aceptación del cliente del contrato en la nube de Microsoft en todas las nuevas transacciones. 22 de marzo de 2019 usuarios Partner Center API deberán hacer lo mismo. La fecha límite para los usuarios de la API se ha ampliado para permitir que más tiempo para la implementación técnica.
 
-**NUEVO | ¿Microsoft valida la precisión de la información del cliente proporcionada por el partner?**
+**NUEVO | ¿Microsoft valida la exactitud de la información de cliente proporcionada por el socio?**
 
-Microsoft valida que la dirección de correo electrónico del cliente proporcionada es del formato correcto. Es responsabilidad del partner para proporcionar información precisa y corregir cualquier información que se encuentra a ser incorrecta. 
+Microsoft valida que la dirección de correo electrónico de cliente proporcionada es de formato correcto. Es responsabilidad del asociado para proporcionar información precisa y corregir cualquier información que se encuentra es inexacta. 
 
-**NUEVO | ¿Cómo puede un partner demostrar la aceptación del cliente del contrato de Microsoft en la nube, si está firmado, documentada, digitalizado, o en papel?**
+**NUEVO | ¿Cómo puede un asociado de demostrar la aceptación del cliente del contrato en la nube de Microsoft, si está firmado, documentado, digitalizada, o en papel?**
 
-El partner es responsable de garantizar que el cliente ha aceptado los términos del acuerdo en la nube de Microsoft y para administrar su propio proceso y registros. Mediante el proceso de panel del centro de partners o API del centro de partners, el partner confirma que el cliente ha aceptado los términos del contrato de Microsoft en la nube.
+El asociado es responsable de garantizar que el cliente ha aceptado los términos del contrato en la nube de Microsoft y para administrar su propio proceso y los registros. Mediante el proceso de panel del centro de partners o las API del centro de partners, el asociado es confirmar que el cliente ha aceptado los términos del contrato en la nube de Microsoft.
 
-**NUEVO | ¿Cómo Microsoft comprobará a que finalice el proceso de confirmación para un cliente?**
+**NUEVO | ¿Cómo Microsoft comprobará que el proceso de confirmación completo de un cliente?**
 
-A partir de 7 de noviembre de 2018, cuando un partner de CSP inicia una transacción con el panel del centro de partners para un cliente nuevo o existente, los sistemas de Microsoft automáticamente comprobará si la información de confirmación del cliente está presente en el centro de partners Panel. Si no está presente, no será capaz que se complete la transacción. 
+A partir de 7 de noviembre de 2018, cuando un asociado de CSP inicia una transacción con el panel del centro de partners para un cliente nuevo o existente, los sistemas de Microsoft comprobará automáticamente si la información de confirmación del cliente está presente en el centro de partners Panel. Si no lo está, la transacción no podrá realizarse. 
 
-A partir 22 de marzo de 2019, cuando un partner de CSP inicia una transacción de un cliente nuevo o existente mediante la API del centro de partners, los sistemas de Microsoft automáticamente comprobará si la información de confirmación del cliente está presente. Si no está presente, no será capaz que se complete la transacción. 
+A partir 22 de marzo de 2019, cuando un asociado de CSP inicia una transacción para un cliente nuevo o existente mediante la API del centro de partners, los sistemas de Microsoft comprobará automáticamente si está presente la información de confirmación del cliente. Si no lo está, la transacción no podrá realizarse. 
 
-**NUEVO | ¿Notificación se envía a los clientes cuya dirección de correo electrónico se proporciona en el proceso de confirmación?**
+**NUEVO | ¿Se envía la notificación a los clientes cuya dirección de correo electrónico se proporciona en el proceso de confirmación?**
 
 No hay ningún proceso de notificación.
 
 ## <a href="" id="policyfaq"></a>Directiva
 
-**¿Por qué es Microsoft requerir que los partners confirmar que los clientes han aceptado el acuerdo de nube de Microsoft?** 
+**¿Por qué es Microsoft que requieren los asociados confirmar que los clientes han aceptado el contrato de la nube de Microsoft?** 
 
-El contrato de Microsoft Cloud protege los partners, los clientes y Microsoft proporcionando derechos de uso del cliente, los términos y condiciones concedidas para los pedidos de productos y servicios de Microsoft Cloud. 
+El contrato en la nube de Microsoft protege Microsoft, clientes y socios proporcionando derechos de uso del cliente, términos y condiciones concedidas para pedidos de productos y servicios de Microsoft Cloud. 
 
-Ejecución correcta de contrato de Microsoft Cloud protege a nuestros partners, los clientes y Microsoft asegurándose de alineación mutua sobre muchos temas importantes como, pero sin limitarse a la seguridad, privacidad y protección de datos. El proceso de confirmación garantiza la transparencia y la alineación y permite a Microsoft ayudar a los clientes que necesitan para responder rápidamente a las consultas reglamentarias mejor.
+Ejecución correcta del contrato en la nube de Microsoft protege nuestros socios, clientes y Microsoft asegurándose de alineación mutua sobre muchos temas importantes incluidos pero sin limitarse a seguridad, privacidad y protección de datos. El proceso de confirmación garantiza la transparencia y la alineación y permite a Microsoft ayudar mejor a los clientes que necesitan para responder rápidamente a las consultas de las disposiciones legales.
 
-**¿Qué información de cliente es necesaria para completar el proceso de confirmación?**
-Se requiere la siguiente información relativa a la persona que ha aceptado el acuerdo:
+**¿Qué información del cliente es necesaria para completar el proceso de confirmación?**
+La siguiente información es necesaria en relación con la persona que haya aceptado el contrato:
 -   Fecha de aceptación del contrato
 -   Nombre y apellidos
 -   Dirección de correo electrónico
 -   Número de teléfono (opcional) 
 
-**NUEVO | ¿Qué sucede si no se cumple la fecha de vencimiento?**
+**NUEVO | ¿Qué ocurre si no se cumple la fecha de vencimiento?**
 
-Los partners pueden comenzar confirmar aceptación tan pronto como la funcionalidad está disponible en el 7 de agosto de 2018. A partir de 7 de noviembre de 2018, los usuarios de panel del centro de Partners deben para confirmar la aceptación del cliente del contrato de nube de Microsoft en todas las transacciones nuevas. 22 de marzo de 2019 será necesarios hacer lo mismo los usuarios de la API del centro de partners.
+Los partners pueden comenzar a confirmar la aceptación tan pronto como la funcionalidad esté disponible, el 7 de agosto de 2018. A partir del 7 de noviembre de 2018, los usuarios del panel del centro de partners son necesarias para confirmar la aceptación del cliente del contrato en la nube de Microsoft en todas las nuevas transacciones. 22 de marzo de 2019 usuarios Partner Center API deberán hacer lo mismo.
 
-En el momento de la aplicación, no se permitirá nuevas compras para un cliente existente o cambios para acomodar el recuento de suscripciones existentes a hasta que se confirma la aceptación del cliente. Para un nuevo cliente, no se permitirá transacciones hasta que se confirma la aceptación. La renovación automática no se ve afectada por este requisito.
+En el momento de cumplimiento, nuevas compras para un cliente existente o los cambios por completo asentar el recuento de las suscripciones existentes no tendrán permiso hasta que se confirma la aceptación del cliente. Para los nuevos clientes, no se admitirán transacciones hasta que se confirme la aceptación. La renovación automática no se ve afectada por este requisito.
 
-**¿Las regiones de este requisito se aplica a?**
+**¿Qué regiones se aplica este requisito?**
 
-Confirmación de aceptación del cliente para el contrato de nube de Microsoft es necesario para todas las regiones en la nube pública de Microsoft. Confirmación de aceptación del cliente no es compatible con las nubes nacionales (incluido Microsoft Cloud for US Government y Microsoft Cloud Alemania).
+Confirmación de aceptación del cliente para el acuerdo en la nube de Microsoft es necesario para todas las regiones en la nube pública de Microsoft. La confirmación de la aceptación del cliente no es compatible con las nubes nacionales (como Microsoft Cloud for US Government y Microsoft Cloud Alemania).
 
-**¿Los partners que son responsables de confirmar la aceptación del cliente para el contrato de nube de Microsoft?**
+**¿Los asociados son responsables de confirmar la aceptación del cliente para el acuerdo en la nube de Microsoft?**
 
-Efectiva el 7 de noviembre de 2018, los partners de proveedor de servicio de nube (CSP) de proveedores indirectos y facturación directa de CSP son responsable de confirmar la aceptación del cliente y pueden usar la API del centro de partners o el panel del centro de partners para hacerlo. Los proveedores indirectos tengas que primero recopilar la información necesaria de sus distribuidores indirectos y, a continuación, hacer que esté disponible a Microsoft a través de la API del centro de partners o el panel del centro de partners. Por contrato, es el proveedor indirecto que tenga un enlace ponerse en contacto con Microsoft para asegurarse de que los clientes finales de sus revendedores CSP han aceptado el contrato de en la nube de Microsoft. 
+A partir del 7 de noviembre de 2018, los asociados proveedores indirectos de proveedor de servicios en la nube (CSP) y su factura de CSP directo son ambos responsable de confirmar la aceptación del cliente y es posible que el Partner Center API o el panel del centro de partners para ello, use. Los proveedores indirectos que deba primero recopilar la información necesaria de sus revendedores indirectos y, a continuación, ponerlo a disposición Microsoft a través del Partner Center API o el panel del centro de partners. Contractualmente, es el proveedor indirecto de quién tiene un enlace de contrato con Microsoft para asegurarse de que los clientes finales de los distribuidores de sus CSP han aceptado el contrato en la nube de Microsoft. 
 
-**¿Qué escenarios de cliente requieren confirmación de aceptación del cliente del contrato de Microsoft en la nube?**
+**¿Qué escenarios de cliente requieren la confirmación de aceptación del cliente del contrato en la nube de Microsoft?**
 
-Los partners de CSP que quieras realizar las siguientes transacciones debe confirmarse la aceptación del contrato de Microsoft en la nube:
-1.  Un nuevo cliente completa nuevas compras.
-2.  Un cliente existente complete nuevas compras.
-3.  Número de puestos de actualizaciones de un cliente existente en las suscripciones existentes
+Debe confirmar la aceptación del contrato en la nube de Microsoft cuando desean que los asociados de CSP realizar las siguientes transacciones:
+1.  Un nuevo cliente completa de nuevas compras
+2.  Un cliente existente completa de nuevas compras
+3.  Número de puestos actualiza un cliente existente para las suscripciones existentes
 
-**¿Puedo confirmar la aceptación para los clientes existentes independientes de sus nuevas compras o adiciones de número de puestos?**
+**¿Puedo confirmar la aceptación de los clientes existentes de independientes de sus nuevas compras o adiciones de puestos?**
 
-Sí. Se puede confirmar aceptación del cliente para todos los clientes cubiertos por el acuerdo de nube de Microsoft.
+Sí. Puede confirmar la aceptación del cliente para todos los clientes cubiertos por el acuerdo en la nube de Microsoft.
 
-**¿Cuáles son los requisitos para los clientes que tienen varios partners CSP?**
+**¿Cuáles son los requisitos para los clientes que tienen varios asociados de CSP?**
 
-Confirmación de aceptación se ha confirmado el Partner. Si un cliente realiza transacciones con varios partners CSP, será necesario cada partner para confirmar la aceptación.
+La confirmación de la aceptación la confirma el partner. Si un cliente realiza transacciones con varios partners del CSP, se requerirá cada partner que confirme la aceptación.
 
-**Soy un revendedor indirecto de CSP trabajar con proveedores indirectos de CSP. ¿Cuál es mi responsabilidad?**
+**Soy un revendedor indirecto de CSP que trabaja con proveedores indirectos de CSP. ¿Cuál es mi responsabilidad?**
 
-Por contrato, es el proveedor indirecto que tenga un enlace ponerse en contacto con Microsoft para asegurarse de que el cliente final ha aceptado el acuerdo de nube de Microsoft. Sin embargo, los proveedores indirectos pueden tener disposiciones independientes con revendedores indirectos para recopilar la aceptación del cliente. En este caso, los proveedores indirectos que primero recopile la información de aceptación de cliente obligatorio de sus distribuidores indirectos y, a continuación, hacer que esté disponible a Microsoft a través de la API del centro de partners o el panel del centro de partners. Este proceso puede admitir proporcionando rápidamente la información necesaria para los proveedores indirectos tras su solicitud.
+Contractualmente, es el proveedor indirecto de quién tiene un enlace de contrato con Microsoft para asegurarse de que el cliente final ha aceptado el contrato en la nube de Microsoft. Sin embargo, los proveedores indirectos pueden tener acuerdos independientes con revendedores indirectos para recoger las aceptaciones de los clientes. En este caso, los proveedores indirectos necesitarán primero recopilar la información de la aceptación del cliente de sus revendedores indirectos y, a continuación, ponerla a disposición de Microsoft a través de la API del Centro de partners o el Panel del Centro de partners. Puedes apoyar este proceso proporcionando rápidamente la información necesaria a los proveedores indirectos, conforme la pidan.
 
-**Soy un proveedor indirecto de CSP. ¿Necesito para coordinar con mi revendedor indirecto de CSP para estar preparado?**
+**Soy un proveedor indirecto de CSP. ¿Necesita coordinarse con el revendedor indirecto de CSP para estar preparado?**
 
-Se recomienda proveedores indirectos que necesitan para recopilar la información de aceptación de cliente obligatorio de sus revendedores indirectos para comunicar este requisito a sus revendedores indirectos inmediatamente a la distribución y la recepción de esta información de coordenadas.
+Se recomienda a los proveedores indirectos que necesiten recopilar la información de aceptación del cliente de sus revendedores indirectos que comuniquen inmediatamente este requisito a sus revendedores indirectos, para así coordinar la entrega y la recepción de esta información.
 
-**Cómo ¿explicar a los clientes que debe confirmar la aceptación del contrato de Microsoft en la nube?**
+**¿Cómo puedo explicaré a Mis clientes que debe confirmar la aceptación del contrato en la nube de Microsoft?**
 
-Ejecución correcta de contrato de Microsoft Cloud protege Microsoft, sus clientes y partners asegurándose de alineación mutua sobre muchos temas importantes como, pero sin limitarse a la seguridad, privacidad y protección de datos. El proceso de confirmación garantiza la transparencia y la alineación y permite a Microsoft ayudar a los clientes que necesitan para responder rápidamente a las consultas reglamentarias mejor.
+Ejecución correcta del contrato en la nube de Microsoft protege Microsoft, sus socios y clientes por garantizar la alineación mutua sobre muchos temas importantes incluidos, pero sin limitarse a seguridad, privacidad y protección de datos. El proceso de confirmación garantiza la transparencia y la alineación y permite a Microsoft ayudar mejor a los clientes que necesitan para responder rápidamente a las consultas de las disposiciones legales.
 
-**NUEVO | Si un cliente funciona con un único proveedor indirecto de CSP, pero se completan las transacciones con varios revendedores indirectos de CSP, ¿necesita cada revendedor indirecto de CSP proporcionar el proveedor indirecto de CSP con la información de confirmación?**
+**NUEVO | ¿Si un cliente funciona con un único proveedor indirecto de CSP, pero se completan las transacciones con múltiples revendedores indirectos de CSP, necesita cada revendedor indirecto de CSP ofrecer el proveedor indirecto de CSP con la información de confirmación?**
 
-El proveedor indirecto de CSP es responsable de proporcionar la confirmación de aceptación del contrato de Microsoft Cloud cliente a Microsoft. Para cada cuenta de cliente, solo una confirmación puede registrarse en el panel del centro de partners al mismo tiempo. 
+El proveedor indirecto de CSP es responsable de proporcionar la confirmación de aceptación del cliente de contrato en la nube de Microsoft a Microsoft. Cada cuenta de cliente, la solo confirmación se puede registrar en el panel del centro de partners al mismo tiempo. 
 
-Es responsable de confirmar que un cliente contacto responsable de comprobación de antecedentes del contrato de la nube de Microsoft ha realizado por lo tanto, independientemente del número de revendedores indirectos de CSP que realizar transacciones con el proveedor indirecto de CSP.
+El proveedor indirecto de CSP es responsable de confirmar que una persona de contacto de cliente responsable de aceptar el contrato en la nube de Microsoft ha hecho, independientemente del número de revendedores indirectos de CSP que con las transacciones.
 
-**NUEVO | ¿Que debe ser la persona autorizada para confirmar la aceptación del contrato de nube de Microsoft dentro de la organización del cliente?**
+**NUEVO | ¿Quién debe ser la persona autorizada para confirmar la aceptación del contrato en la nube de Microsoft dentro de la organización del cliente?**
 
-Es responsabilidad del partner para obtener la aceptación del cliente del contrato de nube de Microsoft de una persona dentro de la organización del cliente. Es responsabilidad del cliente para determinar quién está autorizado para proporcionar la aceptación. 
+Es responsabilidad del asociado para obtener la aceptación del cliente del contrato de Microsoft en la nube de una persona dentro de la organización del cliente. Es responsabilidad del cliente para determinar quién está autorizado para proporcionar la aceptación. 
 
-**NUEVO | ¿Qué versión de contrato de Microsoft Cloud son responsable de confirmar la aceptación del cliente de partners? ¿Los partners deben indicar qué versión del contrato en la nube de Microsoft se ha aceptado el cliente?**
+**NUEVO | ¿La versión del contrato en la nube de Microsoft son responsable de confirmar la aceptación del cliente de asociados? ¿Es necesario indicar qué versión del contrato en la nube de Microsoft fue aceptada por el cliente asociados?**
 
-Los partners son responsables de uso del contrato más reciente de la nube de Microsoft al realizar transacciones de CSP con un cliente nuevo. Los Partners deben confirmar la aceptación del contrato de nube de Microsoft más recientes al renovar, cambiar o realizar transacciones nuevas con un cliente existente. 
+Los asociados son responsables de utilizando el contrato en la nube de Microsoft más reciente al realizar las transacciones de CSP con un nuevo cliente. Los asociados deben confirmar la aceptación del contrato de la nube de Microsoft más reciente al renovar, cambiar o completar transacciones nuevas con un cliente existente. 
 
-En el caso de que se actualiza el contrato de nube de Microsoft antes de la renovación, no es necesario para que el cliente volverá a obtener aceptación del cliente del contrato de Microsoft en la nube inmediatamente los partners, pero deben confirmar consentimiento para el antes de contrato de Microsoft en la nube para la renovación. Sin embargo, es posible que quieras que el cliente acepte términos nuevos antes de la renovación para sacar partido de nuevos y mejorados términos en el contrato de Microsoft Cloud.
+En el caso de que el acuerdo en la nube de Microsoft se ha actualizado antes de la renovación, los asociados no tienen que hacer que el cliente vuelve a obtener la aceptación del cliente del contrato en la nube de Microsoft inmediatamente, pero deben volver a confirmar su consentimiento al antes de acuerdo en la nube de Microsoft para la renovación. Sin embargo, puede hacer que el cliente acepte los términos de nuevo antes de la renovación para aprovechar las ventajas de los términos nuevos y mejorados en el contrato en la nube de Microsoft.
 
-**NUEVO | Soy un revendedor indirecto de CSP. Si la grabación de aceptación del contrato de nube de Microsoft del cliente en los registros de mi empresa, ¿necesito también proporcionar esta información a través del panel del centro de partners o la API del centro de partners?**
+**NUEVO | Soy un revendedor indirecto de CSP. Si grabar la aceptación del cliente del contrato en la nube de Microsoft en los registros de la empresa, ¿necesito también proporcionan esta información a través del panel del centro de partners o Partner Center API?**
 
-Por contrato, es el proveedor indirecto que tenga un enlace ponerse en contacto con Microsoft para asegurarse de que el cliente final ha aceptado el acuerdo de nube de Microsoft. Sin embargo, los proveedores indirectos pueden tener disposiciones independientes con revendedores indirectos para recopilar la aceptación del cliente. En este caso, los proveedores indirectos que primero recopile la información de aceptación de cliente obligatorio de sus distribuidores indirectos y, a continuación, hacer que esté disponible a Microsoft a través de la API del centro de partners o el panel del centro de partners.
+Contractualmente, es el proveedor indirecto de quién tiene un enlace de contrato con Microsoft para asegurarse de que el cliente final ha aceptado el contrato en la nube de Microsoft. Sin embargo, los proveedores indirectos pueden tener acuerdos independientes con revendedores indirectos para recoger las aceptaciones de los clientes. En este caso, los proveedores indirectos necesitarán primero recopilar la información de la aceptación del cliente de sus revendedores indirectos y, a continuación, ponerla a disposición de Microsoft a través de la API del Centro de partners o el Panel del Centro de partners.
 
-**NUEVO | ¿Qué ocurre si mi cliente no acepta los términos del acuerdo en la nube de Microsoft?**
+**NUEVO | ¿Qué ocurre si mi cliente no coincide con los términos del contrato en la nube de Microsoft?**
 
-Como partner en el programa CSP de Microsoft, eres responsable de aceptación del cliente del contrato de nube de Microsoft antes de realizar un pedido. Esto no es un requisito nuevo. Por cualquier motivo, si el cliente ya no está de acuerdo con el contrato de nube de Microsoft, a continuación, el partner debe cancelar las suscripciones asociadas con este cliente.
+Como asociado en el programa CSP de Microsoft, usted es responsable de la aceptación del contrato en la nube de Microsoft antes de realizar un pedido del cliente. Esto no es un requisito nuevo. Por algún motivo, si el cliente ya no está de acuerdo con el contrato en la nube de Microsoft, a continuación, el asociado debe cancelar las suscripciones asociadas con este cliente.
 
-**NUEVO | ¿Puede un revendedor dar su consentimiento en nombre del cliente?**
+**NUEVO | ¿Puede proporcionar un revendedor el consentimiento en nombre del cliente?**
 
 No.
 
-**¿Una vez que confirmar que un cliente ha proporcionado aceptación, tengo que volver a confirmarla para el cliente en el futuro?**
+**¿Una vez que confirmar que un cliente ha proporcionado la aceptación, necesito que vuelvan a confirmar el cliente en el futuro?**
 
-Una vez que hayas confirmado que el cliente ha aceptado el acuerdo de nube de Microsoft, esta información permanece en la sección de la cuenta de cliente en el centro de partners y no es necesario volver a confirmar aceptación para el período de tiempo que el cliente está cubierto por los términos del contrato. Solo debe confirmar aceptación antes de realizar un pedido nuevo.
+Una vez haya confirmado que el cliente ha aceptado el contrato en la nube de Microsoft, esta información permanece en la sección de la cuenta de cliente en el centro de partners y no es necesario que vuelvan a confirmar la aceptación de la duración del tiempo que el cliente está cubierto por los términos del contrato. Solo debe escribir y confirmar la aceptación antes de realizar un pedido nuevo.
 
-En el caso de que se actualiza el contrato de nube de Microsoft antes de la renovación, no es necesario para que el cliente volverá a obtener aceptación del cliente del contrato de Microsoft en la nube inmediatamente los partners, pero deben confirmar consentimiento para el antes de contrato de Microsoft en la nube para la renovación. Sin embargo, es posible que quieras que el cliente acepte términos nuevos antes de la renovación para sacar partido de nuevos y mejorados términos en el contrato de Microsoft Cloud.
+En el caso de que el acuerdo en la nube de Microsoft se ha actualizado antes de la renovación, los asociados no tienen que hacer que el cliente vuelve a obtener la aceptación del cliente del contrato en la nube de Microsoft inmediatamente, pero deben volver a confirmar su consentimiento al antes de acuerdo en la nube de Microsoft para la renovación. Sin embargo, puede hacer que el cliente acepte los términos de nuevo antes de la renovación para aprovechar las ventajas de los términos nuevos y mejorados en el contrato en la nube de Microsoft.
 
-**NUEVO | No soy cómodo lo que da a Microsoft información de contacto directo de mi cliente final. ¿Cómo usa esta información Microsoft?**
+**NUEVO | No estoy cómodo que proporciona a Microsoft información de contacto directo para mis clientes finales. ¿Cómo va a utilizar Microsoft esta información?**
 
-Cuando un partner crea un inquilino del cliente, es necesario para proporcionar información de contacto principal para el cliente. Por los términos de servicios en línea, "Microsoft procesará datos personales, solo instrucciones documentadas del cliente."
+Cuando un asociado, crea un inquilino de cliente, es necesario para proporcionar información de contacto principal para el cliente. Por los términos de Online Services, "Microsoft procesará los datos personales sólo en instrucciones documentadas de cliente."
 
-## <a href="" id="technicalfaq"></a>Técnicas
+## <a href="" id="technicalfaq"></a>Técnica
 
-**¿Cómo confirmar la aceptación del cliente y proporcionar a Microsoft partners? ¿Las herramientas que están disponibles para admitir este proceso?**
+**¿Cómo confirmar la aceptación del cliente y proporcionarlos a Microsoft asociados? ¿Qué herramientas están disponibles para este proceso?**
 
-Hay dos métodos que están disponibles a partir de 7 de agosto de 2018 para ayudar a los partners: 
-1.  Los partners pueden usar la API del centro de partners para confirmar la aceptación de cliente mediante programación. 
-2.  Los partners pueden usar el panel del centro de partners para confirmar la aceptación del cliente.
+Hay dos métodos que están disponibles a partir del 7 de agosto de 2018 para ayudar a los asociados: 
+1.  Los partners pueden usar la API del Centro de partners para confirmar programáticamente la aceptación del cliente. 
+2.  Los asociados pueden usar el panel del centro de partners para confirmar la aceptación del cliente.
 
-**NUEVO | Soy un partner CSP que usa la API del centro de partners. ¿Qué cambios en la API es necesario tener en cuenta?** 
+**NUEVO | Soy un asociado CSP que utiliza la API del centro de partners. ¿Qué cambios de API es necesario tener en cuenta?** 
 
 En este caso, los cambios de API para tener en cuenta son:
 
@@ -165,40 +165,40 @@ En este caso, los cambios de API para tener en cuenta son:
 
 -   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-**¿Qué ocurre si tengo dificultades para la implementación de la API del centro de partners?**
+**¿Qué ocurre si tengo problemas para implementar la API del centro de partners?**
 
-Aceptación puede confirmarse manualmente mediante el panel del centro de partners.
+La aceptación puede confirmarse manualmente a través del Panel del Centro de partners.
 
-**NUEVO | Como alternativa a usar el panel del centro de partners o la API del centro de partners, ¿de forma masiva cargar un archivo con la información de confirmación del cliente en su lugar?**
+**NUEVO | Como alternativa al uso en el panel del centro de partners o las API del centro de partners, ¿cargar un archivo con la información de confirmación del cliente en su lugar?**
 
-En este momento, el panel del centro de partners y la API del centro de partners son solo aceptado medio para proporcionar una confirmación de aceptación del cliente del contrato de nube de Microsoft.
+En este momento, el panel del centro de partners y Partner Center API son el único medio aceptado de proporcionar confirmación de aceptación del cliente del contrato en la nube de Microsoft.
 
-**NUEVO | Soy un partner con una plataforma de aplicaciones de terceros o "software intermedio," que realiza la funcionalidad para conectar los sistemas de mi empresa con el centro de partners. ¿Qué tengo que hacer?**
+**NUEVO | Soy un asociado con una plataforma de terceros, o "middleware", que realiza la funcionalidad para conectar sistemas de mi empresa con el centro de partners. ¿Qué es necesario hacer?**
 
-Se recomienda asociados con las plataformas que se integran en la API del centro de partners para hablar directamente con los proveedores con respecto a sus planes y escalas de tiempo para integrar la funcionalidad de API del centro de partners que automatiza el proceso de confirmación del cliente.
+Se aconseja Hable directamente con los proveedores con respecto a sus planes y las escalas de tiempo para integrar la funcionalidad de Partner Center API que automatiza el proceso de confirmación del cliente asociados con las plataformas que se integran Partner Center API.
 
-**NUEVO | ¿Puede proporcionar un ejemplo del flujo de API para importar el nombre completo del cliente, la dirección de correo electrónico y la fecha de aceptación del contrato de nube de Microsoft?**
+**NUEVO | ¿Puede proporcionar un ejemplo de flujo de API para importar el nombre completo del cliente, dirección de correo electrónico y la fecha de aceptación del contrato en la nube de Microsoft?**
 
-Los partners se recomienda revisar la documentación de la API del centro de partners para obtener más información y ejemplos.
+Los asociados se recomienda revisar la documentación de Partner Center API para obtener información detallada y ejemplos.
 
-**NUEVO | ¿Cómo se puede obtener el contrato de Microsoft Cloud más recientes para mostrar al cliente y usar en el registro de confirmación como parte del proceso de mi API?**
+**NUEVO | ¿Cómo se puede obtener el contrato en la nube de Microsoft más reciente para mostrar al cliente y usar en el registro de confirmación como parte de mi proceso de API?**
 
-La API del centro de partners actual es muy básica y no proporciona para que los partners recuperar mediante programación una copia del contrato de Microsoft en la nube, ni captura versiones de contrato de Microsoft Cloud aceptadas por un cliente como parte de confirmación. 
+Es muy básica de Partner Center API actual y no se proporciona para que los asociados recuperar mediante programación una copia del contrato en la nube de Microsoft, ni captura las versiones del contrato en la nube de Microsoft aceptadas por un cliente como parte de la confirmación. 
 
-**NUEVO | Con la API del centro de partners para este proceso, requiere un parámetro userID. ¿Cómo administro este requisito cuando se colocan los pedidos a través de plataformas de terceros que no se integran con Azure AD?**
+**NUEVO | El uso de Partner Center API para este proceso requiere un parámetro de identificador de usuario. ¿Cómo administrar este requisito cuando se realizan los pedidos a través de plataformas de terceros que no se integran con Azure AD?**
 
-En este caso, userID identifica al empleado en el inquilino de partner que proporciona la confirmación de consentimiento de cliente. Si el empleado no tiene una cuenta de usuario de Azure AD correspondiente en el inquilino de, a continuación, se recomienda para designar una cuenta de usuario específicas para ese propósito y crear un proceso para capturar por separado la identidad del empleado que proporciona el confirmación. 
+En este caso, el valor de userID identifica al empleado en el inquilino de partner que está proporcionando la confirmación de consentimiento del cliente. Si el empleado no tiene una cuenta de usuario de Azure AD correspondiente en el inquilino del asociado y, después, se recomienda designar una cuenta de usuario para ese propósito y crear un proceso de captura por separado la identidad del empleado que proporciona el confirmación. 
 
-**NUEVO | ¿Por qué es Microsoft que requieren el partner confirmar el consentimiento de cliente para el contrato de nube de Microsoft en lugar de obtenerlo directamente desde el cliente?**
+**NUEVO | ¿Por qué es Microsoft que requieren el asociado confirmar el consentimiento del cliente para el acuerdo en la nube de Microsoft en lugar de obtenerlo directamente desde el cliente?**
 
-El cliente compra desde el partner CSP, no directamente de Microsoft. Para usar los servicios que proporciona Microsoft, Microsoft proporciona términos que se documentan en el contrato de nube de Microsoft. El contrato de revendedor de nube de Microsoft requiere que los partners CSP para que los clientes revisar y aceptar el contrato de Microsoft Cloud antes de realizar un pedido. 
+El cliente está comprando desde el asociado de CSP, no directamente desde Microsoft. Para usar los servicios que proporciona Microsoft, Microsoft proporciona los términos que se documentan en el contrato en la nube de Microsoft. El acuerdo de revendedor de nube de Microsoft requiere que los asociados de CSP tiene clientes revise y acepte el contrato en la nube de Microsoft antes de realizar un pedido. 
 
-**NUEVO | Uso interfaz de usuario web de API y el panel del centro de partners para confirmar la aceptación de cliente del contrato de Microsoft en la nube. Después de 7 de noviembre de 2018, ¿qué son las opciones para confirmar la aceptación del cliente?**
+**NUEVO | Utilizo la interfaz de usuario de web API y panel del centro de partners para confirmar la aceptación del cliente de contrato en la nube de Microsoft. Después del 7 de noviembre de 2018, ¿qué opciones tengo para confirmar la aceptación del cliente?**
 
-Ambas opciones están disponibles y aceptable para confirmar la aceptación del contrato de Microsoft Cloud cliente. Las transacciones mediante el panel del centro de partners requerirá confirmación estar presente a partir del 7 de noviembre de 2018. Las transacciones que usan la API del centro de partners requerirá confirmación estar presente a partir de 22 de marzo de 2019.
+Ambas opciones están disponibles y aceptable para confirmar la aceptación del cliente de contrato en la nube de Microsoft. Las transacciones mediante el panel del centro de partners requerirá confirmación esté presente a partir del 7 de noviembre de 2018. Las transacciones con Partner Center API requerirá confirmación esté presente a partir del 22 de marzo de 2019.
 
 ## <a href="" id="additionalresourcesfaq"></a>Recursos adicionales
 
-Para obtener más información acerca de cómo confirmar la aceptación de un cliente del contrato de Microsoft en la nube, consulta [Confirmar aceptación del cliente del contrato de Microsoft en la nube](https://docs.microsoft.com/en-us/partner-center/confirm-consent).
+Para obtener más información sobre cómo confirmar la aceptación de los clientes del contrato en la nube de Microsoft, consulte [confirmar aceptación del cliente del contrato en la nube de Microsoft](https://docs.microsoft.com/en-us/partner-center/confirm-consent).
 
-Para buscar plantillas de cliente del contrato de Microsoft Cloud específicos de una región en todos los idiomas admitidos, consulta [Los contratos de Microsoft Cloud por región e idioma](agreements.md).
+Para buscar plantillas de cliente de contrato en la nube de Microsoft específicos de la región en todos los idiomas admitidos, consulte [acuerdos en la nube de Microsoft por región e idioma](agreements.md).

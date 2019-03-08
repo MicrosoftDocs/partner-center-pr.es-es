@@ -1,7 +1,7 @@
 ---
-title: Analizar las suscripciones y las licencias | El centro de partners
+title: Analizar suscripciones y licencias | Centro de partners
 ms.date: 07/12/2018
-Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Use las métricas en la página de análisis de la suscripción y licencia para identificar los éxitos y áreas que necesitan más atención.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -9,12 +9,12 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: d1db5bd56c172a36afa6cb90f0ab5c798e6ba95b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917467"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584538"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizar suscripciones y licencias 
 
@@ -22,50 +22,50 @@ ms.locfileid: "8917467"
 
 - Centro de partners
 
-Los datos determinan las decisiones comerciales. Usa las métricas de la página de **suscripción y análisis de la licencia** para identificar los éxitos y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
+Los datos determinan las decisiones comerciales. Usa las métricas de la página **Análisis de suscripciones y licencias** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 
 > [!NOTE]
-> Análisis de la licencia de suscripción solo está disponible para los partners en el programa de proveedor de soluciones en la nube.
+> El análisis de licencias de suscripción solo está disponible para los partners del programa Proveedor de soluciones en la nube.
 
 
-Este informe puede dinámica en función de los siguientes productos:
+Este informe puede variar en función de los siguientes productos:
 
- - **Dynamics 365**: datos de Dynamics 365  
- - **EMS**: datos de servicios de administración empresarial  
- - **Microsoft 365**: datos de Microsoft 365  
- - **Office 365**: datos de Office 365  
+ - **Dynamics 365**: Datos de Dynamics 365  
+ - **EMS**: Datos de servicios de administración empresarial  
+ - **Microsoft 365**: Datos de Microsoft 365  
+ - **Office 365**: Datos de Office 365  
 
 
 Estamos siguiendo estas métricas:
 
 **Resumen**  
- - **Venden suscripciones**: es el número de las suscripciones que se crean para el período de tiempo especificado  
- - **Las licencias venden**: es el número de licencias vendidas para el período de tiempo especificado   
- - **Renovar suscripciones en 30 días**: recuento de suscripciones en el estado esté activo durante el tiempo especificado período y donde **Renovar automáticamente** es true
- - **Las suscripciones activas**: las suscripciones en el estado esté **activa**  
- - **Las suscripciones de suspendida**: recuento de suscripciones suspendidas, no hay ningún filtro de fecha  
+ - **Las suscripciones que vende**: Recuento de suscripciones creadas para el período de tiempo especificado  
+ - **Licencias vendidas**: Recuento de licencias vendidas durante el período de tiempo   
+ - **Las suscripciones de renovación en 30 días**: Recuento de suscripciones donde el estado está activo durante el tiempo especificado período y dónde **renovación automática** es true
+ - **Las suscripciones activas**: Las suscripciones donde el estado es **activo**  
+ - **Suspender suscripciones**: Recuento de suscripciones suspendidas, no hay ningún filtro de fecha  
 
 **Desglose de producto**  
- - **Recuento de suscripciones**: productos Top 5 ordenados por suscripciones vendidas  
- - **Número de licencias**: Top 5 productos por ordenados licencias vendidas
+ - **Recuento de suscripciones**: 5 productos ordenados por las suscripciones que vende principales  
+ - **Número de licencias**: 5 productos principales por licencias ordenados vendidos
 
-**Retención de suscripción**
- - **Las suscripciones de renovación**: las suscripciones que se renuevan en los últimos 30 días  
+**Retención de la suscripción**
+ - **Renovar las suscripciones**: Suscripciones que se renuevan en los últimos 30 días  
 
 **Renovación de suscripción**  
- - **Las nuevas suscripciones**: es el número de las nuevas suscripciones para el período de tiempo, excluyendo ofertas de prueba  
- - **Las suscripciones de Deprovisioned**: recuento de suscripciones de baja o suspendido por fecha  
+ - **Nuevas suscripciones**: número de nuevas suscripciones durante el período de tiempo, excepto las ofertas de prueba  
+ - **Desaprovisiona suscripciones**: Recuento de suscripciones, cancelar el aprovisionamiento o suspendido por fecha  
 
 **Suscripciones suspendidas**  
- - Lista de todas las suscripciones con el estado de **suspendido**, excluyendo ofertas de prueba  
+ - Lista de todas las suscripciones con un estado **Suspendido**, excepto las ofertas de prueba  
   
 **Suscripciones activas**
  - Lista de todas las suscripciones activas  
 
-**Conversiones de la suscripción de prueba**  
- - **Conversión de evaluación**: es el número de todas las suscripciones **activas** que prueba pagado para la conversión se produjo durante el período de tiempo especificado  
+**Conversiones de suscripción de prueba**  
+ - **Conversión de evaluación**: Recuento de todos los **Active** las suscripciones donde prueba pagada a la conversión se ha producido durante el período de tiempo especificado  
 
-**Suscripciones de prueba final en 30 días**  
- - Lista de las pruebas que se han iniciado, donde la fecha de finalización es 30 días y no hay ninguna fecha de inicio de pago asociada con la suscripción  
+**Suscripciones de prueba que terminan en 30 días**  
+ - Lista de pruebas que se iniciaron y en las que la fecha de finalización está dentro de los 30 días siguientes y no hay ninguna fecha de inicio de pago asociada a la suscripción  
 
   

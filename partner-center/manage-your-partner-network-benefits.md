@@ -2,26 +2,26 @@
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Se explica cómo activar y administrar los beneficios de suscripción del centro de partners.
+description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Explica cómo activar y administrar sus ventajas de suscripción en el centro de partners.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796388"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584708"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
-**Se aplica a:**
+**Se aplica a**
 
 -  Centro de partners
 
 >[!IMPORTANT]
->En este artículo se explica cómo empezar a usar Microsoft Partner Network (MPN) ventajas en el centro de partners (anteriormente conocido como centro de partners) - este sitio. Si no has recibido una invitación para mover la información de empresa de Partner Membership Center (PMC) al centro de partners, deben seguir administrar los beneficios de suscripción a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
+>En este artículo se explica cómo empezar a usar Microsoft Partner Network (MPN) pertenencia ventajas en el centro de partners (anteriormente conocido como centro de partners): este sitio. Si aún no ha recibido una invitación para mover información de su compañía de Partner Membership Center (PMC) para el centro de partners, debe seguir administrar sus ventajas de la pertenencia a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
 
 Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas de suscripción que te ayudarán a construir y hacer crecer tu negocio. Si aún no eres miembro de MPN, puedes unirte en el [sitio MPN](https://partner.microsoft.com/membership).
 
@@ -31,13 +31,13 @@ Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas
 Tras comprar un paquete de ventajas de suscripción, deberás obtener claves de software y asignar licencias, suscripciones y otras ventajas a los empleados, para que empiecen a usarlas. 
 
 >[!IMPORTANT]
->Mientras que no tienes que ser un administrador global de la organización a comprar de beneficios, es necesario ser el administrador global para asignar beneficios a los empleados.  Si quieres, puede convertirse en un administrador global siguiendo las instrucciones en la [página **prestaciones** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (inicio de sesión necesario). Además, la organización puede que haya un administrador global así que asegúrate de comprobar con tu equipo.
+>Aunque no tienes que ser un administrador global de la organización para comprar beneficios, tienes que ser el administrador global para asignar beneficios a los empleados.  Si lo deseas, puedes convertirse en un administrador global siguiendo las instrucciones de tu página [**Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (requiere registro). Además, la organización puede ya tener un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
-Los paquetes de ventajas incluyen asignaciones de software de derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Los paquetes de ventajas incluyen asignaciones de software con derechos de uso interno, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere inicio de sesión).
 
-#### <a name="manage-software-benefits"></a>Administrar las ventajas de software
+#### <a name="manage-software-benefits"></a>Administrar los beneficios de software
 
 1.  Selecciona **Software** para ver la lista de tus beneficios de software. 
 
@@ -78,7 +78,7 @@ Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**
 
 3. Repite este proceso para cada suscripción que desees asignar. Los usuarios pueden administrar sus suscripciones en el portal de Visual Studio. 
 
-    Puedes reasignar suscripciones en cualquier momento mediante la eliminación de un usuario asignado y, a continuación, asignar un usuario diferente. 
+    Puede reasignar suscripciones en cualquier momento mediante la eliminación de un usuario asignado y, a continuación, asignar un usuario diferente. 
 
 #### <a name="manage-technical-benefits"></a>Administrar las ventajas técnicas
 
@@ -90,7 +90,7 @@ Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**
 
 3. Para activar el beneficio de soporte técnico, asígnaselo a un usuario. 
    
-    a.  Selecciona un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en la **configuración de la cuenta**.
+    a.  Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en la **configuración de la cuenta**.
 
     b.  Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. 
     
@@ -102,7 +102,7 @@ Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**
 ) y, a continuación, selecciona **Enviar solicitud**.
 
 
-#### <a name="see-also"></a>Consulta también
+#### <a name="see-also"></a>Consulte también
 
 [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 

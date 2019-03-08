@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796208"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587598"
 ---
 # <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
 
-**Se aplica a:**
+**Se aplica a**
 
 -   Centro de partners
 -   Miembros de Microsoft Partner Network
@@ -29,9 +29,9 @@ Tras crear una cuenta del Centro de partners, podrás:
 
 -   [Comprar o renovar una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+-   [Crear un perfil de negocio para obtener clientes potenciales de Microsoft](create-a-marketing-profile.md)
 
--   [Obtener y administrar ventas potenciales de Microsoft](responding-to-referrals.md)
+-   [Obtener y administrar clientes potenciales de Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Antes de comenzar
 
@@ -64,13 +64,13 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
     El contacto principal debe ser la persona de tu empresa con la que podamos ponernos en contacto respecto a la aplicación (puedes ser tú u otra persona de la empresa). También usaremos esta información para comprobar que dicha persona trabaja en la empresa y se ha inscrito para tener una cuenta del Centro de partners.
 
     > [!IMPORTANT]  
-    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a la empresa. Cuando el contacto principal verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
+    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a la empresa. Cuando el contacto primario verifique su dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
 
 4.  Lee y acepta los términos y condiciones del acuerdo de Microsoft Partner Network. 
 
 5.  Comprueba que te hayan agregado al grupo de agentes de administración. Para terminar de configurar tu cuenta, incluyendo el incluir a otros usuarios, debes tener permisos de agente de administración. Sigue estos pasos para ver o actualizar tus permisos:
 
-    a. En el **Centro de partners**, selecciona el icono de **configuración** y, a continuación, selecciona la **administración de usuarios**.  
+    a. En su **centro de partners**, seleccione el **configuración** icono y, a continuación, seleccione **administración de usuarios**.  
 
     b. Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administración**, si aún no está seleccionado. Selecciona **Actualización**.  
 
@@ -80,8 +80,8 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
 
 -   [Comprar o renovar una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Administrar los beneficios de la suscripción](manage-your-partner-network-benefits.md)
+-   [Administrar sus ventajas de suscripción](manage-your-partner-network-benefits.md)
 
--   [Conseguir más información sobre los requisitos de competencias para las suscripciones Silver y Gold](https://partner.microsoft.com/membership/competencies)
+-   [Obtenga información sobre los requisitos de capacidad para pertenencia Gold y Silver](https://partner.microsoft.com/membership/competencies)
 
--   [Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+-   [Crear un perfil de negocio para obtener clientes potenciales de Microsoft](create-a-marketing-profile.md)

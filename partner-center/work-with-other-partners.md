@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794888"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583968"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 

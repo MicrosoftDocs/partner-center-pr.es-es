@@ -1,61 +1,61 @@
 ---
-title: Criterios de elegibilidad de partners y clientes del gobierno GCC Office 365 | El centro de partners
+title: Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-description: Procedimientos para validar los clientes de Office 365 Government GCC y partners de CSP.
+description: Procedimientos para validar partners y clientes de GCC de Office 365 Administración Pública para el CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794838"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586958"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC para partners CSP y criterios de elegibilidad de cliente
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública para el CSP
 
 **Se aplica a**
 
 -  Centro de partners
--  Partners de CSP
+-  Partners del CSP
 
 >[!NOTE]
->El proceso de validación y los criterios descritos a continuación son específicos para los partners de facturación directa. Los partners de facturación directa incluyen los revendedores directos y los proveedores indirectos.  Si eres un revendedor indirecto trabaja con tu proveedor indirecto. 
+>El proceso y los criterios de validación descritos a continuación son específicos para los partners de factura directa. Los partners de factura directa incluyen revendedores directos y proveedores indirectos.  Si eres revendedor indirecto, colabora con tu proveedor indirecto. 
 
-Si estás interesado en la organización o la organización de los clientes aprobados para Office 365 Government GCC de CSP, revisa los requisitos siguientes.
+Si estás interesado en que tu organización, o la organización de tus clientes, se apruebe para el GCC de Office 365 Administración Pública para el CSP, revisa los requisitos siguientes.
 
-Ha podido aprobar si eres un partner serving entidades de gobierno federales, estado, local o federales de Estados Unidos. Para tener la posibilidad de las organizaciones valida, complete el formulario breve encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Podrías resultar aprobado si eres un partner que sirve a las entidades gubernamentales federales, estatales, locales o tribales de Estados Unidos. Para validar las organizaciones para su elegibilidad, completa el breve formulario situado [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-El cliente se puede aprobar si están una organización que controla controlada por el gobierno de datos o son una entidad de gobierno federales, estado, local o federales de Estados Unidos. Para hacer que los clientes elegibilidad de las organizaciones validado, complete el formulario breve encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Tu cliente puede resultar aprobado si se trata de una organización que controla datos controlados por el gobierno o es una entidad gubernamental federal, estatal, local o tribal de Estados Unidos. Para validar las organizaciones de tus clientes respecto a su elegibilidad, completa el breve formulario situado [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
--   La organización debe ser [inscrito](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa de proveedor de soluciones en la nube como es un requisito previo para que se va a aprobado para Office 365 Government GCC de CSP.
--   Una guía de proceso de validación de paso a paso para Office 365 Government GCC de CSP se encuentra [aquí](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Ponte en contacto con [RSC soporte técnico de escalación](mailto:usgcce@microsoft.com) para validación adicional preguntas o dudas.
+-   Tu organización debe estar [inscrita](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa Proveedor de soluciones en la nube, ya que es un requisito previo para poder ser aprobada para el GCC de Office 365 Administración Pública para el CSP.
+-   Puede encontrarse una guía de proceso de validación paso a paso para GCC de Office 365 Administración Pública para CSP [aquí](https://go.microsoft.com/fwlink/?linkid=2007323).
+-   ponte en contacto con [Tramitación a nivel superior de soporte técnico de RSC](mailto:usgcce@microsoft.com) para preguntas o problemas adicionales de validación.
 
-Office 365 Government GCC para los clientes y partners CSP se validará de elegibilidad en función del cumplimiento criterios específicos que se describe a continuación.
+Los partners y clientes de GCC de Office 365 Administración Pública para CSP se validarán en cuanto a elegibilidad en función del cumplimiento de criterios específicos que se describen a continuación.
 
-**Criterios de partners**
-1.  Proporciona servicios o soluciones para nosotros los clientes del gobierno mediante contratos directos o indirectos
-2.  Sirve a los clientes del gobierno a través de GSA u otros vehículos de contrato de Estados Unidos
+**Criterios de socios**
+1.  Proporciona servicios o soluciones para clientes gubernamentales de EE. UU. a través de contratos directos o indirectos
+2.  Sirve a clientes gubernamentales de EE. UU. a través de GSA u otros vehículos de contrato
 
-**Criterios de cliente**
-1.  Entidad del gobierno de Estados Unidos en su capacidad gubernamental. Por ejemplo:
+**Criterios de los clientes**
+1.  Entidad del gubernamental de EE. UU. en su capacidad gubernamental. Por ejemplo:
  
-    -  Agencia federal (por ejemplo, bureau, Agencia, departamento u otra entidad del gobierno de Estados Unidos)
-    -   Entidad de estado/local 
-    -   Entidades tribales
+    -  Agencia federal (por ejemplo, despacho, agencia, departamento u otra entidad del gobierno de EE. UU.)
+    -   Entidad estatal/local 
+    -   Entidad tribal
     -   Entidades gubernamentales regionales o interestatales (pero no entidades internacionales)
-    -   Investigación nivel federal financiación y centros de desarrollo (FERDCs)
+    -   Centros de investigación y desarrollo financiados federalmente (FERDC)
 
-2.  Entidad comercial de privada con los datos que están sujeta a las normativas. Tipos de datos de gobierno aceptada incluyen: 
+2.  Entidad privada comercial con datos sujetos a normativas. Los tipos de datos gubernamentales aceptados incluyen: 
     -   Tráfico internacional de armas (ITAR)
-    -   Información sin clasificar controlado (CUI)
-    -   Departamento de defensa (DoD) sin clasificar controlado a carpetas información Nuclear (UCNI)
-    -   Departamento de energía (DoE) UCNI
-    -   Información de Justicia penales (CJI)
-    -   Datos de nivel de impacto del departamento de defensa
-    -   Otros tipos de datos que requieren Azure Government
+    -   Información no clasificada controlada (CUI)
+    -   Información nuclear controlada no clasificada (UCNI) del Departamento de Defensa (DoD)
+    -   UCNI del Departamento de Energía (DoE)
+    -   Información de justicia penal (CJI)
+    -   Datos con nivel de incidencia en el Departamento de Defensa
+    -   Otros tipos de datos que requieran Azure Government
 
-Una entidad comercial internacional puede calificar si cumple los requisitos que se ha indicado anteriormente y Has comprobado la presencia de Estados Unidos (por ejemplo, dirección de correo, ubicación física, etcetera).
+Una entidad comercial internacional puede calificar si cumple los requisitos indicados anteriormente y tiene presencia en EE. UU. verificada (por ejemplo, la dirección de correo, la ubicación física, etc.).
 

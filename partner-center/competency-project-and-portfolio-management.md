@@ -3,20 +3,20 @@ title: Competencia de administración de carteras y proyectos
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de administración de carteras y proyectas reconoce a partners que demuestran la capacidad de ofrecer soluciones de administración de proyectos empresariales a sus clientes.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: competencia, competencias
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 276595d07e43cc7e12976dc9140d6726bb49d2d6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795478"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586798"
 ---
 >[!IMPORTANT]
->Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
+>Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

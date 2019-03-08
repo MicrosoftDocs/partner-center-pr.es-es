@@ -1,53 +1,53 @@
 ---
-title: 'Centro de partners: introducción de reservas de Microsoft Azure | El centro de partners'
+title: 'Centro de partners: información general de las reservas de direcciones de Microsoft Azure | Centro de partners'
 ms.topic: article
 ms.date: 11/05/2018
-Description: Partners in the Cloud Solution Provider program (CSP) can offer their customers Microsoft Azure reservations.
-author: v-petand
+Description: Los asociados del programa Cloud Solution Provider (CSP) pueden ofrecer a sus clientes las reservas de direcciones de Microsoft Azure.
+author: LauraBrenner
 ms.author: v-petand
-keywords: Azure, reservas, administrar, facturación, comprar, Azure RI, instancias reservadas de Azure
+keywords: azure, reservas, administrar, facturación, comprar, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8f0a6595754253dfeed5dc0bb003d9043a5dca50
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: e08d83ea931b879bdf4f0b45558a696e166503d3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917427"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583878"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>El centro de partners - reservas de vender Microsoft Azure
+# <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de partners: las reservas de vender Microsoft Azure
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
 **Se aplica a**
 
 - Centro de partners
-- Portal de Microsoft Azure
+- Microsoft Azure Portal
 - Partners de CSP
 
-Los partners en el programa de proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes reservas de Microsoft Azure. Los clientes pueden obtener ahorros importantes cuando reservan de antemano. Reservas de Azure ofrecen a los clientes sencillez y flexibilidad de las siguientes maneras:
+Los asociados del programa Cloud Solution Provider (CSP) pueden ofrecer a sus clientes las reservas de direcciones de Microsoft Azure. Los clientes pueden obtener ahorros importantes al reservar por anticipado. Las reservas de Azure ofrecen a los clientes simplicidad y flexibilidad de las maneras siguientes:
 
 - Períodos de reserva de uno o tres años
-- Introducción; sencilla instalación se completó en segundos
+- Fácil de comenzar: la instalación se completa en segundos
 - Cancelar o cambiar instancias reservadas en cualquier momento por reembolso ajustado
 - Administrar el uso de instancias reservadas en el nivel de departamento individual o de organización 
 
-Reservas de Azure pueden recurrir a los clientes de las siguientes maneras:
+Las reservas de Azure pueden interesar a los clientes de las maneras siguientes:
 
-- Las reservas pueden ofrecer importantes ahorros sobre precios de pago por uso (PAYG)
+- Las reservas de direcciones pueden ofrecer ahorros considerables sobre el precio de pago por uso (PAYG)
 - Mejores presupuestos y previsiones con pagos por adelantado para períodos de uno o tres años
 - Capacidad informática priorizada en la región de Azure más cercana a sus oficinas
-- Azure reservations proporcionan la base para soluciones de infraestructura de extremo a extremo cuando se combina con el software, como Microsoft Windows Server y Azure SQL Database
+- Las reservas de Azure ofrecen los cimientos para soluciones de infraestructura de extremo a extremo cuando se combina con software como Microsoft Windows Server y Azure SQL Database
 
 >[!NOTE]
-> Puedes comprar, vender y administrar Azure reservations en el centro de partners y el portal de Azure tanto con la API del centro de partners. Sigue los vínculos siguientes para obtener información.
+> Puede comprar, vender y administrar Azure reservas en el centro de partners y el portal de Azure y utilizando la API del centro de partners. Sigue los vínculos que vienen a continuación para obtener información.
 
 ## <a name="azure-reservations-resources"></a>Recursos de Azure Reservations
 
-|**Para obtener información acerca de**   |**Lee esto**    |
+|**Para obtener información acerca de**   |**Lea este**    |
 |:-----------------------------|:-----------------|
-| Documentación de reservas de Azure para tus clientes | [¿Cuáles son las reservas de Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
-|Comprar reservas de Azure para tus clientes en el centro de partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
-|Administración de Azure reservations en el centro de partners | [Administración de Azure reservations en el centro de partners](azure-reservations-manage.md)
-|Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual de cliente   |[Cambio de tamaño de la VM para el uso máximo de reserva de Azure](azure-usage.md)   |
-|Comprar Azure Reservations con la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners
+| Documentación de Azure de las reservas para los clientes | [¿Cuáles son las reservas de Azure?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+|Compra de reservas de Azure para sus clientes en el centro de partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
+|Administración de las reservas de Azure en el centro de partners | [Administración de las reservas de Azure en el centro de partners](azure-reservations-manage.md)
+|Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual de cliente   |[Ajuste de tamaño de máquina virtual para el uso de reserva máximo de Azure](azure-usage.md)   |
+|Compra de reservas de Azure usando la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners

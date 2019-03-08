@@ -3,15 +3,15 @@ title: Administrar los incentivos en el Centro de partners | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Los programas de incentivos de partners de Microsoft fomentan la rentabilidad y el crecimiento
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995649"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586998"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Administrar los incentivos en el Centro de partners 
 
@@ -53,6 +53,6 @@ Cuando el administrador de incentivos haya recibido las credenciales, puede comp
 
 [Restablecer una contraseña de usuario](reset-a-user-password.md)
 
-[Comprender los pagos de incentivos](understand-incentive-payouts.md)
+[Comprender sus pagos incentivo](understand-incentive-payouts.md)
 
-Para obtener más información, consulte [Guía de cooperación de incentivos de partners](https://assets.microsoft.com/coop-guidebook.pdf)
+Para obtener más información, consulta la [guía de cooperación de incentivos de partners](https://assets.microsoft.com/coop-guidebook.pdf)

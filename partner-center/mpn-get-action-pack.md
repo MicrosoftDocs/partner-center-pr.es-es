@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obtener action pack
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795048"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587888"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack
 
-**Aplicable a**
+**Se aplica a**
 
 -  Centro de partners
 -  Partner Membership Center
@@ -39,7 +39,7 @@ Después de que te hayas unido correctamente a la red de partners, sigue las [in
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renovar una suscripción a Microsoft Action Pack
 
 >[!IMPORTANT]
->Entre ahora y final de año, vamos a mover la administración de suscripciones de Action Pack desde Partner Membership Center (PMC) al centro de partners - este sitio. Renovar la suscripción a Action Pack puede variar de un momento a otro, por lo que debes revisar la información siguiente cuidadosamente.  
+>Entre ahora y el final del año natural, nos estamos trasladando administración de la suscripción Action Pack desde Partner Membership Center (PMC) para el centro de partners: este sitio. Renovar la suscripción a Action Pack puede variar de un momento a otro, por lo que debes revisar la información siguiente cuidadosamente.  
 
 ### <a name="check-your-renewal-eligibility"></a>Comprobar la posibilidad de renovación
 
@@ -49,17 +49,17 @@ Después de que te hayas unido correctamente a la red de partners, sigue las [in
 
     - Seguir los pasos para renovar la suscripción en PMC, o
 
-    - Obtener un mensaje que te invite a renovar la suscripción en el centro de partners - este sitio
+    - Recibe un mensaje que se invita a renovar su suscripción en el centro de partners: este sitio
 
 >[!IMPORTANT]
->Si estás invitado a renovar la suscripción en el centro de partners, ten en cuenta que hemos cambiado nuestra política de ventanas de renovación y renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puedes renovarla a partir del 23 de junio y durante 30 días después.       
->Puedes hallar la fecha de expiración de la suscripción en tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inicio de sesión necesario). Si eres elegible para renovar en el centro de partners, sigue los pasos siguientes.  
+>Si se le invita a renovar su suscripción en el centro de partners, tenga en cuenta que cambiamos nuestra directiva de la ventana de renovación y puede renovar la suscripción solo después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puedes renovarla a partir del 23 de junio y durante 30 días después.       
+>Puedes hallar la fecha de expiración de la suscripción en tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inicio de sesión necesario). Si o cuando se puede renovar en el centro de partners, siga estos pasos.  
 
 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar una suscripción a Microsoft Action Pack en el centro de partners
 
-1. Ve a tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) y, a continuación, selecciona **Compradas**. Busca el icono de la **Suscripción a Microsoft Action Pack** .  
+1. Ve a tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) y, a continuación, selecciona **Compradas**. Busca la ventana de la **suscripción a Microsoft Action Pack**.  
 
 2. Selecciona **Renovar suscripción** y, a continuación, selecciona el método de pago. Puedes pagar con una tarjeta de crédito o una transferencia bancaria electrónica.
 
@@ -97,9 +97,9 @@ Para cancelar la suscripción a Microsoft Action Pack, puede que tengas que pone
 
     -  Selecciona **Informar de problemas con el Centro de partners**y, a continuación, selecciona **Nueva solicitud** en la página siguiente.
 
-    -  Expande la lista **Tipo de problema** y selecciona **Ayuda con la factura de partner, pago o archivo de conciliación**. 
+    -  Expande la lista **Tipo de problema** y selecciona **Ayuda con facturas de partner, pagos o archivos de conciliación**. 
 
-5. Acaba de rellenar la información necesaria y, a continuación, selecciona **Enviar**. El equipo de soporte técnico del Centro de partners se pondrá en contacto contigo para ayudarte a cancelar la suscripción.
+5. Termina de rellenar la información necesaria y, a continuación, selecciona **Enviar**. El equipo de soporte técnico del Centro de partners se pondrá en contacto contigo para ayudarte a cancelar la suscripción.
 
 Para comprobar el estado de la solicitud de servicio, selecciona **Solicitudes del Centro de partners** en **Soporte técnico** y, a continuación, selecciona **Abrir**. Elige la solicitud de servicio apropiada en la lista.  
 
@@ -111,13 +111,13 @@ Para comprobar el estado de la solicitud de servicio, selecciona **Solicitudes d
  
 ## <a name="next-steps"></a>Pasos siguientes
 
--   [Empezar a usar las ventajas de la suscripción de Action Pack](manage-your-partner-network-benefits.md)
+-   [Empezar a usar sus beneficios de Action Pack](manage-your-partner-network-benefits.md)
 
--   [Obtener más información sobre los requisitos de competencias para los niveles de pertenencia Silver y Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Obtenga información acerca de los niveles de pertenencia de competencia Silver y Gold.](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
 -   [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 
--   [Crear un perfil de negocio para obtener ventas potenciales de Microsoft](create-a-marketing-profile.md)
+-   [Crear un perfil de negocio para obtener clientes potenciales de Microsoft](create-a-marketing-profile.md)
 
 
 

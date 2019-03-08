@@ -6,14 +6,14 @@ description: Después de comprar una nueva suscripción para un cliente, puedes 
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: administración de clientes, cuenta, crear cuenta de licencias, asignar licencias, administración de usuarios, contraseñas, restablecimiento de contraseña, cambiar contraseña
 ms.localizationpriority: medium
 ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797248"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586758"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
@@ -32,11 +32,11 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 <a href="" id="createuseraccounts"></a>
 **Crear cuentas de usuario para un cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige un cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**. Elige un cliente de la lista.
 
 2.  En el menú del cliente, selecciona **Usuarios y licencias**.
 
-3.  Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. Haz clic en **Guardar** para guardar los cambios.
+3.  Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. **Guardar** para guardar los cambios.
 
 4.  Asegúrate de registrar el nombre de usuario y la contraseña temporal que enviarás al usuario. 
 
@@ -45,9 +45,9 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 6. También puedes agregar varios usuarios a la vez si [importas un archivo de hoja de cálculo .csv compatible con Excel](adding-multiple-users-to-a-customer-account.md). Puedes esperar hasta que hayas terminado con todo el conjunto antes de enviar por correo electrónico o imprimir los nombres y las contraseñas desde la pantalla de confirmación.
 
 <a href="" id="userlicensing"></a>
-**Agregar o quitar licencias de usuario de un cliente**
+**Agregar o quitar licencias de usuario para un cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige el cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**. Elige el cliente de la lista.
 
 2.  En el menú del cliente, selecciona **Usuarios y licencias**.
 
@@ -56,9 +56,9 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 4.  Selecciona **Administrar licencias**. Realiza los cambios y haz clic en **Guardar**.
 
 <a href="" id="resetpassword"></a>
-**Restablecer la contraseña de un usuario de un cliente**
+**Restablecer una contraseña de usuario para un cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige el cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**. Elige el cliente de la lista.
 
 2.  En el menú del cliente, selecciona **Usuarios y licencias**. Elige el usuario de la lista.
 
@@ -67,9 +67,9 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 4.  Envía la nueva contraseña temporal al usuario.
 
 <a href="" id="deleteuseraccounts"></a>
-**Eliminar cuentas de usuario de un cliente**
+**Eliminar cuentas de usuario para un cliente**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**. Elige el cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**. Elige el cliente de la lista.
 
 2.  En el menú del cliente, selecciona **Usuarios y licencias**. Elige el usuario de la lista.
 
@@ -78,22 +78,22 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 Si necesitas restaurar esta cuenta, puedes encontrarla en la pestaña **Usuarios eliminados** de la lista **Usuarios y licencias** del cliente. Dispones de 30 días para restaurar un usuario eliminado.
 
 <a href="" id="restoreuseraccounts"></a>
-**Restaurar cuentas de usuario eliminadas**
+**Restaurar las cuentas de usuario eliminado**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**y luego elige al cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**, a continuación, elija el cliente de la lista.
 
 2.  Selecciona **Usuarios y licencias**.
 
 3.  Selecciona la pestaña **Usuarios eliminados ( )**. Si hay usuarios eliminados que se pueden restablecer, mostrará **(1)** o más.
 
-4.  Selecciona una o varias de las casillas de los usuarios eliminados y a continuación selecciona **Restaurar**.
+4.  Selecciona una o varias de las casillas de los usuarios eliminados y, a continuación, selecciona **Restaurar**.
 
     Todas las cuentas de usuario seleccionadas volverán a aparecer en la página **Usuarios y licencias**.
 
 ## <a name="related-topics"></a>Temas relacionados
 
 
-[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
+[Asignar o revocar licencias para varios usuarios](bulk-license-provisioning-for-multiple-users.md)
 
 [Crear varios usuarios para una cuenta de cliente](adding-multiple-users-to-a-customer-account.md)
 

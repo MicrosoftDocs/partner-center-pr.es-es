@@ -3,17 +3,17 @@ title: Obtener competencias de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Obtén competencias Silver y Gold de Microsoft para demostrar tu experiencia probada en ofrecer soluciones de calidad en un área especializada de negocios.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, ventajas, objetivos de rendimiento, objetivos de habilidades
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: d0c78aa6c84cc1385e7c3ddeef5d434e91e1740a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098792"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586128"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -38,9 +38,9 @@ Los logros de competencias de Microsoft demuestran tu probada experiencia en ofr
 
 *  **Demostrar tu probada experiencia**. [Obtener más referencias de negocio](referrals.md) y de este modo demostrar a posibles clientes que puedes hacer frente a sus necesidades de una específica línea de negocio.
 
-## <a href="" id="attainment_paths"></a> Rutas de competencia
+## <a href="" id="attainment_paths"></a> Rutas de acceso de la competencia
 
-[Requisitos de las competencias para suscripciones Silver y Gold](learn-about-competencies.md)
+[Requisitos de capacidad para la pertenencia silver y gold](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Obtener competencias
 
@@ -58,15 +58,15 @@ Entre los **objetivos basados en los conocimientos** se incluyen:
 
 Algunas de las competencias tienen varias maneras de lograr el nivel Silver o Gold.
 
-Para comprobar tu progreso en una competencia, en el centro de partners del centro de partners, ve a la **asociación > competencias**. 
+Para comprobar su progreso en una competencia, desde el centro de partners de Partner Center, vaya a la **asociación > competencias**. 
 
-### <a href="" id="associating_achievements"></a>Conectar a tus empleados para que logren sus objetivos basados en los conocimientos
+### <a href="" id="associating_achievements"></a>Obtener los empleados conectados a los objetivos completados basada en conocimientos
 
-1.  Agrega cuentas de usuario de los empleados de la organización. Desde el [Centro de partners](https://partnercenter.microsoft.com), ve a la **cuenta configuración > para agregar un usuario**. (Los usuarios de PMC pueden agregar varios usuarios de forma simultánea seleccionando **Agregar usuarios que usan datos de PMC**.)
+1.  Agrega cuentas de usuario de los empleados de la organización. Desde el [centro de partners](https://partnercenter.microsoft.com), vaya a **configuración de la cuenta > Agregar usuario**. (Los usuarios de PMC pueden agregar varios usuarios de forma simultánea seleccionando **Agregar usuarios que usan datos de PMC**.)
 
     Después de crear las cuentas de usuario, te enviaremos un nuevo nombre de usuario y una contraseña y te pediremos que descargues un archivo de registro que incluye información para ayudar a restablecer el nombre de usuario y la contraseña, según sea necesario. También puedes [configurar las cuentas de usuarios para que puedan restablecer las contraseñas por sí mismos](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Pide a los empleados de la organización que se conecten y asocien su cuenta de Microsoft (MSA) a su cuenta de usuario. (Desde el [Centro de partners](https://partnercenter.microsoft.com), ve a **configuración de la cuenta**). Los empleados pueden usar las MSA iguales o diferentes para asociar certificaciones y exámenes técnicos de su Microsoft y sus cuentas mediante Microsoft Partner University.
+2. Pide a los empleados de la organización que se conecten y asocien su cuenta de Microsoft (MSA) a su cuenta de usuario. (Desde el [centro de partners](https://partnercenter.microsoft.com), vaya a **configuración de la cuenta**.) Los empleados pueden usar la mismas u otra MSAs para asociar sus exámenes técnicos de Microsoft y las certificaciones y sus cuentas a través de Microsoft Partner University.
 
 3.  **Espera 24 horas** después de que un empleado haya asociado su cuenta o completado un objetivo basado en los conocimientos. Posteriormente, el progreso se muestra en la sección **Competencias**.
 
@@ -86,11 +86,11 @@ Para comprar el paquete de beneficios Gold, solo necesitas demostrar las compete
 
 ### <a href="" id="maintain_membership"></a> Mantener y renovar la suscripción
 
-Para renovar la suscripción, debes seguir demostrando la competencia en productos y servicios de Microsoft. El estado de tu suscripción será el mismo hasta el final del año en el que se efectuó la compra.
+Para renovar la suscripción, debes seguir demostrando la competencia en productos y servicios Microsoft. El estado de tu suscripción será el mismo hasta el final del año en el que se efectuó la compra.
 
 Los logros caducados pueden hacer que no reúnas los requisitos para actualizar o renovar la suscripción de partner al mismo nivel. 
 
-Si recibes el aviso: **"Un cambio reciente en tu logro de competencias ha puesto en riesgo la renovación de la suscripción"**, esto significa que uno o varios de tus logros de competencias corren el riesgo de caducar. 
+Si recibe la alerta: **"Cambios recientes en la consecución de competencia puso su elegibilidad de renovación de suscripción a en riesgo"**, esto significa que uno o más de sus logros competencia está a punto de caducar. 
 
 Esto suele ocurrir cuando un empleado que ayudó a tu organización a cumplir los requisitos de certificación o examen para un logro de competencia deja la organización. 
 
@@ -100,4 +100,4 @@ Para renovar o actualizar la suscripción al mismo nivel, la organización debe 
 
 ## <a name="related-topics"></a>Temas relacionados
 
-[Requisitos de las competencias para suscripciones Silver y Gold](learn-about-competencies.md)
+[Requisitos de capacidad para la pertenencia silver y gold](learn-about-competencies.md)

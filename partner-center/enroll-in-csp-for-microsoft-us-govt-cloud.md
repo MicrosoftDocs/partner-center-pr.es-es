@@ -6,12 +6,12 @@ description: Antes de inscribirte en el programa Proveedor de soluciones en la n
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098822"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585648"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government
 
@@ -81,8 +81,8 @@ Microsoft Cloud for US Government proporciona una instancia diferente de Microso
 
 ## <a name="related-topics"></a>Temas relacionados
 
--  [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Centro de partners de Microsoft Cloud for Government de EE. UU.](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Administración de usuarios y licencias en el centro de partners de Microsoft Cloud para el gobierno estadounidense](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

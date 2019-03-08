@@ -1,7 +1,7 @@
 ---
-title: Analizar el uso de Azure | El centro de partners
+title: Analizar el uso de Azure | Centro de partners
 ms.date: 07/12/2018
-Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: Use el centro de partners para obtener datos sobre el uso de las suscripciones de Azure de sus clientes.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -9,43 +9,43 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8cfb26dd5658648cb0859f557984d47a51125076
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917417"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586268"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obtener datos sobre el uso de las suscripciones de Azure de tus clientes 
 
 **Se aplica a**
 - Centro de partners
 
-Los datos determinan las decisiones comerciales. Usa las métricas de la página de **uso de Azure** para identificar los éxitos y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
+Los datos determinan las decisiones comerciales. Usa las métricas de la página **Uso de Azure** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 
 > [!NOTE]
-> Análisis de uso de Azure solo está disponible para los partners en el programa de proveedor de soluciones en la nube.
+> El análisis de uso de Azure solo está disponible para los partners del programa Proveedor de soluciones en la nube.
 
 Estamos siguiendo estas métricas:
 
 **Resumen**  
- - **Las suscripciones de Azure total vendidas**: número de suscripciones vendidas en el período de tiempo especificado  
- - **Los clientes con el uso**: número de clientes con el uso de Azure en el período de tiempo especificado  
- - **Los clientes sin uso**: número de clientes sin el uso de Azure en el período de tiempo especificado  
+ - **Total de suscripciones de Azure vende**: Número de suscripciones que se vende en el período de tiempo especificado  
+ - **Los clientes con un uso**: Número de clientes con el uso de Azure en el período de tiempo especificado  
+ - **Los clientes sin uso**: Número de clientes sin el uso de Azure en el período de tiempo especificado  
 
-**Clientes de 5 principales en la categoría**  
- -  Los clientes de la parte superior a 5 para la categoría especificada  
+**Principales a 5 clientes en la categoría**  
+ -  Los 5 clientes principales de la categoría especificada  
 
 **Suscripciones sin uso**  
- -  Lista de suscripciones de sepcific sin el uso de Azure en el período de tiempo especificado  
+ -  Lista de suscripciones específicas sin uso de Azure en el período de tiempo especificado  
 
 **Renovación de suscripción de Azure**  
- - **Las suscripciones activas**: es el número de suscripciones activas por fecha  
- - **Las suscripciones de Deprovisioned**: recuento de suscripciones de baja o suspendido por fecha  
+ - **Las suscripciones activas**: Recuento de suscripciones activas por fecha  
+ - **Desaprovisiona suscripciones**: Recuento de suscripciones, cancelar el aprovisionamiento o suspendido por fecha  
 
 **Recuento de clientes**
- - Clientes nuevos adquiridos durante el período de tiempo especificado  
+ - Nuevos clientes adquiridos durante el período de tiempo especificado  
 
 **Retención de la suscripción de Azure**  
- - El número de las suscripciones que se renueve.   
+ - Número de suscripciones que se renovaron.   
   

@@ -3,28 +3,28 @@ title: Agregar software de terceros a tu cartera  | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Comprar software de terceros que funcione con los productos de Microsoft
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: ofertas de terceros, software a comprar
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795768"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586818"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Agregar software de terceros a la cartera
 
-Aplicable a:
+Se aplica a:
 
 - Centro de partners
 
 Ya puedes pedir ofertas de software de terceros en el Centro de partners que puedes ofrecer a los clientes. De esta manera puedes diferenciar tu negocio y ofrecer a tus clientes paquetes de software que hacen frente a sus necesidades empresariales específicas. Además, así pueden seguir trabajando contigo, su asesor de confianza.
 
-Actualmente, el Centro de partners tiene ofertas de terceros que se integran con Azure, Office365 y Dynamics. 
+Actualmente, el Centro de partners tiene ofertas de terceros que se integran con Azure, Office 365 y Dynamics. 
 
-## <a name="connect-with-third-party-partners"></a>Conectar con los partners de terceros
+## <a name="connect-with-third-party-partners"></a>Conectar con los asociados de terceros
  
 Como partner de CSP podrás buscar en las ofertas de software de terceros. Puedes conectarte con partners de ISV y crear tu catálogo de productos. Los partners de ISV también pueden partners CSP con los que trabajar. Pueden buscar en los tipos de productos de Microsoft que vendes, así como revisar tu perfil de empresa. Es importante que mantengas actualizado tu perfil de empresa. Comunica a los partners de ISV tu interés por sus productos haciendo clic en el botón Estoy interesado situado en el identificador del producto y rellenando el formulario emergente. Microsoft lo envía al partner de ISV. Sus respuestas se guardan en el Centro de partners. De igual modo, cuando un partner de ISV expresa interés en trabajar contigo, recibirás las notificaciones a través del centro de partners. El objetivo es responder en menos de 48 horas.
 
@@ -56,11 +56,11 @@ En la página de detalles encontrarás un vínculo al sitio web de ISV, informac
 
 La compra de software de terceros se realiza de la misma forma que la compra de software de origen. 
 
-1. En el **Centro de partners**, selecciona **los clientes**
+1. Desde el **centro de partners**, seleccione **a los clientes**
 2. Selecciona **Nueva suscripción**.
-3. Selecciona la opción de facturación mensual para software de terceros. La facturación anual y la facturación de prueba no están disponibles para soluciones de terceros.
+3. Selecciona la opción de facturación mensual para software de terceros. La facturación anual y la facturación de evaluación no están disponibles para soluciones de terceros.
 4. En la pestaña de terceros, selecciona el producto que quieres comprar.
-5. Comprueba la suscripción que quieres agregar e introduce el número de licencias. A continuación, **Envía** el pedido
+5. Comprueba la suscripción que quieres agregar y escribe el número de licencias. A continuación, **Envía** el pedido
 6. Después de agregar la suscripción, ábrela seleccionando el nombre de la suscripción en la lista de suscripciones.
 7. En la página de edición puedes cambiar la cantidad de licencias o suspender la suscripción.
 

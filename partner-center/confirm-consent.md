@@ -1,25 +1,25 @@
 ---
-title: Confirmar la aceptación del cliente del contrato de Microsoft en la nube | El centro de partners
+title: Confirmar la aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
 ms.date: 02/22/2019
-Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
-author: v-petand
+Description: Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Mejor ayuda asociados requisitos de cumplimiento, Microsoft le pide a los asociados para confirmar la aceptación al proporcionar determinados detalles relacionados con la persona que ha aceptado el contrato.
+author: LauraBrenner
 ms.author: v-petand
-keywords: cliente, clientes, da su consentimiento, MCA, contrato de Microsoft Cloud, plantillas de acuerdos de cliente
+keywords: cliente, clientes, da su consentimiento, MCA, contrato de Microsoft en la nube, las plantillas de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
-ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
+ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "9099443"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587568"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del contrato de Microsoft en la nube
+# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del Contrato de Microsoft Cloud
 
-**Se aplica a:**
+**Se aplica a**
 -  Centro de partners
 
-Como partner, debes obtener la aceptación de tu cliente del contrato de Microsoft en la nube antes de que se pueden pedir productos de Microsoft y servicios para que el cliente. Para mejorar la ayuda a los partners cumplan los requisitos de cumplimiento, Microsoft te pide a los partners para confirmar la aceptación al proporcionar la siguiente información relativa a la persona que ha aceptado el acuerdo: 
+Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft pide a los partners que confirmen la aceptación proporcionando los siguientes detalles de la persona que haya aceptado el contrato: 
 
 -   Nombre
 
@@ -31,54 +31,54 @@ Como partner, debes obtener la aceptación de tu cliente del contrato de Microso
 
 -   Fecha de aceptación
 
-Para obtener más información, consulta la confirmación de aceptación de cliente del contrato de Microsoft Cloud [Preguntas más frecuentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Para obtener más información, vea la confirmación de aceptación del cliente de contrato en la nube de Microsoft [preguntas más frecuentes](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
-## <a name="schedule"></a>Programación
+## <a name="schedule"></a>Programa
 
 **7 de agosto de 2018**
 
--   Los partners de facturación directa y los proveedores indirectos pueden confirmar aceptación del cliente del contrato de Microsoft en la nube. Confirmación es *opcional*.
+-   Los partners de factura directa y los proveedores indirectos pueden confirmar la aceptación del cliente del Contrato de Microsoft Cloud. La Confirmación es *opcional*.
 
--   Confirmación de aceptación de cliente puede hacerse a través del centro de partners o API del centro de partners.
+-   Confirmación de aceptación del cliente puede realizarse a través del centro de partners o Partner Center API.
 
--   Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft.
+-   La confirmación de la aceptación del cliente es compatible solo con la nube pública de Microsoft.
 
 
 **7 de noviembre de 2018**
 
--   Los partners de facturación directa y proveedores indirectos **deben** confirmar aceptación del cliente del contrato de Microsoft en la nube cuando transacciones a través del panel del centro de partners. Confirmación es *obligatorio*.
+-   Dirigir factura asociados y proveedores indirectos **debe** confirme la aceptación del cliente del contrato en la nube de Microsoft al intercambiar a través del panel de centro de partners. La confirmación es *obligatoria*.
 
--   Si no se proporciona la confirmación para un cliente determinado:
+-   Si no se facilita la confirmación para un cliente determinado:
 
-    -   No podrás crear nuevos pedidos de este cliente.
+    -   No podrás crear nuevos pedidos para este cliente.
 
-    -   No podrás cambiar el número de puestos de suscripciones existentes basados en puestos de este cliente.
+    -   No podrás cambiar el número de puestos de suscripciones existentes en función de puestos para este cliente.
 
--   Confirmación de aceptación de cliente puede hacerse a través del centro de partners o API del centro de partners.
+-   Confirmación de aceptación del cliente puede realizarse a través del centro de partners o Partner Center API.
 
--   Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft.
+-   La confirmación de la aceptación del cliente es compatible solo con la nube pública de Microsoft.
 
 -   Esto se aplica a los entornos de producción y espacio aislado.
 
 **11 de marzo de 2018**
 
-- Los partners de facturación directa y Providersmust indirecto confirmar aceptación del cliente del contrato de nube de Microsoft en el entorno de espacio aislado CSP cuando transacciones a través de la API del centro de partners.
-- Si no se proporciona la confirmación para un cliente determinado:
+- Socios directo de facturas y Providersmust indirecta confirmación la aceptación del cliente del contrato en la nube de Microsoft en el entorno de espacio aislado CSP al intercambiar a través de Partner Center API.
+- Si no se facilita la confirmación para un cliente determinado:
 
-    - No podrás crear nuevos pedidos de cliente mediante la API del centro de partners.
+    - No podrá crear nuevos pedidos para este cliente mediante la API del centro de partners.
  
-    - No podrás cambiar el número de puestos de suscripciones existentes basados en puestos para este cliente mediante la API del centro de partners.
-- Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft. 
+    - No podrá cambiar el número de puestos de suscripciones basadas en puestos existentes para este cliente mediante la API del centro de partners.
+- La confirmación de la aceptación del cliente es compatible solo con la nube pública de Microsoft. 
 
 **22 de marzo, 12018**
 
-- Los partners de facturación directa y Providersmust indirecto confirmar aceptación del cliente del contrato de nube de Microsoft en el entorno de producción de CSP cuando transacciones a través de la API del centro de partners.
+- Socios directo de facturas y Providersmust indirecta confirmación la aceptación del cliente del contrato en la nube de Microsoft en el entorno de producción de CSP al intercambiar a través de Partner Center API.
 
-- Si no se proporciona la confirmación para un cliente determinado:
-  - No podrás crear nuevos pedidos de cliente mediante la API del centro de partners.
+- Si no se facilita la confirmación para un cliente determinado:
+  - No podrá crear nuevos pedidos para este cliente mediante la API del centro de partners.
 
-  - No podrás cambiar el número de puestos de suscripciones existentes basados en puestos para este cliente mediante la API del centro de partners.
--  Confirmación de aceptación de cliente solo es compatible con la nube pública de Microsoft.
+  - No podrá cambiar el número de puestos de suscripciones basadas en puestos existentes para este cliente mediante la API del centro de partners.
+-  La confirmación de la aceptación del cliente es compatible solo con la nube pública de Microsoft.
 
 
 
@@ -90,62 +90,62 @@ Para obtener más información, consulta la confirmación de aceptación de clie
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Confirmar la aceptación del cliente para un nuevo cliente
 
-Usa el siguiente procedimiento para confirmar la aceptación del cliente mientras creas a un nuevo inquilino del cliente en el centro de partners. Ten en cuenta que debe ser un agente de administración o el agente de ventas para hacer esto.
+Utilice el procedimiento siguiente para confirmar la aceptación del cliente al crear a un nuevo inquilino de cliente en el centro de partners. Ten en cuenta que debes ser agente de administración o agente de ventas para poder hacer esto.
  
-1.  Selecciona **los clientes**y, a continuación, **nuevo cliente** y, a continuación, selecciona **la información de cuenta**.
+1.  Seleccione **clientes**y, a continuación, **nuevo cliente** y, a continuación, seleccione **información de la cuenta**.
 
-2.  Escribe la información acerca de la **empresa** y el **contacto principal**.
+2.  Introduce la información sobre la **Empresa** y el **Contacto principal**.
 
 ![Información de la empresa](images/mca/mca1.png)
 
-3.  **Contrato de Microsoft cloud**, selecciona **el cliente ha aceptado el acuerdo de nube de Microsoft más reciente**. 
+3.  En **Contrato de Microsoft Cloud**, selecciona **El cliente ha aceptado el último contrato Microsoft Cloud**. 
 
-4.  En **la fecha de aceptación de contrato**, escribe la fecha adecuada. No puedes establecer esto en una fecha futura.
+4.  En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
-5.  Escribe los detalles del usuario que proporciona la aceptación. 
+5.  Introduce los detalles del usuario que proporciona la aceptación. 
 
 ![Agregar la fecha de aceptación](images/mca/MCA3.png)
 
-De manera predeterminada, se muestra la información de usuario de contacto principal. Si esto no es correcto, selecciona la **actualización** y, a continuación, escribe el **nombre**, **apellido**, **dirección de correo electrónico**, y **número de teléfono* (opcional) de la persona que ha aceptado el acuerdo.
+De manera predeterminada, se mostrará la información del usuario de contacto principal. Si esto no es correcto, selecciona **Actualizar** y, a continuación, introduce el **Nombre**, los **Apellidos**, la **Dirección de correo** y el **Número de teléfono* (opcional) de la persona que haya aceptado el contrato.
 
-6.  Seleccione **siguiente** para continuar con el resto de los pasos para crear al inquilino del cliente.
+6.  Selecciona **Siguiente** para continuar con los pasos restantes para crear el inquilino del cliente.
 
-### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>Confirmar la aceptación del cliente de un cliente existente
+### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>Confirmar la aceptación del cliente para un cliente existente
 
-Debes ser un agente de administración o el agente de ventas para hacer esto. 
+Debes ser agente de administración o agente de ventas para poder hacer esto. 
 
-1.  Selecciona **los clientes**y, a continuación, busca y selecciona al cliente que quieres ver. 
+1.  Selecciona **Clientes**y, a continuación, busca y selecciona el cliente que quieras ver. 
 
-2.  Selecciona **la información de cuenta**.
+2.  Seleccione **información de la cuenta**.
 
-3.  **Contrato de Microsoft cloud**, seleccione la **actualización**.
+3.  En **Contrato de Microsoft Cloud**, selecciona **Actualizar**.
 
-![Actualizar](images/mca/mca4.png)
+![Actualización](images/mca/mca4.png)
 
-4.  Escribe el **nombre**, **apellido**, **dirección de correo electrónico**y **número de teléfono** (opcional del usuario que ha aceptado el acuerdo).
+4.  Escriba el **nombre**, **apellidos**, **dirección de correo electrónico**, y **número de teléfono** (opcional) del usuario que ha aceptado el contrato.
 
-5.  En **la fecha de aceptación de contrato**, escribe la fecha adecuada. No puedes establecer esto en una fecha futura.
+5.  En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
-6.  Seleccione **Guardar y continuar**.
+6.  Selecciona **Guardar y continuar**.
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmar la aceptación del cliente durante la creación de nuevo pedido de un cliente existente
+### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmar la aceptación del cliente durante la creación de un nuevo pedido para un cliente existente
 
-Si intentas crear un nuevo pedido de un cliente existente que no has confirmado antes, recibirás un símbolo del sistema para completar la confirmación. Usa el siguiente procedimiento para hacer esto. 
+Si intentas crear un nuevo pedido para un cliente existente para el que no has confirmado antes, recibirás un aviso para completar la confirmación. Utiliza el siguiente procedimiento para hacerlo. 
 
-1.  Escribe el **nombre**, **apellido**, **dirección de correo electrónico**y **número de teléfono** (opcional del usuario que ha aceptado el acuerdo).
+1.  Escriba el **nombre**, **apellidos**, **dirección de correo electrónico**, y **número de teléfono** (opcional) del usuario que ha aceptado el contrato.
 
-2.  En **la fecha de aceptación de contrato**, escribe la fecha adecuada. No puedes establecer esto en una fecha futura.
+2.  En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
-3.  Seleccione **Guardar y continuar**.
+3.  Selecciona **Guardar y continuar**.
 
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperar la confirmación de aceptación de cliente de un cliente existente
+### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperar la aceptación del cliente para un cliente existente
 
-Puedes recuperar la confirmación de aceptación de cliente de un cliente existente que has proporcionado anteriormente con el siguiente procedimiento. Debes ser un agente de administración o el agente de ventas para hacer esto. 
+Puedes recuperar la confirmación de aceptación del cliente para un cliente existente que la haya proporcionado anteriormente con el siguiente procedimiento. Debes ser agente de administración o agente de ventas para poder hacer esto. 
 
-1.  Selecciona **los clientes**y, a continuación, busca y selecciona al cliente que quieres ver. 
+1.  Selecciona **Clientes**y, a continuación, busca y selecciona el cliente que quieras ver. 
 
-2.  Selecciona **la información de cuenta**.
+2.  Seleccione **información de la cuenta**.
 
-3.  **Contrato de Microsoft cloud**, podrás ver independientemente de si se ha proporcionado confirmación para este cliente.
+3.  En **Contrato de Microsoft Cloud**, verás si no se ha proporcionado o no la confirmación de este cliente.
 

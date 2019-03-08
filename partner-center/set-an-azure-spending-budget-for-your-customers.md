@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683444"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587588"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Establecer un presupuesto de gastos de Azure para tus clientes
 
@@ -32,26 +32,26 @@ Para ayudar a los clientes a administrar sus gastos de Azure, puedes establecer 
 Los datos de gastos de Azure son una estimación, los importes de facturación reales pueden variar y el valor no refleja los impuestos, créditos, ajustes u otros cargos que se puedan aplicar. Los datos de gastos se actualizan una vez al día. Los clientes seguirán usando (y se les seguirá cobrando por) los servicios y recursos de Azure, a menos que cambies la configuración de su cuenta en Azure Portal. 
 
 > [!NOTE]  
-> Esta característica no está disponible en el espacio aislado o Test en las cuentas de Production (TIP).
+> Esta característica no está disponible en espacio aislado o de prueba en las cuentas de producción (TIP).
 
-**Activar las notificaciones por correo electrónico**
-1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
-2.  Activa la opción **Obtener correos electrónicos** para recibir una notificación cuando los clientes usan el 80% o más de su presupuesto. Esto te ayudará a mantener controlada tu factura de Azure. Puedes cambiar la dirección de correo electrónico predeterminado a uno personal o a cualquier otro correo electrónico para recibir notificaciones.
+**Activar notificaciones por correo electrónico**
+1.  En el menú del centro de partners, seleccione **gasto de Azure**.
+2.  Activa la opción **Obtener correos electrónicos** para recibir una notificación cuando los clientes usan el 80 % o más de su presupuesto. Esto te ayudará a mantener controlada tu factura de Azure. Puedes cambiar la dirección de correo electrónico predeterminado a uno personal o a cualquier otro correo electrónico para recibir notificaciones.
 
 **Establecer un presupuesto**
-1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
+1.  En el menú del centro de partners, seleccione **gasto de Azure**.
 2.  Selecciona los clientes para los que quieres establecer un presupuesto. 
 3. Escribe un valor en el cuadro **Presupuesto mensual** y luego selecciona **Aplicar**.
 4.  Para comprobar el gasto actual, vuelve a esta página.
 5.  También se pueden establecer presupuestos individuales en **Usage-based subscriptions** en una página de administración del cliente.
 
 **Quitar un presupuesto**
-1.  En el menú del centro de partners, selecciona **los gastos de Azure**.
+1.  En el menú del centro de partners, seleccione **gasto de Azure**.
 2.  Selecciona los clientes de la lista.
 3.  Selecciona **Remove budget**.
 
-**Consultar los costos desglosados**
-1.  En el menú del centro de partners, selecciona **los clientes**.
+**Ver los costes detallados**
+1.  En el menú del centro de partners, seleccione **clientes**.
 2.  En la lista de clientes, selecciona un cliente.
 3.  En la página de administración del cliente, en **Usage-based subscriptions**, elige una suscripción. Consulta el uso estimado actual y una lista de costos desglosados por servicio.
 

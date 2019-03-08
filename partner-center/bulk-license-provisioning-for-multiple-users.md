@@ -6,14 +6,14 @@ description: Puedes asignar licencias y servicios a un usuario, o a varios usuar
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: assign license, revoke license, assign to multiple users,
+Keywords: asignar licencias, revocar la licencia, asignar a varios usuarios
 ms.localizationpriority: medium
 ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795358"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584258"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -23,18 +23,18 @@ ms.locfileid: "5795358"
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
-el centro de partners realiza un seguimiento y muestra todos los derechos de licencia pertenecientes a los clientes.
+el centro de partners realiza un seguimiento y muestra todos los derechos de licencia de propiedad del cliente.
 
 ## <a name="in-this-section"></a>En esta sección
 
 
 -   [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
--   [Revocación de las asignaciones de licencia de los usuarios](#revoking-licenses)
+-   [Asignaciones de licencias de revocación de los usuarios](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
 **Asignar licencias a varios usuarios**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**y, a continuación, elige a un cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**y, a continuación, elija un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 
@@ -60,16 +60,16 @@ el centro de partners realiza un seguimiento y muestra todos los derechos de lic
 7.  Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8.  Selecciona **Guardar**. El centro de partners abre una página de confirmación de **licencias actualizan** a los usuarios y sus nuevas licencias.
+8.  Selecciona **Guardar**. Se abre el centro de partners un **licencias actualizadas** enumerar los usuarios y sus nuevas licencias de página de confirmación.
 
-**Nota**algunos productos de Microsoft pueden no estar disponibles en ciertas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
+**Tenga en cuenta**  algunos productos de Microsoft pueden no estar disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Revocación de las asignaciones de licencia de los usuarios**
+**Asignaciones de licencias de revocación de los usuarios**
 
-1.  En el menú del **Centro de partners** , selecciona **los clientes**y, a continuación, elige a un cliente de la lista.
+1.  Desde el **centro de partners** menú, seleccione **clientes**y, a continuación, elija un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 

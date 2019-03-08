@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795058"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587438"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 
@@ -35,14 +35,14 @@ Dedica un momento a revisar estos datos importantes sobre promociones:
 
 ## <a name="see-available-promotions"></a>Ver las promociones disponibles
 
-Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Seleccionar **promociones** desde el menú del **Centro de partners** para ver una lista de promociones actuales junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
+Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Seleccione **promociones** desde su **centro de partners** menú para ver una lista de promociones actuales, junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
 
 > [!NOTE]  
 > También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Comprar suscripciones a precios de promoción
 
-1. En el menú del **Centro de partners** , selecciona **los clientes** y, a continuación, selecciona al cliente que está comprando la suscripción. 
+1. En su **centro de partners** menú, seleccione **clientes** y, a continuación, seleccione el cliente que se compra la suscripción. 
 
 2. Selecciona **Agregar suscripción**.
 

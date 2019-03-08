@@ -1,18 +1,18 @@
 ---
-title: Transición de proveedor de soluciones en la nube (CSP) dirigir socio de facturación al revendedor indirecto de CSP | El centro de partners
+title: Transición desde el proveedor de soluciones de nube (CSP) directo asociado factura revendedor indirecto de CSP | Centro de partners
 ms.topic: article
-ms.date: 12/18/2018
-description: Comprender cómo pasará de socio de facturación directa al revendedor indirecto
-author: labrenne
+ms.date: 03/04/2019
+description: Comprender cómo realizará la transición de socio directo de facturas al revendedor indirecto
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: facturación directa, transición, revendedor indirecto
-ms.openlocfilehash: 54fa20acfd84cf1a2fadba9aa323b94d3ab356a3
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+keywords: bill directa, la transición, revendedor indirecto
+ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098802"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587688"
 ---
 **Se aplica a:**
  - Partners de CSP
@@ -20,141 +20,180 @@ ms.locfileid: "9098802"
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición desde partner de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP 
 
 >[!Note] 
->Este artículo está pensado para los partners de facturación directa que han decidido realizar la transición a revendedores indirectos. 
+>En este artículo está destinado a los socios de directo de facturas que han decidido realizar la transición a los revendedores indirectos. 
 
-Podrá inscribirse en el programa de revendedor indirecto con el inquilino existente de facturación directa. 
+Podrá inscribirse en el programa de revendedor indirecto con su inquilino de factura directo existente. 
 
 ## <a name="get-started"></a>Comenzar
 
-1. Asegúrate de que tu perfil de partner en el centro de partners e Id. de MPN están actualizadas.
+1. Asegúrese de que el perfil de socio comercial en el centro de partners e Id. de MPN están actualizados.
 
-2. Inicia sesión en el centro de partners como el administrador global para el inquilino de facturación directa que están realizando la transición al revendedor indirecto.
+2. Inicie sesión en Partner Center como el administrador global para el inquilino directo de facturas que está realizando la transición a un revendedor indirecto.
 
 ![Introducción](images/direct/direct1.png) 
 
-3. Revisa los detalles del partner en el formulario de inscripción.
+3. Revise los detalles del asociado en el formulario de inscripción.
 
-![Inscribirse ahora](images/direct/direct2a.png) 
+![Inscríbase ahora](images/direct/direct2a.png) 
 
-4. Selecciona Inscribirse ahora. Tu negocio de revendedor indirecto usará al mismo inquilino de AAD que usas para tu negocio directo.
-
->[!Note]
->Inicialmente, esta nueva funcionalidad de transición estará disponible para los partners de septiembre a las fechas de aniversario de diciembre. Si no "t tienen una fecha de aniversario entre septiembre y diciembre, no verás la funcionalidad en este momento. Partners con fechas de aniversario después de diciembre de 2018 se notificará más adelante una vez que la característica está habilitada para los partners.
-
-
-5. Cuando se aprueba la inscripción, inicie sesión en el centro de partners nuevo.
+4. Seleccione inscribir ahora. Revendedor indirecto se usará al mismo inquilino AAD que utilice para su negocio directa.
 
 >[!Note]
-> Aunque la aprobación es normalmente inmediata, puede tardar hasta cinco días laborables. Una vez aprobado, recibirás una notificación a la dirección de correo electrónico que hayas especificado en contacto principal en el formulario de inscripción. También puedes comprobar el estado de inscripción en información de **configuración** → **Configuración a partners** → **Perfil de Partner** → programa. 
+>Inicialmente, esta nueva funcionalidad de transición estará disponible para los asociados de septiembre a las fechas de aniversario de diciembre. Si no "t tiene una fecha de aniversario entre septiembre y diciembre, no podrá ver la capacidad en este momento. Asociados con las fechas de aniversario después de diciembre de 2018 se le avisará más adelante cuando la característica está habilitada para los asociados.
 
-6. En la página de **Introducción** , verás el acuerdo de revendedor indirecto. Selecciona **Aceptar y continuar**. Esto permite que las funcionalidades de revendedor indirecto.
 
-Cuando haya aceptado el acuerdo de revendedor indirecto, observe que el perfil de Partner identifica como **tanto** una facturación directa y el revendedor indirecto.
+5. Cuando se aprueba la inscripción, inicie sesión en Centro de partners de nuevo.
+
+>[!Note]
+> Mientras la aprobación es normalmente de inmediata, puede tardar hasta cinco días laborables. Una vez aprobado, recibirá una notificación a la dirección de correo electrónico que ha especificado en el contacto principal en el formulario de inscripción. También puede comprobar el estado de inscripción en **configuración** → **configuración asociado** → **perfil de socio comercial** información del programa →. 
+
+6. En su **Introducción** página, verá el acuerdo de revendedor indirecto. Selecciona **Aceptar y continuar**. Esto habilita las capacidades de revendedor indirecto.
+
+Cuando haya aceptado el contrato de revendedor indirecto, tenga en cuenta que el perfil de socio comercial le identifica como **ambos** una factura directo y el revendedor indirecto.
 
 ![Acuerdo de revendedor indirecto](images/direct/direct3.png)
 
 >[!Important] 
->Una vez inscribirte como revendedor indirecto con la nueva funcionalidad, no hay ninguna opción para revertir a un inquilino solo directo factura. Asegúrate de que evaluar completamente tus necesidades empresariales antes de inscribirte como revendedor indirecto.
+>Una vez inscrito como revendedor indirecto mediante la nueva funcionalidad, no hay ninguna opción para revertir a un factura directo - único inquilino. Asegúrese de que evaluar exhaustivamente sus necesidades empresariales antes de inscribirse como revendedor indirecto.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Mientras se realiza la transición desde direct a revendedor indirecto
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Mientras realiza la transición de direct revendedor indirecto
 
-Durante esta fase que seguirán para administrar la suscripción de tus clientes directos debe incluido el proceso de facturación. También puedes empezar a aceptar los clientes de tu proveedor indirecto y funcionan como un revendedor indirecto.
+Durante esta fase que continuará para administrar la suscripción de sus clientes directos debe incluido el proceso de facturación. También puede empezar a aceptar clientes desde su proveedor indirecto y funciona como un revendedor indirecto.
 
-![Eres una facturación directa y el revendedor indirecto](images/direct/direct4.png)
+![Un efecto directo y el revendedor indirecto](images/direct/direct4.png)
 
 ## <a name="find-an-indirect-provider"></a>Encontrar un proveedor indirecto
 
-Después de realizar la inscripción, aparecerá un vínculo a los proveedores indirectos en el panel de navegación izquierdo. Como revendedor indirecto se establece una relación con un proveedor indirecto que, a continuación, puede controlar la facturación, comprar productos para los clientes y compatibilidad con infraestructura.
+Tras la inscripción, un vínculo a los proveedores indirectos aparecerá en la barra de navegación izquierdo. Como revendedor indirecto se establecerá una relación con un proveedor indirecto, ya que puede controlar la facturación, comprar productos para los clientes y admite la infraestructura.
 
 Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte técnico, por lo deberías evaluar a los proveedores en tu zona para determinar cuál de ellos se ajusta mejor a tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente: 
 
 - Proporcionarte formación y asistencia técnicas
 - Ayuda para comercializar tus productos y servicios 
-- Administrar los términos de financiación y crédito 
+- Administrar sus propios términos de financiación y crédito 
 
-Buscar en la lista de oficial de [proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+Buscar en la lista de oficial [proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Más información, lee los [partners con proveedores indirectos](indirect-reseller-tasks-in-partner-center.md)
+Obtener más información, lea [asociados con los proveedores indirectos](indirect-reseller-tasks-in-partner-center.md)
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Acepta una invitación de asociación de tu proveedor indirecto
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Aceptar una invitación de colaboración de su proveedor indirecto
 
-Cuando encuentres un proveedor indirecto colaborar con, establecer una asociación con el proveedor indirecto en el centro de partners.
+Cuando encuentre un proveedor indirecto para ser asociado, establecer una asociación con el proveedor indirecto en el centro de partners.
 
-El proveedor indirecto que seleccionas te enviará por correo electrónico un vínculo de invitación de asociación que te llevará a tu invitación del centro de partners. Asegúrate de que el administrador global, inicia sesión en el centro de partners y sigue el vínculo de invitación. Cuando acepte la invitación, aparecerá el nombre del proveedor en la lista de proveedor indirecto.
+El proveedor indirecto seleccionado le enviará por correo electrónico un vínculo de invitación de colaboración que le llevará a su invitación en el centro de partners. Asegúrese de que el administrador global, inicia sesión en el centro de partners y sigue el vínculo de invitación. Al aceptar la invitación, aparecerá el nombre del proveedor en la lista de proveedores indirectos.
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a>Conseguir a nuevos clientes como revendedor indirecto
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Adquirir a nuevos clientes como revendedor indirecto
 
-Contigo y con tu proveedor indirecto que tienen relaciones de revendedor con los clientes. Esto te permite administrar las suscripciones y servicios en nombre de un cliente. Para adquirir a un nuevo cliente que tenga un inquilino de Azure AD existente, puedes invitar al cliente a establecer una relación de revendedor contigo y con tu proveedor al mismo tiempo. 
+Tanto usted como su proveedor indirecto deben tener relaciones de distribuidor con los clientes. Esto le permite administrar las suscripciones y servicios en su nombre de un cliente. Para adquirir a un cliente nuevo que tiene un inquilino de Azure AD existente, puede invitar a los clientes para establecer una relación de revendedor con usted y su proveedor al mismo tiempo. 
 
 Para crear una invitación de revendedor indirecto:
 
-1. Selecciona **los proveedores indirectos** en el panel de navegación izquierdo. el centro de partners 
+1. Seleccione **proveedores indirectos** desde su centro de partners deja el panel de navegación. 
 
-2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con tu cliente, por lo que pueden enviar pedidos en su nombre cuando dicho cliente desee comprar nuevas suscripciones o agregar nuevas licencias a suscripciones existentes.
+2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con el cliente, por lo que puedan enviar pedidos en nombre de su cliente cuando el cliente desea comprar las suscripciones nuevas o agregar nuevas licencias para las suscripciones existentes.
 
-3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico, o puedes copiar el mensaje en el Portapapeles y pegarlo en un correo electrónico.
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje de correo electrónico, o puede copiar el mensaje en el Portapapeles y péguela en un correo electrónico.
 
-4. Editar el texto en el correo electrónico para que lo lea lo que necesitas pero Asegúrate de incluir el vínculo, ya que está personalizado para conectar al cliente directamente a tu cuenta y la cuenta del proveedor. A continuación, selecciona **Listo**.
-
-5. Una vez que el cliente te autoriza a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
-6. Para administrar la cuenta, servicios, usuarios y licencias de un cliente, expande el registro del cliente, selecciona la flecha hacia abajo situada junto a su nombre. 
-
-A diferencia de los partners de facturación directa, revendedores indirectos no permite crear a inquilinos de Azure AD para sus clientes nuevas en el centro de partners. El proveedor creará al inquilino y especifica como el revendedor indirecto para este cliente. Esto garantiza que el cliente, aparecerán en la lista de clientes del centro de partners.
-
->[!Note]
->No podrás usar la funcionalidad de facturación directa para crear compras para los clientes que adquieras como revendedor indirecto.
-
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mover a los clientes de facturación directa a tu proveedor indirecto
-
-Tu proveedor indirecto no enviar pedidos para los clientes existentes de facturación directa hasta que tienen una relación de revendedor con él. Para establecer la relación de revendedor entre los clientes existentes y tu proveedor indirecto, invita al cliente con una invitación de revendedor indirecto. 
-
-1. Selecciona **los proveedores indirectos** en el panel de navegación izquierdo. el centro de partners
-
-2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con tu cliente, por lo que pueden enviar pedidos en su nombre cuando dicho cliente desee comprar nuevas suscripciones o agregar nuevas licencias a suscripciones existentes.
-
-3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico, o puedes copiar el mensaje en el Portapapeles y pegarlo en un correo electrónico. 
-
-4. Editar el texto en el correo electrónico para que lo lea lo que necesitas pero Asegúrate de incluir el vínculo, ya que está personalizado para conectar al cliente directamente a tu cuenta y la cuenta del proveedor. A continuación, selecciona **Listo**.  
+4. Editar el texto del correo electrónico para que diga lo que necesita pero no olvide incluir el vínculo como lo está personalizada para conectar al cliente directamente con su cuenta y cuenta de su proveedor. A continuación, seleccione **realiza**.
 
 5. Una vez que el cliente te autoriza a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
+6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre. 
 
-6. Para administrar la cuenta, servicios, usuarios y licencias de un cliente, expande el registro del cliente, selecciona la flecha hacia abajo situada junto a su nombre.
+A diferencia de asociados de lista directa, los revendedores indirectos no pueden crear a inquilinos de Azure AD para sus clientes nuevo en el centro de partners. El proveedor creará al inquilino y se especificará como revendedor indirecto para este cliente. Esto garantiza que el cliente aparecerán en la lista de clientes en el centro de partners.
 
 >[!Note]
->Actualmente, Microsoft Store para empresas no permitir que un cliente acepta una invitación de revendedor indirecto de un socio de facturación directa existente. Microsoft Store para empresas son compatibles en un futuro cercano. Entonces, seguirá hasta enviar pedidos para los clientes existentes de facturación directa con la funcionalidad de facturación directa.
+>No podrá usar la funcionalidad de factura directa para crear las compras para adquirir como revendedor indirecto de los clientes.
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Administrar los clientes de facturación directa y los clientes de revendedor indirecto
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mover a los clientes de factura directa a su proveedor indirecto
 
-Puedes administrar los clientes de facturación directa y los clientes de revendedor indirecto diferente. 
+Su proveedor indirecto no puede enviar pedidos para los clientes existentes de factura directo hasta que tengan una relación de revendedor con ellos. Para establecer la relación de revendedor entre los clientes existentes y su proveedor indirecto, invitar a los clientes mediante una invitación de revendedor indirecto. 
+
+1. Seleccione **proveedores indirectos** desde su centro de partners deja el panel de navegación.
+
+2. Seleccione **invitar a nuevos clientes** para invitar a un cliente para establecer una relación de revendedor con usted y el proveedor indirecto al mismo tiempo. El proveedor debe tener una relación de revendedor con el cliente, por lo que puedan enviar pedidos en nombre de su cliente cuando el cliente desea comprar las suscripciones nuevas o agregar nuevas licencias para las suscripciones existentes.
+
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje de correo electrónico, o puede copiar el mensaje en el Portapapeles y péguela en un correo electrónico. 
+
+4. Editar el texto del correo electrónico para que diga lo que necesita pero no olvide incluir el vínculo como lo está personalizada para conectar al cliente directamente con su cuenta y cuenta de su proveedor. A continuación, seleccione **realiza**.  
+
+5. Una vez que el cliente te autoriza a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
+
+6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
+
+>[!Note]
+>Actualmente, Microsoft Store para empresas no permite a los clientes Aceptar una invitación de revendedor indirecto de un asociado directo de facturas existente. Microsoft Store para empresas admite esto en un futuro próximo. Hasta entonces, continúe para enviar pedidos para los clientes existentes de factura directa mediante la funcionalidad de directo de facturas.
+
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Administración de sus clientes directo de facturas y los clientes de revendedor indirecto
+
+Administrar sus clientes directo de facturas y los clientes de revendedor indirecto diferente. 
 
 **Dirigir a los clientes de factura (cosas que no hacer como revendedor indirecto)**
 
-- Crear pedidos de productos
-- Administrar reservas de Azure
+- Creación de pedidos de productos
+- Administrar las reservas de Azure
 - Administrar su historial de pedidos
-- Comprar software
+- Adquisición del software.
 - Facturar directamente a los clientes
 
-**Clientes de revendedor indirecto**
+**Clientes del revendedor indirecto**
 
-- Tu proveedor indirecto de pedidos de productos para los clientes
-- Administrar usuarios y licencias de clientes
-- Controlar la renovación de suscripción
+- El proveedor indirecto de pedidos de productos para los clientes
+- Administrar usuarios y licencias de los clientes
+- Controlar las renovaciones de suscripción
 
-**Para identificar a los clientes que se ha adquirido como un socio de facturación directa**
+**Para identificar a los clientes que adquirió como asociado directo de facturas**
 
-1. Selecciona **los clientes**
+1. Seleccione **a los clientes**
 
-2. Selecciona un cliente para ver los detalles
+2. Seleccione un cliente para ver sus detalles
 
-3. Si este cliente es la que adquirió como un socio de facturación directa, verás opciones para **Agregar** o **Ver los productos** y podrás ver sus suscripciones.
+3. Si es este cliente ha adquirido como un asociado directo de facturas, verá opciones para **agregar** o **ver productos** y verá sus suscripciones.
 
-4. Si el cliente tiene una relación de revendedor indirecto contigo, estas opciones no estará disponibles.
+4. Si el cliente tiene una relación de revendedor indirecto con usted, esas opciones no estará disponibles.
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Inscribirse en los incentivos de revendedor indirecto 
+## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a>¿Qué ocurre cuando se han restringido las capacidades de directo de facturas
 
-Después de que te has inscrito correctamente como un revendedor indirecto en el inquilino de partner existente de facturación directa, recibirás una invitación para inscribirse en los incentivos de revendedor indirecto antes de 30 días. La invitación se basa en el asociado de cuenta MPN que está actualmente asociada con tu inquilino de partner CSP. La invitación se enviará a la dirección de correo electrónico asociada con la cuenta MPN del partner. 
+Si ha decidido realizar la transición a un revendedor indirecto y disponer de una inscripción dual directas de factura y el revendedor indirecto o no ha realizado una decisión explícita aún para inscribirse como revendedor indirecto, dirigir a los asociados de factura que no cumplen los requisitos de nuevo para el CSP programa para asociados directos factura le informará por Microsoft cuando sus capacidades de factura directo estarán limitados. 
 
-También está autorizado para inscribirse en programas de incentivos de facturación directa con ese mismo inquilino de partner. Debe administrar los programas por separado.
+En su **perfil de socio** en **información del programa** verá que ha cambiado el estado de Microsoft Cloud Solution Provider a **restringido**.
 
-Consulta también [información adicional sobre convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [Facturación directa al revendedor indirecto preguntas más frecuentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+## <a name="affected-direct-bill-capabilities"></a>Afectados capacidades directo de facturas
+
+Cuando se han restringido las capacidades de lista directa, ya no puede realizar nuevas compras para los clientes en el centro de partners. Esto incluye: 
+
+- Suscripciones de Azure
+- Suscripciones de licencias
+- Adición de nuevos complementos a suscripciones existentes basados en licencia
+- Realizar compras de un solo uso de productos de software y de reserva como suscripciones de software, software permanente y las instancias reservadas de máquina Virtual Azure.
+
+No se puede adquirir nuevas suscripciones de Azure para su uso con la oferta de servicios compartidos de asociados de Azure en el programa CSP. 
+
+Además de nuevas compras, no se puede tener acceso a las siguientes funcionalidades de factura directa en el centro de partners: 
+- No se puede crear a nuevos inquilinos del cliente. El **crear cliente** opción **clientes** en el centro de partners no estará disponible. 
+
+- No se puede generar las invitaciones a los clientes que soliciten una relación de revendedor directa. El **solicitar una relación de revendedor** opción **clientes** en el centro de partners no estará disponible. 
+
+No se ven afectadas las suscripciones existentes de directo de facturas. Se siguen siendo válidos y son se renueva automáticamente. Seguirá facturando directamente por Microsoft hasta que se cancelan. Todavía puede administrar las suscripciones existentes de las maneras siguientes: 
+
+- Suspender suscripciones existentes 
+
+- Ajustar el número de puestos de suscripciones de licencias existentes 
+
+- Ajustar el número de puestos de complementos existentes a una suscripción. Nota: Ccan't agregar nuevos complementos para las suscripciones existentes tal como se tratan como nuevas compras. 
+
+- Implementar nuevos recursos de Azure y administrar recursos de Azure existentes en las suscripciones de Azure existentes. Esto incluye los productos que están disponibles a través de Azure marketplace y suscripciones de Visual Studio. 
+
+>[!Note] 
+>Si ya se ha inscrito al inquilino de asociado directo de facturas como revendedor indirecto, es posible enviar invitaciones a los clientes que soliciten una relación de revendedor indirecto en lugar de directo de facturas. 
+
+- No se puede crear a un nuevo inquilino de espacio aislado. Cada inquilino de asociado directo de facturas puede crear a un inquilino de espacio aislado con el fin de integración de la API de facturación directa. Si no ha creado uno anteriormente, no podrá hacerlo una vez que dirigir la funcionalidad de facturación asociado se ha restringido. 
+
+## <a name="enroll-for-indirect-reseller-incentives"></a>Inscripción de los incentivos del revendedor indirecto 
+
+Una vez que haya registrado correctamente como un revendedor indirecto en su inquilino existente de socio directo de facturas, recibirá una invitación para inscribir incentivo de revendedores indirectos dentro de 30 días. La invitación se basa en el asociado de cuenta MPN que está asociada actualmente con el inquilino de asociado CSP. La invitación se enviará a la dirección de correo electrónico asociada con el asociado de cuenta MPN. 
+
+También son elegibles para la inscripción para programas de incentivos de factura directa con ese mismo inquilino de partner. Los programas se deben administrar por separado.
+
+Vea también [información adicional en convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) y el [directo de facturas a revendedor indirecto de preguntas más frecuentes sobre](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+
+

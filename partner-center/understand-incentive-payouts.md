@@ -3,17 +3,17 @@ title: Comprender los pagos de incentivos | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
 description: Mira las ganancias y pagos de los programas de incentivos.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995959"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585388"
 ---
-# <a name="incentive-payouts-overview"></a>Información general de pagos de incentivos
+# <a name="incentive-payouts-overview"></a>Información general de pagos incentivos
 
 **Se aplica a**
 
@@ -25,11 +25,11 @@ Los administradores y usuarios de incentivos obtienen un resumen de las ganancia
 
 Los usuarios y administradores de incentivos pueden ver su posición financiera en los programas de incentivos en los que están participando en **Resumen de pagos**. Puedes analizar cada área de la información de resumen según sea necesario. 
 
-En la página de resumen, puedes seguir tendencias que analizan en qué meses recibes pagos y por qué tipo de programa. En cambio, también puedes ver lo que has obtenido por programa y por ubicación. Esto te permite entender dónde has tenido éxito y dónde podrías reforzar tus esfuerzos en ventas y marketing. La página de resumen de pagos muestra las ganancias y los pagos. Los datos de incentivos se actualizarán cada 48horas. Los gráficos y las tablas reflejan la información más reciente. 
+En la página de resumen, puedes seguir tendencias que analizan en qué meses recibes pagos y por qué tipo de programa. En cambio, también puedes ver lo que has obtenido por programa y por ubicación. Esto te permite entender dónde has tenido éxito y dónde podrías reforzar tus esfuerzos en ventas y marketing. La página de resumen de pagos muestra las ganancias y los pagos. Los datos de incentivos se actualizarán cada 48 horas. Los gráficos y tablas reflejan la información más reciente. 
 
 Hay tres indicadores clave que se usan en la página de resumen:
 
-|**indicadores clave**   |**Definición**   |
+|**Indicadores clave**   |**Definición**   |
 |---------------------|:-----------------|
 |Total pagado hasta la fecha|Cantidad de dinero que Microsoft te ha pagado|
 |Ganancias sin pagar|Cantidad de dinero que has ganado pero no se ha programado para pagarse|
@@ -84,7 +84,7 @@ El mapa de la página de extractos y pagos te muestra los pagos procedentes de t
 
 ## <a name="payments"></a>Pagos
 
-La tabla de los pagos presenta todos los pagos que se han realizado en los últimos 12meses. Está desglosada por programa y por el tipo de ganancia. Puedes ver cuándo se inició el período de la ganancia y cuando se ha completado. Cuando el pago se envíe al banco, verás la fecha de pago y el identificador del pago.
+La tabla de los pagos presenta todos los pagos que se han realizado en los últimos 12 meses. Está desglosada por programa y por el tipo de ganancia. Puedes ver cuándo se inició el período de la ganancia y cuando se ha completado. Cuando el pago se envíe al banco, verás la fecha de pago y el identificador del pago.
 
 ## <a name="statements"></a>Extractos
 
@@ -97,11 +97,11 @@ Descargar detalles de pagos desglosa los pagos detalladamente. Si un pago se ha 
 
 ## <a name="download-earnings-and-payment-details"></a>Descargar detalles de ganancias y pagos
 
-En la siguiente tabla se describen los campos que aparecen en los archivos de extractos .csv. Ten en cuenta que los campos exactos que veas podría variar a medida que actualizamos los informes.
+En la siguiente tabla se describen los campos que aparecen en los archivos de extractos .csv. Ten en cuenta que los campos exactos que puedes ver variar a medida que seguimos actualizando el informe.
 
 ## <a name="downloading-earnings-transactions"></a>Descargar transacciones de ganancias 
 
-|**Campo**        |**Definición**     |
+|**Field**        |**Definición**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Identificador único que se crea para cada apunte de ganancias. |               
 |Nombre del partner   | El nombre registrado del partner en el Centro de partners.                    |
@@ -113,14 +113,14 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |Número de contrato marco    |Nombre de contrato. |
 |InvoiceNumber| Número de factura|
 |Número de contrato   |Número de contrato de licencia |
-|Id. de suscripción    |Id. de suscripción |
+|Id. de la suscripción    |Id. de la suscripción |
 |Fecha de inicio de contrato   |Fecha de inicio del contrato de licencia |
 |Fecha de finalización de contrato |La fecha de finalización del contrato de licencia, incluidas las renovaciones y las extensiones. |
 |Fecha de inicio de suscripción    |La fecha de inicio de una suscripción.|
 |Fecha de finalización de suscripción  |La fecha de finalización de una suscripción.|
 |SKU de producto    |El número de SKU de un producto.|
 |Nombre del producto   |El nombre del producto de Microsoft.|
-|Fecha de transacción   |La fecha y la hora a las que se realizó la transacción (hora UTC).|
+|Fecha de transacción   |Fecha y hora en que se realizó la transacción (hora UTC).|
 |Recuento de licencias  |El número de licencias vendidas. |
 |Cantidad   |El número de unidades vendidas.| 
 |Cantidad anterior |La cantidad de unidades del último período de ganancias. |
@@ -128,7 +128,7 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |Importe de la transacción |El tipo de cálculo se multiplica por esta cantidad para calcular las ganancias de incentivos.|
 |Moneda de la transacción|La divisa de facturación de licencia por suscripción o volumen. |
 |Incentivo/acelerador  |El acelerador de incentivos que se aplica a esta transacción.|
-|Tipo de cálculo   |El tipo de cálculo.|
+|Tipo de cálculo   |Tipo de cálculo|
 |Fecha de ganancia   |La fecha en la que se reconoce la ganancia. |
 |Período de ganancia     |El período de la ganancia según el programa. |
 |Inicio del período de ganancia   |El inicio del período de ganancia de un programa (hora UTC). |
@@ -151,7 +151,7 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |-------------------|:--------------------|
 |Nombre del partner|El nombre registrado del partner en el Centro de partners.|
 |MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
-|Ubicación       | El país o la región del identificador de MPN V-Org del partner|
+|Ubicación       | El país o la región del identificador de MPN V-Org del partner.|
 |Nombre del programa   |El nombre del programa de incentivos. |
 |Tipo de ganancia   |El tipo de ganancia (reembolso, ajuste). |
 |Divisa de importe del pago|   El tipo de divisa que se usa para el pago-|
@@ -161,12 +161,12 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |Referencia del pago |Un identificador único para cada pago que incluye el Id. de pago que Microsoft proporciona a tu banco. |
 |Descripción del pago|Describe el tipo de pago.| 
 |Fecha de pago|  La fecha en la que se ha realizado el pago. |
-|Mes fiscal del pago|  El mes fiscal del pago.|
-|Año fiscal del pago|   El año fiscal del pago.|
+|Mes fiscal del pago|  Mes fiscal del pago|
+|Año fiscal del pago|   Año fiscal del pago|
 |Método de pago |El modo de pago, por ejemplo, nota de crédito, transferencia bancaria, cheque, etc. |
 |Estado del pago|    En qué punto del proceso de pago se encuentra un pago.| 
-|Fecha del tipo de cambio|    La fecha del tipo de cambio usado para la conversión de divisas.|
+|La fecha del tipo de cambio.|    La fecha del tipo de cambio usado para la conversión de divisas.|
 |Conversión del pago a USD |La conversión de la divisa de pago a USD. |
 |Importe reembolsado| El importe de reembolso pagado.|
-|Período de ganancia |   El período de la ganancia.|
+|Período de ganancia |   Período de ganancia|
 

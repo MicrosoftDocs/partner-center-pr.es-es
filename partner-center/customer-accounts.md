@@ -2,17 +2,17 @@
 title: Cuentas de cliente | Centro de partners
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
+Description: Como partner revendedor, debes crear una cuenta para cada uno de tus clientes en el Centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f6793b1b7524a5f715dd416e17c08679d14f9818
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 6c426f55ac22a1ea497ce6f886874587dcbfcdc6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683514"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585778"
 ---
 # <a name="customer-accounts"></a>Cuentas de cliente
 
@@ -22,12 +22,12 @@ ms.locfileid: "8683514"
 -  Centro de partners para Microsoft Cloud for US Government
 
 
-Como partner revendedor, debes crear una cuenta para cada uno de los clientes en el centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico. Debes crear una cuenta del centro de partners para cada uno de los clientes, incluidos a los que ya tenías antes de migrar el centro de partners.
+Como asociado de distribuidor, debe realizar una cuenta para cada uno de sus clientes en el centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico. Deberá realizar una cuenta de centro de partners para cada uno de los clientes incluidos a los clientes que tenía antes de mover en el centro de partners.
 
-### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>Recursos para trabajar con los clientes en el centro de partners
+### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>Recursos para trabajar con sus clientes en el centro de partners
 
-|**Para ello**   |**Lee este documento para descubrir cómo**   |**Se aplica a**|
+|**Para ello**   |**Lea esta para obtener información sobre cómo**   |**Se aplica a**|
 |-----------------|:----------------------------|:--------------|
-|Obtener nuevos clientes|Los revendedores indirectos se conectan con [proveedores indirectos](indirect-reseller-tasks-in-partner-center.md) a los que denominaremos clientes. También asegurarte de que tu [perfil de negocio](create-a-marketing-profile.md) está actualizado. Cuando un cliente y tú hayáis acordado [trabajar de forma conjunta](responding-to-referrals.md), [agrégalo](add-a-new-customer.md) a tu cuenta. Los partners directos deben leer [solicitar una relación con un cliente](request-a-relationship-with-a-customer.md).|Partners de CSP|
-|Agregar clientes existentes a tu cuenta   | Los clientes que realizas transacciones en otros portales, como Office 365, aparecerán en la [lista de clientes](see-your-customer-list.md) en el centro de partners. Tendrás que [establecer relaciones de revendedor](indirect-reseller-tasks-in-partner-center.md) con otros clientes existentes. Para ello, envíales una [invitación para conectarse](responding-to-referrals.md) contigo en el centro de partners.   | Partners de CSP   |
+|Obtener nuevos clientes|Los revendedores indirectos se conectan con [proveedores indirectos](indirect-reseller-tasks-in-partner-center.md) a los que denominaremos clientes. También asegurarte de que tu [perfil de negocio](create-a-marketing-profile.md) está actualizado. Cuando un cliente y tú hayáis acordado [trabajar de forma conjunta](responding-to-referrals.md), [agrégalo](add-a-new-customer.md) a tu cuenta. Los partners directos deben leer [ Solicitar relación con un cliente](request-a-relationship-with-a-customer.md).|Partners de CSP|
+|Agregar clientes existentes a tu cuenta   | Los clientes transact con en otros portales, como Office 365 aparecerá en su [lista de clientes](see-your-customer-list.md) en el centro de partners. Tendrás que [establecer relaciones de revendedor](indirect-reseller-tasks-in-partner-center.md) con otros clientes existentes. Para ello, enviarles por correo electrónico un [invitación para conectar](responding-to-referrals.md) con usted en el centro de partners.   | Partners de CSP   |
 |Administrar toda la información de los clientes   | Agregar o quitar clientes o [finalizar una relación de cliente](remove-a-relationship.md)|   Partners de CSP |

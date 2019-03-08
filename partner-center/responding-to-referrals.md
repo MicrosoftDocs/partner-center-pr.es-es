@@ -2,29 +2,29 @@
 title: Responder a las referencias | Centro de partners
 ms.topic: article
 ms.date: 01/17/2019
-description: Como partner de Microsoft calificado, puedes evaluar, negociar y responder a las referencias a través del centro de partners.
-author: labrenne
+description: Como asociado de Microsoft completo, puede evaluar, negociar y responder a las referencias a través del centro de partners.
+author: LauraBrenner
 ms.author: labrenne
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9f2a1e9451d64dd51b469b62c7a0bb07f955631
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062303"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585858"
 ---
 # <a name="responding-to-referrals"></a>Responder a las referencias
 
-**Aplicable a**
+**Se aplica a**
 
 -  Centro de partners
 
-Como partner de Microsoft calificado, puede recibir negocios potenciales a través de las referencias. En el centro de partners, puedes administrar clientes potenciales entrantes, responder rápidamente a aquellos que son una buena opción y omitir o rechazar a aquellos que no están. 
+Como un asociado cualificado de Microsoft, puede recibir posibles clientes potenciales de empresa a través de referencias. En el centro de partners, puede administrar clientes potenciales entrantes, responder rápidamente a los que son una buena opción, y omitir o rechazarlas que no. 
 
 > [!IMPORTANT]
-> Hemos hecho algunas actualizaciones a la experiencia de la administración de referencias y están en el proceso de lanzar a todos los partners. Hasta que tu cuenta está configurado para usar la nueva experiencia, algunas cosas que debes funcionen de manera un poco diferente. Estas diferencias se explican a continuación. 
+> Hemos realizado algunas actualizaciones para la administración de la referencia experimentar y están en proceso de lanzar a todos los asociados. Hasta que su cuenta está configurada para usar la nueva experiencia, algunas de las cosas funcionen un poco diferente. Estas diferencias se indican a continuación. 
 
 ## <a name="referral-management"></a>Administración de referencias
 
@@ -32,37 +32,37 @@ Empieza mediante la configuración de un [perfil de negocio](create-a-marketing-
 
 *  Actividades de marketing de Microsoft
 *  Ventas internas de Microsoft y agentes de servicios
-*  Búsqueda de cliente, mediante la herramienta de búsqueda de **[proveedor de soluciones](https://www.microsoft.com/solution-providers/home)** .
+*  Cliente de búsqueda, utilizando el **[proveedor de soluciones](https://www.microsoft.com/solution-providers/home)** herramienta de búsqueda.
 
-Cuando un cliente esté interesado en obtener más información sobre las soluciones y servicios, tendrás enviarle, envía una solicitud de información (RFI). El contacto que se enumeran en tu [perfil de negocio](create-a-marketing-profile.md) específicos de la región y ubicación seleccionados recibirán un correo electrónico generados por el sistema. También puedes ver las RFI entrantes yendo a **las referencias de clientes de las referencias >**.
+Cuando un cliente está interesado en aprender más acerca de las soluciones y servicios, pondremos en contacto mediante el envío de una solicitud de información (RFI). La información de contacto en su [perfil de negocio](create-a-marketing-profile.md) específica a la región y la ubicación seleccionada recibirá un correo electrónico generado por el sistema. También puede ver RFI entrante en el centro de partners, vaya a **referencias > las referencias de cliente**.
 
-Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para tener más posibilidades de éxito, te recomendamos Aceptar o rechazar las nuevas referencias en 24 horas o menos.
+Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para aumentar la probabilidad de éxito, se recomienda aceptar o rechazar las referencias nuevo dentro de 24 horas o menos.
 
 ### <a name="new-referrals"></a>Nuevas referencias
 
-En su **Bandeja de entrada**, te mostraremos una descripción general de la RFI. Desde aquí, puedes decidir si estás interesado en la referencia. 
+En su **Bandeja de entrada**, le mostraremos una visión general de la RFI. Desde aquí, puede decidir si le interesa la referencia. 
 
-Revisa los detalles y no dudes en contacto con el cliente si quieres obtener más información acerca de sus necesidades empresariales. A continuación, Aceptar o rechazar la referencia: 
+Revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información acerca de sus necesidades empresariales. A continuación, acepte o rechace la referencia: 
 
-*  **Aceptar**: Escribe el valor de la cantidad estimada, la fecha estimada de cierre y selecciona **Aceptar**. Pasaremos la referencia a **activa**, lo que significa que vas a interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudar a encontrar ofertas similares en el futuro.
-*  **Rechazar**: crearemos guardarla como **rechazada** y notificar al cliente para elegir otro partner.
+*  **Aceptar**: Escriba el valor de la cantidad estimada, la fecha estimada de cierre y seleccione **Accept**. Moveremos a la referencia a **Active**, lo que significa que se va a participar activamente con el cliente para abordar sus necesidades. También vamos a usar esta información para ayudarle a encontrar trata similar en el futuro.
+*  **Rechazar**: Deberá archivarlo como **rechazada** y notificar a los clientes elegir otro asociado.
 
-Si no responde dentro del período de tiempo asignado (actualmente 14 días), crearemos guardarla como **caducadas** y notificar al cliente para elegir a otro partner.
+Si no responde dentro del período de tiempo asignado (actualmente 14 días), deberá archivar como **expirado** y notificar a los clientes elegir otro asociado.
 
 > [!NOTE]
-> El proceso descrito anteriormente refleja la nueva experiencia. Si tu cuenta aún no está usando esta experiencia, verás una sección de **nuevo** en lugar de la **Bandeja de entrada**. Para las nuevas referencias, tendrás 72 horas para elegir **me interesa** (que se mueve la referencia a una sección independiente de la **evaluación** y muestra más detalles) o **No, gracias** (que archiva la referencia). Si seleccionas **me interesa**, tendrás 7 días para aceptar la referencia.
+> El proceso descrito anteriormente refleja la nueva experiencia. Si aún no está utilizando esta experiencia en su cuenta, verá un **New** sección en lugar de **Bandeja de entrada**. Para las nuevas referencias, tendrá 72 horas que elija **que me interesan** (que mueve la referencia a otro **evaluación** sección y se muestran más detalles) o **No, gracias**(que archiva la referencia). Si selecciona **que me interesan**, tendrá 7 días para aceptar la referencia.
 
-### <a name="active-referrals"></a>Referencias de activas
+### <a name="active-referrals"></a>Referencias a activos
 
-Trabaja para cerrar el trato con el cliente. Cuando hayas terminado, selecciona **ganados** o **perdidos** para notificar el resultado, por lo que nos podemos archivar según corresponda.
+Trabaja para cerrar el trato con el cliente. Cuando haya terminado, seleccione **ganó** o **perdidos** para informar del resultado, por lo que nos podemos archivarlos en consecuencia.
 
 ### <a name="archived-referrals"></a>Referencias archivadas
 
-Revisa tus últimos referencias (**ganados, perdido, rechazada** o **ha caducado**) en cualquier momento. 
+Revisar las referencias a los últimos (**ganado, perdido, rechazado** o **expirado**) en cualquier momento. 
 
 ## <a name="getting-more-referrals"></a>Obtener más referencias
 
-Estas son algunas sugerencias que te ayudarán a obtener más referencias adecuadas para tu empresa:
+Estas son algunas sugerencias que le ayudarán a obtener más referencias que son adecuadas para su negocio:
 
 *  **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de negocio](create-a-marketing-profile.md). Quita las palabras clave que generaría referencias que no te interesan. Si no te interesa trabajar con empresas de un tamaño determinado, actualiza esta preferencia.
 
