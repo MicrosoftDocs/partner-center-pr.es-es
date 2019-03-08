@@ -3,20 +3,20 @@ title: Competencia de aplicaciones empresariales en la nube
 ms.topic: article
 ms.date: 10/29/2018
 description: La competencia de aplicaciones empresariales en la nube es para partners especializados en la implementación y administración de Microsoft Dynamics 365 para sus clientes.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
-keywords: competencia,competencias, aplicaciones empresariales en la nube
+keywords: competencia, competencias, aplicaciones empresariales en la nube
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6b962539a106f2b18d116bf3ca2f4b30084076a1
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794578"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583948"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="f6ac5-104">Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="f6ac5-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="f2908-104">Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="f2908-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

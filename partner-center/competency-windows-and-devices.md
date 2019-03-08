@@ -3,20 +3,20 @@ title: Competencia de Windows y dispositivos
 ms.topic: article
 ms.date: 10/29/2018
 description: Comparte nuestro objetivo de que mil millones de dispositivos tengan instalado Windows 10. Esta oportunidad abarca servicios, aplicaciones y dispositivos. Esta competencia te ofrece herramientas, contenido y recursos que te ayudarán a crear y mejorar tu rentable práctica de Windows 10.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
-keywords: competencia,competencias,Windows y dispositivos
+keywords: competencia, competencias, Windows y dispositivos
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795588"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584618"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="84e53-106">Para obtener información sobre los requisitos para conseguir esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="84e53-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="0e1b6-106">Para obtener información sobre los requisitos para lograr esta competencia, visita el [portal de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="0e1b6-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

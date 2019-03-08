@@ -1,7 +1,7 @@
 ---
-title: Analizar el rendimiento de los revendedores indirectos | El centro de partners
+title: Analizar el rendimiento de los revendedores indirectos | Centro de partners
 ms.date: 07/12/2018
-Description: Get data about the performance of your indirect resellers to identify successes as well as areas that may need more attention.
+Description: Obtener datos sobre el rendimiento de los revendedores indirectos para identificar los éxitos, así como las áreas que pueden que necesite más atención.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -9,54 +9,54 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ddf55ceef4ec9d47e53d4697b8d54799ba70f6fd
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: c16025637c80f7219da3655c5cc8fa051f7fe01e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917657"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587308"
 ---
-# <a name="analyze-indirect-resellers-performance"></a><span data-ttu-id="9cf2c-103">Analizar el rendimiento de revendedores indirectos</span><span class="sxs-lookup"><span data-stu-id="9cf2c-103">Analyze indirect resellers performance</span></span> 
+# <a name="analyze-indirect-resellers-performance"></a><span data-ttu-id="24cc1-104">Analizar el rendimiento de los revendedores indirectos</span><span class="sxs-lookup"><span data-stu-id="24cc1-104">Analyze indirect resellers performance</span></span> 
 
-**<span data-ttu-id="9cf2c-104">Se aplica a</span><span class="sxs-lookup"><span data-stu-id="9cf2c-104">Applies to</span></span>**
-- <span data-ttu-id="9cf2c-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="9cf2c-105">Partner Center</span></span>
+<span data-ttu-id="24cc1-105">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="24cc1-105">**Applies to**</span></span>
+- <span data-ttu-id="24cc1-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="24cc1-106">Partner Center</span></span>
 
-<span data-ttu-id="9cf2c-106">Los datos determinan las decisiones comerciales.</span><span class="sxs-lookup"><span data-stu-id="9cf2c-106">Data drives business decisions.</span></span> <span data-ttu-id="9cf2c-107">Usa las métricas de la página de **análisis de revendedor** para identificar los éxitos, sus distribuidores indirectos y qué áreas necesitan más atención.</span><span class="sxs-lookup"><span data-stu-id="9cf2c-107">Use the metrics in the **Reseller analytics** page to identify your successes, your indirect resellers' successes, and areas that need more attention.</span></span> <span data-ttu-id="9cf2c-108">Usa esta información a medida que planees nuevo objetivos empresariales.</span><span class="sxs-lookup"><span data-stu-id="9cf2c-108">Use this information as you plan new business goals.</span></span>
+<span data-ttu-id="24cc1-107">Los datos determinan las decisiones comerciales.</span><span class="sxs-lookup"><span data-stu-id="24cc1-107">Data drives business decisions.</span></span> <span data-ttu-id="24cc1-108">Usa las métricas de la página **Análisis de revendedores** para identificar tus logros, los de tus revendedores indirectos y qué áreas necesitan más atención.</span><span class="sxs-lookup"><span data-stu-id="24cc1-108">Use the metrics in the **Reseller analytics** page to identify your successes, your indirect resellers' successes, and areas that need more attention.</span></span> <span data-ttu-id="24cc1-109">Usa esta información a medida que planees nuevo objetivos empresariales.</span><span class="sxs-lookup"><span data-stu-id="24cc1-109">Use this information as you plan new business goals.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="9cf2c-109">Análisis de revendedores indirectos solo está disponible para los partners en el programa de proveedor de soluciones en la nube.</span><span class="sxs-lookup"><span data-stu-id="9cf2c-109">Indirect resellers analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="24cc1-110">El análisis de revendedores indirectos solo está disponible para los partners del programa Proveedor de soluciones en la nube.</span><span class="sxs-lookup"><span data-stu-id="24cc1-110">Indirect resellers analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
-<span data-ttu-id="9cf2c-110">Estamos siguiendo estas métricas:</span><span class="sxs-lookup"><span data-stu-id="9cf2c-110">We are tracking the following metrics:</span></span>
+<span data-ttu-id="24cc1-111">Estamos siguiendo estas métricas:</span><span class="sxs-lookup"><span data-stu-id="24cc1-111">We are tracking the following metrics:</span></span>
 
-**<span data-ttu-id="9cf2c-111">Resumen</span><span class="sxs-lookup"><span data-stu-id="9cf2c-111">Summary</span></span>**  
- - <span data-ttu-id="9cf2c-112">**Los revendedores totales**: es el número de revendedores activos el último día de la suscripción</span><span class="sxs-lookup"><span data-stu-id="9cf2c-112">**Total resellers**: Count of active resellers on the last day of the subscription</span></span>  
- - <span data-ttu-id="9cf2c-113">**Los nuevos revendedores**: es el número de nuevos revendedores indirectos para el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="9cf2c-113">**New resellers**: Count of new indirect resellers for the specified time period</span></span>  
- - <span data-ttu-id="9cf2c-114">**Los revendedores activos**: recuento de revendedores indirectos donde la MPNID es suscripción al menos 1, y no se desactivan el estado de la suscripción</span><span class="sxs-lookup"><span data-stu-id="9cf2c-114">**Active resellers**: Count of indirect resellers where the MPNID is at least 1 subscription, and where the subscription status is not deprovisioned</span></span>  
- - <span data-ttu-id="9cf2c-115">**Los revendedores con transacciones**: es el número de revendedores indirectos con una suscripción vendidos en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="9cf2c-115">**Transacting resellers**: Count of indirect resellers with a subscription sold in the specified time period</span></span>  
+<span data-ttu-id="24cc1-112">**Resumen**</span><span class="sxs-lookup"><span data-stu-id="24cc1-112">**Summary**</span></span>  
+ - <span data-ttu-id="24cc1-113">**Total de los distribuidores**: Recuento de distribuidores activos en el último día de la suscripción</span><span class="sxs-lookup"><span data-stu-id="24cc1-113">**Total resellers**: Count of active resellers on the last day of the subscription</span></span>  
+ - <span data-ttu-id="24cc1-114">**Los distribuidores de nuevo**: Recuento de los revendedores indirectos de nuevo para el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="24cc1-114">**New resellers**: Count of new indirect resellers for the specified time period</span></span>  
+ - <span data-ttu-id="24cc1-115">**Revendedores activos**: Recuento de los revendedores indirectos donde el MPNID es al menos 1 suscripción, y no se desaprovisiona el estado de la suscripción</span><span class="sxs-lookup"><span data-stu-id="24cc1-115">**Active resellers**: Count of indirect resellers where the MPNID is at least 1 subscription, and where the subscription status is not deprovisioned</span></span>  
+ - <span data-ttu-id="24cc1-116">**Intercambiar los distribuidores**: Recuento de los revendedores indirectos con una suscripción se vende en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="24cc1-116">**Transacting resellers**: Count of indirect resellers with a subscription sold in the specified time period</span></span>  
 
-**<span data-ttu-id="9cf2c-116">Revendedores por mercado</span><span class="sxs-lookup"><span data-stu-id="9cf2c-116">Resellers by market</span></span>**  
- - <span data-ttu-id="9cf2c-117">Revendedores totales por ubicación geográfica</span><span class="sxs-lookup"><span data-stu-id="9cf2c-117">Total resellers by geographic location</span></span>  
+<span data-ttu-id="24cc1-117">**Revendedores por mercado**</span><span class="sxs-lookup"><span data-stu-id="24cc1-117">**Resellers by market**</span></span>  
+ - <span data-ttu-id="24cc1-118">Total de revendedores por ubicación geográfica</span><span class="sxs-lookup"><span data-stu-id="24cc1-118">Total resellers by geographic location</span></span>  
 
-**<span data-ttu-id="9cf2c-118">Revendedores superiores con suscripciones vendidas</span><span class="sxs-lookup"><span data-stu-id="9cf2c-118">Top resellers by subscriptions sold</span></span>**
- - <span data-ttu-id="9cf2c-119">Una lista de revendedores, ordenados por el número de suscripciones que han vendido</span><span class="sxs-lookup"><span data-stu-id="9cf2c-119">A list of resellers, sorted by the number of subscriptions they've sold</span></span>  
+<span data-ttu-id="24cc1-119">**Venden principales revendedores por las suscripciones**</span><span class="sxs-lookup"><span data-stu-id="24cc1-119">**Top resellers by subscriptions sold**</span></span>
+ - <span data-ttu-id="24cc1-120">Lista de revendedores ordenados por el número de suscripciones que han vendido</span><span class="sxs-lookup"><span data-stu-id="24cc1-120">A list of resellers, sorted by the number of subscriptions they've sold</span></span>  
 
-**<span data-ttu-id="9cf2c-120">Productos principales por número de suscripción</span><span class="sxs-lookup"><span data-stu-id="9cf2c-120">Top products by subscription count</span></span>**  
- - <span data-ttu-id="9cf2c-121">**Dynamics 365**: productos de Dynamics 365 ordenados por suscripciones vendidas</span><span class="sxs-lookup"><span data-stu-id="9cf2c-121">**Dynamics 365**: Dynamics 365 products sorted by subscriptions sold</span></span>  
- - <span data-ttu-id="9cf2c-122">**EMS**: número de suscripciones de servicios de administración empresarial vendidas</span><span class="sxs-lookup"><span data-stu-id="9cf2c-122">**EMS**: Number of Enterprise Management Services subscriptions sold</span></span>  
- - <span data-ttu-id="9cf2c-123">**Microsoft 365**: las suscripciones de número de Microsoft 365 vendidas</span><span class="sxs-lookup"><span data-stu-id="9cf2c-123">**Microsoft 365**: Number of Microsoft 365 subscriptions sold</span></span>  
- - <span data-ttu-id="9cf2c-124">**Office 365**: los productos de Office 365 ordenados por suscripciones vendidas</span><span class="sxs-lookup"><span data-stu-id="9cf2c-124">**Office 365**: Office 365 products sorted by subscriptions sold</span></span>  
+<span data-ttu-id="24cc1-121">**Productos principales por recuento de suscripciones**</span><span class="sxs-lookup"><span data-stu-id="24cc1-121">**Top products by subscription count**</span></span>  
+ - <span data-ttu-id="24cc1-122">**Dynamics 365**: Venden productos de Dynamics 365 ordenados por las suscripciones</span><span class="sxs-lookup"><span data-stu-id="24cc1-122">**Dynamics 365**: Dynamics 365 products sorted by subscriptions sold</span></span>  
+ - <span data-ttu-id="24cc1-123">**EMS**: Número de suscripciones de servicios de administración empresarial vendidos</span><span class="sxs-lookup"><span data-stu-id="24cc1-123">**EMS**: Number of Enterprise Management Services subscriptions sold</span></span>  
+ - <span data-ttu-id="24cc1-124">**Microsoft 365**: Número de suscripciones de Microsoft 365 vendidos</span><span class="sxs-lookup"><span data-stu-id="24cc1-124">**Microsoft 365**: Number of Microsoft 365 subscriptions sold</span></span>  
+ - <span data-ttu-id="24cc1-125">**Office 365**: Venden productos de Office 365 ordenados por las suscripciones</span><span class="sxs-lookup"><span data-stu-id="24cc1-125">**Office 365**: Office 365 products sorted by subscriptions sold</span></span>  
 
-**<span data-ttu-id="9cf2c-125">Nuevas suscripciones</span><span class="sxs-lookup"><span data-stu-id="9cf2c-125">New subscriptions</span></span>**  
- - <span data-ttu-id="9cf2c-126">El número de las nuevas suscripciones agregadas por fecha</span><span class="sxs-lookup"><span data-stu-id="9cf2c-126">The number of new subscriptions added by date</span></span>  
+<span data-ttu-id="24cc1-126">**Nuevas suscripciones**</span><span class="sxs-lookup"><span data-stu-id="24cc1-126">**New subscriptions**</span></span>  
+ - <span data-ttu-id="24cc1-127">Número de nuevas suscripciones agregadas hasta la fecha</span><span class="sxs-lookup"><span data-stu-id="24cc1-127">The number of new subscriptions added by date</span></span>  
 
-**<span data-ttu-id="9cf2c-127">Renovación de suscripción</span><span class="sxs-lookup"><span data-stu-id="9cf2c-127">Subscription churn</span></span>**  
- - <span data-ttu-id="9cf2c-128">**Las nuevas suscripciones**: es el número de las nuevas suscripciones agregadas por fecha</span><span class="sxs-lookup"><span data-stu-id="9cf2c-128">**New subscriptions**: Count of new subscriptions added by date</span></span>  
- - <span data-ttu-id="9cf2c-129">**Las suscripciones de Deprovisioned**: recuento de suscripciones de baja o suspendido por fecha</span><span class="sxs-lookup"><span data-stu-id="9cf2c-129">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+<span data-ttu-id="24cc1-128">**Renovación de suscripción**</span><span class="sxs-lookup"><span data-stu-id="24cc1-128">**Subscription churn**</span></span>  
+ - <span data-ttu-id="24cc1-129">**Las nuevas suscripciones**: Recuento de suscripciones nuevas agregadas por fecha</span><span class="sxs-lookup"><span data-stu-id="24cc1-129">**New subscriptions**: Count of new subscriptions added by date</span></span>  
+ - <span data-ttu-id="24cc1-130">**Desaprovisiona suscripciones**: Recuento de suscripciones, cancelar el aprovisionamiento o suspendido por fecha</span><span class="sxs-lookup"><span data-stu-id="24cc1-130">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-**<span data-ttu-id="9cf2c-130">Detalles del nuevo revendedor</span><span class="sxs-lookup"><span data-stu-id="9cf2c-130">New reseller details</span></span>**  
- - <span data-ttu-id="9cf2c-131">**Nombre del revendedor**: nombres de revendedores indirectos</span><span class="sxs-lookup"><span data-stu-id="9cf2c-131">**Reseller name**: Names of indirect resellers</span></span>  
- - <span data-ttu-id="9cf2c-132">**Ubicación**: mercados donde los revendedores indirectos trabajan</span><span class="sxs-lookup"><span data-stu-id="9cf2c-132">**Location**: Markets where the indirect resellers operate</span></span>  
- - <span data-ttu-id="9cf2c-133">**Las suscripciones**: número de suscripciones que se ha vendido el revendedor</span><span class="sxs-lookup"><span data-stu-id="9cf2c-133">**Subscriptions**: Number of subscriptions the reseller has sold</span></span>  
- - <span data-ttu-id="9cf2c-134">**Licencias**: el número Total de licencias que ha vendido el revendedor en todas las suscripciones</span><span class="sxs-lookup"><span data-stu-id="9cf2c-134">**Licenses**: Total number of licenses the reseller has sold across all subscriptions</span></span>  
+<span data-ttu-id="24cc1-131">**Nuevos detalles de distribuidor**</span><span class="sxs-lookup"><span data-stu-id="24cc1-131">**New reseller details**</span></span>  
+ - <span data-ttu-id="24cc1-132">**Nombre del distribuidor**: Nombres de los revendedores indirectos</span><span class="sxs-lookup"><span data-stu-id="24cc1-132">**Reseller name**: Names of indirect resellers</span></span>  
+ - <span data-ttu-id="24cc1-133">**Ubicación**: Mercados en los revendedores indirectos trabajan</span><span class="sxs-lookup"><span data-stu-id="24cc1-133">**Location**: Markets where the indirect resellers operate</span></span>  
+ - <span data-ttu-id="24cc1-134">**Suscripciones**: Número de suscripciones que se ha vendido el revendedor</span><span class="sxs-lookup"><span data-stu-id="24cc1-134">**Subscriptions**: Number of subscriptions the reseller has sold</span></span>  
+ - <span data-ttu-id="24cc1-135">**Licencias**: Número total de licencias que el revendedor ha vendido en todas las suscripciones</span><span class="sxs-lookup"><span data-stu-id="24cc1-135">**Licenses**: Total number of licenses the reseller has sold across all subscriptions</span></span>  
   
   
