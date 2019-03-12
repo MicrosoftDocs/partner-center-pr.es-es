@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Documentación para servicios de desarrolladores y del panel de partners
-description: Si inicias sesión el panel para publicar aplicaciones, obtener datos de las aplicaciones de escritorio, obtener la certificación de hardware, publicar controladores para Windows Update o realizar transacciones como revendedor, esta documentación es para ti.
-author: v-chmccl
+title: Documentación para servicios de desarrolladores y del Centro de partners
+ms.date: 10/29/2018
+description: 'Si inicias sesión en el Centro de partners para publicar aplicaciones, obtener datos de las aplicaciones de escritorio, obtener la certificación de hardware, publicar controladores para Windows Update o realizar transacciones como revendedor, esta documentación es para ti.'
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978562"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>Documentación para servicios del panel</h1>
-        <p>Si usas el panel para publicar aplicaciones y juegos, obtener datos de las aplicaciones de escritorio, obtener la certificación de hardware, publicar controladores para Windows Update o realizar transacciones como revendedor, esta documentación es para ti.</p>
+        <h1>Documentación para servicios del Centro de partners</h1>
+        <p>Si usas el Centro de partners para publicar aplicaciones y juegos, obtener datos de las aplicaciones de escritorio, obtener la certificación de hardware, publicar controladores para Windows Update o realizar transacciones como revendedor, esta documentación es para ti.</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -73,7 +70,7 @@ ms.locfileid: "1978562"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Partners de hardware</h3>
+                                                    <h3>Asociados de hardware</h3>
                                                     <p>Usa el panel para enviar los sistemas de hardware y controladores para su certificación, realizar distribución de paquetes piloto de prueba y entregarlos mediante Windows Update.</p>
                                                 </div>
                                             </div>
@@ -92,8 +89,8 @@ ms.locfileid: "1978562"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Partners de CSP y MPN</h3>
-                                                    <p>Aprende a usar el panel para crear, administrar y hacer crecer tu negocio de revendedor y tu asociación con Microsoft.</p>
+                                                    <h3>Asociados de CSP y MPN</h3>
+                                                    <p>Aprende a usar el Centro de partners para crear, administrar y hacer crecer tu negocio de distribución y tu asociación con Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -111,8 +108,8 @@ ms.locfileid: "1978562"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>API y SDK de desarrolladores</h3>
-                                                    <p>Usa las API para integrar tus clientes, pedidos, facturación y sistemas de soporte técnico con el panel de partners de Microsoft.</p>
+                                                    <h3>API y SDK para desarrolladores</h3>
+                                                    <p>Usa las API para integrar clientes, pedidos, facturación y sistemas de soporte técnico con el Centro de partners de Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>
