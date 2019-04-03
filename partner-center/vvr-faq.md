@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cupones de formación, seguridad de software, aprendizaje, validación los cupones, asiento de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584458"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863993"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>PREGUNTAS MÁS FRECUENTES: Mediante la herramienta de validación del vale y canje 
 
@@ -48,6 +48,9 @@ A partir del 31 de marzo de 2019, todos los asociados administrarán sus asiento
 
 - Centro de partners requiere que inicie sesión con una cuenta profesional (AAD).  CHIP actualmente usa la cuenta personal para inicio de sesión (MSA o Live ID).  Al navegar desde VVR en Centro de partners a CHIP, tendrá que iniciar sesión en el CHIP usando la MSA o Live ID que está registrado con un CHIP.
 
+**¿Cómo puede mi empresa acceder a la herramienta VVR?**
+
+- Para obtener acceso a la herramienta VVR, su empresa debe inscribirse en el programa SATV o el programa de DPS SA.
 Para obtener información sobre cómo inscribirse en SATV, lea [programa Software Assurance entrenamiento asiento (SATV) en el centro de partners](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

@@ -6,12 +6,12 @@ description: Trabaja con otros partners de CSP para satisfacer las necesidades d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583968"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320728"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 
@@ -25,7 +25,7 @@ El programa Proveedor de soluciones en la nube (CSP) de Microsoft ofrece oportun
 
 En este modelo, también conocido como el modelo de dos niveles, los proveedores indirectos y distribuidores indirectos trabajan juntos para vender servicios en la nube de Microsoft a organizaciones en varias ubicaciones, segmentos verticales y sectores. 
 
-### <a name="indirect-providers"></a>Proveedores indirectos 
+### <a name="indirect-providers"></a>Proveedores indirectos
 
 Los proveedores indirectos (también conocidos como distribuidores) compran productos y suscripciones directamente a Microsoft y, después, ofrecerán estas soluciones a los clientes a través de los revendedores. Trabajar con revendedores indirectos permite a los proveedores expandir su alcance y su base de clientes. 
 
@@ -52,5 +52,4 @@ La característica multicanal del Centro de partners admite escenarios cuando un
 El soporte técnico para multicanal también está disponible en las ofertas de la nube de Microsoft a nivel nacional.
 
 > [!IMPORTANT]  
-> Actualmente, un partner en CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de la característica se anunciarán a través de los canales de comunicación habituales, incluido el Centro de partners. 
-
+> Un asociado en el programa CSP no revender servicios en línea a otro asociado en el programa CSP actualmente. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre versiones de características o cambios en la directiva se anunciarán a través de los canales habituales de las comunicaciones, incluidos [anuncios de centro de partners](https://partner.microsoft.com/en-us/pcv/announcements).

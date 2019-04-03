@@ -1,17 +1,17 @@
 ---
 title: Asociación con los revendedores indirectos en CSP | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: Como proveedor o distribuidor indirecto, puedes colaborar con los revendedores indirectos para expandir tu alcance.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584378"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656396"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -86,16 +86,7 @@ Para las suscripciones existentes, si decide trabajar con un revendedor indirect
 | Dar al revendedor créditos para incentivos | Asociar el revendedor con la suscripción (nueva o existente) | En la página **Nueva suscripción** |
 | Delegar la atención al cliente al revendedor en determinadas suscripciones | Selecciona el revendedor desde la lista **Contacto de soporte técnico designado** | En la página de detalles de la suscripción: Seleccione el cliente de su **clientes** página y, después, seleccione la suscripción del cliente **suscripciones** página |
 
-Hoy en día, proveedores indirectos pueden usar el panel del centro de partners a pedido y, opcionalmente, seleccione un revendedor indirecto, como el PartnerOnRecord. Si no elijan un revendedor indirecto, tratarlo como una transacción de nivel 1 y incentivize por lo tanto, el proveedor indirecto. Si elige uno, tratamos el pedido como transacción de nivel 2 y nos incentivize tanto el proveedor indirecto como revendedor indirecto en consecuencia:
 
- 
-
-Hay también una experiencia donde un proveedor indirecto también puede actualizar el PartnerOnRecord para las suscripciones existentes:
-
- 
-
-¿Sabrá si tenemos documentación existente en forma indirecta proveedores deben administrar la PartnerOnRecord vuelva establecer?
-El motivo para que pedir esto es porque parece que es bastante importante conjunto de transacciones de 2 niveles que no se configuraron correctamente por proveedores indirectos, lo que pago incentivo incorrecto. Paso del tiempo, los asociados había realizado esto e iniciado ponerse en contacto con Microsoft para obtener un backpay en incentivo. Si no es necesario cobertura de documentación de esta área, me gustaría obtener la ayuda para reunir a uno.
 
 
 
@@ -177,7 +168,7 @@ Cuando los clientes quieran comprar nuevas suscripciones, actualizar los ya exis
 
 7.  Selecciona **Enviar** cuando hayas acabado. 
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 Para obtener más información sobre la administración de suscripciones y las cuentas de cliente, consulta:
 

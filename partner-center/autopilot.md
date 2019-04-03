@@ -2,17 +2,17 @@
 title: Personalizar la experiencia de out-of-box de un dispositivo con perfiles de Windows Autopilot | Centro de partners
 description: Preconfigurar la experiencia de out-of-box de un dispositivo con perfiles de Autopilot.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, autopilot de windows, autopilot de microsoft, una implementación sin retoques, oobe, pantallas de inicio de sesión, out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586918"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162225"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar la experiencia de out-of-box de un dispositivo con perfiles de Windows Autopilot
 
@@ -27,7 +27,7 @@ Si no ya está familiarizado con el piloto automático, revise la información e
 - [Información general de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Con la característica de Windows Autopilot en Centro de partners, puede crear perfiles personalizados para aplicar a los dispositivos cliente. La siguiente configuración del perfil estaba disponible en el momento en que se publicó este artículo:
 
@@ -45,7 +45,7 @@ Se aplican los siguientes permisos de administración de perfil y el dispositivo
 
 - Los asociados de CSP pueden seguir administrar perfiles de Autopilot para los clientes existentes con los que tienen relaciones de distribuidor, incluso si los clientes han quitado privilegios de administración delegada del asociado.
 
-- Puede administrar los dispositivos existentes para los clientes que se han agregado por el usuario o por otro asociado de CSP.
+- Puede administrar los dispositivos existentes para los clientes que se han agregado.
 
 - No puede administrar dispositivos de que su cliente ha cargado en Microsoft Store para empresas o el Portal de Microsoft Intune.
 

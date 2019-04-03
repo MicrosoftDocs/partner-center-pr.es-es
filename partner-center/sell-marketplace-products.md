@@ -1,18 +1,18 @@
 ---
 title: Vender suscripciones a productos de Azure Marketplace | Centro de partners
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Puede usar el centro de partners a vender a sus clientes las suscripciones a Software como servicio (SaaS) productos publican en Azure Marketplace por fabricantes de Software independientes (ISV).
 author: JnHs
 ms.author: jenhayes
 keywords: las suscripciones, Marketplace, tercero, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587718"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508962"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vender suscripciones a productos de Azure Marketplace
 
@@ -32,5 +32,4 @@ Para ver todas las ofertas disponibles, seleccione **Marketplace** desde el men�
 
 Adquisición de suscripciones a productos SaaS de Azure Marketplace sigue el mismo proceso que la adquisición de suscripciones a productos de Microsoft. Para obtener más información, consulte [crear una nueva suscripción](create-a-new-subscription.md). Tenga en cuenta que algunas ofertas no estén disponibles para determinados clientes dependiendo de si el ISV es compatible con país o región de facturación del cliente o por otros factores.
 
-Próximamente, se permitirá utilizar Partner Center API para administrar las suscripciones de Azure Marketplace para sus clientes. 
-
+También puede usar [Partner Center API](https://docs.microsoft.com/en-us/partner-center/develop/) para administrar las suscripciones de Azure Marketplace para sus clientes.

@@ -1,19 +1,19 @@
 ---
 title: Crear, suspender o cancelar suscripciones de clientes | Centro de partners
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: suscripción, crear nuevos, agregar la suscripción, suspender, Cancelar,
+Keywords: suscripción, crear nuevos, agregar la suscripción, suspender, Cancelar, suspensión
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584408"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756922"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -56,7 +56,7 @@ Los partners pueden suspender o cancelar una suscripción si el cliente lo solic
 
 ### <a name="suspend-a-subscription"></a>Suspender una suscripción
 
-Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podrán iniciar sesión ni acceder a los servicios. Los administradores aún pueden iniciar sesión y acceder a los datos.
+Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podrán iniciar sesión ni acceder a los servicios.
 
 1.  En el menú del centro de partners, seleccione **clientes**, a continuación, elija un cliente de la lista.
 2.  Selecciona la suscripción que deseas administrar.

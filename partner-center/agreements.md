@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evensma
 keywords: Acuerdos en la nube de Microsoft, plantillas de contrato de cliente, acuerdos de clientes CSP, contrato de Microsoft en la nube, MCA, CSP, donde puedo vender a través de CSP?, CSP países y regiones, MCAs CSP en varios idiomas, CSP Norteamérica, Centroamérica CSP, sur de CSP Estados Unidos, Caribe CSP, nube de Microsoft CSP para gobierno de EE. UU., CSP Microsoft Cloud Alemania, CSP Oriente, África CSP, CSP Europa, Asia CSP, Pacífico CSP, MCAs CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 443d881a8a11149366680cb7378aad350ea19aa1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585728"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320758"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de Microsoft Cloud por región e idioma
 
@@ -52,7 +52,7 @@ Si no está seguro de qué regiones y mercados puede vender, encontrar la ubicac
 - Bonaire, Saba y San Eustaquio: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Brasil: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [portugués (Brasil)](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_BRA_PTB_Sep20172_CR.pdf)
 - Islas Vírgenes de Reino Unido: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
-- Canadá: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [francés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_FRE_Sep20172_CR.pdf)
+- Canadá: [Inglés](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf), [francés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_FRE_Sep20172_CR.pdf)
 - Islas Caimán: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - Chile: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [español](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
 - Colombia [inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [español](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)

@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584708"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988219"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584708"
 -  Centro de partners
 
 >[!IMPORTANT]
->En este artículo se explica cómo empezar a usar Microsoft Partner Network (MPN) pertenencia ventajas en el centro de partners (anteriormente conocido como centro de partners): este sitio. Si aún no ha recibido una invitación para mover información de su compañía de Partner Membership Center (PMC) para el centro de partners, debe seguir administrar sus ventajas de la pertenencia a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
+>En este artículo se explica cómo empezar a usar sus beneficios de suscripción de Microsoft Partner Network (MPN) en el centro de partners: este sitio. Si aún no ha recibido una invitación para mover información de su compañía de Partner Membership Center (PMC) para el centro de partners, debe seguir administrar sus ventajas de la pertenencia a MPN en PMC. [Iniciar sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) ahora en el PMC.   
 
 Cuando te unes a Microsoft Partner Network (MPN), obtienes acceso a las ventajas de suscripción que te ayudarán a construir y hacer crecer tu negocio. Si aún no eres miembro de MPN, puedes unirte en el [sitio MPN](https://partner.microsoft.com/membership).
 
@@ -102,7 +102,7 @@ Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**
 ) y, a continuación, selecciona **Enviar solicitud**.
 
 
-#### <a name="see-also"></a>Consulte también
+#### <a name="see-also"></a>Vea también
 
 [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 

@@ -1,30 +1,27 @@
 ---
 title: Responder a las referencias | Centro de partners
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: Como asociado de Microsoft completo, puede evaluar, negociar y responder a las referencias a través del centro de partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585858"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756902"
 ---
-# <a name="responding-to-referrals"></a>Responder a las referencias
+# <a name="respond-to-referrals"></a>Responder a las referencias
 
 **Se aplica a**
 
 -  Centro de partners
 
 Como un asociado cualificado de Microsoft, puede recibir posibles clientes potenciales de empresa a través de referencias. En el centro de partners, puede administrar clientes potenciales entrantes, responder rápidamente a los que son una buena opción, y omitir o rechazarlas que no. 
-
-> [!IMPORTANT]
-> Hemos realizado algunas actualizaciones para la administración de la referencia experimentar y están en proceso de lanzar a todos los asociados. Hasta que su cuenta está configurada para usar la nueva experiencia, algunas de las cosas funcionen un poco diferente. Estas diferencias se indican a continuación. 
 
 ## <a name="referral-management"></a>Administración de referencias
 
@@ -48,9 +45,6 @@ Revise los detalles y no dude en ponerse en contacto con el cliente si desea obt
 *  **Rechazar**: Deberá archivarlo como **rechazada** y notificar a los clientes elegir otro asociado.
 
 Si no responde dentro del período de tiempo asignado (actualmente 14 días), deberá archivar como **expirado** y notificar a los clientes elegir otro asociado.
-
-> [!NOTE]
-> El proceso descrito anteriormente refleja la nueva experiencia. Si aún no está utilizando esta experiencia en su cuenta, verá un **New** sección en lugar de **Bandeja de entrada**. Para las nuevas referencias, tendrá 72 horas que elija **que me interesan** (que mueve la referencia a otro **evaluación** sección y se muestran más detalles) o **No, gracias**(que archiva la referencia). Si selecciona **que me interesan**, tendrá 7 días para aceptar la referencia.
 
 ### <a name="active-referrals"></a>Referencias a activos
 

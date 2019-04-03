@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: bill directa, la transición, revendedor indirecto
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587688"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682483"
 ---
 **Se aplica a:**
  - Partners de CSP
@@ -30,7 +30,7 @@ Podrá inscribirse en el programa de revendedor indirecto con su inquilino de fa
 
 2. Inicie sesión en Partner Center como el administrador global para el inquilino directo de facturas que está realizando la transición a un revendedor indirecto.
 
-![Introducción](images/direct/direct1.png) 
+![Información general](images/direct/direct1.png) 
 
 3. Revise los detalles del asociado en el formulario de inscripción.
 
@@ -120,8 +120,6 @@ Su proveedor indirecto no puede enviar pedidos para los clientes existentes de f
 
 6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
 
->[!Note]
->Actualmente, Microsoft Store para empresas no permite a los clientes Aceptar una invitación de revendedor indirecto de un asociado directo de facturas existente. Microsoft Store para empresas admite esto en un futuro próximo. Hasta entonces, continúe para enviar pedidos para los clientes existentes de factura directa mediante la funcionalidad de directo de facturas.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Administración de sus clientes directo de facturas y los clientes de revendedor indirecto
 
@@ -173,20 +171,24 @@ Además de nuevas compras, no se puede tener acceso a las siguientes funcionalid
 
 - No se puede generar las invitaciones a los clientes que soliciten una relación de revendedor directa. El **solicitar una relación de revendedor** opción **clientes** en el centro de partners no estará disponible. 
 
-No se ven afectadas las suscripciones existentes de directo de facturas. Se siguen siendo válidos y son se renueva automáticamente. Seguirá facturando directamente por Microsoft hasta que se cancelan. Todavía puede administrar las suscripciones existentes de las maneras siguientes: 
+>[!Note] 
+>Si ya se ha inscrito al inquilino de asociado directo de facturas como revendedor indirecto, es posible enviar invitaciones a los clientes que soliciten una relación de revendedor indirecto en lugar de directo de facturas. 
+
+- No se puede crear a un nuevo inquilino de espacio aislado. Cada inquilino de asociado directo de facturas puede crear a un inquilino de espacio aislado con el fin de integración de la API de facturación directa. Si no ha creado uno anteriormente, no podrá hacerlo una vez que dirigir la funcionalidad de facturación asociado se ha restringido. 
+
+## <a name="whats-not-affected"></a>¿Qué no se ve afectado
+
+No se ven afectadas las suscripciones existentes de directo de facturas. Se siguen siendo válidos y son se renueva automáticamente. Seguirá facturando directamente por Microsoft hasta que se cancela. 
+
+Continuar con la administración de las suscripciones existentes de las maneras siguientes: 
 
 - Suspender suscripciones existentes 
 
 - Ajustar el número de puestos de suscripciones de licencias existentes 
 
-- Ajustar el número de puestos de complementos existentes a una suscripción. Nota: Ccan't agregar nuevos complementos para las suscripciones existentes tal como se tratan como nuevas compras. 
+- Ajustar el número de puestos de complementos existentes a una suscripción. Nota: No se puede agregar nuevos complementos para las suscripciones existentes de porque los complementos se tratan como nuevas compras. 
 
 - Implementar nuevos recursos de Azure y administrar recursos de Azure existentes en las suscripciones de Azure existentes. Esto incluye los productos que están disponibles a través de Azure marketplace y suscripciones de Visual Studio. 
-
->[!Note] 
->Si ya se ha inscrito al inquilino de asociado directo de facturas como revendedor indirecto, es posible enviar invitaciones a los clientes que soliciten una relación de revendedor indirecto en lugar de directo de facturas. 
-
-- No se puede crear a un nuevo inquilino de espacio aislado. Cada inquilino de asociado directo de facturas puede crear a un inquilino de espacio aislado con el fin de integración de la API de facturación directa. Si no ha creado uno anteriormente, no podrá hacerlo una vez que dirigir la funcionalidad de facturación asociado se ha restringido. 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscripción de los incentivos del revendedor indirecto 
 

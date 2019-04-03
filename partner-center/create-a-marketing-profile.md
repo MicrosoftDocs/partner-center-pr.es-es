@@ -1,19 +1,19 @@
 ---
 title: Crear un perfil de negocio | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/26/2019
 description: Crea un perfil de negocio en el Centro de partners para obtener oportunidades de ventas de Microsoft.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
-ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
+ms.sourcegitcommit: a7b7cd2d436003eed7fc9136146d061342b4677d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587338"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "58462519"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,25 +38,25 @@ Microsoft compromete a millones de clientes cada año a través de marketing, ve
 
 El primer paso para obtener clientes potenciales es crear un perfil de negocio. Aquí te mostramos tu perfil a los clientes que están buscando partners que pueden ayudarles a implementar los productos y soluciones de Microsoft a través de:
 
-*  **La experiencia de búsqueda [Buscar un proveedor de soluciones](https://partnercenter.microsoft.com/pcv/search)**. Los clientes potenciales pueden buscar por su cuenta programas de partners para localizar a partners que cumplan los criterios de búsqueda.
+- **La experiencia de búsqueda [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home)**. Los clientes potenciales pueden buscar por su cuenta programas de partners para localizar a partners que cumplan los criterios de búsqueda.
 
-*  **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft pueden, después, presentar tu empresa a los clientes potenciales.
+- **Referencias de las ventas de Microsoft y los empleados de servicio**. Los clientes potenciales interesados en implementar soluciones de tecnología basadas en la nube, pueden ponerse en contacto con Microsoft para obtener ayuda a encontrar a profesionales que puedan satisfacer sus necesidades de negocio. Estos profesionales de Microsoft pueden, después, presentar tu empresa a los clientes potenciales.
 
 > [!IMPORTANT]  
-> Para ayudar a nuestros asociados de optimizar las operaciones de negocio, nos estamos consolidar las características y capacidades que usa se distribuyan entre varias herramientas y los sitios Web en el centro de partners, este sitio. Como parte de ese esfuerzo, hemos movido todas las funcionalidades relacionadas con las referencias para el centro de partners y retirar los sitios de punto de anclaje y C2PC. Si usa Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberá crear un nuevo perfil de negocio en el centro de partners para continuar recibiendo las referencias. Ya no se admite la importación de perfiles de estos sitios. 
+> Para ayudar a nuestros partners a optimizar las operaciones empresariales, estamos consolidando características y funcionalidades que solían estar distribuidas en varias herramientas y sitios web del Centro de partners, este sitio. Como parte de este esfuerzo, hemos trasladado todas las funcionalidades de las referencias al Centro de partners y hemos retirado los sitios C2PC y Pinpoint. Si usaste Pinpoint o C2PC en el pasado para obtener y administrar las referencias de Microsoft, deberás crear un nuevo perfil de negocio en el Centro de partners para seguir obteniendo referencias. Ya no se admite la importación de perfiles de estos sitios. 
 
 ## <a name="create-a-profile"></a>Crear un perfil
 
 > [!NOTE]  
->  Para poder crear un perfil de negocio, debe tener una cuenta de centro de partners. Si aún no tienes una cuenta del Centro de partners, consulta [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md) para obtener ayuda cuando crees una. 
+> Para poder crear un perfil de negocio, debe tener una cuenta de centro de partners. Si aún no tienes una cuenta del Centro de partners, consulta [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md) para obtener ayuda cuando crees una. 
 
 Crea perfiles para cada región en la que tengas autorización para hacer negocios. 
 
-1.  Desde el **centro de partners** menú, seleccione **referencias** &gt; **perfiles de negocio** &gt; seleccione un país o región >  **[ Crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
+1. Desde el **centro de partners** menú, seleccione **referencias** &gt; **perfiles de negocio** &gt; seleccione un país o región >  **[ Crear un perfil de negocio](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
-    > [!NOTE]  
-    >  Aunque el centro de partners es compatible con varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, que tenga que incluir texto de idiomas diferentes, como se indicó en este tema.
+2. En la página **Crear un perfil de negocio**, selecciona una región y después escribe tu información de perfil.
+   > [!NOTE]  
+   >  Aunque el centro de partners es compatible con varios idiomas, algunos elementos, como la descripción y las etiquetas de forma libre, que deba incluir texto de idiomas diferentes, como se indicó en este tema.
 
 ### <a href="" id="partner_info"></a>Información de Partner
 
@@ -66,14 +66,14 @@ El logotipo puede ser un archivo GIF, JPG o PNG, con un ancho máximo de 300 pí
 
 La descripción puede tener hasta 2500 caracteres. Sugerencias para una buena descripción: 
 
-*  **Sé breve**, empieza con lo que es importante en una frase o dos. Esto debe ser el encabezado que llame la atención de los clientes. En la experiencia de búsqueda Buscar un partner, mostramos la primera o segunda línea como vista previa en los resultados de búsqueda.
-*  **Céntrate en experiencias de tu empresa con ofertas específicas de Microsoft**. Los clientes que buscan referencias, buscan por lo general partners con experiencia específica en Microsoft.
-*  **Usa viñetas**. Divide la información en listas con viñetas para que sea más fácil de examinar.
-*  **Evita usar jerga**. Usa lenguaje simple y cotidiano y nombra tus ofertas por lo que hacen: las necesidades de negocio a las que se dirigen o la tarea o el objetivo que ayudan al cliente a cumplir.
-*  **No te preocupes por llenar la descripción con palabras clave de búsqueda**. Las herramientas de búsqueda del cliente buscarán palabras clave que se generan en la sección de la experiencia de Partner, no en la descripción.
-*  **Mantén tu perfil actualizado**. Con cada servicio o lanzamiento de software, actualiza tu perfil y mantenlo sincronizado con el sitio web de tu empresa.
-*  **No hagas referencia a otra compañía asociada a Microsoft por nombre**, a menos que se trate de una subsidiaria o que de alguna forma esté relacionada con tu compañía, o que tenga un contrato actual con esa compañía asociada para actuar en asociación o para promoverse mutuamente con el fin de compartir las oportunidades de trabajo.
-*  **Para las regiones con varios idiomas**, considera la posibilidad de incluir texto de varios idiomas en la descripción.
+-  **Sé breve**, empieza con lo que es importante en una frase o dos. Esto debe ser el encabezado que llame la atención de los clientes. En la experiencia de búsqueda Buscar un partner, mostramos la primera o segunda línea como vista previa en los resultados de búsqueda.
+-  **Céntrate en experiencias de tu empresa con ofertas específicas de Microsoft**. Los clientes que buscan referencias, buscan por lo general partners con experiencia específica en Microsoft.
+-  **Usa viñetas**. Divide la información en listas con viñetas para que sea más fácil de examinar.
+-  **Evita usar jerga**. Usa lenguaje simple y cotidiano y nombra tus ofertas por lo que hacen: las necesidades de negocio a las que se dirigen o la tarea o el objetivo que ayudan al cliente a cumplir.
+-  **No te preocupes por llenar la descripción con palabras clave de búsqueda**. Las herramientas de búsqueda del cliente buscarán palabras clave que se generan en la sección de la experiencia de Partner, no en la descripción.
+-  **Mantén tu perfil actualizado**. Con cada servicio o lanzamiento de software, actualiza tu perfil y mantenlo sincronizado con el sitio web de tu empresa.
+-  **No hagas referencia a otra compañía asociada a Microsoft por nombre**, a menos que se trate de una subsidiaria o que de alguna forma esté relacionada con tu compañía, o que tenga un contrato actual con esa compañía asociada para actuar en asociación o para promoverse mutuamente con el fin de compartir las oportunidades de trabajo.
+-  **Para las regiones con varios idiomas**, considera la posibilidad de incluir texto de varios idiomas en la descripción.
 
 #### <a href="" id="linkedin"></a> Página de la compañía de LinkedIn: más formas de conectarse
 
@@ -89,20 +89,20 @@ Las herramientas de búsqueda Buscar un partner buscan etiquetas de experiencia.
 
 Empieza agregando tus propias etiquetas en la sección de la experiencia de partners. Puedes agregar las siguientes etiquetas: 
 
-*  **Etiquetas de foco de la industria**. Hasta 5 sectores 
-*  **Productos**. Limitado a los productos de Microsoft
-*  **Tipo de servicio** 
-*  **Soluciones, habilidades y capacidades**. Estas etiquetas son de forma libre y proporcionan la capacidad de agregar palabras clave de búsqueda exclusivas para sus capacidades.
+-  **Etiquetas de foco del sector**
+-  **Productos**. Limitado a los productos de Microsoft
+-  **Tipo de servicio**
+-  **Soluciones, habilidades y capacidades**. Estas etiquetas son de forma libre y proporcionan la capacidad de agregar palabras clave de búsqueda exclusivas para sus capacidades.
 
 Otras etiquetas que se usan en la búsqueda:
-*  **Etiquetas de competencia** son una designación merecida que presenta las capacidad de tu empresa.
-*  Las **Etiquetas de aprobación** se obtienen cuando Microsoft o los clientes que han trabajado contigo avalan tu trabajo.
+-  **Etiquetas de competencia** son una designación merecida que presenta las capacidad de tu empresa.
+-  Las **Etiquetas de aprobación** se obtienen cuando Microsoft o los clientes que han trabajado contigo avalan tu trabajo.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir que Microsoft promociona mis áreas de experiencia
 
 Se recomienda que dejes marcado este ajuste. 
 
-Demostración de éxito con los clientes a través del centro de partners, o participar en otros programas o las certificaciones de Microsoft, vamos a agregar automáticamente indicaciones para sus productos específicos, servicios y sectores que contribuyen al éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
+A medida que demuestres tu éxito con los clientes a través del Centro de partners o participes en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos, servicios y sectores específicos que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
 
 Sin embargo, si hay productos para los que proporcionas servicios y que prefieres que no aparezcan en tu perfil, puedes desactivar esta casilla y administrar manualmente tu perfil. Estas recomendaciones no serán visibles para los clientes, pero puedes agregarlos a tu perfil en cualquier momento.
 
@@ -114,9 +114,9 @@ Puedes dejar de participar en las referencias de las empresas que no cumplan con
 
 Si es así, dispondrás de más tiempo para pasar en los negocios que coincidan con corresponden a aquellos con los que desees trabajar.
 
-### <a href="" id="#locations"></a> Ubicaciones
+#### <a href="" id="#locations"></a> Ubicaciones
 
-Puedes agregar hasta 5 ubicaciones principales de tu organización por región. Estas ubicaciones aparecen cuando los clientes buscan partners por proximidad. 
+Puedes agregar hasta 5 ubicaciones principales de tu organización por región. Estas ubicaciones aparecen cuando los clientes buscan partners por proximidad.
 
 Indicar las ubicaciones que sean ubicaciones oficiales de la empresa y que se puedan validar. Elige ubicaciones que sean centrales a los mercados que ofrezcan y representen mejor la capacidad de tu empresa para cumplir con sus tareas.
 
@@ -130,14 +130,14 @@ Si ya tienes en 5 ubicaciones principales y necesitas cambiar una, primero **eli
 
 ## <a name="review-your-profile"></a>Revisar tu perfil
 
-Después de publicar tu perfil, aparecen actualizaciones en las búsquedas de [Buscar un partner](https://partnercenter.microsoft.com/pcv/search) en el plazo de 24 horas. 
+Después de publicar su perfil, las actualizaciones aparecen en la [encontrar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) búsquedas dentro de 24 horas.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Mejorar la visibilidad de tu perfil 
 
-*  **[Responder rápidamente a las solicitudes](responding-to-referrals.md)**. Cuando recibas una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para que los futuros clientes.
-*  **Sé selectivo con las etiquetas**.  Es mejor tener menos etiquetas que representen mejor las ofertas de tu empresa, soluciones, propuestas de valor y una posición única donde puedas demostrar coherentemente éxito.  Esto tendrá sus frutos en los futuros resultados de búsqueda.
-*  **Conseguir etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
-*  **Conseguir etiquetas de aprobación** de los clientes que aprecian tu trabajo.
+- **[Responder rápidamente a las solicitudes](responding-to-referrals.md)**. Cuando recibas una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para que los futuros clientes.
+- **Sé selectivo con las etiquetas**.  Es mejor tener menos etiquetas que representen mejor las ofertas de tu empresa, soluciones, propuestas de valor y una posición única donde puedas demostrar coherentemente éxito.  Esto tendrá sus frutos en los futuros resultados de búsqueda.
+- **Conseguir etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
+- **Conseguir etiquetas de aprobación** de los clientes que aprecian tu trabajo.
 
 ## <a name="related-topics"></a>Temas relacionados
 [Responder a las referencias](responding-to-referrals.md)
