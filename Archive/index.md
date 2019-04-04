@@ -3,8 +3,13 @@ title: Centro de partners operado por 21Vianet
 ms.topic: article
 ms.date: 10/29/2018
 description: Uso del Centro de partners operado por 21Vianet para revender servicios de Proveedor de soluciones en la nube en China.
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588268"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a>Centro de partners operado por 21Vianet
 
 Bienvenido al Centro de partners operado por 21Vianet, el portal de empresa para revendedores de servicios de Proveedor de soluciones en la nube en China. 

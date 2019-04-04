@@ -4,13 +4,18 @@ hide_bc: true
 title: Comienza aquí para obtener ayuda con el Centro de partners
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "El Centro de partners puede ayudarle a hacer crecer su negocio en el programa Proveedor de soluciones en la nube (CSP) de Microsoft. Configure su cuenta, conéctese con clientes, compre una suscripción a Action Pack y obtenga más información para asociados de los programas CSP y MPN.\_"
+description: El Centro de partners puede ayudarle a hacer crecer su negocio en el programa Proveedor de soluciones en la nube (CSP) de Microsoft. Configure su cuenta, conéctese con clientes, compre una suscripción a Action Pack y obtenga más información para asociados de los programas CSP y MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588328"
 ---
-
 # <a name="welcome-to-partner-center"></a>Bienvenido al Centro de partners
 
 El Centro de partners de Microsoft es una ubicación única que le permite administrar las relaciones globales con Microsoft. Dispone de herramientas y recursos que le ayudarán a realizar transacciones y a hacer crecer su empresa, e incluye opciones de pertenencia, referencias de los clientes y el programa Proveedor de soluciones en la nube. Conozca más información sobre los procedimientos recomendados para administrar la cuenta, conectarse con los clientes, comprar una suscripción de Action Pack e inscribirse en un programa de incentivos en la biblioteca de ayuda del Centro de partners.
