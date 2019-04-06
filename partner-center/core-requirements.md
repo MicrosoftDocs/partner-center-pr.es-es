@@ -1,18 +1,18 @@
 ---
 title: Los requisitos principales de notificaciones de cooperación incentivos | Centro de partners
 ms.topic: article
-ms.date: 4/3/19
+ms.date: 4/4/2019
 description: Cada tipo de actividad del programa de incentivos de cooperación tendrá sus propios requisitos básicos
 author: LauraBrenner
 ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación, requisitos básicos
 ms.localizationpriority: medium
-ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
-ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
+ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
+ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "58897981"
+ms.lasthandoff: 04/04/2019
+ms.locfileid: "59019438"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reclamaciones de incentivos de cooperación
 
@@ -20,9 +20,9 @@ ms.locfileid: "58897981"
 
 - Centro de partners
 
-Cada tipo de actividad para la que envías una reclamación de incentivos tiene unos requisitos básicos que debes cumplir y que deberás demostrar en tus documentos de prueba de ejecución. En algunos casos, existen tipos de comunicaciones definidos que también se requieren.
+Cada tipo de actividad para la que envías una reclamación de incentivos tiene unos requisitos básicos que debes cumplir y que deberás demostrar en tus documentos de prueba de ejecución. En algunos casos, hay tipos de comunicaciones definido y las métricas que también son necesarias.
 
-Las tablas siguientes describen los requisitos básicos y los de comunicaciones para cada una de las actividades aceptadas. 
+Las tablas siguientes describen los requisitos principales para cada una de las actividades aceptadas. 
 
 ## <a name="demand-generation"></a>Generación de demanda
  Las actividades incluyen publicidad tradicional y digital con un amplio alcance que contribuye a mejorar la comercialización y promoción de las ofertas de Microsoft. Los resultados y el tamaño de audiencia deben ser medibles.
@@ -33,7 +33,7 @@ Las tablas siguientes describen los requisitos básicos y los de comunicaciones 
         |
 |Publicidad impresa |Información de contacto y de la marca de empresa, contenido de Microsoft |Copia del documento final de comunicaciones (basado en publicidad) que muestra los requisitos básicos específicos del programa|Estimado cliente (o socio) alcance|Selección de ubicación de medios de terceros; material impreso; Servicios de marketing y creativos de agencia de cuota incluidos los honorarios de agencia|
 |Publicidad digital|            |Captura de pantalla de anuncio digital y dirección URL de la página de aterrizaje que muestra los requisitos básicos específicos del programa|Resumen de resultados (por ejemplo, el informe click-through)|Selección de ubicación de medios de terceros; Precio: agencia: Servicios de marketing y creatividad, incluidos los honorarios de agencia|  
-|Correo directo, correo y sms|             |1) Copia del documento de comunicación final que muestre los requisitos básicos específicos del programa   2) La prueba de distribución puede incluir un sobre de envío matasellado u otras pruebas de correo (correo directo), el correo electrónico final que muestre un encabezado fechado u otra prueba de envío por correo (correo electrónico), o foto del mensaje de teléfono (SMS)|   Estimado cliente (o socio) alcance   |• De adquisición de •Database • de material impreso franqueo; Precio: agencia: Servicios de marketing y creatividad, incluidos los honorarios de agencia|
+|Correo directo, correo y sms|             |Prueba de (1) copia de la parte final de comunicación que muestra los requisitos específicos del programa core 2) de la distribución puede incluir sobres de trasvase de registros de certificado u otros de prueba de correo (correo directo), correo electrónico final que muestra un encabezado con fecha de vigencia o pruebas de Email (correo electrónico), o foto del mensaje de teléfono (SMS)|   Estimado cliente (o socio) alcance   |• De adquisición de •Database • de material impreso franqueo; Precio: agencia: Servicios de marketing y creatividad, incluidos los honorarios de agencia|
 |Sitio web y motor de búsqueda de partners||Dirección URL o capturas de pantalla de páginas del sitio que muestra la dirección URL; instrucción del contrato de trabajo o servicio de proyecto SEO (solo la actividad SEO)|Resumen de resultados (por ejemplo, haga clic en los informes)|Precio: agencia: Servicios de marketing, incluidos los honorarios de agencia; Programación y desarrollo: Programación y las tasas de desarrollo; Cuota – SEO: Cuotas de optimización y mantenimiento|
 |Contenido sindicado de Microsoft||Dirección URL o capturas de pantalla de las páginas que muestra la dirección URL del sitio|Resumen de resultados (por ejemplo, el informe click-through)|Los costos reales hasta USD18, 750 por período de uso para: cuota - Agencia marketing servicews, incluidos los honorarios de agencia; programación y las tasas de desarrollo; selección de ubicación de medios|
 |Campaña digital multitáctil|     |Son necesarias todas las pruebas de ejecución detalladas en la página de actividad correspondiente.  - Publicidad digital - Correo directo - Optimización de sitio web y motor de búsqueda de partners - Telemarketing||• Selección de ubicación de medios terceros cuota: agencia: Servicios de marketing y creatividad, incluidos los honorarios de agencia; Adquisición de la base de datos; •Programming/desarrollo: Programación y las tasas de desarrollo; Cuota – SEO: Optimización de costos de mantenimiento; Cuota - cargos de centro de llamadas de otros fabricantes
