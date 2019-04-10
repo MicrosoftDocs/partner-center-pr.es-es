@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585348"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430184"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar tu cuenta del Centro de partners
 
@@ -31,10 +31,12 @@ Usted o su administrador también creará las cuentas de usuario para cualquier 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Recursos para ayudarte a administrar tu cuenta del Centro de partners
 
-|**Para ello**   |**Lea este**   |
+|**Para**   |**Lee esto**   |
 |-----------------------|:-----------------------|
-|Asegurarse de que el perfil de empresa esté actualizado   |[Actualizar su perfil de socio comercial](update-your-partner-profile.md)|
+|Asegurarse de que el perfil de empresa esté actualizado   |[Actualizar tu perfil de partner](update-your-partner-profile.md)|
 |Todas las personas de su empresa que necesita para trabajar en el centro de Partners deben asignarse roles. Cada rol tiene tareas y permisos específicos a su disposición.|[Crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md)|
+|Revise los permisos que conlleva cada rol|[Asignar roles y permisos de usuarios](permissions-overview.md)
+|Administrar ubicaciones de su empresa|[Administrar la cuenta de socio: Ubicaciones](manage-locations.md)
 |Si un empleado olvida su contraseña y tienes que restablecerla  |[Restablecer una contraseña de usuario](reset-a-user-password.md)|
 |Asegurarse de comercializar tu empresa para que los clientes puedan encontrarla   |[Crear un perfil de negocio](create-a-marketing-profile.md)|
 |Organizar el catálogo para que los productos más importantes se encuentren en la parte superior de la lista   |[Personalizar el catálogo](customize-the-catalog.md)|

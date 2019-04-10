@@ -1,18 +1,18 @@
 ---
 title: Plantillas de cliente de contrato en la nube de Microsoft | Centro de partners
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: Buscar y descargar las versiones específicas de la región y el idioma del contrato en la nube de Microsoft para revisar con sus clientes.
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Acuerdos en la nube de Microsoft, plantillas de contrato de cliente, acuerdos de clientes CSP, contrato de Microsoft en la nube, MCA, CSP, donde puedo vender a través de CSP?, CSP países y regiones, MCAs CSP en varios idiomas, CSP Norteamérica, Centroamérica CSP, sur de CSP Estados Unidos, Caribe CSP, nube de Microsoft CSP para gobierno de EE. UU., CSP Microsoft Cloud Alemania, CSP Oriente, África CSP, CSP Europa, Asia CSP, Pacífico CSP, MCAs CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320758"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430224"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de Microsoft Cloud por región e idioma
 

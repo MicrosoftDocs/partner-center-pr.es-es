@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682513"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430204"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682513"
 
 
 Para obtener una vista detallada del elemento de línea de cada carga de un ciclo de facturación, descargue los archivos de conciliación de centro de partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
+
+## <a name="formatting-issues"></a>Problemas de formato
+
+En ocasiones, el archivo de conciliación podría tener problemas de formato. (Esto puede ocurrir, por ejemplo, si no se usa la configuración regional EN-US). Siga estos pasos para corregir estos problemas. 
+
+<ol>
+<li>Abra el archivo .csv en Excel y seleccione la primera columna. En la cinta de opciones, seleccione <strong>datos</strong>y, a continuación, seleccione <strong>texto en columnas</strong>.</li>
+
+<li>En convertir texto en el Asistente de columnas, seleccione <strong>delimitado por tipo de archivo</strong>y, a continuación, seleccione <strong>siguiente</strong>.</li> 
+
+<li>En el campo delimitadores, seleccione <strong>comas</strong>. Si <strong>ficha</strong> está ya seleccionado, puede dejarla. Selecciona <strong>Siguiente</strong>.</li>
+
+<li>En el campo de formato de datos de columna, seleccione <strong>fecha: MDY</strong>y, a continuación, seleccione <strong>siguiente</strong>.</li> 
+
+<li>En el campo de formato de datos de columna, seleccione <strong>texto</strong> para amount, todas las columnas y, a continuación, seleccione <strong>finalizar</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Detallar asociado
 
@@ -72,9 +88,9 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Columna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de ejemplo</strong></td>
+<td><strong>Valor de muestra</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
@@ -241,9 +257,9 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Columna</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de ejemplo</strong></td>
+<td><strong>Valor de muestra</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
@@ -902,21 +918,21 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <tbody>
 <tr>
 <td>
-<p><strong>Descripción de cargos de facturación</strong></p>
+<p><strong>Descripción del cargo de facturación</strong></p>
 </td>
 <td>
-<p><strong>Descripción de cargos del archivo de conciliación (columna ChargeType)</strong></p>
+<p><strong>Descripción del cargo del archivo de conciliación (columna ChargeType)</strong></p>
 </td>
 <td>
 <p><strong>¿Qué es este cargo?</strong></p>
 </td>
 <td>
-<p><strong>¿Cómo se asignan estos ChargeTypes a la factura?</strong></p>
+<p><strong>¿Cómo asigno estos valores de ChargeType a la factura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Cargos de licencia</strong></p>
+<p><strong>Cargos basados en licencias</strong></p>
 </td>
 <td>
 <p>Tarifa de activación</p>
@@ -1081,10 +1097,10 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 
 <tr>
 <td>
-<p><strong>Descuentos de licencias</strong></p>
+<p><strong>Descuentos basados en licencias</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p><strong>Impuestos</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
-<p><em>Excepción: &quot;Desplazamiento de un elemento de línea&quot; ya incluye los impuestos. Consulte los créditos, más arriba.</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
+<p><em>Excepción: &quot;Desplazamiento de un elemento de línea&quot; ya incluye los impuestos. Consulta Créditos más arriba.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>
