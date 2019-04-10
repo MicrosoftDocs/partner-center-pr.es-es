@@ -1,6 +1,6 @@
 # [Acerca del Centro de partners de Microsoft](index.md)
 
-# [Suscripción a la red de asociados](mpn-overview.md)
+# [Pertenencia a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
 ## Ofertas de suscripción
 ### [Action Pack](mpn-get-action-pack.md)
@@ -11,7 +11,7 @@
 ### [Programa de vales de formación de Software Assurance (SATV) del Centro de partners](software-assurance-satv.md)
 ### [Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales](voucher-validation-tool.md)
 ### [Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales](vvr-faq.md)
-### [Servicios de planeación de Software Assurance del Centro de partners](software-assurance-dps.md)
+### [Servicios de planeación de Software Assurance del Centro de partners ](software-assurance-dps.md)
 
 # [Proveedor de soluciones en la nube](csp-overview.md)
 ## [Inscribirse en el programa Proveedor de soluciones en la nube](enrolling-in-the-csp-program.md)
@@ -28,18 +28,18 @@
 
 # [Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
 ## [Cuentas profesionales y Centro de partners](azure-active-directory-tenants-and-partner-center.md)
-## [Actualizar tu perfil de asociado](update-your-partner-profile.md)
+## [Actualizar tu perfil de partner](update-your-partner-profile.md)
 ## [Ubicaciones](manage-locations.md)
 ## [Restaurar una cuenta suspendida del Centro de partners](suspended-partner-center-account.md)
-## [Crear cuentas de usuario](create-user-accounts-and-set-permissions.md)
+## [Crear las cuentas de usuario](create-user-accounts-and-set-permissions.md)
 ## [Asignar roles y permisos de usuarios](permissions-overview.md)
 ## [Comprobar tu propiedad de un dominio](become-global-admin.md)
 ## [Restablecer una contraseña de usuario](reset-a-user-password.md)
-## [Añadir Servicios compartidos para asociados de Azure](shared-services.md)
+## [Agregar Servicios compartidos para asociados de Azure](shared-services.md)
 ## [Precios y ofertas](pricing-and-offers.md)
 ## [Personalizar el catálogo](customize-the-catalog.md)
 
-# [Hacer crecer el negocio](grow-your-business.md)
+# [Haz crecer tu negocio](grow-your-business.md)
 ## [Referencias](referrals.md)
 ### [Crear un perfil de negocio](create-a-marketing-profile.md)
 ### [Responder a las referencias](responding-to-referrals.md)
@@ -47,6 +47,7 @@
 ### [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos para reclamaciones de incentivos](core-requirements.md)
 ### [Introducción al pago de reclamaciones de incentivos](incentives-payouts.md)
+### [Enviar reclamaciones de OSA al Centro de partners](submit-osa-claim.md)
 
 
 # [Facturación e impuestos](billing.md)
@@ -61,10 +62,10 @@
 ## [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
 ## [Escenarios comunes de facturación](common-billing-scenarios.md)
 ## [Impago, fraude o uso incorrecto](non-payment--fraud--or-misuse.md)
-## [Servicios PSTN](o365-e5-in-csp-advisory.md)
+## [Servicios RTC](o365-e5-in-csp-advisory.md)
 
 # [Conectar con los clientes](customer-accounts.md)
-## [Agregar un nuevo cliente](add-a-new-customer.md)
+## [Agregar un cliente nuevo](add-a-new-customer.md)
 ## [Solicitar una relación de revendedor con un cliente](request-a-relationship-with-a-customer.md)
 ## [Quitar una relación de revendedor con un cliente](remove-a-relationship.md)
 ## [Consultar la lista de clientes](see-your-customer-list.md)
@@ -72,7 +73,7 @@
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
-# [Ofertas de CSP](csp-offers.md)
+# [ofertas de CSP](csp-offers.md)
 ## [Reservas de Azure](azure-reservations.md)
 ### [Cambio de tamaño de la máquina virtual para el uso máximo de reserva](azure-usage.md)
 ### [Comprar reservas de Microsoft Azure en nombre de los clientes](azure-reservations-buying.md)
@@ -110,7 +111,7 @@
 ## [Tareas de revendedor indirecto del Centro de partners](indirect-reseller-tasks-in-partner-center.md)
 
 
-# [Obtener soporte técnico de Microsoft](support-from-microsoft.md)
+# [Obtén soporte técnico de Microsoft](support-from-microsoft.md)
 ## [Notificar los problemas que tengas con el Centro de partners](report-problems-with-partner-center.md)
 ## [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)
 ## [Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
@@ -120,7 +121,7 @@
 ## [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
 ## [Proporcionar soporte técnico](provide-technical-support.md)
 ## [Comunicación con el cliente de Microsoft](customer-communication-from-microsoft.md)
-## [Autoservicio de asistencia al cliente](customer-self-support.md)
+## [Autoservicio de soporte técnico al cliente](customer-self-support.md)
 ## [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md)
 
 
