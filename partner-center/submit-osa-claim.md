@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: notificaciones de incentivos, Co-op notificaciones, los fondos de cooperación, OSA, ISV, asociación de ingresos
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430659"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619311"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>Envíe sus notificaciones OSA en el centro de partners
+# <a name="submit-your-osa-claims-in-partner-center"></a>Enviar reclamaciones de OSA al Centro de partners
 
 **Se aplica a**
 
@@ -28,17 +28,17 @@ Antes de poder crear y enviar una notificación, deberá cumplir los siguientes 
 -   **Tiene su información bancaria y fiscal** especificado en el centro de partners. 
 -   **Cumplir los requisitos de certificación y los ingresos de la idoneidad de venta OSA**. (Para obtener más información, consulte a la Guía de venta OSA, situada en la sección OSA en aka.ms/partnerincentives.) Esto no es aplicable a los ISV que buscan solo la asociación de los ingresos. 
 
-##<a name="submitting-your-claim"></a>Enviar la notificación
+## <a name="submitting-your-claim"></a>Enviar la notificación
 
 Tendrá 90 días desde la fecha de la transacción para enviar la notificación. Si envía la notificación más de 90 días después de una transacción, no recibirá el incentivo de venta desde esa venta. 
 
 Si es un asociado de ISV y las soluciones que ayudó a influir en el cliente para elegir una solución de Microsoft Dynamics 365, también son aptas para la asociación de los ingresos de notificación.   
 
-##<a name="payment-schedule"></a>Plan de pago
+## <a name="payment-schedule"></a>Plan de pago
 
 Recibirá pago incentivos aprobadas notificaciones antes de 45 días después del final del período de ingresos. Tiene 90 días después del final del período de ganancias en desacuerdo con un pago. Para obtener información acerca de los cálculos de pago y métodos, consulte a la Guía de venta OSA, situada en la sección OSA en aka.ms/partnerincentives.
 
-##<a name="maintaining-your-program-eligibility"></a>Mantener si cumple los requisitos de programa
+## <a name="maintaining-your-program-eligibility"></a>Mantener si cumple los requisitos de programa
 
 Microsoft evalúa la idoneidad mensual al Online Services del Asistente para vender incentivo para ganar, el cálculo y el pago. Debe cumplir los criterios de elegibilidad específicos antes de que Microsoft puede aprobar e incentivos de versión. Para obtener más información, consulte a la Guía de venta OSA, situada en la sección OSA en aka.ms/partnerincentives.
 
@@ -60,7 +60,9 @@ Complete los pasos siguientes para enviar una notificación en el centro de part
 
 5.  Seleccione la suscripción que desea asociar con esta notificación y, a continuación, seleccione **continuar**.
 
->[! NOTAS] comprobación que el nombre y la región geográfica son correctos antes de seleccionar una suscripción. 
+>[! NOTAS]
+
+>Compruebe que el nombre y la región geográfica son correctos antes de seleccionar una suscripción. 
 
 >Las suscripciones que están asociadas con otros asistentes de servicio en línea se marcan con un triángulo amarillo. Todavía puede asociar con ellos. 
 
@@ -76,7 +78,7 @@ Puede ver el estado de la notificación en el cuadro de estado de la página de 
 
 Para ver los datos de beneficios y pagos, consulte pagos e informes. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>Enviar una notificación de asociación de los ingresos de ISV
+# <a name="submit-an-isv-revenue-association-claim"></a>Enviar una notificación de asociación de los ingresos de ISV
 
 1.  En la página información general, en **todos los programas de incentivos**, seleccione **OSA**.
 
@@ -86,7 +88,9 @@ Para ver los datos de beneficios y pagos, consulte pagos e informes.
 
 4.  Seleccione las suscripciones que desea asociar a esta notificación y, a continuación, seleccione **continuar**.
 
->[! NOTAS] comprobación que el nombre y la región geográfica son correctos antes de seleccionar una suscripción. 
+>[! NOTAS]
+
+>Compruebe que el nombre y la región geográfica son correctos antes de seleccionar una suscripción. 
 
 >Las suscripciones asociadas a su empresa ya no se puede asociadas a intentarlo.  
 
