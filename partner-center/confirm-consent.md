@@ -1,23 +1,29 @@
 ---
 title: Confirmar la aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Mejor ayuda asociados requisitos de cumplimiento, Microsoft le pide a los asociados para confirmar la aceptación al proporcionar determinados detalles relacionados con la persona que ha aceptado el contrato.
 author: LauraBrenner
 ms.author: v-petand
 keywords: cliente, clientes, da su consentimiento, MCA, contrato de Microsoft en la nube, las plantillas de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430134"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652257"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del Contrato de Microsoft Cloud
 
 **Se aplica a**
 -  Centro de partners
+
+> [!NOTE]
+> El recurso de contrato es compatible actualmente con el centro de partners en solo la nube pública de Microsoft. No es aplicable para:
+> * Centro de partners operado por 21Vianet
+> * Centro de partners para Microsoft Cloud Alemania
+> * Centro de partners para Microsoft Cloud for US Government
 
 Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft pide a los partners que confirmen la aceptación proporcionando los siguientes detalles de la persona que haya aceptado el contrato: 
 
@@ -27,7 +33,7 @@ Como partner, debes obtener la aceptación por parte de tu cliente del Contrato 
 
 -   Dirección de correo electrónico
 
--   Número de teléfono
+-   Número de teléfono (opcional)
 
 -   Fecha de aceptación
 
@@ -49,8 +55,6 @@ Confirmación de aceptación del cliente puede realizarse a través del centro d
 
 -   [Confirme el consentimiento del cliente](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-La confirmación de la aceptación del cliente es compatible solo con la nube pública de Microsoft.
 
 Esto se aplica a los entornos de producción y espacio aislado.
 
