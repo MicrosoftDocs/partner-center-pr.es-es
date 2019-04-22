@@ -8,13 +8,13 @@ ms.author: labrenne
 keywords: cupones de formación, seguridad de software, aprendizaje, validación los cupones, asiento de reserva
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863993"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>PREGUNTAS MÁS FRECUENTES: Mediante la herramienta de validación del vale y canje 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales 
 
 **Se aplica a**
 

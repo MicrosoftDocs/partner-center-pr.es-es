@@ -8,10 +8,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430204"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
@@ -88,9 +88,9 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Columna</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de muestra</strong></td>
+<td><strong>Valor de ejemplo</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerId</td>
@@ -257,9 +257,9 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Columna</strong></td>
 <td><strong>Descripción</strong></td>
-<td><strong>Valor de muestra</strong></td>
+<td><strong>Valor de ejemplo</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
@@ -918,21 +918,21 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <tbody>
 <tr>
 <td>
-<p><strong>Descripción del cargo de facturación</strong></p>
+<p><strong>Descripción de cargos de facturación</strong></p>
 </td>
 <td>
-<p><strong>Descripción del cargo del archivo de conciliación (columna ChargeType)</strong></p>
+<p><strong>Descripción de cargos del archivo de conciliación (columna ChargeType)</strong></p>
 </td>
 <td>
 <p><strong>¿Qué es este cargo?</strong></p>
 </td>
 <td>
-<p><strong>¿Cómo asigno estos valores de ChargeType a la factura?</strong></p>
+<p><strong>¿Cómo se asignan estos ChargeTypes a la factura?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="10">
-<p><strong>Cargos basados en licencias</strong></p>
+<p><strong>Cargos de licencia</strong></p>
 </td>
 <td>
 <p>Tarifa de activación</p>
@@ -1097,10 +1097,10 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 
 <tr>
 <td>
-<p><strong>Descuentos basados en licencias</strong></p>
+<p><strong>Descuentos de licencias</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p><strong>Impuestos</strong>&nbsp;o&nbsp;<strong>IVA</strong></p>
 </td>
 <td>
-<p><em>Se pueden aplicar a varios tipos de cargo.</em></p>
-<p><em>Excepción: &quot;Desplazamiento de un elemento de línea&quot; ya incluye los impuestos. Consulta Créditos más arriba.</em></p>
+<p><em>Se pueden aplicar a varios tipos de cargos</em></p>
+<p><em>Excepción: &quot;Desplazamiento de un elemento de línea&quot; ya incluye los impuestos. Consulte los créditos, más arriba.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

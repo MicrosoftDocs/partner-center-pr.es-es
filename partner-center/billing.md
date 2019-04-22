@@ -9,10 +9,10 @@ ms.author: evansma
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430124"
 ---
 # <a name="billing"></a>Facturación
@@ -38,11 +38,11 @@ Información clave para saber cómo facturar a tus clientes:
 -   Envía al cliente una sola factura para todos los cargos.
 
 ## <a name="billing-resources"></a>Recursos de facturación
-|**Para obtener información sobre**   |**Lee esto**    |
+|**Para obtener información sobre**   |**Lea este**    |
 |:-----------------------------|:-----------------|
 |Conceptos básicos sobre facturación, pagos, facturas y mucho más   |[Conceptos básicos de la facturación](billing-basics.md)
-|Muchas características nuevas de facturación, como la facturación anual   |[Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md)|
-|Tipos de facturación   |[Descripción de los tipos de facturación en el centro de partners](billing-different-types.md)   |
+|Muchas características nuevas de facturación, como la facturación anual   |[Preguntas más frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md)|
+|Tipos de facturación   |[Descripción de los tipos de facturación del Centro de partners](billing-different-types.md)   |
 |Aspectos clave para leer tu factura   |[Leer tu factura](read-your-bill.md)   |
 |Cómo leer y usar el archivo de conciliación   |[Usar los archivos de conciliación](use-the-reconciliation-files.md)|
 |Escenarios comunes de facturación (encuentra escenarios adicionales de facturación en [Preguntas frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md))|[Escenarios comunes de facturación](common-billing-scenarios.md)|

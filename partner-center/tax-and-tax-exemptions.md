@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430174"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
@@ -24,7 +24,7 @@ ms.locfileid: "59430174"
 
 Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners. Las reglas varían según el país o región. Los partners deben trabajar con su asesor fiscal para archivar las exenciones fiscales correspondientes en función de su ubicación y la de sus clientes. Para marcar la cuenta de revendedor de Microsoft como no gravable, el partner debe enviar los certificados de exención a Microsoft.
 
-**Archivar una exención fiscal**
+**Archivo de una exención fiscal**
 
 1.  Buscar su **Microsoft ID** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil organización**.
 2.  Buscar su **Id. de MPN** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de socio**.

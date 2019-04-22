@@ -8,10 +8,10 @@ ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación, requisitos básicos
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/04/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59019438"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reclamaciones de incentivos de cooperación
@@ -28,7 +28,7 @@ Las tablas siguientes describen los requisitos principales para cada una de las 
  Las actividades incluyen publicidad tradicional y digital con un amplio alcance que contribuye a mejorar la comercialización y promoción de las ofertas de Microsoft. Los resultados y el tamaño de audiencia deben ser medibles.
 
 
-|**Actividad**   |**Requisitos básicos**   |**Requisitos de comunicaciones**|**Métricas**  |**Cargos aptos** |
+|**Actividad**   |**Requisitos principales**   |**Requisitos de comunicación**|**Métricas**  |**Cargos aptos** |
 |--------------------------------------|:---------------------------------|---------|--------|----------|
         |
 |Publicidad impresa |Información de contacto y de la marca de empresa, contenido de Microsoft |Copia del documento final de comunicaciones (basado en publicidad) que muestra los requisitos básicos específicos del programa|Estimado cliente (o socio) alcance|Selección de ubicación de medios de terceros; material impreso; Servicios de marketing y creativos de agencia de cuota incluidos los honorarios de agencia|
@@ -42,7 +42,7 @@ Las tablas siguientes describen los requisitos principales para cada una de las 
 
  Las actividades incluyen la contratación de cliente y educación, así como actividades de desarrollo de mercado y business que aún más el reconocimiento, preferencias y las ventas de las ofertas de Microsoft. Normalmente, estas actividades de marketing están diseñadas para una audiencia de cliente específico.
 
-|**Actividad**           | **Requisitos básicos**    | **Requisitos de comunicaciones**|**Métricas** |**Cargos aptos**| 
+|**Actividad**           | **Requisitos principales**    | **Requisitos de las comunicaciones**|**Métricas** |**Cargos aptos**| 
                                                 |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
 |Telemarketing y exposiciones|la información de nombre/marca de empresa debe incluirse en el script de televentas, contenido de Microsoft|Copia del script|Resumen de resultados (número de llamadas) y el número de contactos correcta|Precio: agencia: Servicios de marketing, incluidos los honorarios de agencia; Precio: Centro de llamadas de otros fabricantes: cargos; Adquisición de la base de datos|
 |Seminarios e instalaciones de entrenamiento del cliente|Información del nombre de la marca y del contacto de empresa, contenido de Microsoft|Invitación a evento y la agenda y programa. Fotos del evento. Materiales de presentación si no cumplen los requisitos principales de agenda y la invitación a evento|Número de los invitados registrados|Señalización de mostrar o imprimir materiales; Obsequios; Precio: agencia: Servicios de marketing, incluidos los honorarios de agencia; Cuota - registro; Precio: altavoces externos; Precio: instalación y alquiler de equipo, incluidos los dispositivos Surface posee y administra un tercero; Cocina (excepto de alcohol)|
@@ -57,7 +57,7 @@ Las tablas siguientes describen los requisitos principales para cada una de las 
 
 Las actividades para el socio comercial del personal técnico y ventas internos e incluye los gastos específicos relacionados con el aprendizaje que le ayuda a desarrollar su experiencia técnica y de ventas del asociado de Microsoft.
 
-|           **Actividad**           | **Requisitos básicos**                                                                  |                    **Requisitos de comunicaciones**                   |**Métricas**|**Cargos aptos**|
+|           **Actividad**           | **Requisitos principales**                                                                  |                    **Requisitos de las comunicaciones**                   |**Métricas**|**Cargos aptos**|
 |----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
 |
 |        Participación MPN         |Factura de Microsoft original|                                                                                        |                                                                        |Precio: inscripción anual: Registro anual de MPN honorarios • placa y DVD (se establece en primer lugar): Placa de pertenencia a MPN y el primer conjunto de DVD • Kit de herramientas de ventajas adicionales|
