@@ -10,11 +10,11 @@ ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
 ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57588328"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134614"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenido al Centro de partners
 
