@@ -6,11 +6,11 @@ description: Si su cliente está experimentando un problema de servicio que no s
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585808"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132626"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
@@ -21,7 +21,7 @@ ms.locfileid: "57585808"
 
 Si un cliente experimenta problemas de servicio que no se puede resolver por sí mismo, puede crear una solicitud de soporte técnico en su nombre para remitir el problema a 21Vianet.
 
->**Note**<br>21Vianet proporciona soporte técnico de escalación, definido como soporte técnico que razonablemente no puede proporcionar a sus clientes, porque no tiene la formación necesaria, documentación, o herramientas de soporte técnico. Sin embargo, si 21Vianet determina escalan incorrectamente los problemas a continuación, tras la solicitud por 21Vianet, acepta cumplir para analizar un plan de corrección. Para obtener instrucciones adicionales sobre el aumento de un problema en el nombre de un cliente, consulte el [acuerdo y la Guía de programas de revendedor de CSP de China](csp-program-guide-and-agreements.md).
+>**Nota:**<br>21Vianet proporciona soporte técnico de escalación, definido como soporte técnico que razonablemente no puede proporcionar a sus clientes, porque no tiene la formación necesaria, documentación, o herramientas de soporte técnico. Sin embargo, si 21Vianet determina escalan incorrectamente los problemas a continuación, tras la solicitud por 21Vianet, acepta cumplir para analizar un plan de corrección. Para obtener instrucciones adicionales sobre el aumento de un problema en el nombre de un cliente, consulte el [acuerdo y la Guía de programas de revendedor de CSP de China](csp-program-guide-and-agreements.md).
 
 
 **Para notificar los problemas en el nombre de un cliente**
@@ -33,8 +33,8 @@ Si un cliente experimenta problemas de servicio que no se puede resolver por sí
 
 **Vea también**
 
--   [Soporte de cliente](customer-self-support.md)
+-   [Autoservicio de asistencia al cliente](customer-self-support.md)
 -   [Proporcionar soporte técnico](provide-technical-support.md)
--   [Compruebe el estado del servicio](check-service-health.md)
--   [Proporcionar soporte técnico de facturación](provide-billing-support.md)
+-   [Comprobar el estado del servicio](check-service-health.md)
+-   [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
 -   [Asistencia al cliente](customer-support.md)

@@ -1,18 +1,18 @@
 ---
 title: Notificar los problemas que tengas con el Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 5f7c4a12a6b6501b31cebb429dee952e410c943e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134195"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 

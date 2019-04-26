@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: AutoPilot, autopilot de windows, autopilot de microsoft, una implementación sin retoques, oobe, pantallas de inicio de sesión, out-of-box
 ms.localizationpriority: medium
 ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
-ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "58162225"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134715"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalizar la experiencia de out-of-box de un dispositivo con perfiles de Windows Autopilot
 

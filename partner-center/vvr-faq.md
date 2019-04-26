@@ -1,18 +1,18 @@
 ---
 title: Preguntas más frecuentes sobre herramienta de validación del asiento | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Validar y reservar los vales en el centro de partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: cupones de formación, seguridad de software, aprendizaje, validación los cupones, asiento de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "58863993"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132592"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales 
 

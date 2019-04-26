@@ -1,19 +1,19 @@
 ---
 title: Agregar licencias o servicios a una suscripción existente | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Si el cliente necesita más licencias de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134545"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 

@@ -1,19 +1,19 @@
 ---
 title: Azure Cost Management de Cloudyn para partners de CSP | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Azure Cost Management de Cloudyn requiere acceso aprovisionado a la API del Centro de partners.
 author: Janet
 ms.author: janet
 Keywords: Aplicación de administración de costos de Azure, administrar los costos, las aplicaciones web
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
-ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
-ms.translationtype: MT
+ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58490347"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134675"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Aplicación de administración de costos de Azure para partners de CSP de Azure  
 

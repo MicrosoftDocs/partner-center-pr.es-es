@@ -1,19 +1,19 @@
 ---
 title: Escenarios comunes de facturación | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: En este tema se explica qué debes esperar ver en tu factura después de agregar nuevas suscripciones, ajustar la cantidad de licencias de una suscripción o cancelar una suscripción. Las suscripciones basadas en licencia y basadas en uso se verán afectadas de forma diferente.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturación, los pagos, pedidos, uso, facturación basada en licencia, la fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585708"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135325"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 

@@ -1,19 +1,19 @@
 ---
 title: Suscripción a Microsoft Partner Network | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Obtén información sobre las ventajas de asociarse con Microsoft. La proporciona Microsoft Partner Network, opciones de la gama más amplia de productos en el sector, así como el programa para diferenciar su empresa, vaya al mercado y vender sus soluciones.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584108"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134345"
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
@@ -73,5 +73,5 @@ Revise los recursos siguientes para obtener más información sobre los requisit
 - [Administrar los beneficios de MPN en Centro de partners](manage-your-partner-network-benefits.md)
 - [Requisitos principales](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 - [Haga crecer su negocio de asociado de Microsoft](grow-your-business.md)

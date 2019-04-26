@@ -1,18 +1,18 @@
 ---
 title: Vender en sectores especializados | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft ofrece precios especiales, reduciendo para seleccionar grupos de clientes, incluidos los clientes de educación, los clientes sin ánimo de lucro y usuarios de la administración.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135665"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -47,7 +47,7 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 Una vez que tú y el cliente hayáis cualificado para un programa de oferta especial, sigue los pasos para [agregar una suscripción](create-a-new-subscription.md). En la sección **Catálogo** de la página **Nueva suscripción**, selecciona un sector especializado para ver las ofertas especiales que puedes vender.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Vender Minecraft: Suscripciones de edición de educación para los clientes de educación](minecraft-subscriptions.md)
 

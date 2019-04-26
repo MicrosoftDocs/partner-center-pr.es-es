@@ -1,19 +1,19 @@
 ---
 title: Comprar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Puede comprar las reservas de Azure en nombre de sus clientes en el centro de partners.
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584718"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134685"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Comprar reservas de Microsoft Azure en nombre de sus clientes en el centro de partners 
 

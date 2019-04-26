@@ -10,11 +10,11 @@ keywords: Mercados CSP, territorios, donde puede i vender a través de CSP, ofre
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57588078"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134055"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados regionales del programa de proveedor de soluciones en la nube y monedas
 

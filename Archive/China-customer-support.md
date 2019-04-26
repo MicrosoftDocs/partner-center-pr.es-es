@@ -6,11 +6,11 @@ description: Procedimientos recomendados y los requisitos para proporcionar sopo
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585788"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132545"
 ---
 # <a name="customer-support"></a>Soporte al cliente
 
@@ -49,8 +49,8 @@ Para la copia más actualizada la compatibilidad con los requisitos, consulte el
 **Vea también**
 
 -   [Proporcionar soporte técnico](provide-technical-support.md)
--   [Proporcionar soporte técnico de facturación](provide-billing-support.md)
--   [Soporte de cliente](customer-self-support.md)
+-   [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
+-   [Autoservicio de asistencia al cliente](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>Escalar un problema al cliente de 21Vianet 

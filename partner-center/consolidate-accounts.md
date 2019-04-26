@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533858"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135093"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidar las cuentas de empresa
 
@@ -35,4 +35,4 @@ En la PMC era posible para cada ubicación tenga su propia competencias, sus pro
 
 En el centro de partners, ya que todas las cuentas de ubicación se consolidarán en una sola cuenta, las ventajas y las competencias se consolidan también. 
 
-Para obtener información sobre las diferencias entre la PMC y centro de partners lea [mover de PMC al centro de partners](pmc-pc-map.md)
+Para obtener información sobre las diferencias entre la PMC y centro de partners lea [mover de PMC al centro de partners](pmc-to-partner-center.md)

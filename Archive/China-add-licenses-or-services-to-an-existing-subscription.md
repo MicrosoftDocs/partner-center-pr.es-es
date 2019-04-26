@@ -6,11 +6,11 @@ description: Si el cliente necesita más puestos de su suscripción actual propo
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 32e22bd82cdff8ec785943723718a5cd271698a8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583808"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131715"
 ---
 # <a name="upgrade-an-existing-customer-subscription"></a>Actualizar una suscripción de cliente existente
 
@@ -80,4 +80,4 @@ Es posible, en los dos últimos casos, que el cliente que haya adquirido los sus
 2.  Seleccione la suscripción que desea actualizar. La suscripción **detalles** abre la página. Si la suscripción es apta para actualizarse, verá una nota sólo en el identificador de suscripción, que le solicitará que **actualizar ahora**.
 3.  Elija una oferta nueva y escriba el número de licencias que el cliente necesita. Selecciona **Enviar**.
 
->**Note**<br>Es posible que deba usar el centro de administración de Office 365 operado por 21Vianet para completar algunas tareas relacionadas con la actualización.
+>**Nota:**<br>Es posible que deba usar el centro de administración de Office 365 operado por 21Vianet para completar algunas tareas relacionadas con la actualización.

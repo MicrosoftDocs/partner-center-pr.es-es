@@ -1,19 +1,19 @@
 ---
 title: Leer factura | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el centro de partners.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584548"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133965"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 

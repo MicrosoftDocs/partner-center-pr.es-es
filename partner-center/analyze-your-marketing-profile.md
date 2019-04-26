@@ -1,18 +1,18 @@
 ---
 title: Analizar la eficacia de tu perfil de negocio | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Evaluar, negociar y responder a las referencias a través del Centro de partners.
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584518"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134915"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizar la eficacia de tu perfil de negocio
 <!-- 

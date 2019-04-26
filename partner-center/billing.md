@@ -1,19 +1,19 @@
 ---
 title: Facturación | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430124"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135375"
 ---
 # <a name="billing"></a>Facturación
 

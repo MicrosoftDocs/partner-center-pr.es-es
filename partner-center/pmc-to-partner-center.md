@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587108"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134631"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Transición de su cuenta de pertenencia del asociado de Partner Membership Center al centro de partners
 
@@ -56,7 +56,7 @@ Además el [PMC Guía de transición del centro de partners](https://assetsprod.
 
   Conecte las credenciales de aprendizaje de sus empleados a su perfil de negocio para garantizar un acceso continuo al Partner University y calificar para competencias.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 Una vez haya realizado correctamente la transición de su cuenta desde la PMC, revise estos artículos para familiarizarse más con el centro de partners.
 

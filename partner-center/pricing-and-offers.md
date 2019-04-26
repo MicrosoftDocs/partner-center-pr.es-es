@@ -1,18 +1,18 @@
 ---
 title: Precios y ofertas | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: La lista de ofertas incluye las familias de productos diferentes que se pueden adquirir a través del centro de partners y sus precios.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ab53b1bae26ac6d40f87ea80e2c58469d189c1e1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586738"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134095"
 ---
 # <a name="pricing-and-offers"></a>Precios y ofertas
 

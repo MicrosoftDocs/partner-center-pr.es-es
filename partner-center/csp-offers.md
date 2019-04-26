@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: Proveedor de soluciones en la nube, programa de proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de asociados, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server en suscripciones de cliente de Azure
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586718"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134815"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de partners en el programa Proveedor de soluciones en la nube 
 
@@ -28,7 +28,7 @@ Partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP) ti
 
 Actualmente, puedes vender los siguientes tipos de productos y servicios a tus clientes de CSP:
 
-- Reservas de Azure<br> 
+- Azure Reservations<br> 
 
     Los clientes pueden reservar espacio por adelantado en máquinas virtuales de Azure durante un plazo de 1 o 3 años.<br>
     

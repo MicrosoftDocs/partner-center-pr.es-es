@@ -1,17 +1,17 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Antes de inscribirte en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government, obtén más información sobre los requisitos del programa CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585648"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135585"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa Proveedor de soluciones en la nube de Microsoft Cloud for US Government
 
@@ -81,7 +81,7 @@ Microsoft Cloud for US Government proporciona una instancia diferente de Microso
 
 ## <a name="related-topics"></a>Temas relacionados
 
--  [Centro de partners de Microsoft Cloud for Government de EE. UU.](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [Administración de usuarios y licencias en el centro de partners de Microsoft Cloud para el gobierno estadounidense](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 

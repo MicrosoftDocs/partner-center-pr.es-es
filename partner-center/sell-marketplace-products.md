@@ -8,11 +8,11 @@ ms.author: jenhayes
 keywords: las suscripciones, Marketplace, tercero, ISV
 ms.localizationpriority: medium
 ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: 41b6e677db10ef8e5d12f9240d3450f085ee6d91
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "60124276"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133835"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Vender suscripciones a productos de Azure Marketplace
 

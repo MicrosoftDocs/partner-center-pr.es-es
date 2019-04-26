@@ -6,11 +6,11 @@ description: Recursos de desarrollo para el centro de partners operado por 21Via
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 26b919459ea6e1c409d3f22aa324d0b877822e8c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584288"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132195"
 ---
 # <a name="develop-for-partner-center-operated-by-21-vianet"></a>Desarrollo para el centro de partners operado por Vianet 21
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584288"
 
 Integrar su cliente, pedidos, facturación y soporte técnico de sistemas con sus propias aplicaciones mediante el kit de desarrollo de software.
 
->**Note**<br> La documentación del SDK para el centro de partners operado por 21Vianet está disponible en el sitio Web de Microsoft Developer Network (MSDN). Hay algunas diferencias entre el SDK para el centro de partners y el SDK de Partner Center operado por 21Vianet.
+>**Nota:**<br> La documentación del SDK para el centro de partners operado por 21Vianet está disponible en el sitio Web de Microsoft Developer Network (MSDN). Hay algunas diferencias entre el SDK para el centro de partners y el SDK de Partner Center operado por 21Vianet.
 Cada tema de ayuda describe si un miembro se aplica al centro de partners operado por 21Vianet en el **se aplica a** sección. Existen distintos puntos de conexión REST para el centro de partners operado por 21Vianet. Para obtener más información, consulte [referencia de API de REST del centro de partners](https://msdn.microsoft.com/en-us/library/partnercenter/mt667943.aspx).
 
 

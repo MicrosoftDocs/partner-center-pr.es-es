@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: suscripción, crear nuevos, agregar la suscripción, suspender, Cancelar, suspensión
 ms.localizationpriority: medium
 ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
-ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2019
-ms.locfileid: "57756922"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135025"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 

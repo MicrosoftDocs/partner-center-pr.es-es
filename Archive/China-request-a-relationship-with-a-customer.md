@@ -6,11 +6,11 @@ description: Solicitud de una relación de revendedor se utiliza para escenarios
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 7e4a5edb51521beedfda33aecb88e215375e0d86
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583978"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132525"
 ---
 # <a name="request-a-reseller-relationship-with-a-customer"></a>Solicitar una relación de revendedor con un cliente
 
@@ -23,7 +23,7 @@ Tiene que solicitar una relación de revendedor con un cliente cuando:
 -   Trabajar con otros distribuidores de [multipartner](multipartner.md) o [multicanal](multichannel.md) escenarios
 -   El cliente concedido delega privilegios administrativos a un socio diferente, y deberá restaurarlas para proporcionar el aprovisionamiento o soporte técnico
 
->**Note**<br> Este proceso agrega delegados privilegios administrativos. A menos que estuviese el revendedor original para la suscripción, no recibirá una factura para estas suscripciones. Además, no se puede quitar puestos, complementos de orden, transición o migrar las suscripciones o cambiar el Partner de registro.
+>**Nota:**<br> Este proceso agrega delegados privilegios administrativos. A menos que estuviese el revendedor original para la suscripción, no recibirá una factura para estas suscripciones. Además, no se puede quitar puestos, complementos de orden, transición o migrar las suscripciones o cambiar el Partner de registro.
 
 <a href="" id="requestarelationship"></a>
 **Para solicitar una relación de revendedor con un cliente**
@@ -33,7 +33,7 @@ Tiene que solicitar una relación de revendedor con un cliente cuando:
 3.  Envía el correo electrónico a tu cliente. Cuando el cliente sigue el vínculo en el correo electrónico, se toman al centro de administración de Office 365 operado por 21Vianet aceptar su solicitud.
 4.  Una vez que el cliente ha aceptado la solicitud, pueden revisar todos sus socios para los distintos servicios en la **relaciones empresariales** página, incluidos qué asociados tener delegados privilegios administrativos para cada servicio.
 
-    >**Note**<br> En el modelo de varios canales, los clientes pueden tener solo un asociado de CSP-intercambiar con los privilegios de administrador delegados por el servicio. 
+    >**Nota:**<br> En el modelo de varios canales, los clientes pueden tener solo un asociado de CSP-intercambiar con los privilegios de administrador delegados por el servicio. 
     
 5.  Después de haber establecido una relación de revendedor con el cliente, se agregan a la lista de clientes en el centro de partners. A continuación, puede aprovisionar y administrar las suscripciones de CSP para el cliente.
 

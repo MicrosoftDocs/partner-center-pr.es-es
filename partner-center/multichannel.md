@@ -1,18 +1,18 @@
 ---
 title: Multicanal | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587088"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134285"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
@@ -52,7 +52,7 @@ Característica de múltiples canales del centro de partners admite escenarios c
 > [!IMPORTANT]  
 > Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre versiones de características se anunciarán a través de los canales de comunicación habitual, incluido el centro de partners. 
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Trabajar con otros partners](work-with-other-partners.md)
 

@@ -1,17 +1,17 @@
 ---
 title: Convertirse en un administrador global de su empresa | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Para realizar muchas de las tareas en el centro de partners, primero debe comprobar la propiedad del dominio. Muchas tareas en el centro de partners requieren un administrador global. Si su compañía aún no tiene ninguna, puede convertirse en uno.
 author: LauraBrenner
 ms.author: labrenne
 keywords: dominio, comprobación de dominio, compruebe el dominio, el administrador global, roles de usuario, permisos
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584118"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135415"
 ---
 # <a name="verify-your-domain-ownership"></a>Verificar tu propiedad de un dominio
 

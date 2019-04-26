@@ -1,17 +1,17 @@
 ---
 title: Comprender los pagos de incentivos | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Mira las ganancias y pagos de los programas de incentivos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132905"
 ---
 # <a name="incentive-payouts-overview"></a>Información general de pagos incentivos
 
@@ -106,7 +106,7 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |EarningID      |Identificador único que se crea para cada apunte de ganancias. |               
 |Nombre del partner   | El nombre registrado del partner en el Centro de partners.                    |
 |MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
-|Ubicación       | El país o la región del identificador de MPN V-Org del partner.|
+|Location       | El país o la región del identificador de MPN V-Org del partner.|
 |Nombre del programa   |El nombre del programa de incentivos. |
 |Nombre del cliente  |   El nombre del cliente. |
 |Ubicación del cliente  | El país donde se encuentra el cliente.  |
@@ -151,7 +151,7 @@ En la siguiente tabla se describen los campos que aparecen en los archivos de ex
 |-------------------|:--------------------|
 |Nombre del partner|El nombre registrado del partner en el Centro de partners.|
 |MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
-|Ubicación       | El país o la región del identificador de MPN V-Org del partner.|
+|Location       | El país o la región del identificador de MPN V-Org del partner.|
 |Nombre del programa   |El nombre del programa de incentivos. |
 |Tipo de ganancia   |El tipo de ganancia (reembolso, ajuste). |
 |Divisa de importe del pago|   El tipo de divisa que se usa para el pago-|

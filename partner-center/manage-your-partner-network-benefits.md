@@ -1,18 +1,18 @@
 ---
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Explica cómo activar y administrar sus ventajas de suscripción en el centro de partners.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
-ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
-ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
-ms.translationtype: MT
+ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "57988219"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134395"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 

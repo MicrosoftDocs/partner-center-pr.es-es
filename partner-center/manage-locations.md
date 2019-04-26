@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: cuenta de socio, ubicaciones
 ms.localizationpriority: medium
 ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: 47282729538344f8cd9c0e89e61b9225ddc85ada
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "58635695"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134435"
 ---
 # <a name="manage-your-partner-account-locations"></a>Administrar la cuenta de socio: Ubicaciones
 

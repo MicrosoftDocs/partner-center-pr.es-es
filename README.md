@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132945"
+---
 # <a name="youve-added-your-first-readme-file"></a>Ha agregado el primer archivo Léame.
 Un archivo Léame.MD está pensado para orientar a los lectores lo que puede hacer su proyecto rápidamente.  ¿Nuevo en Markdown? [Más información](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
@@ -19,7 +27,7 @@ Cuando haya terminado de agregar detalles, haga clic en "Create Pull request". U
 
 ¿La primera vez que la creación de una solicitud de incorporación de cambios?  [Más información](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Enhorabuena. Ha completado el paseo por grand central de código fuente.
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>¡Enhorabuena! Ha completado el paseo por grand central de código fuente.
 
 # <a name="next-steps"></a>Pasos siguientes
 

@@ -1,19 +1,19 @@
 ---
 title: Escalar problemas a Microsoft | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Se espera que soluciones los problemas en nombre de los clientes. Sin embargo, existen varias categorías de aspectos que debe pasar a Microsoft a solucionar.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135675"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Escalar problemas a Microsoft
 

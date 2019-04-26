@@ -1,19 +1,19 @@
 ---
 title: Tareas de administración de usuarios para las cuentas de cliente | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Después de comprar una nueva suscripción para un cliente, puedes asignar licencias a usuarios específicos.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: administración de clientes, cuenta, crear cuenta de licencias, asignar licencias, administración de usuarios, contraseñas, restablecimiento de contraseña, cambiar contraseña
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134875"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
@@ -93,7 +93,7 @@ Si necesitas restaurar esta cuenta, puedes encontrarla en la pestaña **Usuarios
 ## <a name="related-topics"></a>Temas relacionados
 
 
-[Asignar o revocar licencias para varios usuarios](bulk-license-provisioning-for-multiple-users.md)
+[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
 
 [Crear varios usuarios para una cuenta de cliente](adding-multiple-users-to-a-customer-account.md)
 

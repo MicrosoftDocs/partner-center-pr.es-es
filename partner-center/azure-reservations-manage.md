@@ -1,19 +1,19 @@
 ---
 title: Administrar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Para administrar las reservas de Azure después de la compra de sus clientes, deberá seleccione la que desea administrar en el centro de partners de reserva y el cliente y, a continuación, realizar cambios en la reserva en el portal de Azure.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, las reservas de direcciones, administrar, facturación, adquirir, Cancelar, exchange, tasa de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584508"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134795"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
@@ -55,7 +55,7 @@ Consulte a continuación para las cuotas y los detalles de la cancelación.
 
 |**Fecha de cancelación**<br> (días)   |**Usage**    |**Credit**  |**Finalización prematura**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100 %       | No                              | 50.000 USD   |
+|5 o menos                         | No          | 100%       | No                              | 50.000 USD   |
 |5 o menos                         | Sí         | Proporcional  | No                              | 50.000 USD   |
 |Más de 5                        | No          | Proporcional  | 12%                             | 50.000 USD   |
 |Más de 5                        | Sí         | Proporcional  | 12%                             | 50.000 USD   |

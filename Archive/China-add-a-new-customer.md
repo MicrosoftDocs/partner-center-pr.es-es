@@ -6,11 +6,11 @@ description: Explica cómo agregar a un nuevo cliente en el centro de partners o
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: fbe381a3307c4e0e9eb4d53267550bbf8047f498
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584368"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132066"
 ---
 # <a name="add-a-new-customer"></a>Agregar un cliente nuevo
 
@@ -20,7 +20,7 @@ ms.locfileid: "57584368"
 
 Al crear la base de clientes en el mercado, agregar a nuevos clientes en el centro de partners.
 
->**Note**<br> Si desea ofrecer soluciones a los clientes que ya tienen cuentas de clientes y suscripciones a través de un [multicanal](multichannel.md) o [multipartner](multipartner.md) escenario, debería [solicitar un revendedor relación](request-a-relationship-with-a-customer.md) con ese cliente.
+>**Nota:**<br> Si desea ofrecer soluciones a los clientes que ya tienen cuentas de clientes y suscripciones a través de un [multicanal](multichannel.md) o [multipartner](multipartner.md) escenario, debería [solicitar un revendedor relación](request-a-relationship-with-a-customer.md) con ese cliente.
 
 **Agregar un nuevo cliente**
 

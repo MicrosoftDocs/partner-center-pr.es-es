@@ -6,11 +6,11 @@ description: Lo que puede esperar cuando se inscriba en el programa de proveedor
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584428"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132185"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>Inscribirse en el programa de revendedor de CSP de China 21Vianet
 
@@ -39,7 +39,7 @@ Durante el proceso de inscripción, deberá proporcionar la siguiente informaci�
 
 3. En el **crear una cuenta de centro de partners** página, rellene los detalles de su organización y, a continuación, escriba los detalles de la persona de su organización que quiere que tengan permisos de administrador global y el acceso al centro de partners. Selecciona **Continuar**.
 
-    >**Note**<br>La primera cuenta de centro de partners que cree será una cuenta de administrador global. Los administradores globales tienen acceso a todas las características administrativas en el centro de partners y son los únicos administradores que pueden asignar otros roles de administrador. Aunque puede tener más de un administrador global de su organización, se recomienda que solo unas pocas personas de su empresa tengan este rol para reducir el riesgo para su negocio.
+    >**Nota:**<br>La primera cuenta de centro de partners que cree será una cuenta de administrador global. Los administradores globales tienen acceso a todas las características administrativas en el centro de partners y son los únicos administradores que pueden asignar otros roles de administrador. Aunque puede tener más de un administrador global de su organización, se recomienda que solo unas pocas personas de su empresa tengan este rol para reducir el riesgo para su negocio.
     
 4. Para su protección, puede que se le pida para comprobar los detalles de su cuenta siguiendo un desafío de teléfono. Cuando se le pida que escriba un número de teléfono, use el número de teléfono de China de su organización. 
 
@@ -53,7 +53,7 @@ Durante el proceso de inscripción, deberá proporcionar la siguiente informaci�
 
 6. Cuando reciba el correo electrónico que le notifica que ha sido aprobado para revenda los servicios de CSP en China, inicie sesión en [centro de partners](https://partner.partnercenter.microsoftonline.cn/pcv/dashboard/overview) con las credenciales que se guardó en el paso 4 y seleccione **Aceptar y continuar** a firmar digitalmente el acuerdo de revendedor CSP de 21Vianet.
  
-    >**Note**<br>Configurar la cuenta del centro de partners nos tardar varias horas en completarse. Cierre la sesión de centro de partners y, a continuación, iníciela de nuevo más tarde.
+    >**Nota:**<br>Configurar la cuenta del centro de partners nos tardar varias horas en completarse. Cierre la sesión de centro de partners y, a continuación, iníciela de nuevo más tarde.
 
 ## <a name="get-started-with-partner-center"></a>Empezar a trabajar con el Centro de partners
 

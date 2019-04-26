@@ -1,19 +1,19 @@
 ---
 title: Ver los registros de actividades de los clientes | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: los registros de actividad, suscripción, suscripciones, los pagos, facturación, las transacciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586068"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134505"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 

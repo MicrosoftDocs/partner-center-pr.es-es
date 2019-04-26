@@ -1,18 +1,18 @@
 ---
 title: Trasladarse del Centro de administración de partners al Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Encuentra las características que te has acostumbrado a usar en el Centro de administración de partners en el Centro de partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, administrador de Office 365, características de PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 7200f93a25f74903805d095bbd821e07758873ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584138"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134321"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Mover desde el centro de administración de socios (PAC) en el centro de partners
 

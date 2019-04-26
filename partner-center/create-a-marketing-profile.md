@@ -9,11 +9,11 @@ ms.author: labrenne
 keywords: pinpoint, referencias, oportunidades de ventas, C2PC, perfil de la empresa, comercializar tu empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: medium
 ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
-ms.sourcegitcommit: a7b7cd2d436003eed7fc9136146d061342b4677d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "58462519"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134975"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

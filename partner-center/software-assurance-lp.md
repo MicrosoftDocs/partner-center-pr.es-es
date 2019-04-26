@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587618"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133867"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Participar en programas de Software Assurance
 
@@ -20,7 +20,7 @@ Participación en programas de Software Assurance, incluidos los cupones de form
 |**Para obtener información acerca de**   |**Lea este**   |
 |--------------------------|:------------------|
 |Inscripción en el programa de cupones de formación de Software Assurance (SATV)|[Programa de Software Assurance entrenamiento asientos (SATV) en el centro de partners](software-assurance-satv.md)|
-|Mediante la herramienta de validación del vale y canje|[Utilice la herramienta de validación del vale y canje en Centro de partners para validar, reservar y canjear vales](voucher-validation-tool.md)|
+|Uso de la herramienta de validación y canje de vales|[Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales](voucher-validation-tool.md)|
 |Inscripción en lo servicios de planificación de Software Assurance|[Servicios de planificación de Software Assurance en el centro de partners](software-assurance-dps.md) 
 
 

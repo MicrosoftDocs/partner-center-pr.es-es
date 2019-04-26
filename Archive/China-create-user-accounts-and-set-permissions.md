@@ -6,11 +6,11 @@ description: Cómo crear cuentas de usuario para los empleados que necesitan ten
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a96c7fedacbb177c93ae19c5ff4f1a241905be4b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584448"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132381"
 ---
 # <a name="create-user-accounts-and-set-permissions"></a>Crear cuentas de usuario y establecer permisos
 
@@ -44,7 +44,7 @@ Acceso de centro de partners está basado en roles, lo que significa que puede r
 
 -   El **admin** configuración determina cuánto acceso a las características del centro de partners, funciones y datos del usuario. 
 
-    >**Note**<br>El valor predeterminado debe ser **ningún administrador** en la mayoría de los casos, a menos que el empleado requiere permisos para completar tareas administrativas específicas.
+    >**Nota:**<br>El valor predeterminado debe ser **ningún administrador** en la mayoría de los casos, a menos que el empleado requiere permisos para completar tareas administrativas específicas.
 
 ####<a name="partner-center-roles-and-associated-permissions"></a>Centro de partners roles y permisos asociados
 

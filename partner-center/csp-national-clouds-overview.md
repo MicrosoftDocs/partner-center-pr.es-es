@@ -1,18 +1,18 @@
 ---
 title: Se aplican para vender en la nube nacional de Microsoft| Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Los partners de Microsoft del programa Proveedor de soluciones en la nube pueden vender a los clientes inscritos en las nubes nacionales compatibles.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: nubes nacionales, Microsoft Cloud Alemania, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584238"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134825"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Se aplican para vender en las nubes nacionales de Microsoft
 

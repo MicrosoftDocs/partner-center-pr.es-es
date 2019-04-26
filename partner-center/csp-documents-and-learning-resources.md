@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: guías del programa csp, guía del programa, acuerdos de partners, acuerdo de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
 ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58508972"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134995"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía de programas del proveedor de soluciones en la nube, acuerdos, listas de precios y ofertas
 

@@ -1,18 +1,18 @@
 ---
 title: Preguntas frecuentes de confirmación de aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Preguntas más frecuentes sobre la confirmación de aceptación del cliente
 author: LauraBrenner
 ms.author: v-petand
 keywords: cliente, los clientes, consentimiento, preguntas más frecuentes, MCA, contrato en la nube de Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587408"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135015"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Preguntas frecuentes de confirmación de aceptación del cliente del Contrato de Microsoft Cloud
 
@@ -57,7 +57,7 @@ No hay ningún proceso de notificación.
 
 **¿Por qué es Microsoft que requieren los asociados confirmar que los clientes han aceptado el contrato de la nube de Microsoft?** 
 
-El contrato en la nube de Microsoft protege Microsoft, clientes y socios proporcionando derechos de uso del cliente, términos y condiciones concedidas para pedidos de productos y servicios de Microsoft Cloud. 
+El Contrato de Microsoft Cloud protege a los partners, a los clientes y a Microsoft, proporcionando los derechos de uso del cliente, los términos y las condiciones que se aplican a los pedidos de productos y servicios de Microsoft Cloud. 
 
 Ejecución correcta del contrato en la nube de Microsoft protege nuestros socios, clientes y Microsoft asegurándose de alineación mutua sobre muchos temas importantes incluidos pero sin limitarse a seguridad, privacidad y protección de datos. El proceso de confirmación garantiza la transparencia y la alineación y permite a Microsoft ayudar mejor a los clientes que necesitan para responder rápidamente a las consultas de las disposiciones legales.
 

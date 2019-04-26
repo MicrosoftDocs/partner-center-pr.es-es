@@ -6,11 +6,11 @@ description: Tú eres el responsable financiero de las compras fraudulentas que 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583858"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132555"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -46,7 +46,7 @@ Para resolver la actividad fraudulenta o uso indebido, tiene las siguientes opci
 
 **Vea también**
 
--   [Proporcionar soporte técnico de facturación](provide-billing-support.md)
+-   [Proporcionar soporte técnico sobre la facturación](provide-billing-support.md)
 -   [Asistencia al cliente](customer-support.md) 
 
  
