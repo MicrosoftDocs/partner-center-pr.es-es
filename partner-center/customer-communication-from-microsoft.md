@@ -1,19 +1,19 @@
 ---
 title: Comunicación con el cliente de Microsoft | Centro de partners
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: En general, esperamos que todas las comunicaciones con el cliente provengan del partner de Proveedor de soluciones en la nube.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: comunicación, comunicaciones con clientes, hablar con Microsoft
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8dc78c78418c3d111ad83bc4a5ef5e304a0b90e7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586678"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134705"
 ---
 # <a name="customer-communication-from-microsoft"></a>Comunicación con el cliente de Microsoft
 
