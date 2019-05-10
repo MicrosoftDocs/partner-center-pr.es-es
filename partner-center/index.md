@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134614"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035518"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenido al Centro de partners
 
-El Centro de partners de Microsoft es una ubicación única que le permite administrar las relaciones globales con Microsoft. Dispone de herramientas y recursos que le ayudarán a realizar transacciones y a hacer crecer su empresa, e incluye opciones de pertenencia, referencias de los clientes y el programa Proveedor de soluciones en la nube. Conozca más información sobre los procedimientos recomendados para administrar la cuenta, conectarse con los clientes, comprar una suscripción de Action Pack e inscribirse en un programa de incentivos en la biblioteca de ayuda del Centro de partners.
+El Centro de partners de Microsoft es una ubicación única que le permite administrar las relaciones globales con Microsoft. Dispone de herramientas y recursos que te ayudarán a realizar transacciones y a hacer crecer el negocio, e incluye opciones de pertenencia, referencias de los clientes y el programa Proveedor de soluciones en la nube. Conozca más información sobre los procedimientos recomendados para administrar la cuenta, conectarse con los clientes, comprar una suscripción de Action Pack e inscribirse en un programa de incentivos en la biblioteca de ayuda del Centro de partners.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -85,9 +85,9 @@ El Centro de partners de Microsoft es una ubicación única que le permite admin
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Programas de Software Assurance</h3>
-                        <p>Ahora puede inscribirse en los servicios de formación e implementación de Software Assurance en el Centro de partners.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Cambio de PMC a PC</h3>
+                        <p>Obtén información sobre cómo preparar la empresa para el cambio al Centro de partners</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ El Centro de partners de Microsoft es una ubicación única que le permite admin
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Herramienta de validación y canje de vales</h3>
-                        <p>Solicite y canjee vales que le permitan satisfacer las necesidades empresariales y de desarrollo de sus clientes.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Programa Proveedor de servicios de administración para expertos de Azure</h3>
+                        <p>¿Es tu empresa líder en ventas y soporte técnico de Azure? Más información sobre la inscripción en el programa Proveedor de servicios de administración para expertos de Azure</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ El Centro de partners de Microsoft es una ubicación única que le permite admin
                     </div>
                     <div class="cardText">
                         <h3>Regístrate</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Crear una cuenta</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Administrar el inquilino y las ubicaciones</a></p>
+                        <p><a href="/partner-center/manage-locations">Administración de las ubicaciones</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Administración del inquilino</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ El Centro de partners de Microsoft es una ubicación única que le permite admin
                     </div>
                     <div class="cardText">
                         <h3>Conectar con clientes</h3>
-                        <p><a href="/partner-center/customer-accounts">Cuentas de cliente</a><br /><a href="/partner-center/customer-subscriptions">Vender suscripciones</a><br /><a href="/partner-center/assign-licenses-to-users">Administrar licencias</a><br /><a href="/partner-center/billing">Facturación</a></p>
+                        <p><a href="/partner-center/csp-offers">Adquisición de productos para los clientes</a><br /><a href="/partner-center/customer-subscriptions">Vender suscripciones</a><br /><a href="/partner-center/assign-licenses-to-users">Administrar licencias</a><br /><a href="/partner-center/billing">Facturación</a></p>
                     </div>
                 </div>
             </div>
