@@ -2,6 +2,11 @@
 
 # [Suscripción a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
+## Cambio de PMC al Centro de partners
+### [Guía sobre el cambio de PMC al Centro de partners](guide-to-migration.md)
+### [Comparación rápida de las diferencias entre PMC y el Centro de partners](move-pmc-pc-map.md)
+### [Guía para cambiar varias empresas al Centro de partners](move-multiple-companies.md)
+### [Consolidación de las empresas](consolidate-accounts.md)
 ## Ofertas de suscripción
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar tus ofertas](renew-mpn-offers.md)
@@ -58,7 +63,6 @@
 ## [Usar los archivos de conciliación](use-the-reconciliation-files.md)
 ## [Impuestos y exenciones fiscales](tax-and-tax-exemptions.md)
 ## [Información del IVA de la organización](organization-tax-info.md)
-## [Límites de crédito de la cuenta del Proveedor de soluciones en la nube](account-credit-limit.md)
 ## [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
 ## [Escenarios comunes de facturación](common-billing-scenarios.md)
 ## [Impago, fraude o uso incorrecto](non-payment--fraud--or-misuse.md)
