@@ -1,18 +1,18 @@
 ---
 title: Hacer crecer tu negocio de partner de Microsoft | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: Recursos para hacer crecer tu negocio de partner de Microsoft. Incluye información sobre cómo obtener oportunidades de ventas (referencias) de Microsoft.
 keywords: referencias, responder a las referencias, clientes potenciales, oportunidades de ventas, perfil de marketing, perfil de negocio, hacer crecer tu negocio, oportunidades de negocio, competencias, suscripción silver, suscripción gold, ofertas de evaluación, expansión de mercado, nubes nacionales
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135635"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176164"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Haz crecer tu negocio de partner de Microsoft 
 
@@ -33,7 +33,7 @@ Usar el Centro de partners para:
 
 |  **Para ello**  |  **Lea esta para obtener información sobre cómo**  |  **Se aplica a**  |
 |--------------|-----------|--------------
-| Obtener y administrar ventas potenciales | Para empezar, debes [crear un perfil de negocio](create-a-marketing-profile.md) para que los clientes puedan encontrar proveedores de soluciones y luego debes leer [Administrar oportunidades de ventas en el Centro de partners](responding-to-referrals.md). | Todos los partners de red |
+| Obtener y administrar ventas potenciales | Empiece por [crear un perfil de negocio](create-a-marketing-profile.md) para que los clientes puedan encontrarle al buscar los proveedores de soluciones y, a continuación, obtenga información sobre [responde a las referencias a](responding-to-referrals.md). | Todos los partners de red |
 | Obtener el estado de partner Silver o Gold | Consulta [Competencia de los partners](https://partner.microsoft.com/membership/competencies) en el sitio de Microsoft Partner Network para obtener información sobre cómo calificar para los niveles de suscripción Silver o Gold. Cuando estés listo para trasladar tu información de competencia al Centro de partners, lee [Administrar tus competencias en el Centro de partners](competencies.md). | Todos los partners de red |
 | Ofrecer suscripciones de evaluación de clientes a productos de Microsoft (partners de CSP) | Lee [Ofrecer evaluaciones de clientes de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md) para descubrir cómo usar las suscripciones de evaluación para vender más a tu base de clientes.| Partners de CSP |
 | Ofrecer precios promocionales de clientes a suscripciones de Microsoft | En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite pasar los ahorros a los clientes y hacer crecer tu negocio. Lee [Ofrecer precios promocionales de clientes a suscripciones de Microsoft](promotions.md) para obtener más información. | Partners de CSP |

@@ -1,19 +1,19 @@
 ---
 title: Responder a las referencias | Centro de partners
 ms.topic: article
-ms.date: 03/11/2019
+ms.date: 05/23/2019
 description: Como asociado de Microsoft completo, puede evaluar, negociar y responder a las referencias a través del centro de partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: referencia, RFI, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 390dfc47fb091dcbece992d6a62c32afea1eb0a2
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133943"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176173"
 ---
 # <a name="respond-to-referrals"></a>Responder a las referencias
 
@@ -31,28 +31,36 @@ Empieza mediante la configuración de un [perfil de negocio](create-a-marketing-
 *  Ventas internas de Microsoft y agentes de servicios
 *  Cliente de búsqueda, utilizando el **[proveedor de soluciones](https://www.microsoft.com/solution-providers/home)** herramienta de búsqueda.
 
-Cuando un cliente está interesado en aprender más acerca de las soluciones y servicios, pondremos en contacto mediante el envío de una solicitud de información (RFI). La información de contacto en su [perfil de negocio](create-a-marketing-profile.md) específica a la región y la ubicación seleccionada recibirá un correo electrónico generado por el sistema. También puede ver RFI entrante en el centro de partners, vaya a **referencias > las referencias de cliente**.
+Cuando un cliente está interesado en aprender más acerca de las soluciones y servicios, pondremos en contacto mediante el envío de una solicitud de información (RFI). La información de contacto en su [perfil de negocio](create-a-marketing-profile.md) específica a la región y la ubicación seleccionada recibirá un correo electrónico generado por el sistema. También puede ver RFI entrante en el centro de partners, vaya a **referencias > contrataciones > Bandeja de entrada**.
 
-Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para aumentar la probabilidad de éxito, se recomienda aceptar o rechazar las referencias nuevo dentro de 24 horas o menos.
+Los clientes a menudo optan por enviar la misma RFI a varias empresas al mismo tiempo. Para aumentar la probabilidad de éxito, se recomienda aceptar o rechazar las referencias de engagement nuevo dentro de 24 horas o menos.
 
 ### <a name="new-referrals"></a>Nuevas referencias
 
-En su **Bandeja de entrada**, le mostraremos una visión general de la RFI. Desde aquí, puede decidir si le interesa la referencia. 
+En su **Bandeja de entrada**, le mostraremos una visión general de la RFI. Desde aquí, puede decidir si le interesa la referencia.
 
-Revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información acerca de sus necesidades empresariales. A continuación, acepte o rechace la referencia: 
+Revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información acerca de sus necesidades empresariales. A continuación, acepte o rechace la referencia:
 
-*  **Aceptar**: Escriba el valor de la cantidad estimada, la fecha estimada de cierre y seleccione **Accept**. Moveremos a la referencia a **Active**, lo que significa que se va a participar activamente con el cliente para abordar sus necesidades. También vamos a usar esta información para ayudarle a encontrar trata similar en el futuro.
-*  **Rechazar**: Deberá archivarlo como **rechazada** y notificar a los clientes elegir otro asociado.
+*  **Aceptar**: Escriba un nombre para la interacción, el valor de cantidad estimado y el período de tiempo estimado de compra. También debe proporcionar información en el **notas** campo explicar más sobre lo que el cliente está buscando. Opcionalmente, puede especificar su Id. de CRM (solamente para su referencia) y agregar contactos adicionales de su empresa. Cuando haya terminado, seleccione **siguiente**. Moveremos a la referencia a **Active**, lo que significa que se va a participar activamente con el cliente para abordar sus necesidades. También vamos a usar esta información para ayudarle a encontrar trata similar en el futuro.
+*  **Rechazar**: Seleccione el motivo está disminuyendo la contratación y agregar las notas que le gustaría incluir y, después, seleccione **cerrar engagement**. Deberá archivarlo como **rechazada** y notificar a los clientes elegir otro asociado.
 
 Si no responde dentro del período de tiempo asignado (actualmente 14 días), deberá archivar como **expirado** y notificar a los clientes elegir otro asociado.
+
+> [!TIP]
+> Un cliente tiene la opción de solicitar explícitamente que los asociados interesados en contacto con ellos directamente. Si esto sucede, verá una alerta en la parte superior de la página con un icono de llamas. Se recomienda ponerse en contacto con póngase en contacto con el cliente lo antes posible para mejorar las posibilidades de ganar la contratación. Tras 72 horas, la referencia seguirá estando activo, pero cambiarán el icono y el mensaje. Todavía debe ponerse en contacto con el cliente si está interesado en la referencia.
 
 ### <a name="active-referrals"></a>Referencias a activos
 
 Trabaja para cerrar el trato con el cliente. Cuando haya terminado, seleccione **ganó** o **perdidos** para informar del resultado, por lo que nos podemos archivarlos en consecuencia.
 
+Si desea cambiar cualquiera de la información que has proporcionado para una referencia activa, seleccione **editar engagement**. A continuación, puede actualizar el nombre de contratación, fecha de compra estimado, valor estimado, notas o su ID. CRM
+
+También puede seleccionar **Agregar contacto** para proporcionar el nombre, número de teléfono y direcciones de las otras personas que trabajan en la contratación de correo electrónico.
+
+
 ### <a name="archived-referrals"></a>Referencias archivadas
 
-Revisar las referencias a los últimos (**ganado, perdido, rechazado** o **expirado**) en cualquier momento. 
+Revisar las referencias a los últimos (**ganado, perdido, rechazado** y **expirado**) en cualquier momento. 
 
 ## <a name="getting-more-referrals"></a>Obtener más referencias
 

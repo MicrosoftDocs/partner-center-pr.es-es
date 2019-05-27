@@ -1,25 +1,25 @@
 ---
 title: Vender suscripciones de software a través de CSP | Centro de partners
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: Ahora puede adquirir, aprovisionar y administrar instancias reservadas de Azure y suscripciones de servidor en el nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal aprovechando la Ventaja híbrida de Azure.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134745"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176190"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender suscripciones de software a través de CSP
 
-Comercializando las reservas de Azure y Windows Server y las suscripciones de SQL Server con el programa CSP de Microsoft, Microsoft mejor permite que sus asociados abordar la creciente demanda de los clientes para otras soluciones más económicas admitir extremadamente predecible y cargas de trabajo en la nube persistentes. 
+Con reservas de Azure y las suscripciones de servidor (Windows Server y las suscripciones de SQL Server), los asociados en el sistema puede CSP mejor dirección la creciente demanda de los clientes soluciones más económicas admitir altamente predecible y persistentes en la nube las cargas de trabajo. 
 
-Ahora puede adquirir, aprovisionar y administrar las reservas de Azure y las suscripciones de servidor en nombre de los clientes comerciales a través de Microsoft Partner Center y el Portal de Azure aprovechando las ventajas de la ventaja híbrida de Azure. 
+Ahora puede adquirir, aprovisionar y administrar las reservas de Azure y las suscripciones de servidor en nombre de los clientes comerciales a través del centro de partners y el Portal de Azure aprovechando las ventajas de la ventaja híbrida de Azure. 
 
 La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias de Windows Server y a ahorrar un máximo del 40 por ciento en máquinas virtuales. Puedes usar la ventaja con las licencias de las ediciones Standard y Datacenter de Windows Server cubiertas con Software Assurance. Dependiendo de la edición, puede convertir o volver a usar sus licencias para ejecutar máquinas virtuales Windows Server en Azure y pagar una tarifa de proceso base inferior (máquina virtual Linux tasas, por ejemplo,).
 
@@ -59,6 +59,16 @@ Después de adquirir la suscripción al software, siga los pasos siguientes para
 
 >[!NOTE]
 >Este vínculo expirará después de dos semanas o 50 descargas, lo que ocurra primero. Una vez que expire el vínculo, vuelve a esta página y selecciona **Obtener claves y descargas** otra vez para habilitar otras dos semanas o 50 descargas. Puedes hacerlo tantas veces como sea necesario. 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Ver la actividad de acceso de clave de software y las descargas de software
+Para fines de auditoría o cumplimiento normativo, necesita comprobar una lista de los usuarios que han tiene acceso a claves de software de suscripción de servidor o descargar el software de suscripción de servidor. Utilice el procedimiento siguiente para acceder a esta información. 
+
+>[!NOTE]
+>Debe ser un administrador Global, Administrador de cuenta, Administrador de referencias o administrador de contenido de Marketing para ver estos registros de actividad. 
+
+1.  En el centro de partners, seleccione el icono de engranaje en la esquina superior derecha. 
+2.  En el menú, seleccione **registro de actividad**.
+3.  Especificar el intervalo de fechas para la actividad que desea ver. El registro de actividad mostrará una lista de los usuarios que han tiene acceso a las claves de software o descargado el software durante el tiempo especificado. 
 
 ## <a name="cancel-a-purchase"></a>Cancelar una compra
 

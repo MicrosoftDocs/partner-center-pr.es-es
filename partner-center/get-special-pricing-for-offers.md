@@ -1,18 +1,18 @@
 ---
 title: Vender en sectores especializados | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft ofrece precios especiales, reduciendo para seleccionar grupos de clientes, incluidos los clientes de educación, los clientes sin ánimo de lucro y usuarios de la administración.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135665"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623802"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -32,6 +32,8 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
+
+Los pasos siguientes solo son aplicables a los proveedores indirectos y dirigir los asociados de la factura. Los revendedores indirectos necesitan conectarse con un proveedor indirecto para proporcionar ofertas de precios de academic a los usuarios de formación completo. 
 
 1.  En el panel de partners, selecciona el icono de engranaje ubicado en la esquina superior derecha de la ventana para abrir **Configuración de la cuenta**.
 2.  En tu **Perfil de partner**, en la sección **Información del programa**, busca **Cualificaciones de revendedor**.
