@@ -17,6 +17,9 @@
 ### [Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales](voucher-validation-tool.md)
 ### [Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales](vvr-faq.md)
 ### [Servicios de planeación de Software Assurance del Centro de partners](software-assurance-dps.md)
+## Facturas e impuestos
+### [Facturas e impuestos en Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+
 
 # [Proveedor de soluciones en la nube](csp-overview.md)
 ## [Inscribirse en el programa Proveedor de soluciones en la nube](enrolling-in-the-csp-program.md)
