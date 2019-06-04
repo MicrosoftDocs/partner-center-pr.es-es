@@ -2,6 +2,7 @@
 
 # [Suscripción a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
+## [Estructura de cuentas en el Centro de partners](account-structure.md)
 ## Cambio de PMC al Centro de partners
 ### [Guía sobre el cambio de PMC al Centro de partners](guide-to-migration.md)
 ### [Comparación rápida de las diferencias entre PMC y el Centro de partners](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [Leer tu factura](read-your-bill.md)
 ## [Usar los archivos de conciliación](use-the-reconciliation-files.md)
 ## [Impuestos y exenciones fiscales](tax-and-tax-exemptions.md)
+## [Asegúrese de que se le abona la retención de impuestos](withholding-tax-credit-form.md)
 ## [Información del IVA de la organización](organization-tax-info.md)
 ## [Establecer un presupuesto de gastos de Azure para tus clientes](set-an-azure-spending-budget-for-your-customers.md)
 ## [Escenarios comunes de facturación](common-billing-scenarios.md)
