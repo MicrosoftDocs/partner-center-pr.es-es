@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447957"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458877"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de partners
 
@@ -34,6 +34,8 @@ La PGA puede tener ubicaciones de negocio adicionales debajo de él. Cada ubicac
 - Ver la lista de cuentas de asociado de ubicación de configuración asociado -> ubicaciones.
 - Todas las cuentas de ubicación son del mismo nivel y en la cuenta principal Global.
 - Administradores de cuentas pueden agregar o quitar ubicaciones.
+
+![Estructura de la cuenta](images/accountstructure.png)
 
 Para obtener más información sobre la administración de ubicaciones, lea [Administre su cuenta de asociado: Ubicaciones](manage-locations.md). 
 
