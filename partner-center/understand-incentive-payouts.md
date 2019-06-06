@@ -1,172 +1,69 @@
 ---
 title: Comprender los pagos de incentivos | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2019
 description: Mira las ganancias y pagos de los programas de incentivos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f15570d31ab2292109b998b07f6823ab09df486f
+ms.sourcegitcommit: eb0d75f0669343166668054c20d3123fa39c011d
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132905"
+ms.lasthandoff: 06/05/2019
+ms.locfileid: "66719455"
 ---
-# <a name="incentive-payouts-overview"></a>Información general de pagos incentivos
+# <a name="view-your-incentives-payments-information"></a>Ver la información de los pagos incentivos
 
 **Se aplica a**
 
 -  Centro de partners
 
-Los administradores y usuarios de incentivos obtienen un resumen de las ganancias y los pagos que han recibido o van a recibir por sus programas de incentivos.   
+Utilice estas páginas para ver los detalles de los últimos, pendiente y los pagos próximas, así como el historial de la transacción completa. También puede descargar o exportar información detallada para cualquier transacción. Todas las páginas de incentivos muestran importes en dólares estadounidenses. 
 
-## <a name="summary-information-on-earnings-and-payout"></a>Información de resumen sobre ganancias y pagos
+>[!Note]
+>Solo verá datos para el Id. de MPN y programas que están asociados. Si desea obtener acceso a datos adicionales, consulte al administrador de incentivos. 
 
-Los usuarios y administradores de incentivos pueden ver su posición financiera en los programas de incentivos en los que están participando en **Resumen de pagos**. Puedes analizar cada área de la información de resumen según sea necesario. 
+## <a name="access-the-incentives-pages"></a>Acceder a las páginas de incentivos
 
-En la página de resumen, puedes seguir tendencias que analizan en qué meses recibes pagos y por qué tipo de programa. En cambio, también puedes ver lo que has obtenido por programa y por ubicación. Esto te permite entender dónde has tenido éxito y dónde podrías reforzar tus esfuerzos en ventas y marketing. La página de resumen de pagos muestra las ganancias y los pagos. Los datos de incentivos se actualizarán cada 48 horas. Los gráficos y tablas reflejan la información más reciente. 
+Para abrir una de las páginas de incentivos:
 
-Hay tres indicadores clave que se usan en la página de resumen:
+1.  Seleccione el **dinero** situado en la esquina superior derecha.
 
-|**Indicadores clave**   |**Definición**   |
-|---------------------|:-----------------|
-|Total pagado hasta la fecha|Cantidad de dinero que Microsoft te ha pagado|
-|Ganancias sin pagar|Cantidad de dinero que has ganado pero no se ha programado para pagarse|
-|Próximo pago| Cantidad de dinero que se ha programado para pagar|
+2.  Seleccione **pagos**, **historial de transacciones**, o **exportar datos**.
 
+## <a name="payments-page"></a>Página de pagos
 
-Analiza las ganancias y los pagos de cada uno de los programas de incentivos. Realizar un seguimiento de la línea de tiempo entre las ganancias y los pagos será útil para planificar las necesidades de recursos futuras y mucho más. También puedes descubrir las ubicaciones con más éxito o más actividad en los programas de incentivos. 
+Los totales en esta página representan todos los identificadores de MPN que utilice. Puede filtrar por Id. del participante, programa, Id. de pago y tipo Earning. Se proporcionan los importes en dólares estadounidenses. El valor de pago también se muestra en el pago a la moneda. 
 
-## <a name="payment-trends"></a>Tendencias de pago
+Para exportarlos datos de transacciones en esta página, seleccione **exportar** y después siga las instrucciones en la página de datos de exportación. 
 
-La sección de tendencias de pago del resumen te muestra los pagos desglosados por los programas en los que estás inscrito. La vista de tendencias de pago se controla mediante el filtro de datos de la página. El calendario de pagos la determina el diseño del programa. Consulta la guía del programa para obtener más detalles. 
-
-## <a name="total-earnings-map"></a>Mapa de ingresos totales
-
-El mapa de ingresos totales te muestra qué zonas has ganado dinero. En el mapa en qué lugar has realizado una transacción. Esto significa que si realizaste una venta en Estados Unidos, la verás reflejada en el mapa. Esta vista es independiente de los programas. 
-
-## <a name="product-earnings-summary"></a>Resumen de las ganancias de productos
-
-La tabla de ganancias y pagos de programa/producto muestra un desglose de la cantidad total de ingresos, las ganancias sin pagar, los pagos próximos y el total pagado hasta la fecha por programa/producto. 
-
-
-
-## <a name="analyze-incentives-earnings"></a>Análisis de las ganancias de incentivos
-
-Descubre las oportunidades de lograr más ganancias de tu organización con los programas de incentivos y dónde qué te han pagado ya. Esta información te aclara las facturas que están pendientes de cobrar.  Conoce los programas y las actividades que han tenido mayor éxito y descubre las ubicaciones que están obteniendo ganancias. En cada programa puedes ver las posibles ganancias totales, el tiempo durante el que puedes participar en el programa y cuándo caduca. Cada programa y cada tipo de ganancia tendrán distintos requisitos y fechas de inicio y fin. 
-
-## <a name="earning-trends"></a>Tendencias de ganancias 
-
-El gráfico de tendencias de ganancias muestra la dirección general de desarrollo o cambio de tus ganancias. La vista del gráfico está controlada por el selector de intervalo de fechas y mostrará datos en función del intervalo que selecciones. 
-
-### <a name="earning-trends-category-definitions"></a>Definiciones de las categorías de tendencias de ganancias
-
-|   |**Definiciones**   |
-|----------------|:--------------|
-|Ganancias pagadas|Las ganancias pagadas correctamente.|
-|Ganancias sin pagar|Las ganancias que aún no se han programado para pagarlas.|
-
-### <a name="earning-types"></a>Tipos de ganancias
-
-Existen dos tipos de ganancias:
-
-- Reembolso
-- Ajuste
-
-## <a name="unpaid-earnings-summary"></a>Resumen de ganancias sin pagar
-
-La tabla de ganancias sin pagar te muestra un resumen de las ganancias sin pagar que no se han programado para su pago. Está dividida por programa/producto y por el tipo de ganancia. Puedes ver la fecha de inicio de la ganancia y la fecha de finalización. La fecha activa de la ganancia es el momento en el que las ganancias son elegibles para un pago. La fecha de expiración se puede aplicar si las ganancias pueden caducar y no pagarse.
-
-## <a name="payments-and-statements"></a>Pagos y extractos
-
-El mapa de la página de extractos y pagos te muestra los pagos procedentes de transacciones basados en ubicación. Por ejemplo, si has realizado una venta en Estados Unidos y has recibido un pago por ella, aparecerá en el mapa. Esta vista es un agregado de todos los programas en los que participas.
-
-## <a name="payments"></a>Pagos
-
-La tabla de los pagos presenta todos los pagos que se han realizado en los últimos 12 meses. Está desglosada por programa y por el tipo de ganancia. Puedes ver cuándo se inició el período de la ganancia y cuando se ha completado. Cuando el pago se envíe al banco, verás la fecha de pago y el identificador del pago.
-
-## <a name="statements"></a>Extractos
-
-Los extractos se generan cuando se envía un pago al banco. Haz clic en **Ver** para ver los detalles de los pagos. 
-
-Descargar transacciones muestra una vista detallada de las transacciones y las ganancias asociadas con los pagos que se han producido ese mes. 
-
-Descargar detalles de pagos desglosa los pagos detalladamente. Si un pago se ha dividido en varios, puedes ver cómo se dividió en esta vista de detalles. 
-
-
-## <a name="download-earnings-and-payment-details"></a>Descargar detalles de ganancias y pagos
-
-En la siguiente tabla se describen los campos que aparecen en los archivos de extractos .csv. Ten en cuenta que los campos exactos que puedes ver variar a medida que seguimos actualizando el informe.
-
-## <a name="downloading-earnings-transactions"></a>Descargar transacciones de ganancias 
-
-|**Field**        |**Definición**     |
-|--------------------|:-------------------------------------------------|                                                 
-|EarningID      |Identificador único que se crea para cada apunte de ganancias. |               
-|Nombre del partner   | El nombre registrado del partner en el Centro de partners.                    |
-|MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
-|Location       | El país o la región del identificador de MPN V-Org del partner.|
-|Nombre del programa   |El nombre del programa de incentivos. |
-|Nombre del cliente  |   El nombre del cliente. |
-|Ubicación del cliente  | El país donde se encuentra el cliente.  |
-|Número de contrato marco    |Nombre de contrato. |
-|InvoiceNumber| Número de factura|
-|Número de contrato   |Número de contrato de licencia |
-|Id. de la suscripción    |Id. de la suscripción |
-|Fecha de inicio de contrato   |Fecha de inicio del contrato de licencia |
-|Fecha de finalización de contrato |La fecha de finalización del contrato de licencia, incluidas las renovaciones y las extensiones. |
-|Fecha de inicio de suscripción    |La fecha de inicio de una suscripción.|
-|Fecha de finalización de suscripción  |La fecha de finalización de una suscripción.|
-|SKU de producto    |El número de SKU de un producto.|
-|Nombre del producto   |El nombre del producto de Microsoft.|
-|Fecha de transacción   |Fecha y hora en que se realizó la transacción (hora UTC).|
-|Recuento de licencias  |El número de licencias vendidas. |
-|Cantidad   |El número de unidades vendidas.| 
-|Cantidad anterior |La cantidad de unidades del último período de ganancias. |
-|Precio unitario |El precio por unidad vendida.| 
-|Importe de la transacción |El tipo de cálculo se multiplica por esta cantidad para calcular las ganancias de incentivos.|
-|Moneda de la transacción|La divisa de facturación de licencia por suscripción o volumen. |
-|Incentivo/acelerador  |El acelerador de incentivos que se aplica a esta transacción.|
-|Tipo de cálculo   |Tipo de cálculo|
-|Fecha de ganancia   |La fecha en la que se reconoce la ganancia. |
-|Período de ganancia     |El período de la ganancia según el programa. |
-|Inicio del período de ganancia   |El inicio del período de ganancia de un programa (hora UTC). |
-|Finalización del período de ganancia |La finalización del período de ganancia de un programa (hora UTC).|
-|Fecha del cálculo   |La fecha en la que se calculan las ganancias (hora UTC).|
-|Divisa de las ganancias   |La divisa del importe de la ganancia. |
-|Tipo de cambio de la ganancia|El tipo de cambio usado para convertir la divisa de la transacción a la divisa de la ganancia.|
-|Divisa de informe|La divisa usada para los informes.|
-|Importe de ganancias de informe|Las ganancias que se muestran en la divisa de informe.|
-|Tipo de cambio de informe|El tipo de cambio usado para convertir la divisa de la ganancia a la divisa de los informes.|
-|Importe de ganancias reembolsadas  |Importe que se considera reembolso (USD). |
-|Importe de ganancias cooperativas.    |El importe que se considera cooperativo (USD). |
-|ExchangeRateDate   |La fecha del tipo de cambio. |
-|Id. del pago |Un número interno que se utiliza para conciliar los incentivos ganados y los pagos. |
-|PaymentStatus  |Muestra si las ganancias se han pagado o el pago está pendiente aún.|
-
-## <a name="downloading-payment-details"></a>Descargar los detalles de pago 
-
-|**Nombre de columna**   |**Descripción**   |
+|**Field**  |**Descripción**    |
 |-------------------|:--------------------|
-|Nombre del partner|El nombre registrado del partner en el Centro de partners.|
-|MPN/PCN        |Id. de MPN (identificador de Microsoft Partner Network)/Número de cliente público|
-|Location       | El país o la región del identificador de MPN V-Org del partner.|
-|Nombre del programa   |El nombre del programa de incentivos. |
-|Tipo de ganancia   |El tipo de ganancia (reembolso, ajuste). |
-|Divisa de importe del pago|   El tipo de divisa que se usa para el pago-|
-|Importe del pago |El importe que se pagará al partner.| 
-|Impuesto retenido|   Importe del impuesto retenido.|
-|Id. del pago |Un número interno que se utiliza para conciliar los incentivos ganados y los pagos.|
-|Referencia del pago |Un identificador único para cada pago que incluye el Id. de pago que Microsoft proporciona a tu banco. |
-|Descripción del pago|Describe el tipo de pago.| 
-|Fecha de pago|  La fecha en la que se ha realizado el pago. |
-|Mes fiscal del pago|  Mes fiscal del pago|
-|Año fiscal del pago|   Año fiscal del pago|
-|Método de pago |El modo de pago, por ejemplo, nota de crédito, transferencia bancaria, cheque, etc. |
-|Estado del pago|    En qué punto del proceso de pago se encuentra un pago.| 
-|La fecha del tipo de cambio.|    La fecha del tipo de cambio usado para la conversión de divisas.|
-|Conversión del pago a USD |La conversión de la divisa de pago a USD. |
-|Importe reembolsado| El importe de reembolso pagado.|
-|Período de ganancia |   Período de ganancia|
+|Total de pago de este año        |El total combinado que presta a, este año, para todos los identificadores de MPN.                                     |
+|Próximo pago estimado      |El único próximo pago acudir a usted (incluso si hay otros próximamente).                                     |
+|Último pago           |La cantidad, el nombre de programa y el Id. de MPN del pago más reciente.                                      |
+|Pagos por origen       |Cantidad de pagos representado por el programa durante los últimos 12 meses.                                      |
+|Pagos                       |Seleccione **pago** o **pendiente** y, a continuación, ordenar como desee. Para obtener más detalles de un pago específico, seleccione **vista**. Para descargar una copia de la instrucción de remesa de pago, seleccione **descargar**. Datos pueden tardar hasta 24 horas en aparecer en esta página.     |
+
+## <a name="transaction-history-page"></a>Página Historial de transacciones
+
+Esta página muestra todas las utilidades individuales, incluyendo la fecha, tipo y a ganar para cada uno. Puede seleccionar un período de tiempo para ver y, también puede filtrar por Id. de inscripción, programa, Id. de pago, tipo Earning, palanca y estado. Datos están disponibles para el año fiscal actual (del 1 de julio del 30 de junio) y dos años fiscales anteriores. 
+
+Para ver más detalles sobre una ganancia, seleccione la flecha hacia abajo en el lado derecho de la página. Esto mostrará la palanca, cantidad de ingresos, producto y cliente. Si por alguna razón cualquiera de estos datos no están disponibles, pero necesita tener acceso a ella, póngase en contacto con soporte. Si la obtención es el resultado de un ajuste y no una transacción, no se mostrará los campos de producto y de cliente. 
+
+Para exportarlos datos de transacciones en esta página, seleccione **exportar** y después siga las instrucciones en la página de datos de exportación. Los archivos exportados desde la página de historial de transacciones mostrar datos en la moneda de la transacción, las ganancias de divisa de la transacción y dólares estadounidenses, y el valor de pago en pagar a moneda. 
+
+## <a name="export-data-page"></a>Exportar datos (página)
+
+Siga las instrucciones de esta página para exportar los datos que desee. 
+
+**Notas:**
+- Solo verá datos para el Id. de MPN y programas que están asociados. Si desea obtener acceso a datos adicionales, consulte al administrador de incentivos. 
+
+- Cuando tenga acceso a esta página desde cualquiera de los pagos o la página Historial de transacciones, los filtros no transportan a través. Deberá rehacer en la página de datos de exportación. 
+
+- La página de datos de exportación no se actualiza por sí mismo. Es posible que deba actualizar la página manualmente para ver los datos más recientes. 
+
+- Es posible que el filtro en un **no hay datos disponibles** error. Esto significa que probablemente tenga deja el valor predeterminado de período de tiempo seleccionado en tres meses y, a continuación, seleccionado un identificador de pago de una ganancia que está fuera de ese período. Expanda su período de tiempo e inténtelo de nuevo. 
 
