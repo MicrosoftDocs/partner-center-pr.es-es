@@ -1,18 +1,18 @@
 ---
 title: La estructura de la cuenta en el centro de partners | Centro de partners
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: Su empresa tiene dos niveles de cuentas en el centro de partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458877"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131718"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de partners
 
@@ -28,7 +28,7 @@ Su empresa tiene dos niveles de cuentas en el centro de partners.
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>La segunda cuenta nivel es la cuenta de location llama a la ubicación de asociado de cuenta (PLA).
 
-La PGA puede tener ubicaciones de negocio adicionales debajo de él. Cada ubicación tiene su propio identificador de MPN.  Utilice la ubicación del Id. de MPN para el negocio transaccionales, como el programa proveedor de soluciones en la nube, para inscribirse en programas de incentivos, agregar un DPOR y ganar dinero. 
+La PGA puede tener ubicaciones de negocio adicionales debajo de él. Cada ubicación tiene su propio Id. de MPN o ubicación de asociado de cuenta (PLA). Utilice la ubicación del Id. de MPN para la inscripción en programas de incentivos y empresariales transaccionales.
 
 - Cada cuenta de Location asociado puede tener su propia dirección legal y el contacto principal. Ubicaciones también pueden compartir la dirección legal con la cuenta global o con otras ubicaciones.
 - Ver la lista de cuentas de asociado de ubicación de configuración asociado -> ubicaciones.

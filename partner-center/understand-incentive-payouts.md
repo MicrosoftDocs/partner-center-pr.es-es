@@ -6,12 +6,12 @@ description: Mira las ganancias y pagos de los programas de incentivos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ee731d2d137eef4ecf97dcbc77d36c121090d9a
-ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
+ms.openlocfilehash: 15afa996f96d53e35a08806a6c1c6a0e67613c4b
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "66819949"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145379"
 ---
 # <a name="view-your-incentives-payments-information"></a>Ver la información de los pagos incentivos
 
@@ -33,9 +33,7 @@ Para abrir una de las páginas de incentivos:
 ## <a name="payments-page"></a>Página de pagos
 Los totales en esta página representan todos los identificadores de MPN que utilice. Puede filtrar por Id. del participante, programa, Id. de pago y tipo Earning. Se proporcionan los importes en dólares estadounidenses. El valor de pago también se muestra en el pago a la moneda. 
 
-Para exportarlos datos en esta página, seleccione **exportar** y después siga las instrucciones en la página de datos de exportación. 
-
-|**Field**  |**Descripción**    |
+|**Área**   |**Descripción**    |
 |------------------|:-------------------------------------|
 |Total de pago de este año        |El total combinado que presta a, este año en dólares estadounidenses para todos los identificadores de MPN.                                      |
 |Próximo pago estimado      |El único próximo pago acudir a usted (incluso si hay otros próximamente), en dólares estadounidenses.                                     |
@@ -43,21 +41,14 @@ Para exportarlos datos en esta página, seleccione **exportar** y después siga 
 |Pagos por origen       |Cantidad de pagos en dólares estadounidenses, representado por el programa durante los últimos 12 meses.                                      |
 |Pagos                       |Seleccione **pago** o **pendiente** y, a continuación, ordenar como desee. Para obtener más detalles de un pago específico, seleccione **vista**. Para descargar una copia de la instrucción de remesa de pago, seleccione **descargar**. Tenga en cuenta que los datos del historial de transacciones pueden tardar hasta 24 horas en aparecer, por lo que no puede ver inmediatamente los beneficios asociados.  |
 
+Para exportarlos datos en esta página, seleccione **exportar** y después siga las instrucciones en la página de datos de exportación. 
+
 ## <a name="transaction-history-page"></a>Página Historial de transacciones
 Esta página muestra todas las utilidades individuales, incluyendo la fecha, tipo y a ganar para cada uno. Puede seleccionar un período de tiempo para ver y, también puede filtrar por Id. de inscripción, programa, Id. de pago, tipo Earning, palanca y estado. Datos están disponibles para el año fiscal actual (del 1 de julio del 30 de junio) y dos años fiscales anteriores. 
 
 Para ver más detalles sobre una ganancia, seleccione la flecha hacia abajo en el lado derecho de la página. Esto mostrará la palanca, cantidad de ingresos, producto y cliente. Si por alguna razón cualquiera de estos datos no están disponibles, pero necesita tener acceso a ella, póngase en contacto con soporte. Si la obtención es el resultado de un ajuste y no una transacción, no se mostrará los campos de producto y de cliente. 
 
 Para exportarlos datos de transacciones en esta página, seleccione **exportar** y después siga las instrucciones en la página de datos de exportación. Los archivos exportados desde la página de historial de transacciones mostrar datos en la moneda de la transacción, las ganancias de divisa de la transacción y dólares estadounidenses, y el valor de pago en pagar a moneda. 
-
-## <a name="export-data-page"></a>Exportar datos (página)
-Siga las instrucciones de esta página para exportar los datos que desee. 
-
-**Notas:**
--   Solo verá datos para el Id. de MPN y programas que están asociados. Si desea obtener acceso a datos adicionales, consulte al administrador de incentivos. 
--   Cuando tenga acceso a esta página desde cualquiera de los pagos o la página Historial de transacciones, los filtros no transportan a través. Deberá rehacer en la página de datos de exportación. 
--   La página de datos de exportación no se actualiza por sí mismo. Es posible que deba actualizar la página manualmente para ver los datos más recientes. 
--   Es posible que el filtro en un **no hay datos disponibles** error. Esto significa que probablemente tenga deja el valor predeterminado de período de tiempo seleccionado en tres meses y, a continuación, seleccionado un identificador de pago de una ganancia que está fuera de ese período. Expanda su período de tiempo e inténtelo de nuevo. 
 
 ## <a name="payment-status"></a>Estado del pago
 
@@ -77,6 +68,14 @@ Siga las instrucciones de esta página para exportar los datos que desee.
 |Factura de impuestos bajo revisión        |Se está revisando la factura de impuestos. Una vez aprobada la factura de impuestos, se publicará el pago.           |No        |
 |Rechazado        |El pago se rechazó su banco.           |Para obtener más información, póngase en contacto con su banco.  |
 
+## <a name="export-data-page"></a>Exportar datos (página)
+Siga las instrucciones de esta página para exportar los datos que desee. 
+
+**Notas:**
+-   Solo verá datos para el Id. de MPN y programas que están asociados. Si desea obtener acceso a datos adicionales, consulte al administrador de incentivos. 
+-   Cuando tenga acceso a esta página desde cualquiera de los pagos o la página Historial de transacciones, los filtros no transportan a través. Deberá rehacer en la página de datos de exportación. 
+-   La página de datos de exportación no se actualiza por sí mismo. Es posible que deba actualizar la página manualmente para ver los datos más recientes. 
+-   Es posible que el filtro en un **no hay datos disponibles** error. Esto significa que probablemente tenga deja el valor predeterminado de período de tiempo seleccionado en tres meses y, a continuación, seleccionado un identificador de pago de una ganancia que está fuera de ese período. Expanda su período de tiempo e inténtelo de nuevo. 
 
 ## <a name="payment-download-export"></a>Exportación de descarga de pago
 Esta opción proporciona una descarga de los pagos recibidos en su banco para un programa determinado, los impuestos asociados y agrega la cantidad de ingresos.
@@ -117,7 +116,7 @@ Esta opción proporciona una descarga de cada elemento de línea con que ve en l
 |transactionAmountUSD   |Cantidad de transacciones en USD   |
 |Palanca   |Indica la regla de negocios para la obtención   |
 |earningRate   |Tipo incentivo aplicado en la cantidad de transacciones para generar una ganancia   |
-|Cantidad |Este campo varía según el programa. Para los programas transaccionales indica cantidad facturada. |
+|quantity |Este campo varía según el programa. Para los programas transaccionales indica cantidad facturada. |
 |earningType   |Indica si se trata de una cuota, descuento, coop, vender, etcetera.   |
 |earningAmount   |Cantidad en la moneda de la transacción original de ganancias   |
 |earningAmountUSD   |Obtener el importe en dólares estadounidenses   |
@@ -149,6 +148,6 @@ Además de la tabla anterior, estos campos de historial de transacciones estará
 |agreementNumber   |Número de contrato   |
 |agreementStartDate   |Fecha de inicio de contrato   |
 |agreementEndDate   |Fecha de finalización de contrato   |
-|Carga de trabajo   |Carga de trabajo   |
+|carga de trabajo   |Carga de trabajo   |
   
 
