@@ -6,12 +6,12 @@ description: Aspectos que hay que pensar antes de mover su negocio de PMC al cen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131995"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145353"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para la migración desde Partner Membership Center (PMC) al centro de partners
 
@@ -113,6 +113,14 @@ Sí, competencias no se verán afectados por el traslado al centro de partners. 
  **¿Cambiarán Mis ventajas (incluidas las ventajas de la nube, soporte técnico, ventajas de software, Visual Studio) después de que se mueva?**
 
  Los beneficios elegibles no cambiará. Si observa las discrepancias, póngase en contacto con [soporte](https://partner.microsoft.com/support).
+
+ **¿Se respetará las cuentas de Microsoft que tienen asignaciones de las ventajas de Visual Studio?**
+
+ Sí. Ventajas Wisual Studio asignadas a MSAs se respeta y se conservan. También se conservarán después de la renovación en el centro de partners. Sin embargo, si quita una asignación de MSA una vez migrado en el centro de partners, no se puede agregar al centro de partners.
+
+Solo el administrador MPN puede agregar las asignaciones de la ventaja de Visual Studio para cuentas profesionales en el inquilino de Azure AD de la empresa.
+
+El administrador global para varios inquilinos AAD cuando todos los inquilinos asociados a la misma cuenta de centro de partners, puede agregar usuarios en todos los inquilinos de estos beneficios de Visual Studio y las asignaciones según el uso de Azure. 
 
  **¿Cómo debemos administramos nuestras asociaciones de MCP y nuestro acceso Partner University?**
 
