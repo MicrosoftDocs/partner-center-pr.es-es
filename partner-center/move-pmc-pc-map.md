@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migración, mover al centro de partners
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b300f2d5251fb22b903444324c037c5f03e554c
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145373"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157344"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Mover de PMC al centro de partners
 
@@ -64,7 +64,7 @@ Esta tabla presentan algunas de las diferencias entre PMC y centro de partners.
 |-----------------|:-----------------|
 |Asignación de beneficios de Visual Studio para MSA|Se respeta y conserva asignados para MSA beneficios de Visual Studio.|
 ||Las asignaciones de MSA de Visual Studio se conservarán después de la renovación en el centro de partners.|
-||Solo el administrador MPN puede agregar las asignaciones de la ventaja de Visual Studio para cuentas profesionales en el inquilino de Azure AD de la empresa. Si hay varios inquilinos AAD asociados a la misma cuenta de centro de partners, el administrador global puede agregar usuarios en todos los inquilinos de estos beneficios de Visual Studio y las asignaciones según el uso de Azure. |
+||En el centro de partners, puede agregar un asociado de cuentas profesionales y las cuentas de usuario invitado que son MSA desde el mismo inquilino donde el asociado es MPN admin en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos los inquilinos de estos están asociados a la misma cuenta de centro de partners, el asociado se permite agregar usuarios en todos estos inquilinos a las ventajas de Visual Studio y las asignaciones según el uso de Azure. Aunque los usuarios invitados pueden asignarse según el uso de las suscripciones de Visual Studio mediante el administrador MPN o administrador global, los usuarios invitados no pueden iniciar sesión centro de partners usando su MSA. Los usuarios invitados pueden, sin embargo, inicie sesión en Azure y Visual Studio para validar y usar sus beneficios asignados. |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>Programas ubican ahora y administran en el centro de partners 
 
@@ -77,3 +77,8 @@ Esta tabla presentan algunas de las diferencias entre PMC y centro de partners.
 |Herramienta de validación y canje de vales| VVR |
 |           |Programas de proveedor de soluciones en la nube|
 
+Sí. Se respeta y conserva asignados para MSA beneficios de Visual Studio. También se conservarán después de la renovación en el centro de partners. Sin embargo, si quita una asignación de MSA una vez migrado en el centro de partners, no se puede agregar al centro de partners.
+
+En el centro de partners, puede agregar un asociado de cuentas de trabajo y cuentas de usuario invitado que son MSA desde el mismo inquilino donde el asociado es MPN admin en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos los inquilinos de estos están asociados a la misma cuenta de centro de partners, el asociado se permite agregar usuarios en todos estos inquilinos a las ventajas de Visual Studio y las asignaciones según el uso de Azure.
+
+Aunque los usuarios invitados pueden asignarse según el uso de las suscripciones de Visual Studio mediante el administrador MPN o administrador global, los usuarios invitados no pueden iniciar sesión centro de partners usando su MSA. Los usuarios invitados pueden, sin embargo, inicie sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.
