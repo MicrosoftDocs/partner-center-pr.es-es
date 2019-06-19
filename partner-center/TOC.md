@@ -2,8 +2,9 @@
 
 # [Suscripción a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
-## [Estructura de cuentas en el Centro de partners](account-structure.md)
+## [Cómo obtener un correo electrónico del trabajo](buy-email-domain.md)
 ## Cambio de PMC al Centro de partners
+### [Preparación para el cambio desde Partner Membership Center al Centro de partners](prepare-pmc-pc-migration.md)
 ### [Guía sobre el cambio de PMC al Centro de partners](guide-to-migration.md)
 ### [Comparación rápida de las diferencias entre PMC y el Centro de partners](move-pmc-pc-map.md)
 ### [Guía para cambiar varias empresas al Centro de partners](move-multiple-companies.md)
@@ -39,6 +40,7 @@
 # [Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
 ## [Cuentas profesionales y Centro de partners](azure-active-directory-tenants-and-partner-center.md)
 ## [Estructura de cuentas en el Centro de partners](account-structure.md)
+## [Comprobar la información de la cuenta](verification-responses.md)
 ## [Actualizar tu perfil de asociado](update-your-partner-profile.md)
 ## [Ubicaciones](manage-locations.md)
 ## [Restaurar una cuenta suspendida del Centro de partners](suspended-partner-center-account.md)
