@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134395"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198317"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
@@ -100,6 +100,10 @@ Para ver y administrar las ventajas de pertenencia, ve a a [página **Ventajas**
 
 4. Puedes usar la asistencia técnica de preventas o la ventaja de horas de asesoría para solicitar asistencia técnica durante las preventas, el diseño, la implementación y las fases de desarrollo de aplicaciones de las soluciones en la nube e híbridas. Para solicitar asistencia, rellena el [formulario de solicitud](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 ) y, a continuación, selecciona **Enviar solicitud**.
+
+## <a name="cancel-a-membership-benefit"></a>Cancelar un beneficio de suscripción
+
+Para cancelar una de las ventajas y recibir un reembolso, debe realizar la solicitud dentro de 30 días de la compra y no ha activado los beneficios de software. Solicitar la cancelación a través de una solicitud de servicio.
 
 
 #### <a name="see-also"></a>Vea también

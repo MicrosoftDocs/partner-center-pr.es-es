@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132785"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193420"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -39,6 +39,10 @@ En ocasiones, el archivo de conciliación podría tener problemas de formato. (E
 
 <li>En el campo de formato de datos de columna, seleccione <strong>texto</strong> para amount, todas las columnas y, a continuación, seleccione <strong>finalizar</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Descargar un archivo de conciliación grande
+
+Archivos de conciliación pueden crecer muy grandes y a veces son difíciles de descargar. Para que un script de PowerShell ayudar a descargar los archivos de conciliación grandes, consulte [Get factura partidas presupuestarias](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Detallar asociado
 
@@ -204,7 +208,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Moneda</td>
+<td>Currency</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
@@ -390,37 +394,37 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>ListPrice</td>
 <td><p>Precio de la oferta en vigor la fecha de inicio de la suscripción.</p></td>
-<td>0.0808 USD</td>
+<td>0\.0808 USD</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
 <td><p>ListPrist x OverageQuantity, redondeado al céntimo más próximo.</p></td>
-<td>0.085 USD</td>
+<td>0\.085 USD</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
 <td><p>Importe de impuestos, según el mercado&#39;reglas s y circunstancias concretas.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
 <td><p>Total con impuestos, si se aplican impuestos.</p></td>
-<td>0.93 USD</td>
+<td>0\.93 USD</td>
 </tr>
 <tr class="odd">
-<td>Moneda</td>
+<td>Currency</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="even">
 <td>PretaxEffectiveRate</td>
 <td><p>Precio sin impuestos por unidad. Igual que PretaxCharges/OverageQuantity, redondeado al céntimo más próximo.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
 <td><p>Precio después de impuestos por unidad. Igual que PostTaxTotal/OverageQuantity o PretaxEffectiveRate + tipo impositivo por importe unitario, redondeado el céntimo más próximo.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
@@ -652,7 +656,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>Moneda</td>
+<td>Currency</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 </tr>
 
@@ -891,7 +895,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Etiquetas</td>
+<td>`Tags`</td>
 <td><p>Etiquetas que asigna al medidor en orden para agrupar los registros de facturación. Por ejemplo, puede usar etiquetas para distribuir los costos por el departamento que utiliza el medidor.</p></td>
 </tr>
 
@@ -1017,6 +1021,8 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>Tarifas prorrateadas desde la activación hasta el final del período de facturación</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Cargos de uso</strong></p>
@@ -1039,6 +1045,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 <p>tarifa de uso de acceso para el período de facturación actual</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Créditos</strong></p>

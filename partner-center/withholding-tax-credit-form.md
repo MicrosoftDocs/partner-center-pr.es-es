@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de retención de impuestos, créditos de impuestos, el formulario del crédito de impuesto alemán, crédito de impuesto de formulario
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410977"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207575"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que se abona para retención de impuestos
 
@@ -49,7 +49,8 @@ Rellene esta [formulario](https://query.prod.cms.rt.microsoft.com/cms/api/am/bin
 2. Seleccione **solicitudes de soporte técnico de socio**.
 3. Seleccione **nueva solicitud** y, a continuación, en **detalles**, seleccione **ayuda con el archivo de conciliación, pago o factura del socio comercial.**
 4. Al enviar la solicitud de servicio, asegúrese de asociar la forma de crédito de impuesto y copias digitales de los certificados de impuestos.
-5. Nos pondremos en contacto directamente por correo electrónico o teléfono.
+5. Si envía un certificado de impuestos distinta del inglés a través de una solicitud de servicio de inglés, se requiere una traducción del certificado de impuestos.
+6. Nos pondremos en contacto directamente por correo electrónico o teléfono.
 
 Mediante el **pago de pago de factura** método, una vez que se reciben y validados correctamente, los certificados de impuestos al saldo restante de la factura se borrará en aproximadamente una semana. 
 
