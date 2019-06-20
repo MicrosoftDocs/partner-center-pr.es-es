@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134235"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262970"
 ---
 # <a name="organization-tax-information"></a>Información fiscal de la organización
 
@@ -24,11 +24,9 @@ Los impuestos para las compras en el Centro de partners dependen de tu direcció
 
 ### <a name="add-your-vat-id"></a>Agregar el número de IVA
 
-1.  Desde el **centro de partners** vaya a **pertenencia ofrece**-> **disponible**
-2.  Seleccione **agregar tu número de IVA**
-3.  Escriba el CIF de su organización, seleccione **agregar** y, a continuación, seleccione **siguiente**.
-
-
+1.  Desde el **centro de partners** vaya a **configuración de la cuenta**-> **perfil de facturación**.
+2.  En la sección **Datos financieros**, selecciona **Actualizar**.
+3.  En el **empresa NIF** , introduzca su número de identificación de IVA.
 
 
 
