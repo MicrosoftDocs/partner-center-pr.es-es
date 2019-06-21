@@ -6,12 +6,12 @@ description: Aspectos que hay que pensar antes de mover su negocio de PMC al cen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157335"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279886"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para la migración desde Partner Membership Center (PMC) al centro de partners
 
@@ -136,17 +136,22 @@ Aunque los usuarios invitados pueden asignarse según el uso de las suscripcione
 
  Sí, no hay ningún cambio en el socio de registro. Obtenga más información sobre [vincular su Id. de partner a sus clientes](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-**¿Hay un impacto a incentivos?**
+**¿Hay un impacto a incentivos debido a la migración a centro de partners?**
 
-No hay ningún impacto en los incentivos. Además, si su empresa tiene varias cuentas en PMC y, cuando se mueve al centro de partners esas cuentas se consolidan en una cuenta global, no hay ningún impacto en el asociado de incentivos basado en el registro.
+No, no hay ningún impacto en los incentivos si ha movido la cuenta sin las ubicaciones de consolidación. Si su empresa tiene varias cuentas en PMC y, cuando se mueve al centro de partners, decide consolidar en una cuenta global, no habrá pérdida de incentivos, pero puede haber un retraso en los pagos incentivos. Si no mueve todas las cuentas PMC que se han visto involucradas en programas de incentivos, puede dejar a ganar incentivos que están asociados a esas cuentas.
+
 
 **¿Cuáles son los roles de usuario incentivos en Centro de partners?** 
 
 Incentivos roles en el centro de partners están basados en ubicación e incluyen Administrador de incentivos y del usuario de incentivos. Para obtener más información sobre lo que pueden hacer en esos roles, consulte [asignar roles a los usuarios y permisos](permissions-overview.md).
 
-**¿Incentivos se pueden administrar en el nivel global y la ubicación?**
+**¿Los usuarios de incentivos se pueden asignar en el nivel global y la ubicación?**
 
  Sí. Puede asignar un administrador incentivos para que sea el Administrador de incentivos para todas las ubicaciones o cada ubicación puede tener su propio administrador de incentivos.
+
+ **¿Pueden pagar incentivos en el nivel global o ubicación?**
+
+ Incentivos se pagan solo en el nivel de ubicación.
 
 **¿Con respecto a las referencias, cuántos perfiles de negocio podemos crear?**
 
