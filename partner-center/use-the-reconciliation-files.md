@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193420"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343469"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -1022,6 +1022,61 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>Cargos de un solo uso</strong></p>
+
+</td>
+<td>
+<p>Nuevo</p>
+</td>
+<td>
+<p>Utiliza cuando se crea una nueva compra</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>Utilizar en ambos el reembolso de la compra original y la cantidad nuevo después de aumento</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>Utilizar en ambos el reembolso de la compra original y la cantidad nuevo después de disminución</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancelar</p>
+</td>
+<td>
+<p>Usar cuando se cancela una suscripción</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Convertir</p>
+</td>
+<td>
+<p>Utilizar cuando se actualiza una licencia pero no cambia el número de puestos</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">
