@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: roles, permisos, admin, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133905"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396728"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -24,7 +24,7 @@ Ha configurado el perfil de socio comercial como nombre legal y dirección, deta
 Determinar los tipos de acceso de los usuarios al centro de partners mediante los roles y permisos que les proporcione. Roles están relacionados con los programas de en que su empresa está implicada. Por ejemplo, si su empresa es una proveedor de soluciones en la nube (CSP) de la empresa, no sólo tendrá el estándar de Azure AD roles de administración como administrador global del inquilino, pero será necesario que las funciones específicas del programa CSP. Cada programa tiene roles específicos a él.
 
 >[!Note]
-> Roles de inquilino de Azure Active Directory (AAD) incluyen el administrador global, Administrador de usuarios y roles CSP. Roles de AAD de no incluyen MPN admin, admin de perfil de empresa, Administrador de referencias, incentivo administrador y usuario incentivo. 
+> Roles de inquilino de Azure Active Directory (AAD) incluyen el administrador global, Administrador de usuarios y roles CSP. Roles de AAD de no son los roles que no administran al inquilino e incluyen administrador MPN, admin de perfil de empresa, Administrador de referencias, incentivo administrador y usuario incentivo. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Administrar las transacciones comerciales en el centro de partners (Azure AD y los roles CSP)
 
@@ -52,6 +52,7 @@ Determinar los tipos de acceso de los usuarios al centro de partners mediante lo
 |Agente de ventas | • Administración de clientes
 ||• Agregue la lista de dispositivos en el centro de partners
 ||• Administración de suscripciones
+||Precio de vista • enumera y ofrece
 ||• Incidencias de soporte técnico de vista
 ||• Solicitud una relación con un cliente
 ||• Administración de clientes potenciales
@@ -71,7 +72,18 @@ CPVs desarrollar aplicaciones para su uso por los asociados de proveedor de solu
 |Administrador global| Ver y administrar su perfil CPV|
 ||Ver y administrar cualquiera de los usuarios que necesitan tener acceso a las funcionalidades de CPV|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Administrar la pertenencia a MPN y su empresa (roles sin AAD)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuario invitado (debe agregarse al inquilino de AAD)
+
+|**Usuario invitado**   | **Roles**|
+|---------------------------|:--------------------|
+||Administrador de partners de MPN|
+||Administrador de cuentas|
+||Administrador de incentivos|
+||Administrador de perfil de negocio|
+||Administrador de referencias|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Administrar la pertenencia a MPN y su empresa (roles no AAD: estos roles de administran el negocio de empresa en lugar de con el inquilino)
 
 |**Role** | **¿Qué puede hacer**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs desarrollar aplicaciones para su uso por los asociados de proveedor de solu
 ||• Asignación de roles para los usuarios de inquilinos para roles de AAD no 
 ||• Ubicaciones en programas de inscripción
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuario invitado (debe agregarse al inquilino de AAD)
 
-|**Usuario invitado**   | **Roles**|
-|---------------------------|:--------------------|
-||Administrador de partners de MPN|
-||Administrador de cuentas|
-||Administrador de incentivos|
-||Administrador de perfil de negocio|
-||Administrador de referencias|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>Administrar referencias (roles sin AAD)
+## <a name="manage-referrals"></a>Administrar referencias 
 
 |**Role**|**¿Qué puede hacer**|
 |-----------------------------|:------------------------|
 |Administrador de referencias       |• Ver, crear y administrar perfiles de negocio
 ||• Recibir y administrar las referencias
-||• Ver, crear y administrar solicitudes de servicio asociado|
-|Administrador de perfil de negocio   |•View, crear y administrar el perfil de negocio 
+||• Ver, crear y administrar las referencias de venta conjunta|
+||• Ver, crear y administrar solicitudes de servicio asociado
+|Administrador de perfil de negocio   |• Ver, crear y administrar el perfil de negocio 
 ||• Ver, crear y administrar solicitudes de servicio asociado|
 
-## <a name="manage-incentives--non-aad-roles"></a>Administrar incentivos (roles sin AAD)
+## <a name="manage-incentives"></a>Administrar incentivos 
 
 |**Role** | **¿Qué puede hacer**|
 |------------------------------|:-------------------------|

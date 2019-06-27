@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67334009"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407869"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Solicitar un crédito de SLA de Microsoft 
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 YA - Yammer Enterprise
 
 OP - Error en el Portal
+
+## <a name="submit-a-request"></a>Enviar una solicitud
+
+Envíe la solicitud de crédito en el centro de partners.
+
+1. En el panel del centro de partners, seleccione **soporte** a la izquierda.
+
+2. Seleccione **solicitudes de soporte técnico de asociado** y, a continuación, seleccione **CSP, los clientes, pedidos y las solicitudes de crédito de servicios de suscripciones/cliente**.
+
+3. Envíe la solicitud de crédito de SLA.
+
 
 
 

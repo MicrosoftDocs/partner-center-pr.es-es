@@ -1,22 +1,22 @@
 ---
 title: Restablecer la contraseña | Centro de partners
 ms.topic: article
-ms.date: 06/20/2019
+ms.date: 06/24/2019
 description: Si olvida su contraseña, puede restablecerla.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e9e863711e6d42b3fcc978ba110b8f855e8576
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: f0d2d9908af1d976f67048257cf7f8e267eba29e
+ms.sourcegitcommit: 9eb047f6858dae3e356dc39b535c4e3744483f2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333992"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67406023"
 ---
 # <a name="reset-my-password"></a>Restablecer mi contraseña
 
-Si no recuerda su contraseña de centro de partners, puede restablecer fácilmente.
+Si no recuerda su contraseña de centro de partners, puede restablecerla.
 
 ### <a name="to-reset-your-password-to-partner-center"></a>Para restablecer su contraseña al centro de partners
 
