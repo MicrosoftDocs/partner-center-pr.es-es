@@ -6,12 +6,12 @@ description: Aspectos que hay que pensar antes de mover su negocio de PMC al cen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279886"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468025"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para la migración desde Partner Membership Center (PMC) al centro de partners
 
@@ -58,9 +58,11 @@ El rol de administrador global de MPN en PMC podría hacer lo siguiente:
 
 Cuando el administrador global de MPN se mueve al centro de partners la función se llama el administrador del asociado MPN que tiene permisos diferentes y las tareas que el administrador global de centro de partners. Para obtener más información sobre los roles y permisos en el centro de partners, lea [asignar roles a los usuarios y permisos](permissions-overview.md)
 
-**Roles de usuario en el centro de partners**
+**Roles de usuario, incluidos los roles de usuario invitado en el centro de partners**
 
 Centro de partners tiene diferentes tipos de roles según los tipos de trabajo que se debe realizar. Hay funciones como administrador global que son roles de Azure AD. Algunos de los roles son específicos de programas como el proveedor de servicios en la nube o incentivos y hay funciones que son específicas de MPN. Para averiguar cuáles son todos los roles de centro de partners, leer [asignar roles a los usuarios y permisos](permissions-overview.md).
+
+
 
 **¿Qué ocurre con los roles Mis usuarios cuando pasan de PMC al centro de partners?**
 
@@ -84,6 +86,9 @@ Podría decidir migrar al centro de partners mediante independiente de los inqui
 Sí, en el centro de partners puede vincular a varios inquilinos de Azure AD a solo cuenta del centro de partners.
 Obtenga más información aquí. 
 
+**¿Existen restricciones a la adición de varios inquilinos de Azure AD a una sola cuenta de centro de partners?**
+
+Si el inquilino de Azure AD ya está asociado a una cuenta existente de centro de partners, no puede asociarse a nuevas cuentas de centro de partners mediante la característica de varios inquilinos. Otra manera de pensar en ella es un inquilino de Azure AD solo puede asociarse a una cuenta de centro de partners, pero una cuenta de centro de partners puede tener varios inquilinos asociados a él.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migración de suscripción de Microsoft Partner Network (MPN) 
 
