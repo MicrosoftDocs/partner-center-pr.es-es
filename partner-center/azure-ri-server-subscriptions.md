@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + suscripciones de servidor para Azure | Centro de partners
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Al llevar a Azure RI y las suscripciones de servidor a su programa CSP, estamos habilitando mejor a nuestros partners para que aborden la creciente demanda de clientes de rápido crecimiento para soluciones más rentables a fin de admitir cargas de trabajo de nube altamente predecibles y persistentes. El programa CSP permite a los partners adquirir, aprovisionar y administrar Azure RI y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, las suscripciones, instancias reservadas de máquina virtual, la reserva,
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736063"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509957"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Con una combinación no coincidente de precios atractivos y flexibilidad de impl
 -   Instancia administrada de SQL
 -   Azure Cosmos DB
 -   Almacenamiento de datos SQL de Azure
+-   Servicios de aplicaciones
 
 #### <a name="server-subscriptions"></a>Suscripciones de servidor
 -   Windows Server
@@ -54,6 +55,10 @@ Con una combinación no coincidente de precios atractivos y flexibilidad de impl
 #### <a name="linux-isv-annual-subscriptions"></a>Suscripciones anuales de ISV de Linux
 -   Linux SUSE
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>Suscripciones anuales de ISV
+-   Solución de VMware de Azure por CloudSimple
 
 ## <a name="getting-started"></a>Introducción
 
@@ -119,4 +124,4 @@ La [Ventaja híbrida de Azure](https://azure.microsoft.com/pricing/hybrid-benefi
 
 Consulta también las [preguntas frecuentes de la Ventaja híbrida de Azure](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/).
 
-* Ahorro real puede variar en función de la región, el tipo de instancia o el uso.
+\* Ahorro real puede variar en función de la región, el tipo de instancia o el uso.
