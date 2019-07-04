@@ -1,24 +1,21 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
-ms.date: 12/5/2018
+ms.date: 5/7/2019
 description: Obtén más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red
+keywords: competencias, pertenencia silver, pertenencia gold, mpn, mapas, competencia, Microsoft Partner Network, pertenencia a la red, advanced especializaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134415"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549529"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competencias de Microsoft para suscripciones Silver y Gold
 
-**Se aplica a**
-
-- Centro de partners
 
 Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades tus clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
 
@@ -26,32 +23,10 @@ Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más 
 
 - Gana una **suscripción Gold** para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft
 
-Obtenga información sobre lo que se requiere para ganar la pertenencia Silver y Gold en las siguientes áreas de especialización:
+Obtenga información sobre [lo necesario para ganar la pertenencia Silver y Gold.](https://partner.microsoft.com/membership/competencies)
 
-<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+Obtenga información sobre [facturas y los impuestos de competencias](mpn-view-print-maps-invoice.md)
 
-[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+## <a name="advanced-specializations"></a>Especializaciones avanzadas
 
--->
-
-| Competencias  | Tecnologías |
-|   ------------------   |   -------   |
-| [Competencia de desarrollo de aplicaciones](https://partner.microsoft.com/membership/application-development-competency) | Aplicaciones HTML5, C#, ASP.NET, para UWP y para Microsoft Azure |
-| [Competencia de integración de aplicaciones](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL Server/base de datos, C#, Azure, BizTalk Server 2013|
-| [Competencia de las aplicaciones empresariales en la nube](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/empresariales/operaciones/AX, base de datos SQL |
-| [Competencia de Customer Relationship Management en la nube](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
-| [Competencia cloud Platform](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Linux en Azure |
-| [Competencia de productividad en la nube](https://partner.microsoft.com/membership/cloud-productivity-competency)| Servicios de Microsoft Office 365 (Exchange Online, SharePoint Online, Skype Empresarial o Yammer)|
-| [Competencia de contenido y colaboración](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365, SharePoint Server 2016, Creador de aplicaciones |
-| [Competencia de las comunicaciones](https://partner.microsoft.com/membership/communications-competency)| Skype Empresarial, Telefonía empresarial de Skype Empresarial 2015 |
-| [Competencia de análisis de datos](https://partner.microsoft.com/membership/data-analytics-competency)| Bases de datos SQL, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
-| [Competencia de plataforma de datos](https://partner.microsoft.com/membership/data-platform-competency)| Bases de datos SQL, SQL Server 2016, almacenamiento de datos de Azure, servicios de datos de Azure, Transact-SQL |
-| [Competencia de centro de datos](https://partner.microsoft.com/membership/datacenter-competency)| Almacenamiento de datos de Azure, virtualización de servidores y Hyper-V de Windows Server, Windows Server 2012/2016 |
-| [Competencia de DevOps](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, ciclo de vida del software, certificaciones Scrum |
-| [Capacidad de administración de movilidad empresarial](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Movilidad + seguridad empresarial (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), administración de dispositivos móviles, administración de identidades y accesos, protección de información, seguridad de aplicaciones en la nube |
-| [Competencia Enterprise Resource Planning](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX GP/SL/NAV/365, planificación de recursos (ERP), bases de datos SQL Server 2012  |
-| [Competencia de mensajería](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
-| [Administración de carteras y proyectos de la competencia](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, administración de carteras y proyectos (PPM), SharePoint Server 2016|
-| [Pequeño y competencia de soluciones de nube del sector medio](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
-| [Competencia de Windows y dispositivos](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, Plataforma universal de Windows, Surface Hub, Office 365, Skype Empresarial 2015, implementación empresarial |
-|
+Vaya más allá de la competencia gold con una especialización avanzada. Estos proporcionan un medio para que pueda presentar experiencia probada, se pueden comprobar en un producto, el área de solución o el servicio. Los clientes podrán ver su competencia Gold y su especialización avanzada en su perfil de negocio en el directorio de asociados. Para recibir una etiqueta de especialización avanzadas, su empresa totalmente debe cumplir un conjunto de criterios publicados y validarse por Microsoft. [Más información](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2). 

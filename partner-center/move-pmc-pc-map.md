@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migración, mover al centro de partners
 ms.localizationpriority: medium
-ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: 3056bd4094bc6e3a69081ff262fc96782ce57a1f
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157344"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549513"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Mover de PMC al centro de partners
 

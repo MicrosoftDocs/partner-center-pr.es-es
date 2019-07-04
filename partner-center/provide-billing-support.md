@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133975"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549506"
 ---
 # <a name="provide-billing-support"></a>Proporcionar soporte técnico sobre la facturación
 
@@ -33,6 +33,9 @@ Tú eres el responsable de la relación de facturación con tus clientes y respo
 Los partners que realizan transacciones en el modelo CSP son el asesor de confianza para sus clientes y poseen la relación integral, incluido el soporte cuando su cliente tiene un problema o una pregunta. Mediante puntos táctiles de soporte técnico los partners pueden obtener más información sobre el cliente y su empresa para identificar nuevos servicios y soluciones que impulsan el valor.
 
 Para cumplir el requisito de soporte, el partner puede revender soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico o puede establecer una estructura para proporcionar soporte técnico directamente.  El partner puede cobrar por todo o parte del soporte proporcionado a los clientes. El partner debe articular para sus clientes el soporte que proporcionan, las horas de servicio y el método de contacto, así como el precio (si se cobra por soporte técnico). 
+
+>[!Note]
+>Si no es un CSP y tiene alguna pregunta sobre la facturación de los clientes, consulte el portal para los productos adecuados o servicios específico.
 
 Los partners necesitan recibir solicitudes entrantes de soporte técnico de los clientes, diagnosticar problemas de capacidad del partner del mejor modo posible y, a continuación, resolver problemas que están dentro del ámbito de los límites de soporte técnico de línea base. Si el partner no puede resolver un problema, puede escalar problemas a Microsoft a través de los vehículos de soporte técnico siguientes:
 
