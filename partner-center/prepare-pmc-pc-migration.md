@@ -6,12 +6,12 @@ description: Aspectos que hay que pensar antes de mover su negocio de PMC al cen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468025"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563041"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para la migración desde Partner Membership Center (PMC) al centro de partners
 
@@ -132,6 +132,11 @@ Aunque los usuarios invitados pueden asignarse según el uso de las suscripcione
  **¿Cómo debemos administramos nuestras asociaciones de MCP y nuestro acceso Partner University?**
 
  No hay ningún cambio en las asociaciones de MCP mover desde la PMC. Sin embargo, los nuevos empleados nuevo después de mover al centro de partners deberá estar asociados en el centro de partners. Todos los permisos de Partner University para usuarios existentes permanecerán pero los nuevos empleados deben ir a [el centro de aprendizaje](https://partner.microsoft.com/training) para obtener información sobre cómo obtener acceso a Partner University.
+
+ **¿Cómo se puede ver información de MCP una vez que mueva al centro de partners?**
+
+Seleccione **competencias** desde el panel de navegación en el panel izquierdo. Desde el **competencias** página puede descargar el informe de habilidades. El informe de habilidades enumerará los usuarios que han adquirido conocimientos relevantes para las competencias y programas en el centro de partners. Si los usuarios hayan adquirido habilidades, pero esas habilidades no son relevantes para las competencias que está trabajando hacia, no se mostrarán en el informe.
+
 
  **¿Se usan referencias de clientes en el centro de partners?**
 
