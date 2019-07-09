@@ -115,11 +115,12 @@
 
 # Análisis y datos del Centro de partners
 ## [Obtener y analizar los datos de tu negocio](data-analysis-lp.md)
-## [Aplicación de análisis de asociados para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Aplicación de análisis de asociados para Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Contribuciones de asociados: conseguir los indicadores de rendimiento más altos](partner-contributions.md)
 ## [Obtener datos sobre el uso de las suscripciones de Azure de tus clientes](analyze-azure-usage.md)
 ## [Analizar el rendimiento de los revendedores indirectos](analyze-indirect-resellers.md)
 ## [Analizar suscripciones y licencias](analyze-subscriptions-licenses.md)
+## [Análisis de Microsoft Learn](ms-learn-analytics.md)
 
 # [Trabajar con otros partners](work-with-other-partners.md)
 ## [Tareas de proveedor indirecto en el Centro de partners](indirect-provider-tasks-in-partner-center.md)
