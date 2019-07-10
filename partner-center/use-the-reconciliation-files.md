@@ -1,18 +1,18 @@
 ---
 title: Usar los archivos de conciliación | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Para obtener una vista detallada del elemento de línea de cada carga de un ciclo de facturación, descargue los archivos de conciliación de centro de partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343469"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694924"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -834,10 +834,6 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td><p>El servicio de la plataforma Azure que usó.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Grupo de recursos</td>
-<td><p>El grupo de recursos en el que se está ejecutando el medidor implementado.</p></td>
-</tr>
 
 <tr class="even">
 <td>URI de recurso</td>
@@ -892,11 +888,6 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="even">
 <td>Información de servicio 2</td>
 <td><p>Un campo heredado que captura los metadatos específicos del servicio opcional.</p></td>
-</tr>
-
-<tr class="odd">
-<td>`Tags`</td>
-<td><p>Etiquetas que asigna al medidor en orden para agrupar los registros de facturación. Por ejemplo, puede usar etiquetas para distribuir los costos por el departamento que utiliza el medidor.</p></td>
 </tr>
 
 <tr class="even">

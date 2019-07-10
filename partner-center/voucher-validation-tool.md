@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: el aprendizaje, herramienta de los asientos, validar el vale, notificaciones de programa software assurance, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132655"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674260"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales 
 
@@ -23,6 +23,15 @@ ms.locfileid: "62132655"
 Como un asociado cualificado de Software Assurance, ya sea para entrenar o la planeación de la implementación de servicios, Microsoft le compensa para proporcionar estos servicios a los clientes empresariales a cambio de los cupones que se obtienen con Software Assurance.
 
 Cuando el cliente recibe un vale, deberá validar y reservarla. Que puede hacer este trabajo en la herramienta de validación del vale y canje (VVR) en el pasado. Hoy que nos estamos reúne en un sitio: Centro de partners: todas las herramientas y los sitios, incluida la herramienta VVR, socios solía tendrá que visitar para hacer negocios con Microsoft con el fin de realizar su trabajo más eficaz y simplificado.
+
+Este documento proporciona información general de cómo validar y reservar un asiento. Para obtener detalles sobre las directivas y el flujo de trabajo de cupón validación completa, lea: 
+
+- [Flujo de trabajo de software assurance entrenamiento cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [Preguntas más frecuentes de asiento de aprendizaje de software assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [Directivas de software assurance entrenamiento cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>Validar y reservar un asiento
 

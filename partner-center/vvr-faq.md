@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cupones de formación, seguridad de software, aprendizaje, validación los cupones, asiento de reserva
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132592"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674219"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales 
 
@@ -51,6 +51,9 @@ A partir del 31 de marzo de 2019, todos los asociados administrarán sus asiento
 **¿Cómo puede mi empresa acceder a la herramienta VVR?**
 
 - Para obtener acceso a la herramienta VVR, su empresa debe inscribirse en el programa SATV o el programa de DPS SA.
+
+P+f más detallada en el [flujo de trabajo de herramienta de validación de cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Para obtener información sobre cómo inscribirse en SATV, lea [programa Software Assurance entrenamiento asiento (SATV) en el centro de partners](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Para obtener información sobre cómo inscribirse en programas de Software Assurance DPS, lea [programas de Software Assurance en el centro de partners](software-assurance-dps.md).

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: roles, permisos, admin, agente
 ms.localizationpriority: medium
-ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
-ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.openlocfilehash: 658106548596a5fa7d02d29c0065a23caeacb83d
+ms.sourcegitcommit: 59825cb626e12dfe5eb2d28e836b4573368d705e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "67396728"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67690841"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -24,7 +24,7 @@ Ha configurado el perfil de socio comercial como nombre legal y dirección, deta
 Determinar los tipos de acceso de los usuarios al centro de partners mediante los roles y permisos que les proporcione. Roles están relacionados con los programas de en que su empresa está implicada. Por ejemplo, si su empresa es una proveedor de soluciones en la nube (CSP) de la empresa, no sólo tendrá el estándar de Azure AD roles de administración como administrador global del inquilino, pero será necesario que las funciones específicas del programa CSP. Cada programa tiene roles específicos a él.
 
 >[!Note]
-> Roles de inquilino de Azure Active Directory (AAD) incluyen el administrador global, Administrador de usuarios y roles CSP. Roles de AAD de no son los roles que no administran al inquilino e incluyen administrador MPN, admin de perfil de empresa, Administrador de referencias, incentivo administrador y usuario incentivo. 
+> Roles de inquilino de Azure Active Directory (AAD) incluyen el administrador global, Administrador de usuarios y roles CSP. Roles de AAD de no son los roles que no administran al inquilino, e incluyen administrador MPN, admin de perfil de empresa, Administrador de referencias, incentivo administrador y usuario incentivo. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Administrar las transacciones comerciales en el centro de partners (Azure AD y los roles CSP)
 
@@ -34,13 +34,14 @@ Determinar los tipos de acceso de los usuarios al centro de partners mediante lo
 |      |• Crear incidencias de soporte técnico para el centro de partners
 ||• Vista acuerdos, listas de precios y ofertas
 ||• Ver, crear y administrar los usuarios del asociado|
-|Administrador de usuarios   | • Ver, crear y administrar usuarios
+||  Ver, crear y administrar la facturación, facturas y archivos de conciliación
+|Administrador de administración de usuarios   | • Ver, crear y administrar usuarios
 ||• Ver todos los perfiles de socios comerciales
 ||• Ver, crear y administrar los usuarios del asociado  |
 |Administrador de facturación | -Ver, crear y administrar la facturación, facturas y archivos de conciliación|
 |Usuario predeterminado|  Ver mi perfil   |
 |Agente de administración | • Administración de clientes
-||• Agregue la lista de dispositivos en el centro de partners <
+||• Agregue la lista de dispositivos en el centro de partners
 ||• Crear y aplicar los perfiles en dispositivos
 ||• Administración de suscripciones
 ||• Service health y atender solicitudes de clientes
@@ -87,20 +88,19 @@ CPVs desarrollar aplicaciones para su uso por los asociados de proveedor de solu
 
 |**Role** | **¿Qué puede hacer**|
 |----------------------------|:----------------------------|
-|Administrador de partners de MPN|•CAN agregar los usuarios que no sean inquilinos
-||• Ver, crear y administrar solicitudes de servicio asociado
-||• Vista legal, organización, empresariales y perfiles MPN
+|Administrador de partners de MPN|• Ver, crear y administrar solicitudes de servicio asociado||
+||• Vista legal, empresa, empresariales y perfiles MPN
 ||• Ver detalles del usuario y sus datos de conocimientos
 ||• Competencias de vista
 ||• Ver y administrar las prestaciones
 ||Compra y vista • MPN ofrece
 ||• Vista MPN ofrece facturas e historial de pedidos
-||• Ver datos de contribución de asociado
+||• Ver datos de indicador de contribución de asociado
 ||• Puede trabajar en la herramienta de validación del vale|
 ||-Ver análisis de datos de clientes
-|Administrador de cuentas| • Puede agregar los usuarios que no sean inquilinos
-||• Agregar o eliminar las ubicaciones
-||-Administración de perfiles de las cuentas de para que Administrador 
+|| Ver otros roles de usuario dentro de la empresa, pero no se puede asignar roles
+|Administrador de cuentas| Agregar ubicaciones
+|| Administrar perfiles de las cuentas de para que Administrador 
 ||• Asignación de roles para los usuarios de inquilinos para roles de AAD no 
 ||• Ubicaciones en programas de inscripción
 
@@ -128,7 +128,6 @@ CPVs desarrollar aplicaciones para su uso por los asociados de proveedor de solu
 ||• Los pagos incentivos de conflictos|
 |Usuario de incentivos|• Puede ver los programas de incentivos
 ||• Puede ver e iniciar las notificaciones de incentivos
-||• Beneficios de descuento y Co-op de vista
 ||• Beneficios de descuento y Co-op de vista
 ||• Compatibilidad con el acceso
 

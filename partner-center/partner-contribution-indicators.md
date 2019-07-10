@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622563"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674274"
 ---
 ## <a name="partner-contribution-indicators"></a>Indicadores de colaboración de asociados
 
@@ -56,9 +56,9 @@ Los asociados pueden ganar el máximo de puntos de una métrica si alcanzan o su
 |Nuevo deploments grandes|20|Para **Customer Engagement**, si cualquier suscripción de pago supera los 250 mensual umbral de usuarios activos en los últimos 12 meses, los socios comerciales asociados Obtiene el crédito de todas las instancias de producción (organizaciones) de compromiso del cliente en dicho inquilino. Para **Finance and Operations**, si cualquier suscripción de pago cruza el umbral de usuarios activos mensuales 100 en los últimos 12 meses, los socios comerciales asociados obtiene crédito para todas las finanzas e instancias de producción de operaciones (organizaciones) en ese inquilino. Se cuentan los usuarios activos en el nivel de suscripción y se consideran solo las suscripciones de pago. Usuarios activos mensuales se calculan al final de cada mes. Una suscripción se considera que se superó el umbral de usuarios activos mensuales si estaba por debajo del umbral especificado hace 13 meses y superó el umbral al menos una vez en los últimos 12 meses. Cuando un inquilino tiene varias suscripciones, cada uno asociado con asociados distintos, todos los asociados de obtención crédito para todas las instancias de producción en el inquilino, en la categoría de producto aplicables, siempre que sus suscripciones de pago asociado cross necesaria Umbral de usuarios activos mensuales.|Al final de 12 meses|
 |Crecimiento de usuarios activos mensuales|25|Comparación entre actual del contador de vs de usuarios activos mensualmente el recuento de usuarios activos mensualmente hace 13 meses. Se cuentan los usuarios activos en el nivel de suscripción y se consideran solo las suscripciones de pago. Usuarios activos mensuales se calculan al final de cada mes. Para **Customer Engagement**, un asociado de mercado desarrollado debe tener una línea de base de al menos de 250 usuarios activos mensualmente en producción y emergentes mercado asociados un mínimo de 150 usuarios activos mensualmente, en su base de clientes completa 13 meses hace sea apto para los puntos. Para **Finance and Operations**, un asociado de mercado desarrollado debe tener una línea de base de al menos 100 usuarios activos mensualmente en producción y emergentes mercado asociado al menos 50 usuarios activos mensualmente a través de su base de clientes completa 13 meses hace sea apto para los puntos.|Al final de 12 meses|
 
-## <a name="customer-to-partner-association"></a>Cliente para la asociación de asociado
+## <a name="customer-to-partner-association"></a>Asociación al cliente para partners
 
-Recibirá un crédito de los ingresos netos del nuevo, Net cliente agrega, nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de métricas, si y solo si son el reclamado socio de registro (CPOR) o socio de registro Digital ( DPOR) para una suscripción de pago que pertenecen al inquilino del cliente.
+Recibirá un crédito de los ingresos netos del nuevo, se agrega de cliente neto, nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de métricas, solo si es el reclamado socio de registro (CPOR) o un socio de registro Digital (DPOR) para una suscripción de pago que pertenecen al inquilino del cliente.
 
 Un socio se convierte en el CPOR si ha establecido la asociación con un cliente en el nivel de suscripción a través de los incentivos del Asesor de soluciones en línea (OSA) de Dynamics 365.
 
