@@ -1,53 +1,41 @@
 ---
-title: Analizar la eficacia de tu perfil de negocio | Centro de partners
+title: Analizar su perfil de negocio | Centro de Partners
 ms.topic: article
-ms.date: 03/15/2019
-description: Evaluar, negociar y responder a las referencias a través del Centro de partners.
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: Vea cómo está captando la atención de sus clientes de destino y generando referencias.
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134915"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854494"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a><span data-ttu-id="e38c8-103">Analizar la eficacia de tu perfil de negocio</span><span class="sxs-lookup"><span data-stu-id="e38c8-103">Analyze the effectiveness of your business profile</span></span>
+# <a name="analyze-your-business-profile"></a><span data-ttu-id="7c3da-103">Analizar su perfil de negocio</span><span class="sxs-lookup"><span data-stu-id="7c3da-103">Analyze your business profile</span></span>
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-<span data-ttu-id="e38c8-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="e38c8-104">**Applies to**</span></span>
+<span data-ttu-id="7c3da-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="7c3da-104">**Applies to**</span></span>
 
--  <span data-ttu-id="e38c8-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="e38c8-105">Partner Center</span></span>
+- <span data-ttu-id="7c3da-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="7c3da-105">Partner Center</span></span>
 
-<span data-ttu-id="e38c8-106">Obtén informes para mostrar cómo de bien captas la atención de los que buscas y generas referencias.</span><span class="sxs-lookup"><span data-stu-id="e38c8-106">Get reports to show how well you’re capturing the attention of your target customers and generating referrals.</span></span>
+<span data-ttu-id="7c3da-106">La página **Business Profile Insights** del centro de Partners le permite ver lo bien que está captando la atención de sus clientes de destino y generando referencias.</span><span class="sxs-lookup"><span data-stu-id="7c3da-106">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
 
-<span data-ttu-id="e38c8-107">Tras publicar el [perfil de negocio](create-a-marketing-profile.md) de tu empresa, empezarás a obtener datos sobre cuántos clientes buscan tu perfil, la frecuencia con la que lo recorren para obtener más información y la frecuencia con la que te envían solicitudes de información (RFI).</span><span class="sxs-lookup"><span data-stu-id="e38c8-107">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to get data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> 
+<span data-ttu-id="7c3da-107">Para ver los datos de la información de referencia, en el menú del centro de Partners, vaya a **referencias > Business Profile Insights**.</span><span class="sxs-lookup"><span data-stu-id="7c3da-107">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="7c3da-108">Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción.</span><span class="sxs-lookup"><span data-stu-id="7c3da-108">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
 
-<span data-ttu-id="e38c8-108">Cuando empieces a [responder a estas referencias](responding-to-referrals.md), empezarás a obtener datos sobre cuántas RFI se convierten en ofertas comerciales ganadas.</span><span class="sxs-lookup"><span data-stu-id="e38c8-108">As you start to [respond to these referrals](responding-to-referrals.md), you’ll start to get data on how many of these RFIs are turning into winning business deals.</span></span>
+<span data-ttu-id="7c3da-109">Cerca de la parte superior de la página de **información de Perfil de negocio** , puede seleccionar el período de tiempo para el que desea mostrar los datos.</span><span class="sxs-lookup"><span data-stu-id="7c3da-109">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="7c3da-110">La selección predeterminada es **30D** (30 días), pero puede optar por mostrar los datos de un período de 3 o 6 meses en su lugar.</span><span class="sxs-lookup"><span data-stu-id="7c3da-110">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="7c3da-111">Se incluyen los datos de todas las regiones.</span><span class="sxs-lookup"><span data-stu-id="7c3da-111">Data for all regions is included.</span></span>
 
-<span data-ttu-id="e38c8-109">Usa estos informes cuando perfecciones tus perfiles empresariales para generar más clientes potenciales y más clientes potenciales relevantes.</span><span class="sxs-lookup"><span data-stu-id="e38c8-109">Use these reports when refining your business profiles to generate more leads, and more relevant leads.</span></span> <span data-ttu-id="e38c8-110">Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción.</span><span class="sxs-lookup"><span data-stu-id="e38c8-110">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span> <span data-ttu-id="e38c8-111">En el menú del centro de partners, vaya a **referencias > páginas de Marketing**.</span><span class="sxs-lookup"><span data-stu-id="e38c8-111">From the Partner Center menu, go to **Referrals > Marketing pages**.</span></span>
+<span data-ttu-id="7c3da-112">Después de publicar el perfil de [negocio](create-a-marketing-profile.md)de su empresa, comenzará a ver los datos sobre cuántos clientes encuentran su perfil, con qué frecuencia hacen clic para obtener más información y con qué frecuencia envían solicitudes de información (RFIs).</span><span class="sxs-lookup"><span data-stu-id="7c3da-112">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="7c3da-113">Use estos datos al refinar los perfiles de negocio para generar más clientes potenciales y clientes potenciales más relevantes.</span><span class="sxs-lookup"><span data-stu-id="7c3da-113">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
 
-<span data-ttu-id="e38c8-112">Estos informes muestran el rendimiento de los perfiles empresariales en todas las regiones.</span><span class="sxs-lookup"><span data-stu-id="e38c8-112">These reports show the performance for business profiles for all regions.</span></span> <span data-ttu-id="e38c8-113">Los informes muestran datos de los últimos 90 días agrupados por semanas.</span><span class="sxs-lookup"><span data-stu-id="e38c8-113">The reports show data for the last 90 days, grouped by weeks.</span></span>
+<span data-ttu-id="7c3da-114">El gráfico de **Resumen rendimiento de perfil** incluye la siguiente información para el período de tiempo seleccionado:</span><span class="sxs-lookup"><span data-stu-id="7c3da-114">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
 
-*  <span data-ttu-id="e38c8-114">**Tendencias**: Muestra los últimos 90 días, agrupados por semanas.</span><span class="sxs-lookup"><span data-stu-id="e38c8-114">**Trends**: Shows the last 90 days, grouped by weeks.</span></span> <span data-ttu-id="e38c8-115">Datos semanales de los últimos 90 días y porcentaje de cambio respecto al periodo anterior de las siguientes métricas:</span><span class="sxs-lookup"><span data-stu-id="e38c8-115">weekly data for the last 90 days and % change from previous period of the following metrics:</span></span>
+- <span data-ttu-id="7c3da-115">**Resultados**de la búsqueda: Información acerca de los términos de búsqueda que usan los clientes para encontrar su perfil de negocio.</span><span class="sxs-lookup"><span data-stu-id="7c3da-115">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
+- <span data-ttu-id="7c3da-116">**Vistas de página**: El número total de veces que los clientes vieron el perfil de negocio.</span><span class="sxs-lookup"><span data-stu-id="7c3da-116">**Page views**: The total number of times that customers viewed your business profile.</span></span>
+- <span data-ttu-id="7c3da-117">**Clics de contacto**: El número total de veces que los clientes seleccionaron su perfil de negocio en la página [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) .</span><span class="sxs-lookup"><span data-stu-id="7c3da-117">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
+- <span data-ttu-id="7c3da-118">**Referencias generadas**: El número total de referencias enviadas después de que un cliente haya seleccionado su perfil de negocio.</span><span class="sxs-lookup"><span data-stu-id="7c3da-118">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
 
-   * <span data-ttu-id="e38c8-116">**Vistas de página de marketing**: Número de veces que las personas ven su perfil de negocio</span><span class="sxs-lookup"><span data-stu-id="e38c8-116">**Marketing page views**: How many times people viewed your business profile</span></span>
-   * <span data-ttu-id="e38c8-117">**Póngase en contacto con los clics de botón**: Número de veces que las personas seleccionaron su perfil de negocio desde la **encuentre un socio** página.</span><span class="sxs-lookup"><span data-stu-id="e38c8-117">**Contact button clicks**: Number of times people selected your business profile from the **Find a Partner** page.</span></span> <span data-ttu-id="e38c8-118">Es posible que esto no refleje cuántas veces la gente ha proseguido para crear una solicitud de información (RFI).</span><span class="sxs-lookup"><span data-stu-id="e38c8-118">This may not reflect how many times people followed through to create a request for information (RFI).</span></span>
-   * <span data-ttu-id="e38c8-119">**Se acepta RFI**: Número de veces [acepta referencias de clientes](responding-to-referrals.md) después de que envía una solicitud de información (RFI).</span><span class="sxs-lookup"><span data-stu-id="e38c8-119">**RFI is accepted**: Number of times you [accepted customer referrals](responding-to-referrals.md) after they sent a request for information (RFI).</span></span>
-
-
-*  <span data-ttu-id="e38c8-120">**Vistas de página**: Muestra los datos de tendencia semanal de los últimos 90 días.</span><span class="sxs-lookup"><span data-stu-id="e38c8-120">**Page views**: Shows weekly trend data for the last 90 days.</span></span>
-   *  <span data-ttu-id="e38c8-121">**Vistas de página de marketing por los clientes**</span><span class="sxs-lookup"><span data-stu-id="e38c8-121">**Marketing page views by customers**</span></span>
-   *  <span data-ttu-id="e38c8-122">**RFI enviado por los usuarios**</span><span class="sxs-lookup"><span data-stu-id="e38c8-122">**RFIs submitted by customers**</span></span>
-
-<span data-ttu-id="e38c8-123">Consulta los términos de búsqueda que los clientes usan para encontrar tu perfil.</span><span class="sxs-lookup"><span data-stu-id="e38c8-123">See the search terms that customers are using to find your profile.</span></span> <span data-ttu-id="e38c8-124">Estos informes muestran datos semanales de los últimos 90 días.</span><span class="sxs-lookup"><span data-stu-id="e38c8-124">These reports show weekly data for the last 90 days.</span></span>
-
-*  <span data-ttu-id="e38c8-125">**Palabras clave** (principales palabras clave de búsqueda general)</span><span class="sxs-lookup"><span data-stu-id="e38c8-125">**Keywords** (Top overall search keywords)</span></span> 
-*  <span data-ttu-id="e38c8-126">**Industria**</span><span class="sxs-lookup"><span data-stu-id="e38c8-126">**Industry**</span></span>
-*  <span data-ttu-id="e38c8-127">**Producto**</span><span class="sxs-lookup"><span data-stu-id="e38c8-127">**Product**</span></span>
-*  <span data-ttu-id="e38c8-128">**Tipo de servicio**</span><span class="sxs-lookup"><span data-stu-id="e38c8-128">**Service type**</span></span>
-
+> [!TIP]
+> <span data-ttu-id="7c3da-119">A medida que empiece a [responder a estas referencias](responding-to-referrals.md), asegúrese de revisar la página de información de [referencia](referral-insights.md) para ver más detalles sobre el rendimiento de las referencias.</span><span class="sxs-lookup"><span data-stu-id="7c3da-119">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>
