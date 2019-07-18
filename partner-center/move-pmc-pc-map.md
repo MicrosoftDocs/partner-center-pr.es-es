@@ -1,84 +1,84 @@
 ---
-title: Mover de PMC al centro de partners | Centro de partners
+title: Cambio de PMC al centro de Partners | Centro de Partners
 ms.topic: article
 ms.date: 06/14/19
-description: Comprender las diferencias y similitudes entre PMC y centro de partners
+description: Comprenda las diferencias y similitudes entre PMC y el centro de Partners
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migración, mover al centro de partners
+keywords: PMC, migración, pasar al centro de Partners
 ms.localizationpriority: medium
-ms.openlocfilehash: 3056bd4094bc6e3a69081ff262fc96782ce57a1f
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: 82909b8d44f1a325c01f5c1a8813570245d14f0e
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549513"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818711"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>Mover de PMC al centro de partners
+# <a name="moving-from-pmc-to-partner-center"></a>Pasar de PMC al centro de Partners
 
-Nos estamos facilitando la tarea para que pueda hacer negocios con nosotros mediante la introducción de un único sitio Web (centro de partners) que actúa como un punto central de engagement. Encontrará todo lo realizado en Partner Membership Center (PMC) puede realizarse desde el panel en el centro de partners. 
+Nos facilita hacer negocios con nosotros introduciendo un solo sitio web (centro de Partners) que sirve como punto central de compromiso. Encontrará todo lo que hizo en el centro de afiliación de asociados (PMC) en el panel del centro de Partners. 
 
-También puede realizar mucho más y todo sin dejar el sitio web. Aunque algunas de las características y la terminología pueden parecer diferente. Para mitigar cualquier problema inicial sobre dónde y cuáles son las cosas, paseo por el sitio del panel.
+También puede realizar muchas más y todo sin tener que pasar por un sitio Web. No obstante, algunas de las características y terminología pueden ser diferentes. Para mitigar cualquier preocupación inicial sobre dónde y qué son las cosas, realice el paseo por el sitio del panel.
 
-Esta tabla presentan algunas de las diferencias entre PMC y centro de partners.
+En esta tabla se presentan algunas de las diferencias entre PMC y el centro de Partners.
 
-## <a name="renewing-your-partner-network-mpn-membership"></a>Renovar su suscripción de partner network (MPN)
-
-|**PMC**   |**Centro de partners**|
-|----------------------|:-----------------------------|
-|Las renovaciones empezaría 90 antes de aniversario y última hasta la fecha de aniversario| La ventana de renovación MPN es desde el día después de su aniversario y durante 30 días después.|
-
-## <a name="account-structure"></a>Estructura de la cuenta
+## <a name="renewing-your-microsoft-partner-network--membership"></a>Renovación de la pertenencia a Microsoft Partner Network
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Oficina central más ubicaciones de cada uno se evalúa por separado. Evaluación de competencias se realizaron a nivel local|Una empresa global, (también conocido como socio Global cuenta PGA), incluidas las ubicaciones, se evalúa como un todo; datos de rendimiento y las habilidades que se agregan en el nivel de la PGA; incluye varias vistas de perfil para programas como perfil de socio comercial y perfil de negocio para las referencias y marketing|
+|Las renovaciones se iniciaron el 90 antes del aniversario y deben haber sido completadas por la fecha de aniversario| Los asociados pueden renovar el inicio del día después del aniversario y hasta 30 días después del aniversario.|
+
+## <a name="account-structure"></a>Estructura de cuenta
+
+|**PMC**   |**Centro de partners**|
+|----------------------|:-----------------------------|
+|Headquarters más ubicaciones: cada una se evalúa por separado. La evaluación de las competencias se realizó en el nivel local|Una empresa global, (también conocida como cuenta global de socio PGA), incluidas las ubicaciones, se evalúa como un todo. datos de rendimiento y habilidades agregados en el nivel PGA; incluye varias vistas de perfil para programas como perfil de socio comercial y Perfil de negocio para las referencias y el marketing|
 
 ## <a name="sign-in"></a>Iniciar sesión
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Podría usar su cuenta de Microsoft (MSA) o las credenciales de cuenta personal joe@outlook.com|Debe usar las credenciales de cuenta de trabajo (joe@joescompany.com.)|
+|Puede usar sus credenciales de cuenta de cuenta de Microsoft (MSA) o personal.joe@outlook.com|Debe utilizar las credenciales de la cuenta profesionaljoe@joescompany.com(.)|
 
 ## <a name="user-roles"></a>Roles de usuario
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Tenía muchos roles en PMC que no se especifican en el centro de partners|El administrador que realiza el movimiento al centro de partners se asigna automáticamente los roles de administrador de MPN, el Administrador de cuenta y Administrador de referencias. A continuación, pueden asignar a otros usuarios a roles adicionales de MPN.|
-|Los usuarios se administran en el nivel de ubicación|Los usuarios se administran en el nivel de empresa (PGA) en lugar de nivel de almacén. La excepción es el Administrador de incentivos que funciona en el nivel de ubicación.|
-|   |PC tiene dos conjuntos amplios de roles: los roles que administración el inquilino de Azure AD y los roles que administración la empresa. Puede organizar los roles de la manera que tenga sentido para su empresa. Una vez que la persona puede realizar todo el contenido o a muchas personas pueden asignarse permisos y roles independientes. 
+|Tenía muchos roles en PMC que no se especificaron en el centro de Partners|Al administrador que realiza el traslado al centro de Partners se le asignan automáticamente los roles de administrador de MPN, administrador de cuenta y referencias. A continuación, pueden asignar otros usuarios a las funciones de usuario.|
+|Los usuarios se administraron en el nivel de ubicación|Los usuarios se administran en el nivel de la compañía (PGA) en lugar de en el nivel de ubicación. La excepción es el administrador de incentivos que funciona en el nivel de ubicación.|
+|   |El centro de Partners tiene dos conjuntos amplios de roles: los roles que administran el inquilino de Azure AD y los roles que administran el negocio de la empresa. Puede organizar los roles de la forma que tenga sentido para su empresa. Una vez que la persona puede hacer que se asignen roles y permisos independientes a todas las personas o a muchas personas. 
 
-## <a name="how-benefits-and-competencies-are-accounted-for"></a>Cómo se abordan las ventajas y competencias
+## <a name="how-competencies-and-benefits-are-accounted-for"></a>Cómo se tienen en cuenta las competencias y los beneficios
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Acumulados por ubicación y administrada por ubicación|Ventajas son por toda la empresa, como administración de beneficios, sin embargo, puede administrar las ventajas de la manera que mejor se adapte a su empresa |
-|Podría tener kits de herramientas de ventajas adicionales (ABTKs)|No hay ABTKs; uno se asigna por empresa; una competencia silver por empresa; una competencia gold por empresa|
-|Se tuvo acceso a beneficios en descargar Digital de socio (PDD) o derechos de usuario internos (IUR)|Se tiene acceso a todos los beneficios en el centro de partners|
-|Beneftis y competencias distribuirán y dividen en varias ubicaciones|Sus beneficios y las competencias de todas las ubicaciones son consolidsated en la empresa (PGA) nivel y se conservará hasta la fecha de aniversario. En ese momento, deberá comprar o renovar a nivel de empresa. Rendimiento y conocimientos, así como de competencias, se agregan globalmente|
-|Notificaciones de cupón de Software Assurance se realizan en la herramienta VVR|La capacidad VVR ahora se encuentra en el centro de partners; los programas de Software Assurance - SATV y SAPS también están disponibles en el centro de partners|
+|Acumulado por ubicación y administrado por ubicación|Las ventajas son por toda la empresa, incluida la administración de ventajas, pero puede administrar las ventajas de la forma que mejor se adapte a su empresa. |
+|Podría tener más kits de herramientas de ventajas (ABTKs) hasta que se retiraran el 2018 de octubre.|Sin ABTKs; una asignación por empresa; una competencia Silver por empresa; una competencia Gold por empresa|
+|Se ha tenido acceso a las ventajas de la descarga digital de asociados (PDD) |Se tiene acceso a todos los beneficios en el centro de Partners|
+|Competencias y ventajas distribuidas y divididas en varias ubicaciones|Sus competencias y ventajas de todas sus ubicaciones se consolidan en el nivel de empresa (PGA) y se conservarán hasta la fecha de aniversario. En ese momento, tendrá que comprar o renovar en el nivel de la compañía. El rendimiento y las aptitudes, así como las competencias, se agregan globalmente|
+|Las notificaciones de los vales de software Assurance se realizan en la herramienta Valication y Redmption (VVR) del asiento|Ahora puede acceder y administrar los vales de aprendizaje de software Assurance (SATV) o los servicios de planeación implementados (DPS) en el centro de Partners.  La herramienta VVR heredada se retirará el 1 de octubre de 2019.  |
 
-## <a name="visual-studio-benefits-and-msa"></a>Beneficios de Visual Studio y MSA
+## <a name="visual-studio-benefits-and-msa"></a>Ventajas de Visual Studio y MSA
 
 |**PMC**   |**Centro de partners**   |
 |-----------------|:-----------------|
-|Asignación de beneficios de Visual Studio para MSA|Se respeta y conserva asignados para MSA beneficios de Visual Studio.|
-||Las asignaciones de MSA de Visual Studio se conservarán después de la renovación en el centro de partners.|
-||En el centro de partners, puede agregar un asociado de cuentas profesionales y las cuentas de usuario invitado que son MSA desde el mismo inquilino donde el asociado es MPN admin en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos los inquilinos de estos están asociados a la misma cuenta de centro de partners, el asociado se permite agregar usuarios en todos estos inquilinos a las ventajas de Visual Studio y las asignaciones según el uso de Azure. Aunque los usuarios invitados pueden asignarse según el uso de las suscripciones de Visual Studio mediante el administrador MPN o administrador global, los usuarios invitados no pueden iniciar sesión centro de partners usando su MSA. Los usuarios invitados pueden, sin embargo, inicie sesión en Azure y Visual Studio para validar y usar sus beneficios asignados. |
+|Asignación de las ventajas de Visual Studio a MSA|Las ventajas de Visual Studio asignadas a MSAs se respetarán y se conservarán.|
+||Las asignaciones de MSA de Visual Studio se conservarán después de la renovación en el centro de Partners.|
+||En el centro de Partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del centro de Partners, se permite que el asociado Agregue usuarios en todos estos inquilinos a las ventajas de Visual Studio y a las asignaciones basadas en el uso de Azure. Aunque los usuarios invitados pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus ventajas asignadas. |
 
-## <a name="programs-now-located-and-managed-in-partner-center"></a>Programas ubican ahora y administran en el centro de partners 
+## <a name="programs-now-located-and-managed-in-partner-center"></a>Programas ahora ubicados y administrados en el centro de Partners 
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |PDD  |Ventajas|
 |CHIP, ICP, CIRCULAR | Incentivos|
 ||Referencias|
-|Información de Partner| Análisis|
-|Herramienta de validación y canje de vales| VVR |
+|Información de asociados| Análisis|
+|Herramienta de validación y canje de vales| Herramienta de validación y canje de vales|
 |           |Programas de proveedor de soluciones en la nube|
 
-Sí. Se respeta y conserva asignados para MSA beneficios de Visual Studio. También se conservarán después de la renovación en el centro de partners. Sin embargo, si quita una asignación de MSA una vez migrado en el centro de partners, no se puede agregar al centro de partners.
+Sí. Las ventajas de Visual Studio asignadas a MSAs se respetarán y se conservarán. También se conservarán después de la renovación en el centro de Partners. Sin embargo, si quita una asignación de MSA una vez migrada en el centro de Partners, no se puede volver a agregar al centro de Partners.
 
-En el centro de partners, puede agregar un asociado de cuentas de trabajo y cuentas de usuario invitado que son MSA desde el mismo inquilino donde el asociado es MPN admin en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos los inquilinos de estos están asociados a la misma cuenta de centro de partners, el asociado se permite agregar usuarios en todos estos inquilinos a las ventajas de Visual Studio y las asignaciones según el uso de Azure.
+En el centro de Partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del centro de Partners, se permite que el asociado Agregue usuarios en todos estos inquilinos a las ventajas de Visual Studio y a las asignaciones basadas en el uso de Azure.
 
-Aunque los usuarios invitados pueden asignarse según el uso de las suscripciones de Visual Studio mediante el administrador MPN o administrador global, los usuarios invitados no pueden iniciar sesión centro de partners usando su MSA. Los usuarios invitados pueden, sin embargo, inicie sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.
+Aunque los usuarios invitados pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus ventajas asignadas.

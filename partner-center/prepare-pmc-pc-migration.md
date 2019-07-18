@@ -1,175 +1,175 @@
 ---
-title: Preparar para pasar de Partner Membership Center al centro de partners | Centro de partners
+title: Preparar la migración del centro de pertenencia del asociado al centro de Partners | Centro de Partners
 ms.topic: article
 ms.date: 06/13/2019
-description: Aspectos que hay que pensar antes de mover su negocio de PMC al centro de partners
+description: Aspectos que se deben tener en cuenta antes de trasladar su negocio de PMC al centro de Partners
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
-ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
+ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/04/2019
-ms.locfileid: "67563041"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854512"
 ---
-# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparar para la migración desde Partner Membership Center (PMC) al centro de partners
+# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepárese para pasar del centro de afiliación del asociado (PMC) al centro de Partners
 
-Movemos administración de pertenencia de Partner Membership Center (PMC) para el centro de partners: el único destino para administrar la relación comercial con Microsoft. Queremos pasar a centro de partners para ser lo más eficaz y fácil posible. Hemos identificado algunas áreas donde el centro de partners difiere de PMC; y pensamos que deseará comprenderlas y prepararse para ellos antes de realizar el movimiento.
+Estamos trasladando la administración de pertenencia del centro de afiliación de asociados (PMC) al centro de Partners: el único destino para administrar su relación de negocio con Microsoft. Queremos que el centro de Partners sea lo más eficaz y sencillo posible. Hemos identificado algunas áreas en las que el centro de Partners difiere de PMC y creemos que le interesará comprender y prepararse antes de realizar el traslado.
 
-## <a name="account-and-identity-setup"></a>Programa de instalación de la cuenta y de identidad
+## <a name="account-and-identity-setup"></a>Configuración de cuentas e identidades
 
-**¿Qué es una cuenta de trabajo de Azure Active Directory (Azure AD)?**
+**¿Qué es una cuenta profesional de Azure Active Directory (Azure AD)?**
 
 Una cuenta profesional de Azure es una representación virtual dedicada y aislada de tu empresa en la nube pública de Azure, creada automáticamente cuando te suscribes a un servicio en la nube de Microsoft como Azure, Microsoft Intune u Office 365.
 
-La cuenta de trabajo hospeda los usuarios de Azure AD y la información sobre ellos: su correo electrónico, contraseñas, datos de perfil, permisos y así sucesivamente. La cuenta de trabajo también contiene grupos, aplicaciones y otra información relativa a una empresa y su seguridad. Para obtener más información, vea...
+Su cuenta profesional hospeda su Azure AD usuarios y la información sobre ellos: su correo electrónico, contraseñas, datos de perfil, permisos, etc. La cuenta profesional también contiene grupos, aplicaciones y otra información relativa a una empresa y su seguridad. Para obtener más información, vea...
 
-En el centro de partners usará su correo electrónico profesional para iniciar sesión en su cuenta no es su correo electrónico personal.
-- Su cuenta profesional: john@contoso.com
-- Su cuenta personal: John@outlook.com
+En el centro de Partners, usará el correo electrónico del trabajo para iniciar sesión en su cuenta, no su correo electrónico personal.
+- Su cuenta profesional:john@contoso.com
+- Tu cuenta personal:John@outlook.com
 
-El correo electrónico de trabajo forma parte de su inquilino de Azure active directory. Para tener una cuenta de centro de partners, debe tener un inquilino de AAD. Para obtener más información sobre Azure Active Directory, lea [crear su directorio de Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+El correo electrónico de trabajo forma parte del inquilino de Azure Active Directory. Para tener una cuenta en el centro de Partners, debe tener un inquilino de AAD. Para obtener más información sobre Azure Active Directory, lea [crear el directorio en Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
-**Cuando se mueve al centro de partners de PMC, ¿qué cuenta debe iniciar sesión en Centro de partners con if un inquilino de AAD con Microsoft (para Office 365, por ejemplo) y usted también tiene un inquilino para su negocio CSP?**
+**Al pasar al centro de Partners desde PMC, ¿qué cuenta debe iniciar sesión en el centro de Partners con si tiene un inquilino de AAD con Microsoft (por ejemplo, para Office 365) y también tiene un inquilino para su negocio de CSP?**
 
-Puede iniciar sesión en Partner Center con la cuenta CSP o la cuenta de correo electrónico del trabajo MPN. Si decide iniciar sesión con su correo electrónico profesional CSP, en el panel de navegación izquierdo se mostrará información sobre el programa MPN y CSP. Si inicia sesión con su correo electrónico profesional de inquilino de Azure AD de MPN, verá solo la información del programa MPN. Roles de usuario diferencian de MPN y CSP así que asegúrese de asignar roles de usuario en consecuencia si usa la misma cuenta para la empresa MPN y CSP,. Para obtener información sobre los roles de usuario, lea [asignar permisos y roles de usuario](permissions-overview.md).
+Puede iniciar sesión en el centro de Partners con la cuenta de CSP o la cuenta de correo electrónico del trabajo de MPN. Si elige iniciar sesión con el correo electrónico de trabajo de CSP, el panel de navegación izquierdo en el panel mostrará la información de los programas MPN y CSP. Si inicia sesión con el correo electrónico de trabajo del inquilino de MPN Azure AD, solo verá la información del programa MPN. Los roles de usuario difieren entre MPN y CSP, por lo que si usa la misma cuenta para el negocio de MPN y CSP, asegúrese de asignar roles de usuario en consecuencia. Para obtener información sobre los roles de usuario, consulte [asignar roles de usuario y permisos](permissions-overview.md).
 
-**¿Qué es la diferencia entre el rol de administrador global de AAD y el rol de administrador global de PMC MPN?**
+**¿Cuál es la diferencia entre el rol de administrador global de AAD y el rol de administrador global de PMC MPN?**
 
-Estos son dos roles diferentes completamente con permisos diferentes. El administrador global de inquilino AAD en el centro de partners administra al inquilino: agrega o quita los usuarios, proporciona y administra las contraseñas, roles y permisos y tiene acceso a programas de toda la empresa en el centro de partners. 
+Se trata de dos roles completamente diferentes con permisos diferentes. El administrador global del inquilino de AAD del centro de Partners administra el inquilino: agrega o quita usuarios, proporciona y administra contraseñas, roles y permisos, y tiene acceso a todos los programas de su empresa en el centro de Partners. 
 
-El rol de administrador global de MPN en PMC podría hacer lo siguiente:
+El rol de administrador global MPN en PMC podría hacer lo siguiente:
 
-- Ver y editar todos los datos asociados con la empresa y todas las ubicaciones de la empresa
+- Ver y editar todos los datos asociados a la empresa y todas las ubicaciones de la empresa
 
--  Agregue los administradores en el nivel global o local.  Además, los administradores globales pueden asignar a cualquier persona en cualquier ubicación de acceso de administrador Global que les concede acceso global, independientemente de qué ubicación que están asociados.
--  Lleve a cabo a cualquier socio orientado a la función de la interfaz de usuario incluidas: 
+-  Agregue administradores en el nivel global o local.  Además, los administradores globales pueden asignar cualquier persona en cualquier ubicación acceso de administrador global, que les concede acceso global independientemente de la ubicación a la que estén asociadas.
+-  Realice cualquier función de interfaz de usuario orientada a asociados, incluidos: 
 
 -  Agregar o quitar usuarios
 
  - Asignar o quitar roles 
 
- - Agregar, quitar o actualizar ubicaciones 
+ - Agregar/quitar/actualizar ubicaciones 
 
- - Competencia de compra/asignaciones 
+ - Adquirir competencia/Maps 
 
--  Ventajas de la vista
+-  Ver las ventajas
 
-Cuando el administrador global de MPN se mueve al centro de partners la función se llama el administrador del asociado MPN que tiene permisos diferentes y las tareas que el administrador global de centro de partners. Para obtener más información sobre los roles y permisos en el centro de partners, lea [asignar roles a los usuarios y permisos](permissions-overview.md)
+Cuando el administrador global de MPN se mueve al centro de Partners, el rol se denomina administrador de asociados de MPN, que tiene permisos y tareas diferentes que el administrador global del centro de Partners. Para obtener más información sobre roles y permisos en el centro de Partners, lea [asignar roles y permisos a los usuarios](permissions-overview.md).
 
-**Roles de usuario, incluidos los roles de usuario invitado en el centro de partners**
+**Roles de usuario, incluidos los roles de usuario invitado en el centro de Partners**
 
-Centro de partners tiene diferentes tipos de roles según los tipos de trabajo que se debe realizar. Hay funciones como administrador global que son roles de Azure AD. Algunos de los roles son específicos de programas como el proveedor de servicios en la nube o incentivos y hay funciones que son específicas de MPN. Para averiguar cuáles son todos los roles de centro de partners, leer [asignar roles a los usuarios y permisos](permissions-overview.md).
-
-
-
-**¿Qué ocurre con los roles Mis usuarios cuando pasan de PMC al centro de partners?**
-
-Excepto para el contacto principal del programa que lleva a cabo la migración o el administrador global de MPN, todos los usuarios en la PMC perderán sus roles de administrador. La persona que se complete la migración debe asignarles roles en el centro de partners. Los roles en el centro de partners diferencian de los de la PMC. Lectura [asignar roles a los usuarios y permisos](permissions-overview) y [mover de PMC al centro de partners](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) para obtener más en roles de usuario en el centro de partners.
+El centro de Partners tiene distintos tipos de roles en función de los tipos de trabajo que es necesario realizar. Hay roles como el administrador global que se Azure AD roles. Algunos de los roles son específicos de programas como el programa de proveedor de servicios en la nube o los incentivos, y hay roles que son específicos de MPN. Para averiguar qué son todos los roles del centro de Partners, lea [asignar roles y permisos a los usuarios](permissions-overview.md).
 
 
-**¿Qué es la diferencia entre mi perfil de la empresa y mi perfil de negocio?**
 
-Perfil de su empresa es la información acerca de su compañía que incluya la dirección, ubicaciones, contacto principal, información bancaria y fiscal.
+**¿Qué ocurre con los roles de mis usuarios cuando pasan de PMC al centro de Partners?**
 
-El perfil de negocio es cómo presentar usted mismo a los clientes y una página de marketing que muestra su logotipo, obtener más información sobre el foco de su negocio, su experiencia, etcetera.
+Excepto en el caso del administrador global de MPN o del programa principal que realiza la migración, todos los usuarios de PMC perderán sus roles de administrador. La persona que complete la migración deberá asignar roles en el centro de Partners. Los roles del centro de Partners son distintos de los de PMC. Lea [asignar roles y permisos de usuarios] (permisos-overview.md y [pasar de PMC al centro de Partners](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) para obtener más información sobre las funciones de usuario en el centro de Partners.
 
-**¿Qué tiene en cuenta el promedio de consolidación para mi cuenta?**
 
-Si usa al mismo inquilino de Azure AD para migrar varias cuentas de MPN en Centro de partners, el sistema reconocerá automáticamente y pedirle que consolidar las cuentas. Esto es cierto incluso si tiene varios dominios asociados al mismo inquilino de Azure AD. 
+**¿Cuál es la diferencia entre mi perfil de empresa y mi perfil de negocio?**
 
-Podría decidir migrar al centro de partners mediante independiente de los inquilinos AAD, pero tenga en cuenta que este produce aislado de evaluación de sus competencias y adicional de costos de adquisición. 
+El perfil de su empresa es la información sobre su empresa que incluye la dirección, las ubicaciones, el contacto principal, los detalles bancarios y los impuestos.
 
-**¿Si tengo varios inquilinos AAD y una sola cuenta MPN, es posible crear un vínculo a ellas en el centro de partners?**
+Su perfil de negocio es la forma en que se presenta a los clientes y es una página de marketing que muestra su logotipo, los detalles sobre su enfoque empresarial, su experiencia, etc.
 
-Sí, en el centro de partners puede vincular a varios inquilinos de Azure AD a solo cuenta del centro de partners.
+**¿Qué significa la consolidación de cuentas para mi cuenta?**
+
+Si usa el mismo inquilino de Azure AD para migrar varias cuentas de MPN al centro de Partners, el sistema lo reconocerá automáticamente y le pedirá que consolide sus cuentas. Esto es así incluso si tiene varios dominios asociados al mismo inquilino de Azure AD. 
+
+Todavía puede optar por migrar al centro de partners mediante inquilinos de AAD independientes, pero tenga en cuenta que esto produce una evaluación aislada de sus competencias y costes de compra adicionales. 
+
+**Si tengo varios inquilinos de AAD y una sola cuenta de MPN, ¿es posible vincularlos en el centro de Partners?**
+
+Sí, en el centro de Partners, puede vincular varios inquilinos de Azure AD a una cuenta del centro de Partners.
 Obtenga más información aquí. 
 
-**¿Existen restricciones a la adición de varios inquilinos de Azure AD a una sola cuenta de centro de partners?**
+**¿Existen restricciones para agregar varios inquilinos de Azure AD a una sola cuenta de centro de Partners?**
 
-Si el inquilino de Azure AD ya está asociado a una cuenta existente de centro de partners, no puede asociarse a nuevas cuentas de centro de partners mediante la característica de varios inquilinos. Otra manera de pensar en ella es un inquilino de Azure AD solo puede asociarse a una cuenta de centro de partners, pero una cuenta de centro de partners puede tener varios inquilinos asociados a él.
+Si el inquilino de Azure AD ya está asociado a una cuenta de centro de Partners existente, no se puede asociar a las nuevas cuentas del centro de partners mediante la característica multiinquilino. Otra manera de pensar en esto es que un inquilino de Azure AD solo se puede asociar a una cuenta del centro de Partners, pero una cuenta del centro de Partners puede tener varios inquilinos asociados.
 
-## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migración de suscripción de Microsoft Partner Network (MPN) 
+## <a name="microsoft-partner-network-mpn-membership-migration"></a>Migración de pertenencia a Microsoft Partner Network (MPN) 
 
-**¿Quién puede realizar el movimiento de PMC al centro de partners?**
+**¿Quién puede realizar el cambio de PMC al centro de Partners?**
 
-El administrador global de MPN de empresa o el contacto de programa principal (estas dos funciones a menudo se mantienen por la misma persona) puede iniciar y realizar el movimiento.
+El administrador global de MPN de la empresa o el contacto del programa principal (estos dos roles suelen ser mantenidos por la misma persona) pueden iniciar y realizar el cambio.
 
-**¿Se convertirá la persona que completa la migración en el contacto principal en el perfil legal de la empresa en el centro de partners?**
+**¿La persona que completa la migración se convierte en el contacto principal del perfil legal de la empresa en el centro de Partners?**
 
-No necesariamente, sin embargo, el contacto principal debe ser alguien que tenga autorización para firmar contratos.
+Sin embargo, no necesariamente, el contacto principal debe ser un usuario que tenga autorización para firmar los acuerdos.
 
-**¿Microsoft puede migrar Mis suscripciones MPN para mí?**
+**¿Puede Microsoft migrar mi suscripción a MPN?**
 
-No. Microsoft no puede ayudarle a mover la cuenta de pertenencia al centro de partners. Debe mover la cuenta iniciando sesión en PMC con su cuenta profesional (inicio de sesión en las credenciales) comenzar el proceso de migración. Después de haber completado los pasos para mover la cuenta puede empezar a administrar la pertenencia y asignar permisos y roles de usuario a su equipo para que puedan obtener acceso a beneficios y ayudar a administrar la pertenencia. Microsoft migrará automáticamente las competencias actuales, ventajas, información de ubicación, la información bancaria y fiscal de incentivos y las asociaciones de MCP, incluido el acceso de Partner University.
+No. Microsoft no puede ayudarle a migrar su cuenta de pertenencia al centro de Partners. Deberá trasladar su cuenta iniciando sesión en PMC con su cuenta profesional (credenciales de inicio de sesión) para comenzar el proceso de migración. Una vez que haya completado los pasos para migrar su cuenta, puede empezar a administrar la pertenencia y asignar roles de usuario y permisos a su equipo para que puedan acceder a las ventajas y ayudar a administrar la pertenencia. Microsoft migrará automáticamente las competencias actuales, las ventajas, la información de ubicación, la información bancaria o fiscal para incentivos y asociaciones de MCP, incluido el acceso a la Universidad de asociados.
 
-Microsoft migrará automáticamente las competencias actuales, ventajas, información de ubicación, la información bancaria y fiscal de incentivos y las asociaciones de MCP, incluido el acceso de Partner University.
+Microsoft migrará automáticamente las competencias actuales, las ventajas, la información de ubicación, la información bancaria o fiscal para incentivos y asociaciones de MCP, incluido el acceso a la Universidad de asociados.
 
-**¿Cómo cambiará la directiva de renovación?**
+**¿Cómo cambiará la Directiva de renovación?**
 
- En el centro de partners, la ventana de renovación es desde la fecha de aniversario a través de los 30 días siguientes.
+ En el centro de Partners, la ventana de renovación procede de la fecha de aniversario hasta los 30 días siguientes.
 
-**¿Nuestras competencias no cambios después de que se mueven al centro de partners?**
+**¿Las competencias permanecerán sin cambios después de pasar al centro de Partners?**
 
-Sí, competencias no se verán afectados por el traslado al centro de partners. Si observa las discrepancias, póngase en contacto con [soporte](https://partner.microsoft.com/support).
-
-
- **¿Cambiarán Mis ventajas (incluidas las ventajas de la nube, soporte técnico, ventajas de software, Visual Studio) después de que se mueva?**
-
- Los beneficios elegibles no cambiará. Si observa las discrepancias, póngase en contacto con [soporte](https://partner.microsoft.com/support).
-
- **¿Se respetará las cuentas de Microsoft que tienen asignaciones de las ventajas de Visual Studio?**
+Sí, Compentencies no se verá afectado por el traslado al centro de Partners. Si observa discrepancias, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/support).
 
 
- Sí. Se respeta y conserva asignados para MSA beneficios de Visual Studio. También se conservarán después de la renovación en el centro de partners. Sin embargo, si quita una asignación de MSA una vez migrado en el centro de partners, no se puede agregar al centro de partners.
+ **¿Las ventajas (incluidas las ventajas en la nube, el soporte técnico, los beneficios de software y Visual Studio) cambian después de moverlas?**
 
-En el centro de partners, puede agregar un asociado de cuentas profesionales y las cuentas de usuario invitado que son MSA desde el mismo inquilino donde el asociado es MPN admin en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos los inquilinos de estos están asociados a la misma cuenta de centro de partners, el asociado se permite agregar usuarios en todos estos inquilinos a las ventajas de Visual Studio y las asignaciones según el uso de Azure.
+ Las ventajas que pueda elegir no cambiarán. Si observa discrepancias, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/support).
 
-Aunque los usuarios invitados pueden asignarse según el uso de las suscripciones de Visual Studio mediante el administrador MPN o administrador global, los usuarios invitados no pueden iniciar sesión centro de partners usando su MSA. Los usuarios invitados pueden, sin embargo, inicie sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.
-
-
- **¿Cómo debemos administramos nuestras asociaciones de MCP y nuestro acceso Partner University?**
-
- No hay ningún cambio en las asociaciones de MCP mover desde la PMC. Sin embargo, los nuevos empleados nuevo después de mover al centro de partners deberá estar asociados en el centro de partners. Todos los permisos de Partner University para usuarios existentes permanecerán pero los nuevos empleados deben ir a [el centro de aprendizaje](https://partner.microsoft.com/training) para obtener información sobre cómo obtener acceso a Partner University.
-
- **¿Cómo se puede ver información de MCP una vez que mueva al centro de partners?**
-
-Seleccione **competencias** desde el panel de navegación en el panel izquierdo. Desde el **competencias** página puede descargar el informe de habilidades. El informe de habilidades enumerará los usuarios que han adquirido conocimientos relevantes para las competencias y programas en el centro de partners. Si los usuarios hayan adquirido habilidades, pero esas habilidades no son relevantes para las competencias que está trabajando hacia, no se mostrarán en el informe.
+ **¿Se respetan las cuentas de Microsoft con las asignaciones de ventajas de Visual Studio?**
 
 
- **¿Se usan referencias de clientes en el centro de partners?**
+ Sí. Las ventajas de Visual Studio asignadas a MSAs se respetarán y se conservarán. También se conservarán después de la renovación en el centro de Partners. Sin embargo, si quita una asignación de MSA una vez migrada en el centro de Partners, no se puede volver a agregar al centro de Partners.
 
- No, no necesita referencias de clientes para cumplir los requisitos de capacidad en el centro de partners.
+En el centro de Partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del centro de Partners, se permite que el asociado Agregue usuarios en todos estos inquilinos a las ventajas de Visual Studio y a las asignaciones basadas en el uso de Azure.
 
- **¿Las asociaciones de socio de registro se moverán al centro de partners?**
-
- Sí, no hay ningún cambio en el socio de registro. Obtenga más información sobre [vincular su Id. de partner a sus clientes](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
-
-**¿Hay un impacto a incentivos debido a la migración a centro de partners?**
-
-No, no hay ningún impacto en los incentivos si ha movido la cuenta sin las ubicaciones de consolidación. Si su empresa tiene varias cuentas en PMC y, cuando se mueve al centro de partners, decide consolidar en una cuenta global, no habrá pérdida de incentivos, pero puede haber un retraso en los pagos incentivos. Si no mueve todas las cuentas PMC que se han visto involucradas en programas de incentivos, puede dejar a ganar incentivos que están asociados a esas cuentas.
+Aunque los usuarios invitados pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus ventajas asignadas.
 
 
-**¿Cuáles son los roles de usuario incentivos en Centro de partners?** 
+ **¿Cómo se debe administrar nuestras asociaciones de MCP y el acceso a la Universidad de asociados?**
 
-Incentivos roles en el centro de partners están basados en ubicación e incluyen Administrador de incentivos y del usuario de incentivos. Para obtener más información sobre lo que pueden hacer en esos roles, consulte [asignar roles a los usuarios y permisos](permissions-overview.md).
+ No hay cambios en las asociaciones de MCP que se mueven desde PMC. Sin embargo, todos los nuevos empleados nuevos después de pasar al centro de Partners deberán estar asociados al centro de Partners. Todos los permisos de Universidad de asociados para los usuarios existentes permanecerán, pero los nuevos empleados deben ir al [centro de aprendizaje](https://partner.microsoft.com/training) para obtener información sobre cómo obtener acceso a la Universidad de asociados.
 
-**¿Los usuarios de incentivos se pueden asignar en el nivel global y la ubicación?**
+ **Cómo ver información de MCP una vez que se pasa al centro de Partners?**
 
- Sí. Puede asignar un administrador incentivos para que sea el Administrador de incentivos para todas las ubicaciones o cada ubicación puede tener su propio administrador de incentivos.
+Seleccione **competencias** en la navegación izquierda en el panel. En la página **competencias** puede descargar el informe de aptitudes. El informe de aptitudes mostrará los usuarios que han adquirido conocimientos pertinentes para las competencias y los programas del centro de Partners. Si los usuarios han adquirido conocimientos, pero no son relevantes para las competencias en las que está trabajando, no se mostrarán en el informe.
 
- **¿Pueden pagar incentivos en el nivel global o ubicación?**
 
- Incentivos se pagan solo en el nivel de ubicación.
+ **¿Se usan referencias de cliente en el centro de Partners?**
 
-**¿Con respecto a las referencias, cuántos perfiles de negocio podemos crear?**
+ No, no es necesario que las referencias de los clientes cumplan los requisitos de competencia del centro de Partners.
 
-Su empresa puede crear varios perfiles de negocio como la necesidad de representan por completo los intereses de su compañía. En cada perfil de negocio, puede mostrar hasta cinco ubicaciones, una ubicación por país. Cada uno de los perfiles de negocio puede recibir las referencias para cada uno de sus ubicaciones.
+ **¿Se va a asociar las asociaciones de registros al centro de Partners?**
 
-**¿Cómo las referencias se asignarán, qué cambios puede esperar? ¿Por ejemplo, si tengo una empresa en un mercado internacional y las ubicaciones en otros mercados, cómo las referencias se asignará?**
+ Sí, no hay ningún cambio en el asociado del registro. Obtenga más información sobre cómo [vincular su identificador de socio a sus clientes](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-Las referencias se asignan en función de los parámetros de búsqueda que define el cliente. Entonces, independientemente de si tiene una ubicación o en varias, si los clientes especifica la ubicación deseada y tendrá que existe una empresa que cumpla con los demás parámetros, a continuación, la referencia iría a esa ubicación.
+**¿Hay algún impacto en los incentivos debido al traslado al centro de Partners?**
+
+No, no hay ningún impacto en los incentivos si ha pasado su cuenta sin consolidar las ubicaciones. Si su empresa tiene varias cuentas en PMC y, al pasar al centro de Partners, decide consolidar en una cuenta global, no habrá ninguna pérdida por incentivos, pero puede haber un retraso en el pago de incentivos. Si no mueve todas las cuentas de PMC que han participado en los programas de incentivos, puede dejar de ganar incentivos que están vinculados a esas cuentas.
+
+
+**¿Cuáles son las funciones de usuario de estímulo del centro de Partners?** 
+
+Los roles de incentivos del centro de Partners se basan en la ubicación e incluyen el usuario de los incentivos y el administrador de incentivos. Para obtener más información sobre lo que pueden hacer esos roles, consulte [asignación de roles y permisos de usuarios](permissions-overview.md).
+
+**¿Puede incentivar a los usuarios a asignarse en el nivel global y de ubicación?**
+
+ Sí. Puede asignar un administrador de incentivos para que sea el administrador de incentivos para todas las ubicaciones o cada ubicación puede tener su propio administrador de incentivos.
+
+ **¿Se pueden pagar incentivos en el nivel global o de ubicación?**
+
+ Los incentivos solo se pagan en el nivel de ubicación.
+
+**En relación con las referencias, ¿cuántos perfiles de negocio se pueden crear?**
+
+Su empresa puede crear tantos perfiles de negocio como necesite para representar por completo los intereses de su empresa. En cada perfil de negocio, puede mostrar hasta cinco ubicaciones, una ubicación por país. Cada perfil de negocio puede recibir referencias para cada una de sus ubicaciones.
+
+**¿Cómo se asignarán las referencias, qué cambios se pueden esperar? Por ejemplo, si tengo una empresa global en un mercado y ubicaciones en otros mercados, ¿cómo se asignarán las referencias?**
+
+Las referencias se asignan en función de los parámetros de búsqueda que define el cliente. Por tanto, independientemente de si tiene una ubicación o varias, si los clientes especifican una ubicación deseada y tiene una empresa en la que se cumplen los otros parámetros, la referencia irá a esa ubicación.
 
 
 

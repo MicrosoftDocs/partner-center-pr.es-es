@@ -1,53 +1,41 @@
 ---
-title: Analizar la eficacia de tu perfil de negocio | Centro de partners
+title: Analizar su perfil de negocio | Centro de Partners
 ms.topic: article
-ms.date: 03/15/2019
-description: Evaluar, negociar y responder a las referencias a través del Centro de partners.
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: Vea cómo está captando la atención de sus clientes de destino y generando referencias.
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134915"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854494"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analizar la eficacia de tu perfil de negocio
+# <a name="analyze-your-business-profile"></a>Analizar su perfil de negocio
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
-Obtén informes para mostrar cómo de bien captas la atención de los que buscas y generas referencias.
+La página **Business Profile Insights** del centro de Partners le permite ver lo bien que está captando la atención de sus clientes de destino y generando referencias.
 
-Tras publicar el [perfil de negocio](create-a-marketing-profile.md) de tu empresa, empezarás a obtener datos sobre cuántos clientes buscan tu perfil, la frecuencia con la que lo recorren para obtener más información y la frecuencia con la que te envían solicitudes de información (RFI). 
+Para ver los datos de la información de referencia, en el menú del centro de Partners, vaya a **referencias > Business Profile Insights**. Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción.
 
-Cuando empieces a [responder a estas referencias](responding-to-referrals.md), empezarás a obtener datos sobre cuántas RFI se convierten en ofertas comerciales ganadas.
+Cerca de la parte superior de la página de **información de Perfil de negocio** , puede seleccionar el período de tiempo para el que desea mostrar los datos. La selección predeterminada es **30D** (30 días), pero puede optar por mostrar los datos de un período de 3 o 6 meses en su lugar. Se incluyen los datos de todas las regiones.
 
-Usa estos informes cuando perfecciones tus perfiles empresariales para generar más clientes potenciales y más clientes potenciales relevantes. Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción. En el menú del centro de partners, vaya a **referencias > páginas de Marketing**.
+Después de publicar el perfil de [negocio](create-a-marketing-profile.md)de su empresa, comenzará a ver los datos sobre cuántos clientes encuentran su perfil, con qué frecuencia hacen clic para obtener más información y con qué frecuencia envían solicitudes de información (RFIs). Use estos datos al refinar los perfiles de negocio para generar más clientes potenciales y clientes potenciales más relevantes.
 
-Estos informes muestran el rendimiento de los perfiles empresariales en todas las regiones. Los informes muestran datos de los últimos 90 días agrupados por semanas.
+El gráfico de **Resumen rendimiento de perfil** incluye la siguiente información para el período de tiempo seleccionado:
 
-*  **Tendencias**: Muestra los últimos 90 días, agrupados por semanas. Datos semanales de los últimos 90 días y porcentaje de cambio respecto al periodo anterior de las siguientes métricas:
+- **Resultados**de la búsqueda: Información acerca de los términos de búsqueda que usan los clientes para encontrar su perfil de negocio.
+- **Vistas de página**: El número total de veces que los clientes vieron el perfil de negocio.
+- **Clics de contacto**: El número total de veces que los clientes seleccionaron su perfil de negocio en la página [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) .
+- **Referencias generadas**: El número total de referencias enviadas después de que un cliente haya seleccionado su perfil de negocio.
 
-   * **Vistas de página de marketing**: Número de veces que las personas ven su perfil de negocio
-   * **Póngase en contacto con los clics de botón**: Número de veces que las personas seleccionaron su perfil de negocio desde la **encuentre un socio** página. Es posible que esto no refleje cuántas veces la gente ha proseguido para crear una solicitud de información (RFI).
-   * **Se acepta RFI**: Número de veces [acepta referencias de clientes](responding-to-referrals.md) después de que envía una solicitud de información (RFI).
-
-
-*  **Vistas de página**: Muestra los datos de tendencia semanal de los últimos 90 días.
-   *  **Vistas de página de marketing por los clientes**
-   *  **RFI enviado por los usuarios**
-
-Consulta los términos de búsqueda que los clientes usan para encontrar tu perfil. Estos informes muestran datos semanales de los últimos 90 días.
-
-*  **Palabras clave** (principales palabras clave de búsqueda general) 
-*  **Industria**
-*  **Producto**
-*  **Tipo de servicio**
-
+> [!TIP]
+> A medida que empiece a [responder a estas referencias](responding-to-referrals.md), asegúrese de revisar la página de información de [referencia](referral-insights.md) para ver más detalles sobre el rendimiento de las referencias.
