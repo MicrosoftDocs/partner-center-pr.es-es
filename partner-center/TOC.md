@@ -107,6 +107,7 @@
 ### [Cambio de tamaño de la máquina virtual para el uso máximo de reserva](azure-usage.md)
 ### [Comprar reservas de Microsoft Azure en nombre de los clientes](azure-reservations-buying.md)
 ### [Administrar reservas de Microsoft Azure en nombre de los clientes](azure-reservations-manage.md)
+### [Azure Reserved VM Instances (RI) + suscripciones de servidor](azure-ri-server-subscriptions.md)
 ## [Suscripciones de software](csp-software-subscriptions.md)
 ## [Servicios en línea (suscripciones)](customer-subscriptions.md)
 ### [Crear, suspender o cancelar suscripciones de clientes](create-a-new-subscription.md)
