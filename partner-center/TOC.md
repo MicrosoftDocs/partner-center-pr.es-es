@@ -33,6 +33,8 @@
 ## [Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP](transition-direct-to-indirect.md)
 ## [Contratos, listas de precios y ofertas de CSP](csp-documents-and-learning-resources.md)
 ## [Mercados y monedas regionales del CSP](regional-authorization-overview.md)
+## [Confirmación de la aceptación del cliente del Contrato de Microsoft Cloud](confirm-consent.md)
+## [Confirmación de la aceptación del cliente del Contrato de cliente de Microsoft (versión preliminar)](confirm-customer-agreement.md)
 
 
 ## [Se aplican para vender en nubes nacionales](csp-national-clouds-overview.md)
