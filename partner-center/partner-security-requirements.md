@@ -1,18 +1,18 @@
 ---
 title: Requisitos de seguridad de los asociados | Centro de Partners
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: Obtenga información sobre los requisitos de seguridad para asesores y asociados que participan en el programa proveedor de soluciones en la nube.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, proveedor de soluciones en la nube, programa del proveedor de soluciones en la nube, CSP, proveedor del panel de control, CPV, autenticación multifactor, MFA, modelo de aplicación segura, modelo de aplicación segura, seguridad
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313933"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787256"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de seguridad del asociado
 
@@ -57,9 +57,22 @@ Antes de realizar cualquier acción, se recomienda que identifique lo siguiente
 
 Cuando se aplica la autenticación heredada de MFA, se bloquearán protocolos de uso como IMAP, POP3, SMTP, etc., ya que estos protocolos no admiten MFA. Para solucionar esta limitación, se puede usar una característica conocida como contraseñas de [aplicación](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) para asegurarse de que la aplicación o el dispositivo todavía se pueden autenticar. Debe revisar las consideraciones sobre el uso de contraseñas de aplicación que se documentan [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) para determinar si se pueden usar en su entorno.
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>¿Tiene usuarios que usan Office 365 que proporcionan licencias asociadas a su inquilino de asociado?
+
+Antes de implementar cualquier solución, se recomienda que determine por qué la versión de Microsoft Office la usan los usuarios de su inquilino de asociado. Revise el [plan para la autenticación multifactor para implementaciones de Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) antes de realizar cualquier acción. Existe la posibilidad de que los usuarios experimenten problemas de conectividad con aplicaciones como Outlook. Antes de aplicar MFA, es importante asegurarse de que se use Outlook 2013 SP1, o una versión posterior, y que la organización tenga habilitada la autenticación moderna. Vea [Habilitar la autenticación moderna en Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) para obtener más información.
+
+Para habilitar la autenticación moderna en cualquier dispositivo que ejecute Windows que tenga Microsoft Office 2013 instalado, deberá crear dos claves del registro. Consulte [habilitación de la autenticación moderna para Office 2013 en dispositivos Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+
+> [!IMPORTANT]
+> Si ha habilitado a los usuarios para Azure AD MFA y tienen dispositivos que ejecutan Office 2013 y que no están habilitados para la autenticación moderna, deberán usar contraseñas de aplicación en esos dispositivos. Puede encontrar más información sobre las contraseñas de aplicación y cuándo y dónde se deben usar aquí: [Contraseñas de aplicación con Azure multi-factor Authentication](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>¿Hay alguna directiva que impida que los usuarios usen sus dispositivos móviles mientras trabajan?
 
-Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que influirán en la solución MFA que implemente. Hay soluciones MFA, como la que se proporciona a través de la implementación de las [directivas de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), que solo permiten el uso de una aplicación de autenticador para la comprobación. En caso de que la organización tenga una directiva que impida el uso de dispositivos móviles, debe buscar en los [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) de compra de los usuarios afectados, o bien puede implementar una solución de terceros que proporcione la comprobación más adecuada. desea.
+Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que influirán en la solución MFA que implemente. Hay soluciones MFA, como la que se proporciona a través de la implementación de las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), que solo permiten el uso de una aplicación de autenticador para la comprobación. En caso de que la organización tenga una directiva que impida el uso de dispositivos móviles, debe tener en cuenta una de las siguientes opciones:
+
+- Implementación de un dispositivo Android virtualizado en el que se puede instalar una aplicación autenticadora
+- Implementar una solución de terceros que aplique MFA para cada usuario del inquilino del asociado que proporcione la opción de comprobación más adecuada
+- Compra de licencias de [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) para los usuarios afectados
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>¿Qué automatización o integración tiene que usa las credenciales de usuario para la autenticación?
 
@@ -204,8 +217,31 @@ Ahora el usuario puede iniciar sesión, restablecer su contraseña y acceder a l
 
 ### <a name="exchange-online-powershell"></a>PowerShell en línea de Exchange
 
-Cuando MFA está habilitado, los asociados no podrán usar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones en sus clientes. Consulte [conexión a Exchange Online PowerShell mediante multi-factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) para obtener más información sobre esta limitación.
+Cuando se aplica MFA, los asociados no podrán usar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones con sus clientes. Consulte [conexión a Exchange Online PowerShell mediante multi-factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) para obtener más información sobre esta limitación.
+
+Para solucionar esta limitación, puede crear una nueva cuenta y nunca usarla para realizar una autenticación interactiva. Se recomienda aprovechar [Azure ad PowerShell](https://docs.microsoft.com/powershell/module/azuread/) para crear la nueva cuenta y realizar la configuración inicial. Se puede usar el siguiente PowerShell para crear y configurar la cuenta.
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+La próxima vez que se conecte a Exchange Online a través de PowerShell use esta cuenta, funcionará según lo esperado.
+
+> [!IMPORTANT]
+> La capacidad de los asociados de usar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones en sus clientes, cuando se aplica MFA, estará disponible en el futuro. Hasta entonces, debe aprovechar esta solución alternativa.
 
 ## <a name="resources-and-support"></a>Recursos y soporte técnico
 
-A través del [centro de Partners guía de seguridad](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) de la comunidad, puede encontrar recursos adicionales y obtener información sobre próximos eventos, como horas de oficina técnica. Consulte el documento [preguntas](http://assetsprod.microsoft.com/security-requirements-faq.pdf) más frecuentes para obtener más información sobre los requisitos.
+A través del [centro de Partners guía de seguridad](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) de la comunidad, puede encontrar recursos adicionales y obtener información sobre próximos eventos, como horas de oficina técnica. Consulte el documento [preguntas](partner-security-requirements-faq.md) más frecuentes para obtener más información sobre los requisitos.

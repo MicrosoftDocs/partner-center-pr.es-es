@@ -1,20 +1,20 @@
 ---
 title: Analizar suscripciones y licencias | Centro de partners
-ms.date: 07/12/2018
-Description: Use las métricas en la página de análisis de la suscripción y licencia para identificar los éxitos y áreas que necesitan más atención.
-Author: Xansky
-ms.author: mhopkins
+ms.date: 08/02/2019
+Description: Use las métricas de la página de análisis de licencias y licencias para identificar sus éxitos y áreas que requieren más atención.
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5ca4987d4af50bca8d2c298e325d5810e7d17033
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134885"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781998"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizar suscripciones y licencias 
 
@@ -31,30 +31,30 @@ Los datos determinan las decisiones comerciales. Usa las métricas de la página
 Este informe puede variar en función de los siguientes productos:
 
  - **Dynamics 365**: Datos de Dynamics 365  
- - **EMS**: Datos de servicios de administración empresarial  
- - **Microsoft 365**: Datos de Microsoft 365  
+ - **EMS**: Datos de servicios de administración de empresa  
+ - **Microsoft 365**: Microsoft 365 de datos  
  - **Office 365**: Datos de Office 365  
 
 
 Estamos siguiendo estas métricas:
 
 **Resumen**  
- - **Las suscripciones que vende**: Recuento de suscripciones creadas para el período de tiempo especificado  
- - **Licencias vendidas**: Recuento de licencias vendidas durante el período de tiempo   
- - **Las suscripciones de renovación en 30 días**: Recuento de suscripciones donde el estado está activo durante el tiempo especificado período y dónde **renovación automática** es true
- - **Las suscripciones activas**: Las suscripciones donde el estado es **activo**  
- - **Suspender suscripciones**: Recuento de suscripciones suspendidas, no hay ningún filtro de fecha  
+ - Suscripciones vendidas: Recuento de suscripciones creadas para el período de tiempo especificado  
+ - **Licencias vendidas**: Recuento de licencias vendidas durante el período de tiempo especificado   
+ - **Suscripciones renovadas en 30 días**: Recuento de suscripciones en las que el estado es activo para el período de tiempo especificado y en el que la **renovación** automático es true
+ - **Suscripciones activas**: Suscripciones en las que el estado es **activo**  
+ - Suscripciones suspendidas: Recuento de suscripciones suspendidas, no hay ningún filtro de fecha  
 
-**Desglose de producto**  
- - **Recuento de suscripciones**: 5 productos ordenados por las suscripciones que vende principales  
- - **Número de licencias**: 5 productos principales por licencias ordenados vendidos
+**Desglose del producto**  
+ - **Recuento**de suscripciones: 5 productos principales ordenados por suscripciones vendidas  
+ - **Recuento de licencias**: 5 productos principales por licencias ordenadas vendidos
 
-**Retención de la suscripción**
- - **Renovar las suscripciones**: Suscripciones que se renuevan en los últimos 30 días  
+**Retención de suscripción**
+ - Suscripciones renovadas: Suscripciones que se renuevaon en los últimos 30 días  
 
 **Renovación de suscripción**  
  - **Nuevas suscripciones**: número de nuevas suscripciones durante el período de tiempo, excepto las ofertas de prueba  
- - **Desaprovisiona suscripciones**: Recuento de suscripciones, cancelar el aprovisionamiento o suspendido por fecha  
+ - Suscripciones desaprovisionadas: Recuento de suscripciones desaprovisionadas o suspendidas por fecha  
 
 **Suscripciones suspendidas**  
  - Lista de todas las suscripciones con un estado **Suspendido**, excepto las ofertas de prueba  
@@ -62,10 +62,10 @@ Estamos siguiendo estas métricas:
 **Suscripciones activas**
  - Lista de todas las suscripciones activas  
 
-**Conversiones de suscripción de prueba**  
- - **Conversión de evaluación**: Recuento de todos los **Active** las suscripciones donde prueba pagada a la conversión se ha producido durante el período de tiempo especificado  
+**Conversiones de suscripciones de prueba**  
+ - **Conversión de prueba**: Recuento de todas las suscripciones **activas** en las que se produjo una prueba de la conversión durante el período de tiempo especificado  
 
-**Suscripciones de prueba que terminan en 30 días**  
+**Suscripciones de prueba que acaban en 30 días**  
  - Lista de pruebas que se iniciaron y en las que la fecha de finalización está dentro de los 30 días siguientes y no hay ninguna fecha de inicio de pago asociada a la suscripción  
 
   

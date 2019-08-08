@@ -6,12 +6,12 @@ description: Para cumplir con los requisitos específicos de la industria, regio
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132695"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820532"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
@@ -40,17 +40,17 @@ Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud Alemania, abre la página de introducción a Azure Active Directory (Azure AD) y luego sigue las instrucciones en estos temas:
 
 > [!NOTE]  
-> Selecciona los siguientes vínculos le llevará a un sitio Web diferente. 
+> La selección de los vínculos siguientes le llevará a un sitio web diferente. 
 
 -  [Agregar nuevos usuarios a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Asignar a un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Asignar un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [Restablecer la contraseña de un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Temas relacionados**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Alemania](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Centro de partners para Microsoft Cloud Alemania](partner-center-for-microsoft-cloud-germany.md)
 

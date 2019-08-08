@@ -6,12 +6,12 @@ description: Trabaja con otros partners de CSP para satisfacer las necesidades d
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132965"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820546"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 
@@ -52,4 +52,4 @@ La característica multicanal del Centro de partners admite escenarios cuando un
 El soporte técnico para multicanal también está disponible en las ofertas de la nube de Microsoft a nivel nacional.
 
 > [!IMPORTANT]  
-> Un asociado en el programa CSP no revender servicios en línea a otro asociado en el programa CSP actualmente. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre versiones de características o cambios en la directiva se anunciarán a través de los canales habituales de las comunicaciones, incluidos [anuncios de centro de partners](https://partner.microsoft.com/en-us/pcv/announcements).
+> Actualmente, un asociado en el programa CSP no puede revender servicios en línea a otro asociado en el programa CSP. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre las versiones de las características o los cambios de las directivas se anunciarán a través de los canales de comunicaciones habituales, incluidos los [anuncios del centro de Partners](https://partner.microsoft.com/pcv/announcements).

@@ -2,18 +2,18 @@
 title: Suscripción a Microsoft Partner Network | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
-description: Obtén información sobre las ventajas de asociarse con Microsoft. La proporciona Microsoft Partner Network, opciones de la gama más amplia de productos en el sector, así como el programa para diferenciar su empresa, vaya al mercado y vender sus soluciones.
+description: Obtén información sobre las ventajas de asociarse con Microsoft. El Microsoft Partner Network proporciona la gama más amplia de productos del sector, así como opciones de programa para diferenciar su negocio, ir al mercado y vender sus soluciones.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134345"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820625"
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
@@ -23,55 +23,55 @@ Consulta [¿Por qué Microsoft?](https://partner.microsoft.com/business-opportun
 
 ## <a name="join-the-microsoft-partner-network"></a>Únete a Microsoft Partner Network.
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
-La proporciona Microsoft Partner Network, opciones de la gama más amplia de productos en el sector, así como el programa para diferenciar su empresa, vaya al mercado y vender sus soluciones. Unir sin costo alguno y luego elija cómo desea invertir en su asociación con un módulo de acción, starter kit para o competencia de Microsoft.
+El Microsoft Partner Network proporciona la gama más amplia de productos del sector, así como opciones de programa para diferenciar su negocio, ir al mercado y vender sus soluciones. Únase sin costo alguno y, a continuación, elija cómo invertir en su asociación con Microsoft Action Pack, Starter Kit o competencia.
 
-Un módulo o starter kit de acción proporciona software y soporte técnico para crear soluciones basadas en Microsoft y una competencia demuestra su experiencia probada a los clientes y otros asociados.
+Un paquete de acciones o Starter Kit proporciona software y soporte técnico para compilar soluciones basadas en Microsoft y una competencia demuestra su experiencia probada para los clientes y otros asociados.
 
-Para obtener más información acerca de Microsoft Partner Network (MPN), visite la [sitio Web MPN](https://partner.microsoft.com/commercial).
+Para obtener más información sobre el Microsoft Partner Network (MPN), visite el [sitio web de MPN](https://partner.microsoft.com/commercial).
 
-### <a name="how-to-join"></a>Cómo combinar
+### <a name="how-to-join"></a>Cómo unirse
 
-Para unirse a Microsoft Partner Network, vaya a la [ **pertenencia** página](https://partner.microsoft.com/membership) en el sitio Web MPN y seleccione **inscribir** o **unirse ahora**.
+Para unirse al Microsoft Partner Network, vaya a la [ página](https://partner.microsoft.com/membership) de pertenencia en el sitio web de MPN y seleccione **inscribir** o **unirse ahora**.
 
-## <a name="microsoft-partner-network-membership-types"></a>Tipos de pertenencia de Microsoft Partner Network
+## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network tipos de pertenencia
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
 
-Microsoft Partner Network ofrece tres tipos de miembros, como se describe a continuación. Cada uno de ellos proporciona un conjunto de beneficios que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el programa al nivel que se adapte a tus propias necesidades, para acceder a más ventajas y desarrollar tu relación con nosotros y con otros partners de la red.
+El Microsoft Partner Network proporciona tres tipos de pertenencias, tal y como se describe a continuación. Cada uno de ellos proporciona un conjunto de beneficios que ayudarán al crecimiento de tu negocio. A medida que alcances tus objetivos, participarás en el programa al nivel que se adapte a tus propias necesidades, para acceder a más ventajas y desarrollar tu relación con nosotros y con otros partners de la red.
 
 ### <a name="action-pack"></a>Action Pack
 
-Módulo de acción ofrece software y la compatibilidad con las ventajas para empresas que desean comenzar, compilación y crecen su práctica de Microsoft en un mundo de primero móvil, primero en la nube. 
+Action Pack ofrece software, soporte técnico y ventajas para las empresas que desean comenzar, compilar y ampliar su práctica de Microsoft en un mundo primero móvil y en la nube. 
 
-Revise los recursos siguientes para obtener más información sobre el módulo de acción:
+Revise los recursos siguientes para obtener más información sobre Action Pack:
 
-- [Mover su negocio en la nube con Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
-- [Obtener el Action Pack](mpn-get-action-pack.md)
+- [Traslade su negocio en la nube hacia delante con Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+- [Obtener la Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Administración de la suscripción Action Pack nos estamos trasladando de Partner Membership Center (PMC) a centro de partners. Este traslado se llevará a cabo en los próximos meses. Revisa detenidamente la información de [Obtener Action Pack](mpn-get-action-pack.md) para saber cómo y dónde renovar la suscripción.  
+    >Estamos trasladando Action Pack la administración de suscripciones del centro de pertenencia de asociados (PMC) al centro de Partners. Este traslado se llevará a cabo en los próximos meses. Revisa detenidamente la información de [Obtener Action Pack](mpn-get-action-pack.md) para saber cómo y dónde renovar la suscripción.  
 
-- [Renovar sus ofertas MPN](renew-mpn-offers.md)
+- [Renovar las ofertas de MPN](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Competencias
 
-Demuestre su pericia probada en la entrega de soluciones de calidad en un área de negocio especializada. Competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes actuales y ser reconocible para los posibles. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
+Demostrar su experiencia probada en la entrega de soluciones de calidad en un área de negocio especializada. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes actuales y ser reconocibles a las posibles. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
 
 Revise los recursos siguientes para obtener más información sobre las competencias:
 
-- [Socios con competencias](https://partner.microsoft.com/membership/competencies)
+- [Asociados de competencia](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a>Requisitos y las ventajas de Microsoft Partner Network
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Ventajas y requisitos de Microsoft Partner Network
 
 Cuando te unes Microsoft Partner Network, recibes una serie de beneficios principales que pueden ayudarte a ahorrar tiempo y dinero mientras refuerza sus capacidades, proporcionas un mejor servicio a los clientes y creas conexiones alcanzar el potencial completo de negocio.
 
 Revise los recursos siguientes para obtener más información sobre los requisitos y las ventajas de la red:
 
-- [Beneficios principales](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
-- [Administrar los beneficios de MPN en Centro de partners](manage-your-partner-network-benefits.md)
-- [Requisitos principales](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+- [Beneficios principales](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
+- [Administración de las ventajas de MPN en el centro de Partners](manage-your-partner-network-benefits.md)
+- [Requisitos principales](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>Vea también
-- [Haga crecer su negocio de asociado de Microsoft](grow-your-business.md)
+- [Amplíe su negocio de asociados de Microsoft](grow-your-business.md)

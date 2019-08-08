@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5156e58fe79551c5dec55558822b5f6021a837ca
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 86a5a80ba2bffccf34646ba2bfd9797da30b5d8d
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134041"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820585"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP)
 
@@ -38,7 +38,7 @@ Instala la aplicación para obtener vistas gráficas de lo siguiente:
 
 -   La capacidad para exportar conjuntos de datos y crear informes personalizados, también por cliente.
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 Te recomendamos que revises las respuestas a las preguntas más frecuentes antes de instalar la aplicación. 
 
@@ -47,16 +47,16 @@ Te recomendamos que revises las respuestas a las preguntas más frecuentes antes
 | ¿Cuánto cuesta la aplicación? | La aplicación en sí es gratuita. Para obtener la versión preliminar de la aplicación, puedes [registrarte en el servicio gratuito de Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) y usarla para personalizar los paneles y los informes. Para permitir que otros usuarios de tu empresa utilicen la aplicación, debes tener una suscripción activa a Microsoft Power BI Professional o a Microsoft Power BI Premium. |
 | ¿Quién puede conectarse a la Aplicación de análisis del Centro de partners? | Esta versión de la aplicación está diseñada para los partners directos (nivel 1) del programa de Proveedor de soluciones en la nube. Eres partner directo si trabaja directamente con Microsoft y con los clientes. Para instalar la aplicación, debes ser administrador global, agente de administración o administrador de facturación de la cuenta de tu empresa. |
 | Soy proveedor indirecto; ¿puedo usar la aplicación? | Sí. Tu administrador global, tu agente de administración o tu administrador de facturación pueden instalar la aplicación y ver datos sobre tus clientes directos. En versiones futuras pueden incluirse características que también te permitan ver datos sobre tus distribuidores indirectos. |
-| ¿Cómo puedo obtener información sobre las versiones futuras? | Puedes acceder a los anuncios y las versiones preliminares a través del programa de usuarios pioneros del Centro de partners. Si aún no estás participando en el programa, regístrate ya en [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). También puedes compartir tus comentarios a través del programa de usuarios pioneros. |
+| ¿Cómo puedo obtener información sobre las versiones futuras? | Puedes acceder a los anuncios y las versiones preliminares a través del programa de usuarios pioneros del Centro de partners. Si aún no estás participando en el programa, regístrate ya en [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). También puedes compartir tus comentarios a través del programa de usuarios pioneros. |
 | ¿Quién puede personalizar los paneles y los informes en la aplicación? | El administrador global, el agente de administración o el administrador de facturación que haya instalado la aplicación puede personalizar el panel o crear nuevos informes de la interfaz de web de Power BI. |
 | ¿Quién puede ver los paneles y los informes en la aplicación? | El administrador global, el agente de administración o el administrador de facturación que haya instalado la aplicación puede compartir los datos de la aplicación con cualquiera que tenga una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium. |
 | ¿Puedo usar la aplicación para ver los datos de varios inquilinos de Azure AD de distintas ubicaciones? | Con esta versión solo puedes ver los datos del inquilino de Azure AD en el que tu administrador global o tu agente de administración haya iniciado sesión. | 
-| ¿Cuándo estará disponible la aplicación en otros idiomas? | Los anuncios de la hoja de ruta se publican en el programa de usuarios pioneros del Centro de partners. Si aún no estás participando en el programa, regístrate ya en [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). También puedes compartir tus comentarios a través del programa de usuarios pioneros. | 
+| ¿Cuándo estará disponible la aplicación en otros idiomas? | Los anuncios de la hoja de ruta se publican en el programa de usuarios pioneros del Centro de partners. Si aún no estás participando en el programa, regístrate ya en [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). También puedes compartir tus comentarios a través del programa de usuarios pioneros. | 
 
 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Instalar y obtener una vista previa de la aplicación de análisis de Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
+[Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
-[Ver sus datos empresariales con la aplicación de análisis de Partner Center para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Vea los datos empresariales con la aplicación de análisis del centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

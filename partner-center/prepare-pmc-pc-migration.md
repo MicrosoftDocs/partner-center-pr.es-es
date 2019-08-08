@@ -6,12 +6,12 @@ description: Aspectos que se deben tener en cuenta antes de trasladar su negocio
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854512"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820572"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepárese para pasar del centro de afiliación del asociado (PMC) al centro de Partners
 
@@ -29,7 +29,7 @@ En el centro de Partners, usará el correo electrónico del trabajo para iniciar
 - Su cuenta profesional:john@contoso.com
 - Tu cuenta personal:John@outlook.com
 
-El correo electrónico de trabajo forma parte del inquilino de Azure Active Directory. Para tener una cuenta en el centro de Partners, debe tener un inquilino de AAD. Para obtener más información sobre Azure Active Directory, lea [crear el directorio en Azure ad](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+El correo electrónico de trabajo forma parte del inquilino de Azure Active Directory. Para tener una cuenta en el centro de Partners, debe tener un inquilino de AAD. Para obtener más información sobre Azure Active Directory, lea [crear el directorio en Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Al pasar al centro de Partners desde PMC, ¿qué cuenta debe iniciar sesión en el centro de Partners con si tiene un inquilino de AAD con Microsoft (por ejemplo, para Office 365) y también tiene un inquilino para su negocio de CSP?**
 
@@ -66,7 +66,7 @@ El centro de Partners tiene distintos tipos de roles en función de los tipos de
 
 **¿Qué ocurre con los roles de mis usuarios cuando pasan de PMC al centro de Partners?**
 
-Excepto en el caso del administrador global de MPN o del programa principal que realiza la migración, todos los usuarios de PMC perderán sus roles de administrador. La persona que complete la migración deberá asignar roles en el centro de Partners. Los roles del centro de Partners son distintos de los de PMC. Lea [asignar roles y permisos de usuarios] (permisos-overview.md y [pasar de PMC al centro de Partners](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) para obtener más información sobre las funciones de usuario en el centro de Partners.
+Excepto en el caso del administrador global de MPN o del programa principal que realiza la migración, todos los usuarios de PMC perderán sus roles de administrador. La persona que complete la migración deberá asignar roles en el centro de Partners. Los roles del centro de Partners son distintos de los de PMC. Lea [asignar roles y permisos de usuarios] (permisos-overview.md y [pasar de PMC al centro de Partners](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) para obtener más información sobre las funciones de usuario en el centro de Partners.
 
 
 **¿Cuál es la diferencia entre mi perfil de empresa y mi perfil de negocio?**

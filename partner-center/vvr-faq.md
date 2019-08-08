@@ -1,18 +1,18 @@
 ---
-title: Preguntas más frecuentes sobre herramienta de validación del asiento | Centro de partners
+title: Preguntas más frecuentes sobre la herramienta de validación de asientos | Centro de Partners
 ms.topic: article
 ms.date: 03/15/2019
-description: Validar y reservar los vales en el centro de partners
+description: Validar y reservar asientos en el centro de Partners
 author: LauraBrenner
 ms.author: labrenne
-keywords: cupones de formación, seguridad de software, aprendizaje, validación los cupones, asiento de reserva
+keywords: Cupones de aprendizaje, software Assurance, aprendizaje, validar vales, reservar justificante
 ms.localizationpriority: medium
-ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674219"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820501"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Preguntas más frecuentes: Uso de la herramienta de validación y canje de vales 
 
@@ -20,40 +20,40 @@ ms.locfileid: "67674219"
 
 - Centro de partners
 
-Se ha movido a la herramienta de validación del vale y canje [centro de partners](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Estos son algunos de los asociados de preguntas más comunes. 
+La herramienta de canje y validación del asiento se ha pasado al [centro de Partners](https://partner.microsoft.com/pcv/dashboard/overview). A continuación se muestran algunas de las preguntas más comunes que tienen los asociados. 
 
-**Para los asociados que se han migrado al centro de partners**
+**Para los asociados que se han migrado al centro de Partners**
 
- A partir del 31 de marzo de 2019, todos los socios necesitará administrar sus asientos en Centro de partners. Solo el administrador MPN puede acceder a VVR. Para usar VVR, el administrador del asociado MPN puede iniciar sesión su cuenta de trabajo por correo electrónico de centro de partners. Si no conoce el Administrador de su empresa MPN, pregunte contacto principal VVR programa de su compañía.  Si tiene acceso al centro de partners, vaya a **administración de acceso**, seleccione **usuarios**y filtre por **MPN admin** . Esto le proporcionará una lista de administradores MPN de su compañía.  
+ A partir del 31 de marzo de 2019, todos los asociados deberán administrar sus vales en el centro de Partners. Solo el administrador de MPN puede acceder a VVR. Para usar VVR, el administrador de asociados de MPN puede iniciar sesión en el centro de Partners con el correo electrónico de su cuenta profesional. Si no conoce el administrador de MPN de su empresa, pregunte al contacto principal del programa de VVR de su empresa.  Si tiene acceso al centro de Partners, vaya a **Administración de acceso**, seleccione **usuarios**y filtre por **Administrador de MPN** . Esto le proporcionará una lista de los administradores de MPN de su empresa.  
 
-**Para partners todavía se encuentra en [Partner Membership Center](https://partner.microsoft.com/)**
+**Para asociados que todavía están en el centro de pertenencia de [socios](https://partner.microsoft.com/)**
 
-A partir del 31 de marzo de 2019, todos los asociados administrarán sus asientos en Centro de partners. Solo el administrador MPN puede acceder a VVR. Para usar la herramienta VVR en Centro de partners, su empresa deberá completar la migración de PMC al centro de partners. Una vez completada la migración, usar VVR, el administrador del asociado MPN puede iniciar sesión en el centro de partners, su cuenta de trabajo por correo electrónico. Si no conoce el Administrador de su empresa, póngase en contacto con el contacto principal de programa VVR para su empresa.  
+A partir del 31 de marzo de 2019, todos los asociados administrarán sus vales en el centro de Partners. Solo el administrador de MPN puede acceder a VVR. Para usar la herramienta VVR en el centro de Partners, su empresa deberá completar la migración de PMC al centro de Partners. Una vez completada la migración, para usar VVR, el administrador de asociados de MPN puede iniciar sesión en el centro de partners mediante el correo electrónico de su cuenta profesional. Si no conoce el administrador de su empresa, póngase en contacto con el programa de VVR principal de su empresa.  
 
 
-**Mi compañía ha migrado desde la PMC, pero no hemos usamos los programas DPS/SATV en los últimos 18 meses.**
+**Mi empresa se migró desde PMC, pero no hemos usado los programas DPS/SATV en los últimos 18 meses.**
 
 - Póngase en contacto con el [equipo de soporte técnico de PMC](mailto:proghelp@microsoft.com). 
 
 
-**Mi compañía ha migrado desde PMC al centro de partners. ¿Necesito hacer nada específico para que funcione en VVR?** 
+**Mi empresa se migró de PMC al centro de Partners. ¿Es necesario hacer algo específico para trabajar en VVR?** 
 
-- Podrá usar VVR en Centro de partners.  Para usar VVR, el administrador del asociado MPN puede iniciar sesión su cuenta de trabajo por correo electrónico de centro de partners. Si desea agregar nuevos usuarios, el administrador global puede hacerlo. Si tiene acceso al centro de partners, vaya a **administración de acceso**, seleccione **usuarios**y filtre por **MPN admin** de **administrador global**. Esto le proporcionará una lista de MPN y los administradores globales de su empresa.  
+- Podrá usar VVR en el centro de Partners.  Para usar VVR, el administrador de asociados de MPN puede iniciar sesión en el centro de Partners con el correo electrónico de su cuenta profesional. Si desea agregar nuevos usuarios, el administrador global puede hacerlo. Si tiene acceso al centro de Partners, vaya a **Administración de acceso**, seleccione **usuarios**y filtre por el **Administrador de MPN** de **administrador global**. Esto le proporcionará una lista de los administradores globales y MPN de su empresa.  
 
-**Quiero que sólo unos pocos usuarios que puedan tener acceso a VVR**
+**Quiero que solo unos pocos usuarios puedan acceder a VVR**
 
-- Solo el administrador MPN puede acceder a VVR. Acceso a Partner Center viene determinada por los roles y permisos. El administrador MPN o administrador global puede determinar quién usa VVR proporcionando esos permisos a los usuarios que necesitan trabajar en la herramienta.
+- Solo el administrador de MPN puede acceder a VVR. Los roles y permisos determinan el acceso al centro de Partners. El administrador de MPN o el administrador global pueden determinar quién usa VVR proporcionando esos permisos a los usuarios que necesitan trabajar en la herramienta.
 
-**Quiero tener acceso a portal CHIP de VVR**
+**Deseo acceder al portal de CHIPs desde VVR**
 
-- Centro de partners requiere que inicie sesión con una cuenta profesional (AAD).  CHIP actualmente usa la cuenta personal para inicio de sesión (MSA o Live ID).  Al navegar desde VVR en Centro de partners a CHIP, tendrá que iniciar sesión en el CHIP usando la MSA o Live ID que está registrado con un CHIP.
+- El centro de Partners requiere que inicie sesión con una cuenta profesional (AAD).  El CHIP actualmente usa la cuenta personal para el inicio de sesión (MSA o Live ID).  Al navegar desde VVR en el centro de Partners hasta el CHIP, tendrá que iniciar sesión en el CHIP mediante su MSA o Live ID que esté registrado en CHIP.
 
-**¿Cómo puede mi empresa acceder a la herramienta VVR?**
+**¿Cómo puede acceder mi empresa a la herramienta VVR?**
 
-- Para obtener acceso a la herramienta VVR, su empresa debe inscribirse en el programa SATV o el programa de DPS SA.
+- Para tener acceso a la herramienta VVR, su empresa debe inscribirse en el programa SATV o en el programa DPS de SA.
 
-P+f más detallada en el [flujo de trabajo de herramienta de validación de cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+Lea las preguntas más frecuentes más detalladas sobre el flujo de trabajo de la [herramienta de validación de asientos](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
 
-Para obtener información sobre cómo inscribirse en SATV, lea [programa Software Assurance entrenamiento asiento (SATV) en el centro de partners](software-assurance-satv.md).
+Para obtener información acerca de cómo inscribirse en SATV, lea el [programa del cupón de aprendizaje de software Assurance (SATV) en el centro de Partners](software-assurance-satv.md).
 
-Para obtener información sobre cómo inscribirse en programas de Software Assurance DPS, lea [programas de Software Assurance en el centro de partners](software-assurance-dps.md).
+Para obtener información acerca de cómo inscribirse en programas de DPS de software Assurance, lea [programas de software Assurance en el centro de Partners](software-assurance-dps.md).

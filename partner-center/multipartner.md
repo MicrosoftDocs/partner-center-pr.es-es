@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134295"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820612"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
@@ -21,9 +21,9 @@ ms.locfileid: "62134295"
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
-Característica de varios asociada del centro de partners admite escenarios cuando un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero quiere contratar a otro partner especializado en Microsoft Azure.
+La característica de varios asociados del centro de Partners admite escenarios en los que un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero quiere contratar a otro partner especializado en Microsoft Azure.
 
-Para usar la característica de varios asociada en el centro de partners, invitar al cliente para proporcionarle los privilegios de administración delegados. Consulta [Solicitar relación con un cliente](request-a-relationship-with-a-customer.md) para obtener información sobre cómo establecer una relación con un cliente que ya está trabajando con un partner.
+Para usar la característica de varios socios en el centro de Partners, invite al cliente a concederle privilegios de administración delegados. Consulta [Solicitar relación con un cliente](request-a-relationship-with-a-customer.md) para obtener información sobre cómo establecer una relación con un cliente que ya está trabajando con un partner.
 
 La funcionalidad multipartner no sirve para:
 
@@ -36,4 +36,4 @@ La funcionalidad multipartner no sirve para:
 - Cambiar el partner de registro de una suscripción
 
 > [!IMPORTANT]  
-> Un asociado en el programa CSP no revender servicios en línea a otro asociado en el programa CSP actualmente. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre versiones de características o cambios en la directiva se anunciarán a través de los canales habituales de las comunicaciones, incluidos [anuncios de centro de partners](https://partner.microsoft.com/en-us/pcv/announcements).
+> Actualmente, un asociado en el programa CSP no puede revender servicios en línea a otro asociado en el programa CSP. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre las versiones de las características o los cambios de las directivas se anunciarán a través de los canales de comunicaciones habituales, incluidos los [anuncios del centro de Partners](https://partner.microsoft.com/pcv/announcements).

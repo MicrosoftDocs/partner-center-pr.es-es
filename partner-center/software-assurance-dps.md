@@ -1,112 +1,112 @@
 ---
-title: Planificación de Software Assurance de servicios en el centro de partners | Centro de partners
+title: Servicios de planeación de software Assurance en el centro de Partners | Centro de Partners
 ms.topic: article
-ms.date: 01/21/19
-description: Inscribirse en servicios de planeación para proporcionar la planificación previa para clientes de enterprise
+ms.date: 01/21/2019
+description: Inscribirse en Planning Services para proporcionar planeación previa a la implementación para clientes empresariales
 author: LauraBrenner
 ms.author: labrenne
-Keywords: anterior a la implementación, diseño, el programa software assurance
+Keywords: anterior a la implementación, planeamiento, software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133845"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708883"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planificación de Software Assurance del Centro de partners
 
-Haga crecer su negocio mediante la inscripción en programas de Software Assurance Planning Services. Microsoft compensa a asociados para la entrega de entrenamiento, planeación y a otros servicios a los clientes empresariales que tengan Software Assurance.
+Amplíe su negocio mediante la inscripción en programas de servicios de planeación de software Assurance. Microsoft compensa a los asociados para ofrecer aprendizaje, planeamiento y otros servicios a los clientes empresariales que tienen software Assurance.
 
-Como partner de servicios de una planificación aprobados, Microsoft le compensa para proporcionar los compromisos de planeamiento previo a la implementación para los clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, se convierten en sus socios de planeación de confianza y dar lugar a clientes adicionales.
+Como partner de Planning Services aprobado, Microsoft le compensa por proporcionar compromisos de planeación previa a la implementación para clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, convertirse en su asociado de planificación de confianza y conducir a otras contrataciones de clientes.
 
-Si no está familiarizado con los servicios de planificación de Software Assurance, consulte [haga crecer su negocio con servicios de planificación de](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
+Si no está familiarizado con los servicios de planeación de software Assurance, consulte [crecimiento de su negocio con Planning Services](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
-## <a name="get-started"></a>Comenzar
+## <a name="get-started"></a>Introducción
 
-Si está familiarizado con Software Assurance Planning Services, siga los pasos siguientes. Si ya está activo en los programas de servicios de planificación y la información de cuenta asociado se ha movido al centro de partners, comenzar en el paso cuatro (4) a continuación. 
+Si no está familiarizado con los servicios de planeación de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en los programas de Planning Services y la información de su cuenta de socio comercial se ha pasado al centro de Partners, empiece en el paso cuatro (4) a continuación. 
 
 1. Comprobar la idoneidad del programa 
 2. Inscribirse en un programa de servicio de planeación
-3. Actualizar perfil de empresa en el directorio de asociados
-4. Reservar un asiento del cliente 
-5. Contratación de completar y enviar informe de finalización
-6. Canjear el cupón 
-7. Solicitud de pago de Microsoft
+3. Actualizar Perfil de empresa en el directorio de socios comerciales
+4. Reservar un vale de cliente 
+5. Completar compromiso y enviar informe de finalización
+6. Canjear el vale 
+7. Solicitar el pago de Microsoft
 
 En este artículo se explica cómo completar cada paso.
 
 ## <a name="confirm-eligibility"></a>Confirmar elegibilidad
 
-Antes de poder inscribir en el programa de servicios de planificación, su compañía debe cumplir la competencia y cumplimiento normativo de entrenamiento y el consultor iniciales el compromiso del cliente debe cumplir los requisitos de exámenes y formación técnica. 
+Antes de inscribirse en el programa de servicios de planeación, su empresa debe cumplir los requisitos de entrenamiento y cumplimiento normativo, y el consultor líder en el compromiso del cliente debe cumplir los requisitos técnicos de aprendizaje y examen. 
 
-Cada programa planeación de servicio tiene requisitos únicos. Consulte [comprobar elegibilidad](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) para obtener más información acerca de cómo planear los requisitos de elegibilidad de servicios.
+Cada programa de servicio de planeación tiene requisitos de elegibilidad únicos. Vea [comprobar elegibilidad](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) para obtener más información sobre los requisitos de idoneidad de los servicios de planeación.
 
-Siga estos pasos para ver el estado de elegibilidad de su compañía.
+Siga estos pasos para ver el estado de elegibilidad de su empresa.
 
-1. Seleccione Software Assurance > requisitos en el menú del centro de partners. 
-2. Seleccione los servicios de planificación para abrir la pestaña de servicios de planificación.
-3. Compruebe la columna de estado de elegibilidad para ver el estado de su compañía para un determinado programa de servicios de planeación. 
+1. Seleccione software Assurance > requisitos en el menú del centro de Partners. 
+2. Seleccione servicios de planeación para abrir la pestaña servicios de planeación.
+3. Compruebe la columna Estado de elegibilidad para ver el estado de su empresa para un programa de servicios de planeación específico. 
 
-- No ha iniciado | Todavía no es elegible para participar en el programa. Seleccione el nombre del programa para ver lo que necesita hacer para satisfacer los requisitos de elegibilidad del programa.
+- Sin iniciar | Todavía no es válido para participar en el programa. Seleccione el nombre del programa para ver lo que necesita hacer para cumplir los requisitos de idoneidad del programa.
 
-- En curso | Se ha iniciado el proceso de satisfacer los requisitos de elegibilidad del programa, pero que todavía tiene más que ver.
+- En curso | Ha iniciado el proceso de cumplir los requisitos de idoneidad del programa, pero todavía tiene más.
 
-- Active | Se ha confirmado su elegibilidad y está listo para comenzar a proporcionar el servicio de planeación a los clientes empresariales. 
+- Activo | Su elegibilidad se ha confirmado y está listo para empezar a proporcionar el servicio de planeación a los clientes empresariales. 
 
-4. Después de comprobar que su empresa es apta para participar en un programa, dirigir los participantes del programa para completar el curso de aprendizaje de cumplimiento de servicios de planificación de su empresa. 
+4. Después de comprobar que la empresa es válida para participar en un programa, dirija a los participantes del programa de la empresa para completar el curso de formación del cumplimiento de Planning Services. 
 
-5. Después de que los participantes del programa de su compañía completan el curso de aprendizaje necesario, vuelva a la [página de inscripción](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) e inicie el contrato de proveedor del programa de servicio de planeación de Microsoft. 
+5. Una vez que los participantes del programa de la empresa completen el curso de aprendizaje necesario, vuelva a la [Página de inscripción](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) y firme el contrato de proveedor de programas de Microsoft Planning Service. 
 
 ## <a name="enroll-in-the-planning-services-program"></a>Inscribirse en el programa de servicios de planeación
 
-Después de su empresa cumple los requisitos de elegibilidad para el programa de servicios de planificación y los participantes en el programa han pasado el curso de aprendizaje de cumplimiento, está listo para inscribirse. 
+Una vez que su empresa cumple los requisitos de idoneidad para el programa de servicios de planeación y los participantes del programa han superado el curso de formación de cumplimiento, está listo para inscribirse. 
 
 Siga estos pasos para inscribirse en un programa de servicio de planeación.
 
-1. Completar la seleccione Software Assurance > requisitos en el menú del centro de partners. 
-2. Seleccione los servicios de planificación para abrir la pestaña de servicios de planificación.
-3. Seleccione el programa que desea inscribir en y seleccione **inscribir.**
+1. Complete los requisitos de Select software Assurance > en el menú del centro de Partners. 
+2. Seleccione servicios de planeación para abrir la pestaña servicios de planeación.
+3. Seleccione el programa en el que desea inscribirse y seleccione **inscribir.**
 
-Cuando haya completado este proceso, se aprueban para entregar las ofertas que se ha inscrito en las ubicaciones de la empresa. Los empleados de su empresa aparece como un administrador de asociado de MPN podrán acceder a la herramienta VVR para administrar los vales de planeación de servicios en nombre de cualquier ubicación.
+Cuando haya completado este proceso, las ubicaciones de la empresa se aprobarán para ofrecer las ofertas que ha inscrito en. Los empleados de la empresa que se muestran como administradores de asociados de MPN podrán acceder a la herramienta VVR para administrar los vales de Planning Services en nombre de cualquier ubicación.
 >[!Note]
-> Debe renovar sus requisitos y volver a inscribir en programas de planeación de servicios cada año.
+> Tendrá que renovar sus requisitos y volver a inscribirse en los programas de Planning Services cada año.
 
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Actualizar perfil de la compañía en el directorio de asociados de servicios de planeación 
+### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Actualizar el perfil de su empresa en el directorio de Partners de Planning Services 
 
-Los clientes busquen los asociados que pueden satisfacer sus necesidades de negocio en la [directorio de asociados de servicios de planeación](https://directory.partners.extranet.microsoft.com/psbproviders/). Cuando se aprueba su empresa para participar en el diseño de programas de servicios, asegúrese de actualizar su perfil de socio comercial para que los clientes puedan encontrarle. 
+Los clientes buscan asociados que pueden satisfacer sus necesidades empresariales en el [Directorio de Partners de Planning Services](https://directory.partners.extranet.microsoft.com/psbproviders/). Cuando se apruebe su empresa para participar en programas de Planning Services, asegúrese de actualizar su perfil de socio comercial para que los clientes puedan encontrarlo. 
 
-Para actualizar su perfil, siga los pasos en el perfil de actualización en la página de directorio asociado. Si ya sabe cómo actualizar su perfil, puede [iniciar sesión en el panel](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) para empezar a trabajar.  
+Para actualizar el perfil, siga los pasos de la página actualizar perfil en el directorio de socios comerciales. Si ya sabe cómo actualizar el perfil, puede [iniciar sesión en el panel](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) para empezar a trabajar.  
 
-## <a name="reserve-customer-voucher"></a>Vale de cliente de reserva
+## <a name="reserve-customer-voucher"></a>Reservar el asiento del cliente
 
-Después de que un cliente asigna un asiento para su empresa en el [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), el cliente recibe un correo electrónico que incluye el Id. de vale. El cliente necesita reenviar este correo electrónico a usted para que tengan la información que necesita reservar el vale. 
+Una vez que un cliente asigna un asiento a su empresa en el [centro de servicios de licencias por volumen (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), el cliente recibe un correo electrónico que incluye el identificador del asiento. El cliente debe reenviar este correo electrónico para que tenga la información que necesita para reservar el asiento. 
 
-Cuando tenga los detalles del cupón, puede reservar el vale y programar la contratación de planeación. Siga los pasos de [administrar cupones en la herramienta de validación del vale y canje (VVR)](voucher-validation-tool.md) para reservar el vale.  
+Cuando tenga los detalles del asiento, puede reservar el asiento y programar el compromiso de planeación. Siga los pasos descritos en [Administración de los vales en la herramienta de validación y canje de asientos (VVR)](voucher-validation-tool.md) para reservar el asiento.  
 
-## <a name="complete-the-engagement-and-submit-completion-report"></a>Completar la contratación y enviar el informe de finalización
+## <a name="complete-the-engagement-and-submit-completion-report"></a>Completar la interacción y enviar el informe de finalización
 
-Después de su empresa ha completado la contratación y siempre la última completado entrega al cliente, deberá rellenar y enviar un informe de finalización.
+Una vez que la empresa haya completado la contratación y haya proporcionado la entrega completa final al cliente, deberá rellenar y enviar un informe de finalización.
 
 >[!NOTE]
-> También tendrá que cargar una copia de la contratación de cliente que se entrega en este paso. 
+> También necesitará cargar una copia de la entrega del compromiso del cliente en este paso. 
 
 
-Siga los pasos de [administrar cupones en la herramienta de validación del vale y canje (VVR)](voucher-validation-tool.md).
+Siga los pasos descritos en [Administración de vales en la herramienta validación y canje del asiento (VVR)](voucher-validation-tool.md).
 
-## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Canjear un vale y la solicitud de pago de Microsoft
+## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Canjear un vale y solicitar el pago de Microsoft
 
-Una vez que has reservado un asiento, se pueden canjear. 
+Una vez que haya reservado un vale, puede canjearlo. 
 
-1. En la lista de los cupones reservadas, seleccione los asientos que desee volver a canjear. 
-2. Ahora verá una lista de **Redeemed** cupones.
-3. Seleccione las casillas de verificación junto a los asientos deseados, a continuación, haga clic en **canjear vales seleccionados**.
-4. Desde la página de canje de cupón de confirmación, revise la información del vale para una mayor precisión y luego seleccione **Sí** para canjear el cupón.
+1. En la lista de asientos reservados, seleccione los asientos que desea canjear. 
+2. Ahora verá una lista de los vales **canjeados** .
+3. Active las casillas situadas junto a los asientos deseados y, a continuación, haga clic en canjear los **asientos seleccionados**.
+4. En la página confirmar el canje del asiento, revise la información del asiento para ver la precisión y, a continuación, seleccione **sí** para canjear el asiento.
 
-5. Para crear una notificación, seleccione **crear una demanda**, o bien, en la página de detalles del asiento, seleccione **crear una demanda**.
+5. Para crear una demanda, selecciona **crear una demanda**o, en la página de detalles del asiento, selecciona **crear una demanda**.
 
-6. Seleccionar **crear una demanda** le lleva a la [herramienta en línea de pago de Software Assurance asiento ventaja (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) con el fin de la factura de Microsoft.
+6. Al seleccionar **crear una solicitud** , se le llevará a la [herramienta de pago en línea del beneficio del vale de software Assurance (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para facturar a Microsoft.
 
 
 

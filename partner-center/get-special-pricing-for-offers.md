@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
-ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
+ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "68492305"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820445"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
@@ -28,7 +28,7 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Educación   |Convertirse en [vendedor autorizado de Educación](https://www.mepn.com).   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
 |Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   None|
-|Organizaciones sin ánimo de lucro  |None<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
+|Organizaciones sin ánimo de lucro  |None<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor

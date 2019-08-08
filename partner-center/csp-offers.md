@@ -1,18 +1,18 @@
 ---
 title: Ofertas de partners en el programa Proveedor de soluciones en la nube | Centro de partners
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 05/01/2019
 description: Obtén información sobre las ofertas disponibles para los partners que venden a través del programa Proveedor de soluciones en la nube.
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, programa de proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de asociados, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server en suscripciones de cliente de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 88739f2a46efca2a60e3c9f841263554980bc329
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134815"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820452"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de partners en el programa Proveedor de soluciones en la nube 
 
@@ -32,34 +32,51 @@ Actualmente, puedes vender los siguientes tipos de productos y servicios a tus c
 
     Los clientes pueden reservar espacio por adelantado en máquinas virtuales de Azure durante un plazo de 1 o 3 años.<br>
     
-    Para obtener más información, consulte [vender Microsoft Azure Reserved VM Instances](azure-reservations.md).
+    Para obtener más información, consulte [vender Microsoft Azure instancias reservadas de máquina virtual](azure-reservations.md).
 
 - Software<br>
 
     Los clientes pueden comprar suscripciones de software (para Windows Server y SQL Server, durante un plazo de 1 o 3 años, para ejecutar en Azure Reserved VM Instances).<br>
  
-    Para obtener más información, consulte [vender suscripciones de software a través de CSP](csp-software-subscriptions.md).  
+    Para obtener más información, consulte venta de suscripciones de [software a través de CSP](csp-software-subscriptions.md).  
 
 - Servicios en línea<br>
 
-    *Servicios en línea* es el nuevo nombre de lo que actualmente se conoce como *suscripciones*. Para que sea más fácil solicitar y pagar varios tipos de productos en un solo lugar, hemos integrado el flujo de tareas de "Agregar suscripción" en el flujo de tareas de "Agregar productos".<br>
+    *Online Services* es el nuevo nombre de lo que se conoce actualmente comosuscripciones. Para que sea más fácil ordenar varios tipos de productos en un solo lugar, hemos integrado el flujo de tareas "agregar suscripción" en el flujo de tareas "agregar productos".<br>
     
-    Para obtener más información, consulte [suscripciones de cliente](customer-subscriptions.md).
+    Para obtener más información, consulte suscripciones de [clientes](customer-subscriptions.md).
 
-- Software como servicio (SaaS) y otro [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) productos<br>
+- Software como servicio (SaaS) y otros productos de [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)<br>
 
-    Puede vender suscripciones a productos SaaS de fabricantes de Software independientes (ISV). Para ver únicamente las ofertas de SaaS en **servicios en línea**, use los filtros para establecer **Publisher** a **asociado**. Esto le mostrará todas las que ofertas de SaaS que se pueden adquirir para ese cliente.<br>
+    Puede vender suscripciones a productos SaaS de fabricantes de software independientes (ISV). Para ver solo las ofertas de SaaS en **servicios en línea**, use los filtros para establecer **publicador** en **asociado**. Se mostrarán todas las ofertas de SaaS que se pueden adquirir para ese cliente.<br>
     
-    También puede encontrar información acerca de estos productos en el **Marketplace** página. Tenga en cuenta que esta página también incluye información sobre otros tipos de productos que deben comprarse desde el portal de Azure, no el centro de partners.<br>
+    También puede encontrar información sobre estos productos en la página de **Marketplace** . Tenga en cuenta que esta página también incluye información sobre otros tipos de productos que deben adquirirse en el Azure Portal, no en el centro de Partners.<br>
 
-    Para obtener más información, consulte [vender suscripciones a productos de Azure Marketplace](sell-marketplace-products.md)
+    Para más información, consulte [Venta de suscripciones a productos de Azure Marketplace](sell-marketplace-products.md) .
 
+## <a name="add-products-page-details"></a>Detalles de la página Agregar productos
+
+La lista siguiente identifica cada una de las nuevas áreas de la página **Agregar productos** .
+
+**Agregar productos** : esta página incluye todos los tipos de productos disponibles para su venta a sus clientes.
+
+**Categorías de producto** **Azure, servicios en línea, software** Seleccione el tipo de producto que le interese para mostrar solo esos productos - 
+
+**Segment** : identifica el tipo general de negocio, por ejemplo, comercial o gubernamental, al que desea vender
+
+**Publicador** : seleccione los tipos de productos que desea ver: aplicaciones creadas por Microsoft o por publicadores de terceros.
+
+**Tipo de facturación** : identifica si el producto se factura por el número de licencias o por uso.
+
+**Categoría** : identifica el tipo de negocio que admite el producto y si ofrece una versión de prueba.
+
+**Ver SKU, ver producto** : Seleccione esta opción para alternar entre las listas de productos y SKU. **Products** muestra cada producto individualmente; **SKU** enumera los grupos de productos
 
 ## <a name="buy-csp-offers"></a>Comprar ofertas de CSP
 
-Para comprar productos y servicios en nombre de los clientes de CSP, selecciona los elementos que desea el cliente, agregarlos a su carro, lo que crea un pedido y, a continuación, revisa y paga el pedido. El proceso general se describe a continuación. (Para obtener más información acerca de los pedidos para un tipo de producto específico, consulte los vínculos anteriores).
+Para comprar productos y servicios en nombre de los clientes de CSP, seleccione los elementos que el cliente desea, agréguelos al carro, que crea un pedido y, a continuación, revise y envíe el pedido. A continuación se describe el proceso general. (Para obtener más información acerca de los pedidos de un tipo de producto específico, consulte los vínculos anteriores).
 
-1. Seleccione **clientes** en el menú del centro de partners y, a continuación, busque los clientes que deseen adquirir del usuario. 
+1. Seleccione **customers (clientes** ) en el menú del centro de Partners y busque el cliente que desea comprar. 
 
 2. Selecciona la flecha abajo situada al final de la fila del cliente para expandir el registro del cliente y, a continuación, selecciona **Agregar productos**. A partir de este momento, estás creando un pedido. Un pedido puede incluir varios elementos de diferentes tipos, pero deben ser todos para el mismo cliente.
 
@@ -76,6 +93,6 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 8. Los detalles de tu pedido, incluido el número del pedido, se muestran en la página siguiente. Selecciona **Listo** para ir a tu página **Historial de pedidos**. 
 
 > [!NOTE]
-> Para obtener información sobre cómo funciona el proceso de facturación, consulte [ **conceptos básicos de facturación**](https://docs.microsoft.com/en-us/partner-center/billing-basics).
+> Para obtener información sobre cómo funciona el proceso de facturación, consulte [**aspectos básicos de facturación**](https://docs.microsoft.com/partner-center/billing-basics).
 
 

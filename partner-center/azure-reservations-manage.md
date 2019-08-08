@@ -2,18 +2,18 @@
 title: Administrar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
-Description: Para administrar las reservas de Azure después de la compra de sus clientes, deberá seleccione la que desea administrar en el centro de partners de reserva y el cliente y, a continuación, realizar cambios en la reserva en el portal de Azure.
+Description: Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal.
 author: LauraBrenner
-ms.author: v-petand
-keywords: Azure, las reservas de direcciones, administrar, facturación, adquirir, Cancelar, exchange, tasa de finalización anticipada
+ms.author: labrenne
+keywords: Azure, reservas, administración, facturación, compra, cancelación, intercambio, cuota de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134795"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708767"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
@@ -23,59 +23,59 @@ ms.locfileid: "62134795"
 -  Microsoft Azure Portal
 -  Partners de CSP
 
-Para administrar las reservas de Azure después de la compra de sus clientes, deberá seleccione la que desea administrar en el centro de partners de reserva y el cliente y, a continuación, realizar cambios en la reserva en el portal de Azure. 
+Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal. 
 
-1. Para empezar, seleccione **clientes** en el menú de centro de partners y, a continuación, seleccione el cliente cuyas reservas de direcciones que desea administrar. 
+1. Para empezar, seleccione customers ( **clientes** ) en el menú del centro de Partners y seleccione el cliente cuyas reservas desea administrar. 
 
 2. En el menú de la página de detalles del cliente, selecciona **Reservas de Azure** y, a continuación, selecciona la reserva específica que quieras administrar.  
 
 3. En **Acciones**, selecciona **Administrar** para ir al registro de reserva del cliente en Azure Portal. En la página de detalles de la reserva, sigue los pasos siguientes para completar tareas.  
 
-    | **Select**   | **Para**    |
+    | **No**   | **Para**    |
     |:-----------------------------|:-----------------|
     | **Información general**   | Ver detalles de la reserva de un cliente, incluidos la fecha de expiración, el ámbito y los datos de uso. **NOTA** Selecciona **Reembolso** para crear una solicitud de soporte para un reembolso prorrateado. Selecciona **Exchange** para crear una solicitud de soporte para intercambiar la parte no usada del término de reserva.  
-    | **Control de acceso (IAM)**   | Administrar el acceso a la información de la reserva del cliente.|
+    | **Access Control (IAM)**   | Administrar el acceso a la información de la reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Ver propiedades de la reserva y copiar en el Portapapeles el id. de la reserva y el id. del pedido de reserva. **NOTA** El departamento de soporte puede solicitarle el id. de reserva y el id. del pedido de reserva al solicitar soporte en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda del soporte técnico de Microsoft.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Cancelar o cambiar una reserva 
 
-Si en cualquier momento las de un cliente necesidades empresariales evolucionan, es posible que desean cancelar una reserva y obtener un reembolso o cantidad de la reserva un reembolso prorrateado se puede usar en el precio de una nueva reserva de exchange.
+Si en algún momento cambian las necesidades empresariales de un cliente, es posible que deseen cancelar una reserva y obtener un reembolso o intercambiar el importe de reembolso prorrateado de una reserva para usarlo en el precio de una nueva reserva.
 
-En ambos escenarios, Microsoft reembolsos la cantidad para usted, lo que, a continuación, puede administrar las transacciones financieras resultantes con sus clientes. Microsoft no ponerse en contacto con los clientes directamente sobre la facturación, cancelaciones y reembolsos.   
+En ambos escenarios, Microsoft reembolsa el importe para que pueda administrar las transacciones financieras resultantes con sus clientes. Microsoft no se pone en contacto directamente con los clientes sobre la facturación, las cancelaciones o los reembolsos.   
  
 
 **Cómo funcionan las cancelaciones**
 
-Los clientes pueden solicitar para cancelar una reserva en cualquier momento (cantidad de reembolso tope 50.000 dólares al año). Cancelar una reserva permite al cliente devolver la cantidad de los meses restantes de una reserva de Azure para una cuota de finalización anticipada. El balance prorrateado restante, menos la tasa de finalización anticipada, se devuelve a su cuenta para que se puede reembolsar la cuenta del cliente. 
+Los clientes pueden solicitar la cancelación de una reserva en cualquier momento (importe de reembolso limitado en $50.000 al año). La cancelación de una reserva permite al cliente devolver la cantidad de los meses restantes de una reserva de Azure para una cuota de finalización temprana. El saldo prorrateado restante, menos la cuota de finalización temprana, se reembolsa a su cuenta para que pueda reembolsar la cuenta del cliente. 
 
-Consulte a continuación para las cuotas y los detalles de la cancelación.
+Consulte a continuación los detalles y las tarifas de cancelación.
 
 
-|**Fecha de cancelación**<br> (días)   |**Usage**    |**Credit**  |**Finalización prematura**<br> individual    |**Límite de reembolso** | 
+|**Fecha de cancelación**<br> durante   |**Uso**    |**Pondrá**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100%       | No                              | 50.000 USD   |
-|5 o menos                         | Sí         | Proporcional  | No                              | 50.000 USD   |
-|Más de 5                        | No          | Proporcional  | 12%                             | 50.000 USD   |
-|Más de 5                        | Sí         | Proporcional  | 12%                             | 50.000 USD   |
+|5 o menos                         | Sin          | 100%       | No                              | $50.000 USD   |
+|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
+|Más de 5                        | Sin          | Prorrateado  | 305                             | $50.000 USD   |
+|Más de 5                        | Sí         | Prorrateado  | 305                             | $50.000 USD   |
 
 
 **Cómo funcionan los intercambios** 
 
-Si un cliente desea comprar una reserva diferente a la que compraron originalmente parte del usuario, pueden solicitar un intercambio. Intercambiar una reserva puede ser una alternativa atractiva para cancelar una reserva, ya que permite al cliente utilizar la cantidad de reembolso prorrateado hacia el precio de la reserva de nuevas. 
+Si un cliente desea comprar una reserva diferente de la que compró originalmente, puede solicitar un intercambio. El intercambio de una reserva puede ser una alternativa atractiva a la cancelación de una reserva, ya que permite al cliente usar el importe de reembolso prorrateado en relación con el precio de la nueva reserva. 
 
-Por lo que puede ofrecer al cliente un intercambio, se abona el importe de reembolso prorrateado a su cuenta.
+El importe del reembolso prorrateado se abona en la cuenta para que pueda ofrecer al cliente un intercambio.
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar un reembolso o cambio en nombre de un cliente 
 
-Para realizar una solicitud de soporte técnico para obtener un reembolso o exchange en nombre de sus clientes, deberá seleccionar el cliente y la reserva en el centro de partners y, a continuación, cree la solicitud de soporte técnico en el portal de Azure. 
+Para enviar una solicitud de soporte técnico para un reembolso o Exchange en nombre de sus clientes, seleccione el cliente y la reserva en el centro de Partners y, a continuación, cree la solicitud de soporte técnico en el Azure Portal. 
 
 >[!NOTE]
 >Soporte técnico de Microsoft puede pedirte proporcionar el id. de reserva y el id. del pedido de reserva. Puedes encontrar esta información en la página **Propiedades** de la reserva del Azure Portal. 
 
-1. Para empezar, seleccione **clientes** en el menú de centro de partners y a continuación, seleccione el cliente que desea un reembolso. 
+1. Para empezar, seleccione customers ( **clientes** ) en el menú del centro de Partners y seleccione el cliente que desea un reembolso. 
 
 2. En la página de detalles del cliente, selecciona **Azure Reservations** y, a continuación, la reserva específica que el cliente quiera que se le reembolse.  
 
@@ -83,19 +83,19 @@ Para realizar una solicitud de soporte técnico para obtener un reembolso o exch
 
 4. En la página **Nueva solicitud de soporte técnico**, sigue los pasos que vienen a continuación para solicitar un reembolso. Selecciona **Siguiente** después de cada paso. 
 
-    |**Paso**                    |**Selecciones**    |
+    |**Pasar**                    |**Selecciones**    |
     |:---------------------------|:-----------------|
-    |**Conceptos básicos 1**                |Tipo de problema: Facturación.  |
-    |**Problema 2**               |Tipo de problema: Administración de reserva. Categoría: Los intercambios y los reembolsos. |
-    |**Información de contacto 3**   |Selecciona tus preferencias y escribe la información necesaria. 
+    |**1 conceptos básicos**                |Tipo de problema: Factura.  |
+    |**2 problema**               |Tipo de problema: Administración de reserva. Categoría: Intercambios y reembolsos. |
+    |**3 información de contacto**   |Selecciona tus preferencias y escribe la información necesaria. 
 
 5.  Selecciona **Crear** cuando termines.
 
 ## <a name="azure-reservations-resources"></a>Recursos de Azure Reservations
-|**Para obtener información acerca de**   |**Lea este**    |
+|**Para obtener información sobre**   |**Lea este**    |
 |:-----------------------------|:-----------------|
-|Reservas de Azure en la introducción del CSP  | [Vende instancias reservadas de Microsoft Azure](azure-reservations.md) |
-|Compra de reservas de Azure para sus clientes en el centro de partners   |[Comprar reservas de Azure](azure-reservations-buying.md) |
-|Determinar el tamaño correcto de VM y comprobar el uso de VM del cliente   |[Ajuste de tamaño de máquina virtual para el uso de reserva máximo de Azure](azure-usage.md)   |
+|Reservas de Azure en la introducción del CSP  | [Vender Microsoft Azure instancias reservadas](azure-reservations.md) |
+|Compra de reservas de Azure para sus clientes en el centro de Partners   |[Comprar reservas de Azure](azure-reservations-buying.md) |
+|Determinar el tamaño correcto de VM y comprobar el uso de VM del cliente   |[Tamaño de máquina virtual para el uso máximo de reserva de Azure](azure-usage.md)   |
 |Compra de reservas de Azure usando la API del Centro de partners | [Purchase Azure Reserved VM Instances (Comprar Azure Reserved VM Instances)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación de desarrolladores del Centro de partners
 
