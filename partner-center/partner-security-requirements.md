@@ -1,127 +1,129 @@
 ---
-title: Requisitos de seguridad de los asociados | Centro de Partners
+title: Requisitos de seguridad para partners | Centro de partners
 ms.topic: article
 ms.date: 08/05/2019
-description: Obtenga información sobre los requisitos de seguridad para asesores y asociados que participan en el programa proveedor de soluciones en la nube.
+description: Obtén información acerca los requisitos de seguridad para los asesores y partners que participan en el programa Proveedor de soluciones en la nube.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, proveedor de soluciones en la nube, programa del proveedor de soluciones en la nube, CSP, proveedor del panel de control, CPV, autenticación multifactor, MFA, modelo de aplicación segura, modelo de aplicación segura, seguridad
+keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: medium
-ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
-ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
-ms.translationtype: MT
+ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
+ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68787256"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68912643"
 ---
-# <a name="partner-security-requirements"></a>Requisitos de seguridad del asociado
+# <a name="partner-security-requirements"></a>Requisitos de seguridad para partners
 
 **Se aplica a**
 
-- Todos los asociados del programa proveedor de soluciones en la nube
+- Todos los partners que estén en el programa Proveedor de soluciones en la nube
   - Factura directa
   - Proveedor indirecto
   - Revendedor indirecto
-- Todos los proveedores del panel de control
+- Todos los proveedores de panel de control
 - Todos los asesores
 
-Una mayor seguridad y protección de la privacidad se encuentran entre las principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los asociados y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para asesores, proveedores del panel de control y asociados que participan en el programa proveedor de soluciones en la nube.
+Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y asociados que participen en el programa Proveedor de soluciones en la nube.
 
-A partir del 1 de agosto de 2019 todos los asociados son necesarios para aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino de asociado.
+A partir del 1 de agosto de 2019 todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino del partner.
 
 > [!NOTE]
-> Se recomienda encarecidamente que todos los asociados que transaccionen una nube soberano (21Vianet, gobierno de EE. UU. y Alemania) adopten estos nuevos requisitos de seguridad inmediatamente. Sin embargo, no es necesario que estos asociados cumplan los nuevos requisitos de seguridad a partir del 1 de agosto de 2019. Microsoft proporcionará información adicional sobre la aplicación de estos requisitos de seguridad para nubes independientes en el futuro.
+> Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, no es preciso que estos partners cumplan los nuevos requisitos de seguridad que entran en vigor el 1 de agosto de 2019. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
 
-Los términos asociados a los requisitos de seguridad del asociado se han agregado a la [Guía del programa del proveedor de soluciones](https://go.microsoft.com/fwlink/p/?LinkId=617100)en la nube. A partir del 1 de agosto de 2019, todos los asociados que participan en el programa proveedor de soluciones en la nube deben cumplir los términos. En lo que se refiere a los asesores, se aplicarán los mismos requisitos contractuales.
+Los términos asociados a los requisitos de seguridad para partners se han agregado a la [guía del programa Proveedor de soluciones en la nube](https://go.microsoft.com/fwlink/p/?LinkId=617100). A partir del 1 de agosto de 2019, todos los partners que participen en el programa Proveedor de soluciones en la nube deben cumplir los términos y condiciones. En lo que se refiere a los asesores, se aplicarán los mismos requisitos contractuales.
 
-Los asociados que no implementen los requisitos de seguridad obligatorios no podrán hacerlo en el programa proveedor de soluciones en la nube ni administrar los inquilinos del cliente que aprovechan los derechos de administrador de delegado, una vez que se aplican estos requisitos. Estamos en proceso de establecer una fecha de aplicación técnica para los requisitos y notificaremos a los asociados de la fecha la información detallada.
+Los partners que no implementen los requisitos de seguridad obligatorios no podrán realizar transacciones en el programa Proveedor de soluciones en la nube ni administrar los inquilinos del cliente que aprovechen los derechos de administrador delegado, una vez que se apliquen estos requisitos. Estamos en el proceso de establecer una fecha de aplicación técnica de los requisitos y se la notificaremos a los partners con información detallada.
 
 ## <a name="what-actions-do-i-need-to-take"></a>¿Qué acciones necesito realizar?
 
-Dada la naturaleza con privilegios elevados de ser un asociado, necesitamos asegurarnos de que cada usuario tenga un desafío de MFA para cada autenticación. Esto puede realizarse de una de las siguientes maneras:
+Dada la naturaleza de los partners, que tienen privilegios elevados, necesitamos asegurarnos de que cada usuario tenga que usar la MFA en todas y cada una de las autenticaciones. Esto se puede realizar de cualquiera de estas maneras:
 
-- Implementar Azure AD Premium y asegurarse de que se aplica MFA para cada usuario
-- Implementar las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
-- Implementar una solución de terceros y asegurarse de que se aplica MFA para cada usuario
+- Mediante la implementación de Azure AD Premium y asegurándose de que se aplica MFA a todos los usuarios.
+- Mediante la implementación de las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
+- Mediante la implementación de una solución de terceros y asegurándose de que se aplica MFA a todos los usuarios.
 
 > [!IMPORTANT]
-> Una vez que estos requisitos se aplican técnicamente, cada autenticación única debe tener un desafío de MFA. No podrá usar ninguna característica del acceso condicional para evitar la autenticación mediante MFA al acceder a los servicios en la nube de Microsoft Commercial.
+> Una vez que estos requisitos se aplican técnicamente, todas y cada una de las autenticaciones deben tener un desafío de MFA. No se podrá usar ninguna característica del acceso condicional para evitar la autenticación mediante MFA al acceder a los servicios en la nube comercial de Microsoft.
 
 ### <a name="considerations"></a>Consideraciones
 
-Dado que estos requisitos se aplican a todos los usuarios, incluidas las cuentas de servicio, en el inquilino del asociado, hay varias consideraciones que deben realizarse para garantizar una implementación sin problemas. Entre estas consideraciones se incluye la identificación de usuarios en Azure AD que no pueden realizar MFA, así como las aplicaciones y los dispositivos usados por su organización que no admiten la autenticación moderna.
+Dado que estos requisitos se aplican a todos los usuarios, incluidas las cuentas de servicio, del inquilino del partner deben hacerse varias consideraciones para garantizar que la implementación se realiza sin problemas. Entre estas consideraciones se incluye la identificación en Azure AD de los usuarios que no pueden realizar MFA, así como de las aplicaciones y los dispositivos usados por una organización que no admiten la autenticación moderna.
 
-Antes de realizar cualquier acción, se recomienda que identifique lo siguiente
+Antes de realizar cualquier acción, es aconsejable identificar los siguientes factores
 
-#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>¿Tiene una aplicación o un dispositivo que no admite el uso de MFA al autenticarse?
+#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>¿Hay alguna una aplicación o un dispositivo que no admita el uso de MFA al autenticarse?
 
-Cuando se aplica la autenticación heredada de MFA, se bloquearán protocolos de uso como IMAP, POP3, SMTP, etc., ya que estos protocolos no admiten MFA. Para solucionar esta limitación, se puede usar una característica conocida como contraseñas de [aplicación](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) para asegurarse de que la aplicación o el dispositivo todavía se pueden autenticar. Debe revisar las consideraciones sobre el uso de contraseñas de aplicación que se documentan [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) para determinar si se pueden usar en su entorno.
+Cuando se aplique la autenticación heredada de MFA, se bloqueará el uso de protocolos como IMAP, POP3, SMTP, etc., ya que no admiten MFA. Para solucionar esta limitación, se puede usar una característica conocida como [contraseñas de aplicación](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) para asegurarse de que la aplicación o el dispositivo se pueden autenticar. Debes examinar las consideraciones acerca del uso de contraseñas, que están documentadas [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), aquí para determinar si se pueden usar en su entorno.
 
-#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>¿Tiene usuarios que usan Office 365 que proporcionan licencias asociadas a su inquilino de asociado?
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>¿Hay usuarios que usen Office 365 proporcionados por licencias asociadas a tu inquilino del partner?
 
-Antes de implementar cualquier solución, se recomienda que determine por qué la versión de Microsoft Office la usan los usuarios de su inquilino de asociado. Revise el [plan para la autenticación multifactor para implementaciones de Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) antes de realizar cualquier acción. Existe la posibilidad de que los usuarios experimenten problemas de conectividad con aplicaciones como Outlook. Antes de aplicar MFA, es importante asegurarse de que se use Outlook 2013 SP1, o una versión posterior, y que la organización tenga habilitada la autenticación moderna. Vea [Habilitar la autenticación moderna en Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) para obtener más información.
+Antes de implementar cualquier solución, es aconsejable determinar qué versión de Microsoft Office utilizan los usuarios de tu inquilino del partner. Examina el [plan para realizar la autenticación multifactor en implementaciones de Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) antes de realizar cualquier acción. Existe la posibilidad de que los usuarios tengan problemas de conectividad con aplicaciones como Outlook. Antes de aplicar la autenticación multifactor, es importante asegurarse de que se usa Outlook 2013 SP1, o cualquier versión posterior, y que la organización tiene habilitada la autenticación moderna. Para más información, consulta [Habilitar la autenticación moderna en Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
-Para habilitar la autenticación moderna en cualquier dispositivo que ejecute Windows que tenga Microsoft Office 2013 instalado, deberá crear dos claves del registro. Consulte [habilitación de la autenticación moderna para Office 2013 en dispositivos Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+Para habilitar la autenticación moderna en cualquier dispositivo con Windows que tenga Microsoft Office 2013 instalado, es preciso crear dos claves del Registro. Consulta [Habilitar autenticación moderna para Office 2013 en dispositivos Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
 
 > [!IMPORTANT]
-> Si ha habilitado a los usuarios para Azure AD MFA y tienen dispositivos que ejecutan Office 2013 y que no están habilitados para la autenticación moderna, deberán usar contraseñas de aplicación en esos dispositivos. Puede encontrar más información sobre las contraseñas de aplicación y cuándo y dónde se deben usar aquí: [Contraseñas de aplicación con Azure multi-factor Authentication](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+> Si has habilitado a los usuarios para Azure AD MFA y tienen dispositivos en los que se ejecuta Office 2013 que no están habilitados para la autenticación moderna, deberán usar contraseñas de aplicaciones en esos dispositivos. Aquí se puede encontrar más información acerca de las contraseñas de aplicaciones y cuándo, dónde y cómo se deben usar: [Contraseñas de aplicaciones con Azure Multi-Factor Authentication](https://go.microsoft.com/fwlink/p/?LinkId=528178).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>¿Hay alguna directiva que impida que los usuarios usen sus dispositivos móviles mientras trabajan?
 
-Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que influirán en la solución MFA que implemente. Hay soluciones MFA, como la que se proporciona a través de la implementación de las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), que solo permiten el uso de una aplicación de autenticador para la comprobación. En caso de que la organización tenga una directiva que impida el uso de dispositivos móviles, debe tener en cuenta una de las siguientes opciones:
+Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que esto influirá en la solución MFA que implementes. Hay soluciones MFA, como la que se proporciona a través de la implementación de las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection), que solo permiten el uso de una aplicación de autenticación para la comprobación. Si la organización tiene una directiva que impide el uso de dispositivos móviles, debes tener en cuenta una de las siguientes opciones:
 
-- Implementación de un dispositivo Android virtualizado en el que se puede instalar una aplicación autenticadora
-- Implementar una solución de terceros que aplique MFA para cada usuario del inquilino del asociado que proporcione la opción de comprobación más adecuada
-- Compra de licencias de [Azure ad Premium](https://azure.microsoft.com/pricing/details/active-directory/) para los usuarios afectados
+- Implementar una aplicación de contraseñas de un solo uso y duración definida (TOTP) que se pueda ejecutar en un sistema seguro.
+- Implementar una solución de terceros que aplique MFA a todos los usuarios del inquilino del partner que proporcione la opción de comprobación más adecuada.
+- Comprar licencias de [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) para los usuarios afectados.
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>¿Qué automatización o integración tiene que usa las credenciales de usuario para la autenticación?
+La compatibilidad con el uso de las claves de seguridad de FIDO se encuentra en el plan de desarrollo de las directivas de protección de línea de base. Una vez agregada la compatibilidad, podrá aprovechar las claves de seguridad de FIDO para el segundo factor de autenticación. Hasta entonces, está limitado al uso de la aplicación de autenticación.
 
-Dado que el requisito es aplicar MFA para cada usuario, incluidas las cuentas de servicio, en el directorio de socios comerciales se verá afectada cualquier automatización o integración que aproveche las credenciales de usuario para la autenticación. Por lo tanto, es importante que identifique qué cuentas se usan en estas situaciones. A continuación se muestra una lista de ejemplos de aplicaciones o servicios que se deben tener en cuenta
+#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>¿Qué automatización o integración tienes que aproveche las credenciales de usuario para la autenticación?
 
-- Panel de control usado para aprovisionar recursos en nombre de sus clientes
-- Integración con cualquier plataforma que se utilice para la facturación (en relación con el programa CSP) y soporte técnico a sus clientes.
-- Scripts de PowerShell que usan los módulos AZ, AzureRM, Azure AD, MS online, etc.
+Como el requisito es aplicar MFA a todos los usuarios, incluidas las cuentas de servicio, del directorio de partners cualquier automatización o integración que aproveche las credenciales de usuario para la autenticación se verá afectada. Por tanto, es importante identificar qué cuentas se usan en estas situaciones. A continuación se muestra una lista de ejemplos de aplicaciones o servicios que se deben tener en cuenta
 
-La lista anterior no es completa. Por lo tanto, es importante que realice una evaluación completa de cualquier aplicación o servicio de su entorno que saque provecho de las credenciales de usuario para la autenticación. Para competir con el requisito de MFA, debe implementar las instrucciones en el [marco de modelo de aplicación segura](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) siempre que sea posible. Los siguientes son recursos adicionales que le ayudarán a entender cómo se puede implementar el marco de modelo de aplicación segura
+- Panel de control que se usa usado para aprovisionar recursos en nombre de los clientes
+- Integración con todas las plataformas que se utilicen para la facturación (en relación con el programa CSP) y soporte técnico a los clientes
+- Scripts de PowerShell que usan los módulos Az, AzureRM, Azure AD, MS Online, etc.
 
-- [Ejemplos de .net del centro de Partners](https://github.com/microsoft/partner-center-dotnet-samples) : este repositorio de github contiene ejemplos, desarrollados con .net, que muestran cómo se puede implementar el marco de trabajo de modelo de aplicación segura.
-- [Ejemplos de Java del centro de Partners](https://github.com/microsoft/partner-center-java-samples) : este repositorio de github contiene ejemplos, desarrollados con Java, que muestran cómo se puede implementar el marco de trabajo de modelo de aplicación segura.
-- [Centro de Partners PowerShell: modelo de aplicación seguro](https://docs.microsoft.com/powershell/partnercenter/secure-app-model) . este es un artículo que proporciona detalles sobre cómo implementar el marco de modelo de aplicación segura mediante PowerShell.
-- [Guía de seguridad del centro de Partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) : esta es la comunidad en línea, donde puede obtener información sobre los próximos eventos y formular las preguntas que pueda tener.
+La lista anterior no es completa. Por tanto, es importante que realices una evaluación completa de cualquier aplicación o servicio de tu entorno que aproveche las credenciales de usuario para la autenticación. Para enfrentarse al requisito de MFA, debes implementar las instrucciones del [marco de modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) siempre que sea posible. Los siguientes son recursos adicionales que te ayudarán a saber cómo se puede implementar el marco de modelo de aplicaciones seguras
 
-### <a name="enforcing-mfa-for-all-users"></a>Aplicación de MFA para todos los usuarios
+- [Ejemplos de .NET del Centro de partners](https://github.com/microsoft/partner-center-dotnet-samples): este repositorio de GitHub contiene ejemplos que se han desarrollados mediante .NET y que muestran cómo se puede implementar el marco de modelo de aplicaciones seguras.
+- [Ejemplos de Java del Centro de partners](https://github.com/microsoft/partner-center-java-samples): este repositorio de GitHub contiene ejemplos que se han desarrollados mediante Java y que muestran cómo se puede implementar el marco de modelo de aplicaciones seguras.
+- [Partner Center PowerShell (modelo de aplicaciones seguras)](https://docs.microsoft.com/powershell/partnercenter/secure-app-model): en este artículo se proporcionan datos acerca de cómo implementar el marco de modelo de aplicaciones seguras mediante PowerShell.
+- [Comunidad del grupo de instrucciones de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): esta es una comunidad en línea en la que no solo puedes obtener información acerca de los próximos eventos, sino también realizar todas las preguntas que puedas tener.
 
-En esta sección se explica cómo puede usar las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) para aplicar MFA para cada usuario, incluidas las cuentas de servicio, en el inquilino de asociado. Si tiene previsto usar Azure AD Premium, siga los pasos que se describen [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
+### <a name="enforcing-mfa-for-all-users"></a>Aplicación de MFA a todos los usuarios
+
+En esta sección se explica cómo usar las [directivas de protección de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) para aplicar MFA a todos los usuarios, incluidas las cuentas de servicio, del inquilino del partner. Si planeas usar Azure AD Premium, siga los pasos que se documentan [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
 
 > [!NOTE]
-> Una solución de terceros, que es compatible con Azure AD, puede usarse para aplicar MFA para todos los usuarios, incluidas las cuentas de servicio de. Consulte la documentación del proveedor para obtener más detalles sobre cómo se debe implementar la solución.
+> Se puede usar una solución de terceros, que sea compatible con Azure AD, para aplicar MFA a todos los usuarios, incluidas las cuentas de servicio. Para obtener más detalles acerca de cómo se debe implementar la solución, consulta la documentación del proveedor.
 
-Las directivas de protección de línea de base son un conjunto de directivas predefinidas que ayudan a proteger las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la pulverización de contraseñas, la reproducción y la suplantación de identidad. Las directivas de protección de línea de base están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de línea de base a disposición de todo el mundo para que los clientes y asociados puedan implementar las mejores prácticas de seguridad.
+Las directivas de protección de línea de base son un conjunto de directivas predefinidas que ayudan a proteger las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la difusión de contraseña, la reinyección y la suplantación de identidad. Las directivas de protección de línea de base están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de línea de base a disposición de todo el mundo, con el fin de que tanto los clientes como los partners puedan implementar las mejores prácticas de seguridad.
 
 Las dos directivas de protección de línea de base que deben habilitarse se describen en la tabla siguiente.
 
 |**Directiva**| |
 |-----|-----|
-|**Requerir MFA para administradores**|La habilitación de la Directiva requerir MFA para administradores requiere que los usuarios de los roles de administrador se registren en MFA con la aplicación Authenticator. Una vez completado el registro de MFA, los administradores deberán realizar MFA cada vez que inicien sesión.|
-|**Protección de usuarios finales**|La protección del usuario final es una directiva de protección de base de MFA basada en riesgo que protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren para MFA con la aplicación Authenticator. Los usuarios pueden omitir la solicitud de registro de MFA durante 14 días, tras lo cual se les bloqueará el iniciar sesión hasta que se registren en MFA. Una vez que se haya registrado para MFA, solo se solicitará a los usuarios la MFA durante los intentos de inicio de sesión peligrosos. Las cuentas de usuario en peligro se bloquean hasta que se restablece la contraseña y se descartan los eventos de riesgo.|
+|**Require MFA for admins** (Requerir MFA a los administradores)|La habilitación de la directiva Require MFA for admins (Requerir MFA a los administradores) requiere que los usuarios que tengan roles de administrador se registren en MFA mediante la aplicación de autenticación. Una vez que se complete el registro de MFA, los administradores deberán realizar la autenticación multifactor cada vez que inicien sesión.|
+|**End user protection** (Protección del usuario final)|End user protection (Protección del usuario final) es una directiva de protección de base de MFA basada en el riesgo que protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren para MFA mediante la aplicación de autenticación. Los usuarios pueden hacer caso omiso la solicitud de registro en MFA durante 14 días, pero tras ese periodo se les impedirá iniciar sesión hasta que se registren en MFA. Una vez que se hayan registrado, solo se solicitará a los usuarios la autenticación multifactor en los intentos de inicio de sesión peligrosos. Las cuentas de usuario en peligro se bloquean hasta que se restablece su contraseña y han desaparecido los eventos de riesgo.|
 
-Cuando estas directivas están habilitadas, cada usuario podrá usar Azure MFA con la aplicación Authenticator para la comprobación sin costo adicional.
+Cuando estas directivas están habilitadas, todos los usuarios podrán usar Azure MFA mediante la aplicación de autenticación para realizar la comprobación sin costo adicional.
 
-#### <a name="configure-self-service-password-reset"></a>Configurar el autoservicio de restablecimiento de contraseña
+#### <a name="configure-self-service-password-reset"></a>Configuración del autoservicio de restablecimiento de contraseña
 
-El autoservicio de restablecimiento de contraseña (SSPR) es una característica Azure Active Directory que permite a los usuarios restablecer sus contraseñas sin necesidad de ponerse en contacto con el equipo de soporte técnico. Los usuarios deben registrarse o registrarse para el autoservicio de restablecimiento de contraseña antes de usar el servicio. Durante el registro, el usuario elige uno o varios métodos de autenticación habilitados por su organización.
+El autoservicio de restablecimiento de contraseña (SSPR) es una característica Azure Active Directory que permite a los usuarios restablecer sus contraseñas sin necesidad de ponerse en contacto con el equipo de soporte técnico. Para poder usar el servicio, los usuarios deben registrarse, o estar registrados, en el autoservicio de restablecimiento de contraseña. Durante el registro, el usuario elige uno o varios métodos de autenticación que ha habilitado su organización.
 
-Cuando la Directiva de protección de línea de base de [protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) está habilitada, todas las cuentas de usuario en peligro se bloquearán hasta que se restablezca la contraseña y se hayan descartado los eventos de riesgo. Teniendo en cuenta esto, se recomienda que cada usuario, que es un administrador global, realice lo siguiente para registrarse en SSPR para que no se bloquee.
+Cuando la directiva de protección de línea de base [End user protection](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) (Protección del usuario final) está habilitada, todas las cuentas de usuario que corran peligro se bloquearán hasta que se restablezca su contraseña y hayan descartado los eventos de riesgo. Teniendo esto en cuenta, se recomienda que cada usuario, que sea administrador global, realice las siguientes acciones para registrarse en SSPR, para quedarse bloqueado.
 
-1. Vaya a la [Página de instalación de SSPR](https://aka.ms/ssprsetup)
-2. Escriba su nombre de usuario y contraseña
-3. Configure al menos una de las opciones de comprobaciones que se usarán para comprobar quién es el restablecimiento de la contraseña.  
+1. Vete a la [página de configuración de SSPR](https://aka.ms/ssprsetup).
+2. Escribe tu nombre de usuario y contraseña.
+3. Configura al menos una de las opciones que se usarán para comprobar tu identidad al restablecer la contraseña.  
 
-Cuando una cuenta se ve comprometida, un administrador deberá tomar medidas para restaurar el acceso para el usuario afectado. Consulte los [pasos para desbloquear a un usuario](#recovering-compromised-accounts) para obtener más detalles sobre el proceso de desbloqueo del usuario.
+Cuando una cuenta haya estado en peligro, el administrador deberá tomar las medidas necesarias para restaurar el acceso del usuario afectado. Para obtener más detalles acerca del proceso de desbloqueo de un usuario, consulta los [pasos necesarios para desbloquear a un usuario](#recovering-compromised-accounts).
 
-#### <a name="require-mfa-for-admins"></a>Requerir MFA para administradores
+#### <a name="require-mfa-for-admins"></a>Require MFA for admins (Requerir MFA a los administradores)
 
-La directiva *requerir MFA para la línea de base de administrador* requiere MFA para los siguientes roles de directorio, que se consideran los roles Azure Active Directory con más privilegios:
+La directiva de línea de base*Require MFA for admins* (Requerir MFA a los administradores) requiere MFA para los siguientes roles de directorio, que se consideran los roles Azure Active Directory con más privilegios:
 
 - Administrador global
 - Administrador de SharePoint
@@ -132,43 +134,93 @@ La directiva *requerir MFA para la línea de base de administrador* requiere MFA
 - Administrador de facturación
 - Administrador de usuarios
 
-Al habilitar la Directiva requerir MFA para administradores, se requerirán los nueve roles de administrador anteriores para registrarse en MFA con la aplicación Authenticator. Una vez completado el registro de MFA, los administradores deberán realizar MFA cada vez que inicien sesión.
+Tras la habilitación de la directiva Requerir MFA a los administradores los nueve roles de administrador anteriores tendrán que registrarse en MFA mediante la aplicación de autenticación. Una vez que se complete el registro de MFA, los administradores deberán realizar la autenticación multifactor cada vez que inicien sesión.
 
-Si su organización tiene estas cuentas en uso en scripts o código, considere la posibilidad [](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)de reemplazarlas por identidades administradas.
+Si tu organización tiene estas cuentas en uso en scripts o código, considera la posibilidad de reemplazarlas por [identidades administradas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Para habilitar esta directiva y proteger a los administradores:
 
-1. Inicie sesión en el **Azure portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
-2. Vaya a **Azure Active Directory** > **acceso condicional**.
-3. En la lista de directivas, seleccione **Directiva de línea base: Requerir MFA para administradores**.
-4. Establezca **Habilitar Directiva** para **usar la Directiva inmediatamente**.
-5. Haga clic en **Guardar**.
+1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+2. Vaya a **Azure Active Directory** > **Acceso condicional**.
+3. En la lista de directivas, selecciona **Directiva de línea de base: Requerir MFA a los administradores**.
+4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
+5. Haz clic en **Guardar**.
 
 > [!WARNING]
-> Antes de habilitar esta Directiva, asegúrese de que los usuarios no utilicen protocolos de autenticación heredados. A través de la implementación de esta Directiva, se bloqueará la autenticación heredada.
+> Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Mediante la implementación de esta directiva se bloqueará la autenticación heredada.
 
 > [!IMPORTANT]
-> Existe un problema conocido que afecta a la capacidad de conectarse a Exchange Online PowerShell con privilegios administrativos delegados. Vea el problema conocido de [Exchange Online PowerShell](#exchange-online-powershell) antes de habilitar esta Directiva si usa este módulo de PowerShell.
+> Existe un problema conocido que afecta a la capacidad para conectarse a Exchange Online PowerShell mediante privilegios administrativos delegados. Si usa esta módulo de PowerShell, vea el problema conocido de[Exchange Online PowerShell](#exchange-online-powershell) antes de habilitar esta directiva.
 
-#### <a name="end-user-protection"></a>Protección de usuarios finales
+#### <a name="end-user-protection"></a>End user protection (Protección del usuario final)
 
-La Directiva de línea de base de protección del usuario final protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren en Azure MFA en 14 días. Una vez registrado, solo se solicitará a los usuarios la MFA durante los intentos de inicio de sesión peligrosos. Las cuentas de usuario en peligro se bloquean hasta que el restablecimiento de contraseña y el riesgo se descartan.
+La directiva de línea de base End user protection (Protección del usuario final) protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren para Azure MFA en un plazo máximo de 14 días. Tras el registro solo se solicitará a los usuarios la MFA en los intentos de inicio de sesión peligrosos. Las cuentas de usuario en peligro se bloquean hasta que se restablece la contraseña y el riesgo desaparece.
 
-Directiva de **línea de base de directiva: La protección** de usuarios finales viene preconfigurada y se mostrará en la parte superior cuando vaya a la hoja de acceso condicional en Azure portal.
+La directiva **Directiva de línea de base: End user protection (Protección del usuario final)** viene preconfigurada y se mostrará en la parte superior al desplazarse a la hoja Acceso condicional en Azure Portal.
 
 Para habilitar esta directiva y proteger a los usuarios:
 
-1. Inicie sesión en el **Azure portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
-2. Vaya a **Azure Active Directory** > **acceso condicional**.
-3. En la lista de directivas, seleccione **Directiva de línea base: Protección de usuarios finales (versión**preliminar).
-4. Establezca **Habilitar Directiva** para **usar la Directiva inmediatamente**.
-5. Haga clic en **Guardar**.
+1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+2. Vaya a **Azure Active Directory** > **Acceso condicional**.
+3. En la lista de directivas, selecciona **Directiva de línea de base: End user protection (preview) [Protección del usuario final (versión preliminar)]** .
+4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
+5. Haz clic en **Guardar**.
 
 > [!WARNING]
-> Antes de habilitar esta Directiva, asegúrese de que los usuarios no utilicen protocolos de autenticación heredados. A través de la implementación de esta Directiva, se bloqueará la autenticación heredada.
+> Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Mediante la implementación de esta directiva se bloqueará la autenticación heredada.
 
 > [!IMPORTANT]
-> Hay problemas conocidos que afectan a la capacidad de conectarse a Exchange Online PowerShell con privilegios de administrador delegados. Vea el problema conocido de [Exchange Online PowerShell](#exchange-online-powershell) antes de habilitar esta Directiva si usa este módulo de PowerShell.
+> Existe un problema conocido que afecta a la capacidad para conectarse a Exchange Online PowerShell mediante privilegios administrativos delegados. Si usa esta módulo de PowerShell, vea el problema conocido de[Exchange Online PowerShell](#exchange-online-powershell) antes de habilitar esta directiva.
+
+## <a name="assessing-your-environment"></a>Evaluación del entorno
+
+Mediante uno de los requisitos de seguridad de partner actuales se obliga a aplicar MFA a todos los usuarios del inquilino del partner. Dado que este requisito se puede cumplir mediante varios métodos diferentes, puede resultar difícil de evaluar si se requieren acciones adicionales. Puedes aprovechar herramientas como los registros de auditoría de Azure Active Directory y [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score) para evaluar si se requieren más acciones adicional para proteger el inquilino con la autenticación multifactor. Microsoft está trabajando en una experiencia en el Centro de partners para proporcionar una comprobación rápida del cumplimiento de los requisitos de MFA y del modelo de aplicaciones seguras.
+
+Microsoft Secure Score ofrece visualizaciones sólidas, integración con otros productos de Microsoft, comparación de la puntuación con la de otras empresas, filtrado por categoría y mucho más. Con esta herramienta, puedes completar las acciones de mejora de la seguridad dentro de la organización y realizar un seguimiento del historial de la puntuación. La puntuación también puede reflejar si las soluciones de terceros han realizado las acciones de mejora recomendadas.
+
+![Microsoft Secure Score](images/security/secure-score.png)
+
+> [!NOTE]
+> Las acciones que puedes llevar a cabo para mejorar Microsoft Secure Score pueden tardar hasta 24 horas en reflejarse.
+
+Microsoft Secure Score solo proporcionará una representación numérica de la postura de seguridad. Para saber mejor qué o quién realiza la autenticación sin que sea un desafío para MFA, se recomienda consultar los registros de auditoría de Azure Active Directory. Esto puede realizarse mediante el módulo [ Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) y el siguiente script. Se generará un informe que proporciona información acerca de los intentos de autenticación que se han producido durante el último día en los que no se ha usado MFA.
+
+```powershell
+Login-AzAccount
+$context = Get-AzContext
+
+function Get-SignInEvents
+{
+    param([string]$userId)
+
+    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
+
+    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
+
+    $headers = @{
+    'Authorization' = 'Bearer ' + $token.AccessToken
+    'Content-Type' = 'application/json'
+        'X-Requested-With'= 'XMLHttpRequest'
+        'x-ms-client-request-id'= [guid]::NewGuid()
+        'x-ms-correlation-id' = [guid]::NewGuid()
+    }
+
+    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
+}
+
+$report = $()
+
+Get-AzADUser | foreach {
+    $events = Get-SignInEvents $_.Id
+    $report += $events.Items
+}
+
+$report | Where-Object {$_.mfaRequired -eq $false} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
+```
+
+Después de ejecutar el script anterior, los detalles estarán disponibles en el archivo report. csv. Contendrá una lista de los intentos de autenticación que se han producido a lo largo del día anterior en el que el usuario no usó MFA. Tendrás que revisar cada entrada para determinar si es el comportamiento esperado y actuar, en caso de que sea necesario.
+
+![Informe de evaluación](images/security/assessment-report.png)
 
 ## <a name="common-issues"></a>Problemas comunes
 
@@ -176,50 +228,50 @@ Para habilitar esta directiva y proteger a los usuarios:
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-Después de habilitar las directivas de línea de base, es posible que se produzca una excepción como la siguiente:
+Después de habilitar las directivas de línea de base, es posible que la automatización o la integración encuentren una excepción como la siguiente
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
-La razón de esta excepción es que se está autenticando con las credenciales de usuario y que MFA es ahora necesario. Para solucionar esta excepción, deberá utilizar un token de acceso para la autenticación. Vea la [Guía modelo de aplicación segura](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) para obtener más información.
+La razón de esta excepción es que la autenticación se va a realizar mediante las credenciales del usuario y que se necesita MFA. Para solucionar esta excepción, necesitarás utilizar un token de acceso para la autenticación. Para más información, consulta la [guía del modelo de aplicaciones seguras ](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 >[!IMPORTANT]
->La mayoría de las API modernas y los módulos de PowerShell admiten la posibilidad de utilizar un token de acceso para la autenticación. Sin embargo, hay algunos que actualmente no admiten esta funcionalidad. Si necesita ayuda para determinar si la API o el módulo de PowerShell que está intentando aprovechar admite el uso de un token de acceso para la autenticación, publique un mensaje en la comunidad del [grupo de instrucciones de seguridad del centro de Partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) .
+>La mayoría de las API y los módulos de PowerShell modernos admiten la posibilidad de utilizar un token de acceso para la autenticación. Sin embargo, hay algunos que no la admiten. Si necesitas ayuda para determinar si la API o el módulo de PowerShell que intenta aprovechar admiten el uso de un token de acceso para la autenticación, publica un mensaje en el [grupo de instrucciones de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
 #### <a name="aadsts700082"></a>AADSTS700082
 
-Una vez que haya implementado el marco de trabajo de modelo de aplicación segura, es probable que reciba la siguiente excepción 90 días después de generar el token de actualización inicial.
+Una vez que hayas implementado el marco del modelo de aplicaciones seguras, es probable que recibas la siguiente excepción 90 días después de generar el token de actualización inicial
 
     The refresh token has expired due to inactivity. The token was issued on 2019-01-02T09:19:53.5422744Z and was inactive for 90.00:00:00
 
-Con respecto a Azure Active Directory la duración máxima de un token de actualización es de 90 días. Para solucionar este error, debe generar y almacenar de forma segura un nuevo token de actualización. Tenga en cuenta que es posible actualizar el token de actualización mediante programación, ya que con cada solicitud de Azure Active Directory para un token de acceso se devuelve un nuevo token de actualización. Puede implementar la lógica adecuada para actualizar el token de actualización almacenado de forma segura antes de que expire.
+Con respecto a Azure Active Directory la duración máxima de un token de actualización es de 90 días. Para solucionar este error, debes generar un token de actualización y almacenarlo de forma segura. Ten en cuenta que el token de actualización se puede actualizar mediante programación, ya que cada vez que se solicita un token de acceso a Azure Active Directory se devuelve un nuevo token de actualización. Puedes implementar la lógica apropiada para actualizar el token de actualización almacenado de forma segura antes de que expire.
 
-Consulte [vigencias de los tokens configurables en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) para obtener más información.
+Para más información, consulta [Vigencia de tokens configurable en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 ### <a name="recovering-compromised-accounts"></a>Recuperación de cuentas en peligro
 
-Para ayudar a proteger a nuestros clientes, el servicio de credenciales perdidas de Microsoft busca pares de nombre de usuario y contraseña disponibles públicamente. Si coincide con uno de nuestros usuarios, ayudaremos a proteger esa cuenta inmediatamente. Los usuarios identificados como con una credencial filtrada se confirman en peligro. Se bloqueará el inicio de sesión de estos usuarios hasta que se restablezca la contraseña.
+Para ayudar a proteger a nuestros clientes, el servicio de credenciales filtradas de Microsoft busca pares de nombre de usuario y contraseña disponibles públicamente. Si coinciden con las de cualquiera de nuestros usuarios, te ayudaremos a proteger la cuenta de inmediato. Los usuarios identificados como con una credencial filtrada están en peligro de forma confirmada. y se les bloqueará el inicio de sesión hasta que se restablezca su contraseña.
 
-Los usuarios a los que se ha asignado una licencia de Azure AD Premium pueden restaurar el acceso a través del autoservicio de restablecimiento de contraseña (SSPR) si la capacidad está habilitada en su directorio. Los usuarios sin una licencia Premium que estén bloqueados deben ponerse en contacto con un administrador para realizar un restablecimiento de contraseña manual y descartar el evento de riesgo de usuario marcado.
+Los usuarios a los que se ha asignado una licencia de Azure AD Premium pueden restaurar el acceso a través del autoservicio de restablecimiento de contraseña (SSPR) si la funcionalidad está habilitada en su directorio. Los usuarios sin una licencia Premium que no puedan iniciar sesión porque estén bloqueados deben ponerse en contacto con un administrador para restablecer manualmente la contraseña y descartar el evento de riesgo de usuario marcado.
 
-#### <a name="steps-to-unblock-a-user"></a>Pasos para desbloquear un usuario
+#### <a name="steps-to-unblock-a-user"></a>Pasos para desbloquear a un usuario
 
-Compruebe que el usuario ha sido bloqueado por la Directiva examinando los registros de inicio de sesión del usuario.
+Comprueba que la directiva ha bloqueado al usuario, para lo que debes examinar sus registros de inicio de sesión.
 
-1. Un administrador debe iniciar sesión en el **Azure portal** y navegar a **Azure Active Directory** > **usuarios** > haga clic en el nombre del usuario y navegue hasta inicios de sesión.
-2. Para iniciar el restablecimiento de contraseña en un usuario bloqueado, un administrador debe navegar a **Azure Active Directory** > **usuarios marcados en riesgo** .
-3. Haga clic en el usuario cuya cuenta está bloqueada para ver información acerca de la actividad de inicio de sesión reciente del usuario.
-4. Haga clic en Restablecer contraseña para asignar una contraseña temporal que se debe cambiar en el siguiente inicio de sesión.
-5. Haga clic en descartar todos los eventos para restablecer la puntuación de riesgo del usuario.
+1. Es preciso que un administrador inicie sesión en **Azure Portal**  y que vaya a **Azure Active Directory** > **Usuarios**, que haga clic en el nombre del usuario y que vaya a Inicios de sesión.
+2. Para iniciar el restablecimiento de la contraseña de un usuario bloqueado, el administrador debe ir a **Azure Active Directory** > **Usuarios marcados en riesgo**
+3. Haz clic en el usuario cuya cuenta esté bloqueada para ver información acerca de la actividad de inicio de sesión reciente del usuario.
+4. Haz clic en Restablecer contraseña para asignar una contraseña temporal, que se debe cambiar en el siguiente inicio de sesión.
+5. Haz clic en Descartar todos los eventos para restablecer la puntuación de riesgo del usuario.
 
-Ahora el usuario puede iniciar sesión, restablecer su contraseña y acceder a la aplicación.
+El usuario ya puede iniciar sesión, restablecer su contraseña y acceder a la aplicación.
 
 ## <a name="known-issues"></a>Problemas conocidos
 
-### <a name="exchange-online-powershell"></a>PowerShell en línea de Exchange
+### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-Cuando se aplica MFA, los asociados no podrán usar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones con sus clientes. Consulte [conexión a Exchange Online PowerShell mediante multi-factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) para obtener más información sobre esta limitación.
+Si se aplica MFA, los partners no podrán utilizar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones en sus clientes. Para más información acerca de esta limitación, consulta [Conexión con Exchange Online PowerShell mediante autenticación multifactor](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
 
-Para solucionar esta limitación, puede crear una nueva cuenta y nunca usarla para realizar una autenticación interactiva. Se recomienda aprovechar [Azure ad PowerShell](https://docs.microsoft.com/powershell/module/azuread/) para crear la nueva cuenta y realizar la configuración inicial. Se puede usar el siguiente PowerShell para crear y configurar la cuenta.
+Para solucionar esta limitación, puedes crear una cuenta y no usarla nunca para realizar una autenticación interactiva. Se recomienda aprovechar [Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/) para crear la nueva cuenta y realizar la configuración inicial. El siguiente código de PowerShell se puede usar para crear y configurar la cuenta
 
 ```powershell
 Import-Module AzureAD
@@ -237,11 +289,11 @@ $user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfil
 # Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
 ```
 
-La próxima vez que se conecte a Exchange Online a través de PowerShell use esta cuenta, funcionará según lo esperado.
+La próxima vez que te conectes a Exchange Online mediante PowerShell usa esta cuenta, ya que funcionará como cabría esperar.
 
 > [!IMPORTANT]
-> La capacidad de los asociados de usar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones en sus clientes, cuando se aplica MFA, estará disponible en el futuro. Hasta entonces, debe aprovechar esta solución alternativa.
+> La capacidad de los partners para utilizar sus privilegios administrativos delegados con Exchange Online PowerShell para realizar acciones en sus clientes, cuando se aplique MFA, estará disponible en el futuro. Hasta entonces, debes aprovechar esta solución alternativa.
 
 ## <a name="resources-and-support"></a>Recursos y soporte técnico
 
-A través del [centro de Partners guía de seguridad](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) de la comunidad, puede encontrar recursos adicionales y obtener información sobre próximos eventos, como horas de oficina técnica. Consulte el documento [preguntas](partner-security-requirements-faq.md) más frecuentes para obtener más información sobre los requisitos.
+Mediante la [comunidad del grupo de instrucciones de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance), puedes encontrar más recursos y obtener información acerca de próximos eventos, como el horario del soporte técnico. Para más información acerca de los requisitos, consulta las [preguntas frecuentes](partner-security-requirements-faq.md).

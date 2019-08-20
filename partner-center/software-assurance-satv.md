@@ -1,84 +1,73 @@
 ---
-title: Programa del cupón de aprendizaje de software Assurance (SATV) en el centro de Partners | Centro de Partners
+title: Programa de vales de formación de Software Assurance (SATV) del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 01/16/2019
-description: Inscribirse en el programa de aprendizaje de software Assurance
+ms.date: 07/29/19
+description: Inscripción en el programa de formación de Software Assurance
 author: LauraBrenner
 ms.author: labrenne
-keywords: Cupones de aprendizaje, software Assurance, aprendizaje, inscripción en SATV, SATV
+keywords: training vouchers, software assurance, training, enroll in SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d8ef5ca34a89fa38e6408b40f886d1d049f8ef87
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: 026f5d5f3913a0336be1459580792635306d3514
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820403"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860941"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
-Amplíe su negocio mediante la inscripción en programas de asociados de software Assurance. Microsoft compensa a los asociados para ofrecer aprendizaje, planeamiento y otros servicios a los clientes empresariales que tienen software Assurance. 
+Haz crecer tu negocio mediante la inscripción en programas de partners de Software Assurance. Microsoft compensa a los partners que ofrecen formación, planeamiento y otros servicios a los clientes empresariales que tienen Software Assurance. 
 
-Como asociado de aprendizaje de software Assurance aprobado, Microsoft le compensa por proporcionar aprendizaje técnico a los clientes empresariales de Exchange para los asientos que obtienen con software Assurance. Participar en este programa puede ayudarle a atraer a más clientes y a ser su asociado de aprendizaje de confianza.
+Como partner autorizado de formación de Software Assurance, Microsoft te compensa por proporcionar formación técnica a los clientes empresariales a cambio de los vales que obtienen con Software Assurance. La participación en este programa puede ayudarte a atraer más clientes y a convertirte en su partner de formación de confianza.
 
-Si no está familiarizado con los servicios de aprendizaje de software Assurance, consulte los Justificadores de [aprendizaje de software Assurance](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx) .
+## <a name="get-started"></a>Comenzar
 
-## <a name="get-started"></a>Introducción
+Si no estás familiarizado con los servicios de formación de Software Assurance, sigue todos los pasos que se indican a continuación. Si ya estás activo en el programa de vales de formación, empieza en el paso cuatro (4) que aparece a continuación. 
 
-Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje y la información de su cuenta de socio comercial se ha migrado al centro de Partners, empiece en el paso cuatro (4) a continuación. 
-
-1. Confirmar elegibilidad del programa
-2. Inscribirse en el programa de entrenamiento
-3. Actualizar Perfil de empresa en el directorio de socios comerciales
-4. Reservar el asiento del cliente
-5. Identificar cursos y agregar asistentes
-6. Canjear el vale
-7. Solicitar pago
+1. Confirmación de la idoneidad para el programa
+2. Inscripción en el programa de formación
+3. Confirmación de la idoneidad para el curso
+4. Hacer que el cliente cree y asigne el vale
+5. Validación y reserva del vale del cliente
+6. Impartición de la formación y activación del producto
+7. Canje de vales
+8. Solicitud de pago
 
 En este artículo se explica cómo completar cada paso.
 
-## <a name="confirm-program-eligibility"></a>Confirmar elegibilidad del programa
+## <a name="confirm-program-eligibility"></a>Confirmación de la idoneidad para el programa
 
-Antes de poder inscribirse en el programa SATV, primero debe completar los requisitos de la opción de aprendizaje de Microsoft Partner Network, que reemplaza a la competencia de aprendizaje de Microsoft. Obtenga información sobre cómo empezar a usar la [opción de aprendizaje.](https://partner.microsoft.com/marketing/details/learning-option-enrollment#/)
+Antes de poder inscribirte en el programa SATV, primero debes completar los requisitos de la opción de aprendizaje de Microsoft Partner Network, que reemplaza a la competencia de Microsoft Learning. Conoce los primeros pasos de la [opción de aprendizaje.](https://partner.microsoft.com/marketing/details/learning-option-enrollment#/)
 
-También debe cumplir los siguientes requisitos:
+Puedes comprobar la idoneidad de tu empresa, incluidos los requisitos aplicables de competencia y evaluación, en el Centro de partners. Sigue las instrucciones del paso 1 del flujo de trabajo de SATV para más información y para ver capturas de pantalla.
 
-- Acepte la aceptación de los vales de entrenamiento electrónico con el [precio predeterminado](https://partner.microsoft.com/membership/satv-voucher-pricing).
+## <a name="enroll-in-the-training-program"></a>Inscripción en el programa de formación
 
-- Revise el [contrato del programa Microsoft SATV](https://aka.ms/satv_legal_agreement) y acepte los términos y condiciones. Lo firmará durante la inscripción. 
+Después de comprobar que la empresa cumple los requisitos de idoneidad y que los participantes del programa han aprobado el curso de formación en cumplimiento normativo, ya estás listo para firmar el acuerdo del programa de vales de formación de Software Assurance e inscribirte. Asegúrate de revisar todas las directivas del programa SATV y, a continuación, sigue las instrucciones del paso 2 del flujo de trabajo para completar el proceso de inscripción en SATV en el Centro de partners.   
 
-- Garantizar el cumplimiento de todos los términos y condiciones del contrato de programa de SATV y la opción de aprendizaje actual, mientras que un miembro activo del programa (incluidos, entre otros, las garantías de satisfacción del cliente, los KPI y los requisitos de compra digital de MOC) y SATV [directivas](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)de programas.
 
-- Ser capaz de ofrecer todos los cursos que cumplan los SATV en el catálogo de productos de las [ventajas de aprendizaje de software Assurance](https://aka.ms/SATV_catalog), cuando haya demanda suficiente (lo revisará en el paso 3). [Confirme la elegibilidad de SATV Course](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)).
+## <a name="confirm-course-eligibility"></a>Confirmación de la idoneidad para el curso
+Una vez inscritos en el programa SATV, los partners pueden ofrecer sesiones de formación para cursos aptos para SATV, para los cuales los clientes pueden usar sus vales de formación. Los cursos aptos se enumeran en el catálogo de idoneidad de cursos de SATV. Revisa el paso 3 del flujo de trabajo para comprender qué tipos de cursos son aptos para formar parte del programa SATV.
 
-## <a name="enroll-in-the-training-program"></a>Inscribirse en el programa de entrenamiento
+## <a name="have-customer-create-and-assign-voucher"></a>Hacer que el cliente cree y asigne el vale
 
-Una vez que su empresa cumple los requisitos de idoneidad para un programa de servicios de planeación y los participantes del programa han superado el curso de formación de cumplimiento, está listo para inscribirse. Los pasos finales para inscribirse son completar el requisito de aprendizaje de cumplimiento de SATV y firmar el contrato del programa.  
+Antes de realizar un curso de formación, el cliente debe activar primero su ventaja de SATV y, a continuación, asignarlo a tu organización. Para obtener instrucciones detalladas con capturas de pantalla en las que se muestren los pasos que el cliente debe llevar a cabo para crear un vale y asignarlo, consulta el paso 4 del flujo de trabajo.
 
-## <a name="complete-the-satv-compliance-training"></a>Completar el entrenamiento de cumplimiento de SATV
+## <a name="validate-and-reserve-customer-vouchers"></a>Validación y reserva de vales del cliente
 
-Al menos un profesor de su empresa debe haber completado el curso de formación en línea de SATV Compliance en Partner University.
- 
-1. Si todavía no lo ha hecho, asocie el identificador de MPN a su cuenta de Microsoft. Lea cómo [asociar el identificador de MPN](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf)).
+Ahora puedes reservar y canjear vales y comenzar la formación de los clientes. El administrador de MPN de tu empresa tiene acceso a la herramienta de administración de vales del Centro de partners y puede agregar los usuarios que necesiten trabajar en la herramienta. Para obtener instrucciones sobre la validación y la reserva de los vales, consulta el paso 5 del flujo de trabajo.
 
-2. Siga las instrucciones para [obtener acceso](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf) a la Universidad de asociados por primera vez.
+## <a name="deliver-training-and-activate-product"></a>Impartición de la formación y activación del producto
 
-3. Vaya al [curso de aprendizaje de cumplimiento de SATV](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676) en Partner University (si no puede acceder a este vínculo, asegúrese de que ha completado con precisión los pasos 1 y 2).  
+Una vez que se reserva un vale, puedes impartir la formación al cliente. Consulta el paso 6 del flujo de trabajo para conocer las instrucciones y directrices de participación en la formación para la activación y adquisición de material de aprendizaje oficial de Microsoft, exámenes y vales de certificados de cursos de Microsoft para cursos MOOC.
 
-## <a name="sign-the-agreement"></a>Firmar el contrato
+## <a name="redeem-voucher"></a>Canje de vales
 
-Lea, comprenda y firme el contrato del programa de los vales de [aprendizaje de software Assurance](https://partners.microsoft.com/partnerprogram/Satv.aspx), que describe las directivas de programas y las responsabilidades de los asociados. El administrador global de su empresa puede firmar el contrato 24 horas después de completar el requisito de aprendizaje de cumplimiento de SATV.
+Una vez completada la formación, debes canjear el vale. Sigue las instrucciones del paso 7 del flujo de trabajo para asegurarte de que se cumplen todos los requisitos para que puedas solicitar el pago. 
 
-Los sistemas tardan hasta 24 horas en reflejar que está inscrito activamente en el programa SATV. 
 
-## <a name="reserve-and-redeem-training-vouchers"></a>Reservar y canjear vales de aprendizaje
+## <a name="request-payment-from-microsoft"></a>Solicitud de pago de Microsoft
 
-Ahora puede reservar y canjear vales y comenzar a entrenar a los clientes. El administrador de MPN de su empresa tiene acceso a la herramienta de validación y canje de vales (VVR) en el centro de Partners y puede Agregar usuarios que necesitan trabajar en la herramienta. Para obtener más información sobre VVR, consulte [Administración de vales en la herramienta validación y canje del vale](voucher-validation-tool.md).
+Los pagos se controlan a través de la herramienta de pago en línea de la ventaja de vales de formación de Software Assurance (SAVB). Sigue las instrucciones del paso 8 del flujo de trabajo para enviar una factura a Microsoft mediante SAVB. 
 
->[!Note]
->La herramienta VVR se ha pasado al centro de Partners. A partir del 2019 de marzo, se retirará el sitio anterior de la herramienta VVR.
-
-## <a name="request-payment-from-microsoft"></a>Solicitar el pago de Microsoft
-
-Los pagos se controlan a través de la herramienta de pago en línea del beneficio del vale de software Assurance (SAVB).  Obtenga información sobre cómo [enviar una factura a Microsoft a través de SAVB](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx).
-
-Para obtener más información, lea las [preguntas más frecuentes](vvr-faq.md).
+Para más información, consulta [Preguntas más frecuentes](vvr-faq.md).
