@@ -4,6 +4,8 @@
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
 ## [Cómo obtener un correo electrónico del trabajo](buy-email-domain.md)
 ## El [Centro de administración de partners se traslada al Centro de partners](pac-to-pc-overview.md)
+### [Traslado del Centro de administración de partners (PAC) al Centro de partners](moving-from-pac-to-pc.md)
+## [Partners del Centro de administración de partners de Office 365: vuestras operaciones empresariales se van a trasladar al Centro de partners](o365-partner-admin-center-to-partner-center.md)
 ## Traslado desde Partner Membership Center al Centro de partners
 ### [Preparación para el cambio desde Partner Membership Center al Centro de partners](prepare-pmc-pc-migration.md)
 ### [Guía sobre el cambio de PMC al Centro de partners](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [Servicios de planeación de Software Assurance del Centro de partners](software-assurance-dps.md)
 ## Facturas e impuestos
 ### [Facturas e impuestos en Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+## [Versión de prueba de las nuevas características](test-drive-new-features.md)
 
 
 # [Proveedor de soluciones en la nube](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [Requisitos básicos para reclamaciones de incentivos](core-requirements.md)
 ### [Información acerca de los pagos por incentivos](understand-incentive-payouts.md)
 ### [Envío de reclamaciones de OSA al Centro de partners](submit-osa-claim.md)
+### [Búsqueda del nombre de dominio y el identificador de directorio de su cliente para una reclamación de incentivos](find-customer-domain-name.md)
 
 
 # [Facturación e impuestos](billing.md)
@@ -100,6 +104,7 @@
 ## [Quitar una relación de revendedor con un cliente](remove-a-relationship.md)
 ## [Los clientes delegan o revocan privilegios administrativos en los asociados](customers_revoke_admin_privileges.md) 
 ## [Consultar la lista de clientes](see-your-customer-list.md)
+## [Ver los registros de actividades de los clientes](activity-logs.md)
 ## [Actualizar la información de la cuenta de cliente](update-customer-account-info.md)
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
