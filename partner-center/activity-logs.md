@@ -1,19 +1,19 @@
 ---
 title: Ver los registros de actividades de los clientes | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
-description: Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.
+ms.date: 08/23/2019
+description: Los registros de actividad proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: los registros de actividad, suscripción, suscripciones, los pagos, facturación, las transacciones
+Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 4cfbbf48122de87d5e3b650862ab83d0ee27ff04
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134505"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993955"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
@@ -21,29 +21,29 @@ ms.locfileid: "62134505"
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
--  
 
 
 Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes. Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas. También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.
 
 Los registros de actividades proporcionan registros respecto a las acciones de los partners en las cuentas de los clientes y las transacciones de productos. También puedes exportar los registros de actividades a un archivo .csv.
 
-**Ver y exportar registros de actividad**
+**Ver y exportar los registros de actividad**
 
-1.  Desde el **centro de partners** menú, seleccione **registro de actividad**.
+1.  En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.
 2.  Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.
 
     Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.
 
     Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada. Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.
 
-3.  Selecciona **Registro de exportaciones** para copiar los datos de suscripción del cliente a un archivo .csv y descargarlo a la carpeta de descarga predeterminada de tu equipo. Las columnas de datos incluyen lo siguiente:
+3.   Las columnas de datos del registro incluyen lo siguiente:
+    -   **Fecha y hora**: la fecha y hora de la acción.
     -   **Cliente afectado**: El nombre de la compañía del cliente.
-    -   **Acción**: El nombre del producto de la suscripción.
-    -   **Usuario de partner**: El usuario asociado con la actividad.
-    -   **Estado**: Proporciona los datos asociados con la actividad, como un Id. de pedido. Variará en función del tipo de la acción.
-    -   **Información adicional**: Los datos de transacción referentes al registro de actividades. Por ejemplo, si la acción es un pedido de cliente, este campo muestra el contenido de la compra.
+    -   **Acción**: la acción realizada por el cliente, como "creó una referencia".
+    -   **Usuario asociado**: el partner asociado con la actividad.
 
+4.  Selecciona **Exportar registro** para copiar los datos de suscripción del cliente en un archivo .csv y descargarlo en la carpeta de descarga predeterminada de tu equipo.
+    
  
 
  
