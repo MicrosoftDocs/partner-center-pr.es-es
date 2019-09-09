@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
-ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69999660"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259927"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Cambio de PMC al Centro de partners
 
@@ -59,6 +59,12 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 |Las competencias y beneficios se distribuían y dividían entre varias ubicaciones.|Las competencias y beneficios de todas tus ubicaciones se consolidan en el nivel de compañía (PGA) y se conservarán hasta la fecha del aniversario. En ese momento, tendrás que comprar o renovar en el nivel de la compañía. El rendimiento y la cualificación, así como las competencias, se agregan globalmente.|
 |Las notificaciones de los cupones de Software Assurance se realizan en la herramienta de validación y canje de cupones (VVR).|Ahora puedes acceder y administrar los cupones de formación de Software Assurance (SATV) o los servicios de planeación implementados (DPS) en el Centro de partners.  La herramienta VVR heredada se retirará el 1 de octubre de 2019.  |
 
+## <a name="associating-mcp-ids-to-partner-center"></a>Asociación de identificadores de MCP al Centro de partners
+
+|**PMC**   |**Centro de partners**   |
+|-------------------------|:-------------------|
+|Puedes asociar el mismo identificador de MCP a varias empresas.| Solo se puede asociar un identificador de MCP a una sola cuenta del Centro de partners. Debes realizar la asociación manualmente. En el panel del Centro de partners, selecciona el icono de **Tu cuenta** en la esquina derecha del panel y, a continuación, selecciona **Mi perfil**. En **Your learning** (Tu aprendizaje), podrás asociar tu cuenta de Microsoft Learning y conectar tu cuenta de Microsoft a Partner University.
+
 ## <a name="visual-studio-benefits-and-msa"></a>Beneficios de Visual Studio y MSA
 
 |**PMC**   |**Centro de partners**   |
@@ -78,8 +84,8 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 |Herramienta de validación y canje de vales| Herramienta de validación y canje de vales|
 |           |Programas de Proveedor de soluciones en la nube|
 
-Sí. Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. Sin embargo, si quitas una asignación de MSA una vez migrada al Centro de partners, no se puede volver a agregar al Centro de partners.
+Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. Sin embargo, si quitas una asignación de MSA una vez migrada al Centro de partners, no se puede volver a agregar al Centro de partners.
 
-En el Centro de partners, un partner puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el partner es administrador de MPN en el inquilino de Azure AD. Si el partner es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del Centro de partners, se permite que el partner agregue usuarios de todos estos inquilinos a los beneficios de Visual Studio y asignaciones basadas en el uso de Azure.
+En el Centro de partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el partner es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del Centro de partners, se permite que el partner agregue usuarios de todos estos inquilinos a los beneficios de Visual Studio y asignaciones basadas en el uso de Azure.
 
 Aunque a los usuarios invitados se les pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el Centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.

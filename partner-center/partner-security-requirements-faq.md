@@ -1,18 +1,18 @@
 ---
 title: Preguntas más frecuentes sobre los requisitos de seguridad para partners | Centro de partners
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: Preguntas más frecuentes sobre los requisitos de seguridad para partners
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020544"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215654"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
@@ -85,8 +85,8 @@ Todos los partners del programa CSP (factura directa, proveedor indirecto y reve
 
     - Los proveedores indirectos deben trabajar con los revendedores indirectos para incorporarlos al Centro de partners, si aún no lo han hecho, y animar a sus revendedores a que cumplan los requisitos.
     - Azure MFA se ha puesto a disposición de todos los usuarios del inquilino de partner sin coste alguno a través de las directivas de base de referencia con el único método de comprobación del uso de la [aplicación Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
-    - Están disponibles métodos de comprobación adicionales a través de las SKU de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), si se requieren otros métodos como SMS o correo electrónico.
-    - Los partners también pueden utilizar una solución de MFA de terceros por cada usuario al acceder a los servicios en la nube comerciales de Microsoft.
+    - Existen métodos de comprobación adicionales a través de las SKU de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), si se requieren otros métodos, como una llamada telefónica o un mensaje de texto.
+    - Los asociados también pueden utilizar una solución de MFA de terceros para cada cuenta al acceder a los servicios en la nube comerciales de Microsoft.
 
 2. **Adoptar el marco de modelo de aplicaciones seguras**
 
@@ -94,10 +94,10 @@ Todos los partners del programa CSP (factura directa, proveedor indirecto y reve
 
     - [Información general sobre el modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [Centro de partners: guía del modelo de aplicaciones seguras](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Documento de autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     Si usas un panel de control, debes consultar al proveedor sobre la adopción del marco de modelo de aplicaciones seguras.
 
@@ -122,7 +122,7 @@ Las [directivas de protección de base de referencia](https://docs.microsoft.com
 
 ### <a name="what-baseline-policies-must-i-enable"></a>¿Qué directivas de base de referencia tengo que habilitar?
 
-Si tienes previsto emplear las directivas de protección de base de referencia actuales para proporcionar MFA a cada usuario en el inquilino de partner, debes habilitar las directivas de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Estas directivas de protección de base de referencia satisfacen el requisito de MFA para cada usuario del inquilino de partner sin coste alguno solo para los partners que usan aplicaciones de Microsoft Authenticator a través de dispositivos móviles.
+Si tienes previsto emplear las directivas de protección de base de referencia actuales para proporcionar MFA a cada usuario en el inquilino de partner, debes habilitar las directivas de base de referencia [Requerir MFA a los administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Estas directivas de protección de base de referencia satisfacen el requisito de MFA para cada usuario del inquilino de partner sin coste alguno solo para los partners que usan aplicaciones de Microsoft Authenticator a través de dispositivos móviles.
 
 La directiva de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) se usa para los usuarios administrativos en el directorio de partners y la directiva de base de referencia [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) se usa para proteger a los usuarios no administrativos del inquilino de partner. La habilitación de estas directivas requerirá que los usuarios se registren para MFA. Una vez que el usuario se haya registrado correctamente, se le pedirá el MFA durante los intentos de inicio de sesión en función de los criterios de la directiva. La funcionalidad proporcionada por las directivas de base de referencia continuará evolucionando para garantizar que los partners y los clientes estén protegidos frente a las amenazas de seguridad en constante cambio. Por lo tanto, es importante que revises la [documentación de las directivas de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) para obtener más información.
 
@@ -246,10 +246,10 @@ Todos los partners que hayan desarrollado una integración personalizada con cua
 
 - [Información general sobre el modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Centro de partners: guía del modelo de aplicaciones seguras](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Documento de autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 Si usas un panel de control, debes consultar al proveedor sobre la adopción del marco de modelo de aplicaciones seguras.
 
@@ -333,10 +333,10 @@ No, los partners de proveedor de panel de control no pueden utilizar el estilo d
 
 - [Información general sobre el modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [Centro de partners: guía del modelo de aplicaciones seguras](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [Partners del programa CSP: código de ejemplo .NET para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [Partners del programa CSP: código Java de ejemplo para habilitar el modelo de aplicaciones seguras](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Documento de autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>Soporte
 
@@ -353,6 +353,10 @@ Para que los recursos de soporte técnico cumplan los requisitos de seguridad, s
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>¿Cómo obtengo información técnica y soporte técnico que me ayude a adoptar el marco del modelo de aplicaciones seguras?
 
 Las opciones de soporte técnico de productos para Azure Active Directory están disponibles a través de los beneficios de MPN. Los asociados con acceso a una suscripción activa a ASfP o PSfP pueden trabajar con su administrador de cuentas asociado (SAM/TAM) para comprender mejor las opciones disponibles para ellos.
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>¿Cómo puedo ponerme en contacto con el soporte técnico si he perdido el acceso al Centro de partners?
+
+Ve a [Soporte técnico de partners de Microsoft](https://partner.microsoft.com/support) y elige **Show all support options** (Mostrar todas las opciones de soporte técnico). Verás las opciones disponibles para ponerte en contacto con el soporte técnico de partners de Microsoft. Incluyen un número de teléfono para llamar al soporte técnico y una opción para chatear con el soporte técnico. 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>¿Dónde puedo encontrar más información sobre los problemas técnicos comunes?
 
