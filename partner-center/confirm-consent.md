@@ -9,7 +9,7 @@ keywords: cliente, clientes, consentimiento, MCA, contrato de Microsoft Cloud, p
 ms.localizationpriority: medium
 ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820518"

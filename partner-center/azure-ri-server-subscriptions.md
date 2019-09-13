@@ -9,7 +9,7 @@ keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
 ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820332"
