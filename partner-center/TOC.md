@@ -171,6 +171,7 @@
 # Seguridad
 ## [Requisitos de seguridad para asociados](partner-security-requirements.md)
 ## [Preguntas más frecuentes sobre requisitos de seguridad para asociados](partner-security-requirements-faq.md)
+## [Estado de cumplimiento de seguridad para asociados](partner-security-compliance.md)
 
 # Tutoriales
 ## [Implementación de los requisitos de seguridad para asociados](tutorials/partner-security-requirements.yml)
