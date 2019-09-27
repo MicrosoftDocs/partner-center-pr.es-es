@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: Comienza aquí para obtener ayuda con el Centro de partners
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: El Centro de partners puede ayudarle a hacer crecer su negocio en el programa Proveedor de soluciones en la nube (CSP) de Microsoft. Configure su cuenta, conéctese con clientes, compre una suscripción a Action Pack y obtenga más información para asociados de los programas CSP y MPN. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035518"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318883"
 ---
 # <a name="welcome-to-partner-center"></a>Bienvenido al Centro de partners
 
@@ -87,7 +87,7 @@ El Centro de partners de Microsoft es una ubicación única que le permite admin
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>Cambio de PMC a PC</h3>
-                        <p>Obtén información sobre cómo preparar la empresa para el cambio al Centro de partners</p></a>
+                        <p>Preparación de la empresa para el cambio al Centro de partners</p></a>
                     </div>
                 </div>
             </div>
