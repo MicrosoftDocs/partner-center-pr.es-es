@@ -28,7 +28,6 @@
 ### [Facturas e impuestos en Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Versión de prueba de las nuevas características](test-drive-new-features.md)
 
-
 # [Proveedor de soluciones en la nube](csp-overview.md)
 ## [Inscribirse en el programa Proveedor de soluciones en la nube](enrolling-in-the-csp-program.md)
 ## [Asociados del Microsoft Partner Agreement para CSP](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Mercados y monedas regionales del CSP](regional-authorization-overview.md)
 ## [Confirmación de la aceptación del cliente del Contrato de Microsoft Cloud](confirm-consent.md)
 ## [Confirmación de la aceptación del cliente del Contrato de cliente de Microsoft (versión preliminar)](confirm-customer-agreement.md)
-
 
 ## [Se aplican para vender en nubes nacionales](csp-national-clouds-overview.md)
 ### [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Información acerca de los pagos por incentivos](understand-incentive-payouts.md)
 ### [Envío de reclamaciones de OSA al Centro de partners](submit-osa-claim.md)
 ### [Búsqueda del nombre de dominio y el identificador de directorio de su cliente para una reclamación de incentivos](find-customer-domain-name.md)
-
 
 # [Facturación e impuestos](billing.md)
 ## [Preguntas frecuentes sobre facturación](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Autoservicio de asistencia al cliente](customer-self-support.md)
 ## [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md)
 
-# Seguridad
-## [Requisitos de seguridad para asociados](partner-security-requirements.md)
-## [Preguntas más frecuentes sobre requisitos de seguridad para asociados](partner-security-requirements-faq.md)
-## [Estado de cumplimiento de seguridad para asociados](partner-security-compliance.md)
+# Requisitos de seguridad
+## [Introducción](partner-security-requirements.md)
+## [Estado de cumplimiento](partner-security-compliance.md)
+## [Preguntas más frecuentes](partner-security-requirements-faq.md)
 
 # Tutoriales
 ## [Implementación de los requisitos de seguridad para asociados](tutorials/partner-security-requirements.yml)
