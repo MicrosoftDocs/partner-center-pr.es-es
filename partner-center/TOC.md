@@ -78,7 +78,7 @@
 ## [Reclamaciones de incentivos](claims-overview.md)
 ### [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos para reclamaciones de incentivos](core-requirements.md)
-### [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)
+### [Información acerca de los pagos](incentives-unified-user-guide.md)
 ### [Información acerca de los pagos por incentivos](understand-incentive-payouts.md)
 ### [Envío de reclamaciones de OSA al Centro de partners](submit-osa-claim.md)
 ### [Búsqueda del nombre de dominio y el identificador de directorio de su cliente para una reclamación de incentivos](find-customer-domain-name.md)
