@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313947"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425213"
 items:
 - title: Introducción
   durationInMinutes: 5
@@ -94,11 +94,6 @@ items:
     > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulta el artículo [Procedimientos para: Bloqueo de la autenticación heredada en Azure AD con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
 
 
-    > [!IMPORTANT]
-
-    > Existe un problema conocido que afecta a tu capacidad para utilizar los privilegios administrativos delegados para conectarte a Exchange Online PowerShell cuando se aplica MFA. Consulta [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) para obtener más información.
-
-
     Una vez que hayas habilitado la directiva de línea de base *Requerir MFA a los administradores*, los usuarios que sean miembros de los roles de administrador anteriores disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios afectados por esta directiva
 
       ![Solicitud de más información](../images/security/baseline-require-more-info.png)
@@ -138,11 +133,6 @@ items:
     > [!WARNING]
 
     > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulta el artículo [Procedimientos para: Bloqueo de la autenticación heredada en Azure AD con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
-
-
-    > [!IMPORTANT]
-
-    > Existe un problema conocido que afecta a tu capacidad para utilizar los privilegios administrativos delegados para conectarte a Exchange Online PowerShell cuando se aplica MFA. Consulta [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) para obtener más información.
 
 
     Una vez que hayas habilitado la directiva de línea de base *Protección del usuario final*, todos los usuarios disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios
