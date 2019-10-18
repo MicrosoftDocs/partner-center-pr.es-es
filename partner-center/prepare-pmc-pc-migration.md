@@ -6,12 +6,12 @@ description: Aspectos que se deben tener en cuenta antes de trasladar su negocio
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
+ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820572"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "71060502"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepárese para pasar del centro de afiliación del asociado (PMC) al centro de Partners
 
@@ -26,14 +26,19 @@ Una cuenta profesional de Azure es una representación virtual dedicada y aislad
 Su cuenta profesional hospeda su Azure AD usuarios y la información sobre ellos: su correo electrónico, contraseñas, datos de perfil, permisos, etc. La cuenta profesional también contiene grupos, aplicaciones y otra información relativa a una empresa y su seguridad. Para obtener más información, vea...
 
 En el centro de Partners, usará el correo electrónico del trabajo para iniciar sesión en su cuenta, no su correo electrónico personal.
-- Su cuenta profesional:john@contoso.com
-- Tu cuenta personal:John@outlook.com
+- Su cuenta profesional: john@contoso.com
+- Tu cuenta personal: John@outlook.com
 
 El correo electrónico de trabajo forma parte del inquilino de Azure Active Directory. Para tener una cuenta en el centro de Partners, debe tener un inquilino de AAD. Para obtener más información sobre Azure Active Directory, lea [crear el directorio en Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Al pasar al centro de Partners desde PMC, ¿qué cuenta debe iniciar sesión en el centro de Partners con si tiene un inquilino de AAD con Microsoft (por ejemplo, para Office 365) y también tiene un inquilino para su negocio de CSP?**
 
 Puede iniciar sesión en el centro de Partners con la cuenta de CSP o la cuenta de correo electrónico del trabajo de MPN. Si elige iniciar sesión con el correo electrónico de trabajo de CSP, el panel de navegación izquierdo en el panel mostrará la información de los programas MPN y CSP. Si inicia sesión con el correo electrónico de trabajo del inquilino de MPN Azure AD, solo verá la información del programa MPN. Los roles de usuario difieren entre MPN y CSP, por lo que si usa la misma cuenta para el negocio de MPN y CSP, asegúrese de asignar roles de usuario en consecuencia. Para obtener información sobre los roles de usuario, consulte [asignar roles de usuario y permisos](permissions-overview.md).
+
+**Si no desea usar el inquilino existente de Office 365 Azure AD para el centro de Partners, puede crear un nuevo inquilino antes de la migración desde PMC.**
+
+Puede haber muchas razones por las que no desee usar un inquilino de Azure AD existente para configurar la cuenta del centro de Partners. Antes de empezar a migrar al centro de Partners, vaya a la [Azure portal](https://ms.portal.azure.com/#home) para crear un nuevo inquilino de Azure ad. Siga las instrucciones de [creación de un nuevo inquilino en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Una vez que haya creado el nuevo inquilino, use este inquilino de AAD para configurar la cuenta del centro de Partners al pasar de PMC al centro de Partners. Debe ser un administrador global para crear el inquilino. Use este nuevo directorio para migrar al centro de Partners.
+
 
 **¿Cuál es la diferencia entre el rol de administrador global de AAD y el rol de administrador global de PMC MPN?**
 
@@ -122,11 +127,11 @@ Sí, Compentencies no se verá afectado por el traslado al centro de Partners. S
  **¿Se respetan las cuentas de Microsoft con las asignaciones de ventajas de Visual Studio?**
 
 
- Sí. Las ventajas de Visual Studio asignadas a MSAs se respetarán y se conservarán. También se conservarán después de la renovación en el centro de Partners. Sin embargo, si quita una asignación de MSA una vez migrada en el centro de Partners, no se puede volver a agregar al centro de Partners.
+ Sí. Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. Sin embargo, si quitas una asignación de MSA una vez migrada al Centro de partners, no se puede volver a agregar al Centro de partners.
 
-En el centro de Partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el asociado es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del centro de Partners, se permite que el asociado Agregue usuarios en todos estos inquilinos a las ventajas de Visual Studio y a las asignaciones basadas en el uso de Azure.
+En el Centro de partners, un partner puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el partner es administrador de MPN en el inquilino de Azure AD. Si el partner es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del Centro de partners, se permite que el partner agregue usuarios de todos estos inquilinos a los beneficios de Visual Studio y asignaciones basadas en el uso de Azure.
 
-Aunque los usuarios invitados pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus ventajas asignadas.
+Aunque a los usuarios invitados se les pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el Centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.
 
 
  **¿Cómo se debe administrar nuestras asociaciones de MCP y el acceso a la Universidad de asociados?**

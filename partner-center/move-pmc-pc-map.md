@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259927"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921474"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Cambio de PMC al Centro de partners
 
 Para que sea más fácil hacer negocios con nosotros, presentamos un único sitio web (Centro de partners) que sirve como punto central de las interacciones. Verás que todo lo que hacías en Partner Membership Center (PMC) se puede realizar en el panel del Centro de partners. 
 
-También puedes hacer mucho más y sin tener que salir de un solo sitio web. No obstante, algunas de las características y terminología pueden ser diferentes. Para reducir las dudas iniciales sobre qué hay y dónde, date un paseo por el sitio del panel.
+También puedes hacer mucho más y sin tener que salir de un solo sitio web. No obstante, algunas de las características y terminología pueden ser diferentes. Para mitigar cualquier preocupación inicial sobre dónde y qué son las cosas, asegúrese de seguir el paseo por el sitio del panel.
 
 En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de partners.
 
@@ -34,7 +34,7 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 |----------------------|:-----------------------------|
 |Oficina central más ubicaciones: cada una se evaluada por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](https://docs.microsoft.com/partner-center/account-structure.md).|
 
-## <a name="sign-in"></a>Iniciar sesión
+## <a name="sign-in"></a>Inicia sesión
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|

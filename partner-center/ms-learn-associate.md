@@ -1,26 +1,26 @@
 ---
-title: Asociar su Microsoft Obtenga información de ID de MCP a su cuenta de centro de partners | Centro de partners
+title: Asocie su identificador de Microsoft Learn MCP a su cuenta del centro de Partners | Centro de Partners
 ms.topic: article
-ms.date: 07/08/2019
-description: Cuando se le da una cuenta en el centro de partners, deberá actualizar su perfil asociando su ID. MCP
+ms.date: 10/04/2019
+description: Cuando tenga una cuenta en el centro de Partners, deberá actualizar el perfil asociando el identificador de MCP.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: Adición de los roles, permisos, usuarios, asignar roles, administración, agente, Id. de MCP, Microsoft Learn
+Keywords: roles, permisos, agregar usuario, asignar rol, administrador, agente, identificador de MCP, Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: e3e339e5d19e7abacce2993f1bf11602774c9b9c
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 46f0efc83736d80265620304cf9b07e63d8b5213
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67675335"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997749"
 ---
-## <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Asociar su cuenta de Microsoft Learn en el centro de partners
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Asociar su cuenta de Microsoft Learn en el centro de Partners
 
-En orden para su empresa para poder ver el entrenamiento y las rutas de aprendizaje que ha tomado hacia competencias, deberá asociar su ID de MCP a su cuenta de centro de partners. Hacerlo manualmente después de haber agregado como un usuario del centro de partners.
+Para que su empresa pueda ver las rutas de aprendizaje y aprendizaje que ha tomado hacia las competencias, debe asociar el identificador de MCP a su cuenta del centro de Partners. Esto se realiza manualmente una vez que se ha agregado como usuario del centro de Partners.
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Cómo asociar el identificador de MCP a su cuenta de centro de partners
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Cómo asociar el identificador de MCP a su cuenta del centro de Partners
 
-1. En el panel del centro de partners, seleccione el **su cuenta** icono en la esquina derecha del panel y, a continuación, seleccione **mi perfil**.
+1. En el panel del Centro de partners, selecciona el icono de **Tu cuenta** en la esquina derecha del panel y, a continuación, selecciona **Mi perfil**.
 
-2. En **su aprendizaje** podrá asociar su cuenta de Microsoft Learning y también conectar su cuenta de Microsoft Partner University.
+2. En **Your learning** (Tu aprendizaje), podrás asociar tu cuenta de Microsoft Learning y conectar tu cuenta de Microsoft a Partner University.

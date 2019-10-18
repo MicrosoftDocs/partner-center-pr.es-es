@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820568"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931580"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -33,9 +33,9 @@ En ocasiones, es posible que el archivo de conciliación tenga problemas de form
 
 <li>En el asistente convertir texto en columnas, seleccione <strong>delimitado tipo de archivo</strong>y, a continuación, seleccione <strong>siguiente</strong>.</li> 
 
-<li>En el campo delimitadores, seleccione <strong>coma</strong>. Si la <strong>pestaña</strong> ya está seleccionada, puede dejarla. Seleccione <strong>Next</strong> (Siguiente).</li>
+<li>En el campo delimitadores, seleccione <strong>coma</strong>. Si la <strong>pestaña</strong> ya está seleccionada, puede dejarla. Selecciona <strong>Siguiente</strong>.</li>
 
-<li>En el campo formato de datos de columna <strong>, seleccione fecha: MDA</strong>y, a continuación, seleccione <strong>siguiente</strong>.</li> 
+<li>En el campo formato de datos de columna, seleccione <strong>Fecha: MDA</strong>y, a continuación, seleccione <strong>siguiente</strong>.</li> 
 
 <li>En el campo formato de datos de columna, seleccione <strong>texto</strong> para todas las columnas de cantidad y, a continuación, seleccione <strong>Finalizar</strong>.</li>
 </ol>
@@ -126,13 +126,13 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <tr class="odd">
 <td>OfferID</td>
 <td><p>Identificador único de la oferta. Identificador de la oferta estándar según la lista de precios.</p>
-<p><b>Nota</b>: Este valor no coincide con el identificador de la oferta de la lista de precios. Consulta DurableOfferID a continuación.</p></td>
+<p><b>Nota</b>: este valor no coincide con el id. de oferta de la lista de precios. Consulta DurableOfferID a continuación.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Identificador único de oferta duradera, según se define en la lista de precios.</p>
-<p><b>Nota</b>: Este valor coincide con el identificador de la oferta de la lista de precios.</p></td>
+<td><p>Id. de oferta duradera único, según se define en la lista de precios.</p>
+<p><b>Nota</b>: este valor coincide con el id. de oferta de la lista de precios.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>La fecha de finalización de la suscripción: 12 meses + x días después de la fecha de inicio (para alinear con la fecha de facturación del socio) o 12 meses a partir de la fecha de renovación.</p>
+<td><p>La fecha de finalización de la suscripción: 12 meses + x días después de la fecha de inicio (para que se alinee con la fecha de facturación del partner) o 12 meses a partir de la fecha de renovación.</p>
 <p>En el momento de la renovación, los precios se actualizan según la lista de precios actual. Es posible que se necesite una comunicación con el cliente antes de la renovación automatizada.</p>
 <p>La hora siempre corresponde al comienzo del día, 0:00.</p></td>
 <td>1/2/2015 0:00</td>
@@ -208,7 +208,7 @@ Para conciliar los cargos en función de los pedidos del cliente, compara el Syn
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Currency</td>
+<td>Moneda</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
@@ -352,7 +352,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
-<td>Nombre de recurso</td>
+<td>Nombre del recurso</td>
 <td><p>Nombre del recurso de Azure.</p></td>
 <td><ul>
 <li>Transferencia entrante de datos (GB)</li>
@@ -360,7 +360,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
+<td>Región</td>
 <td><p>La región a la que se aplica el uso. Se usa principalmente para asignar tarifas a las transferencias de datos, ya que las tarifas varían según la región.</p></td>
 <td>Asia Pacífico, Europa, América Latina, América del Norte</td>
 </tr>
@@ -412,7 +412,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>0\.93 USD</td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
+<td>Moneda</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 <td>EUR</td>
 </tr>
@@ -444,7 +444,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>MeteredRegion</td>
 <td><p>Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena.</p></td>
-<td>Asia oriental, Sur asiático, Norte de Europa, Europa occidental, Norte central de EE. UU., Sur central de EE. UU.</td>
+<td>Asia Oriental, Asia Suroriental, Norte de Europa, Europa Occidental, Centro-norte de EE. UU., Centro-sur de EE. UU.</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
@@ -464,7 +464,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Número de conexiones de Bus de servicio aprovisionadas y usadas en un día determinado.</p></td>
-<td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tiene un 25 paquete de conexiones de ServiceBus aprovisionadas y ha utilizado 1 durante ese día, la instrucción de uso diario de ese día indicaría "25 conexiones/30 días — usado: 1,000000 ".</td>
+<td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tenías un paquete de 25 de conexiones de Bus de servicio aprovisionadas y utilizaste 1 durante ese día, la declaración de uso diario de ese día sería "25 conexiones/30 días. Utilizadas: 1,000000".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -498,7 +498,6 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 </thead>
 <tbody>
-
 
 <tr class="odd">
 <td>PartnerId</td>
@@ -591,7 +590,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Id. de suscripción</td>
+<td>Id. de la suscripción</td>
 <td><p>Identificador único de una suscripción en la plataforma de comercio de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
 </tr>
 
@@ -656,7 +655,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>Currency</td>
+<td>Moneda</td>
 <td><p>Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Comprueba que coincide con la primera factura y repite la comprobación tras cualquier actualización importante de la plataforma de facturación.</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>AlternateID</td>
 <td><p>Un identificador alternativo a un identificador de pedido.</p></td>
 </tr>
+
+<tr class="even">
+<td>BillingFrequency</td>
+<td><p> Muestra mensualmente cuando se habilita la facturación mensual. En caso contrario, en blanco. </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -765,7 +770,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="odd">
-<td>Id. de suscripción</td>
+<td>Id. de la suscripción</td>
 <td><p>Identificador único de una suscripción en la plataforma de facturación de Microsoft. Puede ser útil para identificar a la suscripción al ponerse en contacto con el soporte técnico, pero no para la reconciliación. No es el mismo que el identificador de suscripción en la consola de administración de partners.</p></td>
 </tr>
 
@@ -1062,7 +1067,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </tr>
 <tr>
 <td>
-<p>Convertir</p>
+<p>Conversión</p>
 </td>
 <td>
 <p>Se usa cuando se actualiza una licencia pero el número de puestos permanece inalterado.</p>
@@ -1168,7 +1173,7 @@ La siguiente tabla muestra las asignaciones entre una sección de factura y los 
 </td>
 <td>
 <p><em>Se puede aplicar a varios tipos de cargos</em></p>
-<p><em>Excepción: &quot;El desplazamiento de un&quot; elemento de línea ya incluye los impuestos. Consulte créditos, arriba.</em></p>
+<p><em>Excepción: &quot;Offset un elemento de línea &quot; ya incluye los impuestos. Consulte créditos, arriba.</em></p>
 </td>
 <td>
 <p>Impuestos o impuesto de valor añadido (IVA)</p>

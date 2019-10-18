@@ -1,19 +1,19 @@
 ---
 title: Contratos de CSP, listas de precios y ofertas | Centro de partners
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: En este artículo se incluyen vínculos a las guías del programa Proveedor de soluciones en la nube, contratos de partner, contratos de clientes, listas de precios y ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, contratos de partners, contratos de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259913"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204634"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del Proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -33,6 +33,10 @@ Revisa los requisitos para convertirse en un partner del programa Proveedor de s
 
 >[!Note]
 >Si necesitas una carta de negocio que confirme o certifique tu estado como partner aprobado de Microsoft en el programa Proveedor de soluciones en la nube, [ponte en contacto con el soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create) para solicitarla.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Términos de oferta adicionales para el acuerdo de asociado de Microsoft
+
+[Guía de términos de Ofertas complementarias para las suscripciones de servicios en línea y la autorización de canales de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Plantillas de cliente del contrato de Microsoft Cloud
 

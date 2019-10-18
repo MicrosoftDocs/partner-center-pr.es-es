@@ -1,19 +1,19 @@
 ---
 title: Descripción de los tipos de facturación del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: Información sobre los tipos de facturación, los períodos de facturación y las fechas de facturación diferentes
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134623"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997836"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Descripción de los tipos de facturación del Centro de partners
 
@@ -149,8 +149,8 @@ El archivo de conciliación incluirá lo siguiente:
 |**Fecha de compra**   |**SKU**   |**Inicio del cargo**   |**Finalización del cargo**  |**Precio unitario**  |**Cantidad**  |**Volumen** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10/6/2019 (tienes 1 licencia) |Plata     |10/6/2019   |10/6/2019         |20 USD        |1         |20 USD            |Nuevo      |
-|10/6/2019 (tienes 1 licencia) |Plata    | 10/6/2019    |10/6/2019        |20 USD        |1       | -20 USD       |Convertir           |
-|10/6/2019 (tienes 1 licencia) |Bronce    | 10/6/2019    |10/6/2019        |10 USD        |1       | 10 USD       |Convertir           |
+|10/6/2019 (tienes 1 licencia) |Plata    | 10/6/2019    |10/6/2019        |20 USD        |1       | -20 USD       |Conversión           |
+|10/6/2019 (tienes 1 licencia) |Bronce    | 10/6/2019    |10/6/2019        |10 USD        |1       | 10 USD       |Conversión           |
 
 ### <a name="scenario-8--purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>Escenario 8: Compra y cancelación de una suscripción de SaaS de medidor personalizado desde Azure Portal el mismo día 
 
@@ -160,3 +160,23 @@ En este escenario, se compra una suscripción de SaaS de medidor personalizado e
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10/6/2019 (tienes 1 licencia) |Bronce     |10/6/2019   |10/6/2019         |10 USD        |1         |10 USD            |Nuevo      |
 |10/6/2019 (no tienes ninguna licencia) |Bronce    | 10/6/2019    |10/6/2019        |10 USD        |1       | -10 USD       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Facturación en el plan de Azure
+
+- **Fecha**de la factura: la factura y el archivo de conciliación estarán disponibles en el panel del centro de Partners/API en el octavo (medianoche UTC).
+
+- **Período de facturación**: el período de facturación se alinea con el mes natural, por ejemplo, 10/1-10/31, 11/1-11/30).
+
+- **Períodos de servicio de cargos**: los cargos se alinearán con el mes natural. Por ejemplo, si el socio facturado agrega servicios de Azure a través de un plan de Azure en 10/15 y el cliente comienza el consumo de los servicios de Azure en 10/15, entonces el socio facturado recibirá la factura o la conciliación en 11/8 para el consumo del cliente en el período de servicio 10/15-10/31. La factura del mes siguiente que se va a generar el 12/8 contiene todos los cargos del período de servicio 11/1-11/31.
+
+- **Término de pago de factura**: neto 60 días.
+
+- **Moneda**de la factura: los asociados se seguirán facturando en la moneda asignada a country's del cliente. Por ejemplo, si el socio facturado se encuentra en Irlanda con los clientes del Reino Unido, Noruega y Alemania, el socio facturado recibirá una factura y una conciliación de GBP, NOK y EUR.
+
+- **Incentivos para asociados**: pago de 45 días desde el final del mes de la factura.
+
+Para obtener información sobre el plan de Azure, consulte:
+
+- [Azure plan: información general](azure-plan-get-started.md)
+
+- [Plan de Azure: facturación](azure-plan-billing.md)
