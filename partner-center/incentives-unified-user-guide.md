@@ -1,18 +1,18 @@
 ---
 title: Acceda a la página de pagos de incentivos | Centro de Partners
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: Comprender la información de pago
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Incentivos, pago
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425109"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584243"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Acceder a su página de pagos de incentivos
 
@@ -22,4 +22,4 @@ La información de ayuda de pago que se le aplica depende del programa de asocia
 
 - En el caso de los pagos de incentivos de Microsoft Partner Network (MPN), consulte [visualización de la información de los pagos de incentivos](understand-incentive-payouts.md) en la documentación de incentivos de MPN.
 
-- En el caso de los pagos comerciales de Marketplace para fabricantes de software independientes (ISV), consulte el artículo sobre cómo realizar el pago.
+- Pronto se agregará información sobre los pagos comerciales de Marketplace para fabricantes de software independientes (ISV).
