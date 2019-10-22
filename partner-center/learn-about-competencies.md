@@ -1,32 +1,61 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
-ms.date: 5/7/2019
-description: Obtén más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
-author: MaggiePucciEvans
-ms.author: evansma
-keywords: competencias, pertenencia a Silver, membresía Gold, MPN, mapas, conocimiento, Microsoft Partner Network, pertenencia a la red, especializaciones avanzadas
-ms.localizationpriority: medium
-ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.date: 09/25/2019
+description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
+author: LauraBrenner
+ms.author: labrenne
+keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
+ms.localizationpriority: high
+ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820643"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318862"
 ---
-# <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Requisitos de competencias de Microsoft para suscripciones Silver y Gold
+# <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
 
 
-Demuestra tu experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades tus clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
+Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararle para satisfacer las necesidades de los clientes y para ayudarle a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
-- Gana una **suscripción Silver** para demostrar tu capacidad, experiencia y compromiso
+- Gane una **suscripción Silver** para demostrar su capacidad, experiencia y compromiso.
 
-- Gana una **suscripción Gold** para demostrar tu capacidad superior dentro de un área específica de soluciones de Microsoft
+- Gane una **suscripción Gold** para demostrar su capacidad superior dentro de un área específica de soluciones de Microsoft.
 
-Obtener información sobre [lo que se necesita para ganar la pertenencia a Silver y Gold](https://partner.microsoft.com/membership/competencies)
+- Como miembro partner Gold, también puede agregar especializaciones avanzadas a su cartera.
 
-Más información sobre las [facturas y los impuestos para las competencias](mpn-view-print-maps-invoice.md)
+## <a name="competency-areas"></a>Áreas de competencia
+
+Para adquirir la suscripción Silver o Gold, se le pide que demuestre experiencia en diversas áreas de negocio y tecnología.
+
+|**Área**            |**Subáreas**                    |
+|--------------------|--------------------------------|
+|Aplicaciones e infraestructura|Desarrollo de aplicaciones; integración de aplicaciones; plataforma en la nube; DevOps; centro de datos|
+|Aplicaciones empresariales |Aplicaciones empresariales en la nube; planificación de recursos empresariales; administrador de relaciones con el cliente en la nube|
+|Datos e IA|Análisis de datos; plataforma de datos|
+|Área de trabajo moderna| Colaboración y contenido; comunicaciones, productividad en la nube; administración de movilidad empresarial; mensajería; proyecto y cartera; seguridad; soluciones en la nube de pequeñas y medianas empresas; Windows y dispositivos|
+
+Los niveles de competencia Silver y Gold tienen requisitos diferentes para cada una de las áreas. Dentro de cada área hay clases y exámenes que los empleados de la empresa pueden realizar para lograr el nivel de competencia que quiera.
+
+
+Más información sobre los [requisitos necesarios para obtener las suscripciones Silver y Gold](https://partner.microsoft.com/membership/competencies).
+
+Más información sobre [facturas e impuestos de las competencias](mpn-view-print-maps-invoice.md).
 
 ## <a name="advanced-specializations"></a>Especializaciones avanzadas
 
-Vaya más allá de su competencia Gold con una especialización avanzada. Proporcionan un medio para exhibir conocimientos comprobables y comprobados en un producto, área de solución o servicio. Los clientes podrán ver su competencia Gold y su especialización avanzada en su perfil de negocio en el directorio de socios comerciales. Para recibir una etiqueta de especialización avanzada, su empresa debe cumplir totalmente un conjunto de criterios publicados y Microsoft lo validará. [Más información](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Vaya más allá de la competencia Gold con una especialización avanzada. Dicha especialización proporciona un medio para presentar conocimientos comprobables y comprobados sobre un producto, área de solución o servicio. Los clientes podrán ver la competencia Gold y la especialización avanzada en el perfil de negocio en el directorio de partners. Para recibir una etiqueta de especialización avanzada, la empresa debe cumplir totalmente un conjunto de criterios publicados y tener la validación de Microsoft. [Más información](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+
+## <a name="the-current-advanced-specializations"></a>Especializaciones avanzadas actuales
+
+- Los partners de SAP en Azure que demuestran un conocimiento profundo, una amplia experiencia y un éxito demostrado en la implementación de SAP en soluciones de Azure pueden solicitar la especialización avanzada de SAP en Azure.
+
+- La migración de Windows Server y SQL Server a partner de Microsoft Azure tiene una profundidad de conocimientos para proporcionar instrucciones sobre las diversas opciones de migración de SQL dentro de Azure y demuestra experiencia en migración y optimización de cargas de trabajo basadas en SQL Server y Windows Server para Microsoft Azure. 
+
+- La migración de bases de datos de código abierto y Linux a partner de Microsoft Azure tiene un gran conocimiento en tecnologías de código abierto y demuestra experiencia en la migración y optimización de cargas de trabajo de producción que se ejecutan en Red Hat Enterprise Linux (RHEL) o máquinas virtuales SUSE o base de datos de MariaDB, PostgreSQL, MySQL, CassandraDB y MongoDB en Azure.
+
+- La migración de Data Warehouse a partner de Microsoft Azure tiene experiencia en la migración correcta de los almacenamientos de datos de Teradata, Netezza u Oracle Exadata a Azure y demuestra experiencia en el análisis de las cargas de trabajo existentes, la generación de modelos de esquema y la realización de operaciones de extracción, transformación y carga (ETL) para migrar datos a almacenamientos de datos basados en la nube.
+
+- Kubernetes en partner de Microsoft Azure emplea prácticas de DevOps para implementaciones de AKS y demuestra experiencia en la implementación y administración de cargas de trabajo de producción en la nube mediante contenedores y la administración de entornos de Kubernetes hospedados en Microsoft Azure.
+La modernización de aplicaciones web en partner de Microsoft Azure garantiza el éxito del cliente en el desarrollo de aplicaciones y la familiarización con los sistemas de administración de contenido. Demuestre experiencia en la migración e implementación de cargas de trabajo de aplicaciones web de producción, la aplicación de prácticas de DevOps y la administración de servicios de aplicaciones en Microsoft Azure.

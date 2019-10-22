@@ -1,17 +1,17 @@
 ---
-title: Inscribirse en el programa Proveedor de soluciones en la nube| Centro de partners
+title: Inscripción en el programa Proveedor de soluciones en la nube| Centro de partners
 ms.topic: article
 ms.date: 03/20/2019
-description: Comprender los distintos modelos para vender en CSP y determinar qué funciona mejor con tu negocio
+description: Comprenda los distintos modelos para vender en CSP y determine qué funciona mejor con su negocio.
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 5e4f5611c611b333789a03fb5bec3611d9cde705
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.localizationpriority: high
+ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820477"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318847"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -19,31 +19,31 @@ ms.locfileid: "68820477"
 
 - Programa Proveedor de soluciones en la nube  
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Comenzar
 
 La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de relación con los clientes completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
 
-Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesitas un id. de MPN. ¿Aún no tiene una? Únete [aquí](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
+Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesita un id. de MPN. ¿Todavía no tiene uno? Únase [aquí](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
-Para completar la aplicación de CSP, necesitará el identificador de MPN de la empresa, la dirección empresarial completa, la información bancaria y el correo electrónico del empleado que actuará como administrador del centro de Partners.
+Para completar la solicitud de CSP, necesitará el id. de MPN de la empresa, la dirección empresarial completa, la información bancaria y el correo electrónico profesional del empleado que actuará como administrador del Centro de partners.
 
-1. Inicie sesión en el centro de Partners con el correo electrónico del trabajo (es decir, sus credenciales de inquilino de Azure AD).
+1. Inicie sesión en el Centro de partners con el correo electrónico del trabajo (es decir, sus credenciales de inquilino de Azure AD).
 
-2. Cree su perfil de socio comercial y asocie su identificador de MPN a su perfil.
-Puede llevarnos varios días revisar y comprobar la información que has proporcionado. Recibirás un correo cuando se haya completado la revisión.
+2. Cree el perfil de partner y asócielo al id. de MPN.
+Puede llevarnos varios días revisar y comprobar la información que ha proporcionado. Recibirá un correo electrónico cuando se haya completado la revisión.
 
-3. Después de comprobar su información, acepte el contrato de términos de reseller indirecto de Microsoft.
+3. Después de que comprobemos la información, acepte el contrato con los términos para revendedores indirectos de Microsoft.
 
 > [!IMPORTANT]  
-> Actualmente, un asociado en el programa CSP no puede revender servicios en línea a otro asociado en el programa CSP. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre las versiones de las características o los cambios de las directivas se anunciarán a través de los canales de comunicaciones habituales, incluidos los [anuncios del centro de Partners](https://partner.microsoft.com/pcv/announcements).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](https://partner.microsoft.com/pcv/announcements).
 
-## <a name="enroll-as-an-indirect-reseller"></a>Inscribirse como un revendedor indirecto
+## <a name="enroll-as-an-indirect-reseller"></a>Inscripción como revendedor indirecto
 
-Si va a inscribirse en el programa CSP como revendedor indirecto, no podrá comprar productos directamente de Microsoft o recibirlos de ella. En su lugar, trabajará con proveedores indirectos (también conocidos como distribuidores) que transactn directamente con Microsoft.
+Si va a inscribirse en el programa CSP como revendedor indirecto, no podrá comprar productos directamente de Microsoft ni recibir facturas. En su lugar, trabajará con proveedores indirectos (también conocidos como distribuidores) que realizan transacciones directamente con Microsoft.
 
-La asociación con un proveedor indirecto significa que no es necesario disponer de la infraestructura para llegar al mercado o comprar directamente de Microsoft, pero en su lugar puede trabajar con un proveedor de tecnología experimentado para ayudarle a garantizar su éxito. En el modelo proveedor-reseller, el proveedor adquiere soluciones y servicios en la nube de Microsoft y se basa en usted para implementar y ofrecer servicios a los productos.
+La asociación con un proveedor indirecto significa que no es necesario disponer de la infraestructura para llegar al mercado ni comprar directamente de Microsoft, pero en su lugar puede trabajar con un proveedor de tecnología experimentado para ayudarle a garantizar el éxito. En el modelo de proveedor-revendedor, el proveedor compra servicios y soluciones en la nube de Microsoft y confía en el usuario para aplicar y ofrecer los productos.
 
-Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte técnico, por lo deberías evaluar a los proveedores en tu zona para determinar cuál de ellos se ajusta mejor a tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente:
+Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte técnico, por lo que deberías evaluar a los proveedores en tu zona para determinar cuál de ellos se ajusta mejor a tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente:
 
 - Proporcionarte formación y asistencia técnicas
 
@@ -53,40 +53,40 @@ Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte té
 
 Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
 
-Para obtener más información acerca de lo que se necesita para participar en el programa CSP como revendedor indirecto, consulte Introducción al revendedor [indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
+Para más información sobre lo que se requiere para participar en el programa CSP como revendedor indirecto, consulte [Comenzar a trabajar como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
 
-## <a name="enroll-as-a-direct-bill-partner"></a>Inscribirse como asociado directo de factura
+## <a name="enroll-as-a-direct-bill-partner"></a>Inscripción como partner de factura directa
 
-Como asociado directo de factura, usted es el propietario de la relación de extremo a extremo con el cliente y con Microsoft. Hemos actualizado los requisitos de inscripción de los asociados directos de facturación a partir del 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico. 
+Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de factura directa el 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico. 
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requerido**|                             |
+|**Requisitos**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**IDENTIFICADOR DE MPN**   |Id. de Microsoft Partner Network (MPN) activo para la ubicación de tu empresa.    |
+|**Id. de MPN**   |Id. de Microsoft Partner Network (MPN) activo para la ubicación de tu empresa.    |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|
-|**Soporte técnico**   |La capacidad de proporcionar el primer nivel de soporte técnico de productos en la nube a los clientes. <br>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Debe pasar una comprobación de crédito antes de adquirir un plan de soporte técnico. Le enviaremos un correo electrónico cuando haya superado la comprobación de crédito. |
+|**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Debe superar una comprobación de crédito antes de comprar un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
 |**Servicio administrado**   |Al menos un servicio gestionado, servicio IP o una aplicación de solución de cliente. Obtén más información sobre cómo agregar [servicios gestionados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Cuentas por cobrar** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes
+|**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes
 
-### <a name="verify-direct-bill-eligibility"></a>Comprobación de la elegibilidad de la factura directa
+### <a name="verify-direct-bill-eligibility"></a>Comprobación de la elegibilidad de factura directa
 
-Si todavía no lo ha hecho, revise los requisitos mínimos anteriores para asegurarse de que puede cumplirlos y, a continuación, complete el [cuestionario del proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider/assessment).
+Si aún no lo ha hecho, revise los requisitos mínimos anteriores para asegurarse de que los puede cumplir y, a continuación, complete el [cuestionario del Proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider/assessment).
 
-Usamos sus respuestas a las preguntas del formulario para ayudarnos a determinar su idoneidad para inscribirse en el programa CSP como asociado directo de factura.
+Usamos sus respuestas a las preguntas del formulario para ayudarnos a determinar su elegibilidad para inscribirse en el programa CSP como partner de factura directa.
 
-Una vez que se haya comprobado que la empresa cumple los requisitos de elegibilidad para inscribirse como un asociado directo de factura y que haya completado la aplicación de inscripción, revisaremos y comprobaremos la información empresarial que proporcionó en el proceso de inscripción. Como parte de esta revisión, revisaremos el crédito de su empresa. Le avisaremos por correo electrónico cuando su empresa haya superado la comprobación de crédito.
+Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscribirse como partner de factura directa y tras haber completado la solicitud de inscripción, revisaremos y comprobaremos la información empresarial que ha proporcionado en el proceso de inscripción. Como parte de esta revisión, comprobaremos el crédito de la empresa. Le enviaremos un correo electrónico para informarle cuando la empresa haya superado la comprobación de crédito.
 
 >[!IMPORTANT]
->La comprobación del crédito de su empresa puede tardar varios días o más en completarse. Durante este tiempo, es importante que no compre un plan de soporte técnico de Microsoft. Debe comprar un plan de soporte técnico de Microsoft solo después de haber informado de que ha superado la comprobación de crédito.
+>La comprobación del crédito de la empresa puede tardar varios días o más en completarse. Durante este tiempo, es importante que NO compre ningún plan de soporte técnico de Microsoft. Debe comprar un plan de soporte técnico de Microsoft solo después de que le hayamos informado de que ha superado la comprobación de crédito.
 
-### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Transición de la factura directa al revendedor indirecto
+### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Transición de factura directa a revendedor indirecto
 
-A medida que el programa CSP sigue evolucionando y creciendo, puede que prefiera participar en él como un revendedor indirecto en lugar de un asociado directo de factura. Puede realizar la transición del inquilino de factura directa al modelo de revendedor indirecto del centro de Partners.
+A medida que el programa CSP sigue evolucionando y creciendo, puede que prefiera participar en él como revendedor indirecto en lugar de partner de factura directa. Puede realizar la transición de inquilino de factura directa al modelo de revendedor indirecto en el Centro de partners.
 
-Consulte [transición desde el proveedor de soluciones en la nube (CSP) Direct Bill Partner al](transition-direct-to-indirect.md) revendedor indirecto de CSP para obtener información sobre la transición de un asociado de factura directo a un revendedor indirecto.
+Consulte [Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Transición de partner de factura directa del Proveedor de soluciones en la nube [CSP] a revendedor indirecto de CSP) para obtener más información sobre la transición de un partner de factura directa a un revendedor indirecto.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados y monedas regionales del CSP
 
-La ubicación de su empresa determina su mercado. Su mercado incluye las regiones y/o los países en los que puede vender ofertas de CSP. Vea el [programa proveedor de soluciones en la nube mercados regionales y monedas](regional-authorization-overview.md) para ubicaciones de mercado y monedas.
+La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP. Consulte [Mercados regionales del programa Proveedor de soluciones en la nube y monedas](regional-authorization-overview.md) para obtener información sobre monedas y ubicaciones de mercados.
 

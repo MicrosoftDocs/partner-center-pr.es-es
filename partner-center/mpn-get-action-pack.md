@@ -1,127 +1,122 @@
 ---
-title: Comprar o renovar sus ofertas de beneficios | Centro de partners
+title: Compra o renovación de las ofertas de ventajas | Centro de partners
 ms.topic: article
-ms.date: 04/25/2019
-description: Obtén información sobre cómo obtener Microsoft Action Pack, si lo compras por primera vez o si lo renuevas.
+ms.date: 09/25/2019
+description: Obtenga información sobre cómo obtener Microsoft Action Pack, tanto si lo compra por primera vez como si lo renueva.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obtener action pack
-ms.localizationpriority: medium
-ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
-ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
+ms.localizationpriority: high
+ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "67407877"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318855"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack o las competencias silver o gold
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack o las competencias Silver o Gold
 
 **Se aplica a**
 
 -  Centro de partners
 -  Partner Membership Center
 
-Ahora, desde el panel de centro de partners, puede comprar o renovar sus ofertas de beneficios, incluidas las competencias de suscripción y el silver y gold de Microsoft Action Pack. 
-
-Action Pack ofrece software, soporte técnico y ventajas a los empresarios que quieren crear y hacer crecer sus prácticas de Microsoft en un mundo donde la nube y los dispositivos móviles tienen un papel primordial. Cuando compras Action Pack, obtienes un sólido conjunto de software que ofrece: 
-
-- Soporte dedicado para que puedas atender con confianza las necesidades de tus clientes 
-- Recursos de marketing que proporcionan campañas e instrucciones listas para usar 
-- Herramientas amplias de información y planificación de negocios 
-- Formación enfocada a la nube 
-
-Puedes obtener más detalles sobre Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3).
-
-Convertirse en un [partner de competencia](https://partner.microsoft.com/membership/competencies). 
+Ahora, desde el panel del Centro de partners, puede comprar o renovar las ofertas de ventajas, incluidas la suscripción de Microsoft Action Pack y las competencias Silver y Gold. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Comprar Microsoft Action Pack por primera vez
 
-Si no estás familiarizado con la asociación con Microsoft, el primer paso es unirse a Microsoft Partner Network. Si no eres todavía miembro de la red de partners, ve a [la página de suscripción](https://partner.microsoft.com/membership) del sitio de red de partners y selecciona **Inscribirse ahora** cuando estés listo para registrarte. 
+Si no está familiarizado con la asociación con Microsoft, el primer paso es unirse a Microsoft Partner Network. Si todavía no es miembro de la red de partners, vaya a [la página de suscripción](https://partner.microsoft.com/membership) del sitio de red de partners y seleccione **Inscribirse ahora** cuando esté listo para registrarse. 
 
-Después de que te hayas unido correctamente a la red de partners, sigue las [instrucciones del sitio de la red de partners](https://partner.microsoft.com/membership/action-pack) para comprar la primera suscripción a Action Pack. 
+Después de que se haya unido correctamente a la red de partners, siga las [instrucciones del sitio de la red de partners](https://partner.microsoft.com/membership/action-pack) (inicio de sesión necesario) para comprar la primera suscripción a Action Pack. 
+
+Puede obtener más detalles sobre Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3).
+
+Conviértase en un [partner de competencias](https://partner.microsoft.com/membership/competencies). 
 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Renovar una suscripción a Microsoft Action Pack
 
 >[!IMPORTANT]
->Ahora administrar su suscripción Action Pack en el centro de partners: este sitio. 
+>Ahora administre su suscripción a Action Pack en el Centro de partners, es decir, este sitio. 
 
 ### <a name="check-your-renewal-eligibility"></a>Comprobar la posibilidad de renovación
 
-1. Inicia sesión en el [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
+1. Inicie sesión en [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).
 
-2. Después de iniciar sesión correctamente, podrás:
+2. Después de iniciar sesión correctamente, podrá:
 
-    - Seguir los pasos para renovar la suscripción en PMC, o
+    - Seguir los pasos para renovar la suscripción en PMC.
 
-    - Recibe un mensaje que se invita a renovar su suscripción en el centro de partners: este sitio
+    - Obtener un mensaje que le invite a renovar la suscripción en el Centro de partners, o sea, este sitio.
 
 >[!IMPORTANT]
->Si se le invita a renovar su suscripción en el centro de partners, tenga en cuenta que cambiamos nuestra directiva de la ventana de renovación y puede renovar la suscripción solo después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puedes renovarla a partir del 23 de junio y durante 30 días después.       
->Puedes hallar la fecha de expiración de la suscripción en tu página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inicio de sesión necesario). Si o cuando se puede renovar en el centro de partners, siga estos pasos.  
+>Si le invitaron a renovar la suscripción en el Centro de partners, tenga en cuenta que hemos cambiado nuestra política de ventanas de renovación, de manera que solo puede renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puede renovarla a partir del 23 de junio y durante los 30 días posteriores.       
+>Puede hallar la fecha de expiración de la suscripción en la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inicio de sesión necesario). Si no es elegible para renovar en el Centro de partners, siga los pasos siguientes.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar una suscripción a Microsoft Action Pack en el centro de partners
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Renovar una suscripción a Microsoft Action Pack en el Centro de partners
 
-1. Vaya a su [ **pertenencia ofrece** ](https://partnercenter.microsoft.com/pcv/partnership/offers) página. Busca la ventana de la **suscripción a Microsoft Action Pack**.  
+1. Vaya a la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers). Busque el icono **Suscripción a Microsoft Action Pack**.  
 
-2. Selecciona **Renovar suscripción** y, a continuación, selecciona el método de pago. Puedes pagar con una tarjeta de crédito o una transferencia bancaria electrónica.
+2. Seleccione **Renovar suscripción** y, a continuación, seleccione el método de pago. Puede pagar con una tarjeta de crédito o una transferencia bancaria electrónica.
 
     >[!NOTE]
-    >Si no se muestra **Renovar la suscripción**  o está desactivado, aún no tienes la posibilidad de renovar la suscripción a Action Pack. Hemos cambiado nuestra política de ventanas de renovación y solo puedes renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puedes renovarla a partir del 23 de junio y durante 30 días después.  
+    >Si no se muestra la opción **Renovar suscripción** o está desactivada, aún no tiene la posibilidad de renovar la suscripción a Action Pack. Hemos cambiado nuestra política de ventanas de renovación y solo puede renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puede renovarla a partir del 23 de junio y durante los 30 días posteriores.  
 
-3. Si pagas con tarjeta de crédito, sigue las instrucciones para agregar la información de tu tarjeta de crédito. Si pagas mediante transferencia bancaria electrónica, proporciona un nombre de contacto, un número de teléfono y una dirección de correo electrónico, y después selecciona **Enviar**. 
+3. Si paga con tarjeta de crédito, siga las instrucciones para agregar la información de la tarjeta de crédito. Si paga mediante transferencia bancaria electrónica, proporcione un nombre de contacto, un número de teléfono y una dirección de correo electrónico y, después, seleccione **Enviar**. 
      
-4. Revisa los detalles del pedido y, a continuación, selecciona **Comprar** cuando estés preparado para comprar Action Pack. Se cargará inmediatamente en tu tarjeta de crédito.
+4. Revise los detalles del pedido y, a continuación, seleccione **Comprar** cuando esté preparado para comprar Action Pack. Se cargará inmediatamente en la tarjeta de crédito.
 
-5. Tu pedido se ha confirmado. Selecciona **Cerrar**.
+5. El pedido se ha confirmado. Seleccione **Cerrar**.
 
-Tu suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas **Compradas**; sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
+La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas **Compradas**; sin embargo, no podrá volver a activar la renovación automática de suscripción hasta que la suscripción se vuelva a renovar. 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
 
-1. Vaya a su [ **pertenencia ofrece** ](https://partnercenter.microsoft.com/pcv/partnership/offers) página.  Selecciona **Suscripción a Microsoft Action Pack** para ver tus detalles de suscripción. 
+1. Vaya a la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers).  Seleccione **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción. 
 
-2. Selecciona **Desactivar renovación automática** si no quieres que tu suscripción a Action Pack se renueve automáticamente cada año. 
+2. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año. 
 
     >[!NOTE]
-    >Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos la renovación de la suscripción antes de que caduque dicha suscripción.
+    >Si desactiva la renovación automática de la suscripción, no podrá volver a activarla hasta que vuelva a renovar la suscripción. Le recordaremos que debe renovar la suscripción antes de que expire.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar la suscripción a Action Pack
 
-Para cancelar la suscripción a Microsoft Action Pack, puede que tengas que ponerte en contacto con el soporte técnico de partners.
+Para cancelar la suscripción a Microsoft Action Pack, puede que tenga que ponerse en contacto con el soporte técnico de partners.
 
-1. Vaya a su [ **pertenencia ofrece** ](https://partnercenter.microsoft.com/pcv/partnership/offers) página. Selecciona **Suscripción a Microsoft Action Pack** para ver tus detalles de suscripción. 
+1. Vaya a la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers). Seleccione **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción. 
 
-3. Selecciona **Cancelar suscripción**. Sigue las instrucciones para crear una solicitud de soporte técnico. 
+3. Seleccione **Cancelar suscripción**. Siga las instrucciones para crear una solicitud de soporte técnico. 
 
-4. En el formulario de solicitud de soporte técnico, selecciona los siguientes valores para encaminar correctamente tu solicitud:
+4. En el formulario de solicitud de soporte técnico, seleccione los siguientes valores para enrutar correctamente la solicitud:
 
-    -  Selecciona **Informar de problemas con el Centro de partners**y, a continuación, selecciona **Nueva solicitud** en la página siguiente.
+    -  Seleccione **Informar de problemas con el Centro de partners** y, a continuación, seleccione **Nueva solicitud** en la página siguiente.
 
-    -  Expande la lista **Tipo de problema** y selecciona **Ayuda con facturas de partner, pagos o archivos de conciliación**. 
+    -  Expanda la lista **Tipo de problema** y seleccione **Ayuda con facturas de partner, pagos o archivos de conciliación**. 
 
-5. Termina de rellenar la información necesaria y, a continuación, selecciona **Enviar**. El equipo de soporte técnico del Centro de partners se pondrá en contacto contigo para ayudarte a cancelar la suscripción.
+5. Termine de rellenar la información necesaria y, a continuación, seleccione **Enviar**. El equipo de soporte técnico del Centro de partners se pondrá en contacto con usted para ayudarle a cancelar la suscripción.
 
-Para comprobar el estado de la solicitud de servicio, selecciona **Solicitudes del Centro de partners** en **Soporte técnico** y, a continuación, selecciona **Abrir**. Elige la solicitud de servicio apropiada en la lista.  
+Para comprobar el estado de la solicitud de servicio, seleccione **Solicitudes del Centro de partners** en **Soporte técnico** y, a continuación, seleccione **Abrir**. Elija la solicitud de servicio apropiada en la lista.  
 
-## <a name="download-your-action-pack-invoice"></a>Descargar tu factura de Action Pack
+## <a name="download-your-action-pack-invoice"></a>Descargar la factura de Action Pack
 
-1. Vaya a su [ **pertenencia ofrece** ](https://partnercenter.microsoft.com/pcv/partnership/offers) página. Selecciona **Suscripción a Microsoft Action Pack** para ver tus detalles de suscripción. 
+1. Vaya a la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers). Seleccione **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción. 
 
-3. Selecciona **Descargar factura**.
+3. Seleccione **Descargar factura**.
  
 ## <a name="next-steps"></a>Pasos siguientes
 
--   [Empezar a usar sus beneficios de Action Pack](manage-your-partner-network-benefits.md)
+-   [Empezar a usar las ventajas de la suscripción a Action Pack](manage-your-partner-network-benefits.md)
 
--   [Obtenga información acerca de los niveles de pertenencia de competencia Silver y Gold.](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Competencias](learn-about-competencies.md)
+
+-   [Más información sobre los niveles de suscripción de las competencias Silver y Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
 -   [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 
--   [Crear un perfil de negocio para obtener clientes potenciales de Microsoft](create-a-marketing-profile.md)
+-   [Creación de un perfil de negocio para obtener clientes potenciales de Microsoft](create-a-marketing-profile.md)
 
 
 

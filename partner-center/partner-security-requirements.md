@@ -1,18 +1,18 @@
 ---
 title: Requisitos de seguridad para partners | Centro de partners
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: Obtén información acerca los requisitos de seguridad para los asesores y partners que participan en el programa Proveedor de soluciones en la nube.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215646"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318486"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de seguridad para partners
 
@@ -136,15 +136,15 @@ La directiva de línea de base*Require MFA for admins* (Requerir MFA a los admin
 
 Tras la habilitación de la directiva Requerir MFA a los administradores los nueve roles de administrador anteriores tendrán que registrarse en MFA mediante la aplicación de autenticación. Una vez que se complete el registro de MFA, los administradores deberán realizar la autenticación multifactor cada vez que inicien sesión.
 
-Si tu organización tiene estas cuentas en uso en scripts o código, considera la posibilidad de reemplazarlas por [identidades administradas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Si tu organización tiene estas cuentas en uso en scripts o código, considera la posibilidad de reemplazarlas por [identidades administradas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
 
 Para habilitar esta directiva y proteger a los administradores:
 
-1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+1. Inicia sesión en **Azure Portal**como administrador global, administrador de seguridad o administrador de acceso condicional.
 2. Vaya a **Azure Active Directory** > **Acceso condicional**.
 3. En la lista de directivas, selecciona **Directiva de línea de base: Requerir MFA a los administradores**.
 4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
-5. Haz clic en **Guardar**.
+5. Haga clic en **Guardar**.
 
 > [!WARNING]
 > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Mediante la implementación de esta directiva se bloqueará la autenticación heredada.
@@ -160,11 +160,11 @@ La directiva **Directiva de línea de base: End user protection (Protección del
 
 Para habilitar esta directiva y proteger a los usuarios:
 
-1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+1. Inicia sesión en **Azure Portal**como administrador global, administrador de seguridad o administrador de acceso condicional.
 2. Vaya a **Azure Active Directory** > **Acceso condicional**.
 3. En la lista de directivas, selecciona **Directiva de línea de base: End user protection (preview) [Protección del usuario final (versión preliminar)]** .
 4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
-5. Haz clic en **Guardar**.
+5. Haga clic en **Guardar**.
 
 > [!WARNING]
 > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Mediante la implementación de esta directiva se bloqueará la autenticación heredada.
