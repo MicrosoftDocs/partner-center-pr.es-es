@@ -54,7 +54,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Samoa Americana     | Granada     | Islas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunión     |
 > | Anguila     | Guam     | Saba   |
-> | Antártida     | Guernesey     | San Bartolomé   |
+> | Antártida     | Guernsey     | San Bartolomé   |
 > | Antigua y Barbuda       | Guinea     | Santa Lucía   |
 > | Aruba       | Guinea-Bisáu     | San Martín   |
 > | Azerbaiyán       | Guyana     | San Pedro y Miquelón   |
@@ -70,7 +70,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | República Centroafricana     | Liberia     | Somalia     |
 > | Chad     | Madagascar     | Georgia del Sur e islas Sandwich del sur     |
 > | China     | Malawi     | Sudán del Sur     |
-> | Isla Christmas     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
+> | Isla de Navidad     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
 > | Islas Cocos     | Malí     | Surinam     |
 > | Comoras     | Islas Marshall     | Mayen     |
 > | Congo     | Martinica     | Suazilandia     |

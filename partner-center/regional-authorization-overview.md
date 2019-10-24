@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134055"
@@ -98,7 +98,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender la CSP 
 
 | País o región     | Moneda |
 | --------------     |:--------:|
-|  Bangladesh        |   USD    |
+|  Bangladés        |   USD    |
 |  Bután            |          |
 |  Estado de Brunéi Darussalam |   USD    |
 |  Camboya          |          |
@@ -125,7 +125,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender la CSP 
 |  País o región        | Moneda |
 |  --------------        |:--------:|
 |  Australia             |   AUD    |
-|  Isla Christmas      |   AUD    |
+|  Isla de Navidad      |   AUD    |
 |  Islas Cocos|   AUD   |
 |  Islas Cook          |   AUD    |
 |  Fiyi                  |   AUD    |
@@ -192,7 +192,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender la CSP 
 |  Gibraltar      |   GBP    |
 |  Grecia         |   EUR    |
 |  Groenlandia      |          |
-|  Guernesey       |   GBP    |
+|  Guernsey       |   GBP    |
 |  Hungría        |   EUR    |
 |  Islandia        |   EUR    |
 |  Irlanda        |   EUR    |
@@ -209,7 +209,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender la CSP 
 |  Noruega         |   NOK    |
 |  Polonia         |   EUR    |
 |  Portugal       |   EUR    |
-|  Rumania        |   EUR    |
+|  Rumanía        |   EUR    |
 |  San Marino     |   EUR    |
 |  Eslovaquia       |   EUR    |
 |  Eslovenia       |   EUR    |
