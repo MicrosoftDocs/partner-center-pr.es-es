@@ -1,7 +1,7 @@
 ---
 title: Impago, fraude o uso incorrecto | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Estrategias para administrar los riesgos de las transacciones en línea, incluyendo el impago del cliente de artículos y servicios y las actividades fraudulentas o uso incorrecto.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, impago, el cliente no pagará la factura, riesgo en línea, robo de servicio, uso incorrecto de servicio, suspender una suscripción,
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134275"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978733"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -67,7 +67,7 @@ Estas recomendaciones pueden ayudarte a desarrollar directivas y prácticas que 
 #### <a name="post-purchase-customer-account-management"></a>Administración de cuentas de clientes posterior a la compra
 - Trabaja con los clientes para comprender sus necesidades comerciales de uso de la nube y establece umbrales de supervisión apropiados.
     > [!NOTE]  
-    >  También puede [establecer un presupuesto de gasto mensual de Azure](set-an-azure-spending-budget-for-your-customers.md) en el centro de partners para supervisar el uso del cliente durante el mes y recibir una notificación cuando los clientes estén cerca de su presupuesto.
+    >  Puede [establecer un presupuesto mensual de gastos de Azure](set-an-azure-spending-budget-for-your-customers.md) en el centro de partners para supervisar el uso de los clientes durante el mes y recibir una notificación cuando los clientes estén cerca de su presupuesto.
 - Supervisa periódicamente [registros de actividades de los clientes](activity-logs.md) para ayudar a detectar actividades fraudulentas de forma anticipada
 - Toma medidas rápidas cuando se detecten actividades sospechosas
 - Evita conceder a los clientes acceso de administrativo total a las suscripciones sin primero implementar controles de mitigación de riesgos
@@ -83,7 +83,7 @@ Para obtener más estrategias detalladas para mitigar los riesgos en línea, con
 > [!IMPORTANT]  
 > Si Microsoft detecta una actividad de partner o cliente que confirmamos o sospechamos que infringe la directiva de uso aceptable, tomaremos medidas de aplicación. El cliente podría suspenderse inmediatamente y Microsoft te notificará sobre las medidas de aplicación o se enviará información actualizada sobre tus solicitudes.
 
- 
+ Para obtener información sobre la seguridad y la autenticación multifactor, lea [requisitos de seguridad de asociados](partner-security-requirements.md)
 
  
 
