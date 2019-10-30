@@ -2,17 +2,17 @@
 title: Confirmar la aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
 ms.date: 04/16/2019
-Description: Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Para ayudar a los asociados a satisfacer los requisitos de cumplimiento, Microsoft pide a los asociados que confirmen la aceptación proporcionando ciertos detalles sobre la persona que aceptó el contrato.
+Description: Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft les pide que confirmen la aceptación proporcionando ciertos detalles de la persona que ha aceptado el contrato.
 author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimiento, MCA, contrato de Microsoft Cloud, plantillas de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820518"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045648"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del Contrato de Microsoft Cloud
 
@@ -24,6 +24,9 @@ ms.locfileid: "68820518"
 > * Centro de partners operado por 21Vianet
 > * Centro de partners para Microsoft Cloud Alemania
 > * Centro de partners para Microsoft Cloud for US Government
+
+>[!NOTE]
+>Este contrato es válido hasta el 31 de enero de 2020. Después de esa fecha, todos los clientes, existentes y nuevos, deben firmar el nuevo contrato de cliente de Microsoft. Para obtener más información, consulte [confirmar la aceptación del cliente del contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
 Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de Microsoft Cloud antes de pedir productos y servicios Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft pide a los partners que confirmen la aceptación proporcionando los siguientes detalles de la persona que haya aceptado el contrato: 
 
@@ -45,7 +48,7 @@ Si no se facilita la confirmación para un cliente determinado:
 
 -   No podrás crear nuevos pedidos para este cliente.
 
--   No podrás cambiar el número de puestos de suscripciones existentes en función de puestos para este cliente.
+-   No podrás cambiar el número de puestos de las suscripciones basadas en puestos existentes para este cliente.
 
 La confirmación de la aceptación del cliente se puede realizar a través del centro de Partners o de la API del centro de Partners. Para hacer esto a través de la API del centro de Partners, consulte los temas siguientes: 
 
@@ -83,8 +86,8 @@ De manera predeterminada, se mostrará la información del usuario de contacto p
 
 Debes ser agente de administración o agente de ventas para poder hacer esto.
 
-1. Selecciona **Clientes**y, a continuación, busca y selecciona el cliente que quieras ver.
-2. Seleccione la información de la **cuenta**.
+1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
+2. Selecciona **Información de cuenta**.
 3. En **Contrato de Microsoft Cloud**, selecciona **Actualizar**.
 
 ![Actualizar](images/mca/mca4.png)
@@ -105,6 +108,6 @@ Si intentas crear un nuevo pedido para un cliente existente para el que no has c
 
 Puedes recuperar la confirmación de aceptación del cliente para un cliente existente que la haya proporcionado anteriormente con el siguiente procedimiento. Debes ser agente de administración o agente de ventas para poder hacer esto.
 
-1. Selecciona **Clientes**y, a continuación, busca y selecciona el cliente que quieras ver.
-2. Seleccione la información de la **cuenta**.
+1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
+2. Selecciona **Información de cuenta**.
 3. En **Contrato de Microsoft Cloud**, verás si no se ha proporcionado o no la confirmación de este cliente.
