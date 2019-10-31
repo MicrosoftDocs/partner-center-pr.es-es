@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: training vouchers, software assurance, training, enroll in SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425185"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142016"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
@@ -37,7 +37,7 @@ En este artículo se explica cómo completar cada paso.
 
 ## <a name="confirm-program-eligibility"></a>Confirmación de la idoneidad para el programa
 
-Antes de poder inscribirte en el programa SATV, primero debes completar los requisitos de la opción de aprendizaje de Microsoft Partner Network, que reemplaza a la competencia de Microsoft Learning. Conoce los primeros pasos de la [opción de aprendizaje.](https://partner.microsoft.com/en-us/membership/learning-partners)
+Antes de poder inscribirte en el programa SATV, primero debes completar los requisitos de la opción de aprendizaje de Microsoft Partner Network, que reemplaza a la competencia de Microsoft Learning. Conoce los primeros pasos de la [opción de aprendizaje.](https://partner.microsoft.com/membership/learning-partners)
 
 Puedes comprobar la idoneidad de tu empresa, incluidos los requisitos aplicables de competencia y evaluación, en el Centro de partners. Siga las instrucciones del [paso 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo de SATV para obtener más detalles y capturas de pantalla.
 

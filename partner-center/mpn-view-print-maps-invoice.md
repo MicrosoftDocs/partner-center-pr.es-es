@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, factura, mapas, exento de impuestos, IVA, ID. de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978772"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141991"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en el Microsoft Partner Network
 
@@ -26,7 +26,7 @@ Siga los pasos que se indican a continuación para ver o descargar la factura fi
 
 Para llevar a cabo este procedimiento, debe ser un administrador global o un administrador de asociados de MPN. 
 
-1.  Inicie sesión en el [centro de Partners](https://partner.microsoft.com/en-us/dashboard/home) con su cuenta profesional y seleccione **MPN** en el menú de la izquierda.
+1.  Inicie sesión en el [centro de Partners](https://partner.microsoft.com/dashboard/home) con su cuenta profesional y seleccione **MPN** en el menú de la izquierda.
 
 4.  En la lista desplegable, seleccione **ofertas de pertenencia** para ver las ofertas disponibles para su compra, así como las facturas disponibles para el año de inscripción actual. Para ver las facturas de los años anteriores, seleccione **expirado**.
 
@@ -45,7 +45,7 @@ Para llevar a cabo este procedimiento, debe ser un administrador global o un adm
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Enviar a Microsoft el número de identificación a efectos de IVA
 
-1.  En el [Panel](https://partner.microsoft.com/en-us/dashboard/home)del centro de Partners, seleccione **ofertas de pertenencia**y, a continuación, seleccione **disponible**. 
+1.  En el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners, seleccione **ofertas de pertenencia**y, a continuación, seleccione **disponible**. 
 
 2.  Seleccione **Agregar su identificador de IVA**. 
 

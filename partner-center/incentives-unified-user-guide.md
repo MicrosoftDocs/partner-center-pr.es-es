@@ -7,18 +7,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Incentivos, pago
 ms.localizationpriority: medium
-ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
-ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.openlocfilehash: e9db0d0a76732ee02e4f9e288d87548112f4d016
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "72584243"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141990"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Acceder a su página de pagos de incentivos
 
 La información de ayuda de pago que se le aplica depende del programa de asociados en el que esté trabajando. Para ver la página adecuada, seleccione el vínculo correspondiente a continuación:
 
-- Para los pagos de aplicaciones y juegos de Windows, consulte [Resumen de pagos](https://docs.microsoft.com/en-us/windows/uwp/publish/payout-summary) en la documentación para desarrolladores de Windows.
+- Para los pagos de aplicaciones y juegos de Windows, consulte [Resumen de pagos](https://docs.microsoft.com/windows/uwp/publish/payout-summary) en la documentación para desarrolladores de Windows.
 
 - En el caso de los pagos de incentivos de Microsoft Partner Network (MPN), consulte [visualización de la información de los pagos de incentivos](understand-incentive-payouts.md) en la documentación de incentivos de MPN.
 

@@ -1,101 +1,95 @@
 ---
-title: Enviar las notificaciones de OSA en el centro de Partners | Centro de Partners
+title: Crear una asociación de cliente mediante el modelo CPOR | Centro de Partners
 ms.topic: article
-ms.date: 10/04/2019
-description: Enviar una demanda de la asociación a una demanda de OSA o a los ingresos de ISV
+ms.date: 10/29/2019
+description: Creación de una asociación de cliente mediante el modelo CPOR
 author: LauraBrenner
 ms.author: labrenne
-keywords: 'incentivos: reclamaciones, reclamaciones de cooperación, fondos de cooperación, OSA, ISV, Asociación de ingresos'
+keywords: 'incentivos: reclamaciones, reclamaciones de cooperación, fondos de cooperación, OSU, OSA, ISV, Asociación de ingresos'
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425177"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083865"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a>Enviar reclamaciones de OSA al Centro de partners
-
 **Se aplica a**
 
 -  Centro de partners
 
-Como socio de OSA o ISV de Dynamics, puede enviar sus notificaciones en el centro de Partners. 
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Creación de una asociación de cliente mediante el modelo CPOR
 
-Antes de poder crear y enviar una demanda, debe cumplir los siguientes requisitos: 
--   **Estar inscrito en el Microsoft Partner Network**y tener un contrato MPN activo. Para inscribirse en el Microsoft Partner Network, visite el sitio de asociados. 
--   **Ser un asesor de software de Microsoft Dynamics Certified** con un contrato de Microsoft Dynamics Certified software Advisor (CSA) activo. 
--   **Haga que su banco e información fiscal** se escriban en el centro de Partners. 
--   **Reúna los requisitos de certificación y ingresos de la elegibilidad de participación en Osa**. (Para obtener más información, consulte la guía de venta de OSA, que se encuentra en la sección OSA en aka.ms/partnerincentives). Esto no se aplica a los ISV que buscan solo la Asociación de ingresos. 
+El 1 de octubre de 2019, Microsoft comenzó a usar el modelo de reclamaciones de registro (CPOR) para administrar las asociaciones que tiene con sus clientes de Microsoft 365 y Dynamics 365 con respecto a la venta del asesoramiento de servicios en línea (OSA), el uso de servicios en línea (OSU)- Microsoft 365 y OSU: incentivos de aplicaciones empresariales.
 
-## <a name="submitting-your-claim"></a>Envío de la demanda
+Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
 
-Tendrá 90 días a partir de la fecha de la transacción para enviar su demanda. Si envía su demanda de más de 90 días después de una transacción, no obtendrá el incentivo de venta de esa venta. 
+Necesitará la siguiente información para completar una demanda:
 
-Si es un asociado de ISV y sus soluciones han ayudado a que el cliente elija una solución de Microsoft Dynamics 365, también puede optar por recibir la Asociación de ingresos.   
+- **Identificador de MPN** de la entidad que realiza la declaración.
 
-## <a name="payment-schedule"></a>Plan de pago
+- **El nombre de dominio** del cliente [encuentra este](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-Recibirá el pago de las reclamaciones de incentivos aprobadas en un plazo de 45 días después del final del período de obtención. Tiene 90 días después del final del período de ganar para cuestionar un pago. Para obtener información sobre los métodos y los cálculos de pago, vea la guía de venta de OSA, que se encuentra en la sección OSA de aka.ms/partnerincentives.
+- Identificador de **directorio** o de **inquilino** del [cliente.](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-## <a name="maintaining-your-program-eligibility"></a>Mantenimiento del programa elegibilidad
+- Área de la **solución**, como Business Applications o Microsoft 365
 
-Microsoft evalúa la elegibilidad mensualmente para el incentivo de ventas de Online Services Advisor para ganar, calcular y pagar. Debe cumplir los criterios de idoneidad específicos para que Microsoft pueda aprobar y liberar los pagos de incentivos. Para obtener más información, consulte la guía de venta de OSA, que se encuentra en la sección OSA de aka.ms/partnerincentives.
+- La **actividad** que ha realizado y el tipo de demanda que desea realizar, como ventas previas, uso o asociación de ingresos
 
-## <a name="submit-an-osa-sell-fee-claim"></a>Enviar una demanda de precio de venta de OSA
+- El nombre de **contacto**, el título y la dirección de correo electrónico del cliente
 
-Complete los pasos siguientes para enviar una demanda de incentivos en el centro de Partners.  
+- Para Dynamics 365, también debe proporcionar el nombre de **contacto técnico** , el título y la dirección de correo electrónico del cliente.
+
+- El **nombre de contacto** y la dirección de correo electrónico de su empresa.
+
+- Creará un **nombre** para esta demanda
+
+- Los **productos** o cargas de trabajo que va a reclamar
+
+- **Prueba de ejecución (PoE)** , como una declaración de trabajo firmada por el cliente. También puede descargar una plantilla de POE para usarla.
+
+- En el caso de los asociados que reclaman ingresos solamente: nombre de vendedor de la **solución Dynamics**, **nombre del cliente**y **nombre del producto o solución de ISV**. 
+
+También debe comprender los puntos siguientes:
+- Si ya tiene clientes de Microsoft 365, deberá volver a asociarlos con los que desea que sigan obteniendo incentivos OSU mediante este proceso.
+- Si tiene asociaciones existentes con Dynamics 365 o Power BI clientes, estas asociaciones seguirán siendo válidas hasta que expiren sus suscripciones.
+- Un cliente puede tener varios asociados, pero cada carga de trabajo (para OSU-Microsoft 365) o suscripción (para OSA-Sell y OSU-Business Applications) solo se puede asociar a un asociado.
+
+## <a name="create-a-customer-association"></a>Crear una asociación de cliente
+1.  En el panel del centro de Partners, en **incentivos**, seleccione **información general**y, a continuación, seleccione **asociaciones de cliente**. 
+
+2.  En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
+
+3.  Seleccione el **ID** . de MPN de la ubicación de socio comercial que se va a asociar al cliente y, a continuación, agregue el nombre de dominio y el ID. de directorio del cliente. [¿Dónde están?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+
+Selecciona **Continuar**.
+
+4.  Seleccione el **área** de la solución y la **actividad**. 
+
+>[!Note]
+
+>Si selecciona Business Applications, seleccione uso o **preventa**, o **Asociación de ingresos**, y, a continuación, seleccione **continuar**. 
+
+>Si selecciona la Asociación ingresos, se le solicitará información ligeramente diferente a la que se muestra a continuación. 
+
+5.  Escriba la información adecuada en la página **asociar el cliente** y, a continuación, seleccione **crear notificaciones**.
+
+6.  Seleccione los productos asociados a esta asociación de cliente y, a continuación, seleccione **continuar**.
+
+7.  Complete la información de contacto del cliente y la información de contacto de la empresa. Todos los campos son necesarios. 
+
+>[!Note]
+
+Si el producto es Dynamics 365 y el producto que elige tiene varias suscripciones para este cliente concreto, también deberá escribir el identificador de la suscripción.
+
+8.  Proporcione la prueba de ejecución (POE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla seleccionando **Descargar plantilla**. 
+
+9.  Agregue y guarde los comentarios que desee y, a continuación, seleccione **enviar notificaciones**. Le enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente. 
 
 >[!NOTE]
 
->Si su empresa tiene varias ubicaciones, asegúrese de usar el identificador de MPN para la oficina ubicada en la misma región geográfica que el cliente. 
+>Una vez que envíe la Asociación de cliente, no podrá modificarla. 
 
-1.  En la página información general, en **todos los programas de incentivos**, seleccione **Osa**.
+El estado de la Asociación de cliente aparece en el campo **Estado** . 
 
-2.  En la página OSA, seleccione **Claim...** y, a continuación, seleccione **honorarios por incentivos**.
-
-3.  Escriba el nombre de dominio y el ID. de directorio del cliente y, a continuación, seleccione **continuar**. 
-
-4.  Seleccione el producto que compró el cliente y, a continuación, seleccione **continuar**. 
-
-5.  Seleccione la suscripción que desea asociar a esta demanda y luego seleccione **Continue (continuar**).
-
->[!NOTE]
-
->Compruebe que tanto el nombre como la región geográfica sean correctos antes de seleccionar una suscripción. 
-
->Las suscripciones asociadas a otros asesores de servicios en línea se marcan con un triángulo amarillo. Todavía puede asociarse con ellos. 
-
->Las suscripciones ya asociadas a su empresa no se pueden asociar de nuevo.  
-
-6.  Escriba la información de contacto para el cliente y la empresa, asigne un nombre a la demanda y, a continuación, seleccione **crear notificaciones**. 
-
-7.  En la página suscripción, cargue la documentación de prueba de ejecución (POE) en el cuadro **prueba de ejecución** . Puede usar la plantilla de POE o los documentos de POE del proceso de preventa. 
-
-8.  Seleccione **enviar notificaciones**.    
-
-Puede ver el estado de la demanda en el cuadro estado de la página de suscripción. Si se requiere información adicional, se le notificará también.
-
-Para ver los datos de ingresos y pagos, consulte pagos e informes. 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a>Enviar una petición de Asociación de ingresos de ISV
-
-1.  En la página información general, en **todos los programas de incentivos**, seleccione **Osa**.
-
-2.  En la página OSA, seleccione **Claim...** y, a continuación, seleccione **ISV ingresos Association**.
-
-3.  Escriba el nombre de dominio y el ID. de directorio del cliente, seleccione el producto o los productos que ha adquirido el cliente y, a continuación, seleccione **continuar**. 
-
-4.  Seleccione las suscripciones que desea asociar a esta demanda y luego seleccione **Continue (continuar**).
-
->[!NOTE]
-
->Compruebe que tanto el nombre como la región geográfica sean correctos antes de seleccionar una suscripción. 
-
->Las suscripciones ya asociadas a su empresa no se pueden asociar de nuevo.  
-
-5.  Escriba la información del nombre de vendedor de la **solución Dynamics**, el nombre del **cliente**y **el nombre del producto o solución de ISV**y, a continuación, escriba un nombre para la demanda. 
-
-6.  Seleccione **crear notificaciones**. 
-
-Puede ver el estado de la demanda en el cuadro estado de la página de suscripción. Si se requiere información adicional, se le notificará también.
+Seleccione **historial** para ver el historial de una asociación de cliente.
