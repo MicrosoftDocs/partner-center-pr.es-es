@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
-ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
+ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708741"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "73544050"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida de un dispositivo con perfiles de Windows AutoPilot
 
@@ -31,7 +31,7 @@ Si no está familiarizado con AutoPilot, revise la información de estos artícu
 - [Información general de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Información general
+## <a name="overview"></a>Introducción
 
 Con la característica de Windows AutoPilot del centro de Partners, puede crear perfiles personalizados para aplicarlos a los dispositivos del cliente. La siguiente configuración de perfil estaba disponible en el momento en que se publicó este artículo:
 
@@ -43,7 +43,7 @@ Con la característica de Windows AutoPilot del centro de Partners, puede crear 
 
 - Omitir las páginas de configuración de registro de Cortana, OneDrive y OEM. Todos los dispositivos registrados con AutoPilot omitirán automáticamente estas páginas durante el proceso de la experiencia rápida (OOBE).
 
-- Omitir contrato de licencia para el usuario final (CLUF). A partir de la versión 1709 de Windows 10, las organizaciones pueden decidir omitir la página del CLUF presentada durante el proceso de OOBE. Consulte descartado de [CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) para obtener información importante que se debe tener en cuenta al omitir la página del CLUF durante la instalación de Windows.
+- Omitir contrato de licencia para el usuario final (CLUF). A partir de la versión 1709 de Windows 10, las organizaciones pueden decidir omitir la página del CLUF presentada durante el proceso de OOBE. Consulte [descartado de CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) para obtener información importante que se debe tener en cuenta al omitir la página del CLUF durante la instalación de Windows.
 
 Se aplican las siguientes limitaciones y permisos de administración de perfiles y dispositivos:
 
@@ -79,7 +79,7 @@ En el centro de Partners, puede crear perfiles de implementación de Windows Aut
   
    - Omitir contrato de licencia para el usuario final (CLUF)<br> 
        >[!IMPORTANT] 
-       >Consulte descartado de [CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) para obtener información importante que se debe tener en cuenta al omitir la página del CLUF durante la instalación de Windows.
+       >Consulte [descartado de CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) para obtener información importante que se debe tener en cuenta al omitir la página del CLUF durante la instalación de Windows.
 
 5. Selecciona **Enviar** cuando hayas acabado.
 
@@ -113,7 +113,7 @@ Después de crear un perfil de AutoPilot para un cliente, puede aplicarlo a los 
 3. En **aplicar perfiles a dispositivos** , seleccione los dispositivos de los que desea quitar el perfil y, a continuación, seleccione **quitar perfil**.
 
    >[!NOTE]
-   >La eliminación de un perfil de un dispositivo no elimina el perfil de la lista. Si desea eliminar un perfil, siga las instrucciones de [actualización o eliminación de un perfil](#update-or-delete-an-autopilot-profile)de AutoPilot.
+   >La eliminación de un perfil de un dispositivo no elimina el perfil de la lista. Si desea eliminar un perfil, siga las instrucciones de [actualización o eliminación de un perfil de AutoPilot](#update-or-delete-an-autopilot-profile).
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Actualización o eliminación de un perfil de AutoPilot
 
@@ -158,6 +158,27 @@ Siga las instrucciones que se indican a continuación para agregar dispositivos 
 5. Cargue el archivo. csv y, a continuación, seleccione **Guardar**.
 
 Si recibe un mensaje de error al intentar cargar el archivo. csv, compruebe el formato del archivo. Solo puede utilizar el hash de hardware, el nombre de OEM, el número de serie y el modelo (en ese orden de columna), o el identificador de producto de Windows. También puede usar el archivo. csv de ejemplo que se proporciona en el vínculo junto a **Agregar dispositivos** para crear una lista de dispositivos.
+
+El archivo. csv debería tener un aspecto similar al siguiente:
+
+> **Número de serie del dispositivo, ID. de producto de Windows, hash de hardware, nombre de fabricante, modelo de dispositivo**
+
+> **{serialNumber},,, Microsoft Corporation, Surface Laptop**
+
+Tenga en cuenta que "nombre del fabricante" y "modelo de dispositivo" distinguen mayúsculas de minúsculas.
+
+Si no sabe qué valor poner para el modelo de nombre de fabricante y dispositivo, puede ejecutarlo en el dispositivo para recopilar los valores correctos:
+
+<pre><code>md c:\\HWID
+
+Set-Location c:\\HWID
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
+
+Install-Script -Name Get-WindowsAutoPilotInfo
+
+Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
+</code></pre>
 
 ## <a name="windows-autopilot-eula-dismissal"></a>Descartado de CLUF de Windows AutoPilot
 
