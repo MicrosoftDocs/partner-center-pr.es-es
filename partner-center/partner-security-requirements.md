@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425204"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141983"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de seguridad para partners
 
@@ -80,44 +80,7 @@ La lista anterior no es completa. Por tanto, es importante que realices una eval
 
 ## <a name="accessing-your-environment"></a>Acceso al entorno
 
-Para saber mejor qué o quién realiza la autenticación sin que sea un desafío para la autenticación multifactor, se recomienda consultar los registros de auditoría de Azure Active Directory. Esto puede realizarse mediante el módulo [ Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) y el siguiente script. Se generará un informe que proporciona información acerca de los intentos de autenticación que se han producido durante el último día en los que no se ha usado la autenticación multifactor.
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-Después de ejecutar el script anterior, los detalles estarán disponibles en el archivo report. csv. Contendrá una lista de los intentos de autenticación que se han producido a lo largo del día anterior en el que el usuario no usó MFA. Tendrás que revisar cada entrada para determinar si es el comportamiento esperado y actuar, en caso de que sea necesario.
-
-![Informe de evaluación](images/security/assessment-report.png)
+Para saber mejor qué o quién realiza la autenticación sin que sea un desafío para la autenticación multifactor, se recomienda revisar la actividad de inicio de sesión. En Azure Active Directory Premium puedes aprovechar el informe de inicios de sesión. Consulta los [informes de actividad de inicio de sesión en el portal de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para obtener más información. Si no tienes Azure Active Directory Premium o estás buscando una manera de obtenerlo a través de PowerShell, deberás utilizar el cmdlet [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) del módulo de [PowerShell del Centro de partners](https://www.powershellgallery.com/packages/PartnerCenter/).
 
 ## <a name="how-the-requirements-will-be-enforced"></a>Cómo se aplicarán los requisitos
 

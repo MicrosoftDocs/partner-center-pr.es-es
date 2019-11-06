@@ -1,23 +1,25 @@
 ---
 title: Transición de clientes al plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Realice la transición de sus clientes fácilmente al plan de Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 34895de69eaa1aed16a485ddec032769f8dfc7a3
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171291"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428538"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Transición de clientes al plan de Azure
 
-Los partners podrán realizar la transición de sus clientes desde recursos de comercialización (GTM) o desde ofertas existentes de Azure en CSP, hacia la nueva experiencia comercial disponible en el programa CSP para Azure. Gracias a ello, los clientes tendrán una forma simplificada de comprar servicios en la nube, ya sea comprando a partners, vendedores de Microsoft o directamente en la web. La capacidad de transición es solo para clientes que hagan la transición a la nueva experiencia comercial y que hayan firmado el Acuerdo de cliente de Microsoft; no se aplica a otras ofertas en CSP como Office 365 o Dynamics 365.
+Los proveedores indirectos y los partners de facturación directa pueden realizar la transición a la nueva experiencia de comercio disponible en el programa CSP de Azure. (Los revendedores indirectos deberán trabajar a través de sus proveedores indirectos). Gracias a ello, los clientes tendrán una forma simplificada de comprar servicios en la nube, ya sea comprando a partners, vendedores de Microsoft o directamente en la web.
+
+La capacidad de transición es solo para clientes que realicen la transición a la nueva experiencia comercial y que hayan firmado el Acuerdo de cliente de Microsoft; no se aplica a otras ofertas del programa CSP como Office 365 o Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Transición de ofertas de CSP existentes a un plan de Azure
 
@@ -55,10 +57,13 @@ Después de comprar los planes de Azure, nuestro sistema asignará las suscripci
 
 ![Transición](images/azure/transition3.png)
 
->[!Note]
+>[!NOTE]
 >El presupuesto que establezcas en el Centro de partners no se transferirá a Azure Portal. Recuerda que también debes establecer el presupuesto y la alerta en Azure Portal.
 
 Cuando pases al plan de Azure, ya no podrás comprar suscripciones de Azure para este cliente. Deberás crear las suscripciones según el plan de Azure en Azure Portal.
+
+>[!NOTE]
+> Todas las suscripciones de Azure compradas a través de RBAC en el plan de Azure se cobrarán y facturarán en la moneda local. No se usarán las tarifas de FX.
 
 ### <a name="track-your-transition-details"></a>Seguimiento de los detalles de la transición
 
@@ -70,11 +75,11 @@ Sigue el progreso de la transición en Azure Portal, así como en el Centro de 
 
 Si realizas la transición de un cliente desde una oferta existente de Azure en CSP, se aplicarán los siguientes puntos de facturación:
 
-- Se le cargará en su factura de CSP existente todo el uso hasta el momento de la salida de la suscripción de Azure original en CSP.
+- Se le cargará en su factura del programa CSP existente todo el uso hasta el momento de la salida de la suscripción de Azure original en el CSP.
 
 - Si tenía derechos de acceso de administrador en la suscripción de CSP existente, continuará teniendo acceso cuando se migre esa suscripción.
 
-Para realizar la transición de los Contratos Enterprise directos a las inscripciones de CSP y de servidor y de nube a los servicios de Azure, consulta [Obtener la propiedad de facturación de las suscripciones de Azure para Microsoft Partner Agreement]().
+Para realizar la transición de los Contratos Enterprise directos a las inscripciones de CSP y de servidor y de nube a los servicios de Azure, consulta [Obtener la propiedad de facturación de las suscripciones de Azure para Microsoft Partner Agreement](https://docs.microsoft.com/azure/billing/mpa-request-ownership).
 
 **Registro de auditoría**:
 
@@ -88,9 +93,9 @@ Cuando se completa la transición, la suscripción de Azure se administra en fun
 
 >[Nota]: Cuando la suscripción de Microsoft Azure (0145P) se compra en CSP, tanto la suscripción comercial como la de Azure (derecho) tienen el mismo valor. Solo en el caso de realizar cambios o transferencias en la propiedad de facturación difieren los valores. 
 
-**Errores**
+**Problemas de transición**
 
-No se prevé ningún error durante las transiciones. Si se produce alguno, lo actualizaremos en el flujo de trabajo de la transición. No habrá ninguna interrupción mientras use Azure.  
+No se prevé ningún problema durante las transiciones. Si se produce alguno, lo actualizaremos en el flujo de trabajo de la transición. No habrá ninguna interrupción mientras use Azure.  
 
 **Pasos siguientes**
 
