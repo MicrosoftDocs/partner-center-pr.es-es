@@ -1,5 +1,5 @@
 ---
-title: 'Créditos obtenidos del partner: introducción | Centro de partners'
+title: 'Crédito obtenido del partner: introducción | Centro de partners'
 ms.topic: article
 ms.date: 10/15/2019
 description: ¿Cuál es el aspecto del crédito obtenido del partner en el plan Azure?
@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171172"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428434"
 ---
 # <a name="partner-earned-credit---overview"></a>Créditos obtenidos del partner: introducción
-
 
 El crédito obtenido del partner en la nueva experiencia comercial de CSP es un modelo de negocio que logra fijar los precios de Azure de forma uniforme y simplificada en los recursos de comercialización de Microsoft, al tiempo que fomenta un ecosistema de partners que proporciona servicios administrados de valor agregado. El crédito obtenido de los partners también te permite eliminar cualquier competencia en cuanto a los beneficios. 
 
 Con miles de servicios en Azure y múltiples opciones para comprar, el precio puede ser un desafío para muchos clientes y partners. En la nueva experiencia comercial para Azure, hemos adoptado los principios de precios globales únicos que son aplicables a todos los movimientos que realizamos. Los partners de CSP pueden ofrecer Azure según los precios publicados. Esto proporcionará una mayor transparencia a tus clientes y generará confianza. 
-
 
 Las necesidades de nuestros clientes para realizar una transformación digital están cambiando la naturaleza del valor que ofrecen los partners. Muchos clientes buscan partners que proporcionen servicios más allá de las simples transacciones, para que su recorrido en la nube sea más sencillo y así puedan obtener ayuda a la hora de usar los servicios de Azure de la forma más eficaz. Este tipo de servicios son continuos e incluyen la supervisión de los servicios de Azure, la administración de directivas y gobernanza, el ajuste de la configuración y sus opciones, el soporte técnico y otros servicios. 
 
@@ -66,11 +64,12 @@ Obtén más información sobre cómo ampliar tu [cartera de servicios administra
 Estos servicios suponen un nivel de acceso adecuado para los partners en el entorno de Azure del cliente; igualmente, nuestro sistema comercial medirá los detalles de acceso para calcular el crédito que haya obtenido el partner.  
 
 >[!Note]
-
 >Los clientes tendrán la opción de eliminar cualquier acceso que hayan proporcionado a los partners. Recuerda que los partners no deben obligar a los clientes a darles acceso si su único propósito es el de obtener crédito de Microsoft; el incumplimiento de este requisito podría hacer que el partner no sea apto para conseguir el crédito obtenido del partner.
 
 **Para obtener más información**
-- [Cómo se calcula y paga el crédito que obtiene el partner]
+
+- [Cómo se calcula y paga el crédito que obtiene el partner](partner-earned-credit-explanation.md)
+
 - [Administrar suscripciones y recursos en el plan de Azure](azure-plan-manage.md)
 
 - [Lista de precios para la nueva experiencia comercial de Azure en CSP](azure-plan-price-list.md)

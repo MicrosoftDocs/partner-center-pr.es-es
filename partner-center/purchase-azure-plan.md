@@ -1,22 +1,22 @@
 ---
 title: Compra del plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 10/01/2019
-description: Compra de varias suscripciones de Azure sin tener que enviar pedidos individuales para cada suscripción
+ms.date: 11/01/2019
+description: Adquirir varias suscripciones de Azure en el plan de Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171213"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428527"
 ---
 # <a name="purchase-the-azure-plan"></a>Compra del plan de Azure
 
-Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners de CSP podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Asimismo, un partner puede tener varias suscripciones de Azure en un solo plan de Azure. 
+Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners de CSP podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Un partner puede tener varias suscripciones de Azure en un plan de Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilidad de país y región
 La nueva experiencia comercial en CSP para Azure está actualmente programada para que esté disponible en 139 países. Consulta la lista completa de esos [países y regiones](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
@@ -30,10 +30,11 @@ La forma de comprar el plan de Azure es similar a la compra de cualquier otra su
 
 ![Compra](images/azure/Azurepurchase1.png)
 
-El partner debe confirmar que el cliente haya leído y aceptado los términos del Acuerdo de cliente de Microsoft. Para obtener más información sobre cómo el partner puede hacer esto, consulta [Confirmar la aceptación del cliente del Acuerdo de cliente de Microsoft](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Tienes otros recursos disponibles en la [galería de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+El partner debe confirmar que el cliente haya leído y aceptado los términos del Acuerdo de cliente de Microsoft. Para obtener más información sobre cómo el partner puede hacer esto, consulta [Confirmar la aceptación del cliente del Acuerdo de cliente de Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Tienes otros recursos disponibles en la [galería de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
-1. Confirmación
-2. Al invitar al cliente a firmar el Acuerdo de cliente de Microsoft directamente con Microsoft. 
+**Puede**
+1. comprobarlo digitalmente, o bien
+2. invitar al cliente a firmar el Acuerdo de cliente de Microsoft directamente con Microsoft. 
 
 ### <a name="to-confirm"></a>Para confirmar 
 
@@ -66,7 +67,7 @@ Las reservas de Azure deben estar asociadas con un plan de Azure activo. Elige e
 
 Ten en cuenta que el ámbito de la reserva solo se puede establecer en **Compartido**, actualmente. 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 Para administrar la reserva del cliente en Azure Portal: 
 
@@ -78,7 +79,7 @@ Para administrar la reserva del cliente en Azure Portal:
 
 Desde la página de **suscripciones** , en la sección basada en el uso, amplía el **plan de Azure** para ver las suscripciones de Azure asociadas al plan de Azure en cuestión.
 
-![Viewlist](images/azure/viewlist.png)
+![Viewlist](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Agregar suscripciones y configurar recursos

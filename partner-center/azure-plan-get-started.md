@@ -1,23 +1,23 @@
 ---
 title: 'Cambiar al plan de Azure: introducción | Centro de partners'
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Comprar suscripciones con la nueva experiencia de comercio de Azure
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, plan de Azure, comprar suscripciones, suscripciones
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171267"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428451"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Cambiar al plan de Azure: introducción
 
-Microsoft ha introducido una nueva experiencia de comercio en CSP para partners de Azure que hayan firmado el contrato de Microsoft Partner Agreement. Gracias a esta nueva experiencia de comercio, los partners podrán obtener acceso a los servicios de Azure con tarifas de pago por uso para los clientes según lo indicado en el Acuerdo de cliente de Microsoft. 
+Microsoft ha introducido una nueva experiencia de comercio en el Centro de partners.  Gracias a esta nueva experiencia de comercio, los partners podrán obtener acceso a los servicios de Azure con tarifas de pago por uso para los clientes según lo indicado en el Acuerdo de cliente de Microsoft. 
 
 Este plan simplifica la experiencia de compra, ya que puedes tener varias suscripciones de Azure en un solo plan de Azure. Por ello, ya no es necesario enviar un pedido independiente por cada suscripción de Azure. Así pues, gracias a esta nueva experiencia comercial de Azure, hemos establecido un único principio global de precios que permitirá a los partners de CSP ofrecer Azure en función de los precios publicados. 
 
@@ -25,7 +25,7 @@ Las necesidades de transformación digital de nuestros clientes requieren nuevas
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Asegúrate de que tus clientes hayan firmado el Acuerdo de cliente de Microsoft
 
-A partir del 1 de octubre de 2019, el Acuerdo de Cliente de Microsoft, un acuerdo perpetuo que simplifica y agiliza la experiencia de compra del cliente con un proceso totalmente digital, estará disponible para que los clientes lo firmen digitalmente. Todos los clientes que quieran aprovechar la nueva experiencia comercial en CSP para Azure deben firmar el Acuerdo de Cliente de Microsoft.
+A partir del 1 de octubre de 2019, el Acuerdo de Cliente de Microsoft, un acuerdo perpetuo que simplifica y agiliza la experiencia de compra del cliente con un proceso totalmente digital, está disponible para que los clientes lo firmen digitalmente. Todos los clientes que quieran aprovechar la nueva experiencia comercial en CSP para Azure deben firmar el Acuerdo de Cliente de Microsoft.
 
 Para obtener más detalles, consulta [Confirmar la aceptación del cliente del Acuerdo de Cliente de Microsoft](confirm-customer-agreement.md).
 

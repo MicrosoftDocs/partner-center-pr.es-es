@@ -1,18 +1,18 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318862"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413356"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
 
@@ -24,6 +24,8 @@ Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más 
 - Gane una **suscripción Gold** para demostrar su capacidad superior dentro de un área específica de soluciones de Microsoft.
 
 - Como miembro partner Gold, también puede agregar especializaciones avanzadas a su cartera.
+
+La obtención de las competencias de la **suscripción Silver** o la **suscripción Gold** también ofrece grandes ventajas de marketing y ventas de [comercialización](mpn-learn-about-go-to-market-benefits.md) para ayudarte a expandir y aumentar tu negocio.
 
 ## <a name="competency-areas"></a>Áreas de competencia
 
@@ -40,6 +42,8 @@ Los niveles de competencia Silver y Gold tienen requisitos diferentes para cada 
 
 
 Más información sobre los [requisitos necesarios para obtener las suscripciones Silver y Gold](https://partner.microsoft.com/membership/competencies).
+
+Más información acerca de los [beneficios de comercialización específicos disponibles para las afiliaciones Silver y Gold](mpn-learn-about-go-to-market-benefits.md). 
 
 Más información sobre [facturas e impuestos de las competencias](mpn-view-print-maps-invoice.md).
 

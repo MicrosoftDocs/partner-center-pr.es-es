@@ -1,21 +1,22 @@
 ---
 title: 'Plan de Azure: facturación | Centro de partners'
 ms.topic: article
-ms.date: 10/04/2019
-description: Aquí se describe la factura y la estructura del archivo de conciliación.
+ms.date: 11/01/2019
+description: Describe la estructura de la factura y el archivo de conciliación para el plan de Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 28e670635ca7fcff60041fcb5c93b3ddd5e4069d
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171300"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428475"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
+
 
 La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario. Para obtener información sobre la plataforma de facturación, consulta la [guía de operaciones de comercio moderno del Centro de partners](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx).
 
@@ -33,23 +34,60 @@ La facturación del plan Azure es una experiencia de facturación simplificada q
 
 - **Incentivos de partners**: Pagado a 45 días desde el final del mes de la factura.
 
-##  <a name="access-your-invoices-and-recon-files"></a>Acceder a las facturas y archivos de conciliación
+##  <a name="access-your-invoices-and-reconciliation-files"></a>Acceder a las facturas y los archivos de conciliación
 
 El administrador global o el administrador de facturación de tu empresa recibirá un correo electrónico cuando una factura esté lista para ver. 
 
-**Para acceder a la factura y al archivo de reconocimiento:**
+**Para acceder a la factura y al archivo de conciliación**
 
-1. Inicia sesión en el Centro de partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/en-us/dashboard/) del Centro de partners.
 
 2. En el menú del Centro de partners, selecciona **Billing** (Facturación).
 
-3. Selecciona la pestaña **Calendar-based** (Basado en calendario) y la moneda que quieras.
+3. Selecciona la pestaña de **Periódico** y **Una vez** y la moneda que te interese.
 
 ![facturación](images/azure/billing1.png)
 
-4. Selecciona **Invoice and Recon file** (Factura y archivo de conciliación).  
+4. Selecciona **Factura** o **Archivo de conciliación**.  
 
 Para ver las facturas históricas y los archivos de conciliación, amplía la fila del historial de facturación a continuación.
+
+
+## <a name="understanding-usage-data"></a>Explicación de los datos de uso 
+
+1. El plan de Azure es el contenedor raíz o de nivel superior para el uso. Todo el uso está vinculado a un único plan de Azure. 
+
+2. En un plan, habrá una o varias suscripciones de Azure. Estos son los contenedores que se usan para la implementación y la administración de recursos. 
+
+3. En una suscripción, los grupos de recursos se agregan a recursos de grupo. Cada recurso se implementa en un grupo de recursos. 
+
+4. Entre los ejemplos de recursos se incluyen las máquinas virtuales y las cuentas de almacenamiento. 
+
+5. Los recursos emiten medidores: Los medidores son medidas de consumo de un recurso, y un recurso puede emitir el uso de varios medidores. Los medidores se identifican mediante ProductId, SKUId y AvailabilityId. 
+
+### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Jerarquía de grupos de recursos de suscripción y medición
+
+**Cuenta de Azure (inquilino)**
+
+- Suscripción A
+    - ResourceGroup 1
+        - Máquina virtual (recurso)
+            - Medidor de proceso
+        - Virtual Network (recurso)
+            - Sin medidor de facturación
+
+    - ResourceGroup 2
+        - Máquina virtual (recurso)
+            - Medidor de proceso
+        - Disco administrado SSD Premium (recurso)
+            - Medidor de capacidad de almacenamiento
+            - Medidor de operaciones de almacenamiento
+
+- Suscripción B   -ResourceGroup 1       - Azure SQL (recurso)           - Medidor de DTU       - VPN Gateway (recurso)           - Medidor de VPN Gateway
+
+    - ResourceGroup 2
+        - Interfaz de Virtual Network (recurso)
+            - Sin medidor de facturación
 
 ## <a name="read-the-invoice"></a>Leer la factura
 
@@ -65,15 +103,15 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 ![factura](images/azure/invoice1.png)
 
-## <a name="read-the-recon-file"></a>Leer el archivo de conciliación
+## <a name="read-the-invoice-reconciliation-file"></a>Lectura del archivo de conciliación de facturas
 
-1. Cada medidor de suscripciones de Azure puede tener hasta dos líneas de facturación en el archivo de conciliación.
+1. Cada combinación de medidor y plan de Azure puede tener hasta dos líneas de facturación en el archivo de conciliación.
 
-2. Si el medidor puede tener en cuenta cualquier tipo de descuento o crédito (como los descuentos de nivel 1 o el crédito obtenido del partner por los servicios administrados) durante todo el mes natural, el archivo de conciliación solo contendrá una línea de facturación. La columna **PriceAdjusmentDescription**  hará referencia al descuento o al crédito acumulado; el precio por unidad vigente será el precio comercial menos el crédito obtenido del partner o cualquier otro descuento.
+2. Si el medidor puede tener en cuenta cualquier tipo de descuento o crédito (como los descuentos por nivel o el crédito obtenido del partner por los servicios administrados) durante todo el mes natural, el archivo de conciliación solo contendrá una línea de facturación. La columna **PriceAdjusmentDescription** hará referencia al descuento o al crédito obtenido.
 
-3. Si el medidor no es apto para el crédito obtenido del partner por los servicios administrados durante todo el mes natural, el archivo de conciliación solo contendrá una línea de facturación y el precio por unidad vigente será el precio de venta al por menor (que es el precio por unidad).
+3. Si no existen recursos para un medidor concreto que es apto para el descuento o el crédito obtenido del partner, el archivo de conciliación solo contendrá una línea de facturación y el precio por unidad vigente será el precio de venta al por menor (que es el precio por unidad).
 
-4. Si el medidor calificado para el **crédito obtenido del partner por los servicios administrados** durante una parte del mes, el archivo de conciliación contendrá dos líneas de facturación. Una línea representará los días que el medidor haya calificado y la segunda línea representará los días que el medidor no calificó. 
+4. Si el medidor (o cualquier recurso que este emita) es apto para el **crédito obtenido del partner por los servicios administrados** durante una parte del mes, el archivo de conciliación contendrá dos líneas de facturación. Una línea representará los días que el medidor haya calificado y la segunda línea representará los días que el medidor no calificó. 
 
 ## <a name="read-the-daily-usage-file"></a>Leer el archivo de uso diario
 
@@ -91,41 +129,28 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
     - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 08/07 al 31/07 (ten en cuenta que el precio unitario efectivo es el precio del minorista).
 
-![recon2](images/azure/billing2.png) 
+![recon2](images/azure/pecfinal.png) 
 
 ## <a name="invoice-in-customer-currency"></a>Factura en la moneda del cliente 
 
 Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y se facturarán en la moneda asignada en el país del cliente. Si la moneda de facturación no es USD, el tipo de cambio usado se mostrará en la última página de la factura. Los tipos de cambio se determinan mensualmente y se aplican a la factura siguiente. Para obtener una lista completa de las monedas de los países, consulta la [matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
 
-Microsoft usará [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) para determinar el tipo de cambio que se usará para convertir la moneda de los precios a la moneda de la factura. El tipo de cambio se actualizará y estará disponible el día anterior al primer día del mes para el que se aplica.
+Microsoft usará [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) para determinar el tipo de cambio que se usará para convertir la moneda de los precios a la moneda de facturación. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
 
-**Ejemplo**:  los cargos de uso para el período de servicio del 1 de agosto al 31 de agosto se facturarán mediante el tipo de cambio publicado el 1 de agosto. Estos cargos aparecerán en la factura de septiembre y el tipo de cambio se anotará en la última página de la misma. 
+**Ejemplo**:  los cargos de uso para el período de servicio del 1 de agosto al 31 de agosto se facturarán mediante el tipo de cambio publicado el 31 de julio. Estos cargos aparecerán en la factura de septiembre y el tipo de cambio se anotará en la última página de la misma. 
 
-Los usuarios inquilinos del partner continuarán viendo información relacionada con roles específicos referentes a todos los clientes y todos los pedidos, independientemente de la moneda de facturación. Además, el usuario podrá ver todas las facturas en todas las monedas.  
  
 ## <a name="azure-reservations"></a>Reservas de Azure 
 
 Si compras [reservas de Azure](https://docs.microsoft.com/partner-center/azure-reservations) a través de un plan de Azure, inicialmente, solo será posible elegir la facturación única en Centro de partners. La facturación mensual está disponible en Azure Portal. La facturación mensual estará disponible en el Centro de partners posteriormente. 
 
-## <a name="azure-cost-management"></a>Azure Cost Management 
-
-Las herramientas de Azure Cost Management ayudarán a las organizaciones a visualizar, administrar y optimizar los costos en Microsoft Azure. Esta característica estará disponible en Azure Portal. Los partners tendrán una solución siempre activa y de baja latencia con las siguientes características disponibles: 
-
-- Análisis más detallado y alertas presupuestarias 
-- API y conectores de Power BI 
-- Vista de varios clientes 
-- Gratis para administrar los costos de Azure 
-- Expansión de roles y usuarios 
-
-Consulta la [administración de costos de Azure](https://azure.microsoft.com/services/cost-management) para obtener más información sobre esta característica, que estuvo disponible en los Contratos Enterprise en febrero de 2019. Esta opción solo está disponible con los servicios de Azure que se compraron como parte de esta nueva experiencia comercial de Azure en CSP. 
- 
 ## <a name="azure-spending"></a>Gastos de Azure 
 
-La herramienta de gastos de Azure estará disponible en el Centro de partners en la nueva experiencia comercial de CSP. Cuando se aplique, esta funcionalidad permitirá a los partners ver lo siguiente:  
+La experiencia existente de gasto de Azure se ha actualizado para admitir la nueva facturación del plan de Azure en el Centro de partners. Esto permite a los partners:
 
-- El presupuesto total de un cliente 
-- El total de gastos estimados en un plan de Azure existente 
-- El porcentaje de uso de los clientes en cada período de facturación 
+- Ver, administrar y recibir alertas del presupuesto establecido en un nivel de cliente. 
+
+- Ver el total de gastos estimados en un plan de Azure (desglosado por nivel de recurso y medidor).
 
 Dado que el modelo de facturación para los servicios de Azure a través de un plan de Azure es el consumo de pago posterior, para evitar recibir una factura más grande de lo previsto, los partners pueden aplicar un presupuesto mensual y realizar un seguimiento del porcentaje de uso. Se puede aplicar un presupuesto a un cliente o a varios clientes al mismo tiempo. 
 
@@ -133,7 +158,7 @@ Dado que el modelo de facturación para los servicios de Azure a través de un p
 
 **Para obtener más información**
 
--  La forma en que se calcula el crédito obtenido del partner (PEC) se encuentra en la lista de precios disponible en el panel del Centro de partners. 
+-  La forma en que se calcula el crédito obtenido del partner (PEC) se encuentra en la lista de precios disponible en el [panel](https://partner.microsoft.com/en-us/dashboard/) del Centro de partners (es necesario iniciar sesión). 
    
 -  [Compra del plan de Azure](purchase-azure-plan.md)
 
