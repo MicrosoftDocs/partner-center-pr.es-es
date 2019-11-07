@@ -2,18 +2,20 @@
 title: Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365 | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: La edición de Office 365 Enterprise E4 se retirará a partir del 7 de abril de 2017. Obtén información sobre cómo migrar las suscripciones de cliente a las versiones más recientes de Office 365.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134385"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654316"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar de suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
 **Se aplica a**
 
@@ -21,10 +23,10 @@ ms.locfileid: "62134385"
 
 El plan Office 365 Enterprise E4 se retira de forma efectiva el 7 de abril de 2017. Ya no se podrán adquirir nuevas suscripciones de Office 365 E4 después de esta fecha, y las suscripciones E4 existentes no se renovarán automáticamente cuando expiren.
 
-Cuando finalicen suscripciones de E4, se cancelarán. Para garantizar la continuidad de los clientes, debes pasar los clientes cuyas suscripciones a E4 vayan a caducar a una opción de SKU compatible, como aparece a continuación. Te recomendamos mover los clientes a las nuevas suscripciones antes de la fecha de finalización para evitar interrupciones en el servicio a los clientes. 
+Cuando finalicen suscripciones de E4, se cancelarán. Para garantizar la continuidad de los clientes, debes pasar los clientes cuyas suscripciones a E4 vayan a caducar a una opción de SKU compatible, como aparece a continuación. Se recomienda mover a los clientes a nuevas suscripciones antes de la fecha de finalización anual de la suscripción para evitar interrupciones de servicio para los clientes. 
 
 > [!NOTE]  
->  Office 365 Enterprise E4 comerciales y las SKU de gobierno se retirarán.
+>  Se han retirado las SKU de Office 365 Enterprise E4 Commercial y Government.
  
 En la página de detalles de la suscripción, el estado de la suscripción a E4 ha cambiado de "Se renovará automáticamente en [fecha]" a "Expira en [fecha]". 
 
@@ -38,14 +40,14 @@ Puedes elegir mantener la misma funcionalidad con E4 o puedes hacer que los clie
 
 - Opción 1: Office 365 Enterprise E5
 
-- Opción 2: Office 365 Enterprise E3 + Skype para Business nube PBX
+- Opción 2: E3 de Office 365 empresa + Skype Empresarial Cloud PBX
 
-- Opción 3: Office 365 Enterprise E3 + Skype para CAL Plus Business (precios y funcionalidad de paridad con E4)
+- Opción 3: Office 365 Enterprise E3 + Skype Empresarial + CAL (paridad de precio y la funcionalidad con E4)
 
 - Opción 4: Office 365 Enterprise E3
 
 
-| Característica | Opción 1 | Opción 2 | Opción 3 | Opción 4 |
+| Función | Opción 1 | Opción 2 | Opción 3 | Opción 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | ¿Obtener todas las características incluidas en Office 365 Enterprise E4? | Sí | Sí | Sí | No |
 | ¿Números de teléfono administrados en Office 365? | Sí | Sí | No | No |
@@ -56,7 +58,7 @@ Puedes elegir mantener la misma funcionalidad con E4 o puedes hacer que los clie
 | ¿Visualizaciones interactivas de informes, paneles y datos? | Sí | No | No | No | 
 | ¿Más control sobre la seguridad de los datos y la conformidad con la privacidad integradas, transparencia y controles de usuario refinados? | Sí | No | No | No | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
+## <a name="transition-customers-to-new-product-plans"></a>Pasar a los clientes a nuevos planes de producto
 
 Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partners. En estos casos, podrías tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde SKU retiradas a unas más recientes que requieren los siguiente pasos:
 
@@ -68,15 +70,15 @@ Sigue estos pasos para migrar la suscripción a Office 365 Enterprise E4 de un c
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Paso 1 - Comprar la nueva suscripción
 
-1. Desde el **centro de partners** menú, seleccione **clientes**, seleccione el cliente que desea mover y, a continuación, seleccione **agregar suscripciones**.
+1. En el menú del **centro de Partners** , seleccione **clientes**, seleccione el cliente que desea migrar y, a continuación, seleccione **Agregar suscripciones**.
 
 2. Selecciona la suscripción que quieras adquirir del catálogo (en este caso, una de las opciones que se indican más arriba), escribe el número de licencias y, a continuación, **Enviar**.
 
-   El cliente ahora debería tener suscripciones antiguas y nuevas, la suscripción antigua a Office 365 Enterprise E4 y el nuevo "destino" de la suscripción, por ejemplo, opción 1: Office 365 Enterprise E5.
+   El cliente debería tener ahora suscripciones antiguas y nuevas, la antigua suscripción de Office 365 Enterprise E4 y la nueva suscripción de destino, por ejemplo, la opción 1-Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Paso 2: Reasignar licencias de los usuarios del cliente
 
-1. Desde el **centro de partners** menú, seleccione **clientes**, seleccione el cliente que desea mover y, a continuación, seleccione **usuarios y licencias**. La página Usuarios y licencias del cliente se abrirá.
+1. En el menú del **centro de Partners** , seleccione **clientes**, seleccione el cliente que desea migrar y, a continuación, seleccione **usuarios y licencias**. Se abre la página usuarios y licencias del cliente.
 
 2. Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
 
@@ -90,7 +92,7 @@ Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Paso 3 - Cancelar la suscripción antigua
 
-1. Desde el **centro de partners** menú, seleccione **clientes**. Selecciona al cliente que quieres mover y selecciona la suscripción que quieres cancelar.
+1. En el menú del **centro de Partners** , seleccione **clientes**. Selecciona al cliente que quieres mover y selecciona la suscripción que quieres cancelar.
 
 2. En la página de detalles de suscripción, establece el estado de la suscripción a **Suspendida**.
 

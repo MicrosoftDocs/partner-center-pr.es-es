@@ -1,130 +1,132 @@
 ---
-title: Análisis de Microsoft Learn | Centro de partners
+title: Análisis de Microsoft Learn | Centro de Partners
 ms.topic: article
 ms.date: 07/05/2019
-description: Información sobre cómo entender el análisis de aprendizaje
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Información sobre cómo comprender el análisis de aprendizaje
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e59be88d1e599bbd9d26827ec6a588a23a2f77a4
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674251"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653017"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Informe de análisis de Microsoft Learn
+# <a name="microsoft-learn-analytics-report"></a>Informe de Microsoft Learn Analytics
 
-El informe de Microsoft Learn le proporcionará información sobre los aprendices de la empresa incluidos los módulos que se ha completado y las rutas de acceso de aprendizaje que se encuentran en. El informe muestra el estado de cada factor individual. El administrador global y el administrador MPN para su empresa pueden ver los datos.
+En el informe de Microsoft Learn se proporciona información sobre los aprendizajes de la empresa, incluidos los módulos que se han completado y las rutas de aprendizaje en las que se encuentran. El informe muestra el estado de cada estudiante individual. El administrador global y el administrador de MPN para su empresa pueden ver los datos.
 
 ## <a name="how-to-read-the-report"></a>Cómo leer el informe
 
-### <a name="summary-charts"></a>Gráficos de resumen
+### <a name="summary-charts"></a>Gráficos de Resumen
 
-Estos gráficos resumen tendencias acumulativas de recuento y mensual para individuos entrenados, las finalizaciones de módulo y las rutas de aprendizaje.
+Estos gráficos Resumen el recuento y las tendencias acumulativas mensuales de los individuos entrenados, las finalizaciones de módulos y las rutas de aprendizaje.
 
 
-**Entrena el recuento de las personas**: Un recuento de todos los distintos factores que hayan completado al menos un módulo durante el intervalo de fechas seleccionado 
+**Recuento de personas entrenados**: recuento de todos los alumnos distintos que han completado al menos un módulo durante el intervalo de fechas seleccionado. 
 
-**Mini gráfico de tendencia de individuos entrenados**: Recuento acumulado de mes de los aprendices activos a mes 
+**Gráfico mini de tendencias de personas entrenadas**: número acumulado de mes a mes de los profesionales de aprendizaje activos 
 
-**Número de finalizaciones de módulo**: Finalizaciones de recuento de módulo por los aprendices en la empresa del socio durante el intervalo de fechas seleccionado.
-Por ejemplo, si "Módulo 1" se ha completado por 15 usuarios y el "módulo 2" se ha completado por las mismas 15 personas, el recuento de las finalizaciones de módulo será 30. La fecha de finalización de módulo debe estar en el intervalo de fechas seleccionado.
+**Recuento de finalizaciones de módulos**: recuento de las finalizaciones de módulos de los aprendizajes de la empresa del asociado durante el intervalo de fechas seleccionado.
+Por ejemplo, si el "módulo 1" se completa en 15 personas y el "módulo 2" se ha completado en las 15 mismas personas, el número de finalizaciones del módulo será 30. La fecha de finalización del módulo debe estar en el intervalo de fechas seleccionado.
 
-**Las finalizaciones de módulo mini gráfico de tendencia**: Recuento acumulado de mes de las finalizaciones de módulo a mes 
+**Gráfico mini de tendencias de finalizaciones de módulos**: recuento acumulado de mes a mes de las finalizaciones del módulo 
 
-**Número de finalizaciones de ruta de acceso de aprendizaje**: Finalizaciones de ruta de acceso de recuento de aprendizaje por los aprendices en la empresa del socio durante el intervalo de fechas seleccionado.
-Por ejemplo, si la ruta de aprendizaje "Ruta de acceso 1" se ha completado por 20 usuarios y la ruta de aprendizaje "ruta de acceso 2" se ha completado por las mismas 20 personas, el recuento de finalización de la ruta de aprendizaje será 40. La fecha de finalización de la ruta de acceso de aprendizaje debe estar dentro del intervalo de fechas seleccionado.
+**Recuento de finalizaciones de ruta de aprendizaje**: recuento de finalizaciones de ruta de aprendizaje por los aprendidos en la empresa del asociado durante el intervalo de fechas seleccionado.
+Por ejemplo, si la ruta de aprendizaje "ruta de acceso 1" ha sido completada por 20 personas y la ruta de aprendizaje "ruta de acceso 2" se ha completado por las 20 personas, el recuento de finalización de la ruta de aprendizaje será 40. La fecha de finalización de la ruta de aprendizaje debe estar dentro del intervalo de fechas seleccionado.
 
-**Mini gráfico de tendencia de finalizaciones de ruta de acceso de aprendizaje**: Recuento acumulado de mes de aprendizaje a mes las finalizaciones de ruta de acceso 
+**Gráfico mini de tendencias de finalizaciones de ruta de aprendizaje**: número acumulado de mes a mes de las finalizaciones de la ruta de aprendizaje 
 
-### <a name="trained-individuals-monthly-trend"></a>Tendencia mensual de personas entrenado
+### <a name="trained-individuals-monthly-trend"></a>Tendencia mensual de usuarios entrenados
 
-Estos datos están la tendencia de los usuarios de su empresa que ha completado un módulo por primera vez en ese mes. 
+Estos datos son la tendencia de los usuarios de su empresa que han completado un módulo por primera vez en ese mes. 
 
-**Eje x** es mes para el filtro de tiempo seleccionado. 
+**Eje X** es month para el filtro de tiempo seleccionado. 
 
-**Eje y** es el recuento de sistemas aprendices de activos que se han registrado (por primera vez la finalización de un módulo) durante ese mes. Esto no es acumulativo.
+**El eje Y es el** recuento de los aprendizajes activos que se han registrado (finalización por primera vez de un módulo) durante ese mes. Esto no es acumulativo.
 
-### <a name="module-completions-monthly-trend"></a>Tendencia mensual de finalizaciones de módulo
+### <a name="module-completions-monthly-trend"></a>Tendencia mensual de finalizaciones de módulos
 
-Estos datos están la tendencia de los módulos que se ha completado por todos los usuarios de la compañía durante ese mes. (no acumulativa) 
+Estos datos son la tendencia de los módulos completados por todos los usuarios de la empresa durante ese mes. (no acumulativa) 
 
-**Eje x** es mes para el filtro de tiempo seleccionado. 
+**Eje X** es month para el filtro de tiempo seleccionado. 
 
-**Eje y** es el recuento de las finalizaciones de módulo durante ese mes. Esto no es acumulativo.
+El **eje Y** es el recuento de las finalizaciones del módulo durante ese mes. Esto no es acumulativo.
 
-### <a name="learning-path-completions-monthly-trend"></a>Tendencia mensual de finalizaciones de ruta de acceso de aprendizaje
+### <a name="learning-path-completions-monthly-trend"></a>Tendencia mensual de finalizaciones de ruta de aprendizaje
 
-Estos datos están la tendencia de las rutas que se ha completado por los usuarios de su empresa durante ese mes de aprendizaje. (no acumulativa) 
+Estos datos son la tendencia de las rutas de aprendizaje completadas por los usuarios de su empresa durante ese mes. (no acumulativa) 
 
-**Eje x** es mes para el filtro de tiempo seleccionado. 
+**Eje X** es month para el filtro de tiempo seleccionado. 
 
-**Eje y** es el número de finalizaciones de módulo en ese mes. Esto no es acumulativo.
+**El eje Y es el** recuento de finalizaciones de módulos en ese mes. Esto no es acumulativo.
 
-### <a name="learning-path-completion-tabs"></a>Pestañas de la finalización de ruta de acceso de aprendizaje 
+### <a name="learning-path-completion-tabs"></a>Pestañas de finalización de ruta de aprendizaje 
 
-**Ficha módulo**
+**Pestaña módulo**
 
-Esta ficha incluye el desglose de los módulos de completado de la empresa mediante nombres de módulo 5 principales; el producto al que está asociado; el módulo y el rol de usuario pertinente para el módulo.  
+Esta pestaña incluye el desglose de los módulos completados en su empresa por los 5 nombres de módulos principales; producto al que está asociado el módulo; y el rol de usuario pertinente para el módulo.  
 
-- Gráfico de anillos de finalizaciones de módulo: desglose de las finalizaciones de módulo (mostrado en la sección de resumen de recuento) por los nombres de módulo.
+- Gráfico de anillos de finalizaciones de módulos: desglose de las finalizaciones del módulo (recuento mostrado en la sección de resumen) por los nombres de módulo.
 
-Número que aparece en el centro del gráfico es los módulos total completados
+El número que se muestra en el centro del gráfico es el total de módulos completados
 
-- Las finalizaciones por rol: desglose de las finalizaciones de módulo por el rol del módulo. Si un módulo está asociado a varios roles, cada uno de los roles se agrega al recuento de las finalizaciones de módulo.
+- Finalizaciones por rol: desglose de las finalizaciones del módulo por el rol del módulo. Si un módulo está asociado a varios roles, cada uno de los roles se agrega al recuento de finalizaciones de módulos.
 
-Número que aparece en el centro del gráfico es el número de roles diferentes para las finalizaciones de módulo. 
+El número que se muestra en el centro del gráfico es el número de roles distintos para las finalizaciones del módulo. 
 
-- Las finalizaciones por producto: desglose de las finalizaciones de módulo por el producto en el módulo está asignado a. Si un módulo está asociado a varios productos, cada uno de los productos se agrega al recuento de las finalizaciones de módulo.    
+- Finalizaciones por producto: desglose de las finalizaciones del módulo por el producto al que se asigna el módulo. Si un módulo está asociado a varios productos, cada uno de los productos se agrega al recuento de finalizaciones de módulos.    
 
-Número que aparece en el centro del gráfico es el número de productos distintos para las finalizaciones de módulo.  
+El número que se muestra en el centro del gráfico es el número de productos distintos para las finalizaciones del módulo.  
 
-**Pestaña de la ruta de acceso de aprendizaje**   
+**Pestaña ruta de aprendizaje**   
 
-Esta ficha incluye un desglose de aprendizaje de rutas de acceso completadas de su empresa por nombres de módulo 5 principales; el producto que se asigna la ruta de aprendizaje y el rol pertinente para esta ruta de aprendizaje.  
+Esta pestaña incluye un desglose de las rutas de aprendizaje completadas en su empresa por los 5 nombres de módulos principales. el producto al que está asignada la ruta de aprendizaje; y el rol pertinente para esta ruta de aprendizaje.  
 
-- Gráfico de anillos de finalizaciones de rutas de acceso de aprendizaje: desglose de las finalizaciones de ruta de acceso de aprendizaje (mostrado en la sección de resumen de recuento) por su nombre.
+- Gráfico de anillos de finalización de rutas de aprendizaje: desglose de las finalizaciones de ruta de aprendizaje (recuento mostrado en la sección de resumen) por nombre.
 
-- Las finalizaciones por rol *: desglose de lo aprendido las finalizaciones de rutas de acceso del rol. Si un módulo está asociado a varios roles, cada uno de los roles se agrega al recuento de las finalizaciones de módulo.
+- Finalizaciones por rol *: desglose de las finalizaciones de rutas de aprendizaje realizadas por el rol. Si un módulo está asociado a varios roles, cada uno de los roles se agrega al recuento de finalizaciones de módulos.
 
-- Las finalizaciones por producto: desglose de lo aprendido las finalizaciones de rutas de acceso que el producto al que se asigna la ruta de aprendizaje. Si un módulo está asociado a varios productos, cada uno de los productos se agrega al recuento de las finalizaciones de módulo.
+- Finalizaciones por producto: desglose de las finalizaciones de rutas de aprendizaje realizadas por el producto al que se asigna la ruta de aprendizaje. Si un módulo está asociado a varios productos, cada uno de los productos se agrega al recuento de finalizaciones de módulos.
 
-### <a name="completions-by-learning-individuals"></a>Finalizaciones por individuos de aprendizaje
+### <a name="completions-by-learning-individuals"></a>Finalizaciones por personas de aprendizaje
 
-Enumera los usuarios de la compañía y los detalles de los módulos de completado y las rutas de aprendizaje entrenados.
+Aquí se enumeran los usuarios entrenados de la empresa y los detalles de sus módulos completos y rutas de aprendizaje.
 
-Microsoft Learn identifica aprendices con un identificador de objeto de usuario. En el **ficha módulos**, todos los aprendices se ordenan por los módulos que se completó. Se muestran con su nombre de usuario Microsoft Learn, Id. de objeto y el recuento de módulos. Puede buscar con nombre de usuario. 
+Microsoft Learn identifica a los aprendidos con un identificador de objeto de usuario. En la **pestaña módulos**, todos los aprendizajes se ordenan por los módulos completados. Se muestran con sus Microsoft Learn nombre de usuario, identificador de objeto y recuento de módulos. Puede realizar búsquedas con el nombre de usuario. 
 
-En el **pestaña rutas de aprendizaje** todos los factores ordenados por las rutas de acceso completadas, de aprendizaje se muestran con el nombre para mostrar aprendiz, Id. de objeto y número de módulos.
+En la **pestaña rutas de aprendizaje** , todos los aprendizajes ordenados por rutas de aprendizaje completadas, se muestran con el nombre para mostrar del aprendizaje, el ID. de objeto y el recuento de módulos.
 
-Para obtener detalles de un aprendiz utilizando el identificador de objeto de usuario: 
+Para obtener detalles sobre el uso del identificador de objeto de usuario: 
 
-1. Inicie sesión en [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). (Debe ser administrador global del inquilino de Azure AD de su empresa).
+1. Inicie sesión en el [Explorador de gráficos](https://developer.microsoft.com/graph/graph-explorer ). (Debe ser el administrador global del inquilino de Azure AD de su empresa).
 
-2. Copie el identificador de objeto de usuario para el [área resaltada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) en el Explorador de Graph. 
+2. Copie el identificador de objeto de usuario en el [área resaltada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) en el explorador de gráficos. 
 
-## <a name="faq"></a>Preguntas más frecuentes
+## <a name="faq"></a>Preguntas frecuentes
 
 1. No puedo ver los detalles de aprendizaje de mi empresa.
 
-Este informe está disponible para los asociados que tengan una cuenta de centro de partners. Si se encuentra aún en Partner Membership Center, no podrá ver este informe.
+Este informe está disponible para los asociados que tienen una cuenta en el centro de Partners. Si todavía está en el centro de pertenencia a asociados, no podrá ver este informe.
 
-2.  ¿Quién en nuestra empresa puede ver este informe? 
+2.  ¿Quién de nuestra empresa puede ver este informe? 
 
-El administrador MPN y el administrador global pueden ver el informe.
+El administrador global y el administrador de MPN pueden ver el informe.
 
-3. ¿Cómo puedo asegurarme de que todos nuestros usuarios asocian sus cuentas de Microsoft Learn con su cuenta de centro de partners?
+3. ¿Cómo puedo asegurarme de que todos nuestros usuarios asocian sus cuentas de Microsoft Learn a su cuenta del centro de Partners?
 
-Después de que el administrador global agrega un nuevo usuario, ese usuario debe ir a su **mi perfil** para asociar su cuenta de Microsoft Learn.
+Una vez que el administrador global agrega un nuevo usuario, dicho usuario debe ir a su **perfil My** para asociar su cuenta de Microsoft Learn.
 
-- Seleccione el **su cuenta** icono en la esquina derecha del panel y, a continuación, seleccione **mi perfil**. 
+- Seleccione el icono de **su cuenta** en la esquina derecha del panel y, a continuación, seleccione **mi perfil**. 
 
--  En **su aprendizaje** un usuario podrá asociar su cuenta de Microsoft Learning y conectarse a su cuenta de Microsoft Partner University.
+-  En **su aprendizaje** , un usuario podrá asociar su cuenta de aprendizaje de Microsoft y conectar su cuenta de Microsoft a la Universidad de Partners.
 
-3. ¿Puedo ver los usuarios de toda la empresa que inicie sesión en Microsoft Learn con una cuenta MSA en este informe?
+3. ¿Puedo ver todos los usuarios de la empresa que inician sesión en Microsoft Learn con una cuenta de MSA en este informe?
 
-Actualmente, la mejor manera de hacerlo consiste en agregar estos usuarios a Azure AD del inquilino y agregarlas al centro de partners para que puede asociar su cuenta de Microsoft Learn a través de **mi perfil** en el centro de partners. 
+Actualmente, la mejor manera de hacerlo es agregar estos usuarios al inquilino de Azure AD y agregarlos al centro de partners para que puedan asociar su cuenta de Microsoft Learn a través de **mi perfil en el** centro de Partners. 
 
-Para los usuarios que solo usan su cuenta MSA para el entrenamiento en un futuro próximo, el equipo de Microsoft Learn permitirá la posibilidad de asociar su correo electrónico del trabajo en su perfil de Microsoft Learn. 
+Para los usuarios que solo usan su cuenta de MSA para el entrenamiento, en un futuro próximo, el equipo de Microsoft Learn permitirá a ellos asociar el correo electrónico del trabajo a su perfil de Microsoft Learn. 
 

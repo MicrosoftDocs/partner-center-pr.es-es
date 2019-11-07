@@ -2,18 +2,20 @@
 title: Crear, suspender o cancelar suscripciones de cliente | Centro de partners
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel, suspension
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578780"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653597"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -35,9 +37,9 @@ Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Pa
 2. Selecciona **Agregar suscripción**.
 
 3. Para ver solo determinados tipos de suscripciones, haz selecciones en los filtros disponibles:
-   - **Anunciante**: elige **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace que publican los ISV.
-   - **Tipo de facturación**: Selecciona el tipo de facturación de suscripción que quieras usar: **Licencia** o **Uso**. Consulta [FAQ about new billing features](faq-about-new-billing-features.md) (Preguntas frecuentes sobre las nuevas características de facturación) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
-   - **Categoría**: Elige **Empresa**, **Pequeña empresa** o **Prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Publicador**: elija **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace publicados por ISV.
+   - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulta [FAQ about new billing features](faq-about-new-billing-features.md) (Preguntas frecuentes sobre las nuevas características de facturación) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
+   - **Categoría**: elija **empresa**, **pequeña empresa**o **prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 4. Selecciona los productos para los que quieras comprar suscripciones. Ten en cuenta que los productos que ves dependen del tipo de segmento de cliente (educación, gobierno, etc.) y de los filtros que hayas aplicado. Si un producto no está disponible, puede que el cliente ya tenga una suscripción a dicho producto y solo se permite una. O bien puede que hayas suspendido la suscripción, en cuyo caso puedes volver a activarla, en lugar de adquirir una nueva.
 

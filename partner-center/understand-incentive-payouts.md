@@ -2,16 +2,18 @@
 title: Ver la información de los pagos de incentivos | Centro de Partners
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Mira las ganancias y pagos de los programas de incentivos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093060"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653997"
 ---
 # <a name="view-your-incentives-payments-information"></a>Ver la información de los pagos de incentivos
 
@@ -33,7 +35,7 @@ Para abrir una de las páginas de incentivos:
 ## <a name="payments-page"></a>Página pagos
 Los totales de esta página representan todos los identificadores de MPN que se usan. Puede filtrar por ID. de participante, programa, ID. de pago y tipo de ganancia. Los importes se indican en dólares estadounidenses. El valor de pago también se muestra en pago a moneda. 
 
-|**Áreas**   |**Descripción**    |
+|**Área**   |**Descripción**    |
 |------------------|:-------------------------------------|
 |Pago total de este año        |El total combinado abonado a su año, en dólares estadounidenses, para todos los identificadores de MPN.                                      |
 |Siguiente pago estimado      |El siguiente pago que le llega (incluso si hay otros que próximamente), en dólares estadounidenses.                                     |
@@ -44,7 +46,7 @@ Los totales de esta página representan todos los identificadores de MPN que se 
 Para exportar cualquiera de los datos de esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos. 
 
 ## <a name="transaction-history-page"></a>Página historial de transacciones
-En esta página se muestran todos los beneficios individuales, incluida la fecha, el tipo y la obtención de cada uno de ellos. Puede seleccionar un período de tiempo para verlo y también puede filtrar por ID. de inscripción, programa, ID. de pago, tipo de ganancia, palanca y estado. Los datos están disponibles para el año fiscal actual (1 de Julio – 30 de junio) y los dos años fiscales anteriores. 
+En esta página se muestran todos los beneficios individuales, incluida la fecha, el tipo y la obtención de cada uno de ellos. Puede seleccionar un período de tiempo para verlo y también puede filtrar por ID. de inscripción, programa, ID. de pago, tipo de ganancia, palanca y estado. Los datos están disponibles para el año fiscal actual (el 1 de julio del 30 de junio) y los dos años fiscales anteriores. 
 
 Para ver más detalles sobre una ganancia, seleccione la flecha hacia abajo que se encuentra en el lado derecho de la página. Esto mostrará la palanca, el importe de los ingresos, el producto y el cliente. Si, por alguna razón, alguno de estos datos no está disponible, pero necesita acceder a él, póngase en contacto con el soporte técnico. Si la ganancia es el resultado de un ajuste, y no una transacción, no se mostrarán los campos producto y cliente. 
 

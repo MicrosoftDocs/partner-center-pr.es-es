@@ -1,43 +1,45 @@
 ---
-title: La estructura de la cuenta en el centro de partners | Centro de partners
+title: La estructura de la cuenta en el centro de Partners | Centro de Partners
 ms.topic: article
 ms.date: 06/13/2019
-description: Su empresa tiene dos niveles de cuentas en el centro de partners.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Su compañía tiene dos niveles de cuentas en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131718"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653052"
 ---
-# <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de partners
+# <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de Partners
 
-Su empresa tiene dos niveles de cuentas en el centro de partners. 
+Su compañía tiene dos niveles de cuentas en el centro de Partners. 
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>El nivel superior es la cuenta Global principal (PGA).
+### <a name="the-top-level-is-the-primary-global-account-pga"></a>El nivel superior es la cuenta global principal (PGA).
 
-- La cuenta Global principal contiene la dirección de negocio legal y al contacto principal de su empresa. 
-- Ver que los detalles de la cuenta principal Global de configuración asociado -> perfil de socio comercial.
-- Los detalles también contendrá el identificador principal MPN cuenta Global. 
-- La PGA es el elemento primario de la empresa y no se usa para asociar para programas de incentivos o proveedor de soluciones en la nube. 
-- Las ubicaciones se deben usar para esas asociaciones.
+- La cuenta global principal contiene la dirección comercial legal y el contacto principal de su empresa. 
+- Vea los detalles de la cuenta global principal de configuración de socio comercial: > Perfil de socio comercial.
+- Los detalles también contendrán el identificador de MPN de la cuenta global principal. 
+- El PGA es el elemento principal de su empresa y no se usa para asociar programas de incentivos o proveedores de soluciones en la nube. 
+- Las ubicaciones deben usarse para tales asociaciones.
 
-### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>La segunda cuenta nivel es la cuenta de location llama a la ubicación de asociado de cuenta (PLA).
+### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>La cuenta de segundo nivel es la cuenta de ubicación denominada cuenta de ubicación de socio (PLA).
 
-La PGA puede tener ubicaciones de negocio adicionales debajo de él. Cada ubicación tiene su propio Id. de MPN o ubicación de asociado de cuenta (PLA). Utilice la ubicación del Id. de MPN para la inscripción en programas de incentivos y empresariales transaccionales.
+El PGA puede tener ubicaciones de negocio adicionales. Cada ubicación tiene su propio identificador de MPN o cuenta de ubicación de socio (PLA). Se usa el identificador de MPN de ubicación para la empresa transaccional y la inscripción en programas de incentivos.
 
-- Cada cuenta de Location asociado puede tener su propia dirección legal y el contacto principal. Ubicaciones también pueden compartir la dirección legal con la cuenta global o con otras ubicaciones.
-- Ver la lista de cuentas de asociado de ubicación de configuración asociado -> ubicaciones.
-- Todas las cuentas de ubicación son del mismo nivel y en la cuenta principal Global.
-- Administradores de cuentas pueden agregar o quitar ubicaciones.
+- Cada cuenta de ubicación de asociados puede tener su propia dirección legal y contacto principal. Las ubicaciones también pueden compartir la dirección legal con la cuenta global o con otras ubicaciones.
+- Ver la lista de cuentas de ubicación de asociados de la configuración de socio: ubicaciones de >.
+- Todas las cuentas de ubicación se encuentran en el mismo nivel y en la cuenta global principal.
+- Los administradores de cuentas pueden agregar o quitar ubicaciones.
 
 ![Estructura de la cuenta](images/accountstructure.png)
 
-Para obtener más información sobre la administración de ubicaciones, lea [Administre su cuenta de asociado: Ubicaciones](manage-locations.md). 
+Para obtener más información acerca de cómo administrar ubicaciones, consulte [Administración de la cuenta de socio comercial: ubicaciones](manage-locations.md). 
 
 
 

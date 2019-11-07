@@ -2,17 +2,19 @@
 title: 'Administrar su cuenta de asociado: ubicaciones | Centro de Partners'
 ms.topic: article
 ms.date: 03/27/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Administrar las ubicaciones de su empresa en el centro de Partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: cuenta de asociado, ubicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171222"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653356"
 ---
 # <a name="manage-your-partner-account-locations"></a>Administrar su cuenta de socio comercial: ubicaciones
 

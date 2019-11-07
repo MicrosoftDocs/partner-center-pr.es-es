@@ -2,17 +2,19 @@
 title: Impuestos y exenciones fiscales | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262982"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654018"
 ---
 # <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -24,11 +26,11 @@ ms.locfileid: "67262982"
 
 Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners. Las reglas varían según el país o región. Los partners deben trabajar con su asesor fiscal para archivar las exenciones fiscales correspondientes en función de su ubicación y la de sus clientes. Para marcar la cuenta de revendedor de Microsoft como no gravable, el partner debe enviar los certificados de exención a Microsoft.
 
-**Archivo de una exención fiscal**
+**Exención de impuestos de archivo**
 
-1.  Buscar su **Microsoft ID** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil organización**.
-2.  Buscar su **Id. de MPN** en el centro de partners &gt; **configuración de la cuenta** &gt; **perfil de socio**.
-3.  Crea un vale de soporte nuevo. En el menú del centro de partners, seleccione **las solicitudes de servicio** &gt; **solicita el centro de partners** &gt; **nueva solicitud**.
+1.  Busca tu **identificador de Microsoft** en el centro de Partners &gt; **configuración de cuenta** &gt; Perfil de la **organización**.
+2.  Buscar el **identificador de MPN** en el centro de Partners &gt; **configuración de cuenta** &gt; **Perfil de socio comercial**.
+3.  Crea un vale de soporte nuevo. En el menú del centro de Partners, seleccione **solicitudes de servicio** &gt; solicitudes del **centro de Partners** &gt; **nueva solicitud**.
 4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.
 5.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
 
@@ -51,7 +53,7 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 <p>Microsoft no admite créditos ni segundas facturaciones. Es por eso que, antes de vender suscripciones, tienes que registrar el número del identificación a efectos de IVA en el Centro de partners.</p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
-<li>En el centro de partners, vaya al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación</strong>.</li>
+<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
 <li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
 <li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
 </ol></td>
@@ -59,11 +61,11 @@ Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la
 <tr class="odd">
 <td>Sudáfrica</td>
 <td><p>
-Microsoft ahora aplica el impuesto de valor añadido (IVA) estándar de contenido digital y los servicios adquiridos por asociados de Sudáfrica. Para excluir el IVA de las facturas y administrarla usted mismo, utilice el siguiente procedimiento para actualizar su perfil de facturación del asociado.
+Microsoft aplica ahora el impuesto de valor añadido estándar (IVA) sobre el contenido digital y los servicios adquiridos por los asociados de Sudáfrica. Para excluir el IVA de las facturas y administrarlo, utilice el siguiente procedimiento para actualizar el perfil de facturación de su socio comercial.
 </p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
-<li>En el centro de partners, vaya al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación</strong>.</li>
+<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
 <li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
 <li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft ahora aplica el impuesto de valor añadido (IVA) estándar de contenid
 <td>Turquía</td>
 <td>
 <p>
-Microsoft ahora aplica el impuesto de valor añadido (IVA) estándar de contenido digital y los servicios adquiridos por asociados de Turquía. Para excluir el IVA de las facturas y administrarla usted mismo, utilice el siguiente procedimiento para actualizar su perfil de facturación del asociado.
+Microsoft aplica ahora el impuesto de valor añadido estándar (IVA) sobre el contenido digital y los servicios adquiridos por los asociados en Turquía. Para excluir el IVA de las facturas y administrarlo, utilice el siguiente procedimiento para actualizar el perfil de facturación de su socio comercial.
 </p>
 <p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
 <ol>
-<li>En el centro de partners, vaya al menú Centro de partners &gt; <strong>configuración de la cuenta</strong> &gt; <strong>perfil de facturación</strong>.</li>
+<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
 <li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
 <li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
 </ol></td>

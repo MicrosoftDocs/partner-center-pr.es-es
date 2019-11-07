@@ -2,17 +2,19 @@
 title: Asignar suscripciones de Azure en el Centro de partners | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ahora puedes asignar suscripciones de Azure a los clientes en el Centro de partners. También puedes permitirles que administren las suscripciones por sí mismos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, suscripción de Azure, suscripción, suscripciones, asignar suscripción, administrar suscripción de azure
 ms.localizationpriority: medium
-ms.openlocfilehash: fb5c5ee43e2d79cb2cf24226d3799f858c16d737
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f9ff42dcc6561c6775232d3a4cc54d749ee6ec45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134865"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654382"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Asignar suscripciones de Azure en el Centro de partners
 
@@ -22,7 +24,7 @@ ms.locfileid: "62134865"
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Asignar suscripciones de Azure a tus clientes en el Centro de partners
 
-1. Seleccione **clientes** desde su **centro de partners** menú y busque el cliente que desea administrar.
+1. Seleccione **clientes** en el menú del **centro de Partners** y busque el cliente que desea administrar.
 
 2.  Selecciona la flecha abajo situada al final de la fila para expandir el registro del cliente y, a continuación, selecciona **Portal de administración de Microsoft Azure**. Se te dirigirá a Azure Portal, donde puedes administrar las suscripciones del cliente. 
 
@@ -34,17 +36,17 @@ ms.locfileid: "62134865"
 
 7. Después de agregar el usuario a la suscripción, puedes asignar al usuario una función y la cuenta específica a la que el usuario tendrá acceso. 
 
-**Permitir que los clientes administrar sus suscripciones de Azure**
+**Permitir a los clientes administrar sus suscripciones de Azure**
 
-Después de crear una suscripción de Microsoft Azure para un cliente, puedes permitirles administrar la suscripción. Para ello, debes iniciar sesión en el Portal de administración de Microsoft Azure del cliente. 
+Después de crear una suscripción de Microsoft Azure para un cliente, puedes permitirles administrar la suscripción. Para ello, deberá iniciar sesión en el portal de administración de Microsoft Azure del cliente. 
 
-1.  Para abrir Azure Portal del cliente, expande el listado del cliente en tu lista de clientes o selecciona el nombre del cliente y, después, selecciona **Portal de administración de Microsoft Azure**.
+1.  Para abrir el Azure Portal del cliente, expanda la lista del cliente en la lista de clientes o seleccione el nombre del cliente y, a continuación, seleccione **portal de administración de Microsoft Azure**.
     
 > [!NOTE]  
 > Si se te solicita iniciar sesión en Azure Portal, puede que no tengas privilegios administrativos delegados. Selecciona **Solicitar una relación** para invitar al cliente a identificarte como su asociado de registro. Una vez que el cliente acepte tu invitación, se te conceden automáticamente privilegios administrativos delegados. 
 
-2.  En Azure Portal, abre la lista de suscripciones del cliente y selecciona la suscripción de Azure del cliente.
+2.  En el Azure Portal, abra la lista suscripciones del cliente y seleccione la suscripción de Azure del cliente.
 
-3.  Asigna un rol a cualquiera de los usuarios del cliente para que pueda crear y administrar recursos con su suscripción.
+3.  Asigne un rol a cualquiera de los usuarios del cliente para que puedan crear y administrar los recursos de su suscripción.
 
 

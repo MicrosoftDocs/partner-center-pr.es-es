@@ -2,18 +2,20 @@
 title: Escalar problemas a Microsoft | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
-description: Se espera que soluciones los problemas en nombre de los clientes. Sin embargo, existen varias categorías de aspectos que debe pasar a Microsoft a solucionar.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Se espera que soluciones los problemas en nombre de los clientes. Sin embargo, hay varias categorías de problemas que tendrá que entregar a Microsoft para corregirlos.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c2823ab38a5bcafff307896f8378904a21735191
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135675"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653139"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Escalar problemas a Microsoft
 
@@ -31,7 +33,7 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 -   Servicios no disponibles
 
--   Errores y otras irregularidades que afectan al aspecto o funcionamiento del servicio
+-   Errores y otras irregularidades que afectan al aspecto o al funcionamiento del servicio.
 
 -   Interrupciones de red a gran escala
 
@@ -39,16 +41,16 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 ## <a name="submit-a-support-request"></a>Enviar una solicitud de soporte
 
-1. En el centro de partners, seleccione **clientes**.
+1. En el centro de Partners, seleccione **clientes**.
 2. Selecciona al cliente que necesita el soporte.
 3. Selecciona **Administración de servicios** y selecciona **Solicitudes de servicio**.
 4. Selecciona **Nueva solicitud** y, a continuación, selecciona **Microsoft Office 365**.
-5. Se le llevará al portal de Office 365 donde deberá iniciar sesión con sus credenciales de centro de partners.
+5. Se le dirigirá al portal de Office 365, donde debe iniciar sesión con sus credenciales del centro de Partners.
 6. Selecciona **Soporte**, **Nueva solicitud de servicio** en el menú izquierdo.
 7. Selecciona el tema de soporte.
 
 >[!NOTE]
->Es importante iniciar desde el centro de partners para que se mantiene la relación entre los socios y clientes. 
+>Es importante empezar por el centro de partners para mantener la relación entre el socio y el cliente. 
 
 
 Para obtener información sobre cómo notificar problemas en nombre del cliente, consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).

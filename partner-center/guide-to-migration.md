@@ -2,17 +2,19 @@
 title: Guía para la migración desde PMC al centro de Partners | Centro de Partners
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Qué debe saber al migrar su empresa de PMC al centro de Partners
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, migración, pasar al centro de Partners
+keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708918"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653097"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al centro de Partners
 
@@ -68,7 +70,7 @@ Cuando se crea el nuevo inquilino de Azure AD, puede invitar a los empleados a q
 ![Invitar a los empleados](images/migration/invite.png)
 
 
-Si ha iniciado sesión con un inquilino de AAD existente, los empleados se moverán con usted. En este caso, asigne los roles de los empleados que determinen lo que pueden hacer en el centro de Partners. Nota: Los roles del centro de Partners son diferentes de los roles en PMC. Para obtener más información, consulte [pasar de PMC al centro de Partners](move-pmc-pc-map.md).
+Si ha iniciado sesión con un inquilino de AAD existente, los empleados se moverán con usted. En este caso, asigne los roles de los empleados que determinen lo que pueden hacer en el centro de Partners. Nota: los roles del centro de Partners son diferentes de los roles en PMC. Para obtener más información, consulte [pasar de PMC al centro de Partners](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Comprobar el dominio y convertirse en administrador global  
 
@@ -91,12 +93,12 @@ Paseo por el panel. Aquí puede administrar su pertenencia, agregar un perfil de
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Crear cuentas de usuario](create-user-accounts-and-set-permissions.md)
-- [Asignar roles de usuario y permisos](permissions-overview.md)
-- [Administrar los programas de pertenencia](renew-mpn-offers.md)
-- [Crear el perfil de negocio de su empresa](create-a-marketing-profile.md)
+- [Creación de cuentas de usuario](create-user-accounts-and-set-permissions.md)
+- [Asignación de roles y permisos de usuario](permissions-overview.md)
+- [Administración de programas de suscripción](renew-mpn-offers.md)
+- [Creación del perfil de negocio de una empresa](create-a-marketing-profile.md)
 - [Conexión con los clientes a través de referencias](responding-to-referrals.md)
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 - [Guía para la migración de varias empresas de PMC al centro de Partners](move-multiple-companies.md)

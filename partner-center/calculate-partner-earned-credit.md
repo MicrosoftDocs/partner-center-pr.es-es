@@ -2,17 +2,19 @@
 title: Cómo se calcula el crédito obtenido del socio | Centro de Partners
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cómo se calcula el aspecto del crédito obtenido por el socio comercial del plan de Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eb0dd5ef22632a85ca0227cc9e988a88263e9ddf
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318772"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653719"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Cómo se calcula el crédito obtenido por el socio comercial (PEC)
 
@@ -44,4 +46,4 @@ Para más información
 
 - [Plan de Azure: facturación](azure-plan-billing.md)
 
-- [Lista de precios para la nueva experiencia de comercio en CSP](azure-plan-price-list.md)
+- [Lista de precios para la nueva experiencia comercial en CSP](azure-plan-price-list.md)

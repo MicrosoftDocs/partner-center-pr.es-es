@@ -1,19 +1,15 @@
 ---
-title: Comprobación de tu perfil de partner | Centro de partners
-description: La primera vez que inicies sesión como administrador, asegúrate de que los detalles de soporte técnico sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
-MS.Topic: article
-Date: 08/06/2019
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: LauraBrenner
-ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
-ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
-ms.translationtype: HT
+ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68860956"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653990"
 ---
+MS. Service: Partner-Dashboard ms. subservicio: partnercenter-CSP Descripción: la primera vez que inicie sesión como administrador, asegúrese de que los detalles de soporte sean correctos, las exenciones de impuestos de archivo si procede y revise la información de contacto en los perfiles.
+M. Tema: fecha del artículo: 08/06/2019 ms. AssetID: B7FCD670-465F-443A-A80C-4E83B74E2D1E autor: LauraBrenner ms. Author: labrenne ms. localizationpriority: Medium
+---
+
 # <a name="verify-your-partner-profile"></a>Comprobación de tu perfil de partner
 
 La primera vez que inicies sesión en el Centro de partners como administrador global, asegúrate de que se han agregado correctamente todos los detalles de la empresa como, por ejemplo, el contacto principal, el nombre y el domicilio legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos. 

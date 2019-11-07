@@ -2,23 +2,25 @@
 title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 09/30/2019
-Description: Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de cliente de Microsoft antes de pedir productos y servicios de Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft les pide que confirmen la aceptación proporcionando ciertos detalles de la persona que ha aceptado el contrato.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: Como Partner, debe obtener la aceptación del cliente del contrato de cliente de Microsoft antes de poder solicitar servicios y productos de Microsoft para ese cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft les pide que confirmen la aceptación proporcionando ciertos detalles de la persona que ha aceptado el contrato.
 author: LauraBrenner
 ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704173"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653644"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmar la aceptación del cliente del contrato de cliente de Microsoft
 
-Actualmente, para que un partner de CSP pueda realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el **Contrato de Microsoft Cloud** aplicable. A continuación, el asociado debe confirmar la aceptación por parte del cliente proporcionando información sobre el firmante a Microsoft. Si no se proporciona la confirmación:
-- No podrás crear nuevos pedidos para este cliente.
-- No podrás cambiar el número de puestos de las suscripciones basadas en puestos existentes para este cliente.
+Actualmente, antes de que un asociado de CSP pueda realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el **acuerdo de Microsoft Cloud**aplicable. A continuación, el asociado debe confirmar la aceptación por parte del cliente proporcionando información sobre el firmante a Microsoft. Si no se proporciona la confirmación:
+- No podrá crear nuevos pedidos para este cliente.
+- No podrá cambiar el número de puestos de las suscripciones basadas en puestos existentes para este cliente.
 
 Para obtener más información sobre cómo confirmar la aceptación de un cliente del Contrato de Microsoft Cloud mediante la API o el panel del Centro de partners, consulta [Confirm customer acceptance of the Microsoft Cloud Agreement](confirm-consent.md) (Confirmar la aceptación del Contrato de Microsoft Cloud por parte del cliente).
 

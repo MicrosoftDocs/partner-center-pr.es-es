@@ -2,6 +2,8 @@
 title: Impago, fraude o uso incorrecto | Centro de partners
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Estrategias para administrar los riesgos de las transacciones en línea, incluyendo el impago del cliente de artículos y servicios y las actividades fraudulentas o uso incorrecto.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, impago, el cliente no pagará la factura, riesgo en línea, robo de servicio, uso incorrecto de servicio, suspender una suscripción,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978733"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652964"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Impago, fraude o uso incorrecto
 
@@ -35,7 +37,7 @@ Para evitar o hacer frente a actividades fraudulentas o uso incorrecto, es impor
 
 - **Robo de servicio** Clientes que no tengan intención de pagar los servicios consumidos usando instrumentos de pago robados, proporcionando información de facturación falsa o estableciendo saldos pendientes
 
-- **Uso incorrecto de servicio** Clientes que usan servicios en la nube infringiendo la directiva de uso aceptable de Microsoft
+- **Abuso de servicio** Clientes que usan servicios en la nube en violación de la Directiva de uso aceptable de Microsoft
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>Ejemplos de posible fraude o uso incorrecto de servicio
 - Correo masivo

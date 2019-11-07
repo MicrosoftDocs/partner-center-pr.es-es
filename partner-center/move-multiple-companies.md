@@ -2,17 +2,19 @@
 title: Guía para la migración de varias empresas de PMC al Centro de partners | Centro de Partners
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Qué hay que saber antes de migrar varias empresas de PMC al Centro de partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958753"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654344"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Paso de varias empresas al Centro de partners
 
@@ -20,7 +22,7 @@ Al mover una cuenta de una empresa de PMC al Centro de partners, es posible que 
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Migración de cuentas adicionales al Centro de partners 
 
-Al haber trasladado ya una cuenta de empresa al equipo, al iniciar sesión, se te indicará qué cuenta está en el Centro de partners. 
+Dado que ya ha migrado una cuenta de empresa al equipo, al iniciar sesión, le indicaremos qué cuenta ya está en el centro de Partners. 
 
 
 Si después de haber realizado la migración, descubres que se ha designado una cuenta de empresa equivocada como denominación legal de la empresa, puedes cambiarla.
@@ -78,7 +80,7 @@ Una vez que hayas comprobado o editado la información de esta pantalla, haz cli
 
 Cuando veas tu perfil, verás tanto la información de la denominación legal de la empresa (en PMC es la sede central) como la información de todas las ubicaciones adicionales.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Consulta también
 
 - [Migración de PMC al Centro de partners](move-pmc-pc-map.md)
 

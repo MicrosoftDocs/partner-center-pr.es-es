@@ -2,18 +2,20 @@
 title: Contratos de CSP, listas de precios y ofertas | Centro de partners
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En este artículo se incluyen vínculos a las guías del programa Proveedor de soluciones en la nube, contratos de partner, contratos de clientes, listas de precios y ofertas.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, contratos de partners, contratos de clientes, listas de precios, ofertas
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204634"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653569"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del Proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -73,4 +75,4 @@ Como partner de CSP, puedes vender una amplia gama de productos, servicios y sol
 
 Para los partners de CSP que usan la API de registro de uso CREST, Microsoft también publica una lista de los Servicios de Azure en CSP en la página **Precios y ofertas**.
 
-Para obtener información sobre las ofertas de Azure Marketplace publicadas por fabricantes de software independientes (ISV), visite la página **Marketplace** en el menú de navegación izquierdo. Actualmente, solo se pueden adquirir los tipos de productos SaaS (software como servicio) en el Centro de partners. Deberás visitar Azure Portal para adquirir otros tipos de ofertas de Azure Marketplace.
+Para obtener información sobre las ofertas de Azure Marketplace publicadas por fabricantes de software independientes (ISV), visite la página **Marketplace** en el menú de navegación izquierdo. Actualmente, solo se pueden adquirir los tipos de productos SaaS (software como servicio) en el Centro de partners. Deberá visitar el Azure Portal para adquirir otros tipos de ofertas de Azure Marketplace.

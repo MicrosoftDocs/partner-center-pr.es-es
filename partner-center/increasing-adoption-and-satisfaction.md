@@ -2,17 +2,19 @@
 title: Aumentar la adopción y la satisfacción | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134495"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653351"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
@@ -32,11 +34,11 @@ Puedes ver los datos de todos los clientes a través del programa Proveedor de s
 
 **Para un solo cliente**
 
--   Seleccione **clientes** desde el **centro de partners**, elija un cliente y luego seleccione **Customer insights**.
+-   Seleccione **clientes** del **centro de Partners**, elija un cliente y, a continuación, seleccione **Customer Insights**.
 
-**En la cartera**
+**En toda la cartera**
 
-1.  En el **centro de partners**, seleccione **analizar**.
+1.  En el **centro de Partners**, seleccione **analizar**.
 2.  Para descargar los datos de uso y la implementación en todo el conjunto de clientes, selecciona las opciones de **exportación**.
 
 Terminología:
@@ -62,7 +64,7 @@ Terminología:
 ## <a name="next-steps"></a>Pasos siguientes
 
 
-Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los números de adopción de tu cuenta son bajos o buscas oportunidades de ventas verticales, conviene ofrecer cursos de formación. Al enseñar a tus clientes cómo hacer un mejor uso del software de solución en la nube que han comprado, es más probable que veas un aumento en la productividad y satisfacción, y una disminución de las necesidades de soporte técnico.
+Si tiene una gran cantidad de preguntas de ayuda y procedimientos, los números de adopción de su cuenta son bajos o está buscando oportunidades de venta incremental, es posible que desee considerar la posibilidad de ofrecer cursos de aprendizaje. Al enseñar a los clientes a usar mejor el software de soluciones en la nube que han adquirido, es más probable que vea un aumento en la productividad y la satisfacción, y una disminución de las necesidades de soporte técnico.
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ Si estás tratando una gran cantidad de preguntas de ayuda y procedimientos, los
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> La tasa de adopción de usuario es bajo y muchos licencias&#39;t que se va a usar.</p>
-<p><strong>Lo que debe considerar:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para obtener una visión de las formas que podrían incorporarlo en su día para simplificar las tareas que ya estén haciendo o para permitir nuevos tipos de productividad.</p>
-<p><strong>Lo que puede probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
+<td><p><strong>Problema:</strong> La tasa de adopción del usuario es baja y muchas licencias&#39;no se usan.</p>
+<p><strong>Lo que debes tener en cuenta:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.</p>
+<p><strong>Lo que puedes probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema:</strong> hay un alto volumen de llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
-<p><strong>Lo que debe considerar:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
-<p><strong>Lo que puede probar:</strong> Puede usar una estrategia dual de oferta de entrenamiento (en persona o en línea) para aumentar el cliente&#39;s experiencia general, promoviendo también algunas de las opciones disponibles para los clientes de autoservicio.</p>
+<td><p><strong>Problema:</strong> hay un alto volumen de las llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
+<p><strong>Lo que debes tener en cuenta:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
+<p><strong>Qué probar:</strong> Puede usar una estrategia dual para ofrecer aprendizaje (en persona o en línea) para aumentar la&#39;experiencia general de los clientes, a la vez que también promueve algunas de las opciones de autoservicio disponibles para los clientes.</p>
 <p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoservicio de soporte técnico al cliente</a> además de la información de contacto de soporte técnico.</p></td>
 </tr>
 </tbody>
