@@ -1,24 +1,30 @@
 ---
 title: 'Plan de Azure: facturación | Centro de partners'
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Describe la estructura de la factura y el archivo de conciliación para el plan de Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428475"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595937"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
+**Roles adecuados:**
 
-La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario. Para obtener información sobre la plataforma de facturación, consulta la [guía de operaciones de comercio moderno del Centro de partners](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx).
+- Administrador de facturación
+- Agente de administración
+- Administrador global
+
+
+La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario. Para más información sobre la plataforma de facturación, lee [Información general sobre facturación](billing-basics.md).
 
 ## <a name="summary-of-billing-essentials"></a>Resumen de los elementos esenciales de la facturación
 

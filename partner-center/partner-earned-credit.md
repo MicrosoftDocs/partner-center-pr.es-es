@@ -1,18 +1,18 @@
 ---
 title: 'Crédito obtenido del partner: introducción | Centro de partners'
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/03/2019
 description: ¿Cuál es el aspecto del crédito obtenido del partner en el plan Azure?
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428434"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595905"
 ---
 # <a name="partner-earned-credit---overview"></a>Créditos obtenidos del partner: introducción
 
@@ -21,7 +21,6 @@ El crédito obtenido del partner en la nueva experiencia comercial de CSP es un 
 Con miles de servicios en Azure y múltiples opciones para comprar, el precio puede ser un desafío para muchos clientes y partners. En la nueva experiencia comercial para Azure, hemos adoptado los principios de precios globales únicos que son aplicables a todos los movimientos que realizamos. Los partners de CSP pueden ofrecer Azure según los precios publicados. Esto proporcionará una mayor transparencia a tus clientes y generará confianza. 
 
 Las necesidades de nuestros clientes para realizar una transformación digital están cambiando la naturaleza del valor que ofrecen los partners. Muchos clientes buscan partners que proporcionen servicios más allá de las simples transacciones, para que su recorrido en la nube sea más sencillo y así puedan obtener ayuda a la hora de usar los servicios de Azure de la forma más eficaz. Este tipo de servicios son continuos e incluyen la supervisión de los servicios de Azure, la administración de directivas y gobernanza, el ajuste de la configuración y sus opciones, el soporte técnico y otros servicios. 
-
 
 Asimismo, es necesario que un partner esté completamente familiarizado con el entorno de Azure del cliente y que tenga un gobierno y control continuo y apropiado de los recursos subyacentes que se administran. Los partners de facturación que proporcionan esta actividad de administración de operaciones en la nube las 24 horas del día y los 7 días de la semana, podrán optar a un **crédito obtenido del partner por los servicios administrados** en los servicios de Azure que corresponde a los clientes y que administra y controla el partner. 
 
@@ -36,13 +35,11 @@ Asimismo, es necesario que un partner esté completamente familiarizado con el e
 
 - La asociación y la gestión detallada de los proyectos de Azure correspondientes al cliente, proporcionarán nuevas oportunidades para asociarse y permitirán impulsar el crecimiento del consumo. 
 
-
 ## <a name="manage-automate-and-optimize"></a>Administrar, automatizar y optimizar
 
 A medida que los clientes se cambian a plataformas informáticas en la nube, no solo deben enfrentarse a la administración de un nuevo conjunto de tecnologías, sino que también deben tener en cuenta una nueva forma de abordar la administración y las operaciones de su patrimonio digital. Si bien la nube puede aportar un mayor valor comercial y agilidad, también puede generar nuevas preocupaciones, incluyendo la falta de seguridad o el control de costos. 
 
 Recuerda que tus clientes recurrirán a ti para que les ayudes a aprovechar al máximo su negocio hospedado en Azure. Gracias a los servicios administrados, puedes proporcionar regularmente a tus clientes un servicio exquisito. Algunas de las operaciones diarias y el soporte técnico que puedes proporcionar incluyen:
-
 
 - **Servicios de administración y operaciones en la nube**: Los clientes recurren a los partners de Microsoft para reducir los costos en Azure a la vez que reproducen el aislamiento, las directivas de seguridad y los modelos de auditoría que tienen hoy. También esperan que los partners tengan acceso a las herramientas adecuadas para identificar la idoneidad de las cargas de trabajo, así como la implementación única y los costos operativos continuos de Azure. Asimismo, los clientes necesitan tener soporte técnico para realizar los procesos de automatización y orquestación, las actualizaciones de parches, la administración de configuraciones, las copias de seguridad y de recuperación ante desastres y la administración de identidades. 
 
@@ -53,7 +50,7 @@ Recuerda que tus clientes recurrirán a ti para que les ayudes a aprovechar al m
 
 - **Supervisión del estado del sistema**: supervisión completa de VM, uso de la CPU, uso de la memoria, IOP de almacenamiento y rendimiento del sistema operativo. Incluye la supervisión del rendimiento de la aplicación y el estado de las operaciones, así como paneles e informes sobre el estado del sistema.
 
-- **Registro de análisis y alertas**: cada cliente, dispositivo y usuario que obtenga acceso a una red, producirá datos que se registran. Al analizar esos registros, puedes obtener una visión más detallada del rendimiento, la seguridad, el consumo de recursos y otras métricas significativas.
+- **Registro de análisis y alertas**: cada cliente, dispositivo y usuario que obtenga acceso a una red, producirá datos que se registran. Al analizar registros, puedes obtener una visión más detallada del rendimiento, la seguridad, el consumo de recursos y otras métricas significativas.
 
 - **Supervisión de bases de datos**: vista de la base de datos del cliente que ayuda a los partners a garantizar una alta disponibilidad de los servidores de bases de datos. Este proceso implica mantener registros del tamaño, el tiempo de conexión y los usuarios de bases de datos, para así poder analizar las tendencias de uso y aprovechar los datos para remediar problemas de manera proactiva.
 
@@ -64,7 +61,7 @@ Obtén más información sobre cómo ampliar tu [cartera de servicios administra
 Estos servicios suponen un nivel de acceso adecuado para los partners en el entorno de Azure del cliente; igualmente, nuestro sistema comercial medirá los detalles de acceso para calcular el crédito que haya obtenido el partner.  
 
 >[!Note]
->Los clientes tendrán la opción de eliminar cualquier acceso que hayan proporcionado a los partners. Recuerda que los partners no deben obligar a los clientes a darles acceso si su único propósito es el de obtener crédito de Microsoft; el incumplimiento de este requisito podría hacer que el partner no sea apto para conseguir el crédito obtenido del partner.
+>Los clientes tienen la opción de eliminar cualquier acceso que hayan proporcionado a los partners. Recuerda que los partners no deben obligar a los clientes a darles acceso si su único propósito es el de obtener crédito de Microsoft; el incumplimiento de este requisito podría hacer que el partner no sea apto para conseguir el crédito obtenido del partner.
 
 **Para obtener más información**
 
