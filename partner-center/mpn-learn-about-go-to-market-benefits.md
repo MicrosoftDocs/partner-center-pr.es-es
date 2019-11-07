@@ -2,17 +2,19 @@
 title: Más información sobre las ventajas de comercialización de Microsoft Partner Network | Centro de Partners
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Como miembro de Microsoft Partner Network, puede ser válido para ciertas ventajas de comercialización. Obtenga información acerca de los diferentes niveles de las ventajas de comercialización disponibles y cómo activarlas y administrarlas en el centro de Partners.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, beneficios de pertenencia, pertenencia, ventajas de comercialización, comercialización, comercialización, GTM, afiliación Gold, pertenencia a Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413594"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653255"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explore las ventajas de la pertenencia a los productos de deventado de MPN (GTM)
 
@@ -41,7 +43,7 @@ Las ventajas de GTM difieren en función de su nivel específico de pertenencia 
 Todos los miembros de MPN tienen acceso a determinadas ventajas GTM estándar. Esto incluye el acceso a recursos de marketing listos para usar, una plataforma de habilitación de ventas y marketing digital a petición. Es posible que haya más ventajas de GTM disponibles para los asociados que obtienen competencias Silver o Gold.
 
 >[!NOTE]
->Las ventajas GTM están sujetas a adiciones y cambios. Vaya a la página de Microsoft Partner Network de [comercialización](https://partner.microsoft.com/en-us/membership/go-to-market) para obtener información sobre las ventajas GTM más recientes disponibles por nivel de competencia.
+>Las ventajas GTM están sujetas a adiciones y cambios. Vaya a la página de Microsoft Partner Network de [comercialización](https://partner.microsoft.com/membership/go-to-market) para obtener información sobre las ventajas GTM más recientes disponibles por nivel de competencia.
 
 Ventajas GTM adicionales disponibles para los niveles de competencia **Silver** :
 
@@ -63,7 +65,7 @@ Ventajas GTM adicionales disponibles para los niveles de competencia **Gold** :
 
 Para ver las ventajas GTM:
 
-1. Inicie sesión en el [Panel]( https://docs.microsoft.com/en-us/partner-center/)del centro de Partners.
+1. Inicie sesión en el [Panel]( https://docs.microsoft.com/partner-center/)del centro de Partners.
 
 2. En el menú de la izquierda, seleccione **MPN**. A continuación, realice una de las acciones siguientes:
 

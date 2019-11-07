@@ -2,17 +2,19 @@
 title: Usar los archivos de conciliación | Centro de partners
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación, descargue los archivos de conciliación del centro de Partners.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931580"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653972"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -71,7 +73,7 @@ Los partners del modelo indirecto pueden usar estos campos adicionales en ambos 
 <p>El Id. de MPN del revendedor de registro de la suscripción. Corresponde al id. de revendedor indicado para la suscripción específica en el Centro de partners.</p>
 <p>eTo ver o actualizar el distribuidor, en el menú del centro de Partners, seleccione <strong>clientes</strong>y, a continuación, elija el cliente de la lista. En el menú del cliente, selecciona <strong>Suscripciones</strong> y elige la suscripción de la lista. Selecciona <strong>Actualizar</strong> para cambiar el valor de <strong>Revendedor (id. de MPN)</strong>.</p>
 <p>Si un partner CSP vendió la suscripción directamente al cliente, su id. de MPN aparece dos veces, como id. de MPN y como id. de MPN del revendedor.</p>
-<p>Si un partner CSP tiene un revendedor sin un id. de MPN, este valor se establece en el id. de MPN del partner.</p>
+<p>Si un asociado de CSP tiene un revendedor sin identificador de MPN, este valor se establece en el identificador de MPN del asociado en su lugar.</p>
 <p>Si el partner CSP quita un id. de revendedor, este valor se establece en -1.</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>ServiceType</td>
 <td><p>Tipo específico de servicio de Microsoft Azure.</p></td>
 <td><ul>
-<li>Bus de servicio: individual o paquete</li>
-<li>Base de datos SQL Azure: edición Business o Web</li>
+<li>Service Bus: individual o Pack</li>
+<li>Base de datos de SQL Azure: Business o Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Número de conexiones de Bus de servicio aprovisionadas y usadas en un día determinado.</p></td>
-<td>Por ejemplo: si tenías una conexión aprovisionada individualmente durante un mes de 30 días, Service Info 1 contendría 1 "1,000000 conexiones/30 días". Si tenías un paquete de 25 de conexiones de Bus de servicio aprovisionadas y utilizaste 1 durante ese día, la declaración de uso diario de ese día sería "25 conexiones/30 días. Utilizadas: 1,000000".</td>
+<td>Por ejemplo: Si tuviera una conexión aprovisionada individualmente durante un mes de 30 días, la información de servicio 1 leería "1,000000 conexiones/30 días". Si tiene un 25 paquete de conexiones de ServiceBus aprovisionadas y usó 1 durante ese día, la instrucción de uso diario de ese día indicaría "25 conexiones/30 días-usado: 1,000000".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc.</p></td>
+<td><p>Id. de una disponibilidad concreta. "Disponibilidad" se refiere a si una SKU determinada está disponible para su compra en el país, la moneda, el segmento del sector, etc.</p></td>
 </tr>
 
 <tr class="even">
@@ -711,7 +713,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>Nombre de dominio del cliente. No está disponible para la actividad actual.</p></td>
+<td><p>El nombre de dominio del cliente. No está disponible para la actividad actual.</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>Id. de una disponibilidad concreta. "Disponibilidad" hace referencia a si un SKU concreto está o no disponible para su compra para el país, la moneda, el segmento industrial determinados, etc.</p></td>
+<td><p>Id. de una disponibilidad concreta. "Disponibilidad" se refiere a si una SKU determinada está disponible para su compra en el país, la moneda, el segmento del sector, etc.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td><p>IDENTIFICADOR del publicador, en formato GUID. No está disponible para la actividad actual.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Descripción de la suscripción</td>
 <td><p>Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este es un campo idéntico al nombre de la oferta).</p></td>
 </tr>
@@ -910,7 +912,7 @@ La factura proporciona un resumen de los cargos, mientras que el archivo de conc
 
 Para hacer referencias cruzadas de cantidades de cargos entre el archivo de conciliación y la factura, puedes usar las opciones de filtro de Microsoft Excel para filtrar por tipo de cargo en el archivo de conciliación con el fin de asignar los cargos de facturación a un conjunto de desgloses de cargos del archivo de conciliación.
 
-Los archivos de conciliación, tanto basados en uso como en licencias, solo muestran cargos y transacciones relacionados con el uso (unidades consumidas y cargos relacionados). En el archivo de conciliación no aparecen devoluciones, descuentos o créditos excepcionales que aparecen en la factura como "Ajustes".
+Los archivos de conciliación, tanto basados en uso como en licencias, solo muestran cargos y transacciones relacionados con el uso (unidades consumidas y cargos relacionados). No se muestran en el archivo de conciliación los créditos, los descuentos o los reembolsos que aparecen en la factura como "ajustes".
 
 La siguiente tabla muestra las asignaciones entre una sección de factura y los tipos de cargo asociados que es posible que se muestren en los archivos de conciliación. 
 

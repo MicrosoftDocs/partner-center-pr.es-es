@@ -2,17 +2,19 @@
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinadas ventajas de suscripción. Explica cómo activar y administrar las ventajas de la suscripción en el centro de Partners.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, ventajas de miembro, miembro
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413327"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653312"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar las ventajas de la suscripción a Microsoft Partner Network
 
@@ -35,7 +37,7 @@ Tras comprar un paquete de ventajas de suscripción, deberás obtener claves de 
 
 Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones de Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir algunas ventajas de comercialización. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para ver y administrar todas las ventajas de la suscripción, vaya a la página de [ **beneficios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Como alternativa, puede iniciar sesión en el [Panel](https://docs.microsoft.com/en-us/partner-center/)del centro de Partners, seleccionar la**opción [beneficios**] en el menú de la izquierda y, a continuación, seleccionar las opciones de beneficios que se muestran.  
+Para ver y administrar todas las ventajas de la suscripción, vaya a la página de [ **beneficios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Como alternativa, puede iniciar sesión en el [Panel](https://docs.microsoft.com/partner-center/)del centro de Partners, seleccionar la**opción [beneficios**] en el menú de la izquierda y, a continuación, seleccionar las opciones de beneficios que se muestran.  
 
 #### <a name="manage-software-benefits"></a>Administrar los beneficios de software
 
@@ -108,6 +110,7 @@ Para ver y administrar todas las ventajas de la suscripción, vaya a la página 
 
 - Administrador global
 - Administrador de asociados de MPN
+
 
 1. Seleccione las **ventajas de comercialización** para ver la lista de ventajas de comercialización de Microsoft.
 

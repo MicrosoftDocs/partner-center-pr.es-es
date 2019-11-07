@@ -2,17 +2,19 @@
 title: Facturas e impuestos en el Microsoft Partner Network | Centro de Partners
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo ver, descargar e imprimir la factura de pertenencia a MPN, así como el archivo de exención fiscal y enviar el número de identificación de IVA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, factura, mapas, exento de impuestos, IVA, ID. de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141991"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653036"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en el Microsoft Partner Network
 

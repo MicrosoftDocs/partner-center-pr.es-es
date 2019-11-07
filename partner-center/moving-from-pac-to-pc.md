@@ -2,17 +2,19 @@
 title: Cambio del Centro de administración de partners al Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Encuentra las características que te has acostumbrado a usar en el Centro de administración de partners en el Centro de partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, administrador de Office 365, características de PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a2f7bd3ad2e533b047424c54e4f2912bd5a30c2
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
-ms.translationtype: HT
+ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993986"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654304"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Cambio del Centro de administración de partners (PAC) al Centro de partners
 
@@ -28,11 +30,11 @@ El Centro de partners va evolucionando hacia un único lugar donde administrará
 |La información general de alto nivel de la actividad de tu cuenta y clientes|Pantalla Inicio|Centro de partners|
 |Conseguir nuevos clientes y proporcionar presupuestos de servicios de evaluación y de pago|Crear negocio -> Enviar presupuesto|Los presupuestos de pago no están disponibles. Las pruebas de CSP están disponibles si el partner asesor se convierte en revendedor indirecto de CSP y se asocia con un proveedor indirecto de CSP que admite las pruebas. |
 |Solicitar relaciones|(Revendedores y asesores) Crear negocio -> Enviar solicitud de DAP|(Revendedores y asesores) Clientes -> Solicitar una relación de revendedor (consultar la nota siguiente)|
-|Administra tus clientes|Administración de clientes -> Lista de clientes|Centro de partners -> Clientes|
-|Administrar las suscripciones de cliente|Administración de clientes -> Lista de clientes -> seleccionar cliente|Centro de partners -> Clientes -> seleccionar el cliente o agregar el cliente a la lista **Favoritos** alternando la estrella en la lista de clientes, luego seleccionar la sección **Favoritos** e ir directamente a **Administrar suscripciones** para el cliente.|
-|Administrar en nombre de un cliente|Administración de clientes -> seleccionar cliente -> seleccionar botón Administrar|Centro de partners-> Clientes -> seleccionar Administrar servicios de la lista desplegable-> seleccionar el servicio o agregar el cliente a la lista **Favoritos** alternando la estrella en la lista de clientes, luego seleccionar la sección **Favoritos** e ir directamente a **Administrar servicios** para el servicio solicitado.|
+|Administrar tus clientes|Administración de clientes -> Lista de clientes|Centro de partners -> Clientes|
+|Administrar las suscripciones de clientes|Administración de clientes -> Lista de clientes -> seleccionar cliente|Centro de Partners-> clientes: > seleccione cliente o agregue su cliente a la lista **Favoritos** . para ello, cambie la estrella en la lista de clientes y, a continuación, seleccione el Slideout **Favoritos** y vaya directamente a **administrar suscripciones** para su cliente.|
+|Administrar en nombre de un cliente|Administración de clientes -> seleccionar cliente -> seleccionar botón Administrar|Centro de Partners-> clientes: > seleccione administrar servicios en la lista desplegable > seleccione servicio o agregue su cliente a la lista de **Favoritos** . para ello, alterne la estrella en la lista de clientes y, después, seleccione el Slideout **Favoritos** y vaya directamente a **Administrar servicios** para el servicio requerido.|
 |Crear solicitudes de servicio para el cliente|Solicitudes de servicio -> seleccionar cliente -> seleccionar el botón + | Centro de partners -> Solicitudes de servicio -> Solicitudes de clientes -> seleccionar cliente -> Nueva solicitud|
-|Administrar solicitudes de servicio al cliente| Solicitudes de servicio -> seleccionar cliente|Centro de partners -> Solicitudes de servicio-> Solicitudes de clientes -> seleccionar el cliente o agregar la solicitud de servicio a la lista **Favoritos** alternando la estrella en la vista de solicitudes de clientes para el cliente, luego seleccionar la sección **Favoritos**, seleccionar la pestaña **Solicitudes de soporte técnico** e ir directamente a la solicitud de servicio o ver las actualizaciones directamente desde **Favoritos**.|
+|Administrar solicitudes de servicio al cliente| Solicitudes de servicio -> seleccionar cliente|Centro de Partners: solicitudes de servicio de >: solicitudes de > del cliente-> seleccione el cliente o agregue la solicitud de servicio a la lista de **Favoritos** ; para ello, seleccione la estrella en la vista de solicitudes de clientes del cliente y, a continuación, seleccione el Slideout de **Favoritos** , seleccione la pestaña **solicitudes de soporte técnico** , vaya directamente a la solicitud de servicio o vea las actualizaciones directamente desde **Favoritos**.|
 |Ver el estado de Microsoft Online Services que administras|Estado del servicio -> Estado agregado|Centro de partners -> Estado del servicio|
 
 >Importante<br>

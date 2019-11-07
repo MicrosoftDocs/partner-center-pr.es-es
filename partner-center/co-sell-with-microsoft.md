@@ -2,18 +2,20 @@
 title: Venta conjunta con Microsoft | Centro de Partners
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, tiene la oportunidad de colaborar con Microsoft. Esta colaboración le ayuda a tomar soluciones para comercializar, impulsar ingresos conjuntos y garantizar el éxito de los clientes.
 author: JnHs
 ms.author: jenhayes
-keywords: referencia, RFI, Buscar un partner
+keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856490"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653680"
 ---
 # <a name="co-sell-with-microsoft"></a>Venta conjunta con Microsoft
 
@@ -46,16 +48,16 @@ Una vez que haga clic en **seleccionar**, se le pedirá que escriba el nombre, e
 En la siguiente pantalla, deberá proporcionar detalles sobre la interacción para la que desea realizar la venta conjunta con Microsoft.
 
 En la sección **detalles de Engagement** , escriba lo siguiente:
-- **Nombre de Engagement**: Escriba un nombre que describa este cliente y Engagement. El equipo de Microsoft verá este nombre al revisar los detalles del contrato, por lo que debe asegurarse de usar el lenguaje claro y profesional.
-- **IDENTIFICADOR DE CRM**: Si lo desea, escriba el número de identificación que está usando en el sistema CRM.
-- **Fecha de cierre estimada**: Fecha aproximada en la que se espera cerrar este trato.
-- **Valor estimado**: El valor total esperado para la interacción. Asegúrese de seleccionar la moneda adecuada.
+- **Nombre de Engagement**: escriba un nombre que describa este cliente y Engagement. El equipo de Microsoft verá este nombre al revisar los detalles del contrato, por lo que debe asegurarse de usar el lenguaje claro y profesional.
+- **Identificador de CRM**: si lo desea, escriba el número de identificación que está usando en el sistema CRM.
+- **Fecha de cierre estimada**: fecha aproximada en la que se espera cerrar este trato.
+- **Valor estimado**: el valor total esperado para la interacción. Asegúrate de seleccionar la moneda adecuada.
 
 En el campo **notas** , explique en qué está interesado el cliente y cómo podría ayudarle su solución.
 
  A continuación, en la sección **contacto del asociado** , escriba el nombre, el número de teléfono y el correo electrónico del contacto principal de la empresa que está trabajando en esta contratación.
 
-Por último, en la sección **Agregar soluciones** , seleccione la solución que se utilizará para la interacción. Si no ve la solución adecuada en la lista, póngase en contacto con el soporte técnico.
+Por último, en la sección **Agregar soluciones** , seleccione la solución que se utilizará para la interacción. Si no ves la solución adecuada en la lista, ponte en contacto con el soporte técnico.
 
 Seleccione **siguiente** para pasar al siguiente paso.
 
@@ -69,4 +71,4 @@ Asegúrese de activar la casilla confirmar que ha obtenido el consentimiento suf
 
 Las contrataciones de venta conjunta que ha enviado a Microsoft pueden verse yendo a las **referencias > se > enviar**. Aquí verá todas las referencias que se han enviado a Microsoft, junto con la fecha límite para que Microsoft acepte la invitación.
 
-Si Microsoft acepta la negociación, se pasará a **activa**. Al trabajar con Microsoft, deberá trabajar para cerrar el trato con el cliente. Vea [responder a referencias](responding-to-referrals.md) para obtener más información. Si Microsoft no acepta la negociación, se mueve a archivado.
+Si Microsoft acepta la negociación, se pasará a **activa**. Al trabajar con Microsoft, deberá trabajar para cerrar el trato con el cliente. Vea [responder a referencias](responding-to-referrals.md) para obtener más información. Si Microsoft no acepta la negociación, se mueve a **archivado**.

@@ -2,17 +2,19 @@
 title: Soporte técnico para multipartner | Centro de partners
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Es posible que un cliente quiera trabajar con varios partners especializados en distintos servicios en el programa Proveedor de soluciones en la nube.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 583400695e7aede57d4e8d63f03e63177815b56d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820612"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654259"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
@@ -27,13 +29,13 @@ Para usar la característica de varios socios en el centro de Partners, invite a
 
 La funcionalidad multipartner no sirve para:
 
-- Cambiar ninguna de las suscripciones existentes del cliente
+- Cambiar cualquiera de las suscripciones existentes del cliente
 
-- Realizar la transición de suscripciones existentes del cliente ni de la propiedad de la cuenta
+- Transición de las suscripciones o la propiedad de la cuenta existente del cliente
 
-- Cambiar los plazos ni las obligaciones del cliente para ninguna de sus suscripciones existentes
+- Cambiar los términos o las obligaciones del cliente para cualquiera de las suscripciones existentes
 
 - Cambiar el partner de registro de una suscripción
 
 > [!IMPORTANT]  
-> Actualmente, un asociado en el programa CSP no puede revender servicios en línea a otro asociado en el programa CSP. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre las versiones de las características o los cambios de las directivas se anunciarán a través de los canales de comunicaciones habituales, incluidos los [anuncios del centro de Partners](https://partner.microsoft.com/pcv/announcements).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](https://partner.microsoft.com/pcv/announcements).
