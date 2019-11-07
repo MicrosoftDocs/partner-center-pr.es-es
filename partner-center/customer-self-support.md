@@ -2,21 +2,23 @@
 title: Autoservicio de soporte técnico al cliente | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
-description: Los clientes pueden iniciar sesión en su propio centro de administración de Microsoft Office 365 o el portal de administración de Azure y administrar sus propias cuentas. Para comprar suscripciones adicionales o cancelar sus suscripciones, los clientes deben ponerse en contacto con sus partners de Proveedor de soluciones en la nube.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Los clientes pueden iniciar sesión en su propio Microsoft Office centro de administración de 365 o en el portal de administración de Azure y administrar sus propias cuentas. Para comprar suscripciones adicionales o cancelar sus suscripciones, los clientes deben ponerse en contacto con sus partners de Proveedor de soluciones en la nube.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: autoservicio de soporte técnico al cliente, autoservicio de soporte técnico,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3576ad8729449a857cf9fdcbed056a4bb602fe23
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135475"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653456"
 ---
-# <a name="customer-self-support"></a>Autoservicio de soporte técnico al cliente
+# <a name="customer-self-support"></a>Autosoporte del cliente
 
 **Se aplica a**
 

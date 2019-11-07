@@ -2,18 +2,20 @@
 title: Leer factura | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
-description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el centro de partners.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: La factura mensual es un resumen de todos los cargos (incluidos el programa, los productos y los clientes) para el período mensual actual. Está disponible en el centro de Partners.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 37469a72137d5bc399f5ab765c49c8accd36808d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133965"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652173"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
@@ -23,16 +25,16 @@ ms.locfileid: "62133965"
 -  Centro de partners para Microsoft Cloud for US Government
 
 
-Para la factura, vaya a la **centro de partners** menú y, a continuación, seleccione **facturación** ver su historial de facturación y las tendencias, vínculos a su archivo de conciliación y la factura y el pago más reciente.
+Para su factura, vaya al menú del **centro de Partners** y seleccione **facturación** para ver el historial de facturación y las tendencias, los vínculos a su archivo de conciliación y de conciliación y el pago más reciente.
 
 Los partners del programa Proveedor de soluciones en la nube que han elegido la facturación mensual pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en el uso).
 
 > [!NOTE]  
-> La factura es un resumen de todos los cargos--en el programa, productos y clientes--para el período de facturación actual y está disponible en dos (2) días de la fecha de facturación seleccionada en hora UTC. Por ejemplo, si tienes un 12 de septiembre fecha de facturación, el proceso de generación de facturas comenzar a las 12:00 A.M. UTC en el 13 y completar por 12:00 A.M. UTC el día 14. Si no ve su factura por hora UTC de 11:59 P.M. el día 15, que está fuera de su contrato de nivel de servicio y debe realizar una solicitud de servicio. 
+> La factura es un resumen de todos los cargos, en el programa, los productos y los clientes, para el período de facturación actual y está disponible en un plazo de dos (2) días a partir de la fecha de facturación seleccionada en la hora UTC. Por ejemplo, si tiene una fecha de facturación del 12 de septiembre, el proceso de generación de la factura comenzará en 12: A.M. UTC en el decimotercer y terminará en 12: A.M. UTC en el 14. Si no ve la factura en 11:59PM UTC el día 15, ya no tiene el Acuerdo de Nivel de Servicio y debe archivar una solicitud de servicio. 
 
 Recibirás una factura por los cargos basados en licencia (Office365) y basados en uso (Azure) y una factura independiente por cargos de un solo uso (instancias de VM reservadas para Azure).
 
-Para obtener información detallada sobre los cargos, usa los archivos de conciliación correspondiente. Los archivos de conciliación incluyen los identificadores de cliente y de suscripción que usarás para crear facturas de cliente. Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
+Para obtener información detallada sobre los cargos, usa los archivos de conciliación correspondientes. Los archivos de conciliación incluyen los identificadores de cliente y de suscripción que usarás para crear facturas de cliente. Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
 
 ## <a name="invoice-file-definitions"></a>Definiciones de archivo de factura
 
@@ -44,7 +46,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Field</strong></td>
+<td><strong>Campo</strong></td>
 <td><strong>Descripción</strong></td>
 </tr>
 <tr class="even">
@@ -57,7 +59,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="even">
 <td>Facturar a</td>
-<td>La dirección a la que enviamos tu factura. Para cambiar el nombre de la empresa o la dirección, edite el perfil de facturación de su centro de partners. </td>
+<td>La dirección a la que enviamos tu factura. Para cambiar el nombre o la dirección de la empresa, edite el perfil de facturación del centro de Partners. </td>
 </tr>
 <tr class="odd">
 <td>Cargos basados en licencias</td>
@@ -83,7 +85,7 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 <td>Impuestos</td>
 <td>El total de impuestos para los cargos actuales según se suman en la sección de detalles a partir de la página 2 de la factura. Este número es la suma de todos los cargos de:
 <ul>
-<li>la columna &quot;TaxAmount&quot; del archivo de conciliación basada en uso (columna AA) y </li>
+<li>la columna &quot;TaxAmount&quot; del archivo de conciliación basada en uso (columna AA) y</li>
 <li>la columna &quot;Tax&quot; del archivo basado en licencia (columna U).</li>
 </ul></td>
 </tr>
@@ -105,11 +107,11 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="odd">
 <td>Billing period</td>
-<td>El período mensual que hicieron nacer a la fecha de factura. Este es el período durante el cual se consumen los servicios basados en uso y servicios basados en licencias se han reconciliado de cualquier cambio en el número de licencias o ajustes de crédito.</td>
+<td>El período mensual que conduce a la fecha de la factura. Este es el período durante el cual se consumen los servicios basados en el uso y se concilian los servicios basados en licencias para los ajustes de crédito o cambios en el recuento de licencias.</td>
 </tr>
 <tr class="even">
 <td>Invoice date</td>
-<td>La fecha de facturación o la fecha de aniversario en el que se genera la factura cada mes.</td>
+<td>La fecha de facturación o la fecha de aniversario en la que se genera la factura cada mes.</td>
 </tr>
 <tr class="odd">
 <td>Condiciones de pago</td>
@@ -129,16 +131,16 @@ Para obtener información detallada sobre los cargos, usa los archivos de concil
 </tr>
 <tr class="odd">
 <td>Destinatario del servicio</td>
-<td>La dirección en la que se usa el servicio. (Esta es la dirección de empresa legales asociada con la empresa de investigación.)</td>
+<td>La dirección en la que se usa el servicio. (Se trata de la dirección de la empresa legal asociada a la empresa investigación).</td>
 </tr>
 </tbody>
 </table>
 
 ## <a name="itemized-list-of-one-time-charges"></a>Lista desglosada de los cargos de pago único
 
-|**Field** |**Definición**|
+|**Campo** |**Definición**|
 |:----------------|:-----------------------------|
-|Fecha |Fecha de compra. |
+|Date |Fecha de compra. |
 |Descripción |Nombre del producto. |
 |Cantidad |Número de productos (reservas, por ejemplo) adquiridos. |
 |Precio unitario |Precio por producto (reserva, por ejemplo). |

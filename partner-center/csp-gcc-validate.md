@@ -2,16 +2,18 @@
 title: Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Procedimientos para validar partners y clientes de GCC de Office 365 Administración Pública para el CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134855"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653550"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública para el CSP
 
@@ -27,7 +29,7 @@ Si estás interesado en que tu organización, o la organización de tus clientes
 
 Podrías resultar aprobado si eres un partner que sirve a las entidades gubernamentales federales, estatales, locales o tribales de Estados Unidos. Para validar las organizaciones para su elegibilidad, completa el breve formulario situado [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Tu cliente puede resultar aprobado si se trata de una organización que controla datos controlados por el gobierno o es una entidad gubernamental federal, estatal, local o tribal de Estados Unidos. Para validar las organizaciones de tus clientes respecto a su elegibilidad, completa el breve formulario situado [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Tu cliente puede resultar aprobado si se trata de una organización que controla datos controlados por el gobierno o es una entidad gubernamental federal, estatal, local o tribal de Estados Unidos. Para que se validen los requisitos de las organizaciones de sus clientes, debe completar el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Tu organización debe estar [inscrita](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa Proveedor de soluciones en la nube, ya que es un requisito previo para poder ser aprobada para el GCC de Office 365 Administración Pública para el CSP.
 -   Puede encontrarse una guía de proceso de validación paso a paso para GCC de Office 365 Administración Pública para CSP [aquí](https://go.microsoft.com/fwlink/?linkid=2007323).
@@ -35,11 +37,11 @@ Tu cliente puede resultar aprobado si se trata de una organización que controla
 
 Los partners y clientes de GCC de Office 365 Administración Pública para CSP se validarán en cuanto a elegibilidad en función del cumplimiento de criterios específicos que se describen a continuación.
 
-**Criterios de socios**
+**Criterios de socio comercial**
 1.  Proporciona servicios o soluciones para clientes gubernamentales de EE. UU. a través de contratos directos o indirectos
 2.  Sirve a clientes gubernamentales de EE. UU. a través de GSA u otros vehículos de contrato
 
-**Criterios de los clientes**
+**Criterios de cliente**
 1.  Entidad del gubernamental de EE. UU. en su capacidad gubernamental. Por ejemplo:
  
     -  Agencia federal (por ejemplo, despacho, agencia, departamento u otra entidad del gobierno de EE. UU.)
@@ -48,7 +50,7 @@ Los partners y clientes de GCC de Office 365 Administración Pública para CSP s
     -   Entidades gubernamentales regionales o interestatales (pero no entidades internacionales)
     -   Centros de investigación y desarrollo financiados federalmente (FERDC)
 
-2.  Entidad privada comercial con datos sujetos a normativas. Los tipos de datos gubernamentales aceptados incluyen: 
+2.  Entidad privada comercial con datos que están sujetos a regulaciones. Los tipos de datos gubernamentales aceptados incluyen: 
     -   Tráfico internacional de armas (ITAR)
     -   Información no clasificada controlada (CUI)
     -   Información nuclear controlada no clasificada (UCNI) del Departamento de Defensa (DoD)

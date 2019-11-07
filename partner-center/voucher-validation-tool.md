@@ -1,18 +1,20 @@
 ---
-title: Usar la herramienta de validación del vale en el centro de partners para los cupones de entrenamiento y otros | Centro de partners
+title: Use la herramienta de validación de asientos del centro de partners para cursos y otros vales | Centro de Partners
 ms.topic: article
 ms.date: 12/20/2018
-description: Ahora puede solicitar cupones para el entrenamiento y programas de software assurance en el centro de partners
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Ahora puede reclamar los vales de programas de entrenamiento y software Assurance en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: el aprendizaje, herramienta de los asientos, validar el vale, notificaciones de programa software assurance, DPS, SATV
+Keywords: aprendizaje, herramienta de asiento, validar el asiento, notificaciones de software Assurance, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: ab9a16a42a9c83072871418e7e272f47a4fe0553
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674260"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653959"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales 
 
@@ -20,74 +22,74 @@ ms.locfileid: "67674260"
 
 - Centro de partners
 
-Como un asociado cualificado de Software Assurance, ya sea para entrenar o la planeación de la implementación de servicios, Microsoft le compensa para proporcionar estos servicios a los clientes empresariales a cambio de los cupones que se obtienen con Software Assurance.
+Como partner calificado de software Assurance, ya sea para los servicios de planeación de aprendizaje o de implementación, Microsoft compensa el suministro de estos servicios a los clientes empresariales a cambio de los vales que obtienen con software Assurance.
 
-Cuando el cliente recibe un vale, deberá validar y reservarla. Que puede hacer este trabajo en la herramienta de validación del vale y canje (VVR) en el pasado. Hoy que nos estamos reúne en un sitio: Centro de partners: todas las herramientas y los sitios, incluida la herramienta VVR, socios solía tendrá que visitar para hacer negocios con Microsoft con el fin de realizar su trabajo más eficaz y simplificado.
+Cuando el cliente recibe un vale, debe validarlo y reservarlo. Es posible que haya realizado este trabajo en la herramienta de validación y canje de vales (VVR) en el pasado. Hoy nos reunimos en un centro de asociados de sitio: todas las herramientas y sitios, incluida la herramienta VVR, los asociados que tienen que visitar para hacer negocios con Microsoft, con el objetivo de hacer que su trabajo sea más sencillo y más eficaz.
 
-Este documento proporciona información general de cómo validar y reservar un asiento. Para obtener detalles sobre las directivas y el flujo de trabajo de cupón validación completa, lea: 
+En este documento se proporciona información general sobre cómo validar y reservar un vale. Para obtener información completa sobre el flujo de trabajo de validación de asientos completo y las directivas, lea: 
 
-- [Flujo de trabajo de software assurance entrenamiento cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+- [Flujo de trabajo de los vales de aprendizaje de software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
 
-- [Preguntas más frecuentes de asiento de aprendizaje de software assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+- [Preguntas más frecuentes sobre el cupón de aprendizaje de software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
 
-- [Directivas de software assurance entrenamiento cupón](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+- [Directivas de los vales de aprendizaje de software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
 
 
-## <a name="validate-and-reserve-a-voucher"></a>Validar y reservar un asiento
+## <a name="validate-and-reserve-a-voucher"></a>Validación y reserva de un vale
 
-El Administrador de vale de cliente le proporcionará un vale de entrenamiento. Reservar el vale con el fin de proporcionar servicios para su cliente.
+El administrador del servicio de atención al cliente le proporcionará un justificante de aprendizaje. Reserve el asiento para proporcionar servicios para su cliente.
 
-1. En la página de información general del asiento, seleccione **Validate y reserva** desde la lista desplegable en la parte superior de la página de la acción. Se abrirá el **validar asiento** formulario.
-2. En el formulario, escriba el número de vale y correo electrónico del Administrador de cupón.
-3. Seleccione **validar asiento** para garantizar el cupón número sigue siendo válido.
-4. Seleccione **asiento reserva** y acepte los términos y condiciones. Se notifica al cliente por correo electrónico que reservó el asiento.
+1. En la página información general del vale, seleccione **validar y reservar** en el menú desplegable acción en la parte superior de la página. Se abre el formulario **validar justificador** .
+2. En el formulario, escriba el número de asiento y el correo electrónico del administrador del asiento.
+3. Seleccione **validar justificador** para asegurarse de que el número de asiento sigue siendo válido.
+4. Seleccione **reservar justificador** y acepte los términos y condiciones del programa. Al cliente se le notifica por correo electrónico que ha reservado el asiento.
 
-Seleccione **exportar a Excel** desde la lista desplegable, para exportar una lista de todos los cupones disponibles o reservadas.
+Seleccione **exportar a Excel** en la lista desplegable acción para exportar una lista de todos los asientos disponibles o reservados.
 
-### <a name="voucher-details-page"></a>Página de detalles del cupón
+### <a name="voucher-details-page"></a>Página de detalles del asiento
 
-Cuando haya validado un asiento, verá la página de detalles de reserva. Seleccione el servicio, por ejemplo, el entrenamiento, el cliente espera desde **lista de cursos de vista**.
-Las fechas de curso deben encontrarse en el período de tiempo del asiento. Los cupones caducan 180 días después de que están reservadas.
+Una vez que haya validado un vale, verá la página de detalles de la reserva. Seleccione el servicio, por ejemplo, el entrenamiento, el cliente quiere **ver la lista de cursos**.
+Las fechas del curso deben estar dentro del período de tiempo del asiento. Los asientos expiran 180 días después de su reserva.
 
 ### <a name="modify-a-voucher"></a>Modificar un asiento
 
-Cuando se ha reservado un asiento en la lista de asientos, puede actualizar el correo electrónico de asistentes y canjear el cupón. Para actualizar la lista de asistentes, por ejemplo, para los asistentes de agregar o cambiar las direcciones de correo electrónico para un curso, seleccione **actualizar el correo electrónico de asistente**. Seleccione **notificación por correo electrónico** desde la lista desplegable acción para informar el cliente ha actualizado la lista de asistentes.
+Una vez que haya reservado un vale de la lista de vales, puede actualizar el correo electrónico del asistente y canjear el asiento. Para actualizar la lista de asistentes, por ejemplo, para agregar asistentes o cambiar las direcciones de correo electrónico de un curso, seleccione **actualizar el correo electrónico del asistente**. Seleccione **notificación por correo electrónico** en la lista desplegable acción para que el cliente sepa que ha actualizado la lista de asistentes.
 
 ## <a name="redeem-a-voucher"></a>Canjear un vale
 
-Una vez que has reservado un asiento, se pueden canjear. 
+Una vez que haya reservado un vale, puede canjearlo. 
 
-1. En la lista de los cupones reservadas, seleccione los asientos que desee volver a canjear. 
-2. Ahora verá una lista de **Redeemed** cupones.
+1. En la lista de asientos reservados, seleccione los asientos que desea canjear. 
+2. Ahora verá una lista de los vales **canjeados** .
 
-4. Para crear una notificación, seleccione **crear una demanda**, o bien, en la página de detalles del asiento, seleccione **crear una demanda**.
+4. Para crear una demanda, selecciona **crear una demanda**o, en la página de detalles del asiento, selecciona **crear una demanda**.
 
-5. Seleccionar **crear una demanda** le lleva a la [herramienta en línea de pago de Software Assurance asiento ventaja (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) con el fin de la factura de Microsoft.
+5. Al seleccionar **crear una solicitud** , se le llevará a la [herramienta de pago en línea del beneficio del vale de software Assurance (SAVB)](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) para facturar a Microsoft.
 
 
 ### <a name="cancel-a-voucher"></a>Cancelar un asiento
 
-Hay varias razones, es posible que deba cancelar la reserva del asiento:
+Hay varias razones por las que puede que tenga que cancelar la reserva del vale:
 
-- La oferta o el programa ha cambiado de cuando se ha reservado originalmente el vale.
+- La oferta o el programa ha cambiado de cuando el asiento se ha reservado originalmente.
 
-- El contrato ya no llevará a cabo.
+- La contratación ya no tendrá lugar.
 
-- El cliente desea usar a un socio diferente para las tareas contratadas asiento.
+- El cliente desea usar otro asociado para su compromiso con el vale.
 
 **Para cancelar la reserva de un asiento**:
 
-1. Seleccione el asiento de que desea cancelar en la lista de los cupones reservadas.
+1. Seleccione el asiento que desea cancelar en la lista de asientos reservados.
 
-2. También puede agregar el número de vale en el cuadro Buscar para encontrarlo rápidamente. 
+2. También puede Agregar el número de asiento en el cuadro de búsqueda para localizarlo rápidamente. 
 
-3. Seleccione **Cancelar reserva**. Esta acción eliminará la reserva de cupón de VVR, colocar el justificante de nuevo en un **asignado** estado y hacerlo apto para la reserva futuras.
+3. Seleccione **Cancelar reserva**. Esto eliminará la reserva de vales de VVR, devolviendo el asiento a un estado **asignado** y haciéndolo válido para futuras reservas.
 
->[! Nota:] si se cancela una reserva de cupón y Software Assurance del cliente expira cobertura, continuará el justificante de sea válida hasta la fecha de expiración. Los cupones caducan 180 días después de su creación.
+>[! Nota:] Si cancela una reserva de vales y la cobertura de software Assurance del cliente expira, el asiento seguirá siendo válido hasta la fecha de expiración. Los asientos expiran 180 días después de su creación.
 
-Para obtener más información acerca de la herramienta VVR, lea el [preguntas más frecuentes sobre](vvr-faq.md).
+Para obtener más información sobre la herramienta VVR, lea las [preguntas más frecuentes](vvr-faq.md).
 
-Para obtener información sobre cómo inscribirse en SATV, lea [programa Software Assurance entrenamiento asiento (SATV) en el centro de partners](software-assurance-satv.md).
+Para obtener información acerca de cómo inscribirse en SATV, lea el [programa del cupón de aprendizaje de software Assurance (SATV) en el centro de Partners](software-assurance-satv.md).
 
-Para obtener información sobre cómo inscribirse en programas de Software Assurance DPS, lea [programas de Software Assurance en el centro de partners](software-assurance-dps.md)
+Para obtener información acerca de cómo inscribirse en programas de DPS de software Assurance, lea [programas de software Assurance en el centro de Partners](software-assurance-dps.md) .
 

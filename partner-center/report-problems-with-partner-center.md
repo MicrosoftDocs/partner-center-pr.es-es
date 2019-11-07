@@ -2,17 +2,19 @@
 title: Notificar los problemas que tengas con el Centro de partners | Centro de partners
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425195"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651714"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
@@ -39,7 +41,7 @@ Póngase en contacto con el soporte técnico del centro de partners si encuentra
 
 **Enviar diagnósticos**
 
-Si se produce un error mientras estás en una página del Centro de partners, se te pedirá que recopiles la información del registro. Selecciona **Recopilar más información** del vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes. Esta herramienta recopila información que necesita el equipo de Soporte para partners para determinar la causa del error. 
+Si se produce un error mientras se encuentra en una página del centro de Partners, es posible que se le pida que recopile la información de registro. Selecciona **Recopilar más información** del vínculo que se despliega desde la parte superior de la página para abrir la herramienta de diagnóstico para clientes. Esta herramienta recopila información que necesita el equipo de Soporte para partners para determinar la causa del error. 
 
 >[!NOTE]
 >En las páginas del Centro de partners que incluyan **/pcv/** en la dirección URL, puedes abrir la herramienta manualmente para recopilar esta información.

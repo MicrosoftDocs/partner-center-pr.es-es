@@ -2,17 +2,19 @@
 title: Transición desde el proveedor de soluciones en la nube (CSP) directo de Bill Partner al revendedor indirecto de CSP | Centro de Partners
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprenda cómo realizará la transición de Direct Bill Partner a revendedor indirecto
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, transición, revendedor indirecto
-ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997816"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651234"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP 
 
@@ -46,7 +48,7 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 5. Cuando se apruebe la inscripción, vuelva a iniciar sesión en el centro de Partners.
 
 >[!Note]
-> Aunque la aprobación es normalmente inmediata, puede tardar hasta cinco días laborables. Una vez aprobada, recibirá una notificación a la dirección de correo electrónico que especificó en contacto principal en el formulario de inscripción. También puede comprobar el estado de la inscripción en **configuración** → **configuración de socio comercial** → **Perfil de socio comercial** → información del programa. 
+> Aunque la aprobación es normalmente inmediata, puede tardar hasta cinco días laborables. Una vez aprobada, recibirá una notificación a la dirección de correo electrónico que especificó en contacto principal en el formulario de inscripción. También puede comprobar el estado de inscripción en **configuración** > **configuración de socio** > **Perfil de socio comercial** > información del programa. 
 
 6. En la página de **información general** , verá el contrato de revendedor indirecto. Selecciona **Aceptar y continuar**. Esto habilita las capacidades de revendedor indirectos.
 
@@ -97,8 +99,8 @@ Para crear una invitación de revendedor indirecto:
 
 4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. Después, seleccione **listo**.
 
-5. Una vez que el cliente te autorice a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
-6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre. 
+5. Una vez que el cliente autorice a usted y a su proveedor a ser su distribuidor de registro, tendrá permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre, y el proveedor indirecto podrá enviar pedidos en su nombre.
+6. Para administrar la cuenta del cliente, los servicios, los usuarios y las licencias, expanda el registro del cliente; para ello, seleccione la flecha abajo junto a su nombre. 
 
 A diferencia de los asociados directos de facturación, los revendedores indirectos no pueden crear Azure AD inquilinos para sus nuevos clientes en el centro de Partners. El proveedor creará el inquilino y lo especificará como revendedor indirecto para este cliente. Esto garantiza que el cliente aparecerá en la lista de clientes del centro de Partners.
 
@@ -117,9 +119,9 @@ El proveedor indirecto no puede enviar pedidos para los clientes de facturación
 
 4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. Después, seleccione **listo**.  
 
-5. Una vez que el cliente te autorice a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
+5. Una vez que el cliente autorice a usted y a su proveedor a ser su distribuidor de registro, tendrá permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre, y el proveedor indirecto podrá enviar pedidos en su nombre.
 
-6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
+6. Para administrar la cuenta del cliente, los servicios, los usuarios y las licencias, expanda el registro del cliente; para ello, seleccione la flecha abajo junto a su nombre.
 
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Administración de los clientes directos de facturación y sus clientes de revendedores indirectos

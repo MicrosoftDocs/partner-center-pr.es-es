@@ -2,21 +2,23 @@
 title: Servicios de planeación de software Assurance en el centro de Partners | Centro de Partners
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Inscribirse en Planning Services para proporcionar planeación previa a la implementación para clientes empresariales
 author: LauraBrenner
 ms.author: labrenne
 Keywords: anterior a la implementación, planeamiento, software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708883"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651628"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planificación de Software Assurance del Centro de partners
+# <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
-Amplíe su negocio mediante la inscripción en programas de servicios de planeación de software Assurance. Microsoft compensa a los asociados para ofrecer aprendizaje, planeamiento y otros servicios a los clientes empresariales que tienen software Assurance.
+Amplíe su negocio mediante la inscripción en programas de servicios de planeación de software Assurance. Microsoft compensa a los partners que ofrecen formación, planeamiento y otros servicios a los clientes empresariales que tienen Software Assurance.
 
 Como partner de Planning Services aprobado, Microsoft le compensa por proporcionar compromisos de planeación previa a la implementación para clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, convertirse en su asociado de planificación de confianza y conducir a otras contrataciones de clientes.
 
@@ -32,8 +34,8 @@ Si no está familiarizado con los servicios de planeación de software Assurance
 3. Actualizar Perfil de empresa en el directorio de socios comerciales
 4. Reservar un vale de cliente 
 5. Completar compromiso y enviar informe de finalización
-6. Canjear el vale 
-7. Solicitar el pago de Microsoft
+6. Canje de vales 
+7. Solicitud de pago de Microsoft
 
 En este artículo se explica cómo completar cada paso.
 
@@ -101,7 +103,7 @@ Una vez que haya reservado un vale, puede canjearlo.
 
 1. En la lista de asientos reservados, seleccione los asientos que desea canjear. 
 2. Ahora verá una lista de los vales **canjeados** .
-3. Active las casillas situadas junto a los asientos deseados y, a continuación, haga clic en canjear los **asientos seleccionados**.
+3. Active las casillas situadas junto a los asientos deseados y, a continuación, haga clic en **canjear los asientos seleccionados**.
 4. En la página confirmar el canje del asiento, revise la información del asiento para ver la precisión y, a continuación, seleccione **sí** para canjear el asiento.
 
 5. Para crear una demanda, selecciona **crear una demanda**o, en la página de detalles del asiento, selecciona **crear una demanda**.

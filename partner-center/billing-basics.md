@@ -2,25 +2,27 @@
 title: Información general sobre facturación | Centro de Partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Información sobre los escenarios de facturación básicos y las diferencias entre la facturación basada en licencias y en el uso
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820376"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653761"
 ---
 # <a name="billing-overview"></a>Información general sobre facturación
 
 **Se aplica a**
 
 -  Centro de partners
--  Asociados en el programa CSP
+-  Partners del programa CSP
 
 En función de los productos, las soluciones y los servicios que compre en nombre de sus clientes, se le facturará por estas compras en uno o varios de los siguientes métodos:
 -   [Facturación basada en licencias](#licensebasedbilling)
@@ -46,7 +48,7 @@ Los precios de los productos, servicios y suscripciones de software se garantiza
 
 Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación después de la aplicación del crédito o ajuste.
 
-Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación en el Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
 
 ## <a name="payment-terms"></a>Condiciones de pago
 
@@ -94,7 +96,7 @@ Puede cambiar la frecuencia de facturación cada vez que cambien sus necesidades
 
 4.  Seleccione **Aceptar** para hacer el cambio o **Cancelar** para deshacerlo. 
 
-### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelaciones
+### <a name="adjustmentscreditscancellations"></a>Ajustes, créditos y cancelaciones
 
 Microsoft no cobra las tarifas de finalización tempranas para la cancelación de servicios basados en licencias. 
 
@@ -109,7 +111,7 @@ Algunos productos y servicios de Microsoft usan el modelo de facturación "pago 
 
 -   Las tarifas de servicio de uso medido pueden cambiar durante el ciclo de facturación. 
 
-    -   Aumento del precio: se proporciona un aviso de 30 días.
+    -   Aumentos de precio: se proporciona un aviso de 30 días.
 
     -   Reducciones de precio: día del cambio reflejado.
 
@@ -117,7 +119,7 @@ Algunos productos y servicios de Microsoft usan el modelo de facturación "pago 
 
     -   Las nuevas suscripciones, cuando se crean en el mismo ciclo de facturación, usan la tasa vigente en la fecha de creación. 
 
-### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelaciones
+### <a name="adjustmentscreditscancellations"></a>Ajustes, créditos y cancelaciones
 
 Verás los pagos con ajustes en la siguiente factura de facturación mensual.
 
@@ -144,7 +146,7 @@ Puede adquirir suscripciones de software y reservas de Azure por adelantado, con
 
 1.  Seleccione **clientes** en el menú del centro de Partners.
 
-2.  En tu página **Clientes**, busca el cliente cuyo historial de pedidos quieres ver y, a continuación, selecciona la flecha abajo para expandir el registro del cliente. 
+2.  En la página **clientes** , busque el cliente cuyo historial de pedidos desea ver y, a continuación, seleccione la flecha abajo para expandir el registro del cliente. 
 
 3.  Selecciona **Ver pedidos** para mostrar el historial de pedidos.
 

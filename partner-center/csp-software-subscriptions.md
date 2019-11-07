@@ -2,18 +2,20 @@
 title: Vender suscripciones de software a través de CSP | Centro de partners
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ahora puede adquirir, aprovisionar y administrar instancias reservadas de Azure y suscripciones de servidor en el nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal aprovechando la Ventaja híbrida de Azure.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376425"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653484"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender suscripciones de software a través de CSP
 
@@ -52,7 +54,7 @@ Después de adquirir la suscripción de software, siga los pasos que se indican 
 >[!NOTE]
 >Debe ser un agente de administración para descargar software y obtener las claves de activación.
 
-1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente. 
+1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verá una lista de todo el software que ha comprado en nombre del cliente. 
 2.  Expande el producto que desees descargar. En el campo **Seleccionar producto**, selecciona la **Versión**, **Idioma** y **Tipo de archivo/SO** que desees. 
 3.  Selecciona **Enviar** para mostrar los productos específicos. 
 4.  Selecciona **Obtener claves y descargas**. 
@@ -106,4 +108,4 @@ Siga los pasos que se indican a continuación para cancelar una compra:
 
 8.  Si tienes que adjuntar un archivo por cualquier motivo, selecciona **Agregar archivos**. Esto es opcional. 
 
-9.  Cuando hayas terminado, selecciona **Enviar**.
+9.  Cuando haya terminado, seleccione **submit (enviar**).

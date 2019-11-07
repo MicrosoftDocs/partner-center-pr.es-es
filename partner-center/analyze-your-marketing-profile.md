@@ -2,16 +2,18 @@
 title: Analizar su perfil de negocio | Centro de Partners
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Vea cómo está captando la atención de sus clientes de destino y generando referencias.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: 7eff3b7f27a12111fe0a48b95c2346ee5d9cf98d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854494"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653938"
 ---
 # <a name="analyze-your-business-profile"></a>Analizar su perfil de negocio
 <!-- 
@@ -32,10 +34,10 @@ Después de publicar el perfil de [negocio](create-a-marketing-profile.md)de su 
 
 El gráfico de **Resumen rendimiento de perfil** incluye la siguiente información para el período de tiempo seleccionado:
 
-- **Resultados**de la búsqueda: Información acerca de los términos de búsqueda que usan los clientes para encontrar su perfil de negocio.
-- **Vistas de página**: El número total de veces que los clientes vieron el perfil de negocio.
-- **Clics de contacto**: El número total de veces que los clientes seleccionaron su perfil de negocio en la página [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) .
-- **Referencias generadas**: El número total de referencias enviadas después de que un cliente haya seleccionado su perfil de negocio.
+- **Resultados**de la búsqueda: información acerca de los términos de búsqueda que usan los clientes para buscar el perfil de negocio.
+- **Vistas de página**: el número total de veces que los clientes vieron el perfil de negocio.
+- **Clics de contacto**: el número total de veces que los clientes seleccionaron su perfil de negocio desde la página [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) .
+- **Referencias generadas**: el número total de referencias enviadas después de que un cliente haya seleccionado su perfil de negocio.
 
 > [!TIP]
 > A medida que empiece a [responder a estas referencias](responding-to-referrals.md), asegúrese de revisar la página de información de [referencia](referral-insights.md) para ver más detalles sobre el rendimiento de las referencias.

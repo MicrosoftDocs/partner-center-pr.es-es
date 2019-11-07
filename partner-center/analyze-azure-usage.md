@@ -1,6 +1,8 @@
 ---
 title: Analizar el uso de Azure | Centro de partners
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Use el centro de partners para obtener datos sobre el uso de las suscripciones de Azure de sus clientes.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781981"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653377"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obtener datos sobre el uso de las suscripciones de Azure de tus clientes
 
@@ -31,9 +33,9 @@ Estamos siguiendo estas métricas:
 
 ## <a name="summary"></a>Resumen
 
-- **Total**de suscripciones de Azure vendidas: Número de suscripciones vendidas en el período de tiempo especificado  
-- **Clientes con uso**: Número de clientes con uso de Azure en el período de tiempo especificado  
-- **Clientes sin uso**: Número de clientes sin uso de Azure en el período de tiempo especificado  
+- **Total de suscripciones de Azure vendidas**: número de suscripciones vendidas en el período de tiempo especificado  
+- **Clientes con uso**: número de clientes con uso de Azure en el período de tiempo especificado  
+- **Clientes sin uso**: número de clientes sin uso de Azure en el período de tiempo especificado  
 
 ## <a name="top-5-customers-in-category"></a>5 clientes principales de la categoría
 
@@ -49,8 +51,8 @@ En esta sección se indica el riesgo de renovación previsto para las suscripcio
 
 ## <a name="azure-subscription-churn"></a>Grupo de suscripciones de Azure
 
-- **Suscripciones activas**: Recuento de suscripciones activas por fecha  
-- Suscripciones desaprovisionadas: Recuento de suscripciones desaprovisionadas o suspendidas por fecha  
+- **Suscripciones activas**: recuento de las suscripciones activas hasta la fecha  
+- **Suscripciones dadas de baja**: recuento de suscripciones dadas de baja o suspendidas hasta la fecha  
 
 ## <a name="customer-count"></a>Recuento de clientes
 

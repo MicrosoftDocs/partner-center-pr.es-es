@@ -2,16 +2,18 @@
 title: Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government | Centro de partners para Microsoft Cloud for US Government
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Para cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y el uso de datos de personas físicas, en el Centro de partners de Microsoft Cloud for US Government no están disponibles las funcionalidades de administración de usuarios. En su lugar, agrega y administra los usuarios en el portal de Azure para Microsoft Cloud for US Government.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132935"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653967"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -19,7 +21,7 @@ ms.locfileid: "62132935"
 
 -  Centro de partners para Microsoft Cloud for US Government
 
-Las siguientes tareas se administran en el portal de administración de Microsoft Azure para Microsoft Cloud para el gobierno de Estados Unidos:
+Las siguientes tareas se administran en el portal de administración de Microsoft Azure para Microsoft Cloud para el gobierno de EE. UU.:
 
 - Administración de usuarios de partners
 
@@ -35,16 +37,16 @@ Si has iniciado sesión en el Centro de partners para Microsoft Cloud for US Gov
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud for US Government, abre la página de introducción a Azure Active Directory (Azure AD) y sigue las instrucciones sobre estos temas:
 
 > [!NOTE]  
-> Selecciona los siguientes vínculos le llevará a un sitio Web diferente. 
+> La selección de los vínculos siguientes le llevará a un sitio web diferente. 
 
 -  [**Agregar nuevos usuarios a Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Asignar a un usuario a roles de administrador en Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Asignar un usuario a roles de administrador en Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [**Restablecer la contraseña de un usuario en Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Temas relacionados**
 
--  [**Centro de partners de Microsoft Cloud for Government de EE. UU.**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Centro de partners para Microsoft Cloud para el gobierno de EE. UU.** ](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Inscribirse en el programa proveedor de soluciones de nube de Microsoft Cloud para el gobierno estadounidense**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Inscribirse en el programa proveedor de soluciones en la nube para Microsoft Cloud para el gobierno de EE. UU.** ](enroll-in-csp-for-microsoft-us-govt-cloud.md)

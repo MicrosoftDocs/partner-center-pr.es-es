@@ -2,17 +2,19 @@
 title: Actualizar la información de la cuenta de cliente | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En el Centro de partners, puedes actualizar la información de facturación de un cliente y otros detalles de la empresa.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 32a335778cde4495e3572a18afb90ff4593f2465
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: a9d8070bf732597ed1d24a930508db910a4dfc65
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133035"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651190"
 ---
 # <a name="update-customer-account-info"></a>Actualizar la información de la cuenta de cliente
 
@@ -26,7 +28,7 @@ En el Centro de partners, puedes actualizar la información de facturación de u
 
 **Actualizar detalles del cliente**
 
-1.  Desde el **centro de partners** menú, seleccione **clientes**. A continuación, elige el cliente de la lista.
+1.  En el menú del **centro de Partners** , seleccione **clientes**. A continuación, elige el cliente de la lista.
 2.  En el menú del cliente, selecciona **Cuenta** y luego **Actualizar**.
 3.  Después de realizar los cambios, selecciona **Enviar**.
 

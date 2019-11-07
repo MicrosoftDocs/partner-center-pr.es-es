@@ -2,18 +2,20 @@
 title: Suscripción a Microsoft Partner Network | Centro de partners
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Obtén información sobre las ventajas de asociarse con Microsoft. El Microsoft Partner Network proporciona la gama más amplia de productos del sector, así como opciones de programa para diferenciar su negocio, ir al mercado y vender sus soluciones.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978751"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661155"
 ---
 # <a name="partner-with-microsoft"></a>Partner de Microsoft
 
@@ -52,13 +54,13 @@ Revise los recursos siguientes para obtener más información sobre Action Pack:
 - [Obtener la Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >La suscripción de Action Pack se administra en el centro de Partners. Si su empresa todavía no se ha trasladado al centro de Partners desde el centro de pertenencia de socios, lea [preparación para su traslado al centro de Partners](partner-center/prepare-pmc-pc-migration.md) .  
+    >La suscripción de Action Pack se administra en el centro de Partners. Si su empresa todavía no se ha trasladado al centro de Partners desde el centro de pertenencia de socios, lea [preparación para su traslado al centro de Partners](prepare-pmc-pc-migration.md) .  
 
 - [Renovar las ofertas de MPN](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Competencias
 
-Demostrar su experiencia probada en la entrega de soluciones de calidad en un área de negocio especializada. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes actuales y ser reconocibles a las posibles. Únete al nivel élite de partners de Microsoft y destaca entre tus compañeros.
+Demostrar su experiencia probada en la entrega de soluciones de calidad en un área de negocio especializada. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes actuales y ser reconocibles a las posibles. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
 Revise los recursos siguientes para obtener más información sobre las competencias:
 
@@ -72,7 +74,7 @@ Revise los recursos siguientes para obtener más información sobre los requisit
 
 - [Beneficios principales](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
 - [Administración de las ventajas de MPN en el centro de Partners](manage-your-partner-network-benefits.md)
-- [Requisitos principales](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
+- [Requisitos básicos](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>Consulta también
 - [Amplíe su negocio de asociados de Microsoft](grow-your-business.md)

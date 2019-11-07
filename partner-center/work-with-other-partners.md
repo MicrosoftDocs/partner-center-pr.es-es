@@ -2,16 +2,18 @@
 title: Trabajar con otros partners | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Trabaja con otros partners de CSP para satisfacer las necesidades de los clientes que compartes.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820546"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651156"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 
@@ -19,7 +21,7 @@ ms.locfileid: "68820546"
 
 -  Centro de partners
 
-El programa Proveedor de soluciones en la nube (CSP) de Microsoft ofrece oportunidades para los partners trabajen juntos de estas maneras.
+El programa proveedor de soluciones en la nube (CSP) de Microsoft ofrece oportunidades para que los asociados colaboren de estas maneras.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Modelo de revendedor indirecto - proveedor indirecto
 
@@ -41,15 +43,15 @@ Si eres un revendedor indirecto o si estás interesado en inscribirte en CSP com
 
 ## <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
-La característica multipartner del Centro de partners es compatible con escenarios en los que un cliente necesita trabajar con más de un partner. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero también quiere contratar a otro partner especializado en Microsoft Azure. Consulta [Compatibilidad con múltiples idiomas](multipartner.md) para más información.
+La característica de varios asociados del centro de Partners admite escenarios en los que un cliente necesita trabajar con más de un socio. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero también quiere contratar a otro partner especializado en Microsoft Azure. Consulta [Compatibilidad con múltiples idiomas](multipartner.md) para más información.
 
 El soporte técnico para multipartner también está disponible en las ofertas de la nube de Microsoft a nivel nacional. 
 
 ## <a name="multi-channel-support"></a>Soporte técnico multicanal
 
-La característica multicanal del Centro de partners admite escenarios cuando un cliente quiera contratar un partner para aprovisionar y dar soporte técnico a una suscripción obtenida en otro lugar. Consulta [Soporte técnico multicanal](multichannel.md) para más información.
+La característica de varios canales del centro de Partners admite escenarios en los que un cliente desea contratar a un socio para aprovisionar y respaldar una suscripción que haya adquirido en otro lugar. Consulta [Soporte técnico multicanal](multichannel.md) para más información.
 
 El soporte técnico para multicanal también está disponible en las ofertas de la nube de Microsoft a nivel nacional.
 
 > [!IMPORTANT]  
-> Actualmente, un asociado en el programa CSP no puede revender servicios en línea a otro asociado en el programa CSP. Microsoft revisa continuamente las directivas y las capacidades de todos los programas. Las noticias sobre las versiones de las características o los cambios de las directivas se anunciarán a través de los canales de comunicaciones habituales, incluidos los [anuncios del centro de Partners](https://partner.microsoft.com/pcv/announcements).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](https://partner.microsoft.com/pcv/announcements).

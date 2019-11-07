@@ -2,18 +2,20 @@
 title: Asignar o revocar licencias a varios usuarios | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: asignar licencias, revocar la licencia, asignar a varios usuarios
+Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
-ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135345"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653722"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -23,18 +25,18 @@ ms.locfileid: "62135345"
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
-el centro de partners realiza un seguimiento y muestra todos los derechos de licencia de propiedad del cliente.
+el centro de Partners realiza un seguimiento y muestra todos los derechos de licencia propiedad del cliente.
 
 ## <a name="in-this-section"></a>En esta sección
 
 
--   [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
--   [Asignaciones de licencias de revocación de los usuarios](#revoking-licenses)
+-   [Asignación de licencias a varios usuarios](#assign-licenses-to-groups)
+-   [Revocar las asignaciones de licencia de los usuarios](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Asignar licencias a varios usuarios**
+**asignar licencias a varios usuarios**
 
-1.  Desde el **centro de partners** menú, seleccione **clientes**y, a continuación, elija un cliente de la lista.
+1.  En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 
@@ -60,16 +62,16 @@ el centro de partners realiza un seguimiento y muestra todos los derechos de lic
 7.  Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8.  Selecciona **Guardar**. Se abre el centro de partners un **licencias actualizadas** enumerar los usuarios y sus nuevas licencias de página de confirmación.
+8.  Selecciona **Guardar**. El centro de Partners abre una página de confirmación de **licencias actualizadas** en la que se muestran los usuarios y sus licencias nuevas.
 
-**Tenga en cuenta**  algunos productos de Microsoft pueden no estar disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
+**Tenga en cuenta**  puede que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
  
 
 <a href="" id="revoking-licenses"></a>
-**Asignaciones de licencias de revocación de los usuarios**
+**revocar las asignaciones de licencia de los usuarios**
 
-1.  Desde el **centro de partners** menú, seleccione **clientes**y, a continuación, elija un cliente de la lista.
+1.  En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 2.  Selecciona **Usuarios y licencias**.
 3.  Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 

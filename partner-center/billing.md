@@ -2,18 +2,20 @@
 title: Facturación | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Como partner de Proveedor de soluciones en la nube, pagarás a Microsoft por período vencido de 60 días las suscripciones basadas en licencia y basadas en uso de tus clientes.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: dad4cffbd03e7e6ea811e5bf954a46a1566196f0
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135375"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653736"
 ---
 # <a name="billing"></a>Facturación
 
@@ -23,12 +25,12 @@ ms.locfileid: "62135375"
 -  Centro de partners para Microsoft Cloud for US Government
  
  
-Para la factura, vaya a la **centro de partners** menú y, a continuación, seleccione **facturación** ver su historial de facturación y las tendencias, vínculos a su archivo de conciliación y la factura y el pago más reciente.
+Para su factura, vaya al menú del **centro de Partners** y seleccione **facturación** para ver el historial de facturación y las tendencias, los vínculos a su archivo de conciliación y de conciliación y el pago más reciente.
 
 Los partners del programa Proveedor de soluciones en la nube que elijan que se les facture mensualmente pagan a Microsoft por período vencido de 60 días las suscripciones de sus clientes (basadas en licencia y basadas en uso).
 
 > [!NOTE]  
-> La factura es un resumen de todos los cargos--en el programa, productos y clientes--para el período de facturación actual y está disponible en dos (2) días de la fecha de facturación seleccionada en hora UTC. Por ejemplo, si tienes un 12 de septiembre fecha de facturación, el proceso de generación de facturas comenzar a las 12:00 A.M. UTC en el 13 y completar por 12:00 A.M. UTC el día 14. Si no ve su factura por hora UTC de 11:59 P.M. el día 15, que está fuera de su contrato de nivel de servicio y debe realizar una solicitud de servicio. 
+> La factura es un resumen de todos los cargos, en el programa, los productos y los clientes, para el período de facturación actual y está disponible en un plazo de dos (2) días a partir de la fecha de facturación seleccionada en la hora UTC. Por ejemplo, si tiene una fecha de facturación del 12 de septiembre, el proceso de generación de la factura comenzará en 12: A.M. UTC en el decimotercer y terminará en 12: A.M. UTC en el 14. Si no ve la factura en 11:59PM UTC el día 15, ya no tiene el Acuerdo de Nivel de Servicio y debe archivar una solicitud de servicio. 
 
 Información clave para saber cómo facturar a tus clientes:
 
@@ -38,7 +40,7 @@ Información clave para saber cómo facturar a tus clientes:
 -   Envía al cliente una sola factura para todos los cargos.
 
 ## <a name="billing-resources"></a>Recursos de facturación
-|**Para obtener información sobre**   |**Lea este**    |
+|**Para obtener información sobre**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
 |Conceptos básicos sobre facturación, pagos, facturas y mucho más   |[Conceptos básicos de la facturación](billing-basics.md)
 |Muchas características nuevas de facturación, como la facturación anual   |[Preguntas más frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md)|

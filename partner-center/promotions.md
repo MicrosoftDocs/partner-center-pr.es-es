@@ -2,24 +2,26 @@
 title: Usar promociones para atraer a nuevos clientes | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como partner de Microsoft en el programa de Proveedor de soluciones en la nube, puedes comprar suscripciones al precio de promoción y pasar el ahorro a tus clientes.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134665"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652148"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 
-**Se aplica a: Centro de partners**
+**Se aplica a: Centro de Partners**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite pasar los ahorros a los clientes y hacer crecer tu negocio. 
+En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite trasladar los ahorros a los clientes y hacer crecer tu negocio. 
 
 Microsoft ofrece dos tipos de promociones: las que están disponibles para todos los partners elegibles del programa Proveedor de soluciones en la nube y las disponibles solo para partners de una región geográfica determinada.
 
@@ -27,7 +29,7 @@ Los precios de las promociones se aplican automáticamente a tu precio neto al a
 
 Dedica un momento a revisar estos datos importantes sobre promociones:
 
--   El precio con descuento de una suscripción se aplica solo durante el periodo de vigencia de la suscripción. Si una suscripción con descuento caduca, el precio de la suscripción de renovación se revierte al precio de la lista de precios. Esto significa que cualquier configuración de suscripciones para su renovación automática se renovará al precio vigente. Puedes encontrar la lista de precios en la página **Precios y ofertas**. 
+-   El precio de promoción de una suscripción solo se aplica a la duración de la suscripción. Cuando expire la suscripción que ha adquirido con un precio promocional, el precio de la suscripción de renovación se revierte al precio de la lista de precios. Esto significa que cualquier configuración de suscripciones para su renovación automática se renovará al precio vigente. Puedes encontrar la lista de precios en la página **Precios y ofertas**. 
 
 -   Si una suscripción es elegible para varias promociones, se aplica automáticamente la promoción con mayor porcentaje de descuento.
 
@@ -35,14 +37,14 @@ Dedica un momento a revisar estos datos importantes sobre promociones:
 
 ## <a name="see-available-promotions"></a>Ver las promociones disponibles
 
-Puedes ver las promociones a las que puedes optar, si las hubiera, en la página **Promociones**. Seleccione **promociones** desde su **centro de partners** menú para ver una lista de promociones actuales, junto con el descuento, tipo de promoción y fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
+Puede ver en la página **promociones** las promociones a las que puede elegir, si las hay. Seleccione **promociones** en el menú del **centro de Partners** para ver una lista de las promociones actuales, junto con el descuento, el tipo de promoción y las fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verás un mensaje que lo indique. 
 
 > [!NOTE]  
 > También puedes ver promociones al realizar una compra. Cuando seleccionas una suscripción, el precio promocional aparece en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Comprar suscripciones a precios de promoción
 
-1. En su **centro de partners** menú, seleccione **clientes** y, a continuación, seleccione el cliente que se compra la suscripción. 
+1. En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, seleccione el cliente que está comprando la suscripción. 
 
 2. Selecciona **Agregar suscripción**.
 

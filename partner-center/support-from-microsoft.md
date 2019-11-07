@@ -2,19 +2,21 @@
 title: Soporte técnico de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cuando se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133875"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651568"
 ---
-# <a name="support-from-microsoft"></a>Soporte técnico de Microsoft
+# <a name="support-from-microsoft"></a>Soporte de Microsoft
 
 **Se aplica a**
 
@@ -32,7 +34,7 @@ Si se producen problemas con un servicio Microsoft o con el Centro de partners, 
 
 [Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md)
 
-[Soporte técnico de las ventajas de Microsoft](https://partner.microsoft.com/support/contact-support)
+[Compatibilidad con los beneficios de Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

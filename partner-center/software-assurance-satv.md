@@ -2,17 +2,19 @@
 title: Programa de vales de formación de Software Assurance (SATV) del Centro de partners | Centro de partners
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Inscripción en el programa de formación de Software Assurance
 author: LauraBrenner
 ms.author: labrenne
 keywords: training vouchers, software assurance, training, enroll in SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142016"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651597"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
@@ -22,7 +24,7 @@ Como partner autorizado de formación de Software Assurance, Microsoft te compen
 
 ## <a name="get-started"></a>Introducción
 
-Si no estás familiarizado con los servicios de formación de Software Assurance, sigue todos los pasos que se indican a continuación. Si ya estás activo en el programa de vales de formación, empieza en el paso cuatro (4) que aparece a continuación. 
+Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje, empiece en el paso cuatro (4) a continuación. 
 
 1. Confirmación de la idoneidad para el programa
 2. Inscripción en el programa de formación
@@ -39,11 +41,11 @@ En este artículo se explica cómo completar cada paso.
 
 Antes de poder inscribirte en el programa SATV, primero debes completar los requisitos de la opción de aprendizaje de Microsoft Partner Network, que reemplaza a la competencia de Microsoft Learning. Conoce los primeros pasos de la [opción de aprendizaje.](https://partner.microsoft.com/membership/learning-partners)
 
-Puedes comprobar la idoneidad de tu empresa, incluidos los requisitos aplicables de competencia y evaluación, en el Centro de partners. Siga las instrucciones del [paso 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo de SATV para obtener más detalles y capturas de pantalla.
+Puede comprobar la elegibilidad de su empresa, incluidos los requisitos aplicables de competencia y evaluación en el centro de Partners. Siga las instrucciones del [paso 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo de SATV para obtener más detalles y capturas de pantalla.
 
 ## <a name="enroll-in-the-training-program"></a>Inscripción en el programa de formación
 
-Después de comprobar que la empresa cumple los requisitos de idoneidad y que los participantes del programa han aprobado el curso de formación en cumplimiento normativo, ya estás listo para firmar el acuerdo del programa de vales de formación de Software Assurance e inscribirte. Asegúrese de revisar todas [las directivas de programa de SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)y, a continuación, siga las instrucciones del [paso 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo para completar el proceso de inscripción de SATV en el centro de Partners.   
+Una vez que su empresa cumple los requisitos de idoneidad y que los participantes del programa han superado el curso de formación de cumplimiento, está listo para firmar el contrato del programa de aprendizaje de software Assurance e inscribirse. Asegúrese de revisar todas [las directivas de programa de SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)y, a continuación, siga las instrucciones del [paso 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo para completar el proceso de inscripción de SATV en el centro de Partners.   
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmación de la idoneidad para el curso
@@ -55,7 +57,7 @@ Antes de realizar un curso de formación, el cliente debe activar primero su ven
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Validación y reserva de vales del cliente
 
-Ahora puedes reservar y canjear vales y comenzar la formación de los clientes. El administrador de MPN de tu empresa tiene acceso a la herramienta de administración de vales del Centro de partners y puede agregar los usuarios que necesiten trabajar en la herramienta. Para obtener instrucciones sobre la validación y la reserva de los vales, consulte el [paso 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo.
+Ahora puedes reservar y canjear vales y comenzar la formación de los clientes. El administrador de MPN de su empresa tiene acceso a la herramienta de administración de asientos del centro de Partners y puede Agregar usuarios que necesitan trabajar en la herramienta. Para obtener instrucciones sobre la validación y la reserva de los vales, consulte el [paso 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) del flujo de trabajo.
 
 ## <a name="deliver-training-and-activate-product"></a>Impartición de la formación y activación del producto
 

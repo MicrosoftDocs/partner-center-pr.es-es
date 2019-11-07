@@ -2,17 +2,19 @@
 title: Información fiscal de la organización | Centro de partners
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Los impuestos para las compras en el Centro de partners dependen de tu dirección comercial. Las empresas de algunos países pueden proporcionar su número de IVA o el equivalente local.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9020aee8c0fd51874cc6d5dadf78d872710e533
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: cbd3b979b19aa191d59840243711b0663f411279
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318634"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652916"
 ---
 # <a name="company-tax-information"></a>Información fiscal de la compañía
 

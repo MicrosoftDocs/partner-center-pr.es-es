@@ -2,17 +2,19 @@
 title: Azure Reserved VM Instances (RI) + suscripciones de servidor para Azure | Centro de partners
 ms.topic: article
 ms.date: 7/30/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Al llevar a Azure RI y las suscripciones de servidor a su programa CSP, estamos habilitando mejor a nuestros partners para que aborden la creciente demanda de clientes de rápido crecimiento para soluciones más rentables a fin de admitir cargas de trabajo de nube altamente predecibles y persistentes. El programa CSP permite a los partners adquirir, aprovisionar y administrar Azure RI y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820332"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653799"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -44,14 +46,14 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 -   Reservas de base de SQL
 -   Instancia administrada SQL
 -   Azure Cosmos DB
--   Almacenamiento de datos SQL de Azure
+-   Azure SQL Data Warehouse
 -   App Services
 -   Azure Databricks reservas unitarias
 
 #### <a name="server-subscriptions"></a>Suscripciones de servidor
--   Windows Server
+-   Windows Server
 -   Cal de Servicios de Escritorio remoto (RDS)
--   SQL Server
+-   SQL Server
 
 #### <a name="linux-isv-annual-subscriptions"></a>Suscripciones anuales de ISV de Linux
 -   Linux SUSE
@@ -61,7 +63,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 #### <a name="isv-annual-subscriptions"></a>Suscripciones anuales de ISV
 -   Solución VMware de Azure de CloudSimple
 
-## <a name="getting-started"></a>Introducción
+## <a name="getting-started"></a>Tareas iniciales
 
 Para comprender cómo puedes situar las Azure Reservations con tus clientes y que comience su funcionamiento operativo lo antes posible, te recomendamos el enfoque siguiente para revisar los materiales de preparación:
 
@@ -97,7 +99,7 @@ A continuación te mostramos una lista completa de recursos para ayudarte a inco
 - [Introducción a los precios de Azure](https://azure.microsoft.com/pricing/)
 - [Calculadora de precios de Azure](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks reservas unitarias](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- Listas de precios de CSP:  Las listas de precios **Microsoft Azure instancias reservadas** y suscripciones de **software** se encuentran en la página precios del centro de Partners [&](https://partner.microsoft.com/pcv/sales) .
+- Listas de precios de CSP: las listas de precios **Microsoft Azure instancias reservadas** y **suscripciones de software** se encuentran en la página precios del centro de Partners [&](https://partner.microsoft.com/pcv/sales) .
 
 
 **Entrenamiento**
@@ -110,7 +112,7 @@ A continuación te mostramos una lista completa de recursos para ayudarte a inco
 
 **Operaciones**
 
-- [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizado):  Una guía completa sobre la política clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y servicios compartidos de asociados de Azure.
+- [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre la política clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y Servicios compartidos de asociados de Azure.
 - [Disponibilidad por países de ofertas modernas y matriz de monedas de clientes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vender Microsoft Azure instancias reservadas](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Comprar reservas de Microsoft Azure en nombre de los clientes](https://go.microsoft.com/fwlink/?linkid=872807)

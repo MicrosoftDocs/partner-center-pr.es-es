@@ -2,18 +2,20 @@
 title: Comprar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Puede comprar reservas de Azure en nombre de sus clientes en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
-ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "72530967"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653828"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners 
 
@@ -37,7 +39,7 @@ Revise la información importante que aparece a continuación antes de comprar l
  
 -   Los agentes del departamento de soporte técnico y ventas necesitan acceso explícito a la suscripción de Azure para poder comprarla o administrarla en el Azure Portal y archivar solicitudes de soporte, incluidos los cambios y los reembolsos, en nombre del cliente.  
 
--   Si eres un proveedor indirecto y compras Azure Reservations a través del Azure Portal, el Partner en registro (revendedor indirecto) se hereda de la suscripción CSP de Azure que selecciones. 
+-   Si es un proveedor indirecto y compra reservas de Azure a través del Azure Portal, el asociado de registro (revendedor indirecto) se hereda de la suscripción de CSP de Azure que seleccione. 
 
 -   No se puede cambiar el asociado de registro para las reservas de Azure después de la compra. Puedes cancelar la reserva existente y comprar una nueva con el nuevo Partner en registro. 
 
@@ -54,7 +56,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Samoa Americana     | Granada     | Islas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunión     |
 > | Anguila     | Guam     | Saba   |
-> | Antártida     | Guernsey     | San Bartolomé   |
+> | Antártida     | Guernesey     | San Bartolomé   |
 > | Antigua y Barbuda       | Guinea     | Santa Lucía   |
 > | Aruba       | Guinea-Bisáu     | San Martín   |
 > | Azerbaiyán       | Guyana     | San Pedro y Miquelón   |
@@ -70,7 +72,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | República Centroafricana     | Liberia     | Somalia     |
 > | Chad     | Madagascar     | Georgia del Sur e islas Sandwich del sur     |
 > | China     | Malawi     | Sudán del Sur     |
-> | Isla de Navidad     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
+> | Isla Christmas     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
 > | Islas Cocos     | Malí     | Surinam     |
 > | Comoras     | Islas Marshall     | Mayen     |
 > | Congo     | Martinica     | Suazilandia     |
@@ -94,15 +96,15 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
 1. Seleccione **clientes** en el menú del centro de Partners.  
 
-2. En tu página **Clientes**, busca el cliente que quiere comprar reservas de Azure y, a continuación, selecciona la flecha abajo para expandir la fila del cliente.  
+2. En la página **clientes** , busque el cliente que desea comprar reservas de Azure y, después, seleccione la flecha abajo para expandir la fila del cliente.  
 
-3. Selecciona **Agregar productos** y, a continuación, **Azure**. 
+3. Selecciona **Add products** (Agregar productos) y, a continuación, **Azure**. 
 
-    a. Elija el segmento de mercado del cliente en la lista de **segmentos** .
+    a. Elige el segmento de mercado del cliente de la lista de **segmentos**.
 
     b. Elija **reservas** en la lista **tipo** de producto.
 
-    c. Elija el tipo de reserva que el cliente desea en la lista **tipo de reservas** .
+    c. Elige el tipo de reserva que quiere el cliente de la lista con los **tipo de reservas**.
 
 4. Las reservas de Azure deben estar asociadas con una suscripción de Azure activa. Elija la suscripción del cliente a la que desea agregar las reservas de Azure en la lista de **suscripciones de cliente** . 
 
@@ -113,13 +115,13 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
 6. Una vez que encuentre las reservas que desea comprar, escriba el número de instancias reservadas que el cliente necesitará en **cantidad** y, a continuación, seleccione **Agregar al carro**.  
 
-7. Repite los pasos 5 y 6 hasta que hayas agregado todos los elementos necesarios al pedido. Selecciona **Revisar** para comprobar que el pedido es correcto.  
+7. Repita los pasos 5 y 6 hasta que haya agregado todos los elementos necesarios al pedido. Selecciona **Revisar** para verificar que el pedido esté correcto.  
 
 8. En la página **Revisar los pedidos**, puedes: 
 
     - Comprobar o cambiar la cantidad de instancias reservadas.
 
-    - Seleccionar el ámbito de la reserva. El ámbito de la reserva puede abarcar una o varias suscripciones (ámbito compartido). Si el ámbito de la reserva es una sola suscripción, el descuento de reserva se aplica solo a esta suscripción. Si seleccionas el modo compartido, el descuento de la reserva se aplica a las suscripciones del contexto de facturación del cliente. 
+    - Seleccione el ámbito de la reserva. El ámbito de la reserva puede abarcar una suscripción o varias suscripciones (ámbito compartido). Si el ámbito de la reserva es una sola suscripción, el descuento de reserva se aplica solo a esta suscripción. Si selecciona compartido, el descuento de reserva se aplica a todas las suscripciones del contexto de facturación del cliente. 
 
       >[!NOTE] 
       >Si opta por limitar el ámbito de la reserva a una sola suscripción de Azure, puede que tenga que aumentar la cuota de vCPU de la suscripción. Para aumentar la cuota de vCPU de la suscripción, deberá crear una solicitud de soporte técnico en el Azure Portal. Siga las instrucciones [de este tema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para crear la solicitud. 
@@ -134,10 +136,10 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
 9. Selecciona **Comprar** para comprar el pedido. Los detalles de su pedido, incluido el número de pedido, se muestran en la página **confirmar** . Selecciona **Listo** para ir a tu página **Historial de pedidos**. 
 
-10. Para administrar la reserva del cliente en el Azure Portal, busque el cliente en la página **clientes** y, a continuación, seleccione la flecha abajo para expandir la fila del cliente. Selecciona **Portal de administración de Microsoft Azure** para abrir el registro del cliente en el portal de Azure.
+10. Para administrar la reserva del cliente en el Azure Portal, busque el cliente en la página **clientes** y, a continuación, seleccione la flecha abajo para expandir la fila del cliente. Seleccione **portal de administración de Microsoft Azure** para abrir el registro del cliente en el Azure portal.
 
 ## <a name="azure-reservations-resources"></a>Recursos de Azure Reservations
-|**Para obtener información sobre**   |**Lea este**    |
+|**Para obtener información sobre**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
 |Reservas de Azure en la introducción del CSP  | [Vender Microsoft Azure instancias reservadas](azure-reservations.md) |
 |Administración de las reservas de Azure en el centro de Partners | [Administración de las reservas de Azure en el centro de Partners](azure-reservations-manage.md)

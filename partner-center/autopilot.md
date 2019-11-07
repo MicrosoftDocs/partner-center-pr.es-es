@@ -3,16 +3,18 @@ title: Personalización de la experiencia rápida de un dispositivo con perfiles
 description: Preconfigurar la configuración rápida de un dispositivo con perfiles de AutoPilot.
 ms.topic: article
 ms.date: 03/18/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
-ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
-ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "73544050"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653911"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida de un dispositivo con perfiles de Windows AutoPilot
 
