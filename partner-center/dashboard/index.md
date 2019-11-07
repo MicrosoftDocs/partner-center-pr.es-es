@@ -3,17 +3,19 @@ layout: HubPage
 hide_bc: true
 title: Documentación para servicios de desarrolladores y del Centro de partners
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Si inicias sesión en el Centro de partners para publicar aplicaciones, obtener datos de las aplicaciones de escritorio, obtener la certificación de hardware, publicar controladores para Windows Update o realizar transacciones como revendedor, esta documentación es para ti.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 77390321f899617c815166935cd10b93cc986118
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: fda7ff2418ba33fbbab3358a2161c70e297ac711
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668462"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653410"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -114,7 +116,7 @@ ms.locfileid: "64668462"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>API y SDK para desarrolladores</h3>
-                                                    <p>Usa las API para integrar clientes, pedidos, facturación y sistemas de soporte técnico con el Centro de partners de Microsoft.</p>
+                                                    <p>Usa las API para integrar clientes, pedidos, facturación y sistemas de soporte técnico en el Centro de partners de Microsoft.</p>
                                                 </div>
                                             </div>
                                         </div>
