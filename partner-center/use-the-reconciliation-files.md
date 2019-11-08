@@ -1,7 +1,7 @@
 ---
 title: Usar los archivos de conciliación | Centro de partners
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación, descargue los archivos de conciliación del centro de Partners.
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653972"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753852"
 ---
 # <a name="use-the-reconciliation-files"></a>Usar los archivos de conciliación
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653972"
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
+
+- Administrador de facturación
+- Administrador global
 
 Para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación, descargue los archivos de conciliación del centro de Partners. Los detalles incluyen los cargos para las suscripciones de cada cliente y los eventos detallados (por ejemplo, una adición intermedia de puestos en una suscripción).
 
@@ -637,7 +641,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>Explicación de cualquier descuento aplicable.</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td>BillingFrequency</td>
 <td><p> Muestra mensualmente cuando se habilita la facturación mensual. En caso contrario, en blanco. </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> Representa el total de unidades adquiridas o consumidas. </p></td>
+</tr>
+<tr class="even">
+<td>PricingCurrency</td>
+<td><p> Muestra el precio del recurso u oferta</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> Tasa de cambio aplicada para la moneda de facturación (clientes) de precios</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> Fecha en la que se determina la tasa de cambio de moneda de facturación.</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> Descripción del medidor para el artículo de línea de consumo</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <td><p>Campo heredado que captura los metadatos específicos del servicio opcionales.</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>Información adicional</td>
 <td><p>Cualquier información adicional no incluida en otras columnas.</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> Valor real que se cobra por unidad (esto incluye los descuentos, el crédito obtenido, etc.).</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>Tasa de cambio aplicada para la moneda de facturación (clientes) de precios.</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>Fecha en la que se determina la tasa de cambio de moneda de facturación.</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>Representa subscriptionID de Azure.</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>Representa el nombre de la suscripción de Azure.</p></td>
 </tr>
 
 </tbody>
