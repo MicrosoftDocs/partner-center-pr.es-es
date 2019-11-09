@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653393"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840211"
 ---
 # <a name="add-a-new-customer"></a>Agregar un nuevo cliente
 
@@ -35,9 +35,9 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 
 2. En la página información de la **cuenta** , escriba los detalles del cliente y la información de contacto principal, y compruebe que el cliente ha aceptado y firmado el [contrato de Microsoft Cloud](agreements.md)más reciente.
 
-    >[!IMPORTANT]
-      > A partir del 7 de noviembre de 2018, tienes que confirmar que el cliente ha aceptado el Contrato de Microsoft Cloud y ha proporcionado información sobre la persona que lo firmó. Para más información, consulta [Confirmar la aceptación del cliente del Contrato de Microsoft Cloud](confirm-consent.md).
-
+>[!IMPORTANT] 
+> El 1 de octubre de 2019, Microsoft presentó el **contrato de cliente de Microsoft** al programa CSP para reemplazar el contrato de Microsoft Cloud. Para facilitar la migración de los asociados al nuevo contrato, se admitirá el Contrato de Microsoft Cloud actual en el programa CSP hasta el 31 de enero de 2020. Obtener información acerca del [contrato de cliente de Microsoft y cómo confirmar su consentimiento](confirm-customer-consent.md)
+  
 3. Si es un proveedor indirecto, seleccione el revendedor indirecto que desee asociar a las suscripciones de este cliente de la lista.
 
 4. Seleccione **siguiente: suscripciones** cuando haya terminado de escribir toda la información necesaria.
