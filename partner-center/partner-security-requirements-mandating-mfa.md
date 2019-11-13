@@ -1,22 +1,22 @@
 ---
 title: Requerir MFA para su inquilino de socio | Centro de Partners
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Detalles sobre la contratación de MFA para los requisitos de seguridad del inquilino del asociado
+description: Detalles sobre la obligatoriedad de la autenticación multifactor (MFA) para los requisitos de seguridad del inquilino del asociado
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652516"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983348"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>Requerir MFA para el inquilino del asociado
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requerir multi-factor Authentication (MFA) para el inquilino de asociado
 
 **Se aplica a**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652516"
 
 Estos asociados serán necesarios para completar la comprobación de MFA para las siguientes áreas:
 
-- [Panel del centro de Partners](#partner-center-dashboard)
-- [API del centro de Partners](#partner-center-api)
-- [Administración delegada de asociados](#partner-delegated-administration)
+- [Panel del centro de Partners](#partner-center-dashboard) (dirigido a H1 CY2020)
+- [API del centro de Partners](#partner-center-api) (con el destino H1 CY2020)
+- [Administración delegada de asociados](#partner-delegated-administration) (a partir del 18 de noviembre de 2019)
 
 La intención de esta característica es ayudar a los asociados a proteger su acceso a los recursos del cliente frente al riesgo de las credenciales.
 
