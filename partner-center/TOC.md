@@ -135,6 +135,7 @@
 ### [Usar promociones para atraer a nuevos clientes](promotions.md)
 ### [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vender suscripciones a productos comerciales de Marketplace](sell-marketplace-products.md)
+### [Ofertas exclusivas de Marketplace](isv-opt-in.md)
 ### [Asignar suscripciones de Azure en el Centro de partners](assign-azure-subscriptions.md)
 ### [Asignar licencias a los usuarios](assign-licenses-to-users.md)
 ### [Agregar licencias o servicios a una suscripción existente](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # Requisitos de seguridad
 ## [Introducción](partner-security-requirements.md)
+## [Requerir MFA para el inquilino del asociado](partner-security-requirements-mandating-mfa.md) 
 ## [Estado de los requisitos](partner-security-compliance.md)
 ## [Requerir MFA para el inquilino del asociado](partner-security-requirements-mandating-mfa.md)
 ## [Preguntas más frecuentes](partner-security-requirements-faq.md)
