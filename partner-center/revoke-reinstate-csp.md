@@ -2,17 +2,19 @@
 title: Restablecer los privilegios de administrador para las suscripciones de Azure CSP | Centro de partners
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: En este documento se explica cómo ayudar a los clientes a restablecer los privilegios de administrador de los partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433729"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651706"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Restablecer los privilegios de administrador para las suscripciones de Azure CSP  
 

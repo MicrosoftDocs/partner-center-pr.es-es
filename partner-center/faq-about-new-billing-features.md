@@ -2,17 +2,19 @@
 title: Preguntas frecuentes sobre las nuevas características de facturación | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: A continuación se incluyen algunas de las preguntas frecuentes relacionadas con las características de evaluación gratuita y facturación anual del Centro de partners.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318820"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653129"
 ---
 # <a name="faq-about-new-billing-features"></a>Preguntas frecuentes sobre las nuevas características de facturación
 
@@ -350,7 +352,7 @@ Secciones:
 
 **P17:** ¿Se me notificará sobre evaluaciones gratuitas que van a caducar?
 
--   **R:** No. Puedes hacer un seguimiento de las fechas de expiración próximas desde la vista del cliente en el Centro de partners, o puedes consultar la API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan a la fecha de caducidad.
+-   **R:** No. Puedes hacer un seguimiento de las fechas de expiración próximas desde la vista del cliente en el Centro de partners, o puedes consultar la API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan al punto de decisión.
 
 **P18:** ¿Si un cliente ha tenido una evaluación gratuita para una oferta también puede usar otra evaluación para otra oferta? 
 
@@ -382,7 +384,7 @@ Secciones:
 
 ## <a href="" id="billingalignmentfaq"></a>Alineación de facturación: finalización del período gratuito
 
-A partir del 21 de febrero de 2018, el programa Proveedor de soluciones en la nube (CSP) comenzará a implementar la "alineación de fechas de facturación" para las nuevas suscripciones con frecuencia de facturación mensual. Esta "alineación de fechas de facturación" proporcionará a los partners más flexibilidad y capacidad de previsión para las ventas y facturación, así como para el aprovisionamiento y la administración de planes de clientes. 
+A partir del 21 de febrero de 2018, el programa Proveedor de soluciones en la nube (CSP) comenzará a implementar la "alineación de fechas de facturación" para las nuevas suscripciones con frecuencia de facturación mensual. Esta "alineación de fechas de facturación" proporcionará a los partners más flexibilidad y capacidad de previsión para las ventas y facturación, así como para el aprovisionamiento y la administración de suscripciones de clientes. 
 
 **ACTUALIZACIÓN DEL 23 DE FEBRERO:**  Anteriormente habíamos anunciado una fecha de implementación del 20 de febrero, pero nuestra implementación real se ha retrasado ligeramente y se ha escalonado por categoría de producto.  Revisa el gráfico a continuación para conocer la fecha de implementación por categoría de producto. 
 
@@ -393,9 +395,9 @@ A partir del 21 de febrero de 2018, el programa Proveedor de soluciones en la nu
 |Office 365 China   |23 de febrero   |
 |Dynamics/Intune   |23 de febrero   |
 
-Las suscripciones adquiridas antes de la fecha de implementación (véase el gráfico anterior) se benefician de un período gratuito desde la fecha de compra hasta la fecha de facturación del partner. Las suscripciones adquiridas después de la fecha de implementación ya no recibirán un período gratuito. El período pagado de 12 meses comenzará (se alineará) en la fecha de la compra, en lugar de con la facturación del partner. Los partners ya no verán una "línea de facturación de 0 $" que representa el período gratuito en el archivo de conciliación. No hay ningún cambio en las API, la facturación o los incentivos.  Los partners deben informar a sus equipos de ventas y contabilidad de esta nueva lógica de facturación y asegurarse de que las operaciones se ajusten según sea necesario.  
+Las suscripciones adquiridas antes de la fecha de implementación (véase el gráfico anterior) se benefician de un período gratuito desde la fecha de compra hasta la fecha de facturación del partner. Las suscripciones adquiridas después de la fecha de implementación ya no recibirán un período gratuito. El período pagado de 12 meses comenzará (se alineará) en la fecha de la compra, en lugar de con la facturación del partner. Los partners ya no verán una "línea de facturación de 0 USD" que representa el período gratuito en el archivo de conciliación. No hay ningún cambio en las API, la facturación o los incentivos.  Los partners deben informar a sus equipos de ventas y contabilidad de esta nueva lógica de facturación y asegurarse de que las operaciones se ajusten según sea necesario.  
 
-Antes de implementar la alineación de fechas de facturación, hemos facturado y realizado el cargo en la fecha de aniversario de facturación del partner, la fecha en la que el partner se registró en el programa CSP; no en la fecha de aniversario de suscripción del cliente, la fecha en que el cliente adquirió su suscripción. Después de la fecha de implementación, los partners recibirán el cargo en su fecha de aniversario de suscripción, lo que elimina este período gratuito.  Los partners seguirán recibiendo facturas en su fecha de aniversario de facturación, pero la fecha de vigencia de la factura será la fecha de aniversario de suscripción del cliente. 
+Antes de implementar la alineación de fechas de facturación, facturábamos y realizábamos el cargo en la fecha de aniversario de facturación del partner, la fecha en la que el partner se registró en el programa CSP; no en la fecha de aniversario de suscripción del cliente, la fecha en que el cliente adquirió su suscripción. Después de la fecha de implementación, los partners recibirán el cargo en su fecha de aniversario de suscripción, lo que elimina este período gratuito.  Los partners seguirán recibiendo facturas en su fecha de aniversario de facturación, pero la fecha efectiva de la factura será la fecha de aniversario de suscripción del cliente. 
 
 Las suscripciones que se encuentran en el período gratuito en la fecha de implementación no recibirán ningún cargo entre la fecha de compra y la fecha de facturación del partner. Además, no se realizará el cargo durante el primer mes del período de pago de 12 meses. Si usas un archivo de conciliación para realizar la verificación, ten en cuenta que el cargo de este primer mes dejará de estar visible en el archivo de conciliación.  
 
@@ -436,7 +438,7 @@ Las suscripciones que se encuentran en el período gratuito en la fecha de imple
 
 **P8:** ¿Cómo afecta esto al archivo de conciliación y facturación? 
 
-- **R:** Ya no se verá la "línea de facturación de 0 $" en el archivo de conciliación ni en el de facturación. Actualmente, la línea de facturación de 0 $ representa el período gratuito.
+- **R:** Ya no se verá la "línea de facturación de 0 USD" en el archivo de conciliación ni en el de facturación. Actualmente, la línea de facturación de 0 $ representa el período gratuito.
 
 **P9:** ¿Cambiará la fecha de facturación?
 
@@ -485,7 +487,7 @@ El 15 de junio, el archivo de conciliación contendrá solo las siguientes líne
 
 La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018, el partner adquiere una nueva suscripción. El precio de la suscripción es 30 USD por licencia al mes. El 5 de junio de 2018, el partner suspende la suscripción. El 10 de junio de 2018, el partner vuelve a activar la suscripción. El 15 de junio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio. 
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio 
 - Crédito de cancelación de -30 USD para el período de servicio comprendido entre el 5 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días. 
 - Cargo de 30 USD para el período de servicio comprendido entre el 10 y el 30 de junio El cargo no se prorratea porque la suscripción se volvió a activar en los primeros 30 días. 
 
@@ -501,7 +503,7 @@ Ten en cuenta que cuando se suspende una suscripción y vuelve a activarse, la f
 
 La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018, el partner adquiere una nueva suscripción. El precio de la suscripción es 30 USD por licencia al mes. El 20 de junio de 2018, el partner suspende la suscripción. El 25 de junio de 2018, el partner vuelve a activar la suscripción. El 15 de junio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio. 
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -509,7 +511,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 El 15 de julio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 - Crédito de cancelación de -30 USD para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
-- Cargo de 30 USD para el período de servicio comprendido entre el 25 y el 30 de junio El cargo no se prorratea porque la suscripción se volvió a activar en los primeros 30 días.
+- Cargo de 30 USD para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo no se prorratea porque la suscripción se volvió a activar en los primeros 30 días.
 - Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 31 de julio.
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |
@@ -522,7 +524,7 @@ El 15 de julio, el archivo de conciliación contendrá las siguientes líneas de
 
 La fecha de facturación del partner es el decimoquinto día del mes. El 1 de junio de 2018, el partner adquiere una nueva suscripción. El precio de la suscripción es 30 USD por licencia al mes. El 20 de junio de 2018, el partner suspende la suscripción. El 25 de junio de 2018, el partner vuelve a activar la suscripción con dos licencias. El 15 de junio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio. 
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -530,7 +532,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 El 15 de julio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 - Crédito de cancelación de -30 USD para el período de servicio comprendido entre el 20 y el 30 de junio. El crédito no se prorratea porque la suscripción se suspendió en los primeros 30 días.
-- Cargo de 30 USD para el período de servicio comprendido entre el 25 y el 30 de junio El cargo de reactivación no se prorratea porque la suscripción se volvió a activar en los primeros 30 días. El cargo también se basa en la cantidad de licencias original de 1.
+- Cargo de 30 USD para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo de reactivación no se prorratea porque la suscripción se volvió a activar en los primeros 30 días. El cargo también se basa en la cantidad de licencias original de 1.
 - Crédito de -6 USD para el período de servicio comprendido entre el 25 y el 30 de junio. El cargo de reactivación solo le cobró por 1 licencia durante el período de servicio del 25 al 30 de junio, cuando tenía 2 licencias. El crédito de -6 USD revierte el cargo incorrecto para el período de servicio del 25 al 30 de junio.
 - Refacturación prorrateada de 12 USD para el período de servicio comprendido entre el 25 y el 30 de junio. El partner tenía 2 licencias durante este período de servicio. El precio unitario se calcula como (30/30)*6*2= 12 USD.
 - Cargo de 60 USD para el período de servicio comprendido entre el 1 y el 31 de julio.
@@ -577,7 +579,7 @@ La fecha de facturación del partner es el decimoquinto día del mes. El 1 de ju
 
 El 15 de junio, el archivo de conciliación contendrá solo las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio.
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|---------|
@@ -606,7 +608,7 @@ El 15 de agosto, el archivo de conciliación contendrá lo siguiente:
 
 La fecha de facturación del partner es el 15. El 1 de junio, el partner adquiere una nueva suscripción por 30 USD al mes. El 10 de junio, el partner aumenta la cantidad de licencias de 1 a 2 licencias. El 15 de junio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio. Aunque el partner aumentó la cantidad de licencias antes de la fecha de facturación del 15 de junio, el cambio no se reconoce en el sistema de facturación de Microsoft hasta el día de aniversario de suscripción, el 1 de julio.
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio Aunque el partner aumentó la cantidad de licencias antes de la fecha de facturación del 15 de junio, el cambio no se reconoce en el sistema de facturación de Microsoft hasta el día de aniversario de suscripción, el 1 de julio.
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -636,7 +638,7 @@ El 10 de junio, el partner adquiere una suscripción a complementos de una licen
 
 El 15 de junio, el archivo de conciliación contendrá las siguientes líneas de facturación:
 
-- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio. Se trata de la suscripción base.
+- Cargo de 30 USD para el período de servicio comprendido entre el 1 y el 30 de junio Se trata de la suscripción base.
 - Cargo prorrateado de 3,50 USD para el período de servicio comprendido entre el 10 y el 30 de junio. Se trata de la suscripción a complementos. 
 
 |**Inicio del cargo**   |**Finalización del cargo**   |**Precio unitario**   |**Cantidad**   |**Volumen**   |**Tipo de cargo** |

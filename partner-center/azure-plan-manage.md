@@ -2,17 +2,19 @@
 title: Administración de suscripciones y recursos en el plan de Azure | Centro de partners
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Adquirir varias suscripciones de Azure en el plan de Azure
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428495"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653856"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Administración de suscripciones y recursos en el plan de Azure
 
@@ -39,8 +41,8 @@ En la tabla siguiente se muestran los métodos que se usan para asociar el id. d
 |-----------------|:------------------------|:------------------|
 |AOBO   |El proveedor indirecto o partner directo de CSP crea la suscripción del cliente, lo que convierte al proveedor indirecto o partner directo de CSP en el propietario predeterminado de la suscripción mediante AOBO. El partner directo de CSP o el proveedor indirecto proporcionan acceso de revendedor indirecto a la suscripción mediante AOBO.|Automática (no se requiere ningún trabajo por parte del partner)|
 |Azure Lighthouse|El partner crea una nueva [oferta de Servicios administrados en Marketplace](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers). Esta oferta se acepta en la suscripción de CSP y el partner obtiene acceso a la suscripción de CSP.|Automática (no se requiere ningún trabajo por parte del partner)|
-|Azure Lighthouse|El partner implementa la [plantilla de ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) en la suscripción de Azure.|El partner debe asociar el id. de MPN con el usuario o la entidad de servicio en el inquilino del partner. Para obtener más información, consulte [Vinculación de un Id. de partner](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
-|Usuario invitado o de directorio|El partner crea un nuevo usuario o una entidad de servicio en el directorio del cliente y concede al usuario acceso a la suscripción de CSP. El partner crea un nuevo usuario o una entidad de servicio en el directorio del cliente. El partner agrega el usuario a un grupo y concede al grupo acceso a la suscripción de CSP.|El partner debe asociar el id. de MPN con el usuario o la entidad de servicio en el inquilino del cliente. Para obtener más información, consulte [Vinculación de un Id. de partner](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|El partner implementa la [plantilla de ARM](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) en la suscripción de Azure.|El partner debe asociar el id. de MPN con el usuario o la entidad de servicio en el inquilino del partner. Para obtener más información, consulte [Vinculación de Id. de partner](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Usuario invitado o de directorio|El partner crea un nuevo usuario o una entidad de servicio en el directorio del cliente y concede al usuario acceso a la suscripción de CSP. El partner crea un nuevo usuario o una entidad de servicio en el directorio del cliente. El partner agrega el usuario a un grupo y concede al grupo acceso a la suscripción de CSP.|El partner debe asociar el id. de MPN con el usuario o la entidad de servicio en el inquilino del cliente. Para obtener más información, consulta [Vinculación de Id. de partner](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Confirmación de que tiene acceso de administrador
 

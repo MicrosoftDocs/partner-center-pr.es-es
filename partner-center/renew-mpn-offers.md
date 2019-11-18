@@ -2,18 +2,20 @@
 title: Renovar tus ofertas MPN | Centro de partners
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: La ventana de renovación de suscripciones de ofertas MPN comienza un día después del aniversario de la fecha de compra.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, renovación de competencias, fecha de renovación
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ab5774ebf58f91edb002e0ef56a1a545e3d7b4b8
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318695"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651959"
 ---
 # <a name="renew-your-mpn-offers"></a>Renovar tus ofertas MPN
 

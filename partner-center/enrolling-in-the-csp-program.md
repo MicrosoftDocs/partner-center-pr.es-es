@@ -2,16 +2,18 @@
 title: Inscripción en el programa Proveedor de soluciones en la nube| Centro de partners
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Comprenda los distintos modelos para vender en CSP y determine qué funciona mejor con su negocio.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318847"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653199"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -21,7 +23,7 @@ ms.locfileid: "71318847"
 
 ## <a name="get-started"></a>Comenzar
 
-La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de relación con los clientes completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
+La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de las relaciones con el cliente completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
 
 Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesita un id. de MPN. ¿Todavía no tiene uno? Únase [aquí](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
 
@@ -30,7 +32,7 @@ Para completar la solicitud de CSP, necesitará el id. de MPN de la empresa, la 
 1. Inicie sesión en el Centro de partners con el correo electrónico del trabajo (es decir, sus credenciales de inquilino de Azure AD).
 
 2. Cree el perfil de partner y asócielo al id. de MPN.
-Puede llevarnos varios días revisar y comprobar la información que ha proporcionado. Recibirá un correo electrónico cuando se haya completado la revisión.
+Podemos tardar varios días en revisar y comprobar la información que has proporcionado. Recibirás un mensaje cuando se haya completado la revisión.
 
 3. Después de que comprobemos la información, acepte el contrato con los términos para revendedores indirectos de Microsoft.
 
@@ -41,7 +43,7 @@ Puede llevarnos varios días revisar y comprobar la información que ha proporci
 
 Si va a inscribirse en el programa CSP como revendedor indirecto, no podrá comprar productos directamente de Microsoft ni recibir facturas. En su lugar, trabajará con proveedores indirectos (también conocidos como distribuidores) que realizan transacciones directamente con Microsoft.
 
-La asociación con un proveedor indirecto significa que no es necesario disponer de la infraestructura para llegar al mercado ni comprar directamente de Microsoft, pero en su lugar puede trabajar con un proveedor de tecnología experimentado para ayudarle a garantizar el éxito. En el modelo de proveedor-revendedor, el proveedor compra servicios y soluciones en la nube de Microsoft y confía en el usuario para aplicar y ofrecer los productos.
+La asociación con un proveedor indirecto significa que no es necesario disponer de la infraestructura para llegar al mercado ni comprar directamente de Microsoft, pero en su lugar puedes trabajar con un proveedor de tecnología experimentado para que te ayude a garantizar el éxito. En el modelo de proveedor-revendedor, el proveedor compra servicios y soluciones en la nube de Microsoft y confía en el usuario para aplicar y ofrecer los productos.
 
 Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte técnico, por lo que deberías evaluar a los proveedores en tu zona para determinar cuál de ellos se ajusta mejor a tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente:
 
@@ -51,9 +53,9 @@ Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte té
 
 - Ayuda para establecer los términos de financiación y crédito
 
-Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
+Si aún no estás trabajando con un proveedor (también conocido como distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
 
-Para más información sobre lo que se requiere para participar en el programa CSP como revendedor indirecto, consulte [Comenzar a trabajar como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
+Para más información sobre lo que se requiere para participar en el programa CSP como revendedor indirecto, consulta [Empiece ahora como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscripción como partner de factura directa
 

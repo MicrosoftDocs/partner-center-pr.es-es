@@ -2,17 +2,19 @@
 title: Ofertas de partners en el programa Proveedor de soluciones en la nube | Centro de partners
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Obtén información sobre las ofertas disponibles para los partners que venden a través del programa Proveedor de soluciones en la nube.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, programa Proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de partners, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server Azure, suscripciones de clientes
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045627"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799204"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de partners en el programa Proveedor de soluciones en la nube 
 
@@ -79,6 +81,9 @@ En la siguiente lista se identifica cada una de las nuevas áreas de la página 
 
 Para comprar productos y servicios en nombre de los clientes de CSP, selecciona los elementos que quiera el cliente, agrégalos a tu carro, lo que crea un pedido y, luego, revisa el pedido y envíalo. El proceso general se describe a continuación. (Para más información sobre los pedidos de un tipo de producto específico, consulta los vínculos anteriores).
 
+>[Nota] Una oferta de CSP debe estar disponible tanto en el país del inquilino como en el país del inquilino del cliente. 
+>Por ejemplo, si el inquilino se encuentra en Eslovaquia y el inquilino del cliente está en Alemania, no podrás vender Dynamics 365 Business Central Premium a ese cliente, ya que esta oferta no está disponible actualmente en Eslovaquia.
+
 1. Selecciona **Clientes** en el menú de Centro de partners y, luego, busca al cliente que quiere comprar contigo. 
 
 2. Selecciona la flecha abajo situada al final de la fila del cliente para expandir el registro del cliente y, luego, selecciona **Agregar productos**. A partir de este momento, estás creando un pedido. Un pedido puede incluir varios elementos de diferentes tipos, pero deben ser todos para el mismo cliente.
@@ -95,7 +100,12 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 
 8. Los detalles de tu pedido, incluido el número del pedido, se muestran en la página siguiente. Selecciona **Listo** para ir a tu página **Historial de pedidos**. 
 
-> [!NOTE]
-> Para obtener información sobre cómo funciona el proceso de facturación, consulta [**Conceptos básicos sobre facturación**](https://docs.microsoft.com/partner-center/billing-basics).
+**Más información** 
+
+Para obtener información sobre cómo funciona el proceso de facturación, consulta [Conceptos básicos de la facturación](https://docs.microsoft.com/partner-center/billing-basics).
+
+Para obtener información sobre la compra en el plan de Azure, lee [Compra del plan de Azure](purchase-azure-plan).
+
+
 
 

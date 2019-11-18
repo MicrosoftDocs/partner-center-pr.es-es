@@ -2,6 +2,8 @@
 title: Asociación con los proveedores indirectos en CSP | Centro de partners
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,18 +11,18 @@ ms.author: evansma
 keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318868"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654339"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
-La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de relación con los clientes completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
+La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de las relaciones con el cliente completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
 
-Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionarte soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft que tu revendes a los clientes.
+Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionarte soporte técnico al cliente y facturación. Esto significa que no comenzarás tú solo, sino que podrás trabajar con un distribuidor de tecnología con experiencia para ayudarte a tener éxito. En el modelo de proveedor-revendedor (dos niveles), el proveedor compra servicios y soluciones en la nube de Microsoft que tu revendes a los clientes.
 
 Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte técnico, por lo que deberías evaluar a los proveedores en tu zona para determinar cuál de ellos se ajusta mejor a tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente: 
 
@@ -28,10 +30,10 @@ Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte té
 -   Ayuda para comercializar tus productos y servicios 
 -   Ayuda para establecer los términos de financiación y crédito
 
-Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
+Si aún no estás trabajando con un proveedor (también conocido como distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
 
 
-Para más información sobre lo que se requiere para vender en el programa CSP como revendedor indirecto, consulta [Comenzar a trabajar como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
+Para más información sobre lo que se requiere para vender en el programa CSP como revendedor indirecto, consulta [Empiece ahora como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/). 
 
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Inscripción como revendedor indirecto en el programa de Proveedor de soluciones en la nube
@@ -41,7 +43,7 @@ Para más información sobre lo que se requiere para vender en el programa CSP c
 
 ### <a name="before-you-begin"></a>Antes de comenzar
 
-Si no tienes experiencia alguna con el CSP, deberás inscribirte en el programa como un revendedor indirecto y crear una cuenta en el Centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
+Si no tienes ninguna experiencia en el CSP, deberás inscribirte en el programa como un revendedor indirecto y crear una cuenta en el Centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
 -   **Credenciales de administrador global para tu cuenta profesional**<br>
 Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [Cuentas profesionales y el Centro de partners](azure-active-directory-tenants-and-partner-center.md).
@@ -50,10 +52,10 @@ Tendrás que proporcionar el nombre de usuario y la contraseña que usas para in
 -   **El nombre de usuario y la contraseña que uses para iniciar sesión en el sitio del Partner Membership Center**<br>
 Usamos esta información para vincular tu identificador de Microsoft Partner Network (identificador de MPN) con tu nueva cuenta del Centro de partners, para que puedas administrar los beneficios y los datos de tu suscripción en el Centro de partners.
 
--   **Nombre legal de empresa, dirección, contacto principal y los detalles de soporte técnico de su organización**<br>
+-   **Nombre legal del negocio, dirección, contacto principal y detalles de soporte técnico de su organización**<br>
 Necesitamos esta información para confirmar que la organización tiene un perfil establecido con Microsoft y que estás autorizado para actuar en su nombre.
  
-Ten en cuenta que podemos tardar varios días en revisar y comprobar la información que has proporcionado. Enviaremos un mensaje a tu contacto principal cuando se haya completado la revisión.
+Ten en cuenta que podemos tardar varios días en revisar y comprobar la información que has proporcionado. Enviaremos un correo electrónico a tu contacto principal cuando se haya completado la revisión.
 
 ### <a name="get-started"></a>Comenzar
 
@@ -81,7 +83,7 @@ Si el identificador de MPN que quieres usar no aparece en esta página, seleccio
 
 El contacto principal debe ser la persona de la organización con la que podemos ponernos en contacto sobre la aplicación (puedes ser tú u otra persona de la organización). Ten en cuenta que no aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en web, como Gmail, Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook. 
 > [!IMPORTANT]  
-> Para ayudar a garantizar la seguridad y privacidad de la organización, enviaremos un correo electrónico a la dirección principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y (2) que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada. Enviaremos un correo electrónico con las actualizaciones de estado de inscripción al contacto principal.
+> Para ayudar a garantizar la seguridad y privacidad de tu organización, enviaremos un correo electrónico a tu contacto principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y (2) que esta dirección de correo electrónico pertenece a la organización. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada. Enviaremos un correo electrónico con las actualizaciones del estado de inscripción al contacto principal.
 
 9.  Cuando la cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
 
@@ -116,7 +118,7 @@ El acceso al Centro de partners se basa en roles, por lo que puedes asignar perm
 
 Trabajar con un proveedor indirecto te permite ofrecer a los clientes una selección más amplia de servicios y soluciones en la nube de Microsoft. Los proveedores indirectos cuentan con los sistemas y las infraestructuras para proporcionar un nivel sólido de facturación y soporte para que tú puedas centrarte en las soluciones de tecnología y la interacción con el cliente. 
 
-Si aún no estás trabajando con un proveedor (también conocido como un distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno. Cuando encuentres un proveedor con el que desees asociarte, ponte en contacto con él directamente para hablar de sus programas de revendedores, nivel de soporte técnico y condiciones. Si ambos queréis trabajar juntos, tendréis que conectar vuestras cuentas en el Centro de partners. 
+Si aún no estás trabajando con un proveedor (también conocido como distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno. Cuando encuentres un proveedor con el que desees asociarte, ponte en contacto con él directamente para hablar de sus programas de revendedores, nivel de soporte técnico y condiciones. Si ambos queréis trabajar juntos, tendréis que conectar vuestras cuentas en el Centro de partners. 
 
 Si un proveedor indirecto quiere conectar contigo en el Centro de partners, iniciará el siguiente flujo de trabajo:
 

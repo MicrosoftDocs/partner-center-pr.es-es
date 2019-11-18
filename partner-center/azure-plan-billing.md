@@ -2,18 +2,20 @@
 title: 'Plan de Azure: facturación | Centro de partners'
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Describe la estructura de la factura y el archivo de conciliación para el plan de Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595937"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661163"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -32,7 +34,7 @@ La facturación del plan Azure es una experiencia de facturación simplificada q
 
 - **Período de facturación**: El período de facturación de la factura coincidirá con el mes natural; por ejemplo, 10/1-10/31, 11/1-11/30.
 
-- **Períodos del servicio de cargos**: Los cargos coincidirán con el mes natural. Por ejemplo, si el partner facturado agrega servicios de Azure a través de un plan de Azure el 15/10 y el cliente comienza a consumir los servicios de Azure el mismo 15/10, el partner facturado recibirá la factura o la conciliación el 8/11 referente al consumo del cliente durante el período de servicio del 15/10 al 31/10. La factura del próximo mes que se generará el 8/12 y contendrá todos los cargos del período de servicio del 01/11 al 11/31.
+- **Períodos del servicio de cargos**: Los cargos coincidirán con el mes natural. Por ejemplo, si el partner facturado agrega servicios de Azure a través de un plan de Azure el 15/10 y el cliente comienza a consumir los servicios de Azure el mismo 15/10, el partner facturado recibirá la factura o la conciliación el 8/11 referente al consumo del cliente durante el período de servicio del 15/10 al 31/10. La factura del próximo mes que se generará el 8/12 y contendrá todos los cargos del período de servicio del 1/11 al 11/31.
 
 - **Plazo de pago de la factura**: Neto, 60 días.
 
@@ -129,11 +131,11 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 - Consulta el ejemplo que aparece a continuación:
 
-  - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 01/07 al 03/07 (ten en cuenta que el precio unitario efectivo es el precio del minorista menos el crédito obtenido del partner).
+  - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 1/7 al 3/7 (ten en cuenta que el precio unitario efectivo es el precio del minorista menos el crédito obtenido del partner).
 
-   - El medidor no es apto para el **crédito obtenido del partner por los servicios administrados** del 04/07 al 07/07 (ten en cuenta que el precio unitario efectivo es el precio del minorista).
+   - El medidor no es apto para el **crédito obtenido del partner por los servicios administrados** del 4/7 al 7/7 (ten en cuenta que el precio unitario efectivo es el precio del minorista).
 
-    - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 08/07 al 31/07 (ten en cuenta que el precio unitario efectivo es el precio del minorista).
+    - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 8/7 al 31/7 (ten en cuenta que el precio unitario efectivo es el precio del minorista menos el crédito obtenido del partner).
 
 ![recon2](images/azure/pecfinal.png) 
 

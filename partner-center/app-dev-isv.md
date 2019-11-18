@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, ISV, desarrollo de aplicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 254d4158ffc64b163e974a1d4cf43a69c0555740
-ms.sourcegitcommit: 1d3fad847dfa46ca709f4411f466827769328c83
+ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
+ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73849711"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "74117224"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
 
@@ -27,19 +27,19 @@ Si ha logrado la competencia de ISV ya retirada y uno de los siguientes escenari
 
 Asociados con una competencia de ISV:
 
-- **Su competencia de ISV ha expirado** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 12 de noviembre de 2019. Tendrá hasta 30 días para obtener la oferta. 
+- **Su competencia de ISV ha expirado** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 22 de noviembre de 2019. Tendrá 30 días para sacar provecho de la oferta. 
 
-- **La pertenencia a la competencia está en su ventana de renovación** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 12 de noviembre de 2019. Tendrá 30 días para obtener la oferta. 
+- **La pertenencia a la competencia está en su ventana de renovación** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 22 de noviembre de 2019. Tendrá 30 días para sacar provecho de la oferta. 
 
 - La **pertenencia a la competencia se debe a una renovación en los próximos meses** : la exención de los requisitos de los exámenes de un solo tiempo estará disponible cuando llegue el momento de renovarla. En ese momento, tendrá 30 días para obtener la oferta.
 
-Asociados con una competencia de desarrollo de aplicaciones obtenida a través de la ruta de certificación IP:
+Asociados con una competencia de desarrollo de aplicaciones obtenida a través de la ruta de acceso IP del certificado:
 
-- **Si tiene una lista de Microsoft Commercial Marketplace**, la exención de los requisitos del examen único estará disponible en el momento de la renovación de su competencia. En ese momento, tendrá 30 días para obtener la oferta.
+- **Si tiene una lista de Microsoft Commercial Marketplace**, la exención de los requisitos del examen único estará disponible en el momento de la renovación de su competencia. En ese momento, tendrá 30 días para sacar provecho de la oferta.
 
-- **Si no tiene una lista de [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique su solución en un plazo de 90 días a partir de la recepción de esta comunicación y podrá beneficiarse de la exención de los requisitos de los exámenes por única vez.
+- **Si no tiene una lista de [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique su solución en febrero de 2020 para poder participar en la exención de los requisitos de los exámenes de un solo tiempo.
 
-## <a name="how-to-get-your-offer"></a>Cómo obtener la oferta
+## <a name="how-to-take-advantage-of-your-offer"></a>Cómo aprovechar las ventajas de la oferta
 
 1. En el menú del centro de partners del panel, seleccione **competencias**.
 2. En la lista de competencias que están disponibles, el desarrollo de aplicaciones se marca como **completado**.
@@ -58,7 +58,7 @@ Si necesita ayuda para obtener la oferta o tiene dudas sobre su idoneidad para e
 
 **Cómo saber si mi empresa es válida para esta oferta?**
 
-Las compañías asociadas a esta oferta reciben una notificación por correo electrónico y en el centro de Partners, con información sobre cómo obtener la oferta. Entre los asociados válidos se incluyen aquellos que alcanzaron la competencia de ISV ya retirada y quienes alcanzaron la competencia de desarrollo de aplicaciones a través de la ruta de acceso IP certificada. 
+Las compañías asociadas a esta oferta reciben una notificación por correo electrónico y en el centro de Partners, con información sobre cómo obtener la oferta. Entre los asociados válidos se incluyen aquellos que alcanzaron la competencia de ISV ya retirada y quienes alcanzaron la competencia de desarrollo de aplicaciones a través de la ruta de acceso IP del certificado. 
 
 **¿Cuáles son las ventajas de la competencia de desarrollo de aplicaciones?**
 
@@ -68,6 +68,6 @@ Puede revisar las ventajas de la competencia desarrollo de aplicaciones en el si
 
 **¿Cómo puedo obtener esta oferta si mi empresa no tenía la competencia de ISV?**
 
-Esta oferta solo está disponible para los asociados que cumplan los requerimientos: aquellos que disponían de la competencia de ISV o la competencia de desarrollo de aplicaciones a través de la ruta de acceso IP certificada. Estamos considerando activamente soluciones completas a corto plazo y a largo plazo para servir a los ISV y se compartirán más detalles pronto. 
+Esta oferta solo está disponible para los asociados que cumplan los requerimientos, quienes tenían la competencia de ISV o la competencia de desarrollo de aplicaciones a través de la ruta de acceso IP del certificado. Estamos considerando activamente soluciones completas a corto plazo y a largo plazo para servir a los ISV y se compartirán más detalles pronto. 
 
 

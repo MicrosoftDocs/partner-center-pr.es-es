@@ -2,17 +2,19 @@
 title: Compra o renovación de las ofertas de ventajas | Centro de partners
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo obtener Microsoft Action Pack, tanto si lo compra por primera vez como si lo renueva.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obtener action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978742"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654295"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack o las competencias Silver o Gold
 
@@ -55,7 +57,7 @@ Conviértase en un [partner de competencias](https://partner.microsoft.com/membe
 
 3. Si paga con tarjeta de crédito, siga las instrucciones para agregar la información de la tarjeta de crédito. Si paga mediante transferencia bancaria electrónica, proporcione un nombre de contacto, un número de teléfono y una dirección de correo electrónico y, después, seleccione **Enviar**. 
      
-4. Revise los detalles del pedido y, a continuación, seleccione **Comprar** cuando esté preparado para comprar Action Pack. Se cargará inmediatamente en la tarjeta de crédito.
+4. Revisa los detalles del pedido y, a continuación, selecciona **Comprar** cuando estés preparado para comprar Action Pack. Se cargará inmediatamente en la tarjeta de crédito.
 
 5. El pedido se ha confirmado. Seleccione **Cerrar**.
 
@@ -69,7 +71,7 @@ La suscripción a Action Pack se renovará automáticamente cada año en esta fe
 2. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año. 
 
     >[!NOTE]
-    >Si desactiva la renovación automática de la suscripción, no podrá volver a activarla hasta que vuelva a renovar la suscripción. Le recordaremos que debe renovar la suscripción antes de que expire.
+    >Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos que debes renovar la suscripción antes de que expire.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar la suscripción a Action Pack

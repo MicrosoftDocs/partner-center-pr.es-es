@@ -2,18 +2,20 @@
 title: Crédito obtenido del partner por los servicios administrados (versión preliminar) | Centro de partners
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Información importante sobre el crédito obtenido del partner
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a20305b72bd3c72fe9aab21b9b7b48c7ce5104e6
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428426"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652577"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 

@@ -1,17 +1,19 @@
 ---
 title: Estado de los requisitos de seguridad para partners | Centro de partners
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Manténgase al día acerca del cumplimiento de la empresa con los requisitos de MFA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425104"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661113"
 ---
 # <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
 
@@ -24,14 +26,14 @@ ms.locfileid: "72425104"
 - Todos los proveedores de panel de control
 - Todos los asesores
 
-Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y asociados que participen en el programa Proveedor de soluciones en la nube.
+Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y partners que participan en el programa Proveedor de soluciones en la nube.
 
-A partir del 1 de agosto de 2019, todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino del partner. Para obtener información más detallada sobre las nuevas directivas de seguridad, consulte [Requisitos de seguridad para partners](partner-security-requirements.md).
+A partir del 1 de agosto de 2019, todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino de partner. Para obtener información más detallada sobre las nuevas directivas de seguridad, consulte [Requisitos de seguridad para partners](partner-security-requirements.md).
 
 Queremos asegurarnos de que cada usuario tenga un desafío de MFA para cada autenticación. Esto se puede realizar de cualquiera de estas maneras:
 
 - Mediante la implementación de Azure AD Premium para asegurarse de que se aplica MFA a todos los usuarios.
-- Mediante la implementación de las directivas de protección de base de referencia.
+- Implementar los [valores predeterminados de seguridad Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Mediante la implementación de una solución de terceros para asegurarse de que se aplica MFA a todos los usuarios.
 
 ## <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
@@ -39,7 +41,7 @@ Queremos asegurarnos de que cada usuario tenga un desafío de MFA para cada aute
 Este informe puede ayudarle a comprobar el estado de los requisitos de seguridad al proporcionar una manera de ver dónde puede que no los cumpla. El seguimiento se actualiza periódicamente.
 
 >[!NOTE]
->El informe de estado de los requisitos de seguridad para partners solo se admite en el Centro de partners. No está disponible en Microsoft Cloud for US Government ni en Microsoft Cloud Germany. Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) que adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, no es preciso que estos partners cumplan los nuevos requisitos de seguridad que entran en vigor el 1 de agosto de 2019. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas. 
+>El informe de estado de los requisitos de seguridad para partners solo se admite en el Centro de partners. No está disponible en Microsoft Cloud for US Government ni en Microsoft Cloud Germany. Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) que adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, no es preciso que estos partners cumplan los nuevos requisitos de seguridad que entran en vigor el 1 de agosto de 2019. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
 
 Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los 7 días anteriores.
 
@@ -93,7 +95,7 @@ Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario
 Comprenda si la implementación actual solo aplica MFA en condiciones específicas. Algunas soluciones MFA proporcionan flexibilidad para aplicar MFA solo cuando se cumplen ciertas condiciones. Por ejemplo, el usuario obtiene acceso desde un dispositivo desconocido o una ubicación desconocida. Un usuario que esté habilitado para MFA pero que no se requiera que complete la comprobación de MFA al acceder al Centro de partners, puede provocar que las métricas no sean del 100%.
 
 >[!NOTE]
->En el caso de los partners que han implementado MFA mediante la directiva de base de referencia Protección del usuario final de Azure AD, es importante tener en cuenta que Protección del usuario final es una directiva basada en riesgo. A los usuarios cubiertos por la directiva se les pedirá MFA solo durante los intentos de inicio de sesión de riesgo (por ejemplo, el usuario inicia sesión desde una ubicación diferente). Además, los usuarios de la directiva tienen hasta 14 días para registrarse para MFA. A los usuarios que no hayan completado el registro de MFA no se les solicitará la comprobación de MFA durante el período de 14 días. Por lo tanto, se espera que las métricas puede que no sean del 100 % para los partners que han implementado MFA mediante la directiva de base de referencia Protección del usuario final de Azure AD.
+>En el caso de los partners que han implementado MFA con los valores predeterminados de seguridad de Azure AD, es importante tener en cuenta que, para ninguna de las cuentas de usuario de administrador, se aplicará la autenticación multifactor según el riesgo. A los usuarios se les pedirá MFA solo durante los intentos de inicio de sesión de riesgo (por ejemplo, el usuario inicia sesión desde una ubicación diferente). Además, los usuarios tendrán hasta 14 días para registrarse para MFA. A los usuarios que no hayan completado el registro de MFA no se les solicitará la comprobación de MFA durante el período de 14 días. Por lo tanto, se espera que las métricas puede que no sean del 100 % para los partners que han implementado MFA con los valores por defecto de seguridad de Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>¿Usa una solución MFA de terceros?
 

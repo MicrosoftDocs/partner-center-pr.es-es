@@ -2,22 +2,24 @@
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: high
-ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413356"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653327"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
 
 
-Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararle para satisfacer las necesidades de los clientes y para ayudarle a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
+Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades de los clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
 - Gane una **suscripción Silver** para demostrar su capacidad, experiencia y compromiso.
 

@@ -2,17 +2,19 @@
 title: 'Crédito obtenido del partner: introducción | Centro de partners'
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: ¿Cuál es el aspecto del crédito obtenido del partner en el plan Azure?
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595905"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654203"
 ---
 # <a name="partner-earned-credit---overview"></a>Créditos obtenidos del partner: introducción
 
@@ -22,7 +24,7 @@ Con miles de servicios en Azure y múltiples opciones para comprar, el precio pu
 
 Las necesidades de nuestros clientes para realizar una transformación digital están cambiando la naturaleza del valor que ofrecen los partners. Muchos clientes buscan partners que proporcionen servicios más allá de las simples transacciones, para que su recorrido en la nube sea más sencillo y así puedan obtener ayuda a la hora de usar los servicios de Azure de la forma más eficaz. Este tipo de servicios son continuos e incluyen la supervisión de los servicios de Azure, la administración de directivas y gobernanza, el ajuste de la configuración y sus opciones, el soporte técnico y otros servicios. 
 
-Asimismo, es necesario que un partner esté completamente familiarizado con el entorno de Azure del cliente y que tenga un gobierno y control continuo y apropiado de los recursos subyacentes que se administran. Los partners de facturación que proporcionan esta actividad de administración de operaciones en la nube las 24 horas del día y los 7 días de la semana, podrán optar a un **crédito obtenido del partner por los servicios administrados** en los servicios de Azure que corresponde a los clientes y que administra y controla el partner. 
+Estos servicios requieren que un partner esté completamente familiarizado con el entorno de Azure del cliente y que tenga un gobierno y control continuo y apropiado de los recursos subyacentes que se administran. Los partners de facturación que proporcionan esta actividad de administración de operaciones en la nube las 24 horas del día y los 7 días de la semana, podrán optar a un **crédito obtenido del partner por los servicios administrados** en el estado de Azure correspondiente a los clientes que administra y controla el partner. 
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Beneficios del crédito obtenido del partner, para partners y clientes
@@ -33,7 +35,7 @@ Asimismo, es necesario que un partner esté completamente familiarizado con el e
 
 - Los partners son recompensados porque proporcionan una sólida cartera de servicios administrados en Azure para sus clientes.  
 
-- La asociación y la gestión detallada de los proyectos de Azure correspondientes al cliente, proporcionarán nuevas oportunidades para asociarse y permitirán impulsar el crecimiento del consumo. 
+- La asociación y la administración detallada de los proyectos de Azure correspondientes al cliente, proporcionarán nuevas oportunidades para asociarse y permitirán impulsar el crecimiento del consumo. 
 
 ## <a name="manage-automate-and-optimize"></a>Administrar, automatizar y optimizar
 

@@ -1,18 +1,20 @@
 ---
 title: Preguntas más frecuentes sobre los requisitos de seguridad para partners | Centro de partners
 ms.topic: article
-ms.date: 09/27/2019
+ms.date: 11/09/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Preguntas más frecuentes sobre los requisitos de seguridad para partners
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
+ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142032"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "73915032"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
@@ -20,40 +22,17 @@ En este artículo se incluyen algunas preguntas frecuentes sobre los [requisitos
 
 ## <a name="partner-security-requirements"></a>Requisitos de seguridad para partners
 
-### <a name="what-are-the-new-partner-security-requirements"></a>¿Cuáles son los nuevos requisitos de seguridad para partners?
-
-Para proteger a nuestros partners y a tus clientes, es necesario que los partners lleven a cabo inmediatamente las siguientes acciones:  
-
-1. **Habilitar Multi-Factor Authentication (MFA) para todos los usuarios de los inquilinos de partner**. Todos los usuarios de los inquilinos asociados deben usar Multi-Factor Authentication (MFA) al iniciar sesión en los servicios en la nube comerciales de Microsoft o que realicen transacciones en CSP a través del Centro de partners o a través de las API. Mediante la habilitación de las directivas de protección de base de referencia, MFA está disponible de forma gratuita para todos los usuarios de inquilinos de partner.
-
-2. **Adoptar el marco de modelo de aplicaciones seguras**. Todos los partners que se integran con una API de Microsoft, como Azure Resource Manager, Microsoft Graph y Partner Center API, deben adoptar el marco de modelo de aplicaciones seguras para evitar cualquier interrupción en su integración al habilitar las directivas de base de referencia.
-
-La habilitación de Multi-Factor Authentication (MFA) y la adopción del marco de modelo de aplicaciones seguras ayudarán a proteger la infraestructura y los datos de tus clientes frente a posibles riesgos de seguridad, como la identificación de robos u otros incidentes de fraude.  
-
-### <a name="which-partners-need-to-meet-the-requirements"></a>¿Qué partners deben cumplir los requisitos?
-
-Estos requisitos son para los siguientes grupos de partners:
-
-- Todas las organizaciones de partners que participan en el programa Proveedor de soluciones en la nube (CSP) que realizan transacciones con los servicios en la nube comerciales de Microsoft
-  - Partners de factura directa
-  - Proveedores indirectos
-  - Revendedores indirectos
-- Todos los proveedores de panel de control
-- Todos los partners del programa Advisor  
-
-No es necesario que todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) satisfagan estos nuevos requisitos de seguridad el 1 de agosto de forma efectiva. Sin embargo, se recomienda encarecidamente que todos los partners que usen una nube soberana adopten estos nuevos requisitos de seguridad de inmediato. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
-
 ### <a name="what-are-the-key-timelines-and-milestones"></a>¿Cuáles son las líneas de tiempo e hitos clave?
 
-Los términos asociados a estos requisitos de seguridad se agregarán inmediatamente a [Program Guide for the Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Guía del programa Proveedor de soluciones en la nube). Tendrás que implementar estos requisitos de seguridad para la conformidad de tu participación en el programa CSP a partir del 1 de agosto de 2019.
+Los términos asociados con estos requisitos de seguridad se incluyen en el acuerdo entre partners de Microsoft. Tendrás que implementar estos requisitos de seguridad para la conformidad de tu participación en el programa Proveedor de soluciones en la nube.
 
 ### <a name="what-will-happen-if-i-do-not-take-any-actions"></a>¿Qué sucederá si no hago nada?
 
 Los partners que no se atengan a estas prácticas y obligaciones de seguridad no podrán realizar transacciones en el programa Proveedor de soluciones en la nube ni administrar los inquilinos de cliente que aprovechen los derechos de administrador delegado, una vez que se apliquen estos requisitos de seguridad para partners. Estamos en el proceso de establecer una fecha de aplicación de los requisitos y se la notificaremos a los partners con información detallada.
 
-### <a name="what-will-happen-if-i-dont-implement-mfa-as-per-this-new-security-requirement-by-august-1-2019"></a>¿Qué ocurrirá si no implemento MFA según este nuevo requisito de seguridad el 1 de agosto de 2019?
+### <a name="what-will-happen-if-i-do-not-implement-these-partner-security-requirements"></a>¿Qué ocurrirá si no implemento estos requisitos de seguridad de para partners?
 
-A partir del 1 de agosto de 2019, los términos asociados a estos requisitos de seguridad en [Program Guide for the Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Guía del programa Proveedor de soluciones en la nube) entran en vigor. Todos los partners que participan en el programa CSP deben satisfacer los requisitos para cumplir con los términos y proteger su negocio. Los partners que no cumplan estas prácticas de seguridad pueden perder la capacidad de realizar transacciones en el programa CSP o administrar los inquilinos de cliente aprovechando los derechos de administrador delegado una vez que comencemos la aplicación técnica de los requisitos de seguridad para partners en un futuro próximo. Estamos estableciendo una fecha de aplicación y la notificaremos en breve a los partners.
+El acuerdo entre partners de Microsoft requiere que apliques la autenticación multifactor para las cuentas de usuario y que adoptes el modelo de aplicaciones seguras para interactuar con la API del Centro de partners. Los partners que no cumplan estas prácticas de seguridad pueden perder la capacidad de realizar transacciones en el programa Proveedor de soluciones en la nube o administrar los inquilinos de cliente aprovechando los derechos de administrador delegado.
 
 ### <a name="why-is-microsoft-enforcing-these-new-requirements"></a>¿Por qué impone Microsoft estos nuevos requisitos?
 
@@ -65,7 +44,7 @@ Sí, se aplica a todas las zonas geográficas. Se recomienda encarecidamente a t
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>¿Es posible obtener una exclusión para una cuenta?
 
-No, no es posible excluir ninguna cuenta del requisito de aplicación de MFA. Dada la naturaleza de los partners, que tienen privilegios elevados, [Program Guide for the Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Guía del programa para el proveedor de soluciones en la nube) requiere que se aplique MFA para cada cuenta de inquilino de partner.
+No, no es posible excluir ninguna cuenta de usuario del requisito de aplicación de MFA. Dada la naturaleza altamente privilegiada de los partners, el acuerdo entre partners de Microsoft requiere que se aplique la autenticación multifactor para cada cuenta de usuario en el inquilino de partner.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>¿Cómo puedo saber si cumplo los requisitos de seguridad del partner?
 
@@ -86,16 +65,12 @@ Todos los partners del programa CSP (factura directa, proveedor indirecto y reve
 
 1. **Aplicar MFA a todos los usuarios**
 
-    Todos los partners del programa CSP, las instancias de Advisor y los proveedores de panel de control deben aplicar MFA para todos los usuarios de su inquilino de partner. Esto se puede lograr habilitando las directivas de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) y cualquier otra directiva de base de referencia futura. La funcionalidad proporcionada por las directivas de base de referencia continuará evolucionando para garantizar que los partners y los clientes están protegidos frente a las amenazas de seguridad en constante cambio. Por lo tanto, es importante que revises la [documentación de las directivas de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) para obtener más información.
-
-    - Consulta [Directiva de base de referencia: Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) para más información sobre cómo habilitar la directiva de base de referencia Requerir MFA para administradores.
-    - Consulta [Directiva de base de referencia: Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) para más información sobre cómo habilitar la Directiva de base de referencia de protección del usuario final.
-    - Debes comprender el concepto de [directivas de protección de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
+    Todos los partners del programa CSP, las instancias de Advisor y los proveedores de panel de control deben aplicar MFA para todos los usuarios de su inquilino de partner.
 
     Consideraciones adicionales:
 
     - Los proveedores indirectos deben trabajar con los revendedores indirectos para incorporarlos al Centro de partners, si aún no lo han hecho, y animar a sus revendedores a que cumplan los requisitos.
-    - Azure MFA se ha puesto a disposición de todos los usuarios del inquilino de partner sin coste alguno a través de las directivas de base de referencia con el único método de comprobación del uso de la [aplicación Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+    - Azure MFA se pone a disposición de todos los usuarios del inquilino de partner sin coste alguno, a través de los valores predeterminados de seguridad de Azure AD con el único método de comprobación de una aplicación autenticadora que admite contraseñas de un solo uso basadas en el tiempo (TOTP).
     - Existen métodos de comprobación adicionales a través de las SKU de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium), si se requieren otros métodos, como una llamada telefónica o un mensaje de texto.
     - Los asociados también pueden utilizar una solución de MFA de terceros para cada cuenta al acceder a los servicios en la nube comerciales de Microsoft.
 
@@ -124,34 +99,9 @@ MFA es un mecanismo de seguridad a través del cual los usuarios se autentican c
 - Un elemento que el usuario posee (un dispositivo de confianza que no puede duplicarse fácilmente como, por ejemplo, un teléfono)
 - Un elemento que identifica al usuario personalmente (biométrica)
 
-### <a name="what-are-baseline-protection-policies"></a>¿Qué son las directivas de protección de base de referencia?
-
-Las [directivas de protección de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) (actualmente en versión preliminar) son un conjunto de directivas predefinidas que ayudan a proteger a las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la difusión de contraseña, la reinyección y la suplantación de identidad. Las directivas de base de referencia están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de base de referencia a disposición de todo el mundo porque los ataques basados en la identidad han aumentado en los últimos años. El objetivo de estas directivas es asegurarse de que todas las organizaciones tengan un nivel de base de referencia de seguridad habilitado sin costo adicional.
-
-> [!NOTE]
-> Las directivas de base de referencia de Microsoft y las funcionalidades relacionadas seguirán evolucionando para proteger mejor a los partners y clientes frente a las amenazas de seguridad en constante cambio. Puede que pronto haya algunos cambios de nomenclatura y taxonomía en las directivas de base de referencia. Se recomienda encarecidamente que visites las páginas de directivas de base de referencia directamente para consultar la información más reciente.
-
-### <a name="what-baseline-policies-must-i-enable"></a>¿Qué directivas de base de referencia tengo que habilitar?
-
-Si tienes previsto emplear las directivas de protección de base de referencia actuales para proporcionar MFA a cada usuario en el inquilino de partner, debes habilitar las directivas de base de referencia [Requerir MFA a los administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). Estas directivas de protección de base de referencia satisfacen el requisito de MFA para cada usuario del inquilino de partner sin coste alguno solo para los partners que usan aplicaciones de Microsoft Authenticator a través de dispositivos móviles.
-
-La directiva de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) se usa para los usuarios administrativos en el directorio de partners y la directiva de base de referencia [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) se usa para proteger a los usuarios no administrativos del inquilino de partner. La habilitación de estas directivas requerirá que los usuarios se registren para MFA. Una vez que el usuario se haya registrado correctamente, se le pedirá el MFA durante los intentos de inicio de sesión en función de los criterios de la directiva. La funcionalidad proporcionada por las directivas de base de referencia continuará evolucionando para garantizar que los partners y los clientes estén protegidos frente a las amenazas de seguridad en constante cambio. Por lo tanto, es importante que revises la [documentación de las directivas de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) para obtener más información.
-
-### <a name="how-do-i-enable-the-require-mfa-for-admins-policy"></a>¿Cómo habilito la directiva Requerir MFA para administradores?
-
-La directiva de base de referencia Requerir MFA para administradores se puede habilitar a través del portal de administración de Azure. Consulta [Directiva de base de referencia: Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) para más información sobre cómo habilitar esta directiva de base de referencia.
-
-### <a name="how-do-i-enable-the-end-user-protection-policy"></a>¿Cómo habilito la directiva Protección del usuario final?
-
-La directiva de base de referencia Protección del usuario final se puede habilitar a través del portal de administración de Azure. Consulta [Directiva de base de referencia: Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) para más información sobre cómo habilitar esta directiva de base de referencia.
-
-### <a name="will-the-baseline-policies-be-automatically-enabled"></a>¿Se habilitarán automáticamente las directivas de base de referencia?
-
-No, para habilitar estas directivas, un usuario que sea miembro de los roles de administrador global, administrador de seguridad o administrador de acceso condicional tendrá que configurar las directivas en Usar la directiva inmediatamente.
-
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>¿Cuál es el costo de habilitar MFA?
 
-Microsoft proporciona MFA de forma gratuita a través de la implementación de las directivas de protección de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). La única opción de comprobación disponible a través de esta versión de MFA es la [aplicación Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Si se requiere una llamada telefónica o un mensaje SMS, se deberá adquirir una licencia de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). Como alternativa, puedes utilizar una solución de terceros para proporcionar MFA para cada usuario del inquilino de partner: en este caso, es tu responsabilidad asegurarte de que la solución MFA se aplique y que sea compatible.
+Microsoft proporciona MFA sin coste alguno a través de la implementación de los valores predeterminados de seguridad de Azure AD. La única opción de comprobación disponible a través de esta versión de MFA es una aplicación autenticadora. Si se requiere una llamada telefónica o un mensaje SMS, se deberá adquirir una licencia de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). Como alternativa, puedes utilizar una solución de terceros para proporcionar MFA para cada usuario del inquilino de partner: en este caso, es tu responsabilidad asegurarte de que la solución MFA se aplique y que sea compatible.
 
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Si ya tengo una solución MFA, ¿qué acciones debo realizar?
 
@@ -160,17 +110,13 @@ Con estos requisitos de seguridad, se requerirá a los usuarios de un inquilino 
 > [!IMPORTANT]
 > Si usa una solución de terceros, es importante comprobar que la solución emita la declaración de notificación de referencia del método de autenticación (AMR) que incluye el valor de MFA. Consulte [Testing the Partner Security Requirements](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) (Prueba de los requisitos de seguridad para partners) para obtener más información sobre cómo validar la solución de terceros que está emitiendo la notificación esperada.
 
-### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>¿Qué método de comprobación puedo usar para autenticar MFA?
-
-Microsoft proporciona MFA de forma gratuita a través de la implementación de las directivas de protección de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users). La única opción de comprobación disponible a través de esta versión de MFA es la [aplicación Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Si se requiere una llamada telefónica o un mensaje SMS, se deberá adquirir una licencia de [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium). Como alternativa, puedes utilizar una solución de terceros para proporcionar MFA para cada usuario del inquilino de partner: en este caso, es tu responsabilidad asegurarte de que la solución MFA se aplique y que sea compatible.
-
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Utilizo varios inquilinos de partner para realizar transacciones. ¿Tengo que implementar MFA en todos ellos?
 
 Sí, tendrás que aplicar MFA para cada inquilino de Azure Active Directory asociado con el programa CSP o el programa Advisor. Si tienes previsto comprar una licencia de Azure Active Directory Premium, debes adquirir una licencia para el usuario en cada inquilino de Azure Active Directory.
 
-### <a name="does-each-user-in-my-partner-tenant-need-to-have-mfa-enforced"></a>¿Es necesario aplicar MFA en cada usuario de mi inquilino de partner?*
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>¿Es necesario aplicar MFA en cada cuenta de usuario de mi inquilino de partner?
 
-Las directivas de protección de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) aplicarán MFA para cada usuario del inquilino de partner. Si estás utilizando estas directivas para proporcionar MFA y usas la aplicación [Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview), no es necesario adquirir licencias adicionales. De lo contrario, tendrás que comprar una solución adecuada para proporcionar MFA a cada usuario del inquilino de partner.
+Sí, es necesario aplicar MFA en cada usuario. Ten en cuenta que, si usas valores predeterminados de seguridad de Azure AD, no se requiere ninguna acción adicional, ya que esas características aplican MFA para todas las cuentas de usuario. Sin embargo, habilitar los valores predeterminados de seguridad es una forma gratuita y sencilla de asegurarse de que las cuentas de usuario son compatibles con MFA y no se ven afectadas cuando se aplica MFA.
 
 ### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Soy un partner de factura directa con Microsoft. ¿Qué tengo que hacer?
 
@@ -194,7 +140,7 @@ Para obtener más información, consulta la [Lista de compatibilidad de federaci
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>¿Cómo puedo probar MFA en nuestro espacio aislado de integración?
 
-Las directivas de base de referencia [Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) y [Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) deben habilitarse para el inquilino del espacio aislado de integración. A través de esta directiva, cada usuario del inquilino tendrá que autenticarse mediante MFA.
+La característica de valores predeterminados de seguridad de Azure AD debe estar habilitada o, como alternativa, puedes utilizar una solución de terceros que utilice la federación.
 
 ### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>¿Afectará la habilitación de MFA a cómo interactúo con el inquilino de mi cliente?
 
@@ -204,41 +150,29 @@ No. El cumplimiento de estos requisitos de seguridad no afectará a la forma de 
 
 No, no es necesario aplicar MFA para cada usuario en los inquilinos de Azure AD de los clientes. Sin embargo, se recomienda que trabajes con cada cliente para determinar la mejor manera de proteger a sus usuarios.
 
-### <a name="can-app-passwords-be-used-with-the-baseline-protection-policies"></a>¿Se pueden usar contraseñas de aplicación con las directivas de protección de base de referencia?
-
-Sí, se pueden usar [contraseñas de aplicación](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords). Debes examinar las consideraciones acerca del uso de contraseñas de aplicación, que están documentadas [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), para determinar si se admiten para tus necesidades.
-
 ### <a name="can-any-user-be-excluded-from-this-requirement"></a>¿Se puede excluir de este requisito a algún usuario?
 
 No, todos los usuarios, incluidas las cuentas de servicio, del inquilino de partner deberán autenticarse mediante MFA.
 
 ### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>¿Se aplican los requisitos de seguridad para partners al espacio aislado de integración?
 
-Sí, los requisitos de seguridad para partners se aplican al espacio aislado de integración. Esto significa que deberás implementar la solución MFA adecuada para los usuarios del inquilino de espacio aislado de integración. Se recomienda implementar las directivas de protección de base de referencia para proporcionar MFA.
+Sí, los requisitos de seguridad para partners se aplican al espacio aislado de integración. Esto significa que deberás implementar la solución MFA adecuada para los usuarios del inquilino de espacio aislado de integración. Se recomienda implementar los valores predeterminados de seguridad de Azure AD para proporcionar MFA.
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>¿Cómo configuro una cuenta de acceso de emergencia (rotura del cristal)?
 
 Se consideró una práctica recomendada crear una o dos cuentas de acceso de emergencia para evitar bloquear de forma inadvertida el inquilino de Azure AD. Con respecto a los requisitos de seguridad para partners, es necesario que cada usuario se autentique mediante MFA. Por lo tanto, esto significa que tendrás que modificar la definición de una cuenta de acceso de emergencia. Podría tratarse de una cuenta que utiliza una solución de terceros para MFA.
 
-### <a name="how-will-guest-users-be-impacted-by-the-partner-security-requirements"></a>¿Cómo se verán afectados los usuarios invitados por los requisitos de seguridad para partners?
-
-Los usuarios invitados deberán autenticarse mediante MFA al acceder a los recursos de tu inquilino de partner. Los requisitos de seguridad para partners no tendrán ningún impacto en el usuario invitado para acceder a los recursos de su propio inquilino.
-
 ### <a name="if-i-am-using-a-third-party-solution-is-active-directory-federation-service-adfs-required"></a>Si uso una solución de terceros, ¿se necesitan los Servicios de federación de Active Directory (ADFS)?
 
 No, no es necesario tener los Servicios de Federación de Active Directory (ADFS) si usas una solución de terceros. Se recomienda que trabajes con el proveedor de la solución para determinar cuáles son los requisitos de su solución.
 
-### <a name="is-it-a-requirement-to-enable-the-baseline-protection-policies"></a>¿Es un requisito habilitar las directivas de protección de base de referencia?
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>¿Es necesario habilitar los valores predeterminados de seguridad de Azure AD?
 
-No, no es necesario habilitar las directivas de protección de base de referencia. El único requisito es que apliques MFA para cada usuario, incluidas las cuentas de servicio, en el inquilino de partner.
+No, no es necesario habilitar los valores predeterminados de seguridad de Azure AD.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>¿Se puede usar el acceso condicional para cumplir el requisito de MFA?
 
 Sí, se puede usar el acceso condicional para aplicar MFA para cada usuario, incluidas las cuentas de servicio, en el inquilino de partner. Sin embargo, dada la naturaleza de los partners, que tienen privilegios elevados, necesitamos asegurarnos de que cada usuario tenga que usar MFA en todas y cada una de las autenticaciones. Esto significa que no podrás utilizar la característica de acceso condicional para eludir el requisito de MFA.
-
-### <a name="what-verification-options-are-provided-through-the-implementation-of-the-baseline-protection-policies"></a>¿Qué opciones de comprobación se proporcionan a través de la implementación de las directivas de protección de base de referencia?
-
-Con respecto a la versión de MFA que está disponible a través de la implementación de las directivas de protección de base de referencia, la única opción de comprobación disponible es una aplicación de autenticador. El uso de una llamada telefónica y un mensaje de texto se considera menos seguro. Por lo tanto, estas opciones no están disponibles con esta versión de MFA.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>¿La cuenta de servicio usada por Azure AD Connect se verá afectada por los requisitos de seguridad para partners?
 
@@ -275,7 +209,7 @@ Un proveedor de panel de control es un fabricante de software independiente que 
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>¿Se tiene que implementar el modelo de aplicaciones seguras para la API/SDK del Centro de partners únicamente?
 
-Después de habilitar las directivas de base de referencia *Requerir MFA para administradores* y *Protección de usuario final*, se requiere a cada usuario que se autentique mediante Multi-Factor Authentication. Esto significa que deberás implementar el modelo de aplicaciones seguras para cada API, CLI y módulo de PowerShell (por ejemplo, Azure, Azure AD, MS Online, Centro de partners, etc.) que se va a ejecutar de forma no interactiva y que se basa en el uso de credenciales de usuario para autenticación.
+A través de la aplicación de la autenticación multifactor para todas las cuentas de usuario, cualquier automatización o integración que esté diseñada para ejecutarse de forma no interactiva se verá afectada. Aunque los requisitos de seguridad de partner requieren que habilites el modelo de aplicaciones seguras para la API del Centro de partners, se puede aprovechar para solucionar la necesidad de un segundo factor de autenticación con automatización e integración. Ten en cuenta que el recurso al que se tiene acceso necesitará se compatible con la autenticación basada en tokens de acceso.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Uso herramientas de automatización como PowerShell. ¿Cómo implemento el modelo de aplicaciones seguras?
 
@@ -349,12 +283,6 @@ La aplicación técnica de los requisitos de seguridad del partner comprobará s
 - Dirija sus preguntas y comentarios a [Partner Center Security Guidance Group](https://aka.ms/MPCSecurityGuidance) (Grupo de instrucciones de seguridad del Centro de partners).
 - Asista a los próximos horarios de oficina de partners y seminarios web. Consulte aquí [la programación y los recursos detallados](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
-### <a name="resources-for-enabling-mfa"></a>Recursos para habilitar MFA
-
-- Debes comprender el concepto de [directivas de protección de base de referencia](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
-- Consulta [Directiva de base de referencia: Requerir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) para más información sobre cómo habilitar la directiva de base de referencia Requerir MFA para administradores.
-- Consulta [Directiva de base de referencia: Protección del usuario final](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) para más información sobre cómo habilitar la Directiva de base de referencia de protección del usuario final.
-
 ### <a name="resources-for-adopting-secure-application-model"></a>Recursos para adoptar el modelo de aplicaciones seguras
 
 - [Información general sobre el modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
@@ -369,12 +297,6 @@ La aplicación técnica de los requisitos de seguridad del partner comprobará s
 ### <a name="where-can-i-get-support"></a>¿Dónde puedo obtener soporte técnico?
 
 Para que los recursos de soporte técnico cumplan los requisitos de seguridad, si tienes Soporte técnico para socios Avanzado (ASfP), ponte en contacto con el Administrador de cuentas de servicios; para obtener Soporte técnico para socios Premier (PSfP), ponte en contacto con el Administrador de cuentas de servicios y el responsable técnico de cuenta.
-
-### <a name="how-can-i-get-help-with-enabling-the-baseline-policies"></a>¿Cómo puedo obtener ayuda para habilitar las directivas de base de referencia?
-
-- Los partners pueden utilizar las horas de asesoramiento de los beneficios de MPN para obtener instrucciones más detalladas sobre cómo implementar los requisitos de seguridad.
-- Las opciones de soporte técnico de productos para Azure Active Directory están disponibles a través de los beneficios de MPN. Los partners con acceso a un contrato ASfP o PSfP activo pueden trabajar con su administrador de cuentas asociado (SAM/TAM) para comprender mejor las opciones disponibles para ellos.
-- Se puede tener acceso al soporte técnico para la implementación de directivas de base de referencia con el Centro de partners a través de la [solicitud de servicio del centro de Partners](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp). Seleccione *MFA & Secure Application Model* (MFA y modelo de aplicaciones seguras) como tema.
 
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>¿Cómo obtengo información técnica y soporte técnico que me ayude a adoptar el marco del modelo de aplicaciones seguras?
 
