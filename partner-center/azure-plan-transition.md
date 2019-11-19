@@ -2,18 +2,20 @@
 title: Transición de clientes al plan de Azure | Centro de partners
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Realice la transición de sus clientes fácilmente al plan de Azure
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428538"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653840"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Transición de clientes al plan de Azure
 
@@ -83,7 +85,7 @@ Para realizar la transición de los Contratos Enterprise directos a las inscripc
 
 **Registro de auditoría**:
 
-Para conciliar la facturación, consulta tu historial de suscripciones de "Microsoft Azure" (0145P) en la página de **suscripciones**. 
+Para conciliar la facturación, consulta tu historial de suscripciones de "Microsoft Azure" (0145P) en la página **Suscripciones**. 
 
 La suscripción a "Microsoft Azure" (0145P) consta de dos partes:
 1. Suscripción comercial 
