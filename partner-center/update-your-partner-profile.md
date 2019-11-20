@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: La primera vez que inicies sesión como administrador, asegúrate de que los detalles de soporte técnico sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653990"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189062"
 ---
-MS. Service: Partner-Dashboard ms. subservicio: partnercenter-CSP Descripción: la primera vez que inicie sesión como administrador, asegúrese de que los detalles de soporte sean correctos, las exenciones de impuestos de archivo si procede y revise la información de contacto en los perfiles.
-M. Tema: fecha del artículo: 08/06/2019 ms. AssetID: B7FCD670-465F-443A-A80C-4E83B74E2D1E autor: LauraBrenner ms. Author: labrenne ms. localizationpriority: Medium
----
-
 # <a name="verify-your-partner-profile"></a>Comprobación de tu perfil de partner
 
 La primera vez que inicies sesión en el Centro de partners como administrador global, asegúrate de que se han agregado correctamente todos los detalles de la empresa como, por ejemplo, el contacto principal, el nombre y el domicilio legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos. 
