@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Roles y permisos y el crédito obtenido por el socio comercial
+description: Obtenga información acerca de los roles y los permisos necesarios para que un asociado sea válido para los créditos obtenidos por el socio.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c57effb8d7550da05ca55afd3d14ea9aa9f022ba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e461a61d91bcaebb5cc53cf259006d17a0676884
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653784"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253258"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Roles y permisos coincidentes para ganar el crédito obtenido por el socio
 

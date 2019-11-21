@@ -1,23 +1,23 @@
 ---
 title: Agregar un cliente nuevo | Centro de partners
 ms.topic: article
-ms.date: 03/21/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Para poder vender suscripciones, administrar la facturación o proporcionar soporte técnico, antes debes crear un registro de clientes en el Centro de partners.
+description: Obtenga información acerca de cómo agregar un nuevo registro de cliente en el centro de Partners. A continuación, puede vender las suscripciones del cliente, administrar la facturación o proporcionar soporte al cliente.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
-ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
+ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73840211"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253149"
 ---
-# <a name="add-a-new-customer"></a>Agregar un nuevo cliente
+# <a name="add-a-new-customer"></a>Agregar un cliente nuevo
 
 **Se aplica a**
 
@@ -51,7 +51,7 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 
 7. Seleccione **listo** cuando haya terminado de agregar la información del cliente y haya adquirido las suscripciones necesarias.
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Consulte también
 
 - Consulte [ofertas de asociados en el programa proveedor de soluciones en la nube](csp-offers.md) para obtener más información sobre lo que puede vender a los clientes a través del programa proveedor de soluciones en la nube.
 

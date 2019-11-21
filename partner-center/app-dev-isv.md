@@ -1,20 +1,20 @@
 ---
 title: Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones | Centro de Partners
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
+description: En el caso de los asociados con una competencia de ISV anterior, obtenga información sobre cómo obtener una exención de requisitos de examen único para la competencia de desarrollo de aplicaciones.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, ISV, desarrollo de aplicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
-ms.translationtype: MT
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117224"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253357"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
 

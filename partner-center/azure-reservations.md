@@ -1,21 +1,21 @@
 ---
 title: 'Centro de Partners: información general sobre las reservas de Microsoft Azure | Centro de Partners'
 ms.topic: article
-ms.date: 11/05/2018
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Los asociados del programa proveedor de soluciones en la nube (CSP) pueden ofrecer a sus clientes Microsoft Azure reservas.
+Description: Obtenga información sobre cómo los proveedores de soluciones en la nube pueden comprar, vender o administrar las reservas de Azure para los clientes que usan el centro de Partners, el Azure Portal o la API del centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, administrar, facturación, comprar, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653807"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253119"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de Partners: vender reservas de Microsoft Azure
 

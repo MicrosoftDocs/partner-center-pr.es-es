@@ -1,22 +1,22 @@
 ---
 title: Cuentas de cliente | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Como partner revendedor, debes crear una cuenta para cada uno de tus clientes en el Centro de partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico.
+Description: Busque los recursos de los asociados del distribuidor en el centro de Partners. Esto incluye la necesidad de crear cuentas de cliente antes de vender suscripciones, factura u ofrecer soporte técnico.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653480"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253564"
 ---
-# <a name="customer-accounts"></a>Cuentas de clientes
+# <a name="customer-accounts"></a>Cuentas de cliente
 
 **Se aplica a**
 

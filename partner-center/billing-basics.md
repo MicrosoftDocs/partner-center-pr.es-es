@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Información sobre los escenarios de facturación básicos y las diferencias entre la facturación basada en licencias y en el uso
+Description: Obtenga información sobre los escenarios de facturación básicos del centro de partners para suscripciones y reservas de Azure, así como las diferencias entre la facturación basada en licencias y la facturación basada en el uso.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653761"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253207"
 ---
 # <a name="billing-overview"></a>Información general sobre facturación
 
@@ -48,7 +48,7 @@ Los precios de los productos, servicios y suscripciones de software se garantiza
 
 Verás los ajustes y créditos por período vencido en tu siguiente factura de facturación después de la aplicación del crédito o ajuste.
 
-Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación del Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
+Puedes ver y descargar las facturas y los archivos de conciliación desde la página Facturación en el Centro de partners. Ten en cuenta que las facturas mensuales están disponibles en el Centro de partners en el plazo de cuatro (4) días a partir de la fecha de facturación seleccionada.
 
 ## <a name="payment-terms"></a>Condiciones de pago
 

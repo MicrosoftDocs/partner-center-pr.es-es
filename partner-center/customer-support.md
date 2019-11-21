@@ -1,20 +1,20 @@
 ---
 title: Proporcionar soporte técnico a tus clientes | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los asociados son necesarios para recibir solicitudes de soporte técnico entrante de los clientes, diagnosticar problemas con lo mejor de la capacidad del asociado y resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base.
+description: Obtenga información sobre las responsabilidades de soporte al cliente de asociados en el programa CSP.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653448"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253489"
 ---
 # <a name="providing-support-to-your-customers"></a>Proporcionar soporte técnico a tus clientes
 

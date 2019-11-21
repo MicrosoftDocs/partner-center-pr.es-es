@@ -1,20 +1,20 @@
 ---
 title: Acceda a la página de pagos de incentivos | Centro de Partners
 ms.topic: article
-ms.date: 10/17/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Comprender la información de pago
+description: Obtenga información sobre el acceso a la información de pago. Esto se aplica a los pagos de aplicaciones y juegos de Windows, así como a los pagos de incentivos de MPN.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Incentivos, pago
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b9bc2a1ff8a2b52a5e7b72d468537e5016e34a1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 246c3eaa95fe88cdd42c1eb85548065d29828bfc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654360"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253708"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Acceder a su página de pagos de incentivos
 

@@ -1,20 +1,20 @@
 ---
 title: Aumentar la adopción y la satisfacción | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan.
+description: Obtenga información acerca de cómo usar las métricas en el centro de partners para ver si su negocio está creciendo, cómo los clientes usan sus licencias y dónde centrarse en la inversión.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653351"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253700"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 

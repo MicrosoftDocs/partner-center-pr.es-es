@@ -1,21 +1,21 @@
 ---
 title: Nuevos requisitos de partner directo de CSP | Centro de partners
 ms.topic: article
-ms.date: 03/20/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si actualmente está inscrito en el programa CSP como asociado directo, debe prepararse para cumplir estos requisitos actualizados de soporte técnico y servicios.
+Description: Si es un asociado directo en el programa CSP, puede obtener información sobre los requisitos de servicios y soporte técnico actualizados y cómo cumplirlos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, partner directo, factura directa, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ccc337138c62f2f2a1258f183a30e0ca09652f53
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653219"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253590"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Nuevos requisitos de socio de facturación directo de CSP
 
@@ -52,7 +52,7 @@ Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscrib
 
 Si decide pasar de un negocio de facturación directo a un negocio de revendedor indirecto, debe realizar varios pasos. Para obtener más información sobre la transición, lea [transición de un asociado directo del proveedor de soluciones en la nube (CSP) a un revendedor indirecto de CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Consulte también
 
 - [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Preguntas más frecuentes sobre el revendedor directo de facturación](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

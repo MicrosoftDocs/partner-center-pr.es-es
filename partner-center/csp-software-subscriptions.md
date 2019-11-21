@@ -1,21 +1,21 @@
 ---
 title: Vender suscripciones de software a través de CSP | Centro de partners
 ms.topic: article
-ms.date: 05/13/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ahora puede adquirir, aprovisionar y administrar instancias reservadas de Azure y suscripciones de servidor en el nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal aprovechando la Ventaja híbrida de Azure.
+description: Obtenga información acerca de cómo los asociados del programa CSP pueden usar el centro de partners para comprar, administrar, vender y cancelar las instancias reservadas de Azure y las suscripciones de servidor para los clientes.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653484"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253549"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender suscripciones de software a través de CSP
 

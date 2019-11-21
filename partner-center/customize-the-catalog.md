@@ -1,20 +1,20 @@
 ---
 title: Personalizar el catálogo | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: El catálogo muestra todos los productos y los complementos de Microsoft disponibles para que los vendan los partners.
+description: Obtenga información acerca de cómo personalizar el catálogo de Microsoft para facilitar el acceso a las ofertas de asociados o a los productos que usa la organización.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653418"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252114"
 ---
 # <a name="customize-the-catalog"></a>Personalizar el catálogo
 

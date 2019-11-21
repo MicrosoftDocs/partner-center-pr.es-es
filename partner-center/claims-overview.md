@@ -1,20 +1,20 @@
 ---
 title: Incentivos las notificaciones de cooperación | Centro de Partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Envía las reclamaciones de incentivos sin necesidad de haber revisado antes tu plan de actividad.
+description: Obtenga información acerca de cómo enviar notificaciones de incentivos sin el requisito previo para revisar el plan de actividades.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653684"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253406"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Introducción a las reclamaciones de incentivos de cooperación
 

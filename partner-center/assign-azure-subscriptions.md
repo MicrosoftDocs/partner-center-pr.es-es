@@ -1,20 +1,20 @@
 ---
 title: Asignar suscripciones de Azure en el Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ahora puedes asignar suscripciones de Azure a los clientes en el Centro de partners. También puedes permitirles que administren las suscripciones por sí mismos.
+description: Obtenga información sobre cómo asignar suscripciones de Azure a sus clientes en el centro de Partners y cómo permitir a los clientes administrar sus propias suscripciones.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, suscripción de Azure, suscripción, suscripciones, asignar suscripción, administrar suscripción de azure
 ms.localizationpriority: medium
-ms.openlocfilehash: f9ff42dcc6561c6775232d3a4cc54d749ee6ec45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5e22cbaa71ce724a69a8c05718bf1e6a4a71d1e7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654382"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252920"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>Asignar suscripciones de Azure en el Centro de partners
 

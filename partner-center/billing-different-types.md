@@ -1,21 +1,21 @@
 ---
 title: Descripción de los tipos de facturación del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Información sobre los tipos de facturación, los períodos de facturación y las fechas de facturación diferentes
+Description: Obtenga información sobre los diferentes tipos de facturación, períodos de facturación y fechas de facturación que puede ver en el centro de Partners.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, pedidos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b5991e5134d56684fb1ef43db5785d904fc9c15a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653746"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253200"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Descripción de los tipos de facturación del Centro de partners
 
@@ -151,8 +151,8 @@ El archivo de conciliación incluirá lo siguiente:
 |**Fecha de compra**   |**SKU**   |**Inicio del cargo**   |**Finalización del cargo**  |**Precio unitario**  |**Cantidad**  |**Volumen** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10/6/2019 (tienes 1 licencia) |Plata     |10/6/2019   |10/6/2019         |20 USD        |1         |20 USD            |Nuevo      |
-|10/6/2019 (tienes 1 licencia) |Plata    | 10/6/2019    |10/6/2019        |20 USD        |1       | -20 USD       |Conversión           |
-|10/6/2019 (tienes 1 licencia) |Bronce    | 10/6/2019    |10/6/2019        |10 USD        |1       | 10 USD       |Conversión           |
+|10/6/2019 (tienes 1 licencia) |Plata    | 10/6/2019    |10/6/2019        |20 USD        |1       | -20 USD       |Convertir           |
+|10/6/2019 (tienes 1 licencia) |Bronce    | 10/6/2019    |10/6/2019        |10 USD        |1       | 10 USD       |Convertir           |
 
 ### <a name="scenario-8---purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>Escenario 8: compra y cancelación de una suscripción SaaS de medidor personalizado del Azure Portal en el mismo día 
 

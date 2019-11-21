@@ -1,21 +1,21 @@
 ---
 title: Administrar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal.
+Description: Obtenga información acerca de cómo administrar las reservas de Azure en nombre de un cliente, incluido cómo cancelar una reserva, intercambiar una reserva o solicitar un reembolso.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, reservas, administración, facturación, compra, cancelación, intercambio, cuota de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653814"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252637"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes       
 
@@ -35,7 +35,7 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
     | **No**   | **Para**    |
     |:-----------------------------|:-----------------|
-    | **Introducción**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **NOTA** Selecciona **Reembolso** para crear una solicitud de soporte para un reembolso prorrateado. Selecciona **Exchange** para crear una solicitud de soporte para intercambiar la parte no usada del término de reserva.  
+    | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **NOTA** Selecciona **Reembolso** para crear una solicitud de soporte para un reembolso prorrateado. Selecciona **Exchange** para crear una solicitud de soporte para intercambiar la parte no usada del término de reserva.  
     | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **NOTA** El departamento de soporte puede solicitarle el id. de reserva y el id. del pedido de reserva al solicitar soporte en nombre de un cliente.    |
@@ -57,7 +57,7 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Pondrá**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100 %       | No                              | $50.000 USD   |
+|5 o menos                         | No          | 100%       | No                              | $50.000 USD   |
 |5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
 |Más de 5                        | No          | Prorrateado  | 305                             | $50.000 USD   |
 |Más de 5                        | Sí         | Prorrateado  | 305                             | $50.000 USD   |

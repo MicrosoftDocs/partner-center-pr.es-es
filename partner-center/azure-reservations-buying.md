@@ -1,21 +1,21 @@
 ---
 title: Comprar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Puede comprar reservas de Azure en nombre de sus clientes en el centro de Partners.
+Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653828"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253243"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners 
 
@@ -56,8 +56,8 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Samoa Americana     | Granada     | Islas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunión     |
 > | Anguila     | Guam     | Saba   |
-> | Antártida     | Guernesey     | San Bartolomé   |
-> | Antigua y Barbuda       | Guinea     | Santa Lucía   |
+> | Antártida     | Guernsey     | San Bartolomé   |
+> | Antigua y Barbuda       | Guinea     | Santa Lucía   |
 > | Aruba       | Guinea-Bisáu     | San Martín   |
 > | Azerbaiyán       | Guyana     | San Pedro y Miquelón   |
 > | Benín     | Haití       | San Vicente y las Granadinas     |
@@ -72,7 +72,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | República Centroafricana     | Liberia     | Somalia     |
 > | Chad     | Madagascar     | Georgia del Sur e islas Sandwich del sur     |
 > | China     | Malawi     | Sudán del Sur     |
-> | Isla Christmas     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
+> | Isla de Navidad     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
 > | Islas Cocos     | Malí     | Surinam     |
 > | Comoras     | Islas Marshall     | Mayen     |
 > | Congo     | Martinica     | Suazilandia     |
@@ -98,7 +98,7 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
 2. En la página **clientes** , busque el cliente que desea comprar reservas de Azure y, después, seleccione la flecha abajo para expandir la fila del cliente.  
 
-3. Selecciona **Add products** (Agregar productos) y, a continuación, **Azure**. 
+3. Selecciona **Agregar productos** y, a continuación, **Azure**. 
 
     a. Elige el segmento de mercado del cliente de la lista de **segmentos**.
 

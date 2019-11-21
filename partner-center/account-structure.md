@@ -1,20 +1,20 @@
 ---
 title: La estructura de la cuenta en el centro de Partners | Centro de Partners
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Su compañía tiene dos niveles de cuentas en el centro de Partners.
+description: Obtenga información acerca de los dos niveles de cuentas del centro de Partners, la cuenta global principal (PGA) y la cuenta de ubicación de asociados (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653052"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253163"
 ---
 # <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de Partners
 

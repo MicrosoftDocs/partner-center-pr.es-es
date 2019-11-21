@@ -1,22 +1,22 @@
 ---
 title: Asignar contactos de soporte técnico | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cuando configuras las suscripciones de servicios Microsoft para los clientes, puedes asignar el soporte técnico de estos productos a un distribuidor designado del producto, en lugar de proporcionarlo tú.
+description: Obtenga información acerca de cómo asignar un distribuidor como un contacto de soporte técnico para los clientes con suscripciones a los servicios de Microsoft.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: agente de ayuda, soporte técnico, asignar contacto de soporte técnico, contacto de soporte técnico designado
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653913"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253335"
 ---
 # <a name="assign-support-contacts"></a>Asignar contactos de soporte técnico
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Al llevar a Azure RI y las suscripciones de servidor a su programa CSP, estamos habilitando mejor a nuestros partners para que aborden la creciente demanda de clientes de rápido crecimiento para soluciones más rentables a fin de admitir cargas de trabajo de nube altamente predecibles y persistentes. El programa CSP permite a los partners adquirir, aprovisionar y administrar Azure RI y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners de Microsoft y Azure Portal.
+description: Obtenga información sobre las oportunidades del proveedor de soluciones en la nube para adquirir, aprovisionar y administrar las reservas de Azure y las suscripciones de servidor para sus clientes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653799"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253232"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -41,17 +41,17 @@ Con [Azure Reserved VM instances](https://azure.microsoft.com/pricing/reserved-v
 
 Con una combinación sin comparación de precios atractivos y una flexibilidad de implementación incomparable, los clientes verán el mejor valor general cuando elijan Azure Reservations:
 
-#### <a name="azure-reservations"></a>Azure Reservations
+#### <a name="azure-reservations"></a>Reservas de Azure
 -   Azure Reserved VM Instances
 -   Reservas de base de SQL
 -   Instancia administrada SQL
 -   Azure Cosmos DB
--   Azure SQL Data Warehouse
+-   Almacenamiento de datos SQL de Azure
 -   App Services
 -   Azure Databricks reservas unitarias
 
 #### <a name="server-subscriptions"></a>Suscripciones de servidor
--   Windows Server
+-   Windows Server
 -   Cal de Servicios de Escritorio remoto (RDS)
 -   SQL Server
 
@@ -112,7 +112,7 @@ A continuación te mostramos una lista completa de recursos para ayudarte a inco
 
 **Operaciones**
 
-- [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre la política clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y Servicios compartidos de asociados de Azure.
+- [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre directivas clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y servicios compartidos de asociados de Azure.
 - [Disponibilidad por países de ofertas modernas y matriz de monedas de clientes](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Vender Microsoft Azure instancias reservadas](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Comprar reservas de Microsoft Azure en nombre de los clientes](https://go.microsoft.com/fwlink/?linkid=872807)

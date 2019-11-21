@@ -1,22 +1,32 @@
 ---
 title: Datos y análisis del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usa las capacidades de datos del Centro de partners para comprender mejor tu negocio.
+description: Aprenda a usar Analytics en el centro de partners para comprender mejor su negocio y cómo los clientes usan las licencias que ha adquirido.
 author: LauraBrenner
 ms.author: labrenne
 keywords: datos, análisis, análisis de datos, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 8817cc372ab2fbefce51f047f81b410c38003966
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653233"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252267"
 ---
-# <a name="get-data-and-analyze-your-business"></a>Obtener datos y analizar tu negocio 
+**Se aplica a**
+
+- Centro de partners
+- Asociados de MPN
+- Partners del programa CSP
+
+**Rol adecuado**
+
+- Administrador de partners de MPN
+
+# <a name="get-data-and-analyze-your-business"></a>Obtener datos y analizar tu negocio
 
 En la planificación de formas para desarrollar tu negocio CSP se incluye saber cómo tus clientes usan sus productos de Microsoft. Tienes varias opciones para recopilar datos en el Centro de partners, y puedes recopilar datos sobre tu negocio y sobre si tus clientes están usando las licencias que han adquirido y cómo lo están haciendo. Si estás en el modelo directo de CSP, tienes la oportunidad de instalar y usar la Aplicación de análisis del Centro de partners para Power BI para recopilar datos adicionales.
 
@@ -29,7 +39,9 @@ En el centro de Partners, solo el administrador del asociado de MPN tiene acceso
 
 **Conceder acceso a análisis de usuarios en el centro de Partners** 
 
-1.  En la página de **Administración de usuarios** del centro de Partners, use el cuadro de búsqueda para buscar a la persona que necesita acceso.
+1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+
+2. En el menú del centro de Partners, en la página de **Administración de usuarios** del centro de Partners, use el cuadro de búsqueda para buscar a la persona que necesita acceso.
 2.  En los resultados de la búsqueda, seleccione el nombre de la persona para abrir la página de **detalles del usuario** .
 3.  En **roles y permisos**, seleccione **Administrador de asociados de MPN** y, luego, seleccione **Actualizar**.
 

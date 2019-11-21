@@ -1,28 +1,28 @@
 ---
 title: Microsoft Azure el tamaño de la máquina virtual para el uso máximo de reserva | Centro de Partners
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Al comprar Microsoft Azure reservas en nombre de sus clientes, deberá elegir un tamaño de máquina virtual (VM) para satisfacer las necesidades informáticas del cliente.
+Description: Obtenga información acerca de cómo cambiar el tamaño de una máquina virtual (VM) a las necesidades informáticas de sus clientes al comprar Microsoft Azure reservas para ellas.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, reservas, vm, administrar, uso, cambio de tamaño
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d0c2935bd5a2202b50ffc470fbef144ce4d20e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653780"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253244"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de la VM de Microsoft Azure para el uso máximo de reserva
 
 **Se aplica a**
 
 - Centro de partners
-- Azure Portal
+- Portal de Azure
 - Partners de CSP
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente 

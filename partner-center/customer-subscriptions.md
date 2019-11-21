@@ -1,20 +1,20 @@
 ---
 title: Suscripciones de cliente | Centro de partners
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los partners pueden vender suscripciones a los clientes y administrarlas a través del Centro de partners.
+description: Obtenga información acerca de cómo los asociados del programa CSP pueden vender suscripciones a los clientes y administrarlas a través del centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: suscripciones, asignación de licencias, licencias, satisfacción del cliente, suscripciones de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a795eb78e8d8a5e346b5c47eaacf0e5b978c8ff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653438"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253495"
 ---
 # <a name="customer-subscriptions"></a>Suscripciones de cliente
 

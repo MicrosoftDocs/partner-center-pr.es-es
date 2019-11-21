@@ -1,21 +1,21 @@
 ---
 title: Crear y administrar una demanda de incentivos | Centro de Partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Inicie las notificaciones de Coop de incentivos del centro de Partners. Puedes ver toda la actividad que entra en la creación de tu reclamación en Historial.
+description: Obtenga información sobre cómo iniciar notificaciones de cooperabilidad de incentivos del centro de Partners. Puedes ver toda la actividad que entra en la creación de tu reclamación en Historial.
 author: LauraBrenner
 ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f9656b510bc063674a4d237f9e26506036528fe1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653589"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253470"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Crear y gestionar reclamaciones de incentivos
 

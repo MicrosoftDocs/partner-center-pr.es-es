@@ -1,19 +1,19 @@
 ---
 title: Preguntas más frecuentes para el Centro de partners de Microsoft Cloud for US Government | Preguntas más frecuentes para el Centro de partners de Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Usa estas preguntas más frecuentes para obtener más información acerca del programa Proveedor de soluciones en la nube (CSP) de Microsoft Cloud for US Government. También puedes ponerte en contacto con el administrador de cuentas para obtener más información.
+description: Consulte las respuestas a las preguntas más frecuentes (p + f) sobre el programa proveedor de soluciones en la nube (CSP) para obtener Microsoft Cloud para el gobierno de EE. UU.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 67960c2c7ab3ac4406140156ffa2457cede4f97f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653115"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253635"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes acerca del Centro de partners para Microsoft Cloud for US Government
 
@@ -99,7 +99,7 @@ Los criterios de cualificación para vender el programa CSP de Microsoft Governm
 
 **Soy un asociado existente. ¿Qué debo hacer para vender Microsoft Cloud para el gobierno de EE. UU.?**
 
-Los partners necesitarán incorporarse al programa CSP para Microsoft Cloud for US Government para cumplir con los requisitos de cumplimiento y regulación. (La incorporación de Microsoft Cloud for US Government es independiente de la incorporación de CSP Commercial). Una vez que te incorpores, puedes crear clientes y realizar transacciones con las ofertas disponibles dentro de Microsoft Cloud for US Government. Si estás aprovechando las API, consulta [Desarrollar con el Centro de partners de Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
+Los partners necesitarán incorporarse al programa CSP para Microsoft Cloud for US Government para cumplir con los requisitos de cumplimiento y regulación. (La incorporación de Microsoft Cloud for US Government es independiente de la incorporación de CSP Commercial). Una vez que te incorpores, puedes crear clientes y realizar transacciones con las ofertas disponibles dentro de Microsoft Cloud for US Government. Si estás aprovechando las API, consulta [Desarrollo para el Centro de partners de Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
 
 **¿Hay alguna diferencia en los incentivos para asociados?**
 
@@ -159,7 +159,7 @@ Los requisitos de integración y API del programa CSP de Microsoft Cloud for US 
 
 -   Get a list of available licenses (Obtener una lista de licencias disponibles)
 
--   Asignar licencias a un usuario
+-   Assign licenses to a user (Asignar licencias a un usuario)
 
 -   Check which licenses are assigned to a user (Comprobar qué licencias se asignan a un usuario)
 
@@ -179,7 +179,7 @@ Usa los siguientes vínculos para familiarizarte con el programa CSP y obtén in
 
 **¿Dónde debo hacer si todavía tengo preguntas?**
 
-Ponte en contacto con el administrador de cuentas para obtener más información. Además, únete a nuestro grupo específico de Yammer para el [CSP para Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
+Ponte en contacto con el administrador de cuentas para obtener más información. Además, únete a nuestro grupo específico de Yammer para el [CSP para Azure gobierno](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all).
 
 
 

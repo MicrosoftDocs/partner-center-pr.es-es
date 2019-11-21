@@ -1,19 +1,19 @@
 ---
 title: Cómo obtener una dirección de correo electrónico del trabajo | Centro de Partners
 ms.topic: article
-ms.date: 06/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Necesita un correo electrónico de trabajo para obtener una cuenta de Azure AD en el centro de Partners.
+description: Obtenga información sobre la necesidad de un dominio de correo electrónico antes de configurar una cuenta de Azure AD en el centro de Partners. Aprenda también a comprar un dominio de correo electrónico.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c165f3a610d41dbb365a4081b2c5b316a3a12b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4ba4a0ed709ae9e0964d3187ae3c37d0c834f7ed
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653710"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252816"
 ---
 # <a name="how-to-get-a-work-email-address"></a>Cómo obtener una dirección de correo electrónico del trabajo
 
