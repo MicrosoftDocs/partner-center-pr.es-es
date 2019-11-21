@@ -114,6 +114,14 @@
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
 # [Ofertas de CSP](csp-offers.md)
+## Marketplace comercial
+### [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
+### [Descubrir ofertas de Marketplace](csp-commercial-marketplace-discover.md)
+### [Adquirir ofertas de Marketplace](csp-commercial-marketplace-purchase.md)
+### [Administrar ofertas de Marketplace](csp-commercial-marketplace-manage.md)
+### [Facturación de ofertas de Marketplace](csp-commercial-marketplace-billing.md)
+### [Soporte para ofertas de Marketplace](csp-commercial-marketplace-support.md)
+### [Contratos para compras de Marketplace](csp-commercial-marketplace-contracting.md) 
 ## [Reservas de Azure](azure-reservations.md)
 ### [Cambio de tamaño de la máquina virtual para el uso máximo de reserva](azure-usage.md)
 ### [Comprar reservas de Microsoft Azure en nombre de los clientes](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [Usar promociones para atraer a nuevos clientes](promotions.md)
 ### [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md)
 ### [Vender suscripciones a productos comerciales de Marketplace](sell-marketplace-products.md)
-### [Ofertas exclusivas de Marketplace](isv-opt-in.md)
 ### [Asignar suscripciones de Azure en el Centro de partners](assign-azure-subscriptions.md)
 ### [Asignar licencias a los usuarios](assign-licenses-to-users.md)
 ### [Agregar licencias o servicios a una suscripción existente](add-licenses-or-services-to-an-existing-subscription.md)
