@@ -1,9 +1,9 @@
 ---
 title: Analizar suscripciones y licencias | Centro de partners
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Use las métricas de la página de análisis de licencias y licencias para identificar sus éxitos y áreas que requieren más atención.
+Description: Learn how to use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651177"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253372"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizar suscripciones y licencias 
 
@@ -47,27 +47,27 @@ Estamos siguiendo estas métricas:
  - **Suscripciones activas**: suscripciones en las que el estado es **Activo**  
  - **Suscripciones suspendidas**: recuento de suscripciones suspendidas, sin filtro de fecha  
 
-**Desglose del producto**  
+**Product breakdown**  
  - **Recuento de suscripciones**: los 5 mejores productos ordenados por suscripciones vendidas  
  - **Recuento de licencias**: los 5 mejores productos ordenados licencias vendidas
 
-**Retención de suscripción**
+**Subscription Retention**
  - **Suscripciones renovadas**: suscripciones que se han renovado en los últimos 30 días  
 
-**Renovación de suscripción**  
+**Subscription churn**  
  - **Nuevas suscripciones**: número de nuevas suscripciones durante el período de tiempo, excepto las ofertas de prueba  
  - **Suscripciones dadas de baja**: recuento de suscripciones dadas de baja o suspendidas hasta la fecha  
 
-**Suscripciones suspendidas**  
+**Suspended subscriptions**  
  - Lista de todas las suscripciones con un estado **Suspendido**, excepto las ofertas de prueba  
   
-**Suscripciones activas**
+**Active subscriptions**
  - Lista de todas las suscripciones activas  
 
-**Conversiones de suscripciones de prueba**  
+**Trial subscription conversions**  
  - **Conversión de prueba**: recuento de todas las suscripciones **Activas** en las que se produjo la conversión a pago durante el período de tiempo especificado  
 
-**Suscripciones de prueba que acaban en 30 días**  
+**Trial subscriptions ending in 30 days**  
  - Lista de pruebas que se iniciaron y en las que la fecha de finalización está dentro de los 30 días siguientes y no hay ninguna fecha de inicio de pago asociada a la suscripción  
 
   
