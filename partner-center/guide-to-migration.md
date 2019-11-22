@@ -1,95 +1,95 @@
 ---
-title: Guía para la migración desde PMC al centro de Partners | Centro de Partners
+title: Guía para la migración de PMC al Centro de partners| Centro de partners
 ms.topic: article
 ms.date: 04/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Qué debe saber al migrar su empresa de PMC al centro de Partners
+description: Qué hay que saber antes de migrar una empresa de PMC al Centro de partners
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
-ms.localizationpriority: medium
-ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653097"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096498"
 ---
-# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al centro de Partners
+# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
-El sitio web de Microsoft Partner en partner.microsoft.com es una experiencia digital unificada para asociados. En el sitio web del asociado, podrá explorar sus oportunidades y participar en experiencias guiadas que ayuden a su empresa a crear y vender sus aplicaciones y servicios con Microsoft. Mediante el vínculo del panel que está disponible en el sitio web del asociado, los miembros del Microsoft Partner Network pueden iniciar sesión en el centro de Partners en el que administra su relación con Microsoft, inscribirse en programas y registrarse para obtener ofertas. 
+El sitio web para partners de Microsoft en partner.microsoft.com es una experiencia digital unificada para los partners. En el sitio web para partners, podrás explorar tus oportunidades y participar en experiencias guiadas que ayuden a tu empresa a compilar y vender tus aplicaciones y servicios con Microsoft. Mediante el vínculo del panel que está disponible en el sitio web para partners, los miembros de Microsoft Partner Network pueden iniciar sesión en el Centro de partners donde administras tu relación con Microsoft, inscribirse en programas y registrarse para obtener ofertas. 
 
-Se está retirando el centro de pertenencia de asociados (PMC). Se ha invitado a su empresa a pasar su Microsoft Partner Network la administración de pertenencia al centro de Partners. Esta guía le preparará para lo que puede esperar a medida que realice el cambio de PMC al centro de Partners.
+La oferta Partner Membership Center (PMC) se está retirando. Tu empresa ha recibido una invitación para migrar la administración de su pertenencia a Microsoft Partner Network al Centro de partners. Esta guía te preparará para las expectativas durante la migración de PMC al Centro de partners.
 
 >[!Note]
->Incluso si su compañía tiene más de una cuenta o una ubicación, el traslado al centro de Partners comienza moviendo una (su primera) cuenta al centro de Partners.
+>Aunque tu empresa tenga más de una cuenta o ubicación, la migración al Centro de partners comienza con el cambio de una (tu primera) cuenta al Centro de partners.
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Comenzar
 
-El movimiento comienza en PMC. El administrador global recibirá una invitación para comenzar el traslado. 
+La migración comienza en PMC. Tu administrador global recibirá una invitación para iniciar la migración. 
 
-**Preparación en PMC**
+**Realizar los preparativos en PMC**
 - Comprobar los detalles de la empresa 
-- Comprobar contacto principal del programa 
-- Comprobar las ubicaciones de negocio
-- Actualización de los usuarios aprobados
+- Comprobar el contacto principal del programa 
+- Comprobar las ubicaciones de la empresa
+- Actualizar los usuarios aprobados
 
-**Cuando esté listo**
+**Después de realizar los preparativos**
 
-Seleccione **Introducción** a la invitación. Se le dirigirá a la página de inicio de sesión del centro de Partners.
+Selecciona **Introducción** en la invitación. Se te dirigirá a la página de inicio de sesión del Centro de partners.
 
-![Introducción](images/migration/getstarted.jpg)
+![Comenzar](images/migration/getstarted.jpg)
 
-## <a name="start-with-your-work-email"></a>Comience con el correo electrónico del trabajo
+## <a name="start-with-your-work-email"></a>Empezar con el correo electrónico del trabajo
 
-Si su empresa no tiene un correo electrónico de trabajo y un inquilino de AAD, podemos ayudarle a configurar uno durante el proceso de inicio de sesión del centro de Partners. Cuando intente iniciar sesión con una cuenta de correo electrónico que no sea un correo electrónico de trabajo como su cuenta personal, se le indicará que proporcione información sobre su empresa para que podamos configurar un inquilino de AAD y un correo electrónico de trabajo.
-Estos detalles de la compañía se usarán para finalizar su cuenta en el centro de Partners, por lo que debe asegurarse de que son precisos.
+Si tu empresa no tiene un correo electrónico del trabajo ni un inquilino de AAD, podemos ayudarte a configurarlos durante el proceso de inicio de sesión en del Centro de partners. Si intentas iniciar sesión con una cuenta de correo electrónico que no es del trabajo (por ejemplo, una cuenta personal), se te indicará que proporciones información sobre la empresa para que podamos configurar un inquilino de AAD y un correo electrónico del trabajo.
+Estos detalles de la empresa se usarán para finalizar la cuenta en Centro de partners, por lo que debes asegurarte de que sean correctos.
 
 >[!Note]
->Si es un asociado en China y está inscrito en el programa de Microsoft Partner Network y del proveedor de soluciones en la nube (CSP), tendrá un inquilino independiente para cada cuenta. Su cuenta con el programa proveedor de soluciones en la nube se administra en la nube nacional y la cuenta de Microsoft Partner Network se administra en la nube global. Las dos cuentas no se pueden vincular.
+>Si eres un partner de China y estás inscrito en Microsoft Partner Network y en el programa Proveedor de soluciones en la nube (CSP), tendrás un inquilino diferente para cada cuenta. Tu cuenta con el programa Proveedor de soluciones en la nube se administra en la nube nacional y la cuenta de Microsoft Partner Network se administra en la nube global. Las dos cuentas no pueden estar vinculadas.
 
-![Cuéntenos su empresa](images/migration/newtellusabout.png)
+![Háblanos de tu empresa](images/migration/newtellusabout.png)
 
-Una vez que haya comprobado o actualizado la información, seleccione **Aceptar y continuar**.
-Los términos y condiciones de esta página son **exactamente iguales** que el acuerdo que la compañía ya firmó en PMC.  
-Esto iniciará la creación del inquilino de Azure AD y proporcionará la cuenta profesional.
+Una vez que hayas comprobado o actualizado la información, selecciona **Aceptar y continuar**.
+Los términos y condiciones de esta página son **exactamente los mismos** que los del acuerdo que la empresa firmó en PMC.  
+Esta acción inicia la creación del inquilino de Azure AD y te proporciona la cuenta profesional.
 
-La selección de **Aceptar y continuar** también hace lo siguiente:
+Al seleccionar **Aceptar y continuar** también sucede lo siguiente:
 
-• Migra la cuenta junto con todas sus ubicaciones al centro de Partners
+•   Migra tu cuenta junto con todas sus ubicaciones al Centro de partners
 
-• Migra cualquier competencia o mapa que haya adquirido en PMC
+•   Migra todas las competencias o instancias de MAP que has adquirido en PMC
 
-• Migra las ventajas (mapas, plata y oro) que tenía en PMC
+•   Migra todos los beneficios (instancias de MAP, Silver y Gold) que tenías en PMC
 
-## <a name="invite-employees-to-join-you"></a>Invitar a los empleados a unirse a usted
+## <a name="invite-employees-to-join-you"></a>Invitar a empleados a unirse a ti
 
-Cuando se crea el nuevo inquilino de Azure AD, puede invitar a los empleados a que inicien sesión en el centro de Partners.
+Cuando se crea tu nuevo inquilino de Azure AD, puedes invitar a los empleados a iniciar sesión en el Centro de partners.
 
-![Invitar a los empleados](images/migration/invite.png)
+![Invitar a empleados](images/migration/invite.png)
 
 
-Si ha iniciado sesión con un inquilino de AAD existente, los empleados se moverán con usted. En este caso, asigne los roles de los empleados que determinen lo que pueden hacer en el centro de Partners. Nota: los roles del centro de Partners son diferentes de los roles en PMC. Para obtener más información, consulte [pasar de PMC al centro de Partners](move-pmc-pc-map.md).
+Si has iniciado sesión con un inquilino de AAD existente, los empleados se habrán migrado contigo. En este caso, asigna a tus empleados roles que determinen lo que pueden hacer en el Centro de partners. Nota: Los roles del Centro de partners son diferentes de los roles de PMC. Para obtener más información, consulta [Migración de PMC al Centro de partners](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Comprobar el dominio y convertirse en administrador global  
 
-Si el inquilino de AAD es nuevo, nadie tiene asignado el rol de administrador global. Para convertirse en el administrador global, debe comprobar la propiedad del dominio. Es posible que necesite el administrador del dominio para ayudarle con esto. Tenga en cuenta que, aunque puede usar las ofertas que ya ha comprado, no podrá comprar nuevas ofertas hasta que complete el paso de obtener un administrador global. 
+Si el inquilino de AAD es nuevo, no se asigna a nadie el rol de administrador global. Para convertirse en el administrador global, debes comprobar la propiedad del dominio. Es posible que necesites la ayuda del administrador del dominio. Ten en cuenta que, aunque puedes usar las ofertas que ya has comprado, no podrás comprar nuevas ofertas hasta que completes el paso de obtención de un administrador global. 
 
-![Tomar control](images/migration/takecontrol.png)
+![Tomar el control](images/migration/takecontrol.png)
 
-Al seleccionar introducción, verá la siguiente pantalla:
+Al seleccionar Introducción, verás la siguiente pantalla:
 
 ![Comprobar la propiedad del dominio](images/migration/verifytxt.png)
 
-El registrador de dominios ya estará rellenado. Solo el propietario del dominio puede actualizar el archivo DNS, por lo que al copiar y agregar el archivo de texto al registro DNS, podemos comprobar que es el propietario. La actualización tardará unos minutos en realizarse. Tendrá que cerrar la sesión del centro de Partners y volver a iniciar sesión. Su rol se habrá cambiado a administrador global. 
+El registrador de dominios aparecerá rellenado automáticamente. Solo el propietario del dominio puede actualizar el archivo DNS, de modo que al copiar y agregar el archivo de texto al registro DNS, podamos comprobar que eres el propietario. La actualización tardará unos minutos en producirse. Tendrás que cerrar la sesión del Centro de partners y volver a iniciarla. Tu rol habrá cambiado a administrador global. 
 
 
-## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Familiarícese con el panel y el centro de Partners
+## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Familiarízate con el panel y el Centro de partners
 
-Paseo por el panel. Aquí puede administrar su pertenencia, agregar un perfil de negocio para las referencias, inscribirse en el programa proveedor de soluciones en la nube y ver las notificaciones y ofertas relevantes para su empresa en cualquier momento seleccionando **Panel**. También puede administrar incentivos, comprar en Marketplace, registrarse para obtener servicios de comercialización y mucho más.  
+Visita el panel. Aquí puedes administrar tu pertenencia, agregar un perfil de negocio para las referencias, inscribirse en el programa Proveedor de soluciones en la nube, y ver las notificaciones y ofertas importantes para tu empresa en cualquier momento. Para ello, selecciona **Panel**. También puedes administrar incentivos, comprar en Marketplace, registrarte para obtener servicios de comercialización y mucho más.  
 
-![Paseo](images/migration/fre.png)
+![Visítalo](images/migration/fre.png)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
@@ -99,6 +99,6 @@ Paseo por el panel. Aquí puede administrar su pertenencia, agregar un perfil de
 - [Creación del perfil de negocio de una empresa](create-a-marketing-profile.md)
 - [Conexión con los clientes a través de referencias](responding-to-referrals.md)
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Consulte también
 
-- [Guía para la migración de varias empresas de PMC al centro de Partners](move-multiple-companies.md)
+- [Guía para la migración de varias empresas de PMC al Centro de partners](move-multiple-companies.md)

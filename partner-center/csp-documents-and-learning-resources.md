@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, contratos de partners, contratos de clientes, listas de precios, ofertas
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653569"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096521"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del Proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -36,9 +36,9 @@ Revisa los requisitos para convertirse en un partner del programa Proveedor de s
 >[!Note]
 >Si necesitas una carta de negocio que confirme o certifique tu estado como partner aprobado de Microsoft en el programa Proveedor de soluciones en la nube, [ponte en contacto con el soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create) para solicitarla.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Términos de oferta adicionales para el acuerdo de asociado de Microsoft
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Términos adicionales de la oferta del Microsoft Partner Agreement
 
-[Guía de términos de Ofertas complementarias para las suscripciones de servicios en línea y la autorización de canales de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Guía de términos complementarios de la oferta para las suscripciones de servicios en línea y la autorización de canal de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Plantillas de cliente del contrato de Microsoft Cloud
 
@@ -75,4 +75,4 @@ Como partner de CSP, puedes vender una amplia gama de productos, servicios y sol
 
 Para los partners de CSP que usan la API de registro de uso CREST, Microsoft también publica una lista de los Servicios de Azure en CSP en la página **Precios y ofertas**.
 
-Para obtener información sobre las ofertas de Azure Marketplace publicadas por fabricantes de software independientes (ISV), visite la página **Marketplace** en el menú de navegación izquierdo. Actualmente, solo se pueden adquirir los tipos de productos SaaS (software como servicio) en el Centro de partners. Deberá visitar el Azure Portal para adquirir otros tipos de ofertas de Azure Marketplace.
+Para obtener información sobre las ofertas de Azure Marketplace publicadas por fabricantes de software independientes (ISV), visite la página **Marketplace** en el menú de navegación izquierdo. Actualmente, solo se pueden adquirir los tipos de productos SaaS (software como servicio) en el Centro de partners. Deberás visitar Azure Portal para adquirir otros tipos de ofertas de Azure Marketplace.
