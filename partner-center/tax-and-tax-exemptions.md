@@ -1,109 +1,102 @@
 ---
-title: Impuestos y exenciones fiscales | Centro de partners
+title: Taxes and tax exemptions | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+keywords: tax, tax exemption, vat, reseller, billing
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654018"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384869"
 ---
-# <a name="tax-and-tax-exemptions"></a>Impuestos y exenciones fiscales
+# <a name="taxes-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
-**Se aplica a**
+Se aplica a:
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
 
+The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
 
-Dado que Proveedor de soluciones en la nube es un canal de ventas centrado en la reventa de productos de partners, no siempre se necesita que Microsoft cobre impuestos sobre las ventas en las facturas de los partners. Las reglas varían según el país o región. Los partners deben trabajar con su asesor fiscal para archivar las exenciones fiscales correspondientes en función de su ubicación y la de sus clientes. Para marcar la cuenta de revendedor de Microsoft como no gravable, el partner debe enviar los certificados de exención a Microsoft.
+Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
 
-**Exención de impuestos de archivo**
+## <a name="country-and-region-tax-details"></a>Country and region tax details
 
-1.  Busca tu **identificador de Microsoft** en el centro de Partners &gt; **configuración de cuenta** &gt; Perfil de la **organización**.
-2.  Buscar el **identificador de MPN** en el centro de Partners &gt; **configuración de cuenta** &gt; **Perfil de socio comercial**.
-3.  Crea un vale de soporte nuevo. En el menú del centro de Partners, seleccione **solicitudes de servicio** &gt; solicitudes del **centro de Partners** &gt; **nueva solicitud**.
-4.  Rellena el formulario. Para el **Tipo de problema**, elige **No puedo administrar mi perfil**. En la descripción, incluye tu Id. de MPN y de Microsoft.
-5.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
+Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
 
-## <a name="details-by-countryregion"></a>Detalles por país o región
+If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Canadá</td>
-<td><p>La mayoría de revendedores no están exentos de los impuestos de bienes y servicios (GST), impuestos armonizados (HST) e impuestos sobre las ventas de Quebec (QST). Para determinar si reúnes las cualidades para la exención y, si es así, qué documentación tienes que proporcionar a Microsoft, consulta tu asesor fiscal.</p>
-<p>Para una exención del Impuesto Provincial sobre Ventas (PST) de British Columbia (BC), presenta una exención fiscal tal como se describió anteriormente. Proporciona tu número de BC PST o un <em>certificado de exención general</em> completado y firmado.</p></td>
-</tr>
-<tr class="even">
-<td>Unión Europea</td>
-<td><p>En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe estar <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">aceptado como válido</a>.</p>
-<p>Microsoft no admite créditos ni segundas facturaciones. Es por eso que, antes de vender suscripciones, tienes que registrar el número del identificación a efectos de IVA en el Centro de partners.</p>
-<p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
-<ol>
-<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
-<li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
-<li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>Sudáfrica</td>
-<td><p>
-Microsoft aplica ahora el impuesto de valor añadido estándar (IVA) sobre el contenido digital y los servicios adquiridos por los asociados de Sudáfrica. Para excluir el IVA de las facturas y administrarlo, utilice el siguiente procedimiento para actualizar el perfil de facturación de su socio comercial.
-</p>
-<p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
-<ol>
-<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
-<li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
-<li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
-</ol></td>
-</tr>
-<tr class="even">
-<td>Turquía</td>
-<td>
-<p>
-Microsoft aplica ahora el impuesto de valor añadido estándar (IVA) sobre el contenido digital y los servicios adquiridos por los asociados en Turquía. Para excluir el IVA de las facturas y administrarlo, utilice el siguiente procedimiento para actualizar el perfil de facturación de su socio comercial.
-</p>
-<p>Enviar a Microsoft el número de identificación a efectos de IVA</strong></p>
-<ol>
-<li>En el centro de Partners, vaya al menú del centro de Partners &gt; <strong>configuración de cuenta</strong> &gt; Perfil de <strong>facturación de socios comerciales</strong>.</li>
-<li>En la sección <strong>Datos financieros</strong>, selecciona <strong>Actualizar</strong>.</li>
-<li>En el <strong>NIF de la empresa</strong>, especifica el número de identificación a efectos de IVA.</li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td>Estados Unidos</td>
-<td><p>Todos los revendedores en Estados Unidos deben proporcionar la documentación de exención fiscal en un plazo de 30 días desde la aceptación del Contrato de revendedores de Microsoft. Cada estado tiene certificados de exención diferentes para la reventa. Trabaja con tu asesor fiscal para determinar lo que es relevante para tu domicilio legal y los estados registrados.</p>
-<p>Puede incluir los certificados de exención de reventa que funcionan en varios Estados, como por ejemplo <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> o <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</p></td>
-</tr>
-<tr class="even">
-<td>Otros países o regiones que cobran impuestos</td>
-<td><p>Para otras preguntas frecuentes sobre asistencia para la exención y reembolso de impuestos, solicite soporte en el Centro de partners. Deje pasar dos semanas para que Microsoft se ponga en contacto con usted y resuelva el problema.</p></td>
-</tr>
-<tr class="odd">
-<td>Otra documentación fiscal</td>
-<td><p>Los recibos fiscales (para Taiwán o Corea del Sur) o DAF suelen ser necesarios dos semanas tiempo después de generación de facturas.</p>
-<p>Para otras necesidades relacionadas con la documentación fiscal, solicite el servicio desde el Centro de partners.</p></td>
-</tr>
-</tbody>
-</table>
- 
+For additional questions, [request support in Partner Center](#support).
 
- 
+### <a name="canada"></a>Canadá
 
- 
+La mayoría de revendedores no están exentos de los impuestos de bienes y servicios (GST), impuestos armonizados (HST) e impuestos sobre las ventas de Quebec (QST). Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
 
+For a BC PST Exemption, file a tax exemption as described. Proporciona tu número de BC PST o un *certificado de exención general* completado y firmado.
 
+### <a name="european-union"></a>Unión Europea
 
+En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. The VAT number must be accepted as valid.
+
+Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+
+### <a name="south-africa"></a>Sudáfrica
+
+Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+
+### <a name="turkey"></a>Turquía
+
+Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+
+### <a name="united-states"></a>Estados Unidos
+
+Todos los revendedores en Estados Unidos deben proporcionar la documentación de exención fiscal en un plazo de 30 días desde la aceptación del Contrato de revendedores de Microsoft. Cada estado tiene certificados de exención diferentes para la reventa. Trabaja con tu asesor fiscal para determinar lo que es relevante para tu domicilio legal y los estados registrados.
+
+This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+
+### <a name="other-regions"></a>Otras regiones
+
+If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+
+## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+
+Los recibos fiscales (para Taiwán o Corea del Sur) o DAF suelen ser necesarios dos semanas tiempo después de generación de facturas.
+
+## <a name="file-tax-exemptions"></a>Presentar exenciones de impuestos
+
+Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+
+1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
+2. In the **Settings** menu (gear icon), choose **Partner Settings**.
+3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
+4. Note your **Microsoft ID**.
+5. On the same page, choose **Partner profile** in the dashboard menu.
+6. Note your **MPN ID**.
+
+Then, create a support ticket for Microsoft with your tax exemption information:
+
+1. In the dashboard menu, under **Support**, choose **Partner support requests**.
+2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
+3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
+4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
+5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+
+    - Fill out all required fields.
+    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
+    - Include any supporting documentation to your ticket in the attachments field.
+
+6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+
+## <a name="support"></a>Soporte
+
+For other questions about tax exemptions and refunds, request support in Partner Center. Deje pasar dos semanas para que Microsoft se ponga en contacto con usted y resuelva el problema.
+
+For other tax-related documentation needs, please also request service in Partner Center.
