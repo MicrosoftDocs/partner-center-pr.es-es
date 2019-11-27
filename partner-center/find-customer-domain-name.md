@@ -16,14 +16,14 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253627"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a><span data-ttu-id="72404-104">Busque el nombre de dominio y el ID. de directorio de su cliente</span><span class="sxs-lookup"><span data-stu-id="72404-104">Find your customer's domain name and directory ID</span></span>
+# <a name="find-your-customers-domain-name-and-directory-id"></a><span data-ttu-id="5fe2e-104">Busque el nombre de dominio y el ID. de directorio de su cliente</span><span class="sxs-lookup"><span data-stu-id="5fe2e-104">Find your customer's domain name and directory ID</span></span>
 
-<span data-ttu-id="72404-105">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="72404-105">**Applies to**</span></span>
+<span data-ttu-id="5fe2e-105">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="5fe2e-105">**Applies to**</span></span>
 
--  <span data-ttu-id="72404-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="72404-106">Partner Center</span></span>
+-  <span data-ttu-id="5fe2e-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="5fe2e-106">Partner Center</span></span>
 
-1.  <span data-ttu-id="72404-107">Pida a su cliente que abra el [Microsoft Azure portal](https://ms.portal.azure.com/#home) y seleccione **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="72404-107">Ask your customer to open the [Microsoft Azure portal](https://ms.portal.azure.com/#home) and select **Azure Active Directory**.</span></span> 
+1.  <span data-ttu-id="5fe2e-107">Pida a su cliente que abra el [Microsoft Azure portal](https://ms.portal.azure.com/#home) y seleccione **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="5fe2e-107">Ask your customer to open the [Microsoft Azure portal](https://ms.portal.azure.com/#home) and select **Azure Active Directory**.</span></span> 
 
-2.  <span data-ttu-id="72404-108">En la sección **información general** del cliente, el nombre de dominio aparece directamente sobre el nombre de la empresa.</span><span class="sxs-lookup"><span data-stu-id="72404-108">In your customer's **Overview** section, the domain name appears directly above the company name.</span></span>  
+2.  <span data-ttu-id="5fe2e-108">En la sección **información general** del cliente, el nombre de dominio aparece directamente sobre el nombre de la empresa.</span><span class="sxs-lookup"><span data-stu-id="5fe2e-108">In your customer's **Overview** section, the domain name appears directly above the company name.</span></span>  
 
-3.  <span data-ttu-id="72404-109">Seleccione **administrar**y, a continuación, **propiedades** para mostrar el identificador de directorio de la empresa.</span><span class="sxs-lookup"><span data-stu-id="72404-109">Select **Manage**, and then **Properties** to display the company's Directory ID.</span></span>
+3.  <span data-ttu-id="5fe2e-109">Seleccione **administrar**y, a continuación, **propiedades** para mostrar el identificador de directorio de la empresa.</span><span class="sxs-lookup"><span data-stu-id="5fe2e-109">Select **Manage**, and then **Properties** to display the company's Directory ID.</span></span>

@@ -16,19 +16,19 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253612"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a><span data-ttu-id="73c7e-103">Obtener notificaciones de servicio automatizadas con nuestras API</span><span class="sxs-lookup"><span data-stu-id="73c7e-103">Get automated service notifications with our APIs</span></span>
+# <a name="get-automated-service-notifications-with-our-apis"></a><span data-ttu-id="96779-103">Obtener notificaciones de servicio automatizadas con nuestras API</span><span class="sxs-lookup"><span data-stu-id="96779-103">Get automated service notifications with our APIs</span></span>
 
-<span data-ttu-id="73c7e-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="73c7e-104">**Applies to**</span></span>
+<span data-ttu-id="96779-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="96779-104">**Applies to**</span></span>
 
--  <span data-ttu-id="73c7e-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="73c7e-105">Partner Center</span></span>
+-  <span data-ttu-id="96779-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="96779-105">Partner Center</span></span>
 
-<span data-ttu-id="73c7e-106">Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado en tiempo real.</span><span class="sxs-lookup"><span data-stu-id="73c7e-106">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="73c7e-107">Estas API están disponibles públicamente y los partners pueden usarlas en nombre de sus clientes gracias a sus privilegios de administrador delegado.</span><span class="sxs-lookup"><span data-stu-id="73c7e-107">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
+<span data-ttu-id="96779-106">Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar para recuperar el estado del servicio, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado en tiempo real.</span><span class="sxs-lookup"><span data-stu-id="96779-106">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="96779-107">Estas API están disponibles públicamente y los partners pueden usarlas en nombre de sus clientes gracias a sus privilegios de administrador delegado.</span><span class="sxs-lookup"><span data-stu-id="96779-107">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
 
-<span data-ttu-id="73c7e-108">Estas API están disponibles para los desarrolladores:</span><span class="sxs-lookup"><span data-stu-id="73c7e-108">These APIs are available for your developers:</span></span>
+<span data-ttu-id="96779-108">Estas API están disponibles para los desarrolladores:</span><span class="sxs-lookup"><span data-stu-id="96779-108">These APIs are available for your developers:</span></span>
 
-[<span data-ttu-id="73c7e-109">API de comunicaciones de servicio de Office 365</span><span class="sxs-lookup"><span data-stu-id="73c7e-109">Office 365 service communications API</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=616899)
+[<span data-ttu-id="96779-109">API de comunicaciones de servicio de Office 365</span><span class="sxs-lookup"><span data-stu-id="96779-109">Office 365 service communications API</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-<span data-ttu-id="73c7e-110">API de REST de Azure Insights: [código](https://go.microsoft.com/fwlink/p/?LinkId=617299) y [referencia de la API](https://go.microsoft.com/fwlink/p/?LinkId=617300)</span><span class="sxs-lookup"><span data-stu-id="73c7e-110">Azure Insights REST API: [code](https://go.microsoft.com/fwlink/p/?LinkId=617299) and [API reference](https://go.microsoft.com/fwlink/p/?LinkId=617300)</span></span>
+<span data-ttu-id="96779-110">API de REST de Azure Insights: [código](https://go.microsoft.com/fwlink/p/?LinkId=617299) y [referencia de la API](https://go.microsoft.com/fwlink/p/?LinkId=617300)</span><span class="sxs-lookup"><span data-stu-id="96779-110">Azure Insights REST API: [code](https://go.microsoft.com/fwlink/p/?LinkId=617299) and [API reference](https://go.microsoft.com/fwlink/p/?LinkId=617300)</span></span>
 
  
 
