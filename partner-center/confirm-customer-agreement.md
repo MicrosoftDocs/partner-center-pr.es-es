@@ -56,7 +56,7 @@ Los asociados pueden confirmar la aceptación del cliente del acuerdo de cliente
 
 Si creas un nuevo inquilino de cliente en el Centro de partners, sigue los pasos que se describen a continuación para confirmar la aceptación del cliente del Contrato de cliente de Microsoft. Para poder seguir estos pasos, debes ser agente de administración o de ventas.
 
-1. Selecciona **Clientes** y luego **Nuevo cliente**.
+1. Selecciona **Clientes** y, a continuación, **Nuevo cliente**.
 
 2. En **Información de cuenta**, especifica los datos de la empresa y su contacto principal.
 
@@ -90,7 +90,7 @@ Debes ser agente de administración o de ventas para poder hacer esto:
 
 Sigue los pasos que se describen a continuación para recuperar la confirmación de que un cliente existente ha aceptado el Contrato de cliente de Microsoft. Debes ser agente de administración o agente de ventas para poder hacer esto.
 
-1. Selecciona **Clientes**y, a continuación, busca y selecciona el cliente que quieras ver.
+1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
 
 2. Selecciona **Información de cuenta**.
 

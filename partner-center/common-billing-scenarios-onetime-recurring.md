@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for one-time and select recurring purchases | Partner Center
+title: Escenarios comunes de facturación para una sola vez y seleccione compras periódicas | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for one-time and select recurring purchases (such as purchasing subscriptions, adding more subscriptions, adding and removing seats).
+description: Escenarios de facturación comunes en el centro de partners para una sola vez y seleccione compras periódicas (por ejemplo, suscripciones de compra, agregando más suscripciones, agregando y quitando puestos).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
 ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389643"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>One-time and select recurring purchase billing scenarios
+# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Una vez y seleccione los escenarios de facturación de compra periódica
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to [one-time and select recurring charges](one-time-and-recurring-billing.md) in Partner Center.
+Estos ejemplos de [escenarios de facturación comunes](common-billing-scenarios.md) se aplican a [una sola vez y seleccionan cargos periódicos](one-time-and-recurring-billing.md) en el centro de Partners.
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Purchase a subscription and add a seat on the same day
+## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Comprar una suscripción y agregar un puesto en el mismo día
 
 En el escenario 1, compras una suscripción el 11 de junio a un precio unitario de 4 USD. Más adelante el mismo día, compras otra unidad de la misma suscripción al mismo precio.
 
@@ -35,7 +35,7 @@ El archivo de conciliación incluirá lo siguiente:
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |1        | -4 USD       |addQuantity           |
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        | 2      |8 USD         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Purchase a subscription and add more subscriptions later
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Comprar una suscripción y agregar más suscripciones más adelante
 
 En el escenario 2, compras una suscripción el 11 de junio a un precio unitario de 4 USD y el 12 de junio compras otra suscripción del mismo producto al mismo precio.
 
@@ -51,7 +51,7 @@ El archivo de conciliación incluirá lo siguiente:
 |12/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |1        | -3,87 USD       |addQuantity           |
 |12/6/2019     | 10/6/2019    |09/7/2019        |4 USD        | 2      |7,74 USD       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Purchase a subscription and remove a seat on the same day
+## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Comprar una suscripción y quitar un puesto en el mismo día
 
 En el escenario 3, compras dos suscripciones del mismo producto el 11 de junio a un precio unitario de 4 USD. Más adelante el mismo día, quitas uno de los puestos.  
 
@@ -67,7 +67,7 @@ El archivo de conciliación incluirá lo siguiente:
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |2        | -8 USD       |removeQuantity           |
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        | 1      |4 USD         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Purchase a subscription and remove seats later
+## <a name="purchase-a-subscription-and-remove-seats-later"></a>Compre una suscripción y quite puestos más adelante
 
 En el escenario 4, compras 2 suscripciones el 11 de junio a un precio unitario de 4 USD y el 12 de junio quitas uno de los puestos.
 

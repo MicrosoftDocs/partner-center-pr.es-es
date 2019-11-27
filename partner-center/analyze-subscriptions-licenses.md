@@ -3,7 +3,7 @@ title: Analizar suscripciones y licencias | Centro de partners
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Obtenga información sobre cómo usar las métricas en la página de análisis de licencias y suscripción para identificar sus éxitos y áreas que requieren más atención.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -47,27 +47,27 @@ Estamos siguiendo estas métricas:
  - **Suscripciones activas**: suscripciones en las que el estado es **Activo**  
  - **Suscripciones suspendidas**: recuento de suscripciones suspendidas, sin filtro de fecha  
 
-**Product breakdown**  
+**Desglose del producto**  
  - **Recuento de suscripciones**: los 5 mejores productos ordenados por suscripciones vendidas  
  - **Recuento de licencias**: los 5 mejores productos ordenados licencias vendidas
 
-**Subscription Retention**
+**Retención de suscripción**
  - **Suscripciones renovadas**: suscripciones que se han renovado en los últimos 30 días  
 
-**Subscription churn**  
+**Renovación de suscripción**  
  - **Nuevas suscripciones**: número de nuevas suscripciones durante el período de tiempo, excepto las ofertas de prueba  
  - **Suscripciones dadas de baja**: recuento de suscripciones dadas de baja o suspendidas hasta la fecha  
 
-**Suspended subscriptions**  
+**Suscripciones suspendidas**  
  - Lista de todas las suscripciones con un estado **Suspendido**, excepto las ofertas de prueba  
   
-**Active subscriptions**
+**Suscripciones activas**
  - Lista de todas las suscripciones activas  
 
-**Trial subscription conversions**  
+**Conversiones de suscripciones de prueba**  
  - **Conversión de prueba**: recuento de todas las suscripciones **Activas** en las que se produjo la conversión a pago durante el período de tiempo especificado  
 
-**Trial subscriptions ending in 30 days**  
+**Suscripciones de prueba que acaban en 30 días**  
  - Lista de pruebas que se iniciaron y en las que la fecha de finalización está dentro de los 30 días siguientes y no hay ninguna fecha de inicio de pago asociada a la suscripción  
 
   

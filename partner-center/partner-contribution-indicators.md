@@ -20,65 +20,65 @@ ms.locfileid: "74391684"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
 
-Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365. Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.  Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities. 
+Los indicadores de contribución de asociados (PCI) proporcionan una medida holística del impacto de un asociado en la conducción correcta de los resultados del cliente para Dynamics 365. Los asociados reciben una mayor diferencia en el mercado cuando logran y mantienen la competencia de Business Applications de la nube.  Los asociados reciben crédito por las medidas clave de éxito de los clientes, como las implementaciones correctas y el aumento del uso, y se recompensan por continuar con la inversión en y escalar horizontalmente sus capacidades técnicas. 
 
 ## <a name="scoring"></a>Puntuación
 
-PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance. PCI measures your company’s prior-year performance across seven key indicators:
+PCI proporciona una vista holística y holística de las capacidades técnicas de su empresa, la capacidad de impulsar el éxito de los clientes y el rendimiento de las ventas. PCI mide el rendimiento del año anterior de su empresa en siete indicadores clave:
 
-1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
-2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
-3. **Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.
-4. **Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.
-5. **Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.
-6. **New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.
-7. **Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.
+1. **Ingresos netos nuevos** : ingreso neto nuevo en todos los canales de ventas de productos de Microsoft Dynamics 365.
+2. **Net Customer ADDS** : clientes netos adquiridos para Dynamics 365 en todos los canales de ventas.
+3. **Consultores funcionales** : el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365.
+4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados funcionales de Consultor desde el 31 de marzo de 2020.
+5. **Desarrolladores** : el número de personas que tienen una certificación de asociado de desarrollador actualmente activa para Dynamics 365.
+6. **Nuevas implementaciones de gran tamaño** : número de inquilinos de producción que atraviesan el umbral de uso alto en los últimos 12 meses.
+7. **Crecimiento mensual** de usuarios activos: crecimiento en usuarios activos mensuales en todos los clientes durante los últimos 12 meses.
 
-Points are granted for each achieved indicator, resulting in a single-number PCI score. 100 maximum points are possible. PCI score determines competency eligibility:
+Se conceden puntos para cada indicador logrado, lo que da como resultado una puntuación PCI de un solo número. 100 son posibles puntos máximos. La puntuación de PCI determina la elegibilidad de la competencia:
 
-![PCI scores](images/pcinew1.png)
+![Puntuaciones de PCI](images/pcinew1.png)
 
-Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
+Cada indicador aporta una puntuación que se agrega al total. Estas son las puntuaciones máximas de cada indicador:
 
 
-![pci performance 2](images/pci1.png)
+![rendimiento de PCI 2](images/pci1.png)
 
 ### <a name="thresholds"></a>Umbrales
 
-Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales difieren para Customer Engagement y Finance & Operations. Los umbrales también difieren para los partners que operan en mercados desarrollados frente a los que operan exclusivamente en mercados emergentes. Si un partner tiene uno o más clientes en un mercado desarrollado, se aplican los umbrales de mercado desarrollado. The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales difieren para Customer Engagement y Finance & Operations. Los umbrales también difieren para los partners que operan en mercados desarrollados frente a los que operan exclusivamente en mercados emergentes. Si un partner tiene uno o más clientes en un mercado desarrollado, se aplican los umbrales de mercado desarrollado. La categorización del mercado desarrollada o emergente de un país se basa en las [definiciones de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
 
-Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.
+Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para el compromiso del cliente y las operaciones de finanzas & que se actualizarán mensualmente.
 
 Los partners pueden conseguir los puntos máximos para una métrica determinada si alcanzan o superan los umbrales que se indican a continuación. Se pueden obtener puntos parciales para todas las métricas, excepto para el Crecimiento de consultores funcionales; por ejemplo, un partner de mercado desarrollado con 150 000 USD de ingresos netos nuevos obtendrá la mitad (150 000/300 000 USD) del máximo de 10 puntos.
 
-![customer engagement](images/pci/table_1.png)
+![compromiso del cliente](images/pci/table_1.png)
 
 ![Finanzas](images/pci/TABLE_2.png)
 
-![consultant](images/pci/table_3.png)
+![Consultoría](images/pci/table_3.png)
 
-## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
+## <a name="detailed-definitions-of-pci-metrics"></a>Definiciones detalladas de métricas PCI
 
-![net new revenue](images/net_new1.png)
+![ingresos netos nuevos](images/net_new1.png)
 
-![net customer adds](images/netcustomer.png)
+![clientes de net ADDS](images/netcustomer.png)
 
-![Functional Consultant](images/pci/functional_consultants.png)
+![Consultor funcional](images/pci/functional_consultants.png)
 
-![growth](images/pci/functional_consultant_growth.png)
+![crezca](images/pci/functional_consultant_growth.png)
 
 ![Desarrolladores](images/pci/developers.png)
 
-![New deployments](images/pci/new_large_deployments.png)
+![Nuevas implementaciones](images/pci/new_large_deployments.png)
 
-![active users](images/pci/monthly_active_user_growth.png)
+![usuarios activos](images/pci/monthly_active_user_growth.png)
 
 
 ## <a name="customer-to-partner-association"></a>Asociación de cliente a partner
 
-You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.
+Recibirá crédito por los ingresos netos nuevos, las adiciones de clientes netos, las nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de la métrica, solo si es el proveedor de soluciones en la nube (CSP), el asociado de notificaciones de registro (CPOR), o el socio digital del registro (DPOR) para una suscripción de pago que pertenece al inquilino del cliente.
 
-A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.
+Un asociado se convierte en el CPOR si ha establecido una asociación con un cliente en el nivel de suscripción a través del incentivo de Dynamics 365 [online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) o el servicio Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU).
 
 Un partner se convierte en DPOR si ha establecido una asociación con un cliente en el nivel de suscripción dentro del producto.
 
@@ -90,7 +90,7 @@ Cuando CPOR y DPOR existen para una suscripción determinada, CPOR recibe todos 
 
 ## <a name="additional-resources"></a>Recursos adicionales
 
-Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
+Visite la [colección de recursos de indicadores de contribución de asociados](https://partner.microsoft.com/asset/collection/pci-learn#/) , donde puede encontrar vídeos de aprendizaje detallados, presentaciones, preguntas más frecuentes y hojas de hechos. 
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Crear, suspender o cancelar suscripciones de clientes | Centro de partners
+title: Crear, suspender o cancelar suscripciones de cliente | Centro de partners
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
@@ -32,7 +32,7 @@ ms.locfileid: "74253458"
 
 Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo. Esto incluye productos publicados por Microsoft, así como productos de software como servicio (SaaS) publicados por fabricantes de software independientes (ISV) de terceros en el [Marketplace comercial](https://azuremarketplace.microsoft.com/marketplace). 
 
-Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y Ofertas del Centro de partners.
+Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Centro de partners.
 
 >[!IMPORTANT]
 Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, consulte [comprar productos comerciales de Marketplace](csp-commercial-marketplace-purchase.md).
@@ -47,7 +47,7 @@ Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **bas
 
 4. Para ver solo determinados tipos de suscripciones, haz selecciones en los filtros disponibles:
    - **Publicador**: elija **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace publicados por ISV.
-   - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulta [Preguntas frecuentes sobre nuevas funciones de facturación](faq-about-new-billing-features.md) para obtener información que te ayudará a decidir entre frecuencia de facturación mensual o anual.
+   - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulta [FAQ about new billing features](faq-about-new-billing-features.md) (Preguntas frecuentes sobre las nuevas características de facturación) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
    - **Categoría**: elija **empresa**, **pequeña empresa**o **prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Seleccione las suscripciones de producto que desea comprar para su cliente. Los productos que se ven dependen del tipo de segmento de cliente (educación, gobierno, etc.) y de los filtros aplicados. Es posible que algunas ofertas que se muestran en Marketplace no siempre estén disponibles para un cliente específico o un asociado de CSP específico. Esto puede deberse a:
@@ -149,10 +149,10 @@ Para detener la renovación automática de una suscripción de Marketplace comer
 
 6. Selecciona **Enviar**.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Compre productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-purchase.md)
 - [Administrar productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-manage.md)
-- [Información general de Marketplace comercial](csp-commercial-marketplace-overview.md)
+- [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
 
 

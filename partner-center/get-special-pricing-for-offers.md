@@ -39,7 +39,7 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 
 1.  En el panel de partners, selecciona el icono de engranaje ubicado en la esquina superior derecha de la ventana para abrir **Configuración de la cuenta**.
 2.  En tu **Perfil de partner**, en la sección **Información del programa**, busca **Cualificaciones de revendedor**.
-3.  Si no ves **Cualificaciones de revendedor**, aún no tienes autorización para comprar ofertas especiales.
+3.  Si no ves **Calificaciones de revendedor**, no tienes autorización para comprar ofertas especiales.
 
 ## <a name="check-the-customer-qualifications"></a>Comprobar las calificaciones de cliente
 
@@ -51,7 +51,7 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 
 Una vez que tú y el cliente hayáis cualificado para un programa de oferta especial, sigue los pasos para [agregar una suscripción](create-a-new-subscription.md). En la sección **Catálogo** de la página **Nueva suscripción**, selecciona un sector especializado para ver las ofertas especiales que puedes vender.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Venda las suscripciones de Minecraft: Education Edition a los clientes de educación](minecraft-subscriptions.md)
 

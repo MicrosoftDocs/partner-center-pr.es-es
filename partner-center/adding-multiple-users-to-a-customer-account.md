@@ -43,7 +43,7 @@ Escribe los siguientes datos en el archivo de datos:
 | **Nombre de columna** | **Descripción**                                                              | **Única**                             |
 | Nombre      | Nombre del usuario (campo opcional)                                           | Límite de 50 caracteres                         |
 | Apellidos       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
-| Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | Límite de 50 caracteres                         |
+| `Display name`    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | Límite de 50 caracteres                         |
 | Correo electrónico           | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
 | Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*deje\*vacío \*                        |
 

@@ -1,8 +1,8 @@
 ---
-title: Monthly and annual billing differences | Partner Center
+title: Diferencias de facturación mensuales y anuales | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-Description: Differences between monthly and annual billing cycles in Partner Center.
+Description: Diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
@@ -14,48 +14,48 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389773"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Monthly and annual billing differences
+# <a name="monthly-and-annual-billing-differences"></a>Diferencias de facturación mensuales y anuales
 
 Se aplica a:
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-This topic explains the differences between **monthly billing** and **annual billing** in Partner Center, including benefits and use cases. You have the option to pay for certain Cloud Solution Provider (CSP) subscriptions on a monthly or annual basis.
+En este tema se explican las diferencias entre la **facturación mensual** y la **facturación anual** del centro de Partners, incluidas las ventajas y los casos de uso. Tiene la opción de pagar algunas suscripciones de proveedor de soluciones en la nube (CSP) mensual o anual.
 
 ## <a name="applicability"></a>Aplicabilidad
 
-Most licensed-based subscriptions have the option for either monthly or annual billing option. Las suscripciones basadas en uso solo tienen la opción de facturación mensual.
+La mayoría de las suscripciones basadas en licencia tienen la opción de facturación mensual o anual. Las suscripciones basadas en uso solo tienen la opción de facturación mensual.
 
-Both annual and monthly billing are **per subscription**, ***not* per license**.
+La facturación anual y mensual son **por suscripción**,  ***no* por licencia**.
 
-### <a name="find-subscription-applicability"></a>Find subscription applicability
+### <a name="find-subscription-applicability"></a>Buscar aplicabilidad de suscripción
 
-You can identify the available billing frequencies for each offer by using column J in the offer matrix. You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+Puede identificar las frecuencias de facturación disponibles para cada oferta mediante el uso de la columna J en la matriz de la oferta. Puede encontrar la matriz de la oferta en la sección **Ver ofertas y precios** del centro de Partners.
 
-### <a name="applicable-partners"></a>Applicable partners
+### <a name="applicable-partners"></a>Asociados correspondientes
 
-All partners and partner types can choose monthly or annual billing.
+Todos los asociados y tipos de socios comerciales pueden elegir la facturación mensual o anual.
 
-### <a name="applicable-markets"></a>Applicable markets
+### <a name="applicable-markets"></a>Mercados aplicables
 
-Monthly and annual billing (for applicable offers) are available in all markets where the CSP program is currently available.
+La facturación mensual y anual (para las ofertas correspondientes) están disponibles en todos los mercados en los que el programa CSP está disponible actualmente.
 
-## <a name="change-billing-frequency"></a>Change billing frequency
+## <a name="change-billing-frequency"></a>Cambiar frecuencia de facturación
 
-You can switch between monthly and annual billing at any time. You may want to change your billing frequency if your business needs change.
+Puede cambiar entre facturación mensual y anual en cualquier momento. Puede que desee cambiar la frecuencia de facturación si cambian las necesidades de su empresa.
 
-When you change the billing frequency to annual, the annual term is updated to reflect the date you changed the billing frequency. A new renewal date is also established.
+Cuando se cambia la frecuencia de facturación a anual, el término anual se actualiza para reflejar la fecha en que se cambió la frecuencia de facturación. También se establece una nueva fecha de renovación.
 
-### <a name="monthly-to-annual-billing"></a>Monthly to annual billing
+### <a name="monthly-to-annual-billing"></a>Facturación mensual
 
-Switching from monthly billing to annual billing may be useful if you have numerous subscriptions that are billed monthly. When you switch to annual billing, you can align the subscriptions to a common billing date.
+Cambiar de facturación mensual a facturación anual puede ser útil si tiene varias suscripciones que se facturan mensualmente. Al cambiar a la facturación anual, puede alinear las suscripciones con una fecha de facturación común.
 
-### <a name="annual-to-monthly-billing"></a>Annual to monthly billing
+### <a name="annual-to-monthly-billing"></a>Facturación anual a factura mensual
 
-Switching from annual billing to monthly billing may be useful if you want to adjust your billing dates to those of your individual customers.
+Cambiar de la facturación anual a la facturación mensual puede ser útil si desea ajustar las fechas de facturación a las de sus clientes individuales.
 
-## <a name="annual-billing"></a>Annual billing
+## <a name="annual-billing"></a>Facturación anual
 
 La facturación anual tiene las siguientes ventajas:
 
@@ -64,176 +64,176 @@ La facturación anual tiene las siguientes ventajas:
 - Menor impacto de las fluctuaciones de moneda.
 - Menores costos operativos de facturación.
 
-### <a name="configure-annual-billing"></a>Configure annual billing
+### <a name="configure-annual-billing"></a>Configuración de la facturación anual
 
-If you're planning to switch to annual billing in Partner Center, be sure to consider how your sales motion will be affected. You should inform your team and update your internal processes as necessary. You should also review changes to your invoice and license-based reconciliation file. 
+Si tiene previsto cambiar a la facturación anual del centro de Partners, asegúrese de considerar cómo se verá afectado el movimiento de ventas. Debe informar a su equipo y actualizar los procesos internos según sea necesario. También debe revisar los cambios en la factura y el archivo de conciliación basado en licencias. 
 
-You will also need to [update your APIs for annual billing](#required-api-changes).
+También tendrá que [actualizar las API para la facturación anual](#required-api-changes).
 
-#### <a name="required-api-changes"></a>Required API changes
+#### <a name="required-api-changes"></a>Cambios necesarios de la API
 
 Para sacar partido de la facturación anual hay algunos cambios necesarios en las API.
 
-- [Order.BillingCycle property](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Create an order](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [Propiedad order. BillingCycle](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
+- [Crear un pedido](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
-For more information about Partner Center APIs, see all [Partner Center developer resources and documentation](https://docs.microsoft.com/partner-center/develop/).
+Para obtener más información sobre las API del centro de Partners, consulte todos los [recursos y documentación para desarrolladores del centro de Partners](https://docs.microsoft.com/partner-center/develop/).
 
-## <a name="placing-orders"></a>Placing orders
+## <a name="placing-orders"></a>Realización de pedidos
 
-The billing frequency type, including the annual billing option, is assigned to the **Offer** as an attribute. There is not a unique offer specifically for orders with annual billing. Sin embargo, puedes cambiar el nombre de una oferta con un nombre más descriptivo de cliente para permitir la diferenciación.
+El tipo de frecuencia de facturación, incluida la opción de facturación anual, se asigna a la **oferta** como un atributo. No hay una oferta única específicamente para pedidos con facturación anual. Sin embargo, puedes cambiar el nombre de una oferta con un nombre más descriptivo de cliente para permitir la diferenciación.
 
-### <a name="select-annual-billing"></a>Select annual billing
+### <a name="select-annual-billing"></a>Seleccionar facturación anual
 
-When you add a new subscription, you will be prompted to choose the billing frequency. Puedes elegir la opción de facturación anual en este momento. When you select annual billing,all available offers will be displayed.
+Cuando agregue una nueva suscripción, se le pedirá que elija la frecuencia de facturación. Puedes elegir la opción de facturación anual en este momento. Al seleccionar la facturación anual, se mostrarán todas las ofertas disponibles.
 
-### <a name="billing-time"></a>Billing time
+### <a name="billing-time"></a>Tiempo de facturación
 
-Se te facturará en la siguiente fecha de facturación. For example, if your billing date is the 1st of the month and you purchase an annually billed subscription on October 29, 2019, you will be billed on November 1, 2019. Assuming that you make no license changes, you will be billed again on November 1, 2020. If you make a license change you will receive a credit and rebill on your next billing date.
+Se te facturará en la siguiente fecha de facturación. Por ejemplo, si la fecha de facturación es el día 1 del mes y compra una suscripción facturada anualmente el 29 de octubre de 2019, se le facturará el 1 de noviembre de 2019. Suponiendo que no realiza ningún cambio en la licencia, se le facturará de nuevo el 1 de noviembre de 2020. Si realiza un cambio de licencia, recibirá un crédito y se le refacturará en la siguiente fecha de facturación.
 
-### <a name="annual-renewals"></a>Annual renewals
+### <a name="annual-renewals"></a>Renovaciones anuales
 
-Your subscription renewal date will be twelve months after the service start date. El período de servicio comienza en la fecha en que se crea la suscripción.  For example, a subscription created on January 10, 2019, will be renewed on January 10, 2020.
+La fecha de renovación de la suscripción será de doce meses después de la fecha de inicio del servicio. El período de servicio comienza en la fecha en que se crea la suscripción.  Por ejemplo, una suscripción creada el 10 de enero de 2019, se renovará el 10 de enero de 2020.
 
 Se te enviará una factura en la siguiente fecha de facturación después de la fecha de renovación de la suscripción. Por ejemplo, si compras una suscripción con facturación anual el 15 de enero de 2018 y la fecha de facturación es el 20 de enero, tu suscripción se renovará en 15 de enero de 2019. La renovación se te facturará entonces el 20 de enero de 2019.
 
-### <a name="split-subscription-billing-frequency"></a>Split subscription billing frequency
+### <a name="split-subscription-billing-frequency"></a>Frecuencia de facturación de suscripción dividida
 
-It isn't possible to split a **single subscription** so that one part is billed monthly and the other part is billed annually. The entire subscription must have the same billing frequency (either monthly or annual billing).
+No es posible dividir una **sola suscripción** para que una parte se facture mensualmente y la otra parte se facture anualmente. Toda la suscripción debe tener la misma frecuencia de facturación (facturación mensual o anual).
 
-For customers with **multiple subscriptions** of the same offer, it may be possible to have different billing frequencies per subscription. Hay algunas ofertas que están limitadas a una suscripción por cliente. Si la oferta no está limitada, un cliente puede tener varias suscripciones de la misma oferta con diferentes frecuencias de facturación. Puedes encontrar los detalles de todos los límites y restricciones de las ofertas en la columna I de la matriz de ofertas. You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+En el caso de los clientes con **varias suscripciones** de la misma oferta, puede que sea posible tener diferentes frecuencias de facturación por suscripción. Hay algunas ofertas que están limitadas a una suscripción por cliente. Si la oferta no está limitada, un cliente puede tener varias suscripciones de la misma oferta con diferentes frecuencias de facturación. Puedes encontrar los detalles de todos los límites y restricciones de las ofertas en la columna I de la matriz de ofertas. Puede encontrar la matriz de la oferta en la sección **Ver ofertas y precios** del centro de Partners.
 
-### <a name="free-subscription-period"></a>Free subscription period
+### <a name="free-subscription-period"></a>Período de suscripción gratuito
 
-Subscriptions with annual billing frequency do not receive a free period. The twelve-month paid term begins on the purchase date. Difiere de las suscripciones con frecuencia de facturación mensual que reciben un período gratuito desde la fecha de compra hasta la próxima fecha de facturación.
+Las suscripciones con una frecuencia de facturación anual no reciben un período gratuito. El plazo de pago de doce meses comienza en la fecha de compra. Difiere de las suscripciones con frecuencia de facturación mensual que reciben un período gratuito desde la fecha de compra hasta la próxima fecha de facturación.
 
-### <a name="adding-and-removing-licenses"></a>Adding and removing licenses
+### <a name="adding-and-removing-licenses"></a>Adición y eliminación de licencias
 
 Puedes cambiar la cantidad de licencias de tus suscripciones en cualquier momento. Agregar licencias adicionales no afectará a la frecuencia de facturación.
 
-Puedes agregar o quitar licencias en cualquier momento.  You will receive a credit and prorated rebill on your next billing date after you change the number of licenses.
+Puedes agregar o quitar licencias en cualquier momento.  Recibirá un crédito y una factura prorrateada en la siguiente fecha de facturación después de cambiar el número de licencias.
 
-If your existing subscription has annual billing, it's not possible to add licenses with monthly billing to that subscription. Cuando adquieres una suscripción con facturación anual, cualquier licencia adicional seguirá la misma frecuencia de facturación. Si necesitas después adquirir licencias con facturación mensual, tendrás que adquirir una nueva suscripción.
+Si la suscripción existente tiene una facturación anual, no es posible agregar licencias con facturación mensual a esa suscripción. Cuando adquieres una suscripción con facturación anual, cualquier licencia adicional seguirá la misma frecuencia de facturación. Si necesitas después adquirir licencias con facturación mensual, tendrás que adquirir una nueva suscripción.
 
-### <a name="add-on-offers"></a>Add-on offers
+### <a name="add-on-offers"></a>Ofertas de complementos
 
-La suscripción a complementos tendrá automáticamente la misma frecuencia de facturación que la suscripción principal. Annual billing is available for add-on offers. 
+La suscripción a complementos tendrá automáticamente la misma frecuencia de facturación que la suscripción principal. La facturación anual está disponible para las ofertas de complementos. 
 
-### <a name="cancelling-subscriptions"></a>Cancelling subscriptions
+### <a name="cancelling-subscriptions"></a>Cancelar suscripciones
 
 La directiva de cancelación es la misma para todas las frecuencias de facturación.
 
-For annual billing, if the subscription is cancelled in the first 30 days of the twelve-month paid term you will receive a 100 percent credit on your next billing date. If the subscription is cancelled after 30 days of the twelve-month paid term you will receive a prorated credit on your next billing date.
+En el caso de la facturación anual, si la suscripción se cancela en los 30 primeros días del plazo de pago de doce meses, recibirá un crédito del 100 por ciento en la siguiente fecha de facturación. Si se cancela la suscripción después de 30 días del plazo de pago de doce meses, recibirá un crédito prorrateado en la siguiente fecha de facturación.
 
-### <a name="moving-subscriptions-between-partners"></a>Moving subscriptions between partners
+### <a name="moving-subscriptions-between-partners"></a>Mover suscripciones entre asociados
 
-Customers can't move subscriptions between from one partner to another. Esto se aplica a las suscripciones facturadas mensualmente y anualmente.
+Los clientes no pueden trasladar las suscripciones entre de un asociado a otro. Esto se aplica a las suscripciones facturadas mensualmente y anualmente.
 
-El nuevo partner debe adquirir una nueva suscripción en nombre del cliente. It's not possible to move subscriptions between partners.
+El nuevo partner debe adquirir una nueva suscripción en nombre del cliente. No es posible trasladar suscripciones entre asociados.
 
-### <a name="reactivating-subscriptions"></a>Reactivating subscriptions
+### <a name="reactivating-subscriptions"></a>Reactivación de suscripciones
 
-You can reactivate a subscription for up to 90 days after the suspension date. Recibirás un cargo prorrateado en la siguiente fecha de facturación. La fecha de renovación de la suscripción permanece igual.
+Puede reactivar una suscripción durante un máximo de 90 días después de la fecha de suspensión. Recibirás un cargo prorrateado en la siguiente fecha de facturación. La fecha de renovación de la suscripción permanece igual.
 
 ## <a name="pricing"></a>Precios
 
-### <a name="offer-pricing"></a>Offer pricing
+### <a name="offer-pricing"></a>Precios de la oferta
 
-The offer price at time of purchase is guaranteed for the full billed subscription term (one month for monthly billing, twelve months for annual billing). Cuando se renueve una suscripción, el precio se basará en la lista de precios actual en la fecha de renovación. The new price is guaranteed for the next subscription term.
+El precio de la oferta en el momento de la compra se garantiza para el período de suscripción facturado completo (un mes para la facturación mensual, doce meses para la facturación anual). Cuando se renueve una suscripción, el precio se basará en la lista de precios actual en la fecha de renovación. El nuevo precio se garantiza para el siguiente período de suscripción.
 
-If an offer price decreases during the billing period, the amount you are billed for doesn't change. The price is set for the full billing period at the time of purchase. This applies to both monthly and annual billing.
+Si se reduce el precio de la oferta durante el período de facturación, la cantidad que se factura no cambia. El precio se establece para el período de facturación completo en el momento de la compra. Esto se aplica a la facturación mensual y anual.
 
-### <a name="cancellation-credits"></a>Cancellation credits
+### <a name="cancellation-credits"></a>Créditos de cancelación
 
-Credit for a cancelled license or subscription is calculated as follows:
+El crédito para una licencia cancelada o una suscripción se calcula de la siguiente manera:
 
-**Cancellation credit** = ((**monthly price***12)/365) \* **days remaining in the twelve-month term** \* number of licenses cancelled.
+**Crédito de cancelación** = ((* * precio mensual * * * 12)/365) \* **días restantes del período de doce meses** \* número de licencias canceladas.
 
-## <a name="reconciliation-file"></a>Reconciliation file
+## <a name="reconciliation-file"></a>Archivo de conciliación
 
-### <a name="find-subscriptions-billing-frequency"></a>Find subscription's billing frequency
+### <a name="find-subscriptions-billing-frequency"></a>Buscar la frecuencia de facturación de la suscripción
 
-Review your license-based reconciliation file for information on whether your subscription is billed monthly or annually. This information is in column **AA**.
+Revise el archivo de conciliación basado en licencia para obtener información sobre si su suscripción se factura mensualmente o anualmente. Esta información está en la columna **AA**.
 
-To find out whether you can change a monthly subscription to annual billing, see [Find subscription applicability](#find-subscription-applicability).
+Para averiguar si puede cambiar una suscripción mensual a facturación anual, consulte [Find subscription aplicabilidad](#find-subscription-applicability).
 
-### <a name="reconciliation-file-changes-for-annual-billing"></a>Reconciliation file changes for annual billing
+### <a name="reconciliation-file-changes-for-annual-billing"></a>Cambios en el archivo de conciliación para la facturación anual
 
-When you purchase or renew a subscription with annual billing, your license-based reconciliation file will change as follows.
+Al comprar o renovar una suscripción con una facturación anual, el archivo de conciliación basado en licencias cambiará como se indica a continuación.
 
-A new row on the license-based reconciliation file on the first billing date following the purchase or a new subscription.
+Una nueva fila en el archivo de conciliación basada en licencias en la primera fecha de facturación después de la compra o una nueva suscripción.
 
-Si no se realizan cambios en la suscripción, no aparecerán filas en los archivos de conciliación de los meses del dos al doce del período de suscripción. If a change is made to the subscription during the twelve-month term, a credit and prorated rebill will appear on the next reconciliation file after the change is made.
+Si no se realizan cambios en la suscripción, no aparecerán filas en los archivos de conciliación de los meses del dos al doce del período de suscripción. Si se realiza un cambio en la suscripción durante el período de doce meses, aparecerá un crédito y una factura prorrateada en el siguiente archivo de conciliación después de realizar el cambio.
 
-The next change to the reconciliation file will appear when the subscription is renewed. Esto aparecerá en la primera fecha de facturación después de la renovación.
+El siguiente cambio en el archivo de conciliación aparecerá cuando se renueve la suscripción. Esto aparecerá en la primera fecha de facturación después de la renovación.
 
-### <a name="usage-file-changes-for-annual-billing"></a>Usage file changes for annual billing
+### <a name="usage-file-changes-for-annual-billing"></a>Cambios en el archivo de uso para la facturación anual
 
-The following annually billed subscription changes appear in column P of your usage file.
+Los siguientes cambios de suscripción facturados anualmente aparecen en la columna P del archivo de uso.
 
-- **Prorate Fees When Purchase**: the initial purchase of an annual subscription.
-- **Cycle Instance Prorate**: license changes that result in credit and rebilling.
-- **Cancel Fee**: the [cancellation of an annual subscription](#cancellation-of-annual-subscription).
+- **Tarifas de prorrateo al comprar**: la compra inicial de una suscripción anual.
+- **Protasa de instancia de ciclo**: cambios de licencia que dan como resultado un crédito y una refacturación.
+- **Cancelar cuota**: [cancelación de una suscripción anual](#cancellation-of-annual-subscription).
 
-### <a name="cancellation-of-annual-subscription"></a>Cancellation of annual subscription
+### <a name="cancellation-of-annual-subscription"></a>Cancelación de la suscripción anual
 
-When an annually billed subscription is cancelled, the reconciliation file will contain one line item for a cancellation credit.
+Cuando se cancela una suscripción facturada anualmente, el archivo de conciliación contendrá un elemento de línea para un crédito de cancelación.
 
-If the cancellation occurs in the first 30 days of the twelve-month term, the subscription will be credited at 100 percent. Si la cancelación se produce después de los primeros 30 días, la suscripción se abonará de forma prorrateada.
+Si se produce la cancelación en los primeros 30 días del período de doce meses, la suscripción se abonará en el 100 por ciento. Si la cancelación se produce después de los primeros 30 días, la suscripción será abonada de forma prorrateada.
 
-### <a name="adding-licenses-to-annual-subscription"></a>Adding licenses to annual subscription
+### <a name="adding-licenses-to-annual-subscription"></a>Agregar licencias a la suscripción anual
 
-When you add licenses to a subscription, the reconciliation file will contain a credit and prorated rebill. This applies to monthly and annually billed subscriptions.
+Al agregar licencias a una suscripción, el archivo de conciliación contendrá un crédito y una factura prorrateada. Esto se aplica a las suscripciones facturadas mensualmente y anualmente.
 
-### <a name="price-lists-for-annual-billing"></a>Price lists for annual billing
+### <a name="price-lists-for-annual-billing"></a>Listas de precios para la facturación anual
 
-Partner Center price lists show the monthly prices. There is no annual price listed. El precio anual se puede calcular multiplicando el precio mensual por doce.
+Las listas de precios del centro de Partners muestran los precios mensuales. No se muestra ningún precio anual. El precio anual se puede calcular multiplicando el precio mensual por doce.
 
-### <a name="offer-matrix"></a>Offer matrix
+### <a name="offer-matrix"></a>Matriz de la oferta
 
-Offer IDs in the offer matrix are the same for all billing frequencies. There are no unique IDs for offers that can be billed annually.
+Los identificadores de oferta de la matriz de la oferta son los mismos para todas las frecuencias de facturación. No hay identificadores únicos para las ofertas que se pueden facturar anualmente.
 
 ## <a name="incentives"></a>Incentivos
 
-### <a name="incentives-calculation"></a>Incentives calculation
+### <a name="incentives-calculation"></a>Cálculo de incentivos
 
-Incentives are calculated based on **billed revenue**, ***not* adjusted revenue**. Los pagos de los incentivos ganados serán acordes con nuestra directiva que se encuentran en nuestras guías de incentivos de CSP.
+Los incentivos se calculan en función de los **ingresos facturados**, ***no*** de los ingresos. Los pagos de los incentivos ganados serán acordes con nuestra directiva que se encuentran en nuestras guías de incentivos de CSP.
 
-When an annually billed subscription is sold, that subscription's revenue is recognized for the calculation of incentives based on billed revenue.
+Cuando se vende una suscripción facturada anualmente, se reconocen los ingresos de la suscripción para el cálculo de los incentivos en función de los ingresos facturados.
 
 ### <a name="payout"></a>Pago
 
-Currently, all incentive payments are made twice a year. Los pagos se realizan 45 días después del final de cada semestre.
+Actualmente, todos los pagos de incentivos se realizan dos veces al año. Los pagos se realizan 45 días después del final de cada semestre.
 
 ### <a name="rates"></a>Tarifas
 
-Partners earn incentives on all eligible transactions, regardless of how a subscription is billed. Incentive earnings are calculated based on the global incentive rate (which is applied to the billed revenue for the period), the local accelerator (for all geographies in which there are local accelerators), and any global campaigns (where applicable).
+Los asociados obtienen incentivos en todas las transacciones válidas, independientemente de cómo se facture una suscripción. Los beneficios de incentivos se calculan en función de la tasa de estímulo global (que se aplica a los ingresos facturados durante el período), el acelerador local (para todas las zonas geográficas en las que hay aceleradores locales) y cualquier campaña global (si procede).
 
 ### <a name="contacts"></a>Contactos
 
-For questions about incentives, contact the appropriate regional incentives support team:
+Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-| Región | Dirección de correo electrónico |
+| Region | Dirección de correo electrónico |
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
-|Latin America & Brazil | <ocilatam@microsoft.com> |
-| EMEA | <ociemea@microsoft.com> |
-| APOAC (excluding Japan) | <ociapgc@microsoft.com> |
+|América Latina & Brasil | <ocilatam@microsoft.com> |
+| Obtenido | <ociemea@microsoft.com> |
+| APOAC (excepto Japón) | <ociapgc@microsoft.com> |
 | Japón | <ocijp@microsoft.com> |
 
 
-### <a name="suspension"></a>Suspension
+### <a name="suspension"></a>Suspensivo
 
-If you suspend an subscription (in Partner Center or through the APIs) within 30 days of purchase, you will receive a 100% credit, regardless of billing frequency.
+Si suspende una suscripción (en el centro de Partners o a través de las API) en un plazo de 30 días a partir de la compra, recibirá un crédito del 100%, independientemente de la frecuencia de facturación.
 
-For annual billing:
+Para la facturación anual:
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to December 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to December 31st.
-3. The reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to December 31st.
+1. El socio compra la suscripción el 1 de enero. Se crea una línea de facturación de cargos para el período de servicio del 1 de enero al 31 de diciembre.
+2. El socio suspende la suscripción el 25 de enero. Se crea una línea de facturación de crédito para el período de servicio del 1 de enero al 31 de diciembre.
+3. El vuelve a activar la suscripción el 29 de enero. Se crea una línea de facturación de cargos para el período de servicio del 29 de enero al 31 de diciembre.
 
-For monthly billing:
+Para facturación mensual:
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to January 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to January 31st.
-3. The partner reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to January 31st.
+1. El socio compra la suscripción el 1 de enero. Se crea una línea de facturación de cargos para el período de servicio del 1 de enero al 31 de enero.
+2. El socio suspende la suscripción el 25 de enero. Se crea una línea de facturación de crédito para el período de servicio del 1 de enero al 31 de enero.
+3. El asociado vuelve a activar la suscripción el 29 de enero. Se crea una línea de facturación de cargos para el período de servicio del 29 de enero al 31 de enero.

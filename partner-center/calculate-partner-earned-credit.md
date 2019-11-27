@@ -28,7 +28,7 @@ Los asociados que poseen la administración de operaciones de ti ininterrumpida 
 
 - El proveedor indirecto será válido para PEC si su revendedor indirecto o el revendedor indirecto, o ambos, tienen control operativo y administración ininterrumpida de los recursos de Azure del cliente en CSP.
 
-- PEC está asociado al consumo facturado (facturable) de la entidad de Azure del cliente en el CSP administrado por el asociado. 
+- El valor de PEC está asociado al consumo facturado (de pago) de los servicios de Azure del cliente en CSP y que administra el partner. 
 
 - PEC solo está disponible para los asociados de CSP que se facturan por Microsoft (proveedor indirecto y socio de facturación directo).
 

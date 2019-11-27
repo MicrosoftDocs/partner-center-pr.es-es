@@ -31,7 +31,7 @@ Una de las primeras cosas que puedes hacer si un cliente está experimentando pr
 
 2.  Podrás ver mostrados todos los servicios, junto con indicaciones si alguno no estuviera en buen estado. 
 
-Durante las interrupciones del servicio, Microsoft proporciona actualizaciones periódicas mientras se trabaja para solucionar el problema. La mejor manera de ver estas actualizaciones es desde el **centro de notificaciones** del centro de Partners. Estas notificaciones también se muestran en el portal de Microsoft Azure o en el Centro de administración de Office 395, según corresponda.
+Durante una interrupción del servicio, Microsoft proporciona actualizaciones periódicas mientras trabaja para solucionar el problema. La mejor manera de ver estas actualizaciones es desde el **centro de notificaciones** del centro de Partners. Estas notificaciones también se muestran en el portal de Microsoft Azure o en el Centro de administración de Office 395, según corresponda.
 
 Si el problema persiste después de finalizar la interrupción del servicio, envía una solicitud de servicio. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
 

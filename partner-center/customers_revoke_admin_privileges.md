@@ -33,7 +33,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
     >[!IMPORTANT]
     >Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. 
     
-3.  Seleccione **listo** cuando haya completado este paso.
+3.  Selecciona **Listo** cuando hayas completado este paso.
 
 4.  Envía el correo electrónico a tu cliente.
 

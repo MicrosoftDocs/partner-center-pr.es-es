@@ -1,8 +1,8 @@
 ---
-title: Use your reconciliation files | Partner Center
+title: Usar los archivos de conciliación | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Use your reconciliation files to understand detailed line-item views of Partner Center charges.
+description: Use los archivos de conciliación para comprender las vistas detalladas de elementos de línea de los cargos del centro de Partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
@@ -16,80 +16,80 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384803"
 ---
-# <a name="use-your-reconciliation-files"></a>Use your reconciliation files
+# <a name="use-your-reconciliation-files"></a>Usar los archivos de conciliación
 
 Se aplica a:
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-You can download your reconciliation files from Partner Center for a detailed, line-item view of each charge in a billing cycle. Line-item details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de puestos a mediados de puestos a una suscripción).
 
-Appropriate roles:
+Roles adecuados:
 
 - Administrador de facturación
 - Administrador global
 
-For information on how to read your **invoice**, see [Read your bill](read-your-bill.md).
+Para obtener información sobre cómo leer la **factura**, consulte [leer su](read-your-bill.md)factura.
 
-## <a name="understand-reconciliation-file-fields"></a>Understand reconciliation file fields
+## <a name="understand-reconciliation-file-fields"></a>Descripción de los campos de archivo de conciliación
 
-- [License-based reconciliation file fields](license-based-recon-files.md)
-- [Usage-based reconciliation file fields](usage-based-recon-files.md)
-- [One-time and recurring reconciliation file fields](one-time-recurring-recon-files.md)
-- [Daily-rated usage reconciliation file fields](daily-rated-usage-recon-files.md)
+- [Campos de archivos de conciliación basados en licencias](license-based-recon-files.md)
+- [Campos de archivos de conciliación basados en el uso](usage-based-recon-files.md)
+- [Campos de archivo de conciliación único y periódico](one-time-recurring-recon-files.md)
+- [Campos de archivo de conciliación de uso con clasificación diaria](daily-rated-usage-recon-files.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Understand charge types in reconciliation files
+## <a name="understand-charge-types-in-reconciliation-files"></a>Descripción de los tipos de carga en los archivos de conciliación
 
-To understand the types of charges in reconciliation files (the **ChargeType** column), see [Reconciliation file charge types](recon-file-charge-types.md).
+Para comprender los tipos de cargos de los archivos de conciliación (la columna **ChargeType** ), vea [reconciliar tipos de cargos de archivo](recon-file-charge-types.md).
 
-## <a name="fix-formatting-issues"></a>Fix formatting issues
+## <a name="fix-formatting-issues"></a>Corregir problemas de formato
 
-Occasionally, a reconciliation file might contain formatting issues. For example, this issue might occur if the en-US locale is not used.
+En ocasiones, un archivo de conciliación puede contener problemas de formato. Por ejemplo, este problema podría producirse si no se utiliza la configuración regional en-US.
 
-Follow these steps for fix any formatting issues in your reconciliation files:
+Siga estos pasos para corregir los problemas de formato en los archivos de conciliación:
 
-1. Open the reconciliation file (in .csv format) in Microsoft Excel.
-2. Select the first column in the file.
-3. Open the **Convert Text to Columns Wizard**. On the ribbon, select **Data**, then select **Text to Columns**.
-4. In the wizard, select **Delimited file type**. Then, select **Next**.
-5. In the **Delimiters** field, select **Comma**. (If **Tab** is already selected, you can leave this option selected.) Then, select **Next**.
-6. In the **Column data format** field, select **Date:MDY**. Then, select **Next**.
-7. In the **Column data format** field, select **Text** for all amount columns. Then, select **Finish**.
+1. Abra el archivo de conciliación (en formato. csv) en Microsoft Excel.
+2. Seleccione la primera columna del archivo.
+3. Abra el **Asistente para convertir texto en columnas**. En la cinta de opciones, seleccione **datos**y, a continuación, seleccione **texto en columnas**.
+4. En el asistente, seleccione **tipo de archivo delimitado**. A continuación, seleccione **siguiente**.
+5. En el campo **delimitadores** , seleccione **coma**. (Si la **pestaña** ya está seleccionada, puede dejar esta opción seleccionada). A continuación, seleccione **siguiente**.
+6. En el campo **formato de datos de columna** , seleccione **Fecha: MDA**. A continuación, seleccione **siguiente**.
+7. En el campo **formato de datos de columna** , seleccione **texto** para todas las columnas de importe. A continuación, seleccione **Finalizar**.
 
-## <a name="download-reconciliation-files-programmatically"></a>Download reconciliation files programmatically
+## <a name="download-reconciliation-files-programmatically"></a>Descargar archivos de conciliación mediante programación
 
-Reconciliation files can be very large and are sometimes difficult to download. To download reconciliation files programmatically, see [Get invoice line items](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+Los archivos de conciliación pueden ser muy grandes y a veces son difíciles de descargar. Para descargar los archivos de conciliación mediante programación, vea [obtener artículos de línea de factura](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
 
-## <a name="map-taxes-or-vat"></a>Map taxes or VAT
+## <a name="map-taxes-or-vat"></a>Impuestos de mapa o IVA
 
-To map Taxes or value-added tax (VAT) to your invoice:
+Para asignar impuestos o impuestos sobre el valor añadido (IVA) a la factura:
 
-- Sum the **Tax** column from the license-based file.
-- Sum the **TaxAmount** column from the usage-based file.
+- Sume la columna **Tax** del archivo basado en licencia.
+- Sume la columna **TaxAmount** del archivo basado en el uso.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Itemize reconciliation files by partner
+## <a name="itemize-reconciliation-files-by-partner"></a>Elemento de conciliación de elementos por asociado
 
-Partners in the **indirect model** can use these additional fields in both license-based and usage-based reconciliation files to itemize the files by reseller.
+Los asociados en el **modelo indirecto** pueden utilizar estos campos adicionales en los archivos de conciliación basados en la licencia y en el uso para que los revendan los archivos.
 
 | Id. de MPN | Descripción |
 | ------ | ----------- |
-| Id. de MPN | The Microsoft Partner Network (MPN) identifier of the Cloud Solution Provider (CSP) partner (direct or indirect). |
-| [Reseller MPN ID](#reseller-mpn-id) | The [MPN identifier of the reseller of record for the subscription](#reseller-mpn-id). This field corresponds to the reseller ID listed for the specific subscription in Partner Center. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
+| Id. de MPN | Identificador Microsoft Partner Network (MPN) del asociado del proveedor de soluciones en la nube (CSP) (directo o indirecto). |
+| [ID. de revendedor MPN](#reseller-mpn-id) | [Identificador de MPN del distribuidor de registro de la suscripción](#reseller-mpn-id). Este campo corresponde al ID. de distribuidor que se muestra para la suscripción específica del centro de Partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
 
 ### <a name="reseller-mpn-id"></a>Id. de MPN del revendedor
 
-If a CSP partner sold the subscription directly to the customer, their **MPN ID** is listed twice, as both the **MPN ID** and the **Reseller MPN ID**.
+Si un asociado de CSP vendió la suscripción directamente al cliente, su **identificador de MPN** aparece dos veces, como el **identificador de MPN** y el ID. de **MPN del reseller**.
 
-If a CSP partner has a reseller with no **MPN ID**, this value is set to the partner's **MPN ID** instead.
+Si un asociado de CSP tiene un revendedor sin **identificador de MPN**, este valor se establece en el **identificador de MPN** del asociado en su lugar.
 
-If the CSP partner removes a **Reseller MPN ID**, this value will be set to *-1*.
+Si el asociado de CSP quita un ID. de **revendedor de MPN**, este valor se establecerá en *-1*.
 
-To view or update the **Reseller MPN ID**:
+Para ver o actualizar el **ID. de revendedor MPN**:
 
 1. Inicia sesión en el Centro de partners.
 2. En el menú del Centro de partners, selecciona **Clientes**.
 3. Elige el cliente de la lista.
-4. In the customer menu, select **Subscriptions**.
-5. Choose the subscription from the list.
+4. En el menú del cliente, seleccione **suscripciones**.
+5. Elija la suscripción de la lista.
 6. Selecciona **Actualizar** para cambiar el valor de **Revendedor (id. de MPN)** .

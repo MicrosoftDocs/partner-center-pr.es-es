@@ -1,12 +1,12 @@
 ---
-title: Common monthly billing scenarios | Partner Center
+title: Escenarios comunes de facturación mensual | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Common scenarios in Partner Center when you use monthly billing (such as adding new subscriptions, changing license quantity, and suspending subscriptions.)
+description: Escenarios comunes en el centro de Partners cuando se usa la facturación mensual (como agregar nuevas suscripciones, cambiar la cantidad de licencias y suspender suscripciones).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, monthly billing, subscriptions, reconciliation file
+Keywords: facturación, pagos, pedidos, uso, facturación mensual, suscripciones, archivo de conciliación
 ms.localizationpriority: medium
 ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389623"
 ---
-# <a name="monthly-billing-scenarios"></a>Monthly billing scenarios
+# <a name="monthly-billing-scenarios"></a>Escenarios de facturación mensuales
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use monthly billing in Partner Center.
+Estos ejemplos de [escenarios de facturación comunes](common-billing-scenarios.md) son aplicables si usa la facturación mensual en el centro de Partners.
 
-## <a name="new-monthly-subscription"></a>New monthly subscription
+## <a name="new-monthly-subscription"></a>Nueva suscripción mensual
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 
@@ -33,7 +33,7 @@ El 15 de febrero el archivo de conciliación basado en licencia contendrá la si
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/2/2018         |12/3/2018    |Tarifa de ciclo   |4,00       |1        |4,00 |
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Cambiar la cantidad de licencias
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 
@@ -60,7 +60,7 @@ Hay 12 días en el período de prorrateo 1/2/2018 – 12/2/2018.
 
 Precio unitario de prorrateo = 1,54 = 12 x 0,129
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Suspender antes de 30 días
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 
@@ -68,13 +68,13 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13/1/2018         |12/2/2018    |Tarifa de ciclo   |4,00       |1        |4,00    |
 
-On February 1 you suspend a subscription. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
+El 1 de febrero suspende una suscripción. El 15 de febrero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 
 |Fecha de inicio de cargo |Fecha de fin de cargo |Tipo de cargo |Precio unitario |Cantidad |Volumen |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Suspender después de 30 días
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación mensual. El 15 de enero el archivo de conciliación basado en licencia contendrá las siguientes líneas de facturación:
 
@@ -100,4 +100,4 @@ Precio unitario = días en período de servicio x precio diario x número de lic
 
 Hay 12 días en el período de cancelación 1/3/2018 – 12/3/2018.
 
-Therefore, the unit price = -1.716 (12 x 0.143 x (-1)).
+Por lo tanto, el precio por unidad =-1,716 (12 x 0,143 x (-1)).

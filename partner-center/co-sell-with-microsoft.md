@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir Engagements, invitar a Microsoft a colaborar o ver las negociaciones enviadas.
 author: JnHs
 ms.author: jenhayes
-keywords: referencia, RFI, Buscar un partner
+keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628

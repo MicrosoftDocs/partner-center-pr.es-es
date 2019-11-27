@@ -35,7 +35,7 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
     | **No**   | **Para**    |
     |:-----------------------------|:-----------------|
-    | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **NOTA** Selecciona **Reembolso** para crear una solicitud de soporte para un reembolso prorrateado. Selecciona **Exchange** para crear una solicitud de soporte para intercambiar la parte no usada del término de reserva.  
+    | **Introducción**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **NOTA** Selecciona **Reembolso** para crear una solicitud de soporte para un reembolso prorrateado. Selecciona **Exchange** para crear una solicitud de soporte para intercambiar la parte no usada del término de reserva.  
     | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **NOTA** El departamento de soporte puede solicitarle el id. de reserva y el id. del pedido de reserva al solicitar soporte en nombre de un cliente.    |
@@ -57,9 +57,9 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Pondrá**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100%       | No                              | $50.000 USD   |
-|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
-|Más de 5                        | No          | Prorrateado  | 305                             | $50.000 USD   |
+|5 o menos                         | Sin          | 100%       | Sin                              | $50.000 USD   |
+|5 o menos                         | Sí         | Prorrateado  | Sin                              | $50.000 USD   |
+|Más de 5                        | Sin          | Prorrateado  | 305                             | $50.000 USD   |
 |Más de 5                        | Sí         | Prorrateado  | 305                             | $50.000 USD   |
 
 

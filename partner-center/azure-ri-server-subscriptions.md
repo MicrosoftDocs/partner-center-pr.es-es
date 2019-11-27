@@ -51,7 +51,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 -   Azure Databricks reservas unitarias
 
 #### <a name="server-subscriptions"></a>Suscripciones de servidor
--   Windows Server
+-   Windows Server
 -   Cal de Servicios de Escritorio remoto (RDS)
 -   SQL Server
 
@@ -63,7 +63,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 #### <a name="isv-annual-subscriptions"></a>Suscripciones anuales de ISV
 -   Solución VMware de Azure de CloudSimple
 
-## <a name="getting-started"></a>Tareas iniciales
+## <a name="getting-started"></a>Introducción
 
 Para comprender cómo puedes situar las Azure Reservations con tus clientes y que comience su funcionamiento operativo lo antes posible, te recomendamos el enfoque siguiente para revisar los materiales de preparación:
 

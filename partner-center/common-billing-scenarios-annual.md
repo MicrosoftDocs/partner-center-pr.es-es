@@ -2,11 +2,11 @@
 title: Escenarios comunes de facturación | Centro de partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+description: Escenarios de facturación comunes en el centro de partners para la facturación anual (por ejemplo, agregar nuevas suscripciones, agregar licencias antes de la fecha de facturación, cambiar la cantidad de licencias y suspender y reactivar las suscripciones).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: facturación, pagos, pedidos, uso, facturación basada en licencias, fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389633"
 ---
-# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+# <a name="annual-billing-scenarios"></a>Escenarios de facturación anuales
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+Estos ejemplos de [escenarios de facturación comunes](common-billing-scenarios.md) son aplicables si usa la facturación anual en el centro de Partners.
 
-## <a name="new-annual-subscription"></a>New annual subscription
+## <a name="new-annual-subscription"></a>Nueva suscripción anual
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 
@@ -27,11 +27,11 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Tarifas prorrateadas al comprar|48,00|1|48,00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Agregar licencia después de la fecha de aniversario de la suscripción, pero antes de la fecha de facturación
 
 Adquieres una nueva suscripción el 11/02/17 con una licencia por 211,20 USD al año. El aniversario de la suscripción está establecido el día 11 de cada mes. El sistema de facturación de Microsoft crea las siguientes líneas de facturación:
 
-- Cargo de 211,20 USD para el período del 11/02/17 al 10/02/18.
+- Cargo de 211,20 USD para el período del 11/02/17 al 10/02/18.
 
 El 12/02/17 adquieres una segunda licencia. Tu fecha de facturación es el 14/02/17. Se generarán los archivos de factura y de conciliación. El archivo de conciliación contendrá las siguientes líneas de facturación:
 
@@ -41,7 +41,7 @@ El 12/02/17 adquieres una segunda licencia. Tu fecha de facturación es el 14/02
 
 En el aniversario de la suscripción, 11/03/17, el sistema de facturación de Microsoft crea las siguientes líneas de facturación para el aumento de licencias e 12/02/17:
 
-- $211.20 credit for period 2/11/17 – 2/10/18.
+- $211,20 crédito del período 2/11/17 – 2/10/18.
 - Cargo prorrateado de 0,58 USD por licencia para 1 licencia para el período del 11/02/17 al 11/02/17.
 - Cargo prorrateado de 15,62 USD por licencia para 2 licencias para el período del 12/02/17 al 10/03/2017.
 - Cargo prorrateado de 195,00 USD por licencia para 2 licencias para el período del 11/03/2017 al 10/02/2018.
@@ -59,7 +59,7 @@ La próxima fecha de facturación es el 14/03/17 y se generan los archivos de fa
 
 La suscripción se renueva el 11/02/18 por otro período de 12 meses.
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Cambiar la cantidad de licencias
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 
@@ -87,7 +87,7 @@ Hay 346 días en el período de servicio 1/2/2018 – 12/1/2019.
 
 Por lo tanto, el precio unitario = 44,98 (346x0,13x2)
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Suspender antes de 30 días
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 
@@ -101,7 +101,7 @@ El 1 de febrero suspendes la suscripción. El 15 de febrero el archivo de concil
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13/1/2018|12/1/2019|Cuota de cancelación|-48,00|1|-48,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Suspender después de 30 días
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 
@@ -124,7 +124,7 @@ Hay 318 días en el período de servicio 1/3/2018 – 12/1/2019.
 
 Por lo tanto, el precio unitario = 41,34 (318x0,13x1). Dado que es un crédito, el precio unitario es-41,34.
 
-## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+## <a name="suspend-and-reactivate"></a>Suspender y reactivar
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva suscripción con una licencia por 4 USD al mes y seleccionas facturación anual. El 15 de enero el archivo de conciliación basado en licencia contendrá la siguiente línea de facturación:
 

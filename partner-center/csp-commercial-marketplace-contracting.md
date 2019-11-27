@@ -47,7 +47,7 @@ Para obtener más información acerca de los términos que rigen las actividades
   
 Microsoft no acepta la responsabilidad legal de la entrega de servicios entre las entidades transaccionales y no proporciona un mecanismo para que los socios comerciales establezcan términos legales a través de su plataforma de comercio. Si los asociados de la transacción requieren términos legales adicionales, tendrán que ejecutar un acuerdo directamente.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Compatibilidad con productos comerciales de Marketplace](csp-commercial-marketplace-support.md)
 - [Información general de las actividades de Marketplace comercial de CSP](csp-commercial-marketplace-overview.md)

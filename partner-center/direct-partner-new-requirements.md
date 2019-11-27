@@ -52,7 +52,7 @@ Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscrib
 
 Si decide pasar de un negocio de facturación directo a un negocio de revendedor indirecto, debe realizar varios pasos. Para obtener más información sobre la transición, lea [transición de un asociado directo del proveedor de soluciones en la nube (CSP) a un revendedor indirecto de CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 - [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Preguntas más frecuentes sobre el revendedor directo de facturación](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

@@ -25,7 +25,7 @@ Los socios de Microsoft ahora pueden vender soluciones de nube de Microsoft y se
 
 Microsoft Cloud for US Government proporciona una instancia privada, dedicada y aislada de Microsoft Azure, que satisface las necesidades de seguridad, privacidad y requisitos de cumplimiento en materia de datos del gobierno de los Estados Unidos. Tu empresa debe cumplir los requisitos de elegibilidad de Microsoft para participar en el programa CSP para Microsoft Cloud for US Government. Para obtener más información, consulta [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 
 Antes de inscribirte en el programa CSP para Microsoft Cloud for US Government, es necesario comprobar que tu empresa cumple los requisitos de venta de las entidades gubernamentales de Estados Unidos. Antes de iniciar el proceso de inscripción, completa el [formulario de validación de Microsoft Government Cloud](https://azuregov.microsoft.com/csp) para que podamos comprobar la elegibilidad de tu empresa. Tras comprobarla, te proporcionaremos un inquilino específico de Azure Active Directory (AD Azure) para Microsoft Cloud for US Government.  
 

@@ -1,11 +1,11 @@
 ---
-title: Billing for one-time and select recurring charges | Partner Center
+title: Facturación de una sola vez y selección de cargos periódicos | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on one-time billing in advance for a preset term (monthly and annual subscriptions), and billing for select recurring charges (for applicable Microsoft and third-party ISV products) in Partner Center.
+Description: Información sobre la facturación única de antemano para un período preestablecido (suscripciones mensuales y anuales) y la facturación de los cargos de selección recurrentes (para los productos de Microsoft y ISV de terceros correspondientes) en el centro de Partners.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, one-time, recurring, purchases, charges, isv
+keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
 ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,38 +19,38 @@ ms.locfileid: "74389693"
 - Centro de partners
 - Partners del programa CSP
 
-This topic describes the billing experience for **one-time and select recurring charges** for Microsoft and third-party independent software vendor (ISV) products. 
+En este tema se describe la experiencia de facturación de **una sola vez y se seleccionan cargos periódicos** de Microsoft y productos de terceros de fabricantes independientes de software (ISV). 
 
-**One-time billing** is when you purchase software subscriptions and Azure reservations in advance for a preset term. You can purchase for one-year or three-year terms. You're then billed for the entire cost in a one-time lump sum.
+**La facturación única** es cuando se compran suscripciones de software y reservas de Azure de antemano para un término preestablecido. Puede adquirir los términos de un año o de tres años. Se le facturará por todo el costo en una suma de un solo período.
 
-Billing for one-time and select recurring charges applies to the following types of purchases:
+La facturación de una sola vez y la selección de cargos periódicos se aplican a los siguientes tipos de compras:
 
-- [License-based and usage-based subscriptions](#license-based-and-usage-based-subscription-charges)
-- [Microsoft and third-party ISV products](#microsoft-and-third-party-isv-product-charges)
+- [Suscripciones basadas en licencias y en uso](#license-based-and-usage-based-subscription-charges)
+- [Productos ISV de Microsoft y de terceros](#microsoft-and-third-party-isv-product-charges)
 
-## <a name="license-based-and-usage-based-subscription-charges"></a>License-based and usage-based subscription charges
+## <a name="license-based-and-usage-based-subscription-charges"></a>Gastos de suscripción basados en licencias y basados en el uso
 
 > [!IMPORTANT]
-> The billing experience for recurring charges of [**license-based subscriptions**](license-based-billing.md) and [**usage-based subscriptions**](usage-based-billing.md) remains the same.
+> La experiencia de facturación para los cargos recurrentes de las suscripciones basadas [**en licencias**](license-based-billing.md) y las [**suscripciones basadas**](usage-based-billing.md) en el uso sigue siendo la misma.
 
-**Recurring charges** for subscriptions (including **license-based and usage-based subscriptions**) are issued for all products from the [**online services catalog**](https://partner.microsoft.com/commerce/preferredoffers/list). Some examples include Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pay-as-you-go), Dynamics 365, and PowerBI Pro.
+Los **cargos periódicos** de las suscripciones (incluidas las **suscripciones basadas en licencias y**en el uso) se emiten para todos los productos del [**Catálogo de servicios en línea**](https://partner.microsoft.com/commerce/preferredoffers/list). Algunos ejemplos son Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pago por uso), Dynamics 365 y PowerBI Pro.
 
-For applicable subscription charges, the **billing date** is the date you selected when you created your Partner Center account. The **billing period** is the month prior to your billing date.
+En el caso de los cargos de suscripción aplicables, la **fecha de facturación** es la fecha que seleccionó al crear la cuenta del centro de Partners. El **período de facturación** es el mes anterior a la fecha de facturación.
 
-The **billing currency** is the currency of the country or region in which you're located. Por ejemplo, si tu empresa se encuentra en el Reino Unido, te facturaremos en libras esterlinas (GBP). Si tu empresa se encuentra en la India, te facturaremos en rupias indias (INR).
+La **moneda de facturación** es la moneda del país o la región en la que se encuentra. Por ejemplo, si tu empresa se encuentra en el Reino Unido, te facturaremos en libras esterlinas (GBP). Si tu empresa se encuentra en la India, te facturaremos en rupias indias (INR).
 
-Current **billing activity** is *not available* for these types of charges.
+La **actividad de facturación** actual *no está disponible* para estos tipos de cargos.
 
-## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft and third-party ISV product charges
+## <a name="microsoft-and-third-party-isv-product-charges"></a>Cargos de productos de ISV de Microsoft y de terceros
 
-**Recurring charges** and **one-time charges** are issued for **Microsoft and third-party ISV products**. Applicable products include all SaaS subscriptions, Azure reservations, and perpetual and subscription-based software products offered by Microsoft and third-party ISVs. See available products in the Marketplace. Examples include SUSE Linux software (software subscriptions), Windows Server 2019 Essentials (perpetual software), and Azure ISV SaaS product subscriptions.
+Se emiten **cargos periódicos** y **cargos puntuales** para **productos ISV de Microsoft y de terceros**. Entre los productos aplicables se incluyen todas las suscripciones de SaaS, las reservas de Azure y los productos de software permanentes y basados en suscripción ofrecidos por Microsoft y terceros ISV. Consulte los productos disponibles en Marketplace. Algunos ejemplos son el software de SUSE Linux (suscripciones de software), Windows Server 2019 Essentials (software perpetuo) y las suscripciones de producto de SaaS de ISV de Azure.
 
-For applicable product charges, the **billing date** is the 8th day of each month. The **billing period** starts on the first day of the calendar month and ends on the last day of the calendar month. Any transactions you make between May 1 and May 31, 2019 will appear on your invoice June 8. Todas las transacciones que realices entre el 1 de junio y el 30 de junio de 2019 aparecerán en la factura del 8 de julio. Es posible que se te facturen las compras periódicas y únicas en la misma factura.
+En el caso de los cargos de productos aplicables, la **fecha de facturación** es el octavo día de cada mes. El **período de facturación** se inicia el primer día del mes natural y finaliza el último día del mes natural. Las transacciones que realice entre el 1 de mayo y el 31 de mayo de 2019 aparecerán en la factura 8 de junio. Todas las transacciones que realices entre el 1 de junio y el 30 de junio de 2019 aparecerán en la factura del 8 de julio. Es posible que se te facturen las compras periódicas y únicas en la misma factura.
 
-The **billing currency** is the currency of the country or region in which your customer is located. You’ll receive separate invoices and reconciliation files in the currency of the country or region of each customer that you sold to during the billing period.
+La **moneda de facturación** es la moneda del país o la región en la que se encuentra el cliente. Recibirá facturas y archivos de conciliación independientes en la moneda del país o región de cada cliente al que se haya vendido durante el período de facturación.
 
-Current **billing activity** is *available* for these types of charges. You can check your account balance and bill at any time in Partner Center. Note that your final invoice amount may different from what you can see on your account during the billing period. This is because your invoice will include taxes and any other applicable charges and credits.
+La **actividad de facturación** actual está *disponible* para estos tipos de cargos. Puede comprobar el saldo de su cuenta y su factura en cualquier momento del centro de Partners. Tenga en cuenta que el importe final de la factura puede ser diferente de lo que puede ver en su cuenta durante el período de facturación. Esto se debe a que la factura incluirá los impuestos y otros cargos y créditos aplicables.
 
 ## <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
-For detailed explanations of common billing scenarios for these types of charges, see [Common billing scenarios for one-time and recurring purchases](common-billing-scenarios-onetime-recurring.md).
+Para obtener explicaciones detalladas de los escenarios de facturación comunes para estos tipos de cargos, consulte [escenarios de facturación comunes para compras de un solo uso y periódicas](common-billing-scenarios-onetime-recurring.md).

@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
+description: Conozca los pasos para que los asociados directos de facturación (revendedores directos, proveedores indirectos) validen a los asociados y clientes de Office 365 Government GCC for CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -29,7 +29,7 @@ Si estás interesado en que tu organización, o la organización de tus clientes
 
 Podrías resultar aprobado si eres un partner que sirve a las entidades gubernamentales federales, estatales, locales o tribales de Estados Unidos. Para validar las organizaciones para su elegibilidad, completa el breve formulario situado [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Tu cliente puede resultar aprobado si se trata de una organización que controla datos controlados por el gobierno o es una entidad gubernamental federal, estatal, local o tribal de Estados Unidos. To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Tu cliente puede resultar aprobado si se trata de una organización que controla datos controlados por el gobierno o es una entidad gubernamental federal, estatal, local o tribal de Estados Unidos. Para que se validen los requisitos de las organizaciones de sus clientes, debe completar el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Tu organización debe estar [inscrita](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa Proveedor de soluciones en la nube, ya que es un requisito previo para poder ser aprobada para el GCC de Office 365 Administración Pública para el CSP.
 -   Puede encontrarse una guía de proceso de validación paso a paso para GCC de Office 365 Administración Pública para CSP [aquí](https://go.microsoft.com/fwlink/?linkid=2007323).
@@ -37,11 +37,11 @@ Tu cliente puede resultar aprobado si se trata de una organización que controla
 
 Los partners y clientes de GCC de Office 365 Administración Pública para CSP se validarán en cuanto a elegibilidad en función del cumplimiento de criterios específicos que se describen a continuación.
 
-**Partner Criteria**
+**Criterios de socio comercial**
 1.  Proporciona servicios o soluciones para clientes gubernamentales de EE. UU. a través de contratos directos o indirectos
 2.  Sirve a clientes gubernamentales de EE. UU. a través de GSA u otros vehículos de contrato
 
-**Customer Criteria**
+**Criterios de cliente**
 1.  Entidad del gubernamental de EE. UU. en su capacidad gubernamental. Por ejemplo:
  
     -  Agencia federal (por ejemplo, despacho, agencia, departamento u otra entidad del gobierno de EE. UU.)
@@ -50,7 +50,7 @@ Los partners y clientes de GCC de Office 365 Administración Pública para CSP s
     -   Entidades gubernamentales regionales o interestatales (pero no entidades internacionales)
     -   Centros de investigación y desarrollo financiados federalmente (FERDC)
 
-2.  Commercial private entity with data that's subject to regulations. Los tipos de datos gubernamentales aceptados incluyen: 
+2.  Entidad privada comercial con datos que están sujetos a regulaciones. Los tipos de datos gubernamentales aceptados incluyen: 
     -   Tráfico internacional de armas (ITAR)
     -   Información no clasificada controlada (CUI)
     -   Información nuclear controlada no clasificada (UCNI) del Departamento de Defensa (DoD)

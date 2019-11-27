@@ -3,7 +3,7 @@ title: Analizar el rendimiento de los revendedores indirectos | Centro de partne
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
+Description: Obtenga información sobre cómo usar análisis para averiguar cómo están haciendo los revendedores indirectos, sus éxitos y áreas que puedan necesitar más atención.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -37,26 +37,26 @@ Estamos siguiendo estas métricas:
  - **Revendedores activos**: recuento de revendedores indirectos donde la MPNID sea al menos de 1 suscripción y donde no se haya dado de baja el estado de la suscripción  
  - **Revendedores con transacciones**: recuento de revendedores indirectos con una suscripción vendida en el período de tiempo especificado  
 
-**Resellers by market**  
+**Distribuidores por mercado**  
  - Total de revendedores por ubicación geográfica  
 
-**Top resellers by subscriptions sold**
+**Principales distribuidores por suscripciones vendidas**
  - Lista de revendedores ordenados por el número de suscripciones que han vendido  
 
-**Top products by subscription count**  
+**Principales productos por recuento de suscripciones**  
  - **Dynamics 365**: productos de Dynamics 365 ordenados por suscripciones vendidas  
  - **EMS**: número de suscripciones de servicios de administración empresarial vendidos  
  - **Microsoft 365**: número de suscripciones de Microsoft 365 vendidas  
  - **Office 365**: productos de Office 365 ordenados por suscripciones vendidas  
 
-**New subscriptions**  
+**Nuevas suscripciones**  
  - Número de nuevas suscripciones agregadas hasta la fecha  
 
-**Subscription churn**  
+**Renovación de suscripción**  
  - **Nuevas suscripciones**: recuento de nuevas suscripciones agregadas hasta la fecha  
  - **Suscripciones dadas de baja**: recuento de suscripciones dadas de baja o suspendidas hasta la fecha  
 
-**New reseller details**  
+**Nuevos detalles del reseller**  
  - **Nombre del revendedor**: nombres de los revendedores indirectos  
  - **Ubicación**: mercados donde los revendedores indirectos operan  
  - **Suscripciones**: número de suscripciones que ha vendido el revendedor  

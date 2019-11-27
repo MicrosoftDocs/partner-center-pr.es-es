@@ -3,7 +3,7 @@ title: Analizar el uso de Azure | Centro de partners
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: Aprenda a usar el centro de partners para obtener datos sobre el uso de las suscripciones de Azure de sus clientes.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -27,7 +27,7 @@ Se aplica a:
 Los datos determinan las decisiones comerciales. Usa las métricas de la página **Uso de Azure** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 
 > [!NOTE]
-> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
+> El análisis de uso de Azure solo está disponible para los asociados del programa proveedor de soluciones en la nube.
 
 Estamos siguiendo estas métricas:
 
@@ -41,13 +41,13 @@ Estamos siguiendo estas métricas:
 
 - Los 5 clientes principales de la categoría especificada  
 
-## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
+## <a name="azure-subscriptions-at-risk"></a>Suscripciones de Azure en riesgo
 
-This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
+En esta sección se indica el riesgo de renovación previsto para las suscripciones de Azure. Los asociados pueden usar esta información para interactuar con los clientes y minimizar la renovación
 
 ## <a name="subscriptions-without-usage"></a>Suscripciones sin uso
 
-- List of specific subscriptions without Azure usage in the specified time period  
+- Lista de suscripciones específicas sin uso de Azure en el período de tiempo especificado  
 
 ## <a name="azure-subscription-churn"></a>Grupo de suscripciones de Azure
 

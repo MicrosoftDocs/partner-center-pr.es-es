@@ -25,7 +25,7 @@ ms.locfileid: "74253243"
 -  Microsoft Azure Portal
 -  Partners de CSP
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 
 Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes.
 
@@ -81,7 +81,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Yibuti     | Micronesia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
 > | Guinea Ecuatorial     | Mozambique     | Islas Turcas y Caicos   |
-> | Eritrea     | Birmano     | Tuvalu   |
+> | Eritrea     | Myanmar     | Tuvalu   |
 > | Islas Malvinas     | Nauru     | Islas Ultramarinas Menores de EE. UU.   |
 > | Guayana Francesa     | Nueva Caledonia     | Vanuatu   |
 > | Polinesia Francesa     | Níger     | Ciudad del Vaticano   |
@@ -98,7 +98,7 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
 2. En la página **clientes** , busque el cliente que desea comprar reservas de Azure y, después, seleccione la flecha abajo para expandir la fila del cliente.  
 
-3. Selecciona **Agregar productos** y, a continuación, **Azure**. 
+3. Selecciona **Add products** (Agregar productos) y, a continuación, **Azure**. 
 
     a. Elige el segmento de mercado del cliente de la lista de **segmentos**.
 
