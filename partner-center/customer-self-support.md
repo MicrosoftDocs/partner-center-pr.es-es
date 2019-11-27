@@ -18,7 +18,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74252687"
 ---
-# <a name="customer-self-support"></a>Autosoporte del cliente
+# <a name="customer-self-support"></a>Autoservicio de soporte técnico al cliente
 
 **Se aplica a**
 

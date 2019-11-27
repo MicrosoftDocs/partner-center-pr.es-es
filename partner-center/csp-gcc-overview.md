@@ -24,7 +24,7 @@ ms.locfileid: "74252379"
 -  Partners de CSP
 
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Los partners de Microsoft del programa Proveedor de soluciones en la nube (CSP) pueden vender suscripciones de [GCC de Office 365 Administración Pública para el CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) a determinados clientes cualificados. El GCC de Office 365 Administración Pública GCC para el CSP está diseñado para las necesidades específicas de las organizaciones gubernamentales de EE. UU. y proporciona todas las funciones y funcionalidades de los servicios de Office 365, en una comunidad de nubes de gobierno segmentadas que permite a las organizaciones satisfacer las normas de cumplimiento y seguridad del gobierno de Estados Unidos. 
 

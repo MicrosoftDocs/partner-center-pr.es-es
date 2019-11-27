@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. You can sign up for these trials in the catalog just like many other online services.
+description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Puede registrarse para estas pruebas en el catálogo del mismo modo que otros muchos servicios en línea.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -24,20 +24,20 @@ Se aplica a:
 
 Una buena manera de presentar a los clientes nuevos productos de Microsoft es ofrecer evaluaciones gratuitas de 30 días. Puedes registrarte en las versiones de prueba en el catálogo, al igual que para muchos otros servicios en línea. Todos los partners pueden participar.
 
-## <a name="available-trial-offers"></a>Available trial offers
+## <a name="available-trial-offers"></a>Ofertas de evaluación disponibles
 
-You can find all of your outstanding trial offers on the **Customer** page. This page lists all subscriptions, including free trials and paid subscriptions. (This feature is not currently available in China.)
+Puede encontrar todas las ofertas de evaluación pendientes en la página del **cliente** . En esta página se enumeran todas las suscripciones, incluidas las versiones de evaluación gratuitas y las suscripciones de pago. (Esta característica no está disponible actualmente en China).
 
-Each customer is entitled to one free trial for each available offer. Por ejemplo, pueden obtener una prueba gratuita para Office 365 Empresa Premium y una prueba gratuita para Office 365 E3. However, if the customer already owns the offer, they can't use a free trial for that offer.
+Cada cliente tiene derecho a una evaluación gratuita por cada oferta disponible. Por ejemplo, pueden obtener una prueba gratuita para Office 365 Empresa Premium y una prueba gratuita para Office 365 E3. Sin embargo, si el cliente ya es propietario de la oferta, no puede usar una evaluación gratuita de la oferta.
 
-### <a name="available-products"></a>Available products
+### <a name="available-products"></a>Productos disponibles
 
 Hay evaluaciones gratuitas disponibles para los siguientes productos:
 
 - Office 365 Empresa Premium
 - Office 365 E3
-- Office 365 E5 with PSTN
-- Office 365 E5 without PSTN
+- Office 365 E5 con RTC
+- Office 365 E5 sin RTC
 - Enterprise Mobility & Security E5
 - Plan Dynamics 365 Customer Engagement 1
 - Dynamics 365 for Financials
@@ -45,71 +45,71 @@ Hay evaluaciones gratuitas disponibles para los siguientes productos:
 
 Proporcionamos evaluaciones gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de evaluación gratuita en el futuro.
 
-Currently, there are **no free trials** for government offers, education offers, or add-on offers.
+Actualmente, no hay **ninguna evaluación gratuita** para ofertas de la administración pública, ofertas educativas ni ofertas de complementos.
 
-## <a name="licenses-for-free-trial-offers"></a>Licenses for free trial offers
+## <a name="licenses-for-free-trial-offers"></a>Licencias para ofertas de evaluación gratuita
 
-All free trials provide 25 licenses. You can't change this number during the trial. You can't add or remove seats in the free trial. After the trial is converted to a paid subscription, you can add additional licenses to the subscription.
+Todas las pruebas gratuitas proporcionan 25 licencias. No se puede cambiar este número durante la evaluación. No puede Agregar o quitar puestos en la evaluación gratuita. Una vez convertida la versión de prueba en una suscripción de pago, puede agregar más licencias a la suscripción.
 
-You should assign trial licenses and seats just as you would for a paid service in Partner Center.
+Debe asignar licencias de prueba y puestos como lo haría para un servicio de pago en el centro de Partners.
 
-## <a name="sign-customers-up-for-trials"></a>Sign customers up for trials
+## <a name="sign-customers-up-for-trials"></a>Inicio de sesión de los clientes para versiones de prueba
 
-To sign your customer up for a trial through Partner Center:
+Para firmar el cliente para una versión de prueba a través del centro de Partners:
 
-1. From **Sell** on the Partner Center, go to **Catalog**. 
+1. Desde **vender** en el centro de Partners, vaya a **Catálogo**. 
 2. En el catálogo, en **Frecuencia de facturación**, haz clic en **Oferta de prueba**. Esto permite mostrar solo evaluaciones gratuitas y oculta otras ofertas que no son gratuitas. Las pruebas aparecerán en la pestaña **Pruebas** del catálogo.
 3. Selecciona la evaluación gratuita que quieras ofrecer y luego selecciona **enviar**. Todas las pruebas están activadas durante 30 días y no recibirás ningún cargo. También puedes convertirla en una suscripción de pago en cualquier momento durante el período de prueba.
 
-## <a name="converting-trials-to-paid-subscriptions"></a>Converting trials to paid subscriptions
+## <a name="converting-trials-to-paid-subscriptions"></a>Conversión de pruebas en suscripciones de pago
 
-A free trial is not automatically converted to a paid subscription. After thirty days, a free trial must be converted to a paid subscription or it will [expire](#expiring-offers). Free trials can't be extended.
+Una evaluación gratuita no se convierte automáticamente en una suscripción de pago. Después de treinta días, una evaluación gratuita se debe convertir en una suscripción de pago o [expirará](#expiring-offers). Las evaluaciones gratuitas no se pueden ampliar.
 
-You'll need to convert the trial into a paid subscription yourself. You can do this [using the Partner Center](#convert-trials-using-partner-center) or [through the Partner Center APIs](#convert-trials-using-apis).
+Deberá convertir la versión de prueba en una suscripción de pago. Para ello, puede [usar el centro de Partners](#convert-trials-using-partner-center) o [las API del centro de Partners](#convert-trials-using-apis).
 
 > [!NOTE]
-> Customer free trials for the Cloud Solution Provider (CSP) program can't be converted to another program tenant (such as EA, Open or MOSP).
+> Las evaluaciones gratuitas del cliente para el programa proveedor de soluciones en la nube (CSP) no se pueden convertir a otro inquilino de programa (como EA, Open o MOSP).
 
-### <a name="convert-trials-using-partner-center"></a>Convert trials using Partner Center
+### <a name="convert-trials-using-partner-center"></a>Convertir pruebas mediante el centro de Partners
 
-You can convert trials to paid subscriptions using the Partner Center dashboard as follows:
+Puede convertir las pruebas en suscripciones de pago mediante el panel del centro de partners como se indica a continuación:
 
 1. Ve a la página de suscripción del cliente y selecciona la evaluación gratuita.
 2. Selecciona **Conversión una prueba en suscripción de pago**.
 3. Introduce la cantidad de licencias que desees y la frecuencia de facturación y selecciona **Aplicar**.
 4. La facturación de la suscripción de pago comienza en la fecha de conversión y se renueva automáticamente doce meses después de la fecha de conversión. 
 
-### <a name="convert-trials-using-apis"></a>Convert trials using APIs
+### <a name="convert-trials-using-apis"></a>Conversión de pruebas mediante API
 
-You may need to alter your APIs to accommodate the conversion of a free trial to a paid subscription. For more information, see the following developer documentation:
+Es posible que tenga que modificar las API para dar cabida a la conversión de una evaluación gratuita en una suscripción de pago. Para obtener más información, consulte la siguiente documentación para desarrolladores:
 
 - [Convertir una suscripción de prueba en otra de pago](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Obtener una lista de ofertas de conversión de versiones de prueba](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="expiring-offers"></a>Expiring offers
+### <a name="expiring-offers"></a>Ofertas que van a expirar
 
-You will not be notified of expiring offers. You can track upcoming expiration dates using the customer view on Partner Center or by querying the API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan a la fecha de caducidad.
+No recibirá ninguna notificación de las ofertas que expiren. Puede realizar un seguimiento de las fechas de expiración futuras mediante la vista de cliente del centro de Partners o consultando la API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan a la fecha de caducidad.
 
-After a trial has expired, a customer who attempts to log into that trial will see an expiry message. However, the data is stored in line with data retention standards. After you purchase a new subscription with the same service plans, your customer's information can be accessed again from the newly activated subscription.
+Una vez que haya expirado una evaluación, un cliente que intente iniciar sesión en esa prueba verá un mensaje de expiración. Sin embargo, los datos se almacenan en línea con los estándares de retención de datos. Después de comprar una nueva suscripción con los mismos planes de servicio, se puede acceder a la información del cliente desde la suscripción que se acaba de activar.
 
 ## <a name="billing"></a>Facturación
 
-Annual billing and free trials are the same in sovereign clouds and the public cloud. The only difference is the trial SKUs available at the time of launch.
+La facturación anual y las evaluaciones gratuitas son las mismas en las nubes independientes y en la nube pública. La única diferencia es que las SKU de prueba están disponibles en el momento del lanzamiento.
 
-## <a name="billing-for-free-trials"></a>Billing for free trials
+## <a name="billing-for-free-trials"></a>Facturación para pruebas gratuitas
 
-Free trials can be used for both monthly and annually billed subscriptions. You can select the billing frequency when you convert the trial to a paid subscription.
+Las evaluaciones gratuitas se pueden usar para las suscripciones facturadas mensuales y anuales. Puede seleccionar la frecuencia de facturación al convertir la versión de prueba en una suscripción de pago.
 
-The subscription start date is based on the conversion date. Si la evaluación gratuita se convierte en una oferta de pago con facturación anual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de conversión. Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de facturación tras la fecha de conversión.
+La fecha de inicio de la suscripción se basa en la fecha de conversión. Si la evaluación gratuita se convierte en una oferta de pago con facturación anual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de conversión. Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de facturación tras la fecha de conversión.
 
 ### <a name="invoices"></a>Facturas
 
-You won't see free trials listed in your invoice or license-based reconciliation file. Free trials will only appear on your invoice and license-based reconciliation file after you convert a free trial to a paid subscription. The converted subscription will appear in the same way as any new subscription.
+No verá las pruebas gratuitas que aparecen en la factura o el archivo de conciliación basado en licencias. Las evaluaciones gratuitas solo aparecerán en la factura y el archivo de conciliación basado en licencias después de convertir una evaluación gratuita en una suscripción de pago. La suscripción convertida aparecerá de la misma manera que cualquier suscripción nueva.
 
 ### <a name="incentives"></a>Incentivos
 
-Free trials do not have an impact on incentives.
+Las evaluaciones gratuitas no afectan a los incentivos.
 
-## <a name="support"></a>Soporte
+## <a name="support"></a>Soporte técnico
 
-For support on free trials, submit a service request through Partner Center.
+Para obtener soporte técnico sobre las pruebas gratuitas, envíe una solicitud de servicio a través del centro de Partners.

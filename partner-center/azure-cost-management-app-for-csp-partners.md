@@ -31,13 +31,13 @@ ms.locfileid: "74253294"
 
 [Obtener más información sobre Azure Cost Management](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 Antes de poder usar Azure Cost Management, asegúrate de que cumples los siguientes requisitos:
 
 - Eres partner en el programa de Proveedor de soluciones en la nube.
 - Tienes la capacidad para crear una aplicación web de API del Centro de partners.
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Cloudyn es una aplicación web que le permite realizar un seguimiento y administrar la cantidad de clientes que usan Azure y los costos de ese uso. Puedes usarla a través de la API del Centro de partners.
 
