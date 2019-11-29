@@ -8,12 +8,12 @@ description: Mira las ganancias y pagos de los programas de incentivos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653997"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559750"
 ---
 # <a name="view-your-incentives-payments-information"></a>Ver la información de los pagos de incentivos
 
@@ -91,6 +91,7 @@ Esta opción proporciona una descarga de los pagos que ha recibido en el Banco p
 |earnedUSD   |Cantidad ganada para el ID. de programa/participante, en USD      |
 |withheldTax   |Cantidad de impuestos retenidos en el pago por moneda para el programa/participantID      |
 |salesTax   |Importe total del impuesto de ventas en el pago por moneda para el programa/participantID      |
+|serviceFeeTax  |Cantidad total de serviceFeeTax de pago a divisa para el programa/participantID |
 |totalPayment   |Pago total en moneda local excluyendo el impuesto de retención e incluyendo el impuesto de venta (si procede) para el programa/participantID      |
 |currencyCode   |Pago a código de divisa      |
 |paymentMethod   |El método que se usa para pagar al socio comercial (transferencia bancaria electrónica, nota de crédito)      |

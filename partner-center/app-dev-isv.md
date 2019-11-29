@@ -1,7 +1,7 @@
 ---
 title: Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones | Centro de Partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En el caso de los asociados con una competencia de ISV anterior, obtenga información sobre cómo obtener una exención de requisitos de examen único para la competencia de desarrollo de aplicaciones.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, ISV, desarrollo de aplicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295232"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559504"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
 
@@ -27,9 +27,9 @@ Si ha logrado la competencia de ISV ya retirada y uno de los siguientes escenari
 
 Asociados con una competencia de ISV:
 
-- **Su competencia de ISV ha expirado** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 22 de noviembre de 2019. Tendrá 30 días para sacar provecho de la oferta. 
+- **Su competencia de ISV ha expirado** : la exención de los requisitos del examen único está disponible en el centro de partners a partir del 22 de noviembre de 2019. Tiene 30 días para sacar provecho de la oferta. Inicie sesión en el centro de partners para obtener detalles específicos de su empresa.
 
-- **La pertenencia a la competencia está en su ventana de renovación** : la exención de los requisitos del examen único estará disponible en el centro de partners a partir del 22 de noviembre de 2019. Tendrá 30 días para sacar provecho de la oferta. 
+- **La pertenencia a la competencia está en su ventana de renovación** : la exención de los requisitos del examen único está disponible en el centro de partners a partir del 22 de noviembre de 2019. Tiene 30 días para sacar provecho de la oferta. Inicie sesión en el centro de partners para obtener detalles específicos de su empresa.
 
 - La **pertenencia a la competencia se debe a una renovación en los próximos meses** : la exención de los requisitos de los exámenes de un solo tiempo estará disponible cuando llegue el momento de renovarla. En ese momento, tendrá 30 días para obtener la oferta.
 
