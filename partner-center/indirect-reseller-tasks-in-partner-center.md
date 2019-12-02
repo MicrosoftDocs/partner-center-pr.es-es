@@ -1,22 +1,22 @@
 ---
 title: Asociación con los proveedores indirectos en CSP | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (también conocidos como distribuidores) que tienen una relación directa con Microsoft y pueden proporcionar soporte técnico al cliente y facturación.
+description: Obtén información acerca de cómo los revendedores indirectos del programa CSP pueden trabajar con proveedores indirectos de Microsoft (o con distribuidores) que pueden ayudarte con la facturación y el servicio de soporte técnico al cliente.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654339"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253663"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 

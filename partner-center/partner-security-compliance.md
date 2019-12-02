@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661113"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295260"
 ---
 # <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
 
@@ -95,7 +95,7 @@ Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario
 Comprenda si la implementación actual solo aplica MFA en condiciones específicas. Algunas soluciones MFA proporcionan flexibilidad para aplicar MFA solo cuando se cumplen ciertas condiciones. Por ejemplo, el usuario obtiene acceso desde un dispositivo desconocido o una ubicación desconocida. Un usuario que esté habilitado para MFA pero que no se requiera que complete la comprobación de MFA al acceder al Centro de partners, puede provocar que las métricas no sean del 100%.
 
 >[!NOTE]
->En el caso de los partners que han implementado MFA con los valores predeterminados de seguridad de Azure AD, es importante tener en cuenta que, para ninguna de las cuentas de usuario de administrador, se aplicará la autenticación multifactor según el riesgo. A los usuarios se les pedirá MFA solo durante los intentos de inicio de sesión de riesgo (por ejemplo, el usuario inicia sesión desde una ubicación diferente). Además, los usuarios tendrán hasta 14 días para registrarse para MFA. A los usuarios que no hayan completado el registro de MFA no se les solicitará la comprobación de MFA durante el período de 14 días. Por lo tanto, se espera que las métricas puede que no sean del 100 % para los partners que han implementado MFA con los valores por defecto de seguridad de Azure AD.
+>En el caso de los partners que han implementado MFA con los valores predeterminados de seguridad de Azure AD, es importante tener en cuenta que, para ninguna de las cuentas de usuario de administrador, se aplicará la autenticación multifactor según el riesgo. A los usuarios se les pedirá MFA solo durante los intentos de inicio de sesión de riesgo (por ejemplo, el usuario inicia sesión desde una ubicación diferente). Además, los usuarios tendrán hasta 14 días para registrarse para MFA. A los usuarios que no hayan completado el registro de MFA no se les solicitará la comprobación de MFA durante el período de 14 días. Por lo tanto, se espera que las métricas puede que no sean del 100 % para los partners que han implementado MFA con los valores por defecto de seguridad de Azure AD.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>¿Usa una solución MFA de terceros?
 
@@ -105,7 +105,7 @@ Si usa una solución MFA de terceros, identifique cómo se integra con Azure AD
 
 * **Control personalizado**: el control personalizado de Azure AD no se puede usar para identificar si un usuario ha completado la comprobación de MFA a través de una solución MFA de terceros. Como resultado, cualquier usuario que haya completado la comprobación de MFA a través de un control personalizado aparecerá siempre en Azure AD (y, a su vez, en el Centro de partners) como si no hubiera completado dicha comprobación. Siempre que sea posible, se recomienda usar la Federación de identidades en lugar de un Control personalizado al integrar con Azure AD.
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>Identidad de los usuarios que han iniciado sesión en el Centro de partners sin MFA
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar qué usuarios han iniciado sesión en el Centro de partners sin usar MFA
 
 Puede ser útil identificar los usuarios que inician sesión en el Centro de partners sin comprobación de MFA y comprobarlos con la implementación de MFA actual. Puede usar el [informe de inicio de sesión de Azure AD ](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para averiguar si un usuario ha completado la comprobación de MFA o no. El informe de inicio de sesión de Azure AD solo está disponible actualmente para los partners que se han suscrito a Azure AD Premium o a cualquier SKU de O365 que incluye Azure AD Premium (por ejemplo, EMS).
 

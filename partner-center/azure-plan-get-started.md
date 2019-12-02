@@ -1,21 +1,21 @@
 ---
 title: 'Cambiar al plan de Azure: introducción | Centro de partners'
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprar suscripciones con la nueva experiencia de comercio de Azure
+description: Obtén información sobre la experiencia comercial del plan de Azure para comprar servicios de Azure en función de las tarifas de pago por uso de los clientes. Obtén también información sobre los nuevos requisitos de seguridad.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, plan de Azure, comprar suscripciones, suscripciones
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661133"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253291"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Cambiar al plan de Azure: introducción
 

@@ -1,21 +1,21 @@
 ---
 title: Cuentas profesionales y Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Para crear una cuenta del Centro de partners, tu empresa debe tener una cuenta profesional. Si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional.
+description: Obtén información sobre por qué necesitas una cuenta profesional para crear una cuenta del Centro de partners, y saber si ya tienes una cuenta profesional.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: cuenta profesional, correo electrónico, inquilino, inquilino de Azure, crear cuenta, nombre de dominio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096549"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253319"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
 

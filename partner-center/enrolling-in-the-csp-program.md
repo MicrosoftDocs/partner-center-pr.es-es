@@ -1,19 +1,19 @@
 ---
 title: Inscripción en el programa Proveedor de soluciones en la nube| Centro de partners
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprenda los distintos modelos para vender en CSP y determine qué funciona mejor con su negocio.
+description: Comprende los distintos modelos para vender en el Proveedor de soluciones en la nube (CSP) y determina qué funciona mejor con tu negocio.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653199"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252163"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 

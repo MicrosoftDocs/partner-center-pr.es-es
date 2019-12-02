@@ -1,21 +1,21 @@
 ---
-title: 'Plan de Azure: facturación | Centro de partners'
+title: Facturación del plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Describe la estructura de la factura y el archivo de conciliación para el plan de Azure
+description: Aprende a obtener acceso y a comprender la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661163"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536447"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -42,7 +42,7 @@ La facturación del plan Azure es una experiencia de facturación simplificada q
 
 - **Incentivos de partners**: Pagado a 45 días desde el final del mes de la factura.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>Acceder a las facturas y los archivos de conciliación
+## <a name="access-your-invoices-and-reconciliation-files"></a>Acceder a las facturas y los archivos de conciliación
 
 El administrador global o el administrador de facturación de tu empresa recibirá un correo electrónico cuando una factura esté lista para ver. 
 
@@ -141,7 +141,7 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 ## <a name="invoice-in-customer-currency"></a>Factura en la moneda del cliente 
 
-Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y se facturarán en la moneda asignada en el país del cliente. Si la moneda de facturación no es USD, el tipo de cambio usado se mostrará en la última página de la factura. Los tipos de cambio se determinan mensualmente y se aplican a la factura siguiente. Para obtener una lista completa de las monedas de los países, consulta la [matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V). 
+Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y se facturarán en la moneda asignada en el país del cliente. Si la moneda de facturación no es USD, el tipo de cambio usado se mostrará en la última página de la factura. Los tipos de cambio se determinan mensualmente y se aplican a la factura siguiente. Para obtener una lista completa de las monedas de los países, consulta la [matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales](https://go.microsoft.com/fwlink/?linkid=2112354). 
 
 Microsoft usará [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) para determinar el tipo de cambio que se usará para convertir la moneda de los precios a la moneda de facturación. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
 

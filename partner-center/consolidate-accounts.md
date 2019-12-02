@@ -1,21 +1,21 @@
 ---
 title: Consolidación de las cuentas de empresa | Centro de partners
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cuando tu empresa se traslade al Centro de partners, todas las cuentas se consolidarán en una.
+description: Obtén información acerca del proceso de consolidación de cuentas de Partner Membership Center (PMC) en una cuenta del Centro de partners. Puedes aplicar esta opción si realizas la migración de PMC al Centro de partners.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653626"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252070"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidar las cuentas de la empresa
 

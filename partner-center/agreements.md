@@ -1,20 +1,20 @@
 ---
 title: Plantillas de cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
-ms.date: 03/11/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Busca y descarga versiones del Contrato de Microsoft Cloud específicas para la región y el idioma para revisarlas con tus clientes.
+description: Aprende a busca y descargar versiones del Contrato de Microsoft Cloud específicas para la región y el idioma, y así poder revisarlas con tus clientes.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Contratos de Microsoft Cloud, plantillas de contratos de clientes, contratos de cliente de CSP, Contrato de Microsoft Cloud, MCA, MCA, CSP, ¿dónde puedo vender a través de CSP?, países y regiones CSP, MCA de CSP en varios idiomas, CSP Norteamérica, CSP América Central, CSP Sudamérica, CSP Caribe, CSP de Microsoft Cloud for US Government, CSP de Microsoft Cloud Germany, CSP Oriente Medio, CSP África, CSP Europa, CSP Asia, CSP Pacífico, MCA de CSP
 ms.localizationpriority: high
-ms.openlocfilehash: b1bbe5aef77319cb29faca46c9dbfd9840cf2761
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661143"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253170"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Contratos de Microsoft Cloud por región e idioma
 
