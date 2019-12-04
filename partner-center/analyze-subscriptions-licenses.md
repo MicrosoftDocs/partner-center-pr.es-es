@@ -11,18 +11,26 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253372"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722371"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analizar suscripciones y licencias 
 
 **Se aplica a**
 
 - Centro de partners
+- Partners del programa Proveedor de soluciones en la nube
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
 
 Los datos determinan las decisiones comerciales. Usa las métricas de la página **Análisis de suscripciones y licencias** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 

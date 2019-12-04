@@ -1,7 +1,7 @@
 ---
 title: Cuentas de cliente | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Busque los recursos de los asociados del distribuidor en el centro de Partners. Esto incluye la necesidad de crear cuentas de cliente antes de vender suscripciones, factura u ofrecer soporte técnico.
@@ -9,20 +9,26 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253564"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721391"
 ---
-# <a name="customer-accounts"></a>Cuentas de cliente
+# <a name="customer-accounts"></a>Cuentas de clientes
 
 **Se aplica a**
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
+
+- Administrador global
+- Agente de administración
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 Como partner reseller, debe crear una cuenta para cada uno de los clientes del centro de Partners. La cuenta del cliente será tu punto de partida para vender suscripciones, facturar y proporcionar soporte técnico. Debe crear una cuenta del centro de partners para cada uno de sus clientes, incluidos los clientes que tenía antes de pasar al centro de Partners.
 

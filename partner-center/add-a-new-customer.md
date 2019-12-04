@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384615"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722300"
 ---
-# <a name="add-a-new-customer"></a>Agregar un cliente nuevo
+# <a name="add-a-new-customer"></a>Agregar un nuevo cliente
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
+- Partners del programa Proveedor de soluciones en la nube
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
+
 
 Antes de poder vender suscripciones, administrar la facturación o proporcionar soporte técnico a un cliente, debe agregarlas a la lista de clientes del centro de Partners.
 
@@ -51,7 +60,7 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 
 7. Seleccione **listo** cuando haya terminado de agregar la información del cliente y haya adquirido las suscripciones necesarias.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 - Consulte [ofertas de asociados en el programa proveedor de soluciones en la nube](csp-offers.md) para obtener más información sobre lo que puede vender a los clientes a través del programa proveedor de soluciones en la nube.
 

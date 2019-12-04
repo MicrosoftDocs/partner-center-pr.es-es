@@ -1,7 +1,7 @@
 ---
 title: Consolidación de los inquilinos de autorización regional de CSP | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones. Esto incluye los pasos para migrar las cuentas de cliente y las suscripciones de cliente.
@@ -11,12 +11,12 @@ ms.author: evansma
 keywords: migrar clientes, aprovisionamiento, cuenta de inquilino, consolidar inquilinos
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253601"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722178"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
@@ -25,6 +25,10 @@ ms.locfileid: "74253601"
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
+
+- Administrador global
+- Agente de administración
 
 \[parte de la información está relacionada con el producto publicado previamente que puede modificarse sustancialmente antes de que se publique comercialmente. Microsoft no otorga ninguna garantía, ni expresa ni implícita, con respecto a la información que se proporciona aquí.\]
 

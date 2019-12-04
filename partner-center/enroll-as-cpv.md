@@ -1,7 +1,7 @@
 ---
 title: Inscribirse en el centro de partners como proveedor del panel de control | Centro de Partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información acerca de cómo inscribirse como proveedor del panel de control (CPV) en el centro de Partners.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor del panel de control, registro de aplicaciones de CPV y administración de aplicaciones de CPV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253578"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722563"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Inscribirse en el centro de partners como proveedor del panel de control
 
 **Se aplica a**
 
 - Centro de partners
+
+**Roles adecuados**
+
+- Administrador global
 
 Un proveedor del panel de control (CPV) es un proveedor de software independiente que desarrolla aplicaciones para que las usen los asociados del proveedor de soluciones en la nube (CSP) para permitirles integrar sus sistemas con las API del centro de Partners. Un proveedor del panel de control no es un asociado de CSP con acceso directo al panel del centro de Partners o a las API del centro de Partners.
 

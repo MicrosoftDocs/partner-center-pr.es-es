@@ -1,7 +1,7 @@
 ---
 title: Personalización de la experiencia rápida de un dispositivo con perfiles de Windows AutoPilot | Centro de Partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo personalizar o preconfigurar una nueva configuración rápida de un dispositivo con perfiles de AutoPilot antes de enviar el dispositivo al cliente.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253331"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721425"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida de un dispositivo con perfiles de Windows AutoPilot
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida para un dispositivo con perfiles de Windows AutoPilot
 
 **Se aplica a**
 
 - CSP directo: factura, proveedores indirectos y distribuidores indirectos
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente de ventas
+- Administrador de administración de usuarios
 
 Si administra los dispositivos del cliente, es posible que tenga que personalizar la experiencia rápida (OOBE) para los usuarios del cliente. Puede preconfigurar nuevos dispositivos con perfiles de Windows AutoPilot antes de entregar los dispositivos a los clientes y aplicar nuevos perfiles a los dispositivos que los clientes ya han comprado. 
 
@@ -33,7 +40,7 @@ Si no está familiarizado con AutoPilot, revise la información de estos artícu
 - [Información general de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Información general
+## <a name="overview"></a>Introducción
 
 Con la característica de Windows AutoPilot del centro de Partners, puede crear perfiles personalizados para aplicarlos a los dispositivos del cliente. La siguiente configuración de perfil estaba disponible en el momento en que se publicó este artículo:
 

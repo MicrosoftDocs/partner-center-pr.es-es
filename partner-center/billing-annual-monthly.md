@@ -1,25 +1,35 @@
 ---
 title: Diferencias de facturación mensuales y anuales | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
-Description: Diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
+ms.date: 11/25/2019
+Description: Obtenga información sobre las diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389773"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722404"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Diferencias de facturación mensuales y anuales
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Administrador de incentivos
+- Usuario de incentivos
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 En este tema se explican las diferencias entre la **facturación mensual** y la **facturación anual** del centro de Partners, incluidas las ventajas y los casos de uso. Tiene la opción de pagar algunas suscripciones de proveedor de soluciones en la nube (CSP) mensual o anual.
 
@@ -179,7 +189,7 @@ Los siguientes cambios de suscripción facturados anualmente aparecen en la colu
 
 Cuando se cancela una suscripción facturada anualmente, el archivo de conciliación contendrá un elemento de línea para un crédito de cancelación.
 
-Si se produce la cancelación en los primeros 30 días del período de doce meses, la suscripción se abonará en el 100 por ciento. Si la cancelación se produce después de los primeros 30 días, la suscripción será abonada de forma prorrateada.
+Si se produce la cancelación en los primeros 30 días del período de doce meses, la suscripción se abonará en el 100 por ciento. Si la cancelación se produce después de los primeros 30 días, la suscripción se abonará de forma prorrateada.
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Agregar licencias a la suscripción anual
 
@@ -213,7 +223,7 @@ Los asociados obtienen incentivos en todas las transacciones válidas, independi
 
 Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-| Region | Dirección de correo electrónico |
+| Región | Dirección de correo electrónico |
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |

@@ -1,7 +1,7 @@
 ---
 title: Confirmar la aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo confirmar la aceptación del cliente del contrato de Microsoft Cloud. Esto puede ser necesario para ordenar los productos y servicios de Microsoft para los clientes.
@@ -9,17 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimiento, MCA, contrato de Microsoft Cloud, plantillas de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252588"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722088"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del Contrato de Microsoft Cloud
 
 **Se aplica a**
 -  Centro de partners
+
+**Roles adecuados**
+
+- Agente de administración
+- Agente de ventas
 
 > [!NOTE]
 > Actualmente, el recurso de acuerdo solo es compatible con el centro de Partners en la nube pública de Microsoft. No es aplicable a:
@@ -92,7 +97,7 @@ Debes ser agente de administración o agente de ventas para poder hacer esto.
 2. Selecciona **Información de cuenta**.
 3. En **Contrato de Microsoft Cloud**, selecciona **Actualizar**.
 
-![Actualización](images/mca/mca4.png)
+![Actualizar](images/mca/mca4.png)
 
 4. Escriba el **nombre**, los **apellidos**, la **dirección de correo electrónico**y el **número de teléfono** (opcional) del usuario que aceptó el contrato.
 5. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.

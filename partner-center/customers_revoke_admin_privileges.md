@@ -1,7 +1,7 @@
 ---
 title: Los clientes delegan privilegios administrativos en los partners | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo pedir a los clientes que deleguen permisos de administrador en un revendedor o quite los mismos permisos y cómo usar los permisos.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: privilegios de administrador delegado, administrador en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253481"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722184"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Los clientes delegan privilegios administrativos en los partners
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
+
+**Roles adecuados**
+
+- Agente de administración
+- Agente de ventas
 
 Para administrar la suscripción o el servicio de un cliente en su nombre, el cliente debe conceder permisos de administrador de dicho servicio. Para obtener los permisos de administrador de un cliente, envíale un correo electrónico con una solicitud de relación de revendedor. Cuando el cliente apruebe la solicitud, podrás iniciar sesión en el portal de administración del servicio y administrar el servicio en nombre del cliente. 
 
@@ -91,7 +96,7 @@ Cada suscripción de Azure tiene su propio conjunto de roles de administración 
 
 - Cuando un cliente quita los privilegios de administración delegados de un asociado mediante el portal de Office 365, el asociado todavía puede administrar la suscripción de Azure del cliente siempre que el socio todavía esté asignado a uno o varios roles de la suscripción. Para que el partner deje de administrar la suscripción de Azure, el cliente debe quitar la asignación de roles.
 
-## <a name="windows-autopilot"></a>Windows Autopilot
+## <a name="windows-autopilot"></a>Windows AutoPilot
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 

@@ -1,8 +1,8 @@
 ---
 title: Información general sobre facturación | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
-description: Información básica de facturación y factura para el centro de Partners.
+ms.date: 11/25/2019
+description: Obtenga información sobre la facturación básica y la información de facturación del centro de Partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384547"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722468"
 ---
 # <a name="billing-overview"></a>Información general sobre facturación
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Asociados en el programa proveedor de soluciones en la nube (CSP)
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 ## <a name="find-your-bill"></a>Busque su factura
 
 Para encontrar su factura:
 
 1. [Inicie sesión en el panel del centro de Partners](https://partner.microsoft.com/dashboard/home).
+
 2. En el menú de la izquierda, elija **facturación**.
+
 3. En la página **facturación** , puede descargar la factura más reciente o descargar las facturas anteriores en la sección **historial de facturación** .
 
 ## <a name="bill-your-customers"></a>Facturar a los clientes
@@ -115,7 +125,7 @@ Para cambiar la frecuencia de facturación de un servicio en línea para un clie
 5. En la página de **detalles** , en **frecuencia de facturación**, seleccione **mensual** o **anual**. Verá una página de confirmación con información importante sobre cómo cambiar la frecuencia de facturación, así como una lista de las suscripciones que se van a cambiar.
 6. Elija **Aceptar** para hacer el cambio (o **Cancelar** para deshacerlo).
 
-### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelaciones
+### <a name="adjustmentscreditscancellations"></a>Ajustes, créditos y cancelaciones
 
 Microsoft no cobra las tarifas de finalización tempranas para la cancelación de servicios basados en licencias.
 
@@ -137,7 +147,7 @@ Las **suscripciones existentes** usan la tarifa en vigor al comienzo del ciclo d
 
 Las **nuevas suscripciones**, cuando se crean en el mismo ciclo de facturación, usan la tasa vigente en la fecha de creación. 
 
-### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelaciones
+### <a name="adjustmentscreditscancellations"></a>Ajustes, créditos y cancelaciones
 
 Verás los pagos con ajustes en la siguiente factura de facturación mensual.
 

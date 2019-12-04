@@ -1,7 +1,7 @@
 ---
 title: Crear, suspender o cancelar suscripciones de cliente | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo vender sus suscripciones de clientes a los productos del catálogo después de haber creado un registro de cliente en el centro de Partners.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253458"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721716"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -27,8 +27,11 @@ ms.locfileid: "74253458"
 
 **Roles adecuados**
 
-- Administrador global
 - Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo. Esto incluye productos publicados por Microsoft, así como productos de software como servicio (SaaS) publicados por fabricantes de software independientes (ISV) de terceros en el [Marketplace comercial](https://azuremarketplace.microsoft.com/marketplace). 
 
@@ -149,7 +152,7 @@ Para detener la renovación automática de una suscripción de Marketplace comer
 
 6. Selecciona **Enviar**.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 - [Compre productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-purchase.md)
 - [Administrar productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-manage.md)

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681923"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722257"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ Se aplica a:
 
 - Centro de partners
 
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
+- Administrador de administración de usuarios
+ 
 ## <a name="what-are-azure-reservations"></a>¿Qué son Azure Reservations?
 
 Azure Reservations ayudarle a ahorrar dinero al pagar por adelantado de una máquina virtual de un año o tres años, SQL Database capacidad de proceso, Azure Cosmos DB el rendimiento u otros recursos de Azure. Pagar por adelantado te permite conseguir un descuento en los recursos que uses. Las reservas pueden reducir significativamente el costo de la máquina virtual, el cálculo de SQL Database, Azure Cosmos DB y otros recursos hasta un 72 %, en comparación con los precios de pago por uso. Las reservas proporcionan un descuento de facturación y no afectan al estado en tiempo de ejecución de los recursos. Para obtener más información, consulte [¿Qué son Azure reservations?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)

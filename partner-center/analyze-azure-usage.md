@@ -11,18 +11,26 @@ ms.topic: article
 keywords: datos de negocios
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253387"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722389"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obtener datos sobre el uso de las suscripciones de Azure de tus clientes
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
+- Partners del programa Proveedor de soluciones en la nube
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
 
 Los datos determinan las decisiones comerciales. Usa las métricas de la página **Uso de Azure** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
 

@@ -1,19 +1,19 @@
 ---
 title: Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conozca los pasos para que los asociados directos de facturación (revendedores directos, proveedores indirectos) validen a los asociados y clientes de Office 365 Government GCC for CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253532"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721938"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública para el CSP
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253532"
 -  Centro de partners
 -  Partners del CSP
 
+**Roles adecuados**
+
+- Administrador global
+- Agente de administración
+- Agente de ventas
+
 >[!NOTE]
->El proceso y los criterios de validación descritos a continuación son específicos para los partners de factura directa. Los partners de factura directa incluyen revendedores directos y proveedores indirectos.  Si eres revendedor indirecto, colabora con tu proveedor indirecto. 
+>El proceso y los criterios de validación descritos a continuación son específicos para los partners de factura directa. Los partners de factura directa incluyen revendedores directos y proveedores indirectos.  Si eres revendedor indirecto, colabora con tu proveedor indirecto.
 
 Si estás interesado en que tu organización, o la organización de tus clientes, se apruebe para el GCC de Office 365 Administración Pública para el CSP, revisa los requisitos siguientes.
 

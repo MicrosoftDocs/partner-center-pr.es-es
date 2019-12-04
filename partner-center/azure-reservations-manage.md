@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, reservas, administración, facturación, compra, cancelación, intercambio, cuota de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252637"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722281"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Administrar reservas de Microsoft Azure en nombre de los clientes
 
 **Se aplica a**
 
--  Centro de partners
--  Microsoft Azure Portal 
--  Partners de CSP
+- Centro de partners
+- Microsoft Azure Portal 
+- Partners de CSP
 
-Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal. 
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
+- Administrador de administración de usuarios
+
+Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal.
 
 1. Para empezar, seleccione **customers (clientes** ) en el menú del centro de Partners y seleccione el cliente cuyas reservas desea administrar. 
 
@@ -45,8 +53,8 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
 Si en algún momento cambian las necesidades empresariales de un cliente, es posible que deseen cancelar una reserva y obtener un reembolso o intercambiar el importe de reembolso prorrateado de una reserva para usarlo en el precio de una nueva reserva.
 
-En ambos escenarios, Microsoft reembolsa el importe para que pueda administrar las transacciones financieras resultantes con sus clientes. Microsoft no se pone en contacto directamente con los clientes sobre la facturación, las cancelaciones o los reembolsos.   
- 
+En ambos escenarios, Microsoft reembolsa el importe para que pueda administrar las transacciones financieras resultantes con sus clientes. Microsoft no se pone en contacto directamente con los clientes sobre la facturación, las cancelaciones o los reembolsos.
+
 
 **Cómo funcionan las cancelaciones**
 
@@ -57,9 +65,9 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Pondrá**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | Sin          | 100%       | Sin                              | $50.000 USD   |
-|5 o menos                         | Sí         | Prorrateado  | Sin                              | $50.000 USD   |
-|Más de 5                        | Sin          | Prorrateado  | 305                             | $50.000 USD   |
+|5 o menos                         | No          | 100 %       | No                              | $50.000 USD   |
+|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
+|Más de 5                        | No          | Prorrateado  | 305                             | $50.000 USD   |
 |Más de 5                        | Sí         | Prorrateado  | 305                             | $50.000 USD   |
 
 

@@ -1,7 +1,7 @@
 ---
 title: Suscripciones de cliente | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden vender suscripciones a los clientes y administrarlas a través del centro de Partners.
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: suscripciones, asignación de licencias, licencias, satisfacción del cliente, suscripciones de Azure
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253495"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722549"
 ---
 # <a name="customer-subscriptions"></a>Suscripciones de cliente
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 Como partner de CSP, una de las funciones principales que llevas a cabo, es ofrecer suscripciones de productos de Microsoft a tus clientes. En el centro de Partners, puede administrar todas las suscripciones de cada cliente. Puedes agregar suscripciones, agregar licencias a suscripciones existentes, incluso ofrecer suscripciones de evaluación a los clientes que quieran probar el software. Además, puede ver el análisis para comprender el modo en que los clientes usan el software, lo que le ayuda a proporcionar una mejor compatibilidad.
 

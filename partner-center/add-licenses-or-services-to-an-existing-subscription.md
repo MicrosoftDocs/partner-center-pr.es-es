@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253139"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721758"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
+- Partners del programa Proveedor de soluciones en la nube
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción. Para obtener más información, consulta [Cambiar a otro plan de Office 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -73,8 +82,6 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </tr>
 </tbody>
 </table>
-
- 
 
 Las suscripciones se pueden actualizar si se cumplen estas condiciones:
 

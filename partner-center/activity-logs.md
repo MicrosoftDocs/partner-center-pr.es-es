@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252712"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721792"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
+- Partners del programa Proveedor de soluciones en la nube
 
+**Roles adecuados**
+
+- Administrador global
+- Administrador de facturación
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes. Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas. También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.
 
@@ -31,7 +40,9 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 **Ver y exportar los registros de actividad**
 
-1.  En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.
+1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+
+2. En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.
 2.  Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.
 
     Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.

@@ -1,7 +1,7 @@
 ---
 title: Incentivos las notificaciones de cooperación | Centro de Partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo enviar notificaciones de incentivos sin el requisito previo para revisar el plan de actividades.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación
 ms.localizationpriority: medium
-ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253406"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721632"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Introducción a las reclamaciones de incentivos de cooperación
 
 **Se aplica a**
 
 - Centro de partners
+
+**Roles adecuados**
+
+- Administrador de incentivos
+- Usuario de incentivos
 
 Cuando participa en uno de los programas de incentivos de Microsoft (por ejemplo, el fondo de marketing cooperativo, el programa de asesor de servicios en línea o el programa de Dynamics ISV), reclama reembolsos de los fondos obtenidos para las actividades que ha hecho. admitir el reconocimiento de productos de Microsoft. Envía una demanda directamente desde el centro de Partners. Ya no necesitas tener tu plan de actividad revisado por Microsoft antes de enviar una reclamación. Envía la reclamación y la documentación necesaria no más tarde de la fecha límite del período de reclamación, que se sitúa 45 días después del final del período de uso. 
 

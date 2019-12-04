@@ -1,25 +1,32 @@
 ---
 title: Archivos de conciliación de uso con clasificación diaria | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
-description: Comprenda los archivos de conciliación de uso clasificados diariamente en el centro de Partners.
+ms.date: 11/27/2019
+description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389703"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721861"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Archivos de conciliación de uso clasificados diariamente
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 En este tema se explica cómo leer archivos de conciliación de uso clasificados diariamente.
 

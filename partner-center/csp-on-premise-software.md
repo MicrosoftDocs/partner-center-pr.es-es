@@ -1,7 +1,7 @@
 ---
 title: Vender software local a través de CSP | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden comprar, administrar, vender y cancelar suscripciones de software locales en nombre de los clientes del centro de Partners.
@@ -10,16 +10,21 @@ ms.author: evansma
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP indirecto, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4993ebbb38ad4e04a65004ba6542701c525790ae
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0eb888ac225ebad1a66abd415c5572dac8b4a43e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253537"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721326"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Vender software local a través de CSP
 
-El software local en CSP admite una transición sin problemas a la nube introduciendo software local en un programa centrado en la nube.  Esta nueva oferta te ayuda a llevar al socio de valor agregado a todos los escenarios de compra ya que proporcionan una única plataforma para transacciones de todos los productos de Microsoft. Como CSP, ahora puedes vender software local a través del Centro de partners además de Open, EA y otros programas actualmente en uso. El software local en CSP es un nuevo programa de ventas y no está diseñado para reemplazar a ninguno de los otros programas de licencias por volumen de Microsoft. 
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+
+El software local en CSP admite una transición sin problemas a la nube introduciendo software local en un programa centrado en la nube.  Esta nueva oferta ayuda a llevar el asociado de valor agregado a todos los escenarios de compra, ya que proporcionan una plataforma única para todos los productos de Microsoft. Como CSP, ahora puedes vender software local a través del Centro de partners además de Open, EA y otros programas actualmente en uso. El software local en CSP es un nuevo programa de ventas y no está diseñado para reemplazar a ninguno de los otros programas de licencias por volumen de Microsoft. 
  
 A la vez que garantiza el mejor valor general del cliente con las opciones de licencia de software local, también hemos hecho que el modelo empresarial sea lo más adecuado para los asociados. Licencia directa de software local en CSP significa una previsibilidad de los costes y un proceso de ventas y optimizado para ti. Este nuevo modelo de negocio facilita el proceso de adquirir, administrar y establecer el precio del software local para los clientes, lo que permite centrarse en negocios ventajosos con una cartera ampliada de soluciones de valor añadido de administración de TI. 
 

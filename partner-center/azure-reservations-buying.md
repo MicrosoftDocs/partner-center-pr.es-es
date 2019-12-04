@@ -1,7 +1,7 @@
 ---
 title: Comprar reservas de Microsoft Azure en nombre de los clientes | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
@@ -10,40 +10,48 @@ ms.author: labrenne
 keywords: azure, reservas, administrar, facturación, comprar
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253243"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722007"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners 
 
 **Se aplica a**
 
--  Centro de partners
--  Microsoft Azure Portal
--  Partners de CSP
+- Centro de partners
+- Microsoft Azure Portal
+- Partners de CSP
 
-## <a name="before-you-begin"></a>Antes de empezar
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
+- Administrador de administración de usuarios
+
+## <a name="before-you-begin"></a>Antes de comenzar
 
 Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes.
 
 - Si y cuando el cliente firma el nuevo contrato de cliente [de Microsoft confirmar la aceptación del cliente del contrato de Microsoft](confirm-customer-agreement.md), debe adquirir reservas de Azure en el plan de Azure. Para obtener más información, lea el [plan de compra de Azure](purchase-azure-plan.md).
 
--   Los clientes ya deben tener una suscripción de Azure activa para poder comprar reservas en su nombre.
+- Los clientes ya deben tener una suscripción de Azure activa para poder comprar reservas en su nombre.
   
--   Los costos de las suscripciones de software, como SQL Database o SUSE Linux, no se incluyen en los precios de reserva de Azure.
+- Los costos de las suscripciones de software, como SQL Database o SUSE Linux, no se incluyen en los precios de reserva de Azure.
 
--   Los precios comerciales de Microsoft no incluyen impuestos, a menos que su ubicación sea Brasil. Si su ubicación es de Brasil, el precio comercial para usted incluye los impuestos correspondientes 
- 
--   Los agentes del departamento de soporte técnico y ventas necesitan acceso explícito a la suscripción de Azure para poder comprarla o administrarla en el Azure Portal y archivar solicitudes de soporte, incluidos los cambios y los reembolsos, en nombre del cliente.  
+- Los precios comerciales de Microsoft no incluyen impuestos, a menos que su ubicación sea Brasil. Si su ubicación es de Brasil, el precio comercial para usted incluye los impuestos correspondientes
 
--   Si es un proveedor indirecto y compra reservas de Azure a través del Azure Portal, el asociado de registro (revendedor indirecto) se hereda de la suscripción de CSP de Azure que seleccione. 
+- Los agentes del departamento de soporte técnico y ventas necesitan acceso explícito a la suscripción de Azure para poder comprarla o administrarla en el Azure Portal y archivar solicitudes de soporte, incluidos los cambios y los reembolsos, en nombre del cliente.  
 
--   No se puede cambiar el asociado de registro para las reservas de Azure después de la compra. Puedes cancelar la reserva existente y comprar una nueva con el nuevo Partner en registro. 
+- Si es un proveedor indirecto y compra reservas de Azure a través del Azure Portal, el asociado de registro (revendedor indirecto) se hereda de la suscripción de CSP de Azure que seleccione.
 
--   Si un cliente quiere transferir una suscripción de Azure desde Direct o EA a CSP, no se transfieren las reservas. 
+- No se puede cambiar el asociado de registro para las reservas de Azure después de la compra. Puedes cancelar la reserva existente y comprar una nueva con el nuevo Partner en registro.
+
+- Si un cliente quiere transferir una suscripción de Azure desde Direct o EA a CSP, no se transfieren las reservas.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados no disponibles de reservas de Azure
 
@@ -56,8 +64,8 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Samoa Americana     | Granada     | Islas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunión     |
 > | Anguila     | Guam     | Saba   |
-> | Antártida     | Guernsey     | San Bartolomé   |
-> | Antigua y Barbuda       | Guinea     | Santa Lucía   |
+> | Antártida     | Guernesey     | San Bartolomé   |
+> | Antigua y Barbuda       | Guinea     | Santa Lucía   |
 > | Aruba       | Guinea-Bisáu     | San Martín   |
 > | Azerbaiyán       | Guyana     | San Pedro y Miquelón   |
 > | Benín     | Haití       | San Vicente y las Granadinas     |
@@ -72,7 +80,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | República Centroafricana     | Liberia     | Somalia     |
 > | Chad     | Madagascar     | Georgia del Sur e islas Sandwich del sur     |
 > | China     | Malawi     | Sudán del Sur     |
-> | Isla de Navidad     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
+> | Isla Christmas     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
 > | Islas Cocos     | Malí     | Surinam     |
 > | Comoras     | Islas Marshall     | Mayen     |
 > | Congo     | Martinica     | Suazilandia     |
@@ -81,7 +89,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 > | Yibuti     | Micronesia     | Tokelau   |
 > | Dominica     | Montserrat     | Tonga   |
 > | Guinea Ecuatorial     | Mozambique     | Islas Turcas y Caicos   |
-> | Eritrea     | Myanmar     | Tuvalu   |
+> | Eritrea     | Birmano     | Tuvalu   |
 > | Islas Malvinas     | Nauru     | Islas Ultramarinas Menores de EE. UU.   |
 > | Guayana Francesa     | Nueva Caledonia     | Vanuatu   |
 > | Polinesia Francesa     | Níger     | Ciudad del Vaticano   |

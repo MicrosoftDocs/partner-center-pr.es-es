@@ -1,7 +1,7 @@
 ---
 title: Vender en sectores especializados | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre los precios especiales y reducidos de Microsoft para determinados grupos de clientes, incluidos clientes de educación, clientes sin ánimo de lucro y usuarios de la administración pública.
@@ -9,18 +9,24 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253648"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722451"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
+
+**Roles adecuados**
+
+- Administrador global
+- Agente de administración
+- Agente de ventas
 
 Microsoft proporciona precios especiales reducidos para grupos seleccionados de clientes, incluyendo clientes educativos, clientes sin ánimo de lucro, pequeñas empresas y entidades gubernamentales. Tanto tú como tu cliente debéis estar cualificados para los mismos, antes de poder ofrecerles precios especiales. 
 
@@ -28,18 +34,18 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 |**Precios especiales**   |**Calificaciones necesarias del reseller**   |**Calificaciones necesarias para el cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Educación   |Convertirse en [vendedor autorizado de Educación](https://www.mepn.com).   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Education   |Convertirse en [vendedor autorizado de Educación](https://www.mepn.com).   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
 |Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   Ninguno|
 |Organizaciones sin ánimo de lucro  |Ninguno<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
 
 
-## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
+## <a name="check-your-reseller-qualifications"></a>Comprobar tus cualificaciones de revendedor
 
 Los siguientes pasos solo se aplican a proveedores indirectos y a asociados directos de facturación. Los revendedores indirectos necesitan conectarse con un proveedor indirecto para ofrecer ofertas con precios académicos a usuarios cualificados de educación. 
 
-1.  En el panel de partners, selecciona el icono de engranaje ubicado en la esquina superior derecha de la ventana para abrir **Configuración de la cuenta**.
+1.  En el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners, seleccione el icono de engranaje en la esquina superior derecha de la ventana para abrir la configuración de la **cuenta**.
 2.  En tu **Perfil de partner**, en la sección **Información del programa**, busca **Cualificaciones de revendedor**.
-3.  Si no ves **Calificaciones de revendedor**, no tienes autorización para comprar ofertas especiales.
+3.  Si no ves **Cualificaciones de revendedor**, aún no tienes autorización para comprar ofertas especiales.
 
 ## <a name="check-the-customer-qualifications"></a>Comprobar las calificaciones de cliente
 
@@ -51,7 +57,7 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 
 Una vez que tú y el cliente hayáis cualificado para un programa de oferta especial, sigue los pasos para [agregar una suscripción](create-a-new-subscription.md). En la sección **Catálogo** de la página **Nueva suscripción**, selecciona un sector especializado para ver las ofertas especiales que puedes vender.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 [Venda las suscripciones de Minecraft: Education Edition a los clientes de educación](minecraft-subscriptions.md)
 

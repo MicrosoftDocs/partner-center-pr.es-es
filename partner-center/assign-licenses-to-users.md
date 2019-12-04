@@ -1,7 +1,7 @@
 ---
 title: Tareas de administración de usuarios para las cuentas de cliente | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo crear cuentas de usuario para un cliente, agregar o quitar licencias de usuario, restablecer contraseñas de usuario, eliminar cuentas de usuario o restaurarlas.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Administración de clientes, cuenta, crear cuenta, licencias, asignar licencia, administración de usuarios, contraseña, restablecer contraseña, cambiar contraseña
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253351"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721356"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
 **Se aplica a**
 
 - Centro de partners
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
+- Agente de administración
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 Puede crear y eliminar nuevos usuarios en la cuenta de un cliente. También puede restaurar una o más cuentas de usuario que haya eliminado previamente en un plazo de 30 días a partir de la eliminación. Las asignaciones anteriores de la suscripción del usuario también se restaurarán (suponiendo que sus asignaciones anteriores estén disponibles).
 
@@ -39,7 +47,7 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 
 3. En el menú del cliente, selecciona **Usuarios y licencias**.
 
-4. Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. **Guardar** para guardar los cambios.
+4. Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. Haz clic en **Guardar** para guardar los cambios.
 
 5. Asegúrate de registrar el nombre de usuario y la contraseña temporal que enviarás al usuario.
 
@@ -102,7 +110,7 @@ Si necesitas restaurar esta cuenta, puedes encontrarla en la pestaña **Usuarios
 
 3.  Selecciona la pestaña **Usuarios eliminados ( )** . Si hay usuarios eliminados que se pueden restablecer, mostrará **(1)** o más.
 
-4.  Selecciona una o varias de las casillas de los usuarios eliminados y, a continuación, selecciona **Restaurar**.
+4.  Selecciona una o varias de las casillas de los usuarios eliminados y a continuación selecciona **Restaurar**.
 
     Todas las cuentas de usuario seleccionadas volverán a aparecer en la página **Usuarios y licencias**.
 

@@ -1,7 +1,7 @@
 ---
 title: Escalar problemas a Microsoft | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los problemas que se espera que los partners de Microsoft se solucionen por sí mismos para sus clientes y los problemas que pueden necesitar para remitirse a Microsoft.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252564"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722236"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Escalar problemas a Microsoft
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador global
+- Agente de ventas
+- Agente del departamento de soporte técnico
 
 Se espera que soluciones los problemas en nombre de los clientes. Los primeros pasos deberían ser [comprobar el estado del servicio](check-service-health.md) para ver si hay problemas existentes y documentados. Si esto no soluciona el problema del cliente, puedes usar tus privilegios de administrador para solucionar problemas de software, opciones y configuración.
 
@@ -32,7 +39,7 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 - Servicios no disponibles
 
-- Errores y otras irregularidades que afectan al aspecto o funcionamiento del servicio
+- Errores y otras irregularidades que afectan al aspecto o al funcionamiento del servicio.
 
 - Interrupciones de red a gran escala
 

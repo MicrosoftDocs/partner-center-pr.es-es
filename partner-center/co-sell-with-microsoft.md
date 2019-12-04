@@ -1,7 +1,7 @@
 ---
 title: Venta conjunta con Microsoft | Centro de Partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir Engagements, invitar a Microsoft a colaborar o ver las negociaciones enviadas.
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253453"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721501"
 ---
 # <a name="co-sell-with-microsoft"></a>Venta conjunta con Microsoft
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+
+- Administrador de partners de MPN
+- Administrador de referencias
 
 Como asociado de Microsoft cualificado, tiene la oportunidad de colaborar con Microsoft. Esta colaboración le ayuda a tomar soluciones para comercializar, impulsar ingresos conjuntos y garantizar el éxito de los clientes.
 

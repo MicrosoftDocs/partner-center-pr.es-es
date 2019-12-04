@@ -1,7 +1,7 @@
 ---
 title: Tipos de facturación en el centro de Partners | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre los diferentes tipos de facturación, períodos de facturación y fechas de facturación que puede ver en el centro de Partners.
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: facturación, pagos, pedidos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384850"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722250"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Tipos de facturación en el centro de Partners
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Partners del programa CSP
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 Se le facturarán las compras del centro de Partners en función de los productos, soluciones y servicios que compre en nombre de sus clientes. Los tipos de facturación son los siguientes:
 

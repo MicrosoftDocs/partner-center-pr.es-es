@@ -1,21 +1,28 @@
 ---
 title: Escenarios comunes de facturación para una sola vez y seleccione compras periódicas | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
-description: Escenarios de facturación comunes en el centro de partners para una sola vez y seleccione compras periódicas (por ejemplo, suscripciones de compra, agregando más suscripciones, agregando y quitando puestos).
+ms.date: 11/25/2019
+description: Consulte los ejemplos de facturación del centro de partners para una sola vez y seleccione compras periódicas; al adquirir suscripciones, agregar más suscripciones, agregar o quitar puestos.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
-ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389643"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722506"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Una vez y seleccione los escenarios de facturación de compra periódica
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 Estos ejemplos de [escenarios de facturación comunes](common-billing-scenarios.md) se aplican a [una sola vez y seleccionan cargos periódicos](one-time-and-recurring-billing.md) en el centro de Partners.
 
