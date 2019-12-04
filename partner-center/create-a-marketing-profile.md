@@ -1,7 +1,7 @@
 ---
 title: Creación de un perfil de negocio | Centro de partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a obtener clientes potenciales de ventas de Microsoft. Un paso clave es crear un perfil de negocio en el Centro de partners que permita a los clientes encontrarte.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, referencias, clientes potenciales, C2PC, perfil de la empresa, comercializar la empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252661"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722528"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **Se aplica a**
 
--  Centro de partners
--  Partners de Microsoft Partner Network
--  Partners del programa Proveedor de soluciones en la nube
+- Centro de partners
+- Partners de Microsoft Partner Network
+- Partners del programa Proveedor de soluciones en la nube
+
+**Roles adecuados**
+
+- Administrador de cuentas
+- Administrador del perfil de negocio
+- Administrador global
+- Administrador de referencias
 
 Como partner de Microsoft calificado, puede crear un perfil de negocio para presentar su negocio a los clientes que buscan sus soluciones únicas y la experiencia para satisfacer sus necesidades empresariales.
 

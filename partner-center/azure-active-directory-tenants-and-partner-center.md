@@ -1,7 +1,7 @@
 ---
 title: Cuentas profesionales y Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre por qué necesitas una cuenta profesional para crear una cuenta del Centro de partners, y saber si ya tienes una cuenta profesional.
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: cuenta profesional, correo electrónico, inquilino, inquilino de Azure, crear cuenta, nombre de dominio
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253319"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721349"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de administración de usuarios
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
@@ -34,16 +39,18 @@ Tu cuenta profesional o correo electrónico del trabajo es la dirección de corr
 Si tienes más de una dirección de correo electrónico del trabajo válida, usa la que esté asociada a tu sede corporativa en lugar de al departamento regional. Por ejemplo, usa el correo electrónico contoso.com en lugar de la dirección contoso.uk.
 
 > [!NOTE]  
->  Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Centro de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Centro de partners, piensa en crear una nueva cuenta para solo aquellos usuarios que tendrán que trabajar en el Centro de partners.
+> Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Centro de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Centro de partners, piensa en crear una nueva cuenta para solo aquellos usuarios que tendrán que trabajar en el Centro de partners.
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>¿No estás seguro de si tu empresa ya tiene una cuenta profesional?
 
 Si no estás seguro de si tu empresa tiene una cuenta profesional, sigue estos pasos para comprobarlo. Ten en cuenta que si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional.
 
-1.  Inicia sesión en el portal de administración de Azure en https://ms.portal.azure.com
-2.  Selecciona Azure Active Directory en el menú y luego selecciona Nombres de dominio.
-3.  Si ya tienes una cuenta profesional, se mostrará tu nombre de dominio.
+1. Inicia sesión en el portal de administración de Azure en https://ms.portal.azure.com
+
+2. Selecciona Azure Active Directory en el menú y luego selecciona Nombres de dominio.
+
+3. Si ya tienes una cuenta profesional, se mostrará tu nombre de dominio.
 
 Si tu empresa aún no tiene una cuenta profesional, puedes crear una durante el proceso de inscripción.
 

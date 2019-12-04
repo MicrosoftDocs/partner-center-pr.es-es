@@ -1,7 +1,7 @@
 ---
 title: Crear cuentas de usuario y establecer permisos | Centro de partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo crear cuentas de usuario y asignar roles en el Centro de partners, para cada empleado que necesite acceso. Los usuarios con privilegios de administrador diferentes pueden hacerlo.
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: roles, permisos, agregar usuario, asignar rol, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252088"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722457"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
-Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe llevar a cabo el administrador de gestión de usuarios, el administrador de cuentas o el administrador global. 
+**Roles adecuados**
+
+- Administrador de cuentas
+- Administrador global
+- Administrador de administración de usuarios
+
+Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe llevar a cabo el administrador de gestión de usuarios, el administrador de cuentas o el administrador global.
 
 
 ## <a name="add-a-new-user"></a>Agregar un usuario nuevo

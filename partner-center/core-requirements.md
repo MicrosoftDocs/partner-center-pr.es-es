@@ -1,7 +1,7 @@
 ---
 title: Requisitos básicos de reclamaciones de incentivos de cooperación | Centro de partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtén información sobre los requisitos para enviar una solicitud de incentivos en el Centro de partners para un tipo específico de actividad del programa de cooperación para incentivos.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación, requisitos básicos
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252077"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721323"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Requisitos básicos para reclamaciones de incentivos de cooperación
 
 **Se aplica a**
 
 - Centro de partners
+
+**Roles adecuados**
+
+- Administrador de incentivos
+- Usuario de incentivos
 
 Cada tipo de actividad para la que envías una reclamación de incentivos tiene unos requisitos básicos que debes cumplir y que deberás demostrar en tus documentos de prueba de ejecución. En algunos casos, existen métricas y tipos de comunicaciones definidos que también son obligatorios.
 

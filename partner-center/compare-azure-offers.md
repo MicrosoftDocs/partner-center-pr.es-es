@@ -1,7 +1,7 @@
 ---
 title: Comparar ofertas de Azure | Centro de Partners
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Compara las diferencias clave entre las ofertas de la nueva experiencia de Microsoft Commerce para partners en el programa de Proveedor de soluciones en la nube (CSP).
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253436"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722500"
 ---
 # <a name="compare-azure-offers"></a>Comparar ofertas de Azure
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
 
 En la tabla siguiente se proporciona información general sobre las diferencias principales entre las ofertas disponibles a través del programa Proveedor de soluciones en la nube (CSP) que forman parte de la nueva experiencia comercial de Microsoft.
 

@@ -1,7 +1,7 @@
 ---
 title: Lista de precios del plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información para usar el Centro de partners y así poder ver la lista de precios de las suscripciones en el plan de Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252683"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722047"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure 
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
+- Administrador de administración de usuarios
 
 La lista de precios para la nueva experiencia comercial de Azure en CSP se publica en el Centro de partners. Asimismo, esta lista de precios se entrega dinámicamente en un archivo preciso en tiempo real y los precios se muestran solo en USD. Sin embargo, la facturación se realiza en la moneda admitida aplicable a la ubicación de la moneda del cliente. Para obtener más información sobre la facturación en la ubicación de la moneda del cliente, consulta [Plan de Azure: facturación](azure-plan-billing.md).
 
