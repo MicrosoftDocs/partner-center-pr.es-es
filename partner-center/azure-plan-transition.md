@@ -1,7 +1,7 @@
 ---
 title: Transición de clientes al plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo trasladar fácilmente tus clientes al plan de Azure.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253272"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722290"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Transición de clientes al plan de Azure
+
+**Roles adecuados**
+
+- Agente de administración
+- Administrador de facturación
+- Administrador global
+- Agente del departamento de soporte técnico
+- Agente de ventas
+- Administrador de administración de usuarios
 
 Los proveedores indirectos y los partners de facturación directa pueden realizar la transición a la nueva experiencia de comercio disponible en el programa CSP de Azure. (Los revendedores indirectos deberán trabajar a través de sus proveedores indirectos). Gracias a ello, los clientes tendrán una forma simplificada de comprar servicios en la nube, ya sea comprando a partners, vendedores de Microsoft o directamente en la web.
 
@@ -93,7 +102,7 @@ La suscripción a "Microsoft Azure" (0145P) consta de dos partes:
 
 Cuando se completa la transición, la suscripción de Azure se administra en función del nuevo plan de Azure, y la suscripción comercial se suspende para que no se notifique ningún uso adicional.  
 
->[Nota]: Cuando la suscripción de Microsoft Azure (0145P) se compra en CSP, tanto la suscripción comercial como la de Azure (derecho) tienen el mismo valor. Solo en el caso de realizar cambios o transferencias en la propiedad de facturación difieren los valores. 
+>[Nota]\: Cuando la suscripción de Microsoft Azure (0145P) se compra en CSP, tanto la suscripción comercial como la de Azure (derecho) tienen el mismo valor. Solo en el caso de realizar cambios o transferencias en la propiedad de facturación difieren los valores. 
 
 **Problemas de transición**
 
