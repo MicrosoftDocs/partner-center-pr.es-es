@@ -1,7 +1,7 @@
 ---
 title: 'Cambiar al plan de Azure: introducción | Centro de partners'
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre la experiencia comercial del plan de Azure para comprar servicios de Azure en función de las tarifas de pago por uso de los clientes. Obtén también información sobre los nuevos requisitos de seguridad.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, plan de Azure, comprar suscripciones, suscripciones
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253291"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681932"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Cambiar al plan de Azure: introducción
 
@@ -27,7 +27,11 @@ Las necesidades de transformación digital de nuestros clientes requieren nuevas
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Asegúrate de que tus clientes hayan firmado el Acuerdo de cliente de Microsoft
 
-A partir del 1 de octubre de 2019, el Acuerdo de Cliente de Microsoft, un acuerdo perpetuo que simplifica y agiliza la experiencia de compra del cliente con un proceso totalmente digital, está disponible para que los clientes lo firmen digitalmente. Todos los clientes que quieran aprovechar la nueva experiencia comercial en CSP para Azure deben firmar el Acuerdo de Cliente de Microsoft.
+A partir del 1 de octubre de 2019, el Acuerdo de cliente de Microsoft, un acuerdo perpetuo que simplifica y agiliza la experiencia de compra del cliente con un proceso totalmente digital, está disponible. Todos los clientes que quieran aprovechar la nueva experiencia comercial en CSP para Azure deben firmar el Acuerdo de Cliente de Microsoft.
+
+Los partners que quieran realizar transacciones con el nuevo plan de Azure y hacer un nuevo pedido deberán confirmar la aceptación por parte del cliente del Acuerdo de cliente de Microsoft desde la API y el panel del Centro de partners en el entorno de producción.
+
+A partir del 1 de febrero de 2020, se quitará el Contrato de Microsoft Cloud existente del programa de CSP. A partir de ese momento, se requerirá la confirmación (atestación) del partner de la aceptación del cliente para el nuevo Acuerdo de cliente de Microsoft para las demás ofertas, como Microsoft 365, Dynamics 365 y Azure existente. Los partners en CSP no podrán realizar un nuevo pedido para el cliente sin la atestación del Acuerdo de cliente de Microsoft.
 
 Para obtener más detalles, consulta [Confirmar la aceptación del cliente del Acuerdo de Cliente de Microsoft](confirm-customer-agreement.md).
 
