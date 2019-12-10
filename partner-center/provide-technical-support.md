@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como partner de Proveedor de soluciones en la nube, tienes privilegios de administrador delegado que te dan acceso a todos los entornos de tus clientes.
+description: Información general sobre los distintos métodos y tipos de soporte técnico que puede ofrecer a sus clientes.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 337ae07c1e1e4f08b935713489b56bdf59803c0b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: af93ea420f1eefcf11af0a49b1bcab00de6f0029
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652169"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943468"
 ---
 # <a name="provide-technical-support"></a>Proporcionar soporte técnico
 
