@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Inscripción en el programa de formación de Software Assurance
+description: Detalles de la inscripción en el programa de aprendizaje de software Assurance para que pueda compensar la entrega de cursos y el planeamiento a los clientes empresariales.
 author: LauraBrenner
 ms.author: labrenne
 keywords: training vouchers, software assurance, training, enroll in SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384790"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943418"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
@@ -22,7 +22,7 @@ Haz crecer tu negocio mediante la inscripción en programas de partners de Softw
 
 Como partner autorizado de formación de Software Assurance, Microsoft te compensa por proporcionar formación técnica a los clientes empresariales a cambio de los vales que obtienen con Software Assurance. La participación en este programa puede ayudarte a atraer más clientes y a convertirte en su partner de formación de confianza.
 
-## <a name="get-started"></a>Comenzar
+## <a name="get-started"></a>Introducción
 
 Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje, empiece en el paso cuatro (4) a continuación. 
 
@@ -74,7 +74,7 @@ Los pagos se controlan a través de la herramienta de pago en línea de la venta
 
 Para obtener información adicional, lea las [preguntas más frecuentes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) y revise [las directivas del programa SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
-Consulte también:
+Consulta también:
 
 - [Flujo de trabajo de los vales de aprendizaje de software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
 - [Preguntas más frecuentes sobre los vales de aprendizaje de software Assurance (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)

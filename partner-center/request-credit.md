@@ -2,19 +2,19 @@
 title: Solicitar un crédito de contrato de nivel de servicio de Microsoft | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Solicite un crédito de contrato de nivel de servicio de Microsoft si se produce una interrupción del servicio.
+description: Obtenga información sobre las ventajas, las restricciones y los procedimientos para solicitar un crédito de contrato de nivel de servicio de Microsoft si sus clientes experimentan una interrupción del servicio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384899"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943148"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Solicitar un crédito de contrato de nivel de servicio de Microsoft 
 
@@ -44,14 +44,14 @@ Puede encontrar el identificador del incidente de interrupción en la página **
 
 | Abreviatura de dos letras | Servicio de Microsoft |
 | ----------------------- | ----------------- |
-| ANTIGUO | Exchange Online |
-| NTE | Protección de Exchange Online |
+| EX | Exchange Online |
+| FO | Protección de Exchange Online |
 | SB | Skype empresarial online (anteriormente, Lync Online) |
 | Sistema operativo | Suscripción a Office |
-| PB | Power BI para Office 365 |
-| DAÑADO | SharePoint Online |
+| CD | Power BI para Office 365 |
+| SP | SharePoint Online |
 | Cherokee | Yammer Enterprise |
-| ME | Error del portal |
+| MO | Error del portal |
 
 ### <a name="submit-sla-credit-request"></a>Enviar solicitud de crédito del contrato de nivel de servicio
 

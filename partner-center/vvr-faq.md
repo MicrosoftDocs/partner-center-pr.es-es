@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Validar y reservar asientos en el centro de Partners
+description: Preguntas más frecuentes sobre la herramienta de validación y canje de vales, incluida la información sobre la migración, la solicitud y el control de acceso, etc.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cupones de aprendizaje, software Assurance, aprendizaje, validar vales, reservar justificante
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651053"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943178"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Preguntas frecuentes: Uso de la herramienta de validación y canje de vales 
 

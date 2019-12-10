@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Mira las ganancias y pagos de los programas de incentivos.
+description: Mira las ganancias y pagos de los programas de incentivos. Esto incluye la página pagos, la página historial de transacciones y el estado de pago, así como la exportación de datos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559750"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943188"
 ---
 # <a name="view-your-incentives-payments-information"></a>Ver la información de los pagos de incentivos
 
@@ -54,21 +54,21 @@ Para exportar cualquiera de los datos de la transacción en esta página, selecc
 
 ## <a name="payment-status"></a>Estado del pago
 
-|**Obteniendo estado** |**Debido** |**¿Es necesaria la acción del asociado?**       |
+|**Obteniendo estado** |**Reason** |**¿Es necesaria la acción del asociado?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Sin procesar        | La ganancia es válida para el pago. Permanece en este estado durante un período de enfriamiento, tal como se define en la guía de programas para el programa de incentivos.       |No        |
-|Próximo      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
+|Próximos      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar la factura de impuestos antes de que se le pague         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |Failed        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
-|Envió        |Se ha enviado el pago al Banco.          |No       |
+|Enviado        |Se ha enviado el pago al Banco.          |No       |
 |Reprocesamiento       |El pago encontró un error del sistema de Microsoft y se está reprocesando.           |No         |
 |Invertida        |El banco invirtió el pago y se enviará de nuevo en el siguiente ciclo de pago.          |No        |
 |Factura de impuestos rechazada       |La factura de impuestos se rechazó durante la revisión. Todos los pagos pendientes estarán en espera hasta que se complete la revisión de la factura de impuestos.          |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |Factura de impuestos en revisión        |Se está revisando la factura de impuestos. El pago se publicará una vez que se haya aprobado la factura de impuestos.           |No        |
-|Aceptado        |El Banco rechazó el pago.           |Póngase en contacto con su banco para obtener más información.  |
+|Rechazadas        |El Banco rechazó el pago.           |Póngase en contacto con su banco para obtener más información.  |
 
 ## <a name="export-data-page"></a>Página exportar datos
 Siga las instrucciones de esta página para exportar los datos que desee. 
@@ -129,7 +129,7 @@ Esta opción proporciona una descarga de cada artículo de línea de obtención 
 |paymentId   |Identificador único para el pago. Este número normalmente es visible en la instrucción Bank.   |
 |paymentStatus   |Estado del pago   |
 |paymentStatusDescription   |Descripción detallada del estado de pago   |
-|Identificador   |Identificador de cliente   |
+|customerId   |Identificador de cliente   |
 |customerName   |Nombre del cliente de transacción   |
 
 
@@ -151,6 +151,6 @@ Además de la tabla anterior, estos campos de historial de transacciones estará
 |agreementNumber   |Número de contrato   |
 |agreementStartDate   |Fecha de inicio de contrato   |
 |agreementEndDate   |Fecha de finalización de contrato   |
-|duplica   |Carga de trabajo   |
+|carga de trabajo   |Carga de trabajo   |
   
 

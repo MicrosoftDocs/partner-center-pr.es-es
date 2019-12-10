@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En el caso de ciertas soluciones aptas, después de seleccionar Ganada, se te pedirá que incluyas información adicional para registrar la oferta. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión.
+description: Cuando registre un trato que haya ganado en el centro de Partners, ayudará a Microsoft a proporcionarle más oportunidades en el futuro.
 author: JnHs
 ms.author: jenhayes
 keywords: registro de la oferta
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652060"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943228"
 ---
 # <a name="register-your-deals"></a>Registrar las ofertas
 

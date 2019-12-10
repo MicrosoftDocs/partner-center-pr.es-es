@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cuando actualizas tu suscripción a Microsoft Partner Network, puedes beneficiarte de beneficios exclusivos. Aprende a buscar y comprar ofertas disponibles.
+description: Disfrute de las ventajas exclusivas mediante la actualización de la pertenencia a MPN a una suscripción de Microsoft Action Pack o a las competencias de Microsoft.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651164"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943408"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualizar tu suscripción a Microsoft Partner Network
 
@@ -82,7 +82,7 @@ La suscripción a Action Pack se renovará automáticamente cada año en esta fe
 3. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año. 
 
 > [!NOTE]  
-> Si desactiva la renovación automática de la suscripción, no podrá volver a activarla hasta que vuelva a renovar la suscripción. Le recordamos que debe renovar antes de que expire la suscripción.
+> Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos que debes renovar la suscripción antes de que expire.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar la suscripción a Action Pack

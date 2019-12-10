@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta para partners en el programa CSP que les permite comprar suscripciones de Azure para uso propio.
+description: Use los servicios compartidos de asociados de Azure para comprar suscripciones de Azure para su propio uso y para tener un método uniforme de compra, seguimiento y administración de Azure.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, servicios compartidos, inquilino
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651676"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943458"
 ---
 # <a name="add-azure-partner-shared-services"></a>Agregar Servicios compartidos para asociados de Azure
 
@@ -71,7 +71,7 @@ A partir del 1 de marzo de 2019, los servicios compartidos de asociados de Azure
 
 Los asociados que tienen servicios BYOL o gratis implementados con APSS no se verán afectados; sin embargo, después del 1 de marzo de 2019, no podrán adquirir nuevos servicios de BYOL o gratis. 
 
-Para aprovechar el catálogo completo de ofertas de Marketplace disponibles (no solo BYOL y servicios gratuitos), recomendamos que los asociados de CSP implementen servicios compartidos con suscripciones de Azure directas de Web.  Los asociados de CSP que han implementado BYOL de terceros y recursos de servicio gratis desde Marketplace previamente y desean seguir utilizándolos e implementar más ofertas de terceros se recomiendan migrar la suscripción de APSS a web Direct [migrando Azure existente Suscripciones](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+Para aprovechar el catálogo completo de ofertas de Marketplace disponibles (no solo BYOL y servicios gratuitos), recomendamos que los asociados de CSP implementen servicios compartidos con suscripciones de Azure directas de Web.  Los asociados de CSP que han implementado BYOL de terceros y recursos de servicio gratis desde Marketplace previamente y desean seguir utilizándolos e implementar más ofertas de terceros se recomiendan para migrar la suscripción de APSS a web Direct y [migrar las suscripciones de Azure existentes](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Los asociados, que planean seguir usando la suscripción a APSS después del 1 de marzo de 2019 y desean implementar nuevos [servicios de BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) de terceros o servicios gratuitos, pueden seguir las instrucciones de los ISV para implementarlos en sus suscripciones de APSS.
 

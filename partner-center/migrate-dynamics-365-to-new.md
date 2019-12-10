@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Las suscripciones de Dynamics 365 Business Edition ya no se pueden renovar.
+description: Obtenga información sobre cómo migrar las ofertas de Dynamics 365 Business Edition a las versiones más recientes antes de que expiren.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Ofertas de Dynamics 365, renovar ofertas, nuevas SKU de Dynamics 365
-ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653298"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943578"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrar ofertas de Dynamics 365 Business Edition a versiones más recientes 
 
@@ -32,8 +32,8 @@ Si usa la API (de la cresta o del centro de Partners), puede encontrar suscripci
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Las ediciones Business de Dynamics 365 que se están retirando
 
-- Dynamics 365 para finanzas y operaciones, edición Business
-- Dynamics 365 para los miembros del equipo, edición Business
+- Dynamics 365 for Finance and Operations, Business Edition
+- Dynamics 365 for Team Members, edición Business
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business central: las ofertas nuevas de Dynamics 365 Business Edition
 

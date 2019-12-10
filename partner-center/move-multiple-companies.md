@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Qué hay que saber antes de migrar varias empresas de PMC al Centro de partners
+description: Qué debe saber al migrar varias empresas de PMC al centro de Partners y consolidarlas en una cuenta global principal.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654344"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943588"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Paso de varias empresas al Centro de partners
 

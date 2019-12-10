@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consigue una representación visual de los datos de tu empresa con la Aplicación de análisis del Centro de partners para Power BI.
+description: Información general y preguntas más frecuentes sobre la aplicación del centro de partners para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0e5bc4ab47997123cace045bf577f2fa825174c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654160"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943478"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP)
 
@@ -44,7 +44,7 @@ Instala la aplicación para obtener vistas gráficas de lo siguiente:
 
 Te recomendamos que revises las respuestas a las preguntas más frecuentes antes de instalar la aplicación. 
 
-| **Correspondiente** | **Respuesta** |
+| **Pregunta** | **Respuesta** |
 | --- | ---------- |
 | ¿Cuánto cuesta la aplicación? | La aplicación en sí es gratuita. Para obtener la versión preliminar de la aplicación, puedes [registrarte en el servicio gratuito de Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) y usarla para personalizar los paneles y los informes. Para permitir que otros usuarios de tu empresa utilicen la aplicación, debes tener una suscripción activa a Microsoft Power BI Professional o a Microsoft Power BI Premium. |
 | ¿Quién puede conectarse a la Aplicación de análisis del Centro de partners? | Esta versión de la aplicación está diseñada para los partners directos (nivel 1) del programa de Proveedor de soluciones en la nube. Eres partner directo si trabaja directamente con Microsoft y con los clientes. Para instalar la aplicación, debe ser un administrador global, un agente de administración o un administrador de facturación para la cuenta de su empresa. |

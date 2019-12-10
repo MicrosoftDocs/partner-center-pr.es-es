@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aspectos que se deben tener en cuenta antes de trasladar su negocio de PMC al centro de Partners
+description: Revise la información útil y las preguntas más frecuentes antes de pasar su negocio de PMC al centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652185"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943268"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepárese para pasar del centro de afiliación del asociado (PMC) al centro de Partners
 
@@ -23,7 +23,7 @@ Estamos trasladando la administración de pertenencia del centro de afiliación 
 
 **¿Qué es una cuenta profesional de Azure Active Directory (Azure AD)?**
 
-Una cuenta profesional de Azure es una representación virtual dedicada y aislada de tu empresa en la nube pública de Azure, creada automáticamente cuando te suscribes a un servicio en la nube de Microsoft como Azure, Microsoft Intune u Office 365.
+Una cuenta profesional de Azure es una representación virtual dedicada y aislada de tu empresa en la nube pública de Azure, que se crea automáticamente cuando te suscribes a un servicio en la nube de Microsoft como Azure, Microsoft Intune u Office 365.
 
 Su cuenta profesional hospeda su Azure AD usuarios y la información sobre ellos: su correo electrónico, contraseñas, datos de perfil, permisos, etc. La cuenta profesional también contiene grupos, aplicaciones y otra información relativa a una empresa y su seguridad. Para obtener más información, vea...
 
@@ -91,7 +91,7 @@ Todavía puede optar por migrar al centro de partners mediante inquilinos de AAD
 **Si tengo varios inquilinos de AAD y una sola cuenta de MPN, ¿es posible vincularlos en el centro de Partners?**
 
 Sí, en el centro de Partners, puede vincular varios inquilinos de Azure AD a una cuenta del centro de Partners.
-Obtenga más información aquí. 
+Más información aquí. 
 
 **¿Existen restricciones para agregar varios inquilinos de Azure AD a una sola cuenta de centro de Partners?**
 

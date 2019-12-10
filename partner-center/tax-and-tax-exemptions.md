@@ -2,7 +2,7 @@
 title: Impuestos y exenciones fiscales | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
-description: Comprender las responsabilidades fiscales y enviar exenciones fiscales para las ventas de CSP.
+description: Obtenga información sobre las responsabilidades fiscales de su región geográfica específica y cómo enviar exenciones fiscales para las ventas de CSP.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384869"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943198"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
@@ -87,7 +87,7 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 2. En la página **solicitud de socio comercial** , elija **nueva solicitud**. (También puede ver las solicitudes de soporte abierto y cerrado más adelante en esta página).
 3. En el paso **aspectos básicos** , en **CSP-facturación y pagos**, elija **seleccionar un tipo de problema** y seleccione **solicitud de exención fiscal**.
 4. En el paso de **soluciones** , en **¿necesita más ayuda?** , elija **sí**.
-5. En el paso **detalles** , rellene el formulario **detalles del problema** . Asegúrese de lo siguiente:
+5. En el paso **detalles** , rellene el formulario **detalles del problema** . No olvide:
 
     - Rellene todos los campos obligatorios.
     - Incluya el identificador de **Microsoft** y el ID. de **MPN** en el campo de **detalles** .
@@ -95,7 +95,7 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 
 6. Elija **submit (enviar** ) para enviar la solicitud de soporte técnico. Microsoft le enviará un correo electrónico para obtener más información.
 
-## <a name="support"></a>Soporte técnico
+## <a name="support"></a>Soporte
 
 Para otras preguntas sobre exenciones fiscales y reembolsos, solicite soporte técnico en el centro de Partners. Deje pasar dos semanas para que Microsoft se ponga en contacto con usted y resuelva el problema.
 

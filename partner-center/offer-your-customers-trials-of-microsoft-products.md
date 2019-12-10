@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Puede registrarse para estas pruebas en el catálogo del mismo modo que otros muchos servicios en línea.
+description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Regístrese para estas pruebas en el catálogo del mismo modo que otros muchos servicios en línea.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384831"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943298"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes pruebas de productos de Microsoft
 
@@ -110,6 +110,6 @@ No verá las pruebas gratuitas que aparecen en la factura o el archivo de concil
 
 Las evaluaciones gratuitas no afectan a los incentivos.
 
-## <a name="support"></a>Soporte técnico
+## <a name="support"></a>Soporte
 
 Para obtener soporte técnico sobre las pruebas gratuitas, envíe una solicitud de servicio a través del centro de Partners.

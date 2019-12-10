@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como asociado de Microsoft cualificado, puedes evaluar y negociar referencias, así como responder a estas, a través del Centro de partners.
+description: Obtenga información sobre cómo responder a las referencias, administrar referencias nuevas, existentes y archivadas, y obtener más referencias en el futuro.
 author: JnHs
 ms.author: jenhayes
 keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 49b5c7e0f718f23c25a9adcab1edfec47814d048
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654090"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943448"
 ---
 # <a name="respond-to-referrals"></a>Responder a las referencias
 

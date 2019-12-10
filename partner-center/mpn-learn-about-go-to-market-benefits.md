@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Como miembro de Microsoft Partner Network, puede ser válido para ciertas ventajas de comercialización. Obtenga información acerca de los diferentes niveles de las ventajas de comercialización disponibles y cómo activarlas y administrarlas en el centro de Partners.
+description: Las ventajas de comercialización le ofrecen acceso a recursos exclusivos de ventas y marketing que pueden ayudarle a acelerar el tiempo de comercialización, generar clientes potenciales y ampliar su negocio.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, beneficios de pertenencia, pertenencia, ventajas de comercialización, comercialización, comercialización, GTM, afiliación Gold, pertenencia a Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653255"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943338"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Explore las ventajas de la pertenencia a los productos de deventado de MPN (GTM)
 
@@ -67,9 +67,9 @@ Para ver las ventajas GTM:
 
 1. Inicie sesión en el [Panel]( https://docs.microsoft.com/partner-center/)del centro de Partners.
 
-2. En el menú de la izquierda, seleccione **MPN**. A continuación, realice una de las acciones siguientes:
+2. En el menú de la izquierda, seleccione **MPN**. Lleve a cabo una de las siguientes acciones:
 
-    - Seleccione **información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
+    - Seleccione **Información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
 
       o
 
@@ -82,7 +82,7 @@ Verá una lista de las ventajas de comercialización que ya están activas o que
 Para conocer los pasos específicos para activar o administrar las ventajas de la pertenencia a GTM, consulte [Administración de las ventajas de comercialización](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Parte de este proceso requiere la asignación de una persona de marketing como contacto para los correos electrónicos de seguimiento y las comunicaciones con respecto a las ventajas GTM que se activan.
 
 >[!IMPORTANT]
->Debe ser el administrador global o el administrador de asociados de MPN para activar las ventajas GTM específicas y asignar un contacto de marketing relacionado. Si es necesario, puede convertirse en administrador global siguiendo las instrucciones que aparecen en la página de [ **beneficios** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que su empresa ya tenga un administrador global, por lo que debe asegurarse de comprobarlo con su equipo.
+>Debe ser el administrador global o el administrador de asociados de MPN para activar las ventajas GTM específicas y asignar un contacto de marketing relacionado. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
 #### <a name="see-also"></a>Consulta también
 

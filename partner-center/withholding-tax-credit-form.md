@@ -2,7 +2,7 @@
 title: Asegúrese de que se le ha abonado el impuesto de retención. Centro de Partners
 ms.topic: article
 ms.date: 11/07/2019
-description: Cómo asegurarse de que la cuenta del centro de Partners tiene crédito por retención de impuestos.
+description: Asegúrese de que la cuenta del centro de Partners tiene un crédito por retención de impuestos y abra una solicitud de servicio si es necesario.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemana, crédito fiscal de formulario
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384862"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943168"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que tiene un crédito por retención de impuestos
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Comprobar que tiene crédito para la retención de impuestos
 
 Se aplica a:
 
@@ -83,7 +83,7 @@ Si envía un **certificado fiscal que no esté en inglés** a través de una **s
 
 Los certificados de impuestos deben ser **solo para facturas de Microsoft**. Si tiene **otras empresas** que los certificados incluyen, especifique el importe de tal forma que podamos excluir la cantidad en el procesamiento interno, pero tenga toda la visibilidad de lo que incluyen los certificados totales.
 
-## <a name="create-a-service-request"></a>Crear una solicitud de servicio
+## <a name="create-a-service-request"></a>Crea una solicitud de servicio
 
 La siguiente información *solo* se aplica a los asociados en el **programa proveedor de soluciones en la nube (CSP)** . Estos incluyen solo **asociados directos de factura** y **proveedores indirectos**. En su lugar, los **revendedores indirectos** deben trabajar con sus **proveedores indirectos** .
 

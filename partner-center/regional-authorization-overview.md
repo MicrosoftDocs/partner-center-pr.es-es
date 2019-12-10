@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea los países y regiones en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
+description: Vea los países, regiones y monedas en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Mercados de CSP, territorios, Dónde puedo vender a través de CSP, ofertas de CSP, regiones, vender soluciones en la nube, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652066"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943248"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados y monedas regionales del programa proveedor de soluciones en la nube
 
@@ -87,7 +87,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 | Sierra Leona             |   USD    |
 | Somalia                  |   USD    |
 | Sudán del Sur              |   USD    |
-| Santa Elena, ascensión y Tristán da Cunha|    USD   |
+| Santa Elena, Ascensión y Tristán da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |          |
@@ -107,7 +107,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Hong Kong         |   USD    |
 |  Indonesia         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  RAE de Macao             |   USD    |
 |  Malasia          |   USD    |
 |  Maldivas          |          |
 |  Birmano           |          |
@@ -219,7 +219,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Svalbard y Jan Mayen|NOK|
 |  Suecia         |   SEK    |
 |  Suiza    |   CHF    |
-|  Reino Unido             |   GBP    |
+|  REINO UNIDO             |   GBP    |
 |  Ciudad del Vaticano   |          |
 |
 
@@ -302,7 +302,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  San Vicente y las Granadinas| USD |
 |  San Eustaquio |   USD    |
 |  Sint Maarten   |   USD    |
-|  Georgia del Sur e islas Sandwich del sur| USD|
+|  Georgia del Sur e Islas Sandwich del Sur| USD|
 |  Surinam       |   USD    |
 |  Trinidad y Tobago|USD   |
 |  Islas Turcas y Caicos| USD|
@@ -347,7 +347,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Mozambique     |          |
 |  Omán           |   USD    |
 |  Pakistán       |   USD    |
-|  Territorio Palestina, ocupado |        |
+|  Territorio Palestino, Ocupado |        |
 |  Catar          |   USD    |
 |  Arabia Saudí   |   USD    |
 |  Serbia         |   USD    |

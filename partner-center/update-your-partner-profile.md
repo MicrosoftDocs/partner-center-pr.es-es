@@ -2,17 +2,17 @@
 title: Comprobación de tu perfil de partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La primera vez que inicies sesión como administrador, asegúrate de que los detalles de soporte técnico sean correctos, presenta las exenciones fiscales si procede y revisa la información de contacto en tus perfiles.
+description: Obtenga información acerca de cómo comprobar los detalles de su empresa, como la información de contacto, dirección y programa principal. También puede actualizar las direcciones legales y de facturación.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384785"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943058"
 ---
 # <a name="verify-your-partner-profile"></a>Comprobación de tu perfil de partner
 
