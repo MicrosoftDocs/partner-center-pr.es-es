@@ -11,18 +11,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943128"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004364"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
 
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+
 Los indicadores de contribución de asociados (PCI) proporcionan una medida holística del impacto de un asociado en la conducción correcta de los resultados del cliente para Dynamics 365. Los asociados reciben una mayor diferencia en el mercado cuando logran y mantienen la competencia de Business Applications de la nube.  Los asociados reciben crédito por las medidas clave de éxito de los clientes, como las implementaciones correctas y el aumento del uso, y se recompensan por continuar con la inversión en y escalar horizontalmente sus capacidades técnicas. 
 
-## <a name="scoring"></a>Puntuación
+## <a name="scoring"></a>評分
 
 PCI proporciona una vista holística y holística de las capacidades técnicas de su empresa, la capacidad de impulsar el éxito de los clientes y el rendimiento de las ventas. PCI mide el rendimiento del año anterior de su empresa en siete indicadores clave:
 
@@ -43,7 +48,7 @@ Cada indicador aporta una puntuación que se agrega al total. Estas son las punt
 
 ![rendimiento de PCI 2](images/pci1.png)
 
-### <a name="thresholds"></a>Umbrales
+### <a name="thresholds"></a>閾值
 
 Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales difieren para Customer Engagement y Finance & Operations. Los umbrales también difieren para los partners que operan en mercados desarrollados frente a los que operan exclusivamente en mercados emergentes. Si un partner tiene uno o más clientes en un mercado desarrollado, se aplican los umbrales de mercado desarrollado. La categorización del mercado desarrollada o emergente de un país se basa en las [definiciones de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
 
@@ -53,7 +58,7 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![compromiso del cliente](images/pci/table_1.png)
 
-![Finanzas](images/pci/TABLE_2.png)
+![財務](images/pci/TABLE_2.png)
 
 ![Consultoría](images/pci/table_3.png)
 
@@ -63,13 +68,13 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![clientes de net ADDS](images/netcustomer.png)
 
-![Consultor funcional](images/pci/functional_consultants.png)
+![功能顧問](images/pci/functional_consultants.png)
 
 ![growth](images/pci/functional_consultant_growth.png)
 
-![Desarrolladores](images/pci/developers.png)
+![開發人員](images/pci/developers.png)
 
-![Nuevas implementaciones](images/pci/new_large_deployments.png)
+![新的部署](images/pci/new_large_deployments.png)
 
 ![usuarios activos](images/pci/monthly_active_user_growth.png)
 
@@ -88,7 +93,7 @@ Cuando CPOR y DPOR existen para una suscripción determinada, CPOR recibe todos 
 
 ![Cómo leer el gráfico](images/pci2.png)
 
-## <a name="additional-resources"></a>Recursos adicionales
+## <a name="additional-resources"></a>其他資源
 
 Visite la [colección de recursos de indicadores de contribución de asociados](https://partner.microsoft.com/asset/collection/pci-learn#/) , donde puede encontrar vídeos de aprendizaje detallados, presentaciones, preguntas más frecuentes y hojas de hechos. 
 

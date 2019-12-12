@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389693"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005044"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturación de cargos únicos y determinados cargos periódicos
 
-- Centro de partners
+**適用於**
+- 合作夥伴中心
 - Partners del programa CSP
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente de administración
+-   Agente de ventas
 
 En este tema se describe la experiencia de facturación de **una sola vez y se seleccionan cargos periódicos** de Microsoft y productos de terceros de fabricantes independientes de software (ISV). 
 

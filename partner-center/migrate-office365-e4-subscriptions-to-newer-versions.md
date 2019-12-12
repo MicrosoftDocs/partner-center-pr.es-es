@@ -8,18 +8,24 @@ description: La edición de Office 365 Enterprise E4 se retirará a partir del 7
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654316"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004574"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar de suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 El plan Office 365 Enterprise E4 se retira de forma efectiva el 7 de abril de 2017. Ya no se podrán adquirir nuevas suscripciones de Office 365 E4 después de esta fecha, y las suscripciones E4 existentes no se renovarán automáticamente cuando expiren.
 

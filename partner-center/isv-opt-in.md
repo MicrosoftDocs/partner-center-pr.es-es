@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384773"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004854"
 ---
 # <a name="marketplace-exclusive-offers"></a>Ofertas exclusivas de Marketplace
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 Los ISV tienen la opción de hacer que sus ofertas estén disponibles para un número seleccionado de asociados de CSP. Todos los asociados de CSP podrán ver todas las ofertas de ISV del centro de Partners Marketplace, pero las ofertas marcadas como exclusivas solo podrán ser adquiridas por los asociados que el ISV haya seleccionado. Si una oferta no se indica como "exclusiva", todos los asociados pueden adquirirla.
 

@@ -9,12 +9,12 @@ ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: af93ea420f1eefcf11af0a49b1bcab00de6f0029
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943468"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004824"
 ---
 # <a name="provide-technical-support"></a>Proporcionar soporte técnico
 
@@ -23,6 +23,11 @@ ms.locfileid: "74943468"
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente del departamento de soporte técnico
+-   Agente de administración
 
 Como partner de Proveedor de soluciones en la nube, tienes privilegios de administrador delegado que te dan acceso a todos los entornos de tus clientes. Estos privilegios le ofrecen la posibilidad de admitir, configurar y administrar directamente las suscripciones de sus clientes.
 

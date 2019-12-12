@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, asesor de Office 365, asesor, Partner de distribución, retirada de PAC, retirada de PAC
 ms.localizationpriority: medium
-ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654224"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004894"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>El centro de administración de asociados se traslada al centro de Partners
 
-**Se aplica a**
+**適用於**
 
--  Centro de partners
+-  合作夥伴中心
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 > [!NOTE]  
 >  Todas las fechas se han actualizado desde la publicación inicial de este artículo.

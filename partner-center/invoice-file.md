@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, factura
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389843"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004576"
 ---
 # <a name="invoice-files"></a>Archivos de factura
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente del departamento de soporte técnico
 
 Puede usar las tablas siguientes para comprender los campos de los archivos de factura del centro de Partners.
 
@@ -52,7 +58,7 @@ Los campos siguientes solo se aplican a **cargos** únicos en el centro de Partn
 
 | Campo | Definición |
 | ----- | ---------- |
-| Fecha | Fecha de compra. |
+| Date | Fecha de compra. |
 | Descripción | Nombre del producto. |
 | Cantidad | El número de productos (como reservas) adquiridos. |
 | Precio unitario | Precio por producto (por ejemplo, una reserva). |

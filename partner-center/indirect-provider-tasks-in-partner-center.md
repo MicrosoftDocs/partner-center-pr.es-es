@@ -8,14 +8,20 @@ description: Como proveedor indirecto, o distribuidor, obtenga información sobr
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253677"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004544"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 Con un catálogo de soluciones de tecnología tan complejo y siempre en constante cambio, los clientes quieren lo último que las soluciones de tecnología pueden aportar. En estas condiciones, tiene sentido que los partners inviertan en la interacción de partner a partner para ampliar las ofertas y permitir a los clientes que consigan aún más.
 
@@ -81,7 +87,7 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 
 - En la página Detalles de la suscripción, en el campo **Reseller (ID. de MPN)** , agregue el revendedor con el que desea trabajar. Esto garantiza que el revendedor recibirá los incentivos adecuados.
 
-| **Para lograr esto** | **Haga esto** | **Mientras** |
+| **Para lograr esto** | **Haga esto** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociar un revendedor a una cuenta de cliente cuando se agregue un nuevo cliente | En la página **Nuevo cliente** |
 |Permitir al revendedor administrar la cuenta de Azure de un cliente|Asociar un revendedor a una cuenta de Azure de cliente cuando se agregue un nuevo cliente|En el **portal del servicio de Azure**, seleccione [Configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar al revendedor indirecto permisos de **propietario del espacio empresarial**|
@@ -170,7 +176,7 @@ Cuando los clientes desean comprar nuevas suscripciones, actualizar las existent
 
 7.  Selecciona **Enviar** cuando hayas acabado. 
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 Para obtener más información sobre la administración de suscripciones y las cuentas de cliente, consulta:
 

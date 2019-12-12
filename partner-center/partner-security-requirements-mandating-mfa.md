@@ -9,22 +9,29 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943108"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004994"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requerir multi-factor Authentication (MFA) para el inquilino de asociado
 
-**Se aplica a**
+**適用於**
 
 - Todos los partners que estén en el programa Proveedor de soluciones en la nube
   - Factura directa
   - Proveedor indirecto
   - Revendedor indirecto
 - Todos los asesores
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Administrador de facturación
+-   Administrador de partners de MPN
 
 Estos asociados serán necesarios para completar la comprobación de MFA para las siguientes áreas:
 
@@ -166,7 +173,7 @@ Antes de aplicar la excepción técnica, revise la lista de problemas comunes qu
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problema 1: el asociado necesita más tiempo para implementar MFA para sus agentes de asociados
 Un asociado no se ha iniciado o todavía está en proceso de implementar MFA para sus agentes asociados que requieren acceso a los portales de Microsoft Online Services con privilegios de administración delegada de asociados para administrar los recursos del cliente. El asociado necesita más tiempo para completar la implementación de MFA. ¿Es un motivo válido para la excepción técnica?
 
-**Respuesta:** No. El asociado debe crear planes para implementar MFA para que sus usuarios puedan evitar interrupciones.
+**答**：否。 El asociado debe crear planes para implementar MFA para que sus usuarios puedan evitar interrupciones.
 
 > [!NOTE]
 > Aunque el asociado no ha implementado MFA para sus agentes de asociados, los agentes asociados pueden seguir accediendo a los portales de Microsoft Online Services con privilegios de administración delegada de asociados, siempre que puedan completar el registro de MFA y la comprobación de MFA Cuando se le solicite durante el inicio de sesión en el inquilino del cliente. Al completar el registro de MFA no se habilita automáticamente el usuario para MFA.
@@ -174,12 +181,12 @@ Un asociado no se ha iniciado o todavía está en proceso de implementar MFA par
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problema 2: el asociado no ha implementado MFA para las cuentas de usuario que no usan privilegios de administrador delegado
 Un asociado tiene algunos usuarios en sus inquilinos de asociados que no necesitan acceso a los portales de Microsoft Online Services para administrar los recursos del cliente mediante privilegios de administración delegada de asociados. El asociado está en proceso de implementar MFA para estos usuarios y necesita más tiempo para completarse. ¿Es un motivo válido para la excepción técnica?
 
-**Respuesta:** No. Puesto que estas cuentas de usuario no utilizan privilegios de administración delegada de asociados para administrar los recursos del cliente, no se les pedirá que inicien sesión en el inquilino del cliente. No se verán afectados por Azure AD requiere la comprobación de MFA durante el inicio de sesión en el inquilino del cliente.
+**答**：否。 Puesto que estas cuentas de usuario no utilizan privilegios de administración delegada de asociados para administrar los recursos del cliente, no se les pedirá que inicien sesión en el inquilino del cliente. No se verán afectados por Azure AD requiere la comprobación de MFA durante el inicio de sesión en el inquilino del cliente.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problema 3: el asociado no ha implementado MFA para las cuentas de servicio de usuario
 Un asociado tiene algunas cuentas de usuario en sus inquilinos de asociados que los dispositivos usan como cuentas de servicio. Normalmente, se trata de cuentas con pocos privilegios que no requieren el centro de Partners de acceso ni portales de Microsoft Online Services para administrar los recursos de los clientes mediante privilegios de administración delegada de asociados. ¿Es un motivo válido para la excepción técnica?
 
-**Respuesta:** No. Puesto que estas cuentas de usuario no utilizan privilegios de administración delegada de asociados para administrar los recursos del cliente, no se les pedirá que inicien sesión en el inquilino del cliente. No se verán afectados por Azure AD requiere la comprobación de MFA durante el inicio de sesión en el inquilino del cliente.
+**答**：否。 Puesto que estas cuentas de usuario no utilizan privilegios de administración delegada de asociados para administrar los recursos del cliente, no se les pedirá que inicien sesión en el inquilino del cliente. No se verán afectados por Azure AD requiere la comprobación de MFA durante el inicio de sesión en el inquilino del cliente.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problema 4: el asociado no puede implementar MFA con la aplicación MS Authenticator
 Un asociado tiene una directiva de "escritorio limpio" que no permite que los empleados traigan sus dispositivos móviles personales a su área de trabajo. Sin acceso a sus dispositivos móviles personales, los empleados no pueden instalar la aplicación MS Authenticator, que es la única comprobación de MFA compatible con las directivas de línea de base de Azure AD. ¿Es un motivo válido para la excepción técnica?

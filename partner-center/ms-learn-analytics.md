@@ -8,14 +8,18 @@ description: Realice un seguimiento de los aprendidos de su empresa aprovechando
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943538"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005114"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Informe de Microsoft Learn Analytics
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de partners de MPN
 
 En el informe de Microsoft Learn se proporciona información sobre los aprendizajes de la empresa, incluidos los módulos que se han completado y las rutas de aprendizaje en las que se encuentran. El informe muestra el estado de cada estudiante individual. El administrador global y el administrador de MPN para su empresa pueden ver los datos.
 
@@ -106,7 +110,7 @@ Para obtener detalles sobre el uso del identificador de objeto de usuario:
 
 2. Copie el identificador de objeto de usuario en el [área resaltada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) en el explorador de gráficos. 
 
-## <a name="faq"></a>Preguntas frecuentes
+## <a name="faq"></a>常見問題
 
 1. No puedo ver los detalles de aprendizaje de mi empresa.
 

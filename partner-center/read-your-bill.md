@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384824"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004834"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente de administración
+-   Administrador de partners de MPN
 
 La **factura** es un **Resumen de todos los cargos del centro de Partners** (a través del programa, todos los productos y todos los clientes) del **período de facturación actual**.
 

@@ -9,20 +9,24 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189070"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005094"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
-**Se aplica a**
+**適用於**
 
--  Centro de partners
+-  合作夥伴中心
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de ventas
 
 La característica de varios canales del centro de Partners admite escenarios en los que un cliente desea contratar a un socio para que administre y admita una suscripción que haya adquirido en otro lugar. El soporte técnico multicanal se aplica cuando el cliente:
 
@@ -44,7 +48,7 @@ La característica de varios canales del centro de Partners admite escenarios en
 <tr class="even">
 <td><p><strong>Servicios basados en uso</strong></p></td>
 <td>
-<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro canal, como Advisor, Open o EA, es&#39;necesario crear una nueva suscripción de Azure en el centro de Partners, escribir manualmente los detalles de la suscripción y, a continuación, cancelar la persona servicios o toda la suscripción. CSP de Azure puede coexistir con distintos canales.</p>
+<p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro canal, como Advisor, Open o EA, es&#39;necesario crear una nueva suscripción de Azure en el centro de Partners, escribir manualmente los detalles de la suscripción y, a continuación, cancelar los servicios individuales o toda la suscripción. CSP de Azure puede coexistir con distintos canales.</p>
 <p>Para un cliente que ya tiene una suscripción a Microsoft Azure de otro partner, por ejemplo, puede cambiar los servicios de Azure a otro partner.  Para obtener más información, consulta <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Cambia suscripciones de Azure a otro partner</a>.</p>
 </td>
 </tr>
@@ -54,7 +58,7 @@ La característica de varios canales del centro de Partners admite escenarios en
 > [!IMPORTANT]  
 > Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de características se anunciarán a través de los canales de comunicación habituales, incluido el centro de Partners. 
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>請參閱
 
 [Trabajar con otros partners](work-with-other-partners.md)
 

@@ -7,19 +7,25 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389823"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004604"
 ---
 # <a name="license-based-reconciliation-files"></a>Archivos de conciliación basada en licencia
 
-Se aplica a:
+**Se aplica a**
 
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente de administración
 
 Para conciliar los cambios con los pedidos de un cliente, compare el **Syndication_Partner_Subscription_Number** del archivo de conciliación con el **identificador de suscripción** del centro de Partners.
 
@@ -44,11 +50,11 @@ Para conciliar los cambios con los pedidos de un cliente, compare el **Syndicati
 | Cantidad | Número de puestos. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *2* |
 | Volumen | Total del precio para la cantidad. Se usa para comprobar si el cálculo de cantidad coincide con la forma de calcular este valor para los clientes. | *13,32* |
 | TotalOtherDiscount | Cantidad de descuento que se aplica a estos cargos. Las licencias de producto incluidas en una competencia o en MAPS, o en nuevas suscripciones para un incentivo, también contendrán un importe de descuento en esta columna. | *2,32* |
-| Subtotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que se trate de un descuento. | *279* |
+| Subtotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que se trate de un descuento. | *11* |
 | Impuestos | Cargo del importe de los impuestos. En función de las reglas de impuestos y las circunstancias específicas de su mercado. | *0* |
-| TotalForCustomer | Total con impuestos. Comprueba si se cobran impuestos en la factura. | *279* |
-| Currency | Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Compruebe si coincide con la primera factura. Vuelva a comprobarlo después de las actualizaciones principales de la plataforma de facturación. | *EUR* |
-| CustomerName | Nombre de la organización del cliente, tal y como se indicó en el centro de Partners. *Campo muy importante para conciliar la factura con la información del sistema.* | *Cliente de prueba A* |
+| TotalForCustomer | Total con impuestos. Comprueba si se cobran impuestos en la factura. | *11* |
+| Moneda | Tipo de moneda. Cada entidad de facturación tiene una sola moneda. Compruebe si coincide con la primera factura. Vuelva a comprobarlo después de las actualizaciones principales de la plataforma de facturación. | *EUR* |
+| CustomerName | Nombre de la organización del cliente, según figura en el Centro de partners. *Campo muy importante para conciliar la factura con la información del sistema.* | *Cliente de prueba A* |
 | MPNID | Identificador de MPN del asociado de CSP. Vea [Cómo elemento por asociado](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | ResellerMPNID | Identificador de MPN del distribuidor de registro de la suscripción. Vea [Cómo elemento por asociado](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Nombre de dominio del cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación. *No utilice este campo como identificador único para el cliente. El cliente o asociado puede actualizar el personal o el dominio predeterminado a través del portal de Office 365.* | *example.onmicrosoft.com* |

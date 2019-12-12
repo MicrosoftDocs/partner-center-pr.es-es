@@ -9,18 +9,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e037f9e417da65ddd3d34fcdc7198807164906f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654140"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004954"
 ---
 # <a name="pricing-and-offers"></a>Precios y ofertas
 
-**Se aplica a**
+**適用於**
 
--  Centro de partners
+-  合作夥伴中心
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Administrador de partners de MPN
+-   Agente de ventas
+-   Administrador de facturación
 
 Para ver las últimas listas de precios y ofertas del programa Proveedor de soluciones en la nube, ve a **Vender > Precios y ofertas**. Encontrarás listas de precios independientes para los servicios basados en licencias, tales como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite y para los servicios basados en uso, como por ejemplo, Azure. 
 
@@ -32,7 +40,7 @@ Dentro de cada una de estas gamas de productos hay diferentes SKU y paquetes de 
 
 Los servicios basados en licencias incluye una vista previa de lista de precios, que se proporciona con 30 días de antelación de que se produzcan cambios. Para ver la vista previa de la lista de precios, ve a **Vender > Precios y ofertas**. No hay ninguna vista previa de precios para los servicios basados en uso ya que estos servicios son dinámicos. En la siguiente tabla se explica cómo leer la tabla de lista de precios.
 
-|**Item**        |**Definición**      |
+|**項目**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |Un artículo nuevo a la lista de precios|
 |CHG   |Cambia el precio de venta de mes a mes. Pueden producirse otros cambios que no estén relacionados con el precio de la lista, los asociados deben comparar otras propiedades de mes a mes para determinar otros cambios.|
@@ -41,7 +49,7 @@ Los servicios basados en licencias incluye una vista previa de lista de precios,
 |Valid from date   |La primera fecha en la que se puede pedir una oferta    |
 |Valid to date   |La última fecha en la que se puede pedir una oferta   |
 |Offer display name   |El nombre de la oferta que se mostrará a los clientes   |
-|Offer ID   |El identificador interno de la oferta   |
+|方案識別碼   |El identificador interno de la oferta   |
 |License agreement type   |Se trata de cualquier contrato corporativo, gubernamental o académico y determina los tipos de clientes a los que se puede vender la oferta.|
 |Purchase unit   |La duración de la oferta que se compra. Suele ser un mes.   |
 |Secondary license type   |Puede ser de evaluación, complemento o no específica. Complemento indica que hay productos necesarios que el cliente debe comprar antes de comprar el complemento.|
@@ -49,16 +57,16 @@ Los servicios basados en licencias incluye una vista previa de lista de precios,
 |List price   |El precio que el partner pagará   |
 |ERP price   |El precio estimado o recomendado de venta para el cliente   |
 
-## <a name="price-changes"></a>Cambios de precio
+## <a name="price-changes"></a>價格變更
 
 Los cambios de precio son una repetición común. Los asociados pueden anticiparse a los cambios de precios de las ofertas basadas en licencias. para ello, examine la vista previa de la lista de precios en la página precios y ofertas en el panel del centro de Partners. Los precios basados en el uso de Azure no tienen vista previa. Los asociados pueden mantenerse al día con los cambios de precios de consumo de Azure mediante la API de RateCard, que devuelve los precios de las métricas de ese día.
 
 |**Tipo de producto**   |**Ejemplos de productos**  |**Vista previa disponible** |**Cambiar detalles**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basado en licencia|Office, Dynamics, Intune, Windows Enterprise|30 días|Lista de cambios de precios marcados como CHNG en las listas de precios de vista previa|
-|Basado en el uso|Recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
-|Software||No disponible|Comparar listas de precios manualmente de un mes a otro|
-|Reserva|Máquinas virtuales, prepago|No disponible|Comparar listas de precios manualmente de un mes a otro|
+|Basado en el uso|Azure 資源|沒有|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
+|軟體||沒有|Comparar listas de precios manualmente de un mes a otro|
+|保留|Máquinas virtuales, prepago|沒有|Comparar listas de precios manualmente de un mes a otro|
 
 Los precios basados en el uso pueden cambiar a lo largo de un mes. Para obtener los precios diarios actuales de estos recursos de Azure, los asociados deben llamar a la API de RateCard. 
 
@@ -69,12 +77,12 @@ Los precios basados en el uso pueden cambiar a lo largo de un mes. Para obtener 
 
 CSP ofrece algunos servicios a segmentos de mercado especiales, por ejemplo, educación, sin ánimo de lucro y en la nube de la comunidad gubernamental. No todos los servicios están disponibles en todos los canales. Ningún segmento tiene como valor predeterminado lo que llamamos segmento "comercial". Todos los precios basados en licencias están disponibles en la lista de precios basada en licencias en la página precios y ofertas. Los precios de Azure gov están disponibles en la lista de precios basada en el uso cuando se inicia sesión en el inquilino de CSP habilitado para Azure gov.
 
-|**Sector**   |**Quién debe calificar**   |**El asociado califica al cliente**|**Tipos de productos habilitados**|
+|**區段**   |**Quién debe calificar**   |**El asociado califica al cliente**|**Tipos de productos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Socio comercial y cliente|Sí|Solo basado en licencia|
-|Sin ánimo de lucro|Cliente|No, el cliente se califica fuera del centro de Partners|Solo basado en licencia|
-|Government Community Cloud (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
-|Azure gov|Partner|Una vez calificada, el asociado funciona en un inquilino de CSP específico de Azure gov|Recursos de Azure|
+|教育版|Socio comercial y cliente|Sí|Solo basado en licencia|
+|Sin ánimo de lucro|客戶|No, el cliente se califica fuera del centro de Partners|Solo basado en licencia|
+|政府社群雲端 (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
+|Azure gov|合作夥伴|Una vez calificada, el asociado funciona en un inquilino de CSP específico de Azure gov|Azure 資源|
 
 Los márgenes asociados, la diferencia entre el precio de venta y los precios de venta estimados, pueden variar de segmento a segmento. Normalmente, la educación y los no beneficios suelen tener márgenes inferiores o no para los asociados de CSP. Consulte la lista de precios basada en licencias para ver los valores exactos.  
 ## <a name="pricing-between-azure-and-non-azure"></a>Precios entre Azure y no Azure

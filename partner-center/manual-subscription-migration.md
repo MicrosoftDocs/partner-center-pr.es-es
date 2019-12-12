@@ -11,18 +11,24 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Ofertas de Dynamics 365, renovar ofertas, nuevas SKU de Dynamics 365
-ms.openlocfilehash: bbb7480264a2d3d5ae6ed1f50e0f32b5ebc1c16e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 466f954af05a266fccba587007565e5d19d3af15
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943358"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004597"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrar Dynamics 365 y el plan Customer Engagement desde las versiones básicas (ofertas calificados) a versiones más recientes
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 A partir del 1 de enero de 2019, los clientes con Dynamics 365 para el plan de participación de ventas y clientes de las suscripciones básicas (ofertas calificadas) ya no podrán renovar estas ofertas heredadas. las suscripciones existentes no se renovarán automáticamente cuando expiren. En la página de detalles de la suscripción, el estado de la suscripción cambiará a "expira el [fecha]" de "se renueva automáticamente en [fecha]". 
 

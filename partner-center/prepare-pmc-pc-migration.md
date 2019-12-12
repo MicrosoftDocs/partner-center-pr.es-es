@@ -8,14 +8,20 @@ description: Revise la información útil y las preguntas más frecuentes antes 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943268"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004864"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepárese para pasar del centro de afiliación del asociado (PMC) al centro de Partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de ventas
+-   Agente de administración
 
 Estamos trasladando la administración de pertenencia del centro de afiliación de asociados (PMC) al centro de Partners: el único destino para administrar su relación de negocio con Microsoft. Queremos que el centro de Partners sea lo más eficaz y sencillo posible. Hemos identificado algunas áreas en las que el centro de Partners difiere de PMC y creemos que le interesará comprender y prepararse antes de realizar el traslado.
 

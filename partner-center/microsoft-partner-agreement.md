@@ -9,14 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654322"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004585"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Asociados del Microsoft Partner Agreement para CSP 
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 El Microsoft Partner Agreement proporciona a los asociados de Microsoft un contrato de asociados sencillo, unificado y aceptado digitalmente. El Microsoft Partner Agreement contiene un conjunto básico de términos perpetuos que ayudan a Microsoft, los asociados y los clientes a respaldar la privacidad y seguridad de los datos, promover el cumplimiento e impulsar prácticas empresariales sólidas.   
 

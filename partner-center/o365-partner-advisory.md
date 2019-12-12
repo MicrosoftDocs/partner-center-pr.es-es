@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, servicios RTC, impuestos, requisitos, factura, facturación
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384811"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005064"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice en CSP
 
-**Se aplica a**
+**適用於**
 
-- Centro de partners  
+- 合作夥伴中心  
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
 
 Los servicios de red telefónica conmutada (RTC) públicos en algunos países pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados.  En el Estados Unidos, Puerto Rico y Canadá, los servicios RTC y Microsoft 365 Voice de Skype empresarial están sujetos a requisitos normativos y de impuestos especiales. En el Estados Unidos y Puerto Rico, Microsoft precios de los servicios RTC como impuestos-inclusivos.  Los impuestos y regulaciones RTC únicos afectarán a los asociados de Office 365 que transaccionan Microsoft 365 productos de voz.  Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
@@ -42,13 +47,13 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企業版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企業版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
 
 **Ejemplo de conciliación de asociados #2**
 
 Microsoft 365 Empresa Voice disponible en Canadá tiene componentes adicionales gravables RTC que se consolidan en la factura de CSP (similar a Office 365 E5, se presentan dos elementos de línea, uno para los componentes de RTC y otro para los componentes que no son de RTC).  El archivo de conciliación de CSP para Microsoft 365 Empresa Voice mostrará todos los componentes sujetos a la RTC de forma individual (los componentes individuales de RTC no se consolidan en. CSV o herramienta de API).  La suma de los detalles del pedido y de los importes facturados de los clientes que se encuentran en el archivo de conciliación coincidirá con la factura de CSP.
 
-## <a name="additional-resources"></a>Recursos adicionales
+## <a name="additional-resources"></a>其他資源
 Para obtener más información, visite el sitio [de Microsoft 365 para asociados](https://drumbeat.office.com/Pages/home2016.aspx) .
 

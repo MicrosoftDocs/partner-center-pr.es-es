@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: facturación, pagos, licencia basada en licencia
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389833"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004924"
 ---
 # <a name="license-based-billing"></a>Facturación basada en licencia
 
-Se aplica a:
+**適用於**
 
-- Centro de partners
+- 合作夥伴中心
 - Partners del programa CSP
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente de administración
 
 Cuando compre productos o servicios en línea en el centro de partners que requieran **licencias**, se le facturará *por cada licencia* que compre. No se le *facturará* por el uso de estas licencias. (Para obtener información sobre la facturación basada en el uso y otros tipos de facturación, consulte [tipos de facturación en el centro de Partners](billing-different-types.md)).
 
@@ -31,7 +37,7 @@ Puede elegir que se le facture por licencias una vez al mes (**facturación mens
 
 Las suscripciones basadas en licencias se facturan por adelantado en la **fecha de aniversario**de la suscripción. La fecha de aniversario es el día del mes en que adquirió la suscripción.
 
-Por ejemplo:
+例如：
 
 - Si adquirió una **suscripción mensual** el 15 de enero, la fecha de aniversario será el 15 de cada mes.
 - Si adquirió una **suscripción anual** el 15 de enero, la fecha de aniversario será el 15 de enero de cada año.

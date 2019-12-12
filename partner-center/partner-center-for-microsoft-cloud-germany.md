@@ -9,18 +9,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943518"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004884"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 
-**Se aplica a**
+**適用於**
 
 -  Centro de partners para Microsoft Cloud Alemania
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
+-   Administrador de facturación
 
 Microsoft Cloud Alemania está diseñada para cumplir los requisitos estrictos de protección de datos de Alemania e incluye un administrador de datos de confianza alemán, que se rige por la legislación alemana y que controla el acceso físico y lógico a los datos de los clientes. Todos los datos de los clientes y los sistemas que procesan o controlan el acceso a los datos de los clientes residen en centros de datos alemanes. La red que conecta estos centros de datos está aislada y dedicada en Alemania.
 
@@ -32,31 +39,6 @@ Microsoft Cloud Germany proporciona una instancia independiente de [Microsoft Az
 > 
 > Todavía más, los nuevos clientes tienen la opción de usar las regiones europeas actualmente disponibles o las nuevas regiones en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft entregará servicios en la nube desde nuevos centros de datos en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
-# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrar clientes de Microsoft Cloud Alemania a otra región de Europa
-Antes de poder migrar una suscripción de cliente de Microsoft Cloud Alemania a otra región de Europa, debe tener una cuenta de CSP existente que se encuentre en esa región y que esté activa actualmente. Si no tiene una, se le pedirá que cree una durante la selección de cuentas de CSP en el centro de Partners. Después de la migración, la suscripción de cliente se asociará con el inquilino seleccionado.
-
-## <a name="migrate-with-an-existing-csp-account"></a>Migrar con una cuenta de CSP existente
-1.  Al iniciar sesión en el centro de partners para Microsoft Cloud Alemania, se le pedirá que seleccione un inquilino de CSP activo. Selecciona **Aceptar**.
-2.  Cuando se le solicite, seleccione **ya tengo un inquilino en la región de Europa**y luego seleccione **siguiente**. Se le pedirá que inicie sesión en el nuevo inquilino. 
-3.  Inicie sesión en el inquilino como administrador global.
-4.  Revise la información de la página de confirmación y, a continuación, seleccione **confirmar**.
-5.  Se le pedirá que seleccione **Ver detalles** o **Ver panel** para obtener más información. 
-
-Si se produce un error de inicio de sesión, podría deberse a uno de los siguientes:
-- No es un administrador global en el inquilino seleccionado
-- El inquilino no se encuentra en una región europea
-- El inquilino no está activo
-
-Realice las correcciones necesarias y repita el proceso.
-
-## <a name="migrate-without-an-existing-csp-account"></a>Migrar sin una cuenta de CSP existente
-1.  Al iniciar sesión en el centro de partners para Microsoft Cloud Alemania, se le pedirá que seleccione un inquilino de CSP activo. Selecciona **Aceptar**.
-2.  Cuando se le solicite, seleccione **no tengo un inquilino en la región de Europa**y, a continuación, seleccione **crear nueva cuenta**. 
-3.  Se le dirigirá a la página de inscripción del centro de Partners, donde puede crear un nuevo inquilino y una cuenta de CSP en una región de Europa. 
-4.  Una vez que haya firmado el contrato y la cuenta esté activa, inicie sesión con la cuenta de Microsoft Cloud Germany actual.
-5.  Navegue hasta el formulario de selección de inquilino.
-6.  Seleccione **ya tengo un inquilino en la región de Europa** y siga las instrucciones.
-
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Centro de partners para Microsoft Cloud Alemania: Venta de soluciones de nube alemana en la UE y la EFTA
 
 Una vez que te hayas inscrito en el programa Proveedor de soluciones en la nube (CSP) para Microsoft Cloud Alemania, usarás el Centro de partners para vender soluciones y servicios específicos de la nube alemana a los clientes de países o regiones de la UE y la EFTA. 
@@ -67,8 +49,8 @@ Característica o funcionalidad | Completar tareas en
 :--- | :---
 Administración de usuarios de partners | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de usuarios de clientes | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
-Restablecer contraseñas de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
-Administración de licencias | Centro de administración de Office 365 u centro de administración de Office 365 o Microsoft Cloud el portal de licencias de Alemania Azure Active Directory
+重設使用者密碼 | Azure para el portal de administración de Microsoft Cloud Alemania
+授權管理 | Centro de administración de Office 365 u centro de administración de Office 365 o Microsoft Cloud el portal de licencias de Alemania Azure Active Directory
 
 
 Para obtener información sobre cómo administrar usuarios y licencias, consulta [Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania](user-management-in-partner-center-for-microsoft-cloud-germany.md).

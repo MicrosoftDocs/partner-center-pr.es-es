@@ -9,19 +9,24 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189081"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004914"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
-**Se aplica a**
+**適用於**
 
--  Centro de partners
+-  合作夥伴中心
 -  Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de ventas
 
 La característica de varios asociados del centro de Partners admite escenarios en los que un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente quiere contratar a un partner por su experiencia con Office 365, pero quiere contratar a otro partner especializado en Microsoft Azure. 
 

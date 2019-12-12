@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Asociados educativos autorizados, educación, venta a educación, escuelas
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943498"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004554"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de ventas
+-   Agente de administración
 
 Los partners que trabajan con instituciones del sector educativo pueden ofrecerles **Minecraft: Education Edition**. La suscripción se adquiere en nombre del cliente en el centro de Partners y, a continuación, el cliente descarga el software del [Microsoft Store para educación](https://educationstore.microsoft.com). 
 

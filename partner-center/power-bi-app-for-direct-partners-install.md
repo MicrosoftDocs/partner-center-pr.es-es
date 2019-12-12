@@ -9,20 +9,26 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0dd520172ead463207c1f2ac511c85761f9c1ef
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943288"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004974"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
-**Se aplica a**
+**適用於**
 
-- Centro de partners
+- 合作夥伴中心
 
-## <a name="before-you-begin"></a>Antes de comenzar
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de ventas
+-   Agente de administración
+
+## <a name="before-you-begin"></a>在您開始前
 
 Seleccione la aplicación más relevante para su empresa en la siguiente lista de aplicaciones Power BI disponibles:
 - [Socio comercial directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
@@ -62,6 +68,6 @@ Una vez que el servicio de análisis del Centro de partners esté conectado a Po
 
 Cuando finalice la carga de los datos, puedes empezar a usar el panel y los informes de la Aplicación de análisis del Centro de partners en Power BI.
 
-## <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>後續步驟
 
 [Vea los datos empresariales con la aplicación de análisis del centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cuenta de asociado, ubicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943508"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004704"
 ---
 # <a name="manage-your-partner-account-locations"></a>Administrar su cuenta de socio comercial: ubicaciones
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Administrador de facturación
+-   Agente de administración
+-   Agente de ventas
 
 Los identificadores de MPN de ubicación identifican cada ubicación específica de la empresa. El ID. de MPN de ubicación se usa para inscribirse en programas de incentivos, para la empresa del proveedor de soluciones en la nube (CSP), para agregar nuevas suscripciones y otras transacciones comerciales. El identificador de MPN de empresa se usa para actividades no transaccionales como solicitudes de soporte técnico.
 

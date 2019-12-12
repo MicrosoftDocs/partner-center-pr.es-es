@@ -8,18 +8,25 @@ description: El Centro de partners para Microsoft Cloud for US Government es el 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652683"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004254"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro de partners para Microsoft Cloud for US Government
 
-**Se aplica a**
+**適用於**
 
 -  Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
+-   Administrador de facturación
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: cumplir los requisitos de protección de datos 
 
@@ -38,8 +45,8 @@ Una vez que te hayas inscrito en el programa Proveedor de soluciones en la nube 
 > [!NOTE]  
 > En el momento en el que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud for US Government (desde la publicación, es posible que se hayan agregado algunas características al Centro de partners y que esta lista no esté actualizada):
 
-- Buscar un partner
-- Perfiles de negocio
+- 尋找合作夥伴
+- 商務設定檔
 - Referencias
 - Solicitar una relación de revendedor con un cliente (multicanal, multipartner)
 - Análisis de licencias

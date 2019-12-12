@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, factura, mapas, exento de impuestos, IVA, ID. de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943548"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004264"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en el Microsoft Partner Network
 
-**Se aplica a**
+**適用於**
 
--  Centro de partners
+-  合作夥伴中心
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Administrador de partners de MPN
+-   Administrador de facturación
+-   Agente de administración
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Visualización o descarga de la factura de pertenencia a MPN
 
@@ -41,7 +48,7 @@ Para llevar a cabo este procedimiento, debe ser un administrador global o un adm
 
 2.  Crea un vale de soporte nuevo. En el centro de Partners, seleccione **solicitudes de servicio**, seleccione solicitudes del **centro de Partners**y, a continuación, seleccione **nueva solicitud**.
 
-3.  Rellena el formulario. En **tipo de problema**, seleccione **no se puede administrar mi perfil**. En la descripción, incluya el identificador de MPN.
+3.  填寫表單。 En **tipo de problema**, seleccione **no se puede administrar mi perfil**. En la descripción, incluya el identificador de MPN.
 
 4.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
 
