@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtén información sobre las ventajas de asociarte con Microsoft. Microsoft Partner Network proporciona la gama más amplia de productos del sector, así como opciones de programas para diferenciar tu empresa, entrar en el mercado y vender tus soluciones.
+description: Obtén información sobre las ventajas de asociarte con Microsoft, incluidas las opciones de Microsoft Action Pack, las competencias y los programas para diferenciar tu negocio, sacarlo al mercado y vender tus soluciones.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, MAP, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ca47417870c2308758fe6e7db5ed9dfc5ae2a4fc
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096527"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943318"
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Como miembro de Microsoft Partner Network, tienes derecho a comprar determinados beneficios de suscripción. Explica cómo activar y administrar los beneficios de suscripción en el Centro de partners.
+description: Únete a Microsoft Partner Network (MPN) y administra los beneficios de suscripción que te ayudarán a construir y hacer crecer tu negocio.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, beneficios de suscripción, pertenencia, suscripción
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681945"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943598"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de suscripción a Microsoft Partner Network
 
