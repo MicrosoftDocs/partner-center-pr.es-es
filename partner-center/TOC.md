@@ -21,6 +21,7 @@
 ## Ventajas
 ### [Introducción a las ventajas](manage-your-partner-network-benefits.md)
 ### [Ventajas de la comercialización](mpn-learn-about-go-to-market-benefits.md)
+## [Administrar Marketplace Rewards](marketplace-rewards.md)
 ## [Programas de Software Assurance](software-assurance-lp.md)
 ### [Programa de vales de formación de Software Assurance (SATV) del Centro de partners](software-assurance-satv.md)
 ### [Uso de la herramienta de validación y canje de vales del Centro de partners para validar, reservar y canjear vales](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [Restaurar una cuenta suspendida del Centro de partners](suspended-partner-center-account.md)
 ## [Crear cuentas de usuario](create-user-accounts-and-set-permissions.md)
 ## [Asignar roles y permisos de usuarios](permissions-overview.md)
+## [Agregar una aplicación de Azure AD](service-principal.md)
 ## [Asociación de la cuenta de Microsoft Learn al Centro de partners](ms-learn-associate.md)
 ## [Comprobar tu propiedad de un dominio](become-global-admin.md)
 ## [Restablecer una contraseña de usuario](reset-a-user-password.md)
