@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943098"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005024"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar tu cuenta del Centro de partners
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
 
 La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta en el Centro de partners, el administrador o tú tendréis que finalizar la configuración del perfil completo de tu empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. 
 

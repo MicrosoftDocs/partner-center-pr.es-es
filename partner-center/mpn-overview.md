@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, MAP, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943318"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004204"
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de partners de MPN
+-   Administrador de usuarios
+-   Agente de administración
 
 Cuando te unes a un programa de partners de Microsoft, te conviertes en parte de una comunidad global que te conecta a las relaciones, la información, las herramientas, los recursos y los programas que necesitas para sorprender a tus clientes y hacer crecer tu negocio.
 

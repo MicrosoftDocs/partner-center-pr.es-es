@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, beneficios de suscripción, pertenencia, suscripción
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943598"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004534"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de suscripción a Microsoft Partner Network
 
 **Se aplica a**
 
 -  Centro de partners
+
+**Roles adecuados**
+-   Administrador global
+-   Administrador de usuarios
+-   Agente de administración
+-   Administrador de partners de MPN
 
 >[!IMPORTANT]
 >En este artículo se explica cómo empezar a usar los beneficios de suscripción a Microsoft Partner Network (MPN) en el Centro de partners, o sea en este sitio. Si no has recibido una invitación para mover la información de tu empresa de Partner Membership Center (PMC) al Centro de partners, deberías seguir administrando tus beneficios de suscripción a MPN en PMC. [Inicia sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) en PMC ahora.
