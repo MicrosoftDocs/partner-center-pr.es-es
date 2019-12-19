@@ -9,21 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
+ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005054"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "75185545"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes pruebas de productos de Microsoft
 
-**適用於**
+**Se aplica a**
 
-- 合作夥伴中心
+- Centro de partners
 
 **Roles adecuados**
--   全域系統管理員 
+-   Administrador global 
 -   Administrador de usuarios
 -   Agente de ventas
 
@@ -39,14 +39,14 @@ Cada cliente tiene derecho a una evaluación gratuita por cada oferta disponible
 
 Hay evaluaciones gratuitas disponibles para los siguientes productos:
 
-- Office 365 商務進階版
+- Office 365 Empresa Premium
 - Office 365 E3
 - Office 365 E5 con RTC
 - Office 365 E5 sin RTC
 - Enterprise Mobility & Security E5
 - Plan Dynamics 365 Customer Engagement 1
-- Dynamics 365 for Financials
-- Microsoft 365 商務版
+- Dynamics 365 Business Central
+- Microsoft 365 Empresa
 
 Proporcionamos evaluaciones gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de evaluación gratuita en el futuro.
 
@@ -97,7 +97,7 @@ No recibirá ninguna notificación de las ofertas que expiren. Puede realizar un
 
 Una vez que haya expirado una evaluación, un cliente que intente iniciar sesión en esa prueba verá un mensaje de expiración. Sin embargo, los datos se almacenan en línea con los estándares de retención de datos. Después de comprar una nueva suscripción con los mismos planes de servicio, se puede acceder a la información del cliente desde la suscripción que se acaba de activar.
 
-## <a name="billing"></a>帳單
+## <a name="billing"></a>Facturación
 
 La facturación anual y las evaluaciones gratuitas son las mismas en las nubes independientes y en la nube pública. La única diferencia es que las SKU de prueba están disponibles en el momento del lanzamiento.
 
@@ -107,7 +107,7 @@ Las evaluaciones gratuitas se pueden usar para las suscripciones facturadas mens
 
 La fecha de inicio de la suscripción se basa en la fecha de conversión. Si la evaluación gratuita se convierte en una oferta de pago con facturación anual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de conversión. Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de facturación tras la fecha de conversión.
 
-### <a name="invoices"></a>發票
+### <a name="invoices"></a>Facturas
 
 No verá las pruebas gratuitas que aparecen en la factura o el archivo de conciliación basado en licencias. Las evaluaciones gratuitas solo aparecerán en la factura y el archivo de conciliación basado en licencias después de convertir una evaluación gratuita en una suscripción de pago. La suscripción convertida aparecerá de la misma manera que cualquier suscripción nueva.
 
@@ -115,6 +115,6 @@ No verá las pruebas gratuitas que aparecen en la factura o el archivo de concil
 
 Las evaluaciones gratuitas no afectan a los incentivos.
 
-## <a name="support"></a>支援
+## <a name="support"></a>Soporte
 
 Para obtener soporte técnico sobre las pruebas gratuitas, envíe una solicitud de servicio a través del centro de Partners.
