@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Azure RI, Windows Server, SQL Server, suscripciones de software, cancelar software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185630"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190246"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Vender suscripciones de software a través de CSP
 
@@ -59,11 +59,11 @@ La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias d
 > | Burundi     | Laos     | Sint Maarten     |
 > | Camboya     | Lesoto     | Islas Salomón     |
 > | República Centroafricana     | Liberia     | Somalia     |
-> | Chad     | Madagascar     | Georgia del Sur e Islas Sandwich del Sur     |
+> | Chad     | Madagascar     | Georgia del Sur e islas Sandwich del sur     |
 > | China     | Malawi     | Sudán del Sur     |
-> | Isla Christmas     | Maldivas     | Santa Elena, Ascensión y Tristán da Cunha     |
+> | Isla Christmas     | Maldivas     | Santa Elena, ascensión y Tristán da Cunha     |
 > | Islas Cocos     | Malí     | Surinam     |
-> | Comoras     | Islas Marshall     | Svalbard     |
+> | Comoras     | Islas Marshall     | Mayen     |
 > | Congo     | Martinica     | Suazilandia     |
 > | Congo (RDC)     | Mauritania     | Timor-Leste   |
 > | Islas Cook     | Mayotte     | Togo   |
@@ -140,7 +140,7 @@ Puede cancelar una compra de software en un plazo de 60 días a partir de la fec
 Siga los pasos que se indican a continuación para cancelar una compra:
 
 >[!NOTE]
->Debe ser un agente de administración para cancelar una compra. En los pasos siguientes se describe cómo cancelar una compra en el panel del centro de Partners. También puede hacerlo mediante la API del [centro de Partners](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox).
+>Debe ser un agente de administración para cancelar una compra. En los pasos siguientes se describe cómo cancelar una compra en el panel del centro de Partners. También puede hacerlo mediante la API del [centro de Partners](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases).
 
 1. Antes de iniciar el proceso de cancelación, asegúrese de que dispone de lo siguiente:
 
@@ -156,7 +156,7 @@ Siga los pasos que se indican a continuación para cancelar una compra:
 
 4. En la página de detalles del cliente, seleccione **software** para ver la lista de software adquirido para el cliente. 
 
-5. Busque la compra de software que desea cancelar y seleccione **Cancelar**. Aparece un cuadro de diálogo.
+5. Busque la compra de software que desea cancelar y seleccione **Cancelar**. Aparecerá un cuadro de diálogo.
 
 6. En la lista desplegable número de pedido, seleccione el número de ID. de pedido que desea cancelar y, a continuación, seleccione **Enviar**.
 
