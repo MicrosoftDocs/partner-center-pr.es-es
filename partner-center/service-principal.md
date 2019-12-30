@@ -31,7 +31,7 @@ En el programa de Marketplace comercial del Centro de partners, ahora puedes agr
 
 4. Si creas una nueva aplicación de Azure AD, incluye la siguiente información:  
   
-**Nombre**: Es similar al campo "nombre descriptivo" del portal de CPP.
+ **Nombre**: Es similar al campo "nombre descriptivo" del portal de CPP.
 
 **URL de respuesta**: Esta es la dirección URL en la que los usuarios pueden iniciar sesión para usar la aplicación de Azure AD. 
 
