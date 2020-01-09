@@ -1,0 +1,88 @@
+---
+title: Partner Center Insights-informe de competencias | Centro de Partners
+ms.topic: article
+ms.date: 01/03/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Vea lo que está haciendo bien y dónde puede mejorar con respecto a las competencias de Microsoft, los niveles de competencia y las ventajas que le ayudarán a ofrecer soluciones de Microsoft.
+ms.assetid: ''
+keywords: PCI, rendimiento, medidas, éxito del cliente, competencias, ventajas, análisis, informe
+author: MicheleHope
+ms.author: v-mihope
+ms.localizationpriority: medium
+ms.custom: seodec18
+ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75648096"
+---
+# <a name="competencies-report"></a><span data-ttu-id="0c2fe-104">Informe de competencias</span><span class="sxs-lookup"><span data-stu-id="0c2fe-104">Competencies report</span></span>
+
+<span data-ttu-id="0c2fe-105">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="0c2fe-106">Administrador global</span><span class="sxs-lookup"><span data-stu-id="0c2fe-106">Global admin</span></span>
+- <span data-ttu-id="0c2fe-107">Agente de administración</span><span class="sxs-lookup"><span data-stu-id="0c2fe-107">Admin agent</span></span>
+- <span data-ttu-id="0c2fe-108">Visor de informes</span><span class="sxs-lookup"><span data-stu-id="0c2fe-108">Report Viewer</span></span>
+- <span data-ttu-id="0c2fe-109">Visor de informes ejecutivos</span><span class="sxs-lookup"><span data-stu-id="0c2fe-109">Executive Report Viewer</span></span>
+
+<span data-ttu-id="0c2fe-110">Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-110">Competencies allow your company to demonstrate your technical capability to deliver Microsoft solutions.</span></span> <span data-ttu-id="0c2fe-111">Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-111">Microsoft competencies are designed to meet your customers' needs and showcase your expertise to prospective customers.</span></span> <span data-ttu-id="0c2fe-112">Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, derechos para productos en la nube como O365, soporte técnico, ventajas de comercialización (GTM), etc. Actualmente, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-112">They come with a wealth of benefits from Microsoft, such as included quantities of Azure consumption, entitlements for Cloud products such as O365, technical support, Go-to-Market (GTM) benefits, etc. There are a total of 19 competencies today across the following categories: **App and Infrastructure**, **Business applications**, **Data and AI** and **Modern workplace**.</span></span> <span data-ttu-id="0c2fe-113">Las competencias se dividen en niveles Silver o Gold, por ejemplo, con una barra superior para la competencia Gold y un nivel más alto de beneficios asociado.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-113">Competencies are tiered into Silver or Gold levels, for instance, with a higher bar for Gold competency and an associated higher level of benefits.</span></span>  
+
+<span data-ttu-id="0c2fe-114">**Ciclo de vida de la competencia**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-114">**Competency life cycle**</span></span>
+
+<span data-ttu-id="0c2fe-115">Desde el punto de vista del ciclo de vida, los asociados comienzan por la creación de los indicadores clave de rendimiento (KPI) necesarios para lograr competencias específicas.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-115">From a life cycle standpoint, partners begin by building on the key performance indicators (KPIs) that are required to attain specific competencies.</span></span> <span data-ttu-id="0c2fe-116">Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se **califican** para una competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-116">Once they reach the threshold set for a given competency across all the required metrics, they become **qualified** for a competency.</span></span> <span data-ttu-id="0c2fe-117">A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para lograr la competencia y estar **activa** en esa competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-117">Partners can then pay for the competency offer (Silver or Gold) to attain the competency and become **Active** in that competency.</span></span> <span data-ttu-id="0c2fe-118">El estado **activo** de la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se conoce como la **fecha de aniversario** de la competencia).</span><span class="sxs-lookup"><span data-stu-id="0c2fe-118">The competency **Active** status is valid for one year from the date of attainment of the competency (this is called the **Anniversary date** for the competency).</span></span> <span data-ttu-id="0c2fe-119">Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-119">At the end of the anniversary year, partners need to meet the competency requirements.</span></span> <span data-ttu-id="0c2fe-120">Si no cumplen estos requisitos de nuevo, perderán la competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-120">If they do not meet these requirements again, they will lose the competency.</span></span> <span data-ttu-id="0c2fe-121">Un estado de **riesgo** para una competencia contratada previamente significa que ciertas métricas clave están previstas por debajo del umbral en la **fecha de aniversario**de la competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-121">An **At risk** status for a previously attained competency means certain key metrics are projected to fall below the threshold at that competencies **Anniversary date**.</span></span>
+
+<span data-ttu-id="0c2fe-122">**Obtención de aptitudes**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-122">**Competency attainment**</span></span>
+
+<span data-ttu-id="0c2fe-123">Cada competencia tiene un conjunto específico de requisitos para cumplir.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-123">Each competency has a specific set of requirements to fulfill.</span></span> <span data-ttu-id="0c2fe-124">Los requisitos de la competencia en la nube se dividen en dos categorías: habilidades y rendimiento.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-124">Cloud competency requirements fall into two categories: skills and performance.</span></span>
+
+- <span data-ttu-id="0c2fe-125">Conocimientos: los requisitos suelen incluir exámenes, valoraciones o certificaciones que deben superar los individuos de su empresa.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-125">Skills: Requirements often include exams, assessments, or certifications which individuals within your company must pass.</span></span>
+- <span data-ttu-id="0c2fe-126">Rendimiento: para poder participar en una competencia, su empresa debe cumplir determinados umbrales de rendimiento alineados con el área de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-126">Performance: To be eligible for a competency, your company must meet certain performance thresholds aligned to competency area.</span></span> <span data-ttu-id="0c2fe-127">Por ejemplo, es posible que su empresa necesite cumplir una cantidad mínima de consumo de Azure durante los 12 meses finales.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-127">For example, your company may need to meet a minimum amount of Azure consumption over the trailing 12 months.</span></span>
+
+## <a name="competencies-report-details"></a><span data-ttu-id="0c2fe-128">Detalles del informe de competencias</span><span class="sxs-lookup"><span data-stu-id="0c2fe-128">Competencies report details</span></span>
+
+<span data-ttu-id="0c2fe-129">Puede ver las siguientes secciones del informe competencias:</span><span class="sxs-lookup"><span data-stu-id="0c2fe-129">You can see the following sections from the Competencies report:</span></span>
+
+- <span data-ttu-id="0c2fe-130">Resumen</span><span class="sxs-lookup"><span data-stu-id="0c2fe-130">Summary</span></span>
+- <span data-ttu-id="0c2fe-131">Análisis de métricas de competencia</span><span class="sxs-lookup"><span data-stu-id="0c2fe-131">Competency metrics analysis</span></span>
+- <span data-ttu-id="0c2fe-132">Historial de competencias</span><span class="sxs-lookup"><span data-stu-id="0c2fe-132">Competency history</span></span>
+
+ > [!NOTE]
+ > <span data-ttu-id="0c2fe-133">Este informe está disponible en el panel del centro de Partners (PCI).</span><span class="sxs-lookup"><span data-stu-id="0c2fe-133">This report is available from the Partner Center Insights (PCI) dashboard.</span></span> <span data-ttu-id="0c2fe-134">Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-134">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="0c2fe-135">Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-135">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+
+<span data-ttu-id="0c2fe-136">**Summmary**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-136">**Summmary**</span></span>
+
+<span data-ttu-id="0c2fe-137">La vista de Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (oro/plata) en todas las fases del ciclo de vida de la competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-137">The Summary view presents a count of competencies with their names at each competency level (Gold/Silver) across all the stages of the competency life cycle.</span></span> <span data-ttu-id="0c2fe-138">Las fases del ciclo de vida de la competencia incluyen: **iniciado**, **calificado**, **activo**y **en riesgo**.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-138">Stages of the competency life cycle include: **Started**, **Qualified**, **Active**, and **At risk**.</span></span> <span data-ttu-id="0c2fe-139">Ejemplo: los requisitos de capacidad de la nube se dividen en dos categorías: habilidades y rendimiento.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-139">Example: Cloud Competency requirements fall under two categories: skills and performance.</span></span>
+
+- <span data-ttu-id="0c2fe-140">Iniciado: recuento de las competencias para las que tiene uno o varios de los requisitos subyacentes en curso.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-140">Started: Count of competencies for which you have one or more of the underlying requirements in progress.</span></span>
+<span data-ttu-id="0c2fe-141">El desglose de las competencias iniciadas cuenta por nivel de competencia (Silver/Gold) con los nombres de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-141">Breakdown of started competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="0c2fe-142">Calificado: competencias en las que se cumplen los requisitos, pero que pueden o no haber comprado todavía la oferta Silver/Gold asociada.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-142">Qualified: Competencies for which you have met the requirements, but might or might not yet have purchased the associated Silver/Gold offer.</span></span> <span data-ttu-id="0c2fe-143">El desglose de las competencias calificadas cuenta por nivel de competencia (Silver/Gold) con nombres de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-143">Breakdown of qualified competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="0c2fe-144">Active: competencias para las que ha cumplido los requisitos y adquirido una oferta Silver/Gold.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-144">Active: Competencies for which you have met the requirements and purchased a Silver/Gold offer.</span></span> <span data-ttu-id="0c2fe-145">Desglose de competencias activas recuento por nivel de competencia (Silver/Gold) con nombres de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-145">Breakdown of active competencies count by competency level (Silver/Gold) with competency names.</span></span>
+
+- <span data-ttu-id="0c2fe-146">En riesgo (próximo año): recuento de las competencias que están **activas** actualmente, pero también **en riesgo** de no cumplir los requisitos del año siguiente.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-146">At risk (next year): Count of competencies that are currently **Active** but also **At risk** of not meeting requirements for next year.</span></span>
+<span data-ttu-id="0c2fe-147">Desglose de las competencias (por nivel de competencia, como Silver/Gold, con nombres de competencia) que corren el riesgo de no ser aptas para el próximo año.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-147">Breakdown of competencies (by competency level, such as Silver/Gold, with competency names) which are at risk of not qualifying for next year.</span></span>
+
+![Resumen de competencias](images/pci/pci_competencies_summary_1.png)
+
+<span data-ttu-id="0c2fe-149">**Análisis de métricas de competencia**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-149">**Competency metric analysis**</span></span>
+
+<span data-ttu-id="0c2fe-150">Esta vista muestra el estado de las métricas de competencia con respecto a los umbrales necesarios para que los asociados alcancen o conserven la competencia en el nivel Silver/Gold.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-150">This view shows the status of competency metrics against the thresholds required for partners to attain/retain the competency at the Silver/Gold level.</span></span> 
+
+<span data-ttu-id="0c2fe-151">El informe se puede dinamizar con los dos intervalos de fechas siguientes:</span><span class="sxs-lookup"><span data-stu-id="0c2fe-151">The report can be pivoted by the following, two date ranges:</span></span>
+
+1. <span data-ttu-id="0c2fe-152">Vista de TTM: muestra el rendimiento de los asociados durante los últimos doce meses (TTM).</span><span class="sxs-lookup"><span data-stu-id="0c2fe-152">TTM view: This enumerates the partner performance over the last twelve months (TTM).</span></span>
+2. <span data-ttu-id="0c2fe-153">Vista de año de aniversario: muestra el rendimiento del socio comercial de la fecha de aniversario anterior a la fecha de aniversario siguiente.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-153">Anniversary Year view: This enumerates the partner performance from the previous Anniversary date to the next Anniversary date.</span></span>
+
+![Análisis de métricas de competencia](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+
+> [!NOTE]
+ > <span data-ttu-id="0c2fe-155">No todas las métricas se describen en el análisis.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-155">Not all metrics are covered in the analysis.</span></span> <span data-ttu-id="0c2fe-156">Actualmente, las métricas asociadas con el aprendizaje y la certificación no se admiten en el informe de competencias.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-156">Currently, metrics associated with learning and certification are not supported in the Competencies report.</span></span> <span data-ttu-id="0c2fe-157">Las competencias de Cloud Business Applications (CBA) tampoco se admiten actualmente en el análisis de métricas para el estado **activo** de la competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-157">Cloud Business Applications (CBA) competencies are also not currently supported in the metric analysis for the **Active** competency status.</span></span>
+
+<span data-ttu-id="0c2fe-158">**Historial de competencias**</span><span class="sxs-lookup"><span data-stu-id="0c2fe-158">**Competency history**</span></span>
+
+<span data-ttu-id="0c2fe-159">Esta vista muestra una tabla detallada de todas las competencias que ha logrado hasta ahora, con el nivel de competencia y la fase de competencia.</span><span class="sxs-lookup"><span data-stu-id="0c2fe-159">This view shows a detailed table of all competencies you have attained so far, with competency level and competency stage.</span></span>
+
+![Historial de competencias](images/pci/pci_competencies_comp_history_3.png)
+
