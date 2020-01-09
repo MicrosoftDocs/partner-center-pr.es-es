@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033521"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717360"
 highlightedContent:
   items:
   - title: Inicia sesión para ver los anuncios más recientes
@@ -32,9 +32,9 @@ highlightedContent:
   - title: Introducción a Marketplace comercial
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: Procedimientos recomendados de autenticación multifactor y seguridad
+  - title: Información acerca del Centro de partners
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: 'La nueva experiencia de comercio en el Centro de partners: el plan de Azure'
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,14 +48,14 @@ conceptualContent:
       text: Crear una cuenta del Centro de partners
     - url: manage-locations.md
       itemType: how-to-guide
-      text: Administrar tus ubicaciones
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: Administración de las ubicaciones de tu empresa
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: Administrar tu inquilino
+      text: Administración de Marketplace Rewards
     footerLink:
       url: partner-center-account-setup.md
       text: Ver más
-  - title: Conectar con los clientes
+  - title: Conexión con los clientes
     links:
     - url: confirm-customer-agreement.md
       itemType: how-to-guide
@@ -65,11 +65,11 @@ conceptualContent:
       text: Administrar licencias de clientes
     - url: see-your-customer-list.md
       itemType: how-to-guide
-      text: Consultar la lista de clientes
+      text: Consulta de la lista de clientes
     footerLink:
       url: customer-accounts.md
       text: Ver más
-  - title: Haz crecer tu negocio
+  - title: Desarrollo de la empresa
     links:
     - url: referrals.md
       itemType: how-to-guide
@@ -87,10 +87,10 @@ conceptualContent:
     links:
     - url: billing-basics.md
       itemType: how-to-guide
-      text: Conceptos básicos de la facturación
+      text: Conceptos básicos de facturación
     - url: read-your-bill.md
       itemType: how-to-guide
-      text: Leer tu factura
+      text: Lectura de la factura
     - url: tax-and-tax-exemptions.md
       itemType: how-to-guide
       text: Impuestos y exenciones fiscales
@@ -118,7 +118,7 @@ conceptualContent:
       text: Proporcionar soporte técnico a los clientes
     - url: check-service-health.md
       itemType: how-to-guide
-      text: Comprobar el estado del servicio
+      text: Comprobación del estado del servicio
     - url: report-problems-with-partner-center.md
       itemType: how-to-guide
       text: Notificar problemas del Centro de partners
