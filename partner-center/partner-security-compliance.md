@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005014"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636996"
 ---
 # <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
 
@@ -29,7 +29,7 @@ ms.locfileid: "75005014"
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Administrador de facturación
 -   Administrador de partners de MPN
 
@@ -50,13 +50,22 @@ Este informe puede ayudarle a comprobar el estado de los requisitos de seguridad
 >[!NOTE]
 >El informe de estado de los requisitos de seguridad para partners solo se admite en el Centro de partners. No está disponible en Microsoft Cloud for US Government ni en Microsoft Cloud Germany. Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) que adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, no es preciso que estos partners cumplan los nuevos requisitos de seguridad que entran en vigor el 1 de agosto de 2019. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
 
-Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los 7 días anteriores.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>Informe de Multi-Factor Authentication ("MFA")
 
-El informe de MFA del Centro de partners ofrece información sobre la implementación de MFA para asociados proporcionando dos métricas basadas en las actividades del Centro de partners:
+El informe de MFA del Centro de partners ofrece información sobre la implementación de MFA para asociados, y proporciona dos tipos de métricas basadas en la configuración de MFA y en las actividades del Centro de partners del inquilino del CSP: 
 
-**Comprobación de MFA completada por parte de los usuarios**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuración de MFA en un inquilino del CSP
+
+Esta métrica está relacionada con la configuración de MFA en un inquilino del CSP, que se captura y se notifica diariamente. Mide el porcentaje de cuentas de usuario habilitadas en las que se aplica MFA mediante cualquiera de esas [opciones de MFA](https://aka.ms/partner-mfa-get-started). Por ejemplo:
+
+- Contoso es un CSP asociado con 110 cuentas de usuario en el inquilino, 10 de las cuales están deshabilitadas. 
+- De las 100 cuentas restantes, en 90 se aplica MFA mediante las [opciones de MFA](https://aka.ms/partner-mfa-get-started) proporcionadas. Por lo tanto, la métrica muestra un 90 %. 
+
+### <a name="partner-center-activities-with-mfa"></a>Actividades del Centro de partners con MFA
+
+Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los 7 días anteriores.
+
+#### <a name="mfa-verification-completed-by-users"></a>Comprobación de MFA realizada por los usuarios
 
 Esta métrica está relacionada con actividades del panel del Centro de partners. Mide el porcentaje de operaciones realizadas por los usuarios que han completado la comprobación de MFA. Por ejemplo:
 
@@ -67,7 +76,7 @@ Esta métrica está relacionada con actividades del panel del Centro de partners
 - Los otros cuatro días, ningún agente realiza operaciones.
 - De las 10 operaciones realizadas en el periodo de siete días, dos las realizó un usuario con la comprobación de MFA. Por lo tanto, la métrica muestra un 20 %.
 
-**Autenticación de aplicación y usuario**
+#### <a name="appuser-authentication"></a>Autenticación de aplicación y usuario
 
 Esta métrica está relacionada con el uso de solicitudes de API del Centro de partners realizadas con la autenticación de aplicación y usuario. Mide el porcentaje de solicitudes de API realizadas mediante un token de acceso con notificación de MFA. Por ejemplo:
 
@@ -116,7 +125,7 @@ Si usa una solución MFA de terceros, identifique cómo se integra con Azure AD
 
 Puede ser útil identificar los usuarios que inician sesión en el Centro de partners sin comprobación de MFA y comprobarlos con la implementación de MFA actual. Puede usar el [informe de inicio de sesión de Azure AD ](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para averiguar si un usuario ha completado la comprobación de MFA o no. El informe de inicio de sesión de Azure AD solo está disponible actualmente para los partners que se han suscrito a Azure AD Premium o a cualquier SKU de O365 que incluye Azure AD Premium (por ejemplo, EMS).
 
-**Para obtener más información**
+**Para más información**
 
 - [Comunidad de grupos de guías de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Requisitos de seguridad del Centro de partners](partner-security-requirements.md)
