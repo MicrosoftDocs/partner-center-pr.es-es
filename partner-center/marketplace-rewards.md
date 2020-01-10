@@ -10,19 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Ofertas de Marketplace, soporte técnico de marketing, premios, ventajas del publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010406"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717340"
 ---
 # <a name="manage-marketplace-rewards"></a>Administrar las recompensas de Marketplace
 
 Roles adecuados:
 
 - Administrador de partners de MPN
-- 全域系統管理員
+- Administrador global
 - Agente de administración
 
 Si publica ofertas de software en nuestro Marketplace comercial, las recompensas de Marketplace proporcionan soporte dirigido para todas sus ofertas con marketing, ventas y ventajas técnicas. 
@@ -38,17 +38,17 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 3. Para agregar o actualizar la información de contacto de marketing, vaya a la parte superior de la pestaña beneficios de ventas y marketing en la página de recompensas de Marketplace y seleccione **Agregar, actualizar o cambiar**. 
 
-接下來，執行下列作業：
+A continuación, haga lo siguiente:
 
-a. Seleccione un usuario de la lista. Si el usuario que desea asignar no está en la lista, puede agregar nuevos usuarios en configuración de la cuenta.
+  - Seleccione un usuario de la lista. Si el usuario que desea asignar no está en la lista, puede agregar nuevos usuarios en configuración de la cuenta.
 
-b。 Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. Le enviaremos instrucciones por correo electrónico para usar el beneficio de premios de Marketplace en la dirección de correo electrónico del contacto de marketing designada.
+  - Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. Le enviaremos instrucciones por correo electrónico para usar el beneficio de premios de Marketplace en la dirección de correo electrónico del contacto de marketing designada.
 
-c. Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**.
+  - Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**.
 
 4. Después de actualizar el contacto de marketing, seleccione **Activar** para la ventaja que desea empezar a usar. Una vez que active una ventaja, el contacto de marketing será contactado por un miembro del equipo de premios en un plazo de una semana.
 
-## <a name="technical-benefits"></a>技術權益
+## <a name="technical-benefits"></a>Ventajas técnicas
 
 1. Puede usar sus beneficios técnicos para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
 
