@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: roles, permisos, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004134"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776506"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -41,12 +41,12 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||• Ver contratos, listas de precios y ofertas
 ||• Ver, crear y administrar los usuarios de partners|
 ||  • Ver, crear y administrar los archivos de facturación, facturas y conciliación
-|Administrador de administración de usuarios   | • Ver, crear y administrar usuarios
+|Administrador del control de usuarios   | • Ver, crear y administrar usuarios
 ||• Ver todos los perfiles de partners
 ||• Ver, crear y administrar los usuarios de partners  |
 |Administrador de facturación | • Ver, crear y administrar los archivos de facturación, facturas y conciliación|
 |Usuario predeterminado|  Ver mi perfil   |
-|Agente de administración | • Administración de clientes
+|Agente de administrador | • Administración de clientes
 ||• Agregar una lista de dispositivos en el Centro de partners
 ||• Crear y aplicar los perfiles a los dispositivos
 ||• Administración de suscripciones
@@ -135,6 +135,13 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 ||• Puede ver e iniciar reclamaciones de incentivos
 ||• Ver ganancias de reembolso y cooperación
 ||• Acceso a soporte técnico
+
+## <a name="view-partner-center-insights-data"></a>Ver datos de conclusiones del Centro de partners
+
+|**Rol** | **Qué puede hacer**|
+|------------------------------|:-------------------------|
+|Visor de informes ejecutivos|Acceso a todos los conjuntos de datos de informes|
+|Visor de informes|Acceso a informes de datos, a excepción de los ingresos y los datos personales de clientes y empleados|
 
 
 
