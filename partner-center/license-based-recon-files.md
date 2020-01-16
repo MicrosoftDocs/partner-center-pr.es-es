@@ -1,18 +1,18 @@
 ---
 title: Archivos de conciliación basados en licencias | Centro de Partners
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Comprender los archivos de conciliación basados en licencias en el centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757188"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021732"
 ---
 # <a name="license-based-reconciliation-files"></a>Archivos de conciliación basada en licencia
 
@@ -37,7 +37,7 @@ Para conciliar los cambios con los pedidos de un cliente, compare el **Syndicati
 | CustomerId | Identificador único de Microsoft para el cliente en formato GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | Nombre de la organización del cliente, según figura en el Centro de partners. *Campo muy importante para conciliar la factura con la información del sistema.* | *Cliente de prueba A* |
 | MpnId | Identificador de MPN del asociado de CSP. Vea [Cómo elemento por asociado](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción. No está disponible para la actividad actual. |
+| ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción.  |
 | OrderId | Identificador único de un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar el orden al ponerse en contacto con el servicio de soporte técnico. No se usa para la conciliación. | *566890604832738111* |
 | SubscriptionId | Identificador único de una suscripción en la plataforma de facturación de Microsoft. Puede ser útil para identificar la suscripción al ponerse en contacto con el servicio de soporte técnico. No se usa para la conciliación. *Este valor no es el mismo que el **identificador de suscripción** en la consola de administración de socios comerciales. Consulte **SyndicationPartnerSubscriptionNumber** en su lugar.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | Identificador único de las suscripciones. Un cliente puede tener varias suscripciones para el mismo plan. Esta columna es importante para el análisis de archivos de conciliación. Este campo se asigna al **identificador de suscripción** en la consola de administración de socios comerciales. | *fb977ab5-test-test-test-24c8d9591708* |

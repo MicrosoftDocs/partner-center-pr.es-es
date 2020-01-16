@@ -1,18 +1,18 @@
 ---
 title: Archivos de conciliación de uso con clasificación diaria | Centro de Partners
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776486"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021727"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Archivos de conciliación de uso clasificados diariamente
 
@@ -38,18 +38,18 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | PartnerName | Nombre del asociado. |
 | CustomerId | Identificador único de Microsoft para el cliente en formato GUID. |
 | CustomerName | Nombre de la organización del cliente según se indica en el Centro de partners. *Esta columna es muy importante para conciliar la factura con la información del sistema.* |
-| CustomerDomainName | El nombre de dominio del cliente. No está disponible para la actividad actual. |
+| CustomerDomainName | El nombre de dominio del cliente. |
 | CustomerCountry | El país donde se encuentra el cliente. |
 | MpnId | Identificador de MPN del asociado de CSP. |
-| Tier2MpnId | Identificador de MPN del distribuidor de registro de la suscripción. No está disponible para la actividad actual. |
-| InvoiceNumber | Número de factura donde aparece la transacción especificada. No está disponible para la actividad actual. |
+| Tier2MpnId | Identificador de MPN del distribuidor de registro de la suscripción. |
+| InvoiceNumber | Número de factura donde aparece la transacción especificada. |
 | ProductId | Identificador del producto. |
 | SkuId | Identificador de una SKU determinada. |
 | AvailabilityId | Identificador de la disponibilidad de una SKU determinada. Esto muestra si la SKU está disponible para su compra en el país determinado, la moneda, el segmento del sector, etc. |
 | SkuName | Título para un SKU concreto. |
 | ProductName | Nombre del producto. |
 | PublisherName | Nombre del publicador. |
-| PublisherId | Identificador del publicador en formato GUID. No está disponible para la actividad actual. |
+| PublisherId | Identificador del publicador en formato GUID. |
 | SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este campo es idéntico a **nombredeoferta**). |
 | SubscriptionId | Identificador único de una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. *Este identificador no es el mismo que el **identificador de suscripción** en la consola de administración de socios comerciales.* |
 | ChargeStartDate | Fecha de inicio del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de facturación anterior). La hora siempre corresponde al comienzo del día, 0:00. |
@@ -66,10 +66,10 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | ConsumedService | El servicio de la plataforma Azure que ha usado. |
 | ResourceGroup | Representa un contenedor que contiene los recursos relacionados de una solución de Azure. |
 | ResourceURI | URI del recurso que se va a usar. |
-| ChargeType | Tipo de cargo o ajuste. No está disponible para la actividad actual. |
+| ChargeType | Tipo de cargo o ajuste.  |
 | UnitPrice | Precio por licencia, tal como se publicó en la lista de precios en el momento de la compra. Asegúrese de que este precio coincida con la información almacenada en el sistema de facturación durante la conciliación. |
 | Cantidad | Número de licencias. Asegúrese de que este precio coincida con la información almacenada en el sistema de facturación durante la conciliación. |
-| UnitType | Tipo de unidad en la que se carga el medidor. No está disponible para la actividad actual. |
+| UnitType | Tipo de unidad en la que se carga el medidor.  |
 | BillingPreTaxTotal | Importe total de facturación antes de los impuestos. |
 | BillingCurrency | La moneda en la región geográfica del cliente. |
 | PricingPreTaxTotal | Los precios antes de que se agreguen los impuestos. |

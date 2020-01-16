@@ -1,18 +1,18 @@
 ---
 title: Archivos de conciliación basados en el uso | Centro de Partners
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Se explican todos los elementos del archivo de conciliación basado en el uso, con ejemplos.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757228"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021742"
 ---
 # <a name="usage-based-file-fields"></a>Campos de archivos basados en el uso
 
@@ -34,7 +34,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | PartnerBillableAccountId | Identificador de cuenta de asociado. | *1010578050* |
 | CustomerCompanyName | Nombre de la organización del cliente, según figura en el Centro de partners. *Muy importante para conciliar la factura con la información del sistema.* | *Cliente de prueba* |
 | MpnId | Identificador de MPN del asociado de CSP. | *4390934* |
-| ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción. No está disponible para la actividad actual. |
+| ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción.  |
 | InvoiceNumber | Número de factura donde aparece la transacción especificada. | *D020001IVK* |
 | ChargeStartDate | Fecha de inicio del ciclo de facturación, excepto cuando se presentan fechas de datos de uso latente que no se hayan cobrado anteriormente (de ciclos de facturación anteriores). La hora siempre corresponde al comienzo del día, 0:00. | *2/1/2019 0:00* |
 | ChargeEndDate | Fecha final del ciclo de facturación, excepto cuando se presentan fechas de datos de uso latente que no se hayan cobrado anteriormente (de ciclos de facturación anteriores). La hora siempre corresponde al fin del día, 23:59. | *2/28/2019 23:59* |
