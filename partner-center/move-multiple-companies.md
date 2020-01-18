@@ -1,30 +1,30 @@
 ---
 title: Guía para la migración de varias empresas de PMC al Centro de partners | Centro de Partners
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Qué debe saber al migrar varias empresas de PMC al centro de Partners y consolidarlas en una cuenta global principal.
+description: Qué debe saber al migrar varias empresas de PMC al centro de Partners y consolidarlas en una cuenta global de socio comercial.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004694"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171217"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Paso de varias empresas al Centro de partners
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
-Al mover una cuenta de una empresa de PMC al Centro de partners, es posible que se muevan varias cuentas. En el Centro de partners, estas cuentas se consolidarán en una cuenta global (PGA). La primera cuenta que mueva se considerará la cuenta global principal y las restantes se consolidarán en la primera cuenta como ubicaciones. Inicia el movimiento con la cuenta de PMC de la sede central de la empresa. Para más información, consulta [Guía para la migración de PMC al Centro de partners](guide-to-migration.md) o ve este vídeo en el que se explica [cómo usar fácilmente cuentas que se encuentran en varias ubicaciones](https://vimeo.com/290335248).
+Al mover una cuenta de una empresa de PMC al Centro de partners, es posible que se muevan varias cuentas. En el Centro de partners, estas cuentas se consolidarán en una cuenta global (PGA). La primera cuenta que mueva se considerará la cuenta global de socio comercial y todas las cuentas posteriores se consolidarán en la primera cuenta como ubicaciones. Inicia el movimiento con la cuenta de PMC de la sede central de la empresa. Para más información, consulta [Guía para la migración de PMC al Centro de partners](guide-to-migration.md) o ve este vídeo en el que se explica [cómo usar fácilmente cuentas que se encuentran en varias ubicaciones](https://vimeo.com/290335248).
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Migración de cuentas adicionales al Centro de partners 
 

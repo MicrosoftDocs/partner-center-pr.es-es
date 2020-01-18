@@ -10,20 +10,20 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Ofertas de Marketplace, soporte técnico de marketing, premios, ventajas del publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942902"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171202"
 ---
-# <a name="manage-marketplace-rewards"></a>Administrar las recompensas de Marketplace
+# <a name="manage-marketplace-rewards"></a>Administración de Marketplace Rewards
 
 Roles adecuados:
 
 - Administrador de partners de MPN
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
 Si publica ofertas de software en nuestro Marketplace comercial, las recompensas de Marketplace proporcionan soporte dirigido para todas sus ofertas con marketing, ventas y ventajas técnicas. 
 
@@ -56,7 +56,7 @@ A continuación, haga lo siguiente:
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de Marketplace de premios comerciales en mi panel?
 
-La información de recompensas de Marketplace está disponible a través del inquilino de Azure AD y el ID. de MPN que se usó para crear la cuenta del centro de Partners. Esta cuenta se denomina cuenta global principal (PGA) de su empresa. Si el inquilino de AAD es diferente del que se usa para la incorporación de MPN, para que pueda ver el menú de Marketplace de premios comerciales, tendrá que asociarlo con el PGA de su empresa. 
+La información de recompensas de Marketplace está disponible a través del inquilino de Azure AD y el ID. de MPN que se usó para crear la cuenta del centro de Partners. Esta cuenta se denomina cuenta global de socio comercial (PGA) de su empresa. Si el inquilino de AAD es diferente del que se usa para la incorporación de MPN, para que pueda ver el menú de Marketplace de premios comerciales, tendrá que asociarlo con el PGA de su empresa. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para asociar un inquilino de Azure AD con el PGA de su empresa
 
