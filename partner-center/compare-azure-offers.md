@@ -9,18 +9,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722500"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021760"
 ---
 # <a name="compare-azure-offers"></a>Comparar ofertas de Azure
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 - Agente del departamento de soporte técnico
@@ -38,13 +38,13 @@ En la tabla siguiente se proporciona información general sobre las diferencias 
 |Varias monedas|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Basada en la ubicación y moneda del partner| 
 |Archivo de factura y conciliación|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente.  También se proporcionarán archivos de uso con una clasificación diaria (tanto para las partes facturadas como para las no facturadas) |Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Todos los pedidos en un archivo de factura y conciliación|
 |Lista de precios y matriz de ofertas|Publicadas mensualmente y con precios en USD*|Las ofertas y los precios de Marketplace se pueden exportar en tiempo real a un archivo en formato CSV.|Archivo único independiente con todos los precios y detalles de las ofertas incluidos. No hay ningún archivo de matriz de ofertas independiente.||Archivo único independiente con todos los precios y detalles de las ofertas incluidos. No hay ninguna matriz de ofertas independiente.| Archivo único independiente con todos los precios y detalles de las ofertas incluidos.|Lista de precios y matriz de ofertas independientes (2 archivos).|
-|Devoluciones e intercambios|No es aplicable. No hay ninguna transacción comercial en la acción de compra de un plan de Azure.|Varía entre las ofertas basadas en licencias de 1 mes y 12 meses, así como las ofertas basadas en uso.|Las devoluciones antes de los 5 días a partir de la fecha del pedido recibirán un crédito del 100 %. Las devoluciones después de los 5 días a partir de la fecha del pedido recibirán un crédito prorrateado y una cuota de finalización temprana del 12 % del crédito prorrateado. Límite de 50 000 USD (o el equivalente en la moneda local) por cliente por año|Las devoluciones antes de los 60 días a partir de la fecha del pedido recibirán un crédito del 100 % y las claves de licencia se desactivarán. No se aceptarán devoluciones parciales.|   Las suspensiones o cancelaciones antes de los 30 días recibirán un crédito del 100 %. Las suspensiones o cancelaciones después de los 30 días recibirán un crédito prorrateado.|
-
-|Disponibilidad geográfica|139 países: aquí encontrará una lista completa de esos países.|La matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales muestra el ámbito en el que estas ofertas son aptas para que el partner las incluya en el CSP.|Consulta la matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales para obtener todos los detalles. La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|Consulta la matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales para obtener todos los detalles.  La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|Requisitos de soporte técnico|Requisitos de soporte técnico del programa CSP estándar.|La empresa que publica la oferta es responsable del soporte técnico.  El partner del programa CSP es responsable de las actividades de preventa, transacciones y soporte técnico de facturación.|Requisitos de soporte técnico del programa CSP estándar.|Requisitos de soporte técnico del programa CSP estándar.|Requisitos de soporte técnico del programa CSP estándar.|
+|Devoluciones e intercambios|No aplicable. No hay ninguna transacción comercial en la acción de compra de un plan de Azure.|Varía entre las ofertas basadas en licencias de 1 mes y 12 meses, así como las ofertas basadas en uso.|Las devoluciones antes de los 5 días a partir de la fecha del pedido recibirán un crédito del 100 %. Las devoluciones después de los 5 días a partir de la fecha del pedido recibirán un crédito prorrateado y una cuota de finalización temprana del 12 % del crédito prorrateado. Límite de 50 000 USD (o el equivalente en la moneda local) por cliente por año|Las devoluciones antes de los 60 días a partir de la fecha del pedido recibirán un crédito del 100 % y las claves de licencia se desactivarán. No se aceptarán devoluciones parciales.|   Las suspensiones o cancelaciones antes de los 30 días recibirán un crédito del 100 %. Las suspensiones o cancelaciones después de los 30 días recibirán un crédito prorrateado.|
+|Disponibilidad geográfica|139 países: aquí encontrará una lista completa de esos países.|En New Commerce Offers Country Availability and Customer Currency Matrix (Disponibilidad por países de ofertas comerciales nuevas y matriz de monedas de clientes), se muestra el ámbito en el que el partner puede poner estas ofertas a disposición del CSP.|Para más información, consulta New Commerce Offers Country Availability and Customer Currency Matrix. La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|Para más información, consulta New Commerce Offers Country Availability and Customer Currency Matrix.  La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|247 países|
+|Requisitos de admisión|Requisitos de soporte técnico del CSP estándar|La empresa que publica las ofertas es responsable del soporte técnico.  El partner de CSP es responsable de las actividades anteriores a la venta, las transacciones y el soporte técnico de facturación.|Requisitos de soporte técnico del CSP estándar|Requisitos de soporte técnico del CSP estándar|Requisitos de soporte técnico del CSP estándar|
 
 \* Microsoft proporcionará las API de precio de lista en el cuarto trimestre para el acceso en tiempo real mediante programación a los precios de medidor de Azure.
 
-**Para obtener más información**
+**Para más información**
 
 - [Move to Azure plan - get started](azure-plan-get-started.md) (Introducción al pasaje al plan de Azure)
 

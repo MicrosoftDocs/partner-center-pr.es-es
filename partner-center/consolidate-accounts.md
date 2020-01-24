@@ -1,7 +1,7 @@
 ---
 title: Consolidación de las cuentas de empresa | Centro de partners
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca del proceso de consolidación de cuentas de Partner Membership Center (PMC) en una cuenta del Centro de partners. Puedes aplicar esta opción si realizas la migración de PMC al Centro de partners.
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: b94b04dd73a34cbd303cbc89443899fef11b287c
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721377"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171188"
 ---
 # <a name="consolidate-your-company-accounts"></a>Consolidar las cuentas de la empresa
 
@@ -24,7 +24,7 @@ ms.locfileid: "74721377"
 - Administrador de partners de MPN
 - Administrador de cuentas
 
-En PMC, puede que tu empresa tuviera muchas cuentas y ubicaciones. Cada ubicación tenía su propia cuenta. Al migrar al Centro de partners, todas las cuentas y ubicaciones se consolidan en una cuenta global principal con varias ubicaciones. Los identificadores, las ventajas, las competencias y las compras de MPN se migrarán contigo: no perderás nada. 
+En PMC, puede que tu empresa tuviera muchas cuentas y ubicaciones. Cada ubicación tenía su propia cuenta. Al migrar al Centro de partners, todas las cuentas y ubicaciones se consolidan en una cuenta global de asociado con varias ubicaciones. Los identificadores, las ventajas, las competencias y las compras de MPN se migrarán contigo: no perderás nada. 
 
 Al iniciar sesión en el Centro de partners por primera vez, se te agregará como administrador de MPN para tu cuenta del Centro de partners para que puedas administrar la cuenta, agregar usuarios, asignar permisos, etc. 
 
@@ -43,19 +43,19 @@ Al iniciar sesión en el Centro de partners por primera vez, se te agregará com
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>¿Qué ocurre durante la consolidación de cuentas?
 
-- No podrás cambiar ningún dato en la pantalla de detalles de la empresa porque los detalles se corresponden con la cuenta global principal. 
+- No podrás cambiar ningún dato en la pantalla de detalles de la empresa porque los detalles se corresponden con la cuenta global de asociado. 
 
-- Las cuentas de PMC (que estás migrando actualmente) se consolidarán en la cuenta global principal. 
+- Las cuentas de PMC (que estás migrando actualmente) se consolidarán en la cuenta global de asociado. 
 
-- Todas las ubicaciones de PMC se migrarán a esta cuenta global principal del Centro de partners existente como ubicaciones y podrás agregar ubicaciones adicionales. Para obtener más información acerca de las ubicaciones, consulta [Administrar la cuenta de socio: Ubicaciones](manage-locations.md).
+- Todas las ubicaciones de PMC se migrarán a esta cuenta global de asociado del Centro de partners existente como ubicaciones y podrás agregar ubicaciones adicionales. Para obtener más información acerca de las ubicaciones, consulta [Administrar la cuenta de socio: Ubicaciones](manage-locations.md).
 
-- Una vez completada la consolidación, verás todos los detalles de las empresas como ubicaciones en la cuenta global principal. Una vez consolidadas las empresas, el proceso no se puede revertir.
+- Una vez completada la consolidación, verás todos los detalles de las empresas como ubicaciones en la cuenta global de asociado. Una vez consolidadas las empresas, el proceso no se puede revertir.
 
 - Todos los identificadores de MPN se conservan durante esta consolidación.
 
 - Todas las competencias existentes (Gold/Silver), compras (MAP/Gold/Silver) y ventajas asociadas se conservan durante la consolidación.
 
-- Se te agregará automáticamente (en calidad de usuario que inició sesión con el identificador de correo electrónico profesional) como administrador de MPN y administrador de cuenta en la cuenta global principal para que puedas administrar la cuenta según sea necesario. 
+- Se te agregará automáticamente (en calidad de usuario que inició sesión con el identificador de correo electrónico profesional) como administrador de MPN y administrador de cuenta en la cuenta global de asociado para que puedas administrar la cuenta según sea necesario. 
 
 
 ## <a name="consolidating-your-benefits-and-competencies"></a>Consolidación de las ventajas y competencias
