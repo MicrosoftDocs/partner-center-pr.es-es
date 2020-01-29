@@ -372,22 +372,22 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="odd">
 <td>ListPrice</td>
 <td><p>Precio de la oferta en vigor la fecha de inicio de la suscripción.</p></td>
-<td>0.0808 USD</td>
+<td>0\.0808 USD</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
 <td><p>ListPrist x OverageQuantity, redondeado al céntimo más próximo.</p></td>
-<td>0.085 USD</td>
+<td>0\.085 USD</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
 <td><p>Cargo por importe de impuestos, en función de las reglas fiscales de tu mercado y las circunstancias específicas.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
 <td><p>Total con impuestos, si se aplican impuestos.</p></td>
-<td>0.93 USD</td>
+<td>0\.93 USD</td>
 </tr>
 <tr class="odd">
 <td>Moneda</td>
@@ -397,12 +397,12 @@ Los siguientes campos explican los servicios usados y la clasificación.
 <tr class="even">
 <td>PretaxEffectiveRate</td>
 <td><p>Precio sin impuestos por unidad. Igual que PretaxCharges/OverageQuantity, redondeado al céntimo más próximo.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
 <td><p>Precio después de impuestos por unidad. Igual que PostTaxTotal/OverageQuantity o PretaxEffectiveRate + tipo impositivo por importe unitario, redondeado el céntimo más próximo.</p></td>
-<td>0.08 USD</td>
+<td>0\.08 USD</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
