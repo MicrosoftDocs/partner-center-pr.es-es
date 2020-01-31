@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, partner directo, factura directa, requisitos
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253590"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860469"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Nuevos requisitos de socio de facturación directo de CSP
 
@@ -50,9 +50,11 @@ Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscrib
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de un revendedor directo a un revendedor indirecto
 
+Los asociados de facturación directos actuales deben cumplir los nuevos requisitos para que permanezcan en el programa de asociados de facturación directa de CSP. De lo contrario, el [acceso a las capacidades de factura directa se restringe finalmente](restricted-direct-bill-capabilities.md) y puede realizar tareas específicas, como la realización de nuevas compras para sus clientes. 
+
 Si decide pasar de un negocio de facturación directo a un negocio de revendedor indirecto, debe realizar varios pasos. Para obtener más información sobre la transición, lea [transición de un asociado directo del proveedor de soluciones en la nube (CSP) a un revendedor indirecto de CSP](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
 - [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Preguntas más frecuentes sobre el revendedor directo de facturación](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
