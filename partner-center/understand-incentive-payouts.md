@@ -20,7 +20,7 @@ ms.locfileid: "76723472"
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 
 **Roles adecuados**
 
@@ -77,11 +77,11 @@ Para acceder a **mi información general sobre incentivos**:
 
 | **Estado**         | **Aparece cuando** |
 |:------------------------------------|:------------------|
-| Acción requerida  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
-| No incluida  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
+| Acción necesaria  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
+| Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
 | Inscritos  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inactive  | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción.  |
-| Invitación  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
+| Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 
 ## <a name="payments-page"></a>Página pagos
@@ -112,15 +112,15 @@ Para exportar cualquiera de los datos de la transacción en esta página, selecc
 |Próximo      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar la factura de impuestos antes de que se le pague         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
-|Failed        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|No superadas        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
-|Envió        |Se ha enviado el pago al Banco.          |No       |
+|Sent        |Se ha enviado el pago al Banco.          |No       |
 |Reprocesamiento       |El pago encontró un error del sistema de Microsoft y se está reprocesando.           |No         |
-|Invertida        |El banco invirtió el pago y se enviará de nuevo en el siguiente ciclo de pago.          |No        |
+|Invertido        |El banco invirtió el pago y se enviará de nuevo en el siguiente ciclo de pago.          |No        |
 |Factura de impuestos rechazada       |La factura de impuestos se rechazó durante la revisión. Todos los pagos pendientes estarán en espera hasta que se complete la revisión de la factura de impuestos.          |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |Factura de impuestos en revisión        |Se está revisando la factura de impuestos. El pago se publicará una vez que se haya aprobado la factura de impuestos.           |No        |
-|Aceptado        |El Banco rechazó el pago.           |Póngase en contacto con su banco para obtener más información.  |
+|Rechazado        |El Banco rechazó el pago.           |Póngase en contacto con su banco para obtener más información.  |
 
 ## <a name="export-data-page"></a>Página exportar datos
 Siga las instrucciones de esta página para exportar los datos que desee. 
