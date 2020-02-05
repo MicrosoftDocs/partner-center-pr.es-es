@@ -1,0 +1,150 @@
+### YamlMime:Tutorial
+title: Implementación de los requisitos de seguridad para asociados
+metadata:
+  title: Implementación de los requisitos de seguridad para asociados
+  description: En este tutorial, obtendrá información sobre los requisitos de seguridad para asociados y cómo cumplirlos.
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 02/04/2020
+  ms.locfileid: "77013343"
+items:
+- title: Introducción
+  durationInMinutes: 5
+  content: >
+    La seguridad y privacidad de los clientes y asociados son las máximas prioridades de Microsoft. Seguimos observando un número creciente de ataques de seguridad más sofisticado, que están relacionados principalmente con identidades en riesgo. Como los controles preventivos juegan un papel clave en una estrategia de defensa general para frustrar los ataques de seguridad, comenzaremos a aplicar un conjunto de requisitos de seguridad obligatorios para ayudar a proteger a los partners y sus clientes.
+
+
+    A través de este tutorial, obtendrás más información sobre los requisitos de seguridad de los asociados, cómo cumplirlos y el impacto para los usuarios de tu directorio de asociados.
+- title: ¿Cuáles son los nuevos requisitos de seguridad para asociados?
+  durationInMinutes: 1
+  content: >
+    Todos los asociados que participan en el programa Proveedor de soluciones en la nube, los proveedores de panel de control y los asociados de Advisor deben aplicar Multi-Factor Authentication (MFA) para cada usuario en su inquilino de asociado. Para hacerlo, se pueden habilitar dos [directivas de línea base de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Las directivas de línea de base son un conjunto de directivas predefinidas que ayudan a proteger las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la difusión de contraseña, la reinyección y la suplantación de identidad. Las directivas de base de referencia están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de base de referencia a disposición de todo el mundo porque los ataques basados en la identidad han aumentado en los últimos años.
+
+
+    Las dos directivas de línea de base que deben habilitarse se describen en la tabla siguiente.
+
+
+    |**Directiva**| |
+
+    |-----|-----|
+
+    |**Require MFA for admins** (Requerir MFA a los administradores)|La habilitación de la directiva Requerir MFA a los administradores requiere que los usuarios que tengan roles de administrador se registren en MFA mediante la aplicación de autenticación. Una vez que se complete el registro de MFA, los administradores deberán realizar la autenticación multifactor cada vez que inicien sesión.|
+
+    |**End user protection** (Protección del usuario final)|Protección del usuario final es una directiva de línea base de MFA basada en el riesgo que protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren para MFA mediante la aplicación de autenticación. Los usuarios pueden hacer caso omiso la solicitud de registro en MFA durante 14 días, pero tras ese periodo se les impedirá iniciar sesión hasta que se registren en MFA. Una vez que se hayan registrado, solo se solicitará a los usuarios la autenticación multifactor en los intentos de inicio de sesión peligrosos. Las cuentas de usuario en peligro se bloquean hasta que se restablece su contraseña y han desaparecido los eventos de riesgo.|
+
+
+    Cuando estas directivas están habilitadas, todos los usuarios pueden usar Azure MFA sin ningún costo adicional. Si usas una solución de terceros, debes aplicar MFA para cada usuario al acceder a los servicios en la nube comerciales de Microsoft.
+
+
+    > [!IMPORTANT]
+
+    > Puesto que se aplicará MFA para todos los usuarios del directorio de asociados, se producirá un impacto en cualquier automatización o integración que use las credenciales de usuario. Para abordar este impacto, tendrás que modificar la forma en que la automatización o integración se conecta a los servicios en la nube comerciales de Microsoft. Si el servicio al que te estás conectando admite la autenticación basada en tokens, se recomienda que implementes el [marco del modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
+- title: ¿Cómo habilito la directiva de línea base Requerir MFA a los administradores?
+  durationInMinutes: 5
+  content: >
+    La directiva de línea base *Requerir MFA a los administradores* requiere MFA para los siguientes roles de directorio, que se consideran los roles de Azure AD con más privilegios:
+
+
+    - Administrador global
+
+    - Administrador de SharePoint
+
+    - Administrador de Exchange
+
+    - Administrador de acceso condicional
+
+    - Administrador de seguridad
+
+    - Administrador de soporte técnico/administrador de contraseñas
+
+    - Administrador de facturación
+
+    - Administrador de usuarios
+
+
+    Tras la habilitación de la directiva Requerir MFA a los administradores los nueve roles de administrador anteriores tendrán que registrarse en MFA mediante la aplicación de autenticación. Una vez que se complete el registro de MFA, los administradores deberán realizar la autenticación multifactor cada vez que inicien sesión.
+
+
+    Si tu organización tiene estas cuentas en uso en scripts o código, considera la posibilidad de reemplazarlas por [identidades administradas](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+
+
+    Para habilitar esta directiva y proteger a los administradores:
+
+
+    1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+
+    2. Vaya a **Azure Active Directory** > **Acceso condicional**.
+
+    3. En la lista de directivas, seleccione **Directiva de línea de base: requerir MFA para administradores**.
+
+    4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
+
+    5. Haz clic en **Guardar**.
+
+
+    > [!WARNING]
+
+    > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulte el artículo [Cómo: bloquear la autenticación heredada para Azure ad con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
+
+
+    Una vez que hayas habilitado la directiva de línea de base *Requerir MFA a los administradores*, los usuarios que sean miembros de los roles de administrador anteriores disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios afectados por esta directiva
+
+      ![Solicitud de más información](../images/security/baseline-require-more-info.png)
+
+      ![Validación de seguridad adicional](../images/security/baseline-security-verification-setup.png)
+
+      ![Configuración de la aplicación móvil](../images/security/baseline-configure-mobile-app.png)
+
+      ![Configuración de validación de seguridad adicional completada](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Validación de seguridad adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+
+    Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso.
+- title: ¿Cómo habilito la directiva Protección del usuario final?
+  durationInMinutes: 5
+  content: >-
+    La directiva de línea de base End user protection (Protección del usuario final) protege a todos los usuarios de un directorio. La habilitación de esta directiva requiere que todos los usuarios se registren para Azure MFA en un plazo máximo de 14 días. Una vez registrado, solo se solicitará a los usuarios que ejecuten MFA durante los intentos de inicio de sesión peligrosos. Este comportamiento cambiará en el futuro para los inquilinos asociados. Las cuentas de usuario en peligro se bloquean hasta que se restablece la contraseña y el riesgo desaparece.
+
+
+    Directiva de **línea de base de directiva: la protección de usuarios finales** viene preconfigurada y se mostrará en la parte superior cuando navegue a la hoja de acceso condicional en Azure portal.
+
+
+    Para habilitar esta directiva y proteger a los usuarios:
+
+
+    1. Inicia sesión en  **Azure Portal** como administrador global, administrador de seguridad o administrador de acceso condicional.
+
+    2. Vaya a **Azure Active Directory** > **Acceso condicional**.
+
+    3. En la lista de directivas, seleccione **Directiva de línea base: protección de usuarios finales (vista previa)**.
+
+    4. En **Habilitar directiva**, selecciona **Usar la directiva inmediatamente**.
+
+    5. Haz clic en **Guardar**.
+
+
+    > [!WARNING]
+
+    > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulte el artículo [Cómo: bloquear la autenticación heredada para Azure ad con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
+
+
+    Una vez que hayas habilitado la directiva de línea de base *Protección del usuario final*, todos los usuarios disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios
+
+      ![Solicitud de más información](../images/security/baseline-require-more-info.png)
+
+      ![Validación de seguridad adicional](../images/security/baseline-security-verification-setup.png)
+
+      ![Configuración de la aplicación móvil](../images/security/baseline-configure-mobile-app.png)
+
+      ![Configuración de validación de seguridad adicional completada](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Validación de seguridad adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+
+    Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso. Ten en cuenta que, hasta que se apliquen los requisitos de seguridad para asociados, a los usuarios que no estén cubiertos por la directiva de línea de base *Requerir MFA a los administradores* solo se les pedirá MFA en función del riesgo.
