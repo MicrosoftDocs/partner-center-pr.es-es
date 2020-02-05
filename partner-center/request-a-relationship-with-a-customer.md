@@ -1,7 +1,7 @@
 ---
 title: Solicitar relación con un cliente | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654108"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012133"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
@@ -22,7 +22,7 @@ ms.locfileid: "73654108"
 
 -  Centro de partners
 
-Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción. En el procedimiento siguiente se muestra cómo solicitar este permiso por correo electrónico. Cuando el cliente apruebe la solicitud, podrás iniciar sesión en el portal de administración del servicio y administrar el servicio en nombre del cliente.
+Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el contrato de cliente de Microsoft.
 
 Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisiona, no es necesario obtener permisos de administrador.
 
@@ -39,18 +39,19 @@ Tenga en cuenta que puede solicitar una relación de revendedor con un cliente d
 
 3.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico en la aplicación de mensajería predeterminada o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 
-    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Seleccione **listo** cuando haya completado este paso.
+    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
 
 3.  Envía el correo electrónico a tu cliente.
 
 5.  Una vez que el cliente acepte tu invitación, aparecerá en la página **Clientes** y, podrás aprovisionar y administrar el servicio para el cliente desde allí.
 
+>Nota: Si el cliente todavía no ha aceptado el contrato de cliente de Microsoft, se le pedirá que lo haga cuando acepte su invitación. 
  
-6.  Para administrar la cuenta del cliente, los servicios, los usuarios y las licencias, expanda el registro del cliente; para ello, seleccione la flecha abajo junto a su nombre.
+6.  Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
 
 
 > [!IMPORTANT]  
-> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración de un servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar al cliente soporte técnico y de cumplir con los términos del acuerdo de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración de un servicio. Sin embargo, a menos que y hasta que renegocie el contrato con el cliente, sigue siendo responsable de proporcionar soporte al cliente y de cumplir los términos del acuerdo de socio de Microsoft, incluso después de que un cliente reasigne o quite el administrador los. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación del cliente
 
@@ -58,7 +59,7 @@ La experiencia del cliente para aceptar una invitación de relación de revended
 
 |  | ¿Dónde acepta un cliente una invitación de relación reseller? |
 |---------|---------
-| Clientes en la nube pública | Microsoft Store para Business |
+| Clientes en la nube pública | Centro de administración de Microsoft 365 |
 | Clientes del centro de partners para Microsoft Cloud Alemania | Portal de administración de Microsoft Office |
 | Clientes del centro de partners para Microsoft Cloud para el gobierno de EE. UU. | Portal de administración de Microsoft Office |
 |
