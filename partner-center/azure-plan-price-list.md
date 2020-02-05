@@ -1,7 +1,7 @@
 ---
 title: Lista de precios del plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información para usar el Centro de partners y así poder ver la lista de precios de las suscripciones en el plan de Azure.
@@ -10,23 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722047"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812647"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure 
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 - Agente del departamento de soporte técnico
 - Agente de ventas
-- Administrador de administración de usuarios
+- Administrador del control de usuarios
 
 La lista de precios para la nueva experiencia comercial de Azure en CSP se publica en el Centro de partners. Asimismo, esta lista de precios se entrega dinámicamente en un archivo preciso en tiempo real y los precios se muestran solo en USD. Sin embargo, la facturación se realiza en la moneda admitida aplicable a la ubicación de la moneda del cliente. Para obtener más información sobre la facturación en la ubicación de la moneda del cliente, consulta [Plan de Azure: facturación](azure-plan-billing.md).
 
@@ -86,4 +86,17 @@ Nota: Puedes exportar dos listas de precios diferentes: precios del plan de Azur
 |MeterType|Tipo de medidor|
 |Etiquetas|Propiedades del producto; en cuanto al precio del plan de Azure, este será Azure o Azure y reservas (para reservas específicamente)|
 
-Obtener [información detallada de la lista de precios](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+Las listas de precios del plan de Azure se pueden exportar desde la [página de Marketplace y precios del plan de Azure](https://partner.microsoft.com/commerce/sales?type=Any&category=Any).
+
+## <a name="pricing-api-for-azure-plan"></a>API de precios para el plan de Azure
+
+Puedes usar la [API de precios](https://docs.microsoft.com/partner/develop/pricing) a fin de recuperar los precios del plan de Azure para el consumo y las reservas mediante programación. También puedes recuperar tasas de cambio de divisas. 
+
+La API de precios se encuentra en un punto de conexión diferente del de las otras API del Centro de partners. La información de precios incluye los precios en USD de los medidores de los recursos del plan de Azure y los precios de las reservas aplicados a las suscripciones al plan de Azure.
+
+Esta API también permite a los partners recuperar las tasas de cambio mensuales, ya que los precios del plan de Azure solo se ofrecen en USD. Puedes usar las API para recuperar los precios y las tasas de cambio de divisas del mes actual o los meses anteriores.
+
+>[!NOTE]
+> La API de precios es específica de los precios del plan de Azure. En el caso de los recursos o las reservas de Azure implementadas en suscripciones a planes que no son de Azure, igualmente debes usar la API de RateCard existente y las listas de precios publicadas en la página "Precios y ofertas" del Centro de partners. La API de precios del plan de Azure no admite precios basados en software, Marketplace o puestos, como Microsoft 365 o Dynamics 365.
+
+Para obtener más información sobre los precios del plan de Azure y las API de tasas de cambio de divisas, consulta la [documentación de la API de precios](https://docs.microsoft.com/partner/develop/pricing) completa.

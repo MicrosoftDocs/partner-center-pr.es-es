@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004274"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723482"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
-**Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administración
--   Administrador de facturación
--   Administrador de partners de MPN
+**Usuarios adecuados**
+-   Todos los usuarios habilitados, incluidos los invitados
 
 En este artículo se incluyen algunas preguntas frecuentes sobre los [requisitos de seguridad para partners](partner-security-requirements.md).
 
@@ -299,7 +295,7 @@ La aplicación técnica de los requisitos de seguridad del partner comprobará s
 - [Documento de autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [Documento de Multi-Factor Authentication (MFA) de PowerShell del Centro de partners](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>Soporte
+## <a name="support"></a>Soporte técnico
 
 ### <a name="where-can-i-get-support"></a>¿Dónde puedo obtener soporte técnico?
 

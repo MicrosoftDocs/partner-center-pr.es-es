@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75636996"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723462"
 ---
 # <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
 
@@ -26,12 +26,8 @@ ms.locfileid: "75636996"
 - Todos los proveedores de panel de control
 - Todos los asesores
 
-**Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
--   Administrador de facturación
--   Administrador de partners de MPN
+**Usuarios adecuados**
+-   Todos los usuarios habilitados, incluidos los invitados
 
 Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y partners que participan en el programa Proveedor de soluciones en la nube.
 
