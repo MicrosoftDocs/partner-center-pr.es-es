@@ -42,6 +42,7 @@
 ## [Mercados y monedas regionales del CSP](regional-authorization-overview.md)
 ## [Confirmación de la aceptación del cliente del Contrato de Microsoft Cloud](confirm-consent.md)
 ## [Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](confirm-customer-agreement.md)
+### [Cuándo se debe dar fe de la aceptación del Contrato de cliente en nombre de un cliente](attest-acceptance-customer-agreement.md)
 
 ## [Se aplican para vender en nubes nacionales](csp-national-clouds-overview.md)
 ### [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
