@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723492"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044735"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requerir multi-factor Authentication (MFA) para el inquilino de asociado
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723492"
 
 Estos asociados serán necesarios para completar la comprobación de MFA para las siguientes áreas:
 
-- [Panel del centro de Partners](#partner-center-dashboard) (dirigido a H1 CY2020)
-- [API del centro de Partners](#partner-center-api) (con el destino H1 CY2020)
+- [Panel del centro de Partners](#partner-center-dashboard) (que tiene como destino el segundo trimestre CY2020)
+- [API del centro de Partners](#partner-center-api) (con el objetivo de T2 CY2020)
 - [Administración delegada de asociados](#partner-delegated-administration) (a partir del 18 de noviembre de 2019)
 
 La intención de esta característica es ayudar a los asociados a proteger su acceso a los recursos del cliente frente al riesgo de las credenciales.
@@ -61,9 +61,9 @@ Para ilustrar cómo funciona esto, tenga en cuenta los dos ejemplos siguientes.
 
 **Ejemplo 2: el asociado ha implementado MFA de terceros mediante la Federación de identidades**
 1. Trent funciona para CSP Wingtip. Wingtip implementó MFA para todos sus usuarios en el inquilino de asociado de Wingtip mediante MFA de terceros que se integra con Azure AD a través de la Federación de identidades.
-2. Desde su estación de trabajo, Trent inicia una nueva sesión del explorador y se desplaza a la página de información general del panel del centro de Partners (que no está protegida por MFA). El centro de Partners redirige a Diego a Azure AD para iniciar sesión.
+2. Desde su estación de trabajo, Trent inicia una nueva sesión del explorador y se desplaza a la página de información general del panel del centro de Partners (que no está protegida por MFA). El centro de Partners redirige Trent a Azure AD para iniciar sesión.
 3. Puesto que Wingtip tiene la configuración de la Federación de identidades, Azure AD redirige Trent al proveedor de identidades federado para completar el inicio de sesión y la comprobación de MFA. Una vez que el inicio de sesión y la comprobación de MFA son correctos, Trent se redirige a Azure AD y, a continuación, a la página de información general del panel del centro de Partners
-4. Diego intenta acceder a una de las páginas protegidas con MFA del centro de Partners. Dado que Trent ya ha completado la comprobación de MFA durante el inicio de sesión anterior, Trent puede acceder a la página protegida de MFA sin que sea necesario volver a realizar la comprobación de MFA.
+4. Trent intenta tener acceso a una de las páginas protegidas con MFA del centro de Partners. Dado que Trent ya ha completado la comprobación de MFA durante el inicio de sesión anterior, Trent puede acceder a la página protegida de MFA sin que sea necesario volver a realizar la comprobación de MFA.
 
 **Ejemplo 3: el asociado no ha implementado MFA**
 1. Juan trabaja para CSP fabrikam. Fabrikam no implementó MFA para ningún usuario en el inquilino de socio de fabrikam.
@@ -127,7 +127,7 @@ Cuando Azure Active Directory reciba estas solicitudes de autenticación, requer
 
 - Si la cuenta de socio comercial es una identidad **federada** , la experiencia depende de la forma en que el administrador de asociados ha configurado la federación en Azure Active Directory. Al configurar la Federación en Azure Active Directory, el administrador del asociado puede indicar a Azure Active Directory si el proveedor de identidades federado admite MFA o no. En ese caso, Azure Active Directory redirigirá al usuario al proveedor de identidades federado para completar la comprobación de MFA. De lo contrario, Azure Active Directory le pedirá directamente al usuario que complete la comprobación de MFA. Si la cuenta de socio no se ha registrado para MFA con Azure Active Directory antes, se le pedirá al usuario que complete primero el [registro de MFA](#mfa-registration-experience) .
 
-La experiencia general es muy similar a la del escenario en el que un inquilino de cliente final ha implementado MFA para sus administradores. Por ejemplo, el inquilino del cliente ha habilitado [Azure ad Directiva de línea de base: MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), que requiere que todas las cuentas con derechos administrativos inicien sesión en el inquilino del cliente con la comprobación de MFA, incluidos los agentes de administración y los agentes del Departamento de soporte técnico. Con fines de prueba, los asociados pueden habilitar la [Directiva MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) en el inquilino del cliente y, a continuación, intentar usar los privilegios de administración delegada del asociado para acceder al inquilino del cliente.
+La experiencia general es muy similar a la del escenario en el que un inquilino de cliente final ha implementado MFA para sus administradores. Por ejemplo, el inquilino del cliente ha habilitado [Azure ad valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), lo que requiere que todas las cuentas con derechos administrativos inicien sesión en el inquilino del cliente con la comprobación de MFA, incluidos los agentes de administración y los agentes del Departamento de soporte técnico. Con fines de prueba, los asociados pueden habilitar el [Azure ad valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) en el inquilino del cliente y, a continuación, intentar usar los privilegios de administración delegada del asociado para acceder al inquilino del cliente.
 
 > [!NOTE]
 > No todos los portales de Microsoft Online Services requieren que las cuentas de asociados inicien sesión en el inquilino del cliente al obtener acceso a los recursos del cliente mediante privilegios de administrador delegados asociados. En su lugar, solo requieren que las cuentas de asociados inicien sesión en el inquilino del asociado. Un ejemplo es el centro de administración de Exchange. Con el tiempo, esperamos que estos portales requieran que las cuentas de asociados inicien sesión en el inquilino del cliente al usar privilegios de administrador delegados asociados.
@@ -141,7 +141,7 @@ Esta característica afecta a todas las aplicaciones de asociados que se integra
 
 - El asociado debe evitar el uso de métodos de autenticación de usuario no interactivos con Azure AD para obtener el token de acceso. Cuando se usa un método de autenticación de usuario no interactivo como el [flujo de contraseñas](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), Azure ad no podrá pedir al usuario que complete la comprobación de MFA. El asociado debe cambiar al uso del método de autenticación de usuario interactivo, como [OpenID Connect Flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) en su lugar.
 - Durante el método de autenticación interactiva de usuarios, el asociado debe usar una cuenta de usuario de asociado que ya esté habilitada para MFA. Como alternativa, cuando Azure AD, el asociado puede completar el registro de MFA y la comprobación de MFA durante el inicio de sesión.
-- Esto es muy similar al escenario en el que un inquilino de cliente final ha implementado MFA para sus administradores. Por ejemplo, el inquilino del cliente ha habilitado [Azure ad Directiva de línea de base-MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), que requiere que todas las cuentas de usuario con derechos administrativos inicien sesión en el inquilino del cliente con la comprobación de MFA, incluidos los agentes de administración y los agentes del Departamento de soporte técnico. Con fines de prueba, los asociados pueden habilitar la [Directiva MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) en el inquilino del cliente y, a continuación, intentar usar los privilegios de administración delegada del asociado para acceder mediante programación al inquilino del cliente.
+- Esto es muy similar al escenario en el que un inquilino de cliente final ha implementado MFA para sus administradores. Por ejemplo, el inquilino del cliente ha habilitado [Azure ad valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), que requiere que todas las cuentas de usuario con derechos administrativos inicien sesión en el inquilino del cliente con la comprobación de MFA, incluidos los agentes de administración y los agentes del Departamento de soporte técnico. Con fines de prueba, los asociados pueden habilitar el [Azure ad valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) en el inquilino del cliente y, a continuación, intentar usar los privilegios de administración delegada del asociado para acceder mediante programación al inquilino del cliente.
 
 ### <a name="mfa-registration-experience"></a>Experiencia de registro de MFA
 Durante la comprobación de MFA, si la cuenta de socio no se ha registrado previamente para MFA, Azure AD pedirá al usuario que complete primero el registro de MFA:

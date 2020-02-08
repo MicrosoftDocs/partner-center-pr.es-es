@@ -1,7 +1,7 @@
 ---
 title: Contratos de CSP, listas de precios y ofertas | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En este artículo encontrarás vínculos a las guías del programa Proveedor de soluciones en la nube, contratos de partners, contratos de clientes, listas de precios y ofertas.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: guías del programa csp, guía del programa, contratos de partners, contratos de clientes, listas de precios, ofertas
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252125"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012113"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del Proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -40,12 +40,14 @@ Revisa los requisitos para convertirse en un partner del programa Proveedor de s
 
 [Guía de términos complementarios de la oferta para las suscripciones de servicios en línea y la autorización de canal de software](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Plantillas de cliente del contrato de Microsoft Cloud
+## <a name="microsoft-customer-agreement-customer-templates"></a>Plantillas de cliente del Contrato de cliente de Microsoft
 
-Antes de que puedas realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el Contrato de Microsoft Cloud aplicable. Los contratos de Microsoft Cloud son específicos de la región y están disponibles en varios idiomas. Ves a las [plantillas de cliente](agreements.md) del Contrato de Microsoft Cloud para buscar el contrato de Microsoft Cloud que deberás revisar con los nuevos clientes.
+Para que puedas realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el Contrato de cliente de Microsoft aplicable. Los Contratos de cliente de Microsoft son específicos para cada región. Asegúrate de seleccionar el país correcto en función de la ubicación del cliente.
+
+Para descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft, selecciona esta [dirección URL](https://aka.ms/customeragreement).
 
 >[!IMPORTANT]
->Debes confirmar que el cliente ha aceptado el Contrato de Microsoft Cloud y ha proporcionado información sobre la persona que lo firmó. Consulta [Confirmar la aceptación del cliente del Contrato de Microsoft Cloud](confirm-consent.md). 
+>Debes confirmar que un cliente ha aceptado el Contrato de cliente de Microsoft. Para ello, debes dar fe de que el cliente ha aceptado el contrato o invitar al cliente a aceptarlo directamente. Consulta el artículo [Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Acuerdo de modificación del secreto profesional del Contrato de Microsoft Cloud (Alemania)
 

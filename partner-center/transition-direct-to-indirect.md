@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, transición, revendedor indirecto
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860495"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044739"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP 
 
@@ -33,7 +33,7 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 
 2. Inicie sesión en el centro de partners como administrador global del inquilino de facturación directo que va a pasar al revendedor indirecto.
 
-![Introducción](images/direct/direct1.png) 
+![Información general](images/direct/direct1.png) 
 
 3. Revise los detalles de su asociado en el formulario de inscripción.
 
@@ -239,7 +239,7 @@ Para crear una solicitud de transferencia como el asociado de transición:
 
 7. En el cuadro de diálogo transferir solicitud, seleccione una o varias suscripciones que se van a transferir. 
 
-8. Haz clic en **Crear**. 
+8. Haga clic en **Crear**. 
 
 9. Aparecerá una solicitud de transferencia de suscripción activa en **transferencia de suscripción**. 
 
@@ -309,9 +309,9 @@ Una vez que se haya inscrito correctamente como revendedor indirecto en el inqui
 
 También puede inscribirse para programas de incentivos directos de facturación con el mismo inquilino de asociados. Debe administrar los programas por separado.
 
-## <a name="see-also"></a>Consulta también 
+## <a name="see-also"></a>Vea también 
 - [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Nuevos requisitos de asociados directos del CSP](direct-partner-new-requirements.md)
-- [Capacidades de factura directa restringida](restricted-direct-bill-capabilities.md)
+- [Funcionalidades de facturación directa restringidas](restricted-direct-bill-capabilities.md)
 
 
