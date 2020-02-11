@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Ofertas de Marketplace, soporte técnico de marketing, premios, ventajas del publicador
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171202"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075620"
 ---
 # <a name="manage-marketplace-rewards"></a>Administración de Marketplace Rewards
 
@@ -54,9 +54,9 @@ A continuación, haga lo siguiente:
 
 2. El uso de las ventajas de patrocinio de Azure se compartirá a través de un correo electrónico cuando se desbloqueen estas ventajas. 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de Marketplace de premios comerciales en mi panel?
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de premios Commercial Marketplace en mi panel?
 
-La información de recompensas de Marketplace está disponible a través del inquilino de Azure AD y el ID. de MPN que se usó para crear la cuenta del centro de Partners. Esta cuenta se denomina cuenta global de socio comercial (PGA) de su empresa. Si el inquilino de AAD es diferente del que se usa para la incorporación de MPN, para que pueda ver el menú de Marketplace de premios comerciales, tendrá que asociarlo con el PGA de su empresa. 
+La información de recompensas de Marketplace está disponible a través del inquilino de Azure AD y el ID. de MPN que se usó para crear la cuenta del centro de Partners. Esta cuenta se denomina cuenta global de socio comercial (PGA) de su empresa. Si el inquilino de Azure AD es diferente del que se usa para la incorporación de MPN, para que pueda ver el menú de Marketplace de premios comerciales, tendrá que asociarlo con el PGA de su empresa. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para asociar un inquilino de Azure AD con el PGA de su empresa
 
