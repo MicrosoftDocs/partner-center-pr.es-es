@@ -51,7 +51,7 @@ Para administrar la configuración de la cuenta, debes seleccionar la opción de
 |Marketplace comercial|Desarrollador|
 |Windows y Xbox|Desarrollador|
 |Tienda Office|Desarrollador|
-|Extensiones de Edge|Desarrollador|
+|Extensiones de Microsoft Edge|Desarrollador|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Diferencias en las opciones de configuración de partners y desarrolladores
 
