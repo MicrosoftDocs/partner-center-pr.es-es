@@ -18,7 +18,7 @@ ms.locfileid: "75005114"
 # <a name="microsoft-learn-analytics-report"></a>Informe de Microsoft Learn Analytics
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de partners de MPN
 
 En el informe de Microsoft Learn se proporciona información sobre los aprendizajes de la empresa, incluidos los módulos que se han completado y las rutas de aprendizaje en las que se encuentran. El informe muestra el estado de cada estudiante individual. El administrador global y el administrador de MPN para su empresa pueden ver los datos.
@@ -110,7 +110,7 @@ Para obtener detalles sobre el uso del identificador de objeto de usuario:
 
 2. Copie el identificador de objeto de usuario en el [área resaltada](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) en el explorador de gráficos. 
 
-## <a name="faq"></a>常見問題
+## <a name="faq"></a>Preguntas más frecuentes
 
 1. No puedo ver los detalles de aprendizaje de mi empresa.
 

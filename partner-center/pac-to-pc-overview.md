@@ -18,12 +18,12 @@ ms.locfileid: "75004894"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>El centro de administración de asociados se traslada al centro de Partners
 
-**適用於**
+**Se aplica a**
 
--  合作夥伴中心
+-  Centro de asociados
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Agente de ventas

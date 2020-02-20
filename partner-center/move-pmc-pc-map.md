@@ -19,7 +19,7 @@ ms.locfileid: "75004294"
 # <a name="moving-from-pmc-to-partner-center"></a>Cambio de PMC al Centro de partners
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 
 Para que sea más fácil hacer negocios con nosotros, presentamos un único sitio web (Centro de partners) que sirve como punto central de las interacciones. Verás que todo lo que hacías en Partner Membership Center (PMC) se puede realizar en el panel del Centro de partners. 
 
@@ -29,25 +29,25 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 ## <a name="renewing-your-microsoft-partner-network--membership"></a>Renovación de la suscripción a Microsoft Partner Network
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |Las renovaciones se iniciaban 90 días antes del aniversario y debían haberse completado en la fecha del aniversario.| Los partners pueden renovar el día después del aniversario y hasta 30 días después del aniversario.|
 
 ## <a name="account-structure"></a>Estructura de la cuenta
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |Headquarters más ubicaciones: cada una se evalúa por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](https://docs.microsoft.com/partner-center/account-structure.md).|
 
-## <a name="sign-in"></a>登入
+## <a name="sign-in"></a>Iniciar sesión
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |Puedes usar tus credenciales de la cuenta de Microsoft (MSA) o de la cuenta personal. joe@outlook.com|Debes usar las credenciales de la cuenta profesional, (joe@joescompany.com). Para obtener más información, lee [Your company work account and Partner Center](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md) (Cuenta profesional de la compañía y Centro de partners).|
 
-## <a name="user-roles"></a>使用者角色
+## <a name="user-roles"></a>Roles de usuario
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |Muchos roles de PMC no se usan en el Centro de partners.|Al administrador que realiza el cambio al Centro de partners se le asignan automáticamente los roles de administrador de MPN, administrador de cuenta y administrador de referencias. Después, puede asignar a otros usuarios los roles de usuario.|
 |Los usuarios se administraban en el nivel de ubicación.|Los usuarios se administran en el nivel de la compañía (PGA) en lugar de en el nivel de ubicación. La excepción es el administrador de incentivos que funciona en el nivel de ubicación.|
@@ -55,7 +55,7 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Cómo se tienen en cuenta las competencias y los beneficios
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
 |Se acumulan y administran por ubicación.|Los beneficios son de toda la compañía, incluida la administración de beneficios, pero puedes administrar los beneficios de la forma que mejor se adapte a tu compañía. |
 |Se podían tener kits de herramientas de beneficios adicionales (ABTK) hasta que se retiraron en octubre de 2018.|Sin ABTK; un MAPS por compañía; una competencia Silver por compañía; una competencia Gold por compañía.|
@@ -66,13 +66,13 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Asociación de identificadores de MCP al Centro de partners
 
-|**PMC**   |**合作夥伴中心**   |
+|**PMC**   |**Centro de partners**   |
 |-------------------------|:-------------------|
 |Puedes asociar el mismo identificador de MCP a varias empresas.| Solo se puede asociar un identificador de MCP a una sola cuenta del Centro de partners. Debes realizar la asociación manualmente. En el panel del Centro de partners, selecciona el icono de **Tu cuenta** en la esquina derecha del panel y, a continuación, selecciona **Mi perfil**. En **Your learning** (Tu aprendizaje), podrás asociar tu cuenta de Microsoft Learning y conectar tu cuenta de Microsoft a Partner University.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Beneficios de Visual Studio y MSA
 
-|**PMC**   |**合作夥伴中心**   |
+|**PMC**   |**Centro de partners**   |
 |-----------------|:-----------------|
 |Asignación de los beneficios de Visual Studio a MSA.|Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán.|
 ||Las asignaciones de MSA de Visual Studio se conservarán después de la renovación en el Centro de partners.|
@@ -80,12 +80,12 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>Programas ubicados y administrados ahora en el Centro de partners 
 
-|**PMC**   |**合作夥伴中心**|
+|**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|PDD  |權益|
+|PDD  |Ventajas|
 |CHIP, ICP, PIE | Incentivos|
 ||Referencias|
-|Información sobre el partner| 分析|
+|Información sobre el partner| Análisis|
 |Herramienta de validación y canje de vales| Herramienta de validación y canje de vales|
 |           |Programas de Proveedor de soluciones en la nube|
 

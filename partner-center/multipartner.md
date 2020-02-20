@@ -18,13 +18,13 @@ ms.locfileid: "75004914"
 ---
 # <a name="multi-partner-support"></a>Soporte técnico para multipartner
 
-**適用於**
+**Se aplica a**
 
--  合作夥伴中心
+-  Centro de asociados
 -  Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de ventas
 

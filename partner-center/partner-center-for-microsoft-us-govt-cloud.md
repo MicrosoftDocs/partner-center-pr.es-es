@@ -17,12 +17,12 @@ ms.locfileid: "75004254"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Centro de partners para Microsoft Cloud for US Government
 
-**適用於**
+**Se aplica a**
 
 -  Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Agente de ventas
@@ -45,8 +45,8 @@ Una vez que te hayas inscrito en el programa Proveedor de soluciones en la nube 
 > [!NOTE]  
 > En el momento en el que se publicó este artículo, las siguientes características del Centro de partners no estaban todavía disponibles en el Centro de partners para Microsoft Cloud for US Government (desde la publicación, es posible que se hayan agregado algunas características al Centro de partners y que esta lista no esté actualizada):
 
-- 尋找合作夥伴
-- 商務設定檔
+- Busque un asociado
+- Perfiles de negocio
 - Referencias
 - Solicitar una relación de revendedor con un cliente (multicanal, multipartner)
 - Análisis de licencias

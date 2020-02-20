@@ -18,13 +18,13 @@ ms.locfileid: "75005094"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
-**適用於**
+**Se aplica a**
 
--  合作夥伴中心
+-  Centro de asociados
 -  Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de ventas
 
@@ -58,7 +58,7 @@ La característica de varios canales del centro de Partners admite escenarios en
 > [!IMPORTANT]  
 > Actualmente, un partner de CSP no puede vender servicios en línea a otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Los anuncios sobre las versiones de características se anunciarán a través de los canales de comunicación habituales, incluido el centro de Partners. 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>Vea también
 
 [Trabajar con otros partners](work-with-other-partners.md)
 

@@ -16,12 +16,12 @@ ms.locfileid: "75005064"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice en CSP
 
-**適用於**
+**Se aplica a**
 
-- 合作夥伴中心  
+- Centro de asociados  
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 
@@ -47,13 +47,13 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企業版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企業版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
 
 **Ejemplo de conciliación de asociados #2**
 
 Microsoft 365 Empresa Voice disponible en Canadá tiene componentes adicionales gravables RTC que se consolidan en la factura de CSP (similar a Office 365 E5, se presentan dos elementos de línea, uno para los componentes de RTC y otro para los componentes que no son de RTC).  El archivo de conciliación de CSP para Microsoft 365 Empresa Voice mostrará todos los componentes sujetos a la RTC de forma individual (los componentes individuales de RTC no se consolidan en. CSV o herramienta de API).  La suma de los detalles del pedido y de los importes facturados de los clientes que se encuentran en el archivo de conciliación coincidirá con la factura de CSP.
 
-## <a name="additional-resources"></a>其他資源
+## <a name="additional-resources"></a>Recursos adicionales
 Para obtener más información, visite el sitio [de Microsoft 365 para asociados](https://drumbeat.office.com/Pages/home2016.aspx) .
 

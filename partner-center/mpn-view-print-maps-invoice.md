@@ -18,12 +18,12 @@ ms.locfileid: "75004264"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en el Microsoft Partner Network
 
-**適用於**
+**Se aplica a**
 
--  合作夥伴中心
+-  Centro de asociados
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Administrador de partners de MPN
 -   Administrador de facturación
@@ -48,7 +48,7 @@ Para llevar a cabo este procedimiento, debe ser un administrador global o un adm
 
 2.  Crea un vale de soporte nuevo. En el centro de Partners, seleccione **solicitudes de servicio**, seleccione solicitudes del **centro de Partners**y, a continuación, seleccione **nueva solicitud**.
 
-3.  填寫表單。 En **tipo de problema**, seleccione **no se puede administrar mi perfil**. En la descripción, incluya el identificador de MPN.
+3.  Rellene el formulario. En **tipo de problema**, seleccione **no se puede administrar mi perfil**. En la descripción, incluya el identificador de MPN.
 
 4.  Después de enviar la incidencia, Microsoft te enviará un correo electrónico para obtener más información. Al responder, adjunta la documentación complementaria adecuada para los certificados de exención fiscal.
 

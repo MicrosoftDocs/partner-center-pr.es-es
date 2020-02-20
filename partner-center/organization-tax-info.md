@@ -18,12 +18,12 @@ ms.locfileid: "75005034"
 ---
 # <a name="company-tax-information"></a>Información fiscal de la compañía
 
-**適用於**
+**Se aplica a**
 
-- 合作夥伴中心
+- Centro de asociados
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
 -   Agente de administración

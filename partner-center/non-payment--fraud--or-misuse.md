@@ -20,13 +20,13 @@ ms.locfileid: "75005084"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el centro de Partners
 
-適用於：
+Dirigido a:
 
-- 合作夥伴中心
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Administrador de facturación

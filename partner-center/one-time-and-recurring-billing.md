@@ -16,12 +16,12 @@ ms.locfileid: "75005044"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturación de cargos únicos y determinados cargos periódicos
 
-**適用於**
-- 合作夥伴中心
+**Se aplica a**
+- Centro de asociados
 - Partners del programa CSP
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
 -   Agente de administración

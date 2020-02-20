@@ -16,13 +16,13 @@ ms.locfileid: "75004924"
 ---
 # <a name="license-based-billing"></a>Facturación basada en licencia
 
-**適用於**
+**Se aplica a**
 
-- 合作夥伴中心
+- Centro de asociados
 - Partners del programa CSP
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
 -   Agente de administración
@@ -37,7 +37,7 @@ Puede elegir que se le facture por licencias una vez al mes (**facturación mens
 
 Las suscripciones basadas en licencias se facturan por adelantado en la **fecha de aniversario**de la suscripción. La fecha de aniversario es el día del mes en que adquirió la suscripción.
 
-例如：
+Por ejemplo:
 
 - Si adquirió una **suscripción mensual** el 15 de enero, la fecha de aniversario será el 15 de cada mes.
 - Si adquirió una **suscripción anual** el 15 de enero, la fecha de aniversario será el 15 de enero de cada año.

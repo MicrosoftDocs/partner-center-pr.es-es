@@ -17,13 +17,13 @@ ms.locfileid: "75005074"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Asociados del centro de administración de Partners de Office 365: Prepárese para trasladar las operaciones comerciales al centro de Partners
 
-**適用於** 
+**Se aplica a** 
 
-- 合作夥伴中心
+- Centro de asociados
 - Centro de administración de partners de Office 365
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Agente de ventas
@@ -46,7 +46,7 @@ La realización de tareas en el centro de Partners se realiza de forma diferente
 |   -----------------------------------------------  | -------------- |
 | Crear negocio: Crear oferta de compra | Trabaja con tu proveedor para vender ofertas a tus clientes. |
 | Crear negocio: Solicitar permisos de administrador delegado | Centro de Partners: los clientes > solicitar una relación de revendedor |
-| Crear negocio: Crear invitaciones de evaluación | 無法使用。 Puedes seguir usando el Centro de administración de partners de Office 365 para esto. |
+| Crear negocio: Crear invitaciones de evaluación | No está disponible. Puedes seguir usando el Centro de administración de partners de Office 365 para esto. |
 | Solicitudes de servicio: Lista de clientes: Centro de administración de Office 365 | Centro de Partners: clientes > administrar servicios |
 | Solicitudes de servicio: Lista de clientes: Solicitudes de servicio | Centro de Partners: solicitud de servicio > las solicitudes de cliente |
 | Solicitudes de servicio: Marcadas | Panel: Clientes: Selecciona la estrella junto al nombre de empresa |

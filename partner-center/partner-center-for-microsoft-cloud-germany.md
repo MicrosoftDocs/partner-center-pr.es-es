@@ -18,12 +18,12 @@ ms.locfileid: "75004884"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 
-**適用於**
+**Se aplica a**
 
 -  Centro de partners para Microsoft Cloud Alemania
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Agente de ventas
@@ -49,8 +49,8 @@ Característica o funcionalidad | Completar tareas en
 :--- | :---
 Administración de usuarios de partners | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de usuarios de clientes | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
-重設使用者密碼 | Azure para el portal de administración de Microsoft Cloud Alemania
-授權管理 | Centro de administración de Office 365 u centro de administración de Office 365 o Microsoft Cloud el portal de licencias de Alemania Azure Active Directory
+Restablecer contraseñas de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
+Administración de licencias | Centro de administración de Office 365 u centro de administración de Office 365 o Microsoft Cloud el portal de licencias de Alemania Azure Active Directory
 
 
 Para obtener información sobre cómo administrar usuarios y licencias, consulta [Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania](user-management-in-partner-center-for-microsoft-cloud-germany.md).

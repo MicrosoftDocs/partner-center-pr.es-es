@@ -20,12 +20,12 @@ ms.locfileid: "75005124"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrar ofertas de Dynamics 365 Business Edition a versiones más recientes 
 
-**適用於**
+**Se aplica a**
 
-- 合作夥伴中心
+- Centro de asociados
 
 **Roles adecuados**
--   全域系統管理員
+-   Administrador global
 -   Administrador de usuarios
 -   Agente de administración
 -   Agente de ventas
@@ -38,15 +38,15 @@ Si usa la API (de la cresta o del centro de Partners), puede encontrar suscripci
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Las ediciones Business de Dynamics 365 que se están retirando
 
-- Dynamics 365 for Finance and Operations，Business edition
-- Dynamics 365 的商務小組成員版本
+- Dynamics 365 para finanzas y operaciones, edición Business
+- Dynamics 365 para los miembros del equipo, edición Business
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business central: las ofertas nuevas de Dynamics 365 Business Edition
 
 Con las nuevas ofertas de Dynamics Business central, sus clientes pueden conectar sus finanzas, ventas, servicios y operaciones para simplificar los procesos empresariales, mejorar las interacciones de los clientes y tomar mejores decisiones. Dynamics 365 Business central se basa en la nube y está disponible a través de los asociados de programas del proveedor de soluciones en la nube (CSP).
 Los clientes de Dynamics 365 Business Edition pueden recibir precios de transición con descuento para las nuevas ofertas de Business central hasta el 30 de junio de 2020.
 
-## <a name="transition-customers-to-new-product-plans"></a>Pasar a los clientes a nuevos planes de producto
+## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
 
  El traslado de los clientes de las SKU retiradas a otras más recientes requiere los pasos siguientes en este orden:
 
@@ -66,7 +66,7 @@ El cliente tendrá ahora la suscripción antigua y la nueva. El siguiente paso c
 2. Selecciona **Usuarios y licencias**.
 3. Para reasignar una licencia a un usuario, seleccione el usuario y, a continuación, seleccione **administrar licencias**. 
 4. En la página **administrar licencias** , desactive la casilla Dynamics 365 for sales/Customer Engagement plan from Basic (oferta calificada) y seleccione un nuevo plan de servicio para la suscripción a la que está pasando el cliente. 
-5. 選取 **\[提交\]** 。 Lo hará para cada usuario que necesite la nueva licencia. 
+5. Seleccione **Enviar**. Lo hará para cada usuario que necesite la nueva licencia. 
 
 Una vez que haya migrado las licencias a la nueva suscripción, puede cancelar la suscripción anterior. 
 
