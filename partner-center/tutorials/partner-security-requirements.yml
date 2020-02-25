@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425213"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521038"
 items:
 - title: Introducción
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: ¿Cuáles son los nuevos requisitos de seguridad para asociados?
   durationInMinutes: 1
   content: >
-    Todos los asociados que participan en el programa Proveedor de soluciones en la nube, los proveedores de panel de control y los asociados de Advisor deben aplicar Multi-Factor Authentication (MFA) para cada usuario en su inquilino de asociado. Para hacerlo, se pueden habilitar dos [directivas de línea base de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Las directivas de línea de base son un conjunto de directivas predefinidas que ayudan a proteger las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la difusión de contraseña, la reinyección y la suplantación de identidad. Las directivas de base de referencia están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de base de referencia a disposición de todo el mundo porque los ataques basados en la identidad han aumentado en los últimos años.
+    Todos los asociados que participan en el programa Proveedor de soluciones en la nube, los proveedores de panel de control y los asociados de Advisor deben aplicar Multi-Factor Authentication (MFA) para cada usuario en su inquilino de asociado. Para aplicar este servicio, se pueden habilitar dos [directivas de base de referencia de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Las directivas de línea de base son un conjunto de directivas predefinidas que ayudan a proteger las organizaciones frente a muchos ataques comunes. Estos ataques comunes pueden incluir la difusión de contraseña, la reinyección y la suplantación de identidad. Las directivas de base de referencia están disponibles en todas las ediciones de Azure Active Directory. Microsoft está poniendo estas directivas de protección de base de referencia a disposición de todo el mundo porque los ataques basados en la identidad han aumentado en los últimos años.
 
 
     Las dos directivas de línea de base que deben habilitarse se describen en la tabla siguiente.
@@ -94,7 +94,7 @@ items:
     > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulta el artículo [Procedimientos para: Bloqueo de la autenticación heredada en Azure AD con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
 
 
-    Una vez que hayas habilitado la directiva de línea de base *Requerir MFA a los administradores*, los usuarios que sean miembros de los roles de administrador anteriores disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios afectados por esta directiva
+    Una vez que hayas habilitado la directiva de base de referencia *Requerir MFA a los administradores*, los usuarios que sean miembros de los roles de administrador anteriores disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios afectados por esta directiva
 
       ![Solicitud de más información](../images/security/baseline-require-more-info.png)
 
@@ -135,7 +135,7 @@ items:
     > Antes de habilitar esta directiva, asegúrese de que los usuarios no usan protocolos de autenticación heredados. Consulta el artículo [Procedimientos para: Bloqueo de la autenticación heredada en Azure AD con acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) para obtener más información.
 
 
-    Una vez que hayas habilitado la directiva de línea de base *Protección del usuario final*, todos los usuarios disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios
+    Una vez que hayas habilitado la directiva de base de referencia *Protección del usuario final*, todos los usuarios disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios
 
       ![Solicitud de más información](../images/security/baseline-require-more-info.png)
 
