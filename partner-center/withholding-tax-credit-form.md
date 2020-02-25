@@ -1,115 +1,95 @@
 ---
 title: Asegúrese de que se le ha abonado el impuesto de retención. Centro de Partners
 ms.topic: article
-ms.date: 11/07/2019
-description: Asegúrese de que la cuenta del centro de Partners tiene un crédito por retención de impuestos y abra una solicitud de servicio si es necesario.
+ms.date: 2/16/2020
+description: Asegúrese de que la cuenta del centro de Partners tiene un crédito por retención de impuestos mediante la creación de una solicitud de retención de impuestos en el centro de Partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: LauraBrenner
-ms.author: labrenne
-keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemana, crédito fiscal de formulario
+author: brentserbus
+ms.author: brserbus
+keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
-ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943168"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521018"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Comprobar que tiene crédito para la retención de impuestos
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que tiene un crédito por retención de impuestos
 
-Se aplica a:
+Dirigido a:
 
-- Centro de partners
+- Centro de asociados
 
-En este tema se explica cómo asegurarse de que se le ha abonado la retención de impuestos en el centro de Partners. En él se explica cómo abrir una solicitud de servicio mediante el formulario de retención de impuestos global o el formulario de retención de impuestos para Alemania.
+En este tema se explica cómo asegurarse de que se le ha abonado la retención de impuestos en el centro de Partners. Explica cómo crear una solicitud de retención de impuestos en el centro de Partners.
 
-> [!IMPORTANT]
-> Microsoft debe recibir el **formulario de crédito de retención de impuestos** y una copia de su certificado de **retención de impuestos** de la cuenta para que se le abone la retención de impuestos.
+## <a name="overview"></a>Información general
 
-## <a name="withholding-tax-credit-form"></a>Formulario de crédito de retención de impuestos
+Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Estos asociados tienen que enviar una solicitud de retención de impuestos que incluye su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que el socio ya no debe ser el importe de pago de Microsoft.
 
-- Asegúrese de que el formulario incluye el nombre de la empresa y el país, el número del certificado de retención de impuestos y que el formulario está firmado y con la misma precisión. Estos son los formularios de crédito fiscal: para [Alemania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) y para [todos los demás países](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+A partir de los asociados de enero de 2020 CSP debe enviar solicitudes de retención de impuestos en la **Página de facturación** en lugar de crear solicitudes de soporte técnico. Para enviar las solicitudes en la página de facturación, los asociados de CSP deben ir al **centro de Partners** y seleccionar **facturación** en el panel de navegación izquierdo. La **Página de facturación** es la nueva ubicación donde se van a enviar las solicitudes de retención de impuestos. 
 
-El formulario de crédito de retención de impuestos proporciona a Microsoft la información siguiente:
+### <a name="submit-a-new-tax-withholding-request"></a>Enviar una nueva solicitud de retención de impuestos
 
-- Factura (s)
-- Importe pagado a Microsoft
-- Importe del impuesto retenido.
-- Porcentaje de retención de impuestos
-- Tipo de pago
-- Empresa pagada (si no es Microsoft)
-
-- Una vez que tenga esta información lista, cree la solicitud de servicio.
-
-Tendrá que rellenar el **formulario de crédito de retención de impuestos** antes de crear la solicitud de soporte técnico. Incluirá este formulario con la solicitud de soporte técnico.
-
-Rellene el formulario adecuado para su país o región:
-
-- [**Formulario de crédito de impuestos de retención global**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (todos los países, excepto Alemania)
-- [**Formulario de crédito de retención de impuestos de Alemania**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
-
-Asegúrese de que el formulario es preciso antes de enviarlo a Microsoft:
-
-1. Seleccione el signo de **interrogación** **(?)** en la esquina derecha de uppor del panel en el centro de Partners.
-
-2. Seleccione **CSP**.
-
-3. En **CSP-facturación y pagos**, seleccione el tipo de problema- **retención de impuestos** y seleccione **sí**. 
-
-4. Al enviar la solicitud de servicio, asegúrese de adjuntar el formulario de crédito fiscal y las copias digitales de los certificados fiscales.
-
-5. Si envía un certificado fiscal que no sea el inglés a través de una solicitud de servicio en inglés, se requiere una traducción del certificado fiscal.
-
-6. Nos pondremos en contacto con usted directamente por correo electrónico o por teléfono.
-
-- Incluya el **nombre** de la empresa y el **país** en el formulario.
-- **Firma** y **fecha** precisas del formulario.
-- Registre el **porcentaje de importe de impuestos de retención** adecuado en el formulario, en función de la información de la autoridad fiscal local.
-- Asegúrese de que la **cantidad total** del formulario coincida con los totales de las facturas que envía.
-
-## <a name="include-withholding-tax-certificates"></a>Incluir certificados de retención de impuestos
-
-Los certificados de impuestos deben ser solo para facturas de Microsoft. Si hay otras empresas incluidas en los certificados, especifique la cantidad para que podamos excluirla en el procesamiento interno, pero tenga toda la visibilidad de lo que incluyen los certificados totales. 
-
-Deberá incluir una **copia digital** de los **certificados de retención de impuestos** junto con su solicitud de soporte técnico. Ha recibido este certificado de su agencia tributaria local cuando envió la solicitud en el centro de Partners.
-
-El total del certificado de retención de impuestos debe coincidir con los detalles de soporte del formulario de crédito de retención de impuestos.
-
-Rellene completamente el [formulario de crédito de retención de impuestos](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) y envíelo junto con la copia escaneada del certificado de retención de impuestos al enviar la solicitud en el centro de Partners o en el portal de Azure/O365/CRM/Intune. 
-
-Si envía un **certificado fiscal que no esté en inglés** a través de una **solicitud de servicio de idioma inglés**, debe incluir una **traducción** del certificado fiscal.
-
-Los certificados de impuestos deben ser **solo para facturas de Microsoft**. Si tiene **otras empresas** que los certificados incluyen, especifique el importe de tal forma que podamos excluir la cantidad en el procesamiento interno, pero tenga toda la visibilidad de lo que incluyen los certificados totales.
-
-## <a name="create-a-service-request"></a>Crea una solicitud de servicio
-
-La siguiente información *solo* se aplica a los asociados en el **programa proveedor de soluciones en la nube (CSP)** . Estos incluyen solo **asociados directos de factura** y **proveedores indirectos**. En su lugar, los **revendedores indirectos** deben trabajar con sus **proveedores indirectos** .
+Siga estos pasos para enviar una nueva retención de impuestos:
 
 1. Inicie sesión en el panel del centro de Partners.
-2. En el menú de la izquierda del panel, elija **soporte técnico**y, a continuación, seleccione **solicitudes de soporte técnico de asociados**.
-3. Elija **nueva solicitud**.
-4. En la página **iniciar la solicitud** , en **CSP-facturación y pagos**, elija **seleccionar un tipo de problema**. Seleccione **retención de impuestos** como tipo de problema.
-5. En la página **soluciones recomendadas** , revise la información. A continuación, en **¿necesita más ayuda?** , elija **sí**.
-6. En la página **detalles** , rellene todos los campos obligatorios en **detalles del problema**.
-7. Cargue el [**formulario de crédito de retención de impuestos**](#withholding-tax-credit-form) mediante el último campo del formulario.
-8. Cargue el [**certificado de retención de impuestos**](#include-withholding-tax-certificates) y, si procede, una traducción del certificado.
-9. Elija **submit (enviar** ) para enviar la solicitud de soporte técnico. Después, Microsoft se pondrá en contacto con usted directamente por correo electrónico o por teléfono. 
-10. Si se encuentra en **Alemania**, consulte las [instrucciones especiales para](#germany-tax-withholding) el correo electrónico en las **copias impresas** obligatorias del certificado de retención de impuestos.
+2. En el menú de la izquierda, elija **facturación**
+3. Busque la factura a la que desea enviar la retención de impuestos en la sección historial de **facturación** de la página de **facturación** .
+4. Haga clic en **Enviar nuevo** , que le llevará a la página **nueva solicitud de retención de impuestos** .
 
-Con el método de **pago de factura** y pago, una vez que se han recibido y validado los certificados fiscales, el saldo restante de la factura se borrará aproximadamente una semana.
+![Enviar una nueva retención de impuestos para una factura](images/wht1.png)
 
-Una vez que Microsoft haya recibido y validado correctamente los certificados fiscales, use el método de **pago factura-pago** . El resto del saldo de la factura se borrará aproximadamente una semana.
+5. Revise los detalles de la factura para asegurarse de que está enviando la solicitud de la factura correcta.
 
-## <a name="germany-tax-withholding"></a>Retención de impuestos de Alemania
+![Detalles completos de retención de impuestos para una factura](images/wht2.png)
 
-*Solo*para Alemania, siga los mismos pasos normales para:
+6. Escriba el "total de retención" en **detalles de retención de impuestos**. El "total de retención" es la cantidad que se espera que se abone.
+7. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** de los certificados de **retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local cuando envió la solicitud en el centro de Partners. Si va a enviar un **certificado fiscal que no sea en inglés** mediante el **proceso de solicitud de retención de impuestos**, debe incluir una **traducción** del certificado fiscal. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos. 
 
-1. [Rellene el formulario de crédito de retención de impuestos de Alemania](#withholding-tax-credit-form)
-2. [Incluir los certificados de retención de impuestos](#include-withholding-tax-certificates)
-3. [Cree una solicitud de soporte técnico del centro de Partners](#create-a-service-request) con el formulario de crédito de retención de impuestos y los certificados de retención de impuestos asociados.
+> [!IMPORTANT]
+> El importe total que proporciona el asociado debe coincidir con el artículo de la línea de factura del certificado fiscal adjunto.
 
-A continuación, envíe copias impresas de los certificados de retención de impuestos a la siguiente dirección:
+8. **Envíe** la solicitud de retención de impuestos.
 
-> Atención: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublín 18, Irlanda
+Una vez enviada la solicitud, entrará en el proceso de aprobación en el que se aprobará para su finalización o se devolverá al socio si se necesitan correcciones. Los asociados pueden ver el estado de sus solicitudes en el **historial de facturación** desde el que enviaron la nueva solicitud. El identificador y el estado de la solicitud se mostrarán en el **historial de facturación**.
+
+Las solicitudes enviadas al asociado permitirán que el socio cambie la cantidad de retención y reemplace el certificado si hay algún problema. 
+
+### <a name="update-request-and-resubmit"></a>Actualizar solicitud y volver a enviar
+
+El equipo de revisión puede requerir que el asociado realice correcciones y reenvíe una solicitud antes de que se pueda aprobar. Cambiarán el estado a "acción de asociado pendiente". Para corregir y volver a enviar la solicitud:
+ 
+1. Inicie sesión en el panel del centro de Partners.
+2. En el menú de la izquierda, elija **facturación**
+3. En el **historial de facturación**de la página de **facturación** , busque solicitud de retención de impuestos. Las solicitudes que requieren atención al asociado tendrán el estado "pendiente de acción de asociado"
+4. Haga clic en el ID. de solicitud de retención de impuestos y el estado le lleva a la página de la solicitud.
+5. Seleccione "actualizar y volver a enviar" en **Estado**.
+6. Revise los comentarios que quedan los revisores resaltando lo que se debe cambiar.
+7. Realice las correcciones reenviando un certificado actualizado o ajuste los importes de retención.
+8. **Envíe** la solicitud. 
+
+Esto enviará la solicitud de vuelta al equipo de revisión, donde aprobarán o pedirán más cambios.
+ 
+### <a name="approved-requests"></a>Solicitudes aprobadas
+
+Las solicitudes de retención de impuestos aprobadas se ejecutarán en la factura siguiente del asociado, con lo que se escribirá la cantidad adeudada, siempre y cuando la certificación demuestre que el socio haya pagado dicho importe a su autoridad fiscal local.
+
+El procesamiento de las solicitudes de retención de impuestos debe tardar dos días en completarse suponiendo que el certificado fiscal y la cantidad son correctos. Si se requieren cambios, es posible que tarde más tiempo en solicitar que el asociado realice correcciones antes de volver a enviar.
+
+Después de la finalización, las facturas de los meses siguientes deben reflejar los cambios en forma de crédito.
+ 
+Las preguntas sobre el envío de una solicitud de retención de impuestos pueden resolverse mediante la creación de una incidencia de soporte técnico en el centro de Partners. Observe que un identificador de solicitud de retención de impuestos será un campo obligatorio para resolver las preguntas.
+
+## <a name="german-tax-withholding"></a>Retención de impuestos alemana
+
+Los asociados que envíen solicitudes de retención de impuestos en Alemania deben recordar las copias de correo de su certificado de retención de impuestos en la siguiente dirección: 
+
+- Atención: Marianne Gannon del equipo de impuestos de EOC
+- Microsoft EMEA Operations Centre
+- Una ubicación de Microsoft,
+- Parque de negocios del Condado de sur
+- Leopardstown, Dublín 18, Irlanda
+
