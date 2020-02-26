@@ -1,7 +1,7 @@
 ---
 title: Facturación del plan de Azure | Centro de partners
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a obtener acceso y a comprender la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722220"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521048"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
 **Roles adecuados:**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 
-La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario. Para más información sobre la plataforma de facturación, lee [Información general sobre facturación](billing-basics.md).
+La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario.
 
 ## <a name="summary-of-billing-essentials"></a>Resumen de los elementos esenciales de la facturación
 
@@ -163,7 +163,7 @@ Dado que el modelo de facturación para los servicios de Azure a través de un p
 
 ![Gastos de Azure](images/azure/azurespend.png)
 
-**Para obtener más información**
+**Para más información**
 
 -  La forma en que se calcula el crédito obtenido del partner (PEC) se encuentra en la lista de precios disponible en el [panel](https://partner.microsoft.com/en-us/dashboard/) del Centro de partners (es necesario iniciar sesión). 
    
