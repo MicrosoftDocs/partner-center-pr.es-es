@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521018"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618523"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que tiene un crédito por retención de impuestos
 
@@ -47,7 +47,7 @@ Siga estos pasos para enviar una nueva retención de impuestos:
 ![Detalles completos de retención de impuestos para una factura](images/wht2.png)
 
 6. Escriba el "total de retención" en **detalles de retención de impuestos**. El "total de retención" es la cantidad que se espera que se abone.
-7. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** de los certificados de **retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local cuando envió la solicitud en el centro de Partners. Si va a enviar un **certificado fiscal que no sea en inglés** mediante el **proceso de solicitud de retención de impuestos**, debe incluir una **traducción** del certificado fiscal. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos. 
+7. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** de los certificados de **retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local cuando envió la solicitud en el centro de Partners. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos. 
 
 > [!IMPORTANT]
 > El importe total que proporciona el asociado debe coincidir con el artículo de la línea de factura del certificado fiscal adjunto.
