@@ -1,29 +1,29 @@
 ---
-title: Confirmar la aceptación del cliente del Contrato de Microsoft Cloud | Centro de partners
+title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft | Centro de partners
 ms.topic: article
 ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenga información sobre cómo confirmar la aceptación del cliente del contrato de Microsoft Cloud. Esto puede ser necesario para ordenar los productos y servicios de Microsoft para los clientes.
+Description: Obtén información sobre cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft. Puede ser necesario para hacer pedidos de productos y servicios de Microsoft para los clientes.
 author: LauraBrenner
 ms.author: labrenne
-keywords: cliente, clientes, consentimiento, MCA, contrato de Microsoft Cloud, plantillas de contrato de cliente
+keywords: cliente, clientes, consentimiento, MCA, contrato de cliente de Microsoft, plantillas de contrato de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722088"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672845"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Confirmar la aceptación del cliente del Contrato de Microsoft Cloud
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
 **Se aplica a**
--  Centro de partners
+-  Centro de asociados
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Agente de ventas
 
 > [!NOTE]
@@ -33,13 +33,13 @@ ms.locfileid: "74722088"
 > * Centro de partners para Microsoft Cloud for US Government
 
 >[!NOTE]
->Este contrato es válido hasta el 31 de enero de 2020. Después de esa fecha, todos los clientes, existentes y nuevos, deben firmar el nuevo contrato de cliente de Microsoft. Para obtener más información, consulte [confirmar la aceptación del cliente del contrato de cliente de Microsoft](confirm-customer-agreement.md).
+>A partir del 31 de enero de 2020, todos los clientes, existentes y nuevos, deben firmar el nuevo contrato de cliente de Microsoft. Para obtener más información, consulte [confirmar la aceptación del cliente del contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
-Como asociado, debe obtener la aceptación del cliente del contrato de Microsoft Cloud antes de poder solicitar servicios y productos de Microsoft para ese cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft pide a los partners que confirmen la aceptación proporcionando los siguientes detalles de la persona que haya aceptado el contrato: 
+Como Partner, debe obtener la aceptación del cliente del contrato de cliente de Microsoft antes de poder solicitar servicios y productos de Microsoft para ese cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft pide a los partners que confirmen la aceptación proporcionando los siguientes detalles de la persona que haya aceptado el contrato: 
 
 -   Nombre
 
--   Apellidos
+-   Último nombre
 
 -   Dirección de correo electrónico
 
@@ -47,9 +47,9 @@ Como asociado, debe obtener la aceptación del cliente del contrato de Microsoft
 
 -   Fecha de aceptación
 
-Para obtener más información, consulte las [preguntas](https://docs.microsoft.com/partner-center/confirm-consent-faq)más frecuentes sobre la confirmación de aceptación del cliente del contrato de Microsoft Cloud.
+Para obtener más información, consulte las [preguntas](https://docs.microsoft.com/partner-center/confirm-consent-faq)más frecuentes sobre la confirmación de aceptación del cliente del acuerdo de cliente de Microsoft.
 
-Los asociados directos de facturación y los proveedores indirectos deben confirmar la aceptación del cliente del contrato de Microsoft Cloud al actuar a través del centro de Partners o de la API del centro de Partners. La confirmación es *obligatoria*.
+Los asociados directos de facturación y los proveedores indirectos deben confirmar la aceptación del cliente del contrato de Microsoft al pasar a través del centro de Partners o la API del centro de Partners. La confirmación es *obligatoria*.
 
 Si no se facilita la confirmación para un cliente determinado:
 
@@ -79,7 +79,7 @@ Use el procedimiento siguiente para confirmar la aceptación del cliente mientra
 
 ![Información de la compañía](images/mca/mca1.png)
 
-3. En **Contrato de Microsoft Cloud**, selecciona **El cliente ha aceptado el último contrato Microsoft Cloud**.
+3. En **contrato de cliente de Microsoft**, seleccione **el cliente ha aceptado el contrato de cliente de Microsoft más reciente**.
 4. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 5. Introduce los detalles del usuario que proporciona la aceptación.
 
@@ -95,7 +95,7 @@ Debes ser agente de administración o agente de ventas para poder hacer esto.
 
 1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
 2. Selecciona **Información de cuenta**.
-3. En **Contrato de Microsoft Cloud**, selecciona **Actualizar**.
+3. En **contrato de cliente de Microsoft**, seleccione **Actualizar**.
 
 ![Actualizar](images/mca/mca4.png)
 
@@ -117,4 +117,4 @@ Puedes recuperar la confirmación de aceptación del cliente para un cliente exi
 
 1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
 2. Selecciona **Información de cuenta**.
-3. En **contrato de nube de Microsoft**, verá si se ha proporcionado una confirmación para este cliente.
+3. En **acuerdo**con el cliente de Microsoft, verá si se ha proporcionado una confirmación para este cliente.

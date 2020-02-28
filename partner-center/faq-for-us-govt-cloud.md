@@ -8,12 +8,12 @@ description: Consulte las respuestas a las preguntas más frecuentes (p + f) sob
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253635"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672675"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes acerca del Centro de partners para Microsoft Cloud for US Government
 
@@ -21,7 +21,7 @@ ms.locfileid: "74253635"
 
 -  Centro de partners para Microsoft Cloud for US Government
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes 
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes 
 
 Usa estas preguntas más frecuentes para obtener más información acerca del programa Proveedor de soluciones en la nube (CSP) de Microsoft Cloud for US Government. También puedes ponerte en contacto con el administrador de cuentas para obtener más información. 
 
@@ -71,13 +71,13 @@ Existen dos diferencias entre el MCRA para Microsoft Cloud for US Government y e
 
 -   El anexo de US Government Cloud contiene responsabilidad adicional de partner para realizar transacciones con los servicios de US Government Cloud.
 
--   El documento A contiene el contrato de Microsoft Cloud (Microsoft Cloud acuerdo) que debe incorporarse en todos los contratos de los servicios en la nube de administración pública de EE. UU. entre el CSP y su cliente.
+-   El documento A contiene el contrato de cliente de Microsoft (contrato de cliente de Microsoft) que debe incorporarse en todos los contratos de los servicios en la nube de administración pública de EE. UU. entre el CSP y su cliente.
 
-*Contrato de Microsoft Cloud (acuerdo de Microsoft Cloud) presentado como el anexo A en MCRA*
+*Contrato de cliente de Microsoft (contrato de cliente de Microsoft) presentado como el anexo A en MCRA*
 
 Los CSP se necesitan para incorporar el documento A en contrato de gobierno creado entre los CSP y los clientes que compren Microsoft Cloud for US Government. El contrato se publica en el Centro de partners y está disponible en inglés.
 
-Existen dos diferencias entre el acuerdo de Microsoft Cloud para US Government Cloud y el acuerdo estándar de Microsoft Cloud:
+El contrato de cliente de Microsoft para la nube de administración pública de EE. UU. es diferente del contrato de cliente de Microsoft estándar de las dos maneras siguientes:
 
 -   Es necesario que se incorpore al contrato del CSP con su cliente.
 
@@ -91,7 +91,7 @@ Existen dos diferencias entre el MCDA para Microsoft Cloud for US Government y e
 
 -   El anexo de Microsoft Cloud for US Government contiene responsabilidad adicionales de partner para realizar transacciones con los servicios de US Government Cloud.
 
--   El documento contiene Microsoft Cloud contrato (Microsoft Cloud acuerdo) que debe incorporarse en todos los contratos de los servicios en la nube de administración pública de EE. UU. entre el CSP y sus clientes.
+-   El documento A contiene un contrato de cliente de Microsoft (contrato de cliente de Microsoft) que debe incorporarse en todos los contratos de servicios en la nube de administración pública de EE. UU. entre el CSP y sus clientes.
 
 **¿Cuáles son los requisitos para vender Microsoft Cloud para el gobierno de EE. UU.?**
 

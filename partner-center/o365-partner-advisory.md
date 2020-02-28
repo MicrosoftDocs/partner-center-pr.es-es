@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, servicios RTC, impuestos, requisitos, factura, facturación
 ms.localizationpriority: medium
-ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005064"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672825"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice en CSP
 
@@ -23,9 +23,9 @@ ms.locfileid: "75005064"
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 
-Los servicios de red telefónica conmutada (RTC) públicos en algunos países pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados.  En el Estados Unidos, Puerto Rico y Canadá, los servicios RTC y Microsoft 365 Voice de Skype empresarial están sujetos a requisitos normativos y de impuestos especiales. En el Estados Unidos y Puerto Rico, Microsoft precios de los servicios RTC como impuestos-inclusivos.  Los impuestos y regulaciones RTC únicos afectarán a los asociados de Office 365 que transaccionan Microsoft 365 productos de voz.  Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
+Los servicios de red telefónica conmutada (RTC) públicos en algunas jurisdicciones pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados. En el Estados Unidos, incluido el Puerto Rico, los servicios RTC, que incluyen la audioconferencia, los planes de llamada y los créditos de comunicación, están sujetos a los requisitos de impuestos y normativas especiales. En el Estados Unidos y Puerto Rico, Microsoft precios de los servicios RTC como impuestos-inclusivos.  Los impuestos y regulaciones RTC únicos afectarán a los asociados de Office 365 que transaccionan Microsoft 365 productos de voz.  Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
 ## <a name="partner-recommendations"></a>Recomendaciones para asociados
 

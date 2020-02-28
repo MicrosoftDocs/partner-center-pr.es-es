@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP indirecto, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252827"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672835"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición 
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Partners del programa CSP
 
 El programa proveedor de soluciones en la nube (CSP) le ayuda a ir más allá de la venta de licencias para ser más participadas en la empresa del cliente.
@@ -65,7 +65,7 @@ En el modelo indirecto, los proveedores (también conocidos como distribuidores)
 
 La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP. Vea el [programa proveedor de soluciones en la nube mercados y divisas regionales](regional-authorization-overview.md) para obtener una lista completa de los mercados de CSP y las divisas.
 
-Antes de poder solicitar ofertas de CSP en nombre de un cliente, el cliente debe firmar el contrato de Microsoft Cloud. [Aquí](agreements.md)puede encontrar el acuerdo de Microsoft Cloud aplicable para la ubicación del cliente.  
+Antes de poder solicitar ofertas de CSP en nombre de un cliente, el cliente debe firmar el contrato de cliente de Microsoft. [Aquí](agreements.md)puede encontrar el contrato de cliente de Microsoft correspondiente a la ubicación de su cliente.  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>¿Qué puedo vender a través del programa CSP?
 
@@ -78,6 +78,6 @@ Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partne
 |:---------------------------|:--------------------|
 |Requisitos para cada modelo CSP   | [Programa proveedor de soluciones en la nube](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Vender en las nubes nacionales de Microsoft   | [Solicitar ventas en las nubes nacionales de Microsoft](csp-national-clouds-overview.md)|
-|Plantillas de cliente del contrato de Microsoft Cloud   |[Contratos de Microsoft Cloud por región e idioma](agreements.md)|
+|Plantillas de cliente del Contrato de cliente de Microsoft   |[Contratos de cliente de Microsoft por región e idioma](agreements.md)|
 |Tareas de proveedor indirecto en el centro de Partners  |[Asociado con revendedores indirectos en el programa proveedor de soluciones en la nube](indirect-provider-tasks-in-partner-center.md)|
 |Tareas del distribuidor indirecto en el centro de Partners   |[Asociado con proveedores indirectos en el programa proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)|

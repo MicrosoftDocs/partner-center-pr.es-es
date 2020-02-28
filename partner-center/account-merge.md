@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: e431d14c90e1884076e0aebf14dbca6644b1796b
-ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+ms.openlocfilehash: 5194f9ca6bcd843a748a2f6035fdd14422712548
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77076008"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672664"
 ---
 # <a name="merging-your-partner-account-with-another-partner-account"></a>Combinación de la cuenta de asociado con otra cuenta de socio comercial
 
@@ -43,7 +43,8 @@ Dos o más compañías que son asociados de Microsoft activos y tienen cuentas e
 
 ### <a name="view-of-merged-accounts"></a>Vista de cuentas combinadas
 
-![Cuentas combinadas](images/accountmerge1.png)
+![Cuentas combinadas](images/AccountMerge_graphic.png)
+
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Qué esperar si se le ha invitado a fusionar mediante combinación la cuenta del centro de Partners con otra cuenta del centro de Partners
 

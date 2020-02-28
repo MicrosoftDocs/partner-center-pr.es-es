@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716996"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672695"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
 
@@ -44,7 +44,7 @@ Cada indicador aporta una puntuación que se agrega al total. Estas son las punt
 
 ### <a name="thresholds"></a>Umbrales
 
-Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país se basa en las [definiciones de Microsoft Partner Network](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para el compromiso del cliente y las operaciones de finanzas & que se actualizarán mensualmente.
 
@@ -52,7 +52,7 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![compromiso del cliente](images/pci/custengagethresh.png)
 
-![Finanzas](images/pci/table_2.png
+![Finance](images/pci/table_2.png
 )
 
 ![Consultoría](images/pci/table_3.png)
