@@ -1,7 +1,7 @@
 ---
 title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft | Centro de partners
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtén información sobre cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft. Puede ser necesario para hacer pedidos de productos y servicios de Microsoft para los clientes.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012199"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521028"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
@@ -104,7 +104,7 @@ Debes ser agente de administración o de ventas para poder hacer esto:
 
 5. Selecciona **Guardar** y continúa.
 
-![Cliente existente](images/mcua2.png)
+![Cliente existente](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Recuperar la confirmación de la aceptación del cliente
 
@@ -124,7 +124,10 @@ Los partners pueden invitar a clientes nuevos y existentes, a través de una dir
 
 - Invitar a un cliente nuevo para que revise y acepte la relación y el contrato de revendedor
 
-- Invitar a un cliente existente para que revise y acepte el contrato
+- Invitación de un cliente existente para que revise y acepte el contrato
+
+>[!NOTE]
+> Puedes usar el [SDK o la API del Centro de partners](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) para obtener el estado de la aceptación directa por parte de un cliente del Contrato de cliente de Microsoft.  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Crear un cliente nuevo e invitarlo para que revise y acepte el contrato.
 
