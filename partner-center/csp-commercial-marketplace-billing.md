@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: suscripciones, productos, compras, Marketplace, terceros, ISV, facturación, facturas, conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384911"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161451"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Facturación para productos comerciales de Marketplace
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Partners del programa CSP
 
 **Roles adecuados**
@@ -35,7 +35,7 @@ Puede acceder a las facturas desde el [Panel](https://partner.microsoft.com/dash
 Los asociados del programa CSP se facturan por las soluciones de Marketplace comercial de ISV compradas para un cliente cuando compran dichos productos desde el centro de Partners o desde el Azure Portal (mediante el inquilino de Azure anterior del cliente, adquirido por CSP).
 
 >[!NOTE]
->Si los clientes usan su propio inquilino de Azure AD (no adquirido de un socio en el programa CSP), los clientes también pueden optar por comprar su propia solución SaaS de ISV directamente desde ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Si lo hacen, recibirán su propia factura directamente de Microsoft. Del mismo modo, si un asociado del programa CSP vende un inquilino de Azure AD al cliente y concede el [acceso basado en rol](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) del cliente a ese inquilino (asignando cualquier rol al cliente además del **lector**), ese cliente también puede comprar ofertas de Marketplace comercial sin aprobación previa o notificación al asociado de CSP. En estos casos, Microsoft no enviará directamente a los asociados del programa CSP sobre las compras realizadas por sus clientes. Sin embargo, Microsoft ofrece un mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que puede usar para establecer alertas o notificaciones sobre la actividad en una suscripción de Azure.
+>Si los clientes usan su propio inquilino de Azure AD (no adquirido de un socio en el programa CSP), los clientes también pueden optar por comprar su propia solución SaaS de ISV directamente desde ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Si lo hacen, recibirán su propia factura directamente de Microsoft. Del mismo modo, si un asociado del programa CSP vende una suscripción de Azure o el nuevo plan de Azure al cliente y concede el [acceso basado en rol](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) del cliente a ese inquilino (asignando cualquier rol al cliente además del **lector**), ese cliente también puede comprar ofertas de Marketplace comercial sin aprobación previa o notificación al asociado de CSP. En estos casos, Microsoft no enviará directamente a los asociados del programa CSP sobre las compras realizadas por sus clientes. Sin embargo, Microsoft ofrece un mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que puede usar para establecer alertas o notificaciones sobre la actividad en una suscripción de Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Acceder a la información de facturación para productos comerciales de Marketplace
 
@@ -70,7 +70,7 @@ Al seleccionar compras **periódicas y de una sola vez** desde la opción **fact
 
 - Suscripciones de SaaS (de los publicadores de Microsoft o ISV)
 
-- Plan de Azure
+- plan de Azure
 
 - Reservas de Azure
 
