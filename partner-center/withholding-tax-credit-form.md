@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618523"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240232"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que tiene un crédito por retención de impuestos
 
@@ -50,7 +50,7 @@ Siga estos pasos para enviar una nueva retención de impuestos:
 7. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** de los certificados de **retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local cuando envió la solicitud en el centro de Partners. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos. 
 
 > [!IMPORTANT]
-> El importe total que proporciona el asociado debe coincidir con el artículo de la línea de factura del certificado fiscal adjunto.
+> El importe total que proporciona el asociado debe coincidir con el artículo de la línea de factura del certificado fiscal adjunto. Los archivos de certificado de impuestos adjuntos deben tener uno de los siguientes formatos de archivo:. Solo PDF e imagen (. JPEG,. PNG y. GIF). Además, los nombres de archivo no deben contener espacios ni caracteres especiales.
 
 8. **Envíe** la solicitud de retención de impuestos.
 

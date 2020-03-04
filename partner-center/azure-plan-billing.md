@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521048"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240251"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -53,7 +53,7 @@ El administrador global o el administrador de facturación de tu empresa recibir
 
 3. Selecciona la pestaña de **Periódico** y **Una vez** y la moneda que te interese.
 
-![facturación](images/azure/billing1.png)
+![facturación](images/azure/billing3.png)
 
 4. Selecciona **Factura** o **Archivo de conciliación**.  
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, renovación de competencias, fecha de renovación
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651959"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161439"
 ---
 # <a name="renew-your-mpn-offers"></a>Renovar tus ofertas MPN
 
@@ -39,6 +39,3 @@ Dispones de 30 días, después de la fecha de aniversario, para renovar. Tus ven
 
 Si renuevas durante la ventana de renovación, tu nueva fecha de aniversario será 365 días posterior a tu fecha de aniversario actual.
 
-## <a name="manage-auto-renewal"></a>Administrar la renovación automática
-
-Si tienes activada la renovación automática, tu tarjeta de crédito recibirá el cargo un día después de tu fecha de aniversario. Puedes desactivar la renovación automática en cualquier momento anterior a tu fecha de aniversario.

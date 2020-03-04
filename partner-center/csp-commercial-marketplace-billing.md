@@ -1,7 +1,7 @@
 ---
 title: Facturación para productos comerciales de Marketplace | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 02/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo funciona la facturación para los productos o las suscripciones de SaaS de ISV comprados para los clientes del Marketplace comercial en el centro de Partners.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: suscripciones, productos, compras, Marketplace, terceros, ISV, facturación, facturas, conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
-ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
+ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/28/2020
-ms.locfileid: "78161451"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240202"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Facturación para productos comerciales de Marketplace
 
@@ -35,7 +35,7 @@ Puede acceder a las facturas desde el [Panel](https://partner.microsoft.com/dash
 Los asociados del programa CSP se facturan por las soluciones de Marketplace comercial de ISV compradas para un cliente cuando compran dichos productos desde el centro de Partners o desde el Azure Portal (mediante el inquilino de Azure anterior del cliente, adquirido por CSP).
 
 >[!NOTE]
->Si los clientes usan su propio inquilino de Azure AD (no adquirido de un socio en el programa CSP), los clientes también pueden optar por comprar su propia solución SaaS de ISV directamente desde ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Si lo hacen, recibirán su propia factura directamente de Microsoft. Del mismo modo, si un asociado del programa CSP vende una suscripción de Azure o el nuevo plan de Azure al cliente y concede el [acceso basado en rol](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) del cliente a ese inquilino (asignando cualquier rol al cliente además del **lector**), ese cliente también puede comprar ofertas de Marketplace comercial sin aprobación previa o notificación al asociado de CSP. En estos casos, Microsoft no enviará directamente a los asociados del programa CSP sobre las compras realizadas por sus clientes. Sin embargo, Microsoft ofrece un mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que puede usar para establecer alertas o notificaciones sobre la actividad en una suscripción de Azure.
+>Si los clientes usan su propio inquilino de Azure AD (no adquirido de un socio en el programa CSP), los clientes también pueden optar por comprar su propia solución SaaS de ISV directamente desde ([Microsoft AppSource](https://appsource.microsoft.com/) o [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Si lo hacen, recibirán su propia factura directamente de Microsoft. Del mismo modo, si un asociado del programa CSP vende una suscripción de Azure o el nuevo plan de Azure al cliente y concede al cliente (o al distribuidor indirecto) [acceso basado en roles](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) a ese inquilino (asignando cualquier rol al cliente además del **lector**), ese cliente (o revendedor indirecto) también puede comprar ofertas de Marketplace comerciales sin aprobación previa o notificación al asociado de CSP En estos casos, Microsoft no enviará directamente a los asociados del programa CSP sobre las compras realizadas por sus clientes. Sin embargo, Microsoft ofrece un mecanismo de [Azure monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) opcional que puede usar para establecer alertas o notificaciones sobre la actividad en una suscripción de Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Acceder a la información de facturación para productos comerciales de Marketplace
 
