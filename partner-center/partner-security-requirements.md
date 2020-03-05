@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723452"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672805"
 ---
 # <a name="partner-security-requirements"></a>Requisitos de seguridad para partners
 
@@ -64,13 +64,21 @@ Para cumplir los requisitos de seguridad para partners, debes aplicar la autenti
 
 ## <a name="security-defaults"></a>Valores predeterminados de seguridad
 
-- Los valores predeterminados de seguridad reemplazan a las directivas de línea base. 
+La directiva de valores predeterminados de seguridad es una de las [opciones ](#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Revisa cómo habilitar MFA para tu organización con Azure AD y las consideraciones clave siguientes antes de habilitar los valores predeterminados de seguridad.
 
 - Las directivas de línea de base seguirán presentes durante un par de meses y quedarán obsoletas a finales de febrero de 2020.
 
 - Los partners que ya han adoptado las directivas de línea de base deben tomar medidas para realizar la transición a los valores predeterminados de seguridad.
 
+- Los valores predeterminados de seguridad son el reemplazo de disponibilidad general de las directivas de línea de base de la versión preliminar. Una vez que un asociado habilite los valores predeterminados de seguridad, ya no podrá habilitar las directivas de línea de base.
+
 - Con los valores predeterminados de seguridad, todas las directivas se habilitarán a la vez. 
+
+- En el caso de los asociados que usan el [acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los [valores predeterminados de seguridad no estarán disponibles](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- El bloqueo de la autenticación heredada no se aplicará a los asociados en este momento. Sin embargo, dado que la mayoría de los eventos relacionados con identidades comprometidas provienen de intentos de inicio de sesión mediante la autenticación heredada, se recomienda a los asociados a apartarse de estos protocolos antiguos.
+
+- La cuenta de sincronización de Azure AD Connect se excluye de los valores predeterminados de seguridad.
 
 - Para obtener información detallada, consulta [Habilitar la autenticación multifactor para la organización](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) y [Valores predeterminados de seguridad de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 

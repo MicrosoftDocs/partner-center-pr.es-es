@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
-ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521028"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672855"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
@@ -33,9 +33,9 @@ ms.locfileid: "77521028"
 - Revendedores indirectos, partners de facturación directa y proveedores indirectos
 
 
-El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Lee las [instrucciones](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) adicionales para los revendedores indirectos.
+El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Lee las [instrucciones](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) adicionales para los revendedores indirectos. Para facilitar la migración de los asociados al nuevo contrato, ambos contratos coexistieron en el programa CSP hasta el 31 de enero de 2020. A partir del 1 de febrero de 2020, el Contrato de cliente de Microsoft sustituyó al Contrato de Microsoft Cloud. Obtén información sobre el [Contrato de cliente de Microsoft y sobre cómo confirmar el consentimiento](confirm-customer-agreement.md).
 
- Para facilitar la migración de los asociados al nuevo contrato, se admitirá el Contrato de Microsoft Cloud actual en el programa CSP hasta el 31 de enero de 2020. Los partners pueden confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft en el Centro de partners o bien, ahora, pueden optar por invitar al cliente a través de una dirección URL para que revise y acepte el contrato en el Centro de administración de Microsoft 365 autenticado. Para obtener más detalles sobre la línea de tiempo, consulta la tabla siguiente:
+Para obtener más detalles sobre la línea de tiempo, consulta la tabla siguiente:
 
 | Fecha | Hito | Detalles |
 |------------|------------|--------------------------------|

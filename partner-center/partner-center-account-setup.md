@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Administra aspectos de tu empresa como el perfil, el catálogo, la información bancaria y fiscal, los roles, los permisos y mucho más en el Centro de partners.
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812703"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240192"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar la cuenta del Centro de partners
 
 **Se aplica a**
 
--  Centro de partners
-
-**Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
+- Centro de partners
 
 La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta en el Centro de partners, el administrador o tú tendréis que finalizar la configuración del perfil completo de tu empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de tu empresa también incluirá cuentas de usuario para todos aquellos que usarán el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
 
+## <a name="programs-in-which-you-are-enrolled"></a>Programas en los que estás inscrito
+
+Gran parte del trabajo que se lleva a cabo para administrar la cuenta del Centro de partners está relacionado con los programas específicos en los que estás inscrito, y con los permisos y roles de usuario que se te han asignado en el Centro de partners.
+
+Es fácil ver a qué programas tienes acceso en el Centro de partners:
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+2. Observa el panel de navegación izquierdo. Aparecerán las opciones asociadas a los programas a los que estás inscrito.
+
+A continuación se muestra un ejemplo. Supongamos que un usuario tiene acceso a tres programas en el panel del Centro de partners: El programa **MPN**, el programa **Referencias** y el programa **Marketplace comercial**. Cuando inicien sesión en el panel del Centro de partners, verán estos tres programas en el lado izquierdo de la pantalla.
+
+![menú de programas a los que estás inscrito](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>Administración de cuentas
 
-En la actualidad, el Centro de partners divide la administración de cuentas en dos secciones diferentes: Configuración de **partners** y configuración de **desarrolladores**. 
+En la actualidad, el Centro de partners divide la administración de cuentas en dos secciones diferentes: **Configuración de partners** y **Configuración de desarrolladores**.
 
 >[!NOTE]
->La configuración de la cuenta se encuentra en la esquina superior derecha del Centro de partners. Cuando selecciones el icono, podrás seleccionar lo que quieras administrar. 
+>Para acceder a **Configuración de partners** o a **Configuración de desarrolladores**, debes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y, después, seleccionar la opción **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla. Después, puedes seleccionar **Configuración de partners** o **Configuración de desarrolladores** en el menú desplegable.
 
 ![Configuración de la cuenta](images/accountsettings/account1.png)
 
-Los partners pueden ver la opción de administrar la configuración de los partners o de los desarrolladores, en función de si su empresa se ha inscrito en esos programas. La opción Configuración solo estará disponible si tu empresa se ha inscrito en al menos un programa asociado a esa configuración. 
+Los partners pueden ver la opción para administrar las opciones de **Configuración de partners** o **Configuración de desarrolladores**, en función de si su empresa se ha inscrito en esos programas. La opción Configuración solo estará disponible si tu empresa se ha inscrito en al menos un programa asociado a esa configuración.
 
-Para administrar la configuración de la cuenta, debes seleccionar la opción de configuración de la cuenta adecuada para el programa. Los programas a los que está inscrita tu empresa se pueden ver en el panel de navegación izquierdo del Centro de partners. Se trata de una lista (no exhaustiva) de programas y su opción de configuración correspondiente:
+Para administrar la configuración de la cuenta, debes seleccionar la opción de configuración de la cuenta adecuada para el programa en cuestión.  
+
+Esta es una lista parcial de los programas disponibles y la opción de configuración correspondiente asociada a ese programa:
 
 |**Nombre del programa**   |**Opción de configuración** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ Para administrar la configuración de la cuenta, debes seleccionar la opción de
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Diferencias en las opciones de configuración de partners y desarrolladores
 
-**Opciones de configuración de la cuenta de partner**:
+Las opciones de **Configuración de partners** variarán de las de **Configuración de desarrolladores**. A continuación se muestran capturas de pantallas de ejemplo de cada conjunto de opciones. Si tienes acceso a otros programas, también puedes ver otras opciones aparte de los ejemplos de estas capturas de pantalla.
+
+**Opciones de Configuración de partners**:
 
 ![opciones de partner](images/accountsettings/partneroptions.png)
 
-**Opciones de configuración de la cuenta de desarrollador**:
+**Opciones de Configuración de desarrolladores**:
 
 ![opciones de desarrollador](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>Inscripción en programas
 
-Hay muchos programas del Centro de partners y cada programa tiene requisitos diferentes para inscribir tu empresa. Para obtener información sobre cómo inscribirse en los programas del Centro de Partners, consulta [Red de asociados](https://partner.microsoft.com/). 
+Hay muchos programas del Centro de partners disponibles. Cada programa tiene requisitos diferentes que tu empresa debe cumplir para poder inscribirse en ese programa.
+
+Para obtener información sobre la inscripción en determinados programas del Centro de partners, consulta la siguiente lista parcial:
+
+- [Programa Marketplace comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Tienda Office](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+Para obtener más información acerca de la inscripción en los programas del Centro de partners, consulta también [Recursos de Partner Network](https://partner.microsoft.com/).
 
 ## <a name="the-account-picker"></a>Selector de cuentas
 
@@ -73,7 +94,9 @@ Puedes formar parte de más de una cuenta. Si formas parte de varias cuentas, ve
 
 ![selector de cuentas](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Recursos para ayudarte a administrar tu cuenta del Centro de partners
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Otros recursos para ayudarte a administrar tu cuenta del Centro de partners
+
+Si estás inscrito en programas como los de MPN o Proveedor de soluciones en la nube (CSP), los siguientes recursos pueden ayudarte a administrar tu cuenta.
 
 |**Para**   |**Lee esto**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ Puedes formar parte de más de una cuenta. Si formas parte de varias cuentas, ve
 |Asegúrate de comercializar tu empresa para que los clientes puedan encontrarla   |[Crear un perfil de negocio](create-a-marketing-profile.md)|
 |Organizar el catálogo para que los productos más importantes se encuentren en la parte superior de la lista   |[Personalizar el catálogo](customize-the-catalog.md)|
 |Mantenerte al día con las ofertas y precios actuales   |[Precios y ofertas](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

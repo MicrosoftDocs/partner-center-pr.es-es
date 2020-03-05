@@ -1,7 +1,7 @@
 ---
 title: Crear cuentas de usuario y establecer permisos | Centro de partners
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo crear cuentas de usuario y asignar roles en el Centro de partners, para cada empleado que necesite acceso. Los usuarios con privilegios de administrador diferentes pueden hacerlo.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: roles, permisos, agregar usuario, asignar rol, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722457"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240212"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
 
@@ -23,22 +23,22 @@ ms.locfileid: "74722457"
 
 - Administrador de cuentas
 - Administrador global
-- Administrador de administración de usuarios
+- Administrador del control de usuarios
 
-Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe llevar a cabo el administrador de gestión de usuarios, el administrador de cuentas o el administrador global.
+Crear cuentas de usuario para los empleados que necesitan acceder al Centro de partners. Estas tareas las debe llevar a cabo el administrador de gestión de usuarios, el administrador de cuentas o el administrador global. El usuario que realiza estas tareas también debe tener asignados los roles Administrador de usuarios o Administrador global de Azure Active Directory (AAD). Para obtener más información, sobre los roles de AAD, consulta [Permisos de roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
 ## <a name="add-a-new-user"></a>Agregar un usuario nuevo
 
 1. En el icono **Configuración** de la parte superior derecha del Centro de partners, selecciona **Administración de usuarios**.
 
-2.  Selecciona **Agregar usuario**.
+2. Selecciona **Agregar usuario**.
 
-3.  Escribe el nombre completo y la dirección de correo electrónico única del usuario.
+3. Escribe el nombre completo y la dirección de correo electrónico única del usuario.
 
-4.  Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas.  Si los usuarios quieren una asignación de roles, para encontrar administradores globales y ponerse en contacto con ellos, deben ir a **Administración de usuarios** y filtrar por administradores globales.
+4. Selecciona el tipo de agente o el tipo de administrador que quieres asignar al usuario. El acceso al Centro de partners se basa en roles, por lo que puedes asignar permisos para personalizar la vista del usuario y mostrar solo las características que el usuario necesite para completar las tareas específicas.  Si los usuarios quieren una asignación de roles, para encontrar administradores globales y ponerse en contacto con ellos, deben ir a **Administración de usuarios** y filtrar por administradores globales.
 
-5.  Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
+5. Selecciona **Agregar** para crear la cuenta de usuario. Confirma los detalles del usuario en la página siguiente.
 
 > [!IMPORTANT]  
 > Anota la nueva información de inicio de sesión del usuario que aparece en esta página. Asegúrate de copiar y enviar esta información al nuevo usuario ya que no volverás a tener acceso a ella. 
@@ -66,7 +66,7 @@ Para trabajar en el Centro de partners, debes tener un rol asignado.  Actualment
 - Administrador de usuarios
 
 **Los roles de CSP incluyen**:
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Agente de ventas
 - Agente del departamento de soporte técnico
