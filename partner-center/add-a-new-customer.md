@@ -1,7 +1,7 @@
 ---
 title: Agregar un cliente nuevo | Centro de partners
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo agregar un nuevo registro de cliente en el centro de Partners. A continuación, puede vender las suscripciones del cliente, administrar la facturación o proporcionar soporte al cliente.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672715"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340088"
 ---
 # <a name="add-a-new-customer"></a>Agregar un cliente nuevo 
 
@@ -28,8 +28,8 @@ ms.locfileid: "77672715"
 **Roles adecuados**
 
 - Administrador global
-- Administrador del control de usuarios
-- Agente de administrador
+- Administrador de administración de usuarios
+- Agente de administración
 - Agente de ventas
 
 
@@ -43,6 +43,15 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 1. Seleccione **clientes** en el menú del centro de Partners y, luego, seleccione **Agregar cliente**.
 
 2. En la página información de la **cuenta** , escriba los detalles del cliente y la información de contacto principal, y compruebe que el cliente ha aceptado y firmado el contrato de [servicio de Microsoft](agreements.md)más reciente.
+
+>[!NOTE]
+>
+>Para garantizar la precisión durante la verificación del cliente, asegúrese de que:
+>- Usar el nombre legal exacto/oficial tal como aparece en los documentos oficiales
+>- Evite el uso de acrónimos o formas cortas
+>- No usar nombres de prueba
+>- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país y código postal o postal)
+
 
 >[!IMPORTANT] 
 > El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Obtener información acerca del [contrato de cliente de Microsoft y cómo confirmar su consentimiento](confirm-customer-agreement.md)
