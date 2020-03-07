@@ -8,13 +8,13 @@ description: Obtenga más información sobre las ventajas y los diferentes model
 author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP indirecto, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
-ms.localizationpriority: medium
-ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.localizationpriority: high
+ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672835"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340233"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programa Proveedor de soluciones en la nube: vender soluciones en la nube a petición 
 
@@ -39,7 +39,7 @@ El programa proveedor de soluciones en la nube (CSP) le ayuda a ir más allá de
 
 #### <a name="new-expanded-requirements"></a>Nuevos requisitos ampliados:
 
-Soporte técnico
+Soporte
 - Expande las capacidades de soporte técnico al comprar soporte técnico de nube individual prioritario con soporte técnico avanzado de Microsoft para el paquete de Partners. O bien, elige un paquete de Soporte técnico Premier de Microsoft para acceder al catálogo completo de servicios proactivos, soporte break/fix elevado ininterrumpido y administración de cuentas técnicas en la nube, híbrida y local. 
 
 Servicios
