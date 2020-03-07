@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384803"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340223"
 ---
 # <a name="use-your-reconciliation-files"></a>Usar los archivos de conciliación
 
-Se aplica a:
+Dirigido a:
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de puestos a mediados de puestos a una suscripción).
