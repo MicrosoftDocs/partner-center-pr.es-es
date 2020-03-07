@@ -11,17 +11,17 @@ ms.author: labrenne
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721716"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340158"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 -  Centro de partners para Microsoft Cloud for US Government
 -  Partners de CSP
 
@@ -150,9 +150,9 @@ Para detener la renovación automática de una suscripción de Marketplace comer
 
 5. En la página Detalles de la suscripción, busque la sección **Estado** y desactive la casilla **renovación automática** . 
 
-6. Selecciona **Enviar**.
+6. Seleccione **Enviar**.
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 - [Compre productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-purchase.md)
 - [Administrar productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-manage.md)
