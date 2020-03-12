@@ -6,38 +6,37 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cómo informar de problemas del Centro de partners y recopilar información de diagnóstico para nuestro equipo de soporte técnico.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651714"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023476"
 ---
 # <a name="report-problems-with-partner-center"></a>Notificar los problemas que tengas con el Centro de partners
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 
-Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas con el centro de Partners, incluidos errores, interrupciones del servicio u otras áreas como informes, facturación, API o suscripciones.
-
+Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas o necesita ayuda con el centro de Partners.
 
 **Notificar un problema con el centro de Partners**
 
 1. En el panel del **centro de Partners** , seleccione **soporte técnico** y, a continuación, seleccione **solicitudes de soporte técnico para asociados**.
 
-2. Seleccione **nueva solicitud** y, a continuación, seleccione el tipo de problema adecuado en las opciones que se muestran.
+2. Seleccione **nueva solicitud** y busque el tipo de problema que mejor describa el problema. Seleccione el tipo de problema y **Revise las soluciones**.
 
 3. Revise la página de **soluciones recomendadas** para ver los pasos o documentos relacionados que pueden ayudarle a resolver el problema.
 
-4. ¿Necesita más ayuda? Seleccione **no** si las soluciones recomendadas resolvieron su problema. Seleccione **sí** si necesita enviar una nueva solicitud de soporte técnico.
+4. Si las **soluciones recomendadas** resolvieron el problema, puede seleccionar **volver al panel**. Si sigue necesitando ayuda, puede continuar y **proporcionar detalles del problema**.
 
-5. Si selecciona **sí**, complete el formulario de solicitud de la página de **detalles** . A continuación, seleccione **Enviar**. Un representante de Soporte para partners se pondrá en contacto contigo.
+5. Complete los **detalles del problema** y, a continuación, **envíe**. Un representante de soporte técnico del asociado realizará un seguimiento con usted.
 
 **Enviar diagnósticos**
 
