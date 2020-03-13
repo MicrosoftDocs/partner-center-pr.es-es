@@ -8,20 +8,20 @@ description: Un contrato de asociados sencillo, unificado y aceptado digitalment
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004585"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340203"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Asociados del Microsoft Partner Agreement para CSP 
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
 El Microsoft Partner Agreement proporciona a los asociados de Microsoft un contrato de asociados sencillo, unificado y aceptado digitalmente. El Microsoft Partner Agreement contiene un conjunto básico de términos perpetuos que ayudan a Microsoft, los asociados y los clientes a respaldar la privacidad y seguridad de los datos, promover el cumplimiento e impulsar prácticas empresariales sólidas.   
@@ -32,7 +32,7 @@ Debes firmar el Microsoft Partner Agreement antes del 31 de enero de 2020 para s
 
 ## <a name="microsoft-customer-agreement"></a>Contrato de cliente de Microsoft
 
-La aceptación del cliente del contrato de cliente de Microsoft (MCuA) será necesaria en el CSP para las compras de servicios de Azure a través de un plan de Azure y para todas las demás ofertas de CSP adquiridos después del 31 de enero de 2020. Leer [confirmar la aceptación del cliente del contrato de cliente de Microsoft (versión preliminar)](confirm-customer-agreement.md)
+La aceptación por parte del cliente del Contrato de cliente de Microsoft (MCuA) será necesaria en CSP para las compras de servicios de Azure a través de un plan de Azure y para todas las demás ofertas de CSP adquiridas después del 31 de enero de 2020. Consulta [Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft (versión preliminar)](confirm-customer-agreement.md)
  
 
 

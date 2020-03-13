@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprenda las diferencias y similitudes entre PMC y el centro de Partners con respecto a las renovaciones, la estructura de cuentas, el inicio de sesión, los roles de usuario, las competencias, etc.
+description: Infórmate de las diferencias y similitudes entre PMC y el Centro de partners con respecto a las renovaciones, la estructura de cuentas, el inicio de sesión, los roles de usuario, las competencias, etc.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
-ms.localizationpriority: medium
-ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004294"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340183"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Cambio de PMC al Centro de partners
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004294"
 
 Para que sea más fácil hacer negocios con nosotros, presentamos un único sitio web (Centro de partners) que sirve como punto central de las interacciones. Verás que todo lo que hacías en Partner Membership Center (PMC) se puede realizar en el panel del Centro de partners. 
 
-También puedes hacer mucho más y sin tener que salir de un solo sitio web. No obstante, algunas de las características y terminología pueden ser diferentes. Para mitigar cualquier preocupación inicial sobre dónde y qué son las cosas, asegúrese de seguir el paseo por el sitio del panel.
+También puedes hacer mucho más y sin tener que salir de un solo sitio web. No obstante, algunas de las características y terminología pueden ser diferentes. Para reducir las dudas iniciales sobre qué hay y dónde, asegúrate de darte un paseo por el sitio del panel.
 
 En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de partners.
 
@@ -37,9 +37,9 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Headquarters más ubicaciones: cada una se evalúa por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Oficina central más ubicaciones: cada una se evaluada por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](https://docs.microsoft.com/partner-center/account-structure.md).|
 
-## <a name="sign-in"></a>Iniciar sesión
+## <a name="sign-in"></a>Inicie sesión
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
@@ -89,7 +89,7 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 |Herramienta de validación y canje de vales| Herramienta de validación y canje de vales|
 |           |Programas de Proveedor de soluciones en la nube|
 
-Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. Sin embargo, si quita una asignación de MSA una vez migrada en el centro de Partners, no se puede volver a agregar al centro de Partners.
+Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. Sin embargo, si quitas una asignación de MSA una vez migrada al Centro de partners, no se puede volver a agregar al Centro de partners.
 
 En el Centro de partners, un asociado puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el asociado es administrador de MPN en el inquilino de Azure AD. Si el partner es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del Centro de partners, se permite que el partner agregue usuarios de todos estos inquilinos a los beneficios de Visual Studio y asignaciones basadas en el uso de Azure.
 

@@ -2,21 +2,21 @@
 title: Comprobación de tu perfil de partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo comprobar los detalles de su empresa, como la información de contacto, dirección y programa principal. También puede actualizar las direcciones legales y de facturación.
+description: Obtén información sobre cómo comprobar la información de tu empresa, como el contacto principal, la dirección y la información del programa. También puedes actualizar el domicilio legal y la dirección de facturación.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 44b3a2cdadbc841ef3d1a5e005c119780d987451
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943058"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340106"
 ---
 # <a name="verify-your-partner-profile"></a>Comprobación de tu perfil de partner
 
-La primera vez que inicies sesión en el Centro de partners como administrador global, asegúrate de que se han agregado correctamente todos los detalles de la empresa como, por ejemplo, el contacto principal, el nombre y el domicilio legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos. 
+La primera vez que inicies sesión en el Centro de partners como administrador global, tienes que confirmar que todos los detalles de la compañía son correctos. Estos incluyen el contacto principal, la denominación y la dirección legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos. 
 
 **Comprobación de tu información de perfil de partner**
 
@@ -45,11 +45,11 @@ Ahora ya puedes actualizar el domicilio legal en el Centro de partners.
 
 Si durante la migración desde Partner Membership Center al Centro de partners se identificó una empresa equivocada como denominación legal de la empresa, puedes cambiarla a la empresa correcta.
 
-1. En **Configuración de la cuenta** ve a **Ubicaciones** y asegúrate de que la empresa que quieres como denominación legal está en la lista. Si no está, puedes agregarla. Selecciona **Agregar ubicación**.
+1. En **Configuración de la cuenta**, ve a **Ubicaciones** y asegúrate de que la empresa que quieres como denominación legal está en la lista. Si no está, puedes agregarla. Selecciona **Agregar ubicación**.
 
-2.  Después, ve a **Perfil de partner** y selecciona **Update legal business profile** (Actualizar perfil de denominación legal de la empresa).
+2.    Después, ve a **Perfil de partner** y selecciona **Update legal business profile** (Actualizar perfil de denominación legal de la empresa).
 
-3.  Selecciona la ubicación y la empresa que quieras usar como denominación legal de la empresa y, a continuación, selecciona **Guardar**.
+3.    Selecciona la ubicación y la empresa que quieras usar como denominación legal de la empresa y, a continuación, selecciona **Guardar**.
 
 ## <a name="update-your-billing-address"></a>Actualización de la dirección de facturación
 

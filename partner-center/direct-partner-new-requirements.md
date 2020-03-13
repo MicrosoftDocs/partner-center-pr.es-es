@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si es un asociado directo en el programa CSP, puede obtener información sobre los requisitos de servicios y soporte técnico actualizados y cómo cumplirlos.
+Description: Si eres un partner directo del programa CSP, puedes obtener información sobre los requisitos actualizados de los servicios y el soporte técnico, además de cómo cumplirlos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, partner directo, factura directa, requisitos
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860469"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340113"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Nuevos requisitos de socio de facturación directo de CSP
+# <a name="csp-direct-bill-partner-new-requirements"></a>Nuevos requisitos de partners directos de CSP
 
 **Se aplica a**
 
-- Remesa directa de asociados en el programa proveedor de soluciones en la nube
+- Partners de factura directa del programa Proveedor de soluciones en la nube
 
-## <a name="enroll-as-a-direct-partner"></a>Inscribirse como un partner directo
+## <a name="enroll-as-a-direct-partner"></a>Inscribirse como partner directo
 
 Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de factura directa el 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico.
 
@@ -33,7 +33,7 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Id. de Microsoft Partner Network (MPN) activo para la ubicación de tu empresa.    |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|
-|**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: debe pasar una comprobación de crédito antes de adquirir un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
+|**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Debe superar una comprobación de crédito antes de comprar un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
 |**Servicio administrado**   |Al menos un servicio gestionado, servicio IP o una aplicación de solución de cliente. Obtén más información sobre cómo agregar [servicios gestionados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes
 
@@ -48,13 +48,13 @@ Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscrib
 >[!IMPORTANT]
 >La comprobación del crédito de la empresa puede tardar varios días o más en completarse. Durante este tiempo, es importante que NO compre ningún plan de soporte técnico de Microsoft. Debe comprar un plan de soporte técnico de Microsoft solo después de que le hayamos informado de que ha superado la comprobación de crédito.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de un revendedor directo a un revendedor indirecto
+## <a name="transition-from-direct-to-indirect-reseller"></a>Transición de revendedor directo a indirecto
 
-Los asociados de facturación directos actuales deben cumplir los nuevos requisitos para que permanezcan en el programa de asociados de facturación directa de CSP. De lo contrario, el [acceso a las capacidades de factura directa se restringe finalmente](restricted-direct-bill-capabilities.md) y puede realizar tareas específicas, como la realización de nuevas compras para sus clientes. 
+Los partners de factura directa actuales deben cumplir los nuevos requisitos para permanecer en el programa de partners de factura directa de CSP. De lo contrario, su [acceso a las capacidades de factura directa se restringirá con el tiempo](restricted-direct-bill-capabilities.md) y ya no podrán realizar tareas específicas, como nuevas compras para sus clientes. 
 
-Si decide pasar de un negocio de facturación directo a un negocio de revendedor indirecto, debe realizar varios pasos. Para obtener más información sobre la transición, lea [transición de un asociado directo del proveedor de soluciones en la nube (CSP) a un revendedor indirecto de CSP](transition-direct-to-indirect.md). 
+Si decides pasar de un negocio de factura directa a un negocio de revendedor indirecto, tienes que realizar varios pasos. Para obtener más información sobre la transición, consulta [Transición de partner de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Consulta también
 
-- [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [Preguntas más frecuentes sobre el revendedor directo de facturación](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Información adicional sobre cómo convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Preguntas más frecuentes de la transición de revendedor de factura directa a revendedor indirecto](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
