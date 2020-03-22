@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340158"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114997"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -27,7 +27,7 @@ ms.locfileid: "78340158"
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 - Agente del departamento de soporte técnico

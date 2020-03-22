@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: suscripciones, Marketplace, Marketplace comercial, terceros, ISV, ofertas de SaaS, programa de proveedor de soluciones en la nube, programa CSP, asociados de CSP
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340157"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114947"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Descubra ofertas y precios en Marketplace comercial
 
@@ -26,7 +26,7 @@ ms.locfileid: "78340157"
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
 Cuando fabricantes de software independientes (ISV) deciden publicar una oferta en el Marketplace comercial, también pueden decidir si desean que la oferta esté disponible en el programa CSP. Si optan por vender la oferta a través del programa CSP, los asociados de CSP deben ver la oferta en el área Marketplace del centro de Partners. 
 

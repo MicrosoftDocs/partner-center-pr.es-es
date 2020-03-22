@@ -8,20 +8,20 @@ description: Como proveedor indirecto, o distribuidor, obtenga información sobr
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012143"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112484"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
--   Agente de ventas
+-    Administrador global
+-    Administrador de usuarios
+-    Agente de administrador
+-    Agente de ventas
 
 Con un catálogo de soluciones de tecnología tan complejo y siempre en constante cambio, los clientes quieren lo último que las soluciones de tecnología pueden aportar. En estas condiciones, tiene sentido que los partners inviertan en la interacción de partner a partner para ampliar las ofertas y permitir a los clientes que consigan aún más.
 
@@ -36,13 +36,13 @@ Como proveedor indirecto, use el centro de partners para:
 -   Designar revendedores indirectos para administrar las suscripciones y clientes específicos 
 -   Administrar las relaciones con Microsoft, los clientes y los distribuidores indirectos en un mismo lugar
 
-Para obtener más información sobre el modelo indirecto en CSP, consulta [Explorar el modelo indirecto](https://partner.microsoft.com/cloud-solution-provider/indirect) en el [sitio web de Microsoft Partner Network]( https://partner.microsoft.com). 
+Para obtener información sobre lo que se necesita para participar en el programa CSP como revendedor indirecto, consulte Introducción al [revendedor indirecto](https://partner.microsoft.com/membership/cloud-solution-provider/) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com). 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tareas de proveedor indirecto en el centro de Partners
 
 Completa los siguientes pasos para establecer y administrar tu asociación con los distribuidores indirectos y clientes. Los pasos 2 y 3 se describen de forma más detallada más adelante.
 
-1.  Revisa el perfil de tu compañía en [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
+1.    Revisa el perfil de tu compañía en [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
     -   Para realizar cambios en el perfil de proveedor indirecto de su empresa, póngase en contacto con su representante de Microsoft.<br>
 
@@ -50,7 +50,7 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
     - Antes de interactuar con los distribuidores, debe establecer asociaciones con ellos en el centro de Partners. <br>
 
-3.  Conexión con los clientes
+3.    Conexión con los clientes
 
     - Asociar los nuevos clientes y suscripciones con revendedores
     - Establecer relaciones de revendedor con clientes ya existentes <br>
@@ -145,16 +145,16 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Agregar a nuevos clientes y asociarlas con revendedores indirectos
 
-1.  Seleccione **revendedores indirectos** en el menú del **centro de Partners** . 
+1.    Seleccione **revendedores indirectos** en el menú del **centro de Partners** . 
 
-2.  Busca el revendedor indirecto que quieras asignar a los clientes nuevos para y, a continuación, selecciona **Agregar nuevo cliente**. Ten en cuenta que ya has seleccionado el revendedor indirecto en el formulario de los datos del cliente. Proporcione los detalles del cliente y, a continuación, seleccione **siguiente: suscripciones** . 
-3.  En la página **Nueva suscripción**, selecciona las suscripciones que el cliente quiera comprar y, a continuación, escribe el número de licencias que el cliente necesite. 
+2.    Busca el revendedor indirecto que quieras asignar a los clientes nuevos para y, a continuación, selecciona **Agregar nuevo cliente**. Ten en cuenta que ya has seleccionado el revendedor indirecto en el formulario de los datos del cliente. Proporcione los detalles del cliente y, a continuación, seleccione **siguiente: suscripciones** . 
+3.    En la página **Nueva suscripción**, selecciona las suscripciones que el cliente quiera comprar y, a continuación, escribe el número de licencias que el cliente necesite. 
 
-4.  Selecciona **Siguiente: revisión**.
+4.    Selecciona **Siguiente: revisión**.
 
-5.  Si el pedido es correcto, selecciona **Enviar**. Si el pedido no es correcto, selecciona **Cancelar** para cancelar toda la operación y empezar de nuevo.
+5.    Si el pedido es correcto, selecciona **Enviar**. Si el pedido no es correcto, selecciona **Cancelar** para cancelar toda la operación y empezar de nuevo.
 
-6.  Tras enviar el pedido, aparecerá la página **Confirmación**. En **Información de configuración**, se muestra el nombre de usuario de administrador de la cuenta y la contraseña temporal. Copia la información de nombre de usuario de la cuenta y la contraseña para enviarla al nuevo cliente. 
+6.    Tras enviar el pedido, aparecerá la página **Confirmación**. En **Información de configuración**, se muestra el nombre de usuario de administrador de la cuenta y la contraseña temporal. Copia la información de nombre de usuario de la cuenta y la contraseña para enviarla al nuevo cliente. 
     > [!IMPORTANT]  
     > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no podrá obtener acceso a esta información de nuevo después de cerrar esta página.
 
@@ -164,21 +164,21 @@ Cuando se asocia un revendedor a una nueva cuenta de cliente, estarás delegando
 
 Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, debe realizar estos cambios en la cuenta del cliente. 
 
-1.  Seleccione **clientes** en el menú del **centro de Partners** . 
+1.    Seleccione **clientes** en el menú del **centro de Partners** . 
 
-2.  Busca el cliente cuya cuenta quieras cambiar. Puedes filtrar la lista por el revendedor indirecto para reducir las opciones. Expanda el registro del cliente; para ello, seleccione la flecha abajo y, a continuación, seleccione **Agregar suscripción**.
+2.    Busca el cliente cuya cuenta quieras cambiar. Puedes filtrar la lista por el revendedor indirecto para reducir las opciones. Expanda el registro del cliente; para ello, seleccione la flecha abajo y, a continuación, seleccione **Agregar suscripción**.
 
-3.  En la página **Nueva suscripción**, selecciona las suscripciones y escribe el número de licencias que quieres que el cliente compre. 
+3.    En la página **Nueva suscripción**, selecciona las suscripciones y escribe el número de licencias que quieres que el cliente compre. 
 
-4.  Para asociar la suscripción a un revendedor, seleccione el nombre del distribuidor en la lista y, a continuación, seleccione **Enviar**. Asociar el revendedor con la suscripción que les permita ganar incentivos, si procede.
+4.    Para asociar la suscripción a un revendedor, seleccione el nombre del distribuidor en la lista y, a continuación, seleccione **Enviar**. Asociar el revendedor con la suscripción que les permita ganar incentivos, si procede.
 
-5.  Las nuevas suscripciones aparecen en la lista de suscripciones del cliente. 
+5.    Las nuevas suscripciones aparecen en la lista de suscripciones del cliente. 
 
-6.  Si quieres que el revendedor controle las solicitudes de soporte técnico del cliente en la nueva suscripción, selecciona la suscripción y, a continuación, selecciona el revendedor de la lista **Contacto de soporte técnico designado**.
+6.    Si quieres que el revendedor controle las solicitudes de soporte técnico del cliente en la nueva suscripción, selecciona la suscripción y, a continuación, selecciona el revendedor de la lista **Contacto de soporte técnico designado**.
 
-7.  Selecciona **Enviar** cuando hayas acabado. 
+7.    Selecciona **Enviar** cuando hayas acabado. 
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 Para obtener más información sobre la administración de suscripciones y las cuentas de cliente, consulta:
 

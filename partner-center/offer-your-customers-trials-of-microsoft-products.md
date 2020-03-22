@@ -1,26 +1,26 @@
 ---
 title: Ofrecer a los clientes versiones de prueba de productos Microsoft | Centro de partners
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Los clientes pueden probar productos de suscripción a Microsoft durante 30 días. Regístrese para estas pruebas en el catálogo del mismo modo que otros muchos servicios en línea.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185545"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112464"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Ofrecer a los clientes pruebas de productos de Microsoft
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 
 **Roles adecuados**
 -   Administrador global 
@@ -45,7 +45,7 @@ Hay evaluaciones gratuitas disponibles para los siguientes productos:
 - Office 365 E5 sin RTC
 - Enterprise Mobility & Security E5
 - Plan Dynamics 365 Customer Engagement 1
-- Dynamics 365 Business Central
+- Dynamics 365 Business central
 - Microsoft 365 Empresa
 
 Proporcionamos evaluaciones gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de evaluación gratuita en el futuro.
@@ -91,6 +91,17 @@ Es posible que tenga que modificar las API para dar cabida a la conversión de u
 - [Convertir una suscripción de prueba en otra de pago](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Obtener una lista de ofertas de conversión de versiones de prueba](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
+### <a name="trials-without-conversions"></a>Pruebas sin conversiones
+
+No todas las pruebas se pueden convertir en suscripciones de pago. Los asociados pueden usar una versión de prueba que no tenga conversiones hasta la fecha de expiración. Los asociados pueden adquirir ofertas compatibles que admitan los mismos servicios que la oferta de evaluación.  Esto debe hacerse antes de que expire la evaluación para asegurarse de que los servicios de las ofertas recién compradas se alineen con los servicios de la versión de prueba. 
+
+|**Periodo**   |**Ofertas de pequeñas empresas compatibles**   |**Ofertas Enterprise compatibles**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Evaluación de la nube comercial de Microsoft Teams (Iniciado por el usuario)   |Business Essentials, Business Premium, M365 Business   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 y E5), M365 F1/F3, M365 Enterprise (E3)   |
+
+>[!Note] 
+>Las ofertas anteriores tienen planes de servicio similares con una funcionalidad similar, pero puede haber algunas diferencias entre las ofertas. 
+
 ### <a name="expiring-offers"></a>Ofertas que van a expirar
 
 No recibirá ninguna notificación de las ofertas que expiren. Puede realizar un seguimiento de las fechas de expiración futuras mediante la vista de cliente del centro de Partners o consultando la API. Se recomienda supervisar esas fechas con frecuencia para poder realizar las acciones de seguimiento apropiadas con los clientes que se acercan a la fecha de caducidad.
@@ -115,6 +126,6 @@ No verá las pruebas gratuitas que aparecen en la factura o el archivo de concil
 
 Las evaluaciones gratuitas no afectan a los incentivos.
 
-## <a name="support"></a>Soporte
+## <a name="support"></a>Soporte técnico
 
 Para obtener soporte técnico sobre las pruebas gratuitas, envíe una solicitud de servicio a través del centro de Partners.

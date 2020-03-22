@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240232"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112474"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Asegúrese de que tiene un crédito por retención de impuestos
 
@@ -30,6 +30,9 @@ En este tema se explica cómo asegurarse de que se le ha abonado la retención d
 Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Estos asociados tienen que enviar una solicitud de retención de impuestos que incluye su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que el socio ya no debe ser el importe de pago de Microsoft.
 
 A partir de los asociados de enero de 2020 CSP debe enviar solicitudes de retención de impuestos en la **Página de facturación** en lugar de crear solicitudes de soporte técnico. Para enviar las solicitudes en la página de facturación, los asociados de CSP deben ir al **centro de Partners** y seleccionar **facturación** en el panel de navegación izquierdo. La **Página de facturación** es la nueva ubicación donde se van a enviar las solicitudes de retención de impuestos. 
+
+> [!IMPORTANT]
+> Los asociados pueden enviar solicitudes de retención de impuestos solo para facturas **pagadas** .
 
 ### <a name="submit-a-new-tax-withholding-request"></a>Enviar una nueva solicitud de retención de impuestos
 

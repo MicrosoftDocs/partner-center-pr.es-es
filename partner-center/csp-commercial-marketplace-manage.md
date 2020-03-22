@@ -10,23 +10,23 @@ ms.author: v-mihope
 keywords: suscripciones, Marketplace, terceros, ISV, ofertas de SaaS, programa del proveedor de soluciones en la nube, administración de una oferta, administración de una suscripción, licencias, cancelación de una suscripción, puestos, desactivación de la renovación automática, revendedor indirecto ID MPN
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253813"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114957"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Administrar productos comerciales de Marketplace para sus clientes
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Partners del programa CSP
 
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
 Los asociados del programa proveedor de soluciones en la nube (CSP) pueden usar el portal del centro de partners para comprar muchas ofertas o suscripciones de SaaS de ISV para sus clientes del Marketplace comercial. Una vez que compre una oferta, tendrá varias maneras de administrarla.
 
