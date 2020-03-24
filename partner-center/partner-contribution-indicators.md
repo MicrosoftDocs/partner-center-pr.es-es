@@ -44,7 +44,7 @@ Cada indicador aporta una puntuación que se agrega al total. Estas son las punt
 
 ### <a name="thresholds"></a>Umbrales
 
-Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país o región se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para el compromiso del cliente y las operaciones de finanzas & que se actualizarán mensualmente.
 

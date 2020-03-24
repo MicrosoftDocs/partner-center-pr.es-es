@@ -50,7 +50,7 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 >- Usar el nombre legal exacto/oficial tal como aparece en los documentos oficiales
 >- Evite el uso de acrónimos o formas cortas
 >- No usar nombres de prueba
->- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país y código postal o postal)
+>- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país o región y código postal o postal)
 
 
 >[!IMPORTANT] 

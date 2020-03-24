@@ -27,7 +27,7 @@ En este tema se explica cómo asegurarse de que se le ha abonado la retención d
 
 ## <a name="overview"></a>Información general
 
-Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Estos asociados tienen que enviar una solicitud de retención de impuestos que incluye su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que el socio ya no debe ser el importe de pago de Microsoft.
+Los asociados de CSP en algunos países o regiones reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Estos asociados tienen que enviar una solicitud de retención de impuestos que incluye su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que el socio ya no debe ser el importe de pago de Microsoft.
 
 A partir de los asociados de enero de 2020 CSP debe enviar solicitudes de retención de impuestos en la **Página de facturación** en lugar de crear solicitudes de soporte técnico. Para enviar las solicitudes en la página de facturación, los asociados de CSP deben ir al **centro de Partners** y seleccionar **facturación** en el panel de navegación izquierdo. La **Página de facturación** es la nueva ubicación donde se van a enviar las solicitudes de retención de impuestos. 
 

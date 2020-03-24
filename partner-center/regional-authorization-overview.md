@@ -338,7 +338,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
 |  Libia          |          |
-|  Macedonia, República de|   |
+|  República de Macedonia del Norte|   |
 |  Mauritania     |   USD    |
 |  Moldova        |          |
 |  Mongolia       |          |
@@ -347,7 +347,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Mozambique     |          |
 |  Omán           |   USD    |
 |  Pakistán       |   USD    |
-|  Territorio Palestina, ocupado |        |
+|  Palestina |        |
 |  Qatar          |   USD    |
 |  Arabia Saudí   |   USD    |
 |  Serbia         |   USD    |

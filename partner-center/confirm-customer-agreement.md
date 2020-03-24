@@ -54,7 +54,7 @@ Tienes las dos opciones siguientes para que los clientes acepten el Contrato de 
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Acceso a la plantilla del Contrato de cliente de Microsoft
 
-Puedes descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft desde [aquí](https://aka.ms/customeragreement). Ten en cuenta que el Contrato de cliente de Microsoft es específico para cada país. Al solicitar la plantilla del Contrato de cliente de Microsoft, asegúrate de seleccionar el país correcto en función de la ubicación del cliente. 
+Puedes descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft desde [aquí](https://aka.ms/customeragreement). Ten en cuenta que el Contrato de cliente de Microsoft es específico para cada país o región. Al solicitar la plantilla del Contrato de cliente de Microsoft, asegúrate de seleccionar el país o región correcto en función de la ubicación del cliente. 
 
 ## <a name="option-1-confirm-customer-acceptance-using-partner-center-apisdk"></a>Opción 1: Confirmación de la aceptación por parte del cliente mediante el SDK o la API del Centro de partners
 

@@ -42,7 +42,7 @@ Revisa los requisitos para convertirse en un partner del programa Proveedor de s
 
 ## <a name="microsoft-customer-agreement-customer-templates"></a>Plantillas de cliente del Contrato de cliente de Microsoft
 
-Para que puedas realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el Contrato de cliente de Microsoft aplicable. Los Contratos de cliente de Microsoft son específicos para cada región. Asegúrate de seleccionar el país correcto en función de la ubicación del cliente.
+Para que puedas realizar un pedido en nombre de un cliente, el cliente debe aceptar y firmar el Contrato de cliente de Microsoft aplicable. Los Contratos de cliente de Microsoft son específicos para cada región. Asegúrate de seleccionar el país o región correcto en función de la ubicación del cliente.
 
 Para descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft, selecciona esta [dirección URL](https://aka.ms/customeragreement).
 
