@@ -1,7 +1,7 @@
 ---
 title: Partner Center Insights-informe de beneficios | Centro de Partners
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea qué tipos de ventajas de los asociados de Microsoft se le han concedido para ayudar a crecer su negocio, mejorar la eficacia y mejorar los conocimientos del equipo.
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648256"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226201"
 ---
 # <a name="benefits-report"></a>Informe de beneficios
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648256"
 - Visor de informes
 - Visor de informes ejecutivos
 
-Como asociado de Microsoft, puede tener acceso a un host de las ventajas que usan la tecnología y las innovaciones más recientes para ayudarle a mejorar las aptitudes del equipo, mejorar la eficacia y hacer crecer su negocio. Los paquetes de ventajas incluyen: asignaciones de software con licencia, servicios en la nube, suscripciones de Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir ciertas ventajas de comercialización (GTM). El informe de beneficios presenta tendencias de las ventajas a las que ha tenido acceso y su uso durante el intervalo de fechas seleccionado.
+Como asociado de Microsoft, puede tener acceso a un host de las ventajas que usan la tecnología y las innovaciones más recientes para ayudarle a mejorar las aptitudes del equipo, mejorar la eficacia y hacer crecer su negocio. Los paquetes de ventajas incluyen: asignaciones de software con licencia, servicios en la nube, suscripciones de Visual Studio y soporte técnico. Estos paquetes también pueden incluir determinados recursos de comercialización, ofertas y programas. El informe de beneficios presenta tendencias de las ventajas a las que ha tenido acceso y su uso durante el intervalo de fechas seleccionado.
 
 ![Información general sobre la página ventajas](images/pci/pci_benefits_intro_1.png)
 
@@ -44,7 +44,7 @@ Puede visualizar los siguientes gráficos en el informe de beneficios:
 
 **Resumen**
 
-En la sección Resumen se presentan las ventajas concedidas en términos de software con licencia, servicios en la nube (no Azure), suscripciones de Visual Studio, soporte técnico y determinados servicios de comercialización.
+En la sección Resumen se presentan las ventajas concedidas en términos de software con licencia, servicios en la nube (no Azure), suscripciones de Visual Studio, soporte técnico y determinados servicios o ofertas de comercialización.
 
 Ejemplo: los asociados de pertenencia a Microsoft Partner Network (MPN) son válidos para el soporte técnico de productos locales y productos en la nube. A los asociados que obtienen la competencia Silver se les concede soporte técnico para 15 incidentes para los productos locales. Pueden consumir esta compatibilidad según sea necesario. 
 
@@ -63,7 +63,7 @@ Este gráfico presenta la tendencia mensual de licencias concedidas durante el i
 
 ![productos de software concedidos](images/pci/pci_benefits_software_products_granted_4.png)
 
-**Suscripciones de Visual Studio**
+**Suscripciones a Visual Studio**
 
 Este gráfico presenta la tendencia mensual de las suscripciones de Visual Studio activadas en las suscripciones que se asignaron durante el intervalo de fechas seleccionado.
 
@@ -79,10 +79,10 @@ Seleccione una pestaña en la parte superior del gráfico para ver la tendencia 
 
 ![ventajas técnicas](images/pci/pci_benefits_technical_benefits_6.png)
 
-**De comercialización**
+**Ofertas o servicios de comercialización**
 
-Este gráfico presenta la tendencia mensual de las ventajas de comercialización (GTM) activadas en la asignación durante el intervalo de fechas seleccionado y para una categoría de beneficio GTM seleccionada.
+Este gráfico presenta la tendencia mensual de las ofertas de comercialización o los servicios activados para asignados durante el intervalo de fechas seleccionado y para una oferta de comercialización o categoría de servicio seleccionada.
 
-Seleccione una categoría de ventajas GTM en la lista desplegable que se muestra en la parte superior del gráfico para ver la tendencia de la categoría de beneficio GTM seleccionada que se ha concedido a su compañía. Las columnas del gráfico representan las ventajas GTM activadas. El gráfico de líneas representa las ventajas GTM generales que se conceden a su empresa.
+Seleccione una oferta de comercialización o una categoría de servicio en la lista desplegable que se muestra en la parte superior del gráfico para ver la tendencia de los servicios de comercialización seleccionados concedidos a su empresa. Las columnas del gráfico representan ofertas de comercialización o servicios activados. El gráfico de líneas representa las ofertas de comercialización y los servicios globales concedidos a su empresa.
 
-![vaya a las ventajas del mercado](images/pci/pci_benefits_go_to_market_7.png)
+![Ofertas de comercialización](images/pci/pci_benefits_go_to_market_7.png)

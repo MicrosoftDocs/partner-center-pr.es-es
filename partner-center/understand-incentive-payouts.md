@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: incentivos, pagos, pagos, programa de incentivos, ubicaciones, estado del programa
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: c2c4ec70bec068b3f171ce6c3780eda8a830f146
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723472"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226121"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Vea sus programas y pagos de incentivos
 
@@ -59,8 +59,8 @@ A continuación se describen las siguientes páginas:
 También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que tenga que realizar para inscribirse en un programa en una ubicación específica.
 
 Para acceder a **mi información general sobre incentivos**:
-
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+ 
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 2. Seleccione **incentivos**e **información general** en el menú.
 3. Vea el Resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
 
@@ -77,10 +77,11 @@ Para acceder a **mi información general sobre incentivos**:
 
 | **Estado**         | **Aparece cuando** |
 |:------------------------------------|:------------------|
-| Acción necesaria  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
+| Acción requerida  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
 | Inscritos  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
-| Inactive  | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción.  |
+| Inscripción  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
+| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al hacer clic en el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción, se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 

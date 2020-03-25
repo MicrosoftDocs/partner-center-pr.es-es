@@ -1,22 +1,22 @@
 ---
 title: Partner Center Insights-informe de competencias | Centro de Partners
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea lo que está haciendo bien y dónde puede mejorar con respecto a las competencias de Microsoft, los niveles de competencia y las ventajas que le ayudarán a ofrecer soluciones de Microsoft.
+description: Vea lo que está haciendo bien y dónde puede mejorar con respecto a las competencias, los niveles de competencia y las ofertas de Microsoft para ayudarle a ofrecer soluciones de Microsoft.
 ms.assetid: ''
 keywords: PCI, rendimiento, medidas, éxito del cliente, competencias, ventajas, análisis, informe
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648096"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226191"
 ---
 # <a name="competencies-report"></a>Informe de competencias
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648096"
 - Visor de informes
 - Visor de informes ejecutivos
 
-Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales. Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, derechos para productos en la nube como O365, soporte técnico, ventajas de comercialización (GTM), etc. Actualmente, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**. Las competencias se dividen en niveles Silver o Gold, por ejemplo, con una barra superior para la competencia Gold y un nivel más alto de beneficios asociado.  
+Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales. Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, los derechos de los productos en la nube como O365, soporte técnico, ofertas de comercialización, etc. Actualmente, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**. Las competencias se dividen en niveles Silver o Gold, por ejemplo. Existe una barra superior para la competencia Gold y un mayor nivel de recursos de marketing, ofertas y programas disponibles.  
 
 **Ciclo de vida de la competencia**
 

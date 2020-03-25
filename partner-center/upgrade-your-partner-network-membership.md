@@ -1,7 +1,7 @@
 ---
 title: Actualiza tu suscripción a Microsoft Partner Network | Centro de partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Disfrute de las ventajas exclusivas mediante la actualización de la pertenencia a MPN a una suscripción de Microsoft Action Pack o a las competencias de Microsoft.
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943408"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226152"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualizar tu suscripción a Microsoft Partner Network
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 
-El programa de Partners de Microsoft ofrece las siguientes tres opciones de pertenencia, con beneficios incrementales para ayudarle a alcanzar sus objetivos empresariales.
+El programa de Partners de Microsoft ofrece las siguientes tres opciones de pertenencia, con beneficios incrementales y recursos de marketing, ofertas y programas para ayudarle a alcanzar sus objetivos empresariales.
 
-- **Pertenencia a la red.** El nivel de asociación principal, ofrece beneficios de nivel de entrada para la formación, el soporte al cliente y las conexiones con el cliente. Debes ser un miembro de la red para actualizar la suscripción.
+- **Pertenencia a la red.** El nivel de pertenencia principal, que ofrece recursos de marketing de nivel de entrada para las conexiones de aprendizaje, soporte técnico y clientes. Debes ser un miembro de la red para actualizar la suscripción.
 
-- **Pertenencia a la suscripción de Microsoft Action Pack.** Una suscripción anual asequible que ayuda a pequeñas y medianas empresas. Incluye los beneficios de nivel de entrada que vienen incluidas en la suscripción a la red básica, además de las asignaciones de suscripciones de servicio de derechos de uso interno, las licencias de software y soporte técnico.
+- **Pertenencia a la suscripción de Microsoft Action Pack.** Una suscripción anual asequible que ayuda a pequeñas y medianas empresas. Incluye los recursos de marketing de nivel de entrada que se incluyen con la pertenencia a la red básica, además de otras ofertas y programas de marketing, como asignaciones de suscripciones de servicios de derechos de uso interno, licencias de software y soporte técnico.
 
-- **Competencias de Microsoft.** Una designación obtenida que muestra las capacidades de la empresa. Incluye los beneficios de nivel de entrada, los derechos de uso interno adicionales, la elegibilidad para los incentivos de partner y soporte técnico adicional y horas de asesoría.
+- **Competencias de Microsoft.** Una designación obtenida que muestra las capacidades de la empresa. Incluye recursos de marketing de nivel de entrada, así como ofertas y programas adicionales, como los derechos de uso interno, la idoneidad para los incentivos para asociados y las horas de asesoramiento y soporte técnico adicional.
 
   - Capacidad, experiencia y compromiso coherentes con la competencia Silver
 
   - Gold Competency: la mejor funcionalidad en la clase dentro de un área de solución específica de Microsoft
 
-Una vez que se haya unido al Microsoft Partner Network, podrá actualizar su suscripción y comprar ofertas de beneficios de pertenencia exclusiva. Para obtener más información acerca de la suscripción a Microsoft Partner Network, ve a [https://partner.microsoft.com](https://partner.microsoft.com).
-
+Una vez que se haya unido a la Microsoft Partner Network, podrá actualizar su suscripción y comprar ofertas de pertenencia exclusiva. Para obtener más información acerca de la suscripción a Microsoft Partner Network, ve a [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Comprar una suscripción a Microsoft Action Pack
 
@@ -63,13 +62,13 @@ Para obtener más información acerca de Microsoft Action Pack, ve a [https://pa
 
 3. Selecciona **Siguiente** para agregar detalles de pago. 
 
-4. Selecciona **Introducción Agregar una forma de pago** si necesitas especificar los detalles de pago. 
+4. Selecciona **Introducción Agregar una forma de pago** si necesitas especificar los detalles de pago.
 
 5. Escribe los detalles de pago y, a continuación, selecciona **Siguiente**.
 
 6. Revise los detalles del pedido y seleccione **comprar** cuando esté listo para comprar Action Pack. Se cargará inmediatamente a tu tarjeta de crédito.
 
-7. El pedido se ha confirmado. Selecciona **Cerrar**.
+7. El pedido se ha confirmado. Seleccione **Cerrar**.
 
 La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. Sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
 
@@ -103,7 +102,7 @@ La suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 8. Revise los detalles del pedido y seleccione **comprar** cuando esté listo para comprar Action Pack. Se cargará inmediatamente a tu tarjeta de crédito.
 
-9. El pedido se ha confirmado. Selecciona **Cerrar**.
+9. El pedido se ha confirmado. Seleccione **Cerrar**.
 
     La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puedes desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. Sin embargo, no podrás volver a activar la renovación automática de suscripción hasta que tu suscripción se vuelva a renovar. 
 
@@ -131,8 +130,3 @@ Para cancelar la suscripción a Microsoft Action Pack, debes ponerse en contacto
 ### <a name="related-topics"></a>Temas relacionados
 
 [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
-
-
-
-
-
