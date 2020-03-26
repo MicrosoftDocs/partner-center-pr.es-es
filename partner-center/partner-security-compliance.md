@@ -8,12 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.topic: conceptual
+ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723462"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136319"
 ---
 # <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
 
@@ -27,7 +28,7 @@ ms.locfileid: "76723462"
 - Todos los asesores
 
 **Usuarios adecuados**
--   Todos los usuarios habilitados, incluidos los invitados
+-    Todos los usuarios habilitados, incluidos los invitados
 
 Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y partners que participan en el programa Proveedor de soluciones en la nube.
 
@@ -48,7 +49,7 @@ Este informe puede ayudarle a comprobar el estado de los requisitos de seguridad
 
 ## <a name="multi-factor-authentication-mfa-report"></a>Informe de Multi-Factor Authentication ("MFA")
 
-El informe de MFA del Centro de partners ofrece información sobre la implementación de MFA para asociados, y proporciona dos tipos de métricas basadas en la configuración de MFA y en las actividades del Centro de partners del inquilino del CSP: 
+El informe de MFA del Centro de partners ofrece información sobre la implementación de MFA para asociados, para lo cual proporciona dos tipos de métricas basadas en la configuración de MFA y en las actividades del Centro de partners del inquilino del CSP: 
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuración de MFA en un inquilino del CSP
 
@@ -59,7 +60,7 @@ Esta métrica está relacionada con la configuración de MFA en un inquilino del
 
 ### <a name="partner-center-activities-with-mfa"></a>Actividades del Centro de partners con MFA
 
-Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los 7 días anteriores.
+Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los siete días anteriores.
 
 #### <a name="mfa-verification-completed-by-users"></a>Comprobación de MFA realizada por los usuarios
 
@@ -77,11 +78,11 @@ Esta métrica está relacionada con actividades del panel del Centro de partners
 Esta métrica está relacionada con el uso de solicitudes de API del Centro de partners realizadas con la autenticación de aplicación y usuario. Mide el porcentaje de solicitudes de API realizadas mediante un token de acceso con notificación de MFA. Por ejemplo:
 
 - Fabrikam es un partner de CSP y tiene una aplicación de CSP que usa una combinación de métodos de autenticación de aplicación y usuario y de solo aplicación.
-- El primer día, la aplicación realiza tres solicitudes de API respaldadas por un token de acceso obtenido mediante el método de autenticación de aplicación y usuario sin la comprobación de MFA.
+- El primer día, la aplicación realiza tres solicitudes de API respaldadas por un token de acceso obtenido mediante el método de autenticación de aplicación y usuario sin la verificación de MFA.
 - El segundo día, la aplicación realiza cinco solicitudes de API respaldadas por un token de acceso obtenido mediante la autenticación de solo aplicación.
-- El tercer día, la aplicación realiza dos solicitudes de API respaldadas por un token de acceso obtenido mediante el método de autenticación de aplicación y usuario con la comprobación de MFA.
+- El tercer día, la aplicación realiza dos solicitudes de API respaldadas por un token de acceso obtenido mediante el método de autenticación de aplicación y usuario con la verificación de MFA.
 - Los otros cuatro días, ningún agente realiza operaciones.
-- Las cinco solicitudes de API del segundo día que estaban respaldadas por un token de acceso obtenido a través de la autenticación de solo aplicación se omiten de la métrica, ya que no hacen uso de las credenciales de usuario. De las cinco operaciones restantes, dos de ellas estaban respaldadas por un token de acceso obtenido con la comprobación de MFA. Por lo tanto, la métrica muestra un 40 %.
+- Las cinco solicitudes de API del segundo día que estaban respaldadas por un token de acceso obtenido a través de la autenticación de solo aplicación se omiten de la métrica, ya que no hacen uso de las credenciales de usuario. De las cinco operaciones restantes, dos de ellas estaban respaldadas por un token de acceso obtenido con la verificación de MFA. Por lo tanto, la métrica muestra un 40 %.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>¿Qué debo hacer si las métricas del informe de MFA no corresponde al 100 %?
 
@@ -100,7 +101,7 @@ Las métricas se calculan cada día y tienen en cuenta las operaciones realizada
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>¿Algunas cuentas de usuario se han excluido de la implementación de MFA?
 
-Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario o solo algunas. Algunas soluciones MFA están basadas en directivas y admiten la exclusión de usuarios, mientras que otras pueden requerir que se habilite explícitamente MFA por usuario. Compruebe que no ha excluido ningún usuario de la implementación de MFA actual. Las cuentas de usuario que se excluyan e inicien sesión en el Centro de partners para realizar cualquier actividad relacionada con CSP puede hacer que las métricas no sean del 100 %.
+Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario o solo algunas. Algunas soluciones MFA están basadas en directivas y admiten la exclusión de usuarios, mientras que otras pueden requerir que se habilite explícitamente MFA por usuario. Compruebe que no ha excluido ningún usuario de la implementación de MFA actual. Las cuentas de usuario que se excluyan e inicien sesión en el Centro de partners para realizar cualquier actividad relacionada con CSP pueden hacer que las métricas no sean del 100 %.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>¿Solo se requiere MFA cuando se cumplen ciertas condiciones?
 

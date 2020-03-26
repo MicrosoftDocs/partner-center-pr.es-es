@@ -1,7 +1,7 @@
 ---
 title: Administrar los beneficios de Microsoft Partner Network | Centro de partners
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Únete a Microsoft Partner Network (MPN) y administra los beneficios de suscripción que te ayudarán a construir y hacer crecer tu negocio.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, beneficios de suscripción, pertenencia, suscripción
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004534"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226091"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de suscripción a Microsoft Partner Network
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004534"
 -  Centro de partners
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administración
--   Administrador de partners de MPN
+-    Administrador global
+-    Administrador de usuarios
+-    Agente de administrador
+-    Administrador de partners de MPN
 
 >[!IMPORTANT]
 >En este artículo se explica cómo empezar a usar los beneficios de suscripción a Microsoft Partner Network (MPN) en el Centro de partners, o sea en este sitio. Si no has recibido una invitación para mover la información de tu empresa de Partner Membership Center (PMC) al Centro de partners, deberías seguir administrando tus beneficios de suscripción a MPN en PMC. [Inicia sesión](https://partner.microsoft.com/_login?authType=OpenIdConnect) en PMC ahora.
@@ -41,7 +41,7 @@ Tras comprar un paquete de beneficios de suscripción, deberás obtener claves d
 >[!IMPORTANT]
 >Aunque no tienes que ser un administrador global de la organización para comprar beneficios, tienes que ser el administrador global para asignarlos a los empleados. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
-Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados beneficios de comercialización. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos, ofertas y programas de comercialización. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Para ver y administrar todos tus beneficios de suscripción, ve a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere inicio de sesión). Como alternativa, puedes iniciar sesión en el [panel](https://docs.microsoft.com/partner-center/) del Centro de partners, selecciona la [**opción Beneficios**] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
 
@@ -109,7 +109,7 @@ Para ver y administrar todos tus beneficios de suscripción, ve a la [página **
 
 4. Puedes usar la asistencia técnica de preventas o la ventaja de horas de asesoría para solicitar asistencia técnica durante las preventas, el diseño, la implementación y las fases de desarrollo de aplicaciones de las soluciones en la nube e híbridas. Para solicitar asistencia, rellena el [formulario de solicitud](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) y, a continuación, selecciona **Enviar solicitud**.
 
-#### <a name="manage-go-to-market-benefits"></a>Administrar ventajas de la comercialización
+#### <a name="manage-go-to-market-offers"></a>Administrar ofertas de comercialización
 
 **Roles adecuados para realizar esta tarea:**
 
@@ -117,39 +117,39 @@ Para ver y administrar todos tus beneficios de suscripción, ve a la [página **
 - Administrador de partners de MPN
 
 
-1. Selecciona **Ventajas de la comercialización** para ver la lista de tus ventajas de comercialización de Microsoft.
+1. Seleccione **Beneficios** y, a continuación, **Comercialización** para ver la lista de ofertas asociadas con el programa Comercialización con Microsoft.
 
-    Las [ventajas de la comercialización](mpn-learn-about-go-to-market-benefits.md) ofrecen recursos de marketing y asistencia adicionales que pueden estar a su disposición. Los tipos de ventajas disponibles dependen de tu nivel de partner específico y de las competencias que puedes haber obtenido.
+    Las [características de Comercialización](mpn-learn-about-go-to-market-benefits.md) ofrecen recursos de marketing, ofertas, programas y asistencia adicionales que pueden estar a tu disposición. Los tipos de ofertas disponibles dependen de tu nivel de partner específico y de las competencias que puedes haber obtenido.
 
-2. Para activar cualquier ventaja de comercialización, primero debes asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre las ventajas de comercialización activas.
+2. Para activar cualquier oferta de comercialización, primero debes asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre las ofertas de Comercialización activas.
 
-3. Para agregar o actualizar la información de contacto de marketing, ve a la parte superior de la página de comercialización y selecciona **Agregar**, **Actualizar** o **Cambiar**. A continuación, haz lo siguiente:  
+3. Para agregar o actualizar la información de contacto de marketing, ve a la parte superior de la página Comercialización y selecciona **Agregar**, **Actualizar** o **Cambiar**. A continuación, haz lo siguiente:  
    
     a.  Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta**.
 
     b.  Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. 
     
-    Enviaremos las instrucciones por correo electrónico para usar las ventajas de comercialización a la dirección de correo electrónico del contacto de marketing que has designado. 
+    Enviaremos las instrucciones por correo electrónico para usar la oferta de Comercialización a la dirección de correo electrónico del contacto de marketing que has designado. 
     
     c.  Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**. 
 
-4. Después de actualizar el contacto de marketing, busca la ventaja de comercialización que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles del beneficio. La lista mostrará todos los tipos de ventajas disponibles debajo del nombre de la ventaja (por ejemplo, **Silver Core** o **Gold Core**).
+4. Después de actualizar el contacto de marketing, busca la oferta de Comercialización que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles de la oferta. La lista mostrará todos los tipos de ofertas disponibles debajo del nombre de la ventaja (por ejemplo, **Silver Core** o **Gold Core**).
 
-5. Selecciona **Activar** para activar la ventaja.
+5. Selecciona **Activar** para activar la oferta.
 
 > [!NOTE]
->Se pueden tardar varios días en enviar las instrucciones por correo electrónico al contacto de marketing asignado y activar una ventaja de comercialización. Una vez activada la ventaja, verás los cambios en la página Comercialización. En la columna **Estado**, verás el cambio de la ventaja a **Activo**. En la columna **Caduca**, verás la fecha de expiración de la ventaja. Puedes usar esta ventaja hasta la fecha de expiración. Obtén más información sobre los [diferentes tipos de ventajas de comercialización](mpn-learn-about-go-to-market-benefits.md) disponibles.  
+>Se pueden tardar varios días en enviar las instrucciones por correo electrónico al contacto de marketing asignado y activar una oferta de Comercialización. Una vez activada la oferta, verás los cambios en la página Comercialización. En la columna **Estado**, verás el cambio de la oferta a **Activo**. En la columna **Caduca**, verás la fecha de expiración de la oferta. Puedes usar esta oferta hasta la fecha de expiración. Obtén más información sobre los [diferentes tipos de recursos, ofertas y programas de Comercialización](mpn-learn-about-go-to-market-benefits.md) disponibles.  
 
 
-## <a name="cancel-a-membership-benefit"></a>Cancelar un beneficio de suscripción
+## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar una oferta o ventaja de suscripción
 
-Para cancelar un beneficio y recibir un reembolso, debes realizar la solicitud en un plazo de 30 días después de la compra y no haber activado los beneficios de software. Solicitar la cancelación a través de una solicitud de servicio.
+Para cancelar una ventaja u oferta y recibir un reembolso, debes realizar la solicitud en un plazo de 30 días después de la compra y no haber activado las ventajas de software. Solicitar la cancelación a través de una solicitud de servicio.
 
 
-#### <a name="see-also"></a>Consulte también
+#### <a name="see-also"></a>Consulta también
 
 [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
 
 [Compra o renovación de una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Más información sobre los beneficios de comercialización de MPN](mpn-learn-about-go-to-market-benefits.md)
+[Información sobre las ofertas y los recursos de Comercialización de MPN](mpn-learn-about-go-to-market-benefits.md)

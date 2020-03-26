@@ -1,7 +1,7 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004814"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226221"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
+-    Administrador global
+-    Administrador de usuarios
 
 Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades de los clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
@@ -30,7 +30,7 @@ Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más 
 
 - Como miembro partner Gold, también puede agregar especializaciones avanzadas a su cartera.
 
-La obtención de las competencias de la **suscripción Silver** o la **suscripción Gold** también ofrece grandes ventajas de marketing y ventas de [comercialización](mpn-learn-about-go-to-market-benefits.md) para ayudarte a expandir y aumentar tu negocio.
+La obtención de las competencias de la **suscripción Silver** o la **suscripción Gold** también ofrece excelentes ofertas y programas de [Comercialización](mpn-learn-about-go-to-market-benefits.md) para ayudarte a expandir y aumentar tu negocio.
 
 ## <a name="competency-areas"></a>Áreas de competencia
 
