@@ -1,7 +1,7 @@
 ---
 title: Servicios de planeación de software Assurance en el centro de Partners | Centro de Partners
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo inscribirse y tener la seguridad en las contrataciones de Microsoft Planning Services para que pueda ofrecer aprendizaje y otros servicios a los clientes con software Assurance.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: anterior a la implementación, planeamiento, software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915752"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296407"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
@@ -52,7 +52,7 @@ Antes de que las empresas y los asesores asociados puedan inscribirse en una de 
 
 Para ayudar a comprobar la idoneidad de su empresa para inscribirse en una contratación específica de Planning Services:
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
 2. Seleccione **MPN** en el menú y, a continuación, seleccione **programas**.
 3. Seleccione **inscripción de software Assurance**.
 4. Seleccione la pestaña **inscripción del programa de servicios de planeación** en la parte superior de la página. Verá una marca de verificación verde junto a los requisitos o las competencias que ya haya completado.
@@ -103,8 +103,9 @@ Tras canjear los vales de Planning Services, debe facturar a Microsoft por el pa
 
 Para enviar una factura a Microsoft a través de SAVB, siga las instrucciones del [paso 8](https://go.microsoft.com/fwlink/?linkid=2115983) del flujo de trabajo.
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 - [Flujo de trabajo de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Preguntas más frecuentes sobre servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Directivas de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Compromisos retirados de software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

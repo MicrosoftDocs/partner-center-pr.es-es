@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribución de partners | Centro de partners
 ms.topic: article
-ms.date: 1/06/2020
+ms.date: 03/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Datos que muestran cómo le va a tu compañía con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112454"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296460"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
 
@@ -24,12 +24,12 @@ Los indicadores de contribución de los asociados (PCI) proporcionan una medida 
 
 ## <a name="scoring"></a>Puntuación
 
-PCI proporciona una vista holística y holística de las capacidades técnicas de un asociado, su capacidad para impulsar el éxito de los clientes y su rendimiento de ventas. PCI mide el rendimiento del año anterior de su empresa en siete indicadores clave:
+PCI proporciona una vista sofisticada de las capacidades técnicas de un asociado, su capacidad para impulsar el éxito de los clientes y su rendimiento de ventas. PCI mide el rendimiento del año anterior de su empresa en siete indicadores clave:
 
 1. **Ingresos netos nuevos** : ingreso neto nuevo en todos los canales de ventas de productos de Microsoft Dynamics 365.
 2. **Net Customer ADDS** : clientes netos adquiridos para Dynamics 365 en todos los canales de ventas.
-3. **Consultores funcionales** : el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365.
-4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados de Consultor funcional.
+3. **Consultores funcionales** : el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365. 
+4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados de Consultor funcional. Vamos a evaluar de nuevo el tiempo que se tardará en realizar la instantánea de línea de base para esta métrica. No tendrá lugar el 31 de marzo de 2020, tal y como se indicó anteriormente. Cuando se haya establecido una nueva fecha, Actualizaremos este documento, se le notificará en el centro de Partners y por correo electrónico.
 5. **Desarrolladores** : el número de personas que tienen una certificación de asociado de desarrollador actualmente activa para Dynamics 365.
 6. **Nuevas implementaciones de gran tamaño** : número de inquilinos de producción que atraviesan el umbral de uso alto en los últimos 12 meses.
 7. **Crecimiento mensual** de usuarios activos: crecimiento en usuarios activos mensuales en todos los clientes durante los últimos 12 meses.
@@ -44,7 +44,7 @@ Cada indicador aporta una puntuación que se agrega al total. Estas son las punt
 
 ### <a name="thresholds"></a>Umbrales
 
-Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país o región se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales se diferencian en las rutas de acceso de las operaciones de financiamiento de clientes y Finanzas & para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados, frente a aquellos que operan exclusivamente en el desarrollo de mercados.  La categorización de mercado desarrollada o en desarrollo de un país se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para el compromiso del cliente y las operaciones de finanzas & que se actualizarán mensualmente.
 
@@ -52,8 +52,7 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![compromiso del cliente](images/pci/custengagethresh.png)
 
-![Finance](images/pci/table_2.png
-)
+![Finance](images/pci/table_2.png)
 
 ![Consultoría](images/pci/table_3.png)
 
@@ -65,7 +64,7 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![Consultor funcional](images/pci/funcconsult.png)
 
-![Crecimiento de consultores funcionales](images/pci/funcgrowth2.png)
+![Crecimiento de consultores funcionales](images/pci/4_Functional_consultant_growth.png)
 
 ![Desarrolladores](images/pci/developers.png) 
 
@@ -73,13 +72,11 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![Usuarios activos](images/pci/activeusers.png)
 
-
-
 ## <a name="customer-to-partner-association"></a>Asociación de cliente a partner
 
 Recibirá crédito por los ingresos netos nuevos, las adiciones de clientes netos, las nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de la métrica, solo si es el proveedor de soluciones en la nube (CSP), el asociado de notificaciones de registro (CPOR), o el socio digital del registro (DPOR) para una suscripción de pago que pertenece al inquilino del cliente.
 
-Un asociado se convierte en el CPOR si se ha establecido una asociación con un cliente en el nivel de suscripción a través del incentivo de Dynamics 365 [Online Services Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) o el servicio Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Un asociado se convierte en el CPOR si se ha establecido una asociación con un cliente en el nivel de suscripción a través del incentivo de Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) o el servicio Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
 
 Un partner se convierte en DPOR si ha establecido una asociación con un cliente en el nivel de suscripción dentro del producto.
 

@@ -1,7 +1,7 @@
 ---
 title: Ver los requisitos de idoneidad para los compromisos de Planning Services | Centro de Partners
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los requisitos de idoneidad para cada compromiso de servicios de planeación de software Assurance que una empresa podría querer ofrecer a los clientes empresariales.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: anterior a la implementación, planeamiento, software Assurance, compromisos, requisitos, elegibilidad, oferta
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928894"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296430"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver los requisitos de idoneidad para los compromisos de Planning Services
 
@@ -41,8 +41,9 @@ Cada compromiso de servicios de planeación tiene sus propios requisitos de eleg
 | Planeación de la implementación de Exchange<br> Planeación de la implementación de Skype empresarial</br>  | [Interacciones de Skype empresarial y servicios de planeación de implementación de Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Modernización de datos inmobiliarios  | [SQL Server Engagements de servicios de planeación de implementación (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 - [Flujo de trabajo de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Preguntas más frecuentes sobre servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Directivas de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Compromisos retirados de software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
