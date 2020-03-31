@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo usar una cuenta de cliente para asignar o revocar licencias y servicios a un usuario o a varios usuarios a la vez.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722194"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390274"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 
 **Roles adecuados**
 
@@ -33,7 +33,7 @@ ms.locfileid: "74722194"
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
-el centro de Partners realiza un seguimiento y muestra todos los derechos de licencia propiedad del cliente.
+El centro de Partners realiza un seguimiento y muestra todos los derechos de licencia propiedad del cliente.
 
 ## <a name="in-this-section"></a>En esta sección
 
@@ -74,7 +74,7 @@ el centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 7. Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
 
-8. Selecciona **Guardar**. El centro de Partners abre una página de confirmación de **licencias actualizadas** en la que se muestran los usuarios y sus licencias nuevas.
+8. Seleccione **Guardar**. El centro de Partners abre una página de confirmación de **licencias actualizadas** en la que se muestran los usuarios y sus licencias nuevas.
 
 **Tenga en cuenta**  puede que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
@@ -96,7 +96,7 @@ el centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 6. En **Asignar y revocar licencias**, borra las casillas de los productos asignados a los usuarios. Por ejemplo, si todos los usuarios seleccionados tienen licencias de Office 365 Enterprise y deseas revocarlas, selecciona la casilla para borrarla.
 
-7. Selecciona **Guardar**.
+7. Seleccione **Guardar**.
 
 ## <a name="related-topics"></a>Temas relacionados
 

@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Los asociados pueden usar las API para Office 365 y asociados de Microsoft Azure para el estado del servicio en tiempo real, las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 632d6ee1806638040ee1e08e1eb715d517a0c3b2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: e3424f1670a5b7533bcee1e7ca29197ad3ee58d8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722209"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391034"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Obtener notificaciones de servicio automatizadas con nuestras API
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 
 **Roles adecuados**
 

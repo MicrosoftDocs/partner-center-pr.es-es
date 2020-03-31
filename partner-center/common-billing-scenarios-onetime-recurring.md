@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: Consulte los ejemplos de facturación del centro de partners para una sola vez y seleccione compras periódicas; al adquirir suscripciones, agregar más suscripciones, agregar o quitar puestos.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
-ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9f1a96bfeee667f998d163416b96c281803f7107
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722506"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390124"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Una vez y seleccione los escenarios de facturación de compra periódica
 

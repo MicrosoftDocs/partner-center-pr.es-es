@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo personalizar o preconfigurar una nueva configuración rápida de un dispositivo con perfiles de AutoPilot antes de enviar el dispositivo al cliente.
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721425"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391004"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida para un dispositivo con perfiles de Windows AutoPilot
 
@@ -40,7 +40,7 @@ Si no está familiarizado con AutoPilot, revise la información de estos artícu
 - [Información general de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
 - [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Con la característica de Windows AutoPilot del centro de Partners, puede crear perfiles personalizados para aplicarlos a los dispositivos del cliente. La siguiente configuración de perfil estaba disponible en el momento en que se publicó este artículo:
 

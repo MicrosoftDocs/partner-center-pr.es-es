@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo agregar un nuevo registro de cliente en el centro de Partners. A continuación, puede vender las suscripciones del cliente, administrar la facturación o proporcionar soporte al cliente.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el Centro de partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340088"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390964"
 ---
 # <a name="add-a-new-customer"></a>Agregar un cliente nuevo 
 
@@ -50,7 +50,7 @@ Antes de poder vender suscripciones, administrar la facturación o proporcionar 
 >- Usar el nombre legal exacto/oficial tal como aparece en los documentos oficiales
 >- Evite el uso de acrónimos o formas cortas
 >- No usar nombres de prueba
->- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país o región y código postal o postal)
+>- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país y código postal o postal)
 
 
 >[!IMPORTANT] 

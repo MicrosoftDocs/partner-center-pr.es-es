@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los problemas que se espera que los partners de Microsoft se solucionen por sí mismos para sus clientes y los problemas que pueden necesitar para remitirse a Microsoft.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722236"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389864"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Escalar problemas a Microsoft
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
@@ -39,7 +39,7 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 - Servicios no disponibles
 
-- Errores y otras irregularidades que afectan al aspecto o al funcionamiento del servicio.
+- Errores y otras irregularidades que afectan al aspecto o funcionamiento del servicio
 
 - Interrupciones de red a gran escala
 
@@ -47,7 +47,7 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 ## <a name="submit-a-support-request"></a>Enviar una solicitud de soporte
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. En el menú del centro de Partners, seleccione **clientes**y, a continuación, seleccione el cliente que necesita soporte técnico.
 

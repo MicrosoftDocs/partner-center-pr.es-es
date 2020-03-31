@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo crear cuentas de usuario para un cliente, agregar o quitar licencias de usuario, restablecer contraseñas de usuario, eliminar cuentas de usuario o restaurarlas.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Administración de clientes, cuenta, crear cuenta, licencias, asignar licencia, administración de usuarios, contraseña, restablecer contraseña, cambiar contraseña
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721356"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391014"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Tareas de administración de usuarios para las cuentas de cliente
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 
 **Roles adecuados**
 
@@ -41,13 +41,13 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 
 ## <a name="create-user-accounts-for-a-customer"></a>Crear cuentas de usuario para un cliente
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
 3. En el menú del cliente, selecciona **Usuarios y licencias**.
 
-4. Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. Haz clic en **Guardar** para guardar los cambios.
+4. Para cada usuario que añadas, selecciona **Agregar suscripción** y luego rellena la información, incluidos los permisos y las licencias. **Guardar** para guardar los cambios.
 
 5. Asegúrate de registrar el nombre de usuario y la contraseña temporal que enviarás al usuario.
 
@@ -61,7 +61,7 @@ Puedes [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-m
 
 Los siguientes pasos se aplican a la adición o eliminación de licencias de usuario de productos de Microsoft. Para agregar o quitar licencias de usuario para las suscripciones de SaaS basadas en licencias en Marketplace comercial, consulte [adición o eliminación de licencias para una suscripción de SaaS](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
@@ -78,7 +78,7 @@ Los siguientes pasos se aplican a la adición o eliminación de licencias de usu
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Restablecer la contraseña de un usuario de un cliente
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
@@ -110,7 +110,7 @@ Si necesitas restaurar esta cuenta, puedes encontrarla en la pestaña **Usuarios
 
 3.  Selecciona la pestaña **Usuarios eliminados ( )** . Si hay usuarios eliminados que se pueden restablecer, mostrará **(1)** o más.
 
-4.  Selecciona una o varias de las casillas de los usuarios eliminados y a continuación selecciona **Restaurar**.
+4.  Selecciona una o varias de las casillas de los usuarios eliminados y, a continuación, selecciona **Restaurar**.
 
     Todas las cuentas de usuario seleccionadas volverán a aparecer en la página **Usuarios y licencias**.
 

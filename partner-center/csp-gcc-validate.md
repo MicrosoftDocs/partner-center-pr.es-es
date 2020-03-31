@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conozca los pasos para que los asociados directos de facturación (revendedores directos, proveedores indirectos) validen a los asociados y clientes de Office 365 Government GCC for CSP.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721938"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389734"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública para el CSP
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 -  Partners del CSP
 
 **Roles adecuados**

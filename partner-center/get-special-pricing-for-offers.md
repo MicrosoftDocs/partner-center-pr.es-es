@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre los precios especiales y reducidos de Microsoft para determinados grupos de clientes, incluidos clientes de educación, clientes sin ánimo de lucro y usuarios de la administración pública.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631819"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390984"
 ---
 # <a name="sell-to-specialized-industries"></a>Vender en sectores especializados
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 
 **Roles adecuados**
 
@@ -34,18 +34,18 @@ Microsoft proporciona precios especiales reducidos para grupos seleccionados de 
 
 |**Precios especiales**   |**Calificaciones necesarias del reseller**   |**Calificaciones necesarias para el cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Ninguna   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   Ninguna|
-|Organizaciones sin ánimo de lucro  |Ninguna<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
+|Educación   |Ninguno   | Debes ser [usuario cualificado de Educación](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la Administración, no se requiere ninguna cualificación.|   Ninguno|
+|Organizaciones sin ánimo de lucro  |Ninguno<br>Es necesario tener un inquilino de Azure Active Directory sin ánimo de lucro.<br>Obtén más información sobre [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Suscribirse a través del [programa de Microsoft para organizaciones benéficas](https://nonprofit.microsoft.com/#/register) para poder optar.   |
 
 
-## <a name="check-your-reseller-qualifications"></a>Comprobar tus cualificaciones de revendedor
+## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
 
 Los siguientes pasos solo se aplican a proveedores indirectos y a asociados directos de facturación. Los revendedores indirectos necesitan conectarse con un proveedor indirecto para ofrecer ofertas con precios académicos a usuarios cualificados de educación. 
 
 1.  En el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners, seleccione el icono de engranaje en la esquina superior derecha de la ventana para abrir la configuración de la **cuenta**.
 2.  En tu **Perfil de partner**, en la sección **Información del programa**, busca **Cualificaciones de revendedor**.
-3.  Si no ves **Cualificaciones de revendedor**, aún no tienes autorización para comprar ofertas especiales.
+3.  Si no ves **Calificaciones de revendedor**, no tienes autorización para comprar ofertas especiales.
 
 ## <a name="check-the-customer-qualifications"></a>Comprobar las calificaciones de cliente
 
@@ -57,7 +57,7 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 
 Una vez que tú y el cliente hayáis cualificado para un programa de oferta especial, sigue los pasos para [agregar una suscripción](create-a-new-subscription.md). En la sección **Catálogo** de la página **Nueva suscripción**, selecciona un sector especializado para ver las ofertas especiales que puedes vender.
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 [Venda las suscripciones de Minecraft: Education Edition a los clientes de educación](minecraft-subscriptions.md)
 
