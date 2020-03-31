@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La solicitud de relación con un cliente se usa para los escenarios multipartner y multicanal. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012133"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390684"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes en el Centro de partners
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 
 Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el contrato de cliente de Microsoft.
 
@@ -51,7 +51,7 @@ Tenga en cuenta que puede solicitar una relación de revendedor con un cliente d
 
 
 > [!IMPORTANT]  
-> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración de un servicio. Sin embargo, a menos que y hasta que renegocie el contrato con el cliente, sigue siendo responsable de proporcionar soporte al cliente y de cumplir los términos del acuerdo de socio de Microsoft, incluso después de que un cliente reasigne o quite el administrador los. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a menos que y hasta que renegocie el contrato con el cliente, sigue siendo responsable de proporcionar soporte al cliente y de cumplir los términos del acuerdo de socio de Microsoft, incluso después de que un cliente reasigne o quite el administrador los. En esta situación, si el cliente necesita ayuda, puedes llamar a soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación del cliente
 
@@ -59,12 +59,12 @@ La experiencia del cliente para aceptar una invitación de relación de revended
 
 |  | ¿Dónde acepta un cliente una invitación de relación reseller? |
 |---------|---------
-| Clientes en la nube pública | Centro de administración de Microsoft 365 |
+| Clientes en la nube pública | Centro de administración de Microsoft 365 |
 | Clientes del centro de partners para Microsoft Cloud Alemania | Portal de administración de Microsoft Office |
 | Clientes del centro de partners para Microsoft Cloud para el gobierno de EE. UU. | Portal de administración de Microsoft Office |
 |
 
-## <a name="see-also"></a>Consulta también
+## <a name="see-also"></a>Vea también
 
 - [Asignar contactos de soporte técnico](assign-support-contacts.md)
 - [Quitar una relación con un cliente](remove-a-relationship.md)

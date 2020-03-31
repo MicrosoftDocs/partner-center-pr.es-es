@@ -3,20 +3,20 @@ title: Facturación basada en el uso | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
 Description: Información sobre la facturación basada en el uso en el centro de Partners, donde se le facturarán las tarifas de uso mensuales.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturación, uso basado en el uso
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389743"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390504"
 ---
 # <a name="usage-based-billing"></a>Facturación basada en uso
 
-- Centro de partners
+- Centro de asociados
 - Partners del programa CSP
 
 Al comprar servicios en línea como suscripciones de Azure, se le facturará por las tarifas de uso mensuales. Los servicios basados en uso, como Azure, se facturan según las tarifas de uso medido en función del consumo.

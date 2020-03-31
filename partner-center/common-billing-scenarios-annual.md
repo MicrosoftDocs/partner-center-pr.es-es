@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 'Consulte facturación anual del centro de Partners: cuando se agregan suscripciones nuevas, se agregan licencias antes de la fecha de facturación, se cambian la cantidad de licencias, se suspenden o reactivan las suscripciones.'
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturación, pagos, pedidos, uso, facturación basada en licencias, fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fdfb242f51556ce924d06d7a35f32cf726803fe3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722483"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390164"
 ---
 # <a name="annual-billing-scenarios"></a>Escenarios de facturación anuales
 
@@ -38,7 +38,7 @@ La fecha de facturación es el 15 de cada mes. El 13 de enero compras una nueva 
 
 Adquieres una nueva suscripción el 11/02/17 con una licencia por 211,20 USD al año. El aniversario de la suscripción está establecido el día 11 de cada mes. El sistema de facturación de Microsoft crea las siguientes líneas de facturación:
 
-- Cargo de 211,20 USD para el período del 11/02/17 al 10/02/18.
+- Cargo de 211,20 USD para el período del 11/02/17 al 10/02/18.
 
 El 12/02/17 adquieres una segunda licencia. Tu fecha de facturación es el 14/02/17. Se generarán los archivos de factura y de conciliación. El archivo de conciliación contendrá las siguientes líneas de facturación:
 

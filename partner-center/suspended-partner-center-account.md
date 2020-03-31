@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 921538be2286c54d1adb7528d1c4747183f5ee78
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 556de42091c778dda6a025e738da6e33291489fd
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654027"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390644"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Restaurar una cuenta suspendida del Centro de partners
 
@@ -22,7 +22,7 @@ En este artículo se explica qué hacer si se ha suspendido tu cuenta del Centro
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 -  Centro de partners para Microsoft Cloud for US Government
 
 

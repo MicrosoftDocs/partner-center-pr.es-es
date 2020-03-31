@@ -6,22 +6,22 @@ description: La factura es un resumen de todos los cargos del centro de Partners
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004834"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390714"
 ---
 # <a name="read-your-bill"></a>Leer tu factura
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
@@ -43,7 +43,7 @@ Recibirá una factura independiente por cargos por única vez (por ejemplo, inst
 
 Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos de cargos de un solo tiempo), consulte [campos de archivo de factura](invoice-file.md).
 
-## <a name="find-your-bill"></a>Busque su factura
+## <a name="find-your-bill"></a>Búsqueda de tu factura
 
 Puede encontrar la factura en la página **facturación** del panel del centro de Partners. También puede buscar el historial de facturación, las tendencias de gasto y los archivos de conciliación en esta página.
 

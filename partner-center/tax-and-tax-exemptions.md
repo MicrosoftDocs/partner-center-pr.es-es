@@ -6,22 +6,22 @@ description: Obtenga información sobre las responsabilidades fiscales de su reg
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943198"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390634"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
-Se aplica a:
+Dirigido a:
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 El programa proveedor de soluciones en la nube (CSP) es un canal de ventas centrado en la reventa de productos de asociados. Como resultado, Microsoft no siempre necesita cobrar impuestos sobre las facturas de los asociados. Las reglas varían según el país o la región. Puede revisar los [detalles específicos del país y de la región para las exenciones fiscales](#country-and-region-tax-details).
@@ -87,7 +87,7 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 2. En la página **solicitud de socio comercial** , elija **nueva solicitud**. (También puede ver las solicitudes de soporte abierto y cerrado más adelante en esta página).
 3. En el paso **aspectos básicos** , en **CSP-facturación y pagos**, elija **seleccionar un tipo de problema** y seleccione **solicitud de exención fiscal**.
 4. En el paso de **soluciones** , en **¿necesita más ayuda?** , elija **sí**.
-5. En el paso **detalles** , rellene el formulario **detalles del problema** . No olvide:
+5. En el paso **detalles** , rellene el formulario **detalles del problema** . Asegúrese de lo siguiente:
 
     - Rellene todos los campos obligatorios.
     - Incluya el identificador de **Microsoft** y el ID. de **MPN** en el campo de **detalles** .

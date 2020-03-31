@@ -3,16 +3,16 @@ title: Facturación basada en licencias | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
 Description: Información acerca de la facturación basada en licencias en el centro de Partners, donde se factura por licencia (no por el uso de licencias).
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturación, pagos, licencia basada en licencia
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004924"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390904"
 ---
 # <a name="license-based-billing"></a>Facturación basada en licencia
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: Escenarios comunes en el centro de Partners cuando se usa la facturación mensual (como agregar nuevas suscripciones, cambiar la cantidad de licencias y suspender suscripciones).
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: facturación, pagos, pedidos, uso, facturación mensual, suscripciones, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a9163f7b787d76373a427b9e2d9f09b131227888
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722485"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390145"
 ---
 # <a name="monthly-billing-scenarios"></a>Escenarios de facturación mensuales
 

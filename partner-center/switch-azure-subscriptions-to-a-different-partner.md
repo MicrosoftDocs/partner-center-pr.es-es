@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo trabajar con un cliente para cambiar qué asociado del programa proveedor de soluciones en la nube usará el cliente para los servicios de Azure.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: suscripción de azure, alternar partner, cambiar partner, obtener nuevo partner, otro partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943398"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390624"
 ---
 # <a name="transfer-azure-subscriptions"></a>Transferir suscripciones de Azure 
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para Microsoft global Cloud
 
 Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en la nube u otro partner para los servicios de Microsoft Azure. Sin embargo, este es un proceso manual que requiere acciones del partner y del cliente.
 
@@ -33,7 +34,7 @@ Un cliente puede decidir cambiarse a un partner del Proveedor de soluciones en l
 
 **Cambiar asociados para suscripciones de Azure**
 
-1. Para transferir una suscripción de Azure a un partner nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de registro actual por escrito. 
+1. Para transferir una suscripción de Azure a un socio nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de registro actual por escrito. 
 >[!Note]
 >Es responsabilidad del partner actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo partner. El cliente debe tener previsto trabajar estrechamente con el partner actual para que la transición se realice sin problemas.
 
@@ -56,7 +57,7 @@ Descarga el [formulario de transferencia de suscripción de CSP](https://assets.
 
 - Id. Microsoft del cliente En el menú del Centro de partners, selecciona **Clientes** y, después, expande la lista del cliente para ver su **Id. Microsoft**.
 
-- Id. de suscripción que se va a transferir. En el listado de clientes expandido, selecciona **Ver suscripciones** y luego expande la suscripción seleccionada para ver el **Id. de suscripción**.
+- Id. de suscripción que se va a transferir. En el listado de clientes expandido, selecciona **Ver suscripciones** y, a continuación, expande la suscripción seleccionada para ver el **Id. de suscripción**.
 
 >[!Note]
 >Transferir una suscripción genera dos identificadores de suscripción que verás en la página **Editar suscripción** de la suscripción transferida: **1**- El identificador de suscripción del Centro de partners se usa para fines de facturación. 
@@ -73,19 +74,19 @@ Revisa el formulario, rellena la información sobre el nuevo partner y fírmalo.
 
 5. Partner actual:
 
-Asegúrate de que el formulario incluya información de contacto para ambos administradores de partners. Soporte técnico de Microsoft se pondrá en contacto con ambos para comprobar la transferencia. Asegúrate de que las tres firmas estén en su lugar y, a continuación, adjunta el formulario rellenado a la solicitud de servicio existente mediante la opción **Carga de archivos**. Un ingeniero de soporte técnico de Microsoft se pondrá en contacto contigo en un plazo de 8 horas laborales para validar la recepción y la finalización.
+Asegúrate de que el formulario incluye información de contacto para ambos administradores de partners. Soporte técnico de Microsoft se pondrá en contacto con ambos para comprobar la transferencia. Asegúrate de que las tres firmas estén en su lugar y, a continuación, adjunta el formulario rellenado a la solicitud de servicio existente mediante la opción **Carga de archivos**. Un ingeniero de soporte técnico de Microsoft se pondrá en contacto contigo en un plazo de 8 horas laborales para validar la recepción y la finalización.
 
 6. Nuevo partner:
 
-Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos Commandlets de Powershell.
+Actualiza la configuración de suscripción de Azure para quitar el partner antiguo de la cuenta. Para ver qué asignaciones de roles están aprovisionadas, ejecuta dos commandlets de Powershell.
 
--   Agrega el nuevo partner como el revendedor de la cuenta:
+-   Agrega el nuevo asociado como el revendedor de la cuenta:
 
 **PS C:\\&gt; Add-AzureRMAccount-tenant "CustomerDomainName"**
 
 Para encontrar el valor de customerDomainName: en el menú del Centro de partners, selecciona **Clientes**. En la lista de clientes, selecciona el cliente. En el menú del cliente, selecciona **Cuenta** y usa el valor de **Nombre de dominio**.
 
--   Observa los roles de la cuenta, incluidos los partners CSP anteriores:
+-   Observa los roles de la cuenta, incluidos los asociados de CSP anteriores:
 
 **PS C:\\&gt; Get-AzureRMRoleAssignment**
 

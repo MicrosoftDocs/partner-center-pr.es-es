@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Eres el responsable de la relación de la facturación con tus clientes y proporcionarás todo el soporte necesario respecto a cualquier pregunta sobre facturación de tus clientes.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004934"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390734"
 ---
 # <a name="provide-billing-support"></a>Proporcionar soporte técnico sobre la facturación
 

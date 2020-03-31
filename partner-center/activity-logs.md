@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de clientes y otras actividades de administración de asociados relacionadas con el cliente.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721792"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390384"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 - Partners del programa Proveedor de soluciones en la nube
 
@@ -40,7 +40,7 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 **Ver y exportar los registros de actividad**
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.
 2.  Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.

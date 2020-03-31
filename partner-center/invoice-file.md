@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/26/2019
 description: Comprenda los campos del archivo de factura para la facturación del centro de Partners.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturación, factura
 ms.localizationpriority: medium
-ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004576"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390914"
 ---
 # <a name="invoice-files"></a>Archivos de factura
 
@@ -44,12 +44,12 @@ Los siguientes campos aparecen en los archivos de factura.
 | Total current charges | La cantidad debida a la moneda de facturación para el período de facturación. Estos cargos se deben a la fecha de vencimiento del pago. |
 | Payment instructions | Descripción de cómo pagar la factura, en función de su región. *Asegúrese de incluir siempre el número de factura al realizar un pago.* |
 | Invoice no | El número de la factura. |
-| Billing period | El período mensual que conduce a la fecha de la factura. Este es el período durante el cual se consumen los servicios basados en el uso y se concilian los servicios basados en licencias para los ajustes de crédito o cambios en el recuento de licencias. |
+| Periodo de facturación | El período mensual que conduce a la fecha de la factura. Este es el período durante el cual se consumen los servicios basados en el uso y se concilian los servicios basados en licencias para los ajustes de crédito o cambios en el recuento de licencias. |
 | Invoice date | Fecha de facturación o fecha de aniversario en la que se genera la factura cada mes. |
 | Condiciones de pago | El plazo de pago. Para las compras de pago único siempre serán 60 días. |
 | Payment due date | Fecha en la que se debe recibir el pago. |
 | Customer PO | El pedido del número de compra. |
-| Customer service | Dirección del sitio web al que se puede tener acceso al servicio de atención al cliente. |
+| Servicio al cliente | Dirección del sitio web al que se puede tener acceso al servicio de atención al cliente. |
 | Destinatario del servicio | Dirección en la que se utiliza el servicio. (Se trata de la dirección de la empresa legal asociada a la empresa investigación). |
 
 ## <a name="one-time-charges-fields"></a>Campos de cargos por única vez
@@ -64,5 +64,5 @@ Los campos siguientes solo se aplican a **cargos** únicos en el centro de Partn
 | Precio unitario | Precio por producto (por ejemplo, una reserva). |
 | Descuentos | Descuentos aplicables. |
 | Importe antes de impuestos | Subtotal de las compras antes de impuestos. |
-| Impuesto sobre ventas | Importe de impuestos. |
+| Impuesto sobre ventas | Importe de los impuestos. |
 | Total | Importe total que se va a pagar. |

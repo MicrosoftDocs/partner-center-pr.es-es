@@ -5,22 +5,22 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como proveedor indirecto, o distribuidor, obtenga información sobre cómo ampliar asociados con distribuidores indirectos. Esto incluye las tareas que puede realizar en el centro de Partners.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112484"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390934"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
 **Roles adecuados**
 -    Administrador global
 -    Administrador de usuarios
--    Agente de administrador
+-    Agente de administración
 -    Agente de ventas
 
 Con un catálogo de soluciones de tecnología tan complejo y siempre en constante cambio, los clientes quieren lo último que las soluciones de tecnología pueden aportar. En estas condiciones, tiene sentido que los partners inviertan en la interacción de partner a partner para ampliar las ofertas y permitir a los clientes que consigan aún más.
@@ -50,7 +50,7 @@ Completa los siguientes pasos para establecer y administrar tu asociación con l
 
     - Antes de interactuar con los distribuidores, debe establecer asociaciones con ellos en el centro de Partners. <br>
 
-3.    Conexión con los clientes
+3.    Conectar con los clientes
 
     - Asociar los nuevos clientes y suscripciones con revendedores
     - Establecer relaciones de revendedor con clientes ya existentes <br>
@@ -137,7 +137,7 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 
 
 
-## <a name="connect-with-customers"></a>Conexión con los clientes
+## <a name="connect-with-customers"></a>Conectar con los clientes
 
 Cuando consigas nuevos clientes, deberás crear cuentas para ellos en el Centro de partners. Al agregar una nueva cuenta de cliente, puede designar a un revendedor específico para administrar la cuenta y administrar las suscripciones y servicios de los clientes en su nombre. 
 

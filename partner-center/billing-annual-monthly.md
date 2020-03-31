@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: Obtenga información sobre las diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722404"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390314"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Diferencias de facturación mensuales y anuales
 
 **Se aplica a**
 
-- Centro de partners
+- Centro de asociados
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
@@ -51,7 +51,7 @@ Todos los asociados y tipos de socios comerciales pueden elegir la facturación 
 
 La facturación mensual y anual (para las ofertas correspondientes) están disponibles en todos los mercados en los que el programa CSP está disponible actualmente.
 
-## <a name="change-billing-frequency"></a>Cambiar frecuencia de facturación
+## <a name="change-billing-frequency"></a>Cambio de la frecuencia de facturación
 
 Puede cambiar entre facturación mensual y anual en cualquier momento. Puede que desee cambiar la frecuencia de facturación si cambian las necesidades de su empresa.
 
@@ -145,7 +145,7 @@ El nuevo partner debe adquirir una nueva suscripción en nombre del cliente. No 
 
 Puede reactivar una suscripción durante un máximo de 90 días después de la fecha de suspensión. Recibirás un cargo prorrateado en la siguiente fecha de facturación. La fecha de renovación de la suscripción permanece igual.
 
-## <a name="pricing"></a>Precios
+## <a name="pricing"></a>Precio
 
 ### <a name="offer-pricing"></a>Precios de la oferta
 
@@ -189,7 +189,7 @@ Los siguientes cambios de suscripción facturados anualmente aparecen en la colu
 
 Cuando se cancela una suscripción facturada anualmente, el archivo de conciliación contendrá un elemento de línea para un crédito de cancelación.
 
-Si se produce la cancelación en los primeros 30 días del período de doce meses, la suscripción se abonará en el 100 por ciento. Si la cancelación se produce después de los primeros 30 días, la suscripción se abonará de forma prorrateada.
+Si se produce la cancelación en los primeros 30 días del período de doce meses, la suscripción se abonará en el 100 por ciento. Si la cancelación se produce después de los primeros 30 días, la suscripción será abonada de forma prorrateada.
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Agregar licencias a la suscripción anual
 
@@ -223,13 +223,13 @@ Los asociados obtienen incentivos en todas las transacciones válidas, independi
 
 Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-| Región | Dirección de correo electrónico |
+| Region | Dirección de correo electrónico |
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |
 | Obtenido | <ociemea@microsoft.com> |
 | APOAC (excepto Japón) | <ociapgc@microsoft.com> |
-| Japón | <ocijp@microsoft.com> |
+| Japan | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>Suspensivo

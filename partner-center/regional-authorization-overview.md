@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea los países, regiones y monedas en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Mercados de CSP, territorios, Dónde puedo vender a través de CSP, ofertas de CSP, regiones, vender soluciones en la nube, CSP global
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672815"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390704"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados y monedas regionales del programa proveedor de soluciones en la nube
 
@@ -24,10 +24,10 @@ La ubicación de la empresa determina el mercado. El mercado incluye las regione
 
 Por ejemplo, si su compañía se encuentra en el Estados Unidos, puede vender ofertas de CSP a los clientes de los Estados Unidos y en las islas periféricas de EE. UU. Si su compañía se encuentra en Brasil, puede vender ofertas de CSP a los clientes únicamente en Brasil. Si su empresa se encuentra en la región de África, puede vender ofertas de CSP a los clientes de los 18 países de la región de África.
 
-Antes de poder solicitar ofertas de CSP en nombre de un cliente, el cliente debe firmar el contrato de cliente de Microsoft. [Aquí](agreements.md)puede encontrar el contrato de cliente de Microsoft correspondiente a su región o país.
+Para poder hacer un pedido de ofertas del programa CSP en nombre de un cliente, el cliente debe firmar el Contrato de cliente de Microsoft. [Aquí](agreements.md)puede encontrar el contrato de cliente de Microsoft correspondiente a su región o país.
 
 >[!IMPORTANT]
-> Debe confirmar que un cliente ha aceptado el contrato de cliente de Microsoft proporcionando información sobre la persona que lo firmó. Consulte [confirmación de la aceptación de un cliente del acuerdo de cliente de Microsoft](confirm-consent.md) para obtener más información.
+> Debe confirmar que un cliente ha aceptado el contrato de cliente de Microsoft proporcionando información sobre la persona que lo firmó. Para más información, consulta [Confirmar la aceptación del cliente del Contrato de cliente de Microsoft](confirm-consent.md).
 
 Para determinar dónde puede vender las ofertas de CSP, busque la ubicación de la empresa en una de las siguientes listas. Debe tener un identificador de Microsoft Partner Network activo (MPN) para la ubicación en la que desea vender.  
 
@@ -87,7 +87,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 | Sierra Leona             |   USD    |
 | Somalia                  |   USD    |
 | Sudán del Sur              |   USD    |
-| Santa Elena, ascensión y Tristán da Cunha|    USD   |
+| Santa Elena, Ascensión y Tristán da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |          |
@@ -302,7 +302,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  San Vicente y las Granadinas| USD |
 |  San Eustaquio |   USD    |
 |  Sint Maarten   |   USD    |
-|  Georgia del Sur e islas Sandwich del sur| USD|
+|  Islas Georgia del Sur y Sandwich del Sur| USD|
 |  Surinam       |   USD    |
 |  Trinidad y Tobago|USD   |
 |  Islas Turcas y Caicos| USD|
@@ -338,7 +338,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
 |  Libia          |          |
-|  República de Macedonia del Norte|   |
+|  Macedonia, República de|   |
 |  Mauritania     |   USD    |
 |  Moldova        |          |
 |  Mongolia       |          |
@@ -347,7 +347,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Mozambique     |          |
 |  Omán           |   USD    |
 |  Pakistán       |   USD    |
-|  Palestina |        |
+|  Territorio Palestina, ocupado |        |
 |  Qatar          |   USD    |
 |  Arabia Saudí   |   USD    |
 |  Serbia         |   USD    |

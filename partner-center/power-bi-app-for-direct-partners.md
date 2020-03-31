@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Información general y preguntas más frecuentes sobre la aplicación del centro de partners para Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004964"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390754"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicación de análisis del Centro de partners para Power BI (para partners directos en CSP)
 

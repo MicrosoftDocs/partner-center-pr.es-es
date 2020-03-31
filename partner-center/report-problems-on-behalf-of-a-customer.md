@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de problemas de escalado a Microsoft, envíe una incidencia de soporte técnico para ellos.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943218"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390694"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 -  Centro de partners para Microsoft Cloud for US Government
 
 
@@ -33,7 +33,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 
 2.  En la página de solicitudes de cliente, busca el cliente que quieras.
 
-3.  En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se te redirigirá al Microsoft Azure Portal o al Centro de administración de Office 365.
+3.  En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se te redirigirá al portal de Microsoft Azure o al Centro de administración de Office 365.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -60,7 +60,7 @@ En cualquiera de estos casos, puedes usar el procedimiento siguiente para crear 
 
 1. Copie el nombre de dominio del cliente desde la página de su cuenta en el centro de Partners.
 
-2. Ve a https://portal.azure.com/ [customerdomainname]. 
+2. Ve a https://portal.azure.com/[customerdomainname]. 
 
 3. Selecciona la suscripción de Azure que requiere soporte técnico.
 
@@ -89,7 +89,7 @@ Para buscar la información de contacto del ISV:
     - Un correo electrónico de soporte técnico 
     - Un número de teléfono de contacto de soporte técnico
 
-## <a name="faq"></a>Preguntas frecuentes
+## <a name="faq"></a>Preguntas más frecuentes
 
 **¿Qué se incluye como parte de los derechos de soporte técnico?**
 

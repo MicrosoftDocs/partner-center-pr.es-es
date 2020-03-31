@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como partner de Microsoft en el programa de Proveedor de soluciones en la nube, puedes comprar suscripciones al precio de promoción y pasar el ahorro a tus clientes.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004844"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390744"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Usar promociones para atraer a nuevos clientes  
 

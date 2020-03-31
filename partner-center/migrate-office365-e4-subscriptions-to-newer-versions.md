@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La edición de Office 365 Enterprise E4 se retirará a partir del 7 de abril de 2017. Obtén información sobre cómo migrar las suscripciones de cliente a las versiones más recientes de Office 365.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004574"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390884"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar de suscripciones de Office 365 E4 a las versiones más recientes de Office 365
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
 **Se aplica a**
 
--  Centro de partners
+-  Centro de asociados
 
 **Roles adecuados**
 -   Administrador global
@@ -53,7 +53,7 @@ Puedes elegir mantener la misma funcionalidad con E4 o puedes hacer que los clie
 - Opción 4: Office 365 Enterprise E3
 
 
-| Función | Opción 1 | Opción 2 | Opción 3 | Opción 4 |
+| Característica | Opción 1 | Opción 2 | Opción 3 | Opción 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | ¿Obtener todas las características incluidas en Office 365 Enterprise E4? | Sí | Sí | Sí | No |
 | ¿Números de teléfono administrados en Office 365? | Sí | Sí | No | No |
@@ -64,7 +64,7 @@ Puedes elegir mantener la misma funcionalidad con E4 o puedes hacer que los clie
 | ¿Visualizaciones interactivas de informes, paneles y datos? | Sí | No | No | No | 
 | ¿Más control sobre la seguridad de los datos y la conformidad con la privacidad integradas, transparencia y controles de usuario refinados? | Sí | No | No | No | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Pasar a los clientes a nuevos planes de producto
+## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
 
 Microsoft ofrece de forma continua nuevos productos y servicios a nuestros partners. En estos casos, podrías tener que actualizar a los clientes con los nuevos servicios o migrar sus suscripciones de SKU que finalmente se apagarán. Migración de los clientes desde SKU retiradas a unas más recientes que requieren los siguiente pasos:
 
@@ -90,7 +90,7 @@ Sigue estos pasos para migrar la suscripción a Office 365 Enterprise E4 de un c
 
 3. En la página **Administrar licencias** desactiva la casilla de verificación de licencia de **Office 365 Enterprise E4**  selecciona un nuevo plan de servicio de la suscripción a la que se cambia el cliente.
 
-4. Selecciona **Enviar**. Una página de confirmación enumera las nuevas asignaciones de licencias.
+4. Seleccione **Enviar**. Una página de confirmación enumera las nuevas asignaciones de licencias.
 
 5. Sigue los mismos pasos con otros usuarios del cliente que necesiten la reasignación de licencias.
 
@@ -102,7 +102,7 @@ Después de mover las licencias de usuario al nuevo servicio, puedes cancelar de
 
 2. En la página de detalles de suscripción, establece el estado de la suscripción a **Suspendida**.
 
-3. Selecciona **Enviar**.
+3. Seleccione **Enviar**.
 
 Se ha suspendido la suscripción antigua y la nueva suscripción está activa. Se cancelará el aprovisionamiento de la suscripción suspendida automáticamente después de 120 días. El cliente no incurre en costos adicionales para la suscripción antigua.
 

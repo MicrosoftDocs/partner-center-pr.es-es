@@ -3,16 +3,16 @@ title: Facturación de una sola vez y selección de cargos periódicos | Centro 
 ms.topic: article
 ms.date: 11/21/2019
 Description: Información sobre la facturación única de antemano para un período preestablecido (suscripciones mensuales y anuales) y la facturación de los cargos de selección recurrentes (para los productos de Microsoft y ISV de terceros correspondientes) en el centro de Partners.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005044"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390784"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturación de cargos únicos y determinados cargos periódicos
 
