@@ -6,24 +6,24 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo los revendedores indirectos del programa CSP pueden trabajar con proveedores indirectos de Microsoft (o con distribuidores) que pueden ayudarte con la facturación y el servicio de soporte técnico al cliente.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004804"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390924"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
 La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de las relaciones con el cliente completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
@@ -63,7 +63,7 @@ Necesitamos esta información para confirmar que la organización tiene un perfi
  
 Ten en cuenta que podemos tardar varios días en revisar y comprobar la información que has proporcionado. Enviaremos un correo electrónico a tu contacto principal cuando se haya completado la revisión.
 
-### <a name="get-started"></a>Comenzar
+### <a name="get-started"></a>Introducción
 
 1.  Inicia el proceso de inscripción [aquí](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -145,7 +145,7 @@ Si un proveedor indirecto quiere conectar contigo en el Centro de partners, inic
 > [!IMPORTANT]  
 > El proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
  
-## <a name="connect-with-customers"></a>Conectar con los clientes
+## <a name="connect-with-customers"></a>Conexión con los clientes
 
 Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, este también debe tener relaciones de revendedor con tus clientes. 
 
@@ -199,7 +199,7 @@ Puedes editar el texto del correo electrónico, pero asegúrate de incluir el v�
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Administrar tu cuenta del Centro de partners](partner-center-account-setup.md)
+[Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
 
 [Administrar clientes y sus suscripciones](customer-accounts.md)
 

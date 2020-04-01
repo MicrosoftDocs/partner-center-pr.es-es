@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Administra aspectos de tu empresa como el perfil, el catálogo, la información bancaria y fiscal, los roles, los permisos y mucho más en el Centro de partners.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240192"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390804"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar la cuenta del Centro de partners
 

@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtén información sobre las ventajas de asociarte con Microsoft, incluidas las opciones de Microsoft Action Pack, las competencias y los programas para diferenciar tu negocio, sacarlo al mercado y vender tus soluciones.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, MAP, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004204"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390864"
 ---
 # <a name="partner-with-microsoft"></a>Asóciate con Microsoft
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004204"
 -   Administrador global
 -   Administrador de partners de MPN
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 
 Cuando te unes a un programa de partners de Microsoft, te conviertes en parte de una comunidad global que te conecta a las relaciones, la información, las herramientas, los recursos y los programas que necesitas para sorprender a tus clientes y hacer crecer tu negocio.
 
@@ -82,5 +82,5 @@ Revisa los recursos siguientes para obtener más información sobre los benefici
 - [Administrar los beneficios de MPN en el Centro de partners](manage-your-partner-network-benefits.md)
 - [Requisitos básicos](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Consulta también
 - [Hacer crecer tu negocio de partner de Microsoft](grow-your-business.md)

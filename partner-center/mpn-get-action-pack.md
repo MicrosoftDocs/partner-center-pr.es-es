@@ -5,16 +5,16 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtén información sobre cómo comprar una suscripción a Microsoft Action Pack y empezar a usar las ventajas de Action Pack. También aprenderás a realizar renovaciones, cancelaciones, visualizar tu factura y mucho más.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: action pack, MAPS, renovar MAPS, renovar action pack, obtener action pack
 ms.localizationpriority: high
-ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 2123b2d069aa2ce1fdf1367f0d948c311922d0da
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005110"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390854"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Comprar por primera vez o renovar una suscripción a Microsoft Action Pack o las competencias Silver o Gold
 
@@ -27,7 +27,7 @@ ms.locfileid: "75005110"
 -   Administrador global
 -   Administrador de usuarios
 -   Administrador de partners de MPN
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
 Ahora, desde el [panel](https://docs.microsoft.com/partner-center/) del Centro de partners, puede comprar o renovar las ofertas de ventajas, incluidas la suscripción a Microsoft Action Pack y las competencias Silver y Gold. 

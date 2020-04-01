@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: roles, permisos, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: 20930ad547bed2399fd60a5c419d8d5c3be8329e
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226171"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296398"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
 
@@ -154,3 +154,4 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 
 
 
+                                    
