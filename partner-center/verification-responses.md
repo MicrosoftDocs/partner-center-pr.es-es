@@ -1,7 +1,7 @@
 ---
 title: Comprobar la información de la cuenta | Centro de Partners
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 03/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Siga el estado de la comprobación de la cuenta y proporcione información adicional si es necesario.
@@ -9,19 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: comprobación, comprobar, rechazado, actualización de Perfil de socio comercial
 ms.localizationpriority: medium
-ms.openlocfilehash: 018f116cb28e95e96416318c6741f4eeba03f7be
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 9f0ef7317c16b2b0723b34ae24fcef6ff4fef418
+ms.sourcegitcommit: 75d1d4ba4b6b63b7d3761e5ca8fd03060695f7ab
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296374"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "80479036"
 ---
 # <a name="verify-your-account-information"></a>Comprobar la información de la cuenta
 
-La primera vez que cree su cuenta en el centro de Partners, Microsoft comprobará la información de su cuenta, como la dirección de su empresa y los detalles de contacto principales. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarle del estado y solicitar documentación de comprobación adicional. 
+Al inscribirse para un nuevo programa en el centro de Partners, Microsoft comprueba la información de inscripción de la cuenta que ha proporcionado, como el nombre de la empresa, la dirección de la empresa y los detalles del contacto principal. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarles del estado y solicitar documentación de comprobación adicional. 
 
->[!Note]
->Para asegurarse de que se recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.
+>[!NOTE]
+>Para asegurarse de que recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.
 
 Si es el contacto principal (administrador global o administrador de la cuenta), le recomendamos que vaya a su perfil de socio comercial para supervisar el estado de comprobación y realizar un seguimiento del progreso.
 
@@ -34,11 +34,12 @@ Para el programa CSP, vaya [aquí](https://partner.microsoft.com/pcv/accountsett
 
 |**Tipo de comprobación**   |**Qué se comprueba**   |**Qué hacer si se rechaza**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|Propiedad del correo electrónico   |La propiedad del correo electrónico comprueba que la dirección de contacto principal (correo electrónico principal) es válida. La dirección de correo electrónico de contacto principal debe ser una cuenta profesional supervisada y puede enviar y recibir correo electrónico. Los **asociados no deben usar**: (1) una dirección de correo electrónico personal que no esté asociada con el dominio de la empresa. (2) un inicio de sesión de usuario de inquilino no asociado al correo electrónico (por ejemplo, jsmith@testcompany.onmicrosoft.com).  |Si no recibe el mensaje de correo electrónico de comprobación de la propiedad del correo electrónico en el plazo de un día laborable, puede solicitar que se reenvíe mediante los siguientes vínculos: para [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), para [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). En la página perfil, haga clic en el vínculo "reenviar correo electrónico de comprobación" para que Microsoft le reenvíe el correo electrónico. Para asegurarse de que se recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.|
+|Propiedad del correo electrónico   |La propiedad del correo electrónico comprueba que la dirección de contacto principal (correo electrónico principal) es válida. La dirección de correo electrónico de contacto principal debe ser una cuenta profesional supervisada y puede enviar y recibir correo electrónico. Los **asociados no deben usar**: (1) una dirección de correo electrónico personal que no esté asociada con el dominio de la empresa. (2) el inicio de sesión de un usuario de inquilino no está asociado al correo electrónico (por ejemplo, jsmith@testcompany.onmicrosoft.com).  |Si no recibe el mensaje de correo electrónico de comprobación de la propiedad del correo electrónico en el plazo de un día laborable, puede solicitar que se reenvíe mediante los siguientes vínculos: para [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), para [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). En la página perfil, haga clic en el vínculo "reenviar correo electrónico de comprobación" para que Microsoft le reenvíe el correo electrónico. Para asegurarse de que se recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.|
 |Laboral |La verificación de empleo confirma que el contacto principal es un empleado de la empresa de inscripción en virtud de tener una dirección de correo electrónico activa en un dominio de correo electrónico propiedad de la empresa.|Si se rechaza la comprobación del empleo, el contacto principal (normalmente, el administrador global o de la cuenta) deberá proporcionar documentación para confirmar que el dominio de correo electrónico del contacto está bajo la propiedad de su empleador. [Cree una incidencia de soporte técnico](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0).|
-|Business   |La verificación empresarial confirma que la empresa de inscripción es una entidad comercial legítima y en la dirección que se usa para la inscripción.|Si se produce un error en la comprobación de la empresa, se pedirá al contacto principal (normalmente, el administrador global o de la cuenta) que proporcione documentación oficial, como un registro del negocio o un certificado o una recepción de registro fiscal, del país de residencia de la empresa o Municipio en el que se confirma que la empresa está autorizada a hacer negocios bajo ese nombre de entidad y que se encuentra en la dirección de inscripción. [Creación de una incidencia de soporte técnico](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)|
+|Empresa   |La verificación empresarial confirma que la empresa de inscripción es una entidad comercial legítima y en la dirección que se usa para la inscripción.|Si se produce un error en la comprobación de la empresa, se pedirá al contacto principal (normalmente, el administrador global o de la cuenta) que proporcione documentación oficial, como un registro del negocio o un certificado o una recepción de registro fiscal, del país de residencia de la empresa o Municipio en el que se confirma que la empresa está autorizada a hacer negocios bajo ese nombre de entidad y que se encuentra en la dirección de inscripción. [Creación de una incidencia de soporte técnico](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)|
 
->Tenga en cuenta Obtenga información acerca de cómo actualizar su [Perfil de negocio legal (dirección)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
+>[!NOTE]
+>Obtenga información acerca de cómo actualizar su [Perfil de negocio legal (dirección)](https://docs.microsoft.com/partner-center/update-your-partner-profile).
 
 ## <a name="when-verification-concludes"></a>Cuando concluye la comprobación
 
