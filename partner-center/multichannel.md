@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En algunos casos, es posible que los clientes quieran contratarte para ofrecer soporte técnico y aprovisionar una suscripción que compraron en otro lugar.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005094"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390834"
 ---
 # <a name="multi-channel-support"></a>Soporte técnico multicanal
 
