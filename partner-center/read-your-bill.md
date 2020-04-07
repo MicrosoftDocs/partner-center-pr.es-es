@@ -1,7 +1,7 @@
 ---
 title: Comprender la factura | Centro de Partners
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: La factura es un resumen de todos los cargos del centro de Partners (a través del programa, los productos y los clientes) del período mensual actual.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634804"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676841"
 ---
 # <a name="understand-your-bill"></a>Comprender la factura
 
@@ -93,11 +93,11 @@ A continuación se muestran algunos de los campos clave del documento PDF de fac
 
 **Instrucciones de pago**: Descripción de cómo pagar la factura, en función de su región. Asegúrese de incluir siempre el número de factura al realizar un pago. 
 
-Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos de cargos de un solo tiempo), consulte [campos de archivo de factura](https://docs.microsoft.com/partner-center/invoice-file). 
+Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos de cargos de un solo tiempo), consulte [campos de archivo de factura](invoice-file.md). 
 
 ## <a name="understand-reconciliation-file"></a>Comprender el archivo de conciliación 
 
- Los archivos de conciliación, que proporcionan detalles detallados o desglosados de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen los identificadores de cliente y los identificadores de suscripción que puede usar para crear facturas de cliente. Consulte  [Cómo usar los archivos de conciliación](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) para obtener más detalles sobre los archivos de conciliación. 
+ Los archivos de conciliación, que proporcionan detalles detallados o desglosados de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen los identificadores de cliente y los identificadores de suscripción que puede usar para crear facturas de cliente. Consulte  [Cómo usar los archivos de conciliación](use-the-reconciliation-files.md) para obtener más detalles sobre los archivos de conciliación. 
 
 
 

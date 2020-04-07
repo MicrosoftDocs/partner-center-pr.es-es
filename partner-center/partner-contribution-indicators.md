@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribución de partners | Centro de partners
 ms.topic: article
-ms.date: 03/25/2020
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Datos que muestran cómo le va a tu compañía con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations
@@ -11,16 +11,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296460"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676868"
 ---
 # <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
 
 Los indicadores de contribución de los asociados (PCI) proporcionan una medida holística del impacto de un asociado en la conducción correcta de los resultados del cliente y, por lo tanto, mayor diferenciación en el mercado cuando un asociado alcanza y mantiene la nube Business Applications competencia . Los asociados reciben crédito por las medidas clave de éxito de los clientes, como las implementaciones correctas y el aumento del uso, y se recompensan por continuar con la inversión en y escalar horizontalmente sus capacidades técnicas.
+
 
 ## <a name="scoring"></a>Puntuación
 
@@ -29,7 +30,7 @@ PCI proporciona una vista sofisticada de las capacidades técnicas de un asociad
 1. **Ingresos netos nuevos** : ingreso neto nuevo en todos los canales de ventas de productos de Microsoft Dynamics 365.
 2. **Net Customer ADDS** : clientes netos adquiridos para Dynamics 365 en todos los canales de ventas.
 3. **Consultores funcionales** : el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365. 
-4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados de Consultor funcional. Vamos a evaluar de nuevo el tiempo que se tardará en realizar la instantánea de línea de base para esta métrica. No tendrá lugar el 31 de marzo de 2020, tal y como se indicó anteriormente. Cuando se haya establecido una nueva fecha, Actualizaremos este documento, se le notificará en el centro de Partners y por correo electrónico.
+4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados de Consultor funcional.  La instantánea de línea de base para la métrica de crecimiento de Consultor funcional en PCI se realizará ahora el 1 de octubre de 2020.  
 5. **Desarrolladores** : el número de personas que tienen una certificación de asociado de desarrollador actualmente activa para Dynamics 365.
 6. **Nuevas implementaciones de gran tamaño** : número de inquilinos de producción que atraviesan el umbral de uso alto en los últimos 12 meses.
 7. **Crecimiento mensual** de usuarios activos: crecimiento en usuarios activos mensuales en todos los clientes durante los últimos 12 meses.
@@ -54,7 +55,8 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![Finance](images/pci/table_2.png)
 
-![Consultoría](images/pci/table_3.png)
+![Consultor](images/Table3.PNG) 
+
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Definiciones detalladas de métricas PCI
 
@@ -62,7 +64,9 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ![net ADDS](images/pci/netadds.png)
 
-![Consultor funcional](images/pci/funcconsult.png)
+
+![Consultores funcionales](images/pci/funcconsult.png)
+
 
 ![Crecimiento de consultores funcionales](images/pci/4_Functional_consultant_growth.png)
 
@@ -74,7 +78,7 @@ Los partners pueden conseguir los puntos máximos para una métrica determinada 
 
 ## <a name="customer-to-partner-association"></a>Asociación de cliente a partner
 
-Recibirá crédito por los ingresos netos nuevos, las adiciones de clientes netos, las nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de la métrica, solo si es el proveedor de soluciones en la nube (CSP), el asociado de notificaciones de registro (CPOR), o el socio digital del registro (DPOR) para una suscripción de pago que pertenece al inquilino del cliente.
+Recibirá crédito por los ingresos netos nuevos, los agregados de clientes netos, las nuevas implementaciones de gran tamaño y el crecimiento de usuarios activos mensuales para un cliente determinado, dentro de los límites de la definición de la métrica, solo si es el proveedor de soluciones en la nube (CSP), el asociado de notificaciones de registro (CPOR) o el socio digital del registro (DPOR
 
 Un asociado se convierte en el CPOR si se ha establecido una asociación con un cliente en el nivel de suscripción a través del incentivo de Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) o el servicio Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
 
