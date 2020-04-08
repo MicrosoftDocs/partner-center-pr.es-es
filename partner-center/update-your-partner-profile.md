@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296426"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676804"
 ---
 # <a name="verify-your-partner-profile-information"></a>Comprobación de la información del perfil de partner
 
@@ -36,7 +36,7 @@ Ahora ya puedes actualizar el domicilio legal en el Centro de partners.
 2. Selecciona **Actualizar** situado junto al domicilio legal. ""
 
 >[!Important]
->Si eres un partner de CSP, no puedes cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está ligado a tu inquilino y a los servicios, así como a la moneda en la que realizas las transacciones. Si no estás en el programa CSP, puedes cambiar el país o región asociado con tu domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de aprobación es "Autorizado". Tendrás que [crear una incidencia de soporte técnico](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0).
+>Si eres un partner de CSP, no puedes cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está ligado a tu inquilino y a los servicios, así como a la moneda en la que realizas las transacciones. Si no estás en el programa CSP, puedes cambiar el país o región asociado con tu domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de aprobación es "Autorizado". Tendrás que [crear una incidencia de soporte técnico](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Al seleccionar **Enviar**, se volverá a evaluar la identidad legal y recibirás otro correo electrónico que deberás aceptar.
 

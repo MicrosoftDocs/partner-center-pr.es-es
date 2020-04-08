@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672855"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805972"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
@@ -168,7 +168,7 @@ Usa los pasos siguientes para invitar a un nuevo cliente para que revise y acept
 
 4. Usa esta plantilla de correo electrónico para invitar al cliente a aceptar la solicitud de **relación de revendedor** y el **Contrato de cliente de Microsoft**. (Nota: En la invitación por correo electrónico, asegúrate de que el partner también incluye la dirección URL que se proporcionó automáticamente, así como las credenciales del cliente que se crearon recientemente).
 
-![Crear una relación](images/mca/createrelationship.jpg)
+![Crear una relación](images/mca/createrelationship.png)
 
 5. El cliente recibirá una invitación por correo electrónico y hará clic en la dirección URL parametrizada. 
 
