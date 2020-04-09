@@ -1,23 +1,23 @@
 ---
 title: Facturación | Centro de partners
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtén información sobre temas de facturación del Centro de partners, incluyendo información sobre los recursos de facturación, las facturas y la facturación de CSP.
+Description: Lista de temas de facturación e impuestos del Centro de partners, con información sobre recursos de facturación, facturas, facturación de CSP e impuestos.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: jasonwhowell
 ms.author: jasonh
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: high
-ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390284"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634792"
 ---
-# <a name="billing"></a>Facturación
+# <a name="billing-and-taxes"></a>Facturación e impuestos
 
 **Se aplica a**
 
@@ -33,10 +33,10 @@ ms.locfileid: "80390284"
 
 | Tema | Descripción |
 | ----- | ----------- |
-| [Información general sobre facturación](billing-basics.md) | Aspectos básicos de la facturación en el Centro de partners (incluidos los pagos, las facturas y los archivos de conciliación). |
+| [Conceptos básicos de la facturación](billing-basics.md) | Aspectos básicos de la facturación en el Centro de partners (incluidos los pagos, las facturas y los archivos de conciliación). |
 | [Tipos de facturación](billing-different-types.md) | Explicación de los distintos tipos de facturación en el Centro de partners. |
 | [Diferencias de facturación mensuales y anuales](billing-annual-monthly.md) | Explicación de las diferencias entre las frecuencias de facturación mensual y anual. |
-| [Cómo leer tu factura](read-your-bill.md) | Cómo leer y comprender la factura del Centro de partners. |
+| [Comprensión de la factura](read-your-bill.md) | Cómo leer y comprender la factura del Centro de partners. |
 | [Pruebas gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Cómo ofrecer evaluaciones gratuitas a tus clientes y cómo se facturan. |
 | [Archivo de conciliación](use-the-reconciliation-files.md) | Cómo leer y usar el archivo de conciliación para los elementos de línea. |
 | [Escenarios comunes de facturación](common-billing-scenarios.md) | Cómo comprender los escenarios comunes de facturación del Centro de partners (en cuanto a la facturación mensual y anual, así como la facturación de las compras que se realizan una vez o de forma periódica). |
