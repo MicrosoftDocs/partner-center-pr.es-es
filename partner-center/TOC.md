@@ -89,12 +89,9 @@
 ## [Reclamaciones de incentivos](claims-overview.md)
 ### [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)
 ### [Requisitos básicos para reclamaciones de incentivos](core-requirements.md)
-
-
-### [Información acerca de los pagos](incentives-unified-user-guide.md)
-
 ### [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)
-
+### [Ver tus programas y pagos de incentivos](understand-incentive-payouts.md)
+### [Crear una asociación de clientes mediante el modelo de CPOR](submit-osa-claim.md)
 
 # [Facturación e impuestos](billing.md)
 ## [Conceptos básicos de la facturación](billing-basics.md)
