@@ -1,7 +1,7 @@
 ---
 title: Cambio de PMC al Centro de partners| Centro de partners
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Infórmate de las diferencias y similitudes entre PMC y el Centro de partners con respecto a las renovaciones, la estructura de cuentas, el inicio de sesión, los roles de usuario, las competencias, etc.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340183"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123300"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Cambio de PMC al Centro de partners
 
 **Roles adecuados**
--   Administrador global
+-    Administrador global
 
 Para que sea más fácil hacer negocios con nosotros, presentamos un único sitio web (Centro de partners) que sirve como punto central de las interacciones. Verás que todo lo que hacías en Partner Membership Center (PMC) se puede realizar en el panel del Centro de partners. 
 
@@ -37,13 +37,13 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Oficina central más ubicaciones: cada una se evaluada por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Oficina central más ubicaciones: cada una se evaluada por separado. La evaluación de las competencias se realizaba en el nivel local.|Una compañía global, la cuenta global de partner (PGA), que incluye las ubicaciones, se evalúa en su conjunto. Los datos de rendimiento y cualificación se agregan en el nivel de PGA. Incluye varias vistas de perfil para programas, como el perfil de partner y el perfil de negocio para referencias y marketing. Para obtener más información, lee [la estructura de la cuenta en el Centro de partners](account-structure.md).|
 
 ## <a name="sign-in"></a>Inicie sesión
 
 |**PMC**   |**Centro de partners**|
 |----------------------|:-----------------------------|
-|Puedes usar tus credenciales de la cuenta de Microsoft (MSA) o de la cuenta personal. joe@outlook.com|Debes usar las credenciales de la cuenta profesional, (joe@joescompany.com). Para obtener más información, lee [Your company work account and Partner Center](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md) (Cuenta profesional de la compañía y Centro de partners).|
+|Puedes usar tus credenciales de la cuenta de Microsoft (MSA) o de la cuenta personal. joe@outlook.com|Debes usar las credenciales de la cuenta profesional, (joe@joescompany.com). Para obtener más información, lee [Your company work account and Partner Center](azure-active-directory-tenants-and-partner-center.md) (Cuenta profesional de la compañía y Centro de partners).|
 
 ## <a name="user-roles"></a>Roles de usuario
 
@@ -51,7 +51,7 @@ En esta tabla se presentan algunas de las diferencias entre PMC y el Centro de p
 |----------------------|:-----------------------------|
 |Muchos roles de PMC no se usan en el Centro de partners.|Al administrador que realiza el cambio al Centro de partners se le asignan automáticamente los roles de administrador de MPN, administrador de cuenta y administrador de referencias. Después, puede asignar a otros usuarios los roles de usuario.|
 |Los usuarios se administraban en el nivel de ubicación.|Los usuarios se administran en el nivel de la compañía (PGA) en lugar de en el nivel de ubicación. La excepción es el administrador de incentivos que funciona en el nivel de ubicación.|
-|   |En el Centro de partners hay dos amplios conjuntos de roles: los roles que administran el inquilino de Azure AD y los roles que administran el negocio de la compañía. Organiza los roles de forma que tenga sentido para tu compañía. Una persona puede hacerlo todo o puedes asignar a muchas personas roles y permisos independientes. Para obtener más información, lee [Asignar roles y permisos de usuarios](https://docs.microsoft.com/partner-center/permissions-overview). 
+|   |En el Centro de partners hay dos amplios conjuntos de roles: los roles que administran el inquilino de Azure AD y los roles que administran el negocio de la compañía. Organiza los roles de forma que tenga sentido para tu compañía. Una persona puede hacerlo todo o puedes asignar a muchas personas roles y permisos independientes. Para obtener más información, lee [Asignar roles y permisos de usuarios](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Cómo se tienen en cuenta las competencias y los beneficios
 
