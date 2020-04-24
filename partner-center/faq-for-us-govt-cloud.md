@@ -85,7 +85,7 @@ El contrato de cliente de Microsoft para la nube de administración pública de 
 
 *Microsoft Cloud acuerdo de distribuidor (MCDA)*
 
-El contrato de distribuidores de Microsoft Cloud (MCDA) autoriza a los distribuidores a vender a través de CSP. La versión de US Government Cloud del MCDA tiene el apéndice de US Government Cloud y el documento A después del contrato estándar de Revendedor de nube de Micosoft (MCRA).
+El contrato de distribuidores de Microsoft Cloud (MCDA) autoriza a los distribuidores a vender a través de CSP. La versión de US Government Cloud del MCDA tiene el apéndice de US Government Cloud y el documento A después del contrato estándar de Revendedor de nube de Microsoft (MCRA).
 
 Existen dos diferencias entre el MCDA para Microsoft Cloud for US Government y el MCDA estándar:
 
