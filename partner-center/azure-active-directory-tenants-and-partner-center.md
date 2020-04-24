@@ -11,10 +11,10 @@ Keywords: cuenta profesional, correo electrónico, inquilino, inquilino de Azure
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721349"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
@@ -26,7 +26,7 @@ ms.locfileid: "74721349"
 **Roles adecuados**
 
 - Administrador global
-- Administrador de administración de usuarios
+- Administrador del control de usuarios
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 

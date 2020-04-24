@@ -11,10 +11,10 @@ Keywords: Azure, Azure plan, service principal, Azure AD application
 robots: ''
 ms.localizationpriority: High
 ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75716896"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Incorporación de una aplicación de Azure AD (entidad de servicio) en el Centro de partners

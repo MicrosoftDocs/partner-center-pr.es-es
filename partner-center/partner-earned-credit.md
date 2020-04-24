@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004244"
 ---
 # <a name="partner-earned-credit---overview"></a>Créditos obtenidos del partner: introducción
@@ -21,7 +21,7 @@ ms.locfileid: "75004244"
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Administrador de facturación
 -   Agente de ventas
 
@@ -72,7 +72,7 @@ Estos servicios suponen un nivel de acceso adecuado para los partners en el ento
 >[!Note]
 >Los clientes tienen la opción de eliminar cualquier acceso que hayan proporcionado a los partners. Recuerda que los partners no deben obligar a los clientes a darles acceso si su único propósito es el de obtener crédito de Microsoft; el incumplimiento de este requisito podría hacer que el partner no sea apto para conseguir el crédito obtenido del partner.
 
-**Para obtener más información**
+**Para más información**
 
 - [Cómo se calcula y paga el crédito que obtiene el partner](partner-earned-credit-explanation.md)
 

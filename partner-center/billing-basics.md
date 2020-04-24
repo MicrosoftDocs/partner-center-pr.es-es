@@ -11,10 +11,10 @@ keywords: facturación, pagos, pedidos, cancelación, administración de pedidos
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80676814"
 ---
 # <a name="billing-overview"></a>Información general sobre la facturación

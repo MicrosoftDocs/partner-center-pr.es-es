@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, programa Proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de partners, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server Azure, suscripciones de clientes
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722538"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de partners en el programa Proveedor de soluciones en la nube
@@ -24,7 +24,7 @@ ms.locfileid: "74722538"
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador global
 - Agente de ventas
 
@@ -112,6 +112,6 @@ Para obtener información sobre cómo funciona el proceso de facturación, consu
 
 Para obtener información sobre la compra en el plan de Azure, lee [Compra del plan de Azure](purchase-azure-plan.md).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Consulta también
 
 [Información general sobre Marketplace comercial de CSP](csp-commercial-marketplace-overview.md)
