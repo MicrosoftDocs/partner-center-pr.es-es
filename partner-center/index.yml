@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+  ms.openlocfilehash: 483c63fdbae805f96236481870e9fc8e801856e3
+  ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "78240222"
+  ms.lasthandoff: 04/29/2020
+  ms.locfileid: "82255478"
 highlightedContent:
   items:
   - title: Inicia sesión para ver los anuncios más recientes
@@ -34,10 +34,10 @@ highlightedContent:
     url: csp-commercial-marketplace-overview.md
   - title: 'Partners ISV: crea y publica ofertas en Marketplace, AppSource y el canal de revendedores de CSP'
     itemType: whats-new
-    url: https://docs.microsoft.com/en-us/azure/marketplace/
-  - title: Información acerca del Centro de partners
+    url: https://docs.microsoft.com/azure/marketplace/
+  - title: Asóciate con Microsoft
     itemType: overview
-    url: partner-center-insights.md
+    url: mpn-overview.md
   - title: 'La nueva experiencia de comercio en el Centro de partners: el plan de Azure'
     itemType: whats-new
     url: azure-plan-lp.md
