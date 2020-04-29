@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: pinpoint, referencias, clientes potenciales, C2PC, perfil de la empresa, comercializar la empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722528"
 ---
 <!--
@@ -67,7 +67,7 @@ Cree perfiles para cada región en la que tenga autorización para hacer negocio
    > [!NOTE]  
    >  Mientras el Centro de partners admite varios idiomas, algunos elementos, tales como la descripción y las etiquetas de forma libre puede que tengan que incluir texto de diferentes idiomas, tal y como se indica en este tema.
 
-### <a href="" id="partner_info"></a>Información de partner
+### <a name="partner-information"></a><a href="" id="partner_info"></a>Información de partner
 
 Introduzca su empresa mediante la adición de un logotipo y una breve descripción y un vínculo a su sitio web. 
 
@@ -84,7 +84,7 @@ La descripción puede tener hasta 2500 caracteres. Sugerencias para una buena de
 -  **No haga referencia a otra empresa asociada a Microsoft por nombre**, a menos que se trate de una subsidiaria o que de alguna forma esté relacionada con su empresa, o que tenga un contrato actual con esa empresa asociada para actuar en asociación o para promoverse mutuamente con el fin de compartir las oportunidades de trabajo.
 -  **Para las regiones con varios idiomas**, considere la posibilidad de incluir texto de varios idiomas en la descripción.
 
-#### <a href="" id="linkedin"></a> Página de la empresa de LinkedIn: más formas de conectarse
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> Página de la empresa de LinkedIn: más formas de conectarse
 
 Agregue la página de la empresa de LinkedIn para reforzar las conexiones con los clientes potenciales. 
 
@@ -107,7 +107,7 @@ Otras etiquetas que se usan en la búsqueda:
 -  **Etiquetas de competencia**: son una designación merecida que presenta las capacidades de tu empresa.
 -  **Etiquetas de aprobación**: se obtienen cuando Microsoft o los clientes que han trabajado con usted avalan su trabajo.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir a Microsoft avalar mis áreas de experiencia
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Permitir a Microsoft avalar mis áreas de experiencia
 
 Se recomienda que deje marcado este ajuste. 
 
@@ -117,13 +117,13 @@ Sin embargo, si proporcionas servicios para productos que prefieres que no apare
 
 ### <a name="customer-preferences"></a>Preferencias del cliente
 
-#### <a href="" id="#target_size"></a>Tamaño del destino
+#### <a name="target-size"></a><a href="" id="#target_size"></a>Tamaño del destino
 
 Puedes optar por no recibir referencias de las empresas que no cumplan con el tamaño del cliente de destino.
 
 Si es así, dispondrás de más tiempo para los negocios que corresponden a aquellos con los que prefieres trabajar.
 
-#### <a href="" id="#locations"></a> Ubicaciones
+#### <a name="locations"></a><a href="" id="#locations"></a> Ubicaciones
 
 Puede agregar hasta cinco ubicaciones principales de la organización por región. Estas ubicaciones aparecen cuando los clientes buscan partners por proximidad.
 

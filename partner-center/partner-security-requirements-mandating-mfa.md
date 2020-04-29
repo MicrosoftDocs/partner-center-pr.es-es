@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529786"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462210"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requisito de Multi-Factor Authentication (MFA) para el inquilino de partner
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529786"
 La intención de esta característica es ayudar a los partners a proteger su acceso a los recursos de clientes frente al riesgo de las credenciales.
 Los partners deben aplicar la autenticación multifactor (MFA) para todas las cuentas de usuario de su inquilino de partner, incluido el usuario invitado. Con esta característica, estos roles de partner deberán completar la verificación MFA para las siguientes áreas:
 
-- [Panel del Centro de partners](#partner-center-dashboard) (en el segundo trimestre de 2020)
-- [API del Centro de partners](#partner-center-api) (en el segundo trimestre de 2020)
+- [Panel del Centro de partners](#partner-center-dashboard) (a partir del 1 de mayo de 2020)
+- [API del Centro de partners](#partner-center-api) (a partir del 1 de mayo de 2020)
 - [Administración delegada de partner](#partner-delegated-administration)
 
 Las medidas de seguridad y privacidad continuas y en constante crecimiento son una de nuestras principales prioridades, y seguimos ayudando a los partners a proteger a sus clientes e inquilinos. Todos los partners que participan en el programa Proveedor de soluciones en la nube (CSP), los proveedores de panel de control (CPV) y los asesores deben implementar los [requisitos de seguridad para partners](partner-security-requirements.md) para mantener el cumplimiento.
 
 Microsoft ha iniciado la activación de medidas de seguridad adicionales para los inquilinos de partners. Esta activación de medidas de seguridad puede ayudar a los partners a proteger a sus inquilinos y a sus clientes al exigir la verificación mediante autenticación multifactor (MFA) a fin de evitar un acceso no autorizado.
 
-Hemos completado correctamente la activación de las funcionalidades de administración delegada de partners para todos los inquilinos de partners. Para contribuir a proteger aún más a los partners y clientes, a partir del segundo trimestre del año natural 2020, iniciaremos la activación para las transacciones del Centro de partners en CSP a fin de ayudar a los partners a proteger sus negocios y a sus clientes frente a incidentes relacionados con el robo de identidad.
+Hemos completado correctamente la activación de las funcionalidades de administración delegada de partners para todos los inquilinos de partners. Para contribuir a proteger aún más a los partners y clientes, a partir del 1 de mayo de 2020, iniciaremos la activación para las transacciones del Centro de partners en CSP a fin de ayudar a los partners a proteger sus negocios y a sus clientes frente a incidentes relacionados con el robo de identidad.
 
 En esta documentación se proporciona a los partners una experiencia detallada e instrucciones sobre la activación de las medidas de seguridad.
 
