@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: suscripciones, Marketplace, Marketplace comercial, terceros, ISV, ofertas de SaaS, programa de proveedor de soluciones en la nube, programa CSP, asociados de CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114947"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873189"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Descubra ofertas y precios en Marketplace comercial
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
@@ -78,9 +78,9 @@ Siga estos pasos para obtener los detalles de precios más recientes asociados a
 
 1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners y seleccione **CSP** en el menú de navegación izquierdo.
 
-2. Seleccione **vender**, seguido de **Marketplace**. Aparecerá una lista de ofertas de Marketplace.
+2. Seleccione **vender**, seguido de **precios y ofertas**.
 
-3. Desplácese hacia abajo hasta la sección **Marketplace** (bajo **precios del plan de Azure**) y seleccione **Exportar lista de precios** en la esquina superior derecha. Esto genera una hoja de cálculo con los datos de precios más recientes para SaaS, ofertas basadas en licencias disponibles en los publicadores de ISV. Algunos precios de las aplicaciones de Azure también pueden aparecer aquí. Esta información se actualiza diariamente, por lo que se puede comprobar el precio actual con la frecuencia que se elija.
+3. Desplácese hacia abajo hasta la sección **Marketplace** , seleccione una ubicación y descargue los **precios de Marketplace**. Esto genera una hoja de cálculo con los datos de precios más recientes para SaaS, ofertas basadas en licencias disponibles en los publicadores de ISV. Algunos precios de las aplicaciones de Azure también pueden aparecer aquí. Esta información se actualiza diariamente, por lo que se puede comprobar el precio actual con la frecuencia que se elija.
 
 4. Si un producto ISV incluye un período de evaluación gratuita, la hoja de cálculo mostrará dos filas para ese producto:
 

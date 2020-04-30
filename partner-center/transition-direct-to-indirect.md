@@ -1,7 +1,7 @@
 ---
 title: Transición desde el proveedor de soluciones en la nube (CSP) directo de Bill Partner al revendedor indirecto de CSP | Centro de Partners
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Comprenda cómo realizará la transición de Direct Bill Partner a revendedor indirecto
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, transición, revendedor indirecto
-ms.openlocfilehash: 44823f35d498b8c3d90fcc335682d453f53af977
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112579"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205693"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -27,7 +27,7 @@ ms.locfileid: "80112579"
 
 Podrá inscribirse en el programa de revendedor indirecto con el inquilino de factura directo existente.
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Primeros pasos
 
 1. Asegúrese de que el perfil de socio comercial en el centro de Partners y el ID. de MPN están actualizados.
 
@@ -39,15 +39,15 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 
     ![Inscribirse ahora](images/direct/direct2a.png)
 
-4. Seleccione inscribir ahora. Su empresa de revendedores indirectos usará el mismo inquilino de AAD que usa para su negocio directo.
+4. Selecciona Inscribirse ahora. Su empresa de revendedores indirectos usará el mismo inquilino de AAD que usa para su negocio directo.
 
     > [!NOTE]
-    > La información que el usuario tenga en cuenta aunque skimmingInitially, esta nueva capacidad de transición estará disponible para los asociados con las fechas de aniversario de septiembre a diciembre. Si no tiene una fecha de aniversario entre septiembre y diciembre, no verá la funcionalidad en este momento. Los asociados con fechas de aniversario posteriores al 2018 de diciembre recibirán una notificación más adelante una vez que la característica esté habilitada para los asociados.
+    > En principio, esta nueva funcionalidad de transición estará disponible para los partners con fechas de aniversario entre septiembre y diciembre. Si no tiene una fecha de aniversario entre septiembre y diciembre, no verá la funcionalidad en este momento. Los partners con fechas aniversario posteriores a diciembre de 2018 recibirán notificación una vez que la función esté habilitada para estos partners.
 
 5. Cuando se apruebe la inscripción, vuelva a iniciar sesión en el centro de Partners.
 
     > [!NOTE]
-    > Información que el usuario debe tener en cuenta aunque la aprobación de skimmingWhile sea normalmente inmediata, puede tardar hasta cinco días laborables. Una vez aprobada, recibirá una notificación a la dirección de correo electrónico que especificó en contacto principal en el formulario de inscripción. También puede comprobar el estado de inscripción en **configuración** > **configuración de socio** > **Perfil de socio comercial** > información del programa.
+    > Aunque la aprobación es normalmente inmediata, puede tardar hasta cinco días laborables. Una vez aprobada, recibirá una notificación a la dirección de correo electrónico que especificó en contacto principal en el formulario de inscripción. También puede comprobar el estado de inscripción en **configuración** > **asociado configuración** > **Perfil de socio** > información del programa.
 
 6. En la página de **información general** , verá el contrato de revendedor indirecto. Selecciona **Aceptar y continuar**. Esto habilita las capacidades de revendedor indirectos.
 
@@ -56,7 +56,7 @@ Cuando haya aceptado el contrato de revendedor indirecto, tenga en cuenta que el
 ![Acuerdo de revendedor indirecto](images/direct/direct3.png)
 
 > [!IMPORTANT]
-> Información esencial necesaria para que el usuario successOnce se inscriba como revendedor indirecto mediante la nueva funcionalidad, no hay ninguna opción para revertir a un inquilino de solo facturación directo. Asegúrese de que evalúa completamente sus necesidades empresariales antes de inscribirse como revendedor indirecto.
+> Una vez que se inscribe como revendedor indirecto mediante la nueva funcionalidad, no hay ninguna opción para revertir a un inquilino de solo facturación directo. Asegúrate de evaluar completamente evaluar las necesidades de tu empresa antes de inscribirte como revendedor indirecto.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Mientras realiza la transición de directo a revendedor indirecto
 
@@ -96,7 +96,7 @@ Para crear una invitación de revendedor indirecto:
 
 3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
-4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. Después, seleccione **listo**.
+4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. A continuación, seleccione **Done** (Listo).
 
 5. Una vez que el cliente te autorice a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
 6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre. 
@@ -164,7 +164,7 @@ Puede usar la característica de extensión de relación reseller para establece
 - Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página relaciones de socios comerciales del [centro de administración de M365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Para evitar confusiones y malentendidos, tiene la obligación contractual del acuerdo de socio comercial de informar y obtener consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un existente. cliente de factura directa y proveedor indirecto.
+    > Para evitar confusiones y malentendidos, tiene la obligación contractual del acuerdo de socio comercial de informar y obtener el consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un cliente de facturación directo existente y un proveedor indirecto.
 
 Para usar esta característica en un inquilino de cliente existente:
 
@@ -196,7 +196,7 @@ El proveedor indirecto no podrá enviar pedidos para los clientes de factura dir
 
 3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
-4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. Después, seleccione **listo**.
+4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. A continuación, seleccione **Done** (Listo).
 
 5. Una vez que el cliente te autorice a ti y tu proveedor como revendedores de registro, tendrás permisos de administrador para administrar sus suscripciones, licencias y usuarios en su nombre y tu proveedor indirecto podrá enviar pedidos en su nombre.
 
@@ -232,7 +232,7 @@ Antes de usar la característica, tenga en cuenta lo siguiente:
 
 - El cliente ha [aceptado el contrato de cliente de Microsoft a través del proveedor indirecto](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to"></a>Procedimientos
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Transición del estado de revendedor indirecto
 
 La característica es un proceso de 4 pasos, donde:
 
@@ -244,7 +244,24 @@ La característica es un proceso de 4 pasos, donde:
 
 - El asociado de transición comprueba que se ha completado la solicitud de transferencia.
 
+
+
+
+### <a name="transitioning-partner---create-transfer-request"></a>Transición de asociado: crear solicitud de transferencia
+
+> [!NOTE]
+> También puede usar el [SDK/API del centro de Partners](https://docs.microsoft.com/partner-center/develop/manage-customers) para transferir las suscripciones existentes a su proveedor indirecto.
+>
+> - [Obtener la idoneidad de la transferencia de suscripciones de un cliente](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Crear una transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
+> - [Retirar la transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
+> - [Aceptar una transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
+> - [Rechazar la transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
+> - [Obtener las transferencias de un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Obtener detalles de la transferencia por identificador](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+
 **Transición de asociado: crear solicitud de transferencia**
+
 
 Para crear una solicitud de transferencia como el asociado de transición:
 
@@ -274,7 +291,7 @@ Para crear una solicitud de transferencia como el asociado de transición:
 
 10. Informe a su proveedor indirecto de que ha creado una solicitud de transferencia de suscripción.
 
-**Proveedor indirecto: aceptación de la solicitud de transferencia**
+### <a name="indirect-provider---accept-transfer-request"></a>Proveedor indirecto: aceptación de la solicitud de transferencia
 
 Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
@@ -298,13 +315,13 @@ Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
 8. Espere a que se complete la solicitud de transferencia.
 
-**Se completó la solicitud de transferencia de comprobación de proveedor indirecto**
+### <a name="indirect-provider-verify-transfer-request-is-complete"></a>Se completó la solicitud de transferencia de comprobación de proveedor indirecto
 
 1. Una vez finalizada correctamente la solicitud de transferencia, compruebe que puede ver que las suscripciones aparecen en **suscripciones**.
 
 2. Informe al asociado de transición.
 
-**Asociado de transición: comprobar que la solicitud de transferencia se ha completado** 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Asociado de transición: comprobar que la solicitud de transferencia se ha completado 
 
 El asociado de transición debe hacer lo siguiente:
 
@@ -346,8 +363,8 @@ Una vez que se haya inscrito correctamente como revendedor indirecto en el inqui
 
 También puede inscribirse para programas de incentivos directos de facturación con el mismo inquilino de asociados. Debe administrar los programas por separado.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
-- [Información adicional sobre cómo convertirse en un revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [Información adicional sobre cómo convertirse en revendedor indirecto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Nuevos requisitos de asociados directos del CSP](direct-partner-new-requirements.md)
 - [Funcionalidades de facturación directa restringidas](restricted-direct-bill-capabilities.md)
