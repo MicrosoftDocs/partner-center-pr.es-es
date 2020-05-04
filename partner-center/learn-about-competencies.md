@@ -1,7 +1,7 @@
 ---
 title: Requisitos de competencias de Microsoft para las suscripciones Gold y Silver | Centro de partners
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226221"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120386"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
 
@@ -31,6 +31,16 @@ Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más 
 - Como miembro partner Gold, también puede agregar especializaciones avanzadas a su cartera.
 
 La obtención de las competencias de la **suscripción Silver** o la **suscripción Gold** también ofrece excelentes ofertas y programas de [Comercialización](mpn-learn-about-go-to-market-benefits.md) para ayudarte a expandir y aumentar tu negocio.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Comprobación del estado al obtener una competencia
+
+Puedes ver los requisitos y lo que ha logrado tu empresa en el área de competencias del panel del Centro de partners.
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
+
+2. En la sección MPN del menú del Centro de partners, selecciona **Competencias**. 
+
+3. Selecciona el nombre de la competencia y la opción de competencia específica para ver los detalles. Aquí puedes ver lo que has completado, así como los requisitos completos y vínculos a exámenes específicos y fechas de validación de exámenes retirados.
 
 ## <a name="competency-areas"></a>Áreas de competencia
 
