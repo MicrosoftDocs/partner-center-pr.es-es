@@ -119,6 +119,7 @@
 ## [Consultar la lista de clientes](see-your-customer-list.md)
 ## [Ver los registros de actividades de los clientes](activity-logs.md)
 ## [Actualizar la información de la cuenta de cliente](update-customer-account-info.md)
+## [Conceder permiso a los clientes para que compren sus propios servicios](give-customers-permission.md)
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
