@@ -6,21 +6,21 @@ description: Obtenga información acerca de cómo establecer o quitar los presup
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390654"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797893"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Establecer un presupuesto de gastos de Azure para tus clientes
 
-Dirigido a:
+Se aplica a:
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 Puede [establecer un presupuesto de gasto de Azure mensual para sus clientes en el](#set-azure-spending-budget) centro de Partners. Esto ayuda a los clientes a administrar sus gastos de Azure. Esta opción permite comparar el gasto de Azure de los clientes con el presupuesto durante el mes. También ayuda a los clientes a presupuestar sus gastos de Azure, por lo que su factura mensual no es más alta de lo previsto.
@@ -55,7 +55,7 @@ Puede *establecer un presupuesto de gasto de Azure mensual* para varios clientes
 
 También puede *establecer un presupuesto para un cliente individual* en su configuración de suscripción:
 
-1. Inicie sesión en el panel del centro de Partners.
+1. Inicia sesión en el panel del Centro de partners.
 2. En el menú de la izquierda, en **CSP**, elija **clientes**.
 3. En la página **clientes** , seleccione el nombre de la **empresa**del cliente.
 4. En la página **suscripciones** del cliente, en **suscripción basada**en el uso, elija **cambiar presupuesto**.
@@ -83,7 +83,7 @@ Puede *realizar un seguimiento de los gastos mensuales y del gasto actual de Azu
 
 Puede *activar las notificaciones por correo electrónico* para cuando el gasto mensual del cliente esté cerca del límite de presupuesto. Al activar esta opción, se le notificará cuando los clientes usen un 80% o más de su presupuesto mensual. Esta opción le ayuda a estar atento a la factura de Azure. Para configurar notificaciones por correo electrónico:
 
-1. Inicia sesión en el Centro de partners.
+1. Inicie sesión en el Centro de partners.
 2. En el menú de la izquierda, en **CSP**, elija **gasto de Azure**.
 3. En la **Página gasto de Azure** , en **notificaciones por correo electrónico**, active la opción **obtener correos electrónicos** en **activado**.
 4. Elija **cambiar dirección de correo electrónico** para ver la dirección de correo electrónico para las notificaciones.
@@ -93,7 +93,7 @@ Puede *activar las notificaciones por correo electrónico* para cuando el gasto 
 
 Puede *ver los costos calculados (y el uso estimado) por servicio para las suscripciones basadas en el uso*:
 
-1. Inicia sesión en el Centro de partners.
+1. Inicie sesión en el Centro de partners.
 2. En el menú de la izquierda, en **CSP**, elija **clientes**.
 3. En la página **clientes** , seleccione el nombre de la **empresa**del cliente.
 4. En la página **suscripciones** del cliente, en **suscripciones basadas**en el uso, seleccione el nombre de la **suscripción**.

@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 03/26/2020
 description: Obtenga información sobre los escenarios de facturación comunes en el centro de partners para transacciones SaaS basadas en licencias.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
-ms.openlocfilehash: b509278166d858c64cfab6c98a27c266f9bc2c55
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390104"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798523"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Escenarios de facturación para transacciones SaaS basadas en licencias
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Agente del departamento de soporte técnico
 - Agente de ventas
@@ -37,8 +37,8 @@ Los archivos de conciliación incluirán los siguientes cargos:
 
 | Fecha de compra | Fecha de inicio de la carga | Fecha de finalización del cargo | Precio unitario | Cantidad de unidad | Importe total | Tipo de cargo | Descripción de la suscripción |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | Nuevo | Prueba gratuita |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 USD | 1 | 2 USD | Renovar | Suscripción de pago |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 1 | 0 $ | Nuevo | Evaluación gratuita |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 $ | 1 | 2 $ | Renovación | Suscripción de pago |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Cancelar una suscripción de SaaS de evaluación gratuita
 
@@ -51,8 +51,8 @@ El archivo de conciliación incluirá los siguientes cargos:
 
 | Fecha de compra | Fecha de inicio de la carga | Fecha de finalización del cargo | Precio unitario | Cantidad de unidad | Importe total | Tipo de cargo | Descripción de la suscripción |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Nuevo | Prueba gratuita |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Cancelar | Prueba gratuita |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Nuevo | Evaluación gratuita |
+| 10/06/2019 | 10/06/2019 | 07/09/2019 | 0 $ | 11 | 0 $ | Cancelar | Evaluación gratuita |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convertir la suscripción de SaaS de medidor personalizado en otra SKU
 
@@ -64,9 +64,9 @@ El archivo de conciliación incluirá los siguientes cargos:
 
 | Fecha de compra | SKU | Fecha de inicio de la carga | Fecha de finalización del cargo | Precio unitario | Cantidad de unidad | Importe total | Tipo de cargo | Descripción de la suscripción |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Plata | 06/10/2019 | 06/10/2019 | 20 USD | 1 | 20 USD | Nuevo | Suscripción SaaS de medidor personalizado |
-| 06/10/2019 | Plata | 06/10/2019 | 06/10/2019 | 20 USD | 1 | -$20 | Convertir | Renovación prorrateada para la suscripción SaaS de medidor personalizado |
-| 06/10/2019 | Bronce | 06/10/2019 | 06/10/2019 | 10 USD | 1 | 10 USD | Convertir | Suscripción SaaS de medidor personalizado |
+| 10/06/2019 | Plata | 10/06/2019 | 10/06/2019 | 20 $ | 1 | 20 $ | Nuevo | Suscripción SaaS de medidor personalizado |
+| 10/06/2019 | Plata | 10/06/2019 | 10/06/2019 | 20 $ | 1 | -$20 | Convert | Renovación prorrateada para la suscripción SaaS de medidor personalizado |
+| 10/06/2019 | Bronce | 10/06/2019 | 10/06/2019 | 10 $ | 1 | 10 $ | Convert | Suscripción SaaS de medidor personalizado |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Compra y cancelación de una suscripción de SaaS de Customer meter en la misma fecha
 
@@ -76,5 +76,5 @@ En este escenario, adquirió una suscripción de SaaS de medidor personalizado e
 
 | Fecha de compra | SKU | Fecha de inicio de la carga | Fecha de finalización del cargo | Precio unitario | Cantidad de unidad | Importe total | Tipo de cargo | Descripción de la suscripción |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronce | 06/10/2019 | 06/10/2019 | 10 USD | 1 | 10 USD | Nuevo | Suscripción SaaS de medidor personalizado |
-| 06/10/2019 | Bronce | 06/10/2019 | 06/10/2019 | 10 USD | 1 | -$10 | CancelImmediate | Suscripción SaaS de medidor personalizado |
+| 10/06/2019 | Bronce | 10/06/2019 | 10/06/2019 | 10 $ | 1 | 10 $ | Nuevo | Suscripción SaaS de medidor personalizado |
+| 10/06/2019 | Bronce | 10/06/2019 | 10/06/2019 | 10 $ | 1 | -$10 | CancelImmediate | Suscripción SaaS de medidor personalizado |

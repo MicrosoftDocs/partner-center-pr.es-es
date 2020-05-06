@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo comprobar el estado del servicio de un cliente cuando experimentan un problema con un servicio.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Estado, estado del servicio, problemas de servicio
 ms.localizationpriority: medium
-ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 99901e357acc73d4a57af710d011fdc2b8621d2f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390214"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798563"
 ---
-# <a name="check-service-health"></a>Comprobar el estado del servicio
+# <a name="check-service-health"></a>Comprobación del estado del servicio
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador global
 - Agente del departamento de soporte técnico
 - Agente de ventas
@@ -36,7 +36,7 @@ Una de las primeras cosas que puedes hacer si un cliente está experimentando pr
 
 1.  En el menú del **centro de Partners** , seleccione **Estado del servicio**. 
 
-2.  Podrás ver mostrados todos los servicios, junto con indicaciones si alguno no estuviera en buen estado. 
+2.  Verá todos los servicios que se muestran, junto con indicaciones si alguno de ellos no está en buen estado. 
 
 Durante una interrupción del servicio, Microsoft proporciona actualizaciones periódicas mientras trabaja para solucionar el problema. La mejor manera de ver estas actualizaciones es desde el **centro de notificaciones** del centro de Partners. Estas notificaciones también se muestran en el portal de Microsoft Azure o en el Centro de administración de Office 395, según corresponda.
 

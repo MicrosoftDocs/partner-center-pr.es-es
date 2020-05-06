@@ -6,35 +6,35 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones. Esto incluye los pasos para migrar las cuentas de cliente y las suscripciones de cliente.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: jasonwhowell
-ms.author: jasonh
-keywords: migrar clientes, aprovisionamiento, cuenta de inquilino, consolidar inquilinos
+author: LauraBrenner
+ms.author: labrenne
+keywords: migración de clientes, aprovisionamiento, cuentas de inquilinos, consolidación de inquilinos
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390974"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798453"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
 
 **Se aplica a**
 
--  Centro de asociados
+-  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
-\[parte de la información está relacionada con el producto publicado previamente que puede modificarse sustancialmente antes de que se publique comercialmente. Microsoft no otorga ninguna garantía, ni expresa ni implícita, con respecto a la información que se proporciona aquí.\]
+\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no proporciona ninguna garantía, expresa o implícita, con respecto a la información proporcionada aquí.\]
 
 Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
-**Nota**: Debes tener en cuenta todas las suscripciones y recuentos de puestos para tus clientes aprovisionados desde las cuentas de transición. Se te volverá a aprovisionar esas mismas suscripciones exactas con la misma cantidad de puestos en la nueva cuenta de Central CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado. Los partners eligen si consolidar sus inquilinos. Una vez completada la consolidación, los partners no pueden volver a su estado anterior. Ten en cuenta que es posible que también sean necesarias ciertas acciones por parte del cliente.
+**Nota**: Debes tener en cuenta todas las suscripciones y recuentos de puestos para tus clientes aprovisionados desde las cuentas de transición. Volverá a aprovisionar las mismas suscripciones exactas con los mismos recuentos de puestos en la nueva cuenta central de CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado. Los partners eligen si consolidar sus inquilinos. Una vez completada la consolidación, los partners no pueden volver a su estado anterior. Tenga en cuenta que la acción del cliente también puede ser necesaria.
 
 
 
@@ -69,13 +69,13 @@ Los clientes aparecerán en la lista de clientes del asociado después de haber 
 
 3.  Abre el nombre de la compañía del cliente que deseas migrar.
 
-4.  Haz clic en **Agregar suscripción**.
+4.  Haga clic en **Agregar suscripción**.
 
 5.  Agrega las suscripciones y el número de puestos correctos desde el catálogo. Verifica los datos con la información proporcionada en las cuentas de partner de **Transición desde**.
 
 ![lista de clientes](images/regionalcustomer2.png)
 
-6.  Haz clic en **Enviar**.
+6.  Haga clic en **enviar.**
 
 Ahora los servicios se proporcionan al cliente desde la cuenta de partner de **Transición a**.
 

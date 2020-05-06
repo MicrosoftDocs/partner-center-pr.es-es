@@ -5,16 +5,16 @@ ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Únete a Microsoft Partner Network (MPN) y administra los beneficios de suscripción que te ayudarán a construir y hacer crecer tu negocio.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN, beneficios de suscripción, pertenencia, suscripción
 ms.localizationpriority: high
-ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 0c8c366ee599d2f949c6c3107c870bc11c221381
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390894"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798883"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Administrar los beneficios de suscripción a Microsoft Partner Network
 

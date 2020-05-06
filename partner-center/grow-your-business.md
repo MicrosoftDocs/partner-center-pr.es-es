@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los recursos para el crecimiento de su negocio de asociados de Microsoft. Esto incluye cómo obtener clientes potenciales de ventas (referencias) de Microsoft.
 keywords: referrals, respond to referrals, leads, sales leads, marketing profile, business profile, grow your business, business opportunities, competencies, silver membership, gold membership, trial offers, market expansion, national clouds
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d8a1b607066f37ed7fb8e37f719a1b1db6a7208
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389604"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798043"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Hacer crecer tu negocio de partner de Microsoft 
 

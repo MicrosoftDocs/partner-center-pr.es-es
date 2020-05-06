@@ -6,22 +6,22 @@ description: Obtenga información sobre las responsabilidades fiscales de su reg
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390634"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797703"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Impuestos y exenciones fiscales
 
-Dirigido a:
+Se aplica a:
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 El programa proveedor de soluciones en la nube (CSP) es un canal de ventas centrado en la reventa de productos de asociados. Como resultado, Microsoft no siempre necesita cobrar impuestos sobre las facturas de los asociados. Las reglas varían según el país o la región. Puede revisar los [detalles específicos del país y de la región para las exenciones fiscales](#country-and-region-tax-details).
@@ -44,7 +44,7 @@ En el caso de una exención de archivos PST de BC, se considera una exención de
 
 ### <a name="european-union"></a>Unión Europea
 
-En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe aceptarse como válido.
+En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe estar aceptado como válido.
 
 Microsoft no admite créditos ni refacturar. Antes de vender las suscripciones, debe [registrar el número de identificación de IVA en el](organization-tax-info.md) centro de Partners.
 
@@ -86,8 +86,8 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 1. En el menú Panel, en **soporte técnico**, elija **solicitudes de soporte técnico de asociados**.
 2. En la página **solicitud de socio comercial** , elija **nueva solicitud**. (También puede ver las solicitudes de soporte abierto y cerrado más adelante en esta página).
 3. En el paso **aspectos básicos** , en **CSP-facturación y pagos**, elija **seleccionar un tipo de problema** y seleccione **solicitud de exención fiscal**.
-4. En el paso de **soluciones** , en **¿necesita más ayuda?** , elija **sí**.
-5. En el paso **detalles** , rellene el formulario **detalles del problema** . Asegúrese de lo siguiente:
+4. En el paso de **soluciones** , en **¿necesita más ayuda?**, elija **sí**.
+5. En el paso **detalles** , rellene el formulario **detalles del problema** . Asegúrese de:
 
     - Rellene todos los campos obligatorios.
     - Incluya el identificador de **Microsoft** y el ID. de **MPN** en el campo de **detalles** .
@@ -95,7 +95,7 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 
 6. Elija **submit (enviar** ) para enviar la solicitud de soporte técnico. Microsoft le enviará un correo electrónico para obtener más información.
 
-## <a name="support"></a>Soporte
+## <a name="support"></a>Soporte técnico
 
 Para otras preguntas sobre exenciones fiscales y reembolsos, solicite soporte técnico en el centro de Partners. Deje pasar dos semanas para que Microsoft se ponga en contacto con usted y resuelva el problema.
 

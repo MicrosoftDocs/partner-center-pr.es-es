@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de clientes y otras actividades de administración de asociados relacionadas con el cliente.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390384"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798663"
 ---
 # <a name="view-customer-activity-logs"></a>Ver los registros de actividades de los clientes
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 - Partners del programa Proveedor de soluciones en la nube
 
@@ -29,8 +29,8 @@ ms.locfileid: "80390384"
 
 - Administrador global
 - Administrador de facturación
-- Administrador de administración de usuarios
-- Agente de administración
+- Administrador del control de usuarios
+- Agente de administrador
 - Agente de ventas
 - Agente del departamento de soporte técnico
 

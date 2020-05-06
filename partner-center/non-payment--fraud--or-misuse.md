@@ -6,34 +6,34 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es importante que conozca los distintos tipos de riesgo implicados en las transacciones en línea y los procedimientos recomendados para administrar y mitigar estos riesgos.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: fraude, uso incorrecto, uso aceptable, directiva de uso aceptable, impago, el cliente no pagará la factura, riesgo en línea, robo de servicio, uso incorrecto de servicio, suspender una suscripción,
-author: jasonwhowell
-ms.author: jasonh
+keywords: fraude, uso indebido, uso aceptable, Directiva de uso aceptable, no pago, el cliente no pagará la factura, el riesgo en línea, el robo del servicio, el abuso de servicio, la suspensión de una suscripción,
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390814"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798803"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el centro de Partners
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el Centro de partners
 
-Dirigido a:
+Se aplica a:
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Administrador de facturación
 
-Eres el responsable financiero por las compras fraudulentas que hagan tus clientes o el impago de un cliente por los servicios comprados. Por lo tanto, *se recomienda encarecidamente que ponga en marcha la prevención de fraudes y los controles de mitigación de riesgos de detección*.
+Usted es responsable financieramente de las compras fraudulentas por parte de los clientes y/o el no pago de los servicios adquiridos. Por lo tanto, *se recomienda encarecidamente que ponga en marcha la prevención de fraudes y los controles de mitigación de riesgos de detección*.
 
-Para evitar o hacer frente a actividades fraudulentas o uso incorrecto, es importante comprender los posibles riesgos y desarrollar directivas y prácticas que pueden reducir tu exposición.
+Para evitar o tratar la actividad fraudulenta o el uso indebido, es importante comprender los posibles riesgos y desarrollar directivas y prácticas que puedan reducir su exposición.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Aplicación de la Directiva de uso aceptable de Microsoft
 
@@ -47,10 +47,10 @@ El **abuso de riesgos del servicio** significa que los clientes que usan servici
 
 Algunos ejemplos de estas infracciones de la Directiva de uso aceptable de Microsoft son:
 
-- Correo masivo
+- Correo basura
 - Piratería
 - Ataques por denegación de servicio distribuido (DDoS)
-- Minería de bitcoins
+- Minería de Bitcoin
 - Distribución de malware
 - Reventa de suscripciones pirateadas
 
@@ -63,7 +63,7 @@ El **robo de riesgos de servicio** implica a los clientes que no tienen intenci�
 Algunos ejemplos de estos riesgos de transacciones en línea pueden ser:
 
 - Transacciones que no se producen en la persona ("la tarjeta de crédito no está presente")
-- Identidades falsas
+- Identidades no representadas
 - Servicios aprovisionados y usados antes de recibir el pago inicial
 - Mercados emergentes o regiones de alto riesgo para fraude en línea
 - Automatización de la creación y compra de cuentas por actores no válidos
@@ -101,4 +101,4 @@ Las sugerencias para administrar la compra posterior a la facturación de client
 - No acepte instrumentos de pago de alto riesgo (como tarjetas de prepago o tarjetas de valor almacenado).
 - Supervise los pagos de clientes y los clientes de cuentas de vencimiento. Aplique de forma agresiva procesos normalizados de estiba para los pagos o la no pago.
 
-Para obtener más estrategias detalladas para mitigar los riesgos en línea, consulta la [Guía de administración de riesgos en las transacciones en línea.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Para obtener estrategias más detalladas para mitigar los riesgos en línea, consulte la [Guía de administración de riesgos de transacciones en línea.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)

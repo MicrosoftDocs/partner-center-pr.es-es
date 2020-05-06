@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: Obtenga información sobre las diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390314"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798603"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Diferencias de facturación mensuales y anuales
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 - Administrador de incentivos
@@ -37,7 +37,7 @@ En este tema se explican las diferencias entre la **facturación mensual** y la 
 
 La mayoría de las suscripciones basadas en licencia tienen la opción de facturación mensual o anual. Las suscripciones basadas en uso solo tienen la opción de facturación mensual.
 
-La facturación anual y mensual son **por suscripción**,  ***no* por licencia**.
+La facturación anual y mensual son **por suscripción**, ** *no* por licencia**.
 
 ### <a name="find-subscription-applicability"></a>Buscar aplicabilidad de suscripción
 
@@ -49,7 +49,7 @@ Todos los asociados y tipos de socios comerciales pueden elegir la facturación 
 
 ### <a name="applicable-markets"></a>Mercados aplicables
 
-La facturación mensual y anual (para las ofertas correspondientes) están disponibles en todos los mercados en los que el programa CSP está disponible actualmente.
+La facturación mensual y anual (para las ofertas correspondientes) está disponible en todos los mercados en los que el programa CSP está disponible actualmente.
 
 ## <a name="change-billing-frequency"></a>Cambio de la frecuencia de facturación
 
@@ -76,13 +76,13 @@ La facturación anual tiene las siguientes ventajas:
 
 ### <a name="configure-annual-billing"></a>Configuración de la facturación anual
 
-Si tiene previsto cambiar a la facturación anual del centro de Partners, asegúrese de considerar cómo se verá afectado el movimiento de ventas. Debe informar a su equipo y actualizar los procesos internos según sea necesario. También debe revisar los cambios en la factura y el archivo de conciliación basado en licencias. 
+Si tiene previsto cambiar a la facturación anual del centro de Partners, asegúrese de considerar cómo se verá afectado el movimiento de ventas. Informe al equipo y actualice los procesos internos según sea necesario. También debe revisar los cambios en la factura y el archivo de conciliación basado en licencias. 
 
-También tendrá que [actualizar las API para la facturación anual](#required-api-changes).
+También necesitará [actualizar las API para la facturación anual](#required-api-changes).
 
 #### <a name="required-api-changes"></a>Cambios necesarios de la API
 
-Para sacar partido de la facturación anual hay algunos cambios necesarios en las API.
+Para poder aprovechar la facturación anual, deberá realizar algunos cambios en las API.
 
 - [Propiedad order. BillingCycle](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
 - [Crear un pedido](https://docs.microsoft.com/partner-center/develop/create-an-order)
@@ -91,7 +91,7 @@ Para obtener más información sobre las API del centro de Partners, consulte to
 
 ## <a name="placing-orders"></a>Realización de pedidos
 
-El tipo de frecuencia de facturación, incluida la opción de facturación anual, se asigna a la **oferta** como un atributo. No hay una oferta única específicamente para pedidos con facturación anual. Sin embargo, puedes cambiar el nombre de una oferta con un nombre más descriptivo de cliente para permitir la diferenciación.
+El tipo de frecuencia de facturación, incluida la facturación anual, se asigna a la **oferta** como un atributo. No hay una oferta única para pedidos con facturación anual. Sin embargo, puede cambiar el nombre de una oferta con un nombre más descriptivo para diferenciar fácilmente.
 
 ### <a name="select-annual-billing"></a>Seleccionar facturación anual
 
@@ -99,11 +99,11 @@ Cuando agregue una nueva suscripción, se le pedirá que elija la frecuencia de 
 
 ### <a name="billing-time"></a>Tiempo de facturación
 
-Se te facturará en la siguiente fecha de facturación. Por ejemplo, si la fecha de facturación es el día 1 del mes y compra una suscripción facturada anualmente el 29 de octubre de 2019, se le facturará el 1 de noviembre de 2019. Suponiendo que no realiza ningún cambio en la licencia, se le facturará de nuevo el 1 de noviembre de 2020. Si realiza un cambio de licencia, recibirá un crédito y se le refacturará en la siguiente fecha de facturación.
+Se le facturará en la siguiente fecha de facturación. Por ejemplo, si la fecha de facturación es el día 1 del mes y compra una suscripción facturada anualmente el 29 de octubre de 2019, se le facturará el 1 de noviembre de 2019. Suponiendo que no realiza ningún cambio en la licencia, se le facturará de nuevo el 1 de noviembre de 2020. Si realiza un cambio de licencia, recibirá un crédito y se le refacturará en la siguiente fecha de facturación.
 
 ### <a name="annual-renewals"></a>Renovaciones anuales
 
-La fecha de renovación de la suscripción será de doce meses después de la fecha de inicio del servicio. El período de servicio comienza en la fecha en que se crea la suscripción.  Por ejemplo, una suscripción creada el 10 de enero de 2019, se renovará el 10 de enero de 2020.
+La fecha de renovación de la suscripción será de 12 meses después de la fecha de inicio del servicio. El período de servicio comienza en la fecha en que se crea la suscripción.  Por ejemplo, una suscripción creada el 10 de enero de 2019, se renovará el 10 de enero de 2020.
 
 Se te enviará una factura en la siguiente fecha de facturación después de la fecha de renovación de la suscripción. Por ejemplo, si compras una suscripción con facturación anual el 15 de enero de 2018 y la fecha de facturación es el 20 de enero, tu suscripción se renovará en 15 de enero de 2019. La renovación se te facturará entonces el 20 de enero de 2019.
 
@@ -145,11 +145,11 @@ El nuevo partner debe adquirir una nueva suscripción en nombre del cliente. No 
 
 Puede reactivar una suscripción durante un máximo de 90 días después de la fecha de suspensión. Recibirás un cargo prorrateado en la siguiente fecha de facturación. La fecha de renovación de la suscripción permanece igual.
 
-## <a name="pricing"></a>Precio
+## <a name="pricing"></a>Precios
 
 ### <a name="offer-pricing"></a>Precios de la oferta
 
-El precio de la oferta en el momento de la compra se garantiza para el período de suscripción facturado completo (un mes para la facturación mensual, doce meses para la facturación anual). Cuando se renueve una suscripción, el precio se basará en la lista de precios actual en la fecha de renovación. El nuevo precio se garantiza para el siguiente período de suscripción.
+El precio de la oferta en el momento de la compra se garantiza para el período de suscripción facturado completo (un mes para la facturación mensual, 12 meses para la facturación anual). Cuando se renueve una suscripción, el precio se basará en la lista de precios actual en la fecha de renovación. El nuevo precio se garantiza para el siguiente período de suscripción.
 
 Si se reduce el precio de la oferta durante el período de facturación, la cantidad que se factura no cambia. El precio se establece para el período de facturación completo en el momento de la compra. Esto se aplica a la facturación mensual y anual.
 
@@ -157,29 +157,29 @@ Si se reduce el precio de la oferta durante el período de facturación, la cant
 
 El crédito para una licencia cancelada o una suscripción se calcula de la siguiente manera:
 
-**Crédito de cancelación** = ((* * precio mensual * * * 12)/365) \* **días restantes del período de doce meses** \* número de licencias canceladas.
+**Crédito de cancelación** = ((* * precio mensual * * * * 12)/ \* 365) días restantes del número de licencias canceladas **en el plazo** \* de doce meses.
 
 ## <a name="reconciliation-file"></a>Archivo de conciliación
 
 ### <a name="find-subscriptions-billing-frequency"></a>Buscar la frecuencia de facturación de la suscripción
 
-Revise el archivo de conciliación basado en licencia para obtener información sobre si su suscripción se factura mensualmente o anualmente. Esta información está en la columna **AA**.
+La columna **AA** del archivo de conciliación le indicará si su suscripción se factura mensualmente o anualmente.
 
 Para averiguar si puede cambiar una suscripción mensual a facturación anual, consulte [Find subscription aplicabilidad](#find-subscription-applicability).
 
 ### <a name="reconciliation-file-changes-for-annual-billing"></a>Cambios en el archivo de conciliación para la facturación anual
 
-Al comprar o renovar una suscripción con una facturación anual, el archivo de conciliación basado en licencias cambiará como se indica a continuación.
+Al comprar o renovar una suscripción con una facturación anual, el archivo de conciliación basado en licencias cambiará como se indica a continuación:
 
-Una nueva fila en el archivo de conciliación basada en licencias en la primera fecha de facturación después de la compra o una nueva suscripción.
+- Habrá una nueva fila en el archivo de conciliación basada en licencias en la primera fecha de facturación después de la compra o de una nueva suscripción.
 
-Si no se realizan cambios en la suscripción, no aparecerán filas en los archivos de conciliación de los meses del dos al doce del período de suscripción. Si se realiza un cambio en la suscripción durante el período de doce meses, aparecerá un crédito y una factura prorrateada en el siguiente archivo de conciliación después de realizar el cambio.
+- Si no se realizan cambios en la suscripción, no habrá filas en los archivos de conciliación de los meses dos a 12 del período de suscripción. Si se realiza un cambio en la suscripción durante el período de doce meses, aparecerá un crédito y una factura prorrateada en el siguiente archivo de conciliación después de realizar el cambio.
 
-El siguiente cambio en el archivo de conciliación aparecerá cuando se renueve la suscripción. Esto aparecerá en la primera fecha de facturación después de la renovación.
+- El siguiente cambio en el archivo de conciliación aparecerá cuando se renueve la suscripción. Esto aparecerá en la primera fecha de facturación después de la renovación.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Cambios en el archivo de uso para la facturación anual
 
-Los siguientes cambios de suscripción facturados anualmente aparecen en la columna P del archivo de uso.
+Los siguientes cambios de suscripción facturados anualmente aparecen en la columna P del archivo de uso:
 
 - **Tarifas de prorrateo al comprar**: la compra inicial de una suscripción anual.
 - **Protasa de instancia de ciclo**: cambios de licencia que dan como resultado un crédito y una refacturación.
@@ -197,7 +197,7 @@ Al agregar licencias a una suscripción, el archivo de conciliación contendrá 
 
 ### <a name="price-lists-for-annual-billing"></a>Listas de precios para la facturación anual
 
-Las listas de precios del centro de Partners muestran los precios mensuales. No se muestra ningún precio anual. El precio anual se puede calcular multiplicando el precio mensual por doce.
+Las listas de precios del centro de Partners muestran los precios mensuales. No se muestra ningún precio anual. Puede calcular el precio anual multiplicando el precio mensual por 12.
 
 ### <a name="offer-matrix"></a>Matriz de la oferta
 
@@ -207,7 +207,7 @@ Los identificadores de oferta de la matriz de la oferta son los mismos para toda
 
 ### <a name="incentives-calculation"></a>Cálculo de incentivos
 
-Los incentivos se calculan en función de los **ingresos facturados**, ***no*** de los ingresos. Los pagos de los incentivos ganados serán acordes con nuestra directiva que se encuentran en nuestras guías de incentivos de CSP.
+Los incentivos se calculan en función de los **ingresos facturados**, ** *no* **de los ingresos. Los pagos de los incentivos ganados serán acordes con nuestra directiva que se encuentran en nuestras guías de incentivos de CSP.
 
 Cuando se vende una suscripción facturada anualmente, se reconocen los ingresos de la suscripción para el cálculo de los incentivos en función de los ingresos facturados.
 
@@ -227,9 +227,9 @@ Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de s
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |
-| Obtenido | <ociemea@microsoft.com> |
+| EMEA | <ociemea@microsoft.com> |
 | APOAC (excepto Japón) | <ociapgc@microsoft.com> |
-| Japan | <ocijp@microsoft.com> |
+| Japón | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>Suspensivo
@@ -240,7 +240,7 @@ Para la facturación anual:
 
 1. El socio compra la suscripción el 1 de enero. Se crea una línea de facturación de cargos para el período de servicio del 1 de enero al 31 de diciembre.
 2. El socio suspende la suscripción el 25 de enero. Se crea una línea de facturación de crédito para el período de servicio del 1 de enero al 31 de diciembre.
-3. El vuelve a activar la suscripción el 29 de enero. Se crea una línea de facturación de cargos para el período de servicio del 29 de enero al 31 de diciembre.
+3. El asociado vuelve a activar la suscripción el 29 de enero. Se crea una línea de facturación de cargos para el período de servicio del 29 de enero al 31 de diciembre.
 
 Para facturación mensual:
 

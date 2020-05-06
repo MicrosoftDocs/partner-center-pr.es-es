@@ -3,27 +3,27 @@ title: 'Office 365 Partner Advisory: Microsoft 365 Voice en CSP | Centro de Part
 description: Los servicios RTC en algunos países pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados.
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office, O365, servicios RTC, impuestos, requisitos, factura, facturación
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123285"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798793"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice en CSP
 
 **Se aplica a**
 
-- Centro de asociados  
+- Centro de partners  
 
 **Roles adecuados**
 -    Administrador global
 -    Administrador de usuarios
--    Agente de administración
+-    Agente de administrador
 
 Los servicios de red telefónica conmutada (RTC) públicos en algunas jurisdicciones pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados. En el Estados Unidos, incluido el Puerto Rico, los servicios RTC, que incluyen la audioconferencia, los planes de llamada y los créditos de comunicación, están sujetos a los requisitos de impuestos y normativas especiales. En el Estados Unidos y Puerto Rico, Microsoft precios de los servicios RTC como impuestos-inclusivos.  Los impuestos y regulaciones RTC únicos afectarán a los asociados de Office 365 que transaccionan Microsoft 365 productos de voz.  Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
@@ -45,7 +45,7 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 
 **#1 de ejemplo de conciliación de asociados (seleccionar columnas):**
 
-|**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
+|**ID_oferta_durable**|**Offer_Name**|**Subscription_Start_Date**|**Fecha_Fin_Suscripción**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |

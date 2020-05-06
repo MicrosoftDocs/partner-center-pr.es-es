@@ -6,29 +6,29 @@ description: La factura es un resumen de todos los cargos del centro de Partners
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
-keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
+author: LauraBrenner
+ms.author: labrenne
+keywords: facturación de suscripciones, facturación, facturación en el centro de Partners, facturación del centro de Partners, leer mi factura, factura, factura del centro de Partners, factura de CSP, ¿Dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676841"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798713"
 ---
-# <a name="understand-your-bill"></a>Comprender la factura
+# <a name="understand-your-bill"></a>Descripción de la factura
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
 - Administrador global
 - Administrador de facturación
-- Agente de administración
+- Agente de administrador
 
 
 La **factura** es un **Resumen de todos los cargos del centro de Partners** (en todo el programa, todos los productos y todos los clientes). 
@@ -39,17 +39,17 @@ Microsoft emitirá una factura por los cargos basados en licencia (como Office 3
 
 Por ejemplo,  
 
-**Escenario 1 [moneda única]** : el asociado tiene compras para la oferta de 145P y licencias de O365,  
+**Escenario 1 [moneda única]**: el asociado tiene compras para la oferta de 145P y licencias de O365,  
 
 - El asociado obtendrá un PDF de factura y dos archivos de conciliación que cubren los cargos de O365 y Azure (145p).  
 
-**Escenario 2 [una sola moneda]** : el asociado tiene compras para Azure RI, Marketplace y/o Azure Plan junto con compras 145p. 
+**Escenario 2 [una sola moneda]**: el asociado tiene compras para Azure RI, Marketplace y/o Azure Plan junto con compras 145p. 
 
 - El asociado obtendrá un PDF de factura y un archivo de conciliación que cubra los cargos de Azure (145p). 
 
 - El asociado recibirá otro PDF de factura y un archivo de conciliación que cubra sus cargos de Azure RI, Marketplace, Azure plan. 
 
-**Escenario 3 [multimoneda]** : el asociado tiene compras de Azure RI en DKK y Azure plan en EUR junto con las compras de 145P en EUR. 
+**Escenario 3 [multimoneda]**: el asociado tiene compras de Azure RI en DKK y Azure plan en EUR junto con las compras de 145P en EUR. 
 
 - El asociado recibirá un PDF de factura y un archivo de conciliación que cubre los cargos de Azure RI en DKK. 
 
