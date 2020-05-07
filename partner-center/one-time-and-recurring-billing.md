@@ -3,28 +3,28 @@ title: Facturación de una sola vez y selección de cargos periódicos | Centro 
 ms.topic: article
 ms.date: 11/21/2019
 Description: Información sobre la facturación única de antemano para un período preestablecido (suscripciones mensuales y anuales) y la facturación de los cargos de selección recurrentes (para los productos de Microsoft y ISV de terceros correspondientes) en el centro de Partners.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390784"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798783"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturación de cargos únicos y determinados cargos periódicos
 
 **Se aplica a**
-- Centro de asociados
+- Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
 En este tema se describe la experiencia de facturación de **una sola vez y se seleccionan cargos periódicos** de Microsoft y productos de terceros de fabricantes independientes de software (ISV). 
@@ -51,7 +51,7 @@ La **actividad de facturación** actual *no está disponible* para estos tipos d
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Cargos de productos de ISV de Microsoft y de terceros
 
-Se emiten **cargos periódicos** y **cargos puntuales** para **productos ISV de Microsoft y de terceros**. Entre los productos aplicables se incluyen todas las suscripciones de SaaS, las reservas de Azure y los productos de software permanentes y basados en suscripción ofrecidos por Microsoft y terceros ISV. Consulte los productos disponibles en Marketplace. Algunos ejemplos son el software de SUSE Linux (suscripciones de software), Windows Server 2019 Essentials (software perpetuo) y las suscripciones de producto de SaaS de ISV de Azure.
+Se emiten **cargos periódicos** y **cargos puntuales** para **productos ISV de Microsoft y de terceros**. Entre los productos aplicables se incluyen todas las suscripciones de SaaS, las reservas de Azure y los productos de software permanentes y basados en suscripción ofrecidos por Microsoft y terceros ISV. Consulta los productos disponibles en Marketplace. Algunos ejemplos son el software de SUSE Linux (suscripciones de software), Windows Server 2019 Essentials (software perpetuo) y las suscripciones de producto de SaaS de ISV de Azure.
 
 En el caso de los cargos de productos aplicables, la **fecha de facturación** es el octavo día de cada mes. El **período de facturación** se inicia el primer día del mes natural y finaliza el último día del mes natural. Las transacciones que realice entre el 1 de mayo y el 31 de mayo de 2019 aparecerán en la factura 8 de junio. Todas las transacciones que realices entre el 1 de junio y el 30 de junio de 2019 aparecerán en la factura del 8 de julio. Es posible que se te facturen las compras periódicas y únicas en la misma factura.
 

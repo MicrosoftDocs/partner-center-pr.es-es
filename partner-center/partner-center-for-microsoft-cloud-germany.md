@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: El Centro de partners para Microsoft Cloud Alemania es el portal de empresa para los partners de Microsoft que deseen ofrecer soluciones en la nube de Microsoft a los clientes de países de la UE y la EFTA.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1f293a919b04b30ef8afdcadbc5a285698bb47b0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390774"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798763"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Centro de partners para Microsoft Cloud Alemania
 
@@ -25,7 +25,7 @@ ms.locfileid: "80390774"
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 -   Administrador de facturación
 
@@ -49,7 +49,7 @@ Característica o funcionalidad | Completar tareas en
 :--- | :---
 Administración de usuarios de partners | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de usuarios de clientes | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
-Restablecer contraseñas de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
+Restablecer contraseña de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de licencias | Centro de administración de Office 365 u centro de administración de Office 365 o Microsoft Cloud el portal de licencias de Alemania Azure Active Directory
 
 

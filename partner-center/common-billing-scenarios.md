@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore la facturación después de agregar nuevas suscripciones, ajustar la cantidad de licencias o cancelar una suscripción. Vea cómo difieren las suscripciones basadas en el uso y las licencias.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: facturación, pagos, pedidos, uso, facturación basada en licencias, fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 53844ffd1925f934b1931f80a256f7e7c40eb338
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390054"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798513"
 ---
 # <a name="common-billing-scenarios"></a>Escenarios comunes de facturación
 
-Dirigido a:
+Se aplica a:
 
 - Facturación del programa proveedor de soluciones en la nube (CSP)
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Agente del departamento de soporte técnico
 - Agente de ventas

@@ -3,29 +3,29 @@ title: Facturación basada en licencias | Centro de Partners
 ms.topic: article
 ms.date: 11/21/2019
 Description: Información acerca de la facturación basada en licencias en el centro de Partners, donde se factura por licencia (no por el uso de licencias).
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: facturación, pagos, licencia basada en licencia
 ms.localizationpriority: medium
-ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390904"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798893"
 ---
 # <a name="license-based-billing"></a>Facturación basada en licencia
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
--   Agente de administración
+-   Agente de administrador
 
 Cuando compre productos o servicios en línea en el centro de partners que requieran **licencias**, se le facturará *por cada licencia* que compre. No se le *facturará* por el uso de estas licencias. (Para obtener información sobre la facturación basada en el uso y otros tipos de facturación, consulte [tipos de facturación en el centro de Partners](billing-different-types.md)).
 

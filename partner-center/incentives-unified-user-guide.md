@@ -5,18 +5,18 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtenga información sobre el acceso a la información de pago. Esto se aplica a los pagos de aplicaciones y juegos de Windows, así como a los pagos de incentivos de MPN.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Incentivos, pago
 ms.localizationpriority: medium
-ms.openlocfilehash: e83fa96a4175dbcf792b7653237457bfd94cd1c2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1216913897fc50e0001ccb5ea2c6d0e1a463158b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390954"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798933"
 ---
-# <a name="access-your-incentives-payouts-page"></a>Acceder a su página de pagos de incentivos
+# <a name="access-your-incentives-payouts-page"></a>Acceder a la página de pagos de incentivos
 
 **Roles adecuados**
 -   Administrador global

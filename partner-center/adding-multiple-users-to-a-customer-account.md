@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo agregar varios usuarios a la cuenta de un cliente a la vez, cargando un archivo de datos en el formato de archivo de valores separados por comas (. csv) en el centro de Partners.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: jasonwhowell
-ms.author: jasonh
-keywords: carga masiva, agregar varios usuarios a una cuenta de cliente, agregar usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
+author: LauraBrenner
+ms.author: labrenne
+keywords: carga masiva, adición de varios usuarios a la cuenta de un cliente, adición de usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
-ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390374"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798633"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 
 **Roles adecuados**
 
@@ -29,7 +29,7 @@ ms.locfileid: "80390374"
 
 Puede agregar varios usuarios a la cuenta de un cliente a la vez, cargando un archivo de datos en el formato de archivo de valores separados por comas (. csv) al centro de Partners. Puede descargar un archivo de datos de ejemplo del centro de Partners y editarlo para su uso, o puede crear un nuevo archivo de datos con el modelo de datos definido a continuación.
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
 
 Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, debe cumplir los siguientes requisitos:
 
@@ -43,12 +43,12 @@ Escribe los siguientes datos en el archivo de datos:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nombre de columna** | **Descripción**                                                              | **Única**                             |
-| Nombre      | Nombre del usuario (campo opcional)                                           | Límite de 50 caracteres                         |
-| Último nombre       | Los apellidos del usuario (campo opcional)                                            | Límite de 50 caracteres                         |
-| Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | Límite de 50 caracteres                         |
-| Correo electrónico           | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico exclusiva. |
-| Actualización de estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*deje\*vacío \*                        |
+| **Nombre de la columna** | **Descripción**                                                              | **Limitación**                             |
+| Nombre      | Nombre del usuario (campo opcional)                                           | límite de 50 caracteres                         |
+| Apellido       | Los apellidos del usuario (campo opcional)                                            | límite de 50 caracteres                         |
+| Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | límite de 50 caracteres                         |
+| Correo electrónico           | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
+| Actualización del estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Para crear varias cuentas de usuario
 
@@ -66,17 +66,17 @@ Escribe los siguientes datos en el archivo de datos:
 
 6. En el selector de archivos, selecciona el archivo de datos y, a continuación, selecciona **Abrir**.
 
-7. Selecciona **Validar**.
+7. Seleccione **Validar**.
 
-    **Tenga** en cuenta  la mayoría de los errores de creación de cuentas están causados por problemas de archivos de datos, como información que falta, direcciones de correo electrónico con formato incorrecto o duplicado o demasiados registros en el archivo.
+    **Tenga**  en cuenta que la mayoría de los errores de creación de cuentas están causados por problemas de archivos de datos, incluida la información que falta, direcciones de correo electrónico con formato incorrecto o duplicadas o demasiados registros en el archivo.
 
 8. Una vez que el centro de Partners valida el archivo, seleccione la **Ubicación** geográfica para los nuevos usuarios.
 9. Seleccione **Guardar**.
-10. Descarga la información de la contraseña temporal para los usuarios.
+10. Descargue la información de contraseña temporal de los usuarios.
 
 **IMPORTANTE:** Asegúrate de descargar el archivo con las contraseñas temporales ahora, ya no podrás hacerlo más adelante. Los nuevos usuarios deben iniciar sesión en su nueva cuenta con las contraseñas temporales correspondientes a sus nuevas cuentas.
 
-10. Los nuevos usuarios reciben asignación automática de permisos de **Puede usar licencias y servicios**. 
+10. A los nuevos usuarios se les asignan permisos automáticamente **para utilizar licencias y servicios** . 
 
  
 

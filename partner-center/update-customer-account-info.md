@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En el Centro de partners, puedes actualizar la información de facturación de un cliente y otros detalles de la empresa.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8aa48ba30beb18bc2906d33120b4b37af8460f99
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: c5265fd7b6eb93e897929212b30bb045bae7e462
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205683"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797773"
 ---
 # <a name="update-customer-account-info"></a>Actualizar la información de la cuenta de cliente
 

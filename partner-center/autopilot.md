@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo personalizar o preconfigurar una nueva configuración rápida de un dispositivo con perfiles de AutoPilot antes de enviar el dispositivo al cliente.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391004"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798613"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Personalización de la experiencia rápida para un dispositivo con perfiles de Windows AutoPilot
 
@@ -24,14 +24,14 @@ ms.locfileid: "80391004"
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador global
 - Agente de ventas
-- Administrador de administración de usuarios
+- Administrador del control de usuarios
 
 Si administra los dispositivos del cliente, es posible que tenga que personalizar la experiencia rápida (OOBE) para los usuarios del cliente. Puede preconfigurar nuevos dispositivos con perfiles de Windows AutoPilot antes de entregar los dispositivos a los clientes y aplicar nuevos perfiles a los dispositivos que los clientes ya han comprado. 
 
-Tenga en cuenta que los OEM han empezado a incluir una etiqueta de envío en el exterior del cuadro dispositivo AutoPilot que muestra el identificador de la clave de producto del dispositivo **(pkid)** .  Este código de barras bidimensional y legible proporciona a los asociados de nivel inferior una manera de registrar dispositivos para el piloto automático sin tener que volver a realizar la conversión unboxing de los dispositivos y cosechar el ID. de dispositivo mediante medios alternativos.
+Tenga en cuenta que los OEM han empezado a incluir una etiqueta de envío en el exterior del cuadro dispositivo AutoPilot que muestra el identificador de la clave de producto del dispositivo **(pkid)**.  Este código de barras bidimensional y legible proporciona a los asociados de nivel inferior una manera de registrar dispositivos para el piloto automático sin tener que volver a realizar la conversión unboxing de los dispositivos y cosechar el ID. de dispositivo mediante medios alternativos.
 
 En este artículo se explica cómo crear y aplicar perfiles de AutoPilot a dispositivos del centro de Partners.
 
@@ -77,20 +77,20 @@ En el centro de Partners, puede crear perfiles de implementación de Windows Aut
 
 3. En **perfiles de Windows AutoPilot** , seleccione **Agregar nuevo perfil**.
 
-4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija entre:  
+4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija de entre las siguientes opciones:  
 
    - Omitir la configuración de privacidad en el programa de instalación
 
    - Deshabilitar la cuenta de administrador local en el programa de instalación
   
-   - Omitir automáticamente las páginas durante la instalación<br>
+   - Omitir páginas automáticamente en el programa de instalación<br>
         (Incluye *la configuración seleccionada automáticamente para el trabajo o la escuela* y *omitir las páginas de configuración de registro de Cortana, OneDrive y OEM*)
   
    - Omitir contrato de licencia para el usuario final (CLUF)<br> 
        >[!IMPORTANT] 
        >Consulte [descartado de CLUF de Windows AutoPilot](#windows-autopilot-eula-dismissal) para obtener información importante que se debe tener en cuenta al omitir la página del CLUF durante la instalación de Windows.
 
-5. Selecciona **Enviar** cuando hayas acabado.
+5. Seleccione **Enviar** cuando termine.
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Aplicar un perfil de AutoPilot a los dispositivos del cliente
 
@@ -109,7 +109,7 @@ Después de crear un perfil de AutoPilot para un cliente, puede aplicarlo a los 
 
     a.  Conectar un dispositivo a la red y activarlo.
 
-    b.  Comprueba que aparezcan las pantallas OOBE apropiadas (si es el caso).
+    b.  Compruebe que aparecen las pantallas OOBE adecuadas (si existen).
 
     c.  Cuando se detenga el proceso de OOBE, restablezca el dispositivo a su configuración predeterminada de fábrica para prepararlo para un nuevo usuario.
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows AutoPilot le permite configurar instalaciones personalizadas de Windows en los dispositivos que administra para sus clientes. Si el cliente tiene autorización para hacerlo, puede suprimir u ocultar determinadas pantallas de configuración que se suelen presentar a los usuarios al configurar Windows, incluida la pantalla de aceptación del CLUF (contrato de licencia para el usuario final).
 
-Al usar esta función, acepta que la supresión y ocultación de las pantallas que están diseñadas para proporcionar a los usuarios aviso o aceptación de términos significa que ha obtenido el consentimiento y la autorización suficientes del cliente para ocultar términos y que usted, en nombre de su cliente (ya sea una organización o un usuario individual como caso), dar su consentimiento a cualquier aviso y aceptar los términos aplicables a su cliente. Esto incluye que estás de acuerdo con los términos y condiciones de la licencia o el anuncio que se presenta al usuario si no la suprimiste u ocultaste con esta herramienta. Tu cliente no puede usar el software de Windows en esos dispositivos si ha adquirido de manera válida una licencia para el software desde Microsoft o sus distribuidores con licencia.
+Mediante esta función, está de acuerdo en que suprimir u ocultar las pantallas que están diseñadas para proporcionar a los usuarios aviso o aceptación de términos significa que ha obtenido el consentimiento y la autorización suficientes del cliente para ocultar los términos, y que usted, en nombre de su cliente (ya sea una organización o un usuario individual como caso), da su consentimiento a los avisos y acepta los términos aplicables a su cliente. Esto incluye el acuerdo con los términos y condiciones de la licencia o el aviso que se presentará al usuario si no lo suprime u oculta mediante esta herramienta. Es posible que el cliente no use el software de Windows en dichos dispositivos si el cliente no ha adquirido una licencia para el software de Microsoft o sus distribuidores con licencia.

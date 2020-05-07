@@ -6,30 +6,30 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo usar una cuenta de cliente para asignar o revocar licencias y servicios a un usuario o a varios usuarios a la vez.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
-ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390274"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798573"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador global
 - Agente del departamento de soporte técnico
 - Agente de ventas
-- Administrador de administración de usuarios
+- Administrador del control de usuarios
 
 Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez de una cuenta de cliente, y revocar las asignaciones de licencia a usuarios.
 
@@ -38,15 +38,15 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 ## <a name="in-this-section"></a>En esta sección
 
 
-- [Asignación de licencias a varios usuarios](#assign-licenses-to-groups)
-- [Revocar las asignaciones de licencia de los usuarios](#revoking-licenses)
+- [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
+- [Revocación de las asignaciones de licencia de los usuarios](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**asignar licencias a varios usuarios**
+**Asignación de licencias a varios usuarios**
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 
-2. Selecciona **Usuarios y licencias**.
+2. Seleccione **usuarios y licencias**.
 
 3. Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 
@@ -76,15 +76,15 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 8. Seleccione **Guardar**. El centro de Partners abre una página de confirmación de **licencias actualizadas** en la que se muestran los usuarios y sus licencias nuevas.
 
-**Tenga en cuenta**  puede que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
+**Tenga en cuenta**  que es posible que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
 
 <a href="" id="revoking-licenses"></a>
-**revocar las asignaciones de licencia de los usuarios**
+**Revocar las asignaciones de licencia de los usuarios**
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 
-2. Selecciona **Usuarios y licencias**.
+2. Seleccione **usuarios y licencias**.
 
 3. Selecciona la casilla de dos o más usuarios de la lista. (Para seleccionar todos los usuarios en la página actual, selecciona la casilla situada en la parte superior de la columna **Usuarios**).
 

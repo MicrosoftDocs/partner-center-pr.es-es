@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda Cuándo y dónde los clientes pueden realizar autosoporte para administrar sus propias cuentas y cuándo deben ponerse en contacto con su asociado de proveedor de soluciones en la nube.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: jasonwhowell
-ms.author: jasonh
-keywords: autoservicio de soporte técnico al cliente, autoservicio de soporte técnico,
+author: LauraBrenner
+ms.author: labrenne
+keywords: autosoporte técnico para clientes, autosoporte técnico
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391044"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798383"
 ---
 # <a name="customer-self-support"></a>Autoservicio de soporte técnico al cliente
 
 **Se aplica a**
 
--  Centro de asociados
+-  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
 
@@ -34,7 +34,7 @@ Los clientes pueden iniciar sesión en su propio centro de administración de Mi
 
 Para comprar suscripciones adicionales o cancelar sus suscripciones, los clientes deben ponerse en contacto con sus partners de Proveedor de soluciones en la nube. Los clientes no pueden cambiar sus propias suscripciones directamente con Microsoft.
 
-Cuando los clientes necesiten ayuda con productos, pueden encontrar recursos de productos en [Soporte](https://partnercenter.microsoft.com/partner/support). Animamos a los partners a que pongan estos recursos a la disponibilidad de sus clientes como primera medida.
+Cuando los clientes necesitan ayuda con los productos, pueden encontrar recursos del producto en [soporte técnico](https://partnercenter.microsoft.com/partner/support). Animamos a los partners a que pongan estos recursos a la disponibilidad de sus clientes como primera medida.
 
  
 

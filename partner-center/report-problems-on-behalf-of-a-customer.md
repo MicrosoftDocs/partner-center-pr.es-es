@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de problemas de escalado a Microsoft, envíe una incidencia de soporte técnico para ellos.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390694"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798693"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
 
 **Se aplica a**
 
--  Centro de asociados
+-  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
 
-Si el cliente tiene un problema de servicio que no puede resolver y que cumple con los criterios descritos en el tema [Escalar problemas a Microsoft](escalate-problems-to-microsoft.md), presenta una incidencia de soporte. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
+Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de [problemas de escalado a Microsoft](escalate-problems-to-microsoft.md), envíe una incidencia de soporte técnico para ellos. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Enviar una solicitud de servicio para un cliente
 
@@ -44,12 +44,12 @@ Si el cliente tiene un problema de servicio que no puede resolver y que cumple c
 >
 >- Aunque el administrador del departamento de soporte técnico del Centro de partners no puede crear solicitudes de servicio en el portal de servicios de Azure, lo que sí que puede hacer es crear un grupo de soporte técnico en el portal de servicios de Azure y conceder a ese grupo permisos para registrar solicitudes de soporte técnico.
 
-1. Selecciona **Nueva solicitud de soporte técnico**.
+1. Seleccione **Nueva solicitud de soporte técnico**.
 2. Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
 -   En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
 -   En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
 
-3. Más tarde, si quieres ver las solicitudes de servicio del cliente en el portal de Microsoft Azure, selecciona **Administrar solicitudes de soporte técnico**.
+3. A continuación, revise las solicitudes de servicio del cliente en Microsoft Azure Portal; para ello, seleccione **Administrar solicitudes de soporte técnico**.
 
 Es posible que tengas que crear una solicitud de soporte técnico para un cliente si no tienes permisos de administrador para ese cliente. Esto podría pasar en uno de los siguientes casos: 
  
@@ -70,12 +70,12 @@ En cualquiera de estos casos, puedes usar el procedimiento siguiente para crear 
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Es posible que tenga que seleccionar **más...** para ver temas adicionales.    
-2. Rellena el formulario de solicitud de servicio y, a continuación, selecciona **Enviar**.
+2. Complete el formulario de solicitud de servicio y seleccione **submit (enviar**).
 
    > [!TIP]
    > Asegúrate de incluir tu información de contacto, no la del cliente.
 
-3. Más adelante, ve al Centro de administración de Office 365 para revisar las solicitudes de servicio de tus clientes y selecciona **Ver todas las incidencias de soporte técnico**.
+3. Después, revise las solicitudes de servicio del cliente. para ello, vaya al centro de administración de Office 365 y seleccione **ver todas las incidencias de soporte técnico**.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Compatibilidad con productos de Marketplace comercial
 

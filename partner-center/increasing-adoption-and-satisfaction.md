@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo usar las métricas en el centro de partners para ver si su negocio está creciendo, cómo los clientes usan sus licencias y dónde centrarse en la inversión.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 978913d5eb029e2029e7238535f8d79de39e7155
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390944"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798923"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Aumentar la adopción y la satisfacción
 
 **Se aplica a**
 
--  Centro de asociados
+-  Centro de partners
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
 Nuestros partners usan varias métricas para evaluar si su negocio está creciendo y hacia dónde dirigir la inversión. El Centro de partners puede ayudar a proporcionar datos sobre si los clientes están usando las licencias que adquirieron y cómo las usan. Esta información está disponible para los productos de Office (incluidos OneDrive Empresarial junto con SharePoint).
@@ -33,16 +33,16 @@ Nuestros partners usan varias métricas para evaluar si su negocio está crecien
 Puedes ver los datos de todos los clientes a través del programa Proveedor de soluciones en la nube. Ten en cuenta que algunos clientes pueden comprar licencias de otros partners o directamente de Microsoft. En ese caso, verás el total de licencias de todos los partners. Para ver solo tu propias licencias, consulta las suscripciones del cliente en su lugar.
 
 > [!NOTE]  
->  Actualmente, solo mostramos datos de Office 365 y Dynamics 365. Habilitaremos datos de productos adicionales en el futuro.
+>  Actualmente, solo se muestran los datos de Office 365 y Dynamics 365. Vamos a habilitar los datos para productos adicionales en el futuro.
 
 ## <a name="find-license-and-user-data"></a>Buscar datos de usuario y de licencia
 
 
-**Para un solo cliente**
+**Para un único cliente**
 
 -   Seleccione **clientes** del **centro de Partners**, elija un cliente y, a continuación, seleccione **Customer Insights**.
 
-**En toda la cartera**
+**En la cartera**
 
 1.  En el **centro de Partners**, seleccione **analizar**.
 2.  Para descargar los datos de uso y la implementación en todo el conjunto de clientes, selecciona las opciones de **exportación**.
@@ -57,11 +57,11 @@ Terminología:
 
 -   **Uso %** = derechos activos/derechos totales
 
-    A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede suceder por varias razones:
+    A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede ocurrir por varios motivos:
 
     -   Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
 
-    -   Si el cliente tiene dos suscripciones para una SKU, pero uno se encuentra en período de gracia, deshabilitado o desprovisto, los derechos en ambas suscripciones pueden registrar un uso activo durante el período de 28 días, pero solo una de ellas se incluye en el total.
+    -   Si el cliente tiene dos suscripciones para una SKU, pero una se encuentra en período de gracia, deshabilitada o sin aprovisionar, los derechos de ambas suscripciones pueden registrar el uso activo durante el período de 28 días, pero solo una se cuenta en el total.
 
     -   Si el cliente tiene una suscripción de prueba, la actividad se cuenta pero la suscripción no cuenta como parte del total de derechos.
 
@@ -78,14 +78,14 @@ Si tiene una gran cantidad de preguntas de ayuda y procedimientos, los números 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problema:</strong> La tasa de adopción del usuario es baja y muchas licencias&#39;no se usan.</p>
-<p><strong>Lo que debes tener en cuenta:</strong> los clientes quizás no comprenden el valor que el software puede proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.</p>
-<p><strong>Lo que puedes probar:</strong> casos prácticos, testimonios de usuarios sobre escenarios concretos, blogs de tutorial o vídeos.</p></td>
+<td><p><strong>Problema:</strong> La tasa de adopción del usuario es baja y muchas licencias no se usan&#39;t.</p>
+<p><strong>Qué debe tener en cuenta:</strong> Es posible que los clientes no conozcan el valor que el software podría proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.</p>
+<p><strong>Qué probar:</strong> Casos prácticos, testimonios de usuario sobre escenarios específicos, blogs de tutoriales o vídeos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problema:</strong> hay un alto volumen de las llamadas de soporte técnico para preguntas de ayuda y procedimientos.</p>
-<p><strong>Lo que debes tener en cuenta:</strong> es posible que los clientes no conozcan el software, la versión del producto o su tarea.</p>
-<p><strong>Qué probar:</strong> Puede usar una estrategia dual para ofrecer aprendizaje (en persona o en línea) para aumentar la&#39;experiencia general de los clientes, a la vez que también promueve algunas de las opciones de autoservicio disponibles para los clientes.</p>
+<td><p><strong>Problema:</strong> Hay un gran volumen de llamadas de soporte técnico para las preguntas de ayuda y procedimientos.</p>
+<p><strong>Qué debe tener en cuenta:</strong> Los clientes pueden ser nuevos en el software, en la versión del producto o en su tarea.</p>
+<p><strong>Qué probar:</strong> Puede usar una estrategia dual para ofrecer aprendizaje (en persona o en línea) para aumentar la experiencia general de los clientes&#39;s, al tiempo que promueve algunas de las opciones de autoservicio disponibles para los clientes.</p>
 <p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoservicio de soporte técnico al cliente</a> además de la información de contacto de soporte técnico.</p></td>
 </tr>
 </tbody>

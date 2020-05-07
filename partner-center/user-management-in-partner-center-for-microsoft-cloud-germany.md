@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo y dónde administrar el centro de partners para Microsoft Cloud asociados, clientes y licencias de Alemania, así como restablecimientos de contraseña.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390494"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797683"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
@@ -32,23 +32,23 @@ Característica o funcionalidad | Completar tareas en
 :--- | :---
 Administración de usuarios de partners | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de usuarios de clientes | Centro de administración de Office 365 o Azure para el portal de administración de Microsoft Cloud Alemania
-Restablecer contraseñas de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
+Restablecer contraseña de usuario | Azure para el portal de administración de Microsoft Cloud Alemania
 Administración de licencias | Centro de administración de Office 365 o portal de licencias de Azure Active Directory de Microsoft Cloud Alemania
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Cómo administrar usuarios en el portal de Azure para Microsoft Cloud Alemania 
 
-Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, puedes abrir el portal de Azure para Microsoft Cloud Alemania sin tener que volver a iniciar sesión. Sin embargo, si necesitas iniciar sesión directamente en el Azure Portal para Microsoft Cloud Alemania, ve a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Si has iniciado sesión en el Centro de partners para Microsoft Cloud Alemania, puedes abrir el portal de Azure para Microsoft Cloud Alemania sin tener que volver a iniciar sesión. Sin embargo, si necesita iniciar sesión directamente en la Azure Portal para Microsoft Cloud Alemania, vaya a [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Después de haber iniciado sesión correctamente en el portal de Azure para Microsoft Cloud Alemania, abre la página de introducción a Azure Active Directory (Azure AD) y luego sigue las instrucciones en estos temas:
 
 > [!NOTE]  
 > La selección de los vínculos siguientes le llevará a un sitio web diferente. 
 
--  [Agregar nuevos usuarios a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Adición de nuevos usuarios a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Asignar un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Asignación de un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Restablecer la contraseña de un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Restablecimiento de la contraseña de un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Temas relacionados**
 
