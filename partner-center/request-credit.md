@@ -1,22 +1,23 @@
 ---
-title: Solicitar un crédito de contrato de nivel de servicio de Microsoft | Centro de Partners
+title: Solicitar un crédito de contrato de nivel de servicio de Microsoft
 ms.topic: article
-ms.date: 11/21/2019
-description: Obtenga información sobre las ventajas, las restricciones y los procedimientos para solicitar un crédito de contrato de nivel de servicio de Microsoft si sus clientes experimentan una interrupción del servicio.
+ms.date: 04/28/2020
+description: Obtenga información sobre las ventajas, restricciones y procedimientos para solicitar un crédito de contrato de nivel de servicio (SLA) de Microsoft si los clientes experimentan una interrupción del servicio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943148"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907867"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Solicitar un crédito de contrato de nivel de servicio de Microsoft 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Cómo y cuándo solicitar un crédito de contrato de nivel de servicio (SLA) de Microsoft
 
 Puede solicitar **créditos de contrato de nivel de servicio (SLA)** de Microsoft si un servicio que está proporcionando para sus clientes tiene una interrupción.
 
@@ -47,8 +48,8 @@ Puede encontrar el identificador del incidente de interrupción en la página **
 | EX | Exchange Online |
 | FO | Protección de Exchange Online |
 | SB | Skype empresarial online (anteriormente, Lync Online) |
-| Sistema operativo | Suscripción a Office |
-| CD | Power BI para Office 365 |
+| SO | Suscripción a Office |
+| PB | Power BI para Office 365 |
 | SP | SharePoint Online |
 | Cherokee | Yammer Enterprise |
 | MO | Error del portal |
@@ -57,10 +58,10 @@ Puede encontrar el identificador del incidente de interrupción en la página **
 
 Para enviar la solicitud de crédito del contrato de nivel de servicio a Microsoft a través del panel del centro de Partners:
 
-1. Inicie sesión en el panel del centro de Partners.
+1. Inicia sesión en el panel del Centro de partners.
 2. En el menú de la izquierda, elija **solicitudes de servicio**y, a continuación, seleccione **solicitudes de soporte técnico de asociados**.
 3. En la página **solicitud de socio comercial** , elija **nueva solicitud**.
 4. En la página **iniciar la solicitud** , busque la sección **CSP-clientes, pedidos y suscripciones**. En esta sección, elija **seleccionar un tipo de problema**y, a continuación, seleccione **solicitudes de crédito de servicios de cliente**.
-5. En la página **soluciones recomendadas** , en **¿necesita más ayuda?** , elija **sí**.
+5. En la página **soluciones recomendadas** , en **¿necesita más ayuda?**, elija **sí**.
 6. En la página **detalles** , rellene la sección **detalles del problema** . En el cuadro de texto **detalles** , asegúrese de escribir la [información necesaria](#required-information) que recopiló anteriormente.
 7. Elija **submit (enviar** ) para enviar la solicitud de crédito del contrato de nivel de servicio.

@@ -1,24 +1,25 @@
 ---
-title: Especializaciones avanzadas | Centro de Partners
+title: Gane especializaciones avanzadas
 ms.topic: article
-ms.date: 12/16/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga más información sobre los requisitos de competencias para conseguir los niveles de suscripción Silver y Gold.
+description: Fortalezca su perfil de negocio en el directorio de socios comerciales. Obtenga información sobre cómo obtener especializaciones avanzadas junto con sus competencias Gold o Silver.
 author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: medium
-ms.openlocfilehash: 44438e0bebbe5c2b41d13129a8b1fe3500a1ffa2
-ms.sourcegitcommit: 63d217cad74d8e049538f54530ae99fdd6a99315
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4a74f49c93dcdd257bc49fa2e304dfe900121489
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "75037054"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907542"
 ---
-# <a name="advanced-specializations"></a>Especializaciones avanzadas
+# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Cómo las especializaciones avanzadas ayudan a los clientes en su perfil de negocio
 
-Vaya más allá de la competencia Gold con una especialización avanzada. Dicha especialización proporciona un medio para presentar conocimientos comprobables y comprobados sobre un producto, área de solución o servicio. Los clientes podrán ver la competencia Gold y la especialización avanzada en el perfil de negocio en el directorio de partners. Para recibir una etiqueta de especialización avanzada, la empresa debe cumplir totalmente un conjunto de criterios publicados y tener la validación de Microsoft. [Más información](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Vaya más allá de su competencia Gold con una especialización avanzada. Las especializaciones avanzadas le ayudan a exhibir conocimientos comprobables y comprobados en un producto, área de solución o servicio. Los clientes pueden ver su competencia Gold y su especialización avanzada en su perfil de negocio en el directorio de socios comerciales. Para recibir una etiqueta de especialización avanzada, la empresa debe cumplir totalmente un conjunto de criterios publicados y tener la validación de Microsoft. [Más información](https://partner.microsoft.com/membership/competencies#tab-content-2).
 
 ## <a name="the-current-advanced-specializations"></a>Especializaciones avanzadas actuales
 
@@ -31,4 +32,5 @@ Vaya más allá de la competencia Gold con una especialización avanzada. Dicha 
 - La migración de Data Warehouse a partner de Microsoft Azure tiene experiencia en la migración correcta de los almacenamientos de datos de Teradata, Netezza u Oracle Exadata a Azure y demuestra experiencia en el análisis de las cargas de trabajo existentes, la generación de modelos de esquema y la realización de operaciones de extracción, transformación y carga (ETL) para migrar datos a almacenamientos de datos basados en la nube.
 
 - Kubernetes en partner de Microsoft Azure emplea prácticas de DevOps para implementaciones de AKS y demuestra experiencia en la implementación y administración de cargas de trabajo de producción en la nube mediante contenedores y la administración de entornos de Kubernetes hospedados en Microsoft Azure.
-La modernización de aplicaciones web en partner de Microsoft Azure garantiza el éxito del cliente en el desarrollo de aplicaciones y la familiarización con los sistemas de administración de contenido. Demuestre experiencia en la migración e implementación de cargas de trabajo de aplicaciones web de producción, la aplicación de prácticas de DevOps y la administración de servicios de aplicaciones en Microsoft Azure.
+
+- La modernización de aplicaciones web en partner de Microsoft Azure garantiza el éxito del cliente en el desarrollo de aplicaciones y la familiarización con los sistemas de administración de contenido. Demuestre experiencia en la migración e implementación de cargas de trabajo de aplicaciones web de producción, la aplicación de prácticas de DevOps y la administración de servicios de aplicaciones en Microsoft Azure.

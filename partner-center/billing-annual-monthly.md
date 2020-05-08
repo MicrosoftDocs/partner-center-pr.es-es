@@ -1,20 +1,22 @@
 ---
-title: Diferencias de facturación mensuales y anuales | Centro de Partners
+title: Diferencias de facturación mensuales y anuales
 ms.topic: article
-ms.date: 11/25/2019
-Description: Obtenga información sobre las diferencias entre los ciclos de facturación mensual y anual del centro de Partners.
+ms.date: 05/06/2020
+Description: Vea cómo la facturación mensual y anual difiere en el centro de Partners. También aprenderá a cambiar entre diferentes tipos de facturación y las implicaciones del cambio.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798603"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908253"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Diferencias de facturación mensuales y anuales
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprenda la diferencia entre la facturación mensual y anual del centro de Partners
+
 
 **Se aplica a**
 
@@ -157,7 +159,7 @@ Si se reduce el precio de la oferta durante el período de facturación, la cant
 
 El crédito para una licencia cancelada o una suscripción se calcula de la siguiente manera:
 
-**Crédito de cancelación** = ((* * precio mensual * * * * 12)/ \* 365) días restantes del número de licencias canceladas **en el plazo** \* de doce meses.
+**Crédito de cancelación** = ((* * precio mensual * * * * 12)/ \* 365) **días restantes en el período** \* de doce meses de licencias canceladas.
 
 ## <a name="reconciliation-file"></a>Archivo de conciliación
 

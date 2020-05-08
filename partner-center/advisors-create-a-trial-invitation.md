@@ -1,22 +1,23 @@
 ---
-title: Crear una invitación de evaluación | Centro de Partners
+title: Crear una invitación de evaluación de Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor puede crear una invitación de evaluación en el centro de Partners
-author: XiaLi
-ms.author: v-xili35
+description: Obtenga información acerca de cómo los asociados pueden crear y enviar invitaciones de evaluación a sus clientes para probar Office 365. Los asociados son un asesor de suscripción autorizado.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versión de prueba
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137250"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907456"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>Asesores: crear una invitación de evaluación
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
 
 > [!NOTE]
 > Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados. 
@@ -27,7 +28,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
 
 ## <a name="to-create-a-trial-invitation"></a>Para crear una invitación de evaluación
 
-1. Vaya a **pruebas y ofertas de compra** > **crear invitaciones**.
+1. Vaya > a **pruebas y ofertas de compra****crear invitaciones**.
 
 2. En la página **crear invitación de evaluación** , seleccione las opciones de invitación de prueba que quiera incluir:
 
@@ -39,7 +40,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
     - **Suscripciones de prueba**: la lista de suscripciones de prueba que puede elegir viene determinada por la ubicación de uso del país o la región del cliente.
     - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la invitación de evaluación con o sin la aceptación de la administración delegada. Para obtener más información acerca de la administración delegada, consulte [oferta de administración delegada](customers_revoke_admin_privileges.md).
 
-3. Haga clic en **Siguiente**.
+3. Haga clic en **Next**.
 
 4. En la página de la**invitación de evaluación** , copie la información y la dirección URL de la invitación de evaluación y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una invitación de evaluación personalizada.
 

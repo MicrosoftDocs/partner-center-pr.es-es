@@ -1,26 +1,27 @@
 ---
-title: Administrar productos o ofertas comerciales de Marketplace para sus clientes | Centro de Partners
+title: Administrar productos de Marketplace & ofertas
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Con el centro de Partners, obtenga información sobre cómo los proveedores de soluciones en la nube pueden administrar diferentes ofertas de ISV de terceros compradas para los clientes del Marketplace comercial.
-author: MicheleHope
-ms.author: v-mihope
+description: Con el centro de Partners, obtenga información sobre cómo los proveedores de soluciones en la nube pueden administrar ofertas de ISV de terceros compradas para clientes del Marketplace comercial.
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, Marketplace, terceros, ISV, ofertas de SaaS, programa del proveedor de soluciones en la nube, administración de una oferta, administración de una suscripción, licencias, cancelación de una suscripción, puestos, desactivación de la renovación automática, revendedor indirecto ID MPN
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114957"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908102"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Administrar productos comerciales de Marketplace para sus clientes
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Administrar productos y ofertas comerciales de Marketplace para sus clientes
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
@@ -46,9 +47,9 @@ Después de comprar una suscripción de un publicador de ISV de terceros, puede 
 
     - Agregar o disminuir el número de puestos (licencias) de la suscripción
 
-    - Cancelar la suscripción
+    - Cancelación de la suscripción
 
-    - Desactivar renovación automática
+    - Desactivar la renovación automática
 
     - Agregar un ID. de revendedor de MPN indirecto, si procede
 
@@ -57,7 +58,7 @@ Después de comprar una suscripción de un publicador de ISV de terceros, puede 
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Asignar licencias y activar una suscripción en nombre de un cliente
 
-Cuando se adquiere una oferta de software como servicio (SaaS) proporcionada por un editor de software independiente (ISV) en el Marketplace comercial, el publicador de ISV ayuda a administrar el proceso de asignación de licencias y la activación de la suscripción en nombre del cliente.
+Cuando se adquiere una oferta de software como servicio (SaaS) proporcionada por un publicador de proveedor de software independiente (ISV) en el Marketplace comercial, el publicador de ISV ayuda a administrar el proceso de asignación de licencias y la activación de la suscripción en nombre del cliente.
 
 El publicador debe proporcionarle un vínculo personalizado y un código de autorización que identifique su compra específica.
 
@@ -85,7 +86,7 @@ El publicador debe proporcionarle un vínculo personalizado y un código de auto
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancelar una suscripción de SaaS basada en licencia de un publicador de ISV
 
-Al suscribirse a un producto SaaS basado en licencia ofrecido por un publicador de ISV en el Marketplace comercial, tiene la opción de cancelar la suscripción dentro del período de cancelación designado. Este período de cancelación cambia en función de si tiene una suscripción mensual o anual. También puede elegir si desea renovar la suscripción automáticamente.
+Al suscribirse a un producto SaaS basado en licencia ofrecido por un publicador de ISV en el Marketplace comercial, tiene la opción de cancelar la suscripción dentro del período de cancelación designado. Este período de cancelación cambia en función de si tiene una suscripción mensual o anual. También puedes elegir si deseas renovar la suscripción automáticamente o no.
 
 Para obtener más información sobre los períodos de cancelación que se aplican, cómo cancelar o cómo renovar automáticamente una suscripción, consulte:
 

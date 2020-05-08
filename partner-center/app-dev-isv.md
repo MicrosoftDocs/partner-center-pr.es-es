@@ -1,7 +1,7 @@
 ---
-title: Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones | Centro de Partners
+title: Exención del examen de competencia de desarrollo de aplicaciones
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: En el caso de los asociados con una competencia de ISV anterior, obtenga información sobre cómo obtener una exención de requisitos de examen único para la competencia de desarrollo de aplicaciones.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencias, ISV, desarrollo de aplicaciones
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722348"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907482"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
 
@@ -37,24 +38,24 @@ Asociados con una competencia de desarrollo de aplicaciones obtenida a través d
 
 - **Si tiene una lista de Microsoft Commercial Marketplace**, la exención de los requisitos del examen único estará disponible en el momento de la renovación de su competencia. En ese momento, tendrá 30 días para sacar provecho de la oferta.
 
-- **Si no tiene una lista de [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** , publique su solución en febrero de 2020 para poder participar en la exención de los requisitos de los exámenes de un solo tiempo.
+- **Si no tiene una lista de [Microsoft Commercial Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) **, publique su solución en febrero de 2020 para poder participar en la exención de los requisitos de los exámenes de un solo tiempo.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Cómo aprovechar las ventajas de la oferta
 
-1. En el menú del centro de partners del panel, seleccione **competencias**.
+1. Desde el menú del Centro de partners en el panel, selecciona **Competencias**.
 2. En la lista de competencias que están disponibles, el desarrollo de aplicaciones se marca como **completado**.
 
 ![ISV a AppDev](images/appdev.png)
 
 3. Seleccione **desarrollo de aplicaciones**. Verá el aviso de que se le ha dado una invalidación que exime a su empresa de cumplir los requisitos de los exámenes. 
 
-4. Para beneficiarse de esta oferta, vaya a **ofertas de suscripción**. Es posible que tenga que pagar la tarifa por la competencia para completar el proceso según el estado de la compra o la renovación de su competencia. 
+4. Para beneficiarte de esta oferta, ve a **Ofertas de suscripción**. Es posible que tenga que pagar la tarifa por la competencia para completar el proceso según el estado de la compra o la renovación de su competencia. 
 
 Esta oferta está disponible a través del centro de Partners.
 
 Si necesita ayuda para obtener la oferta o tiene dudas sobre su idoneidad para esta oferta, póngase en contacto [con el soporte técnico de asociados](https://partner.microsoft.com/Support). 
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
 **Cómo saber si mi empresa es válida para esta oferta?**
 

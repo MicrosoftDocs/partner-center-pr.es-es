@@ -1,7 +1,7 @@
 ---
-title: Solicitar ventas en nubes nacionales de Microsoft | Centro de Partners
+title: Solicitud para vender en las nubes nacionales de Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados de Microsoft en el programa proveedor de soluciones en la nube pueden vender a los clientes inscritos en nubes nacionales admitidas.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: nubes nacionales, Microsoft Cloud Alemania, Microsoft Cloud para el gobierno de EE. UU., 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798463"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908061"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>Solicitud para vender en las nubes nacionales de Microsoft
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Solicitar la venta en nubes nacionales de Microsoft como parte del programa CSP
 
 Además de vender a los clientes como parte del programa de proveedores de soluciones en la nube global, los asociados de Microsoft cualificados también pueden vender soluciones en la nube a los clientes en tres nubes nacionales independientes. Las nubes nacionales son instancias físicas y lógicas aisladas de la red de servicios en la nube de la empresa de Microsoft, que están limitadas dentro de los límites geográficos de países específicos y operados por personal local. 
 
@@ -36,7 +37,7 @@ Los asociados cualificados pueden vender soluciones en la nube de Microsoft a lo
 
     Para obtener información sobre cómo inscribirse y vender a los clientes en Microsoft Cloud para el gobierno de EE. UU., consulte [Partner Center for Microsoft Cloud para el gobierno de EE. UU.](partner-center-for-microsoft-us-govt-cloud.md)
 
--   [**Microsoft Cloud Alemania**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Alemania ofrece Azure, Office 365 y Dynamics 365 de los centros de los centros de recursos en alemán a través de un modelo único. En este modelo, el acceso a los datos del cliente está controlado por un administrador de datos de Alemania independiente que opere en la ley alemana. T-Systems International GmbH, una filial de Deutsche Telecom, actúa como el administrador de datos independiente para Microsoft Cloud Alemania. 
+-   [**Microsoft Cloud Alemania**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Alemania ofrece Azure, Office 365 y Dynamics 365 de los centros de los centros de recursos en alemán a través de un modelo único. En este modelo, el acceso a los datos del cliente está controlado por un administrador de datos de Alemania independiente que opere en la ley alemana. T-Systems International GmbH, una subsidiaria de Deutsche Telekom, actúa como el administrador de datos independiente para Microsoft Cloud Alemania.
 
     > [!IMPORTANT]  
     > En función de la evolución de las necesidades de los clientes, nuestra estrategia en la nube para Alemania se centrará en la entrega de las nuevas regiones en la nube en Alemania que son coherentes con nuestra oferta global en la nube. Siguiendo este enfoque, ya no aceptaremos nuevos clientes ni implementaremos ningún nuevo servicio desde Microsoft Cloud Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actualmente disponibles actualmente, que se mantendrán con las actualizaciones de seguridad necesarias.

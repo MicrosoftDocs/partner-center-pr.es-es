@@ -1,21 +1,22 @@
 ---
-title: Escenarios comunes de facturación | Centro de partners
+title: 'Facturación anual: escenarios comunes'
 ms.topic: article
-ms.date: 11/25/2019
-description: 'Consulte facturación anual del centro de Partners: cuando se agregan suscripciones nuevas, se agregan licencias antes de la fecha de facturación, se cambian la cantidad de licencias, se suspenden o reactivan las suscripciones.'
+ms.date: 05/05/2020
+description: 'Facturación anual del centro de Partners: al agregar nuevas suscripciones, agregar licencias antes de la fecha de facturación, cambiar la cantidad de licencias o suspender o reactivar las suscripciones.'
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturación, pagos, pedidos, uso, facturación basada en licencias, fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798553"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908216"
 ---
-# <a name="annual-billing-scenarios"></a>Escenarios de facturación anuales
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Escenarios de facturación anuales comunes en el centro de Partners
 
 **Roles adecuados**
 

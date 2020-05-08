@@ -1,22 +1,23 @@
 ---
-title: Descubra ofertas en el Marketplace comercial | Centro de Partners
+title: Discover offers-Commercial Marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo los asociados de CSP pueden usar el centro de partners para ver o Buscar ofertas de SaaS o precios de fabricantes de software independientes (ISV).
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, Marketplace, Marketplace comercial, terceros, ISV, ofertas de SaaS, programa de proveedor de soluciones en la nube, programa CSP, asociados de CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873189"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908116"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Descubra ofertas y precios en Marketplace comercial
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Descubra ofertas y precios en el Marketplace comercial del centro de Partners
 
 **Se aplica a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "81873189"
 - Administrador global
 - Agente de administrador
 
-Cuando fabricantes de software independientes (ISV) deciden publicar una oferta en el Marketplace comercial, también pueden decidir si desean que la oferta esté disponible en el programa CSP. Si optan por vender la oferta a través del programa CSP, los asociados de CSP deben ver la oferta en el área Marketplace del centro de Partners. 
+Cuando fabricantes de software independientes (ISV) deciden publicar una oferta en el Marketplace comercial, también pueden decidir si desean que la oferta esté disponible en el programa CSP. Si optan por vender la oferta a través del programa CSP, los asociados de CSP deben ver la oferta en el área Marketplace del centro de Partners.
 
 Si una oferta de ISV no aparece como se espera en el centro de Partners, puede deberse a que:
 

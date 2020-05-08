@@ -1,26 +1,27 @@
 ---
-title: Facturación para productos comerciales de Marketplace | Centro de Partners
+title: Facturación para productos comerciales de Marketplace
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo funciona la facturación para los productos o las suscripciones de SaaS de ISV comprados para los clientes del Marketplace comercial en el centro de Partners.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, productos, compras, Marketplace, terceros, ISV, facturación, facturas, conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240202"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908122"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Facturación para productos comerciales de Marketplace
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturación de productos y suscripciones de Marketplace comercial en el centro de Partners
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
@@ -70,7 +71,7 @@ Al seleccionar compras **periódicas y de una sola vez** desde la opción **fact
 
 - Suscripciones de SaaS (de los publicadores de Microsoft o ISV)
 
-- plan de Azure
+- Plan de Azure
 
 - Reservas de Azure
 

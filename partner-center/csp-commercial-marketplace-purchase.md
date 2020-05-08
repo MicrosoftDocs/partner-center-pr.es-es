@@ -1,20 +1,21 @@
 ---
-title: Compre ofertas o productos comerciales de Marketplace para sus clientes | Centro de Partners
+title: Comprar ofertas comerciales de Marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo los asociados de programas de CSP pueden usar el Marketplace del centro de partners para realizar compras de clientes de ofertas de SaaS de fabricantes de software independientes (ISV).
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, Marketplace, Marketplace comercial, terceros, ISV, ofertas de SaaS, programa de proveedor de soluciones en la nube, compra de una oferta, compra de una suscripción
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dd3facf79e0e33a6dfc35a162c444a13a19b256
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253803"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908078"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Compre productos comerciales de Marketplace para sus clientes en el centro de Partners
 
@@ -26,7 +27,7 @@ ms.locfileid: "74253803"
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
 Como asociado en el programa del proveedor de soluciones en la nube (CSP), puede usar Marketplace comercial para comprar suscripciones para los clientes a determinados productos de software como servicio (SaaS) ofrecidos por fabricantes de software independientes (ISV). 
 
@@ -43,9 +44,9 @@ Para comprar una suscripción de SaaS basada en licencias en el centro de Partne
 También puedes usar las [API del Centro de partners](https://docs.microsoft.com/partner-center/develop/) para crear suscripciones de Marketplace comercial para los clientes. (Para obtener más información sobre el uso de las API del centro de Partners, consulte [creación de una suscripción para productos comerciales de Marketplace](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)).
 
 >[!IMPORTANT]
-> Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, vea el siguiente tema.
+> Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [Azure portal](https://portal.azure.com/). Para obtener más información, vea el siguiente tema.
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>Comprar suscripciones basadas en el uso en el portal de administración de Azure
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Compre suscripciones basadas en el uso en el Azure Portal
 
 A diferencia de las suscripciones de SaaS basadas en licencias de los publicadores de ISV de terceros, las suscripciones basadas en el uso primero requieren que un cliente tenga una suscripción de Azure. La facturación de Marketplace comercial, los recursos basados en el uso se encuentra en la suscripción de Azure del cliente. Una vez que el cliente tiene una suscripción de Azure, un asociado en el programa CSP puede seguir estos pasos para adquirir una suscripción comercial de Marketplace para ellos:
 

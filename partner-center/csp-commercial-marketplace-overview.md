@@ -1,22 +1,23 @@
 ---
-title: Información general de Marketplace comercial para proveedores de soluciones en la nube | Centro de Partners
+title: 'Información general: CSP Marketplace'
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En el centro de Partners, aprenda a vender suscripciones de clientes a ofertas de software como servicio (SaaS) de fabricantes de software independientes (ISV) en Marketplace.
-author: MicheleHope
-ms.author: v-mihope
+description: Aprenda a vender suscripciones de clientes a ofertas de software como servicio (SaaS) de fabricantes de software independientes (ISV) en Marketplace.
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, Marketplace, terceros, ISV, SaaS, licencia
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253793"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908093"
 ---
-# <a name="commercial-marketplace-overview"></a>Información general de Marketplace comercial
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general del Marketplace comercial en el centro de Partners
 
 **Se aplica a**
 
@@ -41,7 +42,7 @@ Si es un asociado en el programa CSP, hay muchas actividades comerciales de Mark
 |:------------------------------------|:------------------|
 |Obtenga información acerca de cómo ver o Buscar ofertas disponibles, precios, detalles del producto o información de contacto del editor | [Detección de ofertas](csp-commercial-marketplace-discover.md) | 
 |Obtenga información sobre cómo comprar e implementar una oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 
-|Obtenga información sobre cómo cancelar o renovar una suscripción o agregar o quitar puestos  | [Administrar ofertas](csp-commercial-marketplace-manage.md) |
+|Obtenga información sobre cómo cancelar o renovar una suscripción o agregar o quitar puestos  | [Administración de ofertas](csp-commercial-marketplace-manage.md) |
 |Más información sobre cómo funciona la facturación para las compras comerciales de Marketplace | [Descripción de la facturación](csp-commercial-marketplace-billing.md) |
 |Más información sobre quién es responsable de qué tipos de soporte técnico para compras de ISV | [Descripción del soporte técnico](csp-commercial-marketplace-support.md) |
 |Obtenga información acerca de los contratos y las responsabilidades de los asociados de CSP e ISV en el Marketplace comercial | [Comprender la contratación](csp-commercial-marketplace-contracting.md) |
@@ -55,7 +56,7 @@ Como asociado en el programa CSP, puede completar muchas actividades comerciales
 
 - [Portal de administración de Microsoft Azure](https://portal.azure.com/)
 
-    O bien
+    Or
 
 - Un sistema o sitio web de un publicador de ISV de terceros
 
@@ -79,10 +80,10 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |**Para las ofertas basadas en el uso de ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para detectar o Buscar ofertas disponibles  | Panel del centro de Partners, API del centro de Partners o Azure Portal  |
-|Para comprar una oferta  | Portal de Azure  |
-|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Portal de Azure  |
-|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | Portal de Azure  |
-|Para crear usuarios o administrar permisos  | Portal de Azure  |
+|Para comprar una oferta  | Azure Portal  |
+|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure Portal  |
+|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | Azure Portal  |
+|Para crear usuarios o administrar permisos  | Azure Portal  |
 
 ## <a name="next-steps"></a>Pasos siguientes
 

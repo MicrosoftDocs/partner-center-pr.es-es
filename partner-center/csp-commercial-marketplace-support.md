@@ -1,22 +1,23 @@
 ---
-title: Compatibilidad con productos comerciales de Marketplace | Centro de Partners
+title: Compatibilidad con productos de Marketplace comercial
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo funciona el soporte técnico para los productos o las suscripciones de ISV de terceros compradas por los asociados en el Marketplace comercial en el programa CSP.
-author: MicheleHope
-ms.author: v-mihope
+description: Obtenga información sobre la compatibilidad con productos o suscripciones de ISV de terceros en el Marketplace comercial del programa CSP.
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, productos, Marketplace, terceros, ISV, publicador, soporte técnico, CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 74f1abced9f4d576cc53b73bd8c30e454f9ad2d9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48ea03ae955e276b48e646718a105855120e0577
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253733"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908071"
 ---
-# <a name="support-for-commercial-marketplace-products"></a>Compatibilidad con productos de Marketplace comercial
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Compatibilidad con productos comerciales de Marketplace en el programa CSP
 
 **Se aplica a**
 
@@ -26,19 +27,19 @@ ms.locfileid: "74253733"
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
-Al igual que con los productos de Microsoft, los asociados del programa CSP son el primer punto de contacto para las preguntas de sus clientes acerca de la administración de suscripciones y facturación de cualquier suscripción o producto de ISV de terceros que hayan adquirido para sus clientes en el Marketplace comercial.
+Los asociados del programa CSP son el primer punto de contacto para las preguntas de facturación de clientes o de administración de suscripciones relacionadas con cualquier suscripción de ISV de terceros o con el producto adquirido para los clientes del Marketplace comercial.
 
 En el caso de preguntas de soporte técnico sobre productos comerciales de Marketplace de terceros, los asociados del programa CSP deben ponerse en contacto con el publicador de ISV de ese producto o oferta.
 
-## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>Roles de soporte técnico de productos de ISV para asociados de CSP, publicadores de ISV y Microsoft
+## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>Roles de soporte de productos de ISV para asociados de CSP, publicadores de ISV y Microsoft
 
 Para las ofertas de Marketplace comercial o las compras de productos o ofertas de terceros de terceros:
 
-- **Rol de soporte técnico del publicador de ISV:** Los ISV ofrecen soporte técnico y compromisos de nivel de servicio a sus clientes en relación con su oferta, tal como se define en el contrato de cliente de terceros. El ISV debe proporcionar una forma para que los asociados del programa CSP y/o sus clientes se pongan en contacto con el ISV directamente para obtener soporte técnico, incluida la compatibilidad con usuarios y la compatibilidad con break-Fix. Se espera que los ISV proporcionen asociados en el programa CSP con la documentación del usuario, las notificaciones de estado del servicio y de interrupción (según corresponda), por lo que dichos asociados estarán equipados para coordinar la compatibilidad (si los asociados del programa CSP optan por proporcionar ese servicio a sus clientes).
+- **Rol de soporte técnico del publicador de ISV:** Los ISV ofrecen soporte técnico y compromisos de nivel de servicio a sus clientes en relación con su oferta, tal como se define en el contrato del cliente de terceros. El ISV debe proporcionar una forma para que los asociados del programa CSP y/o sus clientes se pongan en contacto con el ISV directamente para obtener soporte técnico, incluida la compatibilidad con usuarios y la compatibilidad con break-Fix. Se espera que los ISV proporcionen asociados en el programa CSP con la documentación del usuario, el entrenamiento y las notificaciones de estado del servicio/interrupción (según corresponda) para que esos asociados estén equipados para coordinar la compatibilidad (si los asociados del programa CSP optan por proporcionar ese servicio a sus clientes).
 
-- **Rol de soporte del asociado en el programa CSP:** El asociado en el programa CSP es responsable de todas las demás compatibilidades con las ofertas de ISV de terceros. Esto incluye la compatibilidad con las preguntas de facturación de sus clientes, la configuración de cuentas y el pago. El asociado del programa CSP puede optar por dirigir las consultas de soporte técnico de los clientes a los contactos de soporte proporcionados por el publicador de ISV.
+- **Rol de soporte del asociado en el programa CSP:** El asociado en el programa CSP es responsable de todas las demás compatibilidades con las ofertas de ISV de terceros. Esta compatibilidad se puede relacionar con las preguntas de facturación de los clientes, la configuración de cuentas y el pago. El asociado del programa CSP puede optar por dirigir las consultas de soporte técnico de los clientes a los contactos de soporte proporcionados por el publicador de ISV.
 
 - **Rol de soporte técnico de Microsoft:** Microsoft ofrece soporte técnico para el publicador de ISV de terceros y para el socio en el programa CSP con respecto a la funcionalidad del sistema de Microsoft Commerce. Esto significa que Microsoft será responsable del soporte técnico de ciertas actividades por parte del asociado en las actividades de asociados del programa de CSP y del ISV que se producen dentro del sistema de comercio de Microsoft, como la incorporación/administración de ofertas, las transacciones, la facturación, la compatibilidad con cuentas y la implementación y el aprovisionamiento de soluciones de ISV basadas en Azure.
 

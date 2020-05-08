@@ -1,6 +1,6 @@
 ---
-title: Analizar el uso de Azure | Centro de partners
-ms.date: 11/13/2019
+title: Analice el uso de Azure para ayudar a aumentar su negocio
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Aprenda a usar el centro de partners para obtener datos sobre el uso de las suscripciones de Azure de sus clientes.
@@ -8,17 +8,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
-keywords: datos de negocios
+keywords: datos económicos
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722389"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907430"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Obtener datos sobre el uso de las suscripciones de Azure de tus clientes
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtener datos sobre el rendimiento de los clientes y las suscripciones de Azure
 
 **Se aplica a**
 
@@ -28,16 +28,16 @@ ms.locfileid: "74722389"
 **Roles adecuados**
 
 - Administrador global
-- Administrador de administración de usuarios
-- Agente de administración
+- Administrador del control de usuarios
+- Agente de administrador
 - Agente de ventas
 
-Los datos determinan las decisiones comerciales. Usa las métricas de la página **Uso de Azure** para identificar tus logros y qué áreas necesitan más atención. Usa esta información a medida que planees nuevo objetivos empresariales.
+Data impulsa las decisiones empresariales. Use las métricas de la página **uso de Azure** para identificar sus éxitos y áreas que requieren más atención. Use esta información a medida que planee nuevos objetivos empresariales.
 
 > [!NOTE]
 > El análisis de uso de Azure solo está disponible para los asociados del programa proveedor de soluciones en la nube.
 
-Estamos siguiendo estas métricas:
+Estamos realizando el seguimiento de las siguientes métricas:
 
 ## <a name="summary"></a>Resumen
 
@@ -45,9 +45,9 @@ Estamos siguiendo estas métricas:
 - **Clientes con uso**: número de clientes con uso de Azure en el período de tiempo especificado  
 - **Clientes sin uso**: número de clientes sin uso de Azure en el período de tiempo especificado  
 
-## <a name="top-5-customers-in-category"></a>5 clientes principales de la categoría
+## <a name="top-5-customers-in-category"></a>5 clientes principales en categoría
 
-- Los 5 clientes principales de la categoría especificada  
+- Los 5 clientes principales para la categoría especificada  
 
 ## <a name="azure-subscriptions-at-risk"></a>Suscripciones de Azure en riesgo
 
@@ -57,15 +57,15 @@ En esta sección se indica el riesgo de renovación previsto para las suscripcio
 
 - Lista de suscripciones específicas sin uso de Azure en el período de tiempo especificado  
 
-## <a name="azure-subscription-churn"></a>Grupo de suscripciones de Azure
+## <a name="azure-subscription-churn"></a>Renovación de suscripciones de Azure
 
-- **Suscripciones activas**: recuento de las suscripciones activas hasta la fecha  
-- **Suscripciones dadas de baja**: recuento de suscripciones dadas de baja o suspendidas hasta la fecha  
+- **Suscripciones activas**: recuento de suscripciones activas por fecha  
+- **Suscripciones desaprovisionadas**: recuento de suscripciones desaprovisionadas o suspendidas por fecha  
 
 ## <a name="customer-count"></a>Recuento de clientes
 
 - Nuevos clientes adquiridos durante el período de tiempo especificado  
 
-## <a name="azure-subscription-retention"></a>Retención de suscripciones de Azure
+## <a name="azure-subscription-retention"></a>Retención de suscripción de Azure
 
-- Número de suscripciones que se renovaron.
+- Número de suscripciones que se han renovado.

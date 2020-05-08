@@ -1,7 +1,7 @@
 ---
-title: Vender software local a través de CSP | Centro de Partners
+title: Vender software local a través de CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden comprar, administrar, vender y cancelar suscripciones de software locales en nombre de los clientes del centro de Partners.
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP directo, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798443"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908032"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>Vender software local a través de CSP
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda software local a través del programa proveedor de soluciones en la nube (CSP)
 
 **Roles adecuados**
 

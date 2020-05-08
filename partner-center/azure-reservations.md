@@ -1,23 +1,23 @@
 ---
-title: 'Centro de Partners: información general sobre las reservas de Microsoft Azure | Centro de Partners'
+title: Vender clientes Microsoft Azure reservas
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenga información sobre cómo los proveedores de soluciones en la nube pueden comprar, vender o administrar las reservas de Azure para los clientes que usan el centro de Partners, el Azure Portal o la API del centro de Partners.
+Description: Como proveedor de soluciones en la nube, puede comprar, vender o administrar las reservas de Azure para los clientes. Use el centro de Partners, el Azure Portal o la API del centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, reservas, administración, facturación, compra, Azure RI, instancias reservadas de Azure
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205733"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908291"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>Centro de partners: venta de reservas de Microsoft Azure
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda Microsoft Azure reservas a los clientes mediante el centro de Partners, el Azure Portal o las API
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

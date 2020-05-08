@@ -1,37 +1,37 @@
 ---
-title: Información fiscal de la organización | Centro de partners
+title: Adición o envío de un NIF para impuestos empresariales
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los impuestos para las compras en el Centro de partners dependen de tu dirección comercial. Las empresas de algunos países pueden proporcionar su número de IVA o el equivalente local.
+description: Los impuestos para las compras del centro de Partners vienen determinados por la dirección de su empresa. En algunos países, las empresas pueden proporcionar su número de IVA o equivalente local.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005034"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907319"
 ---
-# <a name="company-tax-information"></a>Información fiscal de la compañía
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Información fiscal de la compañía y cómo agregar o enviar ID. de IVA para compras del centro de Partners
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 
 **Roles adecuados**
 -   Administrador global
 -   Administrador de usuarios
 -   Administrador de facturación
--   Agente de administración
+-   Agente de administrador
 -   Agente de ventas
 
-Los impuestos para las compras en el Centro de partners dependen de tu dirección comercial. En algunos países, las empresas pueden [proporcionar su número de impuestos de valor añadido (IVA) o el](#submit-vat-id-number) equivalente local.
+Los impuestos para las compras del centro de Partners vienen determinados por la dirección de su empresa. En algunos países, las empresas pueden [proporcionar su número de impuestos de valor añadido (IVA) o el](#submit-vat-id-number) equivalente local.
 
-### <a name="add-your-vat-id"></a>Agregar el número de IVA
+### <a name="add-your-vat-id"></a>Agregar el identificador de IVA
 
 Debe ser un administrador global, un administrador de facturación o un agente de administración para editar el perfil de facturación.
 

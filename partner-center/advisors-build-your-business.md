@@ -1,22 +1,23 @@
 ---
-title: Cree su empresa y administre su suscripción a Office 365 Partner | Centro de Partners
+title: Incorporación de clientes con ofertas de evaluación de Office 365
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Cree su empresa y administre su suscripción a Office 365 Partner para asesores
-author: XiaLi
-ms.author: v-xili35
+description: Obtenga información sobre cómo los asesores autorizados de Microsoft pueden crecer sus suscripciones de Office 365. Crear y enviar invitaciones de evaluación de Office 365 y ofertas de compra a los clientes.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
-ms.openlocfilehash: 58b774e989ae93653fa344e090457376cb3de81c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137260"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907464"
 ---
-# <a name="advisors-build-your-business"></a>Asesores: compilar su negocio
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Asesores: compilar la base de clientes con invitaciones de evaluación de Office 365 y ofertas de compra
 
 Como asesor autorizado de Microsoft, el **centro de Partners** le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con sus clientes. Con el centro de Partners, puede enviar a sus clientes invitaciones de evaluación y ofertas de compra, y ofrecer servicios de administración delegados, en función de los servicios que esté autorizado a proporcionar.
 

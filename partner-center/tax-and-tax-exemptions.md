@@ -1,8 +1,8 @@
 ---
-title: Impuestos y exenciones fiscales | Centro de Partners
+title: Impuestos regionales y exenciones fiscales
 ms.topic: article
-ms.date: 11/21/2019
-description: Obtenga información sobre las responsabilidades fiscales de su región geográfica específica y cómo enviar exenciones fiscales para las ventas de CSP.
+ms.date: 04/28/2020
+description: Obtenga información sobre las responsabilidades fiscales de su región geográfica específica y cómo enviar exenciones fiscales para las ventas de CSP. Obtenga información sobre cómo obtener soporte técnico para preguntas fiscales
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797703"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907805"
 ---
-# <a name="taxes-and-tax-exemptions"></a>Impuestos y exenciones fiscales
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Obtener información sobre impuestos y detalles de exención fiscal por región o país
 
 Se aplica a:
 

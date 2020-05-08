@@ -1,22 +1,23 @@
 ---
-title: Contratos para proveedores de soluciones en la nube con Marketplace comercial | Centro de Partners
+title: Contratos de CSP para Marketplace comercial
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los términos, condiciones y contratos de las suscripciones a productos ISV de terceros adquiridos por los asociados de CSP en Marketplace comercial.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: suscripciones, Marketplace, terceros, ISV, programa de asociados de CSP, contratos, venta, compra,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253783"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908136"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Contratos asociados a las actividades de asociados de CSP en Marketplace comercial
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para asociados de CSP que hacen negocios en Marketplace comercial
 
 **Se aplica a**
 
@@ -26,7 +27,7 @@ ms.locfileid: "74253783"
 **Roles adecuados**
 
 - Administrador global
-- Agente de administración
+- Agente de administrador
 
 Esta sección está relacionada con los contratos de los asociados del programa CSP que optan por comprar productos o ofertas de Marketplace de ISV para sus clientes del Marketplace comercial del centro de Partners o del Azure Portal.
 
@@ -47,7 +48,7 @@ Para obtener más información acerca de los términos que rigen las actividades
   
 Microsoft no acepta la responsabilidad legal de la entrega de servicios entre las entidades transaccionales y no proporciona un mecanismo para que los socios comerciales establezcan términos legales a través de su plataforma de comercio. Si los asociados de la transacción requieren términos legales adicionales, tendrán que ejecutar un acuerdo directamente.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulta también
 
-- [Compatibilidad con productos comerciales de Marketplace](csp-commercial-marketplace-support.md)
+- [Compatibilidad con productos de Marketplace comercial](csp-commercial-marketplace-support.md)
 - [Información general de las actividades de Marketplace comercial de CSP](csp-commercial-marketplace-overview.md)

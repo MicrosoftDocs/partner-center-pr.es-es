@@ -1,26 +1,27 @@
 ---
-title: Criterios de elegibilidad del cliente y asociados de Office 365 Government GCC | Centro de Partners
+title: Criterios de elegibilidad de partners y clientes de GCC de Office 365 Administración Pública
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conozca los pasos para que los asociados directos de facturación (revendedores directos, proveedores indirectos) validen a los asociados y clientes de Office 365 Government GCC for CSP.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798473"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908047"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC para los criterios de idoneidad para clientes y asociados de CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC para asociados de CSP y criterios de elegibilidad del cliente-centro de Partners
 
 **Se aplica a**
 
--  Centro de partners
--  Asociados de CSP
+- Centro de partners
+- Asociados de CSP
 
 **Roles adecuados**
 
@@ -31,11 +32,11 @@ ms.locfileid: "82798473"
 >[!NOTE]
 >El proceso de validación y los criterios que se describen a continuación son específicos para los asociados directos de facturación. Los asociados directos de facturación incluyen revendedores directos y proveedores indirectos.  Si es un revendedor indirecto, trabaje con su proveedor indirecto.
 
-Si está interesado en que su organización o su organización de clientes hayan aprobado para Office 365 Government GCC for CSP, revise los requisitos siguientes.
+Si le interesa tener aprobado su organización (o la organización de su cliente) para Office 365 Government GCC for CSP, revise los requisitos siguientes.
 
-Podría ser aprobado si es un asociado que presta servicio a entidades gubernamentales federales, estatales, locales o Tribals. Para que las organizaciones cumplan los requisitos de idoneidad, debe completar el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Podría ser aprobado si es un asociado que presta servicio a entidades gubernamentales federales, estatales, locales o Tribals. Para que las organizaciones cumplan los requisitos de idoneidad, complete el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Su cliente podría ser aprobado si se trata de una organización que administra datos controlados por el gobierno o es una entidad de gobierno federal, estatal, local o tribal de EE. UU. Para que se validen los requisitos de las organizaciones de sus clientes, debe completar el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Su cliente podría ser aprobado si se trata de una organización que administra datos controlados por el gobierno o es una entidad de gobierno federal, estatal, local o tribal de EE. UU. Para que se validen los requisitos de las organizaciones de sus clientes, complete el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Su organización debe [inscribirse](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa proveedor de soluciones en la nube, ya que es un requisito previo para ser aprobado para Office 365 Government GCC for CSP.
 -   [Aquí](https://go.microsoft.com/fwlink/?linkid=2007323)encontrará una guía del proceso de validación paso a paso para Office 365 Government GCC for CSP.

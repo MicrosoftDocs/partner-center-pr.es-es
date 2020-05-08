@@ -1,7 +1,7 @@
 ---
-title: Autoservicio de soporte técnico al cliente | Centro de partners
+title: Autoservicio de soporte técnico al cliente
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda Cuándo y dónde los clientes pueden realizar autosoporte para administrar sus propias cuentas y cuándo deben ponerse en contacto con su asociado de proveedor de soluciones en la nube.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: autosoporte técnico para clientes, autosoporte técnico
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798383"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907913"
 ---
-# <a name="customer-self-support"></a>Autoservicio de soporte técnico al cliente
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Asistencia automática del cliente a través del centro de administración de Microsoft Office 365 o a través de la Azure Portal
 
 **Se aplica a**
 
 -  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
-
-Los clientes pueden iniciar sesión en su propio centro de administración de Microsoft Office 365 o en el portal de administración de Azure y administrar sus propias cuentas:
+Los clientes pueden iniciar sesión en su propio Microsoft Office centro de administración de 365 o en el Azure Portal para administrar sus propias cuentas:
 
 -   Ver las comunicaciones y notificaciones en el producto, como la información sobre el estado del servicio, en el Centro de mensajes.
 

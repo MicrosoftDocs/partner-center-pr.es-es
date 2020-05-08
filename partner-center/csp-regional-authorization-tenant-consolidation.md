@@ -1,7 +1,7 @@
 ---
-title: Consolidación de los inquilinos de autorización regional de CSP | Centro de partners
+title: Consolidación de los inquilinos de autorización regional de CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones. Esto incluye los pasos para migrar las cuentas de cliente y las suscripciones de cliente.
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: migración de clientes, aprovisionamiento, cuentas de inquilinos, consolidación de inquilinos
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798453"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907989"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Consolidación de los inquilinos de autorización regional de CSP
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de inquilinos de autorización regional de CSP
 
 **Se aplica a**
 
@@ -99,8 +100,6 @@ Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición d
 
  >[! **Nota**] Suspender la suscripción garantiza que no se produzca la facturación.
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migración de suscripciones basadas en uso de Azure
 
-
-Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el uso de Azure de forma manual, como sucede con las suscripciones de CSP de Office 365. El soporte técnico de Microsoft Azure puede migrar las suscripciones de Azure, así como todos los servicios o los recursos implementados, desde las cuentas de revendedor de CSP de **Transición desde** a la cuenta de revendedor de CSP de **Transición a**. Durante esta transición, el cliente no experimentará ninguna interrupción del servicio.
+No es necesario migrar manualmente las suscripciones de CSP basadas en el uso de Azure como sucede con las suscripciones de Office 365 CSP. El soporte técnico de Microsoft Azure puede migrar las suscripciones de Azure, así como todos los servicios o los recursos implementados, desde las cuentas de revendedor de CSP de **Transición desde** a la cuenta de revendedor de CSP de **Transición a**. Durante esta transición, el cliente no experimentará ninguna interrupción del servicio.
 
 1.  Asegúrate de que las cuentas de cliente que necesitan que se migren las suscripciones de Azure han aceptado el acuerdo que se asociará con la nueva cuenta de CSP de **Transición a**.
 2.  Los asociados notifican a Microsoft qué cuentas de cliente que tienen suscripciones de Azure están listas para su migración y proporciona los nombres de la compañía de los clientes.
@@ -128,13 +126,13 @@ Ten en cuenta que no es necesario migrar las suscripciones de CSP basadas en el 
 
 ### <a name="notes"></a>Notas
 
--   Deshabilitar la suscripción de la cuenta de la **transición de** CSP no afecta al servicio del cliente final, siempre que el servicio se haya aprovisionado desde la cuenta de **transición a** CSP antes de la deshabilitación.
+-   Deshabilitar la suscripción de la cuenta de la **transición de** CSP no afecta al servicio del cliente final, siempre que el servicio se haya aprovisionado desde la cuenta de **transición a** CSP antes de deshabilitar la suscripción.
 
--   El cliente no puede usar las suscripciones y estas no generarán cargos cuando se suspendan o se cancelen.
+-   El cliente no puede usar las suscripciones y no genera cargos cuando se suspende o cancela.
 
 -   Actualmente no hay ninguna manera de quitar por completo a un cliente de la lista de clientes.
 
--   **Nota** Los partners deben suspender las suscripciones en la cuenta de inquilino de partner de **Transición desde** en el Centro de partners el mismo día que se realice la transición de dichas suscripciones y configurarlas en la cuenta de inquilino de partner de **Transición a** en el Centro de partners para asegurarse de que no se produce una facturación doble. Microsoft no admitirá las solicitudes de soporte técnico referentes a créditos debidas a cualquier superposición en la facturación que se produzca por no deshabilitar correctamente las suscripciones de **Transición desde**.
+-   **Nota** Los partners deben suspender las suscripciones en la cuenta de inquilino de partner de **Transición desde** en el Centro de partners el mismo día que se realice la transición de dichas suscripciones y configurarlas en la cuenta de inquilino de partner de **Transición a** en el Centro de partners para asegurarse de que no se produce una facturación doble. Microsoft no admitirá solicitudes de créditos debido a cualquier superposición en la facturación que se produce cuando no se establece correctamente la **transición de** las suscripciones a suspendidas.
 
 
 
