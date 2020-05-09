@@ -1,7 +1,7 @@
 ---
-title: Crear una oferta de compra | Centro de Partners
+title: Crear una oferta de compra
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
 description: Averigüe cómo un asesor de suscripción autorizado puede usar el centro de partners para crear una oferta de compra y una dirección URL personalizada para incluirlas en las invitaciones de evaluación de Office 365.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, compra
 ms.custom: SEOMAY.20
-ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907451"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975116"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Asesores: crear una oferta de compra
 
@@ -43,7 +43,7 @@ Si el cliente desea un número diferente de licencias, envíeles una nueva ofert
     - **Recuento de licencias**: al seleccionar una suscripción, escriba el número de licencias que desea incluir en la oferta de compra.
     - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la oferta de compra con o sin la aceptación de la administración delegada.
 
-3. Haga clic en **Next**.
+3. Haga clic en **Siguiente**.
 
 4. En la página **Enviar** , copie la información y la dirección URL de la oferta de compra y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una oferta de compra personalizada.
 
