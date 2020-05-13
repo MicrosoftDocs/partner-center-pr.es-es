@@ -1,7 +1,7 @@
 ---
-title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft | Centro de partners
+title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtén información sobre cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft. Puede ser necesario para hacer pedidos de productos y servicios de Microsoft para los clientes.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: cliente, clientes, consentimiento, MCA, Contrato de cliente de Microsoft, plantillas de contrato de cliente
 ms.localizationpriority: high
-ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d45f04c8ee1a8d8715f5c6484598ecaca83b1f1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123327"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908148"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
+# <a name="overview-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Información general: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
 **Se aplica a**
 -  Centro de partners
