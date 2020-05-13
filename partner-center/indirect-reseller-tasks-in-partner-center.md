@@ -11,16 +11,17 @@ ms.author: labrenne
 keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e2e37b584d7d95ec09018cf8c74a238c4ef76519
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205663"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362763"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
 
 **Roles adecuados**
+
 - Administrador global
 - Administrador de usuarios
 - Agente de administrador
@@ -33,33 +34,35 @@ Como revendedor indirecto en CSP, trabajarás con proveedores indirectos (tambi�
 Los diferentes proveedores indirectos ofrecen varios servicios y opciones de soporte técnico. Evalúa a los proveedores de tu área para determinar los que satisfacen mejor tus necesidades. Por lo general, la mayoría de los proveedores ofrece lo siguiente:
 
 - Proporcionarte formación y asistencia técnicas
-- Ayuda para comercializar tus productos y servicios 
+- Ayuda para comercializar tus productos y servicios
 - Ayuda para establecer los términos de financiación y crédito
 
 Si aún no estás trabajando con un proveedor (también conocido como distribuidor), puedes [buscar en la lista de proveedores oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) para encontrar uno.
-
 
 Para más información sobre lo que se requiere para vender en el programa CSP como revendedor indirecto, consulta [Empiece ahora como revendedor indirecto](https://partner.microsoft.com/cloud-solution-provider/whats-required) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Inscripción como revendedor indirecto en el programa de Proveedor de soluciones en la nube
 
 > [!NOTE]  
-> Si ya estás inscrito en el CSP, es posible que tengas que proporcionar únicamente la información de contacto de la asistencia al cliente para crear una cuenta de revendedor en el Centro de partners. 
+> Si ya estás inscrito en el CSP, es posible que tengas que proporcionar únicamente la información de contacto de la asistencia al cliente para crear una cuenta de revendedor en el Centro de partners.
 
 ### <a name="before-you-begin"></a>Antes de comenzar
 
 Si no tienes ninguna experiencia anterior en CSP, tendrás que inscribirte en el programa como revendedor indirecto. A continuación, debes crear una cuenta en el Centro de partners. Para ello, debes proporcionar la siguiente información durante el proceso de inscripción. Tómate unos minutos para recopilar estos datos antes de comenzar:
 
-- **Credenciales de administrador global para tu cuenta profesional**<br>
-Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [Cuentas profesionales y el Centro de partners](azure-active-directory-tenants-and-partner-center.md).
+- **Credenciales de administrador global para tu cuenta profesional**
 
-- **El nombre de usuario y la contraseña que uses para iniciar sesión en el sitio del Partner Membership Center**<br>
-  Usamos esta información para vincular el identificador de Microsoft Partner Network (id. de MPN) con la nueva cuenta del Centro de partners. A continuación, puedes administrar las ventajas y los datos de la pertenencia en el Centro de partners.
+   Tendrás que proporcionar el nombre de usuario y la contraseña que usas para iniciar sesión en Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, podrás crear una durante el proceso de inscripción. Si no sabes si ya tienes una cuenta profesional, consulta [Cuentas profesionales y el Centro de partners](azure-active-directory-tenants-and-partner-center.md).
 
-- **Nombre legal del negocio, dirección, contacto principal y detalles de soporte técnico de su organización**<br>
-  Necesitamos esta información para confirmar que la organización tiene un perfil establecido con Microsoft y que estás autorizado para actuar en su nombre.
+- **El nombre de usuario y la contraseña que uses para iniciar sesión en el sitio del Partner Membership Center**
 
-  Podemos tardar varios días en revisar y comprobar la información que has proporcionado. Enviaremos un correo electrónico a tu contacto principal cuando se haya completado la revisión.
+   Usamos esta información para vincular el identificador de Microsoft Partner Network (id. de MPN) con la nueva cuenta del Centro de partners. A continuación, puedes administrar las ventajas y los datos de la pertenencia en el Centro de partners.
+
+- **Nombre legal del negocio, dirección, contacto principal y detalles de soporte técnico de su organización**
+
+   Necesitamos esta información para confirmar que la organización tiene un perfil establecido con Microsoft y que estás autorizado para actuar en su nombre.
+
+   Podemos tardar varios días en revisar y comprobar la información que has proporcionado. Enviaremos un correo electrónico a tu contacto principal cuando se haya completado la revisión.
 
 ### <a name="get-started"></a>Introducción
 
@@ -135,18 +138,18 @@ Si un proveedor indirecto quiere conectar contigo en el Centro de partners, inic
    > [!NOTE]  
    > Cuando estableces una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador de este a tu cuenta profesional en el portal de Office 365.
 
-4. Selecciona **Proveedores indirectos** desde el menú **Centro de partners** para ver una lista de los proveedores con los que tienes una asociación. 
+4. Selecciona **Proveedores indirectos** desde el menú **Centro de partners** para ver una lista de los proveedores con los que tienes una asociación.
 
 5. Selecciona **Ver clientes** para ver una lista de los clientes que compartes con el proveedor.
 
 6. Selecciona **Invitar a clientes nuevos** para pedir a un nuevo cliente que autorice relaciones de revendedor contigo y con tu proveedor indirecto a la vez. Asegúrate de tener a mano la dirección de correo electrónico del cliente para enviarles la invitación por correo electrónico.  
 
    > [!IMPORTANT]  
-   > El proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre. 
- 
+   > El proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre.
+
 ## <a name="connect-with-customers"></a>Conexión con los clientes
 
-Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, este también debe tener relaciones de revendedor con tus clientes. 
+Para realizar transacciones con clientes en el Centro de partners, tus clientes deben tener cuentas del Centro de partners y tú debes establecer relaciones de revendedor con ellos. Para permitir que tu proveedor indirecto compre suscripciones y servicios en nombre de tus clientes, este también debe tener relaciones de revendedor con tus clientes.
 
 ### <a name="connect-with-existing-customers"></a>Conexión con clientes existentes
 
@@ -158,7 +161,7 @@ Cuando conectas con un proveedor indirecto, no ganas automáticamente sus client
 
 1. Selecciona **Clientes** en el menú **Centro de partners** y, a continuación, selecciona **Solicitar una relación de revendedor**.
 
-2. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
+2. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
 
@@ -178,7 +181,7 @@ Al atraer a nuevos clientes, deberás conectar con ellos en el Centro de partner
 
 Para administrar las suscripciones y los servicios en nombre de un cliente, debes tener una relación de revendedor con él. Para permitir que tu proveedor indirecto envíe órdenes en nombre de tu cliente, el proveedor indirecto también debe tener una relación de revendedor con él.
 
-Para obtener permisos de administrador para administrar las suscripciones y los servicios de un cliente nuevo **y** permitir que tu proveedor indirecto envíe nuevos pedidos en su nombre, puedes invitar al cliente a que establezca una relación de revendedor contigo y con tu proveedor a la vez. 
+Para obtener permisos de administrador para administrar las suscripciones y los servicios de un cliente nuevo **y** permitir que tu proveedor indirecto envíe nuevos pedidos en su nombre, puedes invitar al cliente a que establezca una relación de revendedor contigo y con tu proveedor a la vez.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Invitar a un cliente a establecer una relación de revendedor contigo y con tu proveedor indirecto a la vez
 
@@ -186,7 +189,7 @@ Para obtener permisos de administrador para administrar las suscripciones y los 
 
 2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con tu cliente para enviar pedidos en su nombre cuando dicho cliente desee comprar nuevas suscripciones o agregar nuevas licencias a las suscripciones existentes.
 
-3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
    Puedes editar el texto del correo. Asegúrate de incluir el vínculo, ya que está personalizado para vincular al cliente directamente con tu cuenta y la del proveedor. Selecciona **Listo** cuando hayas completado este paso.
 
@@ -194,12 +197,12 @@ Para obtener permisos de administrador para administrar las suscripciones y los 
 
 5. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
 
-## <a name="see-also"></a>Consulta también
+## <a name="next-steps"></a>Pasos siguientes
 
-[Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
+- [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
 
-[Administrar clientes y sus suscripciones](customer-accounts.md)
+- [Administrar clientes y sus suscripciones](customer-accounts.md)
 
-[Crear un perfil de negocio](create-a-marketing-profile.md)
+- [Crear un perfil de negocio](create-a-marketing-profile.md)
 
-[Más información sobre los incentivos para partners en el Centro de partners](understand-incentive-payouts.md)
+- [Más información sobre los incentivos para partners en el Centro de partners](understand-incentive-payouts.md)
