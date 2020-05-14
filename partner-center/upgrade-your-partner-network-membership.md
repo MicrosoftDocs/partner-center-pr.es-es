@@ -1,26 +1,26 @@
 ---
-title: Actualice su pertenencia a Microsoft Partner Network | Centro de Partners
+title: Actualización de la pertenencia a Microsoft Partner Network
+description: Disfrute de las ventajas exclusivas mediante la actualización de la pertenencia a MPN a una suscripción de Microsoft Action Pack o a las competencias de Microsoft.
 ms.topic: article
-ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Disfrute de las ventajas exclusivas mediante la actualización de la pertenencia a MPN a una suscripción de Microsoft Action Pack o a las competencias de Microsoft.
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: d5ab422d7df9c1d97b9d849d40046d21f31ee9ae
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 03/19/2020
+ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797813"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369262"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Actualización de la pertenencia a Microsoft Partner Network
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
 El programa de Partners de Microsoft ofrece las siguientes tres opciones de pertenencia, con beneficios incrementales y recursos de marketing, ofertas y programas para ayudarle a alcanzar sus objetivos empresariales.
 
@@ -34,33 +34,32 @@ El programa de Partners de Microsoft ofrece las siguientes tres opciones de pert
 
   - Gold Competency: la mejor funcionalidad en la clase dentro de un área de solución específica de Microsoft
 
-Una vez que se haya unido a la Microsoft Partner Network, podrá actualizar su suscripción y comprar ofertas de pertenencia exclusiva. Para obtener más información acerca de la pertenencia al Microsoft Partner Network [https://partner.microsoft.com](https://partner.microsoft.com), vaya a.
+Una vez que se haya unido a la Microsoft Partner Network, podrá actualizar su suscripción y comprar ofertas de pertenencia exclusiva. Para obtener más información acerca de la pertenencia al Microsoft Partner Network, vaya a [https://partner.microsoft.com](https://partner.microsoft.com) .
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Compra de una suscripción de Microsoft Action Pack
 
 Action Pack es una suscripción anual asequible a servicios, software y soporte técnico para empresas que desean desarrollar su práctica de Microsoft en el mundo de la nube primero, móvil. Suscríbase a Action Pack:
 
-- Use herramientas de desarrollo de primera clase para crear aplicaciones y soluciones para sus clientes en iOS, Android, Linux y Windows 
+- Use herramientas de desarrollo de primera clase para crear aplicaciones y soluciones para sus clientes en iOS, Android, Linux y Windows
 
-- Obtenga diez licencias de Windows 10 Enterprise (actualización), tres Visual Studio Professional licencias y una cuenta de Visual Studio Team Services sin costo 
+- Obtenga diez licencias de Windows 10 Enterprise (actualización), tres Visual Studio Professional licencias y una cuenta de Visual Studio Team Services sin costo
 
 - Obtenga hasta diez puestos de Office 365 (E3), además de cinco puestos de Enterprise Mobility Suite y Microsoft Dynamics CRM Online Professional
 
 - Reciba US $100 de Microsoft Azure créditos todos los meses
 
-Para obtener más información acerca de Microsoft Action Pack, [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)vaya a. 
+Para obtener más información acerca de Microsoft Action Pack, vaya a [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) .
 
 > [!NOTE]  
 > El siguiente vínculo le llevará a otro sitio Web. Vuelva a este sitio, el sitio del centro de Partners, para suscribirse a Action Pack.
 
-
 ### <a name="subscribe-to-microsoft-action-pack"></a>Suscripción a Microsoft Action Pack
 
-1. En el menú del **centro de Partners** , seleccione **asociaciones > ofertas**. Microsoft Action Pack aparece en **Ofertas disponibles**. Seleccione **suscribir ahora**. 
+1. En el menú del **centro de Partners** , seleccione **asociaciones > ofertas**. Microsoft Action Pack aparece en **Ofertas disponibles**. Seleccione **suscribir ahora**.
 
 2. Seleccione **siguiente** para aceptar los [términos y condiciones](https://go.microsoft.com/fwlink/?linkid=842232) de los derechos de uso interno concedidos por el Microsoft Partner Network.  
 
-3. Seleccione **siguiente** para agregar detalles de pago. 
+3. Seleccione **siguiente** para agregar detalles de pago.
 
 4. Seleccione **Introducción. Agregue una manera de pagar** si necesita especificar los detalles del pago.
 
@@ -70,19 +69,18 @@ Para obtener más información acerca de Microsoft Action Pack, [https://partner
 
 7. El pedido se ha confirmado. Seleccione **Cerrar**.
 
-La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. sin embargo, no podrá volver a activar la renovación automática de la suscripción hasta que vuelva a renovar la suscripción. 
+La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. sin embargo, no podrá volver a activar la renovación automática de la suscripción hasta que vuelva a renovar la suscripción.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
 
 1. En el menú del **centro de Partners** , seleccione **asociaciones > ofertas**. Microsoft Action Pack aparece en **ofertas compradas**.
 
-2. Seleccione **suscripción a Microsoft Action Pack** para ver los detalles de la suscripción. 
+2. Seleccione **suscripción a Microsoft Action Pack** para ver los detalles de la suscripción.
 
-3. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año. 
+3. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año.
 
 > [!NOTE]  
 > Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos que debes renovar la suscripción antes de que expire.
-
 
 ### <a name="renew-your-action-pack-subscription"></a>Renovar la suscripción a Action Pack
 
@@ -94,9 +92,9 @@ La suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 4. Seleccione **siguiente** para aceptar los términos y condiciones de uso interno concedidos por el Microsoft Partner Network.  
 
-5. Seleccione **siguiente** para agregar detalles de pago. 
+5. Seleccione **siguiente** para agregar detalles de pago.
 
-6. Seleccione **Introducción. Agregue una manera de pagar** si necesita especificar los detalles del pago. 
+6. Seleccione **Introducción. Agregue una manera de pagar** si necesita especificar los detalles del pago.
 
 7. Escriba los detalles de pago y, a continuación, seleccione **siguiente**.
 
@@ -104,29 +102,24 @@ La suscripción a Action Pack se renovará automáticamente cada año en esta fe
 
 9. El pedido se ha confirmado. Seleccione **Cerrar**.
 
-    La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. sin embargo, no podrá volver a activar la renovación automática de la suscripción hasta que vuelva a renovar la suscripción. 
-
+   La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas compradas. sin embargo, no podrá volver a activar la renovación automática de la suscripción hasta que vuelva a renovar la suscripción.
 
 ### <a name="cancel-your-action-pack-subscription"></a>Cancelar la suscripción a Action Pack
 
 Para cancelar la suscripción a Microsoft Action Pack, debe ponerse en contacto con el soporte técnico del centro de Partners.
 
-1. Ir a https://partnercenter.microsoft.com/partner/support.
+1. Vaya a [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
 
 2. Seleccione **Informar de problemas con el Centro de partners** y, a continuación, seleccione **Nueva solicitud** en la página siguiente.
 
-3. Expanda la lista **Tipo de problema** y seleccione **Ayuda con facturas de partner, pagos o archivos de conciliación**. 
+3. Expanda la lista **Tipo de problema** y seleccione **Ayuda con facturas de partner, pagos o archivos de conciliación**.
 
 4. Termine de rellenar la información necesaria y, a continuación, seleccione **Enviar**. El equipo de soporte técnico del Centro de partners se pondrá en contacto con usted para ayudarle a cancelar la suscripción.
 
-    Para comprobar el estado de la solicitud de servicio, seleccione **solicitudes de servicio > solicitudes del centro de Partners**y, a continuación, seleccione **abrir**. Elija la solicitud de servicio apropiada en la lista.  
+   Para comprobar el estado de la solicitud de servicio, seleccione **solicitudes de servicio > solicitudes del centro de Partners**y, a continuación, seleccione **abrir**. Elija la solicitud de servicio apropiada en la lista.  
 
- 
-### <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>Pasos siguientes
 
-[Active su suscripción de Action Pack](manage-your-partner-network-benefits.md)
+- [Active su suscripción de Action Pack](manage-your-partner-network-benefits.md)
 
-
-### <a name="related-topics"></a>Temas relacionados
-
-[Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)
+- [Agregar usuarios y asignarles permisos](create-user-accounts-and-set-permissions.md)

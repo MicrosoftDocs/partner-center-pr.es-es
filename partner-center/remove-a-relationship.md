@@ -9,37 +9,55 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 653a0db03d84efa3f251596d3cea841310d55161
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205793"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362733"
 ---
-# <a name="learn-how-to-remove-a-reseller-relationship-with-a-customer"></a>Obtenga información acerca de cómo quitar una relación de revendedor con un cliente
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>Cómo quitar una relación de revendedor con un cliente
 
 **Se aplica a**
 
 - Centro de partners
 
+En este artículo se describe cómo quitar una relación de revendedor con un cliente en el centro de Partners.
+
 Asociados directos: Si ya no está trabajando con un cliente, puede quitar la relación en el centro de Partners.
 
-Esta característica:
+Quitar una relación tiene las siguientes consecuencias:
+
 - Quita el cliente de la lista de clientes del centro de Partners.
 - Le quita de la [lista de contactos de soporte técnico disponibles](assign-support-contacts.md) para su cliente
 - Quita los privilegios de administrador de delegación para el cliente
 - Impide realizar compras futuras para el cliente
 
-Para quitar la relación, debe cancelar las reservas de Azure RI, cancelar las compras de software y suspender primero las suscripciones activas restantes:
-1. Suspende las suscripciones activas. En el centro de Partners, vaya a **clientes** > Seleccione un cliente > **suscripciones** > Seleccione una suscripción > **Suspended**. 
+## <a name="how-to-remove-a-relationship"></a>Cómo quitar una relación
 
-   Repita este paso para cada suscripción activa.
+Para quitar la relación, debe cancelar las reservas de Azure RI, cancelar las compras de software y suspender primero las suscripciones activas restantes.
 
-2. Quitar la relación del centro de Partners: en el centro de Partners, vaya a **clientes** > Seleccione una **cuenta** > de > de cliente**Quitar relación de revendedor**.
+1. **Suspende las suscripciones activas.**
+
+   1. Desde el centro de Partners, vaya a **clientes** y seleccione un cliente.
+
+   2. En **suscripciones**, seleccione una suscripción.
+
+   3. Seleccionar **suspendido**
+
+   4. Repita estos pasos para cada suscripción activa.
+
+2. **Quitar la relación del centro de Partners:**
+
+   a. En el centro de Partners, vaya a **clientes** y seleccione un cliente.
+
+   b. Seleccione la **cuenta**.
+
+   c. Seleccione **Quitar relación de revendedor**.
 
    > [!NOTE]
    > Si todavía hay suscripciones activas, el vínculo **Quitar relación reseller** estará inactivo.
 
-## <a name="see-also"></a>Consulte también
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Solicitar o volver a establecer una relación con un cliente](request-a-relationship-with-a-customer.md)

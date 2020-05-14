@@ -3,24 +3,23 @@ title: Crear una invitación de evaluación de Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Obtenga información acerca de cómo los asociados pueden crear y enviar invitaciones de evaluación a sus clientes para probar Office 365. Los asociados son un asesor de suscripción autorizado.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versión de prueba
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907456"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362623"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
 
 > [!NOTE]
-> Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados. 
+> Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados.
 
 Puede crear y enviar invitaciones de evaluación a los clientes para que puedan probar Office 365. Al crear una invitación de prueba, el Asistente para **crear invitación de evaluación** crea una dirección URL personalizada. La dirección URL tiene un código incrustado que le identifica como asesor de la suscripción. Puede usar esta dirección URL para uno o varios clientes. Envíe la dirección URL al cliente en un correo electrónico o use la dirección URL en otros documentos. La suscripción puede incluir uno o varios servicios, en función de la oferta concreta. Solo se puede enviar una invitación para una suscripción de prueba a la vez.
 
@@ -28,7 +27,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
 
 ## <a name="to-create-a-trial-invitation"></a>Para crear una invitación de evaluación
 
-1. Vaya > a **pruebas y ofertas de compra****crear invitaciones**.
+1. Vaya a **pruebas y ofertas de compra**  >  **crear invitaciones**.
 
 2. En la página **crear invitación de evaluación** , seleccione las opciones de invitación de prueba que quiera incluir:
 
@@ -40,7 +39,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
     - **Suscripciones de prueba**: la lista de suscripciones de prueba que puede elegir viene determinada por la ubicación de uso del país o la región del cliente.
     - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la invitación de evaluación con o sin la aceptación de la administración delegada. Para obtener más información acerca de la administración delegada, consulte [oferta de administración delegada](customers_revoke_admin_privileges.md).
 
-3. Haga clic en **Next**.
+3. Haga clic en **Siguiente**.
 
 4. En la página de la**invitación de evaluación** , copie la información y la dirección URL de la invitación de evaluación y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una invitación de evaluación personalizada.
 

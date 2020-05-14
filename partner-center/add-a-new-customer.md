@@ -11,14 +11,14 @@ ms.author: labrenne
 keywords: cliente, agregar cliente, cuenta de cliente, cuenta de cliente en el centro de Partners, clientes, agregar clientes, crear cuenta de cliente
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8151f6f310df97702062f5951254da622a759a90
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205623"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362693"
 ---
-# <a name="learn-about-adding-a-new-customer-record-in-partner-center"></a>Más información sobre cómo agregar un nuevo registro de cliente en el centro de Partners
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Cómo agregar un nuevo registro de cliente en el centro de Partners
 
 **Se aplica a**
 
@@ -33,12 +33,12 @@ ms.locfileid: "82205623"
 - Agente de administrador
 - Agente de ventas
 
-En este artículo se indica cómo agregar un nuevo cliente a la lista de clientes del centro de Partners. Debe hacerlo antes de poder vender suscripciones, administrar la facturación o proporcionar soporte técnico a un cliente.
+En este artículo se indica cómo agregar un nuevo cliente a la lista de clientes del centro de Partners. Siga estos pasos para poder vender suscripciones, administrar la facturación o proporcionar soporte técnico a un cliente.
 
 >[!NOTE]
 >En el caso de los clientes existentes, incluidos aquellos que ya tienen registros de cliente en el centro de partners a través de un escenario de [varios canales o varios](multichannel.md) [asociados](multipartner.md) , puede [solicitar una relación con ellos](request-a-relationship-with-a-customer.md), en lugar de seguir los pasos que se describen aquí.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>Para agregar un nuevo cliente en el centro de Partners
+## <a name="to-add-a-new-customer-in-partner-center"></a>Para agregar un nuevo cliente en el centro de Partners
 
 1. Seleccione **clientes** en el menú del centro de Partners y, luego, seleccione **Agregar cliente**.
 
@@ -47,12 +47,13 @@ En este artículo se indica cómo agregar un nuevo cliente a la lista de cliente
    >[!NOTE]
    >
    >Para garantizar la precisión durante la verificación del cliente, asegúrese de que:
+   >
    >- Usar el nombre legal exacto/oficial tal como aparece en los documentos oficiales
    >- Evite el uso de acrónimos o formas cortas
    >- No usar nombres de prueba
    >- Proporcionar una dirección completa y exacta (detalles de ubicación, ciudad, estado, país y código postal o postal)
 
-   >[!IMPORTANT] 
+   >[!IMPORTANT]
    > El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Obtener información acerca del [contrato de cliente de Microsoft y cómo confirmar su consentimiento](confirm-customer-agreement.md)
   
 3. Si es un proveedor indirecto, seleccione el revendedor indirecto que desee asociar a las suscripciones de este cliente de la lista.
@@ -68,7 +69,7 @@ En este artículo se indica cómo agregar un nuevo cliente a la lista de cliente
 
 7. Seleccione **listo** cuando haya terminado de agregar la información del cliente y haya adquirido las suscripciones necesarias.
 
-## <a name="see-also"></a>Consulte también
+## <a name="next-steps"></a>Pasos siguientes
 
 - Para obtener más información acerca de lo que puede vender a los clientes a través del programa proveedor de soluciones en la nube, consulte [ofertas de asociados en el programa proveedor de soluciones en la nube](csp-offers.md).
 

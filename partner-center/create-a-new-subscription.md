@@ -1,29 +1,29 @@
 ---
-title: Crear, suspender o cancelar suscripciones de cliente | Centro de partners
+title: Crear, suspender o cancelar suscripciones de clientes
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo vender sus suscripciones de clientes a los productos del catálogo después de haber creado un registro de cliente en el centro de Partners.
+description: Aprenda a vender las suscripciones de su cliente a los productos del catálogo después de haber creado un registro de cliente en el centro de Partners.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114997"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362363"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
 **Se aplica a**
 
--  Centro de asociados
--  Centro de partners para Microsoft Cloud for US Government
--  Partners de CSP
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
+- Partners de CSP
 
 **Roles adecuados**
 
@@ -33,20 +33,20 @@ ms.locfileid: "80114997"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 
-Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo. Esto incluye productos publicados por Microsoft, así como productos de software como servicio (SaaS) publicados por fabricantes de software independientes (ISV) de terceros en el [Marketplace comercial](https://azuremarketplace.microsoft.com/marketplace). 
+Después de crear un registro del cliente en el Centro de partners, puedes venderle suscripciones a los productos del catálogo. Esto incluye productos publicados por Microsoft, así como productos de software como servicio (SaaS) publicados por fabricantes de software independientes (ISV) de terceros en el [Marketplace comercial](https://azuremarketplace.microsoft.com/marketplace).
 
-Recuerda que algunas ofertas están limitadas a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Centro de partners.
+Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Centro de partners.
 
 >[!IMPORTANT]
 Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, consulte [comprar productos comerciales de Marketplace](csp-commercial-marketplace-purchase.md).
 
-## <a name="create-a-new-subscription"></a>Crear una suscripción nueva
+## <a name="create-a-new-subscription"></a>Crear una nueva suscripción
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
-3. Selecciona **Agregar suscripción**. En la pestaña **servicios en línea** se mostrarán todas las ofertas de SaaS de Marketplace disponibles.
+3. Seleccione **Agregar suscripción**. En la pestaña **servicios en línea** se mostrarán todas las ofertas de SaaS de Marketplace disponibles.
 
 4. Para ver solo determinados tipos de suscripciones, haz selecciones en los filtros disponibles:
    - **Publicador**: elija **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace publicados por ISV.
@@ -58,7 +58,7 @@ Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **bas
     - El cliente ya tiene una suscripción a ese producto y solo se permite uno.
 
     - Es posible que se haya suspendido la suscripción del cliente (en este caso, puede reactivar la suscripción en lugar de adquirir una nueva).
-    
+
     - En el caso de las ofertas de SaaS de ISV, puede haber varias razones por las que la oferta no está disponible para su compra: es posible que el ISV no sea compatible con el país o la región de facturación del cliente. es posible que el ISV haya elegido no poner la oferta a disposición a través del programa CSP; o bien, es posible que el ISV haya realizado la oferta [exclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) para ciertos asociados de CSP. La oferta ISV también puede no ser transactable a través del centro de Partners (por ejemplo, contenedores o algunas ofertas basadas en el uso).  
 
 6. Para cada suscripción que quiera agregar, escriba el número de licencias (si es necesario) y seleccione **Agregar al carro**.
@@ -73,8 +73,8 @@ Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **bas
 
     **Para las suscripciones de SaaS de ISV (basadas en licencias):**
     - Recibirá un vínculo al sitio del editor de ISV. Este vínculo le ayudará a completar la configuración de la implementación o la cuenta de la suscripción del cliente. (Tenga en cuenta que ni usted ni su cliente recibirán un correo electrónico con instrucciones para completar el aprovisionamiento o la configuración de la cuenta para este tipo de suscripción de ISV).
-    
-    - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en pagada. La suscripción se renovará automáticamente según la misma programación.
+
+    - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en el estado de pago. La suscripción se renovará de nuevo según la misma programación.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender o cancelar una suscripción
 
@@ -84,13 +84,13 @@ Los partners pueden suspender o cancelar una suscripción si el cliente lo solic
 
 Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podrán iniciar sesión ni acceder a los servicios.
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
 3. Selecciona la suscripción que deseas administrar.
 
-4. En la sección **Estado**, elige **Suspendido**. A continuación, selecciona **Enviar** para enviar los cambios.
+4. En la sección**Estado**, elija **Suspendida**. Haga clic en **Enviar** para enviar los cambios.
 
 5. Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).
 
@@ -119,13 +119,13 @@ Una vez finalizados estos períodos, ya no verá la opción de cancelar la suscr
 
 Para cancelar una suscripción de SaaS basada en licencia de un publicador de ISV, haga lo siguiente:
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
 3. Busque la suscripción que desea cancelar.
 
-4. En la columna **Estado** , seleccione **Cancelar**. A continuación, selecciona **Enviar** para enviar los cambios.
+4. En la columna **Estado** , seleccione **Cancelar**. Haga clic en **Enviar** para enviar los cambios.
 
 5. Si aparece un cuadro de diálogo, rellene los detalles pertinentes y, a continuación, seleccione **submit (enviar**).
 
@@ -140,22 +140,22 @@ De forma predeterminada, las suscripciones activas se configuran para que se ren
 
 Para detener la renovación automática de una suscripción de Marketplace comercial activa:
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
-3.  Seleccione **suscripciones**. Aquí se enumeran las suscripciones basadas en licencias que ha adquirido para el cliente.
+3. Seleccione **Suscripciones**. Aquí se enumeran las suscripciones basadas en licencias que ha adquirido para el cliente.
 
-4.  En la columna **suscripción** , seleccione la suscripción que desea modificar.
+4. En la columna **suscripción** , seleccione la suscripción que desea modificar.
 
-5. En la página Detalles de la suscripción, busque la sección **Estado** y desactive la casilla **renovación automática** . 
+5. En la página Detalles de la suscripción, busque la sección **Estado** y desactive la casilla **renovación automática** .
 
-6. Seleccione **Enviar**.
+6. Seleccione **Submit** (Enviar).
 
-## <a name="see-also"></a>Vea también
+## <a name="next-steps"></a>Pasos siguientes
 
-- [Compre productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-purchase.md)
+- [Compra de productos de Marketplace comercial para tus clientes](csp-commercial-marketplace-purchase.md)
+
 - [Administrar productos comerciales de Marketplace para sus clientes](csp-commercial-marketplace-manage.md)
+
 - [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
-
-

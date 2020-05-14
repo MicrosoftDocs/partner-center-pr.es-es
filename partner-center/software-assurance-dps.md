@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: anterior a la implementación, planeamiento, software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296407"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362443"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
@@ -87,7 +87,7 @@ Cuando tenga los detalles del asiento, puede reservar el asiento y programar el 
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Completar el compromiso y proporcionar los resultados a su cliente (asociados existentes)
 
-Para ser aptas para ofrecer una interacción de Planning Services, el consultor debe haber completado una o varias de las evaluaciones técnicas o los exámenes necesarios para la competencia de participación. (Para obtener más información acerca de las evaluaciones o los exámenes necesarios, [vea los requisitos de idoneidad para la planeación de las contrataciones de servicios](software-assurance-dps-requirements.md)). 
+Para ser aptas para ofrecer una interacción de Planning Services, el consultor debe haber completado una o varias de las evaluaciones técnicas o los exámenes necesarios para la competencia de participación. (Para obtener más información acerca de las evaluaciones o los exámenes necesarios, [vea los requisitos de idoneidad para la planeación de las contrataciones de servicios](software-assurance-dps-requirements.md)).
 
 Una vez que la empresa haya completado la contratación y haya proporcionado al cliente las entregas finales completadas, debe rellenar y enviar el informe de finalización en línea.
 
@@ -103,7 +103,7 @@ Tras canjear los vales de Planning Services, debe facturar a Microsoft por el pa
 
 Para enviar una factura a Microsoft a través de SAVB, siga las instrucciones del [paso 8](https://go.microsoft.com/fwlink/?linkid=2115983) del flujo de trabajo.
 
-## <a name="see-also"></a>Vea también
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Flujo de trabajo de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [Preguntas más frecuentes sobre servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)

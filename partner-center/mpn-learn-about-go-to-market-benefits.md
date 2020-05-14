@@ -1,5 +1,5 @@
 ---
-title: Más información sobre la comercialización con ofertas de Microsoft | Centro de Partners
+title: Más información sobre la comercialización con ofertas de Microsoft
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, beneficios de la pertenencia, pertenencia, ofertas de comercialización, comercialización en el mercado con Microsoft, la participación en el mercado, la membresía Gold, la pertenencia a Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226211"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362723"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore su comercialización con ofertas de Microsoft
 
 **Se aplica a**
 
-- Centro de asociados
+- Centro de partners
 - Miembros de Microsoft Partner Network
 
 **Roles adecuados**
@@ -34,7 +34,6 @@ Las ofertas de comercialización le proporcionan acceso a recursos exclusivos de
 
 >[!NOTE]
 >Si aún no es miembro del Microsoft Partner Network, únase al [sitio de Microsoft Partner Network](https://partner.microsoft.com/membership).
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Recursos de comercialización, ofertas y programas disponibles por nivel de pertenencia
 
@@ -67,11 +66,11 @@ Para ver las ofertas de comercialización:
 
 1. Inicia sesión en el [panel]( https://docs.microsoft.com/partner-center/) del Centro de partners.
 
-2. En el menú de la izquierda, seleccione **MPN**. A continuación, realice una de las acciones siguientes:
+2. En el menú de la izquierda, seleccione **MPN**. Lleve a cabo una de las siguientes acciones:
 
-    - Seleccione **información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
+    - Seleccione **Información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
 
-      o bien
+      or
 
     - Seleccione **beneficios** seguidos de la **comercialización**.
 
@@ -84,10 +83,10 @@ Para conocer los pasos específicos para activar o administrar las ofertas de co
 >[!IMPORTANT]
 >Debe ser el administrador global o el administrador de asociados de MPN para activar ofertas de comercialización específicas y asignar un contacto de marketing relacionado. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
-#### <a name="see-also"></a>Vea también
+## <a name="next-steps"></a>Pasos siguientes
 
-[Administrar las ventajas de la red de asociados](manage-your-partner-network-benefits.md)
+- [Administrar las ventajas de la red de asociados](manage-your-partner-network-benefits.md)
 
-[Compra o renovación de una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
+- [Compra o renovación de una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 
-[Más información sobre las competencias](learn-about-competencies.md)
+- [Más información sobre las competencias](learn-about-competencies.md)
