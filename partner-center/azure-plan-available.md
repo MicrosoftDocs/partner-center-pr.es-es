@@ -1,21 +1,19 @@
 ---
-title: Servicios de Azure disponibles en el programa CSP de Azure| Centro de partners
+title: Servicios de Azure disponibles en el programa CSP de Azure
+description: En esta sección se describen los servicios de Azure disponibles y no disponibles en el programa Proveedor de soluciones en la nube (CSP) de Azure.
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: En esta sección se describen los servicios de Azure disponibles y no disponibles en el programa Proveedor de soluciones en la nube (CSP) de Azure.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024099"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369282"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Servicios de Azure disponibles en el programa CSP de Azure
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024099"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Servicios de Azure disponibles en el programa CSP de Azure
 
-En esta sección se describen los servicios de Azure disponibles y no disponibles en el programa Proveedor de soluciones en la nube (CSP) de Azure. También se describe la disponibilidad del servicio en las nubes nacionales [Microsoft Azure Alemania](https://azure.microsoft.com/overview/clouds/germany/) y [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/).
+En este artículo se describen los servicios de Azure disponibles y no disponibles en el programa Proveedor de soluciones en la nube (CSP) de Azure. También se describe la disponibilidad del servicio en las nubes nacionales [Microsoft Azure Alemania](https://azure.microsoft.com/overview/clouds/germany/) y [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/).
 
 >[!Note]
 >[Azure China]( https://www.azure.cn/) no está disponible en el programa CSP de Azure.
 
-### <a name="global-cloud"></a>Nube global 
+## <a name="global-cloud"></a>Nube global
 
 Todos los servicios basados en el modelo de Azure Resource Manager están disponibles en el programa CSP.  Los servicios que no son de Azure Resource Manager no están disponibles en el programa CSP.  
 
-### <a name="csp-specific-service-configurations"></a>Configuraciones de servicio específicas del programa CSP
+## <a name="csp-specific-service-configurations"></a>Configuraciones de servicio específicas del programa CSP
 
 Los servicios siguientes requieren configuraciones especiales en el programa CSP:
 
@@ -47,15 +45,15 @@ Los servicios siguientes requieren configuraciones especiales en el programa CSP
 
 - [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Almacén de claves](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Almacén de claves](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/). Solo los usuarios del inquilino del cliente pueden acceder a los datos en su entorno de Time Series Insights. De forma predeterminada, los partners pueden administrar el entorno de Time Series Insights de su cliente, pero si tienen que acceder a los datos que contiene, deben agregarse al inquilino del cliente. 
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/). Solo los usuarios del inquilino del cliente pueden acceder a los datos en su entorno de Time Series Insights. De forma predeterminada, los partners pueden administrar el entorno de Time Series Insights de su cliente, pero si tienen que acceder a los datos que contiene, deben agregarse al inquilino del cliente.
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 Ahora puedes comprar los elementos que se enumeran a continuación desde Visual Studio Marketplace, a excepción de las extensiones de terceros.
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Suscripciones a Visual Studio](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ Ahora puedes comprar los elementos que se enumeran a continuación desde Visual 
 
 Para ayudarte a empezar, hemos creado vídeos y documentación sobre [cómo configurar, comprar y administrar Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) en CSP.
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Elementos de Azure Marketplace en el programa CSP de Azure
+## <a name="azure-marketplace-items-in-azure-csp"></a>Elementos de Azure Marketplace en el programa CSP de Azure
 
 No todos los elementos de Azure Marketplace están disponibles actualmente en las suscripciones al programa CSP de Azure.
 
@@ -71,12 +69,13 @@ No todos los elementos de Azure Marketplace están disponibles actualmente en la
 
 - Elementos de Traiga su propia licencia (BYOL): estos elementos están disponibles. Una lista completa de elementos de Azure Marketplace habilitados para BYOL están disponibles en la [página de BYOL de Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol).
 
-- Elementos de terceros de Azure Marketplace de pago por uso: estos elementos están disponibles si el proveedor ha publicado contenido en el canal del programa CSP. Para más información, consulta [Vender suscripciones a productos de Azure Marketplace](https://aka.ms/marketplaceincsp).   
+- Elementos de terceros de Azure Marketplace de pago por uso: estos elementos están disponibles si el proveedor ha publicado contenido en el canal del programa CSP. Para más información, consulta [Vender suscripciones a productos de Azure Marketplace](https://aka.ms/marketplaceincsp).
 
 - Citrix XenApp Essentials: los asociados pueden comprar XenApp Essentials para los clientes del programa CSP. Para obtener más información, consulta la siguiente entrada de blog de Citrix sobre la [disponibilidad de la distribución de XenApp Essentials a través del canal del proveedor de soluciones en la nube de Microsoft](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/).
 
-### <a name="national-clouds"></a>Nubes nacionales 
-En la tabla siguiente se muestra una lista actualizada periódicamente de los productos, servicios y características de Azure de primera parte disponibles para CSP en nubes nacionales. 
+## <a name="national-clouds"></a>Nubes nacionales
+
+En la tabla siguiente se muestra una lista actualizada periódicamente de los productos, servicios y características de Azure de primera parte disponibles para CSP en nubes nacionales.
 
 | Producto, servicio o característica de Azure | Gobierno de EE. UU. | Alemania |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ En la tabla siguiente se muestra una lista actualizada periódicamente de los pr
 |  Azure Migrate  |    |    |
 |  grupos de administración  |    |  
 
-### <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Obtén información](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview) acerca de las funcionalidades disponibles para Azure en el Centro de Partners.
 

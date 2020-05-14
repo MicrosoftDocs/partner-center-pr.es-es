@@ -1,23 +1,24 @@
 ---
-title: Agregar licencias o servicios a una suscripción existente | Centro de partners
+title: Actualización de una suscripción de cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información sobre cómo actualizar o modificar la suscripción de un cliente, como agregar más licencias o puestos, o mover a otra versión con otros servicios.
+description: Obtén información sobre cómo actualizar o modificar la suscripción de un cliente. Agrega más licencias o más puestos, o bien cambia a otra versión con más servicios.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798653"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975126"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Agregar licencias o servicios a una suscripción existente
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adición de licencias, puestos o más servicios a la suscripción de un cliente
 
 **Se aplica a**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798653"
 - Agente de ventas
 - Agente del departamento de soporte técnico
 
-Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción. Para obtener más información, consulta [Cambiar a otro plan de Office 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Si el cliente necesita más puestos de los que proporciona su suscripción actual, o bien una versión diferente con servicios adicionales, es posible que puedas actualizar la suscripción. Para obtener más información, consulta [Cambiar a otro plan de Aplicaciones de Microsoft 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Empresa</td>
+<td>Aplicaciones de Microsoft 365 para empresas</td>
 <td><ul>
-<li>Office 365 Empresa Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Empresa Premium¹</li>
+<li>Aplicaciones de Microsoft 365 para empresas</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Empresa Premium</td>
+<td>Microsoft 365 Empresa Estándar</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Empresa Essentials</td>
+<td>Microsoft 365 Empresa Básico</td>
 <td><ul>
-<li>Office 365 Empresa Premium¹</li>
+<li>Microsoft 365 Empresa Estándar¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,14 +79,14 @@ Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Empresa India y Office 365 Empresa Essentials India se pueden actualizar a Office 365 Empresa Premium India, no a Office 365 Empresa Premium.</p></td>
+<td><p>¹ Las suscripciones Aplicaciones de Microsoft 365 para empresas India y Microsoft 365 Empresa Básico India pueden actualizarse a Microsoft 365 Empresa Estándar India, pero no a Microsoft 365 Empresa Estándar.</p></td>
 </tr>
 </tbody>
 </table>
 
 Las suscripciones se pueden actualizar si se cumplen estas condiciones:
 
--   La suscripción debe estar activa (no suspendida ni cancelada).
+-   La suscripción debe estar activa (no puede estar suspendida ni cancelada).
 
 -   Debes tener privilegios de administrador delegado para este cliente y este servicio. Obtén información sobre cómo hacerlo en [Solicitar privilegios de administrador delegado](request-a-relationship-with-a-customer.md).
 

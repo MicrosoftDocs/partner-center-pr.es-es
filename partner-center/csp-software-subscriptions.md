@@ -1,7 +1,7 @@
 ---
-title: Venta de suscripciones de software a través de CSP | Centro de partners
+title: Venta de suscripciones de software a través de CSP
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para comprar, administrar, vender y cancelar instancias reservadas de Azure y las suscripciones de servidor para los clientes.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software, cancelar software
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798433"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907955"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Venta de suscripciones de software a través de CSP
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 
 **Se aplica a**
 
@@ -32,7 +32,7 @@ Con las reservas de Azure y las suscripciones de servidor (Windows Server y SQL 
 
 Ahora puedes adquirir, aprovisionar y administrar reservas de Azure y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners y Azure Portal aprovechando la Ventaja híbrida de Azure.
 
-La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias de Windows Server y a ahorrar hasta un 40 por ciento en máquinas virtuales. Puedes usar la ventaja con las licencias de las ediciones Standard y Datacenter de Windows Server cubiertas con Software Assurance. Según la edición, puedes convertir las licencias o volver a usarlas para ejecutar máquinas virtuales de Windows Server en Azure y pagar una tarifa de cálculo base inferior (tarifas de máquinas virtuales de Linux, por ejemplo).
+La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias de Windows Server y a ahorrar hasta un 40 por ciento en máquinas virtuales. Puedes usar la ventaja con las licencias de las ediciones Standard y Datacenter de Windows Server cubiertas con Software Assurance. Según la edición, puedes convertir las licencias o volver a usarlas para ejecutar máquinas virtuales de Windows Server en Azure y pagar una tarifa de proceso base inferior (por ejemplo, tarifas de máquinas virtuales Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados no disponibles de reservas de Azure
 
@@ -179,9 +179,9 @@ Después de cancelar una compra:
 
 - Se revocarán todas las claves de software y vínculos de descarga relacionados. Esto significa que, en adelante, ni tú ni tu cliente podréis usar las claves de software y los vínculos de descarga que estén más relacionados con esta compra. Tú y tu cliente sois responsables de dejar de usar todo el software cancelado. También eres responsable de desinstalar el software cancelado y de quitar todos los vínculos y descargas de software relacionados.
 
-- El elemento cancelado seguirá apareciendo en la página de detalles de software del cliente, pero la clave de activación no estará disponible.
+- El elemento cancelado seguirá apareciendo en la página de detalles del software del cliente, pero la clave de activación no estará disponible.
 
-- Aparecerá un crédito para el pedido cancelado en la siguiente factura mensual. El software perpetuo recibirá un crédito del 100 % y las suscripciones de software recibirán un crédito prorrateado.
+- Aparecerá un crédito correspondiente al pedido cancelado en la siguiente factura mensual. El software perpetuo recibirá un crédito del 100 % y las suscripciones de software recibirán un crédito prorrateado.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Envío de una solicitud de soporte al cliente para cancelar una compra
 

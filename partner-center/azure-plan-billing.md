@@ -1,7 +1,7 @@
 ---
-title: Facturación del plan de Azure | Centro de partners
+title: 'Facturación del plan de Azure: facturas y archivos de conciliación'
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a obtener acceso y a comprender la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240251"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908359"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -62,7 +63,7 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 ## <a name="understanding-usage-data"></a>Explicación de los datos de uso 
 
-1. El plan de Azure es el contenedor raíz o de nivel superior para el uso. Todo el uso está vinculado a un único plan de Azure. 
+1. El plan de Azure es el contenedor raíz o de nivel superior para el uso. Todo el uso está vinculado a un único plan de Azure.
 
 2. En un plan, habrá una o varias suscripciones de Azure. Estos son los contenedores que se usan para la implementación y la administración de recursos. 
 
@@ -72,7 +73,7 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 5. Los recursos emiten medidores: Los medidores son medidas de consumo de un recurso, y un recurso puede emitir el uso de varios medidores. Los medidores se identifican mediante ProductId, SKUId y AvailabilityId. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Jerarquía de grupos de recursos de suscripción y medición
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Jerarquía de grupos de recursos de suscripción y medición
 
 **Cuenta de Azure (inquilino)**
 
@@ -98,7 +99,7 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 ## <a name="read-the-invoice"></a>Leer la factura
 
-1. La factura estará disponible el día 8 de cada mes a más tardar.
+1. La factura estará disponible el día ocho de cada mes a más tardar.
 
 2. Los partners tienen 60 días para remitir el pago.
 
@@ -118,7 +119,7 @@ Para ver las facturas históricas y los archivos de conciliación, amplía la fi
 
 3. Si no existen recursos para un medidor concreto que es apto para el descuento o el crédito obtenido del partner, el archivo de conciliación solo contendrá una línea de facturación y el precio por unidad vigente será el precio de venta al por menor (que es el precio por unidad).
 
-4. Si el medidor (o cualquier recurso que este emita) es apto para el **crédito obtenido del partner por los servicios administrados** durante una parte del mes, el archivo de conciliación contendrá dos líneas de facturación. Una línea representará los días que el medidor haya calificado y la segunda línea representará los días que el medidor no calificó. 
+4. Si el medidor (o cualquier recurso que este emita) es apto para el **crédito obtenido del partner para los servicios administrados** durante una parte del mes, el archivo de conciliación contendrá dos líneas de facturación. Una línea representará los días que el medidor haya calificado y la segunda línea representará los días que el medidor no calificó. 
 
 ## <a name="read-the-daily-usage-file"></a>Leer el archivo de uso diario
 

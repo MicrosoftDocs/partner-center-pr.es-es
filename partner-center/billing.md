@@ -1,23 +1,24 @@
 ---
-title: Facturación | Centro de partners
+title: 'Referencia: artículos sobre facturación del Centro de partners'
 ms.topic: article
-ms.date: 04/02/2020
+ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Lista de temas de facturación e impuestos del Centro de partners, con información sobre recursos de facturación, facturas, facturación de CSP e impuestos.
+Description: Obtén información sobre los temas de facturación e impuestos en el Centro de partners. La información abarca los recursos de facturación, las facturas, la facturación de CSP y los impuestos.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: high
-ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ef1f162d181fd4fa3f7c806cabb781ff6010a6dc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798583"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908234"
 ---
-# <a name="billing-and-taxes"></a>Facturación e impuestos
+# <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
 
 **Se aplica a**
 

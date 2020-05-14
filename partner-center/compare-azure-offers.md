@@ -1,7 +1,7 @@
 ---
-title: Comparar ofertas de Azure | Centro de Partners
+title: Comparación de ofertas de Azure para partners de CSP
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Compara las diferencias clave entre las ofertas de la nueva experiencia de Microsoft Commerce para partners en el programa de Proveedor de soluciones en la nube (CSP).
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021760"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908171"
 ---
-# <a name="compare-azure-offers"></a>Comparar ofertas de Azure
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparación de las diferencias entre las ofertas de Azure en el programa de CSP
 
 **Roles adecuados**
 
@@ -33,7 +34,7 @@ En la tabla siguiente se proporciona información general sobre las diferencias 
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Facturación|Mensual|Variable (dependiente de la oferta)|Cliente final|Por adelantado para el plazo completo o de tres años|Mensual o anual|
 |Licenciatario|Cliente final|Variable (dependiente de la oferta)|Cliente final| Cliente final|   Cliente final|
-|Plazo de cobertura|Activo hasta la cancelación|Variable (dependiente de la oferta)|Consulta la descripción de la oferta|Todas las instancias de Azure Reservations tienen su propio período de cobertura único.    Todas las suscripciones de servidor tendrán su propio período de cobertura único.|   Las licencias adicionales basadas en puestos se ajustarán al período de cobertura existente|
+|Plazo de cobertura|Activo hasta la cancelación|Variable (dependiente de la oferta)|Consulta la descripción de la oferta|Todas las instancias de Azure Reservations tienen su propio período de cobertura único. Todas las suscripciones de servidor tendrán su propio período de cobertura único.|   Las licencias adicionales basadas en puestos se ajustarán al período de cobertura existente|
 |Renovación automática|Sí|Sí|No| No|Sí|
 |Varias monedas|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Factura basada en la ubicación/moneda del cliente|Basada en la ubicación y moneda del partner| 
 |Archivo de factura y conciliación|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente.  También se proporcionarán archivos de uso con una clasificación diaria (tanto para las partes facturadas como para las no facturadas) |Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Archivo de factura y conciliación independiente para cada ubicación y moneda del cliente|Todos los pedidos en un archivo de factura y conciliación|
@@ -42,7 +43,7 @@ En la tabla siguiente se proporciona información general sobre las diferencias 
 |Disponibilidad geográfica|139 países: aquí encontrará una lista completa de esos países.|En New Commerce Offers Country Availability and Customer Currency Matrix (Disponibilidad por países de ofertas comerciales nuevas y matriz de monedas de clientes), se muestra el ámbito en el que el partner puede poner estas ofertas a disposición del CSP.|Para más información, consulta New Commerce Offers Country Availability and Customer Currency Matrix. La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|Para más información, consulta New Commerce Offers Country Availability and Customer Currency Matrix.  La misma programación de implementación se aplica a todas las ofertas comerciales nuevas.|247 países|
 |Requisitos de admisión|Requisitos de soporte técnico del CSP estándar|La empresa que publica las ofertas es responsable del soporte técnico.  El partner de CSP es responsable de las actividades anteriores a la venta, las transacciones y el soporte técnico de facturación.|Requisitos de soporte técnico del CSP estándar|Requisitos de soporte técnico del CSP estándar|Requisitos de soporte técnico del CSP estándar|
 
-\* Microsoft proporcionará las API de precio de lista en el cuarto trimestre para el acceso en tiempo real mediante programación a los precios de medidor de Azure.
+\* Microsoft proporcionará las API de la lista de precios en el cuarto trimestre para el acceso en tiempo real mediante programación a los precios del medidor de Azure.
 
 **Para más información**
 

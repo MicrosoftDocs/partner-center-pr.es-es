@@ -1,22 +1,23 @@
 ---
-title: Ofertas de partners en el programa Proveedor de soluciones en la nube | Centro de partners
+title: Ofertas para partners en el programa CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información sobre las ofertas disponibles para los partners que venden a través del programa Proveedor de soluciones en la nube.
+description: Como asociado del programa CSP, obtén información sobre el creciente catálogo de servicios en la nube de Microsoft y las ofertas que puedes vender a los clientes.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, programa Proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de partners, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server Azure, suscripciones de clientes
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722538"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362333"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Ofertas de partners en el programa Proveedor de soluciones en la nube
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
 
 **Se aplica a**
 
@@ -39,31 +40,31 @@ Los partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP
 
 Actualmente, puedes vender los siguientes tipos de productos y servicios a tus clientes de CSP:
 
-- Reservas de Azure<br> 
+### <a name="azure-reservations"></a>Reservas de Azure
 
-    Los clientes pueden reservar espacio por adelantado en máquinas virtuales de Azure durante un plazo de 1 o 3 años.<br>
-    
-    Para más información, consulta [Vender Microsoft Azure Reserved VM Instances](azure-reservations.md).
+   Los clientes pueden reservar espacio por adelantado en máquinas virtuales de Azure durante un plazo de 1 o 3 años.
 
-- Software<br>
+   Para obtener más información, consulta [Vender Microsoft Azure Reserved VM Instances](azure-reservations.md).
 
-    Los clientes pueden comprar suscripciones de software (para Windows Server y SQL Server, durante un plazo de 1 o 3 años, para ejecutar en Azure Reserved VM Instances).<br>
- 
-    Para más información, consulta [Vender suscripciones de software a través de CSP](csp-software-subscriptions.md).  
+### <a name="software"></a>Software
 
-- Servicios en línea<br>
+   Los clientes pueden comprar suscripciones de software (para Windows Server y SQL Server, durante un plazo de 1 o 3 años, para ejecutar en Azure Reserved VM Instances).
 
-    *Servicios en línea* es el nuevo nombre de lo que actualmente se conoce como *suscripciones*. Para que sea más fácil solicitar varios tipos de productos en un solo lugar, hemos integrado el flujo de tareas de "Agregar suscripción" en el flujo de tareas de "Agregar productos".<br>
-    
-    Para más información, consulta [Suscripciones de cliente](customer-subscriptions.md).
+   Para obtener más información, consulta [Vender suscripciones de software a través de CSP](csp-software-subscriptions.md).  
 
-- Software como servicio (SaaS) y otros productos de [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)<br>
+### <a name="online-services"></a>Servicios en línea
 
-    Puedes vender suscripciones a productos SaaS de fabricantes de software independientes (ISV). Para ver solo las ofertas de SaaS en **Servicios en línea**, usa los filtros para establecer **Editor** en **Partner**. Se mostrarán todas las ofertas de SaaS que se pueden adquirir para ese cliente.<br>
-    
-    También puedes encontrar información sobre estos productos en la página **Marketplace**. Ten en cuenta que esta página también incluye información sobre otros tipos de productos que deben adquirirse en Azure Portal, no en el Centro de partners.<br>
+   *Servicios en línea* es el nuevo nombre de lo que actualmente se conoce como *suscripciones*. Para que sea más fácil solicitar varios tipos de productos en un solo lugar, hemos integrado el flujo de tareas de "Agregar suscripción" en el flujo de tareas de "Agregar productos".
 
-    Para obtener más información, consulta la [información general de Marketplace comercial de CSP](CSP-commercial-marketplace-overview.md)
+   Para obtener más información, consulta [Suscripciones de cliente](customer-subscriptions.md).
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software como servicio (SaaS) y otros productos de [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
+
+   Puedes vender suscripciones a productos SaaS de fabricantes de software independientes (ISV). Para ver solo las ofertas de SaaS en **Servicios en línea**, usa los filtros para establecer **Editor** en **Partner**. Se mostrarán todas las ofertas de SaaS que se pueden adquirir para ese cliente.
+
+   También puedes encontrar información sobre estos productos en la página **Marketplace**. Ten en cuenta que esta página también incluye información sobre otros tipos de productos que deben adquirirse en Azure Portal, no en el Centro de partners.
+
+   Para obtener más información, consulta la [información general de Marketplace comercial de CSP](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Detalles de la página Agregar productos
 
@@ -81,14 +82,14 @@ En la siguiente lista se identifica cada una de las nuevas áreas de la página 
 
 **Categoría**: Identifica el tipo de negocio que admite el producto y si ofrece una versión de prueba.
 
-**View SKU, view product** (Ver SKU, ver producto): Selecciona esta opción para alternar entre las listas de productos y SKU. **Productos**  enumera cada producto individualmente; **SKU**  enumera los grupos de productos.
+**View SKU, view product** (Ver SKU, ver producto): Selecciona esta opción para alternar entre las listas de productos y SKU. La página **Productos**  enumera cada producto individualmente; **SKU**  enumera los grupos de productos.
 
 ## <a name="buy-csp-offers"></a>Comprar ofertas de CSP
 
 Para comprar productos y servicios en nombre de los clientes de CSP, selecciona los elementos que quiera el cliente, agrégalos a tu carro, lo que crea un pedido y, luego, revisa el pedido y envíalo. El proceso general se describe a continuación. (Para más información sobre los pedidos de un tipo de producto específico, consulta los vínculos anteriores).
 
->[Nota] Una oferta de CSP debe estar disponible tanto en el país del inquilino como en el país del inquilino del cliente. 
->Por ejemplo, si el inquilino se encuentra en Eslovaquia y el inquilino del cliente está en Alemania, no podrás vender Dynamics 365 Business Central Premium a ese cliente, ya que esta oferta no está disponible actualmente en Eslovaquia.
+>[!Note]
+>Una oferta de CSP debe estar disponible tanto en el país del inquilino como en el país del inquilino del cliente. Por ejemplo, si el inquilino se encuentra en Eslovaquia y el inquilino del cliente está en Alemania, no podrás vender Dynamics 365 Business Central Premium a ese cliente, ya que esta oferta no está disponible actualmente en Eslovaquia.
 
 1. Selecciona **Clientes** en el menú de Centro de partners y, luego, busca al cliente que quiere comprar contigo. 
 
@@ -96,22 +97,18 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 
 3. En la página **Agregar productos**, selecciona entre **Azure**, **Servicios en línea** o **Software**.
 
-4. Ajusta los filtros disponibles para encontrar más fácilmente los productos que estás buscando. Para ver la lista completa de lo que está disponible, establece los filtros correspondientes en **cualquiera**. 
+4. Ajusta los filtros disponibles para encontrar más fácilmente los productos que estás buscando. Para ver la lista completa de lo que está disponible, establece los filtros correspondientes en **cualquiera**.
 
 5. Selecciona el producto que quiere el cliente, escribe la cantidad deseada y, luego, selecciona **Agregar al carro**.
 
 6. Repite los pasos 4 y 5 hasta que hayas agregado al carro todos los elementos necesarios. Selecciona **Revisar** para verificar que el pedido esté correcto.  
 
-7. En la página **Revisar los pedidos**, verifica o cambia los productos y las cantidades y, luego, selecciona **Comprar** para comprar el pedido. 
+7. En la página **Revisar los pedidos**, verifica o cambia los productos y las cantidades y, luego, selecciona **Comprar** para comprar el pedido.
 
-8. Los detalles de tu pedido, incluido el número del pedido, se muestran en la página siguiente. Selecciona **Listo** para ir a tu página **Historial de pedidos**. 
+8. Los detalles de tu pedido, incluido el número del pedido, se muestran en la página siguiente. Selecciona **Listo** para ir a tu página **Historial de pedidos**.
 
-**Más información** 
+## <a name="next-steps"></a>Pasos siguientes
 
-Para obtener información sobre cómo funciona el proceso de facturación, consulta [Conceptos básicos de la facturación](https://docs.microsoft.com/partner-center/billing-basics).
+Para obtener información sobre cómo funciona el proceso de facturación, consulta [Conceptos básicos sobre facturación](https://docs.microsoft.com/partner-center/billing-basics).
 
-Para obtener información sobre la compra en el plan de Azure, lee [Compra del plan de Azure](purchase-azure-plan.md).
-
-## <a name="see-also"></a>Consulta también
-
-[Información general sobre Marketplace comercial de CSP](csp-commercial-marketplace-overview.md)
+Para obtener información sobre la compra en el plan de Azure, consulta [Compra del plan de Azure](purchase-azure-plan.md).

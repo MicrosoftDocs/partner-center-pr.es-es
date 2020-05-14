@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Administra aspectos de tu empresa como el perfil, el catálogo, la información bancaria y fiscal, los roles, los permisos y mucho más en el Centro de partners.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798773"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859371"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar la cuenta del Centro de partners
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798773"
 
 - Centro de partners
 
-La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta en el Centro de partners, el administrador o tú tendréis que finalizar la configuración del perfil completo de tu empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de tu empresa también incluirá cuentas de usuario para todos aquellos que usarán el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
+La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta en el Centro de partners, tendrás que finalizar la configuración del perfil completo de tu empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de tu empresa también incluirá cuentas de usuario para todos aquellos que usarán el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
+
+Consulta también 
+- [Invitar a empleados a unirse al Centro de partners](guide-to-migration.md)
+- [Agregar un usuario nuevo](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programas en los que estás inscrito
 
 Gran parte del trabajo que se lleva a cabo para administrar la cuenta del Centro de partners está relacionado con los programas específicos en los que estás inscrito, y con los permisos y roles de usuario que se te han asignado en el Centro de partners.
 
-Es fácil ver a qué programas tienes acceso en el Centro de partners:
+Para ver a qué programas tienes acceso en el Centro de partners:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 2. Observa el panel de navegación izquierdo. Aparecerán las opciones asociadas a los programas a los que estás inscrito.
@@ -101,6 +105,7 @@ Si estás inscrito en programas como los de MPN o Proveedor de soluciones en la 
 |**Para**   |**Lee esto**   |
 |-----------------------|:-----------------------|
 |Asegurarte de que el perfil de la empresa esté actualizado   |[Actualizar tu perfil de asociado](update-your-partner-profile.md)|
+|Agregar usuarios nuevos|[Crear cuentas de usuario y asignar permisos](create-user-accounts-and-set-permissions.md)|
 |Todos los miembros de tu empresa que tienen que trabajar en el Centro de partners deben tener roles asignados. Cada rol tiene tareas y permisos específicos a su disposición.|[Crear cuentas de usuario y establecer permisos](create-user-accounts-and-set-permissions.md)|
 |Revisar los permisos que conlleva cada rol|[Asignar roles y permisos de usuarios](permissions-overview.md)
 |Administrar las ubicaciones de la empresa|[Administrar su cuenta de socio comercial: ubicaciones](manage-locations.md)

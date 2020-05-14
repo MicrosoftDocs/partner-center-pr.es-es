@@ -1,23 +1,23 @@
 ---
-title: Información general sobre la facturación | Centro de partners
+title: Información general sobre la facturación del Centro de partners
 ms.topic: article
-ms.date: 04/03/2020
-description: Obtén información sobre la facturación básica y la información de facturación del Centro de partners.
+ms.date: 05/05/2020
+description: Obtén información básica sobre la facturación y las facturas para los partners de CSP en el Centro de partners. También se incluyen instrucciones sobre cómo facturar a los clientes y cómo buscar y leer tu factura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676814"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908244"
 ---
-# <a name="billing-overview"></a>Información general sobre la facturación
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Información general sobre facturación para los partners de programas de CSP que trabajan en el Centro de partners 
 
 **Se aplica a**
 
