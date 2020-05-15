@@ -1,19 +1,20 @@
 ---
 title: Asociado con distribuidores indirectos en CSP
+description: Como proveedor o distribuidor indirecto, obtenga información sobre cómo ampliar asociados con distribuidores indirectos. Esto incluye las tareas que puede realizar en el centro de Partners.
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como proveedor indirecto, o distribuidor, obtenga información sobre cómo ampliar asociados con distribuidores indirectos. Esto incluye las tareas que puede realizar en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362573"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394121"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -99,8 +100,8 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 
 | **Para lograr esto** | **Haga esto** | **Where** |
 |   ------------------   |   -------   |   -----   |
-|Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la página **nuevo cliente** |
-|Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
+| Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la página **nuevo cliente** |
+| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
 | Conceda al reseller el crédito para obtener incentivos | Asociar el revendedor a la suscripción (nuevo o existente) | En la página **nueva suscripción** |
 | Delegación del soporte al cliente para suscripciones específicas al distribuidor | Seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . | En la página de detalles de la suscripción: seleccione la página cliente de su **clientes** y, a continuación, seleccione la suscripción en la página **suscripciones** del cliente. |
 
@@ -123,8 +124,9 @@ Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la 
 5. Si el orden es correcto, seleccione **submit (enviar**). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
 
 6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación**, se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
+
     > [!IMPORTANT]  
-    > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no podrá obtener acceso a esta información de nuevo después de cerrar esta página.
+    > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no puede tener acceso a esta información de nuevo después de cerrar esta página.
 
 7. Seleccione **Listo**. El nuevo cliente aparece en la lista de clientes, asociado al revendedor indirecto. Ahora, el distribuidor tiene acceso de administrador a la información de la cuenta y las suscripciones del cliente, y puede administrar las suscripciones en nombre del cliente.
 

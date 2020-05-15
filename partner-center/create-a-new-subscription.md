@@ -1,21 +1,22 @@
 ---
-title: Crear, suspender o cancelar suscripciones de clientes
+title: Crear suscripciones de cliente en el centro de Partners
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aprenda a vender las suscripciones de su cliente a los productos del catálogo después de haber creado un registro de cliente en el centro de Partners.
+description: Aprenda a vender sus suscripciones de clientes a productos publicados por Microsoft, así como a productos SaaS publicados por fabricantes de software independientes de terceros.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362363"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394151"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -37,12 +38,12 @@ Después de crear un registro del cliente en el Centro de partners, puedes vende
 
 Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Centro de partners.
 
->[!IMPORTANT]
-Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, consulte [comprar productos comerciales de Marketplace](csp-commercial-marketplace-purchase.md).
+> [!IMPORTANT]
+> Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, consulte [comprar productos comerciales de Marketplace](csp-commercial-marketplace-purchase.md).
 
 ## <a name="create-a-new-subscription"></a>Crear una nueva suscripción
 
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard).
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
@@ -55,11 +56,11 @@ Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **bas
 
 5. Seleccione las suscripciones de producto que desea comprar para su cliente. Los productos que se ven dependen del tipo de segmento de cliente (educación, gobierno, etc.) y de los filtros aplicados. Es posible que algunas ofertas que se muestran en Marketplace no siempre estén disponibles para un cliente específico o un asociado de CSP específico. Esto puede deberse a:
 
-    - El cliente ya tiene una suscripción a ese producto y solo se permite uno.
+   - El cliente ya tiene una suscripción a ese producto y solo se permite uno.
 
-    - Es posible que se haya suspendido la suscripción del cliente (en este caso, puede reactivar la suscripción en lugar de adquirir una nueva).
+   - Es posible que se haya suspendido la suscripción del cliente (en este caso, puede reactivar la suscripción en lugar de adquirir una nueva).
 
-    - En el caso de las ofertas de SaaS de ISV, puede haber varias razones por las que la oferta no está disponible para su compra: es posible que el ISV no sea compatible con el país o la región de facturación del cliente. es posible que el ISV haya elegido no poner la oferta a disposición a través del programa CSP; o bien, es posible que el ISV haya realizado la oferta [exclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) para ciertos asociados de CSP. La oferta ISV también puede no ser transactable a través del centro de Partners (por ejemplo, contenedores o algunas ofertas basadas en el uso).  
+   - En el caso de las ofertas de SaaS de ISV, puede haber varias razones por las que la oferta no está disponible para su compra: es posible que el ISV no sea compatible con el país o la región de facturación del cliente. es posible que el ISV haya elegido no poner la oferta a disposición a través del programa CSP; o bien, es posible que el ISV haya realizado la oferta [exclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) para ciertos asociados de CSP. La oferta ISV también puede no ser transactable a través del centro de Partners (por ejemplo, contenedores o algunas ofertas basadas en el uso).  
 
 6. Para cada suscripción que quiera agregar, escriba el número de licencias (si es necesario) y seleccione **Agregar al carro**.
 
