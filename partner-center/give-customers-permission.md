@@ -1,8 +1,8 @@
 ---
-title: Conceder permiso a los clientes para que compren sus propios servicios
-description: Obtenga información sobre cómo los asociados de programas de CSP pueden permitir a los clientes comprar sus propios servicios, como las reservas de Azure, para una suscripción adquirida para ellos.
+title: Permitir a los clientes comprar sus propios servicios en CSP
+description: Obtenga información acerca de cómo los asociados de programas de CSP pueden permitir a los clientes comprar sus propios servicios, como las reservas de Azure, para una suscripción adquirida en el centro de Partners.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: suscripción, compra de autoservicio, RI de autoservicio, habilitar RI, deshabilitar RI, autoservicio, compra de clientes, permisos de cliente, instancia reservada de compra de clientes, reservas de Azure de clientes, activar autoservicio, desactivar autoservicio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394132"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795115"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Cómo dar permiso a los clientes para que compren sus propios productos o servicios
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dar permiso a los clientes en el centro de partners para comprar sus propios productos o servicios
 
 **Se aplica a**
 

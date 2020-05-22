@@ -1,33 +1,35 @@
 ---
-title: Facturas e impuestos en el Microsoft Partner Network | Centro de Partners
+title: Microsoft Partner Network facturas & impuestos
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información sobre cómo ver o descargar la factura de pertenencia a MPN, así como el archivo de exención fiscal y enviar el número de identificación de IVA.
+description: Obtenga información sobre cómo ver o descargar la factura de pertenencia a MPN, cómo archivar la exención fiscal y cómo enviar a Microsoft el número de identificación de IVA.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, factura, mapas, exento de impuestos, IVA, ID. de IVA
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004264"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795942"
 ---
-# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en el Microsoft Partner Network
+# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en Microsoft Partner Network
 
 **Se aplica a**
 
--  Centro de asociados
+- Centro de partners
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Administrador de partners de MPN
--   Administrador de facturación
--   Agente de administración
+
+- Administrador global
+- Administrador de usuarios
+- Administrador de partners de MPN
+- Administrador de facturación
+- Agente de administrador
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Visualización o descarga de la factura de pertenencia a MPN
 
@@ -37,7 +39,7 @@ Para llevar a cabo este procedimiento, debe ser un administrador global o un adm
 
 1.  Inicie sesión en el [centro de Partners](https://partner.microsoft.com/dashboard/home) con su cuenta profesional y seleccione **MPN** en el menú de la izquierda.
 
-4.  En la lista desplegable, seleccione **ofertas de pertenencia** para ver las ofertas disponibles para su compra, así como las facturas disponibles para el año de inscripción actual. Para ver las facturas de los años anteriores, seleccione **expirado**.
+4.  En la lista desplegable, seleccione **ofertas de pertenencia** para ver las ofertas disponibles para su compra, así como las facturas disponibles para el año de inscripción actual. Para ver las facturas de años anteriores, seleccione **Caducado**.
 
 6.  Seleccione la factura que desee y, a continuación, seleccione **Descargar factura**. 
 

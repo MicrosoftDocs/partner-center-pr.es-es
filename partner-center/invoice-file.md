@@ -1,27 +1,29 @@
 ---
-title: Archivos de factura | Centro de Partners
+title: Descripción de los campos de las facturas de facturación
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: Comprenda los campos del archivo de factura para la facturación del centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, factura
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798903"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794865"
 ---
-# <a name="invoice-files"></a>Archivos de factura
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Facturas de facturación del centro de Partners: Aprenda a leer los campos de facturación y de cargos de un solo uso
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Administrador de facturación
--   Agente del departamento de soporte técnico
+
+- Administrador global
+- Administrador de usuarios
+- Administrador de facturación
+- Agente del departamento de soporte técnico
 
 Puede usar las tablas siguientes para comprender los campos de los archivos de factura del centro de Partners.
 

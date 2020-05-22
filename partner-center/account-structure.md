@@ -1,22 +1,23 @@
 ---
-title: La estructura de la cuenta en el centro de Partners | Centro de Partners
+title: Dos niveles de cuentas de asociado de MPN
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de los dos niveles de cuentas del centro de Partners, la cuenta global de socio comercial (PGA) y la cuenta de ubicación de asociados (PLA).
+description: Los asociados de MPN pueden obtener información acerca de los dos niveles de cuentas del centro de Partners, la cuenta global de socio comercial (PGA) y la cuenta de ubicación de asociados (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171195"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794996"
 ---
-# <a name="the-account-structure-in-partner-center"></a>La estructura de la cuenta en el centro de Partners
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>El centro de Partners tiene dos niveles de cuentas para los asociados de MPN
 
 **Se aplica a**
 

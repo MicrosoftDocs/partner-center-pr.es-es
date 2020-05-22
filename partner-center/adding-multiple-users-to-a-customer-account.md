@@ -1,23 +1,24 @@
 ---
-title: Crear varios usuarios para una cuenta de cliente | Centro de partners
+title: Agregar varios usuarios para una cuenta de cliente
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo agregar varios usuarios a la cuenta de un cliente a la vez, cargando un archivo de datos en el formato de archivo de valores separados por comas (. csv) en el centro de Partners.
+description: Obtenga información sobre cómo agregar varios usuarios a la cuenta de un cliente a la vez. Cargue un archivo de datos en el centro de Partners con el formato de archivo de valores separados por comas (. csv).
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: carga masiva, adición de varios usuarios a la cuenta de un cliente, adición de usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798633"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794902"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Agregar varios usuarios a una cuenta de cliente
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Agregar varios usuarios a una cuenta de cliente: cargar un archivo de datos en el centro de Partners
 
 **Se aplica a**
 
@@ -43,7 +44,7 @@ Escribe los siguientes datos en el archivo de datos:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nombre de la columna** | **Descripción**                                                              | **Limitación**                             |
+| **Nombre de columna** | **Descripción**                                                              | **Limitación**                             |
 | Nombre      | Nombre del usuario (campo opcional)                                           | límite de 50 caracteres                         |
 | Apellido       | Los apellidos del usuario (campo opcional)                                            | límite de 50 caracteres                         |
 | Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | límite de 50 caracteres                         |
@@ -68,7 +69,7 @@ Escribe los siguientes datos en el archivo de datos:
 
 7. Seleccione **Validar**.
 
-    **Tenga**  en cuenta que la mayoría de los errores de creación de cuentas están causados por problemas de archivos de datos, incluida la información que falta, direcciones de correo electrónico con formato incorrecto o duplicadas o demasiados registros en el archivo.
+    **Nota:**    La mayoría de los errores de creación de cuentas están causados por problemas de archivos de datos, incluida la información que falta, direcciones de correo electrónico con formato incorrecto o duplicadas o demasiados registros en el archivo.
 
 8. Una vez que el centro de Partners valida el archivo, seleccione la **Ubicación** geográfica para los nuevos usuarios.
 9. Seleccione **Guardar**.

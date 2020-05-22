@@ -1,22 +1,23 @@
 ---
-title: Guía para la migración de varias empresas de PMC al Centro de partners
+title: Migrar compañías de PMC al centro de Partners
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Qué debe saber al migrar varias empresas de PMC al centro de Partners y consolidarlas en una cuenta global de socio comercial.
+description: Qué debe saber al migrar varias compañías del centro de pertenencia de asociados (PMC) al centro de Partners y consolidarlas en una cuenta global de socio comercial.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362753"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795785"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>Paso de varias empresas al Centro de partners
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
 **Roles adecuados**
 

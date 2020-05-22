@@ -1,20 +1,21 @@
 ---
 title: Más información sobre la comercialización con ofertas de Microsoft
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo la comercialización con ofertas de Microsoft puede ayudar a acelerar el tiempo de comercialización, generar clientes potenciales y ampliar su negocio.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN, beneficios de la pertenencia, pertenencia, ofertas de comercialización, comercialización en el mercado con Microsoft, la participación en el mercado, la membresía Gold, la pertenencia a Silver
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362723"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795825"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore su comercialización con ofertas de Microsoft
 
@@ -70,7 +71,7 @@ Para ver las ofertas de comercialización:
 
     - Seleccione **Información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
 
-      or
+      o
 
     - Seleccione **beneficios** seguidos de la **comercialización**.
 

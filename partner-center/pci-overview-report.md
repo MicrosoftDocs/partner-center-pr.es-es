@@ -1,24 +1,24 @@
 ---
-title: 'Partner Center Insights: panel de información general | Centro de Partners'
+title: Panel de información general de Partner Center Insights
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea exactamente lo que está haciendo bien y dónde puede mejorar en lo que respecta a las ventas e implementación, y el desarrollo del cliente
+description: Vea una instantánea de cómo realiza las ventas e implementación, el crecimiento de los clientes y el crecimiento de los ingresos con licencias, suscripciones y consumo de Azure.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, rendimiento, éxito de clientes, mediciones,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631876"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795699"
 ---
-# <a name="overview-dashboard-reports"></a>Informes del panel de información general 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Información general sobre los informes del panel disponibles en la información del centro de Partners
  
 En el panel de información general del centro de Partners se proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure, licencias, etc. Puede visualizar los siguientes gráficos en el informe de información general. 
 
@@ -83,6 +83,6 @@ Tendencia de las licencias asignadas por todos los clientes durante el intervalo
 
 ![licencias](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Obtén más información
+## <a name="next-steps"></a>Pasos siguientes
 
-Para obtener información adicional sobre el panel y los temas de informes del centro de Partners, lea [información del centro de Partners](partner-center-insights.md)
+- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).

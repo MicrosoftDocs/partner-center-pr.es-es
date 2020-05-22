@@ -1,28 +1,29 @@
 ---
-title: Partner Center Insights-informe de beneficios | Centro de Partners
+title: Informe de beneficios de Partner Center Insights
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea qué tipos de ventajas de los asociados de Microsoft se le han concedido para ayudar a crecer su negocio, mejorar la eficacia y mejorar los conocimientos del equipo.
 ms.assetid: ''
 keywords: PCI, rendimiento, medidas, ventajas, análisis, informe
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226201"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795723"
 ---
-# <a name="benefits-report"></a>Informe de beneficios
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Informe de beneficios disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
+
 - Administrador global
-- Agente de administración
+- Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
@@ -35,7 +36,7 @@ Puede visualizar los siguientes gráficos en el informe de beneficios:
 - Resumen
 - Servicios en la nube concedidos
 - Productos de software
-- Suscripciones a Visual Studio
+- Suscripciones de Visual Studio
 - Ventajas técnicas
 - Comercialización
 
@@ -69,7 +70,7 @@ Este gráfico presenta la tendencia mensual de las suscripciones de Visual Studi
 
 Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una suscripción específica de Visual Studio a la que se le conceden beneficios. Las columnas del gráfico representan puestos consumidos para la suscripción. El gráfico de líneas representa las plazas generales asignadas para la suscripción.
 
-![Suscripciones a Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+![Suscripciones de Visual Studio](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
 **Ventajas técnicas**
 
@@ -86,3 +87,7 @@ Este gráfico presenta la tendencia mensual de las ofertas de comercialización 
 Seleccione una oferta de comercialización o una categoría de servicio en la lista desplegable que se muestra en la parte superior del gráfico para ver la tendencia de los servicios de comercialización seleccionados concedidos a su empresa. Las columnas del gráfico representan ofertas de comercialización o servicios activados. El gráfico de líneas representa las ofertas de comercialización y los servicios globales concedidos a su empresa.
 
 ![Ofertas de comercialización](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).

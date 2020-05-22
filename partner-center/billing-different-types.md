@@ -1,7 +1,7 @@
 ---
-title: Tipos de facturación en el centro de Partners | Centro de Partners
+title: Tipos de facturación del Centro de partners
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre los diferentes tipos de facturación, períodos de facturación y fechas de facturación que puede ver en el centro de Partners.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, pedidos, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798593"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794981"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Tipos de facturación del Centro de partners
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipos de facturación en el centro de Partners: incluye la facturación basada en licencia y basada en el uso.
 
 **Se aplica a**
 

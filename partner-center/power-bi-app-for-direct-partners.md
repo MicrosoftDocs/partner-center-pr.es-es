@@ -1,54 +1,55 @@
 ---
-title: Aplicación de análisis del centro de partners para Power BI | Centro de Partners
+title: 'Preguntas más frecuentes: análisis del centro de partners para Power BI'
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Información general y preguntas más frecuentes sobre la aplicación del centro de partners para Power BI.
+description: Explore esta información general y las preguntas más frecuentes sobre la aplicación del centro de partners para obtener Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: eacf0408e8ee87b6eeb15a2c61e24e6056cd593c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797613"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795852"
 ---
-# <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Aplicación de análisis del Centro de partners para Power BI (partners directos en CSP)
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Información general y preguntas más frecuentes sobre la aplicación de análisis del centro de partners para Power BI (asociados directos en CSP)
 
 **Se aplica a**
 
 - Centro de partners
 
 **Roles adecuados**
--    Administrador global
--    Administrador de usuarios
--    Agente de ventas
--    Agente de administrador
 
-Obtenga una representación visual de los datos empresariales con la aplicación del centro de partners para Power BI. La aplicación, diseñada para asociados directos en el programa proveedor de soluciones en la nube (CSP), se conecta al marco de trabajo de Power BI conocido. 
+- Administrador global
+- Administrador de usuarios
+- Agente de ventas
+- Agente de administrador
+
+Obtenga una representación visual de los datos empresariales con la aplicación del centro de partners para Power BI. La aplicación, diseñada para asociados directos en el programa proveedor de soluciones en la nube (CSP), se conecta al marco de trabajo de Power BI conocido.
 
 > [!NOTE]  
-> Usted es un asociado directo si hace negocios directamente con Microsoft y con los clientes. 
+> Usted es un asociado directo si hace negocios directamente con Microsoft y con los clientes.
 
-Instale la aplicación para obtener vistas gráficas de: 
+Instale la aplicación para obtener vistas gráficas de:
 
--    Crecimiento de la base de clientes, las suscripciones y las licencias
+- Crecimiento de la base de clientes, las suscripciones y las licencias
 
--    El uso que se hace de productos de Office 365, Microsoft Dynamics y Microsoft Azure
+- El uso que se hace de productos de Office 365, Microsoft Dynamics y Microsoft Azure
 
--    Las unidades de consumo diarias de cada recurso limitado en cada suscripción de Azure durante los últimos 60 días
+- Las unidades de consumo diarias de cada recurso limitado en cada suscripción de Azure durante los últimos 60 días
 
--    Costo estimado en función de la última carta de tarifas
+- Costo estimado en función de la última carta de tarifas
 
--    Capacidad para exportar conjuntos de valores y crear informes personalizados, incluido por cliente
+- Capacidad de exportar conjuntos de datos y crear informes personalizados, incluido por cliente
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-Se recomienda revisar las respuestas a las preguntas más frecuentes antes de instalar la aplicación. 
+Se recomienda revisar las respuestas a las preguntas más frecuentes antes de instalar la aplicación.
 
 | **Pregunta** | **Respuesta** |
 | --- | ---------- |
@@ -59,7 +60,7 @@ Se recomienda revisar las respuestas a las preguntas más frecuentes antes de in
 | ¿Quién puede personalizar los paneles e informes en la aplicación? | Solo el administrador global, el agente de administración o el administrador de facturación que instaló la aplicación pueden personalizar el panel o crear nuevos informes en la interfaz Web de Power BI. |
 | ¿Quién puede ver los paneles e informes en la aplicación? | El administrador global, el agente de administración o el administrador de facturación que instaló la aplicación pueden compartir los datos de la aplicación con cualquier persona que tenga una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium. |
 | ¿Puedo usar la aplicación para ver datos de varios inquilinos de Azure AD, entre ubicaciones? | Con esta versión, solo puede ver los datos del inquilino de Azure AD en el que ha iniciado sesión el administrador global o el agente de administración. | 
-| ¿Cuándo estará disponible la aplicación en otros idiomas? | Los anuncios del mapa de ruta se publican a través del programa de adopción temprana del centro de Partners. Si no está participando en el programa, Regístrese ahora en [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). También puede compartir sus comentarios a través del programa pionero. | 
+| ¿Cuándo estará disponible la aplicación en otros idiomas? | Los anuncios del mapa de ruta se publican a través del programa de adopción temprana del centro de Partners. Si no está participando en el programa, Regístrese ahora en [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . También puede compartir sus comentarios a través del programa pionero. | 
 
 
 

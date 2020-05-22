@@ -1,30 +1,30 @@
 ---
-title: Administrar oportunidades de venta conjunta | Centro de Partners
+title: Administrar las oportunidades de venta conjunta
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir acuerdos, invitar a Microsoft a colaborar o ver ofertas enviadas.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: referencia, venta conjunta, trato
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919842"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796030"
 ---
-# <a name="manage-co-sell-opportunities"></a>Administrar oportunidades de venta conjunta
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
 **Se aplica a**
 
--  Centro de partners
--  Referencias
--  Venta conjunta con Microsoft
--  Uso compartido
+- Centro de partners
+- Referencias
+- Venta conjunta con Microsoft
+- Uso compartido
 
 **Roles adecuados**
 
@@ -65,7 +65,7 @@ Puede crear dos tipos de oportunidades de venta conjunta.
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
+Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -79,9 +79,9 @@ Especifique los detalles de la transacción actual. Los campos que se definen a 
 |**Nombre del trato** | Mandatory | El nombre descriptivo para identificar el trato en un momento posterior. |
 |**Valor estimado** | Mandatory | El valor del trato en función de la información disponible durante la creación de la transacción.|
 |**Fecha de cierre estimada**| Mandatory| Fecha en la que se espera que se cierre el trato con el cliente. |
-|**IDENTIFICADOR DE CRM**| Opcional | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
-|**ID. de campaña de marketing**| Opcional | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
-|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
+|**IDENTIFICADOR DE CRM**| Opcionales | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
+|**ID. de campaña de marketing**| Opcionales | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
+|**Notas**| Opcionales | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
 
 ### <a name="add-your-employees"></a>Agregar los empleados
 

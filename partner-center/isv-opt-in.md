@@ -1,39 +1,42 @@
 ---
-title: Ofertas "exclusivas" de Marketplace | Centro de Partners
+title: Ofertas exclusivas de Marketplace de fabricantes de software independientes
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV puede elegir los asociados de CSP con los que trabajar haciendo que sus ofertas sean exclusivas.
+description: Obtenga información acerca de cómo fabricantes de software independientes (ISV) hacen que determinadas ofertas sean exclusivas y solo estén disponibles para asociados de CSP específicos.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123265"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794840"
 ---
-# <a name="marketplace-exclusive-offers"></a>Ofertas exclusivas de Marketplace
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Ofertas exclusivas de Marketplace de proveedores de software independientes
 
 **Roles adecuados**
--    Administrador global
--    Administrador de usuarios
--    Agente de administración
--    Agente de ventas
 
-Los ISV tienen la opción de hacer que sus ofertas estén disponibles para un número seleccionado de asociados de CSP. Todos los asociados de CSP podrán ver todas las ofertas de ISV del centro de Partners Marketplace, pero las ofertas marcadas como exclusivas solo podrán ser adquiridas por los asociados que el ISV haya seleccionado. Si una oferta no se indica como "exclusiva", todos los asociados pueden adquirirla.
+- Administrador global
+- Administrador de usuarios
+- Agente de administrador
+- Agente de ventas
 
-Los asociados de CSP identificados por ISV pueden:
+Un fabricante de software independiente (ISV) tiene la opción de hacer ofertas exclusivas que solo están disponibles para determinados asociados de CSP.
 
-- Compra de ofertas exclusivas a través del centro de Partners Marketplace
+Los asociados de CSP pueden ver todas las ofertas de ISV en el Marketplace comercial del centro de Partners. No obstante, las ofertas marcadas como **exclusivas**solo pueden ser adquiridas por asociados específicos seleccionados por el ISV. Si una oferta no está marcada como **exclusiva**, todos los asociados pueden adquirirla.
+
+Los asociados de CSP específicos identificados por un ISV pueden:
+
+- Compre ofertas exclusivas de ese ISV a través del Marketplace comercial del centro de Partners
 - Exportar lista de precios
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>¿Cómo se obtiene acceso a las ofertas exclusivas?
 
-Cuando un ISV publica una oferta en Marketplace, tiene la oportunidad de indicar quién puede adquirirla. 
+Cuando un ISV publica una oferta en Marketplace, tiene la oportunidad de indicar quién puede adquirirla.
 
 Sus opciones son:
 
@@ -41,6 +44,8 @@ Sus opciones son:
 - Determinar qué asociados pueden comprar
 - No está disponible para los asociados de CSP
 
-Para obtener más información sobre la experiencia de ISV en Marketplace, lea [proveedores de soluciones en la nube](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+## <a name="next-steps"></a>Pasos siguientes
 
-Para obtener más información sobre Marketplace, consulte [información general de Marketplace comercial para proveedores de soluciones en la nube](csp-commercial-marketplace-overview.md).
+- Para obtener más información sobre la experiencia de ISV en Marketplace comercial, lea [proveedores de soluciones](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)en la nube.
+
+- Para obtener más información sobre el Marketplace comercial, consulte [información general de Marketplace comercial para proveedores de soluciones en la nube](csp-commercial-marketplace-overview.md).

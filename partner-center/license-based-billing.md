@@ -1,31 +1,31 @@
 ---
-title: Facturación basada en licencias | Centro de Partners
+title: Facturación basada en licencia
 ms.topic: article
-ms.date: 11/21/2019
-Description: Información acerca de la facturación basada en licencias en el centro de Partners, donde se factura por licencia (no por el uso de licencias).
+ms.date: 05/18/2020
+Description: Obtenga información sobre cómo la facturación basada en licencias difiere de la facturación basada en el uso en el centro de Partners, incluido cómo se factura por licencia (no por el uso de licencias).
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, pagos, licencia basada en licencia
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798893"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795797"
 ---
-# <a name="license-based-billing"></a>Facturación basada en licencia
+# <a name="license-based-billing-in-partner-center"></a>Facturación basada en licencias en el centro de Partners
 
 **Se aplica a**
 
 - Centro de partners
 - Partners del programa CSP
 
-**Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Administrador de facturación
--   Agente de administrador
+**Roles adecuados** : administrador global
+- Administrador de usuarios
+- Administrador de facturación
+- Agente de administrador
 
 Cuando compre productos o servicios en línea en el centro de partners que requieran **licencias**, se le facturará *por cada licencia* que compre. No se le *facturará* por el uso de estas licencias. (Para obtener información sobre la facturación basada en el uso y otros tipos de facturación, consulte [tipos de facturación en el centro de Partners](billing-different-types.md)).
 
@@ -48,7 +48,7 @@ Todas las suscripciones basadas en licencias tienen un plazo de pago de 12 meses
 
 ## <a name="license-cancellation"></a>Cancelación de licencia
 
-Puede cancelar una licencia en cualquier momento durante el [período de licencia](#license-term). Sin embargo, el mes en el que se cancela afecta a la cantidad de crédito que se recibirá para la licencia cancelada.
+Puede cancelar una licencia en cualquier momento durante el [período de licencia](#license-term). Sin embargo, el mes en el que se cancela afecta a la cantidad de crédito que recibirá para la licencia cancelada.
 
 Si suspende una suscripción en el mes 1, se le abonará el 100%.
 
@@ -56,4 +56,14 @@ Si suspende una suscripción en los meses 2-12, se le abonará con una cuota pro
 
 ## <a name="license-renewal"></a>Renovación de licencias
 
-Todas las suscripciones basadas en licencias se renuevan automáticamente durante 12 meses después del comienzo del plazo de pago.
+Todas las suscripciones basadas en licencias se renuevan durante 12 meses después del comienzo del plazo de pago.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Información general sobre la facturación del Centro de partners](billing-basics.md)
+
+- [Tipos de facturación del Centro de partners](billing-different-types.md)
+
+- [Diferencias de facturación mensuales y anuales](billing-annual-monthly.md)
+
+- [Artículos principales de facturación y de impuestos](billing.md)

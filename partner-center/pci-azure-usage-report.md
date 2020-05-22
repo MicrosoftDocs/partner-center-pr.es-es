@@ -1,28 +1,28 @@
 ---
-title: 'Partner Center Insights: informe de uso de Azure | Centro de Partners'
+title: Informe de uso de Azure del centro de Partners Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea lo que está haciendo bien y dónde puede mejorar en relación con el uso de las suscripciones de Azure que vende o administra para sus clientes.
 ms.assetid: ''
 keywords: PCI, rendimiento, medidas, éxito de clientes, uso de Azure, suscripciones, análisis, informe
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648086"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795672"
 ---
-# <a name="azure-usage-report"></a>Informe de uso de Azure
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Azure disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
 - Administrador global
-- Agente de administración
+- Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
@@ -74,3 +74,7 @@ En esta vista se muestran las tendencias de horas de uso o ingresos de consumo d
 El gráfico de barras presenta la tendencia mensual de ingresos por horas de uso. El gráfico de líneas presenta la tendencia de crecimiento en comparación con el mes anterior para las categorías de nivel de servicio o medidor de Azure seleccionadas.
 
 ![Uso de Azure](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).

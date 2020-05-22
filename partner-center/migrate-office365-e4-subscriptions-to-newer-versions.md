@@ -1,19 +1,20 @@
 ---
-title: Migrar las suscripciones de Office 365 E4 a las versiones más recientes de Office 365 | Centro de Partners
+title: Migración de suscripciones de Office 365 E4
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 Enterprise E4 Edition se retirará a partir del 7 de abril de 2017. Obtenga información sobre cómo migrar las suscripciones de clientes a las versiones más recientes de Office 365.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798881"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795758"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
@@ -32,7 +33,7 @@ El plan Office 365 Enterprise E4 se ha retirado, en vigor el 7 de abril de 2017.
 Cuando finalicen las suscripciones a E4, se cancelarán. Para garantizar la continuidad de los clientes, debe realizar la transición de los clientes con suscripciones de E4 que expiren a una opción de SKU admitida, que se enumeran a continuación. Se recomienda mover a los clientes a nuevas suscripciones antes de la fecha de finalización anual de la suscripción para evitar interrupciones de servicio para los clientes. 
 
 > [!NOTE]  
->  Se han retirado las SKU de Office 365 Enterprise E4 Commercial y Government.
+> Se han retirado las SKU de Office 365 Enterprise E4 Commercial y Government.
  
 En la página de detalles de la suscripción, el estado de la suscripción de E4 ha cambiado a "expira el [fecha]" de "renueve automáticamente en [fecha]". 
 

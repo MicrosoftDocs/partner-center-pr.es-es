@@ -1,21 +1,22 @@
 ---
-title: Análisis de Microsoft Learn | Centro de Partners
+title: Análisis de Microsoft Learn
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Realice un seguimiento de los aprendidos de su empresa aprovechando los datos de aprendizaje individual, módulos completados, rutas de aprendizaje completadas y mucho más.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005114"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795934"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Informe de Microsoft Learn Analytics
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>En el informe de Microsoft Learn Analytics se muestra el estado de los aprendidos en su empresa.
 
 **Roles adecuados**
 -   Administrador global

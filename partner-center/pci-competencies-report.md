@@ -1,28 +1,28 @@
 ---
-title: Partner Center Insights-informe de competencias | Centro de Partners
+title: Informe de competencias de Partner Center Insights
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea lo que está haciendo bien y dónde puede mejorar con respecto a las competencias, los niveles de competencia y las ofertas de Microsoft para ayudarle a ofrecer soluciones de Microsoft.
 ms.assetid: ''
 keywords: PCI, rendimiento, medidas, éxito del cliente, competencias, ventajas, análisis, informe
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226191"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795651"
 ---
-# <a name="competencies-report"></a>Informe de competencias
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
 - Administrador global
-- Agente de administración
+- Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
@@ -86,3 +86,6 @@ Esta vista muestra una tabla detallada de todas las competencias que ha logrado 
 
 ![Historial de competencias](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).

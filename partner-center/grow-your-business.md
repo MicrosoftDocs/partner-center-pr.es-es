@@ -1,7 +1,7 @@
 ---
-title: Hacer crecer tu negocio de partner de Microsoft | Centro de partners
+title: Hacer crecer tu negocio de partner de Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los recursos para el crecimiento de su negocio de asociados de Microsoft. Esto incluye cómo obtener clientes potenciales de ventas (referencias) de Microsoft.
@@ -9,14 +9,15 @@ keywords: referrals, respond to referrals, leads, sales leads, marketing profile
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798043"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795808"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Hacer crecer tu negocio de partner de Microsoft 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Amplíe su negocio de asociados de Microsoft: Aprenda a obtener clientes potenciales & establecer su empresa.
 
 Microsoft ofrece muchos recursos para ayudarte a hacer crecer tu negocio de partner. Obtén información acerca de la forma en que las funcionalidades de este sitio, el Centro de partners de Microsoft, pueden ayudarte a atraer nuevos clientes y a obtener más rentabilidad.
 
@@ -42,5 +43,5 @@ Usa el Centro de partners para:
 | Vender en mercados adicionales | El canal de ventas de Proveedor de soluciones en la nube está disponible en numerosos países y regiones. Consulta [Mercados del Proveedor de soluciones en la nube](agreements.md) para revisar la lista. Para obtener una introducción al canal de Proveedor de soluciones en la nube, consulta [Introducción al programa Proveedor de soluciones en la nube](csp-overview.md).  | Partners de CSP |
 Vender en sectores especializados como organizaciones sin ánimo de lucro y educativas|[Vender en sectores especializados](get-special-pricing-for-offers.md)|Partners de CSP|
 |Haz crecer tu empresa mediante diversas actividades disponibles en el programa de cooperación de incentivos. Archiva las reclamaciones de las actividades mediante el Centro de partners.| [Crear y administrar reclamaciones de incentivos](create-incentives-claims.md)|Partners de CSP|
-|Vender suscripciones a productos de Marketplace comercial|[Actividades de Marketplace comercial de undertand CSP](csp-commercial-marketplace-overview.md)|Partners de CSP|
+|Vender suscripciones a productos de Marketplace comercial|[Descripción de las actividades de Marketplace comercial de CSP](csp-commercial-marketplace-overview.md)|Partners de CSP|
 |¿Es tu empresa líder en ventas y administración de Azure? Solicitar la inscripción en el programa Proveedor de servicios de Microsoft de experto en Azure|[Programa Proveedor de servicios de Microsoft de experto en Azure](azure-expert-msp.md)|Partners de CSP|

@@ -1,28 +1,28 @@
 ---
-title: 'Partner Center Insights: informe de suscripciones de productos | Centro de Partners'
+title: Informe de suscripciones de Partner Center Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea lo que está haciendo bien y dónde puede mejorar en relación con las suscripciones en la nube que vende o administra para sus clientes.
 ms.assetid: ''
 keywords: PCI, rendimiento, medidas, éxito de clientes, suscripciones en la nube, análisis, informe
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648056"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795910"
 ---
-# <a name="product-subscriptions-report"></a>Informe de suscripciones de producto
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel de Partner Center Insights
 
 **Roles adecuados**
 - Administrador global
-- Agente de administración
+- Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
@@ -108,3 +108,7 @@ Los dos gráficos circulares muestran un desglose de las suscripciones de los cl
 
 > [!NOTE]
  > Es posible que el número de suscripciones dividido por SKU no siempre coincida con el número total de suscripciones para ese producto. Esto puede ocurrir si un cliente ha adquirido varias SKU en la misma suscripción de producto.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).

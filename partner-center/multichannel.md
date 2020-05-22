@@ -1,22 +1,23 @@
 ---
-title: Usar opciones de varios canales en el centro de Partners
+title: Compatibilidad con varios canales para clientes
 description: En algunos casos, es posible que los clientes quieran contratar para aprovisionar y respaldar una suscripción que haya adquirido en otro lugar.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362703"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795894"
 ---
-# <a name="multi-channel-support"></a>Soporte técnico multicanal
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Compatibilidad con varios canales: uso de otros socios para admitir las suscripciones de clientes adquiridas en otro lugar
 
 **Se aplica a**
 

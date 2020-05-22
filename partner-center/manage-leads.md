@@ -1,23 +1,23 @@
 ---
-title: Administración de clientes potenciales | Centro de Partners
+title: Administración de clientes potenciales
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo responder a las referencias, administrar referencias nuevas, existentes y archivadas, y obtener más referencias en el futuro.
-author: vikramb
-ms.author: vikramb
+description: Utilice el centro de partners para responder a las referencias y administrar clientes potenciales y referencias nuevos, existentes y archivados. Aprenda también a obtener más referencias en el futuro.
+author: LauraBrenner
+ms.author: labrenne
 keywords: referencia, venta conjunta, trato
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919852"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796022"
 ---
-# <a name="manage-leads"></a>Administración de clientes potenciales
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas
 
 **Se aplica a**
 
