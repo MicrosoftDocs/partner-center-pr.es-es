@@ -1,24 +1,24 @@
 ---
-title: Información del centro de Partners | Centro de Partners
+title: Información acerca del Centro de partners
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea exactamente lo que está haciendo bien y dónde puede mejorar en lo que respecta a las ventas e implementación, y el desarrollo del cliente
+description: Explore este panel de informes Unificado del centro de Partners. Vea cómo está haciendo en los KPI para ventas e implementación, el desarrollo de clientes, etc.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, rendimiento, éxito de clientes, medidas, datos de informes
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 679b706f43dcf1f54adcc1751c3c95c083bf2fba
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c41433019716f315592fe9d15850364835c4edfb
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631886"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998328"
 ---
-# <a name="partner-center-insights"></a>Información del centro de Partners
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 
 **Roles adecuados**
 - Administrador global
@@ -30,9 +30,9 @@ ms.locfileid: "75631886"
 
 Insights es un panel de informes unificado en el centro de partners para asociados comerciales de Microsoft que están inscritos en el programa Microsoft Partner Network (MPN). El panel Insights proporciona una vista de 360 grados de los indicadores clave de rendimiento (KPI) a través de productos en la nube como Office, Azure, Dynamics y modelos de licencia como CSP y EA. Expone un completo conjunto de informes de KPI que pueden ayudarle a tomar decisiones controladas por datos para su organización. 
 
-## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Control de acceso basado en roles en el panel Insights
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Control de acceso basado en roles al panel Insights
 
-Hay dos nuevos roles en el centro de Partners diseñados específicamente para el acceso a Insights: visor de informes y visor de informes ejecutivos.  Los usuarios del rol Executive Report Viewer tienen acceso a todos los conjuntos de datos de informes, mientras que los usuarios del rol visor de informes no tendrán acceso a conjuntos de datos confidenciales como los ingresos y los datos personales de clientes y empleados. 
+Hay dos nuevos roles en el centro de Partners diseñados específicamente para el acceso a Insights: **visor de informes** y visor de **informes ejecutivos**. Los usuarios del rol Executive Report Viewer tienen acceso a todos los conjuntos de datos de informes, mientras que los usuarios del rol visor de informes no tendrán acceso a conjuntos de datos confidenciales como los ingresos y los datos personales de clientes y empleados. 
 
 El administrador global o el administrador de la cuenta puede asignar a los usuarios estos roles y se asignan para toda la empresa o para una ubicación de MPN específica.  
 
@@ -43,21 +43,21 @@ El administrador global o el administrador de la cuenta puede asignar a los usua
 
 Los informes siguientes están disponibles como parte del panel de información.
 
-**Información general**    El informe de información general presenta una vista de instantánea de varios KPI que le interesan, como el recuento de clientes, el recuento de suscripciones activas, los ingresos de consumo de Azure, las licencias activas, etc.
+**Información general**: el informe de información general presenta una vista de instantánea de varios KPI que le interesan, como el recuento de clientes, el recuento de suscripciones activas, los ingresos de consumo de Azure, las licencias activas, etc.
 
-**Cliente** de El informe de clientes presenta análisis en torno a los clientes, como los datos de adquisición de clientes, los clientes activos, etc. 
+**Customer**: el informe de cliente presenta el análisis en torno a los clientes, como los datos de adquisición del cliente, los clientes activos, etc.
 
-**Producto-suscripciones**     El informe de suscripciones presenta el análisis de adquisición y uso de las suscripciones en la nube (por ejemplo, O365, Azure, Dynamics, etc.). 
+**Producto-suscripciones**: el informe de suscripciones presenta el análisis de adquisición y uso de las suscripciones en la nube (por ejemplo, O365, Azure, Dynamics, etc.).
 
-**Producto-licencias**   El panel de licencias presenta análisis de licencias para productos en la nube basados en licencias como O365, Dynamics, Power BI etc.
+**Producto-licencias**: el panel de licencias presenta análisis de licencias para productos en la nube basados en licencias como O365, Dynamics, Power BI etc.
 
-**Producto-uso de Azure**   El informe de uso de Azure presenta métricas relacionadas con las suscripciones de Azure de sus clientes, como los ingresos y el uso de Azure por categorías de medidor.
+**Producto-uso de Azure**: el informe de uso de Azure presenta métricas relacionadas con las suscripciones de Azure de sus clientes, como los ingresos y el uso de Azure por categorías de medidor.
 
-**Competencias**    El informe de competencias presenta métricas en sus competencias activas, calificadas y en riesgo.
+**Competencias**: el informe de competencias presenta métricas en sus competencias activas, calificadas y en riesgo.
 
-**Ventajas**    Los informes de beneficios presentan análisis sobre las ventajas de los asociados que ha ganado frente al consumo.
+**Ventajas**: el informe de beneficios muestra el análisis de las ventajas de los asociados que ha obtenido en comparación con el consumo.
 
-## <a name="navigating-the-insights-reports"></a>Navegar por los informes de Insights 
+## <a name="navigating-the-insights-reports"></a>Navegar por los informes de Insights
 
 **Filtros de intervalo de fechas**: puede encontrar una selección de intervalo de fechas en la esquina superior derecha de cada página. La salida de los gráficos de página de información general se puede personalizar seleccionando un intervalo de fechas basado en los últimos 3, 6 o 12 meses, o seleccionando un intervalo de fechas personalizado. La selección de intervalo de fechas predeterminado es de 12 meses. 
 
@@ -74,27 +74,29 @@ Los informes siguientes están disponibles como parte del panel de información.
 
 - Los filtros seleccionados se mostrarán en la parte superior de la página. 
 
-![filtros](images/pci/filters.png)
+![filters](images/pci/filters.png)
 
- ### <a name="filters-definitions"></a>Definiciones de filtros:
+### <a name="filters-definitions"></a>Definiciones de filtros:
 
 - Products: lista de todos los productos Microsoft Cloud vendidos/administrados por su organización, por ejemplo, O365, Azure, D365, EMS, PowerBI, etc.
 - Mercados de clientes: lista de países de clientes
 - Atribuciones de asociados: el tipo de asociación con las suscripciones de los clientes, por ejemplo, el asociado digital del registro (DPOR), el privilegio de administrador delegado (DAP), el vínculo de administrador del asociado (PAL), etc. 
-- Ubicaciones de asociados: lista de todas las ubicaciones de MPN de la organización. 
+- Ubicaciones de asociados: lista de todas las ubicaciones de MPN de la organización.
 - Canales de ventas: todos los canales de ventas y precios a través de los cuales se compran o aprovisionan productos y servicios, es decir, CSP, EA, CSP indirecto, directo, asesor, abierto, otros
 - Segmentos de clientes: lista de segmentos de clientes en la base de clientes de asociados.
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>Lea acerca de cada uno de los paneles e informes:
 
-- [Partner Center Insights: panel de información general](pci-overview-report.md) 
+- [Partner Center Insights: panel de información general](pci-overview-report.md)
 
-- [Partner Center Insights: panel del cliente](pci-customer-report.md) 
+- [Información sobre el Centro de partners: panel de cliente](pci-customer-report.md)
 
-Producto-subscriptions Dashboard Product-licenses Dashboard Product-Azure Usages Distributions 
+- [Partner Center Insights-informe de suscripciones](pci-product-subscriptions-report.md)
 
+- [Partner Center Insights-informe de licencias](pci-product-licenses-report.md)
 
+- [Partner Center Insights: informe de uso de Azure](pci-azure-usage-report.md)
 
+- [Información sobre el Centro de partners: informe de competencias](pci-competencies-report.md)
 
-
-
+- [Información sobre el Centro de partners: informe de beneficios](pci-benefits-report.md)

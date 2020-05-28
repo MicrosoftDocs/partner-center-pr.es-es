@@ -1,22 +1,22 @@
 ---
-title: Administración de no pago, fraude o uso indebido | Centro de Partners
+title: Administración de los impagos, fraudes o usos incorrectos
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Es importante que conozca los distintos tipos de riesgo implicados en las transacciones en línea y los procedimientos recomendados para administrar y mitigar estos riesgos.
+description: Es importante conocer los distintos riesgos implicados en las transacciones en línea, así como los procedimientos recomendados para administrar y mitigar estos riesgos.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indebido, uso aceptable, Directiva de uso aceptable, no pago, el cliente no pagará la factura, el riesgo en línea, el robo del servicio, el abuso de servicio, la suspensión de una suscripción,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798803"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998451"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el Centro de partners
 
@@ -26,10 +26,10 @@ Se aplica a:
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
--   Administrador de facturación
+- Administrador global
+- Administrador de usuarios
+- Agente de administrador
+- Administrador de facturación
 
 Usted es responsable financieramente de las compras fraudulentas por parte de los clientes y/o el no pago de los servicios adquiridos. Por lo tanto, *se recomienda encarecidamente que ponga en marcha la prevención de fraudes y los controles de mitigación de riesgos de detección*.
 
@@ -78,7 +78,7 @@ Sugerencias para reducir los riesgos en línea al incorporar nuevos clientes:
 
 - Establezca relaciones personales con los clientes siempre que sea posible (por ejemplo, ponerse en contacto con los clientes por teléfono).
 - Compruebe las credenciales y el fondo de los clientes a través de métodos mejores (como el uso de oficinas de crédito o agencias de informes comerciales empresariales).
-- Use la autenticación multifactor (como la comprobación de SMS) durante el registro para minimizar la exposición a Creationg y compra de cuentas robóticas.
+- Use la autenticación multifactor (como la comprobación de SMS) durante el registro para minimizar la exposición a la creación y compra de cuentas robóticas.
 - Administrar y realizar un seguimiento de las identidades mediante servicios (como servicios de identidad digital).
 - Evalúe el nivel financiero del cliente a través de rigurosos sistemas de detección de fraudes de tarjetas de crédito.
 - Establezca una directiva de recopilación clara. Detalle el proceso de las colecciones y el momento en que el acceso a las suscripciones se verá afectado por no pago. (Puede deshabilitar el acceso o [suspender las suscripciones de un cliente](suspend-a-subscription.md) para que no sean de pago).

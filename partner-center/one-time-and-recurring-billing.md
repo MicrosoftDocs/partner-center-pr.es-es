@@ -1,33 +1,35 @@
 ---
-title: Facturación de una sola vez y selección de cargos periódicos | Centro de Partners
+title: 'Facturación: una sola vez & seleccionar cargos periódicos'
 ms.topic: article
-ms.date: 11/21/2019
-Description: Información sobre la facturación única de antemano para un período preestablecido (suscripciones mensuales y anuales) y la facturación de los cargos de selección recurrentes (para los productos de Microsoft y ISV de terceros correspondientes) en el centro de Partners.
+ms.date: 05/26/2020
+Description: Obtenga más información acerca de la facturación del centro de Partners, como la facturación única por adelantado de los términos y la facturación preestablecidos para los cargos de SELECT y periódicos.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798783"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998431"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>Facturación de cargos únicos y determinados cargos periódicos
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Facturación de una sola vez y selección de cargos periódicos en el centro de Partners
+
 
 **Se aplica a**
 - Centro de partners
 - Partners del programa CSP
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Administrador de facturación
--   Agente de administrador
--   Agente de ventas
+- Administrador global
+- Administrador de usuarios
+- Administrador de facturación
+- Agente de administrador
+- Agente de ventas
 
-En este tema se describe la experiencia de facturación de **una sola vez y se seleccionan cargos periódicos** de Microsoft y productos de terceros de fabricantes independientes de software (ISV). 
+En este artículo se describe la experiencia de facturación de **una sola vez y se seleccionan cargos periódicos** de Microsoft y productos de terceros de fabricantes independientes de software (ISV). 
 
 **La facturación única** es cuando se compran suscripciones de software y reservas de Azure de antemano para un término preestablecido. Puede adquirir los términos de un año o de tres años. Se le facturará por todo el costo en una suma de un solo período.
 
@@ -41,7 +43,7 @@ La facturación de una sola vez y la selección de cargos periódicos se aplican
 > [!IMPORTANT]
 > La experiencia de facturación para los cargos recurrentes de las suscripciones basadas [**en licencias**](license-based-billing.md) y las [**suscripciones basadas**](usage-based-billing.md) en el uso sigue siendo la misma.
 
-Los **cargos periódicos** de las suscripciones (incluidas las **suscripciones basadas en licencias y**en el uso) se emiten para todos los productos del [**Catálogo de servicios en línea**](https://partner.microsoft.com/commerce/preferredoffers/list). Algunos ejemplos son Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pago por uso), Dynamics 365 y PowerBI Pro.
+Los **cargos periódicos** de las suscripciones (incluidas las **suscripciones basadas en licencias y**en el uso) se emiten para todos los productos del [**Catálogo de servicios en línea**](https://partner.microsoft.com/commerce/preferredoffers/list). Algunos ejemplos son Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pago por uso), Dynamics 365 y Power BI Pro.
 
 En el caso de los cargos de suscripción aplicables, la **fecha de facturación** es la fecha que seleccionó al crear la cuenta del centro de Partners. El **período de facturación** es el mes anterior a la fecha de facturación.
 

@@ -1,39 +1,39 @@
 ---
-title: Indicadores de contribución de partners | Centro de partners
+title: Indicadores de contribución de partners
 ms.topic: article
-ms.date: 04/03/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Datos que muestran cómo le va a tu compañía con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations
+description: Indicadores de contribución de asociados (PCI) muestra cómo se realiza con Dynamics 365 Customer Engagement o Dynamics 365 Finance and Operations.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, rendimiento, éxito de clientes, medidas, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 502d15f3e41635dc0b4ff97aca47742ab611148a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676868"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998391"
 ---
-# <a name="partner-contribution-indicators"></a>Indicadores de contribución de partners
+# <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>Indicadores de contribución de asociados (PCI): muestra el impacto de los asociados en las medidas clave de éxito del cliente
 
-Los indicadores de contribución de los asociados (PCI) proporcionan una medida holística del impacto de un asociado en la conducción correcta de los resultados del cliente y, por lo tanto, mayor diferenciación en el mercado cuando un asociado alcanza y mantiene la nube Business Applications competencia . Los asociados reciben crédito por las medidas clave de éxito de los clientes, como las implementaciones correctas y el aumento del uso, y se recompensan por continuar con la inversión en y escalar horizontalmente sus capacidades técnicas.
+Los indicadores de contribución de asociados (PCI) proporcionan una medida holística del impacto de un asociado en la conducción correcta de los resultados del cliente y, por lo tanto, una mayor diferencia en el mercado cuando un asociado alcanza y mantiene la nube Business Applications competencia. Los asociados reciben crédito por las medidas clave de éxito de los clientes, como las implementaciones correctas y el aumento del uso, y se recompensan por continuar con la inversión en y escalar horizontalmente sus capacidades técnicas.
 
 
-## <a name="scoring"></a>Puntuación
+## <a name="scoring"></a>Puntuaciones
 
 PCI proporciona una vista sofisticada de las capacidades técnicas de un asociado, su capacidad para impulsar el éxito de los clientes y su rendimiento de ventas. PCI mide el rendimiento del año anterior de su empresa en siete indicadores clave:
 
-1. **Ingresos netos nuevos** : ingreso neto nuevo en todos los canales de ventas de productos de Microsoft Dynamics 365.
-2. **Net Customer ADDS** : clientes netos adquiridos para Dynamics 365 en todos los canales de ventas.
-3. **Consultores funcionales** : el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365. 
-4. **Crecimiento de Consultor funcional** : crecimiento en el número de asociados de Consultor funcional.  La instantánea de línea de base para la métrica de crecimiento de Consultor funcional en PCI se realizará ahora el 1 de octubre de 2020.  
-5. **Desarrolladores** : el número de personas que tienen una certificación de asociado de desarrollador actualmente activa para Dynamics 365.
-6. **Nuevas implementaciones de gran tamaño** : número de inquilinos de producción que atraviesan el umbral de uso alto en los últimos 12 meses.
-7. **Crecimiento mensual** de usuarios activos: crecimiento en usuarios activos mensuales en todos los clientes durante los últimos 12 meses.
+1. **Ingresos netos nuevos**: ingresos netos nuevos en todos los canales de ventas de productos de Microsoft Dynamics 365.
+2. **Net Customer ADDS**: clientes netos adquiridos para Dynamics 365 en todos los canales de ventas.
+3. **Consultores funcionales**: el número de personas que tienen un Consultor funcional actualmente activo asocia la certificación para Dynamics 365. 
+4. **Crecimiento de Consultor funcional**: crecimiento en el número de asociados de Consultor funcional.  La instantánea de línea de base para la métrica de crecimiento de Consultor funcional en PCI se realizará ahora el 1 de octubre de 2020.  
+5. **Desarrolladores**: el número de personas que tienen una certificación de asociado de desarrollador actualmente activa para Dynamics 365.
+6. **Nuevas implementaciones de gran tamaño**: número de inquilinos de producción que atraviesan el umbral de uso alto en los últimos 12 meses.
+7. **Crecimiento mensual de usuarios activos**: crecimiento en usuarios activos mensuales en todos los clientes durante los últimos 12 meses.
 
 Se conceden puntos para cada indicador logrado, lo que da como resultado una puntuación PCI de un solo número. 100 son posibles puntos máximos. La puntuación de PCI determina la elegibilidad de la competencia:
 
@@ -41,7 +41,7 @@ Se conceden puntos para cada indicador logrado, lo que da como resultado una pun
 
 Cada indicador aporta una puntuación que se agrega al total. Estas son las puntuaciones máximas de cada indicador:
 
-![rendimiento de PCI](images/pci/perfnew.png)
+![Rendimiento de PCI](images/pci/perfnew.png)
 
 ### <a name="thresholds"></a>Umbrales
 
@@ -49,7 +49,7 @@ Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseg
 
 Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para el compromiso del cliente y las operaciones de finanzas & que se actualizarán mensualmente.
 
-Los partners pueden conseguir los puntos máximos para una métrica determinada si alcanzan o superan los umbrales que se indican a continuación. Se pueden obtener puntos parciales para todas las métricas, excepto para el crecimiento de Consultor funcional. P. ej. un socio de mercado desarrollado con $150.000 de ingresos netos nuevos ganará la mitad ($ 150000/$ 300.000) del máximo de 10 PTO. 
+Los partners pueden conseguir los puntos máximos para una métrica determinada si alcanzan o superan los umbrales que se indican a continuación. Se pueden obtener puntos parciales para todas las métricas, excepto para el crecimiento de Consultor funcional. Por ejemplo, un socio de mercado desarrollado con $150.000 de ingresos netos nuevos ganará la mitad ($ 150000/$ 300.000) del máximo de 10 PTO. 
 
 ![compromiso del cliente](images/pci/custengagethresh.png)
 
@@ -92,8 +92,4 @@ Cuando CPOR y DPOR existen para una suscripción determinada, el CPOR recibirá 
 
 ## <a name="additional-resources"></a>Recursos adicionales
 
-Visite la [colección de recursos indicadores de contribución de asociados](https://aka.ms/pcilearn) , donde puede encontrar vídeos de aprendizaje detallados, presentaciones, preguntas más frecuentes y hojas de hechos. 
-
-
-
-
+Visite la [colección de recursos indicadores de contribución de asociados](https://aka.ms/pcilearn) , donde puede encontrar vídeos de aprendizaje detallados, presentaciones, preguntas más frecuentes y hojas de hechos.
