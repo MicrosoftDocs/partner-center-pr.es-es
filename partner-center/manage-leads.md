@@ -1,23 +1,23 @@
 ---
-title: Administración de clientes potenciales
+title: Administración de clientes potenciales | Centro de Partners
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Utilice el centro de partners para responder a las referencias y administrar clientes potenciales y referencias nuevos, existentes y archivados. Aprenda también a obtener más referencias en el futuro.
-author: LauraBrenner
-ms.author: labrenne
+description: Obtenga información sobre cómo responder a las referencias, administrar referencias nuevas, existentes y archivadas, y obtener más referencias en el futuro.
+author: vikramb
+ms.author: vikramb
 keywords: referencia, venta conjunta, trato
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796022"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145069"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas
+# <a name="manage-leads"></a>Administración de clientes potenciales
 
 **Se aplica a**
 
@@ -87,8 +87,19 @@ Se trata de una fase de terminal donde finalmente se alcanzan todas las oportuni
 Estas son algunas sugerencias que le ayudarán a obtener referencias más adecuadas:
 
 - **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de negocio](https://docs.microsoft.com/partner-center/create-a-marketing-profile). Quite las palabras clave que generarían referencias que no le interesan. Si no le interesa trabajar con empresas de un determinado tamaño, actualice esta preferencia.
-- **Revise su información de contacto en su [Perfil de negocio](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para cada ubicación** para asegurarse de que el equipo obtiene las alertas entrantes.
+
+- **Revisar su información de contacto en su [Perfil de negocio](https://docs.microsoft.com/partner-center/create-a-marketing-profile) para cada ubicación** Asegúrese de que el equipo obtiene las alertas entrantes.
+
 - **Responder rápidamente a las referencias** Cuando responda de manera oportuna a las solicitudes entrantes, aumentaremos su visibilidad en futuros resultados de la búsqueda de clientes. Asegúrate de que tu equipo responde rápidamente con tu propósito.
-- **Sé selectivo con las ofertas que aceptas**. Supervisamos los tipos de tratos que acepta y rechaza y usa esta información para ayudarle a encontrar tratos similares. La aceptación de contratos que no sean una buena opción no mejorará los resultados de la búsqueda y podría afectar a la calidad de los clientes potenciales que recibe.
+
+- **Sea choosy con los acuerdos que acepta** Supervisamos los tipos de tratos que acepta y rechaza y usa esta información para ayudarle a encontrar tratos similares. La aceptación de contratos que no sean una buena opción no mejorará los resultados de la búsqueda y podría afectar a la calidad de los clientes potenciales que recibe.
+
 - **Informa del tamaño estimado del negocio, las fechas de cierre y el estado final de tus ofertas** (ganadas o perdidas). Usaremos esta información para seguir proporcionando las referencias de calidad.
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar las oportunidades de venta conjunta](manage-co-sell-opportunities.md)
+
+- [Obtención del conector de venta conjunta para Dynamics 365 CRM](connector-dynamics.md)
+
+- [Obtención del conector de venta conjunta para Salesforce CRM](connector-salesforce.md)
