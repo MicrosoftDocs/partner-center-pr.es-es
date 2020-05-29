@@ -83,9 +83,8 @@
 ### [Administrar el perfil de negocio](create-a-marketing-profile.md)
 ### [Administrar los clientes potenciales](manage-leads.md)
 ### [Administrar las oportunidades de venta conjunta](manage-co-sell-opportunities.md)
-### [El conector de venta conjunta para Dynamics 365 CRM](dynamics-connector.md)
-### [El conector de venta conjunta para Salesforce CRM](salesforce-connector.md)
-### [Uso de API de Webhook para registrar los eventos de cambio de recursos en las referencias](referral-connector-webhooks.md)
+### [Conector de venta conjunta para Dynamics 365 CRM: información general](connector-dynamics.md)
+### [Conector de venta conjunta para Salesforce CRM: información general](connector-salesforce.md)
 ### [Registrar las ofertas](register-deals.md)
 ### [Obtenga información de referencia](referral-insights.md)
 ### [Analizar tu perfil de negocio](analyze-your-marketing-profile.md)
@@ -126,7 +125,7 @@
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
-# [Ofertas de CSP](csp-offers.md)
+# [Ofertas de CSP](csp-offers.md) 
 ## Marketplace comercial
 ### [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
 ### [Descubrir ofertas de Marketplace](csp-commercial-marketplace-discover.md)
