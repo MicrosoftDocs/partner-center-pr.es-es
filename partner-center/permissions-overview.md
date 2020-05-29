@@ -1,7 +1,7 @@
 ---
-title: Asignar roles y permisos a los usuarios | Centro de partners
+title: Asignación de roles y permisos a los usuarios
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre qué roles son los más adecuados para los usuarios que administran las transacciones comerciales, las referencias, los incentivos o las suscripciones a MPN de tu empresa.
@@ -9,21 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: roles, permisos, administrador, agente
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296398"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795882"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Asignar roles y permisos de usuarios
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
 **Roles adecuados**
--    Administrador global
--    Administrador de usuarios
--    Administrador de partners de MPN
 
-Has configurado tu perfil de partner, incluyendo el nombre y la dirección legales, los detalles de soporte técnico, las exenciones fiscales, la información bancaria y el contacto principal de tu empresa. Siguiente paso: configura tus usuarios con contraseñas y roles para que puedan comenzar a trabajar en el Centro de partners contigo.
+- Administrador global
+- Administrador de usuarios
+- Administrador de partners de MPN
+
+Has configurado tu perfil de partner, incluyendo el nombre y la dirección legales, los detalles de soporte técnico, las exenciones fiscales, la información bancaria y el contacto principal de tu empresa. Paso siguiente: configura tus usuarios con contraseñas y roles para que puedan comenzar a trabajar en el Centro de partners contigo.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configura a sus empleados para trabajar en el Centro de partners
 

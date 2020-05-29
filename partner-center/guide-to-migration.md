@@ -1,7 +1,7 @@
 ---
-title: Guía para la migración de PMC al Centro de partners
+title: Migración de PMC al Centro de partners
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a migrar tu empresa de Partner Membership Center (PMC) al Centro de partners.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362403"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795833"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
@@ -57,7 +58,7 @@ Si tu empresa no tiene un correo electrónico del trabajo ni un inquilino de AAD
 
 Una vez que hayas comprobado o actualizado la información, selecciona **Aceptar y continuar**.
 Los términos y condiciones de esta página son **exactamente los mismos** que los del acuerdo que la empresa firmó en PMC.  
-Esta acción inicia la creación del inquilino de Azure AD y te proporciona la cuenta profesional.
+Este paso inicia la creación del inquilino de Azure AD y te proporciona la cuenta profesional.
 
 Al seleccionar **Aceptar y continuar** también sucede lo siguiente:
 

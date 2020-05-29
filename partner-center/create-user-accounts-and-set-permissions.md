@@ -1,23 +1,24 @@
 ---
-title: Crear cuentas de usuario y establecer permisos | Centro de partners
+title: Creación de cuentas de usuario y asignación de roles
+description: Cada empleado debe tener asignado un rol para poder acceder al Centro de partners. Obtén información acerca de cómo crear cuentas de usuario, asignar roles y establecer permisos.
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información acerca de cómo crear cuentas de usuario y asignar roles en el Centro de partners, para cada empleado que necesite acceso. Los usuarios con privilegios de administrador diferentes pueden hacerlo.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: roles, permisos, agregar usuario, asignar rol, administrador, agente,
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798493"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394194"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Crear cuentas de usuario y asignar permisos
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creación de cuentas de usuario y asignación de roles y permisos
 
 **Roles adecuados**
 
@@ -103,10 +104,3 @@ Para poder ver las rutas de entrenamiento y aprendizaje que siguen tus usuarios 
 1. En el panel del Centro de partners, selecciona el icono de **Tu cuenta** en la esquina derecha del panel y, a continuación, selecciona **Mi perfil**.
 
 2. En **Your learning** (Tu aprendizaje), podrás asociar tu cuenta de Microsoft Learning y conectar tu cuenta de Microsoft a Partner University.
-
-
-
-
-
-
-

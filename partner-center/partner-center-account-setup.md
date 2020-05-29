@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners | Centro de partners
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Administra aspectos de tu empresa como el perfil, el catálogo, la información bancaria y fiscal, los roles, los permisos y mucho más en el Centro de partners.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859371"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795692"
 ---
 # <a name="manage-your-partner-center-account"></a>Administrar la cuenta del Centro de partners
 
@@ -67,9 +67,17 @@ Esta es una lista parcial de los programas disponibles y la opción de configura
 |Tienda Office|Desarrollador|
 |Extensiones de Microsoft Edge|Desarrollador|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Diferencias en las opciones de configuración de partners y desarrolladores
+## <a name="partner-and-developer-settings-options"></a>Opciones de configuración para partners y desarrolladores
 
-Las opciones de **Configuración de partners** variarán de las de **Configuración de desarrolladores**. A continuación se muestran capturas de pantallas de ejemplo de cada conjunto de opciones. Si tienes acceso a otros programas, también puedes ver otras opciones aparte de los ejemplos de estas capturas de pantalla.
+### <a name="locate-your-mpn-id"></a>Encuentra tu identificador de MPN
+
+Independientemente de si eres un partner o un desarrollador, tienes que usar el identificador de MPN para cosas como el registro de incidencias de soporte técnico. Si es un desarrollador, el identificador de MPN se encuentra en la página de detalles de **configuración de la cuenta**.
+
+![Ubicación del identificador de MPN](images/accountsettings/devmpnlocation.png)
+
+El identificador de MPN del asociado se encuentra en la página **Perfil de partner**.
+
+Las opciones de **Configuración de partners** serán diferentes de las de **Configuración de desarrolladores**. A continuación se muestran capturas de pantallas de ejemplo de cada conjunto de opciones. Si tienes acceso a otros programas, también puedes ver otras opciones aparte de los ejemplos de estas capturas de pantalla.
 
 **Opciones de Configuración de partners**:
 
@@ -78,6 +86,7 @@ Las opciones de **Configuración de partners** variarán de las de **Configuraci
 **Opciones de Configuración de desarrolladores**:
 
 ![opciones de desarrollador](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>Inscripción en programas
 
@@ -94,7 +103,7 @@ Para obtener más información acerca de la inscripción en los programas del Ce
 
 ## <a name="the-account-picker"></a>Selector de cuentas
 
-Puedes formar parte de más de una cuenta. Si formas parte de varias cuentas, verás el "selector de cuentas" en el menú de navegación izquierdo. Si seleccionas el selector de cuentas, todas las cuentas de las que eres miembro se mostrarán en forma de lista. Puedes seleccionar cualquiera y cambiar a la que quieras para ver todos los programas e información que incluye. Si no ves ningún selector de cuentas, significa que solo eres miembro de una cuenta.
+Puedes formar parte de más de una cuenta. Si formas parte de varias cuentas, verás el "selector de cuentas" en el menú de navegación izquierdo. Si eliges el selector de cuentas, todas las cuentas de las que eres miembro se mostrarán en forma de lista. Puedes seleccionar cualquiera y cambiar a la que quieras para ver todos los programas e información que incluye. Si no ves ningún selector de cuentas, significa que solo eres miembro de una cuenta.
 
 ![selector de cuentas](images/accountsettings/accountpicker.png)
 

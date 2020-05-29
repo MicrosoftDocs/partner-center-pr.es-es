@@ -1,22 +1,23 @@
 ---
-title: Cuentas profesionales y Centro de partners
+title: Vinculación de la cuenta profesional para acceder al Centro de partners
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información sobre por qué necesitas una cuenta profesional para crear una cuenta del Centro de partners. Comprueba si ya tienes una cuenta profesional.
+description: Crea una cuenta profesional que vincule tu empresa con tu cuenta del Centro de partners. Esto permite a los empleados de la empresa obtener acceso al Centro de partners.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: cuenta profesional, correo electrónico, inquilino, inquilino de Azure, crear cuenta, nombre de dominio
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369272"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394217"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Cuenta profesional de tu empresa y Centro de partners  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crea una cuenta profesional que vincule tu empresa con tu cuenta del Centro de partners.
 
 **Se aplica a**
 
@@ -44,7 +45,7 @@ Si tienes más de una dirección de correo electrónico del trabajo válida, usa
 
 Si no estás seguro de si tu empresa tiene una cuenta profesional, sigue estos pasos para comprobarlo. Si tienes una suscripción activa a Microsoft Azure u Office 365, ya tienes una cuenta profesional.
 
-1. Inicia sesión en [Azure Portal](https://portal.azure.com).
+1. Inicie sesión en [Azure Portal](https://portal.azure.com).
 
 2. Selecciona Azure Active Directory en el menú y luego selecciona Nombres de dominio.
 

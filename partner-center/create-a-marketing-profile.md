@@ -1,21 +1,22 @@
 ---
-title: Creación de un perfil de negocio | Centro de partners
+title: Creación de un perfil de negocio para obtener clientes potenciales
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aprende a obtener clientes potenciales de ventas de Microsoft. Un paso clave es crear un perfil de negocio en el Centro de partners que permita a los clientes encontrarte.
+description: Aprende a obtener clientes potenciales de Microsoft. Un paso clave es crear un perfil empresarial en el Centro de partners para que los clientes puedan encontrarte.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, referencias, clientes potenciales, C2PC, perfil de la empresa, comercializar la empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722528"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795585"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Creación de un perfil de negocio para obtener clientes potenciales de Microsoft
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crea un perfil empresarial para obtener clientes potenciales de Microsoft y ayuda a los clientes a encontrarte
 
 **Se aplica a**
 
@@ -148,5 +149,6 @@ Después de publicar el perfil, aparecen actualizaciones en las búsquedas de [B
 - **Consiga etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
 - **Consiga etiquetas de aprobación** de los clientes que aprecian su trabajo.
 
-## <a name="related-topics"></a>Temas relacionados
+## <a name="next-steps"></a>Pasos siguientes
+
 [Responder a las referencias](responding-to-referrals.md)

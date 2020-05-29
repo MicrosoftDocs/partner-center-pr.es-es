@@ -1,22 +1,23 @@
 ---
-title: Los clientes delegan privilegios administrativos en los partners | Centro de partners
+title: Obtención de privilegios de administrador para un cliente
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información sobre cómo pedir a los clientes que deleguen permisos de administrador en un revendedor, que quiten esos mismos permisos y cómo usar los permisos.
+description: Obtén los permisos que necesitas para administrar el servicio o la suscripción de un cliente en su nombre. Obtén información acerca de cómo se conceden, revocan y administran los permisos.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: privilegios de administrador delegado, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340063"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394177"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>Los clientes delegan privilegios administrativos en los partners
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtención de permisos para administrar el servicio o la suscripción de un cliente
 
 **Se aplica a**
 
