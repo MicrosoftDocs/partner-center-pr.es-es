@@ -46,7 +46,7 @@ El partner debe confirmar que el cliente haya leído y aceptado los términos de
 ### <a name="to-confirm"></a>Para confirmar 
 
 1. En la página de la **cuenta** del cliente, selecciona **Update** (Actualizar) junto a **Microsoft Customer Agreement** (Acuerdo de cliente de Microsoft).  
-2. Completa la información sobre el individuo en la empresa del cliente que aceptó el MCuA.
+2. Completa la información sobre el individuo en la empresa del cliente que aceptó el MCA.
 3. Selecciona **Save and continue** (Guardar y continuar).  
 
 ## <a name="review-and-buy"></a>Revisar y comprar
