@@ -1,22 +1,21 @@
 ---
-title: Inscribirse en el programa Proveedor de soluciones en la nube
+title: Inscripción en el programa Proveedor de soluciones en la nube| Centro de partners
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información acerca de cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a tu negocio, como revendedor indirecto o partner de facturación directa.
+description: Comprende los distintos modelos para vender en el Proveedor de soluciones en la nube (CSP) y determina qué funciona mejor con tu negocio.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795163"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253932"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Inscríbete en el programa Proveedor de soluciones en la nube y crea un negocio rentable de soluciones en la nube.
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
 **Se aplica a**
 
@@ -42,7 +41,7 @@ Podemos tardar varios días en revisar y comprobar la información que has propo
 3. Después de que comprobemos la información, acepte el contrato con los términos para revendedores indirectos de Microsoft.
 
 > [!IMPORTANT]  
-> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](https://partner.microsoft.com/pcv/announcements).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Inscripción como revendedor indirecto
 
