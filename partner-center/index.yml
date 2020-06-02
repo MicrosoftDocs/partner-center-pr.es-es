@@ -11,18 +11,18 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 02/07/2020
-  ms.openlocfilehash: 483c63fdbae805f96236481870e9fc8e801856e3
-  ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+  ms.date: 05/29/2020
+  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
+  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 04/29/2020
-  ms.locfileid: "82255478"
+  ms.lasthandoff: 06/01/2020
+  ms.locfileid: "84253952"
 highlightedContent:
   items:
-  - title: Inicia sesión para ver los anuncios más recientes
+  - title: Más información sobre las actualizaciones importantes del Centro de partners
     itemType: whats-new
-    url: https://partner.microsoft.com/pcv/announcements
+    url: announcements/index.md
   - title: ¿Aún no eres partner? Únete a Microsoft Partner Network hoy mismo.
     itemType: get-started
     url: https://partner.microsoft.com/membership

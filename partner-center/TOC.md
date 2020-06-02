@@ -1,5 +1,7 @@
 # [Acerca del Centro de partners de Microsoft](index.yml)
 
+# [Anuncios](announcements/TOC.md)
+
 # [Suscripción a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
 ## [Cómo obtener un correo electrónico del trabajo](buy-email-domain.md)
