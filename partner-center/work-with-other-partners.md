@@ -8,12 +8,12 @@ description: Obtenga información sobre cómo los proveedores indirectos se asoc
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797583"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253942"
 ---
 # <a name="work-with-other-partners"></a>Trabajar con otros partners
 
@@ -54,4 +54,4 @@ La característica de varios canales del centro de Partners admite escenarios en
 La compatibilidad con varios canales también está disponible en las ofertas nacionales en la nube de Microsoft.
 
 > [!IMPORTANT]  
-> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](https://partner.microsoft.com/pcv/announcements).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).
