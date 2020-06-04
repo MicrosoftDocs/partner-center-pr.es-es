@@ -1,6 +1,6 @@
 ---
-title: Estado de los requisitos de seguridad para partners | Centro de partners
-ms.date: 10/11/2019
+title: Estado de los requisitos de seguridad para partners
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre los nuevos requisitos obligatorios que aumentan la seguridad para asesores, proveedores del panel de control y partners en el programa Proveedor de soluciones en la nube.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120396"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998301"
 ---
-# <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Estado de los requisitos de seguridad para partners: obtención de respuestas y comprobación de informes sobre el estado actual
 
 **Se aplica a**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120396"
 - Todos los asesores
 
 **Usuarios adecuados**
--    Todos los usuarios habilitados, incluidos los invitados
+- Todos los usuarios habilitados, incluidos los invitados
 
 Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y partners que participan en el programa Proveedor de soluciones en la nube.
 

@@ -1,44 +1,46 @@
 ---
-title: 'Crédito obtenido del partner: introducción | Centro de partners'
+title: 'Créditos obtenidos del partner: introducción'
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: El crédito obtenido del partner ofrece precios de Azure uniformes simplificados, proporciona servicios administrados de valor agregado y ayuda a eliminar la competencia relacionada con los márgenes.
+description: Obtén información sobre cómo el crédito obtenido del partner (PEC) ofrece precios de Azure uniformes simplificados, proporciona servicios administrados de valor agregado y ayuda a eliminar la competencia relacionada con los márgenes.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 611b129cc5343715f3fc528a0222c77fcaa6ee6e
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004244"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998291"
 ---
-# <a name="partner-earned-credit---overview"></a>Créditos obtenidos del partner: introducción
+# <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédito obtenido del partners: información general sobre cómo funciona en la nueva experiencia de comercio en CSP
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
--   Administrador de facturación
--   Agente de ventas
 
-El crédito obtenido del partner en la nueva experiencia comercial de CSP es un modelo de negocio que logra fijar los precios de Azure de forma uniforme y simplificada en los recursos de comercialización de Microsoft, al tiempo que fomenta un ecosistema de partners que proporciona servicios administrados de valor agregado. El crédito obtenido de los partners también te permite eliminar cualquier competencia en cuanto a los beneficios. 
+- Administrador global
+- Administrador de usuarios
+- Agente de administrador
+- Administrador de facturación
+- Agente de ventas
 
-Con miles de servicios en Azure y múltiples opciones para comprar, el precio puede ser un desafío para muchos clientes y partners. En la nueva experiencia comercial para Azure, hemos adoptado los principios de precios globales únicos que son aplicables a todos los movimientos que realizamos. Los partners de CSP pueden ofrecer Azure según los precios publicados. Esto proporcionará una mayor transparencia a tus clientes y generará confianza. 
+El crédito obtenido del partner en la nueva experiencia comercial de CSP es un modelo de negocio que logra fijar los precios de Azure de forma uniforme y simplificada en los recursos de comercialización de Microsoft, al tiempo que fomenta un ecosistema de partners que proporciona servicios administrados de valor agregado. El crédito obtenido de los partners también te permite eliminar cualquier competencia en cuanto a los beneficios.
 
-Las necesidades de nuestros clientes para realizar una transformación digital están cambiando la naturaleza del valor que ofrecen los partners. Muchos clientes buscan partners que proporcionen servicios más allá de las simples transacciones, para que su recorrido en la nube sea más sencillo y así puedan obtener ayuda a la hora de usar los servicios de Azure de la forma más eficaz. Este tipo de servicios son continuos e incluyen la supervisión de los servicios de Azure, la administración de directivas y gobernanza, el ajuste de la configuración y sus opciones, el soporte técnico y otros servicios. 
+Los precios pueden ser un desafío para muchos clientes y partners, especialmente si se tienen en cuenta los miles de servicios de Azure y las múltiples opciones para comprar. En la nueva experiencia comercial para Azure, hemos adoptado los principios de precios globales únicos que son aplicables a todos los movimientos que realizamos. Los partners de CSP pueden ofrecer Azure según los precios publicados. Con ello proporcionarán una mayor transparencia a sus clientes y generarán confianza.
 
-Estos servicios requieren que un partner esté completamente familiarizado con el entorno de Azure del cliente y que tenga un gobierno y control continuo y apropiado de los recursos subyacentes que se administran. Los partners de facturación que proporcionan esta actividad de administración de operaciones en la nube las 24 horas del día y los 7 días de la semana, podrán optar a un **crédito obtenido del partner por los servicios administrados** en el estado de Azure correspondiente a los clientes que administra y controla el partner. 
+Las necesidades de nuestros clientes para realizar una transformación digital están cambiando la naturaleza del valor que ofrecen los partners. Muchos clientes buscan partners para proporcionar servicios más allá de la transacción. Estos servicios pueden ayudarles a suavizar su recorrido en la nube y a consumir los servicios de Azure de forma eficaz. Este tipo de servicios son continuos e incluyen la supervisión de los servicios de Azure, la administración de directivas y gobernanza, el ajuste de la configuración y sus opciones, el soporte técnico y otros servicios. 
+
+Estos servicios requieren que un partner esté completamente familiarizado con el entorno de Azure del cliente y que tenga un gobierno y control continuo y apropiado de los recursos subyacentes que se administran. Los partners de facturación que proporcionan esta actividad de administración de operaciones en la nube las 24 horas del día y los 7 días de la semana, podrán optar a un **crédito obtenido del partner por los servicios administrados** en el estado de Azure correspondiente a los clientes que administra y controla el partner.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Beneficios del crédito obtenido del partner, para partners y clientes
 
 - Los clientes pueden externalizar la administración de infraestructuras de Azure y la facturación a su partner de confianza, lo que les permite concentrarse en su negocio principal.
 
-- Los clientes pueden trabajar con un partner que invierta en servicios administrados de Azure, que mejore la eficacia operativa y reduzca los costos y que les ayude a usar Azure.
+- Los clientes pueden trabajar con un partner que invierta en servicios administrados de Azure, que reduzca los costos y mejore la eficacia operativa en relación con el uso de Azure.
 
 - Los partners son recompensados porque proporcionan una sólida cartera de servicios administrados en Azure para sus clientes.  
 
@@ -63,7 +65,7 @@ Recuerda que tus clientes recurrirán a ti para que les ayudes a aprovechar al m
 
 - **Supervisión de bases de datos**: vista de la base de datos del cliente que ayuda a los partners a garantizar una alta disponibilidad de los servidores de bases de datos. Este proceso implica mantener registros del tamaño, el tiempo de conexión y los usuarios de bases de datos, para así poder analizar las tendencias de uso y aprovechar los datos para remediar problemas de manera proactiva.
 
-- **Supervisión de rendimiento de aplicaciones**: seguimiento de un extremo a otro de todos los aspectos de una aplicación (o página web). La supervisión de aplicaciones implica comprobar cada parte (desde los carros de compras hasta las páginas de registro) de las aplicaciones de un cliente que tienen problemas de rendimiento, para así poder proporcionar la mejor experiencia de usuario posible.
+- **Supervisión de rendimiento de aplicaciones**: seguimiento de un extremo a otro de todos los aspectos de una aplicación (o página web). La supervisión de aplicaciones implica comprobar cada parte (desde los carros de compras hasta las páginas de registro) de las aplicaciones de un cliente para detectar problemas de rendimiento y así poder proporcionar la mejor experiencia de usuario posible.
 
 Obtén más información sobre cómo ampliar tu [cartera de servicios administrados con Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 

@@ -1,20 +1,21 @@
 ---
-title: Requisito de MFA para el inquilino de partner | Centro de partners
+title: Requerir MFA para el inquilino del asociado
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo el requisito de MFA para los inquilinos de partner ayudará a proteger el acceso a los recursos de los clientes. Incluye escenarios de ejemplo.
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462210"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998311"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requisito de Multi-Factor Authentication (MFA) para el inquilino de partner
 
