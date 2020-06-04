@@ -1,20 +1,20 @@
 ---
 title: Precios y ofertas
 ms.topic: article
-ms.date: 02/27/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte las listas de precios actuales para servicios basados en licencias como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite, y servicios basados en uso como Azure.
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394169"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328296"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -82,7 +82,7 @@ CSP ofrece algunos servicios a segmentos de mercado especiales, por ejemplo, edu
 
 |**Segmento**   |**Quién debe calificar**   |**El asociado califica al cliente**|**Tipos de productos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Educación|Customer|No, Microsoft llevará a cabo la calificación del cliente |Solo basado en licencia|
+|Education|Customer|No, Microsoft llevará a cabo la calificación del cliente |Solo basado en licencia|
 |Sin ánimo de lucro|Customer|No, el cliente se califica fuera del centro de Partners|Solo basado en licencia|
 |Government Community Cloud (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
 |Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|Recursos de Azure|

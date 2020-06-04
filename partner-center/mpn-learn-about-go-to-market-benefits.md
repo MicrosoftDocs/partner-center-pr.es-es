@@ -1,7 +1,7 @@
 ---
 title: Más información sobre la comercialización con ofertas de Microsoft
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo la comercialización con ofertas de Microsoft puede ayudar a acelerar el tiempo de comercialización, generar clientes potenciales y ampliar su negocio.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, beneficios de la pertenencia, pertenencia, ofertas de comercialización, comercialización en el mercado con Microsoft, la participación en el mercado, la membresía Gold, la pertenencia a Silver
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795825"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328206"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore su comercialización con ofertas de Microsoft
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795825"
 - Administrador global
 - Administrador de partners de MPN
 
-Cuando se convirtió en un miembro de Microsoft Partner Network, obtiene acceso a las ventajas de la pertenencia que pueden ayudarle a crear y ampliar su negocio. La comercialización con recursos, ofertas y programas de Microsoft está entre las [muchas ventajas](https://partner.microsoft.com/manage-your-partner-network-benefits) que recibe como miembro de Microsoft Partner Network.
+Cuando se convierte en un miembro de Microsoft Partner Network, obtiene acceso a las ventajas de la pertenencia que pueden ayudarle a crear y ampliar su negocio. La comercialización con recursos, ofertas y programas de Microsoft está entre las [muchas ventajas](https://partner.microsoft.com/manage-your-partner-network-benefits) que recibe como miembro de Microsoft Partner Network.
 
 Las ofertas de comercialización le proporcionan acceso a recursos exclusivos de ventas y marketing que pueden ayudarle a acelerar el tiempo de comercialización, generar clientes potenciales y ampliar su negocio.
 
@@ -71,7 +71,7 @@ Para ver las ofertas de comercialización:
 
     - Seleccione **Información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
 
-      o
+      or
 
     - Seleccione **beneficios** seguidos de la **comercialización**.
 
