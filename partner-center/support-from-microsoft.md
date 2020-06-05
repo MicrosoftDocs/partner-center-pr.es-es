@@ -1,30 +1,30 @@
 ---
-title: Soporte técnico de Microsoft | Centro de partners
+title: Soporte técnico de Microsoft
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cuando se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023463"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425898"
 ---
-# <a name="support-from-microsoft"></a>Soporte técnico de Microsoft
+# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Soporte técnico de Microsoft: Cuándo se deben remitir los problemas, cómo se notifican o cómo comprobar el estado del servicio.
 
 **Se aplica a**
 
--  Centro de asociados
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
 
-
-Si se producen problemas con un servicio Microsoft o con el Centro de partners, puedes escalarlo a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
+Si tiene problemas con un servicio de Microsoft o con el centro de Partners, puede remitir a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 
 [Soporte técnico del centro de Partners](report-problems-with-partner-center.md) : Obtenga ayuda y cree vales para todos los programas del centro de Partners.
 

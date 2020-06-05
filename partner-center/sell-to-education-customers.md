@@ -1,23 +1,24 @@
 ---
-title: Cómo vender educación a los clientes
-description: Obtenga información sobre cómo crear un cliente educativo y venderlo en el centro de Partners.
+title: Cómo vender ofertas a clientes educativos
+description: Aprenda a crear un cliente educativo y a vender sus ofertas en el centro de Partners.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: Educación, segmentos especiales
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362493"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426014"
 ---
-# <a name="how-to-sell-education-to-customers"></a>Cómo vender educación a los clientes
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
 
 **Se aplica a**
 
@@ -37,6 +38,7 @@ En este artículo se explica cómo crear un cliente de educación en el centro d
 > Microsoft VETS cada inquilino de cliente de educación recién creado para asegurarse de que están calificados para las ofertas educativas.  Asegúrese de especificar la información necesaria de la forma más precisa y completa posible para evitar retrasos en el proceso de investigación.
 
 1. Inicie sesión en el Centro de partners.
+
 2. Seleccione **clientes** y, a continuación, seleccione **Agregar un cliente**. Seleccione **educación** en la lista desplegable de **calificaciones especiales** .  Rellene el resto de la información de la cuenta según sea necesario.  Los campos clave que ayudan al proceso investigación incluyen:
 
    - Nombre de la empresa: escriba el nombre de la entidad jurídica: necesario para investigación
@@ -78,7 +80,7 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 2. Actualice el explorador para restablecer la página. Habrá un botón **Actualizar** y el **estado especial** de las calificaciones se establecerá en **ninguno**.
 
-3. Selecciona **Actualización**. En la página **Administración de servicios** , seleccione **Office 365**.
+3. Seleccione **Actualizar**. En la página **Administración de servicios** , seleccione **Office 365**.
 
 4. Se le redirigirá al centro de administración de Office 365 en una nueva pestaña del explorador. Es posible que se le pida que inicie sesión con sus credenciales.
 
