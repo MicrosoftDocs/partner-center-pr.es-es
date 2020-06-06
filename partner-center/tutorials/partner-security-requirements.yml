@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: dbf5e0dc39a3c6aa2ba8eb0433abd09ae955f311
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
-  ms.translationtype: HT
+  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
+  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "80136328"
+  ms.lasthandoff: 06/05/2020
+  ms.locfileid: "84453352"
 items:
 - title: Introducción
   durationInMinutes: 5
@@ -99,15 +99,15 @@ items:
 
     Una vez que hayas habilitado la directiva de base de referencia *Requerir MFA a los administradores*, los usuarios que sean miembros de los roles de administrador anteriores disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios afectados por esta directiva
 
-      ![Solicitud de más información](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Solicitud de más información":::
 
-      ![Validación de seguridad adicional](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Validación de seguridad adicional":::
 
-      ![Configuración de la aplicación móvil](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Configuración de la aplicación móvil":::
 
-      ![Configuración de validación de seguridad adicional completada](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Configuración de validación de seguridad adicional completada":::
 
-      ![Validación de seguridad adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validación de seguridad adicional verificada":::
 
     Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso.
 - title: ¿Cómo habilito la directiva Protección del usuario final?
@@ -140,14 +140,14 @@ items:
 
     Una vez que hayas habilitado la directiva de base de referencia *Protección del usuario final*, todos los usuarios disfrutarán de una nueva experiencia cuando inicien sesión. Las siguientes ilustraciones son las que verán los usuarios
 
-      ![Solicitud de más información](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Solicitud de más información":::
 
-      ![Validación de seguridad adicional](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Validación de seguridad adicional":::
 
-      ![Configuración de la aplicación móvil](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Configuración de la aplicación móvil":::
 
-      ![Configuración de validación de seguridad adicional completada](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Configuración de validación de seguridad adicional completada":::
 
-      ![Validación de seguridad adicional verificada](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validación de seguridad adicional verificada":::
 
     Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso. Ten en cuenta que, hasta que se apliquen los requisitos de seguridad para asociados, a los usuarios que no estén cubiertos por la directiva de línea de base *Requerir MFA a los administradores* solo se les pedirá MFA en función del riesgo.
