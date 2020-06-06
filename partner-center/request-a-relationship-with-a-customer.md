@@ -1,26 +1,26 @@
 ---
-title: Solicitar relación con un cliente | Centro de partners
+title: Solicitar relación con un cliente
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: La solicitud de una relación se utiliza para escenarios de varios asociados y de varios canales. También es útil si un cliente quita tus privilegios de administrador delegado y necesitas restaurarlos para proporcionar aprovisionamiento o soporte técnico.
+description: Solicite una relación con un cliente para escenarios de varios asociados y multicanal o si es necesario restaurar los privilegios de administrador delegado para un cliente.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362713"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467375"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Conectar con los clientes del centro de Partners
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el centro de Partners
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
 Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el contrato de cliente de Microsoft.
 

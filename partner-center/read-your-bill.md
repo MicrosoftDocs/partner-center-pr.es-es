@@ -1,8 +1,8 @@
 ---
-title: Comprender la factura | Centro de Partners
+title: Cómo leer el archivo de conciliación & de la factura
 ms.topic: article
-ms.date: 04/03/2020
-description: La factura es un resumen de todos los cargos del centro de Partners (a través del programa, los productos y los clientes) del período mensual actual.
+ms.date: 06/05/2020
+description: Obtenga información sobre la factura & los archivos de conciliación. La factura muestra los cargos del centro de Partners en el programa, los productos y los clientes durante ese período mensual.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: facturación de suscripciones, facturación, facturación en el centro de Partners, facturación del centro de Partners, leer mi factura, factura, factura del centro de Partners, factura de CSP, ¿Dónde está mi factura?
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798713"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467465"
 ---
-# <a name="understand-your-bill"></a>Descripción de la factura
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.
 
 **Se aplica a**
 
@@ -35,7 +36,7 @@ La **factura** es un **Resumen de todos los cargos del centro de Partners** (en 
 
 ## <a name="invoice-types"></a>Tipos de factura
 
-Microsoft emitirá una factura por los cargos basados en licencia (como Office 365) y los cargos basados en el uso (como Azure) y una factura independiente por cargos puntuales (como RI de Azure, Marketplace, Azure plan, etc.). 
+Microsoft emitirá una factura por los cargos basados en licencia (como Office 365) y los cargos basados en el uso (como Azure) y una factura independiente por cargos de un solo uso (como Azure RI, Marketplace o Azure plan).
 
 Por ejemplo,  
 
@@ -43,13 +44,13 @@ Por ejemplo,
 
 - El asociado obtendrá un PDF de factura y dos archivos de conciliación que cubren los cargos de O365 y Azure (145p).  
 
-**Escenario 2 [una sola moneda]**: el asociado tiene compras para Azure RI, Marketplace y/o Azure Plan junto con compras 145p. 
+**Escenario 2 [sola moneda]**: el asociado tiene compras de Azure RI, Marketplace y/o Azure Plan junto con compras 145p.
 
 - El asociado obtendrá un PDF de factura y un archivo de conciliación que cubra los cargos de Azure (145p). 
 
 - El asociado recibirá otro PDF de factura y un archivo de conciliación que cubra sus cargos de Azure RI, Marketplace, Azure plan. 
 
-**Escenario 3 [multimoneda]**: el asociado tiene compras de Azure RI en DKK y Azure plan en EUR junto con las compras de 145P en EUR. 
+**Escenario 3 [multimoneda]**: el asociado tiene compras de Azure RI en DKK y Azure plan en EUR junto con las compras de 145P en EUR.
 
 - El asociado recibirá un PDF de factura y un archivo de conciliación que cubre los cargos de Azure RI en DKK. 
 
@@ -77,7 +78,7 @@ Puede encontrar facturas anteriores en la sección historial de facturación. El
 
 **Facturas para cargos de onetime y recurrentes**: las facturas de cargos por servicios como Azure RI, Azure plan, Marketplace estarán disponibles a partir del 8 de cada mes.  
 
-A continuación se muestran algunos de los campos clave del documento PDF de factura: 
+A continuación se muestran algunos de los campos clave del documento PDF de factura:
 
 **Número de factura**: identificador único para el documento de factura generado para el período de facturación correspondiente. 
 
@@ -95,34 +96,6 @@ A continuación se muestran algunos de los campos clave del documento PDF de fac
 
 Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos de cargos de un solo tiempo), consulte [campos de archivo de factura](invoice-file.md). 
 
-## <a name="understand-reconciliation-file"></a>Comprender el archivo de conciliación 
+## <a name="understand-reconciliation-files"></a>Descripción de los archivos de conciliación
 
  Los archivos de conciliación, que proporcionan detalles detallados o desglosados de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen los identificadores de cliente y los identificadores de suscripción que puede usar para crear facturas de cliente. Consulte  [Cómo usar los archivos de conciliación](use-the-reconciliation-files.md) para obtener más detalles sobre los archivos de conciliación. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

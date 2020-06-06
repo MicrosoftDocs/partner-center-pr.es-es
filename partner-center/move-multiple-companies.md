@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795785"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453192"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
@@ -42,13 +42,13 @@ Una vez que haya migrado, si detecta que la cuenta de empresa equivocada se desi
 
 4. Selecciona la empresa y la región y guárdalas.
 
-![Cuenta existente](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="Cuenta existente":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>Tu empresa tiene una cuenta en el Centro de partners
 
 Verás la cuenta existente y una nota que indica que los detalles de la empresa (la cuenta con la que has iniciado sesión) se consolidarán en esta cuenta.
 
-![Cuenta del Centro de partners](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Cuenta del Centro de partners":::
 
 En esta pantalla se muestran los detalles de la cuenta existente (nombre y dirección) que ya se ha creado en el Centro de partners, junto con los detalles del contacto principal.
 
@@ -76,7 +76,7 @@ Compruebe la información de la empresa y edítela si es necesario.  Estos detal
 
 Los datos se basan en la información de PMC y se comprobarán para asegurarse de que la empresa es legal.
 
-![Examinar los datos](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="Detalles de la revisión":::
 
 Si la cuenta que vas a migrar está en el mismo país o región que la existente, puedes decidir si quieres utilizar esa dirección o agregar otra. Si decides usar otra dirección, se comprobará. Si quieres utilizar la misma, se usarán la dirección existente y el contacto principal.
 

@@ -1,7 +1,7 @@
 ---
-title: Mercados globales de CSP | Centro de Partners
+title: Mercados globales de CSP
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea los países, regiones y monedas en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Mercados de CSP, territorios, Dónde puedo vender a través de CSP, ofertas de CSP, regiones, vender soluciones en la nube, CSP global
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798703"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467435"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Mercados y monedas regionales del proveedor de soluciones en la nube
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Los mercados regionales y las divisas del programa proveedor de soluciones en la nube donde puede vender ofertas de CSP
 
-La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP.
+La ubicación de la empresa determina el mercado. Su mercado incluye las regiones y/o los países en los que puede vender ofertas de programas del proveedor de soluciones en la nube (CSP).
 
 Por ejemplo, si su compañía se encuentra en el Estados Unidos, puede vender ofertas de CSP a los clientes de los Estados Unidos y en las islas periféricas de EE. UU. Si su compañía se encuentra en Brasil, puede vender ofertas de CSP a los clientes únicamente en Brasil. Si su empresa se encuentra en la región de África, puede vender ofertas de CSP a los clientes de los 18 países de la región de África.
 
@@ -35,9 +35,9 @@ Para determinar dónde puede vender las ofertas de CSP, busque la ubicación de 
 
 Si su país no es compatible, establezca la relación de CSP del cliente mediante la dirección URL de administrador de Office. 
 
-- Los asociados directos de facturación usan la siguiente https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0dirección URL:. Reemplace **partnertenantguid** por el identificador de inquilino. 
+- Los asociados directos de facturación usan la siguiente dirección URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Reemplace **partnertenantguid** por el identificador de inquilino. 
 
-- La dirección URL para los revendedores indirectos es: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Reemplace **IRtenantguid** por el identificador de inquilino. Reemplace **IRMPNID** por el identificador de MPN y reemplace **IPtenantguid** por el identificador de inquilino de proveedor indirecto.
+- La dirección URL para los revendedores indirectos es: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Reemplace **IRtenantguid** por el identificador de inquilino. Reemplace **IRMPNID** por el identificador de MPN y reemplace **IPtenantguid** por el identificador de inquilino de proveedor indirecto.
 
 ## <a name="africa-region-and-market"></a>Región y mercado de África
 
@@ -54,10 +54,10 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 | Cabo Verde               |          |
 | República Centroafricana |   USD    |
 | Chad                     |   USD    |
-| Comores                  |   USD    |
+| Comoras                  |   USD    |
 | Congo                    |   USD    |
 | Congo (RDC)              |   USD    |
-| Côte d'Ivoire            |          |
+| Costa de Marfil            |          |
 | Yibuti                 |   USD    |
 | Guinea Ecuatorial        |   USD    |
 | Eritrea                  |   USD    |
@@ -67,12 +67,12 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 | Gambia                   |   USD    |
 | Ghana                    |   USD    |
 | Guinea                   |   USD    |
-| Guinea-Bisáu            |   USD    |
+| Guinea-Bissau            |   USD    |
 | Kenia                    |   USD    |
 | Liberia                  |   USD    |
 | Madagascar               |   USD    |
-| Malaui                   |   USD    |
-| Malí                     |   USD    |
+| Malawi                   |   USD    |
+| Mali                     |   USD    |
 | Mauricio                |   USD    |
 | Mayotte                  |   USD    |
 | Namibia                  |   USD    |
@@ -130,10 +130,10 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Isla de Navidad      |   AUD    |
 |  Islas Cocos|   AUD   |
 |  Islas Cook          |   AUD    |
-|  Islas Fiji                  |   AUD    |
+|  Fiyi                  |   AUD    |
 |  Territorios Australes Franceses| AUD |
 |  Guam                  |  AUD     |
-|  Islas Heard y McDonald| AUD |
+|  Isla Heard e Islas McDonald| AUD |
 |  Kiribati              |   AUD    |
 |  Islas Marshall      |   AUD    |
 |  Micronesia            |   AUD    |
@@ -141,7 +141,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Niue                  |   AUD    |
 |  Isla Norfolk        |   AUD    |
 |  Islas Marianas del Norte| AUD    |
-|  Palaos                 |   AUD    |
+|  Palau                 |   AUD    |
 |  Papúa Nueva Guinea      |   AUD    |
 |  Islas Pitcairn      |   AUD    |
 |  Islas Salomón       |   AUD    |
@@ -216,7 +216,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Eslovaquia       |   EUR    |
 |  Eslovenia       |   EUR    |
 |  España          |   EUR    |
-|  Islas Svalbard y Jan Mayen|NOK|
+|  Svalbard y Jan Mayen|NOK|
 |  Suecia         |   SEK    |
 |  Suiza    |   CHF    |
 |  Reino Unido             |   GBP    |
@@ -282,7 +282,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Granada        |   USD    |
 |  Guadalupe     |          |
 |  Guatemala      |   USD    |
-|  Guayana         |   USD    |
+|  Guyana         |   USD    |
 |  Haití          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaica        |   USD    |
@@ -302,7 +302,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  San Vicente y las Granadinas| USD |
 |  San Eustaquio |   USD    |
 |  Sint Maarten   |   USD    |
-|  Islas Georgia del Sur y Sandwich del Sur| USD|
+|  Georgia del Sur e Islas Sandwich del Sur| USD|
 |  Surinam       |   USD    |
 |  Trinidad y Tobago|USD   |
 |  Islas Turcas y Caicos| USD|
@@ -323,7 +323,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Armenia        |   USD    |
 |  Azerbaiyán     |   USD    |
 |  Bahréin        |   USD    |
-|  Belarús        |   USD    |
+|  Bielorrusia        |   USD    |
 |  Bosnia y Herzegovina|    |
 |  Territorio Británico del Océano Índico|   USD   |
 |  Egipto          |   USD    |
@@ -340,7 +340,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Libia          |          |
 |  Macedonia, República de|   |
 |  Mauritania     |   USD    |
-|  Moldova        |          |
+|  Moldavia        |          |
 |  Mongolia       |          |
 |  Montenegro     |          |
 |  Marruecos        |   USD    |
@@ -401,5 +401,5 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  País/región       | Moneda |
 |  -------------        |:--------:|
 |  Estados Unidos        |   USD    |
-|  ESTADOS UNIDOS Islas alejadas de los EE. UU.|   USD    |
+|  EE. UU. alejadas de los EE.UU.|   USD    |
 |

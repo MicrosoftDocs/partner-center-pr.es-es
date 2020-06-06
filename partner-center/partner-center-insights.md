@@ -1,22 +1,22 @@
 ---
 title: Información acerca del Centro de partners
+description: Explore este panel de informes Unificado del centro de Partners. Vea cómo está haciendo en los KPI para ventas e implementación, el desarrollo de clientes, etc.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore este panel de informes Unificado del centro de Partners. Vea cómo está haciendo en los KPI para ventas e implementación, el desarrollo de clientes, etc.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, rendimiento, éxito de clientes, medidas, datos de informes
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 05/26/2020
+ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453202"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467535"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 

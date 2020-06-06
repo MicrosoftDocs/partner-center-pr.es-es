@@ -1,60 +1,63 @@
 ---
-title: Notificar problemas en nombre de un cliente | Centro de partners
+title: Notificar problemas en nombre de un cliente
 ms.topic: article
-ms.date: 08/16/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de problemas de escalado a Microsoft, envíe una incidencia de soporte técnico para ellos.
+description: Obtenga información acerca de Cuándo es conveniente remitir un problema de servicio al cliente a Microsoft y cómo archivar una incidencia de soporte técnico para él.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bf4dcadceeb6d16661faf0c458277f51833c55eb
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798693"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467385"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>Notificar problemas en nombre de un cliente
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
-
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
 
 Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de [problemas de escalado a Microsoft](escalate-problems-to-microsoft.md), envíe una incidencia de soporte técnico para ellos. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Enviar una solicitud de servicio para un cliente
 
-1.  Desde el menú del **Centro de partners**, selecciona **Solicitudes de servicio** y, después, **Solicitud de cliente**. 
+1. Desde el menú del **Centro de partners**, selecciona **Solicitudes de servicio** y, después, **Solicitud de cliente**. 
 
-2.  En la página de solicitudes de cliente, busca el cliente que quieras.
+2. En la página de solicitudes de cliente, busca el cliente que quieras.
 
-3.  En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se te redirigirá al portal de Microsoft Azure o al Centro de administración de Office 365.
+3. En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se le redirigirá al Microsoft Azure Portal o al centro de administración de Office 365.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > Cuando necesites crear una solicitud de servicio para tu cliente en Azure, ten en cuenta que:
 >
->- Para que puedas crear solicitudes de servicio para tu cliente en Azure, el proveedor indirecto debe concederte acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365. 
+>- Para que puedas crear solicitudes de servicio para tu cliente en Azure, el proveedor indirecto debe concederte acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365.
 >
 >- Aunque el administrador del departamento de soporte técnico del Centro de partners no puede crear solicitudes de servicio en el portal de servicios de Azure, lo que sí que puede hacer es crear un grupo de soporte técnico en el portal de servicios de Azure y conceder a ese grupo permisos para registrar solicitudes de soporte técnico.
 
 1. Seleccione **Nueva solicitud de soporte técnico**.
+
 2. Rellena la solicitud de soporte técnico con la información adecuada y, después, selecciona **Crear**:
--   En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
--   En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
+
+   - En la sección **Conceptos básicos** de la solicitud de soporte técnico, asegúrate de seleccionar **Proveedor de soluciones en la nube** en el campo **Plan de soporte técnico**.
+
+   - En la sección **Información de contacto** de la solicitud de soporte técnico, escribe tu información, no la del cliente.
 
 3. A continuación, revise las solicitudes de servicio del cliente en Microsoft Azure Portal; para ello, seleccione **Administrar solicitudes de soporte técnico**.
 
-Es posible que tengas que crear una solicitud de soporte técnico para un cliente si no tienes permisos de administrador para ese cliente. Esto podría pasar en uno de los siguientes casos: 
- 
--   No solicitaste privilegios de administrador cuando estableciste la relación por primera vez.
--   Puede administrar las suscripciones de Azure de un cliente y ninguna otra, lo que no requiere que tenga permisos administrativos.
+Es posible que tengas que crear una solicitud de soporte técnico para un cliente si no tienes permisos de administrador para ese cliente. Esto podría pasar en uno de los siguientes casos:
+
+- No solicitaste privilegios de administrador cuando estableciste la relación por primera vez.
+- Puede administrar las suscripciones de Azure de un cliente y ninguna otra, lo que no requiere que tenga permisos administrativos.
  
 En cualquiera de estos casos, puedes usar el procedimiento siguiente para crear una solicitud de soporte técnico. 
 
@@ -70,6 +73,7 @@ En cualquiera de estos casos, puedes usar el procedimiento siguiente para crear 
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. En la sección **Crear una solicitud de servicio**, elige la categoría del tema de soporte técnico adecuada. Es posible que tenga que seleccionar **más...** para ver temas adicionales.    
+
 2. Complete el formulario de solicitud de servicio y seleccione **submit (enviar**).
 
    > [!TIP]
@@ -84,9 +88,11 @@ Microsoft no proporciona soporte técnico para productos de Marketplace comercia
 Para buscar la información de contacto del ISV:
 
 1.  En la página **Marketplace**, selecciona el producto para el que necesitas ayuda.
-2.  En la página del producto encontrará información de contacto de soporte técnico. Puede que encuentres una o varias de estas opciones:
+
+2.  En la página del producto, encontrará información de contacto de soporte técnico. Puede que encuentres una o varias de estas opciones:
+
     - Un vínculo a un punto de entrada de soporte en el sitio web del ISV
-    - Un correo electrónico de soporte técnico 
+    - Un correo electrónico de soporte técnico
     - Un número de teléfono de contacto de soporte técnico
 
 ## <a name="faq"></a>Preguntas más frecuentes
@@ -105,9 +111,9 @@ Los tiempos de respuesta inicial dependen de la gravedad del incidente enviado. 
 
 Los tiempos de respuesta inicial para **incidentes break-fix técnicos** son los siguientes:
 
--   Impacto crítico (gravedad A): 2 horas (degradación o pérdida considerable de los servicios. Servicios de producción inactivos).
--   Impacto moderado (gravedad B): 4 horas (degradación o pérdida moderada de los servicios. Servicios de producción afectados parcialmente).
--   Impacto mínimo (gravedad C): 8 horas (degradación o pérdida mínima de los servicios. Los servicios siguen estando disponibles o los servicios de producción no se ven afectados).
+- Impacto crítico (gravedad A): 2 horas (degradación o pérdida considerable de los servicios. Servicios de producción inactivos).
+- Impacto moderado (gravedad B): 4 horas (degradación o pérdida moderada de los servicios. Servicios de producción afectados parcialmente).
+- Impacto mínimo (gravedad C): 8 horas (degradación o pérdida mínima de los servicios. Los servicios siguen estando disponibles o los servicios de producción no se ven afectados).
 
 Los tiempos de respuesta inicial son solo para soporte técnico en inglés. Se proporciona soporte técnico en el idioma local durante las horas laborables.
 Para incidentes dentro de los límites de la autorización del soporte técnico, que no se consideren incidentes break-fix, el tiempo de respuesta inicial puede ser de hasta un día laboral.
@@ -122,9 +128,9 @@ Si inicias sesión en el portal de Microsoft Azure directamente, verás el centr
 
 El derecho de soporte técnico del programa CSP no proporciona soporte técnico para tu propia suscripción de partner, por lo que, al crear una solicitud de servicio para tu suscripción de partner, debes proporcionar la autorización válida del plan soporte técnico. Algunos ejemplos son un id. de contrato de MPN o un plan de soporte técnico Premier o de Azure. Consulta [Preguntas más frecuentes de soporte técnico de Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**¿Qué sucede si inicio sesión en el portal del Centro de administración de Office 365 y omito el Centro de partners?**
+**¿Qué ocurre si inicio sesión en el portal del centro de administración de Office 365 y omite el centro de Partners?**
 
-Si inicias sesión en el Centro de administración de Office 365 directamente, verás el centro en tu propio contexto, no en el de un cliente. Por lo tanto, solo debes iniciar directamente en el Centro de administración de Office 365 al crear una solicitud de servicio para tus propias suscripciones.
+Si inicia sesión directamente en el centro de administración de Office 365, está viendo el centro en su propio contexto, no en el contexto de un cliente. Por lo tanto, solo debe iniciar sesión directamente en el centro de administración de Office 365 cuando cree una solicitud de servicio para sus propias suscripciones.
 
 **¿Cómo puedo obtener soporte adicional de Dynamics 365?**
 
@@ -133,6 +139,3 @@ Si tiene problemas relacionados con: las suscripciones a Dynamics 365 plan, las 
 Ponte en contacto con el [Soporte técnico de Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
 Lee [Soporte técnico de Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
-
-
-

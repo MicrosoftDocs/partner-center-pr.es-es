@@ -1,7 +1,7 @@
 ---
 title: Vender en sectores especializados
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre los precios especiales y reducidos de Microsoft para determinados grupos de clientes, incluidos clientes de educación, clientes sin ánimo de lucro y usuarios de la administración pública.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795094"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467175"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales
 
@@ -36,7 +36,7 @@ Microsoft ofrece precios especiales y reducidos para determinados grupos de clie
 |**Precio especial**   |**Calificaciones necesarias del reseller**   |**Calificaciones necesarias para el cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |None   | Debe ser un [usuario de educación calificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender las suscripciones basadas en licencias a Government, no se requiere ninguna calificación.|   None|
+|Government   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender las suscripciones basadas en licencias a Government, no se requiere ninguna calificación.|   None|
 |Sin ánimo de lucro  |None<br/> Debe tener un inquilino de Azure Active Directory sin ánimo de lucro.<br/> Más información sobre [ofertas especiales sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese en el [programa de Microsoft sin ánimo de lucro](https://nonprofit.microsoft.com/#/register) para que sea válido.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
@@ -60,6 +60,23 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 ## <a name="where-to-find-special-offers"></a>Dónde encontrar ofertas especiales
 
 Una vez que usted y su cliente están calificados para un programa de oferta especial, siga los pasos para [Agregar una suscripción](create-a-new-subscription.md). En la sección **Catálogo** de la página **nueva suscripción** , seleccione un sector especializado para ver las ofertas especiales que puede vender.
+
+## <a name="purchase-rules-for-special-segments"></a>Reglas de compra para segmentos especiales
+
+Los asociados solo pueden vender ofertas especiales a los clientes si cumplen determinados criterios. 
+
+- Las ofertas educativas solo pueden adquirirse si el cliente está autorizado como institución educativa. Un cliente educativo solo puede recibir ofertas educativas y comerciales, pero no beneficiosas ni para la nube de la comunidad gubernamental (GCC).
+- Los asociados solo pueden adquirir suscripciones de GCC para clientes de GCC. Una vez que un cliente tiene una suscripción de GCC, los asociados no pueden adquirir suscripciones comerciales, educativas ni sin ánimo de lucro. 
+- Los asociados solo pueden adquirir suscripciones comerciales o no lucrativas para clientes sin ánimo de lucro. Los asociados no pueden adquirir suscripciones de GCC ni educativas para clientes sin ánimo de lucro.
+
+Las reglas de compra para vender ofertas especiales a los clientes:
+
+|**Tipo de cliente**   |**Se puede vender**   |**No se puede vender**   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| Comercial |Comercial | Nube de la comunidad de administración pública, educativa o sin ánimo de lucro |
+| Sin ánimo de lucro |Comercial, sin ánimo de lucro | Educación o nube de la comunidad de Government |
+| Education |Comercial, educación | Nube de la comunidad de administración pública o sin ánimo de lucro |
+| Nube de la comunidad de Government |Nube de la comunidad de Government | Sin ánimo de lucro, educación o comercial |
 
 ## <a name="next-steps"></a>Pasos siguientes
 

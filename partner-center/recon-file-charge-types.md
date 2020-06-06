@@ -1,20 +1,21 @@
 ---
-title: Tipos de cargos de archivo de conciliación | Centro de Partners
+title: Tipos de cargos de archivo de conciliación
 ms.topic: article
-ms.date: 01/06/2020
-description: Tipos de cargos (basados en licencia, basados en el uso y único), créditos y descuentos en los archivos de conciliación del centro de Partners.
+ms.date: 06/05/2020
+description: Descubra los tipos de cargos (como, basado en licencias, basados en el uso, y una sola vez), créditos y descuentos en los archivos de conciliación del centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716876"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467515"
 ---
-# <a name="understand-charge-types"></a>Descripción de los tipos de cargos
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprender los distintos tipos de cargos en los archivos de conciliación del centro de Partners
 
 **Se aplica a**
 
@@ -23,7 +24,7 @@ ms.locfileid: "75716876"
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de facturación
 - Administrador global
 
@@ -46,17 +47,17 @@ Para asignar estos cargos basados en licencias a la factura, sume la columna **a
 | ------------------------------------------------------------- | ------------------ |
 | Tarifa de activación | La cantidad que se cobra al cliente cuando usa la suscripción después de la compra. |
 | Cuota de cancelación | Los cargos prorrateados se reembolsan al cliente cuando se cambian los puestos asociados. |
-| Prorrateo de instancia de cancelación | Se cancelaron los cargos prorrateados cuando el cliente con una suscripción mensual tiene una suscripción suspendida y los puestos asociados cambian en el mismo mes. |
+| Cancelar prorrateo de instancia | Los cargos prorrateados se cancelan cuando el cliente con una suscripción mensual tiene una suscripción suspendida y los puestos asociados cambian en el mismo mes. |
 | Tarifa de ciclo | Cargos periódicos de una suscripción. |
 | Prorrateo de instancia de ciclo | Cargos prorrateados evaluados por el cliente cuando se cambian los puestos asociados. |
-| Tarifas prorrateadas al cancelar | Reembolso prorrateado de la parte no utilizada del servicio tras la cancelación. |
+| Tarifas de prorrateo al cancelar | Reembolso prorrateado de la parte no utilizada del servicio tras la cancelación. |
 | Tarifas de prorrateo cuando se convierten de la oferta actual | Cargos prorrateados después de la conversión de la suscripción mensual actual a una suscripción anual. |
 | Cuotas de protarifas cuando se convierten a una nueva oferta | Cargos prorrateados después de convertir una suscripción mensual a una nueva suscripción anual. |
 | Tarifas prorrateadas al comprar | El tipo de cargo de una suscripción cuando se usa la facturación anual. |
-| Tarifa de compra | El tipo de cargo de una suscripción cuando se usa la facturación mensual. |
-| Tarifa prorrateada al renovar | Tarifas prorrateadas tras la renovación de la suscripción. |
-| Tarifa de renovación | Cargo por renovar una suscripción |
-| Tarifas prorrateadas al activar | > tarifas prorrateadas de la activación hasta el final del período de facturación. |
+| Precio de compra | El tipo de cargo de una suscripción cuando se usa la facturación mensual. |
+| Cuota de prorrateo al renovar | Tarifas prorrateadas tras la renovación de la suscripción. |
+| Precio de renovación | Cargo por renovar una suscripción |
+| Tarifas de protarifas al activar | Tarifas prorrateadas de la activación hasta el final del período de facturación. |
 
 ## <a name="one-time-charges"></a>Cargos por única vez
 
@@ -64,20 +65,20 @@ Para asignar estos cargos de un solo tiempo a la factura, sume la columna **amou
 
 | Descripción de cargos (columna ChargeType en el archivo de conciliación) | Explicación de cargos |
 | ------------------------------------------------------------- | ------------------ |
-| New | Se usa cuando se crea una nueva compra. |
+| Nuevo | Se usa cuando se crea una nueva compra. |
 | addQuantity | Se usa tanto en el reembolso de la compra original como en la nueva cantidad después de un aumento. |
 | removeQuantity | Se usa tanto en el reembolso de la compra original como en la nueva cantidad tras una disminución. |
 | Cancelar | Se usa cuando se cancela una suscripción. |
-| Conversión | Se usa cuando se actualiza una licencia pero el número de puestos permanece inalterado. |
+| Convert | Se usa cuando se actualiza una licencia pero el número de puestos permanece inalterado. |
 
-## <a name="usage-charges"></a>Usage charges
+## <a name="usage-charges"></a>Cargos de uso
 
 Para asignar estos cargos de uso a la factura, sume la columna **PretaxCharges** del archivo basado en el uso.
 
 | Descripción de cargos (columna ChargeType en el archivo de conciliación) | Explicación de cargos |
 | ------------------------------------------------------------- | ------------------ |
-| Evaluar la tarifa de uso al cancelar | Precio de uso de acceso a la cancelación por el uso no pagado durante el período de facturación actual. |
-| Evaluar la tarifa de uso para el ciclo actual | Precio de uso de acceso para el período de facturación actual. |
+| Evaluar la cuota de uso al cancelar | Precio de uso de acceso a la cancelación por el uso no pagado durante el período de facturación actual. |
+| Evaluar la cuota de uso del ciclo actual | Precio de uso de acceso para el período de facturación actual. |
 
 ### <a name="credits"></a>Créditos
 
@@ -88,18 +89,18 @@ Para asignar estos créditos a su factura:
 
 | Descripción de cargos (columna ChargeType en el archivo de conciliación) | Explicación de cargos |
 | ------------------------------------------------------------- | ------------------ |
-| Desplazamiento de un elemento de línea | Reembolso completo o parcial a un elemento de línea, incluidos los impuestos. |
+| Desplazar un elemento de línea | Reembolso completo o parcial a un elemento de línea, incluidos los impuestos. |
 
-### <a name="usage-based-discounts"></a>Descuentos basados en uso
+### <a name="usage-based-discounts"></a>Descuentos basados en el uso
 
 Para asignar estos descuentos basados en el uso a la factura, sume la columna **PretaxCharges** del archivo basado en el uso.
 
 | Descripción de cargos (columna ChargeType en el archivo de conciliación) | Explicación de cargos |
 | ------------------------------------------------------------- | ------------------ |
 | Descuento de activación | Descuento que se aplica cuando se activa la suscripción. |
-| Descuento de ciclo | Descuento aplicado a los cargos periódicos. |
-| Descuento de renovación | Descuento que se aplica cuando se renueva la suscripción. |
-| Descuento de cancelación | Cargos aplicados cuando se cancelan los descuentos. |
+| Descuento por ciclo | Descuento aplicado a los cargos periódicos. |
+| Renovar descuento | Descuento que se aplica cuando se renueva la suscripción. |
+| Cancelar descuento | Cargos que se aplica cuando se cancelan los descuentos. |
 
 ### <a name="license-based-discounts"></a>Descuentos basados en licencias
 

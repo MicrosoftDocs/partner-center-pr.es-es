@@ -1,27 +1,27 @@
 ---
-title: Registrar las ofertas | Centro de partners
+title: Registrar las ofertas
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cuando registre un trato que haya ganado en el centro de Partners, ayudará a Microsoft a proporcionarle más oportunidades en el futuro.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 keywords: registro de la oferta
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943228"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467415"
 ---
-# <a name="register-your-deals"></a>Registrar las ofertas
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre los acuerdos que ha ganado en el centro de partners para que pueda obtener más oportunidades más adelante
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
 Para registrar las ofertas que has ganado en el Centro de partners, puedes proporcionar información adicional sobre el contrato. Esta información nos ayudará a proporcionarte más oportunidades en el futuro.
 
@@ -41,7 +41,7 @@ En la página **Nueva oferta**, proporciona la siguiente información.
 - **Valor total del contrato**: el valor total esperado para la negociación. Debes incluir todas las tarifas de software y servicios, pero no los costos de hardware. Asegúrate de seleccionar la moneda adecuada.
 - **Valor**de la solución: el valor total de la solución en la nube que se usará para el trato. Asegúrate de incluir todos los costos asociados con las tarifas de software y mantenimiento, pero no incluyas artículos reembolsables, tarifas de personalización no recurrentes ni cuotas de licencias de CSP directamente asociadas que abone Microsoft.
 - **Implementado en**: seleccione **Azure** u **otros**.
-- ¿ **Dónde se implementará la solución?** : seleccione el **inquilino de cliente** o el **inquilino de asociado**.
+- ¿ **Dónde se implementará la solución?**: seleccione el **inquilino de cliente** o el **inquilino de asociado**.
 - **Fecha de inicio del contrato**: fecha en la que comenzará el contrato.
 - **Fecha de finalización del contrato**: Si el contrato termina en una fecha concreta, seleccione **tiene una fecha de finalización** y proporcione esa fecha. De lo contrario, selecciona **Perpetual** (Perpetuo).
 - **Fecha firmada del contrato**: fecha en la que la organización y el cliente firmaron el contrato final.
@@ -65,6 +65,6 @@ En la página **Referencias > Registrar las ofertas > En curso**, verás los reg
 
 Si es necesario actualizar cualquier información, es posible que movamos el registro de la oferta a la página **Acción requerida**.
 
-### <a name="closed"></a>Cerrado
+### <a name="closed"></a>Cerrada
 
-En la página **Referencias > Registrar las ofertas > Cerrado**, verás las ofertas que Microsoft ha registrado y revisado correctamente. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado**o**Rechazado**.
+En la página **Referencias > Registrar las ofertas > Cerrado**, verás las ofertas que Microsoft ha registrado y revisado correctamente. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado** o **Rechazado**.
