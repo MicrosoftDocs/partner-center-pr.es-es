@@ -10,19 +10,19 @@ ms.author: labrenne
 keywords: Azure, reservas, máquinas virtuales, administración, uso, ajuste de tamaño
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205783"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453282"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
 **Se aplica a**
 
 - Centro de partners
-- Portal de Azure
+- Azure portal
 - Asociados en CSP
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente 
@@ -54,23 +54,24 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 3. Seleccione **máquinas virtuales** en el menú del portal y, a continuación, seleccione la máquina virtual para la que desea comprar una reserva.
 4. En la página de detalles de la máquina virtual, busque la información de tamaño y región, como se muestra a continuación, y use esta información para comprar la reserva en el centro de Partners.  
 
-    ![Información de tamaño y región en la página de detalles](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="Información de tamaño y región en la página de detalles":::
 
 **Obtención de información de tamaño de máquina virtual mediante Microsoft Azure PowerShell**
 
 Use la información de la imagen siguiente para obtener la ubicación y el tamaño de la máquina virtual para la que desea comprar una reserva. 
 
-![Ubicación y tamaño de la máquina virtual](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="Ubicación y tamaño de la máquina virtual":::
 
 **Obtención de información de tamaño de la máquina virtual mediante la API de Azure Resource Manager (ARM)**
 
 1. Con las API de ARMClient o ARM, llame al cliente de ARM para la máquina virtual para la que desea comprar una reserva.
 
-2. /subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/Providers/Microsoft.Compute/virtualMachines/<VM Instance Name>? API-version = 2017-12-01
+2. /subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? API-version = 2017-12-01
 
 3. La llamada devuelve los valores de **vmSize** y **Location**, como se muestra a continuación.
 
-    ![valor de](images/usage3.png) ![Ubicación del valor de vmSize](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="valor vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="valor de ubicación":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Comprobación del uso de VM de Azure y el descuento de reserva
 
@@ -110,7 +111,7 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 
 Puede obtener datos de uso de reserva con la API de uso de Azure para comprobar que el cliente está obteniendo el descuento de reserva y ver a qué máquinas virtuales (máquinas virtuales) se aplica el descuento. Compare el ejemplo a con el ejemplo B para ver cómo comprobar el uso de la reserva de un cliente.
 
-![Ejemplos de uso de reserva](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="Ejemplos de uso de reserva":::
 
 - ReservationId identifica la reserva de Azure que se usó para aplicar el descuento a la máquina virtual.
 - consumptionMeter es el MeterId de la máquina virtual que tiene aplicado el descuento de reserva.

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794996"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453292"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>El centro de Partners tiene dos niveles de cuentas para los asociados de MPN
 
@@ -50,26 +50,6 @@ El PGA puede tener ubicaciones de negocio adicionales. Cada ubicación tiene su 
 - Todas las cuentas de ubicación se encuentran en el mismo nivel y en la cuenta global de socio comercial.
 - Los administradores de cuentas pueden agregar o quitar ubicaciones.
 
-![Estructura de la cuenta](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="Estructura de la cuenta" border="false":::
 
-Para obtener más información acerca de cómo administrar ubicaciones, consulte [Administración de la cuenta de socio comercial: ubicaciones](manage-locations.md). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Para obtener más información acerca de cómo administrar ubicaciones, consulte [Administración de la cuenta de socio comercial: ubicaciones](manage-locations.md).

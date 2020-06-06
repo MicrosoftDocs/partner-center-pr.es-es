@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795651"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452989"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 
@@ -64,7 +64,7 @@ El desglose de las competencias iniciadas cuenta por nivel de competencia (Silve
 - En riesgo (próximo año): recuento de las competencias que están **activas** actualmente, pero también **en riesgo** de no cumplir los requisitos del año siguiente.
 Desglose de las competencias (por nivel de competencia, como Silver/Gold, con nombres de competencia) que corren el riesgo de no ser aptas para el próximo año.
 
-![Resumen de competencias](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumen de competencias":::
 
 **Análisis de métricas de competencia**
 
@@ -75,7 +75,7 @@ El informe se puede dinamizar con los dos intervalos de fechas siguientes:
 1. Vista de TTM: muestra el rendimiento de los asociados durante los últimos doce meses (TTM).
 2. Vista de año de aniversario: muestra el rendimiento del socio comercial de la fecha de aniversario anterior a la fecha de aniversario siguiente.
 
-![Análisis de métricas de competencia](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Análisis de métricas de competencia":::
 
 > [!NOTE]
  > No todas las métricas se describen en el análisis. Actualmente, las métricas asociadas con el aprendizaje y la certificación no se admiten en el informe de competencias. Las competencias de Cloud Business Applications (CBA) tampoco se admiten actualmente en el análisis de métricas para el estado **activo** de la competencia.
@@ -84,7 +84,7 @@ El informe se puede dinamizar con los dos intervalos de fechas siguientes:
 
 Esta vista muestra una tabla detallada de todas las competencias que ha logrado hasta ahora, con el nivel de competencia y la fase de competencia.
 
-![Historial de competencias](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Historial de competencias":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

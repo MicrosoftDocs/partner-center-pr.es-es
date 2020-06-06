@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328236"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453202"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 
@@ -61,7 +61,7 @@ Los informes siguientes están disponibles como parte del panel de información.
 
 **Filtros de intervalo de fechas**: puede encontrar una selección de intervalo de fechas en la esquina superior derecha de cada página. La salida de los gráficos de página de información general se puede personalizar seleccionando un intervalo de fechas basado en los últimos 3, 6 o 12 meses, o seleccionando un intervalo de fechas personalizado. La selección de intervalo de fechas predeterminado es de 12 meses. 
 
-![Mapa de introducción](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="Mapa de introducción":::
 
 **Botón de comentarios**: cada gráfico o control de todos los informes de Insights se incorpora con un botón de comentarios que le permite proporcionar comentarios sobre las instancias en una característica de informe. 
 
@@ -74,7 +74,7 @@ Los informes siguientes están disponibles como parte del panel de información.
 
 - Los filtros seleccionados se mostrarán en la parte superior de la página. 
 
-![filters](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="complementa":::
 
 ### <a name="filters-definitions"></a>Definiciones de filtros:
 

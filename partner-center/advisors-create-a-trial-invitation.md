@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, versión de prueba
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362623"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458361"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
 
@@ -37,7 +37,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
 
     - **Ubicación de uso**: elija la ubicación en la que el cliente usará los servicios.
     - **Suscripciones de prueba**: la lista de suscripciones de prueba que puede elegir viene determinada por la ubicación de uso del país o la región del cliente.
-    - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la invitación de evaluación con o sin la aceptación de la administración delegada. Para obtener más información acerca de la administración delegada, consulte [oferta de administración delegada](customers_revoke_admin_privileges.md).
+    - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la invitación de evaluación con o sin la aceptación de la administración delegada. Para obtener más información acerca de la administración delegada, consulte [oferta de administración delegada](customers-revoke-admin-privileges.md).
 
 3. Haga clic en **Siguiente**.
 

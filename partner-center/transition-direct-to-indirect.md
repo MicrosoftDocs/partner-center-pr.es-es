@@ -1,20 +1,21 @@
 ---
-title: Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
+title: Cambiar el socio de facturación directo a revendedor indirecto
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Comprenda cómo realizará la transición de Direct Bill Partner a revendedor indirecto
+description: Obtenga información sobre cómo un asociado del programa CSP puede usar el centro de partners para realizar la transición de un asociado de factura directa al revendedor indirecto.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, transición, revendedor indirecto
-ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362673"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458411"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -33,11 +34,11 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 
 2. Inicie sesión en el centro de partners como administrador global del inquilino de facturación directo que va a pasar al revendedor indirecto.
 
-    ![Información general](images/direct/direct1.png)
+   :::image type="content" source="images/direct/direct1.png" alt-text="Información general":::
 
 3. Revise los detalles de su asociado en el formulario de inscripción.
 
-    ![Inscribirse ahora](images/direct/direct2a.png)
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Inscribirse ahora":::
 
 4. Selecciona Inscribirse ahora. Su empresa de revendedores indirectos usará el mismo inquilino de AAD que usa para su negocio directo.
 
@@ -53,7 +54,7 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 
 Cuando haya aceptado el contrato de revendedor indirecto, tenga en cuenta que el **Perfil de socio** comercial lo identifica como una factura directa y un revendedor indirecto.
 
-![Acuerdo de revendedor indirecto](images/direct/direct3.png)
+:::image type="content" source="images/direct/direct3.png" alt-text="Acuerdo de revendedor indirecto":::
 
 > [!IMPORTANT]
 > Una vez que se inscribe como revendedor indirecto mediante la nueva funcionalidad, no hay ninguna opción para revertir a un inquilino de solo facturación directo. Asegúrate de evaluar completamente evaluar las necesidades de tu empresa antes de inscribirte como revendedor indirecto.
@@ -62,7 +63,7 @@ Cuando haya aceptado el contrato de revendedor indirecto, tenga en cuenta que el
 
 Durante esta fase, seguirá administrando las necesidades de suscripción de sus clientes directos, incluido el proceso de facturación. También puede empezar a aceptar clientes de su proveedor indirecto y a trabajar como un revendedor indirecto.
 
-![Es una factura directa y un revendedor indirecto](images/direct/direct4.png)
+:::image type="content" source="images/direct/direct4.png" alt-text="Es una factura directa y un revendedor indirecto":::
 
 ## <a name="find-an-indirect-provider"></a>Encontrar un proveedor indirecto
 
@@ -159,7 +160,7 @@ Puede usar la característica de extensión de relación reseller para establece
     > [!NOTE]
     > Mediante el uso de la característica de extensión reseller Relationship, da su consentimiento para compartir la información de facturación que tiene para este cliente con el proveedor indirecto.
 
-- No se proporcionará a su proveedor indirecto [privilegios de administración delegada](customers_revoke_admin_privileges.md) en el inquilino del cliente. Si el proveedor indirecto requiere privilegios de administración delegados, debe enviar una invitación de revendedor indirecto al cliente en su lugar.
+- No se proporcionará a su proveedor indirecto [privilegios de administración delegada](customers-revoke-admin-privileges.md) en el inquilino del cliente. Si el proveedor indirecto requiere privilegios de administración delegados, debe enviar una invitación de revendedor indirecto al cliente en su lugar.
 
 - Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página relaciones de socios comerciales del [centro de administración de M365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
 
@@ -174,7 +175,7 @@ Para usar esta característica en un inquilino de cliente existente:
 
 3. En **proveedores indirectos**, haga clic en **transferir cliente en un proveedor indirecto**.
 
-    ![Transferir clientes a un proveedor indirecto](images/direct/direct5_1.png)
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transferir clientes a un proveedor indirecto":::
 
 4. En el cuadro de diálogo emergente, seleccione el **proveedor indirecto** que le gustaría tener la relación de revendedor con el cliente.
 
@@ -182,7 +183,7 @@ Para usar esta característica en un inquilino de cliente existente:
 
 6. Compruebe que el proveedor indirecto seleccionado aparece en **proveedores indirectos**.
 
-    ![Proveedor indirecto enumerado](images/direct/direct5_2.png)
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Proveedor indirecto enumerado":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Enviar una invitación de revendedor indirecto al cliente
 
@@ -192,7 +193,7 @@ El proveedor indirecto no podrá enviar pedidos para los clientes de factura dir
 
 2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con el cliente, para que puedan enviar pedidos en nombre del cliente cuando el cliente desee comprar nuevas suscripciones o agregar nuevas licencias a las suscripciones existentes.
 
-    ![Invitar a nuevos clientes](images/direct/direct6.png)
+    :::image type="content" source="images/direct/direct6.png" alt-text="Invitar a nuevos clientes":::
 
 3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
@@ -208,7 +209,7 @@ Microsoft Cloud acuerdo es válido hasta el 31 de enero de 2020. Después de esa
 
 - **El cliente aún no ha aceptado el contrato de cliente de Microsoft**
 
-   Trabaje con un proveedor indirecto para que [el cliente acepte el contrato de atención al cliente de Microsoft]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+   Trabaje con un proveedor indirecto para que [el cliente acepte el contrato de atención al cliente de Microsoft](confirm-customer-agreement.md).
 
 - **El cliente ha aceptado el contrato de atención al cliente de Microsoft con usted a través del centro de administración de Microsoft 365**
 
@@ -216,7 +217,7 @@ Microsoft Cloud acuerdo es válido hasta el 31 de enero de 2020. Después de esa
 
 - **El cliente ha aceptado el contrato de cliente de Microsoft con la atestación de asociados**
 
-   No se conservará la aceptación. Trabaje con un proveedor indirecto para [actualizar la aceptación del cliente en el centro de Partners]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+   No se conservará la aceptación. Trabaje con un proveedor indirecto para [actualizar la aceptación del cliente en el centro de Partners](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers).
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Transferir las suscripciones de factura directa existentes al proveedor indirecto
 
@@ -273,17 +274,17 @@ Para crear una solicitud de transferencia como el asociado de transición:
 
 6. En **transferencia de suscripción**, haga clic en **solicitar transferencia de suscripción**.
 
-    ![Solicitud de transferencia de suscripción](images/direct/direct8.png)
+    :::image type="content" source="images/direct/direct8.png" alt-text="Solicitud de transferencia de suscripción":::
 
 7. En el cuadro de diálogo transferir solicitud, seleccione una o varias suscripciones que se van a transferir.
 
-    ![Crear solicitud de transferencia](images/direct/direct9.png)
+    :::image type="content" source="images/direct/direct9.png" alt-text="Crear solicitud de transferencia":::
 
 8. Haga clic en **Crear**.
 
 9. Aparecerá una solicitud de transferencia de suscripción activa en **transferencia de suscripción**.
 
-    ![Lista de solicitudes de transferencia](images/direct/direct10.png)
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lista de solicitudes de transferencia":::
 
 10. Informe a su proveedor indirecto de que ha creado una solicitud de transferencia de suscripción.
 
@@ -301,13 +302,13 @@ Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
 5. En la página **suscripciones** , busque **transferencia de suscripción**.
 
-    ![Ver solicitud de transferencia](images/direct/direct11.png)
+    :::image type="content" source="images/direct/direct11.png" alt-text="Ver solicitud de transferencia":::
 
 6. En **transferencia de suscripción**, haga clic en la solicitud de transferencia para revisarla.
 
 7. Haga clic en **Aceptar** (o en **rechazar**) según corresponda.
 
-    ![Aceptar solicitud de transferencia](images/direct/direct12.png)
+    :::image type="content" source="images/direct/direct12.png" alt-text="Aceptar solicitud de transferencia":::
 
 8. Espere a que se complete la solicitud de transferencia.
 
@@ -337,7 +338,7 @@ El asociado de transición debe hacer lo siguiente:
 
    2. Si se trata de una suscripción basada en puestos (Office 365, Dynamics, Intune), se mostrará con el estado **suspendido**.
 
-   ![Suscripción suspendida](images/direct/direct13.png)
+   :::image type="content" source="images/direct/direct13.png" alt-text="Suscripción suspendida":::
 
 ### <a name="considerations"></a>Consideraciones
 

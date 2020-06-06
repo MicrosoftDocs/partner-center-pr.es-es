@@ -11,12 +11,12 @@ ms.author: labrenne
 Keywords: Estado, estado del servicio, problemas de servicio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908220"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458381"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Comprobación del estado del servicio de un cliente que informa de un posible problema o interrupción del servicio
 
@@ -31,21 +31,22 @@ ms.locfileid: "82908220"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 
-Una de las primeras cosas que puedes hacer si un cliente está experimentando problemas con un servicio es comprobar el estado de dicho servicio.
+Una de las primeras cosas que puedes hacer si un cliente está experimentando problemas con un servicio es comprobar el estado de dicho servicio. 
 
-**Comprobar el estado del servicio**
+## <a name="check-service-health"></a>Comprobación del estado del servicio
 
-1. En el menú del **centro de Partners** , seleccione **Estado del servicio**.
+1. Seleccione el **cliente** que tiene el problema en la **lista de clientes**.
 
-2. Verá todos los servicios que se muestran, junto con indicaciones si alguno de ellos no está en buen estado.
+2. Seleccione **Administración de servicios** en el menú de la izquierda. Se enumerarán los servicios aprovisionados para el cliente y el estado del servicio para cada uno de ellos. Los asociados pueden hacer clic en el servicio en el que están interesados para obtener más información. 
 
-Durante una interrupción del servicio, Microsoft proporciona actualizaciones periódicas mientras trabaja para solucionar el problema. La mejor manera de ver estas actualizaciones es desde el **centro de notificaciones** del centro de Partners. Estas notificaciones también se muestran en el portal de Microsoft Azure o en el Centro de administración de Office 395, según corresponda.
+>[!NOTE] 
+> Los vínculos de estado del servicio en las páginas de **Administración de servicios** tomarán el asociado al centro de administración de M365 o al Azure portal como **Administrador Delegado**. Una vez que el asociado llega a un destino, el asociado puede ir a las páginas de estado del servicio en cualquier portal para obtener más detalles sobre la interrupción.
+ 
+Durante una interrupción del servicio, Microsoft proporciona actualizaciones periódicas mientras trabaja para solucionar el problema. Estas notificaciones también se muestran en el Microsoft Azure Portal o en el centro de administración de Microsoft 365.
 
-Si el problema persiste después de finalizar la interrupción del servicio, envía una solicitud de servicio. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
+Si el problema persiste después del final de la interrupción del servicio, envíe una solicitud de servicio. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
+
+Microsoft 365 y Microsoft Azure proporcionan [API que los asociados pueden usar para recuperar el estado del servicio en tiempo real](get-automated-service-notifications-with-our-apis.md), las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado.
 
  
-
- 
-
-
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795910"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452826"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel de Partner Center Insights
 
@@ -66,7 +66,7 @@ El micro gráfico presenta una tendencia mensual de las suscripciones rotadas en
 
 - Suscripciones por productos: desglose del número de suscripciones actual por productos en la nube.
 
-![Resumen del informe de suscripciones](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumen del informe de suscripciones":::
 
 **Propagación geográfica de suscripciones**
 
@@ -76,7 +76,7 @@ La tabla **número de países o** regiones presenta el total de países o region
 
 Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Presione la opción **Inicio** en el mapa para revertir a la vista original. Mantenga el puntero sobre el mapa para ver todas las suscripciones y suscripciones activas por país. Ambos campos de la cuadrícula se pueden ordenar.
 
-![suscripciones por geografía](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="suscripciones por geografía":::
 
 **Agregaciones de suscripción/paginación**
 
@@ -84,19 +84,19 @@ Esta vista presenta una tendencia de suscripciones. Estas se dividen en distinta
 
 El gráfico de columnas apiladas presenta un desglose de las suscripciones nuevas, existentes y renovadas del mes. Puede volver a generar el gráfico de columnas, desglosado con elementos de pila concretos. Para ello, seleccione los elementos específicos en la leyenda. También puede utilizar el control deslizante de la parte superior del gráfico para acercar un período específico.
 
-![agregación de suscripciones y paginación](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="agregación de suscripciones y paginación":::
 
 **Distribución de suscripciones**
 
 Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de MPN, los segmentos de cliente, el canal de ventas o el modelo de precios de Azure y el tipo de atribución (por ejemplo, DPOR, DAP, etc.). Haga clic en las pestañas correspondientes para ver el desglose por estas categorías. Para generar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
 
-![distribución de suscripciones](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribución de suscripciones":::
 
 **Distribución de estado de suscripción**
 
 Esta vista muestra la distribución de las suscripciones de clientes actuales por Estado o estado de la suscripción. Esto incluye los siguientes Estados de suscripción: **activo**, **deshabilitado**, **desaprovisionado**, **abierto**, **gracia**, **cerrado**y **otros**.
 
-![distribución de estado de suscripción](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribución de estado de suscripción":::
 
 **Tendencia de productos**
 
@@ -104,7 +104,7 @@ Esta vista muestra un gráfico de barras y dos gráficos circulares. El gráfico
 
 Los dos gráficos circulares muestran un desglose de las suscripciones de los clientes actuales. El primer gráfico circular divide las suscripciones por productos. El segundo gráfico circular divide las suscripciones por SKU o planes. Al seleccionar un producto en el gráfico circular desglose **por productos** , el gráfico circular adyacente mostrará un desglose de las suscripciones de este producto por SKU.
 
-![tendencia de productos](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="tendencia de productos":::
 
 > [!NOTE]
  > Es posible que el número de suscripciones dividido por SKU no siempre coincida con el número total de suscripciones para ese producto. Esto puede ocurrir si un cliente ha adquirido varias SKU en la misma suscripción de producto.

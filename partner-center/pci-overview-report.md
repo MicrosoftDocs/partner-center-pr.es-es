@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795699"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452952"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Información general sobre los informes del panel disponibles en la información del centro de Partners
  
@@ -50,38 +50,38 @@ El porcentaje de crecimiento de las suscripciones activas en el gráfico de inte
 - Licencias implementadas: recuento de todas las licencias de productos en la nube implementadas en las suscripciones de los clientes durante el período de tiempo seleccionado.  
 El porcentaje de crecimiento o disminución de estas licencias durante el gráfico de intervalos de fechas seleccionado presenta la tendencia de mes a mes de estas licencias asignadas en el intervalo de fechas seleccionado.
 
-![Resumen de licencias](images/pci/summary.png)
+:::image type="content" source="images/pci/summary.png" alt-text="Resumen de licencias":::
 
 **Distribución geográfica de sus clientes, suscripciones y licencias** 
 
 Esta vista es una distribución geográfica del total de clientes, suscripciones y licencias por país del cliente. Haga clic en las distintas pestañas para ver cada una de estas perspectivas en el mapa. Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Vuelva a la vista original presionando el botón Inicio en el mapa. Al hacer clic en cada pestaña (por ejemplo, clientes, suscripciones), se muestra el valor de la métrica para cada país, así como el% del total del país.  
 
-![Resumen geográfico](images/pci/geosummary.png)
+:::image type="content" source="images/pci/geosummary.png" alt-text="Resumen geográfico":::
 
 **Tendencia de crecimiento de los clientes**
 
 Tendencia mensual de recuentos totales de clientes para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento total de clientes para ese mes. 
 
-![tendencia de crecimiento de los clientes](images/pci/customergrowth.png)
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendencia de crecimiento de los clientes":::
 
 **Tendencia de crecimiento de suscripciones**
 
 Esto indica la tendencia del recuento de suscripciones de clientes para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de suscripciones del producto seleccionado. Desplácese por el control deslizante situado en la parte superior del gráfico para acercar el gráfico hasta un período de tiempo específico. 
 
-![Tendencia de crecimiento de suscripciones](images/pci/subscriptiongrowth.png)
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendencia de crecimiento de suscripciones":::
 
 **Tendencia de crecimiento de ingresos consumido de Azure**
 
 Tendencia mensual de los ingresos consumidos por Azure $ con el atributo en el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el total de ingresos consumidos de Azure $ atribuidos a usted durante el mes.   
 **Nota**: los ingresos consumidos por Azure (ACR) solo estarán visibles para los usuarios a los que se haya asignado el rol Executive Report Viewer. 
 
-![Consumo de Azure](images/pci/azureconsumed.png)
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo de Azure":::
 
 **Tendencia de crecimiento de licencias**
  
 Tendencia de las licencias asignadas por todos los clientes durante el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de licencias del producto que ha seleccionado. Desplácese por el control deslizante situado en la parte superior del gráfico para acercar el gráfico hasta un período de tiempo específico.  
 
-![licencias](images/pci/licensesgrowth.png)
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licencias":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

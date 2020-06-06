@@ -1,8 +1,8 @@
 ---
 title: Impuestos regionales y exenciones fiscales
 ms.topic: article
-ms.date: 04/28/2020
-description: Obtenga información sobre las responsabilidades fiscales de su región geográfica específica y cómo enviar exenciones fiscales para las ventas de CSP. Obtenga información sobre cómo obtener soporte técnico para preguntas fiscales
+ms.date: 06/05/2020
+description: En el caso de los asociados de programas de CSP, obtenga información sobre las responsabilidades fiscales por región, cómo enviar exenciones fiscales para las ventas de CSP y cómo obtener soporte técnico para preguntas fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907805"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458302"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Obtener información sobre impuestos y detalles de exención fiscal por región o país
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Obtenga información sobre impuestos y detalles de exención fiscal por región o país para asociados en el programa CSP.
 
 Se aplica a:
 
@@ -88,7 +88,7 @@ A continuación, cree una incidencia de soporte técnico para Microsoft con la i
 2. En la página **solicitud de socio comercial** , elija **nueva solicitud**. (También puede ver las solicitudes de soporte abierto y cerrado más adelante en esta página).
 3. En el paso **aspectos básicos** , en **CSP-facturación y pagos**, elija **seleccionar un tipo de problema** y seleccione **solicitud de exención fiscal**.
 4. En el paso de **soluciones** , en **¿necesita más ayuda?**, elija **sí**.
-5. En el paso **detalles** , rellene el formulario **detalles del problema** . Asegúrese de:
+5. En el paso **detalles** , rellene el formulario **detalles del problema** . No olvide:
 
     - Rellene todos los campos obligatorios.
     - Incluya el identificador de **Microsoft** y el ID. de **MPN** en el campo de **detalles** .

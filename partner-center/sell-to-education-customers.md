@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: Educación, segmentos especiales
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426014"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453302"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
 
@@ -41,15 +41,15 @@ En este artículo se explica cómo crear un cliente de educación en el centro d
 
 2. Seleccione **clientes** y, a continuación, seleccione **Agregar un cliente**. Seleccione **educación** en la lista desplegable de **calificaciones especiales** .  Rellene el resto de la información de la cuenta según sea necesario.  Los campos clave que ayudan al proceso investigación incluyen:
 
-   - Nombre de la empresa: escriba el nombre de la entidad jurídica: necesario para investigación
-   - Líneas de país o región y dirección: escriba la dirección de correo electrónico de entidad completa: necesaria para investigación
-   - Dirección de correo electrónico: escriba el correo electrónico de la entidad, no un correo electrónico gratuito o on.microsoft.com, necesario para investigación
-   - Información de contacto del cliente: estos detalles se usarán como parte del proceso de investigación.
-   - Nombre de dominio principal: se usa para crear la cuenta del cliente y las direcciones de correo electrónico.  Elija un nombre similar al nombre de la empresa sin espacios ni caracteres especiales.  Este nombre no se puede cambiar más adelante.
+   - **Nombre**de la empresa: escriba el nombre de la entidad jurídica: necesario para investigación
+   - **Líneas de país o región y dirección**: escriba la dirección de correo electrónico de entidad completa: necesaria para investigación
+   - **Dirección de correo electrónico**: escriba el correo electrónico de la entidad, no un correo electrónico gratuito o on.Microsoft.com, necesario para investigación
+   - **Información de contacto del cliente**: estos detalles se usarán como parte del proceso de investigación.
+   - **Nombre de dominio principal**: se usa para crear la cuenta del cliente y las direcciones de correo electrónico.  Elija un nombre similar al nombre de la empresa sin espacios ni caracteres especiales.  Este nombre no se puede cambiar más adelante.
 
 3. Cuando haya terminado, seleccione **revisar**.
 
-![Cuenta de cliente de Education](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Cuenta de cliente de Education":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>Confirmar el estado de investigación del cliente educativo
 
@@ -58,15 +58,15 @@ Ejemplos de estado:
 
 - Si el cliente pasó investigación: Education
 
-   ![Education investigación correcta](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Education investigación correcta":::
 
 - Si el cliente no pasó investigación: no es un cliente educativo
 
-   ![Educación investigación incorrecta](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Educación investigación incorrecta":::
 
 - Si el cliente no se etiquetó como cliente educativo: ninguno
 
-   ![Educación no etiquetada](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="Educación no etiquetada":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Corregir la información de la cuenta del cliente y volver a enviarla para investigación  
 

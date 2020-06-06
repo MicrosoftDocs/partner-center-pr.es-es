@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: competencias, ISV, desarrollo de aplicaciones
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907482"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452732"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Exención de los requisitos del examen único para la competencia de desarrollo de aplicaciones
 
@@ -45,7 +45,7 @@ Asociados con una competencia de desarrollo de aplicaciones obtenida a través d
 1. Desde el menú del Centro de partners en el panel, selecciona **Competencias**.
 2. En la lista de competencias que están disponibles, el desarrollo de aplicaciones se marca como **completado**.
 
-![ISV a AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV a AppDev":::
 
 3. Seleccione **desarrollo de aplicaciones**. Verá el aviso de que se le ha dado una invalidación que exime a su empresa de cumplir los requisitos de los exámenes. 
 

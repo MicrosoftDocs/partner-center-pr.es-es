@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795643"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452702"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Control de acceso basado en roles al panel de información del centro de Partners
 
@@ -24,9 +24,10 @@ El panel Insights usa dos nuevos roles en el centro de partners para administrar
 
 Al igual que con otras funciones del centro de Partners, el administrador global o el administrador de la cuenta podrán asignar usuarios a esos roles en la página de administración de usuarios. Los roles pueden ser aplicables en toda la empresa o en ubicaciones específicas de MPN. Los roles asignados a ubicaciones específicas de MPN limitan al usuario a ver los datos de informes asociados solo con las ubicaciones de MPN seleccionadas. El asociado puede seleccionar una o varias ubicaciones en la vista siguiente.
 
-![Roles](images/pci/roles.png)
+:::image type="content" source="images/pci/roles.png" alt-text="Roles":::
 
->Tenga en cuenta Los usuarios que son administradores de MPN a partir del 20 de enero de 2020 se agregan automáticamente al rol "Executive Report Viewer" de toda la compañía para todas las ubicaciones de ese inquilino. Por lo tanto, estos usuarios pueden tener acceso a los informes como un visor de informes ejecutivo sin ninguna acción explícita requerida por el administrador global o el administrador de la cuenta. Los administradores globales y los administradores de cuentas pueden invalidar los roles asignados automáticamente de estos usuarios para aumentar o reducir aún más sus capacidades.
+>[!Note]
+> Los usuarios que son administradores de MPN a partir del 20 de enero de 2020 se agregan automáticamente al rol de **visor de informes Ejecutivo** de toda la compañía para todas las ubicaciones de ese inquilino. Por lo tanto, estos usuarios pueden tener acceso a los informes como un visor de informes ejecutivo sin ninguna acción explícita requerida por el administrador global o el administrador de la cuenta. Los administradores globales y los administradores de cuentas pueden invalidar los roles asignados automáticamente de estos usuarios para aumentar o reducir aún más sus capacidades.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
