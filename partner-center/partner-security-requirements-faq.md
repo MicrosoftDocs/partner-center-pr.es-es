@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider program, CSP, Control Panel Vendor, CPV, multi-factor authentication, MFA, secure application model, secure app model, security
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998371"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328276"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
