@@ -23,7 +23,7 @@ Se aplica a:
 
 - Centro de partners
 
-## <a name="overview"></a>Información general
+## <a name="overview"></a>Introducción
 
 Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Si paga la autoridad fiscal local, debe enviar una solicitud de retención de impuestos que incluya su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que ya no deberá pagar los impuestos por Microsoft.
 
