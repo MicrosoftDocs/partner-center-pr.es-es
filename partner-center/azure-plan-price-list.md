@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908321"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452612"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure
 
@@ -39,12 +39,11 @@ La lista de precios para la nueva experiencia comercial de Azure en CSP se publi
 
 3. Junto a **Tipo de exportación**, selecciona **Precios del consumo del plan de Azure**, **Precios de las reservas del plan de Azure** o **Tipos de cambio**. Nota: Los **Tipos de cambio** no son específicos del país.
 
-3. Junto a **Pricing for date** (Precios en función de la fecha), selecciona la fecha que quieras; por ejemplo, **Current** (Actual). 
+4. Junto a **Pricing for date** (Precios en función de la fecha), selecciona la fecha que quieras; por ejemplo, **Current** (Actual).
 
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="Específico del país":::
 
-![específico del país](images/azure/pricingnew.png)
-
-Nota: Puedes exportar dos listas de precios diferentes: precios del plan de Azure y precios de terceros de Marketplace. 
+Nota: Puedes exportar dos listas de precios diferentes: precios del plan de Azure y precios de terceros de Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Detalles de la lista de precios de Azure
 
@@ -54,11 +53,11 @@ Nota: Puedes exportar dos listas de precios diferentes: precios del plan de Azur
 
 - Las opciones de exportación incluyen:
 
-    - **Precios de hoy**: Esto incluye todos los medidores y precios desde el día 1 de cada mes hasta la fecha actual del mes actual. Esto incluye precios nuevos, precios modificados o precios eliminados. Todos los precios tendrán fechas de inicio y finalización efectivas para así poder indicar si son nuevos o si se han eliminado.
+  - **Precios de hoy**: Esto incluye todos los medidores y precios desde el día 1 de cada mes hasta la fecha actual del mes actual. Esto incluye precios nuevos, precios modificados o precios eliminados. Todos los precios tendrán fechas de inicio y finalización efectivas para así poder indicar si son nuevos o si se han eliminado.
 
-    - **Precios del mes anterior**: Las descargas de cada tipo de recurso serán mensuales. En cuanto a los archivos de precios, esto incluirá todos los medidores que estuvieron disponibles durante ese mes. Si apareció un nuevo medidor a mediados de mes, se mostrará como un medidor con una fecha de vigencia que refleje su disponibilidad. Esto es similar en precios descontinuados, que se muestran con una fecha de finalización efectiva que describe el momento en el que dejan de estar disponibles.
+  - **Precios del mes anterior**: Las descargas de cada tipo de recurso serán mensuales. En cuanto a los archivos de precios, esto incluirá todos los medidores que estuvieron disponibles durante ese mes. Si apareció un nuevo medidor a mediados de mes, se mostrará como un medidor con una fecha de vigencia que refleje su disponibilidad. Esto es similar en precios descontinuados, que se muestran con una fecha de finalización efectiva que describe el momento en el que dejan de estar disponibles.
 
-    - **Tipos de cambio**: Los tipos de cambio estarán disponibles para descargar el día anterior al 1 de cada mes, a las 6 p.m., PST. Por ejemplo, si quieres las tarifas de noviembre, puedes descargarlas el 31 de octubre. El tipo de cambio del mes anterior también estará disponible.
+  - **Tipos de cambio**: Los tipos de cambio estarán disponibles para descargar el día anterior al 1 de cada mes, a las 6 p.m., PST. Por ejemplo, si quieres las tarifas de noviembre, puedes descargarlas el 31 de octubre. El tipo de cambio del mes anterior también estará disponible.
 
 - Recuerda que los precios de las listas de precios son precios directos. Algunos partners pueden optar a los créditos que obtienen los partners. Para obtener información sobre cómo se calcula el crédito que obtienen los partners consulta [Cómo se calcula y paga el crédito que obtiene el partner](partner-earned-credit-explanation.md).
 
@@ -91,7 +90,7 @@ Las listas de precios del plan de Azure se pueden exportar desde la [página de 
 
 ## <a name="pricing-api-for-azure-plan"></a>API de precios para el plan de Azure
 
-Puedes usar la [API de precios](https://docs.microsoft.com/partner/develop/pricing) a fin de recuperar los precios del plan de Azure para el consumo y las reservas mediante programación. También puedes recuperar tasas de cambio de divisas. 
+Puedes usar la [API de precios](https://docs.microsoft.com/partner/develop/pricing) a fin de recuperar los precios del plan de Azure para el consumo y las reservas mediante programación. También puedes recuperar tasas de cambio de divisas.
 
 La API de precios se encuentra en un punto de conexión diferente del de las otras API del Centro de partners. La información de precios incluye los precios en USD de los medidores de los recursos del plan de Azure y los precios de las reservas aplicados a las suscripciones al plan de Azure.
 

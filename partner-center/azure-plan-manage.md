@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908338"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452632"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Administración de suscripciones y recursos en el plan de Azure
 
@@ -57,11 +57,11 @@ Necesita acceso de administrador para administrar los servicios del cliente y re
 
 1. Cree la alerta.
 
-![Alerta de Azure](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Alerta de Azure":::
 
 2. Seleccione el tipo de acción que quiere que lleve a cabo la alerta. Por ejemplo, si especifica que quiere un correo electrónico, recibirá un mensaje de correo electrónico en el que se le notificará si se elimina alguna asignación de roles.
 
-![Configuración de la alerta](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configuración de la alerta":::
 
 ### <a name="aobo-removal"></a>Eliminación de AOBO
 

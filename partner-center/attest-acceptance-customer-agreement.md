@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimiento, MCA, Contrato de Microsoft Cloud, Contrato de cliente de Microsoft, plantillas de contrato de cliente, atestación de la aceptación
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908402"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452722"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestación de la aceptación del Contrato de cliente de Microsoft en nombre del cliente
 
@@ -46,7 +46,7 @@ Actualmente, hay dos escenarios en los que es posible que los clientes no puedan
 
 **Para resolverlo**: debes dar fe en nombre del cliente.
 
-![cliente](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Cliente":::
 
 **Escenario 2**: un cliente existente que ha adquirido cualquiera de las siguientes ofertas, software y suscripciones de software, instancias reservadas y plan de Azure. Dicho cliente ahora intenta realizar una nueva compra con un nuevo partner.
 
@@ -54,4 +54,4 @@ Cuando el cliente haga clic en la dirección URL del Centro de administración d
 
 **Para resolverlo**: debes dar fe en nombre del cliente.  
 
-![cliente](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Cliente":::

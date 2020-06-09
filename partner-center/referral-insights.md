@@ -1,22 +1,23 @@
 ---
-title: Obtener información de referencia | Centro de partners
+title: Obtener información de referencia
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Revisa los datos de la información de referencia periódicamente para ayudar a identificar tendencias o áreas que requieran atención, y empieza a avanzar hacia tus objetivos empresariales.
-author: JnHs
-ms.author: jenhayes
+description: Revise la información de referencia periódicamente en el Centro de partners para ver las tendencias que se deben abordar o las áreas de mejora para ayudarle a alcanzar sus objetivos empresariales.
+author: LauraBrenner
+ms.author: labrenne
 keywords: referencia, analizar, análisis, métrica, conversión
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654127"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467455"
 ---
-# <a name="get-referral-insights"></a>Obtener información de referencia
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
 **Se aplica a**
 
@@ -48,7 +49,7 @@ En este gráfico, se muestra información general sobre el rendimiento de las re
 
 En el gráfico se muestra el número total de referencias, el número que se ha ganado y el volumen total de las ofertas (en USD) para el período seleccionado. Al expandir el gráfico se muestran datos adicionales, como el desglose del origen de las referencias y la dirección de las referencias. 
 
-Las métricas de cambio de porcentaje (mostradas en rojo o verde con un indicador de flecha) indican la diferencia entre el último mes completo del intervalo de fechas seleccionado y el primer mes completo de ese intervalo. Por ejemplo, supongamos que la fecha actual es el 15 de junio y has seleccionado el filtro **3M** para mostrar los datos de los últimos tres meses. En este caso, estas métricas mostrarían la diferencia entre mayo (el último mes completo en el período seleccionado) y marzo (el primer mes completo en el período seleccionado), el intervalo de fechas seleccionado son los últimos **3M**, la comparación entre los datos para mayo y los datos de marzo.
+Las métricas de cambio de porcentaje (mostradas en rojo o verde con un indicador de flecha) indican la diferencia entre el último mes completo del intervalo de fechas seleccionado y el primer mes completo de ese intervalo. Por ejemplo, supongamos que la fecha actual es el 15 de junio y que ha seleccionado el filtro **3M** para mostrar los datos de los últimos tres meses. En este caso, estas métricas mostrarían la diferencia entre mayo (el último mes completo en el período seleccionado) y marzo (el primer mes completo en el período seleccionado), el intervalo de fechas seleccionado son los últimos **3M**, la comparación entre los datos para mayo y los datos de marzo.
 
 ## <a name="performance-by-solution"></a>Rendimiento por solución
 
@@ -58,7 +59,7 @@ En el gráfico circular se muestra una vista general de las soluciones principal
 
 ## <a name="solution-performance-breakdown"></a>Desglose del rendimiento por solución
 
-Este gráfico te permite seleccionar una o varias soluciones para ver datos de rendimiento más detallados.
+Este gráfico le permite seleccionar una o varias soluciones para ver datos de rendimiento más detallados.
 
 En el caso de las soluciones que selecciones, el gráfico mostrará lo siguiente:
 - En la parte superior del gráfico, verás el número total de ofertas ganadas, el tamaño medio de las ofertas (en USD) y el volumen total de las ofertas (en USD).

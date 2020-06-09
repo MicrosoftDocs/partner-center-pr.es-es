@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795833"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453242"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
@@ -45,7 +45,7 @@ La migración comienza en PMC. Tu administrador global recibirá una invitación
 
 Selecciona **Introducción** en la invitación. Se te dirigirá a la página de inicio de sesión del Centro de partners.
 
-![Introducción](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="Introducción":::
 
 ## <a name="start-with-your-work-email"></a>Empezar con el correo electrónico del trabajo
 
@@ -54,7 +54,7 @@ Si tu empresa no tiene un correo electrónico del trabajo ni un inquilino de AAD
 >[!Note]
 >Si eres un partner de China y estás inscrito en Microsoft Partner Network y en el programa Proveedor de soluciones en la nube (CSP), tendrás un inquilino diferente para cada cuenta. Tu cuenta con el programa Proveedor de soluciones en la nube se administra en la nube nacional y la cuenta de Microsoft Partner Network se administra en la nube global. Las dos cuentas no pueden estar vinculadas.
 
-![Háblanos de tu empresa](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Háblenos de su empresa":::
 
 Una vez que hayas comprobado o actualizado la información, selecciona **Aceptar y continuar**.
 Los términos y condiciones de esta página son **exactamente los mismos** que los del acuerdo que la empresa firmó en PMC.  
@@ -72,7 +72,7 @@ Al seleccionar **Aceptar y continuar** también sucede lo siguiente:
 
 Cuando se crea tu nuevo inquilino de Azure AD, puedes invitar a los empleados a iniciar sesión en el Centro de partners.
 
-![Invitar a empleados](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="Invitar a empleados":::
 
 Si has iniciado sesión con un inquilino de AAD existente, los empleados se habrán migrado contigo. En este caso, asigna a tus empleados roles que determinen lo que pueden hacer en el Centro de partners. Nota: Los roles del Centro de partners son diferentes de los roles de PMC. Para obtener más información, consulta [Migración de PMC al Centro de partners](move-pmc-pc-map.md).
 
@@ -80,11 +80,11 @@ Si has iniciado sesión con un inquilino de AAD existente, los empleados se habr
 
 Si el inquilino de AAD es nuevo, no se asigna a nadie el rol de administrador global. Para convertirse en el administrador global, debes comprobar la propiedad del dominio. Es posible que necesites la ayuda del administrador del dominio. Ten en cuenta que, aunque puedes usar las ofertas que ya has comprado, no podrás comprar nuevas ofertas hasta que completes el paso de obtención de un administrador global.
 
-![Tomar el control](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Tomar el control":::
 
 Al seleccionar Introducción, verás la siguiente pantalla:
 
-![Comprobar la propiedad del dominio](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Comprobar la propiedad del dominio":::
 
 El registrador de dominios aparecerá rellenado automáticamente. Solo el propietario del dominio puede actualizar el archivo DNS, de modo que al copiar y agregar el archivo de texto al registro DNS, podamos comprobar que eres el propietario. La actualización tardará unos minutos en producirse. Tendrás que cerrar la sesión del Centro de partners y volver a iniciarla. Tu rol habrá cambiado a administrador global.
 
@@ -92,7 +92,7 @@ El registrador de dominios aparecerá rellenado automáticamente. Solo el propie
 
 Visita el panel. Aquí puedes administrar tu pertenencia, agregar un perfil de negocio para las referencias, inscribirse en el programa Proveedor de soluciones en la nube, y ver las notificaciones y ofertas importantes para tu empresa en cualquier momento. Para ello, selecciona **Panel**. También puedes administrar incentivos, comprar en Marketplace, registrarte para obtener servicios de comercialización y mucho más.  
 
-![Visítalo](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="Visítelo":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

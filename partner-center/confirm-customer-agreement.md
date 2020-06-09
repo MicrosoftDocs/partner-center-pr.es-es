@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908162"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453272"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft en el programa de partners de CSP
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908162"
 
 - Revendedores indirectos, partners de facturación directa y proveedores indirectos
 
-
 El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Lee las [instrucciones](indirect-reseller-tasks-in-partner-center.md) adicionales para los revendedores indirectos. Para facilitar la migración de los asociados al nuevo contrato, ambos contratos coexistieron en el programa CSP hasta el 31 de enero de 2020. A partir del 1 de febrero de 2020, el Contrato de cliente de Microsoft sustituyó al Contrato de Microsoft Cloud.
 
 Los clientes tienen dos opciones para aceptar el Contrato de cliente de Microsoft. 
@@ -44,7 +43,7 @@ Los clientes tienen dos opciones para aceptar el Contrato de cliente de Microsof
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Acceso a la plantilla del Contrato de cliente de Microsoft
 
-Puedes descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft desde [aquí](https://aka.ms/customeragreement). El Contrato de cliente de Microsoft es específico para cada país o región. Al solicitar la plantilla del Contrato de cliente de Microsoft, asegúrate de seleccionar el país o región correcto en función de la ubicación del cliente. 
+Puedes descargar manualmente la versión más reciente de la plantilla del Contrato de cliente de Microsoft desde [aquí](https://aka.ms/customeragreement). El Contrato de cliente de Microsoft es específico para cada país o región. Al solicitar la plantilla del Contrato de cliente de Microsoft, asegúrate de seleccionar el país o región correcto en función de la ubicación del cliente.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opción 1: Confirmación de la aceptación por parte del cliente en el Centro de partners
 
@@ -58,7 +57,7 @@ Si creas un nuevo inquilino de cliente en el Centro de partners, sigue los pasos
 
 2. En **Información de cuenta**, especifica los datos de la empresa y su contacto principal.
 
-3. En **Contrato de Microsoft**, selecciona el cuadro para dar fe de que el cliente ha aceptado el Contrato de cliente de Microsoft. 
+3. En **Contrato de Microsoft**, selecciona el cuadro para dar fe de que el cliente ha aceptado el Contrato de cliente de Microsoft.
 
 4. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
@@ -66,7 +65,7 @@ Si creas un nuevo inquilino de cliente en el Centro de partners, sigue los pasos
 
 6. Selecciona **Siguiente** para continuar con la creación del inquilino del cliente.
 
-![Cliente nuevo](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Cliente nuevo":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Confirmar la aceptación de los clientes existentes
 
@@ -82,7 +81,7 @@ Debes ser agente de administración o de ventas para poder hacer esto:
 
 5. Selecciona **Guardar** y continúa.
 
-![Cliente existente](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Cliente existente":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Recuperar la confirmación de la aceptación del cliente
 
@@ -102,10 +101,9 @@ Puedes usar el SDK o la API del Centro de partners para confirmar la aceptación
 
 - [Confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Obtener confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Obtener la confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Obtener un vínculo de descarga para la plantilla del Contrato de cliente de Microsoft](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opción 2: Aceptación del cliente en el Centro de administración de Microsoft 365
 
@@ -132,7 +130,7 @@ Sigue los pasos que se indican a continuación para crear un cliente nuevo en el
 
 4. Selecciona **Siguiente: revisión** y sigue los pasos para crear el inquilino del cliente. (Nota: Los clientes nuevos no pueden hacer nuevas compras hasta que acepten el Contrato de cliente de Microsoft).  
 
-![Crear un cliente nuevo](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Crear un cliente nuevo":::
 
 5. Cuando llegues a la pantalla **Confirmación** del nuevo flujo de trabajo del cliente, guarda las credenciales del cliente. Deberás proporcionar estas credenciales al cliente más adelante.
 
@@ -160,7 +158,7 @@ Usa los pasos siguientes para invitar a un nuevo cliente para que revise y acept
 
 4. Usa esta plantilla de correo electrónico para invitar al cliente a aceptar la solicitud de **relación de revendedor** y el **Contrato de cliente de Microsoft**. (Nota: En la invitación por correo electrónico, asegúrate de que el partner también incluye la dirección URL que se proporcionó automáticamente, así como las credenciales del cliente que se crearon recientemente).
 
-![Crear una relación](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Crear una relación":::
 
 5. El cliente recibirá una invitación por correo electrónico y hará clic en la dirección URL parametrizada. 
 
@@ -170,10 +168,10 @@ Usa los pasos siguientes para invitar a un nuevo cliente para que revise y acept
 
 8. En la misma dirección URL, el cliente podrá ver una lista consolidada de los diferentes partners con los que trabaja. Podrá seleccionar un partner para ver los detalles.
 
-![Aceptar el contrato](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Aceptar el contrato":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Invitación de un cliente existente para que revise y acepte el contrato 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Invitación de un cliente existente para que revise y acepte el contrato
 
 Usa los pasos siguientes para invitar a un cliente existente para que revise y acepte el Contrato de cliente de Microsoft. 
 
@@ -187,7 +185,7 @@ Usa los pasos siguientes para invitar a un cliente existente para que revise y a
 
 5. En la misma dirección URL, el cliente podrá ver la lista consolidada de los diferentes partners con los que trabaja. Podrá seleccionar un partner para ver los detalles.
 
-![cliente](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Cliente":::
 
 >[!NOTE]
 >En determinados escenarios, es posible que los clientes no puedan aceptar directamente el Contrato de cliente de Microsoft. Para obtener más información acerca de estas situaciones, consulta [Dos escenarios en los que es necesario dar fe en nombre de tu cliente](attest-acceptance-customer-agreement.md).
