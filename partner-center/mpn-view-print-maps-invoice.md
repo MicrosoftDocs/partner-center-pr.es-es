@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, factura, mapas, exento de impuestos, IVA, ID. de IVA
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795942"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633815"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en Microsoft Partner Network
 
@@ -62,3 +62,8 @@ Para llevar a cabo este procedimiento, debe ser un administrador global o un adm
 
 3.  Escriba el identificador de IVA de la empresa, seleccione **Agregar**y, a continuación, seleccione **siguiente**. 
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Información general sobre la facturación del Centro de partners](billing-basics.md)
+
+- [Obtener crédito por retención de impuestos](withholding-tax-credit-form.md)

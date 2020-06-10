@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467505"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633795"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promociones para atraer nuevos clientes y pasar el ahorro a ellos.
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467505"
 - Administrador de facturación
 - Agente de ventas
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite trasladar los ahorros a los clientes y hacer crecer tu negocio. 
 
@@ -48,10 +47,10 @@ Dedique un momento a revisar estos aspectos importantes sobre las promociones:
 
 ## <a name="see-available-promotions"></a>Ver promociones disponibles
 
-Puede ver en la página **promociones** las promociones a las que puede elegir, si las hay. Seleccione **promociones** en el menú del **centro de Partners** para ver una lista de las promociones actuales, junto con el descuento, el tipo de promoción y las fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verá un mensaje que lo indica. 
+Puede ver las promociones a las que puede optar, si las hay, en la página **Promociones**. Seleccione **promociones** en el menú del **centro de Partners** para ver una lista de las promociones actuales, junto con el descuento, el tipo de promoción y las fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verá un mensaje que lo indica. 
 
 > [!NOTE]  
-> También puede ver promociones al hacer una compra. Al seleccionar una suscripción, los precios de promoción aparecen en la página **revisar** .
+> También puede ver promociones al hacer una compra. Al seleccionar una suscripción, los precios de promoción aparecen en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Adquirir suscripciones a precios de promoción
 

@@ -1,7 +1,7 @@
 ---
 title: Compra de reservas de Microsoft Azure para clientes
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, reservas, administración, facturación, compra
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908301"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603724"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -35,7 +35,7 @@ ms.locfileid: "82908301"
 
 ## <a name="before-you-begin"></a>Antes de empezar
 
-Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes. (¿Desea que los clientes puedan comprar sus propias reservas de Azure a partir de una suscripción de Azure anterior que haya adquirido? Consulte [conceder permiso a los clientes para comprar sus propias reservas de Azure] [conceder-customers-Permission. MD # concédale-customers-Permission-to-Buy-Own-Own-disposes]).
+Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes. (¿Desea que los clientes puedan comprar sus propias reservas de Azure a partir de una suscripción de Azure anterior que haya adquirido? Consulte [dar permiso a los clientes para comprar sus propias reservas de Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)).
 
 - Si y cuando el cliente firma el nuevo contrato de cliente de Microsoft (consulte [confirmar la aceptación del cliente del contrato de cliente de Microsoft](confirm-customer-agreement.md)), debe adquirir reservas de Azure en el plan de Azure. Para obtener más información, lea el [plan de compra de Azure](purchase-azure-plan.md).
 

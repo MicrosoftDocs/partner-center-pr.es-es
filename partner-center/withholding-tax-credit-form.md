@@ -1,29 +1,30 @@
 ---
-title: Asegúrese de que se le ha abonado el impuesto de retención. Centro de Partners
+title: Obtener crédito por retención de impuestos
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: Asegúrese de que la cuenta del centro de Partners tiene un crédito por retención de impuestos mediante la creación de una solicitud de retención de impuestos en el centro de Partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453330"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603854"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Comprobar que tiene crédito para la retención de impuestos
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Asegúrese de que tiene un crédito por retención de impuestos si paga una autoridad fiscal local en lugar de Microsoft
 
 Se aplica a:
 
 - Centro de partners
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Si paga la autoridad fiscal local, debe enviar una solicitud de retención de impuestos que incluya su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que ya no deberá pagar los impuestos por Microsoft.
 

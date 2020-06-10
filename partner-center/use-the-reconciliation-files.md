@@ -1,26 +1,27 @@
 ---
-title: Usar los archivos de conciliación | Centro de Partners
+title: Usar los archivos de conciliación
 ms.topic: article
-ms.date: 11/21/2019
-description: Use los archivos de conciliación para comprender las vistas detalladas de elementos de línea de los cargos del centro de Partners.
+ms.date: 06/08/2020
+description: Obtenga información acerca de los archivos de conciliación en el centro de Partners y cómo interpretar las vistas detalladas del artículo de línea de los cargos de un ciclo de facturación determinado.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114967"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603804"
 ---
-# <a name="use-your-reconciliation-files"></a>Usar los archivos de conciliación
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
-Dirigido a:
+Se aplica a:
 
-- Centro de asociados
+- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de puestos a mediados de puestos a una suscripción).
@@ -52,10 +53,10 @@ Siga estos pasos para corregir los problemas de formato en los archivos de conci
 1. Abra el archivo de conciliación (en formato. csv) en Microsoft Excel.
 2. Seleccione la primera columna del archivo.
 3. Abra el **Asistente para convertir texto en columnas**. En la cinta de opciones, seleccione **datos**y, a continuación, seleccione **texto en columnas**.
-4. En el asistente, seleccione **tipo de archivo delimitado**. A continuación, seleccione **siguiente**.
+4. En el asistente, seleccione **tipo de archivo delimitado**. Después, seleccione **Siguiente**.
 5. En el campo **delimitadores** , seleccione **coma**. (Si la **pestaña** ya está seleccionada, puede dejar esta opción seleccionada). A continuación, seleccione **siguiente**.
-6. En el campo **formato de datos de columna** , seleccione **Fecha: MDA**. A continuación, seleccione **siguiente**.
-7. En el campo **formato de datos de columna** , seleccione **texto** para todas las columnas de importe. A continuación, seleccione **Finalizar**.
+6. En el campo **formato de datos de columna** , seleccione **Fecha: MDA**. Después, seleccione **Siguiente**.
+7. En el campo **formato de datos de columna** , seleccione **texto** para todas las columnas de importe. Después, seleccione **Finalizar**.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Descargar archivos de conciliación mediante programación
 
@@ -72,10 +73,10 @@ Para asignar impuestos o impuestos sobre el valor añadido (IVA) a la factura:
 
 Los asociados en el **modelo indirecto** pueden utilizar estos campos adicionales en los archivos de conciliación basados en la licencia y en el uso para que los revendan los archivos.
 
-| Id. de MPN | Descripción |
+| Identificador de MPN | Descripción |
 | ------ | ----------- |
-| Id. de MPN | Identificador Microsoft Partner Network (MPN) del asociado del proveedor de soluciones en la nube (CSP) (directo o indirecto). |
-| [ID. de revendedor MPN](#reseller-mpn-id) | [Identificador de MPN del distribuidor de registro de la suscripción](#reseller-mpn-id). Este campo corresponde al ID. de distribuidor que se muestra para la suscripción específica del centro de Partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
+| Identificador de MPN | Identificador Microsoft Partner Network (MPN) del asociado del proveedor de soluciones en la nube (CSP) (directo o indirecto). |
+| [Id. de MPN del revendedor](#reseller-mpn-id) | [Identificador de MPN del distribuidor de registro de la suscripción](#reseller-mpn-id). Este campo corresponde al ID. de distribuidor que se muestra para la suscripción específica del centro de Partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
 
 ### <a name="reseller-mpn-id"></a>Id. de MPN del revendedor
 
@@ -87,9 +88,9 @@ Si el asociado de CSP quita un ID. de **revendedor de MPN**, este valor se estab
 
 Para ver o actualizar el **ID. de revendedor MPN**:
 
-1. Inicia sesión en el Centro de partners.
+1. Inicie sesión en el Centro de partners.
 2. En el menú del Centro de partners, selecciona **Clientes**.
-3. Elige el cliente de la lista.
+3. Elija el cliente de la lista.
 4. En el menú del cliente, seleccione **suscripciones**.
 5. Elija la suscripción de la lista.
-6. Selecciona **Actualizar** para cambiar el valor de **Revendedor (id. de MPN)** .
+6. Selecciona **Actualizar** para cambiar el valor de **Revendedor (id. de MPN)**.

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453192"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603784"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
@@ -76,6 +76,7 @@ Compruebe la información de la empresa y edítela si es necesario.  Estos detal
 
 Los datos se basan en la información de PMC y se comprobarán para asegurarse de que la empresa es legal.
 
+
 :::image type="content" source="images/migration/review.png" alt-text="Detalles de la revisión":::
 
 Si la cuenta que vas a migrar está en el mismo país o región que la existente, puedes decidir si quieres utilizar esa dirección o agregar otra. Si decides usar otra dirección, se comprobará. Si quieres utilizar la misma, se usarán la dirección existente y el contacto principal.
@@ -88,7 +89,7 @@ Cuando veas tu perfil, verás tanto la información de la denominación legal de
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Cambio de PMC al Centro de partners](move-pmc-pc-map.md)
+- [Traslado desde PMC al Centro de partners](move-pmc-pc-map.md)
 - [Crear cuentas de usuario](create-user-accounts-and-set-permissions.md)
 - [Asignación de roles y permisos de usuario](permissions-overview.md)
 - [Administración de programas de suscripción](renew-mpn-offers.md)

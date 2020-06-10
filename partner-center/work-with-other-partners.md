@@ -1,25 +1,26 @@
 ---
-title: Trabajar con otros partners | Centro de partners
+title: Trabajar con otros partners
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo los proveedores indirectos se asocian con distribuidores indirectos en el programa proveedor de soluciones en la nube (CSP) y determine qué rol es el adecuado para usted.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253942"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603844"
 ---
-# <a name="work-with-other-partners"></a>Trabajar con otros partners
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Diferentes formas de trabajar con otros asociados en el centro de Partners
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
 El programa proveedor de soluciones en la nube (CSP) de Microsoft ofrece oportunidades para que los asociados colaboren de estas maneras.
 
@@ -33,7 +34,7 @@ Los proveedores indirectos (también conocidos como distribuidores) compran prod
 
 Si es un proveedor indirecto aprobado en CSP, consulte [asociación con revendedores indirectos en CSP](indirect-provider-tasks-in-partner-center.md) para obtener más información sobre cómo conectarse con revendedores y clientes indirectos. 
 
-### <a name="indirect-resellers"></a>Revendedores indirectos 
+### <a name="indirect-resellers"></a>Revendedores indirectos
 
 Los revendedores indirectos trabajan con proveedores indirectos, que tienen una relación directa con Microsoft y tienen la infraestructura para proporcionar soporte técnico y facturación al cliente. La asociación con proveedores indirectos permite a los revendedores indirectos trabajar con proveedores de tecnología experimentados para ir al mercado sin tener que realizar una gran inversión de capital y ofrecer una amplia gama de soluciones de Microsoft. 
 

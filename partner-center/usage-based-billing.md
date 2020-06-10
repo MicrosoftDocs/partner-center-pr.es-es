@@ -1,20 +1,21 @@
 ---
-title: Facturación basada en el uso | Centro de Partners
+title: Facturación basada en uso
 ms.topic: article
-ms.date: 11/21/2019
-Description: Información sobre la facturación basada en el uso en el centro de Partners, donde se le facturarán las tarifas de uso mensuales.
+ms.date: 06/05/2020
+Description: Obtenga más información sobre la facturación basada en el uso en el centro de Partners, donde se le facturarán las tarifas de uso mensuales.
 author: LauraBrenner
 ms.author: labrenne
 keywords: facturación, uso basado en el uso
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797673"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603874"
 ---
-# <a name="usage-based-billing"></a>Facturación basada en uso
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Comprenda la facturación basada en el uso de consumo mensual de servicios de pago por uso
 
 - Centro de partners
 - Partners del programa CSP
@@ -27,7 +28,7 @@ Algunos productos y servicios de Microsoft usan el modelo de facturación "pago 
 
 Solo la **facturación mensual** está disponible para los productos basados en el uso. Para obtener más información sobre la facturación mensual, consulte [diferencias de facturación mensuales y anuales](billing-annual-monthly.md).
 
-Las suscripciones basadas en el uso se facturan mensualmente, en atrasos, en la **fecha de aniversario**de la suscripción. Por ejemplo, si la fecha de aniversario de la suscripción es el 15, se le cobrará el 15 de enero por el período de servicio del 15 de diciembre al 14 de enero. Se le cobrará de nuevo el 15 de febrero por el período de servicio del 15 de enero al 14 de febrero. 
+Las suscripciones basadas en el uso se facturan mensualmente, en atrasos, en la **fecha de aniversario**de la suscripción. Por ejemplo, si la fecha de aniversario de la suscripción es el 15, se le cobrará el 15 de enero por el período de servicio del 15 de diciembre al 14 de enero. Se le cobrará de nuevo el 15 de febrero por el período de servicio del 15 de enero al 14 de febrero.
 
 ## <a name="usage-charges"></a>Cargos de uso
 
