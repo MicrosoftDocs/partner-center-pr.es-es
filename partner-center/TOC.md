@@ -5,7 +5,7 @@
 # [Suscripción a la red de asociados](mpn-overview.md)
 ## [Crear una cuenta del Centro de partners](mpn-create-a-partner-center-account.md)
 ## [Cómo obtener un correo electrónico del trabajo](buy-email-domain.md)
-## El [Centro de administración de partners se traslada al Centro de partners](pac-to-pc-overview.md)
+## [El Centro de administración de partners se traslada al Centro de partners](pac-to-pc-overview.md)
 ### [Traslado del Centro de administración de partners (PAC) al Centro de partners](moving-from-pac-to-pc.md)
 ### [Asociados del centro de administración de partners de Office 365: las operaciones empresariales se trasladarán al Centro de partners](o365-partner-admin-center-to-partner-center.md)
 ## Traslado desde Partner Membership Center al Centro de partners
@@ -119,7 +119,7 @@
 ## [Agregar un nuevo cliente](add-a-new-customer.md)
 ## [Solicitar una relación de revendedor con un cliente](request-a-relationship-with-a-customer.md)
 ## [Quitar una relación de revendedor con un cliente](remove-a-relationship.md)
-## [Los clientes delegan o revocan privilegios administrativos en los asociados](customers-revoke-admin-privileges.md) 
+## [Los clientes delegan o revocan privilegios administrativos en los asociados](customers_revoke_admin_privileges.md) 
 ## [Consultar la lista de clientes](see-your-customer-list.md)
 ## [Ver los registros de actividades de los clientes](activity-logs.md)
 ## [Actualizar la información de la cuenta de cliente](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
-# [Ofertas de CSP](csp-offers.md)
+# [Ofertas de CSP](csp-offers.md) 
 ## Marketplace comercial
 ### [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
 ### [Descubrir ofertas de Marketplace](csp-commercial-marketplace-discover.md)
