@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394151"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679062"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -43,7 +43,7 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
 
 ## <a name="create-a-new-subscription"></a>Crear una nueva suscripción
 
-1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard).
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard).
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
@@ -73,7 +73,10 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
     - Puede revisar o editar la suscripción seleccionando el nombre de la suscripción en la página de **suscripciones** de ese cliente. Desde aquí, puedes seleccionar licencias de complementos, si hay alguna disponible, cambiar la cantidad de licencias o suspender la suscripción.
 
     **Para las suscripciones de SaaS de ISV (basadas en licencias):**
-    - Recibirá un vínculo al sitio del editor de ISV. Este vínculo le ayudará a completar la configuración de la implementación o la cuenta de la suscripción del cliente. (Tenga en cuenta que ni usted ni su cliente recibirán un correo electrónico con instrucciones para completar el aprovisionamiento o la configuración de la cuenta para este tipo de suscripción de ISV).
+    - Recibirá un vínculo al sitio del editor de ISV. Este vínculo le ayudará a completar la configuración de la implementación o la cuenta de la suscripción del cliente.
+      
+    >[!NOTE]
+    > Ni usted ni su cliente recibirán un correo electrónico con instrucciones para completar el aprovisionamiento o la configuración de la cuenta para este tipo de suscripción de ISV).
 
     - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en el estado de pago. La suscripción se renovará de nuevo según la misma programación.
 

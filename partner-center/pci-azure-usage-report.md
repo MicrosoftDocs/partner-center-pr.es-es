@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453149"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679382"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Azure disponible en el panel del centro de Partners Insights
 
@@ -33,7 +33,7 @@ El informe de uso de Azure presenta métricas relacionadas con las suscripciones
 - Uso de Azure
 
  > [!NOTE]
- > Este informe está disponible en el panel del centro de Partners (PCI). Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
 **Resumen**
 
@@ -50,7 +50,8 @@ El micro Chart presenta una tendencia de mes a mes del número de suscripciones 
 - Ingresos consumidos de Azure (ACR): el total de ingresos consumidos de Azure (US $) se le ha atribuido durante el intervalo de fechas seleccionado.
 Porcentaje de crecimiento o rechazo del registro de registro con atributos de US $ durante el intervalo de fechas seleccionado. 
 
-El micro gráfico presenta una tendencia mensual del ACR que nos atribuye a su cargo durante el período de tiempo seleccionado. Nota: 
+El micro gráfico presenta una tendencia mensual de ACR $ a la que se le ha atribuido durante el período de tiempo seleccionado
+
 
 > [!NOTE]
  > Los ingresos consumidos por Azure (ACR) solo estarán visibles para los usuarios a los que se haya asignado el rol Executive Report Viewer.

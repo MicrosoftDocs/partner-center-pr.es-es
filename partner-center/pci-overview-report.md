@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0e96b928e5221f34e9a16d430e079d02882263d1
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452952"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679352"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Información general sobre los informes del panel disponibles en la información del centro de Partners
  
-En el panel de información general del centro de Partners se proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure, licencias, etc. Puede visualizar los siguientes gráficos en el informe de información general. 
+El panel Información general de Insights proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure, licencias, etc. Puede visualizar los siguientes gráficos en el informe de información general. 
 
 - Resumen  
 - Distribución geográfica de sus clientes, suscripciones y licencias  
@@ -39,7 +39,9 @@ El micro gráfico muestra la tendencia de mes a mes del número de clientes en e
  
 - Ingresos consumidos de Azure (ACR): el total de ingresos consumidos de Azure (US $) se le ha atribuido durante el intervalo de fechas seleccionado crecimiento o rechazo del% del ACR atribuido $ durante el intervalo de fechas seleccionado.
 
-Micro Chart presenta una tendencia mensual de ACR $ a la que se le ha atribuido en el intervalo de fechas seleccionado Nota: los datos de ingresos consumidos de Azure (ACR) están disponibles para los usuarios a los que se ha asignado el rol ejecutivo de visor de informes. 
+Micro Chart presenta una tendencia mensual de ACR $ a la que se le atribuye el intervalo de fechas seleccionado. 
+>[!Note] 
+>Los datos de ingresos consumidos de Azure (ACR) están disponibles para los usuarios a los que se ha asignado el rol ejecutivo de visor de informes. 
  
 - Suscripciones: número total actual de suscripciones de productos en la nube (activas e inactivas) vendidas o administradas por el usuario.  
 El porcentaje de crecimiento o de rechazo de las suscripciones durante el gráfico de intervalos de fechas seleccionado presenta la tendencia de mes a mes del número total de suscripciones en el intervalo de fechas seleccionado. 
@@ -47,8 +49,7 @@ El porcentaje de crecimiento o de rechazo de las suscripciones durante el gráfi
 - Suscripciones activas: recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.  
 El porcentaje de crecimiento de las suscripciones activas en el gráfico de intervalos de fechas seleccionado presenta la tendencia de mes a mes de las suscripciones activas en el intervalo de fechas seleccionado. 
  
-- Licencias implementadas: recuento de todas las licencias de productos en la nube implementadas en las suscripciones de los clientes durante el período de tiempo seleccionado.  
-El porcentaje de crecimiento o disminución de estas licencias durante el gráfico de intervalos de fechas seleccionado presenta la tendencia de mes a mes de estas licencias asignadas en el intervalo de fechas seleccionado.
+- Licencias implementadas: recuento de todas las licencias de productos en la nube implementadas en las suscripciones de los clientes durante el período de tiempo seleccionado. Porcentaje de crecimiento o disminución de estas licencias durante el intervalo de fechas seleccionado. Micro Chart presenta la tendencia de mes a mes de las licencias asignadas en el intervalo de fechas seleccionado.
 
 :::image type="content" source="images/pci/summary.png" alt-text="Resumen de licencias":::
 
@@ -72,8 +73,10 @@ Esto indica la tendencia del recuento de suscripciones de clientes para el inter
 
 **Tendencia de crecimiento de ingresos consumido de Azure**
 
-Tendencia mensual de los ingresos consumidos por Azure $ con el atributo en el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el total de ingresos consumidos de Azure $ atribuidos a usted durante el mes.   
-**Nota**: los ingresos consumidos por Azure (ACR) solo estarán visibles para los usuarios a los que se haya asignado el rol Executive Report Viewer. 
+Tendencia mensual de los ingresos consumidos por Azure $ con el atributo en el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el total de ingresos consumidos de Azure $ atribuidos a usted durante el mes.
+   
+>[!Note] 
+>Los ingresos consumidos por Azure (ACR) solo estarán visibles para los usuarios a los que se haya asignado el rol Executive Report Viewer. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo de Azure":::
 

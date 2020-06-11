@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795873"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679312"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
@@ -29,20 +29,22 @@ ms.locfileid: "83795873"
 -   Agente de ventas
 -   Agente de administrador
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 
 Seleccione la aplicación más relevante para su empresa en la siguiente lista de aplicaciones Power BI disponibles:
-- [Partner directo](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+- [Proveedor directo](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Socio indirecto](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [Proveedor indirecto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Revendedor indirecto](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Revendedor indirecto](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 Antes de instalar la versión preliminar de la aplicación de análisis del centro de Partners, asegúrese de cumplir los siguientes requisitos.
 
 - Elija la aplicación de Power BI correcta para su empresa.
 
-- Tiene una suscripción activa a Microsoft Power BI Professional o Microsoft Power BI Premium.
+- Tiene una licencia de Power BI Pro.
+
+- Tiene permisos para instalar aplicaciones de plantilla en el inquilino.
 
 - Puede iniciar sesión en Power BI.
 
@@ -50,20 +52,34 @@ Antes de instalar la versión preliminar de la aplicación de análisis del cent
 
 ## <a name="to-install-the-app"></a>Para instalar la aplicación
 
-1. Inicie [el proceso de instalación](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
+1. Haga clic en el vínculo de origen de la aplicación dado (proveedor directo/proveedor indirecto/Revendedor indirecto) en la sección anterior.
 
-2. En **¿ya tiene una cuenta?** , seleccione **iniciar sesión**. 
+2. Haga clic en **obtenerla ahora**. 
 
-3. En la página siguiente, escriba el nombre de usuario y la contraseña de Power BI y, a continuación, seleccione **iniciar sesión**. 
+3. Para aceptar los términos y condiciones, haga clic en **continuar**.
 
-4. En la ventana emergente **conectarse al centro de Partners** , compruebe que el **método de autenticación** está establecido en **OAuth2** o seleccione **OAuth2** en la lista si no lo está. 
+4. ¿Ya tiene una cuenta? Seleccione **iniciar sesión**.
+
+5. En la página siguiente, escriba el nombre de usuario y la contraseña de Power BI y, a continuación, seleccione iniciar sesión.
+
+6. Instale el área de trabajo proporcionando workspacename.
+
+7. Puede encontrar las aplicaciones de plantilla instaladas en la sección aplicaciones.
+
+8. Haga clic en aplicaciones y elija las aplicaciones instaladas.
+
+9. Se abre la pantalla de introducción a la nueva aplicación.
+
+10. Para conectarse a los datos, haga clic en **conectar**.
+
+11. En la ventana emergente **conectarse al centro de Partners** , compruebe que el **método de autenticación** está establecido en **OAuth2** o seleccione **OAuth2** en la lista si no lo está. 
 
 > [!NOTE]  
 >  Esta ventana puede tardar unos minutos en aparecer.
 
-5. En la página del **conector del centro de Partners** , inicie sesión con las credenciales de administrador global, agente de administración o de facturación del inquilino de Azure ad de su empresa y, a continuación, seleccione **iniciar sesión**.
+12. En la página del **conector del centro de Partners** , inicie sesión con las credenciales de administrador global, agente de administración o de facturación del inquilino de Azure ad de su empresa y, a continuación, seleccione **iniciar sesión**.
  
-6. Cuando se le pida acceso, seleccione **Aceptar**. 
+13. Cuando se le pida acceso, seleccione **Aceptar**. 
 
 Una vez que el servicio de análisis de Partner Center está conectado a Power BI, los datos comenzarán a cargarse. En función de la cantidad de datos, esto puede tardar hasta 10 minutos. 
 

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798573"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679102"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Asignar o revocar licencias a varios usuarios
 
@@ -76,7 +76,8 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 8. Seleccione **Guardar**. El centro de Partners abre una página de confirmación de **licencias actualizadas** en la que se muestran los usuarios y sus licencias nuevas.
 
-**Tenga en cuenta**  que es posible que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
+>[!NOTE]
+>Es posible que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 7. Seleccione **Guardar**.
 
-## <a name="related-topics"></a>Temas relacionados
+## <a name="next-steps"></a>Pasos siguientes
 
 [Asignar licencias a un usuario](assign-licenses-to-users.md)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: AutoPilot, Windows AutoPilot, Microsoft AutoPilot, implementación sin interacción rápida, Oobe, pantallas de inicio de sesión, no actualizadas
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908382"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679192"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfiles de Windows AutoPilot en dispositivos nuevos para personalizar la experiencia rápida de un cliente
 
@@ -175,7 +175,8 @@ El archivo. csv debería tener un aspecto similar al siguiente:
 
 > **{serialNumber},,, Microsoft Corporation, Surface Laptop**
 
-Tenga en cuenta que "nombre del fabricante" y "modelo de dispositivo" distinguen mayúsculas de minúsculas.
+>[!NOTE]
+> "Nombre del fabricante" y "modelo de dispositivo" distinguen mayúsculas de minúsculas.
 
 Si no sabe qué valor poner para el modelo de nombre de fabricante y dispositivo, puede ejecutarlo en el dispositivo para recopilar los valores correctos:
 

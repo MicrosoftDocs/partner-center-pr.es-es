@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467375"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679412"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el centro de Partners
 
@@ -26,11 +26,12 @@ Si desea administrar el servicio o la suscripción de un cliente en su nombre, e
 
 Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisiona, no es necesario obtener permisos de administrador.
 
-Tenga en cuenta que la opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud para el gobierno de EE. UU. o Microsoft Cloud Alemania. Para obtener más información, consulte [los clientes delegar privilegios de administración a los asociados](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>[!NOTE] 
+>La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud para el gobierno de EE. UU. o Microsoft Cloud Alemania. Para obtener más información, consulte [los clientes delegar privilegios de administración a los asociados](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de revendedor contigo
 
-Tenga en cuenta que puede solicitar una relación de revendedor con un cliente de dentro de su país o de la misma región.
+Puede solicitar una relación de revendedor con un cliente de dentro de su país o de la misma región.
 
 1. Selecciona **Clientes** en el menú **Centro de partners** y, a continuación, selecciona **Solicitar una relación de revendedor**.
 

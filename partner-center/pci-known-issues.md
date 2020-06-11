@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057a9f7dbf178b0cd91d171df002bb67a80ff935
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: b8f9a068cd4d2807f1fcf2202487e652738a8fbf
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795629"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679342"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Problemas conocidos de la información del centro de Partners
 
-Esto se relaciona con cualquier problema conocido que vea o represente informes asociados a Partner Center Insights (PCI).
+Esto se relaciona con cualquier problema conocido que vea o represente informes asociados a la información.
 
 - No hay ninguna manera compatible de habilitar los informes de insights para los inquilinos de solo CSP. Solo los inquilinos con acceso al programa MPN pueden acceder a estos informes.
 - Los informes tienen problemas de representación con Internet Explorer. Funcionan bien con Microsoft Edge y otros exploradores.

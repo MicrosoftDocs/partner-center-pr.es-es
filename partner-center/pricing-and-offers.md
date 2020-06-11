@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633825"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661668"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -94,7 +94,19 @@ CSP ofrece algunos servicios a segmentos de mercado especiales, por ejemplo, edu
 |Government Community Cloud (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
 |Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|Recursos de Azure|
 
-Los márgenes asociados, la diferencia entre el precio de venta y los precios de venta estimados, pueden variar de segmento a segmento. Normalmente, la educación y los no beneficios suelen tener márgenes inferiores o no para los asociados de CSP. Consulte la lista de precios basada en licencias para ver los valores exactos.  
+Los márgenes asociados, la diferencia entre el precio de venta y los precios de venta estimados, pueden variar de segmento a segmento. Normalmente, la educación y los no beneficios suelen tener márgenes inferiores o no para los asociados de CSP. Consulte la lista de precios basada en licencias para ver los valores exactos. 
+
+## <a name="add-on-offer-types"></a>Tipos de oferta de complementos
+
+Los servicios basados en licencias se pueden adquirir como ofertas o complementos base. Solo las ofertas base son reconocibles y compra a través del catálogo del centro de Partners. Los complementos deben aplicarse después de comprar las ofertas base. La columna **tipo de licencia secundario** de lista de precios basada en licencias incluye información sobre cada oferta y su tipo. Las ofertas base tienen valores **no específicos** en la columna de tipo de licencia secundario de lista de precios y se pueden adquirir en el catálogo. Los valores del tipo de licencia secundario del **complemento** no se pueden comprar en el catálogo. Para comprar estos complementos:
+
+1. Consulte la matriz de la lista de ofertas para ver la lista de identificadores de oferta que deben adquirirse para poder comprar un complemento.
+2. Compra de la oferta base desde el catálogo
+3. Vaya a su cliente en la lista de clientes. Haga clic en la suscripción de la oferta base que acaba de comprar. En la página Administrar suscripción verá los complementos disponibles que se pueden aplicar a la oferta base.
+
+> [!Note] 
+> Algunas ofertas base tienen valores de **tipo de unidad** de **licencias de complementos**. Para una oferta de base, esto simplemente significa que no se asignan licencias de usuario después de la compra. Si la oferta se puede comprar en el catálogo, es una **oferta base** , independientemente del tipo de unidad en la interfaz de usuario.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Precios entre Azure y no Azure
 
 Los precios difieren en diferentes tipos de ofertas. Los precios basados en licencias suelen ser la cantidad por puesto (licencia) de un mes determinado. Los precios basados en el uso se determinan mediante el uso de un recurso determinado, con un identificador de medidor asociado. Los asociados no se cobran por adquirir la suscripción de Azure. Sin embargo, se cobra a los asociados los recursos consumidos por diferentes implementaciones en la suscripción de Azure. Los precios de la lista de precios basada en el uso están organizados en torno a distintos identificadores de medidor de recursos en Azure.

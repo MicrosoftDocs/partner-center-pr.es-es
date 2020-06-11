@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, transición, revendedor indirecto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458411"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679452"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -225,15 +225,13 @@ En el modelo indirecto de CSP, los revendedores indirectos no tienen relaciones 
 
 ### <a name="pre-requisites"></a>Requisitos previos
 
-Antes de usar la característica, tenga en cuenta lo siguiente:
-
 - Esta característica solo está disponible para los asociados de transición que hayan completado la inscripción de revendedores indirectos mediante sus inquilinos de asociados directos de factura.
 
 - Antes de transferir las suscripciones asociadas a un cliente determinado, el asociado de transición debe trasladar el cliente a un proveedor indirecto.
 
-- El cliente ha [aceptado el contrato de cliente de Microsoft a través del proveedor indirecto](#microsoft-customer-agreement-acceptance).
+- El cliente debe haber [aceptado el contrato de cliente de Microsoft a través del proveedor indirecto](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to-transition-to-indirect-reseller-status"></a>Transición del estado de revendedor indirecto
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Transición al estado de un revendedor indirecto
 
 La característica es un proceso de 4 pasos, donde:
 
@@ -322,7 +320,7 @@ Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
 El asociado de transición debe hacer lo siguiente:
 
-1. Inicie sesión en el centro de partners como **agente de administración** o agente de **ventas**.
+1. Inicie sesión en el centro de partners como **agente de administración** o **agente de ventas**.
 
 2. En la página **clientes** , seleccione el cliente deseado y haga clic en el icono **vínculos rápidos** para expandir la vista de resumen del cliente.
 

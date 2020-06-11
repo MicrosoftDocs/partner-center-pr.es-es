@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: agente de ayuda, soporte técnico, asignar contacto de soporte técnico, contacto de soporte designado
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907473"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679002"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Asignación de un reseller como contacto de soporte técnico para clientes
 
@@ -47,14 +47,12 @@ Se puede usar para escenarios de varios [asociados](multipartner.md) y de varios
 
 3.  En **contacto de soporte técnico designado**, seleccione el distribuidor de productos designado y, a continuación, haga clic en **Enviar**. 
 
-    Notas: 
-    
-    *  En el caso de las nuevas suscripciones, el contacto de soporte técnico designado tiene como valor predeterminado el proveedor indirecto. También puede cambiarlo a un revendedor indirecto que tenga privilegios de administrador de delegación.
-    
-    *  Si el nombre de su distribuidor no aparece en la lista de contactos de soporte disponibles, agréguelos en [solicitando una relación](request-a-relationship-with-a-customer.md). Una vez establecida la relación, debe aparecer en la lista.  
+   >[!NOTE]  
+ >En el caso de las nuevas suscripciones, el contacto de soporte técnico designado tiene como valor predeterminado el proveedor indirecto. También puede cambiarlo a un revendedor indirecto con privilegios de administrador delegados.    
+>Si el nombre del distribuidor no aparece en la lista de contactos de soporte disponibles, agréguelos en [solicitando una relación](request-a-relationship-with-a-customer.md). Una vez establecida la relación, debe aparecer en la lista.  
 
 4.  Revise que los cambios son correctos y, a continuación, seleccione **cerrar**.
 
-## <a name="related-topics"></a>Temas relacionados
+## <a name="next-steps"></a>Pasos siguientes
 
 [Quitar una relación con un cliente](remove-a-relationship.md)

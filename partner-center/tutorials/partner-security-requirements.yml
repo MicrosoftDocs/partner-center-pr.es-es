@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453352"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679442"
 items:
 - title: Introducción
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Validación de seguridad adicional verificada":::
 
-    Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso. Ten en cuenta que, hasta que se apliquen los requisitos de seguridad para asociados, a los usuarios que no estén cubiertos por la directiva de línea de base *Requerir MFA a los administradores* solo se les pedirá MFA en función del riesgo.
+    Una vez que el usuario haya completado los pasos anteriores, podrá iniciar sesión en el servicio en la nube de Microsoft al que estaba intentando obtener acceso. Hasta que se apliquen los requisitos de seguridad del asociado, los usuarios que no estén incluidos en la Directiva de línea de base *requerir MFA para administradores* solo se le pedirán en función del riesgo.

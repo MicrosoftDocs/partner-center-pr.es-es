@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458401"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679403"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Probar las nuevas características del centro de Partners y ayudar a dar forma al futuro del centro de Partners
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458401"
 
 Lanzamos continuamente nuevas características y funcionalidades para el centro de Partners y queremos recibir sus comentarios. 
 
-Te invitamos a probar nuevas características antes de que se publiquen en la comunidad mundial del Centro de partners y de que compartas tus ideas al respecto. Echa un vistazo a la [página de anuncios del Centro de partners](announcements/index.md) para obtener información sobre las próximas características. De este modo, puedes empezar a planificar cómo usarlas para hacer crecer tu negocio. Ten en cuenta que puede haber varias características disponibles para que las pruebes en un momento dado.
+Te invitamos a probar nuevas características antes de que se publiquen en la comunidad mundial del Centro de partners y de que compartas tus ideas al respecto. Echa un vistazo a la [página de anuncios del Centro de partners](announcements/index.md) para obtener información sobre las próximas características. De este modo, puedes empezar a planificar cómo usarlas para hacer crecer tu negocio. Puede haber varias características disponibles para probar la versión en un momento dado.
 
 ### <a name="test-drive-a-feature"></a>Versión de prueba de una característica
 
@@ -58,4 +58,4 @@ Le animamos a compartir sus ideas y pensamientos sobre una versión preliminar e
 - Solicita soporte técnico si tienes algún problema con la versión preliminar de una característica. Para crear una solicitud de soporte técnico, selecciona **Solicitudes de soporte técnico > Solicitudes del Centro de partners** en el menú **Centro de partners** y, a continuación, selecciona **Nueva solicitud** en la página **Solicitudes del Centro de partners**.
 
 
--- El equipo del Centro de partners
+

@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467535"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679302"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 
@@ -37,7 +37,7 @@ Hay dos nuevos roles en el centro de Partners diseñados específicamente para e
 El administrador global o el administrador de la cuenta puede asignar a los usuarios estos roles y se asignan para toda la empresa o para una ubicación de MPN específica.  
 
 >[!Note] 
->Los usuarios que eran administradores de MPN a partir del 2 de diciembre de 2019 se agregaron automáticamente al rol visor de informes para toda la compañía. Pueden acceder a los informes como un visor de informes sin ninguna acción explícita requerida por el administrador global o el administrador de la cuenta. Los administradores globales o los administradores de cuentas pueden invalidar estas asignaciones si es necesario. 
+>Los usuarios que eran administradores de MPN a partir del 20 de enero de 2020 se agregaron automáticamente al rol visor de informes para toda la compañía. Pueden acceder a los informes como un visor de informes sin ninguna acción explícita requerida por el administrador global o el administrador de la cuenta. Los administradores globales o los administradores de cuentas pueden invalidar estas asignaciones si es necesario. 
 
 ## <a name="reports-available"></a>Informes disponibles
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: factura directa, restringir
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467235"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679422"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de factura directa restringida y los requisitos necesarios para los asociados de facturación directa de CSP  
 
@@ -58,7 +58,10 @@ Las suscripciones de factura directa existentes no se ven afectadas. Siguen sien
 
 - Ajustar el número de puestos de las suscripciones basadas en puestos existentes
 
-- Ajustar el número de puestos de los complementos existentes a una suscripción. Nota: no puede agregar nuevos complementos a las suscripciones existentes, ya que se trata como una nueva compra.
+- Ajustar el número de puestos de los complementos existentes a una suscripción. 
+ 
+    >[!Note] 
+    >No se pueden agregar nuevos complementos a las suscripciones existentes, ya que se trata como una nueva compra.
 
 - Implemente nuevos recursos de Azure y administre los recursos existentes de Azure en las suscripciones de Azure existentes. Esto incluye los recursos, que están disponibles a través de las suscripciones de Azure Marketplace y Visual Studio.
 
@@ -68,7 +71,7 @@ Además de las nuevas compras, no puede tener acceso a las siguientes funciones 
 
 - No se puede generar una invitación para el cliente que solicita la relación de revendedor directa. La opción **solicitar una relación de revendedor** en la página **clientes** del centro de Partners no estará disponible.
 
-    >[!Note]
+    >[!NOTE]
     >Como parte de la transición de un asociado directo de factura a un revendedor indirecto, si ya ha inscrito el inquilino Direct Bill Partner como revendedor indirecto, puede generar una invitación a la solicitud del cliente para la relación de revendedor indirecta en su lugar.
 
 - No se puede crear un nuevo inquilino de espacio aislado. Cada inquilino de remesa directo puede crear un inquilino de espacio aislado con el fin de la integración directa de la API de facturación. Si no ha creado una anteriormente, no podrá hacerlo después de que se haya restringido la funcionalidad de socio de facturación.  
