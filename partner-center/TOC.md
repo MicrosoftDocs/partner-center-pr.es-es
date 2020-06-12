@@ -60,6 +60,7 @@
 ## [Estructura de cuentas en el Centro de partners](account-structure.md)
 ## [Comprobar tu propiedad de un dominio](become-global-admin.md)
 ## [Comprobar la información de la cuenta](verification-responses.md)
+## [Combinar la cuenta de asociado con otra cuenta de asociado](merge-accounts.md)
 ## [Actualizar tu perfil de asociado](update-your-partner-profile.md)
 ## [Ubicaciones](manage-locations.md)
 ## [Inscribirse como proveedor del Panel de control](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [Personalizar el catálogo](customize-the-catalog.md)
 
 # [Desarrollar la empresa](grow-your-business.md)
-## [Referencias](referrals.md)
+## [Información general sobre referencias](referrals.md)
+### [Responder a las referencias](responding-to-referrals.md)
 ### [Administrar el perfil de negocio](create-a-marketing-profile.md)
 ### [Administrar los clientes potenciales](manage-leads.md)
 ### [Administrar las oportunidades de venta conjunta](manage-co-sell-opportunities.md)
@@ -119,7 +121,7 @@
 ## [Agregar un nuevo cliente](add-a-new-customer.md)
 ## [Solicitar una relación de revendedor con un cliente](request-a-relationship-with-a-customer.md)
 ## [Quitar una relación de revendedor con un cliente](remove-a-relationship.md)
-## [Los clientes delegan o revocan privilegios administrativos en los asociados](customers_revoke_admin_privileges.md) 
+## [Los clientes delegan o revocan privilegios administrativos en los asociados](customers-revoke-admin-privileges.md) 
 ## [Consultar la lista de clientes](see-your-customer-list.md)
 ## [Ver los registros de actividades de los clientes](activity-logs.md)
 ## [Actualizar la información de la cuenta de cliente](update-customer-account-info.md)
@@ -127,7 +129,7 @@
 ## [Crear varios usuarios para un cliente](adding-multiple-users-to-a-customer-account.md)
 ## [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
-# [Ofertas de CSP](csp-offers.md) 
+# [Ofertas de CSP](csp-offers.md)
 ## Marketplace comercial
 ### [Introducción a Marketplace comercial](csp-commercial-marketplace-overview.md)
 ### [Descubrir ofertas de Marketplace](csp-commercial-marketplace-discover.md)
@@ -175,6 +177,7 @@
 ### [Migrar de suscripciones de Office 365 Enterprise E4 a versiones más recientes](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrar el plan 1 de Skype Empresarial Online a las versiones más recientes de Office 365](skype-retiring.md)
 ### [Transferir suscripciones de Azure](switch-azure-subscriptions-to-a-different-partner.md)
+### [Migración de suscripciones de Kaizala Pro a Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Análisis y datos del Centro de partners
 ## [Obtener y analizar los datos de tu negocio](data-analysis-lp.md)
