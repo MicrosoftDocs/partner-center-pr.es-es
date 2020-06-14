@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: facturación, uso basado en el uso
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b2710cc31d4c8e494b45ca19aa102322dbb81781
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603874"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749080"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Comprenda la facturación basada en el uso de consumo mensual de servicios de pago por uso
 

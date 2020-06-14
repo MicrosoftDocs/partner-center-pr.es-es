@@ -1,23 +1,23 @@
 ---
 title: Gane especializaciones avanzadas
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Las especializaciones avanzadas fortalecen su perfil de negocio en el directorio de socios comerciales. Obtenga información sobre cómo obtener especializaciones avanzadas sobre sus competencias Gold.
+description: Fortalezca su perfil de negocio en el directorio de socios comerciales. Obtenga información sobre cómo obtener especializaciones avanzadas junto con sus competencias Gold o Silver.
 author: LauraBrenner
 ms.author: labrenne
-keywords: competencias, membresía Gold, MPN, mapas, conocimientos, Microsoft Partner Network, pertenencia a la red, especializaciones avanzadas
+keywords: competencias, suscripción silver, suscripción gold, mpn, MAPS, competencia, Microsoft Partner Network, suscripción a la red, especializaciones avanzadas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825628"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749156"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Cómo las especializaciones avanzadas ayudan a los clientes en su perfil de negocio
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Las especializaciones avanzadas ayudan a su perfil de negocio a destacar a los clientes
 
 Vaya más allá de su competencia Gold con una especialización avanzada. Las especializaciones avanzadas le ayudan a exhibir conocimientos comprobables y comprobados en un producto, área de solución o servicio. Los clientes pueden ver su competencia Gold y su especialización avanzada en su perfil de negocio en el directorio de socios comerciales. Para recibir una etiqueta de especialización avanzada, su empresa debe cumplir un conjunto de criterios publicados y ser validado por Microsoft. [Más información](https://partner.microsoft.com/membership/advanced-specialization).
 
@@ -41,3 +41,6 @@ Vaya más allá de su competencia Gold con una especialización avanzada. Las es
 
 - **Modernización de aplicaciones web en Microsoft Azure** Asegúrese de que el cliente se ha realizado correctamente en el desarrollo de aplicaciones y está familiarizado con los sistemas de administración de contenido. Demuestre experiencia en la migración e implementación de cargas de trabajo de aplicaciones web de producción, la aplicación de prácticas de DevOps y la administración de servicios de aplicaciones en Microsoft Azure.
 
+ ## <a name="next-steps"></a>Pasos siguientes
+
+ Más información sobre [los requisitos de Microsoft Competency para la pertenencia Gold y Silver](learn-about-competencies.md)
