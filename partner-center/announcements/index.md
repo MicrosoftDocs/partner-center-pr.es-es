@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254336"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749089"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
 Más información sobre las actualizaciones importantes del Centro de partners. Esta información se actualiza con frecuencia, así que asegúrate de revisarla de vez en cuando.
 
-| **Categoría** | **Anuncios de mayo de 2020** | **Fecha del anuncio** |
-|---------|---------|:---------|
+| **Categoría** | **Anuncios de junio de 2020** | **Fecha del anuncio** |
+|---------|:---------|:---------|
+| Funcionalidades | [Cambio de la frecuencia de facturación predeterminada de anual a mensual](2020-june.md#4) | 17 de junio |
+| Funcionalidades | [Actualización de medios de las suscripciones de software de Windows Server para CSP](2020-june.md#2) | 12 de junio |
+| Ofertas/mercados | [Ofertas y productos nuevos y que terminarán su ciclo de vida de Microsoft Dynamics 365 y Power Platform](2020-june.md#1) | 11 de junio |
+| Funcionalidades | [Combinación de dos o más cuentas de empresa en el Centro de partners](https://docs.microsoft.com/partner-center/merge-accounts) | 9 de junio |
+| **Categoría** | **Anuncios de mayo de 2020** | **Fecha** |
 | Funcionalidades | [Microsoft 365 A3: corrección de la licencia para uso desatendido en la oferta para Educación](2020-may.md#5). | 28 de mayo |
 | Funcionalidades | [Los clientes activos pueden renovar su plan de mejoras (EP) en el programa Proveedor de soluciones en la nube (CSP) y recibir licencias en línea](2020-may.md#4). | 26 de mayo |
 | Funcionalidades | [Cambio de dirección de Americas Operations Center](2020-may.md#3). | 15 de mayo |
