@@ -1,7 +1,7 @@
 ---
-title: Cómo se calcula el crédito obtenido del socio | Centro de Partners
+title: Cómo se calcula el crédito obtenido por el socio
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo se calcula el aspecto del crédito de los asociados (PEC) del plan de Azure. Esto incluye los requisitos de idoneidad para asociados y proveedores indirectos.
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721725"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788739"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Cómo se calcula el crédito obtenido por el socio comercial (PEC)
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Cómo se calcula el crédito obtenido por el socio comercial (PEC) para asociados en el programa proveedor de soluciones en la nube
 
 **Roles adecuados**
 
@@ -46,7 +47,7 @@ Los asociados que poseen la administración de operaciones de ti ininterrumpida 
 
 Para obtener información sobre cómo obtener acceso para administrar las suscripciones de Azure y sobre cómo vincular el identificador de MPN a los roles de RBAC, consulte [Administración de suscripciones y recursos en el plan de Azure](azure-plan-manage.md).
 
-Para más información
+Para obtener más información
 
 - [Plan de Azure: facturación](azure-plan-billing.md)
 

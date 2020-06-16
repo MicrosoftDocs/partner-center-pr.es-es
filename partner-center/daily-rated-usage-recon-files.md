@@ -1,19 +1,19 @@
 ---
 title: Archivos de conciliación de uso clasificados diariamente
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795595"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788809"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795595"
 - Agente del departamento de soporte técnico
 
 En este tema se explica cómo leer archivos de conciliación de uso clasificados diariamente.
+
+>[!NOTE]
+>Normalmente, el uso con clasificación diaria tarda 24 horas en aparecer en el centro de Partners o en el acceso a través de la API.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Campos en archivos de conciliación de uso clasificados diariamente
 

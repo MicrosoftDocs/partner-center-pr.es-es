@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453262"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788779"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venta conjunta para Salesforce CRM: información general
 
@@ -29,7 +29,7 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 ## <a name="before-you-install---pre-requisites"></a>Antes de instalar: requisitos previos
 
-|**Temas**   |**Detalles**   |**Vínculos**   |
+|**Tratados**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
 |Venta conjunta lista|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -233,12 +233,12 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
    |**Etiqueta de campo**   |**Nombre del campo**|**Tipo de datos**|**Indizó**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |Auditoría|  Audit__c|Área de texto largo (100.000) (línea visible 4)||
-   |¿Cómo puede ayudarle Microsoft?|H ow_can_Microsoft_help__c|Lista desplegable|
-   |Productos|Productos-c|texto (255)||
-   |Referral |  Referral_Identi fier__c|Texto (100) (ID. externo)|sí|
-   |Vínculo de referencia|   Referral_Link__c_|URL (255)||
-   |Sincronización con el socio CEN ter|Sync-with-Partner-Center-c|CheckBox (valor predeterminado desactivado)||
+   |Auditoría| Audit__c|Área de texto largo (100.000) (línea visible 4)||
+   |¿Cómo puede ayudarle Microsoft?|How_can_Microsoft_help_c|Lista desplegable|
+   |Productos|Products_c|texto (255)||
+   |Referral | Referral_Identfier_c|Texto (100) (ID. externo)|sí|
+   |Vínculo de referencia| Referral_Link_c_|URL (255)||
+   |Sincronizar con el centro de Partners|sync_with_partner_center_c|CheckBox (valor predeterminado desactivado)||
 
    * Valores de lista desplegable:
 

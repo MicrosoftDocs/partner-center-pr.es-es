@@ -201,6 +201,7 @@
 ### [Conclusiones: informe de competencias](pci-competencies-report.md)
 ### [Conclusiones: informe de ventajas](pci-benefits-report.md)
 ### [Conclusiones: problemas conocidos](pci-known-issues.md)
+### [Conclusiones: descargar informes](pci-download-reports.md)
 ## [Indicadores de contribución de partners](partner-contribution-indicators.md)
 ## [Obtener datos sobre el uso de las suscripciones de Azure de tus clientes](analyze-azure-usage.md)
 ## [Analizar el rendimiento de los revendedores indirectos](analyze-indirect-resellers.md)

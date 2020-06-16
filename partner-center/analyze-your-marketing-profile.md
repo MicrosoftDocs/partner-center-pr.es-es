@@ -1,21 +1,22 @@
 ---
-title: Analizar su perfil de negocio | Centro de Partners
+title: Analizar tu perfil de negocio
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo usar la página de información de Perfil de negocio para ver cómo está capturando la atención de sus clientes de destino y generando referencias.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722361"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788759"
 ---
-# <a name="analyze-your-business-profile"></a>Analizar su perfil de negocio
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analice su perfil de negocio: vea cómo atrae a los clientes de destino y las posibles referencias
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -32,12 +33,12 @@ https://go.microsoft.com/fwlink/?linkid=849120
 - Administrador de partners de MPN
 - Administrador de referencias
 - Administrador del perfil de negocio
-- Agente de administración
+- Agente de administrador
 - Agente de ventas
 
 La página **Business Profile Insights** del centro de Partners le permite ver lo bien que está captando la atención de sus clientes de destino y generando referencias.
 
-Para ver los datos de la información de referencia, en el menú del centro de Partners, vaya a **referencias > Business Profile Insights**. Los datos muestran el rendimiento del perfil, analizan las tendencias e identifican las áreas que requieren alguna acción.
+Para ver los datos de la información de referencia, en el menú del centro de Partners, vaya a **referencias > Business Profile Insights**. Los datos muestran el rendimiento del perfil, analiza las tendencias e identifica las áreas que requieren una acción.
 
 Cerca de la parte superior de la página de **información de Perfil de negocio** , puede seleccionar el período de tiempo para el que desea mostrar los datos. La selección predeterminada es **30D** (30 días), pero puede optar por mostrar los datos de un período de 3 o 6 meses en su lugar. Se incluyen los datos de todas las regiones.
 

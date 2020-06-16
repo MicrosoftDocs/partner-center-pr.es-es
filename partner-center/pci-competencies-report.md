@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679362"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776292"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 
@@ -50,7 +50,7 @@ Puede ver las siguientes secciones del informe competencias:
  > [!NOTE]
  > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
-**Summmary**
+**Resumen**
 
 La vista de Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (oro/plata) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **iniciado**, **calificado**, **activo**y **en riesgo**. Ejemplo: los requisitos de capacidad de la nube se dividen en dos categorías: habilidades y rendimiento.
 
