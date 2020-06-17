@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788809"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811573"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -57,7 +57,7 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este campo es idéntico a **nombredeoferta**). |
 | SubscriptionId | Identificador único para una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. *Este identificador no es el mismo que el **identificador de suscripción** en la consola de administración de socios comerciales.* |
 | ChargeStartDate | Fecha de inicio del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de facturación anterior). La hora es siempre el principio del día, 00:00. |
-| ChargeEndDate | Fecha final del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de biling anterior). La hora siempre corresponde al fin del día, 23:59. |
+| ChargeEndDate | Fecha final del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de facturación anterior). La hora siempre corresponde al fin del día, 23:59. |
 | UsageDate | Fecha del uso del servicio. |
 | MeterType | Tipo de medidor. |
 | MeterCategory | Identifica el servicio de nivel superior para el uso. |
@@ -88,3 +88,8 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | EntitlementId | Representa el identificador de suscripción de Azure. |
 | EntitlementDescription | Representa el nombre del identificador de suscripción de Azure. |
 | PartnerEarnedCreditPercentage | Muestra el PartnerEarnedCredit del elemento de línea. El crédito obtenido será 0 o 15 por ciento |
+
+>[!NOTE]
+>Normalmente, el uso con clasificación diaria tarda 24 horas en aparecer en el centro de Partners o en el acceso a través de la API.
+
+
