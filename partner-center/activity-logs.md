@@ -5,58 +5,57 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de clientes y otras actividades de administración de asociados relacionadas con el cliente.
-ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: cfef9a4e6c68496ffbe9e9f6abc25629e2d2eb73
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794977"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991159"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a><span data-ttu-id="0c313-104">Ver o exportar registros de actividad del cliente para obtener más información sobre las transacciones del cliente</span><span class="sxs-lookup"><span data-stu-id="0c313-104">View or export customer activity logs for more insight into customer transactions</span></span>
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a><span data-ttu-id="da9e5-104">Ver o exportar registros de actividad del cliente para obtener más información sobre las transacciones del cliente</span><span class="sxs-lookup"><span data-stu-id="da9e5-104">View or export customer activity logs for more insight into customer transactions</span></span>
 
-<span data-ttu-id="0c313-105">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="0c313-105">**Applies to**</span></span>
+<span data-ttu-id="da9e5-105">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="da9e5-105">**Applies to**</span></span>
 
-- <span data-ttu-id="0c313-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="0c313-106">Partner Center</span></span>
-- <span data-ttu-id="0c313-107">Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="0c313-107">Partner Center for Microsoft Cloud for US Government</span></span>
-- <span data-ttu-id="0c313-108">Partners del programa Proveedor de soluciones en la nube</span><span class="sxs-lookup"><span data-stu-id="0c313-108">Cloud Solution Provider program partners</span></span>
+- <span data-ttu-id="da9e5-106">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="da9e5-106">Partner Center</span></span>
+- <span data-ttu-id="da9e5-107">Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="da9e5-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="da9e5-108">Partners del programa Proveedor de soluciones en la nube</span><span class="sxs-lookup"><span data-stu-id="da9e5-108">Cloud Solution Provider program partners</span></span>
 
-<span data-ttu-id="0c313-109">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="0c313-109">**Appropriate roles**</span></span>
+<span data-ttu-id="da9e5-109">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="da9e5-109">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="0c313-110">Administrador global</span><span class="sxs-lookup"><span data-stu-id="0c313-110">Global admin</span></span>
-- <span data-ttu-id="0c313-111">Administrador de facturación</span><span class="sxs-lookup"><span data-stu-id="0c313-111">Billing admin</span></span>
-- <span data-ttu-id="0c313-112">Administrador del control de usuarios</span><span class="sxs-lookup"><span data-stu-id="0c313-112">User management admin</span></span>
-- <span data-ttu-id="0c313-113">Agente de administrador</span><span class="sxs-lookup"><span data-stu-id="0c313-113">Admin agent</span></span>
-- <span data-ttu-id="0c313-114">Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="0c313-114">Sales agent</span></span>
-- <span data-ttu-id="0c313-115">Agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="0c313-115">Helpdesk agent</span></span>
+- <span data-ttu-id="da9e5-110">Administrador global</span><span class="sxs-lookup"><span data-stu-id="da9e5-110">Global admin</span></span>
+- <span data-ttu-id="da9e5-111">Administrador de facturación</span><span class="sxs-lookup"><span data-stu-id="da9e5-111">Billing admin</span></span>
+- <span data-ttu-id="da9e5-112">Administrador del control de usuarios</span><span class="sxs-lookup"><span data-stu-id="da9e5-112">User management admin</span></span>
+- <span data-ttu-id="da9e5-113">Agente de administrador</span><span class="sxs-lookup"><span data-stu-id="da9e5-113">Admin agent</span></span>
+- <span data-ttu-id="da9e5-114">Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="da9e5-114">Sales agent</span></span>
+- <span data-ttu-id="da9e5-115">Agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="da9e5-115">Helpdesk agent</span></span>
 
-<span data-ttu-id="0c313-116">Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.</span><span class="sxs-lookup"><span data-stu-id="0c313-116">Activity logs provide information on transactions and Partner management actions for customers.</span></span> <span data-ttu-id="0c313-117">Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas.</span><span class="sxs-lookup"><span data-stu-id="0c313-117">Logs for transactions provide detailed information about the transaction, including purchased subscriptions.</span></span> <span data-ttu-id="0c313-118">También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.</span><span class="sxs-lookup"><span data-stu-id="0c313-118">You can also export activity logs to an Excel-compatible comma-separated value file format (.csv).</span></span>
+<span data-ttu-id="da9e5-116">Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes.</span><span class="sxs-lookup"><span data-stu-id="da9e5-116">Activity logs provide information on transactions and Partner management actions for customers.</span></span> <span data-ttu-id="da9e5-117">Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas.</span><span class="sxs-lookup"><span data-stu-id="da9e5-117">Logs for transactions provide detailed information about the transaction, including purchased subscriptions.</span></span> <span data-ttu-id="da9e5-118">También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.</span><span class="sxs-lookup"><span data-stu-id="da9e5-118">You can also export activity logs to an Excel-compatible comma-separated value file format (.csv).</span></span>
 
-<span data-ttu-id="0c313-119">Los registros de actividades proporcionan registros respecto a las acciones de los partners en las cuentas de los clientes y las transacciones de productos.</span><span class="sxs-lookup"><span data-stu-id="0c313-119">Activity logs provide records for Partner actions on customer accounts and product transactions.</span></span> <span data-ttu-id="0c313-120">También puedes exportar los registros de actividades a un archivo .csv.</span><span class="sxs-lookup"><span data-stu-id="0c313-120">You can also export activity logs to a .csv file.</span></span>
+<span data-ttu-id="da9e5-119">Los registros de actividades proporcionan registros respecto a las acciones de los partners en las cuentas de los clientes y las transacciones de productos.</span><span class="sxs-lookup"><span data-stu-id="da9e5-119">Activity logs provide records for Partner actions on customer accounts and product transactions.</span></span> <span data-ttu-id="da9e5-120">También puedes exportar los registros de actividades a un archivo .csv.</span><span class="sxs-lookup"><span data-stu-id="da9e5-120">You can also export activity logs to a .csv file.</span></span>
 
-<span data-ttu-id="0c313-121">**Ver y exportar los registros de actividad**</span><span class="sxs-lookup"><span data-stu-id="0c313-121">**View and export activity logs**</span></span>
+<span data-ttu-id="da9e5-121">**Ver y exportar los registros de actividad**</span><span class="sxs-lookup"><span data-stu-id="da9e5-121">**View and export activity logs**</span></span>
 
-1. <span data-ttu-id="0c313-122">Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.</span><span class="sxs-lookup"><span data-stu-id="0c313-122">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="da9e5-122">Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.</span><span class="sxs-lookup"><span data-stu-id="da9e5-122">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="0c313-123">En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.</span><span class="sxs-lookup"><span data-stu-id="0c313-123">From the **Account settings** menu, select **Activity Log**.</span></span>
-2.  <span data-ttu-id="0c313-124">Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**.</span><span class="sxs-lookup"><span data-stu-id="0c313-124">Select the activity log period in the **From** and **to** fields.</span></span> <span data-ttu-id="0c313-125">De forma predeterminada, el registro de actividades se establece en el mes más reciente.</span><span class="sxs-lookup"><span data-stu-id="0c313-125">The activity log export defaults to the most recent month.</span></span>
+2. <span data-ttu-id="da9e5-123">En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.</span><span class="sxs-lookup"><span data-stu-id="da9e5-123">From the **Account settings** menu, select **Activity Log**.</span></span>
+2.  <span data-ttu-id="da9e5-124">Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**.</span><span class="sxs-lookup"><span data-stu-id="da9e5-124">Select the activity log period in the **From** and **to** fields.</span></span> <span data-ttu-id="da9e5-125">De forma predeterminada, el registro de actividades se establece en el mes más reciente.</span><span class="sxs-lookup"><span data-stu-id="da9e5-125">The activity log export defaults to the most recent month.</span></span>
 
-    <span data-ttu-id="0c313-126">Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.</span><span class="sxs-lookup"><span data-stu-id="0c313-126">Each activity log provides a link to the listed customer's **Subscriptions** page.</span></span>
+    <span data-ttu-id="da9e5-126">Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.</span><span class="sxs-lookup"><span data-stu-id="da9e5-126">Each activity log provides a link to the listed customer's **Subscriptions** page.</span></span>
 
-    <span data-ttu-id="0c313-127">Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada.</span><span class="sxs-lookup"><span data-stu-id="0c313-127">Select a down arrow for any activity log to view details about a logged action.</span></span> <span data-ttu-id="0c313-128">Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.</span><span class="sxs-lookup"><span data-stu-id="0c313-128">A single activity log can show a significant amount of data, such as the ordering of multiple products.</span></span>
+    <span data-ttu-id="da9e5-127">Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada.</span><span class="sxs-lookup"><span data-stu-id="da9e5-127">Select a down arrow for any activity log to view details about a logged action.</span></span> <span data-ttu-id="da9e5-128">Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.</span><span class="sxs-lookup"><span data-stu-id="da9e5-128">A single activity log can show a significant amount of data, such as the ordering of multiple products.</span></span>
 
-3.   <span data-ttu-id="0c313-129">Las columnas de datos del registro incluyen lo siguiente:</span><span class="sxs-lookup"><span data-stu-id="0c313-129">The data columns of the log include the following:</span></span>
-    -   <span data-ttu-id="0c313-130">**Fecha y hora**: la fecha y hora de la acción.</span><span class="sxs-lookup"><span data-stu-id="0c313-130">**Date-Time**-the date and time of the action;</span></span>
-    -   <span data-ttu-id="0c313-131">**Cliente afectado**: El nombre de la compañía del cliente.</span><span class="sxs-lookup"><span data-stu-id="0c313-131">**Affected customer**—the customer's company name;</span></span>
-    -   <span data-ttu-id="0c313-132">**Acción**: la acción realizada por el cliente, como "creó una referencia".</span><span class="sxs-lookup"><span data-stu-id="0c313-132">**Action**—the action taken by the customer such as "created a referral";</span></span>
-    -   <span data-ttu-id="0c313-133">**Usuario asociado**: el partner asociado con la actividad.</span><span class="sxs-lookup"><span data-stu-id="0c313-133">**Partner user**—the partner associated with the activity.</span></span>
+3.   <span data-ttu-id="da9e5-129">Las columnas de datos del registro incluyen lo siguiente:</span><span class="sxs-lookup"><span data-stu-id="da9e5-129">The data columns of the log include the following:</span></span>
+    -   <span data-ttu-id="da9e5-130">**Fecha y hora**: la fecha y hora de la acción.</span><span class="sxs-lookup"><span data-stu-id="da9e5-130">**Date-Time**-the date and time of the action;</span></span>
+    -   <span data-ttu-id="da9e5-131">**Cliente afectado**: El nombre de la compañía del cliente.</span><span class="sxs-lookup"><span data-stu-id="da9e5-131">**Affected customer**—the customer's company name;</span></span>
+    -   <span data-ttu-id="da9e5-132">**Acción**: la acción realizada por el cliente, como "creó una referencia".</span><span class="sxs-lookup"><span data-stu-id="da9e5-132">**Action**—the action taken by the customer such as "created a referral";</span></span>
+    -   <span data-ttu-id="da9e5-133">**Usuario asociado**: el partner asociado con la actividad.</span><span class="sxs-lookup"><span data-stu-id="da9e5-133">**Partner user**—the partner associated with the activity.</span></span>
 
-4.  <span data-ttu-id="0c313-134">Selecciona **Exportar registro** para copiar los datos de suscripción del cliente en un archivo .csv y descargarlo en la carpeta de descarga predeterminada de tu equipo.</span><span class="sxs-lookup"><span data-stu-id="0c313-134">Select **Export log** to copy the customer's subscription data into a .csv file and download it to the default download folder on your computer.</span></span>
+4.  <span data-ttu-id="da9e5-134">Selecciona **Exportar registro** para copiar los datos de suscripción del cliente en un archivo .csv y descargarlo en la carpeta de descarga predeterminada de tu equipo.</span><span class="sxs-lookup"><span data-stu-id="da9e5-134">Select **Export log** to copy the customer's subscription data into a .csv file and download it to the default download folder on your computer.</span></span>
     
  
 
