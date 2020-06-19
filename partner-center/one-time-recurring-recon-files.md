@@ -3,17 +3,16 @@ title: Archivos de conciliación única y periódica
 ms.topic: article
 ms.date: 05/26/2020
 description: Comprenda el significado de cada campo o columna del centro de Partners y los archivos de conciliación periódicos.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749199"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908673"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Archivos de conciliación única y periódica en el centro de Partners
 

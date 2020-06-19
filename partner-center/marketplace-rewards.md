@@ -1,22 +1,21 @@
 ---
-title: Administrar las recompensas de Marketplace
+title: Administración de Marketplace Rewards
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Los asociados que publican ofertas en el Marketplace comercial pueden beneficiarse de las ventajas que ofrecen soporte técnico de marketing.
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: Ofertas de Marketplace, soporte técnico de marketing, premios, ventajas del publicador
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795979"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909013"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administre las recompensas de Marketplace en el centro de Partners & activar marketing, ventas y beneficios técnicos
 
@@ -34,23 +33,23 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 1. En el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners, seleccione la pestaña **beneficios de ventas y marketing** en la página de recompensas de Marketplace para ver la lista de ventajas. 
 
-2. Para activar las ventajas de ventas y marketing, primero debe asignar un contacto de marketing de la compañía. Este contacto recibirá comunicaciones de seguimiento sobre sus recompensas de Marketplace.
+2. Para activar las ventajas de marketing y ventas, primero debe asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre Marketplace Rewards.
 
 3. Para agregar o actualizar la información de contacto de marketing, vaya a la parte superior de la pestaña beneficios de ventas y marketing en la página de recompensas de Marketplace y seleccione **Agregar, actualizar o cambiar**. 
 
    A continuación, haga lo siguiente:
 
-   - Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes agregar nuevos usuarios en Configuración de cuenta.
+   - Seleccione un usuario en la lista. Si el usuario que desea asignar no está en la lista, puede agregar nuevos usuarios en Configuración de la cuenta.
 
-   - Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. Le enviaremos instrucciones por correo electrónico para usar el beneficio de premios de Marketplace en la dirección de correo electrónico del contacto de marketing designada.
+   - Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. Le enviaremos instrucciones por correo electrónico para usar la ventaja de Marketplace Rewards a la dirección de correo electrónico del contacto de marketing designado.
 
-   - Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**.
+   - Proporcione el teléfono de contacto y el idioma preferido para este contacto de marketing. Cuando termine de escribir esta información, seleccione **Asignar usuario**.
 
-4. Después de actualizar el contacto de marketing, seleccione **Activar** para la ventaja que desea empezar a usar. Una vez que active una ventaja, el contacto de marketing será contactado por un miembro del equipo de premios en un plazo de una semana.
+4. Una vez que haya actualizado el contacto de marketing, seleccione **Activar** para la ventaja que desea empezar a usar. Una vez que active una ventaja, un miembro del equipo de Rewards se comunicará con el contacto de marketing en el plazo de una semana.
 
 ## <a name="technical-benefits"></a>Ventajas técnicas
 
-1. Puede usar sus beneficios técnicos para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellena el formulario de solicitud y, a continuación, selecciona **Enviar solicitud**.
+1. Puede usar sus beneficios técnicos para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
 
 2. El uso de las ventajas de patrocinio de Azure se compartirá a través de un correo electrónico cuando se desbloqueen estas ventajas.
 

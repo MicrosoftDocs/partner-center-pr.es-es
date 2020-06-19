@@ -3,18 +3,17 @@ title: Transacciones de SaaS basadas en licencias de facturación
 ms.topic: article
 ms.date: 05/05/2020
 description: Obtenga información sobre los escenarios de facturación comunes en el centro de partners para transacciones SaaS basadas en licencias.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a25344e6a513c521e7f99e1bad3db9ec935159b3
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908193"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908803"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Escenarios comunes de facturación para las transacciones SaaS basadas en licencias en el centro de Partners
 

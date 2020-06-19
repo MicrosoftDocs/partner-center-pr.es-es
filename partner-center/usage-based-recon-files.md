@@ -3,17 +3,16 @@ title: Archivos de conciliación basada en uso
 ms.topic: article
 ms.date: 06/08/2020
 description: Obtenga información sobre todos los elementos del archivo de conciliación basado en el uso en el centro de Partners. Incluye algunos ejemplos.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749208"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909123"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprender los archivos de conciliación basados en el uso y sus campos específicos en el centro de Partners
 
@@ -70,5 +69,5 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | MeteredRegion | Identifica la ubicación de un centro de datos dentro de la región (para los servicios en los que este valor es aplicable y rellenado). | *Asia oriental*, *Asia suroriental*, *Europa del norte*, *Europa occidental*, *centro-norte de EE. UU.*, *centro-sur de EE. UU.* |
 | MeteredService | Identifica el uso individual del servicio de Azure cuando no se identifica específicamente en la columna **ServiceName** . Por ejemplo, las transferencias de datos se muestran como *Microsoft Azure todos los servicios* de la columna **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
 | MeteredServiceType | Subtítulo del campo **MeteredService** que proporciona una explicación adicional sobre el uso del servicio de Azure. | *FUERA* |
-| Proyecto | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Project | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | El número de conexiones Azure Service Bus aprovisionadas y utilizadas en un día determinado. | *1,000000 conexiones/30 días* (si tiene una conexión aprovisionada individualmente durante un mes de 30 días), *25 conexiones/30 días – se usa: 1,000000* (si tiene un 25 paquete de conexiones Service Bus aprovisionadas y usó 1 durante ese día) |

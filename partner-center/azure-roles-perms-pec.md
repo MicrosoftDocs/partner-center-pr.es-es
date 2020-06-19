@@ -5,17 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los roles y los permisos de los asociados para poder ganar créditos obtenidos por asociados (PEC). Estos difieren de los roles para trabajar en el centro de Partners.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af21fe17afdab07ef259634d9df18d65ae072d5d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9f84f1998258b0187537bac61edba9c6465aeb8e
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908274"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908983"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Roles y permisos coincidentes para ganar el crédito obtenido por el socio
 

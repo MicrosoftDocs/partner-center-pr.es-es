@@ -3,18 +3,17 @@ title: Facturación de una sola vez & compras periódicas
 ms.topic: article
 ms.date: 05/05/2020
 description: Consulte los ejemplos de facturación del centro de partners para una sola vez y seleccione compras periódicas; al adquirir suscripciones, agregar más suscripciones, agregar o quitar puestos.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturación, pagos, compra única, compra periódica, suscripciones, puestos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 334a670733c4194b89e942cbcea185791e88693b
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908204"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908873"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Escenarios de facturación del centro de partners para una sola vez y selección de compras periódicas
 

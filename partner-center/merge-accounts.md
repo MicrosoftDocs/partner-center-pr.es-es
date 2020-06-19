@@ -1,19 +1,17 @@
 ---
-title: Combinación de la cuenta de asociado con otra cuenta de socio comercial
-ms.topic: article
-ms.date: 06/12/2020
+title: Combinar la cuenta de asociado con otra cuenta de asociado
 description: Las empresas que son asociados de Microsoft activos en el centro de partners pueden combinar sus cuentas.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788696"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909042"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 
@@ -31,11 +29,11 @@ Dos o más compañías que son asociados de Microsoft activos y tienen cuentas e
 
 - Todas las ubicaciones de la cuenta de combinación se convierten en ubicaciones bajo el PGA.
 
-- Una vez completada la fusión de cuentas, verá los detalles de la cuenta, como las ubicaciones y los usuarios del perfil PGA. Este proceso no se puede revertir.
+- Una vez completada la fusión de cuentas, verá los detalles de la cuenta, como las ubicaciones y los usuarios en el perfil PGA. Este proceso no se puede revertir.
 
 - Todos los identificadores de MPN para ubicaciones se conservan durante esta consolidación.
 
-- Los roles del usuario se han trasladado. Por ejemplo, si un usuario hubiera sido el administrador de incentivos para una ubicación específica, seguirá teniendo ese rol después de la fusión y podrá ver los incentivos que vio antes de la fusión.
+- Los roles del usuario se han trasladado. Por ejemplo, si un usuario hubiera sido el administrador de incentivos para una ubicación específica, seguiría teniendo ese rol después de la fusión y podrá ver los incentivos que vimos antes de la fusión.
 
 - Azure AD los inquilinos y las cuentas de CSP no se combinan y no tienen ningún impacto.
 
@@ -43,8 +41,7 @@ Dos o más compañías que son asociados de Microsoft activos y tienen cuentas e
 
 ### <a name="view-of-merged-accounts"></a>Vista de cuentas combinadas
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="Fusión de cuentas":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fusión de cuentas":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Qué esperar si se le ha invitado a fusionar mediante combinación la cuenta del centro de Partners con otra cuenta del centro de Partners
 
@@ -52,7 +49,7 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
 - Los usuarios se incorporarán a la cuenta combinada con sus roles intactos.
 
-- Las ventajas y las competencias existentes se conservarán para las dos compañías después de la fusión hasta la renovación. Al renovar las cuentas se tratarán como una empresa y se aplicarán las reglas de renovación estándar.
+- Las ventajas y las competencias existentes se conservarán para las dos compañías después de la fusión hasta la renovación. Durante la renovación, las cuentas se tratarán como una empresa y se aplicarán las reglas de renovación estándar.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Comprenda los efectos de los programas y beneficios cuando los asociados optan por combinar cuentas
 
@@ -62,11 +59,11 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
 - Durante la fusión de cuentas y hasta la próxima renovación, cada cuenta conservará sus beneficios de Action Pack y competencia. En el momento de la renovación, se aplican las reglas estándar de renovación de Action Pack y competencia.
 
-- En el momento de la renovación, se implementan las ventajas que se incluyen con la obtención de competencias y Action Pack para la cuenta global de socio comercial de la empresa asociada: 
+- En el momento de la renovación, se implementan las ventajas que se incluyen con la obtención de competencias y Action Pack para la cuenta global de socio comercial de la empresa asociada:
 
-    • Microsoft Action Pack: la empresa asociada podrá comprar una Action Pack por cuenta global para asociados.
+  - Microsoft Action Pack: la empresa asociada podrá comprar una Action Pack por cuenta global para asociados.
 
-    • Competencia: la empresa asociada recibirá un paquete de ventajas principales, asociado a su mayor logro, además de las ventajas específicas de la competencia, el asociado es válido para cada cuenta global de asociado. 
+  - Competencia: la empresa asociada recibirá un paquete de ventajas principales, asociado a su mayor logro, además de ventajas específicas para la competencia, el asociado es válido para cada cuenta global de socio comercial.
 
 - Todas las ventajas están sujetas a la [Guía de uso de Microsoft Partner Network beneficios](https://aka.ms/partner-benefits-use-guide). Por ejemplo: un token de O365 E3 activado es funcional durante doce (12) meses después de la activación. Una vez que se ha activado un token para puestos en un inquilino, es posible que esos puestos no se muevan a otro inquilino.
 
