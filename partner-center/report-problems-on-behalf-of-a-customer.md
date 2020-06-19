@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de Cuándo es conveniente remitir un problema de servicio al cliente a Microsoft y cómo archivar una incidencia de soporte técnico para él.
-ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf4dcadceeb6d16661faf0c458277f51833c55eb
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467385"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992043"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 

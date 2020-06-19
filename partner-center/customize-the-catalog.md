@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo personalizar el catálogo de Microsoft para facilitar el acceso a las ofertas de asociados o a los productos que usa la organización.
-ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa45de1d965f11beef993db3e1583c4cbc2ebae8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 293c7458f11f309609443a845c9d80de7512438c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907882"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991269"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Personalice Microsoft Catalog con ofertas o productos más adecuados para su organización
 
@@ -34,5 +33,5 @@ El catálogo muestra los productos y complementos de Microsoft disponibles para 
 
 **Personalizar el catálogo**
 
-1.  &gt; Vaya al menú del centro de Partners **vender** &gt; **Catálogo**.
+1.  Vaya al menú del centro de Partners &gt; **vender** &gt; **Catálogo**.
 2.  Elige hasta cinco ofertas para mostrarlas en la parte superior del catálogo.

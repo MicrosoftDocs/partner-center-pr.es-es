@@ -5,18 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a usar el centro de partners para comprobar el estado del servicio de un cliente cuando se produzca un problema con un servicio.
-ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Estado, estado del servicio, problemas de servicio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 345f85454b21eb339179f9f8bdf7bea376ce48ed
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458381"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991645"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Comprobación del estado del servicio de un cliente que informa de un posible problema o interrupción del servicio
 

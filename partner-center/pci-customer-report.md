@@ -5,18 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descubra formas de mejorar su negocio. Vea las tendencias de clientes específicas por geografía, producto y otros atributos.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, rendimiento, éxito de clientes, mediciones,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25659c32486629c8b19696c486bb89be54b9ad15
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: d9ccd23c0a028a8fb42d71cbf7db45f1a5497573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909073"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991951"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Informes del panel de clientes de información del centro de Partners
 

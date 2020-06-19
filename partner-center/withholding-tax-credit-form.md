@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Asegúrese de que la cuenta del centro de Partners tiene un crédito por retención de impuestos mediante la creación de una solicitud de retención de impuestos en el centro de Partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603854"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991661"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Asegúrese de que tiene un crédito por retención de impuestos si paga una autoridad fiscal local en lugar de Microsoft
 

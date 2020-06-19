@@ -5,17 +5,16 @@ ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizar las referencias en el centro de Partners con el CRM de Dynamics 365
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3b5170edaaadca3c4045e7ebed174b5d52b06bdd
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453252"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991653"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 

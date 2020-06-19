@@ -5,17 +5,16 @@ ms.date: 06/08/2020
 description: Obtenga información acerca de los archivos de conciliación en el centro de Partners y cómo interpretar las vistas detalladas del artículo de línea de los cargos de un ciclo de facturación determinado.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: f52c0b3d53fde6d5b5f68c54f8967e26a33b8c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603804"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991771"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -73,7 +72,7 @@ Para asignar impuestos o impuestos sobre el valor añadido (IVA) a la factura:
 
 Los asociados en el **modelo indirecto** pueden utilizar estos campos adicionales en los archivos de conciliación basados en la licencia y en el uso para que los revendan los archivos.
 
-| Identificador de MPN | Descripción |
+| Identificador de MPN | Description |
 | ------ | ----------- |
 | Identificador de MPN | Identificador Microsoft Partner Network (MPN) del asociado del proveedor de soluciones en la nube (CSP) (directo o indirecto). |
 | [Id. de MPN del revendedor](#reseller-mpn-id) | [Identificador de MPN del distribuidor de registro de la suscripción](#reseller-mpn-id). Este campo corresponde al ID. de distribuidor que se muestra para la suscripción específica del centro de Partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |

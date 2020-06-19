@@ -5,18 +5,17 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore la facturación al agregar nuevas suscripciones, ajustar la cantidad de licencias o cancelar una suscripción. Vea cómo difieren las suscripciones basadas en el uso y las licencias.
-ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: LauraBrenner
 ms.author: labrenne
 Keywords: facturación, pagos, pedidos, uso, facturación basada en licencias, fecha de aniversario, término, cancelación, renovación, fórmula de precio, archivo de conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fbc7ed35edf629266eab4806053c7aa77b93a4ed
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5337244ebdcb57418dd023669749ed618394ffa2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908181"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991605"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Escenarios comunes de facturación para los asociados de programas de CSP que trabajan en el centro de Partners
 

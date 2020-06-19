@@ -5,18 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es importante conocer los distintos riesgos implicados en las transacciones en línea, así como los procedimientos recomendados para administrar y mitigar estos riesgos.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: fraude, uso indebido, uso aceptable, Directiva de uso aceptable, no pago, el cliente no pagará la factura, el riesgo en línea, el robo del servicio, el abuso de servicio, la suspensión de una suscripción,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998451"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991905"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el Centro de partners
 

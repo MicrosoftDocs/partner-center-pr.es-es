@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Información del centro de Partners, informes, descargar informes
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793181"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072443"
 ---
 # <a name="download-reports"></a>Descargar informes
 
@@ -37,7 +37,8 @@ Para generar un informe, seleccione primero el informe en la lista desplegable *
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Informes generados":::
 
->Tenga en cuenta Solo los usuarios que sean ejecutivos de informes pueden descargar informes. Para más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [roles de PCI](pci-roles.md). 
+>[!NOTE] 
+>Solo los usuarios que sean ejecutivos de informes pueden descargar informes. Para más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [roles de PCI](pci-roles.md). 
 
 ## <a name="available-reports"></a>Informes disponibles
 

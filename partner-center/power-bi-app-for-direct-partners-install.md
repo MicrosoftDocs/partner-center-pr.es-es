@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679312"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072422"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
@@ -62,7 +62,7 @@ Antes de instalar la versión preliminar de la aplicación de análisis del cent
 
 5. En la página siguiente, escriba el nombre de usuario y la contraseña de Power BI y, a continuación, seleccione iniciar sesión.
 
-6. Instale el área de trabajo proporcionando workspacename.
+6. Instale el área de trabajo proporcionando el nombre del área de trabajo.
 
 7. Puede encontrar las aplicaciones de plantilla instaladas en la sección aplicaciones.
 

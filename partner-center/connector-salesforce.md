@@ -5,16 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizar las referencias en el centro de Partners con el CRM de Salesforce
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788779"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991624"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venta conjunta para Salesforce CRM: información general
 
@@ -29,7 +28,7 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 ## <a name="before-you-install---pre-requisites"></a>Antes de instalar: requisitos previos
 
-|**Tratados**   |**Detalles**   |**Vínculos**   |
+|**Temas**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
 |Venta conjunta lista|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 

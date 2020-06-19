@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión.
-ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e96a71eeb1404055099c3418f9c9531a97a67c2
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661658"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991804"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar una cuenta suspendida del centro de Partners: Aprenda por qué sucede y qué hacer con él.
 
