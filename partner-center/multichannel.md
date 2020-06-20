@@ -2,19 +2,19 @@
 title: Compatibilidad con varios canales para clientes
 description: En algunos casos, es posible que los clientes quieran contratar para aprovisionar y respaldar una suscripción que haya adquirido en otro lugar.
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991929"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104102"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Compatibilidad con varios canales: uso de otros socios para admitir las suscripciones de clientes adquiridas en otro lugar
 
@@ -35,8 +35,8 @@ La característica de varios canales del centro de Partners admite escenarios en
 
 - Adquirió las suscripciones de un tercero que no está en el programa proveedor de soluciones en la nube o no es un asociado de distribución de Microsoft. Los clientes no pueden cambiar las suscripciones basadas en licencias existentes a otro asociado en el programa proveedor de soluciones en la nube: deben esperar hasta el final de su período de suscripción o cancelar antes de moverse.
 
-| | |
-|---------|---------|
+|Para admitir estos servicios  | Haga esto: |
+|:---------|:---------|
 |Servicios basados en licencias    | Para proporcionar compatibilidad con cuentas de varios canales, debe solicitar permisos al cliente para administrar sus suscripciones. Para obtener más información, consulte [solicitud de una relación de revendedor con un cliente](request-a-relationship-with-a-customer.md).   |
 |Servicios basados en el uso     |  Para un cliente que ya tiene una suscripción a Microsoft Azure de otro canal, como Advisor, Open o EA, deberá crear una nueva suscripción de Azure en el centro de Partners, escribir manualmente los detalles de la suscripción y, a continuación, cancelar los servicios individuales o toda la suscripción. CSP de Azure puede coexistir con distintos canales.<br/><br/> Para un cliente que ya tiene una suscripción a Microsoft Azure de otro asociado, por ejemplo, puede cambiar los servicios de Azure al otro asociado.  Para obtener más información, consulta [Cambia suscripciones de Azure a otro partner](switch-azure-subscriptions-to-a-different-partner.md). |
 

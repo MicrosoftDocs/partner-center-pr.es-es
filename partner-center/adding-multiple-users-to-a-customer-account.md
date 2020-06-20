@@ -1,7 +1,7 @@
 ---
 title: Agregar varios usuarios para una cuenta de cliente
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo agregar varios usuarios a la cuenta de un cliente a la vez. Cargue un archivo de datos en el centro de Partners con el formato de archivo de valores separados por comas (. csv).
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: carga masiva, adición de varios usuarios a la cuenta de un cliente, adición de usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991085"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104125"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Agregar varios usuarios a una cuenta de cliente: cargar un archivo de datos en el centro de Partners
 
@@ -41,13 +41,12 @@ Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de ca
 
 Escribe los siguientes datos en el archivo de datos:
 
-|                 |                                                                              |                                            |
-|-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Nombre de la columna** | **Descripción**                                                              | **Limitación**                             |
-| Nombre      | Nombre del usuario (campo opcional)                                           | límite de 50 caracteres                         |
-| Apellido       | Los apellidos del usuario (campo opcional)                                            | límite de 50 caracteres                         |
+| **Nombre de la columna** | **Descripción**  | **Limitación**  |
+|:-------- |:------  |:----- |
+| Nombre  | Nombre del usuario (campo opcional)  | límite de 50 caracteres  |
+| Apellido  | Los apellidos del usuario (campo opcional)  | límite de 50 caracteres  |
 | Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | límite de 50 caracteres                         |
-| Correo electrónico           | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
+| Correo electrónico   | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
 | Actualización del estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Para crear varias cuentas de usuario
