@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908277"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198633"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquisición, aprovisionamiento, & administración de instancias reservadas de máquina virtual de Azure (RI) + suscripciones de servidor para clientes
 
 Se aplica a:
@@ -58,7 +56,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 - Azure Reserved VM Instances
 - Reservas de base de SQL
 - Instancia administrada de SQL
-- Azure Cosmos DB
+- Azure Cosmos DB
 - Azure SQL Data Warehouse
 - Servicios de aplicaciones
 - Azure Databricks reservas unitarias
@@ -133,7 +131,7 @@ Los eventos de preparación de licencias a petición incluyen temas como los sig
 
 Otro aprendizaje útil incluye el [módulo de licencias de Azure en Partner University](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operaciones
+### <a name="operations"></a>Operations
 
 - [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre directivas clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y servicios compartidos de asociados de Azure.
 - [Moderno ofrece la matriz de la moneda del cliente y la disponibilidad del país](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
