@@ -190,8 +190,9 @@
 ### [Migración de suscripciones de Kaizala Pro a Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Análisis y datos del Centro de partners
-## [Obtener y analizar los datos de tu negocio](data-analysis-lp.md)
-## [Aplicación de análisis de asociados para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Obtener acceso a análisis y datos de usuario](data-analysis-lp.md)
+## [Usar la aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Uso de la aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Información acerca del Centro de partners](partner-center-insights.md)
 ### [Conclusiones: panel de información general](pci-overview-report.md)
 ### [Conclusiones: control de acceso basado en roles para el panel de conclusiones](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [Introducción](partner-security-requirements.md)
 ## [Requerir MFA para el inquilino del asociado](partner-security-requirements-mandating-mfa.md) 
 ## [Estado de los requisitos](partner-security-compliance.md)
+## [Implementar los requisitos de seguridad para asociados](implement-security-requirements.md)
 ## [Preguntas más frecuentes](partner-security-requirements-faq.md)
 
-# Tutoriales
-## [Implementación de los requisitos de seguridad para asociados](tutorials/partner-security-requirements.yml)
