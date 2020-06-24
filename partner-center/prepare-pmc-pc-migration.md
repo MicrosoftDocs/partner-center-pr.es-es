@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328316"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749166"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Preparación para el cambio desde Partner Membership Center (PMC) al Centro de partners
 
@@ -91,7 +91,7 @@ No necesariamente, pero el contacto principal debe tener autorización para firm
 
 **¿Puede Microsoft migrar mi pertenencia a MPN?**
 
-No. Microsoft no puede ayudarte a migrar tu cuenta de pertenencia al Centro de partners. Tendrás que mover tu cuenta iniciando sesión en PMC con tu cuenta profesional (credenciales de inicio de sesión) para comenzar el proceso de migración. Una vez completados los pasos para mover tu cuenta, puedes empezar a administrar tu pertenencia y asignar roles y permisos de usuario a tu equipo para que puedan acceder a las ventajas y ayudar a administrar la pertenencia. Microsoft migrará automáticamente las competencias actuales, las ventajas, la información de ubicación, la información bancaria o fiscal para incentivos y las asociaciones de MCP, incluido el acceso a Partner University.
+No. Microsoft no puede ayudarte a migrar tu cuenta de pertenencia al Centro de partners. Tendrás que mover tu cuenta iniciando sesión en PMC con tu cuenta profesional (credenciales de inicio de sesión) para comenzar el proceso de migración. Una vez completados los pasos para mover tu cuenta, puedes empezar a administrar tu pertenencia y asignar roles y permisos de usuario a tu equipo para que puedan acceder a las ventajas y ayudar a administrar la pertenencia. 
 
 Microsoft migrará automáticamente las competencias actuales, las ventajas, la información de ubicación, la información bancaria o fiscal para incentivos y las asociaciones de MCP, incluido el acceso a Partner University.
 

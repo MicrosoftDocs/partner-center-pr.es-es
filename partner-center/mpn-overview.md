@@ -1,7 +1,7 @@
 ---
 title: Ventajas de la suscripción a Microsoft Partner Network
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtén información sobre las ventajas de asociarte con Microsoft, incluidas las opciones de Microsoft Action Pack, las competencias y los programas para diferenciar tu negocio, sacarlo al mercado y vender tus soluciones.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: partner, suscripción, MPN, Microsoft Partner Network, action pack, MAPS, MAP, suscripción a action pack, ventajas, ventajas de MPN, suscripción, silver, gold, competencias
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795951"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198613"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Partner de Microsoft: descubre las ventajas, cómo ayudar a los clientes y cómo impulsar el crecimiento empresarial.
 
@@ -32,8 +32,6 @@ Consulta [¿Por qué Microsoft?](https://partner.microsoft.com/business-opportun
 
 ## <a name="join-the-microsoft-partner-network"></a>Únete a Microsoft Partner Network.
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
-
 Microsoft Partner Network proporciona la gama más amplia de productos del sector, así como opciones de programas para diferenciar tu empresa, entrar en el mercado y vender tus soluciones. Únete sin costo alguno y, a continuación, elige cómo quieres invertir en tu asociación con un programa Microsoft Action Pack, Starter Kit o una competencia.
 
 Los productos Action Pack o Starter Kit proporcionan software y soporte técnico para compilar soluciones basadas en Microsoft, mientras que una competencia demuestra tu experiencia probada a clientes y partners.
@@ -45,8 +43,6 @@ Para obtener más información sobre Microsoft Partner Network (MPN), visita el 
 Para unirte a Microsoft Partner Network, ve a la [página **Pertenencia**](https://partner.microsoft.com/membership) en el sitio web de MPN y selecciona **Inscribir** o **Unirse ahora**.
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Hacer que la suscripción a Microsoft Partner Network trabaje para ti
-
-<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
 A medida que alcances tus objetivos empresariales, participarás en el programa en el nivel que se adapte a tus propias necesidades para acceder a más ventajas y desarrollarás tu relación con nosotros y con otros partners de la red.
 

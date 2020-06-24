@@ -1,7 +1,7 @@
 ---
 title: Obtención de privilegios de administrador para un cliente
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén los permisos que necesitas para administrar el servicio o la suscripción de un cliente en su nombre. Obtén información acerca de cómo se conceden, revocan y administran los permisos.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: privilegios de administrador delegado, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466785"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198603"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtención de permisos para administrar el servicio o la suscripción de un cliente
 
@@ -98,8 +98,6 @@ Cada suscripción de Azure tiene su propio conjunto de roles de administración 
 - Cuando un cliente quita privilegios administrativos delegadas de un partner mediante el Portal de Office 365, el partner sigue pudiendo administrar la suscripción de Azure del cliente, en tanto que el partner aún está asignado a uno o más roles en la suscripción. Para que el partner deje de administrar la suscripción de Azure, el cliente debe quitar la asignación de roles.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 Desde el Centro de partners, los partners de CSP pueden administrar perfiles de Autopilot para sus clientes sin privilegios de administrador delegado en estas circunstancias: 
 
