@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/15/2020
-ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/24/2020
+ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
+ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788729"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "85346721"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de junio de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+| Funcionalidades | [Actualización de características de la eliminación de relaciones del Centro de Partners](2020-june.md#5) | 29 de junio |
 | Funcionalidades | [Cambio de la frecuencia de facturación predeterminada de anual a mensual](2020-june.md#4) | 17 de junio |
 | Ofertas/mercados | [Cambios en Microsoft 365 F1](2020-june.md#3) | 15 de junio |
 | Funcionalidades | [Actualización de medios de las suscripciones de software de Windows Server para CSP](2020-june.md#2) | 12 de junio |
