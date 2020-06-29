@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453272"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679112"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft en el programa de partners de CSP
 
@@ -128,7 +128,10 @@ Sigue los pasos que se indican a continuación para crear un cliente nuevo en el
 
 3. En **Contrato de cliente**, selecciona la primera opción, que es **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Se pedirá al cliente que acepte el Contrato de cliente de Microsoft en el Centro de administración de Microsoft 365). Completa los demás campos obligatorios en la página.
 
-4. Selecciona **Siguiente: revisión** y sigue los pasos para crear el inquilino del cliente. (Nota: Los clientes nuevos no pueden hacer nuevas compras hasta que acepten el Contrato de cliente de Microsoft).  
+4. Selecciona **Siguiente: revisión** y sigue los pasos para crear el inquilino del cliente. 
+
+>[!NOTE] 
+>Los clientes nuevos no pueden hacer nuevas compras hasta que acepten el Contrato de cliente de Microsoft.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Crear un cliente nuevo":::
 

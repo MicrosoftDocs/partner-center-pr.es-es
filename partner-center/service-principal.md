@@ -11,16 +11,19 @@ Keywords: Azure, Azure plan, service principal, Azure AD application
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426004"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679392"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Incorporación de una aplicación de Azure AD (entidad de servicio) en el Centro de partners
 
-En el programa de Marketplace comercial del Centro de partners, ahora puedes agregar una aplicación de Azure AD (entidad de servicio) como usuario en tu cuenta del Centro de partners. (Antes podía hacerlo en la cuenta de Cloud Partner Portal, o CPP. Ahora que ha migrado al Centro de partners, la cuenta de CPP es de solo lectura). Ten en cuenta que entidad de servicio es sinónimo de aplicación de Azure AD.
+En el programa de Marketplace comercial del Centro de partners, ahora puedes agregar una aplicación de Azure AD (entidad de servicio) como usuario en tu cuenta del Centro de partners. (Antes podía hacerlo en la cuenta de Cloud Partner Portal, o CPP. Ahora que ha migrado al Centro de partners, la cuenta de CPP es de solo lectura).
+ 
+>[!Note] 
+>La entidad de servicio es sinónimo de aplicación de Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Incorporación de una aplicación de Azure AD (entidad de servicio)
 

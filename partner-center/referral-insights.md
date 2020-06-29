@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: referencia, analizar, análisis, métrica, conversión
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467455"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679432"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
@@ -39,13 +39,13 @@ También puedes expandir Filtros para filtrar todos los datos de esta página po
   - **Cualificado para marketing**: Creado a través de los sistemas de marketing de Microsoft.
   - **Cualificado para ventas**: Creado por un agente de ventas de Microsoft.
   - **No cualificado**: Referencia que no tiene ninguna medida de calidad asociada.
-- **Tipo de referencia**: El valor predeterminado es **Todos**, pero puedes elegir limitar los datos a referencias de tipo **Independiente** (aquellas con las que trabajarás directamente con el cliente para cerrarlas) o referencias de **Venta conjunta** (aquellas que incluyen a terceros que trabajarán en conjunto para cerrarlas).
+  - **Tipo de referencia**: El valor predeterminado es **Todos**, pero puedes elegir limitar los datos a referencias de tipo **Independiente** (aquellas con las que trabajarás directamente con el cliente para cerrarlas) o referencias de **Venta conjunta** (aquellas que incluyen a terceros que trabajarán en conjunto para cerrarlas).
 
 La información de todos los gráficos que aparecen a continuación reflejará el intervalo de fechas y los filtros que hayas seleccionado, excepto según se indique a continuación. Algunas secciones también te permiten aplicar filtros adicionales, como el filtrado a una solución específica.
 
 ## <a name="referrals-summary"></a>Resumen de las referencias
 
-En este gráfico, se muestra información general sobre el rendimiento de las referencias. Ten en cuenta que solo se aplican los filtros de intervalo de fecha a este gráfico; no se aplica ningún otro filtro. 
+En este gráfico, se muestra información general sobre el rendimiento de las referencias. Solo se aplican los filtros de intervalo de fecha a este gráfico; no se aplica ningún otro filtro. 
 
 En el gráfico se muestra el número total de referencias, el número que se ha ganado y el volumen total de las ofertas (en USD) para el período seleccionado. Al expandir el gráfico se muestran datos adicionales, como el desglose del origen de las referencias y la dirección de las referencias. 
 

@@ -1,21 +1,20 @@
 ---
-title: Consolidación de las cuentas de la empresa
+title: Consolidar las cuentas de la empresa
+description: Obtenga información acerca de cómo consolidar cuentas de Partner Membership Center (PMC) en una cuenta del Centro de partners. Se aplica a la migración de PMC al Centro de partners.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información acerca del proceso de consolidación de cuentas de Partner Membership Center (PMC) en una cuenta del Centro de partners. Se aplica a la migración de PMC al Centro de partners.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908143"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908663"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidación de las cuentas de empresa al migrar de PMC al Centro de partners
 
@@ -40,10 +39,9 @@ Al iniciar sesión en el Centro de partners por primera vez, se te agregará com
 
 5. Después de consolidar las cuentas, es posible que puedas optar a más competencias. Ahora es posible que también puedas optar a otros programas de incentivos.
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>¿Qué ocurre durante la consolidación de cuentas?
 
-- No se pueden cambiar los detalles en la pantalla de detalles de la empresa. Estos detalles corresponden a la cuenta global de asociado. 
+- No se pueden cambiar los detalles en la pantalla de detalles de la empresa. Estos detalles corresponden a la cuenta global de asociado.
 
 - Las cuentas de PMC se consolidarán en la cuenta global de asociado.
 
@@ -64,4 +62,3 @@ En PMC, cada ubicación podía tener sus propias competencias, sus propios MAP y
 En el Centro de partners, todas las cuentas de ubicación se consolidan en una cuenta global. Esto significa que también se consolidan todos los programas, ofertas y competencias de Comercialización. Los kits de herramientas de ventajas adicionales (ABTK) no estarán disponibles. Sin embargo, puede organizar la distribución de recursos, ofertas, programas y competencias de marketing según sea necesario para su empresa. Al realizar la consolidación, se proporciona una extensión. Esta extensión permite que su empresa disfrute de los recursos, las ofertas y los programas de marketing que usa en PMC durante un año adicional.
 
 Para obtener más información sobre las diferencias entre PMC y el Centro de partners, lee [Migrar de PMC al Centro de partners](guide-to-migration.md).
-

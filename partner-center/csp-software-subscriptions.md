@@ -1,7 +1,7 @@
 ---
 title: Venta de suscripciones de software a través de CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para comprar, administrar, vender y cancelar instancias reservadas de Azure y las suscripciones de servidor para los clientes.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software, cancelar software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907955"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267192"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907955"
 - Agente de administrador
 - Administrador global
 
-Con las reservas de Azure y las suscripciones de servidor (Windows Server y SQL Server), los partners del programa CSP pueden solucionar mejor la creciente demanda que los clientes hacen de soluciones más rentables para soportar cargas de trabajo en la nube altamente predecibles y persistentes. 
+Con las reservas de Azure y las suscripciones de servidor (Windows Server y SQL Server), los partners del programa CSP pueden solucionar mejor la creciente demanda que los clientes hacen de soluciones más rentables para soportar cargas de trabajo en la nube altamente predecibles y persistentes. 
 
 Ahora puedes adquirir, aprovisionar y administrar reservas de Azure y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners y Azure Portal aprovechando la Ventaja híbrida de Azure.
 
@@ -36,10 +36,12 @@ La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias d
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados no disponibles de reservas de Azure
 
->[!IMPORTANT] 
->Las reservas de Azure *no están* disponibles en los mercados siguientes:  
+>[!IMPORTANT]
+>Las reservas de Azure **no están** disponibles en los mercados siguientes:  
 >  
-> | Mercados no disponibles | &nbsp; | &nbsp; |
+> **Mercados no disponibles (en orden alfabético)**
+>
+> |A a Gi   | Gr a Pal  | Pap a Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Islas Åland     | Groenlandia     | Papúa Nueva Guinea     |
 > | Samoa Americana     | Granada     | Islas Pitcairn     |
@@ -78,8 +80,6 @@ La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias d
 > | Gabón     | Isla Norfolk     | Yemen   |
 > | Gambia     | Islas Marianas del Norte     |    |
 > | Gibraltar     | Palaos       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Compra de suscripciones de software en nombre de clientes
 
@@ -114,6 +114,10 @@ Después de adquirir la suscripción de software, sigue los pasos que se indican
 
 >[!NOTE]
 >Este vínculo expirará después de dos semanas o 50 descargas, lo que ocurra primero. Una vez que expire el vínculo, vuelve a esta página y selecciona **Obtener descargas y claves** otra vez para habilitar otras dos semanas o 50 descargas. Puedes hacerlo tantas veces como sea necesario. 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Claves de licencia y descarga de suscripción de servidor disponibles a través del Centro de administración de Microsoft 365 para clientes 
+
+Los clientes podrán obtener las claves de licencia de suscripción y descargas del servidor de CSP desde el Centro de administración de Microsoft 365. Para ver las claves de licencia y las descargas de su suscripción de servidor de CSP, el cliente debe ir al Centro de administración de Microsoft 365 > **Facturación > Sus productos > pestaña Software**. Para obtener más información, consulte la [pestaña Software en Facturación](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualización de la actividad de acceso a claves de software y descargas de software
 
@@ -173,7 +177,9 @@ Al intentar cancelar un pedido, el Centro de partners también puede proporciona
 - Si necesitamos más información sobre la solicitud de cancelación, puedes recibir un vínculo a un formulario de **solicitud de soporte al cliente**.
 
 >[!IMPORTANT]
->Después de cancelar un pedido, aparecerá un mensaje que confirma la cancelación. No obstante, puede haber un retraso de hasta 15 minutos antes de que la cancelación aparezca en el panel del Centro de partners. Ten en cuenta también los siguientes detalles posteriores a la cancelación.
+>Después de cancelar un pedido, aparecerá un mensaje que confirma la cancelación. No obstante, puede haber un retraso de hasta 15 minutos antes de que la cancelación aparezca en el panel del Centro de partners. 
+
+### <a name="post-cancellation-details"></a>Detalles posteriores a la cancelación
 
 Después de cancelar una compra:
 
@@ -187,9 +193,9 @@ Después de cancelar una compra:
 
 Si has intentado cancelar una compra de software a través del Centro de partners, pero se te ha indicado que proporciones más información y que rellenes el formulario de solicitud de soporte al cliente, estos pasos pueden ayudarte:
 
-1. Al seleccionar el vínculo de **solicitud de soporte al cliente** en la ventana de cancelación de la compra, se abrirá la página para notificar un problema con el Centro de partners.
+1. Al seleccionar el vínculo de **solicitud de soporte al cliente** en la ventana de cancelación de la compra, se abrirá la página para **notificar un problema con el Centro de partners**.
 
-2. En Detalles, en la lista Tipo de problema, selecciona **Compra de CSP/Reembolso en nombre de clientes**.
+2. En **Detalles**, en la lista Tipo de problema, seleccione **Compra de CSP/Reembolso en nombre de clientes**.
 
 3. Rellena los campos de impacto y título.
 
@@ -208,3 +214,9 @@ Si has intentado cancelar una compra de software a través del Centro de partner
 6. Si tienes que adjuntar un archivo por cualquier motivo, selecciona **Agregar archivos**. Este paso es opcional.
 
 7. Cuando hayas terminado, selecciona **Enviar**.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Usar el Centro de partners para vender suscripciones de clientes a productos de Marketplace comercial](sell-marketplace-products.md)
+ 
+- [Asignar suscripciones de Azure a los clientes en el Centro de partners](assign-azure-subscriptions.md)

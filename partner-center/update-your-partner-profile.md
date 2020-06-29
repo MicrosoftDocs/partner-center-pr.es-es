@@ -3,20 +3,20 @@ title: Comprobación de tu perfil de partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo comprobar la información de tu empresa, como el contacto principal, la dirección y la información del programa. También puedes actualizar el domicilio legal y la dirección de facturación.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595391"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991984"
 ---
-# <a name="verify-your-partner-profile-information"></a>Comprobación de la información del perfil de partner
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Comprobación de la información del perfil de partner en el Centro de partners
 
 La primera vez que inicies sesión en el Centro de partners como administrador global, tienes que confirmar que todos los detalles de la compañía son correctos. Estos incluyen el contacto principal, la denominación y la dirección legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos.
 

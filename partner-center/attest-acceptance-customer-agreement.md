@@ -1,7 +1,7 @@
 ---
 title: Atestación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Conoce las situaciones en las que tiene sentido dar fe de la aceptación del Contrato de cliente de Microsoft en nombre del cliente.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cliente, clientes, consentimiento, MCA, Contrato de Microsoft Cloud, Contrato de cliente de Microsoft, plantillas de contrato de cliente, atestación de la aceptación
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452722"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909023"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestación de la aceptación del Contrato de cliente de Microsoft en nombre del cliente
 
@@ -46,7 +46,7 @@ Actualmente, hay dos escenarios en los que es posible que los clientes no puedan
 
 **Para resolverlo**: debes dar fe en nombre del cliente.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Cliente":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Captura de pantalla de la página del centro de administración de Microsoft 365 que le pide que se una a su partner para confirmar la aceptación del Contrato de cliente de Microsoft.":::
 
 **Escenario 2**: un cliente existente que ha adquirido cualquiera de las siguientes ofertas, software y suscripciones de software, instancias reservadas y plan de Azure. Dicho cliente ahora intenta realizar una nueva compra con un nuevo partner.
 
@@ -54,4 +54,4 @@ Cuando el cliente haga clic en la dirección URL del Centro de administración d
 
 **Para resolverlo**: debes dar fe en nombre del cliente.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Cliente":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Captura de pantalla de la página Autorizar partner con la opción Autorizar para seleccionar: muestra los detalles de un partner específico, su relación y sus roles de administrador.":::

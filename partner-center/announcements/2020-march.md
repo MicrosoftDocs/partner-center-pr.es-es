@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254002"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678932"
 ---
 # <a name="march-2020-announcements"></a>Anuncios de marzo de 2020
 
@@ -104,7 +104,8 @@ Hay disponibles nuevas funcionalidades para transferir las suscripciones de CSP 
 
 Revise la página de [ofertas de CSP](https://docs.microsoft.com/partner-center/csp-offers) para más información.
 
-Nota: Las transferencias solo admitirán suscripciones basadas en licencias y suscripciones de Azure. Tendrá que transferir manualmente el plan de Azure y las compras de marketplace comercial. Tenga en cuenta que esto implica la cancelación y renovación de las suscripciones que se describen en los siguientes documentos: [Plan de Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) y [marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Dado que las suscripciones de servidor y las reservas de Azure son una compra única, no es necesario transferirlas a un inquilino de proveedor indirecto. Visite la página de ofertas de CSP para más información.
+>[!NOTE] 
+>Las transferencias solo admitirán suscripciones basadas en licencias y suscripciones de Azure. Tendrá que transferir manualmente el plan de Azure y las compras de marketplace comercial. Tenga en cuenta que esto implica la cancelación y renovación de las suscripciones que se describen en los siguientes documentos: [Plan de Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) y [marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Dado que las suscripciones de servidor y las reservas de Azure son una compra única, no es necesario transferirlas a un inquilino de proveedor indirecto. Visite la página de ofertas de CSP para más información.
 
 ### <a name="additional-resources"></a>Recursos adicionales:
 
@@ -209,7 +210,8 @@ Como parte de nuestro compromiso continuo con las prácticas empresariales confo
 - Para reducir los retrasos en la investigación de errores de verificación de entradas legítimas, asegúrate de especificar datos de cliente que sean **precisos** y tan **completos** como sea posible. No proporcione datos de prueba o ficticios.
 - Revise la **guía para la creación de clientes de Education del Centro de partners** y la **página Agregar nuevo cliente**, donde se indica lo que se requiere para crear un nuevo cliente de Education en el Centro de partners. Ambos se pueden encontrar en la galería de recursos siguiente.
 
-**NOTA:** Ahora la **guía para la creación de clientes de Education en el Centro de partners** incluye instrucciones paso a paso para corregir la información de los clientes y volver a enviarla si no ha sido posible la verificación del cliente.
+>[!NOTE] 
+>Ahora la **guía para la creación de clientes de Education en el Centro de partners** incluye instrucciones paso a paso para corregir la información de los clientes y volver a enviarla si no ha sido posible la verificación del cliente.
 
 **Pasos siguientes/Recursos adicionales:**
 
@@ -218,7 +220,7 @@ Colección de la Galería de recursos de actualizaciones del programa CSP: [Camb
 ### <a name="change-log"></a>Registro de cambios:
 
 - Fecha de publicación original: 19 de diciembre de 2019
-- Nota para ponerse en contacto con el servicio de soporte técnico si se ha quitado un nuevo partner que vende ofertas educativas (ya no es necesario): 13 de enero de 2020
+- Para ponerse en contacto con el servicio de soporte técnico si se ha quitado un nuevo partner que vende ofertas educativas (ya no es necesario): 13 de enero de 2020
 - Actualización de febrero de 2020 agregada: 10 de febrero de 2020
 - Aviso de una nueva funcionalidad para corregir información de cuentas de clientes y volver a enviarla para su verificación: 10 de marzo de 2020
 

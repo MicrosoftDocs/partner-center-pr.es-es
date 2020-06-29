@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, migration, moving to Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453242"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679092"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
@@ -27,7 +27,7 @@ El sitio web para partners de Microsoft en partner.microsoft.com es una experien
 
 La oferta Partner Membership Center (PMC) se está retirando. Tu empresa ha recibido una invitación para migrar la administración de su pertenencia a Microsoft Partner Network al Centro de partners. Esta guía te preparará para las expectativas durante la migración de PMC al Centro de partners.
 
->[!Note]
+>[!NOTE]
 >Aunque tu empresa tenga más de una cuenta o ubicación, la migración al Centro de partners comienza con el cambio de una (tu primera) cuenta al Centro de partners.
 
 ## <a name="get-started"></a>Introducción
@@ -51,7 +51,7 @@ Selecciona **Introducción** en la invitación. Se te dirigirá a la página de 
 
 Si tu empresa no tiene un correo electrónico del trabajo ni un inquilino de AAD, podemos ayudarte a configurarlos durante el proceso de inicio de sesión en del Centro de partners. Si intentas iniciar sesión con una cuenta de correo electrónico que no es del trabajo (por ejemplo, una cuenta personal), se te indicará que proporciones información sobre la empresa para que podamos configurar un inquilino de AAD y un correo electrónico del trabajo. Estos detalles de la empresa se usarán para finalizar la cuenta en Centro de partners, por lo que debes asegurarte de que sean correctos.
 
->[!Note]
+>[!NOTE]
 >Si eres un partner de China y estás inscrito en Microsoft Partner Network y en el programa Proveedor de soluciones en la nube (CSP), tendrás un inquilino diferente para cada cuenta. Tu cuenta con el programa Proveedor de soluciones en la nube se administra en la nube nacional y la cuenta de Microsoft Partner Network se administra en la nube global. Las dos cuentas no pueden estar vinculadas.
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="Háblenos de su empresa":::
@@ -74,11 +74,16 @@ Cuando se crea tu nuevo inquilino de Azure AD, puedes invitar a los empleados a 
 
 :::image type="content" source="images/migration/invite.png" alt-text="Invitar a empleados":::
 
-Si has iniciado sesión con un inquilino de AAD existente, los empleados se habrán migrado contigo. En este caso, asigna a tus empleados roles que determinen lo que pueden hacer en el Centro de partners. Nota: Los roles del Centro de partners son diferentes de los roles de PMC. Para obtener más información, consulta [Migración de PMC al Centro de partners](move-pmc-pc-map.md).
+Si has iniciado sesión con un inquilino de AAD existente, los empleados se habrán migrado contigo. En este caso, asigna a tus empleados roles que determinen lo que pueden hacer en el Centro de partners. 
+
+>[!NOTE] 
+>Los roles del Centro de partners son diferentes de los roles de PMC. Para obtener más información, consulta [Migración de PMC al Centro de partners](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Comprobar el dominio y convertirse en administrador global  
 
-Si el inquilino de AAD es nuevo, no se asigna a nadie el rol de administrador global. Para convertirse en el administrador global, debes comprobar la propiedad del dominio. Es posible que necesites la ayuda del administrador del dominio. Ten en cuenta que, aunque puedes usar las ofertas que ya has comprado, no podrás comprar nuevas ofertas hasta que completes el paso de obtención de un administrador global.
+Si el inquilino de AAD es nuevo, no se asigna a nadie el rol de administrador global. Para convertirse en el administrador global, debes comprobar la propiedad del dominio. Es posible que necesites la ayuda del administrador del dominio.
+
+Aunque puede usar las ofertas que ya ha comprado, no podrá comprar nuevas ofertas hasta que complete el paso de asignación de un administrador global.
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="Tomar el control":::
 

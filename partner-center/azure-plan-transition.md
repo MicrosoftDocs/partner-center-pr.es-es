@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452592"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908963"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transición de clientes al plan de Azure desde ofertas de CSP de Azure existentes
 
@@ -41,11 +41,11 @@ Puedes hacer la transición de un cliente desde sus ofertas existentes de Azure 
 
 2. Selecciona la **transición de facturación al plan de Azure**.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="Transición":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Captura de pantalla que muestra el informe con datos de suscripciones basadas en el uso con una opción seleccionable denominada: Transición de facturación de suscripciones de Azure al plan de Azure.":::
 
 3. Selecciona **Continue** (Continuar)
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Transición":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Cuadro de diálogo titulado Transición al plan de Azure con implicaciones para leer sobre la transición y dos opciones para seleccionar, Continuar o Cancelar.":::
 
    Tu cliente cambiará al plan de Azure.
 
@@ -63,7 +63,7 @@ Puedes hacer la transición de un cliente desde sus ofertas existentes de Azure 
 
 4. Regresa a la página de **suscripciones**  del Centro de partners del cliente para actualizar el límite de presupuesto con su moneda local.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Transición":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Vista parcial de la página de suscripciones del Centro de partners con los límites de presupuesto establecidos en la moneda local para un período de facturación.":::
 
    >[!NOTE]
    >El presupuesto que establezcas en el Centro de partners no se transferirá a Azure Portal. Recuerda que también debes establecer el presupuesto y la alerta en Azure Portal.
@@ -77,7 +77,7 @@ Puedes hacer la transición de un cliente desde sus ofertas existentes de Azure 
 
 Sigue el progreso de la transición en Azure Portal, así como en el Centro de partners.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Mostrar detalles":::
+:::image type="content" source="images/azure/details1.png" alt-text="Captura de pantalla que muestra la tabla con una lista de detalles de transición por suscripción: incluye el identificador de suscripción, la fecha de transición y el estado de la transición.":::
 
 ### <a name="billing-impact-to-partners"></a>Impacto de la facturación en los partners
 
@@ -100,7 +100,7 @@ La suscripción a "Microsoft Azure" (0145P) consta de dos partes:
 
 Cuando se completa la transición, la suscripción de Azure se administra en función del nuevo plan de Azure, y la suscripción comercial se suspende para que no se notifique ningún uso adicional.  
 
->[!Note]
+>[!NOTE]
 >Cuando la suscripción de Microsoft Azure (0145P) se compra en CSP, tanto la suscripción comercial como la de Azure (derecho) tienen el mismo valor. Solo en el caso de realizar cambios o transferencias en la propiedad de facturación difieren los valores.
 
 ### <a name="transition-issues"></a>Problemas de transición

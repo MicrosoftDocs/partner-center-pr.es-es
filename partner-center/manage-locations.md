@@ -1,7 +1,7 @@
 ---
 title: Administración de las ubicaciones en tu cuenta de partner
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo agregar una nueva ubicación en el Centro de partners, y cómo se usa el id. de MPN de ubicación en programas de incentivos, negocios de CSP, suscripciones y otras transacciones.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: cuenta de partner, ubicaciones
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453212"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909063"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de partner en el Centro de partners y adición de una nueva ubicación
 
@@ -54,12 +54,12 @@ Los usuarios pueden tener roles que traspasen ubicaciones. Por ejemplo, el admin
 
 1. En la página **Ubicaciones**, comprueba la lista de ubicaciones para asegurarte de que se muestra la ubicación que quieres como entidad jurídica. Si no es así, agrégala.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Actualizar la ubicación de la empresa":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Captura de pantalla de la página de ubicaciones de cuentas del Centro de Partners con una lista de todas las ubicaciones actuales.":::
 
 2. Selecciona **Perfil del partner** y luego **Update legal business profile** (Actualizar perfil de denominación legal de la empresa).
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Actualizar la ubicación de la empresa":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Captura de pantalla que muestra información del perfil del partner de cuenta del Centro de Partners con la opción de actualización seleccionable.":::
 
 3. Selecciona la región, la entidad jurídica y **Enviar**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Actualizar la ubicación de la empresa":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Captura de pantalla para actualizar el perfil de dominación legal de la empresa del partner que muestra listas desplegables para actualizar el país o la región y la entidad legal.":::

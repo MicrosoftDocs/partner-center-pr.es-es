@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253972"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749135"
 ---
 # <a name="february-2020-announcements"></a>Anuncios de febrero de 2020
 
@@ -77,7 +77,10 @@ Esta nueva funcionalidad significa que los [partners ahora tienen dos opciones](
 
 Los partners pueden saber si los clientes han aceptado el nuevo contrato con la nueva funcionalidad disponible en el panel del Centro de partners o con [esta nueva API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
-Desde el 1 de febrero de 2020, es obligatorio que los partners confirmen la aceptación del Contrato de cliente de Microsoft por parte de sus clientes para poder realizar nuevos pedidos de ofertas de CSP en todas las regiones de la nube pública de Microsoft. Los partners del programa CSP ya no pueden realizar compras nuevas, incluidos cambios de puestos y renovaciones de adquisiciones actuales, sin confirmar que el cliente ha aceptado el Contrato de cliente de Microsoft por medio de alguna de estas opciones. Nota: Las renovaciones automáticas no se verán afectadas.
+Desde el 1 de febrero de 2020, es obligatorio que los partners confirmen la aceptación del Contrato de cliente de Microsoft por parte de sus clientes para poder realizar nuevos pedidos de ofertas de CSP en todas las regiones de la nube pública de Microsoft. Los partners del programa CSP ya no pueden realizar compras nuevas, incluidos cambios de puestos y renovaciones de adquisiciones actuales, sin confirmar que el cliente ha aceptado el Contrato de cliente de Microsoft por medio de alguna de estas opciones.
+ 
+>[!Note] 
+>Las renovaciones automáticas no se verán afectadas.
 
 ### <a name="next-steps"></a>Pasos siguientes:
 
@@ -191,7 +194,9 @@ Si es un partner que utiliza actualmente las directivas de línea de base:
 Proveedores indirectos:
 
 - Informe a sus revendedores del programa CSP de Microsoft sobre el cambio ([use esta plantilla de correo electrónico](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Asegúrese de que los revendedores habiliten los valores predeterminados de seguridad si actualmente usan directivas de línea de base.
-- Nota: Microsoft también informará directamente a sus revendedores que usan actualmente las directivas de línea de base y tienen información de contacto en el Centro de partners.
+
+>[!Note] 
+>Microsoft también informará directamente a sus revendedores que usan actualmente las directivas de línea de base y tienen información de contacto en el Centro de partners.
 
 Si tiene alguna pregunta sobre los requisitos de seguridad para partners, consulte otros recursos [aquí](https://aka.ms/security-requirements).
 
@@ -274,9 +279,8 @@ La [nueva experiencia comercial de Azure en el programa CSP](https://blogs.partn
 - Permiten a los partners recuperar los tipos de cambio mensuales para las monedas de facturación admitidas en la nueva experiencia (plan de Azure).
 - Ofrecen la posibilidad de recuperar los precios o los tipos de cambio del mes actual o de meses anteriores.
 
-Nota:
-
-- Se trata de un recurso de API nuevo específico para los precios de los planes de Azure.
+>[!Note] 
+>Se trata de un recurso de API nuevo específico para los precios de los planes de Azure.
 - La [API RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) actual debe seguir utilizándose para los recursos o las reservas de Azure que se hayan implementado en suscripciones de Azure anteriores que no formen parte de un plan de Azure.
 - Estas API se encuentran en un punto de conexión (un dominio que hospeda las API) diferente al de las API del Centro de partners.
 
@@ -345,7 +349,7 @@ _________________
 
 El nuevo [Contrato de cliente de Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) del programa Proveedor de soluciones en la nube (CSP) estará disponible en octubre de 2019 y reemplazará al Contrato de Microsoft Cloud existente. El contrato de cliente nuevo y simplificado proporciona términos de compra coherentes para todos los clientes, independientemente de la forma en la que elijan realizar la compra.
 
-**A partir del 1 de febrero de 2020, se necesitan proveedores indirectos y de facturación directa en CSP para confirmar la aceptación del cliente del Contrato de cliente de Microsoft para las ofertas de CSP en la nube pública de Microsoft.** Sin la confirmación por parte del cliente para el nuevo contrato, los partners no podrán realizar una nueva compra para el cliente, lo que incluye los cambios en los puestos y la renovación de las compras existentes a partir de esa fecha. (Nota: La renovación automática no se verá afectada).
+**A partir del 1 de febrero de 2020, se necesitan proveedores indirectos y de facturación directa en CSP para confirmar la aceptación del cliente del Contrato de cliente de Microsoft para las ofertas de CSP en la nube pública de Microsoft.** Sin la confirmación por parte del cliente para el nuevo contrato, los partners no podrán realizar una nueva compra para el cliente, lo que incluye los cambios en los puestos y la renovación de las compras existentes a partir de esa fecha. (La renovación automática no se verá afectada).
 
 Los partners pueden presentar el nuevo contrato a los clientes igual que lo hicieron con el Contrato de Microsoft Cloud existente. Una vez que el cliente haya revisado y aceptado el contrato, los partners deben confirmar esa aceptación en el Centro de partners. La interfaz de usuario web del Centro de partners, la API y el SDK de .NET se han actualizado para admitir el nuevo contrato.
 
@@ -357,10 +361,8 @@ Para más información, consulte los recursos sobre el Contrato de cliente de Mi
 - Los partners que usan las API del Contrato de Microsoft Cloud existente deben revisar su implementación existente con la [API actualizada](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
 - Enseñe a sus agentes y revendedores los [nuevos términos del contrato](https://www.microsoft.com/licensing/docs/customeragreement), cómo presentarlo y cómo validar la aceptación por parte de los clientes.
 
-### <a name="note"></a>Nota:
-
-- La aceptación de los clientes del Contrato de cliente de Microsoft también es necesaria para las compras con la [nueva experiencia de comercio del programa CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), que se lanzó en noviembre de 2019.
-- En el primer trimestre de 2020, los partners de CSP también comenzarán a ver la opción adicional en el Centro de partners que permitirá a los partners invitar a los clientes a un portal de Microsoft autenticado (Centro de administración de Microsoft 365), y donde los clientes podrán ver y firmar el Contrato de cliente de Microsoft directamente.
+>[!NOTE] 
+>La aceptación de los clientes del Contrato de cliente de Microsoft también es necesaria para las compras con la [nueva experiencia de comercio del programa CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/), que se lanzó en noviembre de 2019. En el primer trimestre de 2020, los partners de CSP también comenzarán a ver la opción adicional en el Centro de partners que permitirá a los partners invitar a los clientes a un portal de Microsoft autenticado (Centro de administración de Microsoft 365), y donde los clientes podrán ver y firmar el Contrato de cliente de Microsoft directamente.
 
 ### <a name="change-log"></a>Registro de cambios:
 

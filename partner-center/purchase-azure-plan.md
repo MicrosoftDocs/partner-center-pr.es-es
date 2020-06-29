@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo comprar una o varias suscripciones y reservas de Azure, cómo configurar los recursos, y cómo ver o agregar suscripciones.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467525"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909133"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre el plan de Azure para clientes y acceda a los servicios de Azure más recientes con tarifas de pago por uso
 
@@ -78,7 +77,8 @@ Las reservas de Azure deben estar asociadas con un plan de Azure activo. Elige e
 >[!Important] 
 >Si el cliente aún no tiene un plan de Azure activo, selecciona Azure para agregar uno ahora. Para obtener más instrucciones, consulta [Comprar reservas de Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Ten en cuenta que el ámbito de la reserva solo se puede establecer en **Compartido**, actualmente. 
+>[!Note] 
+>El ámbito de la reserva solo se puede establecer en **Compartido**, actualmente. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuración de reservas de ámbito compartido":::
 
