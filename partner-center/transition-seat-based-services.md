@@ -1,20 +1,20 @@
 ---
 title: Trasladar a los clientes basados en licencias al programa CSP
+description: Obtenga información acerca de cómo trasladar a los clientes basados en licencias de otros canales o de otro asociado al programa del proveedor de soluciones en la nube (CSP) en el centro de Partners.
 ms.topic: article
-ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo trasladar a los clientes basados en licencias de otros canales o de otro asociado al programa del proveedor de soluciones en la nube (CSP) en el centro de Partners.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1943c72273db158b9f566024d5d29f0a8aca70ec
-ms.sourcegitcommit: 562535a4b16a8217c1e1945b7663ca3735e1ee27
+ms.date: 06/19/2020
+ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85133091"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678931"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Traslade a los clientes basados en licencias de otros canales & asociados al programa proveedor de soluciones en la nube.
 
@@ -33,7 +33,7 @@ Si el cliente desea contratar a varios asociados, transferir sus suscripciones a
 3. El cliente puede permitir que las suscripciones originales expiren o las cancele. Sin embargo, dado que no hay reintegros en suscripciones canceladas, es mejor esperar hasta que las suscripciones estén cerca de las fechas de expiración naturales.
 
 >[!NOTE]
->El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges). 
+> El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges.md). 
 
 4. El cliente seguirá adelante con las suscripciones que ha aprovisionado sin interrupción.
 
@@ -42,12 +42,9 @@ Si aprovisiona las mismas ofertas que las ofertas que el cliente ha estado usand
 Si transfiere a los clientes que están en ofertas que se ha interrumpido, tendrá que encontrar una oferta equivalente para evitar la pérdida de datos. Si traslada al cliente a una oferta diferente, tendrá que actualizar la asignación de su licencia.
 
 >[!NOTE]
->Usted, el asociado de CSP, debe estar en la misma región que el inquilino del cliente para realizar la transición de ese cliente.
+> Usted, el asociado de CSP, debe estar en la misma región que el inquilino del cliente para realizar la transición de ese cliente.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Comience a usar tarifas de pago por uso con el plan de Azure](azure-plan-get-started.md)
- 
 - [Diferentes formas de trabajar con otros asociados en el centro de Partners](work-with-other-partners.md)
-
-
