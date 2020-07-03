@@ -1,7 +1,7 @@
 ---
 title: Administrar productos de Marketplace & ofertas
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Con el centro de Partners, obtenga información sobre cómo los proveedores de soluciones en la nube pueden administrar ofertas de ISV de terceros compradas para clientes del Marketplace comercial.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: suscripciones, Marketplace, terceros, ISV, ofertas de SaaS, programa del proveedor de soluciones en la nube, administración de una oferta, administración de una suscripción, licencias, cancelación de una suscripción, puestos, desactivación de la renovación automática, revendedor indirecto ID MPN
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908102"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937632"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Administrar productos y ofertas comerciales de Marketplace para sus clientes
 
@@ -64,11 +64,14 @@ El publicador debe proporcionarle un vínculo personalizado y un código de auto
 
 1. Puede encontrar este vínculo personalizado en el publicador de ISV de varias maneras:
 
-    - Puede ver el vínculo de la página de confirmación que aparece después de comprar una oferta de SaaS de ISV.
+   - Puede ver el vínculo de la página de confirmación que aparece después de comprar una oferta de SaaS de ISV. Para encontrar este vínculo en la página, busque y seleccione **ir al sitio del editor**.
 
-    - Puede ver el vínculo desde la página suscripciones del cliente específico. Este vínculo de publicador aparece en la fila asociada a la oferta de ISV o a la suscripción adquirida para el cliente.
+   - Puede ver el vínculo desde la página suscripciones del cliente específico. Este vínculo de publicador aparece en la fila asociada a la oferta de ISV o a la suscripción adquirida para el cliente.
 
-    - Puede [recuperar el vínculo mediante las API del centro de Partners](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Puede [recuperar el vínculo mediante las API del centro de Partners](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+
+   > [!NOTE]
+   > Para ello en nombre del cliente, es posible que tenga que copiar el vínculo personalizado, pegarlo en un explorador privado y especificar las credenciales del cliente.
 
 2. Una vez que se encuentre en el sitio o el sistema del publicador de ISV, el publicador le informará de los pasos adicionales que debe seguir para completar el proceso de configuración del cliente y aprovisionar o asignar licencias.
 

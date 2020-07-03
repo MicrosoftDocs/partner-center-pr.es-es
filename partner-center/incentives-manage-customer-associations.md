@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719426"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879484"
 ---
 # <a name="manage-customer-associations"></a>Administrar asociaciones de clientes
 
@@ -69,17 +69,19 @@ Estos son los Estados y su significado:
 
 - Faltan productos: la PoE no incluyen un producto o carga de trabajo que se está notificando. 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Conflicto del estado de una declaración de Asociación de CPOR
 
-Para cuestionar el estado de una declaración de Asociación de CPOR, póngase en contacto con el [soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)y proporcione el equipo de soporte técnico con la siguiente información:
+Si se rechaza la petición de Asociación de CPOR, tiene 30 días para cuestionar el rechazo. El correo electrónico que recibe le notifica el rechazo también le indica dónde puede ver el motivo del rechazo y cómo cuestionarlo.  
 
-- Identificador de MPN
-- Nombre del programa de incentivos 
-- Identificador de notificaciones de asociación de CPOR 
-- Producto: por Business Applications, proporcione los productos y las suscripciones de Dynamics. Para M365, proporcione cargas de trabajo. 
-- Identificador de inquilino de cliente
-- Detalles del problema
+Si han transcurrido 30 días y aún desea disfrutar de una demanda rechazada, deberá enviar una nueva asociación con la prueba de ejecución actualizada (PoE). 
+
+### <a name="to-dispute-a-rejected-claim"></a>Para cuestionar una demanda rechazada
+
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
+2. Abra la demanda de la que desea hacer una disputa.
+3. En la página de notificaciones, seleccione **conflicto**.
+4. Escriba una justificación comercial o una PoE actualizada que explique por qué se debe volver a considerar el rechazo.
+5. Cuando haya terminado de agregar información, seleccione **conflicto**. Nuestros revisores deben ponerse en contacto con usted con los resultados en un plazo de 5 días laborables.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivos por los que se rechaza una petición de Asociación de CPOR
 

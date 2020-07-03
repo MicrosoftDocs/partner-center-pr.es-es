@@ -1,8 +1,8 @@
 ---
-title: Inscribirse en el programa Proveedor de soluciones en la nube
+title: Inscribirse en el programa CSP
 ms.topic: article
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-ms.date: 06/15/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los requisitos del programa de CSP para los asociados que desean inscribirse en el programa proveedor de soluciones en la nube para Microsoft Cloud para el gobierno de EE. UU.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: fed58b2de7e46905452103693727af3c6fbaa780
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788789"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879121"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa proveedor de soluciones en la nube para Microsoft Cloud para el gobierno de EE. UU.
 
@@ -31,7 +31,7 @@ Los asociados de Microsoft ahora pueden vender soluciones y servicios en la nube
 
 Microsoft Cloud para el gobierno de EE. UU. proporciona una instancia privada, dedicada y aislada de Microsoft Azure que cumple los requisitos del gobierno de EE. UU. para la seguridad, la privacidad y el cumplimiento de los datos. Su empresa debe cumplir los requisitos de elegibilidad de Microsoft para participar en el programa CSP para Microsoft Cloud para el gobierno de EE. UU. Para obtener más información, consulte [Partner Center for Microsoft Cloud para la administración pública de EE. UU.](partner-center-for-microsoft-us-govt-cloud.md)
 
-## <a name="before-you-begin"></a>Antes de empezar
+## <a name="before-you-begin"></a>Antes de comenzar
 
 Antes de que pueda inscribirse en el programa CSP para Microsoft Cloud para el gobierno de EE. UU., es necesario comprobar que su empresa cumple los requisitos para vender a entidades gubernamentales de EE. UU. Antes de comenzar el proceso de inscripción, complete el [formulario de validación de la nube de Microsoft Government](https://azuregov.microsoft.com/csp) para que podamos comprobar la elegibilidad de su empresa. Después de comprobar la elegibilidad de su empresa, le proporcionaremos un inquilino de Azure Active Directory (Azure AD) específico para el Microsoft Cloud para el gobierno de EE. UU.  
 

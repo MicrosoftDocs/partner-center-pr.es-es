@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394121"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879368"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -104,6 +104,25 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 | Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
 | Conceda al reseller el crédito para obtener incentivos | Asociar el revendedor a la suscripción (nuevo o existente) | En la página **nueva suscripción** |
 | Delegación del soporte al cliente para suscripciones específicas al distribuidor | Seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . | En la página de detalles de la suscripción: seleccione la página cliente de su **clientes** y, a continuación, seleccione la suscripción en la página **suscripciones** del cliente. |
+
+## <a name="remove-partnership-with-indirect-resellers"></a>Eliminación de la asociación con distribuidores indirectos
+
+Para quitar la asociación con el revendedor indirecto existente, siga estos pasos. 
+
+1. En el menú del centro de partners del panel, seleccione **distribuidores indirectos**. 
+
+2. En la página **distribuidores indirectos** , seleccione **quitar Asociación**. Aparecerá un mensaje en el que se solicita confirmación, seleccione Sí para continuar.
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Quitar Asociación":::
+
+>[!IMPORTANT]
+>No se quitarán los clientes asociados al revendedor indirecto. Los privilegios de administrador delegados concedidos permanecerán sin cambios.
+>Representa que la decisión de dejar de responder con el socio comercial se hizo de buena fe, para un propósito comercial legítimo y de acuerdo con su contrato con su cliente o socio comercial, y se compromete a defender y sostener a Microsoft de las reclamaciones de terceros en lo contrario.
+>Si su contrato lo requiere, debe proporcionar un aviso legal de terminación a su cliente o asociado. Esta herramienta no genera ningún aviso al cliente o al asociado.
+
+3. El revendedor indirecto cuya Asociación haya quitado no aparecerá en la lista.
+Según el nivel de acceso y la implicación, puede que desee comunicarse con el revendedor indirecto, así como con el cliente final sobre este cambio.
+
 
 ## <a name="connect-with-customers"></a>Conexión con los clientes
 

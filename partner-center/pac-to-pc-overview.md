@@ -1,7 +1,7 @@
 ---
 title: Pasar del centro de administración de socios comerciales
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: La funcionalidad del centro de administración de asociados de Office 365 está pasando al centro de Partners.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: PAC, asesor de Office 365, asesor, Partner de distribución, retirada de PAC, retirada de PAC
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 5c1c7fd216c96fec12d94c94d5fcf2367ce266ea
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998411"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879321"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>El Centro de administración de partners se traslada al Centro de partners
 
