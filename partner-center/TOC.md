@@ -95,7 +95,7 @@
 ### [Registrar las ofertas](register-deals.md)
 ### [Obtenga información de referencia](referral-insights.md)
 ### [Analizar tu perfil de negocio](analyze-your-marketing-profile.md)
-## [Incentivos](claims-overview.md)
+## Incentivos
 ### Introducción a los incentivos
 #### [Determinar su idoneidad para el programa](incentives-determined-your-program-eligibility.md)
 #### [Crear y administrar perfiles de pago y impuestos en el Centro de partners](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [Crear el plan](incentives-create-your-plan.md)
 #### [Preparar la prueba de ejecución](incentives-prepare-your-proof-of-execution.md)
 ### Reclamaciones de incentivos de cooperación
+#### [Incentivos](claims-overview.md)
 #### [Crear y administrar reclamaciones de incentivos de cooperación](create-incentives-claims.md)
 #### [Requisitos básicos para reclamaciones de incentivos de cooperación](core-requirements.md)
 #### [Aprobación y fechas límite de pago de reclamaciones de cooperación](incentives-managing-co-op-claims.md)
