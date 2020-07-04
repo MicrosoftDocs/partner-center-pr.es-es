@@ -5,34 +5,34 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los pagos no asignados cuando los vea en la página de facturación del centro de Partners. Aprenda también a aplicarlos a las facturas.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación, pago, pagos, pago sin asignar
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603614"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949584"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a><span data-ttu-id="b1ec3-105">Administrar pagos sin asignar en la página de facturación del centro de Partners</span><span class="sxs-lookup"><span data-stu-id="b1ec3-105">Manage unallocated payments on your Partner Center Billing page</span></span>
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a><span data-ttu-id="1c988-105">Administrar pagos sin asignar en la página de facturación del centro de Partners</span><span class="sxs-lookup"><span data-stu-id="1c988-105">Manage unallocated payments on your Partner Center Billing page</span></span>
 
-<span data-ttu-id="b1ec3-106">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="b1ec3-106">**Applies to**</span></span>
+<span data-ttu-id="1c988-106">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="1c988-106">**Applies to**</span></span>
 
-- <span data-ttu-id="b1ec3-107">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="b1ec3-107">Partner Center</span></span>
+- <span data-ttu-id="1c988-107">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="1c988-107">Partner Center</span></span>
 
-<span data-ttu-id="b1ec3-108">En ocasiones, es posible que vea un pago sin asignar en la página de facturación.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-108">Occasionally you may see an unallocated payment on your Billing page.</span></span> <span data-ttu-id="b1ec3-109">Un pago sin asignar es un pago realizado en Microsoft que no se ha aplicado a una factura específica.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-109">An unallocated payment is a payment you’ve made to Microsoft which you haven’t applied to a specific invoice.</span></span>
+<span data-ttu-id="1c988-108">En ocasiones, es posible que vea un pago sin asignar en la página de facturación.</span><span class="sxs-lookup"><span data-stu-id="1c988-108">Occasionally you may see an unallocated payment on your Billing page.</span></span> <span data-ttu-id="1c988-109">Un pago sin asignar es un pago realizado en Microsoft que no se ha aplicado a una factura específica.</span><span class="sxs-lookup"><span data-stu-id="1c988-109">An unallocated payment is a payment you’ve made to Microsoft which you haven’t applied to a specific invoice.</span></span>
 
-## <a name="to-view-your-unallocated-payments"></a><span data-ttu-id="b1ec3-110">Para ver los pagos sin asignar</span><span class="sxs-lookup"><span data-stu-id="b1ec3-110">To view your unallocated payments</span></span>
+## <a name="to-view-your-unallocated-payments"></a><span data-ttu-id="1c988-110">Para ver los pagos sin asignar</span><span class="sxs-lookup"><span data-stu-id="1c988-110">To view your unallocated payments</span></span>
 
-1. <span data-ttu-id="b1ec3-111">[Inicia sesión en el panel del Centro de partners](https://partner.microsoft.com/dashboard/home).</span><span class="sxs-lookup"><span data-stu-id="b1ec3-111">[Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+1. <span data-ttu-id="1c988-111">[Inicia sesión en el panel del Centro de partners](https://partner.microsoft.com/dashboard/home).</span><span class="sxs-lookup"><span data-stu-id="1c988-111">[Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
 
-2. <span data-ttu-id="b1ec3-112">En el menú de la izquierda, elige **Facturación**.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-112">In the left-hand menu, choose **Billing**.</span></span>
+2. <span data-ttu-id="1c988-112">En el menú de la izquierda, elige **Facturación**.</span><span class="sxs-lookup"><span data-stu-id="1c988-112">In the left-hand menu, choose **Billing**.</span></span>
 
-3. <span data-ttu-id="b1ec3-113">En la página facturación, busque la sección **pago sin asignar** .</span><span class="sxs-lookup"><span data-stu-id="b1ec3-113">On the Billing page, find the **Unallocated payment** section.</span></span> 
+3. <span data-ttu-id="1c988-113">En la página facturación, busque la sección **pago sin asignar** .</span><span class="sxs-lookup"><span data-stu-id="1c988-113">On the Billing page, find the **Unallocated payment** section.</span></span> 
 
-<span data-ttu-id="b1ec3-114">Para aplicar esta cantidad a una factura determinada, envíe un correo electrónico bposcapp@microsoft.com y indíquenos a qué factura aplicar este pago.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-114">To apply this amount to a particular invoice, email bposcapp@microsoft.com and tell us which invoice to apply this payment to.</span></span> <span data-ttu-id="b1ec3-115">Asegúrese de incluir toda la información que le haría si estuviera realizando un pago.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-115">Be sure to include all of the information you would if you were making a payment.</span></span> <span data-ttu-id="b1ec3-116">La página de facturación se actualizará en 5-6 días.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-116">Your Billing page will be updated in 5-6 days.</span></span> 
+<span data-ttu-id="1c988-114">Para aplicar esta cantidad a una factura determinada, envíe un correo electrónico bposcapp@microsoft.com y indíquenos a qué factura aplicar este pago.</span><span class="sxs-lookup"><span data-stu-id="1c988-114">To apply this amount to a particular invoice, email bposcapp@microsoft.com and tell us which invoice to apply this payment to.</span></span> <span data-ttu-id="1c988-115">Asegúrese de incluir toda la información que le haría si estuviera realizando un pago.</span><span class="sxs-lookup"><span data-stu-id="1c988-115">Be sure to include all of the information you would if you were making a payment.</span></span> <span data-ttu-id="1c988-116">La página de facturación se actualizará en 5-6 días.</span><span class="sxs-lookup"><span data-stu-id="1c988-116">Your Billing page will be updated in 5-6 days.</span></span> 
 
-<span data-ttu-id="b1ec3-117">Los pagos sin asignar permanecen sin asignar hasta que los asigne a una factura.</span><span class="sxs-lookup"><span data-stu-id="b1ec3-117">Unallocated payments remain unallocated until you assign them to an invoice.</span></span> 
+<span data-ttu-id="1c988-117">Los pagos sin asignar permanecen sin asignar hasta que los asigne a una factura.</span><span class="sxs-lookup"><span data-stu-id="1c988-117">Unallocated payments remain unallocated until you assign them to an invoice.</span></span> 
