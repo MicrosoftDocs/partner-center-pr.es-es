@@ -3,16 +3,16 @@ title: Archivos de conciliación basada en uso
 ms.topic: article
 ms.date: 06/08/2020
 description: Obtenga información sobre todos los elementos del archivo de conciliación basado en el uso en el centro de Partners. Incluye algunos ejemplos.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909123"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949545"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprender los archivos de conciliación basados en el uso y sus campos específicos en el centro de Partners
 
@@ -46,7 +46,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | ServiceType | El tipo específico de servicio de Azure. | *Service Bus: individual o Pack*, *SQL Azure base de datos: Business o Web Edition* |
 | ResourceGuid | Identificador único específico de todos los datos de servicio y de la estructura de precios. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | nombreDelRecurso | El nombre del recurso de Azure. | *Transferencia de datos en (GB)* *transferencia de datos de salida (GB)* |
-| Region | La región a la que se aplica el uso. Se usa principalmente para asignar tasas a las transferencias de datos, ya que las tarifas varían según la región. | *Asia Pacífico*, *Europa*, *América Latina*, *Norteamérica* |
+| Región | La región a la que se aplica el uso. Se usa principalmente para asignar tasas a las transferencias de datos, ya que las tarifas varían según la región. | *Asia Pacífico*, *Europa*, *América Latina*, *Norteamérica* |
 | SKU | Identificador único de Microsoft para una oferta. | *7UD-00001* |
 | DetailLineItemId | Identificador y cantidad para clasificar diferentes tasas para un servicio o recurso en un período de facturación determinado. En el caso de los precios en capas de Azure, puede haber una tasa de hasta una cantidad determinada de unidades facturables y, a continuación, una tarifa diferente después de esa cantidad. | *1* |
 | ConsumedQuantity | La cantidad de servicio consumido (como horas o GB) durante el período de notificación. También incluye cualquier uso no facturado de períodos de informes anteriores. | *11* |
@@ -69,5 +69,5 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | MeteredRegion | Identifica la ubicación de un centro de datos dentro de la región (para los servicios en los que este valor es aplicable y rellenado). | *Asia oriental*, *Asia suroriental*, *Europa del norte*, *Europa occidental*, *centro-norte de EE. UU.*, *centro-sur de EE. UU.* |
 | MeteredService | Identifica el uso individual del servicio de Azure cuando no se identifica específicamente en la columna **ServiceName** . Por ejemplo, las transferencias de datos se muestran como *Microsoft Azure todos los servicios* de la columna **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
 | MeteredServiceType | Subtítulo del campo **MeteredService** que proporciona una explicación adicional sobre el uso del servicio de Azure. | *FUERA* |
-| Project | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Proyecto | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | El número de conexiones Azure Service Bus aprovisionadas y utilizadas en un día determinado. | *1,000000 conexiones/30 días* (si tiene una conexión aprovisionada individualmente durante un mes de 30 días), *25 conexiones/30 días – se usa: 1,000000* (si tiene un 25 paquete de conexiones Service Bus aprovisionadas y usó 1 durante ese día) |

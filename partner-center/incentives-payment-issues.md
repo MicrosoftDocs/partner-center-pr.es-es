@@ -1,21 +1,21 @@
 ---
-title: Solución de problemas de ingresos y beneficios
+title: Solución de problemas de pagos y ganancias
 ms.topic: article
 ms.date: 06/29/2020
 description: Obtenga información acerca de cómo solucionar problemas, como pérdidas de beneficios o incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de los incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 352499e96c69e9f59190aaf6fa1c43d2d0f8ed59
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 7408b3c1adf8741104a8d27e68dccf27be07c5c0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719425"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949482"
 ---
-# <a name="troubleshooting-payments-and-earnings-issues"></a>Solución de problemas de ingresos y beneficios
+# <a name="troubleshooting-payments-and-earnings-issues"></a>Solución de problemas de pagos y ganancias
 
 Se aplica a:
 

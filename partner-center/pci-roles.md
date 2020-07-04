@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los roles específicos necesarios para ver los informes de Partner Center Insights. Entre ellos se incluyen los roles del visor de informes ejecutivo y el visor de informes.
 keywords: PCI, rendimiento, éxito de clientes, medidas, roles
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992075"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948723"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Control de acceso basado en roles al panel de información del centro de Partners
 

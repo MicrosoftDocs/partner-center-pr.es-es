@@ -2,25 +2,25 @@
 title: Trasladar a los clientes basados en licencias al programa CSP
 description: Obtenga información acerca de cómo trasladar a los clientes basados en licencias de otros canales o de otro asociado al programa del proveedor de soluciones en la nube (CSP) en el centro de Partners.
 ms.topic: article
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/19/2020
-ms.openlocfilehash: 28f1345033cd474390d9b1b7cf709fd9f9a00311
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 4f4eabe3e31a521dcb2bd0f26bac702e1f92984f
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678931"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879126"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Traslade a los clientes basados en licencias de otros canales & asociados al programa proveedor de soluciones en la nube.
 
 **Se aplica a**
 
--  Centro de partners
+- Centro de partners
 
 Si el cliente desea contratar a varios asociados, transferir sus suscripciones a otro asociado o administrar sus suscripciones adquiridas en otro lugar, puede moverlas manualmente. También puede trasladar a los clientes al centro de Partners desde otro canal.
 
@@ -32,8 +32,10 @@ Si el cliente desea contratar a varios asociados, transferir sus suscripciones a
 
 3. El cliente puede permitir que las suscripciones originales expiren o las cancele. Sin embargo, dado que no hay reintegros en suscripciones canceladas, es mejor esperar hasta que las suscripciones estén cerca de las fechas de expiración naturales.
 
->[!NOTE]
-> El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges.md). 
+
+   >[!NOTE]
+   >El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges.md).
+
 
 4. El cliente seguirá adelante con las suscripciones que ha aprovisionado sin interrupción.
 
@@ -46,5 +48,7 @@ Si transfiere a los clientes que están en ofertas que se ha interrumpido, tendr
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Comience a usar tarifas de pago por uso con el plan de Azure](azure-plan-get-started.md)
+- [Comienzo del uso del plan de pago por uso de Azure](azure-plan-get-started.md)
+ 
+
 - [Diferentes formas de trabajar con otros asociados en el centro de Partners](work-with-other-partners.md)

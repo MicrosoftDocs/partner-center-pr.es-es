@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 description: Obtenga información sobre cómo los asesores autorizados de Microsoft pueden crecer sus suscripciones de Office 365. Crear y enviar invitaciones de evaluación de Office 365 y ofertas de compra a los clientes.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1894f592ed066b521e217558b6b6c4142bc62c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362663"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947440"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Asesores: compilar la base de clientes con invitaciones de evaluación de Office 365 y ofertas de compra
 

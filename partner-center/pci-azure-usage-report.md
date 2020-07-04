@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea lo que está haciendo bien y dónde puede mejorar en relación con el uso de las suscripciones de Azure que vende o administra para sus clientes.
 keywords: PCI, rendimiento, medidas, éxito de clientes, uso de Azure, suscripciones, análisis, informe
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8a8c98cf8378c7b1e70e2aaac5a91e9b72e3d81
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 8938b490741c28f16a9bdc94cf25ddf60ff90edc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908633"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949379"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Azure disponible en el panel del centro de Partners Insights
 

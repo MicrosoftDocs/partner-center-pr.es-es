@@ -4,16 +4,16 @@ description: Comprenda los procesos y las escalas de tiempo importantes para adm
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879484"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949504"
 ---
 # <a name="manage-customer-associations"></a>Administrar asociaciones de clientes
 
@@ -52,7 +52,7 @@ Estos son los Estados y su significado:
 
 | Estado de la demanda | Aparece cuando |
 | ------ | ----------- | 
-|  Edición  | Se ha creado la petición de Asociación de CPOR. Permanece en este estado hasta que se carga el documento de prueba de ejecución y se envía la notificación para su aprobación.   |
+|  Editar  | Se ha creado la petición de Asociación de CPOR. Permanece en este estado hasta que se carga el documento de prueba de ejecución y se envía la notificación para su aprobación.   |
 |  Enviado  | El asociado ha enviado correctamente su solicitud de Asociación de CPOR, pero Microsoft aún no ha iniciado el proceso de revisión.   |
 |  En revisión  | Microsoft ha empezado a validar la documentación de PoE. Podemos ponernos en contacto con usted para obtener más detalles. El acuerdo de nivel de servicio de revisión de proceso es de cinco días laborables.  |
 |  Rechazada  | Su PoE era insuficiente o no respondió en un plazo de cinco días hábiles según las directrices de la revisión de PoE y se denegó la demanda.   |

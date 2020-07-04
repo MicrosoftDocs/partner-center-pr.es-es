@@ -1,21 +1,21 @@
 ---
 title: Contratos de CSP para Marketplace comercial
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los términos, condiciones y contratos de las suscripciones a productos ISV de terceros adquiridos por los asociados de CSP en Marketplace comercial.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: suscripciones, Marketplace, terceros, ISV, programa de asociados de CSP, contratos, venta, compra,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362633"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947783"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para asociados de CSP que hacen negocios en Marketplace comercial
 
@@ -42,7 +42,7 @@ Si los asociados ya han firmado sus contratos de CSP, no es necesario que vuelva
 
 Para obtener más información acerca de los términos que rigen las actividades de CSP en Marketplace comercial, consulte:
 
-- **Sección 5,7 (ofertas de terceros)** en la [Guía de programas de CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Esto proporciona los términos que rigen la venta de soluciones de ISV por parte de los asociados en el programa CSP.
+- **La sección titulada "ofertas de terceros"** en la [Guía de programas de CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100). Esto proporciona los términos que rigen la venta de soluciones de ISV por parte de los asociados en el programa CSP.
 
 - **El acuerdo de asociado de Microsoft (MPa)** regirá el programa CSP, reemplazando los MCRA existentes y MCDA. La MPA está disponible en el [centro de Partners](https://partner.microsoft.com/pcv/dashboard/overview) para que los asociados que deciden participar en el programa CSP puedan revisarla y aceptarla.
   

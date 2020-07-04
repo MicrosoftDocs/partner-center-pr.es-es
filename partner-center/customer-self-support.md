@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda Cuándo y dónde los clientes pueden realizar autosoporte para administrar sus propias cuentas y cuándo deben ponerse en contacto con su asociado de proveedor de soluciones en la nube.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 keywords: autosoporte técnico para clientes, autosoporte técnico
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c50d97b6565e8786a5cc5ba5f99438a84281f1b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 10100e6b268335ace2d2f5329619a7e99c8a24a1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991341"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947625"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Asistencia automática del cliente a través del centro de administración de Microsoft Office 365 o a través de la Azure Portal
 

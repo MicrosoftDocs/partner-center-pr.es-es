@@ -3,16 +3,16 @@ title: Diferencias de facturación mensuales y anuales
 ms.topic: article
 ms.date: 05/06/2020
 Description: Vea cómo la facturación mensual y anual difiere en el centro de Partners. También aprenderá a cambiar entre diferentes tipos de facturación y las implicaciones del cambio.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908973"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948225"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprenda la diferencia entre la facturación mensual y anual del centro de Partners
 
@@ -224,7 +224,7 @@ Los asociados obtienen incentivos en todas las transacciones válidas, independi
 
 Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-| Region | Dirección de correo electrónico |
+| Región | Dirección de correo electrónico |
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |

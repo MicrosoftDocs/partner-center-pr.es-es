@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore el panel de aprendizaje del centro de Partners.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 Keywords: Información del centro de Partners, informes, descargar informes
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d1629967a33f64d1bc151711d5892132b87fa7ff
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072834"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948668"
 ---
 # <a name="trainings-dashboard"></a>Panel de aprendizaje
 

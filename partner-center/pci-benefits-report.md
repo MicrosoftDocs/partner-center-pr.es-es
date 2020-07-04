@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea qué tipos de ventajas de los asociados de Microsoft se le han concedido para ayudar a crecer su negocio, mejorar la eficacia y mejorar los conocimientos del equipo.
 keywords: PCI, rendimiento, medidas, ventajas, análisis, informe
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908703"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949383"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Informe de beneficios disponible en el panel del centro de Partners Insights
 
@@ -63,13 +63,13 @@ Este gráfico presenta la tendencia mensual de licencias concedidas durante el i
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="productos de software concedidos":::
 
-**Suscripciones a Visual Studio**
+**Suscripciones de Visual Studio**
 
 Este gráfico presenta la tendencia mensual de las suscripciones de Visual Studio activadas en las suscripciones que se asignaron durante el intervalo de fechas seleccionado.
 
 Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una suscripción específica de Visual Studio a la que se le conceden beneficios. Las columnas del gráfico representan puestos consumidos para la suscripción. El gráfico de líneas representa las plazas generales asignadas para la suscripción.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Suscripciones a Visual Studio":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Suscripciones de Visual Studio":::
 
 **Ventajas técnicas**
 

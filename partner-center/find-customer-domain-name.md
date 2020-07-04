@@ -5,18 +5,18 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo buscar el nombre de dominio y el ID. de directorio del cliente al enviar una demanda.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: incentivos, reclamaciones, créditos de cooperación, fondos de cooperación, OSA, ISV, Asociación de ingresos, nombre de dominio, ID. de directorio
 ms.localizationpriority: medium
-ms.openlocfilehash: 09754404ddc0c0d11ad690fd33eccbbf67f2e3a0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 10d881e38eefa6400389b05fc9635a575e545846
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722231"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947585"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>Busque el nombre de dominio y el ID. de directorio de su cliente
+# <a name="find-your-customers-domain-name-and-directory-id"></a>Búsqueda del nombre de dominio y el identificador de directorio de su cliente
 
 **Se aplica a**
 
@@ -24,7 +24,7 @@ ms.locfileid: "74722231"
 
 **Roles adecuados**
 
-- Agente de administración
+- Agente de administrador
 - Administrador de incentivos
 - Usuario de incentivos
 - Administrador global

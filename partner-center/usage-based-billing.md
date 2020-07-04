@@ -3,17 +3,17 @@ title: Facturación basada en uso
 ms.topic: article
 ms.date: 06/05/2020
 Description: Obtenga más información sobre la facturación basada en el uso en el centro de Partners, donde se le facturarán las tarifas de uso mensuales.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación, uso basado en el uso
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b2710cc31d4c8e494b45ca19aa102322dbb81781
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749080"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949090"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>Comprenda la facturación basada en el uso de consumo mensual de servicios de pago por uso
 

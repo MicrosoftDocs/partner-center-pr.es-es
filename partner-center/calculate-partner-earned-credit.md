@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo se calcula el aspecto del crédito de los asociados (PEC) del plan de Azure. Esto incluye los requisitos de idoneidad para asociados y proveedores indirectos.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 437d1bbd6a5ef3a18d149df2b533fdd2d0ed735d
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 065cf0c8f95667b470081edcb1b66398235604b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908903"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948135"
 ---
 # <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Cómo se calcula el crédito obtenido por el socio comercial (PEC) para asociados en el programa proveedor de soluciones en la nube
 

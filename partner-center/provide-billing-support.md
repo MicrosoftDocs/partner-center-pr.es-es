@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre el soporte de facturación de clientes necesario de los asociados de programas de CSP. Esto incluye la propiedad de la relación de facturación del cliente y la respuesta a las preguntas de facturación.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992060"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949330"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Proporcione soporte de facturación para sus clientes y ayude a responder sus preguntas de facturación
 
@@ -59,7 +59,7 @@ Los asociados son necesarios para recibir solicitudes de soporte técnico entran
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
-Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para más información, consulte:
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, consulte:
 
 - [Suscripciones a Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

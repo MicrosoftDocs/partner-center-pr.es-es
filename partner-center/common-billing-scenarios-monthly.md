@@ -3,17 +3,17 @@ title: Escenarios comunes de facturación mensual
 ms.topic: article
 ms.date: 05/13/2020
 description: 'Escenarios comunes en el centro de Partners cuando se usa la facturación mensual: incluye la adición de nuevas suscripciones, el cambio de la cantidad de licencias y la suspensión de suscripciones.'
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: facturación, pagos, pedidos, uso, facturación mensual, suscripciones, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 52a2e135f7f3adb1f08de179ceeb031c0e649063
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908883"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948013"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Ejemplos de escenarios de facturación mensuales para nuevas suscripciones, cambios de cantidades de licencias o suspensiones
 

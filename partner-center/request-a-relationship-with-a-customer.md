@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Solicite una relación con un cliente para escenarios de varios asociados y multicanal o si es necesario restaurar los privilegios de administrador delegado para un cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104088"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949248"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el centro de Partners
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el Centro de partners
 
 **Se aplica a**
 
@@ -36,7 +36,7 @@ Puede solicitar una relación de revendedor con un cliente de dentro de su país
 
 2. Para solicitar permisos de administrador de este cliente, seleccione **incluir privilegios de administración delegados para Azure Active Directory y Office 365**. Para establecer la relación sin solicitar permisos de administrador, desactive esta opción.
 
-3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico en la aplicación de mensajería predeterminada o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
+3. En la página siguiente, revise el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje en la aplicación de correo electrónico predeterminada o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
    Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. Selecciona **Listo** cuando hayas completado este paso.
 

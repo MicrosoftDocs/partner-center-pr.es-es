@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte las listas de precios actuales para servicios basados en licencias como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite, y servicios basados en uso como Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661668"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949339"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -48,7 +48,7 @@ Para ver los programas y ofertas más recientes del proveedor de soluciones en l
 
 Los servicios basados en licencias incluyen una vista previa de la lista de precios, siempre con 30 días antes de que se realicen cambios. Para ver la vista previa de la lista de precios, vaya a **vender > precios y ofertas**. No hay ninguna vista previa de precios para los servicios basados en el uso, ya que estos servicios son dinámicos. En la tabla siguiente se explica cómo leer la tabla de lista de precios.
 
-|**Elemento**        |**Definición**      |
+|**Item**        |**Definición**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuevo elemento a la lista de precios|
 |PREC   |Cambia el precio de venta de mes a mes. Pueden producirse otros cambios no relacionados con el precio de la lista, los asociados deben comparar las listas de precios entre meses para determinar los cambios en otras propiedades.|
@@ -57,7 +57,7 @@ Los servicios basados en licencias incluyen una vista previa de la lista de prec
 |Válido desde fecha   |La primera fecha en que se puede ordenar una oferta    |
 |Válido hasta la fecha   |La última fecha en que se puede ordenar una oferta   |
 |Nombre para mostrar de la oferta   |El nombre del cliente para la oferta   |
-|Id. de oferta   |Identificador interno de la oferta.   |
+|Identificador de oferta   |Identificador interno de la oferta.   |
 |Tipo de contrato de licencia   |Los tipos de contrato de licencia pueden ser corporativos, gubernamentales o académicos. El tipo de contrato determina a qué tipos de clientes se puede vender la oferta.|
 |Unidad de compra   |La duración de compra de la oferta. Las unidades de compra suelen ser de un mes.   |
 |Tipo de licencia secundario   |Los tipos de licencias secundarias serán no específicos, complemento o evaluación. El complemento indica que hay productos necesarios que el cliente debe adquirir antes de adquirir el complemento.|
@@ -157,7 +157,7 @@ Hay aproximadamente 50 ofertas de Dynamics que tienen términos de tres años. S
 
 Microsoft 365 oferta de base a1 tiene un plazo de seis años.  Los complementos de Office 365 a1 están disponibles después de adquirir esta oferta de base. 
 
-|**Nombre de la oferta**   |**Id. de oferta**   |**Tipo**|
+|**Nombre de la oferta**   |**Identificador de oferta**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
 |Office 365 a1 para profesores (para dispositivos)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|

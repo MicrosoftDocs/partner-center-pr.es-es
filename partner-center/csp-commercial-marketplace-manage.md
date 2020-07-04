@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Con el centro de Partners, obtenga información sobre cómo los proveedores de soluciones en la nube pueden administrar ofertas de ISV de terceros compradas para clientes del Marketplace comercial.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: suscripciones, Marketplace, terceros, ISV, ofertas de SaaS, programa del proveedor de soluciones en la nube, administración de una oferta, administración de una suscripción, licencias, cancelación de una suscripción, puestos, desactivación de la renovación automática, revendedor indirecto ID MPN
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937632"
+ms.locfileid: "85947758"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Administrar productos y ofertas comerciales de Marketplace para sus clientes
 

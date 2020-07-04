@@ -5,17 +5,17 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los pagos no asignados cuando los vea en la página de facturación del centro de Partners. Aprenda también a aplicarlos a las facturas.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación, pago, pagos, pago sin asignar
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603614"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949584"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Administrar pagos sin asignar en la página de facturación del centro de Partners
 

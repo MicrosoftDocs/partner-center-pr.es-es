@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a vender suscripciones de clientes a ofertas de software como servicio (SaaS) de fabricantes de software independientes (ISV) en Marketplace.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: suscripciones, Marketplace, terceros, ISV, SaaS, licencia
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908093"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947722"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general del Marketplace comercial en el centro de Partners
 
@@ -56,7 +56,7 @@ Como asociado en el programa CSP, puede completar muchas actividades comerciales
 
 - [Portal de administración de Microsoft Azure](https://portal.azure.com/)
 
-    Or
+    O bien
 
 - Un sistema o sitio web de un publicador de ISV de terceros
 
@@ -80,10 +80,10 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |**Para las ofertas basadas en el uso de ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para detectar o Buscar ofertas disponibles  | Panel del centro de Partners, API del centro de Partners o Azure Portal  |
-|Para comprar una oferta  | Azure Portal  |
-|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure Portal  |
-|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | Azure Portal  |
-|Para crear usuarios o administrar permisos  | Azure Portal  |
+|Para comprar una oferta  | Azure portal  |
+|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure portal  |
+|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | Azure portal  |
+|Para crear usuarios o administrar permisos  | Azure portal  |
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -5,17 +5,17 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir Engagements, invitar a Microsoft a colaborar o ver las negociaciones enviadas.
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721501"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948053"
 ---
 # <a name="co-sell-with-microsoft"></a>Venta conjunta con Microsoft
 
@@ -66,7 +66,7 @@ Por último, en la sección **Agregar soluciones** , seleccione la solución que
 
 Seleccione **siguiente** para pasar al siguiente paso.
 
-### <a name="invite-others"></a>Invitar a otros usuarios
+### <a name="invite-others"></a>Invitar a otros
 
 El último paso del proceso de creación del compromiso de venta conjunta es proporcionar más detalles sobre el tipo de ayuda que está buscando. Seleccione la mejor opción en **¿Cómo podemos ayudarle?** A continuación, en el campo **notas a Microsoft** , proporcione tantos detalles como sea posible sobre las mejores formas de que Microsoft proporcione asistencia.
 

@@ -1,19 +1,19 @@
 ---
-title: Crear y administrar perfiles de pago y impuestos en el centro de Partners
+title: Crear y administrar perfiles de pago y impuestos en el Centro de partners
 ms.topic: article
 ms.date: 06/29/2020
 description: Antes de que pueda pagar por su trabajo de incentivos, debe crear los perfiles de pago y fiscal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719456"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949685"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Perfiles fiscales y de pago en el centro de Partners
 
@@ -29,7 +29,7 @@ Roles adecuados:
 - Administrador de facturación
 - Administrador global
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y impuestos en el centro de Partners
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y impuestos en el Centro de partners
 
 Las secciones siguientes le guiarán a través del proceso de creación y administración de perfiles de pago y impuestos en el centro de Partners.
 
@@ -85,11 +85,11 @@ Los perfiles de banco se crean en el nivel de organización, lo que permite asig
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido es para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Next** (Siguiente).
+2. Seleccione **Siguiente**.
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Next** (Siguiente).
+4. Seleccione **Siguiente**.
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
@@ -116,7 +116,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo. 
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Next** (Siguiente). 
+3. Seleccione **Siguiente**. 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 

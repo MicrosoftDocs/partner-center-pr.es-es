@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo ayudar a un cliente a cambiar el asociado del programa CSP asociado a las suscripciones de Azure de ese cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 keywords: suscripción a Azure, cambiar asociado, cambiar asociado, obtener nuevo asociado, otro asociado
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992135"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949097"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Obtenga información sobre cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 

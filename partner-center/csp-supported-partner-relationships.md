@@ -1,21 +1,21 @@
 ---
-title: Relaciones de asociados de CSP compatibles
+title: Relaciones de partners de CSP admitidas
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de las diferentes relaciones de asociados y escenarios de transacciones admitidos para asociados en el programa CSP.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: Reseller indirecto, proveedor indirecto, factura directa, asociado directo de factura, programa proveedor de soluciones en la nube, programa CSP, asociados de CSP, transacciones de CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5da1cdd30563b57badd2aaec619c5e53ca93641
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83398340"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947634"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Obtenga información acerca de cómo los asociados pueden trabajar con otros asociados en el programa CSP
 

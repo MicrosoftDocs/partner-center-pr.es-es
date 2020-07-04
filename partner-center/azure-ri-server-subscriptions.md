@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre las oportunidades del proveedor de soluciones en la nube para adquirir, aprovisionar y administrar las reservas de Azure y las suscripciones de servidor para los clientes.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, suscripciones, VM, reserva, instancia reservada
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198633"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948264"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquisición, aprovisionamiento, & administración de instancias reservadas de máquina virtual de Azure (RI) + suscripciones de servidor para clientes
 
@@ -131,7 +131,7 @@ Los eventos de preparación de licencias a petición incluyen temas como los sig
 
 Otro aprendizaje útil incluye el [módulo de licencias de Azure en Partner University](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Operaciones
 
 - [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre directivas clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y servicios compartidos de asociados de Azure.
 - [Moderno ofrece la matriz de la moneda del cliente y la disponibilidad del país](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, reservas, administración, facturación, compra
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104114"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948329"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -33,7 +33,7 @@ ms.locfileid: "85104114"
 - Agente de ventas
 - Administrador del control de usuarios
 
-## <a name="before-you-begin"></a>Antes de empezar
+## <a name="before-you-begin"></a>Antes de comenzar
 
 Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes. (¿Desea que los clientes puedan comprar sus propias reservas de Azure a partir de una suscripción de Azure anterior que haya adquirido? Consulte [dar permiso a los clientes para comprar sus propias reservas de Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)).
 
@@ -60,7 +60,7 @@ Revise la información importante que aparece a continuación antes de comprar l
 >  
 > **Mercados no disponibles (en orden alfabético)**
 >
-> |A Gi   | Gr a PAL  | PAP a Z |
+> |A a Gi   | Gr a Pal  | Pap a Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Islas Åland     | Groenlandia     | Papúa Nueva Guinea     |
 > | Samoa Americana     | Granada     | Islas Pitcairn     |

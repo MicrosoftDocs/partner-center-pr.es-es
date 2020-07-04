@@ -3,17 +3,17 @@ title: Administrar notificaciones de la Co-op
 description: Comprenda el proceso de reclamación de la cooperación entre las que se incluyen las fechas límite, los problemas de moneda y cómo cuestionarlas.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719431"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949492"
 ---
 # <a name="manage-co-op-claims"></a>Administrar notificaciones de la Co-op
 
@@ -27,7 +27,7 @@ Roles adecuados:
 
 - Administrador de incentivos
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprobación y fechas límite de pago de las notificaciones de cooperación
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprobación y fechas límite de pago de reclamaciones de cooperación
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>¿Cuándo se va a aprobar mi demanda de cooperación?
 

@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo y cuándo migrar determinados clientes con suscripciones de Skype empresarial online plan 1 que expiren a las nuevas versiones de Office 365.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: Planes de Skype empresarial, retirar Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e3a16450d9ac15785315a1b4b077e1872e1303a
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425964"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949620"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migración de suscripciones del Plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
 

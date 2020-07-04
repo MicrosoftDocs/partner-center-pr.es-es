@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Obtenga información sobre la factura & los archivos de conciliación. La factura muestra los cargos del centro de Partners en el programa, los productos y los clientes durante ese período mensual.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación de suscripciones, facturación, facturación en el centro de Partners, facturación del centro de Partners, leer mi factura, factura, factura del centro de Partners, factura de CSP, ¿Dónde está mi factura?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991877"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949320"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.
 
