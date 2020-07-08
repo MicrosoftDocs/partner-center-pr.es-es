@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo agregar una nueva ubicación en el Centro de partners, y cómo se usa el id. de MPN de ubicación en programas de incentivos, negocios de CSP, suscripciones y otras transacciones.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 keywords: cuenta de partner, ubicaciones
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909063"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949669"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de partner en el Centro de partners y adición de una nueva ubicación
 

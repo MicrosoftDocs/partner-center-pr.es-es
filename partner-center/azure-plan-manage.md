@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo los partners pueden usar diferentes opciones de control de acceso basado en roles (RBAC) para obtener el control operativo y poder administrar los recursos de Azure de un cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0b66a5fc2c51c8e1e4ef282ffebae68758df428
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908993"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948435"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Administración de suscripciones y recursos en el plan de Azure
 

@@ -4,18 +4,18 @@ description: Obtén información sobre cómo usar el plan de pago por uso de Azu
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.custom: SEOAPR.20
 Keywords: Azure, plan de Azure, comprar suscripciones, suscripciones
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 828c33f1d7182c9eff81930126efa7c795fa3b49
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394189"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948419"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comienzo del uso del plan de pago por uso de Azure
 
