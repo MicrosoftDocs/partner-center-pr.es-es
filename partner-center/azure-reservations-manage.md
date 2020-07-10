@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo administrar las reservas de Azure para un cliente, incluido cómo cancelar una reserva, intercambiar una reserva o solicitar un reembolso.
-author: amrava
+author: amitravat
 ms.author: amrava
 keywords: Azure, reservas, administración, facturación, compra, cancelación, intercambio, cuota de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948319"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175902"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
 
@@ -43,47 +43,44 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Introducción**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
+    | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
     | **Control de acceso (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **Nota:** El soporte técnico puede pedirle el identificador de reserva y el identificador de pedido de reserva cuando solicite soporte técnico en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda de Soporte técnico de Microsoft.   |
  
-## <a name="cancel-or-exchange-a-reservation"></a>Cancelar o intercambiar una reserva 
+## <a name="cancel-or-exchange-a-reservation"></a>Cancelar o intercambiar una reserva
 
 Si en algún momento cambian las necesidades empresariales de un cliente, es posible que deseen cancelar una reserva y obtener un reembolso o intercambiar el importe de reembolso prorrateado de una reserva para usarlo en el precio de una nueva reserva.
 
 En ambos escenarios, Microsoft reembolsa el importe para que pueda administrar las transacciones financieras resultantes con sus clientes. Microsoft no se pone en contacto directamente con los clientes sobre la facturación, las cancelaciones o los reembolsos.
 
-
-**Cómo funcionan las cancelaciones**
+### <a name="how-cancellations-work"></a>Cómo funcionan las cancelaciones
 
 Los clientes pueden solicitar la cancelación de una reserva en cualquier momento (importe de reembolso limitado en $50.000 al año). La cancelación de una reserva permite al cliente devolver la cantidad de los meses restantes de una reserva de Azure para una cuota de finalización temprana. El saldo prorrateado restante, menos la cuota de finalización temprana, se reembolsa a su cuenta para que pueda reembolsar la cuenta del cliente. 
 
 Consulte a continuación los detalles y las tarifas de cancelación.
 
 
-|**Fecha de cancelación**<br> durante   |**Uso**    |**Créditos**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
+|**Fecha de cancelación**<br> durante   |**Uso**    |**Crédito**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100%       | No                              | $50.000 USD   |
-|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
-|Más de 5                        | No          | Prorrateado  | 12 %                             | $50.000 USD   |
-|Más de 5                        | Sí         | Prorrateado  | 12 %                             | $50.000 USD   |
+|5 o menos                         | No.          | 100 %       | No.                              | $50.000 USD   |
+|5 o menos                         | Sí.         | Prorrateado  | No.                              | $50.000 USD   |
+|Más de 5                        | No.          | Prorrateado  | 12 %                             | $50.000 USD   |
+|Más de 5                        | Sí.         | Prorrateado  | 12 %                             | $50.000 USD   |
 
-
-**Cómo funcionan los intercambios** 
+### <a name="how-exchanges-work"></a>Cómo funcionan los intercambios 
 
 Si un cliente desea comprar una reserva diferente de la que compró originalmente, puede solicitar un intercambio. El intercambio de una reserva puede ser una alternativa atractiva a la cancelación de una reserva, ya que permite al cliente usar el importe de reembolso prorrateado en relación con el precio de la nueva reserva. 
 
 El importe del reembolso prorrateado se abona en la cuenta para que pueda ofrecer al cliente un intercambio.
 
-
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar un reembolso o intercambiar en nombre de un cliente 
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Solicitar un reembolso o intercambiar en nombre de un cliente
 
 Para enviar una solicitud de soporte técnico para un reembolso o Exchange en nombre de sus clientes, seleccione el cliente y la reserva en el centro de Partners y, a continuación, cree la solicitud de soporte técnico en el Azure Portal. 
 
 >[!NOTE]
->Soporte técnico de Microsoft agentes pueden pedirle que proporcione el identificador de reserva y el ID. de pedido de reserva. Puede encontrar esta información en la página de **propiedades** de la reserva en el Azure portal. 
+>Soporte técnico de Microsoft agentes pueden pedirle que proporcione el identificador de reserva y el ID. de pedido de reserva. Puede encontrar esta información en la página de **propiedades** de la reserva en el Azure portal.
 
 1. Para empezar, seleccione **customers (clientes** ) en el menú del centro de Partners y seleccione el cliente que desea un reembolso. 
 
@@ -93,15 +90,16 @@ Para enviar una solicitud de soporte técnico para un reembolso o Exchange en no
 
 4. En la página **nueva solicitud de soporte técnico** , siga los pasos que se indican a continuación para solicitar un reembolso. Seleccione **siguiente** después de cada paso. 
 
-    |**Step**                    |**Selecciones**    |
-    |:---------------------------|:-----------------|
-    |**1 conceptos básicos**                |Tipo de problema: facturación.  |
-    |**2 problema**               |Tipo de problema: administración de reserva. Categoría: intercambios y reembolsos. |
-    |**3 información de contacto**   |Seleccione sus preferencias y escriba la información necesaria. 
+   |**Step**                    |**Selecciones**    |
+   |:---------------------------|:-----------------|
+   |**1 conceptos básicos**                |Tipo de problema: facturación.  |
+   |**2 problema**               |Tipo de problema: administración de reserva. Categoría: intercambios y reembolsos. |
+   |**3 información de contacto**   |Seleccione sus preferencias y escriba la información necesaria. 
 
-5.  Seleccione **Crear** cuando haya terminado.
+5. Seleccione **Crear** cuando haya terminado.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas de Azure
+
 |**Para información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
 |Información general sobre las reservas de Azure en CSP  | [Vender Microsoft Azure instancias reservadas](azure-reservations.md) |

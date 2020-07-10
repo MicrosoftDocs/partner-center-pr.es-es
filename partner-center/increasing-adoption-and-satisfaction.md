@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992110"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175893"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use las métricas del centro de partners para aumentar la adopción y la satisfacción
 
@@ -39,21 +39,31 @@ Puedes ver los datos de todos los clientes a través del programa Proveedor de s
 
 ## <a name="find-license-and-user-data"></a>Buscar datos de usuario y de licencia
 
+Puede encontrar licencias y datos de usuario para un solo cliente o en toda su cartera.
 
-**Para un único cliente**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Buscar licencias y datos de usuario para un solo cliente
 
-- Seleccione **clientes** del **centro de Partners**, elija un cliente y, a continuación, seleccione **Customer Insights**.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-**En la cartera**
+2. Seleccionar **clientes** del **centro de Partners**
 
-1.  En el **centro de Partners**, seleccione **analizar**.
-2.  Para descargar los datos de uso y la implementación en todo el conjunto de clientes, selecciona las opciones de **exportación**.
+3. Elija un cliente.
+
+4. Seleccione **Customer Insights**.
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Busque licencias y datos de usuario en su cartera
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+
+2. Seleccione **analizar**y elija entre las opciones de análisis del menú.
+
+3. Para descargar datos de implementación y uso en todo el conjunto de clientes, seleccione la opción **exportar** (flecha abajo).
 
 Terminología:
 
-- **Derecho:** una licencia que el usuario tiene derecho a usar (no se suspende por fraude o sin pago, no se ha actualizado a una licencia diferente, no se ha cancelado por el usuario, etc.).
+- **Derecho** = licencia que el usuario tiene derecho a usar (no se suspende por fraude o no pago, no se ha actualizado a una licencia diferente, no se ha cancelado por el usuario, etc.).
 
-- **Activo:** si el usuario suscrito ha usado el derecho para una tarea en los últimos 28 días naturales.
+- **Active** = si el usuario suscrito ha usado el derecho para una tarea en los últimos 28 días del calendario.
 
 - **Implementación %** = licencias asignadas/licencias vendidas
 
@@ -61,13 +71,13 @@ Terminología:
 
    A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede ocurrir por varios motivos:
 
-   - Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
+  - Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
 
-   - Si el cliente tiene dos suscripciones para una SKU, pero una se encuentra en período de gracia, deshabilitada o sin aprovisionar, los derechos de ambas suscripciones pueden registrar el uso activo durante el período de 28 días, pero solo una se cuenta en el total.
+  - Si el cliente tiene dos suscripciones para una SKU, pero una se encuentra en período de gracia, deshabilitada o sin aprovisionar, los derechos de ambas suscripciones pueden registrar el uso activo durante el período de 28 días, pero solo una se cuenta en el total.
 
-   - Si el cliente tiene una suscripción de prueba, la actividad se cuenta pero la suscripción no cuenta como parte del total de derechos.
+  - Si el cliente tiene una suscripción de prueba, la actividad se cuenta pero la suscripción no cuenta como parte del total de derechos.
 
-   - Si los clientes usan Yammer mucho más de lo que se les ha concedido según su licencia, los datos pueden distorsionarse de forma considerable.
+  - Si los clientes usan Yammer mucho más de lo que se les ha concedido según su licencia, los datos pueden distorsionarse de forma considerable.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

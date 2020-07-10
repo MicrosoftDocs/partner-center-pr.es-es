@@ -1,7 +1,7 @@
 ---
-title: Microsoft Azure el tamaño de la máquina virtual para el uso máximo de reserva | Centro de Partners
+title: Tamaño de la máquina virtual de Azure para el uso máximo de reserva
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información acerca de cómo cambiar el tamaño de una máquina virtual (VM) a las necesidades informáticas de sus clientes al comprar Microsoft Azure reservas para ellas.
@@ -9,23 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, reservas, máquinas virtuales, administración, uso, ajuste de tamaño
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453282"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175910"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
 **Se aplica a**
 
 - Centro de partners
-- Azure portal
+- Azure Portal
 - Asociados en CSP
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente
 
 Al comprar Microsoft Azure reservas en nombre de sus clientes, deberá elegir un tamaño de máquina virtual (VM) para satisfacer las necesidades informáticas del cliente. Puede encontrar esta información mediante uno de estos métodos:
 
@@ -42,27 +42,31 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 >[!IMPORTANT]
 >Para identificar correctamente el tipo y el tamaño de la máquina virtual que se va a comprar en nombre de su cliente, debe usar uno de los métodos descritos a continuación, ya que el tipo de serie de la máquina virtual no se muestra correctamente en los archivos de conciliación del centro de Partners.
 
-**Obtención de información de tamaño de la máquina virtual mediante la API de uso de Azure**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Obtención de información de tamaño de la máquina virtual mediante la API de uso de Azure
 
 1. Use el valor para el atributo ServiceType de additionalInfo en la respuesta de la API para identificar el tamaño de la máquina virtual que se va a comprar.
+
 2. Para obtener más información, consulte [obtención de los registros de uso de un cliente para Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) en la [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/).
 
-**Obtención de información de tamaño de la máquina virtual mediante el Microsoft Azure Portal**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Obtención de información de tamaño de la máquina virtual mediante el Microsoft Azure Portal
 
 1. En el centro de Partners, vaya a la página de **clientes** .
+
 2. Busque el cliente que desea comprar reservas de máquinas virtuales de Azure y, después, seleccione la flecha abajo para expandir la información del cliente. Seleccione **portal de administración de Microsoft Azure** para abrir el registro del cliente en el Azure portal.
+
 3. Seleccione **máquinas virtuales** en el menú del portal y, a continuación, seleccione la máquina virtual para la que desea comprar una reserva.
+
 4. En la página de detalles de la máquina virtual, busque la información de tamaño y región, como se muestra a continuación, y use esta información para comprar la reserva en el centro de Partners.  
 
-    :::image type="content" source="images/usage1.png" alt-text="Información de tamaño y región en la página de detalles":::
+   :::image type="content" source="images/usage1.png" alt-text="Información de tamaño y región en la página de detalles":::
 
-**Obtención de información de tamaño de máquina virtual mediante Microsoft Azure PowerShell**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Obtención de información de tamaño de máquina virtual mediante Microsoft Azure PowerShell
 
 Use la información de la imagen siguiente para obtener la ubicación y el tamaño de la máquina virtual para la que desea comprar una reserva. 
 
 :::image type="content" source="images/usage2.png" alt-text="Ubicación y tamaño de la máquina virtual":::
 
-**Obtención de información de tamaño de la máquina virtual mediante la API de Azure Resource Manager (ARM)**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Obtención de información de tamaño de la máquina virtual mediante la API de Azure Resource Manager (ARM)
 
 1. Con las API de ARMClient o ARM, llame al cliente de ARM para la máquina virtual para la que desea comprar una reserva.
 
@@ -79,7 +83,7 @@ Después de comprar una instancia reservada de máquina virtual de Azure en nomb
 
 Puede comprobar el uso de la reserva del cliente y ver a qué máquinas virtuales se aplican los descuentos de reserva mediante uno de los métodos siguientes:
 
-- El Portal de Azure
+- Azure Portal
 - API de uso de Azure
 
 A continuación se proporcionan instrucciones para usar cada uno de estos métodos.

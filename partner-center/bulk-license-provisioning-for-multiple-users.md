@@ -1,7 +1,7 @@
 ---
 title: Asignar o revocar licencias a varios usuarios
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo usar una cuenta de cliente para asignar o revocar licencias y servicios a un usuario o a varios usuarios a la vez.
@@ -10,12 +10,12 @@ ms.author: dineshvu
 Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 35ab785649419e443171f5037e66a8a38fd1c7e6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948145"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86176005"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Asignar o revocar licencias al mismo tiempo para varios usuarios de una cuenta de cliente
 
@@ -35,14 +35,12 @@ Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez 
 
 El centro de Partners realiza un seguimiento y muestra todos los derechos de licencia propiedad del cliente.
 
-## <a name="in-this-section"></a>En esta sección
-
-
+Las secciones siguientes le indicarán cómo:
 - [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
-- [Revocación de las asignaciones de licencia de los usuarios](#revoking-licenses)
+- [Revocar las asignaciones de licencia de los usuarios](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-**Asignación de licencias a varios usuarios**
+## <a name="assign-licenses-to-multiple-users"></a>Asignar licencias a varios usuarios
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 
@@ -58,18 +56,23 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
     La página Administrar licencias muestra la lista de los derechos de licencia correspondientes a las cuentas de cliente y el número de **Licencias disponibles** para cada producto.
 
-    -   Las casillas de la columna **Producto** muestran el estado de todos los usuarios seleccionados respecto a los productos para los que el cliente tiene derecho:
+    - Las casillas de la columna **Producto** muestran el estado de todos los usuarios seleccionados respecto a los productos para los que el cliente tiene derecho:
 
-        -   Cuando todos los usuarios seleccionados ya tienen una licencia, se rellena la casilla del producto.
-        -   Si algunos de los usuarios seleccionados tiene una licencia de producto, la casilla de dicho producto se rellena parcialmente.
-        -   Si ninguno de los usuarios seleccionados tiene una licencia de producto, la casilla está vacía.
-    -   Cada usuario seleccionado aparece en un pequeño cuadro cerca de la parte superior de la página. Los usuarios aparecen ordenados.
+       - Cuando todos los usuarios seleccionados ya tienen una licencia, se rellena la casilla del producto.
 
-    -   Selecciona cualquier vínculo en la columna **Asignado** para ver una lista de información sobre herramientas que muestra los usuarios seleccionados que ya tienen una licencia.
+       - Si algunos de los usuarios seleccionados tiene una licencia de producto, la casilla de dicho producto se rellena parcialmente.
 
-    -   Cualquier producto sin licencias disponibles muestra un vínculo **Comprar más**. Puedes adquirir más licencias cuando los clientes las necesiten.
+       - Si ninguno de los usuarios seleccionados tiene una licencia de producto, la casilla está vacía.
 
-6.  En **Asignar y revocar licencias**, selecciona las licencias de producto para los nuevos usuarios. Por ejemplo, si ninguno de los usuarios seleccionados tiene licencias de Office 365 Enterprise y quieres agregarlos, selecciona la casilla. Debes tener suficiente licencias para cada producto seleccionado.
+    - Cada usuario seleccionado aparece en un pequeño cuadro cerca de la parte superior de la página. Los usuarios aparecen ordenados.
+
+    - Selecciona cualquier vínculo en la columna **Asignado** para ver una lista de información sobre herramientas que muestra los usuarios seleccionados que ya tienen una licencia.
+
+    - Cualquier producto sin licencias disponibles muestra un vínculo **Comprar más**. Puedes adquirir más licencias cuando los clientes las necesiten.
+
+6. En **Asignar y revocar licencias**, selecciona las licencias de producto para los nuevos usuarios. 
+
+   Por ejemplo, si ninguno de los usuarios seleccionados tiene licencias de Office 365 Enterprise y desea agregarlos, active la casilla. Debes tener suficiente licencias para cada producto seleccionado.
 
 7. Para seleccionar más de un producto para los usuarios, selecciona la casilla de cada producto.
     -   Selecciona **Ver planes de servicio** de cualquier producto para ver y seleccionar los planes de servicio que necesitan los usuarios.
@@ -79,9 +82,8 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 >[!NOTE]
 >Es posible que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
-
 <a href="" id="revoking-licenses"></a>
-**Revocar las asignaciones de licencia de los usuarios**
+## <a name="revoke-users-license-assignments"></a>Revocar las asignaciones de licencia de los usuarios
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
 
@@ -95,10 +97,14 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 5. Selecciona el vínculo **Administrar licencias**.
 
-6. En **Asignar y revocar licencias**, borra las casillas de los productos asignados a los usuarios. Por ejemplo, si todos los usuarios seleccionados tienen licencias de Office 365 Enterprise y deseas revocarlas, selecciona la casilla para borrarla.
+6. En **Asignar y revocar licencias**, borra las casillas de los productos asignados a los usuarios.
+
+   Por ejemplo, si todos los usuarios seleccionados tienen licencias de Office 365 Enterprise y deseas revocarlas, selecciona la casilla para borrarla.
 
 7. Seleccione **Guardar**.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Asignar licencias a un usuario](assign-licenses-to-users.md)
+- [Asignar licencias a un usuario](assign-licenses-to-users.md)
+
+- [Restablecer los privilegios de administrador para las suscripciones de del programa CSP de Azure de un cliente](revoke-reinstate-csp.md)

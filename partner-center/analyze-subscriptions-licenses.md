@@ -1,23 +1,23 @@
 ---
-title: Analizar suscripciones y licencias | Centro de Partners
-ms.date: 11/13/2019
+title: Analizar suscripciones y licencias
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo usar las métricas en la página de análisis de licencias y suscripción para identificar sus éxitos y áreas que requieren más atención.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: datos económicos
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948589"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175962"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analizar suscripciones y licencias 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analice las suscripciones y licencias para ayudarle a impulsar decisiones empresariales y nuevos objetivos
 
 **Se aplica a**
 
@@ -44,6 +44,8 @@ Este informe puede dinamizar en función de los siguientes productos:
  - **Microsoft 365**: Microsoft 365 datos  
  - **Office 365**: datos de Office 365  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipos de métricas de suscripción y licencia que puede ver
 
 Estamos realizando el seguimiento de las siguientes métricas:
 
@@ -77,4 +79,6 @@ Estamos realizando el seguimiento de las siguientes métricas:
 **Suscripciones de prueba que acaban en 30 días**  
  - Lista de las pruebas que se iniciaron, donde la fecha de finalización es de 30 días y no hay ninguna fecha de inicio de pago asociada a la suscripción.  
 
-  
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Analizar el rendimiento de los revendedores indirectos](analyze-indirect-resellers.md)

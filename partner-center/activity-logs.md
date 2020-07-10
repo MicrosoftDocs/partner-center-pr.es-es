@@ -10,12 +10,12 @@ ms.author: dineshvu
 Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06dc153dde88321556d7ff81da03264075ecc190
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947370"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86176001"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver o exportar registros de actividad del cliente para obtener más información sobre las transacciones del cliente
 
@@ -38,28 +38,26 @@ Los registros de actividades proporcionan información sobre las transacciones y
 
 Los registros de actividades proporcionan registros respecto a las acciones de los partners en las cuentas de los clientes y las transacciones de productos. También puedes exportar los registros de actividades a un archivo .csv.
 
-**Ver y exportar los registros de actividad**
+## <a name="view-and-export-activity-logs"></a>Ver y exportar los registros de actividades
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
 2. En el menú **Configuración de la cuenta**, selecciona **Registro de actividad**.
-2.  Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.
 
-    Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.
+3. Selecciona el período de registro de la actividad en los campos **Desde** y **Hasta**. De forma predeterminada, el registro de actividades se establece en el mes más reciente.
 
-    Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada. Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.
+   Cada registro actividades proporciona un vínculo a la página **Suscripciones** del cliente que se muestra.
 
-3.   Las columnas de datos del registro incluyen lo siguiente:
-    -   **Fecha y hora**: la fecha y hora de la acción.
-    -   **Cliente afectado**: El nombre de la compañía del cliente.
-    -   **Acción**: la acción realizada por el cliente, como "creó una referencia".
-    -   **Usuario asociado**: el partner asociado con la actividad.
+   Selecciona una flecha abajo de cualquier registro actividades para ver detalles acerca de una acción registrada. Un único registro de actividades puede mostrar una cantidad importante de datos, como el pedido de varios productos.
 
-4.  Selecciona **Exportar registro** para copiar los datos de suscripción del cliente en un archivo .csv y descargarlo en la carpeta de descarga predeterminada de tu equipo.
-    
- 
+4. Las columnas de datos del registro incluyen lo siguiente:
+   - **Fecha y hora**: la fecha y hora de la acción.
+   - **Cliente afectado**: El nombre de la compañía del cliente.
+   - **Acción**: la acción realizada por el cliente, como "creó una referencia".
+   - **Usuario asociado**: el partner asociado con la actividad.
 
- 
+5. Selecciona **Exportar registro** para copiar los datos de suscripción del cliente en un archivo .csv y descargarlo en la carpeta de descarga predeterminada de tu equipo.
 
+## <a name="next-steps"></a>Pasos siguientes
 
-
+- [Analice las suscripciones y licencias para ayudar a impulsar decisiones empresariales](analyze-subscriptions-licenses.md)

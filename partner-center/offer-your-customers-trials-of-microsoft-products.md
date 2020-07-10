@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907350"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175992"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ofrezca a los clientes versiones de evaluación gratuitas de los productos de Microsoft durante 30 días
 
@@ -37,18 +37,9 @@ Cada cliente tiene derecho a una evaluación gratuita por cada oferta disponible
 
 ### <a name="available-products"></a>Productos disponibles
 
-Hay evaluaciones gratuitas disponibles para los siguientes productos:
+Las evaluaciones gratuitas están disponibles para las ofertas basadas en licesen más completas y populares. Las nuevas ofertas de evaluación se pueden introducir mensualmente.
 
-- Estándar Microsoft 365 Empresa
-- Office 365 E3
-- Office 365 E5 con RTC
-- Office 365 E5 sin RTC
-- Enterprise Mobility & Security E5
-- Dynamics 365 Customer Engagement plan 1
-- Dynamics 365 Business Central
-- Microsoft 365 Empresa Premium
-
-Proporcionamos evaluaciones gratuitas de estos productos porque son las ofertas de empresa más completas y populares. Podemos agregar ofertas adicionales de evaluación gratuita en el futuro.
+Los asociados pueden encontrar versiones de prueba en la lista de precios mensuales en la página **precios y ofertas** del centro de Partners. Las ofertas de evaluación incluirán "evaluación" en la columna **tipo de licencia secundario** de lista de precios.
 
 Actualmente, no hay **ninguna evaluación gratuita** para ofertas de la administración pública, ofertas educativas ni ofertas de complementos.
 
@@ -56,15 +47,15 @@ Actualmente, no hay **ninguna evaluación gratuita** para ofertas de la administ
 
 Todas las pruebas gratuitas proporcionan 25 licencias. No se puede cambiar este número durante la evaluación. No puede Agregar o quitar puestos en la evaluación gratuita. Una vez convertida la versión de prueba en una suscripción de pago, puede agregar más licencias a la suscripción.
 
-Debe asignar licencias de prueba y puestos como lo haría para un servicio de pago en el centro de Partners.
+Las licencias de prueba y puestos deben asignarse a los usuarios de la misma manera que se asigna la licencia de servicios de pago.
 
 ## <a name="sign-customers-up-for-trials"></a>Inicio de sesión de los clientes para versiones de prueba
 
-Para firmar el cliente para una versión de prueba a través del centro de Partners:
+Obtenga una versión de prueba para su cliente en el centro de Partners:
 
 1. Desde **vender** en el centro de Partners, vaya a **Catálogo**. 
 2. En el catálogo, desde **frecuencia de facturación**, haga clic en **oferta de evaluación**. Esto permite que solo aparezcan las pruebas gratuitas y se deshabilitan otras ofertas que no son gratuitas. Las pruebas se mostrarán en la pestaña de **pruebas** del catálogo.
-3. Seleccione la evaluación gratuita que quiera ofrecer y, a continuación, seleccione **submit (enviar**). Todas las pruebas son durante 30 días durante los cuales no se le facturará. También puede convertirla en una suscripción de pago en cualquier momento durante la prueba.
+3. Seleccione la evaluación gratuita que quiera ofrecer y, a continuación, seleccione **submit (enviar**). Todas las pruebas son durante treinta días durante los cuales no se le cobrará. También puede convertirla en una suscripción de pago en cualquier momento durante la prueba.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversión de pruebas en suscripciones de pago
 
@@ -77,12 +68,12 @@ Deberá convertir la versión de prueba en una suscripción de pago. Para ello, 
 
 ### <a name="convert-trials-using-partner-center"></a>Convertir pruebas mediante el centro de Partners
 
-Puede convertir las pruebas en suscripciones de pago mediante el panel del centro de partners como se indica a continuación:
+Puede convertir las pruebas en suscripciones de pago mediante el centro de Partners:
 
 1. Vaya a la página de suscripción del cliente y seleccione la evaluación gratuita.
 2. Seleccione **convertir evaluación en suscripción de pago**.
 3. Escriba la cantidad de licencias deseada y la frecuencia de facturación y seleccione **aplicar**.
-4. La facturación de la suscripción de pago comienza en la fecha de conversión y la suscripción se renueva automáticamente en 12 meses a partir de la fecha de conversión. 
+4. La facturación de la suscripción de pago comienza en la fecha de conversión y la suscripción se renueva en 12 meses a partir de la fecha de conversión. 
 
 ### <a name="convert-trials-using-apis"></a>Conversión de pruebas mediante API
 
