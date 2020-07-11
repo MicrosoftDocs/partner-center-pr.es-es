@@ -1,21 +1,20 @@
 ---
 title: Transferencia de una suscripción de Azure a otro asociado
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo ayudar a un cliente a cambiar el asociado del programa CSP asociado a las suscripciones de Azure de ese cliente.
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: suscripción a Azure, cambiar asociado, cambiar asociado, obtener nuevo asociado, otro asociado
+description: Obtenga información acerca de cómo cambiar el asociado del programa proveedor de soluciones en la nube asociado a las suscripciones de Azure de un cliente.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949097"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237975"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Obtenga información sobre cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
@@ -52,9 +51,9 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 
      En el paso 2, seleccione **C-impacto mínimo** y elija **otras preguntas generales** como tipo de problema.
 
-     Descargue el [formulario de transferencia de suscripciones de CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip).
+     Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip), Regístrese y, a continuación, envíelo al cliente. Para rellenar el formulario, necesitarás la siguiente información:
+3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), Regístrese y, a continuación, envíelo al cliente. Para rellenar el formulario, necesitarás la siguiente información:
 
    - Información de contacto del partner actual e Id. de Microsoft. En el menú del Centro de partners, selecciona **Configuración de la cuenta** &gt; **Perfil de la organización** y usa el **Id. de Microsoft**, **Nombre de la organización** y **Dirección** que se enumeran ahí.
 

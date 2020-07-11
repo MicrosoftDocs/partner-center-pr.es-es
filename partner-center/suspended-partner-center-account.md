@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo restaurar una cuenta suspendida del Centro de partners, por qué se produce la suspensión de la cuenta de partner y cómo puedes usar tu cuenta durante la suspensión.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991804"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219653"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar una cuenta suspendida del centro de Partners: Aprenda por qué sucede y qué hacer con él.
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar una cuenta suspendida del Centro de partners: Aprenda por qué sucede y qué hacer con él.
 
 En este artículo se explica qué hacer si su cuenta del Centro de partners está suspendida.
 
@@ -27,7 +27,7 @@ En este artículo se explica qué hacer si su cuenta del Centro de partners est�
 
 
 > [!IMPORTANT]  
-> Mientras tu cuenta del Centro de partners esté suspendida, podrás seguir administrando las implementaciones, las licencias y los servicios existentes. Sin embargo, no podrá autorizar o revender nuevas licencias o servicios hasta que su cuenta esté en buen estado de nuevo.
+> Aunque se suspenda la cuenta del Centro de partners, puede seguir administrando sus implementaciones, licencias y servicios existentes. Sin embargo, no podrá autorizar ni revender nuevas licencias o servicios hasta que su cuenta esté en buen estado de nuevo.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Por qué se suspenden las cuentas del Centro de partners
 

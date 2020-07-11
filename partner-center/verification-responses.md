@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Siga el estado de la comprobación de la cuenta al intentar inscribirse en un nuevo programa del centro de Partners. Aprenda a proporcionar información adicional, si es necesario.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 Keywords: comprobación, comprobar, rechazado, actualización de Perfil de socio comercial
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62ec50c7a62538cd2f31dad936351327e6d51062
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: a4f5f44788c618386835d69fa435596b95cdcd62
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603834"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265026"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Comprobar la información de la cuenta al inscribirse en un nuevo programa del centro de Partners
 

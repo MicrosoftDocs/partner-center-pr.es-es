@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cree asociaciones de cliente a través del modelo CPOR (reclamando el asociado de registro). Ayuda a administrar las ventas, el uso, los incentivos de & para los clientes de Microsoft 365 y Dynamics 365.
-author: mallp
+author: MalloryPrincipe
 ms.author: mallp
 keywords: 'incentivos: reclamaciones, reclamaciones de cooperación, fondos de cooperación, OSU, OSA, ISV, Asociación de ingresos'
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af39f3dbd4223f462807aaa9aa8eac4d7f9d2fe
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ded3850ea03626cd25571746cc9aa32231bd14bc
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949174"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265065"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creación de una asociación de cliente a través del modelo CPOR: uso para Microsoft 365 y Dynamics 365 clientes
 

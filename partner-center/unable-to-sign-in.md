@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Obtenga información acerca de qué hacer si no puede iniciar sesión en el centro de Partners: incluye información sobre el restablecimiento de la contraseña de la cuenta profesional o la contraseña de la cuenta educativa si la ha olvidado.'
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 Keywords: problemas de inicio de sesión, contraseña olvidada, contraseña
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe77bcb9e1d85054f7927a8ca9e2f45207ae6777
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603639"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265041"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si no puede iniciar sesión en el centro de Partners y necesita restablecer su contraseña
 
