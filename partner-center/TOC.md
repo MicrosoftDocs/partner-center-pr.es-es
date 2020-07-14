@@ -252,6 +252,4 @@
 ## [Introducción](partner-security-requirements.md)
 ## [Requerir MFA para el inquilino del asociado](partner-security-requirements-mandating-mfa.md) 
 ## [Estado de los requisitos](partner-security-compliance.md)
-## [Implementar los requisitos de seguridad para asociados](implement-security-requirements.md)
 ## [Preguntas más frecuentes](partner-security-requirements-faq.md)
-
