@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados de Microsoft cualificados pueden responder a las referencias, administrar referencias nuevas, existentes y archivadas, y obtener más referencias en el futuro.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65d9629f610e3b6e145c348eebf6c197f3583318
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467275"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302252"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Responda a las referencias y obtenga posibles clientes potenciales de negocio
 

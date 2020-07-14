@@ -1,7 +1,7 @@
 ---
 title: Precios y ofertas
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte las listas de precios actuales para servicios basados en licencias como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite, y servicios basados en uso como Azure.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949339"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286633"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -42,13 +42,13 @@ Para ver los programas y ofertas más recientes del proveedor de soluciones en l
 - **Marketplace** incluye los precios de las soluciones de ISV del Marketplace comercial de Microsoft. Los precios se recuperan por mercado. Los datos de estos archivos se actualizan todos los días.
 
 > [!Note] 
-> Solo los asociados de CSP con la capacidad de Transact pueden ver y descargar listas de precios. Los revendedores indirectos deben [ponerse en contacto con su proveedor de CSP]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) para solicitar detalles sobre los precios
+> Solo los asociados de CSP con la capacidad de Transact pueden ver y descargar listas de precios. Los revendedores indirectos deben [ponerse en contacto con su proveedor de CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) para solicitar detalles sobre los precios
 
 ## <a name="price-list-preview-and-change-frequency"></a>Vista previa de la lista de precios y frecuencia de cambio 
 
 Los servicios basados en licencias incluyen una vista previa de la lista de precios, siempre con 30 días antes de que se realicen cambios. Para ver la vista previa de la lista de precios, vaya a **vender > precios y ofertas**. No hay ninguna vista previa de precios para los servicios basados en el uso, ya que estos servicios son dinámicos. En la tabla siguiente se explica cómo leer la tabla de lista de precios.
 
-|**Item**        |**Definición**      |
+|**Item**        |**Definition**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuevo elemento a la lista de precios|
 |PREC   |Cambia el precio de venta de mes a mes. Pueden producirse otros cambios no relacionados con el precio de la lista, los asociados deben comparar las listas de precios entre meses para determinar los cambios en otras propiedades.|
@@ -157,7 +157,7 @@ Hay aproximadamente 50 ofertas de Dynamics que tienen términos de tres años. S
 
 Microsoft 365 oferta de base a1 tiene un plazo de seis años.  Los complementos de Office 365 a1 están disponibles después de adquirir esta oferta de base. 
 
-|**Nombre de la oferta**   |**Identificador de oferta**   |**Type**|
+|**Nombre de la oferta**   |**Identificador de oferta**   |**Tipo**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
 |Office 365 a1 para profesores (para dispositivos)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|

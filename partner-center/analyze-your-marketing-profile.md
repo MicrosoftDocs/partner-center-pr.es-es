@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo usar la página de información de Perfil de negocio para ver cómo está capturando la atención de sus clientes de destino y generando referencias.
-author: vikramb
+author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c648fbf98ff0af3f79d689cc2b22297bc1a5aa84
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948568"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302232"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analice su perfil de negocio: vea cómo atrae a los clientes de destino y las posibles referencias
 <!-- 

@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Cuando registre un trato que haya ganado en el centro de Partners, ayudará a Microsoft a proporcionarle más oportunidades en el futuro.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: registro de la oferta
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467415"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302262"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre los acuerdos que ha ganado en el centro de partners para que pueda obtener más oportunidades más adelante
 
@@ -65,6 +65,6 @@ En la página **Referencias > Registrar las ofertas > En curso**, verás los reg
 
 Si es necesario actualizar cualquier información, es posible que movamos el registro de la oferta a la página **Acción requerida**.
 
-### <a name="closed"></a>Cerrada
+### <a name="closed"></a>Cerrado
 
 En la página **Referencias > Registrar las ofertas > Cerrado**, verás las ofertas que Microsoft ha registrado y revisado correctamente. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado** o **Rechazado**.
