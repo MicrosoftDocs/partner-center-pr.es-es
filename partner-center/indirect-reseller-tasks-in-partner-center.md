@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362763"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879346"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
 
@@ -196,6 +196,24 @@ Para obtener permisos de administrador para administrar las suscripciones y los 
 4. Una vez que el cliente os autorice, a ti y al proveedor, como revendedores de registro, tendrás permisos de administrador necesarios para administrar suscripciones, licencias y usuarios en su nombre. El proveedor indirecto también puede enviar pedidos en su nombre.
 
 5. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
+
+## <a name="remove-a-relationship-with-a-customer"></a>Eliminación de una relación con un cliente
+
+Para eliminar la relación con un cliente, complete los pasos siguientes:
+
+1.  En el Centro de partners, vaya a **Clientes** y seleccione el cliente cuya relación quiera eliminar.
+
+2.  Seleccione la **Cuenta**.
+
+3.  Seleccione **Remove customer relationship** (Quitar relación de cliente).
+
+4.  El cliente ya no aparecerá en la lista de clientes.
+
+>[!IMPORTANT]
+>Si estableció una relación con un cliente y quita esa relación, los privilegios de administrador delegados concedidos permanecerán sin cambios.
+>Significa que la decisión de interrumpir la relación con el cliente se ha hecho de buena fe, por un propósito comercial legítimo y de acuerdo con el contrato firmado con su cliente o partner, y está de acuerdo en defender y eximir de toda responsabilidad a Microsoft frente a las reclamaciones de terceros, en caso contrario.
+>Si su contrato lo requiere, debe proporcionar un aviso legal de terminación a su cliente o partner. Esta herramienta no genera ningún aviso al cliente o al partner.
+
 
 ## <a name="next-steps"></a>Pasos siguientes
 
