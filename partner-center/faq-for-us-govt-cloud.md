@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte las respuestas a las preguntas más frecuentes (p + f) sobre el programa proveedor de soluciones en la nube (CSP) para obtener Microsoft Cloud para el gobierno de EE. UU.
-author: mowrim
+author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 67bdaebcf87f147d45c87eda605559e41334b9a9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947521"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390542"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes sobre el centro de partners para Microsoft Cloud para el gobierno de EE. UU.
 

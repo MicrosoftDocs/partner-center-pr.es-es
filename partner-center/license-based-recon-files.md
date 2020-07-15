@@ -3,16 +3,16 @@ title: Archivos de conciliación basada en licencia
 ms.topic: article
 ms.date: 05/18/2020
 description: Obtenga información sobre cómo leer archivos de conciliación basados en licencias en el centro de Partners. En este artículo se explica el significado de cada campo en el archivo de conciliación basado en licencias.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909053"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377699"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Descripción de los campos de los archivos de conciliación basados en licencias del centro de Partners
 

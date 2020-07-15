@@ -4,18 +4,18 @@ description: Cada empleado debe tener asignado un rol para poder acceder al Cent
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.custom: SEOAPR.20
 Keywords: roles, permisos, agregar usuario, asignar rol, administrador, agente,
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f73a134193f975357ec2257711f283a6360d33eb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9ec8e98f77d49e34b6747b0f580502e9df25a950
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991424"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265199"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creación de cuentas de usuario y asignación de roles y permisos
 

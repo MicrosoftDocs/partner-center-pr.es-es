@@ -5,24 +5,24 @@ ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información acerca de cómo cambiar el tamaño de una máquina virtual (VM) a las necesidades informáticas de sus clientes al comprar Microsoft Azure reservas para ellas.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Azure, reservas, máquinas virtuales, administración, uso, ajuste de tamaño
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175910"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377659"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
 **Se aplica a**
 
 - Centro de partners
-- Azure Portal
+- Azure portal
 - Asociados en CSP
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente
@@ -83,7 +83,7 @@ Después de comprar una instancia reservada de máquina virtual de Azure en nomb
 
 Puede comprobar el uso de la reserva del cliente y ver a qué máquinas virtuales se aplican los descuentos de reserva mediante uno de los métodos siguientes:
 
-- Azure Portal
+- El Portal de Azure
 - API de uso de Azure
 
 A continuación se proporcionan instrucciones para usar cada uno de estos métodos.

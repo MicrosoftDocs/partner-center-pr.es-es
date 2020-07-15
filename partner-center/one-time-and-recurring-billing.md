@@ -3,17 +3,17 @@ title: 'Facturación: una sola vez & seleccionar cargos periódicos'
 ms.topic: article
 ms.date: 05/26/2020
 Description: Obtenga más información acerca de la facturación del centro de Partners, como la facturación única por adelantado de los términos y la facturación preestablecidos para los cargos de SELECT y periódicos.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación, una vez, periódico, compras, cargos, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749142"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390252"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Facturación de una sola vez y selección de cargos periódicos en el centro de Partners
 

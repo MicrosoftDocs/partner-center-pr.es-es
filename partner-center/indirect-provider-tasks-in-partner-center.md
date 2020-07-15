@@ -4,17 +4,17 @@ description: Como proveedor o distribuidor indirecto, obtenga información sobre
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879368"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377219"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -118,7 +118,7 @@ Para quitar la asociación con el revendedor indirecto existente, siga estos pas
 >[!IMPORTANT]
 >No se quitarán los clientes asociados al revendedor indirecto. Los privilegios de administrador delegados concedidos permanecerán sin cambios.
 >Representa que la decisión de dejar de responder con el socio comercial se hizo de buena fe, para un propósito comercial legítimo y de acuerdo con su contrato con su cliente o socio comercial, y se compromete a defender y sostener a Microsoft de las reclamaciones de terceros en lo contrario.
->Si su contrato lo requiere, debe proporcionar un aviso legal de terminación a su cliente o asociado. Esta herramienta no genera ningún aviso al cliente o al asociado.
+>Si su contrato lo requiere, debe proporcionar un aviso legal de terminación a su cliente o partner. Esta herramienta no genera ningún aviso al cliente o al partner.
 
 3. El revendedor indirecto cuya Asociación haya quitado no aparecerá en la lista.
 Según el nivel de acceso y la implicación, puede que desee comunicarse con el revendedor indirecto, así como con el cliente final sobre este cambio.

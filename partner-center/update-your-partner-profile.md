@@ -3,18 +3,18 @@ title: Comprobación de tu perfil de partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo comprobar la información de tu empresa, como el contacto principal, la dirección y la información del programa. También puedes actualizar el domicilio legal y la dirección de facturación.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991984"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286583"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Comprobación de la información del perfil de partner en el Centro de partners
 
@@ -37,7 +37,7 @@ Ahora ya puedes actualizar el domicilio legal en el Centro de partners.
 2. Selecciona **Actualizar** situado junto al domicilio legal. ""
 
 >[!Important]
->Si eres un partner de CSP, no puedes cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está ligado a tu inquilino y a los servicios, así como a la moneda en la que realizas las transacciones. Si no estás en el programa CSP, puedes cambiar el país o región asociado con tu domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de aprobación es "Autorizado". Tendrás que [crear una incidencia de soporte técnico](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Si eres un partner de CSP, no puedes cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está ligado a tu inquilino y a los servicios, así como a la moneda en la que realizas las transacciones. Si no estás en el programa CSP, puedes cambiar el país o región asociado con tu domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de aprobación es "Autorizado". Tendrás que [crear una incidencia de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Al seleccionar **Enviar**, se volverá a evaluar la identidad legal y recibirás otro correo electrónico que deberás aceptar.
 

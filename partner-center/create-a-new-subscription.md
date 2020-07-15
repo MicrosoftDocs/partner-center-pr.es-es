@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a vender sus suscripciones de clientes a productos publicados por Microsoft, así como a productos SaaS publicados por fabricantes de software independientes de terceros.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: suscripción, creación de una nueva, adición de suscripción, suspensión, cancelación, suspensión, suspensión, SaaS, licencia, ISV, terceros
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991491"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377608"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -99,7 +99,7 @@ Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podr�
 
 Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Suspendida** indica la fecha en que la suscripción expiraría automáticamente si no se vuelve a activar. Para obtener más información, consulte [preguntas más frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md).
 
-### <a name="cancel-a-subscription"></a>Cancelar una suscripción
+### <a name="cancel-a-subscription"></a>Cancelación de una suscripción
 
 Tiene la opción de cancelar las suscripciones de SaaS basadas en licencias de los publicadores de ISV de terceros en el [Marketplace comercial](csp-commercial-marketplace-overview.md)del centro de Partners. Siempre que se cancele el período de cancelación, recibirá un reembolso completo.
 
@@ -139,7 +139,7 @@ Para cancelar una suscripción de SaaS basada en licencia de un publicador de IS
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Elegir si se va a renovar automáticamente una suscripción de Marketplace comercial
 
-De forma predeterminada, las suscripciones activas se configuran para que se renueven automáticamente cuando expire el período de suscripción. En el caso de las [suscripciones a productos comerciales de Marketplace](csp-commercial-marketplace-overview.md), tienes la opción de no renovar la suscripción automáticamente.
+De forma predeterminada, las suscripciones activas se configuran para que se renueven automáticamente cuando expire el período de suscripción. En el caso de las [suscripciones a productos comerciales de Marketplace](csp-commercial-marketplace-overview.md), opcionalmente, puede optar por no renovar la suscripción automáticamente.
 
 Para detener la renovación automática de una suscripción de Marketplace comercial activa:
 

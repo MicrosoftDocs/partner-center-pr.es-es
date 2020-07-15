@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén los permisos que necesitas para administrar el servicio o la suscripción de un cliente en su nombre. Obtén información acerca de cómo se conceden, revocan y administran los permisos.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: privilegios de administrador delegado, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198603"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377439"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtención de permisos para administrar el servicio o la suscripción de un cliente
 
@@ -34,7 +34,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 
 1.  Selecciona **Clientes** y, a continuación, selecciona **Solicitar una relación de revendedor**.
 
-2.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puedes abrir el borrador de mensaje de correo electrónico en la aplicación de mensajería predeterminada o puedes copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
+2.  En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje en la aplicación de correo electrónico predeterminada o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico. 
 
     >[!IMPORTANT]
     >Puedes editar el texto en el correo electrónico, pero asegúrate de incluir el vínculo, ya que se trata de un vínculo personalizado que conecta al cliente directamente con tu cuenta. 

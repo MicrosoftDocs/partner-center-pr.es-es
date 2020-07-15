@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre los requisitos de idoneidad para cada compromiso de servicios de planeación de software Assurance que una empresa podría querer ofrecer a los clientes empresariales.
-author: mowrim
-ms.author: mowrim
+author: ArpithaKanuganti
+ms.author: v-arkanu
 Keywords: anterior a la implementación, planeamiento, software Assurance, compromisos, requisitos, elegibilidad, oferta
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86e75059ace279bf3b6a6f78b3e77262792f84dc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949602"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390212"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver los requisitos de idoneidad para los compromisos de Planning Services
 

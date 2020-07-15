@@ -3,17 +3,17 @@ title: Descripción de los campos de las facturas de facturación
 ms.topic: article
 ms.date: 05/18/2020
 description: Comprenda los campos del archivo de factura para la facturación del centro de Partners.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: facturación, factura
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 609860227f11c9d4bc2806d87ac7e595e503bf07
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 431ed4224e67312605367709174386327a521052
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991969"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377099"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Facturas de facturación del centro de Partners: Aprenda a leer los campos de facturación y de cargos de un solo uso
 
@@ -60,7 +60,7 @@ Los campos siguientes solo se aplican a **cargos** únicos en el centro de Partn
 | Campo | Definición |
 | ----- | ---------- |
 | Date | Fecha de compra. |
-| Description | Nombre de producto. |
+| Descripción | Nombre de producto. |
 | Cantidad | El número de productos (como reservas) adquiridos. |
 | Precio unitario | Precio por producto (por ejemplo, una reserva). |
 | Descuentos | Cualquier descuento aplicable. |

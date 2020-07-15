@@ -1,20 +1,21 @@
 ---
-title: Incentivos las notificaciones de cooperación | Centro de Partners
+title: Reclamaciones de incentivos de cooperación
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo enviar notificaciones de incentivos sin el requisito previo para revisar el plan de actividades.
+description: Obtenga información acerca de cómo enviar una demanda de cooperación correcta para sus incentivos organizando la documentación, las facturas, las instrucciones y la prueba de ejecución adecuadas.
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: 'incentivos: reclamaciones, reclamaciones de cooperación, fondos de cooperación'
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948082"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377639"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Introducción a las reclamaciones de incentivos de cooperación
 

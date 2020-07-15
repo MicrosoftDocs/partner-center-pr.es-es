@@ -5,16 +5,16 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e77c1621fcd6d7475386d57b79edd537b338a884
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949423"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390652"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Compatibilidad con varios canales: uso de otros socios para admitir las suscripciones de clientes adquiridas en otro lugar
 

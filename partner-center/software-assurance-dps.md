@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo inscribirse y tener la seguridad en las contrataciones de Microsoft Planning Services para que pueda ofrecer aprendizaje y otros servicios a los clientes con software Assurance.
-author: mowrim
+author: mowree
 ms.author: mowrim
 Keywords: anterior a la implementación, planeamiento, software Assurance
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc18e4787194e8933aec95dfff278a7e8bb87f5d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949596"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390332"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 

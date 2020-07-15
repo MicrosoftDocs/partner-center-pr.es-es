@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir Engagements, invitar a Microsoft a colaborar o ver las negociaciones enviadas.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948053"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390562"
 ---
 # <a name="co-sell-with-microsoft"></a>Venta conjunta con Microsoft
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948053"
 Como asociado de Microsoft cualificado, tiene la oportunidad de colaborar con Microsoft. Esta colaboración le ayuda a tomar soluciones para comercializar, impulsar ingresos conjuntos y garantizar el éxito de los clientes.
 
 > [!IMPORTANT]
-> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas contratado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas implicado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Invite a Microsoft a colaborar en una interacción
 

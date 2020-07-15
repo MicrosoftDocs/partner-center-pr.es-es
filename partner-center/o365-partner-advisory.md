@@ -3,19 +3,19 @@ title: 'Asesor de asociados de CSP: Microsoft 365 Voice'
 description: Obtenga información acerca de los servicios RTC en algunos países y requisitos normativos o de impuestos especiales que pueden aplicarse y afectar al orden y la facturación de los asociados.
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, servicios RTC, impuestos, requisitos, factura, facturación
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907366"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377799"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 Partner Advisory: Microsoft 365 Empresa Voice en el programa CSP
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Asesoría de partner de Office 365: Microsoft 365 Business Voice en el programa CSP
 
 **Se aplica a**
 
@@ -38,7 +38,7 @@ Las facturas de CSP y los archivos de conciliación de CSP en el Estados Unidos,
 
 Además, las facturas de CSP mostrarán la siguiente nota al pie:
 
-* El precio mostrado es un cargo por la Conferencia de audio y los servicios del plan de llamadas.  Cualquier impuesto transaccional aplicable se cobra exclusivamente por la cantidad que se muestra, excepto por las ventas realizadas en el Estados Unidos.  En Estados Unidos, el precio mostrado es impuesto incluido, ya que incluye un cargo por el plan de llamada y los servicios de conferencia de audio, y un cargo por los impuestos y las tarifas que es necesario cobrar.  Los servicios de la Conferencia de audio y del plan de llamada se prestan a través de la filial de Microsoft autorizada para proporcionarlos.  Consulte [licencias por volumen de Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) para obtener más información.
+* El precio mostrado es un cargo por la Conferencia de audio y los servicios del plan de llamadas.  Cualquier impuesto transaccional aplicable se cobra exclusivamente por la cantidad que se muestra, excepto por las ventas realizadas en el Estados Unidos.  En Estados Unidos, el precio mostrado es impuesto incluido, ya que incluye un cargo por el plan de llamada y los servicios de conferencia de audio, y un cargo por los impuestos y las tarifas que es necesario cobrar.  Los servicios de la Conferencia de audio y del plan de llamada se prestan a través de la filial de Microsoft autorizada para proporcionarlos.  Consulte [Licencias por Volumen de Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247) para más información.
 
 ## <a name="reconciliation-file-example"></a>Ejemplo de archivo de conciliación
 
@@ -46,10 +46,10 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 
 **#1 de ejemplo de conciliación de asociados (seleccionar columnas):**
 
-|**ID_oferta_durable**|**Offer_Name**|**Subscription_Start_Date**|**Fecha_Fin_Suscripción**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
+|**ID_oferta_durable**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2,00   |
 
 **Ejemplo de conciliación de asociados #2**
 

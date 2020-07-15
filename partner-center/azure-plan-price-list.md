@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para ver la lista de precios de las suscripciones en el plan de Azure.
-author: dineshvu
-ms.author: dineshvu
+author: brentserbus
+ms.author: brserbus
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecfd86d41f550bc4f124b371d87c59e928dd4253
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9c9c19d9df9238e1a53d5196312d7d10515b121f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948407"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390342"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure
 

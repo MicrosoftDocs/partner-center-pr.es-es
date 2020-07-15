@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para comprar, administrar, vender y cancelar instancias reservadas de Azure y las suscripciones de servidor para los clientes.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, RI de Azure, Windows Server, SQL Server, suscripciones de software, cancelar software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
-ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
+ms.openlocfilehash: 96e4e0fb973350e8d3718b6545eb80ae21d0b49c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "85267192"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377589"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 

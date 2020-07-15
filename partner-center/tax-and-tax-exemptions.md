@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: En el caso de los asociados de programas de CSP, obtenga información sobre las responsabilidades fiscales por región, cómo enviar exenciones fiscales para las ventas de CSP y cómo obtener soporte técnico para preguntas fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
+author: BillLinzbach
 keywords: impuestos, exención fiscal, IVA, Reseller, facturación
-ms.author: labrenne
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991791"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377379"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Obtenga información sobre impuestos y detalles de exención fiscal por región o país para asociados en el programa CSP.
 

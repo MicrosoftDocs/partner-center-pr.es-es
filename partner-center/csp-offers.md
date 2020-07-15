@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado del programa CSP, obtén información sobre el creciente catálogo de servicios en la nube de Microsoft y las ofertas que puedes vender a los clientes.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Proveedor de soluciones en la nube, programa Proveedor de soluciones en la nube, CSP, agregar un producto, vender a clientes, ofertas de partners, ofertas de CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, RI de Azure, instancias de máquina virtual reservadas de Azure, reservas de Azure, servicios en línea, software de suscripción, AHUB, SQL Server en Azure, Windows Server Azure, suscripciones de clientes
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 88565466bfe124e05d3bac85e6814dfa44ec3ca7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679022"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390532"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
 
