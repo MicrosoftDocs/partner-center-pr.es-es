@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo los partners pueden usar diferentes opciones de control de acceso basado en roles (RBAC) para obtener el control operativo y poder administrar los recursos de Azure de un cliente.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948435"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175948"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Administración de suscripciones y recursos en el plan de Azure
 
@@ -29,9 +29,9 @@ Al realizar la transición de un cliente al plan de Azure, se le asignan derecho
 
 - **Azure Lighthouse**: AOBO no permite la flexibilidad de crear grupos distintos que funcionen con diferentes clientes ni habilitar diferentes roles para grupos o usuarios. Con Azure Lighthouse, puede asignar grupos diferentes a distintos clientes o roles. Dado que los usuarios tendrán el nivel de acceso adecuado a través de la administración de recursos delegados de Azure, puede reducir el número de usuarios que tienen el rol de agente de administración (y, por tanto, que tienen acceso total a AOBO). Esto ayuda a mejorar la seguridad al limitar el acceso innecesario a los recursos de los clientes. También ofrece más flexibilidad para administrar varios clientes a escala. Para obtener más información, consulte [Azure Lighthouse y el programa Proveedor de soluciones en la nube](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Usuarios invitados o de directorio o [Entidades de servicio](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Puede delegar el acceso granular a las suscripciones de CSP agregando usuarios en el directorio del cliente o agregando usuarios invitados y asignando roles de RBAC específicos. 
+-  **Usuarios invitados o de directorio o [Entidades de servicio](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Puede delegar el acceso granular a las suscripciones de CSP agregando usuarios en el directorio del cliente o agregando usuarios invitados y asignando roles de RBAC específicos.
 
-Microsoft recomienda que los usuarios tengan los permisos mínimos que necesitan para realizar su trabajo como práctica de seguridad. Consulte [Recursos de Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure). 
+Microsoft recomienda que los usuarios tengan los permisos mínimos que necesitan para realizar su trabajo como práctica de seguridad. Consulte [Recursos de Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Vinculación del id. de partner (identificador de MPN) con las credenciales para administrar los recursos de Azure del cliente
 
@@ -56,28 +56,27 @@ Necesita acceso de administrador para administrar los servicios del cliente y re
 
 1. Cree la alerta.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Alerta de Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Alerta de Azure":::
 
 2. Seleccione el tipo de acción que quiere que lleve a cabo la alerta. Por ejemplo, si especifica que quiere un correo electrónico, recibirá un mensaje de correo electrónico en el que se le notificará si se elimina alguna asignación de roles.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configuración de la alerta":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configuración de la alerta":::
 
 ### <a name="aobo-removal"></a>Eliminación de AOBO
 
 Los clientes pueden administrar el acceso a sus suscripciones si van a **Control de acceso** en Azure Portal. En la pestaña **Asignaciones de roles**, se selecciona **Eliminar acceso**. Si es así, puede:
 
 - Hable con el cliente para ver si se puede restablecer el acceso de administrador.
+
 - Use el acceso proporcionado a través del [control de acceso basado en roles (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview).
+
 - Use el acceso proporcionado a través de [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
 El acceso basado en roles difiere del acceso de administrador. Los roles delimitan exactamente lo que puede y no puede hacer. El acceso de administrador es más amplio.
 
 Para ver los roles que son válidos para obtener PEC (créditos obtenidos del partner), consulte [Roles y permisos para los créditos obtenidos del partner](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
 
-
-
-
-**Para más información**
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Revocar y restablecer los privilegios de administrador para las suscripciones de Azure CSP](revoke-reinstate-csp.md)
 
