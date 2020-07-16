@@ -1,21 +1,20 @@
 ---
 title: Administración de los impagos, fraudes o usos incorrectos
+description: Es importante conocer los distintos riesgos implicados en las transacciones en línea, así como los procedimientos recomendados para administrar y mitigar estos riesgos.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Es importante conocer los distintos riesgos implicados en las transacciones en línea, así como los procedimientos recomendados para administrar y mitigar estos riesgos.
-keywords: fraude, uso indebido, uso aceptable, Directiva de uso aceptable, no pago, el cliente no pagará la factura, el riesgo en línea, el robo del servicio, el abuso de servicio, la suspensión de una suscripción,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377809"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405566"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el Centro de partners
 
@@ -87,7 +86,7 @@ Sugerencias para reducir los riesgos en línea al incorporar nuevos clientes:
 Las sugerencias para administrar las cuentas de cliente posteriores a la compra incluyen:
 
 - Implemente un proceso para recibir, revisar, actuar y responder rápidamente a las notificaciones de Microsoft.
-- Trabaje con los clientes para comprender sus necesidades empresariales de uso de la nube, mientras que la configuración de umbrales de supervisión adecuada. (Por ejemplo, puede [establecer un presupuesto mensual de gastos de Azure en el](set-an-azure-spending-budget-for-your-customers.md) centro de Partners. Esto le permite supervisar el uso del cliente durante el mes y recibir una notificación cuando los clientes estén cerca de su presupuesto).
+- Trabaje con los clientes para comprender sus necesidades empresariales de uso de la nube, mientras que la configuración de umbrales de supervisión adecuada. (Por ejemplo, puede [establecer un presupuesto mensual de gastos de Azure en el](set-an-azure-spending-budget-for-your-customers.md) centro de Partners. Esta comprensión le permite supervisar el uso del cliente durante el mes y recibir una notificación cuando los clientes estén cerca de su presupuesto).
 - Supervise los [registros de actividad](activity-logs.md) de los clientes con regularidad para ayudar a detectar fraudes pronto.
 - Realice una acción rápida cuando se detecten actividades sospechosas.
 - Evite ofrecer a los clientes acceso administrativo completo a las suscripciones sin implementar primero los controles de mitigación de riesgos.
@@ -100,4 +99,4 @@ Las sugerencias para administrar la compra posterior a la facturación de client
 - No acepte instrumentos de pago de alto riesgo (como tarjetas de prepago o tarjetas de valor almacenado).
 - Supervise los pagos de clientes y los clientes de cuentas de vencimiento. Aplique de forma agresiva procesos normalizados de estiba para los pagos o la no pago.
 
-Para obtener estrategias más detalladas para mitigar los riesgos en línea, consulte la [Guía de administración de riesgos de transacciones en línea.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+Para obtener estrategias más detalladas para mitigar los riesgos en línea, consulte la [Guía de administración de riesgos de transacciones en línea.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

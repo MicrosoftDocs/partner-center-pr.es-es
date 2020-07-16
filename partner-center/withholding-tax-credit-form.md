@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos
+keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos, créditos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949580"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405526"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Asegúrese de que tiene un crédito por retención de impuestos si paga una autoridad fiscal local en lugar de Microsoft
 
@@ -23,7 +23,7 @@ Se aplica a:
 
 - Centro de partners
 
-## <a name="overview"></a>Información general
+## <a name="overview"></a>Introducción
 
 Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Si paga la autoridad fiscal local, debe enviar una solicitud de retención de impuestos que incluya su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que ya no deberá pagar los impuestos por Microsoft.
 
@@ -40,7 +40,7 @@ Siga estos pasos para enviar una nueva retención de impuestos:
 
 2. En el menú de la izquierda, elija **facturación** y vaya al **historial de facturación**.
 
-3. Haga clic en **Enviar nuevo** , que le llevará a la página **nueva solicitud de retención de impuestos** .
+3. Haga clic en **Enviar nuevo** que le llevará a la página **nueva solicitud de retención de impuestos** .
 
    :::image type="content" source="images/wht1.png" alt-text="Enviar una nueva retención de impuestos para una factura":::
 
