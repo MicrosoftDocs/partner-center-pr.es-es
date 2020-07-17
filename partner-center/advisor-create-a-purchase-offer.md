@@ -7,14 +7,13 @@ description: Averigüe cómo un asesor de suscripción autorizado puede usar el 
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: Advisor, Office 365, compra
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947460"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436274"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Asesores: crear una oferta de compra
 
@@ -42,7 +41,7 @@ Si el cliente desea un número diferente de licencias, envíeles una nueva ofert
     - **Recuento de licencias**: al seleccionar una suscripción, escriba el número de licencias que desea incluir en la oferta de compra.
     - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la oferta de compra con o sin la aceptación de la administración delegada.
 
-3. Haga clic en **Siguiente**.
+3. Haga clic en **Next**.
 
 4. En la página **Enviar** , copie la información y la dirección URL de la oferta de compra y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una oferta de compra personalizada.
 

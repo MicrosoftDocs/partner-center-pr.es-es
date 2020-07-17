@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: crédito de impuestos de retención, créditos fiscales, formulario de crédito fiscal alemán, certificados de impuestos, créditos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: b4660db3b23f44a9b7bbf7bf238a03b271405bfe
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405526"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436454"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Asegúrese de que tiene un crédito por retención de impuestos si paga una autoridad fiscal local en lugar de Microsoft
 
@@ -23,7 +22,7 @@ Se aplica a:
 
 - Centro de partners
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Los asociados de CSP en algunos países reciben importes de factura que incluyen impuestos. Algunos de estos asociados pagan su autoridad fiscal local en lugar de Microsoft. Si paga la autoridad fiscal local, debe enviar una solicitud de retención de impuestos que incluya su certificado fiscal para borrar el importe gravado de las facturas anteriores. Estos importes desplazados se muestran como créditos en las facturas mensuales posteriores, por lo que ya no deberá pagar los impuestos por Microsoft.
 

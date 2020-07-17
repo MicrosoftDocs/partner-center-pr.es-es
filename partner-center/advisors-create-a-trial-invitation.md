@@ -7,14 +7,13 @@ description: Obtenga información acerca de cómo los asociados pueden crear y e
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: Advisor, Office 365, versión de prueba
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458361"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436234"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
 
@@ -39,7 +38,7 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
     - **Suscripciones de prueba**: la lista de suscripciones de prueba que puede elegir viene determinada por la ubicación de uso del país o la región del cliente.
     - **Administración delegada**: esta opción solo está disponible para los asociados que están certificados para ofrecer administración delegada. Elija esta opción si desea ofrecer la administración delegada del cliente. Si lo hace, el cliente puede aceptar la invitación de evaluación con o sin la aceptación de la administración delegada. Para obtener más información acerca de la administración delegada, consulte [oferta de administración delegada](customers-revoke-admin-privileges.md).
 
-3. Haga clic en **Siguiente**.
+3. Haga clic en **Next**.
 
 4. En la página de la**invitación de evaluación** , copie la información y la dirección URL de la invitación de evaluación y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una invitación de evaluación personalizada.
 

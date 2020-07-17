@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo agregar varios usuarios a la cuenta de un cliente a la vez. Cargue un archivo de datos en el centro de Partners con el formato de archivo de valores separados por comas (. csv).
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: carga masiva, adición de varios usuarios a la cuenta de un cliente, adición de usuarios del cliente, carga masiva de usuarios del cliente, cuenta del cliente, usuarios del cliente, usuarios
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377279"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436314"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Agregar varios usuarios a una cuenta de cliente: cargar un archivo de datos en el centro de Partners
 
@@ -46,7 +45,7 @@ Escribe los siguientes datos en el archivo de datos:
 | Nombre  | Nombre del usuario (campo opcional)  | límite de 50 caracteres  |
 | Apellidos  | Los apellidos del usuario (campo opcional)  | límite de 50 caracteres  |
 | Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | límite de 50 caracteres                         |
-| Correo electrónico   | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
+| Email   | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
 | Actualización del estado   | Se usa para indicar si el nuevo registro de usuario se ha creado correctamente o no. | \*\*Dejar vacío\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>Para crear varias cuentas de usuario

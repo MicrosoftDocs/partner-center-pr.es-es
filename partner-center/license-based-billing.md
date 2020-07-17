@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 Description: Obtenga información sobre cómo la facturación basada en licencias difiere de la facturación basada en el uso en el centro de Partners, incluido cómo se factura por licencia (no por el uso de licencias).
 author: sodeb
 ms.author: sodeb
-keywords: facturación, pagos, licencia basada en licencia
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3f2e982d82731159b20014dbcc7ee10cf9f73b9
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377709"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434384"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturación basada en licencias en el centro de Partners
 

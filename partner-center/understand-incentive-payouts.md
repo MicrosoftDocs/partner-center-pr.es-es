@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: Use estas páginas para ver, administrar y exportar los datos de pago y ganancias, así como el estado del programa y el historial de transacciones completo.
 author: kim-davis
 ms.author: kimnich
-keywords: incentivos, pagos, pagos, programa de incentivos, ubicaciones, estado del programa
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377299"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436494"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -114,7 +113,7 @@ Para exportar cualquiera de los datos de la transacción en esta página, selecc
 |Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Failed        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|Con error        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
 |Enviado        |El pago se ha enviado al banco.          |No       |

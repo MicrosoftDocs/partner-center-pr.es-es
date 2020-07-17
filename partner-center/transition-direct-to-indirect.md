@@ -8,14 +8,13 @@ description: Obtenga información sobre cómo un asociado del programa CSP puede
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
-keywords: factura directa, transición, revendedor indirecto
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949220"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436474"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -34,7 +33,7 @@ Podrá inscribirse en el programa de revendedor indirecto con el inquilino de fa
 
 2. Inicie sesión en el centro de partners como administrador global del inquilino de facturación directo que va a pasar al revendedor indirecto.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Introducción":::
+   :::image type="content" source="images/direct/direct1.png" alt-text="Información general":::
 
 3. Revise los detalles de su asociado en el formulario de inscripción.
 
@@ -95,7 +94,7 @@ Para crear una invitación de revendedor indirecto:
 
 2. Selecciona **Invitar a nuevos clientes** para invitar a un cliente a establecer una relación de revendedor contigo y con el proveedor indirecto a la vez. El proveedor debe tener una relación de revendedor con el cliente, para que puedan enviar pedidos en nombre del cliente cuando el cliente desee comprar nuevas suscripciones o agregar nuevas licencias a las suscripciones existentes.
 
-3. En la página siguiente, revise el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
 4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. A continuación, seleccione **Done** (Listo).
 
@@ -195,7 +194,7 @@ El proveedor indirecto no podrá enviar pedidos para los clientes de factura dir
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Invitar a nuevos clientes":::
 
-3. En la página siguiente, revise el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador de mensajes en el correo electrónico, o puede copiar el mensaje en el portapapeles y pegarlo en un correo electrónico.
 
 4. Edite el texto del correo electrónico para indicar lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar el cliente directamente a su cuenta y a la cuenta del proveedor. A continuación, seleccione **Done** (Listo).
 

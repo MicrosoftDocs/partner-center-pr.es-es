@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea una instantánea de cómo realiza las ventas e implementación, el crecimiento de los clientes y el crecimiento de los ingresos con licencias, suscripciones y consumo de Azure.
-keywords: PCI, rendimiento, éxito de clientes, mediciones,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948823"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436704"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Información general sobre los informes del panel disponibles en la información del centro de Partners
  

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo usar una cuenta de cliente para asignar o revocar licencias y servicios a un usuario o a varios usuarios a la vez.
 author: amitravat
 ms.author: amrava
-Keywords: asignar licencias, revocar licencia, asignar a varios usuarios,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390582"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435574"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Asignar o revocar licencias al mismo tiempo para varios usuarios de una cuenta de cliente
 

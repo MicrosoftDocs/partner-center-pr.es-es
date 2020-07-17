@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte este informe de licencias de producto y obtenga información sobre cómo mejorar con los productos en la nube con licencia (o basados en puestos) que vende o administra para sus clientes.
-keywords: PCI, rendimiento, medidas, éxito de clientes, suscripciones en la nube, análisis, informe
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948796"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436664"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Informe de licencias de producto en el panel del centro de Partners Insights
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de las diferentes relaciones de asociados y escenarios de transacciones admitidos para asociados en el programa CSP.
 author: dineshvu
 ms.author: dineshvu
-keywords: Reseller indirecto, proveedor indirecto, factura directa, asociado directo de factura, programa proveedor de soluciones en la nube, programa CSP, asociados de CSP, transacciones de CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947634"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434904"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Obtenga información acerca de cómo los asociados pueden trabajar con otros asociados en el programa CSP
 

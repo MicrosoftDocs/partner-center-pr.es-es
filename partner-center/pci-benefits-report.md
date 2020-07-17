@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea qué tipos de ventajas de los asociados de Microsoft se le han concedido para ayudar a crecer su negocio, mejorar la eficacia y mejorar los conocimientos del equipo.
-keywords: PCI, rendimiento, medidas, ventajas, análisis, informe
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
-ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
+ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "86092359"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436714"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Informe de beneficios disponible en el panel del centro de Partners Insights
 

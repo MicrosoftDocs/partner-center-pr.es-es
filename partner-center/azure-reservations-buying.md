@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
 author: rbars
 ms.author: rbars
-keywords: Azure, reservas, administración, facturación, compra
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948329"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435774"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -33,7 +32,7 @@ ms.locfileid: "85948329"
 - Agente de ventas
 - Administrador del control de usuarios
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 
 Revise la información importante que aparece a continuación antes de comprar las reservas de Azure en nombre de sus clientes. (¿Desea que los clientes puedan comprar sus propias reservas de Azure a partir de una suscripción de Azure anterior que haya adquirido? Consulte [dar permiso a los clientes para comprar sus propias reservas de Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)).
 

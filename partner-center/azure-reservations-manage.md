@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo administrar las reservas de Azure para un cliente, incluido cómo cancelar una reserva, intercambiar una reserva o solicitar un reembolso.
 author: amitravat
 ms.author: amrava
-keywords: Azure, reservas, administración, facturación, compra, cancelación, intercambio, cuota de finalización anticipada
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175902"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435764"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
 
@@ -44,7 +43,7 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
-    | **Control de acceso (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
+    | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **Nota:** El soporte técnico puede pedirle el identificador de reserva y el identificador de pedido de reserva cuando solicite soporte técnico en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda de Soporte técnico de Microsoft.   |
@@ -64,10 +63,10 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Crédito**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No.          | 100 %       | No.                              | $50.000 USD   |
-|5 o menos                         | Sí.         | Prorrateado  | No.                              | $50.000 USD   |
-|Más de 5                        | No.          | Prorrateado  | 12 %                             | $50.000 USD   |
-|Más de 5                        | Sí.         | Prorrateado  | 12 %                             | $50.000 USD   |
+|5 o menos                         | No          | 100 %       | No                              | $50.000 USD   |
+|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
+|Más de 5                        | No          | Prorrateado  | 12 %                             | $50.000 USD   |
+|Más de 5                        | Sí         | Prorrateado  | 12 %                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Cómo funcionan los intercambios 
 

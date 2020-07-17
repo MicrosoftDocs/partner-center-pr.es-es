@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Explore el panel de informes Unificado del centro de Partners.
 author: shthota77
 ms.author: shthota
-Keywords: Información del centro de Partners, informes, descargar informes
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948870"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436684"
 ---
 # <a name="download-reports"></a>Descargar informes
 
@@ -29,11 +28,11 @@ El concentrador de informes de descarga del panel de Insights le permite exporta
 
 Una vez generado, el informe estará disponible en la sección **informes generados** para que pueda descargar y analizar mediante herramientas como Microsoft Excel.
 
-**Creación de un informe nuevo**
+**Crear nuevo informe**
 
 Para generar un informe, seleccione primero el informe en la lista desplegable **seleccionar Informe** . A continuación, seleccione el intervalo de fechas en la lista desplegable **seleccionar intervalo de fechas** . Seleccione **Generar**. El informe se generará con formato de valores separados por tabulaciones (TSV) y estará disponible para su descarga en la sección de **informes generados** en cuestión de minutos. Los informes generados durante los 14 días anteriores estarán disponibles para su descarga.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Creación de un informe nuevo":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Crear nuevo informe":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Informes generados":::
 

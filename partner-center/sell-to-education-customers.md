@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
-keywords: Educación, segmentos especiales
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949235"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436584"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
 
@@ -83,7 +82,7 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 4. Se le redirigirá al centro de administración de Office 365 en una nueva pestaña del explorador. Es posible que se le pida que inicie sesión con sus credenciales.
 
-5. Seleccione **Configuración**.
+5. Haga clic en **Configuración**.
 
 6. Seleccione la pestaña Perfil de la **organización** en la parte superior de la pantalla y, a continuación, información de la **organización**. Ahora puede actualizar los detalles del cliente.
 

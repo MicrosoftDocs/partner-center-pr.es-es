@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Obtenga información acerca de cómo inscribirse como proveedor del panel de control (CPV) en el centro de Partners.
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: Proveedor del panel de control, registro de aplicaciones de CPV y administración de aplicaciones de CPV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 503bbb6d1c083337dc9bad9cc469c43d614eb5a3
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 38905832b4263c2e61cf8384e9626b04862b9e41
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302372"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434726"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Inscribirse como proveedor del panel de control para facilitar la integración de sistemas de asociados de CSP con las API del centro de Partners
 

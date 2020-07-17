@@ -5,15 +5,14 @@ ms.topic: article
 ms.date: 05/05/2020
 author: BillLinzbach
 ms.author: BillLi
-keywords: Office, O365, servicios RTC, impuestos, requisitos, factura, facturación
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 38df635156901d81d73ff688b2db8e5d65e096b0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377799"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434064"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Asesoría de partner de Office 365: Microsoft 365 Business Voice en el programa CSP
 
@@ -49,7 +48,7 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 |**ID_oferta_durable**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
 
 **Ejemplo de conciliación de asociados #2**
 

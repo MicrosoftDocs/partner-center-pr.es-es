@@ -10,12 +10,12 @@ robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603884"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436484"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Actualice su pertenencia a Microsoft Partner Network y Explore nuevas ofertas, programas y recursos
 

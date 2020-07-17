@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo los asociados de programas de CSP pueden usar el Marketplace del centro de partners para realizar compras de clientes de ofertas de SaaS de fabricantes de software independientes (ISV).
 author: rbars
 ms.author: rbars
-keywords: suscripciones, Marketplace, Marketplace comercial, terceros, ISV, ofertas de SaaS, programa de proveedor de soluciones en la nube, compra de una oferta, compra de una suscripción
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947698"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435064"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Compre productos comerciales de Marketplace para sus clientes en el centro de Partners
 

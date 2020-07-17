@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados de Microsoft cualificados pueden responder a las referencias, administrar referencias nuevas, existentes y archivadas, y obtener más referencias en el futuro.
 author: rajap-ms
 ms.author: rajap
-keywords: referencia, solicitud de información, Buscar un partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302252"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436604"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Responda a las referencias y obtenga posibles clientes potenciales de negocio
 
@@ -81,3 +80,7 @@ Aquí te mostramos algunas sugerencias para ayudarte a obtener más referencias 
 - **Sé selectivo con las ofertas que aceptas**. Controlamos los tipos de ofertas que aceptas y rechazas, y usamos esta información para ayudarte a encontrar ofertas similares. La aceptación de contratos que no sean una buena opción no mejorará los resultados de la búsqueda y podría afectar a la calidad de los clientes potenciales que recibe.
 
 - **Informa del tamaño estimado del negocio, las fechas de cierre y el estado final de tus ofertas** (ganadas o perdidas). Usaremos esta información para seguir proporcionando las referencias de calidad.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+-[Administración de clientes potenciales](manage-leads.md)

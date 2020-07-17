@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden comprar, administrar, vender y cancelar suscripciones de software locales en nombre de los clientes del centro de Partners.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Proveedor de soluciones en la nube, CSP, servicios basados en la nube, Azure, Office 365, Dynamics, partner de CSP, vender en CSP, partner directo, partner de CSP directo, revendedor de CSP indirecto, CSP directo, CSP indirecto, modelo directo, modelo indirecto, revendedor indirecto, proveedor indirecto, proveedor, distribuidor, programa proveedor de soluciones en la nube
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377609"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434944"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda software local a través del programa proveedor de soluciones en la nube (CSP)
 
@@ -55,16 +53,17 @@ Una vez que haya adquirido el software, usted y sus clientes deben descargarlo. 
 
 
 ## <a name="cancel-a-purchase"></a>Cancelación de una compra
+
 Utilice el siguiente procedimiento para cancelar una compra. Una vez completada la cancelación, se revocará la clave de software. 
 
 >[!NOTE]
 >Debes ser un agente de administrador para cancelar una compra. 
 
 1.  Antes de comenzar el proceso, asegúrese de que dispone de lo siguiente: 
-    -   El GUID del inquilino del cliente o el nombre de dominio
-    -   Id. de pedido o id. de suscripción
-    -   Motivo del reembolso
-    -   Importe solicitado
+    - El GUID del inquilino del cliente o el nombre de dominio
+    - Id. de pedido o id. de suscripción
+    - Motivo del reembolso
+    - Importe solicitado
 
 2.  En la página de detalles del cliente, seleccione **software**. Verá una lista de todo el software que ha adquirido. 
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo funciona la facturación para los productos o las suscripciones de SaaS de ISV comprados para los clientes del Marketplace comercial en el centro de Partners.
 author: rbars
 ms.author: rbars
-keywords: suscripciones, productos, compras, Marketplace, terceros, ISV, facturación, facturas, conciliación, archivo de conciliación
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947815"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435144"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturación de productos y suscripciones de Marketplace comercial en el centro de Partners
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Vea los países, regiones y monedas en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Mercados de CSP, territorios, Dónde puedo vender a través de CSP, ofertas de CSP, regiones, vender soluciones en la nube, CSP global
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991818"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434174"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Los mercados regionales y las divisas del programa proveedor de soluciones en la nube donde puede vender ofertas de CSP
 

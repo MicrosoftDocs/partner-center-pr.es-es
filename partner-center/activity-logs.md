@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de clientes y otras actividades de administración de asociados relacionadas con el cliente.
 author: dineshvu
 ms.author: dineshvu
-Keywords: registros de actividad, suscripción, suscripciones, pagos, facturación, transacciones
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176001"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436404"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver o exportar registros de actividad del cliente para obtener más información sobre las transacciones del cliente
 

@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: Obtenga información sobre lo que significa cuando vea una notificación sobre la minería de datos de criptodivisa potencial (o la minería de datos de cifrado) en una o varias de sus suscripciones de Azure.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: Crypto-Mining, minería de criptodivisa, seguridad
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947854"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435204"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación del centro de partners para la actividad de minería de criptodivisa
 
@@ -73,6 +72,6 @@ Si tiene preguntas o dudas sobre la notificación, puede usar el procedimiento s
 
 6. En el campo **Descripción** , escriba el nombre de la suscripción afectada junto con otras preguntas o problemas.
 
-7. Escriba la información de contacto.
+7. Escriba su información de contacto.
 
 8. Seleccione **Submit** (Enviar).

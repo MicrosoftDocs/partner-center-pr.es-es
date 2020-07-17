@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Utilice el centro de partners para responder a las referencias y administrar clientes potenciales y referencias nuevos, existentes y archivados. Aprenda también a obtener más referencias en el futuro.
 author: sroy
 ms.author: sroy
-keywords: referencia, venta conjunta, trato
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949433"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434374"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas
 

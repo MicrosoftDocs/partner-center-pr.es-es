@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Sincronizar las referencias en el centro de Partners con el CRM de Dynamics 365
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948009"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435454"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 
@@ -29,11 +28,11 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 ## <a name="before-you-install---pre-requisites"></a>Antes de instalar: requisitos previos
 
-|**Temas**   |**Detalles**   |**Vínculos**   |
+|**Tratados**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
 |Lista de coventas|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
-|Cuenta del Centro de partners|El identificador de MPN asociado al inquilino del centro de Partners debe ser el mismo que el identificador de MPN asociado a la solución de venta conjunta. Compruebe que puede ver las referencias de venta conjunta en el portal del centro de Partners antes de implementar los conectores.|[Administración de la cuenta](create-user-accounts-and-set-permissions.md)|
+|Cuenta de Centro de partners|El identificador de MPN asociado al inquilino del centro de Partners debe ser el mismo que el identificador de MPN asociado a la solución de venta conjunta. Compruebe que puede ver las referencias de venta conjunta en el portal del centro de Partners antes de implementar los conectores.|[Administración de la cuenta](create-user-accounts-and-set-permissions.md)|
 |Roles de usuario del Centro de partners|El empleado que va a instalar y usar los conectores debe ser un administrador de referencias.|[Asignar roles y permisos de usuarios](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|El rol de usuario CRM es administrador del sistema o Personalizador del sistema|[Asignación de roles en Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Cuenta de flujo de automatización de energía|Una cuenta activa de [Power Automatic](https://flow.microsoft.com) para el administrador del sistema CRM o el personalizador del sistema. Dicho usuario debe iniciar sesión en [Power automatizate](https://flow.microsoft.com) al menos una vez antes de la instalación.|
 

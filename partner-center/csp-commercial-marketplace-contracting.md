@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información sobre los términos, condiciones y contratos de las suscripciones a productos ISV de terceros adquiridos por los asociados de CSP en Marketplace comercial.
 author: rbars
 ms.author: rbars
-keywords: suscripciones, Marketplace, terceros, ISV, programa de asociados de CSP, contratos, venta, compra,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947783"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435154"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para asociados de CSP que hacen negocios en Marketplace comercial
 

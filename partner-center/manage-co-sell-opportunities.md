@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir acuerdos, invitar a Microsoft a colaborar o ver ofertas enviadas.
 author: sroy
 ms.author: sroy
-keywords: referencia, venta conjunta, trato
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949451"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434364"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
@@ -56,7 +55,7 @@ Hay tres pestañas de nivel superior en la sección de venta conjunta.
 ## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta 
 
 > [!IMPORTANT]
-> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas contratado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas implicado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 
 Puede crear dos tipos de oportunidades de venta conjunta. 
@@ -65,7 +64,7 @@ Puede crear dos tipos de oportunidades de venta conjunta.
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
+Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.

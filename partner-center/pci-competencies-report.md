@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea lo que está haciendo bien y dónde puede mejorar con respecto a las competencias, los niveles de competencia y las ofertas de Microsoft para ayudarle a ofrecer soluciones de Microsoft.
-keywords: PCI, rendimiento, medidas, éxito del cliente, competencias, ventajas, análisis, informe
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949353"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436694"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 

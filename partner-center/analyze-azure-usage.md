@@ -7,15 +7,14 @@ Description: Aprenda a usar el centro de partners para obtener datos sobre el us
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: datos económicos
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dad5474c9ff2dd92372ca51f0a00d67012be9247
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302352"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436184"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtener datos sobre el rendimiento de los clientes y las suscripciones de Azure
 

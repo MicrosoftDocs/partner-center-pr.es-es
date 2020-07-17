@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Aprenda a crear un perfil de negocio para generar clientes potenciales de ventas a través de la característica de referencias del centro de Partners y, a continuación, para responder a estas referencias.
 author: rbars
 ms.author: rbars
-keywords: referrals, business profile, find a partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7656b6cdf5c051abbd28420d228877da313503c5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949293"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436614"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Hacer crecer tu negocio con referencias de Microsoft
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo crear cuentas de usuario para un cliente, agregar o quitar licencias de usuario, restablecer contraseñas de usuario, eliminar cuentas de usuario o restaurarlas.
 author: BillLinzbach
 ms.author: BillLi
-Keywords: Administración de clientes, cuenta, crear cuenta, licencias, asignar licencia, administración de usuarios, contraseña, restablecer contraseña, cambiar contraseña
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377689"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435964"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Tareas de administración de usuarios para cuentas de cliente en el centro de Partners
 

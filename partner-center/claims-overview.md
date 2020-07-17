@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo enviar una demanda de cooperación correcta para sus incentivos organizando la documentación, las facturas, las instrucciones y la prueba de ejecución adecuadas.
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: 'incentivos: reclamaciones, reclamaciones de cooperación, fondos de cooperación'
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377639"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435424"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Introducción a las reclamaciones de incentivos de cooperación
 

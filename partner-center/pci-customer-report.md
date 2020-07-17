@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descubra formas de mejorar su negocio. Vea las tendencias de clientes específicas por geografía, producto y otros atributos.
-keywords: PCI, rendimiento, éxito de clientes, mediciones,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949365"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434464"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Informes del panel de clientes de información del centro de Partners
 
@@ -35,7 +34,7 @@ El panel clientes tiene las siguientes secciones:
 
 En la sección Resumen se presenta una vista de instantánea de diversos KPI relacionados con los clientes, como clientes, clientes activos, suscripciones, agregaciones de clientes, clientes que se han reparado y clientes de cada producto. Los filtros de nivel de página se aplican a cada sección.
 
-**Clientes**
+**Compradores**
 
 - Recuento actual de todos los clientes que su organización está asociada a través de diferentes tipos de atribución en todos los productos en la nube, como Office, Azure, Dynamics, etc. Un cliente se cuenta si tiene al menos una suscripción con el estado activo.  
 - Rechazar el% de los clientes durante el intervalo de fechas seleccionado 

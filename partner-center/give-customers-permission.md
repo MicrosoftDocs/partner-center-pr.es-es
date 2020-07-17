@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
 ms.author: amrava
-Keywords: suscripción, compra de autoservicio, RI de autoservicio, habilitar RI, deshabilitar RI, autoservicio, compra de clientes, permisos de cliente, instancia reservada de compra de clientes, reservas de Azure de clientes, activar autoservicio, desactivar autoservicio
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377459"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434604"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dar permiso a los clientes en el centro de partners para comprar sus propios productos o servicios
 

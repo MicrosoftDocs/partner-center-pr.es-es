@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Con el centro de Partners, obtenga información sobre cómo los proveedores de soluciones en la nube pueden administrar ofertas de ISV de terceros compradas para clientes del Marketplace comercial.
 author: rbars
 ms.author: rbars
-keywords: suscripciones, Marketplace, terceros, ISV, ofertas de SaaS, programa del proveedor de soluciones en la nube, administración de una oferta, administración de una suscripción, licencias, cancelación de una suscripción, puestos, desactivación de la renovación automática, revendedor indirecto ID MPN
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947758"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435094"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Administrar productos y ofertas comerciales de Marketplace para sus clientes
 
@@ -93,7 +92,7 @@ Al suscribirse a un producto SaaS basado en licencia ofrecido por un publicador 
 
 Para obtener más información sobre los períodos de cancelación que se aplican, cómo cancelar o cómo renovar automáticamente una suscripción, consulte:
 
-- [Cancelar una suscripción](create-a-new-subscription.md#cancel-a-subscription)
+- [Cancelación de una suscripción](create-a-new-subscription.md#cancel-a-subscription)
 
 - [Renovación automática de una suscripción de Marketplace comercial](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
