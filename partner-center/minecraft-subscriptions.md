@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Venda las suscripciones de Minecraft Education Edition a los clientes de educación calificados que puedan descargarlos desde Microsoft Education Store.
 author: BrentSerbus
 ms.author: brserbus
-keywords: Asociados educativos autorizados, educación, venta a educación, escuelas
 ms.localizationpriority: medium
-ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949009"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436824"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo
 

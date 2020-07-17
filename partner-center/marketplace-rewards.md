@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Los asociados que publican ofertas en el Marketplace comercial pueden beneficiarse de las ventajas que ofrecen soporte técnico de marketing.
 author: laurabrenner
 ms.author: labrenne
-Keywords: Ofertas de Marketplace, soporte técnico de marketing, premios, ventajas del publicador
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909013"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436844"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administre las recompensas de Marketplace en el centro de Partners & activar marketing, ventas y beneficios técnicos
 
@@ -35,13 +34,13 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 2. Para activar las ventajas de marketing y ventas, primero debe asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre Marketplace Rewards.
 
-3. Para agregar o actualizar la información de contacto de marketing, vaya a la parte superior de la pestaña beneficios de ventas y marketing en la página de recompensas de Marketplace y seleccione **Agregar, actualizar o cambiar**. 
+3. Para agregar o actualizar la información del contacto de marketing, vaya a la parte superior de la pestaña Ventajas de marketing y ventas en la página Marketplace Rewards y seleccione **Add, update, or change** (Agregar, actualizar o cambiar). 
 
    A continuación, haga lo siguiente:
 
    - Seleccione un usuario en la lista. Si el usuario que desea asignar no está en la lista, puede agregar nuevos usuarios en Configuración de la cuenta.
 
-   - Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. Le enviaremos instrucciones por correo electrónico para usar la ventaja de Marketplace Rewards a la dirección de correo electrónico del contacto de marketing designado.
+   - Proporcione una dirección de correo electrónico para el usuario, que sea diferente de la dirección de correo electrónico asociada a la cuenta del Centro de partners de su empresa. Le enviaremos instrucciones por correo electrónico para usar la ventaja de Marketplace Rewards a la dirección de correo electrónico del contacto de marketing designado.
 
    - Proporcione el teléfono de contacto y el idioma preferido para este contacto de marketing. Cuando termine de escribir esta información, seleccione **Asignar usuario**.
 
@@ -49,9 +48,9 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 ## <a name="technical-benefits"></a>Ventajas técnicas
 
-1. Puede usar sus beneficios técnicos para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
+1. Puede usar sus ventajas técnicas para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
 
-2. El uso de las ventajas de patrocinio de Azure se compartirá a través de un correo electrónico cuando se desbloqueen estas ventajas.
+2. El uso de las ventajas de patrocinio de Azure se compartirá por correo electrónico a medida que desbloquee estas ventajas.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de premios Commercial Marketplace en mi panel?
 
