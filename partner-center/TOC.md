@@ -42,6 +42,7 @@
 ## [Funcionalidades de facturación directa restringidas](restricted-direct-bill-capabilities.md)
 ## [Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP](transition-direct-to-indirect.md)
 ## [Contratos, listas de precios y ofertas de CSP](csp-documents-and-learning-resources.md)
+## [Azure Cost Management de Cloudyn para CSP](azure-cost-management-app-for-csp-partners.md)
 ## [Mercados y monedas regionales del CSP](regional-authorization-overview.md)
 ## [Instrucciones para la consolidación de los inquilinos de autorización regional de CSP](csp-regional-authorization-tenant-consolidation.md)
 ## [Información general: Nueva manera de confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [Tipos de facturación del Centro de partners](billing-different-types.md)
 ## [Comprensión de la factura](read-your-bill.md)
 ## [Usar los archivos de conciliación](use-the-reconciliation-files.md)
+## [Tipos de cargo de archivo de conciliación](recon-file-charge-types.md)
 ## [Lectura de archivos de conciliación de uso clasificados diariamente en el Centro de partners](daily-rated-usage-recon-files.md)
 ## [Archivos de conciliación basados en licencias](license-based-recon-files.md)
 ## [Escenarios comunes de facturación](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Migrar el plan 1 de Skype Empresarial Online a las versiones más recientes de Office 365](skype-retiring.md)
 ### [Transferir suscripciones de Azure](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Migración de suscripciones de Kaizala Pro a Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Asesores que venden Office 365
+### [Creación de una invitación a una evaluación de Office 365](advisors-create-a-trial-invitation.md)
+### [Incorporación de clientes con ofertas de evaluación de Office 365](advisors-build-your-business.md)
+### [Creación de una oferta de compra de Office 365](advisor-create-a-purchase-offer.md)
 # Análisis y datos del Centro de partners
 ## [Obtener acceso a análisis y datos de usuario](data-analysis-lp.md)
 ## [Usar la aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners.md)
