@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435254"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875231"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -77,6 +77,26 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
     > Ni usted ni su cliente recibirán un correo electrónico con instrucciones para completar el aprovisionamiento o la configuración de la cuenta para este tipo de suscripción de ISV).
 
     - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en el estado de pago. La suscripción se renovará de nuevo según la misma programación.
+   
+## <a name="update-subscriptions-with-add-ons"></a>Actualizar suscripciones con complementos 
+
+Para comprar un complemento, el cliente debe tener primero una suscripción base activa.  No se pueden comprar complementos a través del catálogo.
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+
+2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
+
+3. Selecciona la suscripción que deseas administrar.
+
+4. Debajo de la sección **Estado** , se muestra una lista de complementos disponibles para la suscripción.  
+
+5. Actualice la cantidad de licencias para cada complemento necesario. Haga clic en **Enviar** para enviar los cambios.
+
+La capacidad de comprar complementos a través del centro de Partners solo está disponible para los asociados de CSP.
+Solo se muestran los complementos válidos en función de los requisitos base y la disponibilidad regional. Consulte la matriz de la oferta del Reseller de la nube para obtener más información sobre precios y ofertas.  Al suspender la suscripción base, también se suspenderán los complementos asociados.
+
+Las fechas de inicio de los complementos se alinean con la suscripción base y los cargos se calculan a partir de la fecha de inicio y la fecha de finalización del cargo con cargos prorrateados en la primera factura. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender o cancelar una suscripción
 
@@ -96,7 +116,7 @@ Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podr�
 
 5. Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).
 
-Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Suspendida** indica la fecha en que la suscripción expiraría automáticamente si no se vuelve a activar. Para obtener más información, consulte [preguntas más frecuentes sobre las nuevas características de facturación](faq-about-new-billing-features.md).
+Cuando se suspende una suscripción, la fecha que aparece debajo del botón **Suspendida** indica la fecha en que la suscripción expiraría automáticamente si no se vuelve a activar. 
 
 ### <a name="cancel-a-subscription"></a>Cancelación de una suscripción
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Obtén información sobre cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft. Los CSP deben hacerlo para hacer pedidos de productos y servicios de Microsoft para los clientes.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: customer, customers, consent, MCA, Microsoft Cloud Agreement, Microsoft Customer Agreement, customer agreement templates
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9df7dadbf9d2e6d1cc685b888ea2ae18436c8abf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947956"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435434"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft en el programa de partners de CSP
 

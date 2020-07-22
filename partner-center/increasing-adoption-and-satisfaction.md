@@ -1,7 +1,7 @@
 ---
 title: Aumentar la adopción y la satisfacción
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo usar las métricas en el centro de Partners. Las métricas pueden mostrar si su negocio está creciendo, cómo los clientes usan sus licencias y dónde centrar la inversión.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377269"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875291"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use las métricas del centro de partners para aumentar la adopción y la satisfacción
 
@@ -35,7 +35,7 @@ Nuestros partners usan varias métricas para evaluar si su negocio está crecien
 Puedes ver los datos de todos los clientes a través del programa Proveedor de soluciones en la nube. Algunos clientes pueden comprar licencias de otros asociados o directamente de Microsoft. En estas situaciones, verá las licencias totales en todos los asociados. Para ver solo tu propias licencias, consulta las suscripciones del cliente en su lugar.
 
 > [!NOTE]  
->  Actualmente, solo se muestran los datos de Office 365 y Dynamics 365. Vamos a habilitar los datos para productos adicionales en el futuro.
+> Actualmente, solo se muestran los datos de Office 365 y Dynamics 365. Vamos a habilitar los datos para productos adicionales en el futuro.
 
 ## <a name="find-license-and-user-data"></a>Buscar datos de usuario y de licencia
 
@@ -81,23 +81,21 @@ Terminología:
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Si tiene una gran cantidad de preguntas de ayuda y procedimientos, los números de adopción de su cuenta son bajos o está buscando oportunidades de venta incremental, es posible que desee considerar la posibilidad de ofrecer cursos de aprendizaje. Al enseñar a los clientes a usar mejor el software de soluciones en la nube que han adquirido, es más probable que vea un aumento en la productividad y la satisfacción, y una disminución de las necesidades de soporte técnico.
+Si tiene una gran cantidad de preguntas de ayuda y procedimientos, los números de adopción de su cuenta son bajos o está buscando oportunidades de venta, puede que desee considerar la posibilidad de ofrecer cursos de aprendizaje. Al enseñar a los clientes a usar mejor el software de soluciones en la nube que han adquirido, es más probable que vea un aumento en la productividad y la satisfacción, y una disminución de las necesidades de soporte técnico.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Problema:</strong> La tasa de adopción del usuario es baja y muchas licencias no se usan&#39;t.</p>
-<p><strong>Qué debe tener en cuenta:</strong> Es posible que los clientes no conozcan el valor que el software podría proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.</p>
-<p><strong>Qué probar:</strong> Casos prácticos, testimonios de usuario sobre escenarios específicos, blogs de tutoriales o vídeos.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Problema:</strong> Hay un gran volumen de llamadas de soporte técnico para las preguntas de ayuda y procedimientos.</p>
-<p><strong>Qué debe tener en cuenta:</strong> Los clientes pueden ser nuevos en el software, en la versión del producto o en su tarea.</p>
-<p><strong>Qué probar:</strong> Puede usar una estrategia dual para ofrecer aprendizaje (en persona o en línea) para aumentar la experiencia general de los clientes&#39;s, al tiempo que promueve algunas de las opciones de autoservicio disponibles para los clientes.</p>
-<p>Es recomendable diseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en el tema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Autoservicio de soporte técnico al cliente</a> además de la información de contacto de soporte técnico.</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Consideraciones sobre cómo mejorar la adopción y el uso de los clientes: un par de escenarios
+
+**Problema**: la tasa de adopción del usuario es baja y no se están usando muchas licencias.
+
+**Qué debe tener en cuenta**: es posible que los clientes no conozcan el valor que el software podría proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.
+
+**Qué probar**: casos prácticos, testimonios de usuario sobre escenarios específicos, blogs de tutoriales o vídeos.
+
+**Problema**: hay un gran volumen de llamadas de soporte técnico para preguntas de ayuda y procedimientos.
+
+**Qué debe tener en cuenta**: los clientes pueden ser nuevos en el software, en la versión del producto o en su tarea.
+
+**Qué probar**: puede usar una estrategia dual de la oferta de aprendizaje (en persona o en línea) para aumentar la experiencia global de los clientes, a la vez que también promueve algunas de las opciones de autoservicio disponibles para los clientes.
+
+Puede que desee rediseñar el sitio de soporte técnico para incluir también las opciones de autoservicio que se describen en [autoasistencia al cliente,](customer-self-support.md) además de la información de contacto de soporte técnico.
+

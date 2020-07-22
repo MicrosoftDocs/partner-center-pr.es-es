@@ -8,15 +8,14 @@ description: Obtén información acerca de cómo los revendedores indirectos pue
 ms.prod: ''
 author: BillLinzbach
 ms.author: BillLi
-keywords: indirect resellers, resellers, indirect providers, providers, partnership, VAR, tier2, tier 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377719"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434544"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
 

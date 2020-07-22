@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Conoce las situaciones en las que tiene sentido dar fe de la aceptación del Contrato de cliente de Microsoft en nombre del cliente.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: cliente, clientes, consentimiento, MCA, Contrato de Microsoft Cloud, Contrato de cliente de Microsoft, plantillas de contrato de cliente, atestación de la aceptación
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: e687df87b933bfad2e1cd3f631c730c54986cd42
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948576"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435974"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Atestación de la aceptación del Contrato de cliente de Microsoft en nombre del cliente
 
