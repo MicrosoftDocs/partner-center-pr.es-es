@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Aprende a obtener clientes potenciales de Microsoft. Un paso clave es crear un perfil empresarial en el Centro de partners para que los clientes puedan encontrarte.
 author: rajap-ms
 ms.author: rajap
-keywords: pinpoint, referencias, clientes potenciales, C2PC, perfil de la empresa, comercializar la empresa, buscar un partner, buscar un proveedor de soluciones, perfil de negocio, perfil de marketing
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302392"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435274"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

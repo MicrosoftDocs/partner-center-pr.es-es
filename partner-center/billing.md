@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Obtén información sobre los temas de facturación e impuestos en el Centro de partners. La información abarca los recursos de facturación, las facturas, la facturación de CSP y los impuestos.
 author: sodeb
 ms.author: sodeb
-keywords: facturación, pagos, pedidos, cancelación, administración de pedidos, impago, fraude, uso incorrecto, impuestos, exenciones fiscales, archivos de conciliación, archivo de conciliación
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948160"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435584"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
 

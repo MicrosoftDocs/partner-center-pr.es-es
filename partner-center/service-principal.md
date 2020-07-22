@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Averigüe cómo agregar una entidad de servicio al inquilino de Azure AD. Esta acción implica la incorporación de una aplicación de Azure AD (entidad de servicio) en el Centro de partners.
 author: dhirajgandhi
 ms.author: dhgandhi
-Keywords: Azure, Azure plan, service principal, Azure AD application
-robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd2880f57d1ccb3c3675fef4fae7499f7ac02f4b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949623"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436434"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Incorporación de una aplicación de Azure AD (entidad de servicio) en el Centro de partners
 

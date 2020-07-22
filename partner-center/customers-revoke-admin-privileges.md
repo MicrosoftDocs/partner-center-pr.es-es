@@ -8,14 +8,13 @@ description: Obtén los permisos que necesitas para administrar el servicio o la
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-keywords: privilegios de administrador delegado, administración en nombre de, quitar privilegios, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377439"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434754"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtención de permisos para administrar el servicio o la suscripción de un cliente
 

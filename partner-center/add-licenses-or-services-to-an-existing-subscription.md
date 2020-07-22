@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo actualizar o modificar la suscripción de un cliente. Agrega más licencias o más puestos, o bien cambia a otra versión con más servicios.
 author: BillLinzbach
 ms.author: BillLi
-keywords: agregar licencias a una suscripción existente, agregar puestos a una suscripción existente, modificar una suscripción, cambiar una suscripción, adquirir más licencias para un cliente
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377309"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436364"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Adición de licencias, puestos o más servicios a la suscripción de un cliente
 
