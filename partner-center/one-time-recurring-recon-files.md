@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875271"
+ms.locfileid: "86943812"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Archivos de conciliación única y periódica en el centro de Partners
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875271"
 - Agente de administrador
 - Agente de ventas
 
-En este tema se explica cómo leer archivos de conciliación única y periódica en el centro de Partners.
+En este artículo se explica cómo leer archivos de conciliación única y periódica en el centro de Partners.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Campos de archivos de conciliación única y periódica
 
@@ -46,16 +46,16 @@ En este tema se explica cómo leer archivos de conciliación única y periódica
 | OrderDate | Fecha en que se realizó el pedido. |
 | ProductId | Identificador del producto. |
 | SkuId | Identificador de una SKU determinada (unidad de mantenimiento de existencias). |
-| AvailabilityId | Identificador de la disponibilidad de una SKU determinada. Esto muestra si la SKU está disponible para su compra en el país determinado, la moneda, el segmento del sector, etc. |
+| AvailabilityId | Identificador de la disponibilidad de una SKU determinada. Este campo muestra si la SKU está disponible para su compra en el país determinado, la moneda, el segmento de la industria, etc. |
 | SkuName | Título de una SKU determinada. |
 | ProductName | Nombre del producto. |
 | ChargeType | Tipo de cargo o ajuste. |
-| UnitPrice | El precio unitario publicado en la lista de precios en el momento de la compra. *Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación.* |
-| Cantidad | Número de unidades. *Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación.* |
-| SubTotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que se trate de un descuento. |
+| UnitPrice | El precio unitario publicado en la lista de precios en el momento de la compra. *Asegúrese de que este campo coincida con la información almacenada en el sistema de facturación durante la conciliación.* |
+| Cantidad | Número de unidades. *Asegúrese de que este campo coincida con la información almacenada en el sistema de facturación durante la conciliación.* |
+| SubTotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que haya un descuento. |
 | TaxTotal | Cargo del importe de los impuestos. En función de las reglas de impuestos y las circunstancias específicas de su mercado. |
 | Total | Total con impuestos. Comprueba si se cobran impuestos en la factura. |
-| Moneda | Tipo de moneda. Cada entidad de facturación tiene solo una moneda. Asegúrese de que coincide con la primera factura y vuelva a comprobarlo después de cualquier actualización de la plataforma de facturación principal. |
+| Moneda | Tipo de moneda. Cada entidad de facturación tiene solo una moneda. Asegúrese de que este campo coincide con la primera factura y vuelva a comprobarlo después de cualquier actualización de la plataforma de facturación principal. |
 | PriceAdjustmentDescription | Explicación de cualquier descuento aplicable. |
 | PublisherName | Nombre del anunciante del producto.
 | PublisherId | Identificador único para un publicador determinado. |
@@ -68,7 +68,7 @@ En este tema se explica cómo leer archivos de conciliación única y periódica
 | UnitType | Tipo de unidad que se va a adquirir. |
 | AlternateId | Un identificador alternativo a un **identificador de pedido**. |
 | BillableQuantity | Representa el total de unidades adquiridas o consumidas. |
-| BillingFrequency | Describe si el elemento de línea es una frecuencia de facturación mensual o única. *Actualmente solo se admite para Azure RI, con valores admitidos mensualmente. Si el RI se compra con una frecuencia de facturación única, este campo del archivo de conciliación aparecerá en blanco.* |
+| BillingFrequency | Describe si el elemento de línea es una frecuencia de facturación mensual o única. *Este campo solo se admite actualmente para Azure RI, con los valores admitidos mensualmente. Si el RI se compra con una frecuencia de facturación única, este campo del archivo de conciliación aparecerá en blanco.* |
 | PricingCurrency | Precio de venta del recurso u oferta. |
 | PCToBCExchangeRate | Tasa de cambio que se aplica para la moneda de facturación. |
 | PCToBCExchangeRateDate | Fecha en la que se determina la moneda de los precios de la moneda de facturación. |

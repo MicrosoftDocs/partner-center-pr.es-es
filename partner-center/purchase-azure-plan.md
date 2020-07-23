@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377789"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875261"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre el plan de Azure para clientes y acceda a los servicios de Azure más recientes con tarifas de pago por uso
 
@@ -78,7 +78,7 @@ Las reservas de Azure deben estar asociadas con un plan de Azure activo. Elige e
 >Si el cliente aún no tiene un plan de Azure activo, selecciona Azure para agregar uno ahora. Para obtener más instrucciones, consulta [Comprar reservas de Azure](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
 >[!Note] 
->El ámbito de la reserva solo se puede establecer en **Compartido**, actualmente. 
+>Actualmente, el ámbito de la reserva solo se puede establecer en **Compartido** en el Centro de partners. Para seleccionar el ámbito de una sola suscripción o actualizar el ámbito de suscripción compartida a suscripción única, vaya al **portal de administración de Microsoft Azure** mediante las siguientes instrucciones. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuración de reservas de ámbito compartido":::
 

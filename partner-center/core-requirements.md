@@ -1,21 +1,20 @@
 ---
 title: Requisitos básicos para reclamaciones de incentivos de cooperación
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtenga información acerca de cómo generar demanda, comprender el desarrollo del mercado y maximizar la preparación de los asociados para las actividades de su programa de incentivos.
 author: kim-davis
 ms.author: kimnich
-keywords: reclamaciones de incentivos, reclamaciones de cooperación, fondos de cooperación, requisitos básicos
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377619"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475550"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Requisitos básicos para reclamaciones de incentivos de cooperación
 
@@ -77,4 +76,7 @@ Actividades para las ventas internas y el personal técnico del partner, e inclu
 
 
 
- Para obtener más información, descarga la [Guía de incentivos de cooperación de partners](https://assets.microsoft.com/coop-guidebook.pdf) (requiere iniciar sesión).
+ Para obtener más información, descargue la [Guía de incentivos de cooperación de partners](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (requiere iniciar sesión).
+
+
+
