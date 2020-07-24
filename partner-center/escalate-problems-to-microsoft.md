@@ -1,20 +1,20 @@
 ---
 title: Remitir problemas a Microsoft
+description: Obtenga información acerca de los problemas que se espera que los partners de Microsoft se solucionen por sí mismos para sus clientes y los problemas que pueden necesitar para remitirse a Microsoft.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de los problemas que se espera que los partners de Microsoft se solucionen por sí mismos para sus clientes y los problemas que pueden necesitar para remitirse a Microsoft.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219603"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114162"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escale problemas a Microsoft y sepa qué problemas son más adecuados para la extensión de Microsoft.  
 
@@ -63,12 +63,5 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 >[!NOTE]
 >Es importante comenzar desde el panel del centro de partners para mantener la relación entre el socio y el cliente. 
 
-
 Para obtener información sobre la notificación de problemas en nombre del cliente, consulte [informar de problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

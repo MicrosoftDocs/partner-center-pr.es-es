@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados de Microsoft en el programa proveedor de soluciones en la nube pueden vender a los clientes inscritos en nubes nacionales admitidas.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434954"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114335"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Solicitar la venta en nubes nacionales de Microsoft como parte del programa CSP
 

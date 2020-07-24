@@ -5,17 +5,17 @@ ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones. Esto incluye los pasos para migrar las cuentas de cliente y las suscripciones de cliente.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434924"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114405"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
@@ -46,7 +46,7 @@ Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para co
 
 1. Inicie sesión en el **centro de Partners** con la cuenta de **transición** (nueva) (aquella en la que va a realizar la transición de los clientes).
 
-2. Seleccionar **Clientes**.
+2. Selecciona **Clientes**.
 
 3. Haz clic en **Solicitar una relación de revendedor**. Se le presentará un mensaje de correo electrónico predeterminado para enviarlo a sus clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
 

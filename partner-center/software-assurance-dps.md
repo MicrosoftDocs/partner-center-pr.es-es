@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436544"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943692"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
@@ -68,7 +68,7 @@ En primer lugar, asegúrese de revisar todas [las directivas de programas de Pla
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crear o actualizar el perfil de negocio de su empresa (nuevos asociados)
 
-Maximice su exposición a clientes potenciales. Siga las [instrucciones e](https://docs.microsoft.com/partner-center/create-a-marketing-profile) instrucciones para crear o actualizar el perfil de negocio de su empresa en el centro de Partners.
+Maximice su exposición a clientes potenciales. Siga las [instrucciones e](create-a-marketing-profile.md) instrucciones para crear o actualizar el perfil de negocio de su empresa en el centro de Partners.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>El cliente crea y asigna el justificante (asociados existentes)
 

@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435204"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943502"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Notificación del centro de partners para la actividad de minería de criptodivisa
 
@@ -54,7 +54,7 @@ Si la actividad es inesperada, tenga en cuenta lo siguiente:
 
 3. Si necesita averiguar quién creó la suscripción, revise los registros de actividad del centro de Partners.
 
-La detección de actividades de minería de datos de criptodivisa se basa en la heurística y puede no ser una precisión del 100%. Asegúrese de contar con sistemas de gobierno y supervisión para protegerse frente a otras actividades fraudulentas o no permitidas. Para obtener más información, consulte [no pago, fraude o uso incorrecto](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+La detección de actividades de minería de datos de criptodivisa se basa en la heurística y puede no ser una precisión del 100%. Asegúrese de contar con sistemas de gobierno y supervisión para protegerse frente a otras actividades fraudulentas o no permitidas. Para obtener más información, consulte [no pago, fraude o uso incorrecto](non-payment--fraud--or-misuse.md).
 
 ## <a name="contact-support-if-needed"></a>Ponerse en contacto con soporte técnico si es necesario
 

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Prueba las nuevas características del Centro de partners antes de su lanzamiento y cuéntanos tu opinión. Ayuda a determinar el futuro del Centro de partners.
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679403"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114848"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Probar las nuevas características del centro de Partners y ayudar a dar forma al futuro del centro de Partners
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679403"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Ayuda a determinar el futuro del Centro de partners.
 
-Lanzamos continuamente nuevas características y funcionalidades para el centro de Partners y queremos recibir sus comentarios. 
+Lanzamos continuamente nuevas características y funcionalidades para el centro de Partners y queremos recibir sus comentarios.
 
 Te invitamos a probar nuevas características antes de que se publiquen en la comunidad mundial del Centro de partners y de que compartas tus ideas al respecto. Echa un vistazo a la [página de anuncios del Centro de partners](announcements/index.md) para obtener información sobre las próximas características. De este modo, puedes empezar a planificar cómo usarlas para hacer crecer tu negocio. Puede haber varias características disponibles para probar la versión en un momento dado.
 

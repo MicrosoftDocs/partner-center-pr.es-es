@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vea los países, regiones y monedas en los que puede vender ofertas de CSP, en función de la ubicación de su empresa.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434174"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114093"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Los mercados regionales y las divisas del programa proveedor de soluciones en la nube donde puede vender ofertas de CSP
 
@@ -65,12 +65,12 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 | Gambia                   |   USD    |
 | Ghana                    |   USD    |
 | Guinea                   |   USD    |
-| Guinea-Bissau            |   USD    |
+| Guinea-Bisáu            |   USD    |
 | Kenia                    |   USD    |
 | Liberia                  |   USD    |
 | Madagascar               |   USD    |
 | Malawi                   |   USD    |
-| Mali                     |   USD    |
+| Malí                     |   USD    |
 | Mauricio                |   USD    |
 | Mayotte                  |   USD    |
 | Namibia                  |   USD    |
@@ -131,7 +131,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Fiyi                  |   AUD    |
 |  Territorios Australes Franceses| AUD |
 |  Guam                  |  AUD     |
-|  Isla Heard e Islas McDonald| AUD |
+|  Islas Heard y McDonald| AUD |
 |  Kiribati              |   AUD    |
 |  Islas Marshall      |   AUD    |
 |  Micronesia            |   AUD    |
@@ -139,7 +139,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  Niue                  |   AUD    |
 |  Isla Norfolk        |   AUD    |
 |  Islas Marianas del Norte| AUD    |
-|  Palau                 |   AUD    |
+|  Palaos                 |   AUD    |
 |  Papúa Nueva Guinea      |   AUD    |
 |  Islas Pitcairn      |   AUD    |
 |  Islas Salomón       |   AUD    |
@@ -300,7 +300,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  San Vicente y las Granadinas| USD |
 |  San Eustaquio |   USD    |
 |  Sint Maarten   |   USD    |
-|  Georgia del Sur e Islas Sandwich del Sur| USD|
+|  Islas Georgia del Sur y Sandwich del Sur| USD|
 |  Surinam       |   USD    |
 |  Trinidad y Tobago|USD   |
 |  Islas Turcas y Caicos| USD|
@@ -399,5 +399,5 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 |  País/región       | Moneda |
 |  -------------        |:--------:|
 |  Estados Unidos        |   USD    |
-|  EE. UU. alejadas de los EE.UU.|   USD    |
+|  ESTADOS UNIDOS Islas alejadas de los EE. UU.|   USD    |
 |

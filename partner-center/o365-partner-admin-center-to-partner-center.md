@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Busque características comunes del centro de administración de asociados (PAC) de Office 365, como la creación de solicitudes de servicio y de negocio, después de migrar al centro de Partners.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998441"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114592"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Asociados del centro de administración de asociados de Office 365: Prepárese para trasladar las operaciones comerciales al centro de Partners
 

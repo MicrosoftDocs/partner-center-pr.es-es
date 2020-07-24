@@ -5,16 +5,16 @@ ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre las responsabilidades de soporte al cliente para asociados en el programa CSP.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b94a7d1379f0bd2f9958b0486cca107de258e5ec
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219533"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114367"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Proporcionar diferentes tipos de soporte técnico a sus clientes
 

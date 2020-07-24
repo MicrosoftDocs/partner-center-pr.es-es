@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Al pasar del centro de administración de asociados (PAC) al centro de Partners, aprenda a administrar la pertenencia a un programa CSP, las referencias de los clientes, los incentivos, etc.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434344"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114725"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Cambio del Centro de administración de partners (PAC) al Centro de partners
 

@@ -1,7 +1,7 @@
 ---
 title: Crear suscripciones de cliente en el centro de Partners
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a vender sus suscripciones de clientes a productos publicados por Microsoft, así como a productos SaaS publicados por fabricantes de software independientes de terceros.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875231"
+ms.locfileid: "86949841"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -49,7 +49,7 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
 
 4. Para ver solo determinados tipos de suscripciones, haz selecciones en los filtros disponibles:
    - **Publicador**: elija **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace publicados por ISV.
-   - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulta [FAQ about new billing features](faq-about-new-billing-features.md) (Preguntas frecuentes sobre las nuevas características de facturación) para obtener información que te ayudará a decidir entre la frecuencia de facturación mensual y anual.
+   - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulte [facturación basada en licencias](license-based-billing.md) para obtener información que le ayude a decidir entre la frecuencia de facturación mensual y anual.
    - **Categoría**: elija **empresa**, **pequeña empresa**o **prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Seleccione las suscripciones de producto que desea comprar para su cliente. Los productos que se ven dependen del tipo de segmento de cliente (educación, gobierno, etc.) y de los filtros aplicados. Es posible que algunas ofertas que se muestran en Marketplace no siempre estén disponibles para un cliente específico o un asociado de CSP específico. Esto puede deberse a:
@@ -76,7 +76,7 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
     >[!NOTE]
     > Ni usted ni su cliente recibirán un correo electrónico con instrucciones para completar el aprovisionamiento o la configuración de la cuenta para este tipo de suscripción de ISV).
 
-    - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en el estado de pago. La suscripción se renovará de nuevo según la misma programación.
+    - Si su suscripción incluye una versión de evaluación gratuita de 30 días, el período de evaluación gratuita se aplicará automáticamente. Como asociado en el programa CSP, no puede renunciar al período de evaluación gratuita en las ofertas que compre para los clientes. Una vez finalizado el período de evaluación gratuita, se iniciará el período de la suscripción y la suscripción se convertirá en el estado de pago. La suscripción se renovará automáticamente según la misma programación.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Actualizar suscripciones con complementos 
 
@@ -92,10 +92,10 @@ Para comprar un complemento, el cliente debe tener primero una suscripción base
 
 5. Actualice la cantidad de licencias para cada complemento necesario. Haga clic en **Enviar** para enviar los cambios.
 
-La capacidad de comprar complementos a través del centro de Partners solo está disponible para los asociados de CSP.
+La capacidad de comprar complementos a través del centro de Partners solo está disponible para los proveedores directos de facturación e indirectos.
 Solo se muestran los complementos válidos en función de los requisitos base y la disponibilidad regional. Consulte la matriz de la oferta del Reseller de la nube para obtener más información sobre precios y ofertas.  Al suspender la suscripción base, también se suspenderán los complementos asociados.
 
-Las fechas de inicio de los complementos se alinean con la suscripción base y los cargos se calculan a partir de la fecha de inicio y la fecha de finalización del cargo con cargos prorrateados en la primera factura. 
+Las fechas de inicio de los complementos se alinean con la suscripción base y los cargos se calculan a partir de la fecha de inicio y la fecha de finalización del cargo con cargos prorrateados en la primera factura. Para obtener más información, consulte [facturación basada en licencias](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Suspender o cancelar una suscripción

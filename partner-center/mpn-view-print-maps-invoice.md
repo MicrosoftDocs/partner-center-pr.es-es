@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo ver o descargar la factura de pertenencia a MPN, cómo archivar la exención fiscal y cómo enviar a Microsoft el número de identificación de IVA.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436764"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120049"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Facturas e impuestos en Microsoft Partner Network
 

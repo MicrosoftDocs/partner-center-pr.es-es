@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Asegúrese de que es válido para crear ganancias y recibir el pago por el programa de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f67874d5fe44f52e8080abea3dd9403a5f3645e6
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949693"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114553"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>Confirmar la elegibilidad de sus ganancias
 

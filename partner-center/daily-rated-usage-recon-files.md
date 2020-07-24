@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377419"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943462"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377419"
 - Agente de ventas
 - Agente del departamento de soporte técnico
 
-En este tema se explica cómo leer archivos de conciliación de uso clasificados diariamente.
+En este artículo se explica cómo leer archivos de conciliación de uso clasificados diariamente.
 
 >[!NOTE]
 >Normalmente, el uso con clasificación diaria tarda 24 horas en aparecer en el centro de Partners o en el acceso a través de la API.
@@ -40,7 +40,7 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | PartnerId | Identificador del asociado en formato GUID. |
 | PartnerName | Nombre del asociado. |
 | CustomerId | Identificador único de Microsoft para el cliente en formato GUID. |
-| CustomerName | Nombre de la organización del cliente según figura en el Centro de partners. *Esta columna es muy importante para conciliar la factura con la información del sistema.* |
+| CustomerName | Nombre de la organización del cliente según figura en el Centro de partners. *Esta columna es importante para conciliar la factura con la información del sistema.* |
 | CustomerDomainName | El nombre de dominio del cliente. |
 | CustomerCountry | País en el que se encuentra el cliente. |
 | MpnId | Identificador de MPN del asociado de CSP. |
@@ -48,12 +48,12 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | InvoiceNumber | Número de factura donde aparece la transacción especificada. |
 | ProductId | Identificador del producto. |
 | SkuId | Identificador de una SKU determinada. |
-| AvailabilityId | Identificador de la disponibilidad de una SKU determinada. Esto muestra si la SKU está disponible para su compra en el país determinado, la moneda, el segmento del sector, etc. |
+| AvailabilityId | Identificador de la disponibilidad de una SKU determinada. Esta columna muestra si la SKU está disponible para su compra en el país determinado, la moneda, el segmento de la industria, etc. |
 | SkuName | Título de una SKU determinada. |
 | ProductName | Nombre del producto. |
 | PublisherName | Nombre del publicador. |
 | PublisherId | Identificador del publicador en formato GUID. |
-| SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Este campo es idéntico a **nombredeoferta**). |
+| SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. (Esta columna es un campo idéntico a **nombredeoferta**). |
 | SubscriptionId | Identificador único para una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. *Este identificador no es el mismo que el **identificador de suscripción** en la consola de administración de socios comerciales.* |
 | ChargeStartDate | Fecha de inicio del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de facturación anterior). La hora es siempre el principio del día, 00:00. |
 | ChargeEndDate | Fecha final del ciclo de facturación (excepto cuando se presentan fechas de datos de uso latente previamente no cargados del ciclo de facturación anterior). La hora siempre corresponde al fin del día, 23:59. |
@@ -63,7 +63,7 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | MeterId | Identificador del medidor que se está usando. |
 | MeterSubCategory | El tipo de servicio de Azure, que puede afectar a la tarifa. |
 | MeterName | Unidad de medida del medidor que se está consumiendo. |
-| MeterRegion | Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios donde esto se aplica y rellena. |
+| MeterRegion | Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios en los que MeterRegion es aplicable y rellenado. |
 | Unidad | Unidad del **nombre**del recurso. |
 | ResourceLocation | Centro de datos en el que se está ejecutando el medidor. |
 | ConsumedService | El servicio de la plataforma Azure que ha usado. |
@@ -75,13 +75,13 @@ En este tema se explica cómo leer archivos de conciliación de uso clasificados
 | UnitType | Tipo de unidad en la que se carga el medidor.  |
 | BillingPreTaxTotal | Importe total de facturación antes de los impuestos. |
 | BillingCurrency | La moneda en la región geográfica del cliente. |
-| PricingPreTaxTotal | Los precios antes de que se agreguen los impuestos. |
+| PricingPreTaxTotal | Los precios, antes de que se agreguen los impuestos. |
 | PricingCurrency | Moneda de la lista de precios. |
 | ServiceInfo1 | El número de conexiones Service Bus aprovisionadas y utilizadas en un día determinado. |
 | ServiceInfo2 | Campo heredado que captura los metadatos específicos del servicio opcionales. |
 | Etiquetas | Representa una organización lógica de recursos de Azure establecida por el usuario. |
 | AdditionalInfo | Cualquier información adicional no incluida en otras columnas. |
-| EffectiveUnitPrice | El valor real que se cobra por unidad, incluidos los descuentos, el crédito acumulado, etc. |
+| EffectiveUnitPrice | El valor real que se cobra por unidad, incluidos los descuentos, el crédito obtenido, etc. |
 | PCToBCExchangeRate | Tasa de cambio que se aplica para la moneda de facturación. |
 | PCToBCExchangeRateDate | Fecha en la que se determina la moneda de los precios de la moneda de facturación. |
 | EntitlementId | Representa el identificador de suscripción de Azure. |

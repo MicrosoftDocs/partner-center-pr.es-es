@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435144"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943483"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Facturación de productos y suscripciones de Marketplace comercial en el centro de Partners
 
@@ -47,7 +47,7 @@ El administrador global o el administrador de facturación de tu empresa recibir
 
     Verá dos pestañas en la parte superior de la página de facturación: compras **periódicas** y **periódicas y de una sola vez**. Cada pestaña permite acceder a los archivos de factura y conciliación (concil) de distintos productos de Marketplace:
 
-    - Pestaña **periódica** : muestra los archivos de factura y de conciliación para las suscripciones relacionadas con Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro y Microsoft Azure.
+    - Pestaña **periódica** : muestra los archivos de factura y de conciliación de las suscripciones relacionadas con Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro y Microsoft Azure.
 
     - Pestaña **compras periódicas y de un solo tiempo** : muestra los archivos de factura y de conciliación para Azure plan, reservas de Azure, software y productos de Marketplace comerciales.
   

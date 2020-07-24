@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436774"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943702"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 
@@ -76,7 +76,7 @@ Los informes siguientes están disponibles como parte del panel de información.
 
 ### <a name="filters-definitions"></a>Definiciones de filtros:
 
-- Products: lista de todos los productos Microsoft Cloud vendidos/administrados por su organización, por ejemplo, O365, Azure, D365, EMS, PowerBI, etc.
+- Products: lista de todos los productos Microsoft Cloud vendidos/administrados por su organización, por ejemplo, O365, Azure, D365, EMS, Power BI, etc.
 - Mercados de clientes: lista de países de clientes
 - Atribuciones de asociados: el tipo de asociación con las suscripciones de los clientes, por ejemplo, el asociado digital del registro (DPOR), el privilegio de administrador delegado (DAP), el vínculo de administrador del asociado (PAL), etc. 
 - Ubicaciones de asociados: lista de todas las ubicaciones de MPN de la organización.

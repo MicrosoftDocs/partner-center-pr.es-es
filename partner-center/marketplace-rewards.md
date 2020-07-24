@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Los asociados que publican ofertas en el Marketplace comercial pueden beneficiarse de las ventajas que ofrecen soporte técnico de marketing.
-author: laurabrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436844"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114172"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administre las recompensas de Marketplace en el centro de Partners & activar marketing, ventas y beneficios técnicos
 
@@ -50,7 +50,7 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 1. Puede usar sus ventajas técnicas para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
 
-2. El uso de las ventajas de patrocinio de Azure se compartirá por correo electrónico a medida que desbloquee estas ventajas.
+2. El uso de las ventajas de patrocinio de Azure se compartirá a través de un correo electrónico a medida que desbloquee estas ventajas.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de premios Commercial Marketplace en mi panel?
 

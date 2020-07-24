@@ -8,12 +8,12 @@ description: Solicite una relación con un cliente para escenarios de varios aso
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949248"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943722"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el Centro de partners
 
@@ -26,7 +26,7 @@ Si desea administrar el servicio o la suscripción de un cliente en su nombre, e
 Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisiona, no es necesario obtener permisos de administrador.
 
 >[!NOTE] 
->La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud para el gobierno de EE. UU. o Microsoft Cloud Alemania. Para obtener más información, consulte [los clientes delegar privilegios de administración a los asociados](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud para el gobierno de EE. UU. o Microsoft Cloud Alemania. Para obtener más información, consulte [los clientes delegar privilegios de administración a los asociados](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de revendedor contigo
 
@@ -67,4 +67,4 @@ La experiencia del cliente para aceptar una invitación de relación de revended
 
 - [Asignar contactos de soporte técnico](assign-support-contacts.md)
 
-- [Quitar una relación con un cliente](remove-a-relationship.md)
+- [Eliminación de una relación con un cliente](remove-a-relationship.md)
