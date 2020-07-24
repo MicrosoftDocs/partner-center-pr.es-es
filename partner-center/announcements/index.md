@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436074"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949861"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de julio de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Incentivo del Proveedor de soluciones en la nube (CSP) para las ofertas elegibles y mejoradas de marketplace comercial de Microsoft para el año 2021](2020-July.md#7)|22 de julio|
 |Funcionalidades|[Nuevas funcionalidades agregadas a los informes de conclusiones del Centro de partners](2020-july.md#6)|16 de julio|
 |Ofertas/mercados|[Software perpetuo del programa Proveedor de soluciones en la nube ](2020-july.md#5)|15 de julio|
 | Ofertas/mercados | [Nuevas SKU de Microsoft 365 Enterprise Voice para Teams](2020-july.md#4) | 3 de julio |
@@ -35,7 +36,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 | Ofertas/mercados | [Cambios en Microsoft 365 F1](2020-june.md#3) | 15 de junio |
 | Funcionalidades | [Actualización de medios de las suscripciones de software de Windows Server para CSP](2020-june.md#2) | 12 de junio |
 | Ofertas/mercados | [Ofertas y productos nuevos y que terminarán su ciclo de vida de Microsoft Dynamics 365 y Power Platform](2020-june.md#1) | 11 de junio |
-| Funcionalidades | [Combinación de dos o más cuentas de empresa en el Centro de partners](https://docs.microsoft.com/partner-center/merge-accounts) | 9 de junio |
+| Funcionalidades | [Combinación de dos o más cuentas de empresa en el Centro de partners](../merge-accounts.md) | 9 de junio |
 | **Categoría** | **Anuncios de mayo de 2020** | **Fecha** |
 | Funcionalidades | [Microsoft 365 A3: corrección de la licencia para uso desatendido en la oferta para Educación](2020-may.md#5). | 28 de mayo |
 | Funcionalidades | [Los clientes activos pueden renovar su plan de mejoras (EP) en el programa Proveedor de soluciones en la nube (CSP) y recibir licencias en línea](2020-may.md#4). | 26 de mayo |
