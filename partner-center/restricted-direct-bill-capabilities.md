@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los requisitos de los asociados de factura de CSP directos y qué hacer para evitar que se restrinjan las funcionalidades. Averigüe si sus funcionalidades se han restringido.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 710c012af7ded851693eacef0e150bef897ef786
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436594"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87113973"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de factura directa restringida y los requisitos necesarios para los asociados de facturación directa de CSP  
 
-## <a name="overview"></a>Introducción
+## <a name="overview"></a>Información general
 
 Los asociados directos de facturación deben cumplir los nuevos [requisitos](direct-partner-new-requirements.md) para permanecer en el programa de asociados de facturación directa de CSP. De lo contrario, su acceso a las capacidades de factura directa se restringirá con el tiempo y ya no podrán realizar tareas específicas, como nuevas compras para sus clientes.
 

@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436474"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944502"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -204,7 +204,7 @@ El proveedor indirecto no podrá enviar pedidos para los clientes de factura dir
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Aceptación del acuerdo de cliente de Microsoft
 
-Microsoft Cloud acuerdo es válido hasta el 31 de enero de 2020. Después de esa fecha, todos los clientes, existentes y nuevos, deben firmar el nuevo [contrato de cliente de Microsoft](https://docs.microsoft.com/partner-center/confirm-customer-agreement). En el caso de los clientes de transición, si:
+Microsoft Cloud acuerdo es válido hasta el 31 de enero de 2020. Después de esa fecha, todos los clientes, existentes y nuevos, deben firmar el nuevo [contrato de cliente de Microsoft](confirm-customer-agreement.md). En el caso de los clientes de transición, si:
 
 - **El cliente aún no ha aceptado el contrato de cliente de Microsoft**
 
@@ -347,7 +347,7 @@ El asociado de transición debe hacer lo siguiente:
 
 - **Los cambios en el número de puestos de una suscripción no se reflejarán en la solicitud de transferencia existente.** Después de haber creado una solicitud de transferencia que incluye una suscripción existente, debe evitar actualizar la cantidad de puesto de la suscripción (o los complementos asociados). Si lo hace, la nueva cantidad no se reflejará en la solicitud de transferencia. Después de que el proveedor indirecto acepte la solicitud de transferencia, la suscripción resultante tendrá la cantidad anterior. Si desea que la nueva cantidad se transfiera al proveedor indirecto, debe cancelar la solicitud de transferencia existente y volver a crear una nueva.
 
-- **No todas las compras se pueden transferir mediante la transferencia de suscripción de autoservicio.** Actualmente, solo se pueden transferir suscripciones de O365 y suscripciones de Azure PAYG (MS-AZR-0145P) con esta característica. No se admiten otras compras, como los planes de Azure, las instancias reservadas de Azure, las suscripciones basadas en términos y las suscripciones de SaaS de Azure Marketplace. Verá un motivo por el que no se puede transferir una suscripción en la página enviar solicitud de transferencia. Para transferir estas suscripciones, tendrá que [cancelar la suscripción existente](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) y comprar una nueva oferta para el cliente a través de un proveedor indirecto.
+- **No todas las compras se pueden transferir mediante la transferencia de suscripción de autoservicio.** Actualmente, solo se pueden transferir suscripciones de O365 y suscripciones de Azure PAYG (MS-AZR-0145P) con esta característica. No se admiten otras compras, como los planes de Azure, las instancias reservadas de Azure, las suscripciones basadas en términos y las suscripciones de SaaS de Azure Marketplace. Verá un motivo por el que no se puede transferir una suscripción en la página enviar solicitud de transferencia. Para transferir estas suscripciones, tendrá que [cancelar la suscripción existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) y comprar una nueva oferta para el cliente a través de un proveedor indirecto.
 
 - **No se puede probar con un entorno de espacio aislado.**
 

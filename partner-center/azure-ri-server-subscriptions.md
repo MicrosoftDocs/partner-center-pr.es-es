@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435714"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943952"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquisición, aprovisionamiento, & administración de instancias reservadas de máquina virtual de Azure (RI) + suscripciones de servidor para clientes
 
@@ -55,7 +55,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 - Azure Reserved VM Instances
 - Reservas de base de SQL
 - Instancia administrada de SQL
-- Azure Cosmos DB
+- Azure Cosmos DB
 - Azure SQL Data Warehouse
 - Servicios de aplicaciones
 - Azure Databricks reservas unitarias
@@ -103,7 +103,7 @@ A continuación se muestra una lista completa de recursos que le ayudarán a inc
 - [Preguntas más frecuentes sobre asociados de Azure Reservations y SQL DB](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Licencia de acceso de cliente (CAL) de Servicios de Escritorio remoto (RDS) (anuncio)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [Suscripciones de servidor](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Suscripciones de servidor](csp-software-subscriptions.md)
 - [Información general de SQL Database en Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Reservas de base de SQL (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
@@ -130,7 +130,7 @@ Los eventos de preparación de licencias a petición incluyen temas como los sig
 
 Otro aprendizaje útil incluye el [módulo de licencias de Azure en Partner University](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Operaciones
 
 - [Guía de operaciones de comercio moderno](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (actualizada): una guía completa sobre directivas clave y aspectos operativos como acuerdos, pedidos a través del centro de Partners, factura, detalles de la lista de precios, incentivos, archivo de conciliación, API/SDK, espacio aislado y servicios compartidos de asociados de Azure.
 - [Moderno ofrece la matriz de la moneda del cliente y la disponibilidad del país](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

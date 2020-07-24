@@ -1,19 +1,19 @@
 ---
 title: Preparar la prueba de ejecución
-description: Comprenda la importancia de la prueba de ejecución (PoE), así como las escalas de tiempo, el estado de visualización y las directrices de envío.
+description: Comprenda la importancia de la prueba de ejecución (PoE), las escalas de tiempo, el estado de visualización y las directrices de envío.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949480"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114752"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparar la prueba de ejecución
 
@@ -21,7 +21,7 @@ Se aplica a:
 
 - Centro de partners
 
-Antes de recibir el pago por el trabajo de incentivos, debe enviar una prueba de ejecución detallada (PoE). Este tema le guía por el proceso de creación de una prueba de ejecución efectiva.
+Antes de recibir el pago por el trabajo de incentivos, debe enviar una prueba de ejecución detallada (PoE). Este artículo le guía por el proceso de creación de una prueba de ejecución efectiva.
 
 Roles adecuados:
 
@@ -42,7 +42,7 @@ Roles adecuados:
 6. En la **página nueva prueba de ejecución**, escriba los campos obligatorios.
 
    - **Nombre** de  Un nombre descriptivo para la demanda de cooperación.
-   - **Fecha**  La fecha de ejecución. Debe estar entre la fecha de inicio de la campaña y la fecha de finalización de la campaña.
+   - **Fecha**  La fecha de ejecución. Esta fecha debe estar comprendida entre la fecha de inicio de la campaña y la fecha de finalización de la campaña.
    - **Cantidad**  La cantidad de la demanda de cooperación.
 
 7. Seleccione **Guardar**.
@@ -50,7 +50,7 @@ Roles adecuados:
 8. En la página **nueva prueba de notificaciones de ejecución** , escriba los campos obligatorios.
 
    - **Nombre** de  Un nombre descriptivo para la demanda de cooperación.
-   - **Fecha**  La fecha de ejecución. Debe estar entre la fecha de inicio de la campaña y la fecha de finalización de la campaña.
+   - **Fecha**  La fecha de ejecución. Esta fecha debe estar comprendida entre la fecha de inicio de la campaña y la fecha de finalización de la campaña.
    - **Impresiones estimadas**   Alcance estimado de esta actividad; número de personas.
    - **Identificador de aprobación previa**   Este es el identificador que Microsoft le envía después de haber aprobado su material de marketing.
 
@@ -60,7 +60,7 @@ Roles adecuados:
     - **Factura de terceros**  En el campo **factura de terceros** , seleccione **arrastrar o examinar archivos para cargarlos**. Agregue la factura y los detalles de factura necesarios y, a continuación, seleccione **Guardar**.
     - **Informe del servicio de certificación**  Seleccione **Agregar informe de servicio de certificación**. En la página **generar un informe de servicio de certificación** , complete los campos obligatorios y, a continuación, seleccione **Guardar**.
 
-11. También puede cargar **documentos de prueba** si lo desea. En el campo **documentos de prueba** , seleccione **arrastrar o examinar archivos para cargarlos**. Tenga en cuenta que si selecciona Documentos de prueba, debe agregar notas explicativas. Cuando haya agregado una nota, seleccione **Guardar**.
+11. También puede cargar **documentos de prueba** si lo desea. En el campo **documentos de prueba** , seleccione **arrastrar o examinar archivos para cargarlos**. Si selecciona documentos de prueba, debe agregar notas explicativas. Cuando haya agregado una nota, seleccione **Guardar**.
 
 12. Escriba los comentarios finales antes de enviar su POE y, a continuación, seleccione **enviar notificaciones**.
 

@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Qué debe saber al migrar varias compañías del centro de pertenencia de asociados (PMC) al centro de Partners y consolidarlas en una cuenta global de socio comercial.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434414"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114150"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
@@ -51,7 +51,7 @@ Verás la cuenta existente y una nota que indica que los detalles de la empresa 
 
 En esta pantalla se muestran los detalles de la cuenta existente (nombre y dirección) que ya se ha creado en el Centro de partners, junto con los detalles del contacto principal.
 
-Seleccione **Continuar**.
+Selecciona **Continuar**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>¿Qué ocurre durante la consolidación de cuentas?
 

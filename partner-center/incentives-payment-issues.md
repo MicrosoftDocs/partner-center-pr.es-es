@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Obtenga información acerca de cómo solucionar problemas, como pérdidas de beneficios o incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de los incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 7408b3c1adf8741104a8d27e68dccf27be07c5c0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949482"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114757"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solución de problemas de pagos y ganancias
 

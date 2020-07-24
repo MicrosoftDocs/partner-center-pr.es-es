@@ -4,16 +4,16 @@ description: Comprenda los procesos y las escalas de tiempo importantes para adm
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949504"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114786"
 ---
 # <a name="manage-customer-associations"></a>Administrar asociaciones de clientes
 
@@ -42,7 +42,7 @@ Si la notificación de Asociación de CPOR está aprobada y es válida para ince
 - Enviado: se le enviará un estado de hasta cinco días hábiles hasta que Microsoft inicie el proceso de aprobación.
 - En revisión: Microsoft tiene cinco días laborables para tomar una decisión basada en la prueba de ejecución que proporcione.
 - Acción de asociado requerida: Si un revisor le envía comentarios y una solicitud de información adicional, tiene cinco días laborables para responder. Una decisión debe tomarse en la declaración de Asociación de CPOR en un plazo de 10 días según el acuerdo de nivel de servicio del revisor más la cantidad de tiempo que se tarda en proporcionar a los revisores de MOC información adicional.
-- Aprobado: se ha aprobado la petición de Asociación de CPOR. Una vez aprobada la asociación, se enviará una notificación al cliente, lo que les dará la oportunidad de denegar su asociación. El cliente tendrá siete días para dejar de participar. Una vez transcurrido este período de consentimiento, se enviará la demanda para evaluar la idoneidad de los programas de incentivos.
+- Aprobado: se ha aprobado la petición de Asociación de CPOR. Una vez aprobada la asociación, se enviará una notificación al cliente que les dará la oportunidad de denegar la asociación. El cliente tendrá siete días para dejar de participar. Una vez transcurrido este período de consentimiento, se enviará la demanda para evaluar la idoneidad de los programas de incentivos.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Ver el estado de la notificaciones de Asociación de CPOR
 
@@ -71,7 +71,7 @@ Estos son los Estados y su significado:
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Conflicto del estado de una declaración de Asociación de CPOR
 
-Si se rechaza la petición de Asociación de CPOR, tiene 30 días para cuestionar el rechazo. El correo electrónico que recibe le notifica el rechazo también le indica dónde puede ver el motivo del rechazo y cómo cuestionarlo.  
+Si se rechaza la petición de Asociación de CPOR, tiene 30 días para cuestionar el rechazo. El correo electrónico que recibe donde se le notifica del rechazo también le indica dónde puede ver el motivo del rechazo y cómo impugnarlo.  
 
 Si han transcurrido 30 días y aún desea disfrutar de una demanda rechazada, deberá enviar una nueva asociación con la prueba de ejecución actualizada (PoE). 
 
@@ -81,17 +81,17 @@ Si han transcurrido 30 días y aún desea disfrutar de una demanda rechazada, de
 2. Abra la demanda de la que desea hacer una disputa.
 3. En la página de notificaciones, seleccione **conflicto**.
 4. Escriba una justificación comercial o una PoE actualizada que explique por qué se debe volver a considerar el rechazo.
-5. Cuando haya terminado de agregar información, seleccione **conflicto**. Nuestros revisores deben ponerse en contacto con usted con los resultados en un plazo de 5 días laborables.
+5. Cuando haya terminado de agregar información, seleccione **Impugnar**. Nuestros revisores deben ponerse en contacto con usted con los resultados en un plazo de cinco días laborables.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Motivos por los que se rechaza una petición de Asociación de CPOR
 
 Hay tres razones principales para que se rechace una claim de Asociación de CPOR.
 
-**Solicitud de asociado:** Los asociados pueden solicitar que se rechace su asociación. Se usa principalmente cuando el asociado ha creado una declaración de Asociación de CPOR por equivocación mediante un MPN incorrecto, ha elegido una actividad incorrecta (ejemplo.... Ha elegido Asociación de ingresos en lugar de preventa) o no está trabajando con el cliente.
+**Solicitud de asociado:** Los asociados pueden solicitar que se rechace su asociación. Esta racionalización se usa principalmente cuando el asociado ha creado una declaración de Asociación de CPOR por equivocación mediante un MPN incorrecto, ha elegido una actividad incorrecta (ejemplo... Ha elegido Asociación de ingresos en lugar de preventa) o no está trabajando con el cliente.
 
 **Rechazo de cliente:** Una vez que la notificación de Asociación de CPOR ha pasado por el proceso de aprobación de PoE correctamente, su estado cambia a aprobado, mientras que el cliente tiene la oportunidad de denegar el consentimiento de la asociación. Si el cliente deniega el consentimiento, se rechazará la asociación.
 
-**Prueba de ejecución insuficiente:** Se requiere una prueba de ejecución para cada Asociación de CPOR. Después de enviar la solicitud de Asociación de CPOR, los revisores de Microsoft tardarán hasta 5 días en revisar su PoE y solicitar la información adicional necesaria para usar la sección de comentarios de la solicitud. Si la información es insuficiente, se rechazará la declaración de Asociación de CPOR.
+**Prueba de ejecución insuficiente:** Se requiere una prueba de ejecución para cada Asociación de CPOR. Después de enviar la solicitud de Asociación de CPOR, los revisores de Microsoft tardarán hasta cinco días en revisar su PoE y solicitar la información adicional necesaria para usar la sección de comentarios de la demanda. Si la información es insuficiente, se rechazará la declaración de Asociación de CPOR.
 
 Otras posibles razones para el rechazo:
 
@@ -113,7 +113,7 @@ Los campos que puede editar:
 
 ## <a name="customer-consent-notification"></a>Notificación de consentimiento del cliente
 
-Una vez aprobada la notificación de Asociación de CPOR, se enviará una notificación al cliente, lo que les dará la oportunidad de denegar su asociación. A continuación, el cliente tendrá siete días para dejar de participar. Su estado durante este período aparece como aprobado. Si el cliente deniega el consentimiento, se rechazará la asociación. Una vez que haya transcurrido el período de consentimiento y el cliente no haya denegado su consentimiento, se enviará la demanda para evaluar la idoneidad de los programas de incentivos.
+Una vez aprobada la notificación de Asociación de CPOR, se enviará una notificación al cliente, lo que les dará la oportunidad de denegar su asociación. El cliente tendrá siete días para dejar de participar. Su estado durante este período aparece como aprobado. Si el cliente deniega el consentimiento, se rechazará la asociación. Una vez que haya transcurrido el período de consentimiento y el cliente no haya denegado su consentimiento, se enviará la demanda para evaluar la idoneidad de los programas de incentivos.
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>Cómo comunicarse con los revisores de PoE
 

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 7a45b3033c448255d5508e7b7abb7a29c1c0a9e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875201"
+ms.locfileid: "86943542"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Comprenda la diferencia entre la facturación mensual y anual del centro de Partners
 
@@ -32,13 +32,13 @@ ms.locfileid: "86875201"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 
-En este tema se explican las diferencias entre la **facturación mensual** y la **facturación anual** del centro de Partners, incluidas las ventajas y los casos de uso. Tiene la opción de pagar algunas suscripciones de proveedor de soluciones en la nube (CSP) mensual o anual.
+En este artículo se explican las diferencias entre la **facturación mensual** y la **facturación anual** del centro de Partners, incluidas las ventajas y los casos de uso. Tiene la opción de pagar algunas suscripciones de proveedor de soluciones en la nube (CSP) mensual o anual.
 
 ## <a name="applicability"></a>Aplicabilidad
 
 La mayoría de las suscripciones basadas en licencia tienen la opción de facturación mensual o anual. Las suscripciones basadas en uso solo tienen la opción de facturación mensual.
 
-La facturación anual y mensual son **por suscripción**, ** *no* por licencia**.
+La facturación anual y mensual son **por suscripción**, ** _no_ por licencia**.
 
 ### <a name="find-subscription-applicability"></a>Buscar aplicabilidad de suscripción
 
@@ -64,7 +64,7 @@ Cambiar de facturación mensual a facturación anual puede ser útil si tiene va
 
 ### <a name="annual-to-monthly-billing"></a>Facturación anual a factura mensual
 
-Cambiar de la facturación anual a la facturación mensual puede ser útil si desea ajustar las fechas de facturación a las de sus clientes individuales.
+Cambiar de la facturación anual a la facturación mensual puede ser útil si desea ajustar las fechas de facturación para que coincidan con las fechas de los clientes individuales.
 
 ## <a name="annual-billing"></a>Facturación anual
 
@@ -77,7 +77,7 @@ La facturación anual tiene las siguientes ventajas:
 
 ### <a name="configure-annual-billing"></a>Configuración de la facturación anual
 
-Si tiene previsto cambiar a la facturación anual del centro de Partners, asegúrese de considerar cómo se verá afectado el movimiento de ventas. Informe al equipo y actualice los procesos internos según sea necesario. También debe revisar los cambios en la factura y el archivo de conciliación basado en licencias. 
+Si tiene previsto cambiar a la facturación anual del centro de Partners, asegúrese de considerar cómo se verá afectado el movimiento de ventas. Informe al equipo y actualice los procesos internos según sea necesario. También debe revisar los cambios en la factura y el archivo de conciliación basado en licencias.
 
 También necesitará [actualizar las API para la facturación anual](#required-api-changes).
 
@@ -112,11 +112,11 @@ Se te enviará una factura en la siguiente fecha de facturación después de la 
 
 No es posible dividir una **sola suscripción** para que una parte se facture mensualmente y la otra parte se facture anualmente. Toda la suscripción debe tener la misma frecuencia de facturación (facturación mensual o anual).
 
-En el caso de los clientes con **varias suscripciones** de la misma oferta, puede que sea posible tener diferentes frecuencias de facturación por suscripción. Hay algunas ofertas que están limitadas a una suscripción por cliente. Si la oferta no está limitada, un cliente puede tener varias suscripciones de la misma oferta con diferentes frecuencias de facturación. Puedes encontrar los detalles de todos los límites y restricciones de las ofertas en la columna I de la matriz de ofertas. Puede encontrar la matriz de la oferta en la sección **Ver ofertas y precios** del centro de Partners.
+En el caso de los clientes con **varias suscripciones** de la misma oferta, puede que sea posible tener diferentes frecuencias de facturación por suscripción. Hay algunas ofertas que están restringidas a una suscripción por cliente. Si la oferta no está limitada, un cliente puede tener varias suscripciones de la misma oferta con diferentes frecuencias de facturación. Puedes encontrar los detalles de todos los límites y restricciones de las ofertas en la columna I de la matriz de ofertas. Puede encontrar la matriz de la oferta en la sección **Ver ofertas y precios** del centro de Partners.
 
 ### <a name="free-subscription-period"></a>Período de suscripción gratuito
 
-Las suscripciones con una frecuencia de facturación anual no reciben un período gratuito. El plazo de pago de doce meses comienza en la fecha de compra. Difiere de las suscripciones con frecuencia de facturación mensual que reciben un período gratuito desde la fecha de compra hasta la próxima fecha de facturación.
+Las suscripciones con una frecuencia de facturación anual no reciben un período gratuito. El plazo de pago de doce meses comienza en la fecha de compra. Esto no es lo mismo que las suscripciones con una frecuencia de facturación mensual que reciben un período gratuito de la fecha de compra a la siguiente fecha de facturación.
 
 ### <a name="adding-and-removing-licenses"></a>Adición y eliminación de licencias
 
@@ -138,7 +138,7 @@ En el caso de la facturación anual, si la suscripción se cancela en los 30 pri
 
 ### <a name="moving-subscriptions-between-partners"></a>Mover suscripciones entre asociados
 
-Los clientes no pueden trasladar las suscripciones entre de un asociado a otro. Esto se aplica a las suscripciones facturadas mensualmente y anualmente.
+Los clientes no pueden trasladar las suscripciones entre de un asociado a otro. Esta restricción se aplica a las suscripciones facturadas mensuales y anuales.
 
 El nuevo partner debe adquirir una nueva suscripción en nombre del cliente. No es posible trasladar suscripciones entre asociados.
 
@@ -152,7 +152,7 @@ Puede reactivar una suscripción durante un máximo de 90 días después de la f
 
 El precio de la oferta en el momento de la compra se garantiza para el período de suscripción facturado completo (un mes para la facturación mensual, 12 meses para la facturación anual). Cuando se renueve una suscripción, el precio se basará en la lista de precios actual en la fecha de renovación. El nuevo precio se garantiza para el siguiente período de suscripción.
 
-Si se reduce el precio de la oferta durante el período de facturación, la cantidad que se factura no cambia. El precio se establece para el período de facturación completo en el momento de la compra. Esto se aplica a la facturación mensual y anual.
+Si se reduce el precio de la oferta durante el período de facturación, la cantidad que se factura no cambia. El precio se establece para el período de facturación completo en el momento de la compra. Esta Convención se aplica a la facturación mensual y anual.
 
 ### <a name="cancellation-credits"></a>Créditos de cancelación
 
@@ -176,7 +176,7 @@ Al comprar o renovar una suscripción con una facturación anual, el archivo de 
 
 - Si no se realizan cambios en la suscripción, no habrá filas en los archivos de conciliación de los meses dos a 12 del período de suscripción. Si se realiza un cambio en la suscripción durante el período de doce meses, aparecerá un crédito y una factura prorrateada en el siguiente archivo de conciliación después de realizar el cambio.
 
-- El siguiente cambio en el archivo de conciliación aparecerá cuando se renueve la suscripción. Esto aparecerá en la primera fecha de facturación después de la renovación.
+- El siguiente cambio en el archivo de conciliación aparecerá cuando se renueve la suscripción. El cambio aparecerá en la primera fecha de facturación después de la renovación.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Cambios en el archivo de uso para la facturación anual
 
@@ -194,7 +194,7 @@ Si se produce la cancelación en los primeros 30 días del período de doce mese
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Agregar licencias a la suscripción anual
 
-Al agregar licencias a una suscripción, el archivo de conciliación contendrá un crédito y una factura prorrateada. Esto se aplica a las suscripciones facturadas mensualmente y anualmente.
+Al agregar licencias a una suscripción, el archivo de conciliación contendrá un crédito y una factura prorrateada. Esta Convención se aplica a las suscripciones facturadas mensuales y anuales.
 
 ### <a name="price-lists-for-annual-billing"></a>Listas de precios para la facturación anual
 
@@ -224,7 +224,7 @@ Los asociados obtienen incentivos en todas las transacciones válidas, independi
 
 Si tiene preguntas sobre los incentivos, póngase en contacto con el equipo de soporte técnico de incentivos regionales adecuado:
 
-| Región | Dirección de correo electrónico |
+| Region | Dirección de correo electrónico |
 | ------ | ------------- |
 | Norteamérica | <ocina@microsoft.com> |
 |América Latina & Brasil | <ocilatam@microsoft.com> |

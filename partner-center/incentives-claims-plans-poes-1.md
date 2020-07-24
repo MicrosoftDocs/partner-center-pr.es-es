@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: Comprenda el proceso de reclamación de la cooperación entre las fechas límite, los tiempos de pago y la prueba de ejecución (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 0beb65febee607af403f04d69650018b471a3fde
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875241"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114816"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>Reactivación de notificaciones, planes y PoEs
 
