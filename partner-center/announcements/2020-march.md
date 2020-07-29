@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286623"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943982"
 ---
 # <a name="march-2020-announcements"></a>Anuncios de marzo de 2020
 
@@ -102,14 +102,14 @@ A partir del 31 de agosto de 2018, Microsoft actualizó los requisitos de inscri
 
 Hay disponibles nuevas funcionalidades para transferir las suscripciones de CSP de los clientes de los inquilinos de facturación directa a los inquilinos de proveedores indirectos. Esta nueva funcionalidad facilitará la transición de los partners de facturación directa a los revendedores indirectos, lo que ayuda a acelerar el crecimiento empresarial dentro del programa.
 
-Revise la página de [ofertas de CSP](https://docs.microsoft.com/partner-center/csp-offers) para más información.
+Revise la página de [ofertas de CSP](../csp-offers.md) para más información.
 
 >[!NOTE] 
->Las transferencias solo admitirán suscripciones basadas en licencias y suscripciones de Azure. Tendrá que transferir manualmente el plan de Azure y las compras de marketplace comercial. Tenga en cuenta que esto implica la cancelación y renovación de las suscripciones que se describen en los siguientes documentos: [Plan de Azure](https://docs.microsoft.com/partner-center/azure-plan-lp) y [marketplace comercial](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Dado que las suscripciones de servidor y las reservas de Azure son una compra única, no es necesario transferirlas a un inquilino de proveedor indirecto. Visite la página de ofertas de CSP para más información.
+>Las transferencias solo admitirán suscripciones basadas en licencias y suscripciones de Azure. Tendrá que transferir manualmente el plan de Azure y las compras de marketplace comercial. Tenga en cuenta que esto implica la cancelación y renovación de las suscripciones que se describen en los siguientes documentos: [Plan de Azure](../azure-plan-lp.md) y [marketplace comercial](../csp-commercial-marketplace-manage.md). Dado que las suscripciones de servidor y las reservas de Azure son una compra única, no es necesario transferirlas a un inquilino de proveedor indirecto. Visite la página de ofertas de CSP para más información.
 
 ### <a name="additional-resources"></a>Recursos adicionales:
 
-- Artículo de ayuda [Transición de partner de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)
+- Artículo de ayuda [Transición de partner de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
 - [Presentación de factura directa a revendedor indirecto](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Pasos a seguir

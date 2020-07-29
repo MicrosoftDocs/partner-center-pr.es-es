@@ -5,16 +5,16 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Más información acerca de cómo cumplir los requisitos de servicio y soporte técnico más recientes para convertirte en un partner de facturación directa en el programa Proveedor de soluciones en la nube (CSP) de Microsoft.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79775a45f904970c6d533874360a67cf9ce96852
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: aa5ac9b7e8951d27f5e55f303a3506f78179600f
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434704"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120011"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para inscribirse como partner de facturación directa de CSP
 

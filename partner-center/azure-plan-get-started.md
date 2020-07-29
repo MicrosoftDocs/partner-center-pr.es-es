@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435824"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943962"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comienzo del uso del plan de pago por uso de Azure
 
@@ -48,7 +48,7 @@ Dada la naturaleza de los partners, que tienen privilegios elevados, necesitamos
 - Implementar los [valores predeterminados de seguridad Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Mediante la implementación de una solución de terceros y asegurándose de que se aplica MFA a todos los usuarios.
 
-A partir del 1 de agosto de 2019, todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino de partner. Puedes encontrar información detallada sobre estos requisitos de seguridad en los [requisitos de seguridad para partners](https://docs.microsoft.com/partner-center/partner-security-requirements).
+A partir del 1 de agosto de 2019, todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino de partner. Puedes encontrar información detallada sobre estos requisitos de seguridad en los [requisitos de seguridad para partners](partner-security-requirements.md).
 
 Microsoft recomienda a los partners que usen el mecanismo RBAC diligentemente, siguiendo los procedimientos recomendados habilitadas a través de los [recursos de Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 

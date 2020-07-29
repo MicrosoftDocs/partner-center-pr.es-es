@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434564"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943932"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
 
@@ -117,21 +117,21 @@ Algunas ofertas basadas en licencias solo se pueden adquirir en determinadas con
 
 Puede haber diferentes razones por las que no puede encontrar la oferta que está buscando en el catálogo. A continuación se indican los aspectos que se deben comprobar si no encuentra la oferta que espera.
 
-- **Compruebe que el cliente está calificado**. Muchas ofertas requieren calificaciones especiales que se van a vender a los clientes. Estos segmentos especiales incluyen empresas de educación, sin ánimo de lucro y Government Community Cloud (GCC). Antes de registrar un problema, compruebe primero que las calificaciones del cliente se establecen en consecuencia. Para comprobarlo, haga clic en el cliente en la lista de clientes y vea la cuenta. Si procede, la cuenta tendrá un conjunto de cualificaciones especial. Si está intentando comprar Educación para un cliente que no está calificado, no verá esas ofertas en el catálogo. Consulte la [documentación de segmentos especiales](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers) para obtener más información sobre cómo calificar a los clientes.
+- **Compruebe que el cliente está calificado**. Muchas ofertas requieren calificaciones especiales que se van a vender a los clientes. Estos segmentos especiales incluyen empresas de educación, sin ánimo de lucro y Government Community Cloud (GCC). Antes de registrar un problema, compruebe primero que las calificaciones del cliente se establecen en consecuencia. Para comprobarlo, haga clic en el cliente en la lista de clientes y vea la cuenta. Si procede, la cuenta tendrá un conjunto de cualificaciones especial. Si está intentando comprar Educación para un cliente que no está calificado, no verá esas ofertas en el catálogo. Consulte la [documentación de segmentos especiales](get-special-pricing-for-offers.md) para obtener más información sobre cómo calificar a los clientes.
 - **Decida si está intentando adquirir un complemento o una oferta base**. Muchos de los servicios basados en licencias, como Microsoft 365 y Dynamics 365, permiten comprar catálogos de las ofertas base, así como complementos. En el catálogo solo se pueden adquirir ofertas base. Para comprar complementos, asegúrese de comprar primero la oferta base en el catálogo y, a continuación, seleccione el cliente en la lista de clientes y, a continuación, seleccione la suscripción de la oferta base. Los complementos se pueden aplicar a la oferta base en esta página administrar suscripciones. 
 - **Compruebe que los productos están disponibles en su mercado**. Muchos productos y servicios están configurados para venderse solo a los clientes de países concretos. Puede encontrar la lista de países admitidos en los distintos archivos de lista de precios. Los países compatibles con los servicios basados en licencias se encuentran en la matriz de la lista de ofertas en la página precios y ofertas.
 - **Compruebe que las ofertas están disponibles en la lista de precios**. La lista de ofertas disponibles puede cambiar de un mes a otro. Si no puede encontrar una oferta en el catálogo, asegúrese de comprobar que está disponible en las listas de precios actuales de la página **Vender > Precios y ofertas**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documentos recomendados relacionados con los artículos de compra del Centro de partners
 
-- [Precios y ofertas en el Centro de partners](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube](https://docs.microsoft.com/partner-center/csp-offers)
-- [Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el Centro de partners](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [Reglas de compra para segmentos especiales](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [Precios y ofertas en el Centro de partners](pricing-and-offers.md)
+- [Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube](csp-offers.md)
+- [Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el Centro de partners](sell-to-education-customers.md)
+- [Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales](get-special-pricing-for-offers.md)
+- [Reglas de compra para segmentos especiales](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Para obtener información sobre cómo funciona el proceso de facturación, consulta [Conceptos básicos sobre facturación](https://docs.microsoft.com/partner-center/billing-basics).
+Para obtener información sobre cómo funciona el proceso de facturación, consulta [Conceptos básicos sobre facturación](billing-basics.md).
 
 Para obtener información sobre la compra en el plan de Azure, consulta [Compra del plan de Azure](purchase-azure-plan.md).
