@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949861"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330122"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,7 +22,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de julio de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
-|Funcionalidades|[Incentivo del Proveedor de soluciones en la nube (CSP) para las ofertas elegibles y mejoradas de marketplace comercial de Microsoft para el año 2021](2020-July.md#7)|22 de julio|
+|Funcionalidades|[Próximos cambios en las API del Centro de partners](2020-july.md#9)|28 de julio|
+|Funcionalidades|[Versión del SDK en .NET Standard v1.16.1-preview](2020-july.md#8)|21 de julio|
+|Funcionalidades|[Incentivo del Proveedor de soluciones en la nube (CSP) para las ofertas elegibles y mejoradas de marketplace comercial de Microsoft para el año 2021](2020-july.md#7)|22 de julio|
 |Funcionalidades|[Nuevas funcionalidades agregadas a los informes de conclusiones del Centro de partners](2020-july.md#6)|16 de julio|
 |Ofertas/mercados|[Software perpetuo del programa Proveedor de soluciones en la nube ](2020-july.md#5)|15 de julio|
 | Ofertas/mercados | [Nuevas SKU de Microsoft 365 Enterprise Voice para Teams](2020-july.md#4) | 3 de julio |
