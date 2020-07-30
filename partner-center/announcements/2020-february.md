@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749135"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944442"
 ---
 # <a name="february-2020-announcements"></a>Anuncios de febrero de 2020
 
@@ -70,7 +70,7 @@ _________________
 
 Los partners ya pueden invitar a los clientes nuevos y actuales a revisar y aceptar el Contrato de cliente de Microsoft directamente en un portal de Microsoft autenticado (Centro de administración de Microsoft 365).
 
-Esta nueva funcionalidad significa que los [partners ahora tienen dos opciones](https://docs.microsoft.com/partner-center/confirm-customer-agreement) para presentar el Contrato de cliente de Microsoft a sus clientes:
+Esta nueva funcionalidad significa que los [partners ahora tienen dos opciones](../confirm-customer-agreement.md) para presentar el Contrato de cliente de Microsoft a sus clientes:
 
 - **Opción 1:** los partners pueden presentar el nuevo Contrato de cliente de Microsoft a sus clientes igual que lo hacían antes con el Contrato de Microsoft Cloud. Una vez que los clientes hayan revisado y aceptado el contrato, los partners deben dar fe de esa aceptación a Microsoft. El panel del Centro de partners, la API del Centro de partners y el SDK de .NET se han actualizado para que los partners puedan confirmar la aceptación del Contrato de cliente de Microsoft por parte de los clientes.
 - **Opción 2 (característica nueva):** los partners pueden invitar a los clientes a un portal de Microsoft autenticado (Centro de administración de Microsoft 365) para ver y firmar el contrato. Esta opción simplifica la administración de los contratos, agiliza la implementación y reduce la carga de trabajo de los partners porque, una vez que el cliente acepta el contrato directamente en el Centro de administración de Microsoft 365, se confirma la aprobación de los términos.
@@ -130,7 +130,7 @@ La oferta siguiente no está disponible y se quitará de las listas de precios f
 
 Oferta: Sistema telefónico de Microsoft 365: usuario virtual de prueba, id. de la oferta: `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Estas ofertas están disponibles, pero no en la matriz de la lista de ofertas. Consulte la matriz de la lista de ofertas anterior de enero de 2020 para conocer los detalles de la matriz de ofertas.
+Estas ofertas están disponibles pero no en la matriz de la lista de ofertas. Consulte la matriz de la lista de ofertas anterior de enero de 2020 para obtener los detalles de la matriz de ofertas.
 
 Oferta: Soporte técnico Professional Direct para Dynamics 365 Unified Operations, id. de la oferta: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,11 +175,11 @@ Nuestro sistema indica que su organización usa actualmente directivas de línea
 
 ### <a name="key-considerations"></a>Consideraciones clave
 
-La directiva de valores predeterminados de seguridad es una de las [opciones ](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
+La directiva de valores predeterminados de seguridad es una de las [opciones ](../partner-security-requirements.md#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
 
 - En el caso de los partners que usan el [acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los valores predeterminados de seguridad no estarán disponibles.
-- Los valores predeterminados de seguridad aplican todas las directivas a la vez, incluidas las directiva obligatoria de MFA administradores, la directiva de protección del usuario final y la directiva obligatoria de MFA para la administración de servicios.
-- El bloqueo de la autenticación heredada no se aplicará a los asociados en este momento. Sin embargo, dado que la mayoría de los eventos relacionados con identidades comprometidas provienen de intentos de inicio de sesión mediante la autenticación heredada, se recomienda a los asociados a apartarse de estos protocolos antiguos.
+- Los valores predeterminados de seguridad aplican todas las directivas a la vez, que incluyen la directiva obligatoria de MFA para administradores, la directiva de protección del usuario final y la directiva obligatoria de MFA para la administración de servicios.
+- El bloqueo de la autenticación heredada no se aplicará a los asociados en este momento. Sin embargo, dado que la mayoría de los eventos relacionados con identidades comprometidas provienen de intentos de inicio de sesión mediante la autenticación heredada, se recomienda a los asociados apartarse de estos protocolos antiguos.
 - Los valores predeterminados de seguridad excluyen automáticamente la cuenta de sincronización de Azure AD Connect.
 - Los valores predeterminados de seguridad son el reemplazo de disponibilidad general de las [directivas de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) de la versión preliminar. Una vez que un asociado habilite los valores predeterminados de seguridad, ya no podrá habilitar las directivas de línea de base.
 
@@ -288,7 +288,7 @@ La [nueva experiencia comercial de Azure en el programa CSP](https://blogs.partn
 
 - Revise la [documentación para desarrolladores](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/).
 - Implemente el proceso automatizado con [la nueva API](https://docs.microsoft.com/partner/develop/pricing).
-- Consulte la [documentación sobre los precios de los planes de Azure](https://docs.microsoft.com/partner-center/azure-plan-price-list) para ver preguntas relacionadas con los precios.
+- Consulte la [documentación sobre los precios de los planes de Azure](../azure-plan-price-list.md) para ver preguntas relacionadas con los precios.
 - [Obtenga más información sobre los planes de Azure y la nueva experiencia comercial del programa CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ### <a name="change-log"></a>Registro de cambios
@@ -324,7 +324,7 @@ Estos cambios comenzarán a estar disponibles la semana del 3 de febrero.
 
 ### <a name="additional-resources"></a>Recursos adicionales:
 
-- Más información sobre [cómo crear solicitudes de soporte técnico en el Centro de partners](https://docs.microsoft.com/partner-center/report-problems-with-partner-center).
+- Más información sobre [cómo crear solicitudes de soporte técnico en el Centro de partners](../report-problems-with-partner-center.md).
 
 ### <a name="change-log"></a>Registro de cambios
 
@@ -357,8 +357,8 @@ Para más información, consulte los recursos sobre el Contrato de cliente de Mi
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- Confirmar la aceptación del cliente mediante la [API o la interfaz de usuario web](https://docs.microsoft.com/partner-center/confirm-customer-agreement) del Centro de partners.
-- Los partners que usan las API del Contrato de Microsoft Cloud existente deben revisar su implementación existente con la [API actualizada](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Confirmar la aceptación del cliente mediante la [API o la interfaz de usuario web](../confirm-customer-agreement.md) del Centro de partners.
+- Los partners que usan las API del Contrato de Microsoft Cloud existente deben revisar su implementación existente con la [API actualizada](../confirm-customer-agreement.md).
 - Enseñe a sus agentes y revendedores los [nuevos términos del contrato](https://www.microsoft.com/licensing/docs/customeragreement), cómo presentarlo y cómo validar la aceptación por parte de los clientes.
 
 >[!NOTE] 

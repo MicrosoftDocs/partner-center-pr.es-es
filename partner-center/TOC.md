@@ -15,6 +15,7 @@
 ### [Guía para cambiar varias empresas al Centro de partners](move-multiple-companies.md)
 ### [Consolidación de las empresas](consolidate-accounts.md)
 
+
 ## Ofertas de suscripción
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Renovar tus ofertas](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Comprobar tu propiedad de un dominio](become-global-admin.md)
 ## [Comprobar la información de la cuenta](verification-responses.md)
 ## [Combinar la cuenta de asociado con otra cuenta de asociado](merge-accounts.md)
+## [Asociar inquilinos de Azure AD adicionales a la cuenta del Centro de partners](multi-tenant-account.md)
 ## [Actualizar tu perfil de asociado](update-your-partner-profile.md)
 ## [Ubicaciones](manage-locations.md)
 ## [Inscribirse como proveedor del Panel de control](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Introducción a los incentivos
 #### [Determinar su idoneidad para el programa](incentives-determined-your-program-eligibility.md)
 #### [Crear y administrar perfiles de pago y impuestos en el Centro de partners](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal](incentives-payout-tax-profile-faqs.md)
 #### [Confirmar la elegibilidad de sus ganancias](incentives-confirm-your-earnings-eligibility.md)
 #### [Ver tus programas y pagos de incentivos](understand-incentive-payouts.md)
 #### [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [Facturas: lectura de los campos de facturación y de cargos únicos](invoice-file.md)
 ### [Facturación basada en licencias](license-based-billing.md)
 ### [Escenarios de suscripciones SaaS basadas en licencias](common-billing-scenarios-saas.md)
+
+## [Vista de firmas digitales: Centro de partners de India](digital-signature.md)
+
 ## [Impuestos y exenciones fiscales](tax-and-tax-exemptions.md)
 ### [Información sobre el IVA de la empresa](organization-tax-info.md)
 ### [Asegúrese de que se le abona la retención de impuestos](withholding-tax-credit-form.md)

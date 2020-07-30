@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436744"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943622"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
@@ -48,15 +48,17 @@ Lee también [Restablecer los privilegios de administrador para las suscripcione
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
- Azure Cost Management (ACM) con Análisis de costos te permite, como partner, ver los costos que han recibido el beneficio del PEC.  
+Azure Cost Management (ACM) con Análisis de costos te permite, como partner, ver los costos que han recibido el beneficio del PEC.  
 
-1. En Azure Portal, inicia sesión en el inquilino del partner y selecciona **Cost Management + facturación**.
-2.  Selecciona **Cost Management**.
-3.  Selecciona **Análisis de costos**.
+1. En [Azure Portal](https://portal.azure.com), inicie sesión en su inquilino de partner y seleccione **Administración de costos + facturación**.
 
-La vista Análisis de costos mostrará los costos de la cuenta de facturación para todos los servicios adquiridos y consumidos con los precios que paga a Microsoft.
+2. Selecciona **Cost Management**.
 
-4.  Selecciona **PartnerEarnedCreditApplied** en el menú desplegable de un gráfico dinámico para ver los costos que tienen el PEC aplicado. Si la propiedad propiedad **PartnerEarnedCreditApplied** es True, el costo asociado tiene la ventaja del crédito obtenido del partner. 
+3. Selecciona **Análisis de costos**.
+
+   La vista Análisis de costos mostrará los costos de la cuenta de facturación para todos los servicios adquiridos y consumidos con los precios que paga a Microsoft.
+
+4. Selecciona **PartnerEarnedCreditApplied** en el menú desplegable de un gráfico dinámico para ver los costos que tienen el PEC aplicado. Si la propiedad propiedad **PartnerEarnedCreditApplied** es True, el costo asociado tiene la ventaja del crédito obtenido del partner. 
 
 Si la propiedad PartnerEarnedCreditApplied es False, el costo asociado no cumple los requisitos necesarios para el crédito o el servicio adquirido no es apto para el crédito obtenido por el partner.
 

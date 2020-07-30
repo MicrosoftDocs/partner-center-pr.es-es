@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286613"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944012"
 ---
 # <a name="january-2020-announcements"></a>Anuncios de enero de 2020
 
@@ -53,15 +53,15 @@ Ahora los partners pueden adquirir, aprovisionar y administrar reservas de Azure
 ### <a name="additional-resources"></a>Recursos adicionales
 
 - Recursos del programa CSP en la página de la galería de partners: [Disponibilidad de las suscripciones de Windows Server y SQL Server en Rusia para los partners del programa CSP](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [Más información acerca del Centro de partners](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [Más información acerca del Centro de partners](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- Comparta esta información en tu organización y con tus clientes.
+- Comparta esta información en su organización y con sus clientes.
 
 ### <a name="questions"></a>¿Alguna pregunta?
 
-- [Póngase en contacto con el equipo de Soporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si tiene preguntas o necesita más información.
+- [Póngase en contacto con el soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si tiene preguntas o consultas, o bien si necesita más información.
 
 _________________
 
@@ -106,7 +106,7 @@ Familiarícese con la lista de precios y comparta esta información con todos lo
 
 ### <a name="questions"></a>¿Alguna pregunta?
 
-Si tiene alguna pregunta adicional sobre estas ofertas, póngase en contacto con su representante del equipo de la cuenta de Microsoft o consulte a su comunidad de partners de Yammer pertinente.
+Si tiene alguna pregunta adicional sobre estas ofertas, póngase en contacto con su representante del equipo de cuentas de Microsoft o consulte a su comunidad de partners de Yammer pertinente.
 
 _________________
 
@@ -131,7 +131,7 @@ A finales del tercer trimestre del año fiscal 2020, la opción de compra de aut
 
 Revisa todo el contenido de la galería de recursos (consulta la sección Recursos adicionales a continuación) para obtener más información sobre la opción de compra de autoservicio, incluidas las instrucciones para implementar PowerShell si los clientes no desean utilizar la opción de autoservicio.
 
-El script de **PowerShell** que permite a los administradores de TI controlar (activar o desactivar) la funcionalidad de compra de autoservicio por producto **ya está disponible**. Consulta la sección Recursos adicionales a continuación para obtener documentación técnica.
+El script de **PowerShell** que permite a los administradores de TI controlar (activar o desactivar) la funcionalidad de compra de autoservicio por producto **ya está disponible**. Consulte la sección Recursos adicionales a continuación para obtener documentación técnica.
 
 ACTUALIZACIÓN: En la última semana, hemos estado escuchando los comentarios de nuestros clientes con respecto a la implementación de la funcionalidad de compra de autoservicio para productos de Power Platform. A todos aquellos que han aportado su opinión, gracias. En función de esos comentarios, hemos ajustado nuestro enfoque para atender mejor las necesidades de los administradores de TI y de los usuarios finales de las organizaciones. Vamos a realizar los siguientes cambios en nuestro plan:
 
@@ -190,7 +190,7 @@ Le invitamos a empezar a usar este nuevo panel de conclusiones en el que antes h
 ### <a name="additional-resources"></a>Recursos adicionales
 
 - Revise todos los recursos de Insights que abarcan el acceso, la navegación, la información general y el uso de los informes, cómo dejar comentarios, etc. aquí: [Anuncio de un nuevo panel de informes (beta) en el Centro de partners](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- ¿Alguna pregunta? Póngase [en contacto con el Soporte para técnico para partners](https://partner.microsoft.com/support).
+- ¿Alguna pregunta? [Póngase en contacto con el soporte técnico para partners](https://partner.microsoft.com/support).
 
 ### <a name="change-log"></a>Registro de cambios
 
@@ -229,7 +229,7 @@ los partners pueden presentar el nuevo Contrato de cliente de Microsoft a sus cl
 
 - Confirme la aceptación del nuevo Contrato de cliente de Microsoft antes del 31 de enero de 2020.
 - Enseñe a sus agentes y revendedores los nuevos términos del contrato, cómo presentarlo y cómo validar la aceptación por parte de los clientes. Los proveedores indirectos deben trabajar con revendedores indirectos para validar la aceptación de los clientes.
-- Los proveedores indirectos y de facturación directa que utilicen API deberán actualizar su implementación actual para incluir el nuevo Contrato de cliente de Microsoft con la [API actualizada](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+- Los proveedores indirectos y de facturación directa que utilicen API deberán actualizar su implementación actual para incluir el nuevo Contrato de cliente de Microsoft con la [API actualizada](../confirm-customer-agreement.md).
 - Los proveedores indirectos y de facturación directa también pueden usar la interfaz de usuario web del Centro de partners para confirmar la aceptación de los clientes.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Los partners pueden ver el contenido disponible en la [página de la galería de CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/), que incluye:
@@ -385,11 +385,11 @@ Consulte los cambios específicos en el archivo "Dynamics CSP Offer Name Changes
 ### <a name="next-steps"></a>Pasos siguientes
 
 - Comparta esta información con los contactos adecuados de su organización.
-- Si quiere obtener más información sobre las actualizaciones de licencias y la propuesta de valor, familiarícese con el contenido de preparación que encontrará en la sección Recursos adicionales de PartnerSource.
+- Si quiere profundizar más en las actualizaciones de licencias y la propuesta de valor, familiarícese con el contenido de preparación que encontrará en la sección Recursos adicionales de PartnerSource.
 
 ### <a name="questions"></a>¿Alguna pregunta?
 
-- Si tiene preguntas relacionadas exclusivamente con las operaciones que realiza con Microsoft, [póngase en contacto con el equipo de soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create).
+- Si tiene preguntas relacionadas exclusivamente con las operaciones que realiza con Microsoft, [póngase en contacto con el soporte técnico](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Registro de cambios
 

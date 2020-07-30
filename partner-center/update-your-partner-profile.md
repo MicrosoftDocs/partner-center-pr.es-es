@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286583"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365721"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Comprobación de la información del perfil de partner en el Centro de partners
+
+**Roles adecuados**
+
+- Administrador global
+- Administrador de cuentas MPN
 
 La primera vez que inicies sesión en el Centro de partners como administrador global, tienes que confirmar que todos los detalles de la compañía son correctos. Estos incluyen el contacto principal, la denominación y la dirección legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos.
 
@@ -56,5 +61,7 @@ Si durante la migración desde Partner Membership Center al Centro de partners s
 Si eres el administrador global, el administrador de facturación o el agente de administración, puedes cambiar la dirección que aparece en la factura en el **perfil de facturación**. Sin embargo, no puedes cambiar el nombre de la empresa en la factura debido a una limitación con el sistema de facturación.
 
  
+## <a name="next-steps"></a>Pasos siguientes
 
+- [Administrar ubicaciones](manage-locations.md)
 

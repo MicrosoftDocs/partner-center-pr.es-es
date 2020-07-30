@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265231"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365781"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Administrar la cuenta del Centro de partners: perfiles, información bancaria, roles, permisos y otros aspectos de la empresa
 
 **Se aplica a**
 
 - Centro de partners
+ 
+**Roles adecuados**
+
+- Administrador global
+- Administrador de cuentas MPN
 
 La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta en el Centro de partners, tendrás que finalizar la configuración del perfil completo de tu empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de tu empresa también incluirá cuentas de usuario para todos aquellos que usarán el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
 
@@ -94,7 +99,7 @@ Para obtener información sobre la inscripción en determinados programas del Ce
 
 - [Programa Marketplace comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [Programa MPN](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programa CSP](enrolling-in-the-csp-program.md)
 - [Tienda Office](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para obtener más información acerca de la inscripción en los programas del Centro de partners, consulta también [Recursos de Partner Network](https://partner.microsoft.com/).
