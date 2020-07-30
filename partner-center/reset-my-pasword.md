@@ -9,14 +9,24 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265211"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365701"
 ---
 # <a name="reset-my-password"></a>Restablecimiento de mi contraseña
+
+**Se aplica a**
+
+- Centro de partners
+ 
+**Roles adecuados**
+
+- Administrador global
+- Usuarios del centro de Partners
+
 
 Si no recuerda la contraseña del centro de Partners, puede restablecerla.
 
@@ -35,3 +45,7 @@ El administrador global debe haber configurado la capacidad de restablecer la co
 ## <a name="if-your-global-admin-has-left-the-company"></a>Si el administrador global ha abandonado la empresa
 
 Si el administrador global ha abandonado la empresa o ha pasado a otro rol y necesita agregar un nuevo administrador global, debe registrar una solicitud de servicio en el portal de [Microsoft Partner Network](https://partner.microsoft.com/commercial#/). El agente de soporte técnico puede solicitar la elevación de un usuario al administrador global si el solicitante es capaz de proporcionar la información de identidad personal necesaria y proporciona información adicional acerca de la empresa.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Si no puede iniciar sesión en el centro de Partners y necesita restablecer su contraseña](unable-to-sign-in.md)

@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237975"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412441"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Obtenga información sobre cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
@@ -32,7 +32,7 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 >Actualmente, solo los proveedores directos o indirectos pueden transferir suscripciones.
 >No se pueden cambiar los asociados de las suscripciones del proveedor de soluciones en la nube asociadas a las suscripciones de Azure plan, Office 365, Enterprise Mobility Suite o Microsoft Dynamics CRM.
 
-**Cambia partners para suscripciones de Azure**
+## <a name="switch-partners-for-azure-subscriptions"></a>Cambia partners para suscripciones de Azure
 
 1. Para transferir una suscripción de Azure a un socio nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de registro actual por escrito.
 
@@ -84,20 +84,27 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
    - Agrega el nuevo asociado como el revendedor de la cuenta:
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     Para encontrar el valor de customerDomainName: en el menú del Centro de partners, selecciona **Clientes**. En la lista de clientes, selecciona el cliente. En el menú del cliente, selecciona **Cuenta** y usa el valor de **Nombre de dominio**.
+     >[!NOTE]
+     > El identificador de **inquilino** del cliente aparece en el centro de partners como el **identificador de Microsoft**del cliente. Para buscar el identificador de Microsoft (identificador de inquilino) de un cliente específico, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. A continuación, seleccione **Customers** en el menú. Busque el cliente en la lista. Seleccione la flecha hacia abajo para expandir la lista del cliente. Verá información sobre el *nombre de dominio* del cliente y el **identificador de Microsoft**del cliente. Use el **identificador de Microsoft** de 16 dígitos en el Commandlet de PowerShell.
 
    - Observa los roles de la cuenta, incluidos los asociados de CSP anteriores:
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. Quitar permisos de acceso obsoletos
 
    - En el menú del Centro de partners, selecciona **Clientes**.
-   - Expande la lista del cliente y selecciona **Ver suscripciones**.
-   - En el menú del cliente, selecciona **Administración de servicios**.
+   - Busque el cliente en la lista. Seleccione (haga doble clic en) el nombre de su compañía. Se abrirá la página **suscripciones** de clientes.
+   - En el menú de detalles del cliente, seleccione **Administración de servicios**.
    - En **Microsoft Azure**, haz clic en el vínculo para ir al **Portal de administración de Microsoft Azure**.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+- Más información sobre [la compatibilidad con varios asociados](multipartner.md).
+- Lea acerca de [la compatibilidad con varios canales](multichannel.md).

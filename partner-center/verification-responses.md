@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943822"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365731"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Comprobar la información de la cuenta al inscribirse en un nuevo programa del centro de Partners
 
-Al inscribirse para un nuevo programa en el Centro de partners, Microsoft comprueba la información de inscripción de la cuenta que ha proporcionado, como el nombre de la empresa, la dirección de la empresa y los detalles del contacto principal. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarles del estado y solicitar documentación de comprobación adicional.
+**Roles adecuados**
+
+- Administrador global
+- Administrador de la cuenta MPN
+
+Al inscribirse en un nuevo programa en el centro de Partners, Microsoft comprueba la información de inscripción de la cuenta que ha proporcionado, como el nombre de la empresa, la dirección de la empresa y los detalles del contacto principal. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarles del estado y solicitar documentación de comprobación adicional.
 
 >[!NOTE]
 >Para asegurarse de que recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.
