@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377699"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444915"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Descripción de los campos de los archivos de conciliación basados en licencias del centro de Partners
 
@@ -46,11 +46,11 @@ Para conciliar los cambios con los pedidos de un cliente, compare el **Syndicati
 | OfferName | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. | *Microsoft Office 365 (Plan E3)* |
 | SubscriptionStartDate | Fecha de inicio de la suscripción. La hora es siempre el principio del día, 00:00. Este campo se establece en el día después de enviar el pedido. Se usa junto con **SubscriptionEndDate** para determinar: Si el cliente sigue en el primer año de la suscripción, o si la suscripción se ha renovado durante el año siguiente. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Fecha de finalización de la suscripción. La hora es siempre el principio del día, 00:00. *12 meses más **x** días después de la fecha de inicio* para alinearse con la fecha de facturación del socio o *12 meses a partir de la fecha de renovación*. En el momento de la renovación, los precios se actualizan según la lista de precios actual. Es posible que se necesite una comunicación con el cliente antes de la renovación automatizada. | *2/1/2019 0:00* |
-| ChargeStartDate | Día de inicio de los cargos. La hora es siempre el principio del día, 00:00. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de asiento. | *2/1/2019 0:00* |
-| ChargeEndDate | Día de finalización de los cargos. La hora siempre corresponde al fin del día, 23:59. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de asiento. | *2/28/2019 23:59* |
+| ChargeStartDate | Día de inicio de los cargos. La hora es siempre el principio del día, 00:00. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de licencia. | *2/1/2019 0:00* |
+| ChargeEndDate | Día de finalización de los cargos. La hora siempre corresponde al fin del día, 23:59. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de licencia. | *2/28/2019 23:59* |
 | ChargeType | [Tipo de cargo](recon-file-charge-types.md) o ajuste. | Consulte [tipos de cargos](recon-file-charge-types.md). |
-| UnitPrice | Precio por puesto, tal y como se publica en el pricelist en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *6,82* |
-| Cantidad | Número de puestos. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *2* |
+| UnitPrice | Precio por licencia, tal y como se publica en el pricelist en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *6,82* |
+| Cantidad | Número de licencias. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *2* |
 | Importe | Total del precio para la cantidad. Se usa para comprobar si el cálculo de cantidad coincide con la forma de calcular este valor para los clientes. | *13.32* |
 | TotalOtherDiscount | Cantidad de descuento que se aplica a estos cargos. Las licencias de producto incluidas en una competencia o en MAPS, o en nuevas suscripciones para un incentivo, también contendrán un importe de descuento en esta columna. | *2,32* |
 | Subtotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que se trate de un descuento. | *11* |

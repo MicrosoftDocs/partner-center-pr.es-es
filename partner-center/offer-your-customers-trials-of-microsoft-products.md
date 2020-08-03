@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377779"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444913"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ofrezca a los clientes versiones de evaluación gratuitas de los productos de Microsoft durante 30 días
 
@@ -45,9 +45,9 @@ Actualmente, no hay **ninguna evaluación gratuita** para ofertas de la administ
 
 ## <a name="licenses-for-free-trial-offers"></a>Licencias para ofertas de evaluación gratuita
 
-Todas las pruebas gratuitas proporcionan 25 licencias. No se puede cambiar este número durante la evaluación. No puede Agregar o quitar puestos en la evaluación gratuita. Una vez convertida la versión de prueba en una suscripción de pago, puede agregar más licencias a la suscripción.
+Todas las pruebas gratuitas proporcionan 25 licencias. No se puede cambiar este número durante la evaluación. No puede Agregar o quitar licencias en la evaluación gratuita. Una vez convertida la versión de prueba en una suscripción de pago, puede agregar más licencias a la suscripción.
 
-Las licencias de prueba y puestos deben asignarse a los usuarios de la misma manera que se asigna la licencia de servicios de pago.
+Las licencias de prueba deben asignarse a los usuarios de la misma manera que se asigna la licencia de servicios de pago.
 
 ## <a name="sign-customers-up-for-trials"></a>Inicio de sesión de los clientes para versiones de prueba
 

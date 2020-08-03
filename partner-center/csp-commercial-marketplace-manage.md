@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c6985b475a2aa2c6083d447a8d219c8640d58fcc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435094"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444613"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Administrar productos y ofertas comerciales de Marketplace para sus clientes
 
@@ -44,7 +44,7 @@ Después de comprar una suscripción de un publicador de ISV de terceros, puede 
 
     - Cambiar el alias de la suscripción
 
-    - Agregar o disminuir el número de puestos (licencias) de la suscripción
+    - Agregar o disminuir el número de licencias de la suscripción
 
     - Cancelación de la suscripción
 

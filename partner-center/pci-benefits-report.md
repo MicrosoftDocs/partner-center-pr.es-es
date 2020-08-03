@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436714"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444884"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Informe de beneficios disponible en el panel del centro de Partners Insights
 
@@ -66,7 +66,7 @@ Este gráfico presenta la tendencia mensual de licencias concedidas durante el i
 
 Este gráfico presenta la tendencia mensual de las suscripciones de Visual Studio activadas en las suscripciones que se asignaron durante el intervalo de fechas seleccionado.
 
-Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una suscripción específica de Visual Studio a la que se le conceden beneficios. Las columnas del gráfico representan puestos consumidos para la suscripción. El gráfico de líneas representa las plazas generales asignadas para la suscripción.
+Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una suscripción específica de Visual Studio a la que se le conceden beneficios. Las columnas del gráfico representan las licencias consumidas para la suscripción. El gráfico de líneas representa las licencias generales asignadas para la suscripción.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Suscripciones de Visual Studio":::
 

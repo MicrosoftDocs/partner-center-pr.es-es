@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265202"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444960"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 
@@ -65,7 +65,7 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
   - Competencia: la empresa asociada recibirá un paquete de ventajas principales, asociado a su mayor logro, además de ventajas específicas para la competencia, el asociado es válido para cada cuenta global de socio comercial.
 
-- Todas las ventajas están sujetas a la [Guía de uso de Microsoft Partner Network beneficios](https://aka.ms/partner-benefits-use-guide). Por ejemplo: un token de O365 E3 activado es funcional durante doce (12) meses después de la activación. Una vez que se ha activado un token para puestos en un inquilino, es posible que esos puestos no se muevan a otro inquilino.
+- Todas las ventajas están sujetas a la [Guía de uso de Microsoft Partner Network beneficios](https://aka.ms/partner-benefits-use-guide). Por ejemplo: un token de O365 E3 activado es funcional durante doce (12) meses después de la activación. Una vez que se ha activado un token para las licencias de un inquilino, es posible que dichas licencias no se muevan a otro inquilino.
 
 - Las asociaciones de ID. de MCP de ambas empresas se conservarán y se asociarán con el identificador de MPN de PGA.
 

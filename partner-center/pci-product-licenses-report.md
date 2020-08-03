@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consulte este informe de licencias de producto y obtenga información sobre cómo mejorar con los productos en la nube con licencia (o basados en puestos) que vende o administra para sus clientes.
+description: Consulte este informe de licencias de producto y obtenga información sobre cómo mejorar con los productos en la nube basados en licencia que vende o administra para sus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436664"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444838"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Informe de licencias de producto en el panel del centro de Partners Insights
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436664"
 - Visor de informes
 - Visor de informes ejecutivos
 
-El informe de licencias de producto presenta el análisis de licencias para los productos en la nube basados en puestos, como O365, Dynamics, M365, Power BI, etc. Los análisis presentados aquí están asociados al uso de las licencias que ha vendido o que administra para sus clientes. Puede ver las secciones siguientes del informe de licencias de producto.
+El informe de licencias de producto presenta análisis de licencias para productos en la nube basados en licencias, como O365, Dynamics, M365, Power BI, etc. Los análisis presentados aquí están asociados al uso de las licencias que ha vendido o que administra para sus clientes. Puede ver las secciones siguientes del informe de licencias de producto.
 
 - Resumen
 - Propagación geográfica de licencias
@@ -38,7 +38,7 @@ El informe de licencias de producto presenta el análisis de licencias para los 
 
 En la sección Resumen se proporciona una vista de instantánea de los indicadores clave de rendimiento (KPI) asociados a las licencias de productos de nube vendidas, implementadas y utilizadas. Esto le ayudará a realizar un seguimiento del uso activo con respecto a las licencias vendidas a los clientes.
 
-- Licencias: recuento actual de todas las licencias vendidas o administradas por el usuario para los productos en la nube basados en puestos, como O365, Dynamics, M365, Power BI, etc. Porcentaje de crecimiento o disminución de estas licencias en el intervalo de fechas seleccionado.
+- Licencias: recuento actual de todas las licencias vendidas o administradas por usted para productos en la nube basados en licencias, como O365, Dynamics, M365, Power BI, etc. Porcentaje de crecimiento o disminución de estas licencias en el intervalo de fechas seleccionado.
 
 El micro gráfico presenta la tendencia mensual en meses de recuentos de licencias durante el intervalo de fechas seleccionado.
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377229"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444560"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Traslade a los clientes basados en licencias de otros canales & asociados al programa proveedor de soluciones en la nube.
 
@@ -28,7 +28,7 @@ Si el cliente desea contratar a varios asociados, transferir sus suscripciones a
 
 1. Seleccione **clientes** en el menú del centro de Partners y, a continuación, seleccione **solicitar una relación de revendedor**. Para proporcionar compatibilidad con cuentas de varios canales, haga lo mismo.
 
-2. Una vez que el cliente acepte su invitación, podrá aprovisionar las suscripciones y puestos deseados para el cliente (por ejemplo, la misma oferta de Office 365 que el cliente compró previamente).
+2. Una vez que el cliente acepte su invitación, podrá aprovisionar las suscripciones y licencias que desee para el cliente (por ejemplo, la misma oferta de Office 365 que el cliente compró previamente).
 
 3. El cliente puede permitir que las suscripciones originales expiren o las cancele. Sin embargo, dado que no hay reintegros en suscripciones canceladas, es mejor esperar hasta que las suscripciones estén cerca de las fechas de expiración naturales.
 

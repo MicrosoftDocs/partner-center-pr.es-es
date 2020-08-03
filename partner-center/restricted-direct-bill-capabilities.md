@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113973"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444775"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de factura directa restringida y los requisitos necesarios para los asociados de facturación directa de CSP  
 
@@ -43,9 +43,9 @@ Si las capacidades de factura directa se han restringido, ya no podrá realizar 
 
 - Suscripciones de Azure
 
-- Suscripciones basadas en puestos
+- Suscripciones basadas en licencias
 
-- Agregue nuevos complementos a las suscripciones basadas en puestos existentes.
+- Agregar nuevos complementos a las suscripciones basadas en licencias existentes.
 
 - Realice compras de un solo tiempo de software y productos de reserva (por ejemplo, suscripciones de software, software perpetuo e instancias reservadas de máquina virtual de Azure).
 
@@ -55,9 +55,9 @@ Las suscripciones de factura directa existentes no se ven afectadas. Siguen sien
 
 - Suspender las suscripciones existentes
 
-- Ajustar el número de puestos de las suscripciones basadas en puestos existentes
+- Ajustar el número de licencias de las suscripciones basadas en licencias existentes
 
-- Ajustar el número de puestos de los complementos existentes a una suscripción. 
+- Ajustar el número de licencias de los complementos existentes a una suscripción. 
  
     >[!Note] 
     >No se pueden agregar nuevos complementos a las suscripciones existentes, ya que se trata como una nueva compra.

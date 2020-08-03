@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435594"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468523"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipos de facturación en el centro de Partners: incluye la facturación basada en licencia y basada en el uso.
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435594"
 Se le facturarán las compras del centro de Partners en función de los productos, soluciones y servicios que compre en nombre de sus clientes. Los tipos de facturación son los siguientes:
 
 - [**Facturación basada en licencias**](license-based-billing.md), donde se factura por licencia (no por el uso de licencias).
-- [**Facturación basada en el uso**](usage-based-billing.md), donde se le facturará según las tarifas de uso mensuales.
-- [**Facturación de una sola vez y selección de cargos periódicos**](one-time-and-recurring-billing.md), donde se paga por adelantado por un período preestablecido para productos de terceros de Microsoft y de otros fabricantes de software independientes (ISV).
 - Facturación de transacciones SaaS basadas en licencias (consulte [**escenarios de facturación comunes para cargos de SaaS**](common-billing-scenarios-saas.md)).
 
 En función de los tipos de productos que compres para tus clientes, es posible que tengas períodos de facturación diferentes y que se te facture en distintos días del mismo mes.

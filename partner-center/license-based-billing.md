@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434384"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468355"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturación basada en licencias en el centro de Partners
 
@@ -30,7 +30,7 @@ Cuando compre productos o servicios en línea en el centro de partners que requi
 
 ## <a name="license-billing-frequency"></a>Frecuencia de facturación de licencias
 
-Puede elegir que se le facture por licencias una vez al mes (**facturación mensual**) o una vez al año (**facturación anual**). Para obtener más información sobre la **frecuencia de facturación**, consulte [diferencias de facturación mensuales y anuales](billing-annual-monthly.md).
+Puede elegir que se le facture por licencias una vez al mes (**facturación mensual**) o una vez al año (**facturación anual**). 
 
 ## <a name="billing-date-for-licenses"></a>Fecha de facturación de las licencias
 
@@ -55,14 +55,12 @@ Si suspende una suscripción en los meses 2-12, se le abonará con una cuota pro
 
 ## <a name="license-renewal"></a>Renovación de licencias
 
-Todas las suscripciones basadas en licencias se renuevan durante 12 meses después del comienzo del plazo de pago.
+Todas las suscripciones basadas en licencias se renuevan automáticamente durante 12 meses después del comienzo del plazo de pago.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Información general sobre la facturación del Centro de partners](billing-basics.md)
 
 - [Tipos de facturación del Centro de partners](billing-different-types.md)
-
-- [Diferencias de facturación mensuales y anuales](billing-annual-monthly.md)
 
 - [Artículos principales de facturación y de impuestos](billing.md)

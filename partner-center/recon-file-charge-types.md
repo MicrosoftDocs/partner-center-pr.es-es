@@ -1,5 +1,5 @@
 ---
-title: Tipos de cargos de archivo de conciliación
+title: Tipos de cargo de archivo de conciliación
 ms.topic: article
 ms.date: 06/05/2020
 description: Descubra los tipos de cargos (como, basado en licencias, basados en el uso, y una sola vez), créditos y descuentos en los archivos de conciliación del centro de Partners.
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949309"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444764"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprender los distintos tipos de cargos en los archivos de conciliación del centro de Partners
 
@@ -45,10 +45,10 @@ Para asignar estos cargos basados en licencias a la factura, sume la columna **a
 | Descripción de cargos (columna ChargeType en el archivo de conciliación) | Explicación de cargos |
 | ------------------------------------------------------------- | ------------------ |
 | Tarifa de activación | La cantidad que se cobra al cliente cuando usa la suscripción después de la compra. |
-| Cuota de cancelación | Los cargos prorrateados se reembolsan al cliente cuando se cambian los puestos asociados. |
-| Cancelar prorrateo de instancia | Los cargos prorrateados se cancelan cuando el cliente con una suscripción mensual tiene una suscripción suspendida y los puestos asociados cambian en el mismo mes. |
+| Cuota de cancelación | Cargos prorrateados reembolsados al cliente cuando se cambian las licencias asociadas. |
+| Cancelar prorrateo de instancia | Los cargos prorrateados se cancelan cuando el cliente con una suscripción mensual tiene una suscripción suspendida y las licencias asociadas cambian en el mismo mes. |
 | Tarifa de ciclo | Cargos periódicos de una suscripción. |
-| Prorrateo de instancia de ciclo | Cargos prorrateados evaluados por el cliente cuando se cambian los puestos asociados. |
+| Prorrateo de instancia de ciclo | Cargos prorrateados evaluados por el cliente cuando se cambian las licencias asociadas. |
 | Tarifas de prorrateo al cancelar | Reembolso prorrateado de la parte no utilizada del servicio tras la cancelación. |
 | Tarifas de prorrateo cuando se convierten de la oferta actual | Cargos prorrateados después de la conversión de la suscripción mensual actual a una suscripción anual. |
 | Cuotas de protarifas cuando se convierten a una nueva oferta | Cargos prorrateados después de convertir una suscripción mensual a una nueva suscripción anual. |
@@ -68,7 +68,7 @@ Para asignar estos cargos de un solo tiempo a la factura, sume la columna **amou
 | addQuantity | Se usa tanto en el reembolso de la compra original como en la nueva cantidad después de un aumento. |
 | removeQuantity | Se usa tanto en el reembolso de la compra original como en la nueva cantidad tras una disminución. |
 | Cancelar | Se usa cuando se cancela una suscripción. |
-| Convert | Se usa cuando se actualiza una licencia pero el número de puestos permanece inalterado. |
+| Convert | Se usa cuando se actualiza una licencia pero el número de licencias permanece inalterado. |
 
 ## <a name="usage-charges"></a>Cargos de uso
 

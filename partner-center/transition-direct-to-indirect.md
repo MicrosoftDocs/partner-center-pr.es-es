@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944502"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444999"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -333,7 +333,7 @@ El asociado de transición debe hacer lo siguiente:
 
    1. Si se trata de una suscripción de Azure (MS-AZR-0145P), ya no aparecerá en la lista.
 
-   2. Si se trata de una suscripción basada en puestos (Office 365, Dynamics, Intune), se mostrará con el estado **suspendido**.
+   2. Si se trata de una suscripción basada en licencia (Office 365, Dynamics, Intune), se mostrará con el estado **suspendido**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Suscripción suspendida":::
 
@@ -343,9 +343,9 @@ El asociado de transición debe hacer lo siguiente:
 
 - **No se puede hacer referencia a la misma suscripción mediante varias solicitudes de transferencia.** Después de haber creado una solicitud de transferencia, que incluye una suscripción existente, no se pueden crear solicitudes de transferencia adicionales, incluida la misma suscripción, hasta que se cancele la primera solicitud de transferencia.
 
-- **Los complementos de las suscripciones basadas en puestos deben transferirse junto con su suscripción base.** Al crear una solicitud de transferencia, si elige una suscripción existente con uno o varios complementos, los complementos se incluirán automáticamente en la solicitud de transferencia.
+- **Los complementos para las suscripciones basadas en licencias deben transferirse junto con su suscripción base.** Al crear una solicitud de transferencia, si elige una suscripción existente con uno o varios complementos, los complementos se incluirán automáticamente en la solicitud de transferencia.
 
-- **Los cambios en el número de puestos de una suscripción no se reflejarán en la solicitud de transferencia existente.** Después de haber creado una solicitud de transferencia que incluye una suscripción existente, debe evitar actualizar la cantidad de puesto de la suscripción (o los complementos asociados). Si lo hace, la nueva cantidad no se reflejará en la solicitud de transferencia. Después de que el proveedor indirecto acepte la solicitud de transferencia, la suscripción resultante tendrá la cantidad anterior. Si desea que la nueva cantidad se transfiera al proveedor indirecto, debe cancelar la solicitud de transferencia existente y volver a crear una nueva.
+- **Los cambios en el número de licencias de una suscripción no se reflejarán en la solicitud de transferencia existente.** Después de crear una solicitud de transferencia que incluye una suscripción existente, debe evitar actualizar la cantidad de licencias de la suscripción (o los complementos asociados). Si lo hace, la nueva cantidad no se reflejará en la solicitud de transferencia. Después de que el proveedor indirecto acepte la solicitud de transferencia, la suscripción resultante tendrá la cantidad anterior. Si desea que la nueva cantidad se transfiera al proveedor indirecto, debe cancelar la solicitud de transferencia existente y volver a crear una nueva.
 
 - **No todas las compras se pueden transferir mediante la transferencia de suscripción de autoservicio.** Actualmente, solo se pueden transferir suscripciones de O365 y suscripciones de Azure PAYG (MS-AZR-0145P) con esta característica. No se admiten otras compras, como los planes de Azure, las instancias reservadas de Azure, las suscripciones basadas en términos y las suscripciones de SaaS de Azure Marketplace. Verá un motivo por el que no se puede transferir una suscripción en la página enviar solicitud de transferencia. Para transferir estas suscripciones, tendrá que [cancelar la suscripción existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) y comprar una nueva oferta para el cliente a través de un proveedor indirecto.
 

@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943682"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468356"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creación de una asociación de cliente a través del modelo CPOR: uso para Microsoft 365 y Dynamics 365 clientes
 
@@ -30,9 +30,9 @@ Necesitará la siguiente información para completar una demanda:
 
 - **Identificador de MPN** de la entidad que realiza la declaración.
 
-- **El nombre de dominio** del cliente [encuentra este](find-customer-domain-name.md)
+- **El nombre de dominio** del cliente [encuentra este](find-domain-name.md)
 
-- Identificador de **directorio** o de **inquilino** del [cliente.](find-customer-domain-name.md)
+- Identificador de **directorio** o de **inquilino** del [cliente.](find-domain-name.md)
 
 - Área de la **solución**, como Business Applications o Microsoft 365
 
@@ -66,9 +66,9 @@ También debe comprender los puntos siguientes:
 
 2. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
 
-3. Seleccione el **ID** . de MPN de la ubicación de socio comercial que se va a asociar al cliente y, a continuación, agregue el nombre de dominio y el ID. de directorio del cliente. [¿Dónde están?](find-customer-domain-name.md)
+3. Seleccione el **ID** . de MPN de la ubicación de socio comercial que se va a asociar al cliente y, a continuación, agregue el nombre de dominio y el ID. de directorio del cliente. [Buscar](find-domain-name.md)
 
-4. Selecciona **Continuar**.
+4. Seleccione **Continuar**.
 
 5. Seleccione el **área** de la solución y la **actividad**. 
 

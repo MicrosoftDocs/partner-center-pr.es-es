@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb98a45a1ddbf150c64bb7021a2d18a0abd957fd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d65d23057ea0354fc77b1cc8a9c7fb16a343b3ee
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435354"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444564"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Escenarios comunes de facturación para las transacciones SaaS basadas en licencias en el centro de Partners
 

@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114405"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444931"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
@@ -29,12 +29,12 @@ ms.locfileid: "87114405"
 - Administrador global
 - Agente de administrador
 
-\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, con respecto a la información aquí proporcionada.\]
+\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no otorga ninguna garantía, explícita o implícita, con respecto a la información proporcionada aquí.\]
 
 Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
 >[!NOTE]  
->Debe tener en cuenta todas las suscripciones y recuentos de puestos aprovisionados para cada uno de los clientes de la cuenta desde la que va a realizar la transición. Volverá a aprovisionar las mismas suscripciones exactas con los mismos recuentos de puestos en la nueva cuenta central de CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado.  Una vez completada la consolidación, no se puede revertir al estado anterior del inquilino. También es posible que se necesiten acciones del cliente.
+>Debe tener en cuenta todas las suscripciones y los recuentos de licencias aprovisionados para cada uno de los clientes de la cuenta desde la que va a realizar la transición. Volverá a aprovisionar las mismas suscripciones exactas con los mismos recuentos de licencias en la nueva cuenta central de CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado.  Una vez completada la consolidación, no se puede revertir al estado anterior del inquilino. También es posible que se necesiten acciones del cliente.
 
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
@@ -66,7 +66,7 @@ Los clientes aparecerán en la lista de clientes del asociado después de haber 
 
 4. Seleccione **Agregar suscripción**.
 
-5. Agrega las suscripciones y el número de puestos correctos desde el catálogo. Verifica los datos con la información proporcionada en las cuentas de partner de **Transición desde**.
+5. Agregue las suscripciones y los recuentos de licencias correctos del catálogo. Verifica los datos con la información proporcionada en las cuentas de partner de **Transición desde**.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
 

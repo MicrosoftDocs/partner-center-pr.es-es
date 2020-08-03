@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435074"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444942"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general del Marketplace comercial en el centro de Partners
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general sobre Marketplace comercial del Centro de partners
 
 **Se aplica a**
 
@@ -41,7 +41,7 @@ Si es un asociado en el programa CSP, hay muchas actividades comerciales de Mark
 |:------------------------------------|:------------------|
 |Obtenga información acerca de cómo ver o Buscar ofertas disponibles, precios, detalles del producto o información de contacto del editor | [Detección de ofertas](csp-commercial-marketplace-discover.md) | 
 |Obtenga información sobre cómo comprar e implementar una oferta   | [Ofertas de compra](csp-commercial-marketplace-purchase.md)   | 
-|Obtenga información sobre cómo cancelar o renovar una suscripción o agregar o quitar puestos  | [Administración de ofertas](csp-commercial-marketplace-manage.md) |
+|Obtenga información sobre cómo cancelar o renovar una suscripción o agregar o quitar licencias.  | [Administración de ofertas](csp-commercial-marketplace-manage.md) |
 |Más información sobre cómo funciona la facturación para las compras comerciales de Marketplace | [Descripción de la facturación](csp-commercial-marketplace-billing.md) |
 |Más información sobre quién es responsable de qué tipos de soporte técnico para compras de ISV | [Descripción del soporte técnico](csp-commercial-marketplace-support.md) |
 |Obtenga información acerca de los contratos y las responsabilidades de los asociados de CSP e ISV en el Marketplace comercial | [Comprender la contratación](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |Para detectar o Buscar ofertas disponibles  | API del centro de Partners o del centro de Partners  |
 |Para comprar una oferta  | API del centro de Partners o del centro de Partners  |
 |Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Sistema o sitio web del anunciante de ISV  |
-|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | API del centro de Partners o del centro de Partners  |
+|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar licencias | API del centro de Partners o del centro de Partners  |
 |Para crear usuarios o administrar permisos  | Sistema o sitio web del anunciante de ISV  |
 
 |**Para las ofertas basadas en el uso de ISV**  |**Uso**  |
@@ -81,7 +81,7 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |Para detectar o Buscar ofertas disponibles  | Panel del centro de Partners, API del centro de Partners o Azure Portal  |
 |Para comprar una oferta  | Azure portal  |
 |Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure portal  |
-|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar puestos | Azure portal  |
+|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar licencias | Azure portal  |
 |Para crear usuarios o administrar permisos  | Azure portal  |
 
 ## <a name="next-steps"></a>Pasos siguientes

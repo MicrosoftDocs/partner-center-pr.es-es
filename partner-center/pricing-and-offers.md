@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286633"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444797"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -48,7 +48,7 @@ Para ver los programas y ofertas más recientes del proveedor de soluciones en l
 
 Los servicios basados en licencias incluyen una vista previa de la lista de precios, siempre con 30 días antes de que se realicen cambios. Para ver la vista previa de la lista de precios, vaya a **vender > precios y ofertas**. No hay ninguna vista previa de precios para los servicios basados en el uso, ya que estos servicios son dinámicos. En la tabla siguiente se explica cómo leer la tabla de lista de precios.
 
-|**Item**        |**Definition**      |
+|**Elemento**        |**Definición**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuevo elemento a la lista de precios|
 |PREC   |Cambia el precio de venta de mes a mes. Pueden producirse otros cambios no relacionados con el precio de la lista, los asociados deben comparar las listas de precios entre meses para determinar los cambios en otras propiedades.|
@@ -57,7 +57,7 @@ Los servicios basados en licencias incluyen una vista previa de la lista de prec
 |Válido desde fecha   |La primera fecha en que se puede ordenar una oferta    |
 |Válido hasta la fecha   |La última fecha en que se puede ordenar una oferta   |
 |Nombre para mostrar de la oferta   |El nombre del cliente para la oferta   |
-|Identificador de oferta   |Identificador interno de la oferta.   |
+|Id. de oferta   |Identificador interno de la oferta.   |
 |Tipo de contrato de licencia   |Los tipos de contrato de licencia pueden ser corporativos, gubernamentales o académicos. El tipo de contrato determina a qué tipos de clientes se puede vender la oferta.|
 |Unidad de compra   |La duración de compra de la oferta. Las unidades de compra suelen ser de un mes.   |
 |Tipo de licencia secundario   |Los tipos de licencias secundarias serán no específicos, complemento o evaluación. El complemento indica que hay productos necesarios que el cliente debe adquirir antes de adquirir el complemento.|
@@ -109,7 +109,7 @@ Los servicios basados en licencias se pueden adquirir como ofertas o complemento
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Precios entre Azure y no Azure
 
-Los precios difieren en diferentes tipos de ofertas. Los precios basados en licencias suelen ser la cantidad por puesto (licencia) de un mes determinado. Los precios basados en el uso se determinan mediante el uso de un recurso determinado, con un identificador de medidor asociado. Los asociados no se cobran por adquirir la suscripción de Azure. Sin embargo, se cobra a los asociados los recursos consumidos por diferentes implementaciones en la suscripción de Azure. Los precios de la lista de precios basada en el uso están organizados en torno a distintos identificadores de medidor de recursos en Azure.
+Los precios difieren en diferentes tipos de ofertas. Los precios basados en licencias suelen ser la cantidad por licencia de un mes determinado. Los precios basados en el uso se determinan mediante el uso de un recurso determinado, con un identificador de medidor asociado. Los asociados no se cobran por adquirir la suscripción de Azure. Sin embargo, se cobra a los asociados los recursos consumidos por diferentes implementaciones en la suscripción de Azure. Los precios de la lista de precios basada en el uso están organizados en torno a distintos identificadores de medidor de recursos en Azure.
 
 Las reservas de Azure son compras basadas en términos para el tipo de recurso en particular Virtual Machines. La compra de una reserva de Azure permite que un asociado pague previamente (términos de uno o tres años) y Reserve una máquina virtual determinada. Las reservas guardan el dinero del socio comercial y garantizan que la máquina virtual esté siempre disponible mientras dure el período. Un asociado puede alinear la reserva que desee con los identificadores de medidor de recursos basados en el uso. Los identificadores de medidor son coherentes en todo el recurso, tanto si el asociado compra una máquina virtual como si simplemente implementa la máquina virtual como un recurso basado en el uso.
 

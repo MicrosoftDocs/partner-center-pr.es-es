@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436634"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444988"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.
 
@@ -88,7 +88,7 @@ A continuación se muestran algunos de los campos clave del documento PDF de fac
 
 **Cargos**: la cantidad debida a la moneda de facturación para el período de facturación correspondiente. 
 
-**Créditos**: créditos (como contrato de nivel de servicio) o ajustes para los cambios realizados en las suscripciones (por ejemplo, aumentos o disminuciones del asiento). 
+**Créditos**: créditos (como contrato de nivel de servicio) o ajustes para los cambios realizados en las suscripciones (por ejemplo, aumentos o disminuciones de la licencia). 
 
 **Instrucciones de pago**: Descripción de cómo pagar la factura, en función de su región. Asegúrese de incluir siempre el número de factura al realizar un pago. 
 

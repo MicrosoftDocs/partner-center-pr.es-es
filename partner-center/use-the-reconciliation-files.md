@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949566"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468336"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -23,7 +23,7 @@ Se aplica a:
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de puestos a mediados de puestos a una suscripción).
+Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de licencias a mediados de la suscripción).
 
 Roles adecuados:
 
@@ -36,7 +36,6 @@ Para obtener información sobre cómo leer la **factura**, consulte [leer su](re
 
 - [Campos de archivos de conciliación basados en licencias](license-based-recon-files.md)
 - [Campos de archivos de conciliación basados en el uso](usage-based-recon-files.md)
-- [Campos de archivo de conciliación único y periódico](one-time-recurring-recon-files.md)
 - [Campos de archivo de conciliación de uso con clasificación diaria](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Descripción de los tipos de carga en los archivos de conciliación
