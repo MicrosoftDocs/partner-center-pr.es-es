@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444764"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479118"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprender los distintos tipos de cargos en los archivos de conciliación del centro de Partners
 
@@ -52,8 +52,7 @@ Para asignar estos cargos basados en licencias a la factura, sume la columna **a
 | Tarifas de prorrateo al cancelar | Reembolso prorrateado de la parte no utilizada del servicio tras la cancelación. |
 | Tarifas de prorrateo cuando se convierten de la oferta actual | Cargos prorrateados después de la conversión de la suscripción mensual actual a una suscripción anual. |
 | Cuotas de protarifas cuando se convierten a una nueva oferta | Cargos prorrateados después de convertir una suscripción mensual a una nueva suscripción anual. |
-| Tarifas prorrateadas al comprar | El tipo de cargo de una suscripción cuando se usa la facturación anual. |
-| Precio de compra | El tipo de cargo de una suscripción cuando se usa la facturación mensual. |
+| Tarifas prorrateadas al comprar | El tipo de cargo de una suscripción cuando se usa la facturación mensual o anual. |
 | Cuota de prorrateo al renovar | Tarifas prorrateadas tras la renovación de la suscripción. |
 | Precio de renovación | Cargo por renovar una suscripción |
 | Tarifas de protarifas al activar | Tarifas prorrateadas de la activación hasta el final del período de facturación. |
