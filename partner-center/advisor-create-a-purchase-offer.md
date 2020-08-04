@@ -1,21 +1,31 @@
 ---
-title: Crear una oferta de compra
+title: 'Asesores: crear una oferta de compra'
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Averigüe cómo un asesor de suscripción autorizado puede usar el centro de partners para crear una oferta de compra y una dirección URL personalizada para incluirlas en las invitaciones de evaluación de Office 365.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436274"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526991"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Asesores: crear una oferta de compra
+
+**Se aplica a**
+
+- Centro de partners
+ 
+**Roles adecuados**
+
+- Asesores
+
 
 > [!NOTE]
 > Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados.

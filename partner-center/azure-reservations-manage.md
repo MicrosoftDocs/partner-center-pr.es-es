@@ -1,6 +1,6 @@
 ---
 title: Administración de reservas de Azure para clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435764"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527461"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
 
@@ -42,8 +42,8 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
-    | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
+    | **Introducción**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
+    | **Control de acceso (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **Nota:** El soporte técnico puede pedirle el identificador de reserva y el identificador de pedido de reserva cuando solicite soporte técnico en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda de Soporte técnico de Microsoft.   |
@@ -63,10 +63,10 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Crédito**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 o menos                         | No          | 100 %       | No                              | $50.000 USD   |
-|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
+|5 o menos                         | No          | 100%       | No                              | $50.000 USD   |
+|5 o menos                         | Yes         | Prorrateado  | No                              | $50.000 USD   |
 |Más de 5                        | No          | Prorrateado  | 12 %                             | $50.000 USD   |
-|Más de 5                        | Sí         | Prorrateado  | 12 %                             | $50.000 USD   |
+|Más de 5                        | Yes         | Prorrateado  | 12 %                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Cómo funcionan los intercambios 
 

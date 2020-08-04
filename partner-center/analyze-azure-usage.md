@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436184"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526951"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtener datos sobre el rendimiento de los clientes y las suscripciones de Azure
 
@@ -31,6 +31,8 @@ ms.locfileid: "86436184"
 - Agente de ventas
 
 Data impulsa las decisiones empresariales. Use las métricas de la página **uso de Azure** para identificar sus éxitos y áreas que requieren más atención. Use esta información a medida que planee nuevos objetivos empresariales.
+
+Para acceder al **uso de Azure**, inicie sesión en el [Panel](https:/partner.microsoft.com/dashboard)del centro de Partners. Seleccione **Analytics** en el menú del centro de Partners y seleccione **uso de Azure**.
 
 > [!NOTE]
 > El análisis de uso de Azure solo está disponible para los asociados del programa proveedor de soluciones en la nube.
@@ -67,3 +69,7 @@ En esta sección se indica el riesgo de renovación previsto para las suscripcio
 ## <a name="azure-subscription-retention"></a>Retención de suscripción de Azure
 
 - Número de suscripciones que se han renovado.
+
+ ## <a name="next-steps"></a>Pasos siguientes
+
+- [Compre el plan de Azure para los clientes & acceder a los servicios de Azure más recientes a las tarifas de pago por uso](purchase-azure-plan.md)

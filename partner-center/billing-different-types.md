@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468523"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527611"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Tipos de facturación en el centro de Partners: incluye la facturación basada en licencia y basada en el uso.
 
@@ -39,3 +39,7 @@ Se le facturarán las compras del centro de Partners en función de los producto
 En función de los tipos de productos que compres para tus clientes, es posible que tengas períodos de facturación diferentes y que se te facture en distintos días del mismo mes.
 
 Si ha optado por facturar mensualmente o si ha comprado productos basados en el uso que se facturan mensualmente, la fecha de facturación mensual es el día del mes que ha seleccionado al crear su cuenta de CSP en el centro de Partners. Una vez que haya creado correctamente la cuenta de CSP, Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación. Una vez creada, no se puede cambiar esta fecha.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.](read-your-bill.md)

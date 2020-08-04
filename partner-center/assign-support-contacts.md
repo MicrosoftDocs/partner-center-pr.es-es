@@ -1,6 +1,6 @@
 ---
 title: Asignar contactos de soporte técnico para clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435954"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527671"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Asignación de un reseller como contacto de soporte técnico para clientes
 
@@ -36,7 +36,7 @@ Una vez configurados los contactos de soporte técnico, los clientes verán la i
 
 Se puede usar para escenarios de varios [asociados](multipartner.md) y de varios [canales](multichannel.md) . 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>Asignar contactos
 
 1.  Comience [solicitando una relación](request-a-relationship-with-a-customer.md) con su distribuidor de productos designado. Negocie un contrato de soporte técnico con ellos para controlar el soporte técnico.

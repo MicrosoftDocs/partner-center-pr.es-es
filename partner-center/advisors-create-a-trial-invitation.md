@@ -3,19 +3,28 @@ title: Creación de una invitación a una evaluación de Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados pueden crear y enviar invitaciones de evaluación a sus clientes para probar Office 365. Los asociados son un asesor de suscripción autorizado.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120039"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527001"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
+
+**Se aplica a**
+
+- Centro de partners
+ 
+**Roles adecuados**
+
+- Asesores
 
 > [!NOTE]
 > Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados.

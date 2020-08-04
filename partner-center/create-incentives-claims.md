@@ -1,6 +1,6 @@
 ---
 title: Crear y administrar una demanda de incentivos | Centro de Partners
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114857"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527798"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Crear y administrar reclamaciones de incentivos
 
@@ -37,7 +37,7 @@ Puede iniciar una demanda de incentivos desde el centro de Partners.
 
 4.  Cuando haya rellenado el formulario inicial y seleccionado **crear notificaciones**, se le dirigirá a la página de detalles de la demanda, donde podrá agregar facturas, CSR, documentos de prueba y métricas. También puede agregar información adicional si es necesario.
 
-La página Detalles de notificaciones le permite solicitar a otros usuarios de su organización que carguen documentación en el formulario. Para cada uno de los documentos complementarios que cargue, puede proporcionar detalles explicativos. 
+La página de detalles de reclamaciones le permite solicitar a otros usuarios de su organización que carguen la documentación en el formulario. Para cada uno de los documentos complementarios que cargue, puede proporcionar detalles explicativos. 
 
 ### <a name="manage-your-claims"></a>Administrar las notificaciones
 

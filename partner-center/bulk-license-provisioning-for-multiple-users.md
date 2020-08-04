@@ -1,6 +1,6 @@
 ---
 title: Asignar o revocar licencias a varios usuarios
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435574"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527401"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Asignar o revocar licencias al mismo tiempo para varios usuarios de una cuenta de cliente
 
@@ -34,11 +34,6 @@ Puedes asignar licencias y servicios a un usuario, o a varios usuarios a la vez 
 
 El centro de Partners realiza un seguimiento y muestra todos los derechos de licencia propiedad del cliente.
 
-Las secciones siguientes le indicarán cómo:
-- [Asignar licencias a varios usuarios](#assign-licenses-to-groups)
-- [Revocar las asignaciones de licencia de los usuarios](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>Asignar licencias a varios usuarios
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
@@ -81,7 +76,6 @@ Las secciones siguientes le indicarán cómo:
 >[!NOTE]
 >Es posible que algunos productos de Microsoft no estén disponibles en determinadas ubicaciones. Otros productos dependen de otros productos o servicios o no se pueden asignar juntos al mismo usuario. Después de guardar, la página de confirmación muestra los resultados de la asignación de licencia correcta de todos los usuarios y todos los errores de asignación de licencia.
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>Revocar las asignaciones de licencia de los usuarios
 
 1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
