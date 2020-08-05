@@ -1,7 +1,7 @@
 ---
 title: Ver los detalles del programa y el incentivo
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use estas páginas para ver, administrar y exportar los datos de pago y ganancias, así como el estado del programa y el historial de transacciones completo.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114838"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545956"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -48,28 +48,29 @@ A continuación se describen las siguientes páginas:
 - Página Pagos
 - Página Historial de transacciones
 - Página exportar datos y otras páginas de exportación asociadas
+- Informe de Resumen de transacciones
 
 >[!NOTE]
 >Para obtener más información acerca de las características de incentivos y incentivos del centro de Partners, consulte [inversiones e incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives) (inicio de sesión obligatorio).
 
 ## <a name="my-incentives-overview-page"></a>Página de información general de mis incentivos
 
-**Mi información general sobre incentivos** muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. Esta información incluye ingresos y pagos totales de incentivos desde que inscribió en programas de incentivos.
+La **información general de mis incentivos** muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. Esta información incluye los ingresos y pagos totales de incentivos desde que se inscribió en los programas de incentivos.
 
-También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que tenga que realizar para inscribirse en un programa en una ubicación específica.
+También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que haya que realizar para inscribirse en un programa en una ubicación específica.
 
-Para acceder a **mi información general sobre incentivos**:
+Para acceder a la **información general de mis incentivos**:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 2. Seleccione **incentivos**e **información general** en el menú.
-3. Vea el Resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
+3. Vea el resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
 
    - Para ordenar por columna, seleccione el nombre de la columna.
    - Para agrupar por programa, seleccione la pestaña **por programa** situada encima de la tabla.
    - Para agrupar por ubicación, seleccione la pestaña **por ubicación** situada encima de la tabla.
    - Para ver más detalles acerca de las inscripciones dentro de un grupo específico, seleccione el símbolo de cheurón al final de una fila determinada. Este cheurón expande la vista.
 
-4. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado** . En este caso, seleccione el símbolo de cheurón para obtener información sobre los pasos que debe realizar.
+4. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado**. En este caso, seleccione el símbolo del botón de contenido adicional para obtener información sobre los pasos que debe realizar.
 
 >[!NOTE]
 >Vea la tabla siguiente para obtener más información acerca de los diferentes Estados de inscripción que se muestran en la columna **Estado** .
@@ -107,13 +108,13 @@ Para exportar cualquiera de los datos de la transacción en esta página, selecc
 
 ## <a name="payment-status"></a>Estado del pago.
 
-|**Estado de la ganancia** |**Debido** |**¿Se requiere una acción del asociado?**       |
+|**Estado de la ganancia** |**Motivo** |**¿Se requiere una acción del asociado?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Sin procesar        | La ganancia es válida para el pago. Permanece en este estado durante un período de enfriamiento, tal como se define en la guía del programa de incentivos.       |No        |
 |Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Con errores        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|Con error        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
 |Enviado        |El pago se ha enviado al banco.          |No       |
@@ -128,6 +129,7 @@ Siga las instrucciones de esta página para exportar los datos que desee.
 
 **Notas:**
 
+- Dado el gran volumen de datos, el acuerdo de nivel de servicio para la solicitud enviada que se va a procesar es de 24 horas.
 - Solo verá los datos de los ID. de MPN y los programas a los que está asociado. Si desea acceder a datos adicionales, consulte a su administrador de incentivos.
 - La página Exportar datos no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes.
 - El filtro puede dar lugar a un error **No hay datos disponibles**. Este error probablemente significa que ha dejado el período de tiempo predeterminado seleccionado en tres meses y, a continuación, ha seleccionado un identificador de pago de una ganancia que está fuera de ese período. Amplíe el período de tiempo y vuelva a intentarlo.
@@ -157,18 +159,27 @@ Esta opción proporciona una descarga de los pagos que recibió en el banco por 
 ## <a name="transaction-history-download-export"></a>Exportación de la descarga del historial de transacciones
 Esta opción proporciona la descarga de cada artículo de línea de ganancia que se ve en la página del historial de transacciones, el tipo de ganancia, la fecha, el importe de transacción asociado, el cliente, el producto y otros detalles transaccionales aplicables al programa de incentivos.
 
+>[!NOTE]
+>La exportación del historial de transacciones descarga tiene dos campos nuevos a partir del 2020 de agosto:
+>
+>- **lastPaymentCurrency**  La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.
+>- **earningAmountInLastPaymentCurrency**  Importe de la ganancia en la última moneda del pago.
+
+
 |**Nombre de la columna**   |**Descripción**   |
 |------------------|:-------------------------------------|
 |customerId   |Identificador de cliente   |
 |customerName   |Nombre del cliente de transacción   |
 |earningAmount   |Ganar importe en la moneda de la transacción original   |
+|earningAmountInLastPaymentCurrency   |La cantidad ganada en la última moneda de pago   |
 |earningAmountUSD   |Importe en USD   |
 |earningDate   |Fecha de la ganancia.   |
 |earningExchangeRate   |Tipo de cambio usado para mostrar el importe en USD correspondiente.   |
 |earningId   |Identificador único de cada ganancia.   |
 |earningRate   |Tasa de incentivos aplicada sobre el importe de la transacción para generar una ganancia.   |
-|earningType   |Indica si se trata de una cuota, un descuento, una Coop, una venta, etc.   |
+|earningType   |Indica si se trata de una cuota, un descuento, una Co-op, una venta, etc.   |
 |exchangeRateDate   |Fecha del tipo de cambio usada para calcular earningAmountUSD.   |
+|lastPaymentCurrency   |La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.   |
 |lever   |Indica la regla de negocios de la ganancia.   |
 |participantID   |Identidad principal del asociado que gana con el programa.   |
 |participantIDType   |Normalmente MPN para programas de incentivos e identificador de vendedor para programas de tienda   |
@@ -205,3 +216,58 @@ Además de la tabla anterior, estos campos de historial de transacciones estará
 |agreementStartDate   |Fecha de inicio del acuerdo.   |
 |agreementEndDate   |Fecha de finalización del acuerdo.   |
 |carga de trabajo   |Carga de trabajo   |
+
+## <a name="transaction-summary-report"></a>Informe de Resumen de transacciones
+
+>[!NOTE]
+>El informe Resumen de transacciones no mostrará todos los programas o las ganancias. Se trata de un resumen que solo se centra en las palancas agregadas. Para ver las transacciones individuales, descargue el [Informe de historial de transacciones](#transaction-history-page).
+
+El informe de Resumen de transacciones proporciona los detalles de la transacción de nivel de Resumen, incluidos los nombres de cliente y los ID. de suscripción, para las palancas de obtención agregada. El informe implica cada identificador de obtención asociado a varias transacciones. El importe total de la ganancia y los detalles de ganancias para ese ID. de obtención se repiten para cada cliente o suscripción. Esto se debe a que los incentivos para las palancas agregadas se obtienen colectivamente, no por suscripción.
+
+
+### <a name="download-the-transaction-summary-report"></a>Descargar el informe de Resumen de transacciones
+
+1. En la página **información general sobre incentivos** , seleccione el icono **Money** (pago) de la esquina superior derecha.
+2. Seleccione **Exportar datos**.
+3. Seleccione la pestaña **Resumen de transacciones** .
+4. Seleccione los filtros adecuados para ver los programas y las palancas que son válidos para los beneficios agregados. Si no se muestra ningún dato, los programas no son válidos para las palancas agregadas.
+5. Seleccione **iniciar descarga**   para exportar el informe.  
+
+>[!NOTE]
+>El informe de Resumen de transacciones no incluirá información de clientes y suscripciones para las suscripciones más recientes que 60 días, o si los ingresos de consumo son inferiores a un cent.
+
+|Nombre de la columna |Descripción |
+|------ |:-----------|
+|  earningId | Identificador único de cada ganancia.  |
+|  participantId | Identidad principal del asociado que gana con el programa.  |
+|  participantIdType | Normalmente MPN para programas de incentivos e identificador de vendedor para programas de tienda  |
+|  participantName | Nombre del asociado que gana.  |
+|  partnerCountryCode | Ubicación o país del asociado que gana.  |
+|  programName | Nombre del programa de incentivos/tienda.  |
+|  lever | Indica la regla de negocios de la ganancia.  |
+|  earningRate | Tasa de incentivos aplicada sobre el importe de la transacción para generar una ganancia.  |
+|  earningType | Indica si se trata de una cuota, un descuento, una Co-op, una venta, etc.  |
+|  earningAmount | Ganar importe en la moneda de la transacción original  |
+|  earningAmountUSD | Importe en USD  |
+|  earningDate | Fecha de la ganancia.  |
+|  earningExchangeRate | Tipo de cambio usado para mostrar el importe en USD correspondiente.  |
+|  exchangeRateDate | Fecha del tipo de cambio usada para calcular earningAmountUSD.  |
+|  transactionMonth |  Mes de transacción   |
+|  transactionCurrency | Moneda en la que se produjo la transacción de cliente original  |
+|  totalTransactionAmountUSD |  Total de transacciones   |
+|  customerId | Identificador de cliente  |
+|  customerName | Nombre del cliente de transacción  |
+|  subscriptionId | Identificador de suscripción asociado al cliente.  |
+|  subscriptionStartDate | Fecha de inicio de la suscripción.  |
+|  subscriptionEndDate | Fecha de finalización de la suscripción.  |
+|  agreementNumber | Número de acuerdo.  |
+|  invoiceNumber |  El identificador de la factura   |
+|  partNumber | Número de pieza vinculado a la transacción. Terminología de Microsoft.  |
+|  resellerId | Identificador del revendedor.  |
+|  resellerName | Nombre del revendedor.  |
+|  distributorId | Identificador de distribuidor.  |
+|  distributorName | Nombre del distribuidor.   |
+|  paymentId | Identificador único del pago. Este número normalmente es visible en la instrucción Bank.|  
+
+## <a name="next-steps"></a>Pasos siguientes
+- [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)

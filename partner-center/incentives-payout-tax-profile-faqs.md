@@ -1,21 +1,21 @@
 ---
-title: Preguntas más frecuentes sobre el pago de incentivos y el perfil fiscal
+title: Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 ms.topic: article
 ms.date: 07/21/2020
 description: Preguntas más frecuentes sobre los perfiles fiscales y de pago de incentivos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264238"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545916"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>Preguntas más frecuentes sobre el pago de incentivos y el perfil fiscal
+# <a name="incentives-payout-and-tax-profile-faqs"></a>Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 
 Se aplica a:
 
@@ -71,4 +71,4 @@ Póngase en contacto con el administrador de la cuenta para agregar dominios adi
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Perfiles fiscales y de pago en el centro de Partners](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Perfiles fiscales y de pago en el Centro de partners](incentives-create-and-manage-your-payout-and-tax-profiles.md)

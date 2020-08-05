@@ -1,6 +1,6 @@
 ---
 title: Vender en sectores especializados
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947410"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545536"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales
 
@@ -36,7 +36,7 @@ Microsoft ofrece precios especiales y reducidos para determinados grupos de clie
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |None   | Debe ser un [usuario de educación calificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
 |Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender las suscripciones basadas en licencias a Government, no se requiere ninguna calificación.|   None|
-|Sin ánimo de lucro  |None<br/> Debe tener un inquilino de Azure Active Directory sin ánimo de lucro.<br/> Más información sobre [ofertas especiales sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese en el [programa de Microsoft sin ánimo de lucro](https://nonprofit.microsoft.com/#/register) para que sea válido.   |
+|Sin ánimo de lucro  |None<br/> Debe tener un inquilino de Azure Active Directory sin ánimo de lucro.<br/> Más información acerca de las [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese en el [programa de Microsoft sin ánimo de lucro](https://nonprofit.microsoft.com/#/register) para que sea válido.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
 

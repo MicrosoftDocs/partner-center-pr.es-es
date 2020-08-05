@@ -1,19 +1,19 @@
 ---
 title: Determinar su idoneidad para el programa
 description: Asegúrese de que el programa de incentivos es válido para que pueda realizar el pago.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 15b674a9e3c643de2899f3658b474c9209878880
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114773"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546006"
 ---
 # <a name="program-eligibility"></a>Idoneidad de programas
 
@@ -28,7 +28,7 @@ Roles adecuados:
 - Administrador global
 - Administrador de incentivos
 
-## <a name="determining-your-program-eligibility"></a>Determinar la idoneidad del programa
+## <a name="determining-your-program-eligibility"></a>Determinación de la idoneidad del programa
 
 Puede encontrar los requisitos de idoneidad específicos para su programa en la guía de programas. 
 
@@ -36,7 +36,7 @@ Puede encontrar los requisitos de idoneidad específicos para su programa en la 
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. En **Incentives** (Incentivos) en el panel de navegación izquierdo, seleccione **Overview** (Información general). Se abre la página **información general del programa** .
+2. En **Incentives** (Incentivos) en el panel de navegación izquierdo, seleccione **Overview** (Información general). Se abre la página **Información general del programa**.
 
 3. Seleccione el programa que desee para abrir la página.
 

@@ -2,18 +2,18 @@
 title: Preparar la prueba de ejecución
 description: Comprenda la importancia de la prueba de ejecución (PoE), las escalas de tiempo, el estado de visualización y las directrices de envío.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114752"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545946"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparar la prueba de ejecución
 

@@ -2,18 +2,18 @@
 title: Administrar asociaciones de clientes
 description: Comprenda los procesos y las escalas de tiempo importantes para administrar las asociaciones de clientes de los asociados de registro (CPOR).
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114786"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545996"
 ---
 # <a name="manage-customer-associations"></a>Administrar asociaciones de clientes
 
@@ -52,7 +52,7 @@ Estos son los Estados y su significado:
 
 | Estado de la demanda | Aparece cuando |
 | ------ | ----------- | 
-|  Editar  | Se ha creado la petición de Asociación de CPOR. Permanece en este estado hasta que se carga el documento de prueba de ejecución y se envía la notificación para su aprobación.   |
+|  Edición  | Se ha creado la petición de Asociación de CPOR. Permanece en este estado hasta que se carga el documento de prueba de ejecución y se envía la notificación para su aprobación.   |
 |  Enviado  | El asociado ha enviado correctamente su solicitud de Asociación de CPOR, pero Microsoft aún no ha iniciado el proceso de revisión.   |
 |  En revisión  | Microsoft ha empezado a validar la documentación de PoE. Podemos ponernos en contacto con usted para obtener más detalles. El acuerdo de nivel de servicio de revisión de proceso es de cinco días laborables.  |
 |  Rechazada  | Su PoE era insuficiente o no respondió en un plazo de cinco días hábiles según las directrices de la revisión de PoE y se denegó la demanda.   |

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Obtenga información acerca de cómo solucionar problemas, como pérdidas de beneficios o incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de los incentivos.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114757"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545926"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solución de problemas de pagos y ganancias
 
@@ -51,7 +51,7 @@ Microsoft no admite actualmente la posibilidad de eliminar los perfiles fiscales
 
 Si faltan pagos o son incorrectos, suele deberse a uno de los siguientes motivos:
 
-- **Es posible que no sea válido.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, inscritos en el período de obtención del programa correspondiente.
+- **Es posible que no sea válido.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, estar inscrito en el período de ganancias del programa correspondiente.
 - **Es posible que no se hayan cumplido los requisitos.**  Compruebe si ha cumplido las reglas de elegibilidad y de ingresos aptas para el incentivo que está buscando.
 
   **Para comprobar su elegibilidad**
@@ -62,7 +62,7 @@ Si faltan pagos o son incorrectos, suele deberse a uno de los siguientes motivos
   
   3. Seleccione el vínculo de documento que desee y, a continuación, revise las secciones **elegibilidad de asociados** y **reglas de ingresos válidas**.
 
-- **El perfil de pago puede estar incompleto.** La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles de los pagos y los impuestos. Las ganancias no estarán disponibles durante los meses anteriores al pago y la finalización fiscal. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
+- **El perfil de pago puede estar incompleto.** La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
 - Es **posible que tenga una acción pendiente**.  Podría deberse a que los incentivos no se están procesando porque existe una acción pendiente.
 
   **Para ver las acciones pendientes**
@@ -84,9 +84,9 @@ Cada programa de incentivos tiene un perfil de banco que se creó durante la ins
 
 Cuando no ve ganancias durante un período en el que se espera, normalmente se debe a uno de los siguientes problemas:
 
-- **Es posible que no sea válido.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, inscritos en el período de obtención del programa correspondiente.
+- **Es posible que no sea válido.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, estar inscrito en el período de ganancias del programa correspondiente.
 
-- **El perfil de pago puede estar incompleto.**  La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles de los pagos y los impuestos. Las ganancias no estarán disponibles durante los meses anteriores al pago y la finalización fiscal. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
+- **El perfil de pago puede estar incompleto.**  La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
 
 Si ha completado los requisitos de idoneidad, incluida la incorporación con los detalles de pago y de impuestos en el tiempo, y todavía faltan beneficios, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -96,7 +96,7 @@ Los beneficios que faltan o son incorrectos pueden deberse a uno de los siguient
 
 - **Es posible que no se hayan cumplido los requisitos.**  Compruebe si ha cumplido las reglas de [elegibilidad](#my-payment-is-missing-or-incorrect) y de ingresos aptas para el incentivo que está buscando.
 
-- **Puede haber una discrepancia.**  Si cumple con las reglas de cumplimiento de los asociados y los ingresos válidos, y sigue viendo ganancias incorrectas, consulte [identificación de ganancias & discrepancia de pago](https://support.microsoft.com/help/4534675) para conocer los pasos para acceder a todos los ingresos y a las transacciones respectivas.
+- **Puede haber una discrepancia.**  Si cumple con las reglas de elegibilidad de los asociados y los ingresos válidos y sigue viendo ganancias incorrectas, consulte [Discrepancia de incentivos o ingresos](https://support.microsoft.com/help/4534675) para obtener los pasos para acceder a todos los ingresos y a las transacciones respectivas.
 
 Si estas acciones no sirven de ayuda y aún no puede encontrar ganancias o si sigue pensando que los beneficios son incorrectos, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -104,15 +104,15 @@ Si estas acciones no sirven de ayuda y aún no puede encontrar ganancias o si si
 
 Si hay alguna discrepancia en sus ganancias, realice los pasos siguientes:
 
-1. **Compruebe que es válido para las ganancias.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, inscritos en el período de obtención del programa correspondiente.
+1. **Compruebe que reúne los requisitos para las ganancias.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, estar inscrito en el período de ganancias del programa correspondiente.
 
-2. **Compruebe que el perfil de pago está completo.**  La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles de los pagos y los impuestos. Las ganancias no estarán disponibles durante los meses anteriores al pago y la finalización fiscal. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020. 
+2. **Compruebe que el perfil de pago está completo.**  La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020. 
 
-3. **Compruebe que cumple los requisitos.**  Compruebe si ha cumplido las reglas de [elegibilidad](#my-payment-is-missing-or-incorrect) y de ingresos aptas para el incentivo que está buscando.
+3. **Compruebe que reúne los requisitos.**  Compruebe si ha cumplido las reglas de [elegibilidad](#my-payment-is-missing-or-incorrect) y de ingresos aptas para el incentivo que está buscando.
 
-4. **Determine si ha habido una discrepancia.**  Si cumple con las reglas de elegibilidad de los asociados y los ingresos válidos, y sigue viendo ganancias incorrectas, consulte [identificación de ganancias & discrepancia de pago](https://support.microsoft.com/help/4534675) para conocer los pasos para acceder a todos los ingresos y a las transacciones respectivas.
+4. **Determine si ha habido una discrepancia.**  Si cumple con las reglas de elegibilidad de los asociados y los ingresos válidos y sigue viendo ganancias incorrectas, consulte [Discrepancia de incentivos o ingresos](https://support.microsoft.com/help/4534675) para obtener los pasos para acceder a todos los ingresos y a las transacciones respectivas.
 
-Si estas acciones no sirven de ayuda y las ganancias todavía no se han conciliado, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Si estas acciones no sirven de ayuda y las ganancias todavía no se han conciliado, póngase en contacto con el [soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>¿Dónde puedo encontrar mis tarifas?
 

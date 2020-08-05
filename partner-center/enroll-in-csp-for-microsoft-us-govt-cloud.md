@@ -1,6 +1,6 @@
 ---
 title: Inscribirse en el programa CSP
-ms.topic: article
+ms.topic: how-to
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ca8db8e2910b4825aab7bda27dfe61dbcd4ca9a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947539"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545866"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa proveedor de soluciones en la nube para Microsoft Cloud para el gobierno de EE. UU.
 
@@ -31,7 +31,7 @@ Los asociados de Microsoft ahora pueden vender soluciones y servicios en la nube
 
 Microsoft Cloud para el gobierno de EE. UU. proporciona una instancia privada, dedicada y aislada de Microsoft Azure que cumple los requisitos del gobierno de EE. UU. para la seguridad, la privacidad y el cumplimiento de los datos. Su empresa debe cumplir los requisitos de elegibilidad de Microsoft para participar en el programa CSP para Microsoft Cloud para el gobierno de EE. UU. Para obtener más información, consulte [Partner Center for Microsoft Cloud para la administración pública de EE. UU.](partner-center-for-microsoft-us-govt-cloud.md)
 
-## <a name="before-you-begin"></a>Antes de comenzar
+## <a name="before-you-begin"></a>Antes de empezar
 
 Antes de que pueda inscribirse en el programa CSP para Microsoft Cloud para el gobierno de EE. UU., es necesario comprobar que su empresa cumple los requisitos para vender a entidades gubernamentales de EE. UU. Antes de comenzar el proceso de inscripción, complete el [formulario de validación de la nube de Microsoft Government](https://azuregov.microsoft.com/csp) para que podamos comprobar la elegibilidad de su empresa. Después de comprobar la elegibilidad de su empresa, le proporcionaremos un inquilino de Azure Active Directory (Azure AD) específico para el Microsoft Cloud para el gobierno de EE. UU.  
 
@@ -83,7 +83,7 @@ Microsoft Cloud para el gobierno de EE. UU. proporciona una instancia independie
  
 ## <a name="connect-with-us"></a>Conecte con nosotros
 
-- ¿Alguna pregunta? Envíenos un correo electrónico aazgovcsp@microsoft.com
+- ¿Tiene alguna pregunta? Envíenos un correo electrónico aazgovcsp@microsoft.com
 
 - Únase a nosotros en [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 
 

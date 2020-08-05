@@ -1,27 +1,27 @@
 ---
 title: Crear y administrar perfiles de pago y impuestos en el Centro de partners
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: Antes de que pueda pagar por su trabajo de incentivos, debe crear los perfiles de pago y fiscal.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114091"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546046"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>Perfiles fiscales y de pago en el centro de Partners
+# <a name="payout-and-tax-profiles-in-partner-center"></a>Perfiles fiscales y de pago en el Centro de partners
 
 Se aplica a:
 
 - Centro de partners
 
-Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil de pago e impuestos para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
+Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil fiscal y de pago para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
 
 Roles adecuados:
 
@@ -85,11 +85,11 @@ Los perfiles de banco se crean en el nivel de organización, lo que permite asig
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido es para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Next** (Siguiente).
+2. Seleccione **Siguiente**.
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Next** (Siguiente).
+4. Seleccione **Siguiente**.
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
@@ -116,7 +116,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo. 
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Next** (Siguiente). 
+3. Seleccione **Siguiente**. 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 
