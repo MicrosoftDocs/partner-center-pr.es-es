@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944452"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433906"
 ---
 # <a name="april-2020-announcements"></a>Anuncios de abril de 2020
 
@@ -174,7 +174,7 @@ Para ayudar a defender a los partners y clientes, **a partir del 1 de mayo de 20
 
 - **Si no ha activado los requisitos de seguridad recomendados para proteger al inquilino y los usuarios**, hágalo inmediatamente para seguir siendo compatible y evitar las interrupciones de negocio en la administración de clientes o en las transacciones en CSP. Los partners que no implementen los requisitos de seguridad pueden poner en peligro su participación en el programa CSP.
 - Los proveedores indirectos deben implementar estos requisitos de seguridad para sus propios negocios y trabajar con revendedores para asegurarse de que también implementan los requisitos mediante esta plantilla de correo electrónico. También nos pondremos en contacto directamente con sus revendedores a través de las comunicaciones por correo electrónico.
-- Visite la [página de estado de los requisitos de seguridad del Centro de partners](https://partner.microsoft.com/pcv/security/compliance) para identificar el progreso y las acciones clave que se deben realizar. Trabaje con su administrador global para comprobar el progreso de los requisitos de seguridad con regularidad para cada uno de los inquilinos.
+- Visite la [página de estado de los requisitos de seguridad del Centro de partners](https://partner.microsoft.com/commerce/security/compliance) para identificar el progreso y las acciones clave que se deben realizar. Trabaje con su administrador global para comprobar el progreso de los requisitos de seguridad con regularidad para cada uno de los inquilinos.
 - Si usa una solución de proveedor de panel de control (CPV), consulte a su CPV.
 
 ### <a name="additional-resources"></a>Recursos adicionales

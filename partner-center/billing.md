@@ -3,18 +3,18 @@ title: 'Referencia: artículos sobre facturación del Centro de partners'
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Obtén información sobre los temas de facturación e impuestos en el Centro de partners. La información abarca los recursos de facturación, las facturas, la facturación de CSP y los impuestos.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435584"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527411"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435584"
 | ----- | ----------- |
 | [Conceptos básicos de la facturación](billing-basics.md) | Aspectos básicos de la facturación en el Centro de partners (incluidos los pagos, las facturas y los archivos de conciliación). |
 | [Tipos de facturación](billing-different-types.md) | Explicación de los distintos tipos de facturación en el Centro de partners. |
-| [Diferencias de facturación mensuales y anuales](billing-annual-monthly.md) | Explicación de las diferencias entre las frecuencias de facturación mensual y anual. |
 | [Comprensión de la factura](read-your-bill.md) | Cómo leer y comprender la factura del Centro de partners. |
 | [Pruebas gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Cómo ofrecer evaluaciones gratuitas a tus clientes y cómo se facturan. |
 | [Archivo de conciliación](use-the-reconciliation-files.md) | Cómo leer y usar el archivo de conciliación para los elementos de línea. |

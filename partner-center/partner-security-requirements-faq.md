@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943563"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444903"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
@@ -55,7 +55,7 @@ Debes completar los pasos siguientes.
 - Deberás cumplir todos los requisitos descritos en los [requisitos de seguridad para partners](partner-security-requirements.md).
 - Debes asegurarte de que todas las cuentas de usuario del inquilino del partner tienen aplicada la autenticación multifactor.
 
-Para ayudar a identificar las áreas principales en las que se pueden realizar acciones, proporcionamos el informe de [estado de los requisitos de seguridad](https://partner.microsoft.com/pcv/security/compliance), que está disponible a través del Centro de partners.
+Para ayudar a identificar las áreas principales en las que se pueden realizar acciones, proporcionamos el informe de [estado de los requisitos de seguridad](https://partner.microsoft.com/commerce/security/compliance), que está disponible a través del Centro de partners.
 
 Consulta el [estado de los requisitos de seguridad del partner](partner-security-compliance.md) para obtener más información sobre el informe de estado.
 

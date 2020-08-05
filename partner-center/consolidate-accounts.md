@@ -3,18 +3,18 @@ title: Consolidar las cuentas de la empresa
 description: Obtenga información acerca de cómo consolidar cuentas de Partner Membership Center (PMC) en una cuenta del Centro de partners. Se aplica a la migración de PMC al Centro de partners.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: a03f2c6881580f73f4d90c248d7190e92f5335f1
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390552"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527818"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidación de las cuentas de empresa al migrar de PMC al Centro de partners
 
