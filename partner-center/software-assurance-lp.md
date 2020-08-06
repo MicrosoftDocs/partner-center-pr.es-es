@@ -3,18 +3,18 @@ title: Programas de Software Assurance
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Inscribirse en un programa de software Assurance para compilar la empresa y compensarlo para entregar entrenamiento y planear a los clientes empresariales.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 60034f1810db7fbf48db5c42d1f36f81f8e227e3
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390262"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811215"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participar en programas de software Assurance, incluidos los justificadores de aprendizaje y los servicios de planeación
 

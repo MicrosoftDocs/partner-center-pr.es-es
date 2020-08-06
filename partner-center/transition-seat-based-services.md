@@ -1,7 +1,7 @@
 ---
 title: Trasladar a los clientes basados en licencias al programa CSP
 description: Obtenga información acerca de cómo trasladar a los clientes basados en licencias de otros canales o de otro asociado al programa del proveedor de soluciones en la nube (CSP) en el centro de Partners.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444560"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811135"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Traslade a los clientes basados en licencias de otros canales & asociados al programa proveedor de soluciones en la nube.
 

@@ -3,18 +3,18 @@ title: Creación de una asociación de cliente a través del modelo CPOR
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Cree asociaciones de cliente a través del modelo CPOR (reclamando el asociado de registro). Ayuda a administrar las ventas, el uso, los incentivos de & para los clientes de Microsoft 365 y Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468356"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811185"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creación de una asociación de cliente a través del modelo CPOR: uso para Microsoft 365 y Dynamics 365 clientes
 
@@ -66,7 +66,7 @@ También debe comprender los puntos siguientes:
 
 2. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
 
-3. Seleccione el **ID** . de MPN de la ubicación de socio comercial que se va a asociar al cliente y, a continuación, agregue el nombre de dominio y el ID. de directorio del cliente. [Buscar](find-domain-name.md)
+3. Seleccione el **identificador de MPN** de la ubicación del asociado que se va a asociar con el cliente y, después, agregue el nombre de dominio y el identificador de directorio del cliente. [Buscar](find-domain-name.md)
 
 4. Seleccione **Continuar**.
 
@@ -87,13 +87,13 @@ También debe comprender los puntos siguientes:
    >[!NOTE]
    >Si el producto es Dynamics 365 y el producto que elige tiene varias suscripciones para este cliente concreto, también deberá escribir el identificador de la suscripción.
 
-9. Proporcione la prueba de ejecución (POE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla seleccionando **Descargar plantilla**. 
+9. Proporcione la prueba de ejecución (PoE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla mediante la selección de **Descargar plantilla**. 
 
-10. Agregue y guarde los comentarios que desee y, a continuación, seleccione **enviar notificaciones**. Le enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
+10. Agregue y guarde los comentarios si lo desea y, después, seleccione **Enviar reclamación**. Enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
 
    >[!NOTE]
    >Una vez que envíe la Asociación de cliente, no podrá modificarla.
 
-El estado de la Asociación de cliente aparece en el campo **Estado** .
+El estado de la asociación de cliente saparece en el campo **Estado**.
 
-Seleccione **historial** para ver el historial de una asociación de cliente.
+Seleccione **Historial** para ver el historial de una asociación de cliente.

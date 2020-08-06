@@ -3,18 +3,18 @@ title: Proporcionar soporte técnico a los clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Obtenga información sobre los tipos de soporte técnico que los asociados del programa de proveedores de soluciones en la nube pueden ofrecer sus clientes.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114512"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87810915"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Proporcionar soporte técnico para ayudar a los clientes a configurar, administrar y usar sus suscripciones
 
@@ -62,7 +62,7 @@ Los asociados son necesarios para recibir solicitudes de soporte técnico entran
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
-Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para más información, consulte:
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, consulte:
 
 - [Suscripciones a Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

@@ -3,25 +3,25 @@ title: Comprobar la información de la cuenta
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Siga el estado de la comprobación de la cuenta al intentar inscribirse en un nuevo programa del centro de Partners. Aprenda a proporcionar información adicional, si es necesario.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 40b3a8118ace01bd7b1c72d4cd008a6a6e612bd1
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365731"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811145"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Comprobar la información de la cuenta al inscribirse en un nuevo programa del centro de Partners
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de la cuenta MPN
+- Administrador de cuentas MPN
 
 Al inscribirse en un nuevo programa en el centro de Partners, Microsoft comprueba la información de inscripción de la cuenta que ha proporcionado, como el nombre de la empresa, la dirección de la empresa y los detalles del contacto principal. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarles del estado y solicitar documentación de comprobación adicional.
 

@@ -1,6 +1,6 @@
 ---
 title: Establecer un presupuesto de gasto de Azure para los clientes
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 description: Obtenga información acerca de cómo establecer o quitar los presupuestos de gastos mensuales de Azure para los clientes y también ver los datos de gasto de Azure y establecer notificaciones relacionadas con el presupuesto.
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377739"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811255"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Establecer, comprobar o quitar los presupuestos de gastos mensuales de Azure para los clientes del centro de Partners
 

@@ -3,18 +3,18 @@ title: Programa de justificante de aprendizaje de software Assurance
 ms.topic: article
 ms.date: 06/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Obtenga información acerca de cómo inscribirse en el programa de justificante de aprendizaje de software Assurance para que pueda compensar la entrega de cursos y el planeamiento a los clientes empresariales.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436534"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811205"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
@@ -22,7 +22,7 @@ Haz crecer tu negocio mediante la inscripción en programas de partners de Softw
 
 Como partner autorizado de formación de Software Assurance, Microsoft te compensa por proporcionar formación técnica a los clientes empresariales a cambio de los vales que obtienen con Software Assurance. La participación en este programa puede ayudarte a atraer más clientes y a convertirte en su partner de formación de confianza.
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Primeros pasos
 
 Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje, empiece en el paso cuatro (4) a continuación. 
 
