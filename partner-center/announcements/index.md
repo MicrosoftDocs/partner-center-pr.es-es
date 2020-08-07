@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545546"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811165"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de agosto de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Ya están disponibles las nuevas SKU de comunicaciones avanzadas de Microsoft Teams](2020-august.md#4)|4 de agosto|
+|Ofertas/mercados|[Protección contra amenazas avanzada (ATP) de Microsoft Defender para Servidores para Educación disponible en septiembre](2020-august.md#3)|4 de agosto|
 |Ofertas/mercados|[Nueva oferta del paquete Dynamics 365 Sales Premium](2020-august.md#2)|3 de agosto|
 |Ofertas/mercados|[Anuncio de la disponibilidad de las ofertas de prueba de Visio Plan 1 y Plan 2 ](2020-august.md#1)|3 de agosto|
 | **Categoría** | **Anuncios de julio de 2020** | **Fecha** |
