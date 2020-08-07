@@ -1,7 +1,7 @@
 ---
 title: Reservas de Azure & suscripciones de servidor
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre las oportunidades del proveedor de soluciones en la nube para adquirir, aprovisionar y administrar las reservas de Azure y las suscripciones de servidor para los clientes.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943952"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900096"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquisición, aprovisionamiento, & administración de instancias reservadas de máquina virtual de Azure (RI) + suscripciones de servidor para clientes
 
@@ -29,7 +29,11 @@ Se aplica a:
 - Agente del departamento de soporte técnico
 - Agente de ventas
 - Administrador del control de usuarios
- 
+
+> [!NOTE]
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
+
+
 ## <a name="what-are-azure-reservations"></a>¿Qué es Azure Reservations?
 
 Azure Reservations ayudarle a ahorrar dinero al pagar por adelantado de una máquina virtual de un año o tres años, SQL Database capacidad de proceso, Azure Cosmos DB el rendimiento u otros recursos de Azure. El pago adelantado le permite obtener un descuento en los recursos que utiliza. Las reservas pueden reducir significativamente la máquina virtual, el proceso de SQL Database, Azure Cosmos DB y otros costos de recursos hasta un 72% en comparación con los precios de pago por uso. Reservations ofrece un descuento en la facturación y no afecta al estado del entorno de ejecución de los recursos. Para obtener más información, consulte [¿Qué son Azure reservations?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
@@ -55,7 +59,7 @@ Con una combinación sin comparación de precios atractivos y una flexibilidad d
 - Azure Reserved VM Instances
 - Reservas de base de SQL
 - Instancia administrada de SQL
-- Azure Cosmos DB
+- Azure Cosmos DB
 - Azure SQL Data Warehouse
 - Servicios de aplicaciones
 - Azure Databricks reservas unitarias

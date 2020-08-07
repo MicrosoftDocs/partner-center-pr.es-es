@@ -1,7 +1,7 @@
 ---
 title: Compra de reservas de Microsoft Azure para clientes
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435774"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900099"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435774"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 - Administrador del control de usuarios
+ 
+> [!NOTE]
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
 
 ## <a name="before-you-begin"></a>Antes de empezar
 
@@ -130,7 +133,7 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 
     - Compruebe o cambie la cantidad de instancias reservadas.
 
-    - Seleccione el ámbito de la reserva. El ámbito de la reserva puede abarcar una suscripción o varias suscripciones (ámbito compartido). Si el ámbito de la reserva es una sola suscripción, el descuento de reserva se aplica solo a esta suscripción. Si selecciona compartido, el descuento de reserva se aplica a todas las suscripciones del contexto de facturación del cliente. 
+    - Seleccione el ámbito de la reserva. El ámbito de la reserva puede cubrir una o varias suscripciones (ámbito compartido). Si el ámbito de la reserva es una sola suscripción, el descuento de reserva se aplica solo a esta suscripción. Si selecciona compartido, el descuento de reserva se aplica a todas las suscripciones del contexto de facturación del cliente. 
 
       >[!NOTE] 
       >Si opta por limitar el ámbito de la reserva a una sola suscripción de Azure, puede que tenga que aumentar la cuota de vCPU de la suscripción. Para aumentar la cuota de vCPU de la suscripción, deberá crear una solicitud de soporte técnico en el Azure Portal. Siga las instrucciones [de este tema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para crear la solicitud. 

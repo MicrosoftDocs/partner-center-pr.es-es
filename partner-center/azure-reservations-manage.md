@@ -1,7 +1,7 @@
 ---
 title: Administración de reservas de Azure para clientes
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Obtenga información sobre cómo administrar las reservas de Azure para un cliente, incluido cómo cancelar una reserva, intercambiar una reserva o solicitar un reembolso.
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527461"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900072"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
 
@@ -32,6 +32,9 @@ ms.locfileid: "87527461"
 - Agente de ventas
 - Administrador del control de usuarios
 
+> [!NOTE]
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
+
 Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal.
 
 1. Para empezar, seleccione **customers (clientes** ) en el menú del centro de Partners y seleccione el cliente cuyas reservas desea administrar. 
@@ -42,8 +45,8 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
 
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **Introducción**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
-    | **Control de acceso (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
+    | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
+    | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **Nota:** El soporte técnico puede pedirle el identificador de reserva y el identificador de pedido de reserva cuando solicite soporte técnico en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda de Soporte técnico de Microsoft.   |
@@ -64,9 +67,9 @@ Consulte a continuación los detalles y las tarifas de cancelación.
 |**Fecha de cancelación**<br> durante   |**Uso**    |**Crédito**  |**Finalización temprana**<br> individual    |**Límite de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 o menos                         | No          | 100%       | No                              | $50.000 USD   |
-|5 o menos                         | Yes         | Prorrateado  | No                              | $50.000 USD   |
+|5 o menos                         | Sí         | Prorrateado  | No                              | $50.000 USD   |
 |Más de 5                        | No          | Prorrateado  | 12 %                             | $50.000 USD   |
-|Más de 5                        | Yes         | Prorrateado  | 12 %                             | $50.000 USD   |
+|Más de 5                        | Sí         | Prorrateado  | 12 %                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Cómo funcionan los intercambios 
 
