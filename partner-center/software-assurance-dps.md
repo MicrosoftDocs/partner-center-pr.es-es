@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo inscribirse y tener la seguridad en las contrataciones de Microsoft Planning Services para que pueda ofrecer aprendizaje y otros servicios a los clientes con software Assurance.
-author: mowree
-ms.author: mowrim
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cab5ac13b37c11f9e07f1c99d63728f7ad92264
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
+ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811225"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "88092030"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811225"
 
 Como partner de Planning Services aprobado, Microsoft le compensa por proporcionar compromisos de planeación previa a la implementación para clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, convertirse en su asociado de planificación de confianza y conducir a otras contrataciones de clientes.
 
-## <a name="get-started"></a>Primeros pasos
+## <a name="get-started"></a>Introducción
 
 Si no está familiarizado con los servicios de planeación de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en los programas de Planning Services, comience cada nuevo compromiso en el paso cuatro (4) a continuación.
 

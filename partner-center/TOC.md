@@ -102,6 +102,7 @@
 ### [Analizar tu perfil de negocio](analyze-your-marketing-profile.md)
 ## Incentivos
 ### Introducción a los incentivos
+#### [Introducción](incentives-get-started-intro.md)
 #### [Determinar su idoneidad para el programa](incentives-determined-your-program-eligibility.md)
 #### [Crear y administrar perfiles de pago y impuestos en el Centro de partners](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [Ver tus programas y pagos de incentivos](understand-incentive-payouts.md)
 #### [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)
 ### Planes y pruebas de ejecución
+#### [Acerca de los planes y las pruebas de ejecución](incentives-plans-proofs-intro.md)
 #### [Crear el plan](incentives-create-your-plan.md)
 #### [Preparar la prueba de ejecución](incentives-prepare-your-proof-of-execution.md)
 ### Reclamaciones de incentivos de cooperación
-#### [Incentivos](claims-overview.md)
+#### [Acerca de las reclamaciones de cooperación](claims-overview.md)
 #### [Crear y administrar reclamaciones de incentivos de cooperación](create-incentives-claims.md)
 #### [Requisitos básicos para reclamaciones de incentivos de cooperación](core-requirements.md)
 #### [Aprobación y fechas límite de pago de reclamaciones de cooperación](incentives-managing-co-op-claims.md)
 ### Reclamaciones de incentivos de la asociación CPOR
+#### [Acerca de las asociaciones de CPOR](incentives-customer-associations-intro.md)
 #### [Crear una asociación de clientes mediante el modelo de CPOR](submit-osa-claim.md)
 #### [Administrar asociaciones de clientes](incentives-manage-customer-associations.md)
 #### [Problemas de asociación de clientes](incentives-customer-association-issues.md)
