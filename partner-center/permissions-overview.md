@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434324"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839190"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -46,6 +46,7 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Ver todos los perfiles de asociado
 ||*    Ver, crear y administrar usuarios asociados  |
 |Administrador de facturación | • Ver, crear y administrar los archivos de facturación, facturas y conciliación|
+||*    Ver precios
 |Usuario predeterminado|  Ver mi perfil   |
 |Agente de administrador | *    Administración de clientes
 ||*    Agregar una lista de dispositivos en el Centro de partners
@@ -62,6 +63,7 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Administración de suscripciones
 ||*    Ver vales de soporte técnico
 ||*    Solicitar una relación con un cliente
+||*    Ver los precios y las ofertas
 ||*    Administrar clientes potenciales
 ||*    Ver el contrato de cliente
 ||*    Registrar un vendedor de valor agregado|

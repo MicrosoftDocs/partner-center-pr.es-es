@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114057"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998392"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renueve las ofertas de MPN para Microsoft Action Pack y las competencias durante la ventana de renovación
 
@@ -40,11 +40,13 @@ Si renuevas durante la ventana de renovación, tu nueva fecha de aniversario ser
 
 ## <a name="responding-to-covid-19"></a>Respuesta al COVID-19:
 
-Para ayudarte a centrarte en dar soporte a tus clientes, **si la fecha de aniversario de la competencia está comprendida entre el 1 de enero y el 30 de junio de 2020**, ampliamos tus competencias existentes hasta la próxima fecha de aniversario de 2021. Los recordatorios de renovación de competencias se actualizarán para reflejar esta nueva oferta. 
+Para ayudarle a centrarse en dar soporte técnico a sus clientes: 
+
+- **Si la fecha de aniversario de la competencia está comprendida entre el 1 de julio y el 31 de diciembre de 2020**, ampliamos sus competencias existentes hasta la próxima fecha de aniversario en 2021. Los recordatorios de renovación de competencias se actualizarán para reflejar esta nueva oferta. 
 
 - **Si tu competencia se está acercando a la fecha de renovación**, en el Centro de partners verás que se han cumplido tus requisitos. Para renovarla, deberás pagar la tarifa de la competencias dentro de la ventana de la renovación en la página Ofertas de suscripción. 
 
-- **Si se te ha pasado la ventana de renovación**, puedes reactivar la competencia y recuperar el acceso a los recursos y las ventajas mediante el pago de la tarifa en la página Ofertas de suscripción. Esta extensión está disponible hasta el 30 de junio de 2020.   
+- **Si se le ha pasado la ventana de renovación**, puede reactivar la competencia y recuperar el acceso a los recursos y las ventajas mediante el pago de la tarifa en la página Ofertas de suscripción. Esta extensión está disponible hasta el 31 de diciembre de 2020.
 
 ### <a name="how-to-view-this-information"></a>Procedimiento para ver esta información
 

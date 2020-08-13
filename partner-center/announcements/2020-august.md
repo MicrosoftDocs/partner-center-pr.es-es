@@ -9,18 +9,98 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/03/2020
-ms.openlocfilehash: ec9dc4110e4cd0d980142d012a570b84c864f14a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546697"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811105"
 ---
 # <a name="august-2020-announcements"></a>Anuncios de agosto de 2020
 
 En esta página se detallan los anuncios del Centro de partners de Microsoft de agosto de 2020.
 
 Anuncios de 2020: [Enero](2020-january.md) | [Febrero](2020-february.md) | [Marzo](2020-march.md) | [Abril](2020-april.md) | [Mayo](2020-may.md) | [Junio](2020-june.md) | [Julio](2020-july.md) | Agosto
+
+________________
+
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Ya están disponibles las nuevas SKU de comunicaciones avanzadas de Microsoft Teams
+### <a name="categories"></a>Categories
+
+- Fecha: 04-08-2020
+- Ofertas/mercados
+
+### <a name="summary"></a>Resumen
+
+Las nuevas SKU del complemento Advanced Communications para Microsoft Teams están disponibles desde el 1 de agosto de 2020.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners que operan a través del programa Proveedor de soluciones en la nube (CSP).
+
+### <a name="details"></a>Detalles
+
+El nuevo complemento Advanced Communications para Microsoft Teams ahora está disponible a 12 $ por usuario/mes. Las SKU de complementos se pueden adquirir además de cualquier otro conjunto de Microsoft 365 que contenga Microsoft Teams. Advanced Communications proporciona un nuevo conjunto de funcionalidades para reuniones de gran tamaño, directivas de comunicación e integraciones, además de herramientas avanzadas para la administración de TI. 
+
+#### <a name="advanced-communications-features"></a>Características de Advanced Communications
+
+Publicada en el lanzamiento
+- Límites de eventos en directo a 20 000 participantes (50 simultáneos, 16 horas)
+- Integración de la grabación de cumplimiento (ISV) 
+- Integración de la solución del Centro de contactos (ISV) 
+
+Publicada más adelante, en 2020
+- Reunión interactiva de Teams de 1000 personas 
+- Reuniones interactivas para 1000 participantes, con la capacidad de habilitar hasta 20 000 en una experiencia de reunión de "solo visualización". 
+- Sala de reuniones con marca personalizada
+- Se agregarán más personalizaciones, herramientas y mejoras de comunicaciones a la SKU a lo largo del año natural.
+
+#### <a name="offer-details"></a>Detalles de la oferta
+
+   |**Nombre de la oferta**|**Identificador de oferta**|**Id. de material**|
+   |-------------------|:------|:------|
+   |Advanced Communications|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |Advanced Communications para profesores|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |Advanced Communications para alumnos|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+
+#### <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+
+- **¿Qué es Advanced Communications?** Este nuevo complemento de Microsoft Teams permite a los clientes mejorar aún más su experiencia de comunicación. Se puede adquirir además de cualquier SKU de Microsoft 365 a la que estén suscritos.
+- **¿Cuánto cuesta?** El ERP comercial es 12 USD por usuario y por mes. 
+- **¿Qué clientes pueden comprar el complemento?** Comercial, sector público de comercio mundial, educación y sin ánimo de lucro.
+- **¿Cómo se puede comprar?** El complemento se puede adquirir a través de EA/EAS, EES, CSP o Web Direct.
+- **¿Dónde se puede vender?** Puede venderse en todos los mercados actuales.
+- **¿Cuáles son los requisitos previos?** Cualquier conjunto de aplicaciones de Microsoft 365/Office 365 que incluya Microsoft Teams.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Comparta esta información con los contactos pertinentes de su organización y comprenda las oportunidades de venta cruzada y de incremento de ventas. Revise la sección de recursos de la [guía de partners de Teams](https://aka.ms/teamscallingmeetingsguide).
+
+________________
+
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>Protección contra amenazas avanzada (ATP) de Microsoft Defender para Servidores para Educación disponible en septiembre
+### <a name="categories"></a>Categorías
+
+- Fecha: 04-08-2020
+- Ofertas/mercados
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners que participan en el programa CSP.
+
+### <a name="details"></a>Detalles
+
+Protección contra amenazas avanzada (ATP) de Microsoft Defender para Servidores para Educación disponible en el programa Proveedor de soluciones en la nube (CSP) a partir del 1 de septiembre de 2020.
+
+#### <a name="product-details"></a>Detalles del producto
+
+- Nombre de la oferta: ATP de Microsoft Defender para Servidores para Educación
+- Id. de la oferta: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Comparta esta información con los contactos adecuados de su organización.
+- Lea la [documentación de ATP de Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obtener más información sobre el producto.
 
 ________________
 

@@ -1,7 +1,7 @@
 ---
 title: Crear una cuenta del Centro de partners
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo los miembros de Microsoft Partner Network pueden crear una cuenta en el Centro de partners para administrar sus ventajas y competencias en la red.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114713"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998409"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta del Centro de partners para administrar las ventajas y las competencias en la red
 
@@ -65,6 +65,45 @@ Comprobaremos esta información durante el proceso de creación de la cuenta.
     a. En el [panel](https://partner.microsoft.com/dashboard/home**) del Centro de partners, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
 
     b. Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administrador**, si aún no está seleccionado. Selecciona **Actualización**.  
+
+## <a name="view-mpn-account-details"></a>Visualización de los detalles de la cuenta de MPN
+
+Una vez que se cree la cuenta del Centro de partners, puede volver al Centro de partners para ver varios detalles de la cuenta. Muchos de estos aparecen en la página **Perfil del partner** del [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+
+Entre estos detalles se incluyen:
+
+- El perfil de empresa legal de su compañía
+
+- Información sobre el identificador de MPN
+
+- Vínculos a los contratos actuales asociados a su programa de Microsoft inscrito
+
+  Por ejemplo, si está inscrito en el programa MPN, verá un vínculo al contrato de Microsoft Partner Network actual. Si está inscrito en otros programas de partners, como el programa de Proveedor de soluciones en la nube (CSP), también puede ver vínculos a otros contratos, como el Microsoft Partner Agreement (MPA). 
+
+  > [!NOTE]
+  > Ver estos tipos de vínculos puede ser útil si alguna vez desea revisar, acceder o descargar un contrato, o comprobar la fecha en la que se firmó.
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Cómo ver los detalles de la cuenta o ver y descargar el contrato de MPN
+
+Siga estos pasos para ver los detalles de la cuenta o ver y descargar el contrato de MPN:
+
+1. Con el nombre de usuario y la contraseña de su cuenta profesional, inicie sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+
+2. Aparece una página Información general. (Si no ve la página Información general, seleccione **Información general** en el menú de navegación izquierdo).
+
+3. Seleccione el icono de engranaje en la esquina superior derecha del panel y, a continuación, seleccione **Configuración de partners**. Esto le llevará a la página de Perfil del partner.
+
+4. En la página Perfil del partner, verá distintas áreas. Entre ellas se incluyen un área de **Perfil de empresa legal** y un área **Información del programa**.
+
+5. En **Información del programa**, busque el campo **MPN program status** (Estado del programa MPN). Esto muestra un vínculo a su contrato de Microsoft Partner Network. También describe el estado actual del programa.
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Imagen que muestra el área de Información del programa en la página Perfil del partner con un cuadro rojo que resalta el campo de estado del programa MPN en esta área, junto con el vínculo asociado al contrato de Microsoft Partner Network.":::
+
+6. Para ver o descargar este contrato, seleccione **Contrato de Microsoft Partner Network**.  
+
+> [!NOTE]
+> También puede seguir los pasos anteriores para ver o descargar otros contratos para otros programas inscritos, como Microsoft Partner Agreement si está inscrito en el programa Proveedor de soluciones en la nube (CSP).
 
 ## <a name="next-steps"></a>Pasos siguientes
 

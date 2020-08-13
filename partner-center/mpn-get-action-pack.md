@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389134"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998377"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Compra o renueva una suscripción a Microsoft Action Pack o las competencias Silver o Gold.
 
@@ -72,6 +72,13 @@ Conviértase en un [partner de competencias](https://partner.microsoft.com/membe
 
 La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas **Compradas**; sin embargo, no podrá volver a activar la renovación automática de suscripción hasta que la suscripción se vuelva a renovar. 
 
+### <a name="update-your-bill-to-address"></a>Actualización de la dirección de facturación
+
+En el proceso de renovación o compra de Action Pack, tiene la oportunidad de validar su dirección de facturación.
+
+ 1. Después de seleccionar **Enviar**, puede revisar los detalles de la compra. Seleccione **Actualizar** si ve que es necesario actualizar la dirección.
+  
+ 1. En la página **Perfil del partner**, actualice su dirección.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
 
