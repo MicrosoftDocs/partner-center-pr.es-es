@@ -1,0 +1,523 @@
+- name: Acerca del Centro de partners de Microsoft
+  href: index.yml
+- name: Anuncios
+  href: announcements/TOC.md
+- name: Pertenencia a la red de asociados
+  href: mpn-overview.md
+  items:
+    - name: Crear una cuenta del Centro de partners
+      href: mpn-create-a-partner-center-account.md
+    - name: Obtención de un correo electrónico del trabajo
+      href: buy-email-domain.md
+    - name: Movimientos al Centro de partners
+      items:
+        - name: 'Movimiento desde PAC: información general'
+          href: pac-to-pc-overview.md
+        - name: Comparación de tareas en PAC y PC
+          href: moving-from-pac-to-pc.md
+        - name: Tareas de PAC en PC
+          href: o365-partner-admin-center-to-partner-center.md
+    - name: Movimientos desde PMC
+      items:
+        - name: Preparación para la migración desde PMC
+          href: prepare-pmc-pc-migration.md
+        - name: Guía para el movimiento desde PMC
+          href: guide-to-migration.md
+        - name: Comparación entre PMC y PC
+          href: move-pmc-pc-map.md
+        - name: Traslado de muchas empresas
+          href: move-multiple-companies.md
+        - name: Consolidación de empresas
+          href: consolidate-accounts.md
+    - name: Ofertas de suscripción
+      items:
+        - name: Action Pack
+          href: mpn-get-action-pack.md
+        - name: Renovar tus ofertas
+          href: renew-mpn-offers.md
+    - name: Competencias
+      href: learn-about-competencies.md
+    - name: Especializaciones avanzadas
+      href: advanced-specializations.md
+    - name: Convertirse en MSP experto de Azure
+      href: azure-expert-msp.md
+    - name: Ventajas
+      items:
+        - name: Introducción a las ventajas
+          href: manage-your-partner-network-benefits.md
+        - name: Ventajas de la comercialización
+          href: mpn-learn-about-go-to-market-benefits.md
+        - name: Preguntas frecuentes sobre ventajas
+          href: benefits-faq.md
+    - name: Recompensas de Marketplace
+      href: marketplace-rewards.md
+    - name: Software Assurance
+      items:
+        - name: Introducción a los programas
+          href: software-assurance-lp.md
+        - name: Cupones de formación (SATV)
+          href: software-assurance-satv.md
+        - name: Servicios de planificación (PS)
+          href: software-assurance-dps.md
+          items:
+            - name: Requisitos de elegibilidad
+              href: software-assurance-dps-requirements.md
+    - name: Facturas e impuestos
+      items:
+        - name: Facturas e impuestos en MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Versión de prueba de las nuevas características
+      href: test-drive-new-features.md
+- name: Proveedor de soluciones en la nube (CSP)
+  href: csp-overview.md
+  items:
+    - name: Inscribirse en el programa CSP
+      href: enrolling-in-the-csp-program.md
+    - name: 'Microsoft Partner Agreement: CSP'
+      href: microsoft-partner-agreement.md
+    - name: Requisitos de partners directos de CSP
+      href: direct-partner-new-requirements.md
+    - name: 'Contratos de cliente de Microsoft (por región, idioma)'
+      href: agreements.md
+    - name: Acceso a facturación directa restringido
+      href: restricted-direct-bill-capabilities.md
+    - name: Cambio de factura directa a revendedor indirecto de CSP
+      href: transition-direct-to-indirect.md
+    - name: 'Contratos, listas de precios y ofertas de CSP'
+      href: csp-documents-and-learning-resources.md
+    - name: Azure Cost Management de Cloudyn para CSP
+      href: azure-cost-management-app-for-csp-partners.md
+    - name: Mercados y monedas regionales de CSP
+      href: regional-authorization-overview.md
+    - name: Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
+      href: csp-regional-authorization-tenant-consolidation.md
+    - name: 'Información general: Nueva manera de confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft'
+      href: confirm-consent.md
+    - name: Cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft
+      href: confirm-customer-agreement.md
+    - name: Cuándo se debe dar fe de la aceptación del Contrato de cliente en nombre de un cliente
+      href: attest-acceptance-customer-agreement.md
+    - name: Se aplican para vender en nubes nacionales
+      href: csp-national-clouds-overview.md
+      items:
+        - name: Centro de partners para Microsoft Cloud for US Government
+          href: partner-center-for-microsoft-us-govt-cloud.md
+        - name: Preguntas frecuentes de Microsoft Cloud for US Government
+          href: faq-for-us-govt-cloud.md
+        - name: Centro de partners para Microsoft Cloud Alemania
+          href: partner-center-for-microsoft-cloud-germany.md
+        - name: Inscripción en CSP para Microsoft Cloud for US Government
+          href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+        - name: Vender GCC de Office 365 Administración Pública para el CSP
+          href: csp-gcc-overview.md
+        - name: "Criterios de elegibilidad de partners y clientes de GCC de Office\_365 Administración Pública"
+          href: csp-gcc-validate.md
+        - name: Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
+          href: user-management-in-partner-center-for-microsoft-cloud-germany.md
+        - name: Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
+          href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
+- name: Administración de la cuenta del Centro de partners
+  href: partner-center-account-setup.md
+  items:
+    - name: Cuentas profesionales y Centro de partners
+      href: azure-active-directory-tenants-and-partner-center.md
+    - name: Estructura de cuentas en el Centro de partners
+      href: account-structure.md
+    - name: Comprobar tu propiedad de un dominio
+      href: become-global-admin.md
+    - name: Comprobar la información de la cuenta
+      href: verification-responses.md
+    - name: Combinar la cuenta de asociado con otra cuenta de asociado
+      href: merge-accounts.md
+    - name: Asociar inquilinos de Azure AD adicionales a la cuenta del Centro de partners
+      href: multi-tenant-account.md
+    - name: Actualizar tu perfil de partner
+      href: update-your-partner-profile.md
+    - name: Ubicaciones
+      href: manage-locations.md
+    - name: Inscribirse como proveedor del Panel de control
+      href: enroll-as-cpv.md
+    - name: Restaurar una cuenta suspendida del Centro de partners
+      href: suspended-partner-center-account.md
+    - name: Agregar una aplicación de Azure AD
+      href: service-principal.md
+    - name: Asociación de la cuenta de Microsoft Learn al Centro de partners
+      href: ms-learn-associate.md
+- name: Administrar la cuenta del Centro de partners (usuarios)
+  items:
+    - name: Crear las cuentas de usuario
+      href: create-user-accounts-and-set-permissions.md
+    - name: Asignar roles y permisos de usuarios
+      href: permissions-overview.md
+    - name: Inscribirse como proveedor del Panel de control
+      href: enroll-as-cpv.md
+    - name: Restablecimiento de la contraseña del usuario
+      href: reset-a-user-password.md
+    - name: Restablecimiento de mi contraseña
+      href: reset-my-pasword.md
+    - name: Si no puede iniciar sesión en el Centro de partners
+      href: unable-to-sign-in.md
+- name: Administrar la cuenta del Centro de partners (empresas)
+  items:
+    - name: Agregar Servicios compartidos para asociados de Azure
+      href: shared-services.md
+    - name: Precios y ofertas
+      href: pricing-and-offers.md
+    - name: Personalizar el catálogo
+      href: customize-the-catalog.md
+- name: Desarrollo de la empresa
+  href: grow-your-business.md
+  items:
+    - name: Información general sobre referencias
+      href: referrals.md
+      items:
+        - name: Responder a las referencias
+          href: responding-to-referrals.md
+        - name: Administrar el perfil de negocio
+          href: create-a-marketing-profile.md
+        - name: Administración de clientes potenciales
+          href: manage-leads.md
+        - name: Administración de las oportunidades de venta conjunta
+          href: manage-co-sell-opportunities.md
+        - name: 'Conector de venta conjunta para Dynamics 365 CRM: información general'
+          href: connector-dynamics.md
+        - name: 'Conector de venta conjunta para Salesforce CRM: información general'
+          href: connector-salesforce.md
+        - name: Registrar las ofertas
+          href: register-deals.md
+        - name: Obtener información de referencia
+          href: referral-insights.md
+        - name: Analizar tu perfil de negocio
+          href: analyze-your-marketing-profile.md
+    - name: Incentivos
+      items:
+        - name: Introducción a los incentivos
+          items:
+            - name: Introducción
+              href: incentives-get-started-intro.md
+            - name: Determinar su idoneidad para el programa
+              href: incentives-determined-your-program-eligibility.md
+            - name: Crear y administrar perfiles de pago y impuestos en el Centro de partners
+              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+            - name: Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
+              href: incentives-payout-tax-profile-faqs.md
+            - name: Confirmar la elegibilidad de sus ganancias
+              href: incentives-confirm-your-earnings-eligibility.md
+            - name: Ver tus programas y pagos de incentivos
+              href: understand-incentive-payouts.md
+            - name: Acceder a la página de pagos de incentivos
+              href: incentives-unified-user-guide.md
+        - name: Planes y pruebas de ejecución
+          items:
+            - name: Acerca de los planes y las pruebas de ejecución
+              href: incentives-plans-proofs-intro.md
+            - name: Crear el plan
+              href: incentives-create-your-plan.md
+            - name: Preparar la prueba de ejecución
+              href: incentives-prepare-your-proof-of-execution.md
+        - name: Reclamaciones de incentivos de cooperación
+          items:
+            - name: Acerca de las reclamaciones de cooperación
+              href: claims-overview.md
+            - name: Crear y administrar reclamaciones de incentivos de cooperación
+              href: create-incentives-claims.md
+            - name: Requisitos básicos para reclamaciones de incentivos de cooperación
+              href: core-requirements.md
+            - name: Aprobación y fechas límite de pago de reclamaciones de cooperación
+              href: incentives-managing-co-op-claims.md
+        - name: Reclamaciones de incentivos de la asociación CPOR
+          items:
+            - name: Acerca de las asociaciones de CPOR
+              href: incentives-customer-associations-intro.md
+            - name: Crear una asociación de clientes mediante el modelo de CPOR
+              href: submit-osa-claim.md
+            - name: Administrar asociaciones de clientes
+              href: incentives-manage-customer-associations.md
+            - name: Problemas de asociación de clientes
+              href: incentives-customer-association-issues.md
+        - name: Solución de problemas de pagos y ganancias
+          href: incentives-payment-issues.md
+- name: Facturación e impuestos
+  href: billing.md
+  items:
+    - name: Conceptos básicos de facturación
+      href: billing-basics.md
+    - name: Tipos de facturación del Centro de partners
+      href: billing-different-types.md
+    - name: Descripción de la factura
+      href: read-your-bill.md
+    - name: Usar los archivos de conciliación
+      href: use-the-reconciliation-files.md
+    - name: Tipos de cargo de archivo de conciliación
+      href: recon-file-charge-types.md
+    - name: Lectura de archivos de conciliación de uso clasificados diariamente en el Centro de partners
+      href: daily-rated-usage-recon-files.md
+    - name: Archivos de conciliación basada en licencia
+      href: license-based-recon-files.md
+    - name: Escenarios comunes de facturación
+      href: common-billing-scenarios.md
+      items:
+        - name: Escenarios de facturación mensual
+          href: common-billing-scenarios-monthly.md
+        - name: Escenarios de facturación anual
+          href: common-billing-scenarios-annual.md
+        - name: Escenarios de cargos periódicos determinados y únicos
+          href: common-billing-scenarios-onetime-recurring.md
+        - name: 'Facturas: lectura de los campos de facturación y de cargos únicos'
+          href: invoice-file.md
+        - name: Facturación basada en licencia
+          href: license-based-billing.md
+        - name: Escenarios de suscripciones SaaS basadas en licencias
+          href: common-billing-scenarios-saas.md
+    - name: 'Vista de firmas digitales: Centro de partners de India'
+      href: digital-signature.md
+    - name: Impuestos y exenciones fiscales
+      href: tax-and-tax-exemptions.md
+      items:
+        - name: Información sobre el IVA de la empresa
+          href: organization-tax-info.md
+        - name: Comprobar que tiene crédito para la retención de impuestos
+          href: withholding-tax-credit-form.md
+        - name: "Asesoría de partner de Office 365: Microsoft\_365 Business Voice en el programa CSP"
+          href: o365-partner-advisory.md
+    - name: Solicitar un crédito de contrato de nivel de servicio de Microsoft
+      href: request-credit.md
+    - name: Establecer un presupuesto de gastos de Azure para tus clientes
+      href: set-an-azure-spending-budget-for-your-customers.md
+    - name: 'Administración de los impagos, fraudes o usos incorrectos'
+      href: non-payment--fraud--or-misuse.md
+    - name: Administrar pagos sin asignar
+      href: unallocated-payment.md
+- name: Conexión con los clientes
+  href: customer-accounts.md
+  items:
+    - name: Agregar un cliente nuevo
+      href: add-a-new-customer.md
+    - name: Solicitar una relación de revendedor con un cliente
+      href: request-a-relationship-with-a-customer.md
+    - name: Quitar una relación de revendedor con un cliente
+      href: remove-a-relationship.md
+    - name: Los clientes delegan o revocan privilegios administrativos en los asociados
+      href: customers-revoke-admin-privileges.md
+    - name: Consulta de la lista de clientes
+      href: see-your-customer-list.md
+    - name: Ver los registros de actividades de los clientes
+      href: activity-logs.md
+    - name: Actualizar la información de la cuenta de cliente
+      href: update-customer-account-info.md
+    - name: Permitir que los clientes compren sus propios servicios
+      href: give-customers-permission.md
+    - name: Procedimiento para agregar varios usuarios para un cliente
+      href: adding-multiple-users-to-a-customer-account.md
+    - name: Campos obligatorios para que el archivo importe varios usuarios para una cuenta de cliente
+      href: file-customer-users.md
+    - name: Asignar contactos de soporte técnico
+      href: assign-support-contacts.md
+- name: ofertas de CSP
+  href: csp-offers.md
+  items:
+    - name: Marketplace comercial
+      items:
+        - name: Introducción a Marketplace comercial
+          href: csp-commercial-marketplace-overview.md
+        - name: Descubrir ofertas de Marketplace
+          href: csp-commercial-marketplace-discover.md
+        - name: Adquirir ofertas de Marketplace
+          href: csp-commercial-marketplace-purchase.md
+        - name: Ofertas exclusivas de Marketplace de fabricantes de software independientes
+          href: isv-opt-in.md
+        - name: Administrar ofertas de Marketplace
+          href: csp-commercial-marketplace-manage.md
+        - name: Facturación de ofertas de Marketplace
+          href: csp-commercial-marketplace-billing.md
+        - name: Soporte para ofertas de Marketplace
+          href: csp-commercial-marketplace-support.md
+        - name: Contratos para compras de Marketplace
+          href: csp-commercial-marketplace-contracting.md
+    - name: Reservas de Azure
+      href: azure-reservations.md
+      items:
+        - name: Cambio de tamaño de la máquina virtual para el uso máximo de reserva
+          href: azure-usage.md
+        - name: Comprar reservas de Microsoft Azure en nombre de los clientes
+          href: azure-reservations-buying.md
+        - name: Administrar reservas de Microsoft Azure en nombre de los clientes
+          href: azure-reservations-manage.md
+        - name: Azure Reserved VM Instances (RI) + suscripciones de servidor
+          href: azure-ri-server-subscriptions.md
+    - name: Servicios de Azure disponibles en el programa CSP de Azure
+      href: azure-plan-available.md
+    - name: Plan de Azure
+      href: azure-plan-lp.md
+      items:
+        - name: 'Plan de Azure: introducción'
+          href: azure-plan-get-started.md
+        - name: Compra del plan de Azure
+          href: purchase-azure-plan.md
+        - name: Comparar ofertas de Azure
+          href: compare-azure-offers.md
+        - name: Transición de clientes al plan de Azure
+          href: azure-plan-transition.md
+        - name: 'Créditos obtenidos del partner: introducción'
+          href: partner-earned-credit.md
+        - name: Cómo se calcula y paga el crédito que obtiene el partner
+          href: partner-earned-credit-explanation.md
+        - name: Roles y permisos para créditos obtenidos del partner
+          href: azure-roles-perms-pec.md
+        - name: 'Nueva experiencia comercial en CSP: facturación de Azure'
+          href: azure-plan-billing.md
+        - name: Lista de precios para la nueva experiencia comercial en CSP para Azure
+          href: azure-plan-price-list.md
+        - name: Administración de suscripciones y recursos en el plan de Azure
+          href: azure-plan-manage.md
+        - name: Restablecer los privilegios de administrador para las suscripciones de Azure CSP
+          href: revoke-reinstate-csp.md
+    - name: Suscripciones de software
+      href: csp-software-subscriptions.md
+    - name: Venta de software local a través del programa CSP
+      href: csp-on-premise-software.md
+    - name: Servicios en línea (suscripciones)
+      href: customer-subscriptions.md
+      items:
+        - name: 'Crear, suspender o cancelar suscripciones de clientes'
+          href: create-a-new-subscription.md
+        - name: Usar promociones para atraer a nuevos clientes
+          href: promotions.md
+        - name: Ofrecer a los clientes pruebas de productos de Microsoft
+          href: offer-your-customers-trials-of-microsoft-products.md
+        - name: Vender suscripciones a productos de Marketplace comercial
+          href: sell-marketplace-products.md
+        - name: Asignar suscripciones de Azure en el Centro de partners
+          href: assign-azure-subscriptions.md
+        - name: Asignación de licencias a usuarios
+          href: assign-licenses-to-users.md
+        - name: Agregar licencias o servicios a una suscripción existente
+          href: add-licenses-or-services-to-an-existing-subscription.md
+        - name: Asignar o revocar licencias a varios usuarios
+          href: bulk-license-provisioning-for-multiple-users.md
+        - name: Mover los clientes de servicios basados en licencias al Programa Proveedor de servicios en la nube
+          href: transition-seat-based-services.md
+        - name: 'Vender Minecraft: Suscripciones a Education Edition'
+          href: minecraft-subscriptions.md
+        - name: Vender en sectores especializados
+          href: Get-special-pricing-for-offers.md
+        - name: Vender a clientes del sector de la educación
+          href: sell-to-education-customers.md
+        - name: Aumentar la adopción y la satisfacción
+          href: increasing-adoption-and-satisfaction.md
+        - name: Simplificar la configuración de dispositivos con Windows Autopilot
+          href: autopilot.md
+    - name: Actualizar o transferir ofertas a versiones más recientes
+      items:
+        - name: Actualizar suscripciones de Dynamics AX a Dynamics 365
+          href: manual-subscription-migration.md
+        - name: Migración de ofertas de Dynamics 365 Business Edition a versiones más recientes
+          href: migrate-dynamics-365-to-new.md
+        - name: Migrar de suscripciones de Office 365 Enterprise E4 a versiones más recientes
+          href: migrate-office365-e4-subscriptions-to-newer-versions.md
+        - name: Migrar el plan 1 de Skype Empresarial Online a las versiones más recientes de Office 365
+          href: skype-retiring.md
+        - name: Transferir suscripciones de Azure
+          href: switch-azure-subscriptions-to-a-different-partner.md
+        - name: "Migración de suscripciones de Kaizala Pro a Microsoft\_365"
+          href: migrate-kaizala-pro-partner.md
+    - name: "Asesores que venden Office\_365"
+      items:
+        - name: "Creación de una invitación a una evaluación de Office\_365"
+          href: advisors-create-a-trial-invitation.md
+        - name: "Incorporación de clientes con ofertas de evaluación de Office\_365"
+          href: advisors-build-your-business.md
+        - name: "Creación de una oferta de compra de Office\_365"
+          href: advisor-create-a-purchase-offer.md
+- name: Análisis y datos del Centro de partners
+  items:
+    - name: Obtener acceso a análisis y datos de usuario
+      href: data-analysis-lp.md
+    - name: "Aplicación de análisis del Centro de partners para Power\_BI"
+      items:
+        - name: "Introducción a la Aplicación de análisis del Centro de partners para Power\_BI"
+          href: power-bi-app-for-direct-partners.md
+        - name: "Instalación de la Aplicación de análisis del Centro de partners para Power\_BI"
+          href: power-bi-app-for-direct-partners-install.md
+        - name: "Uso de la Aplicación de análisis del Centro de partners para Power\_BI"
+          href: power-bi-app-for-direct-partners-use.md
+    - name: Información acerca del Centro de partners
+      href: partner-center-insights.md
+      items:
+        - name: 'Conclusiones: panel de información general'
+          href: pci-overview-report.md
+        - name: 'Conclusiones: control de acceso basado en roles para el panel de conclusiones'
+          href: pci-roles.md
+        - name: 'Conclusiones: panel del cliente'
+          href: pci-customer-report.md
+        - name: 'Conclusiones: panel de suscripciones de productos'
+          href: pci-product-subscriptions-report.md
+        - name: 'Conclusiones: panel de licencias de productos'
+          href: pci-product-licenses-report.md
+        - name: 'Conclusiones: panel de uso de Azure'
+          href: pci-azure-usage-report.md
+        - name: 'Conclusiones: panel de entrenamiento'
+          href: pci-training-dashboard.md
+        - name: 'Conclusiones: informe de competencias'
+          href: pci-competencies-report.md
+        - name: 'Conclusiones: informe de ventajas'
+          href: pci-benefits-report.md
+        - name: 'Conclusiones: problemas conocidos'
+          href: pci-known-issues.md
+        - name: 'Conclusiones: descargar informes'
+          href: pci-download-reports.md
+    - name: Indicadores de contribución de partners
+      href: partner-contribution-indicators.md
+    - name: Obtener datos sobre el uso de las suscripciones de Azure de tus clientes
+      href: analyze-azure-usage.md
+    - name: Analizar el rendimiento de los revendedores indirectos
+      href: analyze-indirect-resellers.md
+    - name: Analizar suscripciones y licencias
+      href: analyze-subscriptions-licenses.md
+- name: Trabajar con otros partners
+  href: work-with-other-partners.md
+  items:
+    - name: Tareas de proveedor indirecto en el Centro de partners
+      href: indirect-provider-tasks-in-partner-center.md
+    - name: Tareas de revendedor indirecto del Centro de partners
+      href: indirect-reseller-tasks-in-partner-center.md
+    - name: Relaciones de partners de CSP admitidas
+      href: csp-supported-partner-relationships.md
+    - name: Soporte técnico multicanal
+      href: multichannel.md
+    - name: Soporte técnico multipartner
+      href: multipartner.md
+- name: Obtención de soporte técnico de Microsoft
+  href: support-from-microsoft.md
+  items:
+    - name: Informar sobre problemas con el Centro de partners
+      href: report-problems-with-partner-center.md
+    - name: Notificar problemas en nombre de un cliente
+      href: report-problems-on-behalf-of-a-customer.md
+    - name: Obtener notificaciones de servicio automatizadas con nuestras API
+      href: get-automated-service-notifications-with-our-apis.md
+- name: Proporcionar soporte técnico a tus clientes
+  href: customer-support.md
+  items:
+    - name: Comprobación del estado del servicio
+      href: check-service-health.md
+    - name: Proporcionar soporte técnico sobre la facturación
+      href: provide-billing-support.md
+    - name: Proporcionar soporte técnico
+      href: provide-technical-support.md
+    - name: Comunicación con el cliente de Microsoft
+      href: customer-communication-from-microsoft.md
+    - name: Autoservicio de soporte técnico al cliente
+      href: customer-self-support.md
+    - name: Remitir problemas a Microsoft
+      href: escalate-problems-to-microsoft.md
+- name: Requisitos de seguridad
+  items:
+    - name: Información general
+      href: partner-security-requirements.md
+    - name: Requerir MFA para el inquilino del asociado
+      href: partner-security-requirements-mandating-mfa.md
+    - name: Estado de los requisitos
+      href: partner-security-compliance.md
+    - name: Preguntas más frecuentes
+      href: partner-security-requirements-faq.md
