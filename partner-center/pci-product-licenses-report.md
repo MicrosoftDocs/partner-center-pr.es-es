@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444838"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239053"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Informe de licencias de producto en el panel del centro de Partners Insights
 
@@ -83,3 +83,6 @@ Esta vista muestra un desglose de las licencias de cliente por país o región d
 ## <a name="next-steps"></a>Pasos siguientes
 
 Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).
+
+>[!NOTE] 
+> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md)

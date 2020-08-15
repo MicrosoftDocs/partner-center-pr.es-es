@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436674"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239063"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel de Partner Center Insights
 
@@ -110,3 +110,6 @@ Los dos gráficos circulares muestran un desglose de las suscripciones de los cl
 ## <a name="next-steps"></a>Pasos siguientes
 
 - Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).
+
+>[!NOTE] 
+> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md) 

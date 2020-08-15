@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434464"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239033"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Informes del panel de clientes de información del centro de Partners
 
@@ -96,3 +96,6 @@ Gráfico de tendencias mensuales que compara los clientes activos y totales para
 ## <a name="next-steps"></a>Pasos siguientes
 
 Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).
+
+>[!NOTE] 
+> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md) 
