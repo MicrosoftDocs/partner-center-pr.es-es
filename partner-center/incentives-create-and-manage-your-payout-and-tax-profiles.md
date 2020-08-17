@@ -1,19 +1,19 @@
 ---
 title: Crear y administrar perfiles de pago y impuestos en el Centro de partners
 ms.topic: how-to
-ms.date: 06/29/2020
+ms.date: 08/13/2020
 description: Antes de que pueda pagar por su trabajo de incentivos, debe crear los perfiles de pago y fiscal.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546046"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303281"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Perfiles fiscales y de pago en el Centro de partners
 
@@ -21,13 +21,37 @@ Se aplica a:
 
 - Centro de partners
 
-Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil fiscal y de pago para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
+Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil de pago e impuestos para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
 
 Roles adecuados:
 
 - Administrador de incentivos
 - Administrador de facturación
 - Administrador global
+
+## <a name="roles-currencies-and-other-microsoft-programs"></a>Roles, monedas y otros programas de Microsoft
+
+Es importante comprender la información siguiente antes de empezar a trabajar con el pago y el perfil fiscal.
+
+### <a name="roles-and-permissions"></a>Roles y permisos
+
+Debe ser un administrador de incentivos para introducir información bancaria y fiscal para los pagos de incentivos. Si es un administrador de la cuenta o MPN, puede asignarse a usted mismo o a un colega para que sea el administrador de incentivos.
+
+Si necesita solicitar permisos de administrador de incentivos, póngase en contacto con el administrador de MPN o el administrador global. Puede averiguar qué usuarios de su empresa tienen estos roles en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/). En el icono de **configuración** de la parte superior derecha, seleccione **Administración de usuarios** y, a continuación, filtre en administrador global.
+
+Incentivos: los usuarios pueden ver los ingresos y los informes de beneficios y de pago, pero no pueden editar los detalles de los bancos y los impuestos.
+
+### <a name="choose-your-disbursement-currency"></a>Elegir la moneda de desembolso
+
+De forma predeterminada, los pagos de incentivos se realizan en la moneda local de cada entidad respectiva. Puede especificar una moneda diferente durante la configuración del perfil. Los pagos se calcularán usando una tasa de cambio de acuerdo con la configuración mensual de Microsoft. Será responsable de cualquier cambio en el valor debido a la moneda seleccionada.
+
+### <a name="bank-and-tax-information-and-other-programs"></a>Información bancaria y fiscal y otros programas
+
+Proporcione la información que se describe a continuación aunque Microsoft ya use los datos bancarios para los pagos. Esto ayuda a garantizar la privacidad y la seguridad de los datos de su empresa, ya que copiar el perfil en la nueva herramienta podría exponer información confidencial. Seguir este proceso también es una buena oportunidad para asegurarse de que los datos estén completos y sean precisos.
+
+### <a name="using-different-profiles-for-different-microsoft-programs"></a>Usar perfiles diferentes para distintos programas de Microsoft
+
+Dentro del minorista, los pagos por cada uno de los cinco programas de incentivos comerciales pueden dirigirse a la misma cuenta bancaria. Como alternativa, puede elegir que los pagos de Xbox minorista se dirijan a una cuenta bancaria mientras que la oficina de venta directa se paga a una cuenta bancaria diferente.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y impuestos en el Centro de partners
 
@@ -38,10 +62,10 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Acceder a la sección de impuestos y pago en el centro de Partners
 
-1. Inicie sesión en el centro de partners mediante su cuenta de AAD (cuenta de la compañía) o la dirección de correo electrónico adecuada si se asignó alguna. 
+1. Inicie sesión en el centro de partners mediante su cuenta de Azure Active Directory (Azure AD) (cuenta de la compañía) o la dirección de correo electrónico adecuada si se asignó alguna. 
 
-   - Se pueden registrar varios dominios en una cuenta de AAD. Póngase en contacto con el administrador global para determinar qué dominios están asociados.
-   - Si solo puede iniciar sesión con el **@onmicrosoft.com** dominio, póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
+   - Se pueden registrar varios dominios en una cuenta de Azure AD. Póngase en contacto con el administrador global para determinar qué dominios están asociados.
+   - Si solo puede iniciar sesión con el @onmicrosoft.com dominio, póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de Azure ad.
    - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal**, seleccione **cuenta profesional o educativa**.
 
 2. Seleccione el icono de engranaje para abrir el menú de **configuración** y, a continuación, seleccione **configuración de socio comercial**.
@@ -60,9 +84,9 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 4. Seleccione el **método de pago**.
 
-   - Si seleccionó **transferencia bancaria electrónica** como método de pago, en la lista desplegable Perfil de pago, seleccione el perfil de pago que desee o seleccione la opción para crear un nuevo perfil. Al seleccionar la opción para crear un nuevo perfil, se le redirigirá adecuadamente.  Seleccione continuar en la ventana emergente. A continuación se proporciona el proceso para crear un nuevo perfil de pago.
+   - Si ha seleccionado **transferencia bancaria electrónica** como método de pago, seleccione el perfil de pago que desee o seleccione la opción para crear un nuevo perfil. Al seleccionar la opción para crear un nuevo perfil, se le redirigirá adecuadamente. Seleccione continuar en la ventana emergente. A continuación se proporciona el proceso para crear un nuevo perfil de pago.
 
-   - Si ha seleccionado **Nota de crédito** como método de pago, complete la comprobación para confirmar que el número de SAP al que se hace referencia pertenece a su organización.
+   - Si ha seleccionado **Nota de crédito** como método de pago, complete la comprobación. Esto confirma que el número de SAP al que se hace referencia pertenece a su organización.
 
     >[!NOTE]
     >Si hay varias entidades comerciales de Microsoft en la lista, debe seleccionar un perfil de pago para cada entidad.
@@ -76,30 +100,30 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 ## <a name="create-your-bank-profile"></a>Crear el perfil de Banco
 
-Los perfiles de banco se crean en el nivel de organización, lo que permite asignar el mismo perfil de banco en varios programas de ID. de MPN y programas de incentivos dentro de una organización. Puede haber excepciones al aplicar el perfil de banca a distintos países, ya que se pueden aplicar diferentes reglas de banca y impuestos.
+Los perfiles de banco se crean en el nivel de organización. Esto permite asignar un perfil de banco a través de varios programas de ID. de MPN y de incentivos dentro de una organización. Puede haber excepciones al aplicar el perfil de banca a distintos países, ya que se pueden aplicar diferentes reglas de banca y impuestos.
 
 >[!NOTE]
 >En las páginas siguientes, los campos con un asterisco son obligatorios. Si no sabe qué es un campo, seleccione el icono de información. 
 
 1. En la página **detalles** , complete los siguientes campos: **nombre del perfil:** escriba un nombre único para identificar este perfil de pago.
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
-    **Método de pago:** El método de pago preferido es para el centro de Partners es transferencia bancaria electrónica.
+    **Método de pago:** El método de pago preferido para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Siguiente**.
+2. Seleccione **Next** (Siguiente).
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Siguiente**.
+4. Seleccione **Next** (Siguiente).
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
 6. Una vez completados los campos, seleccione **Finalizar**y, a continuación, seleccione **confirmar** para crear el perfil de banco.
 
-Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Esto puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción**, repita los pasos anteriores y proporcione la información necesaria. 
+Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Este proceso puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción**, repita los pasos anteriores y proporcione la información necesaria. 
 
 ## <a name="create-your-tax-profile"></a>Crear el perfil de impuestos
 
-Utilice el procedimiento siguiente para proporcionar a Microsoft la información fiscal necesaria para su organización. Las páginas de esta sección son dinámicas y variarán según el país o la región. Si necesita ayuda para identificar la información fiscal correcta, póngase en contacto con los orígenes de gobierno correspondientes de su país.
+Utilice el procedimiento siguiente para proporcionar a Microsoft la información fiscal necesaria para su organización. Las páginas de esta sección son dinámicas y variarán en función de su país o región. Si necesita ayuda para identificar la información fiscal correcta, póngase en contacto con los orígenes de gobierno correspondientes de su país.
 
 En el caso de las empresas asociadas de la América, si necesita información sobre la finalización de los formularios W8 o W9, las siguientes direcciones le llevan al sitio de IRS:
 
@@ -113,10 +137,10 @@ En el caso de las empresas asociadas de la América, si necesita información so
 
 2. En la página **instalación** , seleccione la opción que se aplica a su compañía.
 
-   - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo. 
+   - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo.
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Siguiente**. 
+3. Seleccione **Next** (Siguiente). 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 
@@ -130,46 +154,6 @@ En el caso de las empresas asociadas de la América, si necesita información so
 
 9. Seleccione **confirmar** en el mensaje emergente. Volverá a la página de configuración de **pagos y impuestos** .
 
-## <a name="payout-and-tax-profile-faqs"></a>Preguntas más frecuentes sobre el pago y el perfil fiscal
+## <a name="next-steps"></a>Pasos siguientes
 
-### <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>¿Por qué es necesario proporcionar los detalles de pago o de impuestos?
-
-Con el fin de recibir pagos de los programas de incentivos de Microsoft, debe completar la inscripción proporcionando detalles de pago e impuestos válidos. Una inscripción se considera completa solo cuando Microsoft valida el pago y el perfil fiscal que proporcione.
-
-### <a name="how-do-i-know-that-i-need-to-provideupdate-my-payout-andor-tax-details"></a>Cómo sabe que necesito proporcionar o actualizar los datos de pago o de impuestos?
-
-Todos los asociados que se inscriben en un nuevo programa de incentivos deben proporcionar detalles de pago e impuestos válidos para completar la inscripción.
-
-Es posible que también tenga que proporcionar información actualizada si cambian las reglas para el programa de incentivos, o si los aspectos del perfil expiran o se vuelven obsoletos. Si esto ocurre, la página de información general mostrará el estado **acción requerida-actualizar banco o Perfil de impuesto**.
-
-### <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Cómo proporciono o actualizo mis datos de pago o fiscales?
-
-Para obtener información detallada sobre cómo actualizar los detalles de pago y de impuestos en el centro de Partners, consulte [creación y administración de perfiles bancarios y de impuestos en el centro de Partners](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center) .
-
-### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>¿Por qué no veo mis inscripciones cuando me quiero asignar mi perfil de pago y fiscal?
-
-Solo los administradores de incentivos de la ubicación de MPN pueden crear o administrar perfiles fiscales y de pago. Podría ser que no tuviera los permisos adecuados o que haya iniciado sesión con una cuenta que no tenga estos permisos. Póngase en contacto con el administrador de la organización para administrar los permisos bancarios y fiscales.
-
-### <a name="where-can-i-see-the-payout-and-tax-profiles-for-my-organization-that-i-can-use"></a>¿Dónde puedo ver los perfiles fiscales y de pago de mi organización que puedo usar?
-
-Use el procedimiento siguiente para ver los perfiles de pago y impuestos:
-
-1. Inicie sesión en Centro de partners.
-
-2. Seleccione el icono de engranaje para abrir el menú **Configuración**.
-
-3. Seleccione **configuración de socio comercial**.
-
-4. En **Configuración de cuenta**, seleccione **Pago e impuestos** y, a continuación, seleccione **Perfiles fiscales y de pago**. Verá todos los perfiles fiscales y de pago existentes junto con el estado y la capacidad de edición.
-
-### <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Mi organización participa en varios programas de incentivos. ¿Es necesario proporcionar el perfil de pago y de impuestos varias veces?
-
-Con los perfiles de pago, depende de usted. Los perfiles de pago se crean en el nivel de la organización, lo que permite asignar el mismo perfil bancario en varios programas de identificador de MPN y programas de incentivos dentro de una organización. En la mayoría de los casos, puede volver a usar un perfil existente o crear uno nuevo.
-
-No obstante, puede haber excepciones al aplicar el perfil bancario a distintos países o regiones, ya que se pueden aplicar reglas bancarias o fiscales.
-
-Los perfiles fiscales creados para una ubicación de MPN se reutilizan y se rellenan automáticamente cuando la misma ubicación de MPN participa en otro programa de incentivos. Pero puede haber excepciones. Por ejemplo, las reglas de pago de un nuevo programa de incentivos pueden requerir detalles adicionales para el perfil fiscal.  
-
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
-
-Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
+- [Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal](incentives-payout-tax-profile-faqs.md)

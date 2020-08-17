@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Recopile y cree la información necesaria para generar un plan de marketing correcto para su programa de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546026"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303251"
 ---
 # <a name="create-your-plan"></a>Crear el plan
 
