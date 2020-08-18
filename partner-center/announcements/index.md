@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220207"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303291"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de agosto de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Actualizaciones de la promoción de Microsoft 365 Voice](2020-august.md#7)|14 de agosto|
 |Funcionalidades|[Versión del SDK en .NET Standard v1.16.1](2020-august.md#6)|12 de agosto|
 |Funcionalidades|[La compra de autoservicio para Microsoft Project y Microsoft Visio estará disponible próximamente](2020-august.md#5)|12 de agosto|
 |Ofertas/mercados|[Ya están disponibles las nuevas SKU de comunicaciones avanzadas de Microsoft Teams](2020-august.md#4)|4 de agosto|

@@ -171,8 +171,6 @@
     - name: Información general sobre referencias
       href: referrals.md
       items:
-        - name: Responder a las referencias
-          href: responding-to-referrals.md
         - name: Administrar el perfil de negocio
           href: create-a-marketing-profile.md
         - name: Administración de clientes potenciales
@@ -193,8 +191,12 @@
       items:
         - name: Introducción a los incentivos
           items:
+            - name: Preguntas más frecuentes
+              href: incentives-faq.md
             - name: Introducción
               href: incentives-get-started-intro.md
+            - name: Inscribirse en el programa de inventivos
+              href: incentives-enroll.md
             - name: Determinar su idoneidad para el programa
               href: incentives-determined-your-program-eligibility.md
             - name: Crear y administrar perfiles de pago y impuestos en el Centro de partners
