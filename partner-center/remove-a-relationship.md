@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811345"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584684"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Cómo quitar una relación de revendedor con un cliente en el centro de Partners
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Cómo quitar una relación de revendedor con un cliente en el Centro de partners
 
 **Se aplica a**
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811345"
 
 En este artículo se describe cómo quitar una relación de revendedor con un cliente en el centro de Partners.
 
-Asociados directos: Si ya no está trabajando con un cliente, puede quitar la relación en el centro de Partners.
+Asociados directos o proveedores indirectos: Si ya no está trabajando con un cliente, puede quitar la relación en el centro de Partners.
 
 Quitar una relación tiene las siguientes consecuencias:
 
-- Quita el cliente de la lista de clientes del centro de Partners.
+- Quita el cliente de la lista de clientes del Centro de partners.
 - Le quita de la [lista de contactos de soporte técnico disponibles](assign-support-contacts.md) para su cliente
-- Quita los privilegios de administrador de delegación para el cliente
-- Impide realizar compras futuras para el cliente
+- Quita los privilegios de administrador de delegación para el cliente.
+- Impide realizar compras futuras para el cliente.
 
 ## <a name="how-to-remove-a-relationship"></a>Cómo quitar una relación
 
