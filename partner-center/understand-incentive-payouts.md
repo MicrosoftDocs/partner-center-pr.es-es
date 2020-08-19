@@ -1,7 +1,7 @@
 ---
 title: Ver los detalles del programa y el incentivo
 ms.topic: article
-ms.date: 08/03/2020
+ms.date: 08/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use estas páginas para ver, administrar y exportar los datos de pago y ganancias, así como el estado del programa y el historial de transacciones completo.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
+ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545956"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "88560223"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -82,14 +82,14 @@ Para acceder a la **información general de mis incentivos**:
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
 | Inscrito  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inscribiendo  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
-| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al hacer clic en el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción, se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. |
+| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 
 ## <a name="payments-page"></a>Página Pagos
 Los totales de esta página representan todos los identificadores de MPN que se usan. Puede filtrar por identificador de participante, programa, identificador de pago y tipo de ganancia. Los importes se indican en dólares estadounidenses. El valor de pago también se muestra en la moneda del destinatario del pago.
 
-|**Área**   |**Descripción**    |
+|**Ámbito**   |**Descripción**    |
 |------------------|:-------------------------------------|
 |Total pagado este año        |El total combinado abonado a su año, en dólares estadounidenses, para todos los identificadores de MPN.                                      |
 |Siguiente pago estimado      |El siguiente pago que le llega (incluso si hay otros que próximamente), en dólares estadounidenses.                                     |
@@ -105,6 +105,36 @@ En esta página se muestran todas sus ganancias individuales, incluidos la fecha
 Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se encuentra en el lado derecho de la página. Si lo hace, se mostrará la palanca, el importe de los ingresos, el producto y el cliente. Si, por alguna razón, alguno de estos datos no está disponible, pero necesita acceder a él, póngase en contacto con el soporte técnico. Si la ganancia es el resultado de un ajuste, y no una transacción, no se mostrarán los campos producto y cliente.
 
 Para exportar cualquiera de los datos de la transacción en esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos. Los archivos exportados desde la página Historial de transacciones muestran los datos en la moneda de la transacción, las ganancias en la moneda de la transacción y en dólares estadounidenses, y el valor de pago en la moneda del destinatario del pago.
+
+### <a name="estimated-payment-month"></a>Mes de pago estimado
+
+La página historial de transacciones incluye ahora una tabla que muestra los importes de pago estimados durante los próximos meses. También puede ver y descargar esta información en las exportaciones historial de transacciones y informe de resumen. Esta información facilita la conciliación y las proyecciones de pago.
+
+El mes de pago estimado se calcula en función de las reglas de configuración del programa y de las escalas de tiempo, y se procesa en el siguiente ciclo de pago o próximo.
+
+El mes de pago estimado está disponible actualmente para todos los tipos de obtención, excepto la cooperación, que se mostrará como **no aplicable**. En el caso de las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá como **no disponible**.
+
+#### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
+
+| Month | Amount |
+| ------ | :-----------: |
+|  Sep-2020 |  $7.273,99   |
+|  Oct-2020 | $8.692,30  |
+|  Nov-2020 | $107,89  |
+
+El importe estimado puede variar con respecto a la cantidad real por diversos motivos:
+
+- Obteniendo restateización: si se vuelven a calcular las ganancias, el importe real será diferente.
+- Ajustes: la cantidad real varía en función de los ajustes que se produjeron o se enviaron.
+- Cambio de reglas: un cambio en las reglas puede reflejar el recálculo en la cantidad real pagada
+- Pagadera: si se produce un error de pago, la cantidad real podría ser diferente
+
+Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las reglas de elegibilidad de pago y umbral del programa. Estas reglas incluyen, entre otras, la siguiente lista:
+
+- Su perfil fiscal debe estar actualizado
+- Los beneficios deben cumplir o superar el umbral de ganancia mínimo definido en la guía de programas.
+- Pago en espera: Si selecciona la opción "mantener el pago" en la página asignación de perfiles.
+- El instrumento de pago no está disponible: no se ha completado el perfil de pago o de impuestos.
 
 ## <a name="payment-status"></a>Estado del pago.
 
@@ -178,6 +208,7 @@ Esta opción proporciona la descarga de cada artículo de línea de ganancia que
 |earningId   |Identificador único de cada ganancia.   |
 |earningRate   |Tasa de incentivos aplicada sobre el importe de la transacción para generar una ganancia.   |
 |earningType   |Indica si se trata de una cuota, un descuento, una Co-op, una venta, etc.   |
+|Mes de pago estimado   |El mes de pago previsto con la cantidad estimada, siempre que se cumplan las reglas umbral mínimo y elegibilidad del pago.   |
 |exchangeRateDate   |Fecha del tipo de cambio usada para calcular earningAmountUSD.   |
 |lastPaymentCurrency   |La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.   |
 |lever   |Indica la regla de negocios de la ganancia.   |
@@ -220,7 +251,7 @@ Además de la tabla anterior, estos campos de historial de transacciones estará
 ## <a name="transaction-summary-report"></a>Informe de Resumen de transacciones
 
 >[!NOTE]
->El informe Resumen de transacciones no mostrará todos los programas o las ganancias. Se trata de un resumen que solo se centra en las palancas agregadas. Para ver las transacciones individuales, descargue el [Informe de historial de transacciones](#transaction-history-page).
+>El informe Resumen de transacciones no mostrará todos los programas o las ganancias. Se trata de un resumen que solo se centra en las palancas agregadas. 
 
 El informe de Resumen de transacciones proporciona los detalles de la transacción de nivel de Resumen, incluidos los nombres de cliente y los ID. de suscripción, para las palancas de obtención agregada. El informe implica cada identificador de obtención asociado a varias transacciones. El importe total de la ganancia y los detalles de ganancias para ese ID. de obtención se repiten para cada cliente o suscripción. Esto se debe a que los incentivos para las palancas agregadas se obtienen colectivamente, no por suscripción.
 
@@ -251,6 +282,7 @@ El informe de Resumen de transacciones proporciona los detalles de la transacci�
 |  earningAmountUSD | Importe en USD  |
 |  earningDate | Fecha de la ganancia.  |
 |  earningExchangeRate | Tipo de cambio usado para mostrar el importe en USD correspondiente.  |
+|Mes de pago estimado   |El mes de pago previsto con la cantidad estimada, siempre que se cumplan las reglas umbral mínimo y elegibilidad del pago.   |
 |  exchangeRateDate | Fecha del tipo de cambio usada para calcular earningAmountUSD.  |
 |  transactionMonth |  Mes de transacción   |
 |  transactionCurrency | Moneda en la que se produjo la transacción de cliente original  |
