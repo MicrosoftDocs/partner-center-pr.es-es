@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811325"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781837"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811325"
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de [problemas de escalado a Microsoft](escalate-problems-to-microsoft.md), puede presentar una incidencia de soporte técnico para ellos. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude. 
+**Roles adecuados**
+
+- Proveedor indirecto
+
+Si el cliente tiene un problema de servicio que no puede resolver y cumple los criterios descritos en el nivel de [problemas de escalado a Microsoft](escalate-problems-to-microsoft.md), el proveedor indirecto puede presentar una incidencia de soporte técnico para ellos. Este proceso también es útil para escalar los problemas o conflictos de facturación y cuestiones de fraude.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Enviar una solicitud de servicio para un cliente
 
@@ -41,7 +45,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y cumple los c
 > [!IMPORTANT]
 > Cuando necesites crear una solicitud de servicio para tu cliente en Azure, ten en cuenta que:
 >
->- Para que puedas crear solicitudes de servicio para tu cliente en Azure, el proveedor indirecto debe concederte acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365.
+>- Para que usted, como revendedor indirecto, cree solicitudes de servicio para su cliente en Azure, el proveedor indirecto debe concederle acceso a la cuenta de Azure del cliente. Esto es diferente de la administración en nombre de los clientes de Office 365.
 >
 >- Aunque el administrador del departamento de soporte técnico del Centro de partners no puede crear solicitudes de servicio en el portal de servicios de Azure, lo que sí que puede hacer es crear un grupo de soporte técnico en el portal de servicios de Azure y conceder a ese grupo permisos para registrar solicitudes de soporte técnico.
 
