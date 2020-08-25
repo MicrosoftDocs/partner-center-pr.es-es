@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560223"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799830"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -80,7 +80,7 @@ Para acceder a la **información general de mis incentivos**:
 |:------------------------------------|:------------------|
 | Acción requerida  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
-| Inscrito  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
+| Inscritos  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inscribiendo  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
 | Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
@@ -198,6 +198,14 @@ Esta opción proporciona la descarga de cada artículo de línea de ganancia que
 
 |**Nombre de la columna**   |**Descripción**   |
 |------------------|:-------------------------------------|
+| Compatibilidad de AR | Ajuste que reduce las ganancias cuando el asociado no paga las facturas de Microsoft por el tiempo |
+| Sustitución de la Co-op | Ajuste que transfiere las ganancias de la Co-op a otro período o convierte las ganancias de la Co-op al tipo de descuento |
+| Ajuste de operaciones de cálculo incorrecto de Microsoft | Ajuste que corrige los cálculos erróneos |
+| Ajuste de operaciones de inscripción incorrecta de Microsoft | Ajuste para los cálculos erróneos relacionados con la inscripción |
+| Excepción de Directiva | Ajuste que invalida una regla de programa  |
+| Ajuste de operaciones | Ajuste que corrige los errores de cálculo del sistema de Microsoft |
+| Ingresos del período anterior | Ajuste para ganancias fuera del período actual de obtención |
+| Asignación de asociados (suscripción) MCI/CSP | Ajuste que corrige la desalineación de la suscripción |
 |customerId   |Identificador de cliente   |
 |customerName   |Nombre del cliente de transacción   |
 |earningAmount   |Ganar importe en la moneda de la transacción original   |
@@ -267,7 +275,7 @@ El informe de Resumen de transacciones proporciona los detalles de la transacci�
 >[!NOTE]
 >El informe de Resumen de transacciones no incluirá información de clientes y suscripciones para las suscripciones más recientes que 60 días, o si los ingresos de consumo son inferiores a un cent.
 
-|Nombre de la columna |Descripción |
+|Nombre de columna |Descripción |
 |------ |:-----------|
 |  earningId | Identificador único de cada ganancia.  |
 |  participantId | Identidad principal del asociado que gana con el programa.  |
