@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527021"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942567"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Obtenga una especialización avanzada para exhibir su experiencia y resaltar a los clientes. 
 
@@ -38,6 +38,7 @@ Hasta que haya cumplido todos los requisitos previos, su estado **no se iniciar�
 - Migración del almacenamiento de datos a Microsoft Azure
 - Kubernetes en Microsoft Azure
 - Modernización de aplicaciones web para Microsoft Azure
+- Windows Virtual Desktop
 
 
 Cuando haya completado todos los requisitos, su estado será **activo**. Estado activo habilita automáticamente una etiqueta en el **Perfil de negocio** que es visible para todos los clientes que buscan [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home).

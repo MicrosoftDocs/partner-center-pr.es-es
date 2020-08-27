@@ -1,7 +1,7 @@
 ---
 title: Creación de una asociación de cliente a través del modelo CPOR
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Cree asociaciones de cliente a través del modelo CPOR (reclamando el asociado de registro). Ayuda a administrar las ventas, el uso, los incentivos de & para los clientes de Microsoft 365 y Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811185"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942557"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creación de una asociación de cliente a través del modelo CPOR: uso para Microsoft 365 y Dynamics 365 clientes
 
@@ -23,6 +23,8 @@ ms.locfileid: "87811185"
 - Centro de partners
 
 El 1 de octubre de 2019, Microsoft comenzó a usar el modelo de reclamaciones de registro de registros (CPOR) para administrar las asociaciones que tiene con sus clientes de Microsoft 365 y Dynamics 365 con respecto a los incentivos de los servicios en línea (OSA), el uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business Application.
+
+>[! Importante:] las notificaciones de Asociación de cliente (CPOR) solo se aplican a los programas de incentivos de la aplicación de servicio en línea (OSA), uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Si va a enviar una notificación de cooperación para otro programa, como proveedor de soluciones en la nube, revendedor administrado, hospedaje o Surface, consulte el proceso de notificaciones de la Co-op que se describe aquí.
 
 Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
 
