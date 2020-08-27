@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998392"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846925"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Renueve las ofertas de MPN para Microsoft Action Pack y las competencias durante la ventana de renovación
 
-**Se aplica a**
+### <a name="applies-to"></a>Se aplica a
 
 - Centro de partners
 
-Microsoft Action Pack y las competencias son ofertas para los miembros de Microsoft Partner Network que requieren una renovación anual. La ventana de renovación comienza un día después del aniversario de la fecha de compra. Por ejemplo, si compraste Microsoft Action Pack el 1 de septiembre de 2018, tu ventana de renovación comienza el 2 de septiembre de 2019. Puedes renovar Microsoft Action Pack y las competencias en el Centro de partners. En Ofertas de suscripción, encontrarás las ofertas adquiridas y podrás encontrar la fecha de aniversario de las ofertas en la columna de la fecha de inicio de la renovación. La pertenencia a Microsoft Partner Network en sí no requiere una renovación anual. 
+Microsoft Action Pack y las competencias Silver y Gold son ofertas para los miembros de Microsoft Partner Network que requieren una renovación anual. La ventana de renovación comienza un día después del aniversario de la fecha de compra. Por ejemplo, si compraste Microsoft Action Pack el 1 de septiembre de 2018, tu ventana de renovación comienza el 2 de septiembre de 2019. Puedes renovar Microsoft Action Pack y las competencias en el Centro de partners. En Ofertas de suscripción, encontrarás las ofertas adquiridas y podrás encontrar la fecha de aniversario de las ofertas en la columna de la fecha de inicio de la renovación. La pertenencia a Microsoft Partner Network en sí no requiere una renovación anual. 
 
 Para obtener más información, selecciona el vínculo correspondiente a continuación: 
 
@@ -48,14 +48,15 @@ Para ayudarle a centrarse en dar soporte técnico a sus clientes:
 
 - **Si se le ha pasado la ventana de renovación**, puede reactivar la competencia y recuperar el acceso a los recursos y las ventajas mediante el pago de la tarifa en la página Ofertas de suscripción. Esta extensión está disponible hasta el 31 de diciembre de 2020.
 
-### <a name="how-to-view-this-information"></a>Procedimiento para ver esta información
+### <a name="how-to-view-competency-renewal-information"></a>Visualización de la información de renovación de las competencias
 
 1. Desde el menú del Centro de partners en el panel, selecciona **Competencias**.  
 
 2. En la lista de competencias disponibles, tus competencias deben estar marcadas como completadas.  
 
-3. Selecciona el nombre de la competencia. Verás un aviso conforme has obtenido una exención de cumplimiento de los requisitos hasta la próxima fecha de renovación.   
+3. Seleccione una de sus competencias. Verás un aviso conforme has obtenido una exención de cumplimiento de los requisitos hasta la próxima fecha de renovación.
 
 4. Para beneficiarte de esta oferta, ve a **Ofertas de suscripción**. Es posible que debas pagar la tarifa de competencia para completar el proceso, en función del estado de compra o renovación de la competencia. 
 
 Para beneficiarte de la extensión, debes haber migrado la pertenencia de Partner Membership Center (PMC) al Centro de partners para renovar la competencia y pagar la tarifa. Si no has trasladado tu pertenencia, [obtén más información](prepare-pmc-pc-migration.md) y [realiza la transición](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoy mismo.  
+

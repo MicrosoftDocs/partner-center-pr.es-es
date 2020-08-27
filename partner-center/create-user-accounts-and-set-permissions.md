@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527741"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846935"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Creación de cuentas de usuario y asignación de roles y permisos
 
@@ -45,14 +45,28 @@ Crear cuentas de usuario para los empleados que necesitan acceder al Centro de p
 
 El usuario tendrá que iniciar sesión en el Centro de partners con su nombre de usuario y su contraseña temporal. Cuando el usuario inicie sesión en el Centro de partners por primera vez, se le pedirá cambiar la contraseña. 
 
+## <a name="find-the-role-youve-been-assigned"></a>Buscar el rol que se le ha asignado
 
-### <a name="find-your-global-admin"></a>Buscar el administrador global
+Si el administrador global no se lo ha indicado, puede averiguar qué rol tiene en el Centro de partners mediante el siguiente procedimiento:
+
+1. Inicie sesión en el [panel] del Centro de partners https://partner.microsoft.com/dashboard/home).
+
+1. Seleccione el icono de **Configuración de la cuenta** y, a continuación, seleccione **Mi perfil**.
+ 
+1. Seleccione la pestaña **Roles y permisos**. Verá sus roles y permisos.
+ 
+
+>[!Note]
+>Si no ve un programa cuando inicia sesión, normalmente significa que no tiene los permisos correctos para trabajar en ese programa. Por lo tanto, por ejemplo, si no ve la página Incentivos cuando inicia sesión, no tiene permisos para el programa Incentivos. El administrador global puede proporcionarle los permisos necesarios.
+
+
+## <a name="find-your-global-admin"></a>Buscar el administrador global
 
 En ocasiones, es posible que un usuario tenga que cambiar su rol o que un usuario nuevo quiera una asignación de rol específica.  
-Para buscar un administrador global que pueda realizar cambios de rol o asignar roles a un nuevo usuario, desde el **icono de configuración** de la parte superior derecha del Centro de partners, selecciona **Administración de usuarios** y filtra por el administrador global. 
+Para buscar un administrador global que pueda realizar cambios de rol o asignar roles a un nuevo usuario, en el **icono de Configuración de la cuenta** de la parte superior derecha del Centro de partners, seleccione **Administración de usuarios** y filtre por el administrador global, o bien diríjase a **Mi perfil**, seleccione **Roles y permisos** y consulte una lista de los diferentes administradores que pueden ayudarle a elevar sus permisos. 
 
 
-### <a name="new-global-admin"></a>Nuevo administrador global
+## <a name="new-global-admin"></a>Nuevo administrador global
 
 Si el administrador global deja la organización y alguien debe ocupar su rol, puedes enviar una incidencia al equipo de Azure o de Office 365. Para averiguar cómo hacerlo, selecciona una de las opciones siguientes.
 
