@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041110"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056192"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Guía de referencias para la administración de sus ofertas en el centro de Partners, en lugar de en Partner Sales Connect (PSC)
 
@@ -47,7 +47,7 @@ Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si es un administrador de transacciones de PSC o un vendedor
 
 - Necesita un correo electrónico de trabajo para iniciar sesión en el [centro de Partners](https://partner.microsoft.com/).
-- Si usa una cuenta que no es de trabajo en PSC o un dominio diferente del que otros usan en PSC, póngase en contacto con su administrador de PSC para obtener ayuda de configuración de cuenta.
+- Si usa una cuenta que no es de trabajo en PSC o un dominio diferente del que otros usan en PSC, póngase en contacto con su administrador de PSC para obtener ayuda sobre la configuración de la cuenta.
 - Consulte con el administrador de PSC si la configuración de la cuenta del centro de Partners está completa independientemente de la cuenta que use para iniciar sesión en PSC.
 - Compruebe si tiene acceso al centro de Partners y a la sección de referencias.
 - Lea este documento para conocer los flujos de trabajo y los cambios en el centro de Partners.
@@ -75,7 +75,7 @@ Si su empresa tiene un PDM, cuando se configure la cuenta del centro de Partners
 >[!Note]
 >Una vez que haya realizado este cambio, solo podrá actuar en los contratos activos existentes en PSC. No puede crear nuevos acuerdos ni recibir ningún trato de los vendedores de Microsoft en PSC.
 
-Si su empresa no tiene un PDM, asegúrese de que todas las cuentas de usuario están configuradas y comprobados por todos los usuarios. Recibirá una notificación a través de un correo electrónico y un banner en PSC respecto a la fecha exacta en la que podrá empezar a vender en el centro de Partners. Recuerde que todavía tendrá que administrar las ofertas activas existentes en PSC.
+Si su empresa no tiene un PDM, asegúrese de que todos los usuarios configuran y comprueban todas las cuentas de usuario. Recibirá una notificación a través de un correo electrónico y un banner en PSC respecto a la fecha exacta en la que podrá empezar a vender en el centro de Partners. Recuerde que todavía tendrá que administrar las ofertas activas existentes en PSC.
 
 >[!Important]
 >Las ofertas activas no se migrarán al equipo. Tendrá hasta el 31 de diciembre de 2020 para cerrar y registrar los acuerdos.
@@ -156,7 +156,7 @@ Esta sección le ayudará a comprender la asignación exacta de atributos entre 
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. ¿Qué debo hacer si no tengo acceso al centro de Partners?
 
-Puede ponerse en contacto con los administradores que aparecen en la página "sin acceso" para obtener los roles asignados. Necesitará "[administrador de referencias] ( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) rol para permisos de lectura y escritura en la sección referencias. Si solo está administrando perfiles de negocio, necesitará el rol "Administrador de Perfil de negocio" en el centro de Partners.
+Puede ponerse en contacto con los administradores que aparecen en la página "sin acceso" para obtener los roles asignados. Necesitará el rol "[Administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" para el permiso de lectura y escritura en la sección referencias. Si solo está administrando perfiles de negocio, necesitará el rol "Administrador de Perfil de negocio" en el centro de Partners.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. ¿Quién puede concederme acceso a la sección de referencias del centro de Partners?
 
