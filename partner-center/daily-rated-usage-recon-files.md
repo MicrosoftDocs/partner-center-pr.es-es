@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943462"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274992"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -60,7 +60,7 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | UsageDate | Fecha del uso del servicio. |
 | MeterType | Tipo de medidor. |
 | MeterCategory | Identifica el servicio de nivel superior para el uso. |
-| MeterId | Identificador del medidor que se está usando. |
+| Id. del medidor | Identificador del medidor que se está usando. |
 | MeterSubCategory | El tipo de servicio de Azure, que puede afectar a la tarifa. |
 | MeterName | Unidad de medida del medidor que se está consumiendo. |
 | MeterRegion | Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios en los que MeterRegion es aplicable y rellenado. |
@@ -75,7 +75,7 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | UnitType | Tipo de unidad en la que se carga el medidor.  |
 | BillingPreTaxTotal | Importe total de facturación antes de los impuestos. |
 | BillingCurrency | La moneda en la región geográfica del cliente. |
-| PricingPreTaxTotal | Los precios, antes de que se agreguen los impuestos. |
+| PricingPreTaxTotal | Los precios, antes de que se agreguen los impuestos. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | Moneda de la lista de precios. |
 | ServiceInfo1 | El número de conexiones Service Bus aprovisionadas y utilizadas en un día determinado. |
 | ServiceInfo2 | Campo heredado que captura los metadatos específicos del servicio opcionales. |
