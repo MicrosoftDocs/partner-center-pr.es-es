@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436654"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220723"
 ---
 # <a name="trainings-dashboard"></a>Panel de aprendizaje
 
@@ -32,7 +32,7 @@ En el panel de cursos se proporciona información sobre las certificaciones, las
 >[!NOTE] 
 >Este informe está disponible en el concentrador Insights del centro de Partners. Para ver este informe, debe tener asignado el rol del visor de informes o del visor de informes ejecutivos. Algunas secciones de este informe solo estarán visibles para los usuarios que sean visores de informes ejecutivos. Para obtener más información sobre el control de acceso para los informes de Insights, consulte [roles de PCI](pci-roles.md).
 
-**Resumen**
+## <a name="summary"></a>Resumen
 
 En la sección Resumen se presenta una vista numérica de una instantánea de varios indicadores de rendimiento relacionados con los cursos. Los diversos indicadores de rendimiento son individuos certificados, certificaciones, usuarios con credenciales de examen, credenciales de examen, usuarios con credenciales de evaluación y credenciales de evaluación. Los datos de esta sección se actualizan en función del intervalo de fechas seleccionado, que puede ser de tres meses (3M), seis meses (6 M) & 12 meses (1) o un intervalo de datos personalizado (personalizado). 
 
@@ -45,13 +45,13 @@ En la sección Resumen se presenta una vista numérica de una instantánea de va
 - **Personas con exámenes**: representa el número de personas distintas con las credenciales de examen de la empresa. 
 - **Recuento de exámenes**: representa el número total de exámenes realizados por las personas de su empresa.
 
-**Rendimiento de aprendizaje**
+## <a name="training-performance"></a>Rendimiento de aprendizaje
 
 El rendimiento del entrenamiento presenta el número mensual de personas y los cursos que han realizado los usuarios de su empresa. Se divide por certificaciones, evaluaciones y exámenes en forma de gráfico para el intervalo de fechas seleccionado. El eje X representa los meses para el intervalo de fechas seleccionado. El eje Y representa el recuento distintivo de personas y el número de entrenamientos tomados por el tipo de entrenamiento seleccionado. Haga clic en las pestañas correspondientes sobre el gráfico para ver el desglose por tipo de entrenamiento. Los datos del gráfico se pueden descargar mediante el icono de descarga en formato. TSV para el intervalo de fechas seleccionado.
 
 :::image type="content" source="images/pci/td-training-performance.png" alt-text="Rendimiento de aprendizaje":::
 
-**Rendimiento de los usuarios**
+## <a name="individuals-performance"></a>Rendimiento de los usuarios
 
 La sección de rendimiento de los usuarios presenta los detalles del entrenamiento realizado por las personas de la empresa, para el intervalo de fechas seleccionado. Busque y seleccione el nombre de un individuo en el panel izquierdo de la sección. Los detalles de aprendizaje de la persona seleccionada se muestran en el panel derecho de la sección.
 
@@ -60,8 +60,9 @@ La sección de rendimiento de los usuarios presenta los detalles del entrenamien
 >[!NOTE] 
 > La sección de rendimiento de los individuos solo está disponible para los usuarios que son ejecutivos de informes. 
 
-**Pasos siguientes**
+## <a name="next-steps"></a>Pasos siguientes
+
+[Informes en la información del centro de Partners](partner-center-insights.md)
 
 >[!NOTE] 
-> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md) 
-
+> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md)

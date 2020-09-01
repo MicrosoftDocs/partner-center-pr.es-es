@@ -1,19 +1,19 @@
 ---
 title: Solución de problemas de pagos y ganancias
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: Obtenga información acerca de cómo solucionar problemas, como pérdidas de beneficios o incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de los incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893479"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220793"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Solución de problemas de pagos y ganancias
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893479"
 **Roles adecuados**:
 
 - Administrador de incentivos
-
 
 Este artículo le ayudará a resolver cualquier problema de beneficios o de pago en el programa de incentivos. Entre los temas tratados se incluyen el control de tiempo de los pagos, la comprobación de la idoneidad de sus ganancias y la importancia de configurar los perfiles fiscales y de pago correctamente.
 
@@ -57,18 +56,20 @@ Si faltan pagos o son incorrectos, suele deberse a uno de los siguientes motivos
 
   **Para comprobar su elegibilidad**
 
-  1. Inicie sesión en el centro de Partners aquí: [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
-  
+  1. Inicie sesión en los [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
+
   2. Desplácese hacia abajo hasta los documentos del programa.
   
-  3. Seleccione el vínculo de documento que desee y, a continuación, revise las secciones **elegibilidad de asociados** y **reglas de ingresos válidas**.
+  3. Seleccione el vínculo de documento que desee y, a continuación, revise las secciones 
+
+**Idoneidad para asociados** y **reglas de ingresos válidas**.
 
 - **El perfil de pago puede estar incompleto.** La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
 - Es **posible que tenga una acción pendiente**.  Podría deberse a que los incentivos no se están procesando porque existe una acción pendiente.
 
   **Para ver las acciones pendientes**
 
-  1. Inicie sesión en el centro de Partners aquí: [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
+  1. Inicie sesión en los [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
   2. Abra la página **historial de transacciones** . Revise los campos de esta página para ver las acciones pendientes que se deben completar, como el **Perfil de impuestos pendiente**, el **Perfil de pago pendiente**o el **envío de facturas de impuestos pendientes**.
 
 Si estas acciones no son de ayuda y los pagos todavía faltan o son incorrectos, póngase en contacto [con el soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
@@ -140,9 +141,9 @@ Si estas acciones no sirven de ayuda y las ganancias todavía no se han concilia
 
 ## <a name="where-can-i-find-my-rates"></a>¿Dónde puedo encontrar mis tarifas?
 
-1. Vaya a [Inversiones e incentivos para socios](https://partner.microsoft.com/membership/partner-incentives) e inicie sesión.
+1. Inicie sesión en los [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
 
-2. Cuando haya iniciado sesión, desplácese hacia abajo para acceder a los documentos del programa interesado y haga clic en el vínculo del documento para el programa correspondiente.
+2. Desplácese hacia abajo para obtener acceso a los documentos del programa interesado y haga clic en el vínculo del documento correspondiente al programa correspondiente.
 
 3. En el documento, consulte la sección **estructura y tasas del programa**.
 

@@ -1,5 +1,5 @@
 ---
-title: Problemas de asociación de clientes
+title: Problemas de asociación de clientes a incentivos
 description: Obtenga información acerca de cómo solucionar los problemas que surgen al trabajar con las asociaciones de clientes de los asociados de registro (CPOR).
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303261"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220623"
 ---
-# <a name="customer-association-issues"></a>Problemas de asociación de clientes
+# <a name="incentives-customer-association-issues"></a>Problemas de asociación de clientes a incentivos
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
 
-El contenido que aparece a continuación le ayudará a solucionar los problemas que pueden aparecer al trabajar con las asociaciones de clientes.
-
-Roles adecuados:
+**Roles adecuados:**
 
 - Administrador de facturación
 - Administrador global
 - Administrador de incentivos
+
+El contenido que aparece a continuación le ayudará a solucionar los problemas que pueden aparecer al trabajar con las asociaciones de clientes.
 
 ## <a name="domain-tenant-mismatch"></a>Error de coincidencia de inquilino de dominio
 
@@ -64,7 +64,7 @@ La plataforma de reclamación de CPOR permite notificaciones de Asociación de C
 | Aplicaciones empresariales      | Soporte preventa   | Seleccione si influye en su compra de un producto válido y desea solicitar los incentivos de preventa. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
 |    |  Uso  | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
 |    | Asociación de ingresos   | Seleccione esta opción si influye en la selección de un producto válido como Influenciante empresarial. Esta opción es solo para la Asociación de ingresos, no para los pagos por incentivos. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct.   |
-| Microsoft 365   | Uso   | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. |
+| Microsoft 365   | Uso   | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. |
 
 ## <a name="which-mpn-do-i-choose"></a>¿Qué MPN elegir?
 
@@ -72,7 +72,7 @@ En el flujo de notificaciones de Asociación de CPOR, se le pedirá que elija un
 
 Si no sabe qué MPN usar, póngase en contacto con el administrador global.
 
-Si el MPN que quiere usar no está inscrito, puede administrarlo en la [pestaña Información general sobre incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary).
+Si el MPN que quiere usar no está inscrito, puede administrarlo en la [pestaña Información general sobre incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (es necesario iniciar sesión).
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Elección de un producto frente a la entrada de una suscripción
 
@@ -91,4 +91,8 @@ Si va a crear una notificaciones de Asociación de CPOR para un cliente y sus pr
 4. La demanda de la Asociación CPOR se seguirá revisando en un plazo de cinco días laborables, aunque su estado puede permanecer como _en revisión_ durante un período de tiempo más largo. Este escenario puede ocurrir cuando Microsoft trabaja con el asociado que posee actualmente el producto o la carga de trabajo. Si es así, se le notificará en la sección de comentarios de la notificación. 
 
 >[!IMPORTANT]
->Si necesitamos información adicional para comprobar la Asociación de CPOR, nos pondremos en contacto con usted a través de la sección de comentarios de notificaciones de CPOR Association.
+>Si necesitamos información adicional para comprobar la prueba de ejecución de la Asociación CPOR (PoE), nos pondremos en contacto con usted a través de la sección de comentarios de notificaciones de CPOR Association.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Introducción a los incentivos](incentives-get-started-intro.md)

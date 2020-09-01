@@ -1,7 +1,7 @@
 ---
 title: Creación de una asociación de cliente a través del modelo CPOR
 ms.topic: article
-ms.date: 08/26/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Cree asociaciones de cliente a través del modelo CPOR (reclamando el asociado de registro). Ayuda a administrar las ventas, el uso, los incentivos de & para los clientes de Microsoft 365 y Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942557"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220373"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Creación de una asociación de cliente a través del modelo CPOR: uso para Microsoft 365 y Dynamics 365 clientes
 
@@ -22,11 +22,14 @@ ms.locfileid: "88942557"
 
 - Centro de partners
 
+**Roles adecuados:**
+
+- Administrador de incentivos
+
 El 1 de octubre de 2019, Microsoft comenzó a usar el modelo de reclamaciones de registro de registros (CPOR) para administrar las asociaciones que tiene con sus clientes de Microsoft 365 y Dynamics 365 con respecto a los incentivos de los servicios en línea (OSA), el uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business Application.
 
->[! Importante:] las notificaciones de Asociación de cliente (CPOR) solo se aplican a los programas de incentivos de la aplicación de servicio en línea (OSA), uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Si va a enviar una notificación de cooperación para otro programa, como proveedor de soluciones en la nube, revendedor administrado, hospedaje o Surface, consulte el proceso de notificaciones de la Co-op que se describe aquí.
-
-Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
+>[!Important]
+> Las notificaciones de Asociación de cliente (CPOR) solo se aplican a los programas de incentivos de la solicitud de servicio en línea (OSA) venta, uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Si va a enviar una notificación de cooperación para otro programa, como proveedor de soluciones en la nube, revendedor administrado, hospedaje o Surface, consulte el proceso de notificaciones de la Co-op que se describe aquí. <br><br>Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
 
 Necesitará la siguiente información para completar una demanda:
 
@@ -50,7 +53,7 @@ Necesitará la siguiente información para completar una demanda:
 
 - Los **productos** o cargas de trabajo que va a reclamar
 
-- **Prueba de ejecución (PoE)**, como una declaración de trabajo firmada por el cliente. También puede descargar una plantilla de POE para usarla.
+- **Prueba de ejecución (PoE)**, como una declaración de trabajo firmada por el cliente. También puede descargar una plantilla de PoE para usarla.
 
 - En el caso de los asociados que reclaman ingresos solamente: nombre de vendedor de la **solución Dynamics**, **nombre del cliente**y **nombre del producto o solución de ISV**. 
 
@@ -64,34 +67,35 @@ También debe comprender los puntos siguientes:
 
 ## <a name="create-a-customer-association"></a>Crear una asociación de cliente
 
-1. En el panel del centro de Partners, en **incentivos**, seleccione **información general**y, a continuación, seleccione **asociaciones de cliente**. 
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
+2. Seleccione la pestaña **incentivos** , seleccione **información general**y, a continuación, seleccione **asociaciones de cliente**.
 
-3. Seleccione el **identificador de MPN** de la ubicación del asociado que se va a asociar con el cliente y, después, agregue el nombre de dominio y el identificador de directorio del cliente. [Buscar](find-domain-name.md)
+3. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
 
-4. Seleccione **Continuar**.
+4. Seleccione el **identificador de MPN** de la ubicación del asociado que se va a asociar con el cliente y, después, agregue el nombre de dominio y el identificador de directorio del cliente. [Buscar](find-domain-name.md)
 
-5. Seleccione el **área** de la solución y la **actividad**. 
+5. Seleccione **Continuar**.
+
+6. Seleccione el **área** de la solución y la **actividad**. 
 
    >[!Note]
    >
    >Si selecciona Business Applications, seleccione uso o **preventa**, o **Asociación de ingresos**, y, a continuación, seleccione **continuar**. 
+   <br><br>Si selecciona la Asociación ingresos, se le solicitará información ligeramente diferente a la que se muestra a continuación.
 
-   >Si selecciona la Asociación ingresos, se le solicitará información ligeramente diferente a la que se muestra a continuación.
+7. Escriba la información adecuada en la página **asociar el cliente** y, a continuación, seleccione **crear notificaciones**.
 
-6. Escriba la información adecuada en la página **asociar el cliente** y, a continuación, seleccione **crear notificaciones**.
+8. Seleccione los productos asociados a esta asociación de cliente y, a continuación, seleccione **continuar**.
 
-7. Seleccione los productos asociados a esta asociación de cliente y, a continuación, seleccione **continuar**.
-
-8. Complete la información de contacto del cliente y la información de contacto de la empresa. Todos los campos son obligatorios. 
+9. Complete la información de contacto del cliente y la información de contacto de la empresa. Todos los campos son obligatorios. 
 
    >[!NOTE]
    >Si el producto es Dynamics 365 y el producto que elige tiene varias suscripciones para este cliente concreto, también deberá escribir el identificador de la suscripción.
 
-9. Proporcione la prueba de ejecución (PoE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla mediante la selección de **Descargar plantilla**. 
+10. Proporcione la prueba de ejecución (PoE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla mediante la selección de **Descargar plantilla**. 
 
-10. Agregue y guarde los comentarios si lo desea y, después, seleccione **Enviar reclamación**. Enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
+11. Agregue y guarde los comentarios si lo desea y, después, seleccione **Enviar reclamación**. Enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
 
    >[!NOTE]
    >Una vez que envíe la Asociación de cliente, no podrá modificarla.
@@ -99,3 +103,7 @@ También debe comprender los puntos siguientes:
 El estado de la asociación de cliente saparece en el campo **Estado**.
 
 Seleccione **Historial** para ver el historial de una asociación de cliente.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar asociaciones de clientes](incentives-manage-customer-associations.md)

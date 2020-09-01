@@ -1,33 +1,33 @@
 ---
-title: Crear el plan
+title: Cree su plan de incentivos
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: Recopile y cree la información necesaria para generar un plan de marketing correcto para su programa de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303251"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220633"
 ---
-# <a name="create-your-plan"></a>Crear el plan
+# <a name="create-your-incentives-plan"></a>Cree su plan de incentivos
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
 
-Un plan de notificaciones de cooperación es la serie de campañas de marketing, actividades y otros detalles que describen cómo hará que el programa sea un éxito. Una vez creado el plan, lo enviará a Microsoft para su aprobación. 
-
-Roles adecuados:
+**Roles adecuados:**
 
 - Administrador de incentivos
 - Administrador de facturación
 - Administrador global
+
+Un plan de notificaciones de cooperación es la serie de campañas de marketing, actividades y otros detalles que describen cómo hará que el programa sea un éxito. Una vez creado el plan, lo enviará a Microsoft para su aprobación.
 
 ## <a name="create-your-incentives-plan"></a>Cree su plan de incentivos
 
@@ -93,3 +93,7 @@ Microsoft le paga cada mes en función de sus ganancias y de los límites de su 
 Por ejemplo, si el plan está aprobado por 10 000 USD y ha obtenido 5000 USD en el mes de abril, recibirá 5000 USD el 15 de mayo.
 
 En ese mismo plan, si gana 15 000 USD en el mes de abril, recibirá 10 000 USD el 15 de mayo porque 10 000 USD fue el límite del plan. Para recibir más pagos, debe aumentar el límite del plan para el mes siguiente.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Preparar la prueba de ejecución](incentives-prepare-your-proof-of-execution.md)

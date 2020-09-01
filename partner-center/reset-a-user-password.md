@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811295"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220233"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Restablecer la contraseña de un usuario en el centro de Partners
 
@@ -31,7 +31,7 @@ ms.locfileid: "87811295"
 
 Si los usuarios olvidan su contraseña, puedes asignarles una contraseña temporal. Pueden usarla la próxima vez que inicien sesión en el Centro de partners.
 
-**Restablecer una contraseña de usuario como administrador**
+## <a name="reset-a-user-password-as-an-admin"></a>Restablecer una contraseña de usuario como administrador
 
 1. Vaya a **configuración** &gt; **Administración de usuarios**.
 

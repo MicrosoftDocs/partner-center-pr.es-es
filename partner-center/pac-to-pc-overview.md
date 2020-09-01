@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114522"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220743"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>El Centro de administración de partners se traslada al Centro de partners
 
@@ -39,9 +39,9 @@ Estamos evolucionando Microsoft el centro de Partners en el único lugar donde a
 
 Durante el 2018 de abril, se retirará la PAC y los asociados de CSP comenzarán a redirigirse automáticamente al centro de Partners de Microsoft. La redirección se realizará en fases y, una vez que se le redirija al centro de Partners, no podrá trabajar en PAC. 
 
-**Asociados del proveedor de soluciones en la nube** Si es un asociado de CSP, le redirigirá automáticamente al centro de partners a partir del 2018 de abril. 
+- Asociados de proveedor de soluciones en la nube: si es un asociado de CSP, le redirigiremos automáticamente al centro de partners a partir del 2018 de abril.
 
-Los **asociados de Advisor** (si no se realiza una transacción a través de CSP y usan PAC para proporcionar pruebas/cotizaciones para los clientes) tan pronto como se decida en la escala de tiempo para el redireccionamiento automático al centro de Partners, se lo anunciaremos aquí. 
+- Partners de Advisor (si no lo hace mediante CSP y usa PAC para proporcionar versiones de evaluación y cotizaciones para los clientes): en cuanto decidimos en la escala de tiempo para el redireccionamiento automático al centro de Partners, se lo anunciaremos aquí.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comience a usar el centro de Partners de Microsoft ahora.
 

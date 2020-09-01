@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799830"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220263"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -116,7 +116,7 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 #### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
 
-| Month | Amount |
+| Month (Mes) | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -144,7 +144,7 @@ Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las
 |Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Con error        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|Con errores        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
 |Enviado        |El pago se ha enviado al banco.          |No       |
@@ -157,11 +157,14 @@ Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las
 ## <a name="export-data-page"></a>Página Exportar datos
 Siga las instrucciones de esta página para exportar los datos que desee.
 
-**Notas:**
+Estas son algunas consideraciones al intentar exportar datos:
 
 - Dado el gran volumen de datos, el acuerdo de nivel de servicio para la solicitud enviada que se va a procesar es de 24 horas.
+
 - Solo verá los datos de los ID. de MPN y los programas a los que está asociado. Si desea acceder a datos adicionales, consulte a su administrador de incentivos.
+
 - La página Exportar datos no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes.
+
 - El filtro puede dar lugar a un error **No hay datos disponibles**. Este error probablemente significa que ha dejado el período de tiempo predeterminado seleccionado en tres meses y, a continuación, ha seleccionado un identificador de pago de una ganancia que está fuera de ese período. Amplíe el período de tiempo y vuelva a intentarlo.
 
 ## <a name="payment-download-export"></a>Exportación de descarga de pago

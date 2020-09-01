@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436124"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220693"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analice las suscripciones y licencias para ayudarle a impulsar decisiones empresariales y nuevos objetivos
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436124"
 
 Data impulsa las decisiones empresariales. Use las métricas de la página de **análisis de licencias y licencias** para identificar sus éxitos y áreas que requieren más atención. Use esta información a medida que planee nuevos objetivos empresariales.
 
-> [!NOTE]
-> El análisis de licencias de suscripción solo está disponible para los asociados del programa proveedor de soluciones en la nube.
+**Ingresos por TTM de CSP (USD)**: esta métrica representa los ingresos por factura de CSP agregados (USD) para los doce meses finales (TTM) de las cuentas de ubicación de asociados y la cuenta global de socio comercial (PGA) a la que está asociada esta cuenta de CSP. Si tiene otras cuentas de CSP con un formato PGA diferente, debe iniciar sesión en cada una de ellas para ver los ingresos de TTM agregados correspondientes.  Haga clic en el vínculo detalles de la descarga para obtener un desglose de los ingresos de TTM (USD) por identificador de MPN.
 
-
-Este informe puede dinamizar en función de los siguientes productos:
+El resto del informe puede dinamizar en función de los siguientes productos:
 
  - **Dynamics 365**: datos de Dynamics 365  
  - **EMS**: datos de servicios de administración de empresa  

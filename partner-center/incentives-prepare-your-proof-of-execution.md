@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303301"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220783"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Preparar la prueba de ejecución
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
 
-Antes de recibir el pago por el trabajo de incentivos, debe enviar una prueba de ejecución detallada (PoE). Este artículo le guía por el proceso de creación de una prueba de ejecución efectiva.
-
-Roles adecuados:
+**Roles adecuados:**
 
 - Administrador de incentivos
+
+Antes de recibir el pago por el trabajo de incentivos, debe enviar una prueba de ejecución detallada (PoE). Este artículo le guía por el proceso de creación de una prueba de ejecución efectiva.
 
 ## <a name="how-to-submit-a-poe"></a>Envío de un PoE
 
@@ -62,7 +62,7 @@ Roles adecuados:
 
 11. También puede cargar **documentos de prueba** si lo desea. En el campo **documentos de prueba** , seleccione **arrastrar o examinar archivos para cargarlos**. Si selecciona documentos de prueba, debe agregar notas explicativas. Cuando haya agregado una nota, seleccione **Guardar**.
 
-12. Escriba los comentarios finales antes de enviar su POE y, a continuación, seleccione **enviar notificaciones**.
+12. Escriba los comentarios finales antes de enviar su PoE y, a continuación, seleccione **enviar notificaciones**.
 
 ## <a name="view-the-status-of-a-poe"></a>Ver el estado de un PoE
 
@@ -80,3 +80,7 @@ Roles adecuados:
    - Edición
    - Aprobado
    - Rechazada
+
+## <a name="next-steps"></a>Pasos siguientes:
+
+- [Introducción a los incentivos](incentives-get-started-intro.md)

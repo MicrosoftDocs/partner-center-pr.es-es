@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239043"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220473"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 
@@ -26,15 +26,18 @@ ms.locfileid: "88239043"
 
 Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales. Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, los derechos de los productos en la nube como O365, soporte técnico, ofertas de comercialización, etc. Actualmente, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**. Las competencias se dividen en niveles Silver o Gold, por ejemplo. Existe una barra superior para la competencia Gold y un mayor nivel de recursos de marketing, ofertas y programas disponibles.  
 
-**Ciclo de vida de la competencia**
+Obtendrá más uso del informe de competencia si obtiene más información sobre el ciclo de vida de la competencia, la obtención de Aptitudes y otros detalles del informe de competencia.
+
+## <a name="competency-life-cycle"></a>Ciclo de vida de la competencia
 
 Desde el punto de vista del ciclo de vida, los asociados comienzan por la creación de los indicadores clave de rendimiento (KPI) necesarios para lograr competencias específicas. Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se **califican** para una competencia. A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para lograr la competencia y estar **activa** en esa competencia. El estado **activo** de la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se conoce como la **fecha de aniversario** de la competencia). Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia. Si no cumplen estos requisitos de nuevo, perderán la competencia. Un estado de **riesgo** para una competencia contratada previamente significa que ciertas métricas clave están previstas por debajo del umbral en la **fecha de aniversario**de la competencia.
 
-**Obtención de aptitudes**
+## <a name="competency-attainment"></a>Obtención de aptitudes
 
 Cada competencia tiene un conjunto específico de requisitos para cumplir. Los requisitos de la competencia en la nube se dividen en dos categorías: habilidades y rendimiento.
 
 - Conocimientos: los requisitos suelen incluir exámenes, valoraciones o certificaciones que deben superar los individuos de su empresa.
+
 - Rendimiento: para poder participar en una competencia, su empresa debe cumplir determinados umbrales de rendimiento alineados con el área de competencia. Por ejemplo, es posible que su empresa necesite cumplir una cantidad mínima de consumo de Azure durante los 12 meses finales.
 
 ## <a name="competencies-report-details"></a>Detalles del informe de competencias
@@ -46,9 +49,9 @@ Puede ver las siguientes secciones del informe competencias:
 - Historial de competencias
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
-**Resumen**
+### <a name="summary"></a>Resumen
 
 La vista de Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (oro/plata) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **iniciado**, **calificado**, **activo**y **en riesgo**. Ejemplo: los requisitos de capacidad de la nube se dividen en dos categorías: habilidades y rendimiento.
 
@@ -64,7 +67,7 @@ Desglose de las competencias (por nivel de competencia, como Silver/Gold, con no
 
 :::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumen de competencias":::
 
-**Análisis de métricas de competencia**
+### <a name="competency-metric-analysis"></a>Análisis de métricas de competencia
 
 Esta vista muestra el estado de las métricas de competencia con respecto a los umbrales necesarios para que los asociados alcancen o conserven la competencia en el nivel Silver/Gold. 
 
@@ -78,7 +81,7 @@ El informe se puede dinamizar con los dos intervalos de fechas siguientes:
 > [!NOTE]
  > No todas las métricas se describen en el análisis. Actualmente, las métricas asociadas con el aprendizaje y la certificación no se admiten en el informe de competencias. Las competencias de Cloud Business Applications (CBA) tampoco se admiten actualmente en el análisis de métricas para el estado **activo** de la competencia.
 
-**Historial de competencias**
+### <a name="competency-history"></a>Historial de competencias
 
 Esta vista muestra una tabla detallada de todas las competencias que ha logrado hasta ahora, con el nivel de competencia y la fase de competencia.
 

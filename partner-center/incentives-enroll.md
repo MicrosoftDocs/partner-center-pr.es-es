@@ -1,25 +1,29 @@
 ---
-title: Inscribirse en el programa incentivos
+title: Inscribirse en el programa de inventivos
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Inscríbase en el programa incentivos y asigne los roles necesarios para la administración de usuarios.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427020"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220603"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Inscribirse en el programa incentivos
+# <a name="enroll-in-the-incentives-program"></a>Inscribirse en el programa de inventivos
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
+
+**Roles adecuados:**
+
+- Administrador de incentivos
 
 >[!NOTE]
 >Antes de inscribirse en el programa incentivos, debe haber completado el centro de pertenencia del asociado a la [migración](prepare-pmc-pc-migration.md)del centro de Partners.
@@ -32,7 +36,7 @@ El proceso de inscripción consta de dos pasos.
 
 ## <a name="user-management"></a>User Management
 
-Para inscribirse en un programa de incentivos, el administrador global o el administrador de la cuenta debe configurar los usuarios de la empresa. Deben asignar un administrador de incentivos y conceder permisos de usuario de incentivos. Para obtener información sobre las cuentas de asociados, los roles y los permisos, consulte [Administración de la cuenta del centro de Partners](partner-center-account-setup.md). El administrador global también puede configurar los usuarios de la empresa a través del Azure Active Directory (AAD).
+Para inscribirse en un programa de incentivos, el administrador global o el administrador de la cuenta debe configurar los usuarios de la empresa. Deben asignar un administrador de incentivos y conceder permisos de usuario de incentivos. Para obtener información sobre las cuentas de asociados, los roles y los permisos, consulte [Administración de la cuenta del centro de Partners](partner-center-account-setup.md). El administrador global también puede configurar los usuarios de la empresa a través del Azure Active Directory (Azure AD).
 
 Una vez que su organización pueda obtener incentivos, Microsoft enviará invitaciones al administrador global, al administrador de la cuenta y al administrador de incentivos.
 
@@ -43,7 +47,7 @@ Una vez que su organización pueda obtener incentivos, Microsoft enviará invita
 
 Una vez que su organización sea válida para los incentivos, Microsoft enviará una invitación al administrador de MPN del MPNLocationID válido para iniciar el proceso. Este correo electrónico se enviará desde el **centro de Partners de Microsoft**y tendrá la invitación de inscripción de **incentivo para asociados**. Abra la invitación **y seleccione introducción**.
 
-También verá una invitación en la Página principal del centro de Partners. Una vez que seleccione el mensaje, no podrá verlo de nuevo. Sin embargo, el administrador puede seguir iniciando el proceso yendo a administración de usuarios en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/).
+También verá una invitación en la Página principal del centro de Partners. Una vez que seleccione el mensaje, no podrá verlo de nuevo. Sin embargo, el administrador puede iniciar el proceso iniciando sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/) y seleccionando administración de **usuarios**.
 
 ## <a name="expiration-and-renewal"></a>Expiración y renovación
 

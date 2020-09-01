@@ -1,19 +1,19 @@
 ---
 title: Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: Preguntas más frecuentes sobre los perfiles fiscales y de pago de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303151"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220533"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 
@@ -39,7 +39,7 @@ Es posible que también tenga que proporcionar información actualizada si cambi
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Cómo proporciono o actualizo mis datos de pago o fiscales?
 
-Para más información sobre cómo actualizar los detalles de pago e impuestos en el Centro de partners, consulte [Cómo crear y administrar perfiles bancarios y de impuestos en el Centro de partners](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Para obtener información detallada sobre cómo actualizar los detalles de pagos y impuestos en el centro de Partners, consulte [creación y administración de perfiles de pago y impuestos en el centro de Partners](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>¿Por qué no veo mis inscripciones cuando me quiero asignar mi perfil de pago y fiscal?
 
@@ -65,7 +65,7 @@ No obstante, puede haber excepciones al aplicar el perfil bancario a distintos p
 
 Los perfiles fiscales creados para una ubicación de MPN se reutilizan y se rellenan automáticamente cuando la misma ubicación de MPN participa en otro programa de incentivos. Pero puede haber excepciones. Por ejemplo, las reglas de pago de un nuevo programa de incentivos pueden requerir detalles adicionales para el perfil fiscal.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio.   ¿Qué debo hacer?
 
 Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
 

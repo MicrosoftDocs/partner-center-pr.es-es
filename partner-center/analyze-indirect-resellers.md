@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998367"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220703"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usar análisis para analizar el rendimiento de los revendedores indirectos
 
@@ -69,6 +69,18 @@ Estamos realizando el seguimiento de las siguientes métricas:
  - **Ubicación**: mercados en los que operan los revendedores indirectos  
  - **Suscripciones**: número de suscripciones que ha vendido el distribuidor  
  - **Licencias**: número total de licencias que el distribuidor ha vendido en todas las suscripciones  
+
+**Estado firmado de MPA**
+
+En esta sección se proporciona el estado del estado de firma de MPA de los revendedores indirectos de CSP.
+
+ - **Nombre del distribuidor**: nombre del revendedor indirecto de CSP
+ - **Identificador de MPN**: ID. de MPN del revendedor indirecto
+ - **Región**: región en la que opera el revendedor indirecto
+ - **Estado de investigación de MPN**: estado de investigación del revendedor indirecto
+ - **Estado firmado de MPa**: estado de firma de MPa para el revendedor indirecto
+
+Haga clic en el icono de descarga del gráfico para descargar los datos de estado con firma de MPA con dimensiones adicionales
   
 ## <a name="next-steps"></a>Pasos siguientes
 

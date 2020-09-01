@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040761"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220253"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Cómo notificar problemas con el centro de Partners y enviar información de registros o diagnósticos
 
@@ -29,7 +29,7 @@ Póngase en contacto con el soporte técnico del centro de partners si encuentra
 
 Todos los usuarios registrados en el centro de partners pueden crear solicitudes de soporte técnico de asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.
 
-**Notificar un problema con el centro de Partners**
+## <a name="report-a-problem-with-the-partner-center"></a>Notificar un problema con el centro de Partners
 
 1. En el panel del **centro de Partners** , seleccione **soporte técnico** y, a continuación, seleccione **solicitudes de soporte técnico para asociados**.
 
@@ -41,7 +41,7 @@ Todos los usuarios registrados en el centro de partners pueden crear solicitudes
 
 5. Complete los **detalles del problema** y, a continuación, **envíe**. Un representante de soporte técnico del asociado realizará un seguimiento con usted.
 
-**Enviar diagnósticos**
+## <a name="send-diagnostics"></a>Enviar diagnósticos
 
 Si se produce un error mientras se encuentra en una página del centro de Partners, es posible que se le pida que recopile la información de registro. Seleccione **recopilar más información** en el vínculo que se despliega en la parte superior de la página para abrir la herramienta de diagnóstico de cliente. Esta herramienta recopila la información que necesita el equipo de soporte técnico de partners para determinar la causa del error. 
 
@@ -54,7 +54,7 @@ Si se produce un error mientras se encuentra en una página del centro de Partne
 
 Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico. Para enviar la información:
 
-3. Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar. 
+3. Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar.
 
     >[!NOTE]
     >En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía. Esto es correcto.

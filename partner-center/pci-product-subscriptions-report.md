@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239063"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220333"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel de Partner Center Insights
 
@@ -36,37 +36,39 @@ Puede ver las secciones siguientes del informe de suscripciones de productos.
 - Tendencia de productos
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
-**Resumen**
+## <a name="summary"></a>Resumen
 
 En la sección Resumen se presenta una vista de instantánea de los indicadores clave de rendimiento (KPI) relacionados con las suscripciones vendidas o administradas por el usuario para sus clientes.  
 
-- Suscripciones: recuento actual de las suscripciones de productos en la nube vendidas o administradas por el usuario.
-Porcentaje de crecimiento o disminución de suscripciones durante el intervalo de fechas seleccionado.
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumen del informe de suscripciones":::
 
-El micro gráfico presenta una tendencia mensual de suscripciones en el recuento durante el intervalo de fechas seleccionado.
+Consulte a continuación para obtener más información acerca de cada sección del Resumen.
 
-- Suscripciones activas: recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.
-Porcentaje de crecimiento o disminución de suscripciones activas durante el período de tiempo seleccionado.
+- Suscripciones:
+  - Recuento actual de las suscripciones de productos en la nube vendidas o administradas por el usuario.
+  - Porcentaje de crecimiento o disminución de suscripciones durante el intervalo de fechas seleccionado.
+  - El micro gráfico presenta una tendencia mensual de suscripciones en el recuento durante el intervalo de fechas seleccionado.
 
-El micro gráfico presenta una tendencia de mes a mes de suscripciones activas durante el intervalo de fechas seleccionado.
+- Suscripciones activas:
+  - Recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.
+  - Porcentaje de crecimiento o disminución de suscripciones activas durante el período de tiempo seleccionado.
+  - El micro gráfico presenta una tendencia de mes a mes de suscripciones activas durante el intervalo de fechas seleccionado.
 
-- Suscripciones agregadas: el número total de suscripciones de clientes que ha agregado (vendido o administrado) durante el intervalo de fechas seleccionado. Las nuevas suscripciones con estado **activo** o **renovado** se cuentan como suscripciones agregadas.
-Porcentaje de crecimiento o rechazo de suscripciones agregadas en el último mes completo en comparación con el primer mes completo.
+- Suscripciones agregadas:
+  - Número total de suscripciones de cliente agregadas (vendidas o administradas) por el usuario durante el intervalo de fechas seleccionado. Las nuevas suscripciones con estado **activo** o **renovado** se cuentan como suscripciones agregadas.
+  - Porcentaje de crecimiento o rechazo de suscripciones agregadas en el último mes completo en comparación con el primer mes completo.
+  - El micro gráfico presenta una tendencia mensual de las suscripciones agregadas durante el intervalo de fechas seleccionado.
 
-El micro gráfico presenta una tendencia mensual de las suscripciones agregadas durante el intervalo de fechas seleccionado.
-
-- Suscripciones renovadas: se han renovado las suscripciones de clientes totales durante el intervalo de fechas seleccionado. Las suscripciones con estado **desaprovisionado** o **suspendidas** en ese mes se cuentan como una suscripción renovada.  
-Porcentaje de suscripciones rotadas durante el intervalo de fechas seleccionado.
-
-El micro gráfico presenta una tendencia mensual de las suscripciones rotadas en el intervalo de fechas seleccionado.
+- Suscripciones renovadas:
+  - Total de suscripciones de clientes que se han renovado durante el intervalo de fechas seleccionado. Las suscripciones con estado **desaprovisionado** o **suspendidas** en ese mes se cuentan como una suscripción renovada.  
+  - Porcentaje de suscripciones rotadas durante el intervalo de fechas seleccionado.
+  - El micro gráfico presenta una tendencia mensual de las suscripciones rotadas en el intervalo de fechas seleccionado.
 
 - Suscripciones por productos: desglose del número de suscripciones actual por productos en la nube.
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumen del informe de suscripciones":::
-
-**Propagación geográfica de suscripciones**
+## <a name="geographical-spread-of-subscriptions"></a>Propagación geográfica de suscripciones
 
 La vista **suscripciones por geografía** muestra la distribución geográfica de las suscripciones totales por mercados de clientes. El importe total de la suscripción incluye tanto las suscripciones vendidas como las suscripciones activas.
 
@@ -76,7 +78,7 @@ Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación
 
 :::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="suscripciones por geografía":::
 
-**Agregaciones de suscripción/paginación**
+## <a name="subscription-addschurns"></a>Agregaciones de suscripción/paginación
 
 Esta vista presenta una tendencia de suscripciones. Estas se dividen en distintas categorías (nuevas, existentes y renovadas) para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado. El eje Y representa el recuento de suscripciones. Las suscripciones rotadas se representan en la escala negativa del eje Y. 
 
@@ -84,19 +86,19 @@ El gráfico de columnas apiladas presenta un desglose de las suscripciones nueva
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="agregación de suscripciones y paginación":::
 
-**Distribución de suscripciones**
+## <a name="subscription-distribution"></a>Distribución de suscripciones
 
 Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de MPN, los segmentos de cliente, el canal de ventas o el modelo de precios de Azure y el tipo de atribución (por ejemplo, DPOR, DAP, etc.). Haga clic en las pestañas correspondientes para ver el desglose por estas categorías. Para generar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribución de suscripciones":::
 
-**Distribución de estado de suscripción**
+## <a name="subscription-state-distribution"></a>Distribución de estado de suscripción
 
 Esta vista muestra la distribución de las suscripciones de clientes actuales por Estado o estado de la suscripción. Esto incluye los siguientes Estados de suscripción: **activo**, **deshabilitado**, **desaprovisionado**, **abierto**, **gracia**, **cerrado**y **otros**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribución de estado de suscripción":::
 
-**Tendencia de productos**
+## <a name="products-trend"></a>Tendencia de productos
 
 Esta vista muestra un gráfico de barras y dos gráficos circulares. El gráfico de barras presenta una tendencia mensual de las suscripciones desglosadas por productos comerciales, como Azure, Office, Dynamics, etc.
 

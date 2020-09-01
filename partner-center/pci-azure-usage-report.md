@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239073"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220733"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Azure disponible en el panel del centro de Partners Insights
 
@@ -31,9 +31,9 @@ El informe de uso de Azure presenta métricas relacionadas con las suscripciones
 - Uso de Azure
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
-**Resumen**
+## <a name="summary"></a>Resumen
 
 En la sección Resumen se presenta una vista de instantánea de los indicadores clave de rendimiento (KPI) relacionados con las suscripciones de Azure vendidas o administradas por usted para sus clientes.  
 
@@ -56,7 +56,7 @@ El micro gráfico presenta una tendencia mensual de ACR $ a la que se le ha atri
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Resumen de uso de Azure":::
 
-**Uso de Azure por geografía**
+## <a name="azure-usage-by-geography"></a>Uso de Azure por geografía
 
 La vista **uso de Azure por geografía** muestra la distribución geográfica de los ingresos de consumo de Azure (ACR US $) o las horas de uso de todas las categorías de nivel de servicio y medidor de Azure. Los colores más claros del mapa representan valores inferiores, mientras que los colores más oscuros representan valores más altos. Puede buscar y seleccionar un país en la cuadrícula para hacer zoom 
 
@@ -66,7 +66,7 @@ Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Uso de Azure por geografía":::
 
-**Uso de Azure**
+## <a name="azure-utilization"></a>Uso de Azure
 
 En esta vista se muestran las tendencias de horas de uso o ingresos de consumo de Azure de un mes a otro según las categorías de nivel de servicio y medidor de Azure. 
 

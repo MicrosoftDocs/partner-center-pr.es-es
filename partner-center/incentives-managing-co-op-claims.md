@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303201"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220543"
 ---
 # <a name="manage-co-op-claims"></a>Administración de reclamaciones de cooperación
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
 
-El siguiente contenido le proporciona información para administrar las notificaciones de la cooperación, incluidas las escalas de tiempo y las reglas, y cómo cuestionar una reclamación de cooperación rechazada.
-
-Roles adecuados:
+**Roles adecuados:**
 
 - Administrador de incentivos
+
+El siguiente contenido le proporciona información para administrar las notificaciones de la cooperación, incluidas las escalas de tiempo y las reglas, y cómo cuestionar una reclamación de cooperación rechazada.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Aprobación y fechas límite de pago de reclamaciones de cooperación
 
@@ -72,3 +72,7 @@ Si se determina que los materiales que proporcionó con la notificación de coop
 4. En la parte inferior de la página, seleccione **Impugnar**.
 
 El equipo de validación de notificaciones de cooperación revisará la notificación en un plazo de cinco días laborables. Durante este tiempo, el estado se mostrará como **Con conflicto**. Podemos ponernos en contacto con usted para solicitar información adicional. Una vez completada la revisión, el equipo de validación actualizará el estado a **Aprobado**, **Rechazado** o **Acción por parte del partner necesaria**.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Introducción a los incentivos](incentives-get-started-intro.md)

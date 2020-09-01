@@ -1,25 +1,31 @@
 ---
 title: Preguntas más frecuentes sobre incentivos
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Preguntas más frecuentes sobre los incentivos de Microsoft
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427019"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220593"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Preguntas más frecuentes sobre los incentivos
 
-Se aplica a:
+**Se aplica a:**
 
 - Centro de partners
+
+**Roles adecuados:**
+
+- Administrador de incentivos
+
+- Usuario de incentivos
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>¿Es necesario ser administrador global para inscribirse en incentivos?
 
@@ -42,3 +48,7 @@ Los principales roles de los incentivos son el usuario de incentivos y el admini
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>¿Con quién debo ponerme en contacto si obtengo un mensaje de error o necesito ayuda durante el proceso de inscripción?
 
 Hay un servicio de soporte técnico en línea si encuentra algún problema en la sección incentivos del panel; consulte la opción de soporte técnico (? ) En la parte superior derecha.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Introducción a los incentivos](incentives-get-started-intro.md)

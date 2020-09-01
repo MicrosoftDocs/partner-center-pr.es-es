@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781837"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220183"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
@@ -102,7 +102,9 @@ Para buscar la información de contacto del ISV:
 
 ## <a name="faq"></a>Preguntas más frecuentes
 
-**¿Qué se incluye como parte de los derechos de soporte técnico?**
+Consulte a continuación las preguntas más frecuentes sobre las solicitudes de servicio que puede enviar en nombre de un cliente. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>¿Qué se incluye como parte de los derechos de soporte técnico?
 
 Las solicitudes de servicio deben archivarse a través del centro de Partners. Están disponibles para Azure, Microsoft Office 365, Microsoft Dynamics CRM Online y Enterprise Mobility Suite. Como partner que participa en el programa Proveedor de soluciones en la nube, puedes esperar un tiempo de respuesta prioritario para tus problemas más importantes.
 
@@ -110,7 +112,7 @@ La compatibilidad con su propio inquilino de socio no se incluye como parte de l
 
 Esta ventaja se aplica a todos los partners que participan en el programa Proveedor de soluciones en la nube, ya sea de pago o en un período de prueba. El soporte técnico de administración de suscripciones y facturación también se incluye como componente gratuito de este paquete.
 
-**¿En cuánto tiempo recibiré una respuesta inicial?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>¿En cuánto tiempo recibiré una respuesta inicial?
 
 Los tiempos de respuesta inicial dependen de la gravedad del incidente enviado. La gravedad de un problema viene determinada por tu indicación del impacto empresarial cuando envías una solicitud de servicio.
 
@@ -123,21 +125,21 @@ Tiempos de respuesta iniciales de los **incidentes técnicos-corrección**:
 Los tiempos de respuesta inicial son solo para soporte técnico en inglés. Se proporciona soporte técnico en el idioma local durante las horas laborables.
 En el caso de los incidentes que se encuentran dentro de los límites del derecho de soporte técnico, pero no se consideran incidentes de interrupción de la corrección, el tiempo de respuesta inicial puede ser de hasta un día laborable.
 
-**¿Puedo enviar una solicitud de servicio por teléfono?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>¿Puedo enviar una solicitud de servicio por teléfono?
 
 No, no se ofrece soporte telefónico para este programa.
 
-**¿Qué sucede si inicio sesión en el portal de Azure y omito el Centro de partners?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>¿Qué sucede si inicio sesión en el portal de Azure y omito el Centro de partners?
 
 Si inicia sesión directamente en el Microsoft Azure Portal, está viendo el centro en su propio contexto, no en el contexto de un cliente. Esta es la razón por la que solo debe iniciar sesión directamente en el Microsoft Azure Portal al crear una solicitud de servicio para sus propias suscripciones.
 
 El derecho de soporte técnico del programa CSP no proporciona soporte técnico en su propia suscripción de socio. Por este motivo, debe proporcionar el derecho a un plan de soporte técnico válido al crear una solicitud de servicio que se refiere a su suscripción de socio comercial. Algunos ejemplos son el identificador de contrato de MPN, Premier o un plan de soporte técnico de Azure. Para obtener más información, consulte las [preguntas más frecuentes sobre el soporte técnico de Azure](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**¿Qué ocurre si inicio sesión en el portal del centro de administración de Office 365 y omite el centro de Partners?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>¿Qué ocurre si inicio sesión en el portal del centro de administración de Office 365 y omite el centro de Partners?
 
 Si inicia sesión directamente en el centro de administración de Office 365, está viendo el centro en su propio contexto, no en el contexto de un cliente. Por eso solo debe iniciar sesión directamente en el centro de administración de Office 365 al crear una solicitud de servicio para sus propias suscripciones.
 
-**¿Cómo puedo obtener soporte adicional de Dynamics 365?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>¿Cómo puedo obtener soporte adicional de Dynamics 365?
 
 Si tiene problemas relacionados con: las suscripciones a Dynamics 365 plan, las licencias, la facturación, las operaciones de finanzas &, las licencias de producto de Dynamics 365 o necesita soporte técnico adicional:
  

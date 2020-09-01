@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239053"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220304"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Informe de licencias de producto en el panel del centro de Partners Insights
 
@@ -32,29 +32,32 @@ El informe de licencias de producto presenta análisis de licencias para product
 - Distribución de licencias por ubicaciones de asociados, canal de ventas, SKU, tipo de Asociación de asociados, segmento
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
-**Resumen**
+## <a name="summary"></a>Resumen
 
 En la sección Resumen se proporciona una vista de instantánea de los indicadores clave de rendimiento (KPI) asociados a las licencias de productos de nube vendidas, implementadas y utilizadas. Esto le ayudará a realizar un seguimiento del uso activo con respecto a las licencias vendidas a los clientes.
 
-- Licencias: recuento actual de todas las licencias vendidas o administradas por usted para productos en la nube basados en licencias, como O365, Dynamics, M365, Power BI, etc. Porcentaje de crecimiento o disminución de estas licencias en el intervalo de fechas seleccionado.
-
-El micro gráfico presenta la tendencia mensual en meses de recuentos de licencias durante el intervalo de fechas seleccionado.
-
-- Licencias implementadas: recuento actual de todas las licencias asignadas de su cliente.
-Porcentaje de crecimiento o disminución de estas licencias durante el período de tiempo seleccionado.
-
-El micro gráfico presenta la tendencia de mes a mes de los recuentos de licencias asignados durante el intervalo de fechas seleccionado.
-
-- Licencias activas: recuento actual de todas las licencias de cliente con cualquier uso activo durante los últimos 30 días durante el intervalo de fechas seleccionado.
-Porcentaje de crecimiento o disminución de estas licencias durante el intervalo de fechas seleccionado.
-
-El micro gráfico presenta la tendencia mensual en meses de los recuentos de licencias durante el intervalo de fechas seleccionado.
-
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Resumen del informe de licencias":::
 
-**Propagación geográfica de licencias**
+Consulte a continuación para obtener más información acerca de cada sección del Resumen.
+
+- Licenses: 
+  - Recuento actual de todas las licencias vendidas o administradas por el usuario para productos en la nube basados en licencias, como O365, Dynamics, M365, Power BI, etc.
+  - Porcentaje de crecimiento o disminución de estas licencias en el intervalo de fechas seleccionado.
+  - Gráfico de tendencias de licencias: el micro gráfico presenta la tendencia mensual de los recuentos de licencias durante el intervalo de fechas seleccionado.
+
+- Licencias implementadas:
+  - Recuento actual de todas las licencias asignadas de su cliente.
+  - Porcentaje de crecimiento o disminución de estas licencias durante el período de tiempo seleccionado.
+  - Micro chart de recuento de licencias: el micro gráfico presenta la tendencia de mes a mes de los recuentos de licencias asignados durante el intervalo de fechas seleccionado.
+
+- Licencias activas: 
+  - El recuento actual de todas las licencias de cliente con cualquier uso activo durante los últimos 30 días durante el intervalo de fechas seleccionado.
+  - Porcentaje de crecimiento o disminución de estas licencias durante el intervalo de fechas seleccionado.
+  - El micro gráfico presenta la tendencia mensual en meses de los recuentos de licencias durante el intervalo de fechas seleccionado.
+
+## <a name="geographical-spread-of-licenses"></a>Propagación geográfica de licencias
 
 La vista de **propagación geográfica de licencias** muestra la distribución geográfica de las licencias actuales y las licencias activas de los mercados de clientes. (El número de licencias **actual** también incluye licencias sin asignar).
 
@@ -64,7 +67,7 @@ Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="difusión geográfica de la licencia":::
 
-**Adiciones de licencia**
+## <a name="license-adds"></a>Adiciones de licencia
 
 Esta vista muestra la tendencia de las licencias agregadas durante el intervalo de fechas seleccionado. 
 
@@ -74,7 +77,7 @@ El eje X representa los meses del intervalo de fechas seleccionado. El eje Y rep
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="adiciones de licencia":::
 
-**Distribución de licencias**
+## <a name="license-distribution"></a>Distribución de licencias
 
 Esta vista muestra un desglose de las licencias de cliente por país o región del cliente. Al seleccionar un producto en el gráfico circular **licencia por producto** , el gráfico adyacente mostrará un desglose de la licencia por región del cliente.
 
