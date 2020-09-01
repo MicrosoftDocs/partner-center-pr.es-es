@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274992"
+ms.locfileid: "89281317"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -73,9 +73,9 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | UnitPrice | Precio por licencia, tal como se publicó en la lista de precios en el momento de la compra. Asegúrese de que este precio coincida con la información almacenada en el sistema de facturación durante la conciliación. |
 | Cantidad | Número de licencias. Asegúrese de que este precio coincida con la información almacenada en el sistema de facturación durante la conciliación. |
 | UnitType | Tipo de unidad en la que se carga el medidor.  |
-| BillingPreTaxTotal | Importe total de facturación antes de los impuestos. |
+| BillingPreTaxTotal | Importe total de facturación antes de los impuestos.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | La moneda en la región geográfica del cliente. |
-| PricingPreTaxTotal | Los precios, antes de que se agreguen los impuestos. <br/> _**PricingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| PricingPreTaxTotal | Los precios, antes de que se agreguen los impuestos. |
 | PricingCurrency | Moneda de la lista de precios. |
 | ServiceInfo1 | El número de conexiones Service Bus aprovisionadas y utilizadas en un día determinado. |
 | ServiceInfo2 | Campo heredado que captura los metadatos específicos del servicio opcionales. |
