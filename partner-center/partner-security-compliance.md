@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436734"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220203"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Estado de los requisitos de seguridad para partners: obtención de respuestas y comprobación de informes sobre el estado actual
 
@@ -129,7 +129,7 @@ Si usas una solución de MFA de terceros, identifica cómo se integra con Azure�
 
 Puede ser útil identificar los usuarios que inician sesión en el Centro de partners sin comprobación de MFA y comprobarlos con la implementación de MFA actual. Puede usar el [informe de inicio de sesión de Azure AD ](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para averiguar si un usuario ha completado la comprobación de MFA o no. Actualmente, el informe de inicio de sesión de Azure AD solo está disponible para los partners que se han suscrito a Azure AD Premium o a cualquier SKU de O365, lo que incluye Azure AD Premium (por ejemplo, EMS).
 
-**Para más información**
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Comunidad de grupos de guías de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Requisitos de seguridad del Centro de partners](partner-security-requirements.md)

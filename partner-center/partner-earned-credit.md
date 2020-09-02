@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390612"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220513"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Crédito obtenido del partners: información general sobre cómo funciona en la nueva experiencia de comercio en CSP
 
@@ -73,11 +73,8 @@ Estos servicios suponen un nivel de acceso adecuado para los partners en el ento
 >[!Note]
 >Los clientes tienen la opción de eliminar cualquier acceso que hayan proporcionado a los partners. Recuerda que los partners no deben obligar a los clientes a darles acceso si su único propósito es el de obtener crédito de Microsoft; el incumplimiento de este requisito podría hacer que el partner no sea apto para conseguir el crédito obtenido del partner.
 
-**Para más información**
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Cómo se calcula y paga el crédito que obtiene el partner](partner-earned-credit-explanation.md)
-
 - [Administrar suscripciones y recursos en el plan de Azure](azure-plan-manage.md)
-
 - [Lista de precios para la nueva experiencia comercial de Azure en CSP](azure-plan-price-list.md)
-
