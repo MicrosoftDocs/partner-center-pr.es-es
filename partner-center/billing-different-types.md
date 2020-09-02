@@ -1,45 +1,45 @@
 ---
 title: Tipos de facturación del Centro de partners
+description: Obtenga información sobre los diferentes tipos de facturación, períodos de facturación y fechas de facturación que puede ver en el centro de Partners.
 ms.topic: article
-ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenga información sobre los diferentes tipos de facturación, períodos de facturación y fechas de facturación que puede ver en el centro de Partners.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/13/2020
+ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527611"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367049"
 ---
-# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a><span data-ttu-id="9a003-103">Tipos de facturación en el centro de Partners: incluye la facturación basada en licencia y basada en el uso.</span><span class="sxs-lookup"><span data-stu-id="9a003-103">Types of billing in Partner Center - includes license-based, usage-based, and one-time billing</span></span>
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a><span data-ttu-id="c1366-103">Tipos de facturación en el centro de Partners: incluye la facturación basada en licencia y basada en el uso.</span><span class="sxs-lookup"><span data-stu-id="c1366-103">Types of billing in Partner Center - includes license-based, usage-based, and one-time billing</span></span>
 
-<span data-ttu-id="9a003-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="9a003-104">**Applies to**</span></span>
+<span data-ttu-id="c1366-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="c1366-104">**Applies to**</span></span>
 
-- <span data-ttu-id="9a003-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="9a003-105">Partner Center</span></span>
-- <span data-ttu-id="9a003-106">Partners del programa CSP</span><span class="sxs-lookup"><span data-stu-id="9a003-106">Partners in the CSP program</span></span>
+- <span data-ttu-id="c1366-105">Centro de partners</span><span class="sxs-lookup"><span data-stu-id="c1366-105">Partner Center</span></span>
+- <span data-ttu-id="c1366-106">Partners del programa CSP</span><span class="sxs-lookup"><span data-stu-id="c1366-106">Partners in the CSP program</span></span>
 
-<span data-ttu-id="9a003-107">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="9a003-107">**Appropriate roles**</span></span>
+<span data-ttu-id="c1366-107">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="c1366-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="9a003-108">Agente de administrador</span><span class="sxs-lookup"><span data-stu-id="9a003-108">Admin agent</span></span>
-- <span data-ttu-id="9a003-109">Administrador de facturación</span><span class="sxs-lookup"><span data-stu-id="9a003-109">Billing admin</span></span>
-- <span data-ttu-id="9a003-110">Administrador global</span><span class="sxs-lookup"><span data-stu-id="9a003-110">Global admin</span></span>
-- <span data-ttu-id="9a003-111">Agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="9a003-111">Helpdesk agent</span></span>
-- <span data-ttu-id="9a003-112">Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="9a003-112">Sales agent</span></span>
+- <span data-ttu-id="c1366-108">Agente de administrador</span><span class="sxs-lookup"><span data-stu-id="c1366-108">Admin agent</span></span>
+- <span data-ttu-id="c1366-109">Administrador de facturación</span><span class="sxs-lookup"><span data-stu-id="c1366-109">Billing admin</span></span>
+- <span data-ttu-id="c1366-110">Administrador global</span><span class="sxs-lookup"><span data-stu-id="c1366-110">Global admin</span></span>
+- <span data-ttu-id="c1366-111">Agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="c1366-111">Helpdesk agent</span></span>
+- <span data-ttu-id="c1366-112">Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="c1366-112">Sales agent</span></span>
 
-<span data-ttu-id="9a003-113">Se le facturarán las compras del centro de Partners en función de los productos, soluciones y servicios que compre en nombre de sus clientes.</span><span class="sxs-lookup"><span data-stu-id="9a003-113">You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers.</span></span> <span data-ttu-id="9a003-114">Los tipos de facturación son los siguientes:</span><span class="sxs-lookup"><span data-stu-id="9a003-114">The types of billing are as follows:</span></span>
+<span data-ttu-id="c1366-113">Se le facturarán las compras del centro de Partners en función de los productos, soluciones y servicios que compre en nombre de sus clientes.</span><span class="sxs-lookup"><span data-stu-id="c1366-113">You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers.</span></span> <span data-ttu-id="c1366-114">Los tipos de facturación son los siguientes:</span><span class="sxs-lookup"><span data-stu-id="c1366-114">The types of billing are as follows:</span></span>
 
-- <span data-ttu-id="9a003-115">[**Facturación basada en licencias**](license-based-billing.md), donde se factura por licencia (no por el uso de licencias).</span><span class="sxs-lookup"><span data-stu-id="9a003-115">[**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).</span></span>
-- <span data-ttu-id="9a003-116">Facturación de transacciones SaaS basadas en licencias (consulte [**escenarios de facturación comunes para cargos de SaaS**](common-billing-scenarios-saas.md)).</span><span class="sxs-lookup"><span data-stu-id="9a003-116">Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).</span></span>
+- <span data-ttu-id="c1366-115">[**Facturación basada en licencias**](license-based-billing.md), donde se factura por licencia (no por el uso de licencias).</span><span class="sxs-lookup"><span data-stu-id="c1366-115">[**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).</span></span>
+- <span data-ttu-id="c1366-116">Facturación de transacciones SaaS basadas en licencias (consulte [**escenarios de facturación comunes para cargos de SaaS**](common-billing-scenarios-saas.md)).</span><span class="sxs-lookup"><span data-stu-id="c1366-116">Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).</span></span>
 
-<span data-ttu-id="9a003-117">En función de los tipos de productos que compres para tus clientes, es posible que tengas períodos de facturación diferentes y que se te facture en distintos días del mismo mes.</span><span class="sxs-lookup"><span data-stu-id="9a003-117">Depending on the types of products you purchase for your customers, you might have different billing periods and be billed on different days of the same month.</span></span>
+<span data-ttu-id="c1366-117">En función de los tipos de productos que compres para tus clientes, es posible que tengas períodos de facturación diferentes y que se te facture en distintos días del mismo mes.</span><span class="sxs-lookup"><span data-stu-id="c1366-117">Depending on the types of products you purchase for your customers, you might have different billing periods and be billed on different days of the same month.</span></span>
 
-<span data-ttu-id="9a003-118">Si ha optado por facturar mensualmente o si ha comprado productos basados en el uso que se facturan mensualmente, la fecha de facturación mensual es el día del mes que ha seleccionado al crear su cuenta de CSP en el centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="9a003-118">If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center.</span></span> <span data-ttu-id="9a003-119">Una vez que haya creado correctamente la cuenta de CSP, Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación.</span><span class="sxs-lookup"><span data-stu-id="9a003-119">After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date.</span></span> <span data-ttu-id="9a003-120">Una vez creada, no se puede cambiar esta fecha.</span><span class="sxs-lookup"><span data-stu-id="9a003-120">Once created, this date cannot be changed.</span></span>
+<span data-ttu-id="c1366-118">Si ha optado por facturar mensualmente o si ha comprado productos basados en el uso que se facturan mensualmente, la fecha de facturación mensual es el día del mes que ha seleccionado al crear su cuenta de CSP en el centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="c1366-118">If you've chosen to be billed monthly or if you've bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center.</span></span> <span data-ttu-id="c1366-119">Una vez que haya creado correctamente la cuenta de CSP, Microsoft enviará un correo electrónico de confirmación que incluye la fecha de facturación.</span><span class="sxs-lookup"><span data-stu-id="c1366-119">After you've successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date.</span></span> <span data-ttu-id="c1366-120">Una vez creada, no se puede cambiar esta fecha.</span><span class="sxs-lookup"><span data-stu-id="c1366-120">Once created, this date cannot be changed.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="9a003-121">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="9a003-121">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="c1366-121">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="c1366-121">Next steps</span></span>
 
-- [<span data-ttu-id="9a003-122">Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="9a003-122">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>](read-your-bill.md)
+- [<span data-ttu-id="c1366-122">Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="c1366-122">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>](read-your-bill.md)
