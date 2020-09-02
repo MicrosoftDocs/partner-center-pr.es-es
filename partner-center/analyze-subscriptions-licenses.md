@@ -1,20 +1,20 @@
 ---
 title: Analizar suscripciones y licencias
-ms.date: 07/08/2020
+description: Obtenga información sobre cómo usar las métricas en la página de análisis de licencias y suscripción para identificar sus éxitos y áreas que requieren más atención.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenga información sobre cómo usar las métricas en la página de análisis de licencias y suscripción para identificar sus éxitos y áreas que requieren más atención.
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 07/08/2020
+ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220693"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367309"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analice las suscripciones y licencias para ayudarle a impulsar decisiones empresariales y nuevos objetivos
 

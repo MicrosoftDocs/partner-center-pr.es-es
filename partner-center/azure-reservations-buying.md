@@ -1,20 +1,20 @@
 ---
 title: Compra de reservas de Microsoft Azure para clientes
+description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Obtenga información sobre cómo comprar o adquirir reservas de Azure en nombre de sus clientes en el centro de Partners.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900099"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367019"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -139,7 +139,7 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
       >Si opta por limitar el ámbito de la reserva a una sola suscripción de Azure, puede que tenga que aumentar la cuota de vCPU de la suscripción. Para aumentar la cuota de vCPU de la suscripción, deberá crear una solicitud de soporte técnico en el Azure Portal. Siga las instrucciones [de este tema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para crear la solicitud. 
 
       >[!NOTE]   
-      >Si el cliente está en el plan de Azure, el **ámbito** se establecerá en **compartido**. 
+      >Si el cliente está en el plan de Azure, el **ámbito**  se establecerá en **compartido**. 
 
     - Si es un asociado de proveedor, seleccione el distribuidor que desea asociar con el producto.
     
