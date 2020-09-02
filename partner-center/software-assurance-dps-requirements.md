@@ -1,7 +1,7 @@
 ---
 title: Idoneidad para la planeación de compromisos de servicios
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre los requisitos de idoneidad para cada compromiso de servicios de planeación de software Assurance que una empresa podría querer ofrecer a los clientes empresariales.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711827"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286509"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver los requisitos de idoneidad para los compromisos de Planning Services
 
@@ -31,9 +31,6 @@ Este tema le ayudará a conocer los requisitos de idoneidad que debe cumplir ant
 ## <a name="learn-more-about-each-engagement"></a>Más información sobre cada compromiso
 
 Cada compromiso de servicios de planeación tiene sus propios requisitos de elegibilidad específicos y sus propias Duraciones máximas permitidas.
-
-> [!NOTE]
-> Para poder ofrecer una contratación de servicio de planeación específica, debe cumplir los distintos tipos de requisitos de competencia. En primer lugar, debe cumplir los requisitos mínimos de capacidad para inscribirse en las ofertas de Planning Services. A continuación, su empresa también debe cumplir los requisitos de competencia asociados a la entrega de un tipo específico de compromiso.
 
 Para obtener más información acerca de estos requisitos de competencia específicos de Engagement, consulte la tabla siguiente.
 
