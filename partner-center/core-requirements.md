@@ -1,7 +1,7 @@
 ---
 title: Requisitos básicos para reclamaciones de incentivos de cooperación
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtenga información acerca de cómo generar demanda, comprender el desarrollo del mercado y maximizar la preparación de los asociados para las actividades de su programa de incentivos.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
-ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
+ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "88039468"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220673"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>Requisitos básicos para reclamaciones de incentivos de cooperación
 

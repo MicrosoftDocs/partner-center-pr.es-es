@@ -1,7 +1,7 @@
 ---
 title: Administración de las ventajas de Microsoft Partner Network
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Únete a Microsoft Partner Network (MPN) y usa el Centro de partners para administrar las ventajas y las ofertas de la suscripción, que pueden ayudarte a que tu negocio crezca.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120009"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220753"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners
 
@@ -41,9 +41,11 @@ Tras comprar un paquete de beneficios de suscripción, deberás obtener claves d
 >[!IMPORTANT]
 >Aunque no tienes que ser un administrador global de la organización para comprar beneficios, tienes que ser el administrador global para asignarlos a los empleados. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
-Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos, ofertas y programas de comercialización. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos de comercialización, ofertas y programas relacionados con el mercado. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para ver y administrar todos tus beneficios de suscripción, ve a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere inicio de sesión). Como alternativa, puedes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, selecciona la [**opción Beneficios**] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
+Para ver y administrar todos sus beneficios de suscripción, vaya a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere iniciar sesión). Como alternativa, puedes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, selecciona la [**opción Beneficios**] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
+
+Para activar la mayoría de los beneficios o descargar claves de software relacionadas, etc., el Centro de partners normalmente requiere que alguien tenga asignado el rol de administrador global o administrador de asociados de MPN. Si no puede ver ningún beneficio o no puede activar algún beneficio, consulte con el administrador global del Centro de partners para asegurarse de tener los permisos adecuados. [Obtenga más información sobre los roles del Centro de partners](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Administrar los beneficios de software
 
@@ -88,23 +90,27 @@ Para ver y administrar todos tus beneficios de suscripción, ve a la [página **
 
 ## <a name="manage-technical-benefits"></a>Administrar las ventajas técnicas
 
-1. Selecciona **Ventajas técnicas** para ver la lista de tus ventajas técnicas de Microsoft.
+En esta sección se describe cómo activar y administrar las ventajas del soporte técnico en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners. Sin embargo, si su pertenencia a Microsoft Partner Network todavía está en Partner Membership Center (PMC), tendrá que ponerse en contacto con otro recurso, como Partner Frontline, para recibir ayudar para activar sus ventajas técnicas. Consulte [Activar las ventajas técnicas fuera del Centro de partners](partner-membership-center-tech-benefits-activate.md).
 
-   Las ventajas técnicas pueden incluir incidentes de soporte técnico de productos de Microsoft, horas de asesoría de partner y servicios de preventas técnicas e implementación.
+Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
-2. Busca el beneficio de soporte técnico que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles del beneficio.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-3. Para activar el beneficio de soporte técnico, asígnaselo a un usuario.
+2. Seleccione **Beneficios** y, a continuación, **Ventajas técnicas** en el menú de navegación izquierdo. Aparece la página Ventajas técnicas con una lista de las ventajas de soporte técnico disponibles para cualquiera de sus competencias Gold, Silver o Microsoft Action Pack.
 
-   a. Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta**.
+   Si no ve estas opciones o la página Ventajas técnicas, es posible que no tenga asignados los [roles de usuario](permissions-overview.md) correctos en el Centro de partners. Póngase en contacto con el administrador global del Centro de partners para obtener acceso.
 
-   b. Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa.
+3. Expanda la lista de beneficios. Para empezar a usar una ventaja de soporte técnico específica, debe hacer lo siguiente la primera vez que la use:
 
-   Como medida de seguridad, te enviaremos un mensaje de instrucciones para acceder a soporte técnico de productos de Microsoft a esta dirección de correo electrónico, además del correo electrónico de la cuenta del Centro de partners del usuario. Pueden ser necesarios varios días para activar este beneficio y para que el usuario asignado reciba las instrucciones por correo electrónico.
+   - **Active la ventaja técnica.** Después de expandir los detalles de una ventaja, seleccione **Activar**. Deje pasar unos días para que se procese la solicitud de activación.
 
-   c. Cuando hayas terminado de introducir la dirección de correo electrónico alternativa, selecciona **Asignar usuario**.
+   - **Vea y comparta el id. de acceso y el id. de contrato de soporte técnico del producto.** Una vez que se procese la solicitud de activación, verá los detalles sobre el **Id. de acceso** y el **Id. de contrato** la próxima vez que expanda esa ventaja técnica. Es posible que usted, o los usuarios de su empresa, tenga que compartir esta información la primera vez que se envíe una solicitud de soporte técnico para determinados tipos de productos o servicios.
 
-4. Puedes usar la asistencia técnica de preventas o la ventaja de horas de asesoría para solicitar asistencia técnica durante las preventas, el diseño, la implementación y las fases de desarrollo de aplicaciones de las soluciones en la nube e híbridas. Para solicitar asistencia, rellena el [formulario de solicitud](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) y, a continuación, selecciona **Enviar solicitud**.
+4. Una vez activada, puede usar las ventajas técnicas para diferentes tipos de soporte técnico. Para enviar solicitudes de soporte técnico para estos tipos de servicios, lea las instrucciones detalladas en la página Ventajas técnicas:
+
+   - Solicitud de soporte técnico para productos en la nube en nombre de un cliente
+   - Solicitud de soporte técnico para productos locales
+   - Solicitud de preventas técnicas y servicios de implementación u [horas de asesoramiento](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
 
 ## <a name="manage-go-to-market-offers"></a>Administrar ofertas de comercialización
 
