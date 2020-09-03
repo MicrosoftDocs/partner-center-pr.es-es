@@ -1,7 +1,7 @@
 ---
 title: Encuentre sus ventajas
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo buscar las ventajas de MPN en el panel del centro de Partners.
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220772"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427122"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Busque sus ventajas Microsoft Partner Network 
-
-En este artículo se indica a los miembros del Microsoft Partner Network (MPN) cómo encontrar sus ventajas de MPN en el panel del centro de Partners. Esta información incluye cómo buscar los identificadores de soporte técnico específicos de su empresa, como el identificador de contrato y el identificador de acceso, asociados a las ventajas técnicas.
-
->[!NOTE]
-> Si la pertenencia a Microsoft Partner Network todavía está en el centro de pertenencia a asociados (PMC), es posible que deba ponerse en contacto con otro recurso como partner Frontline para ayudarle a ver o activar ciertas ventajas. Para obtener más información, consulte [activación de las ventajas técnicas fuera del centro de Partners](partner-membership-center-tech-benefits-activate.md).
 
 ### <a name="applies-to"></a>Se aplica a
 
@@ -32,7 +27,14 @@ En este artículo se indica a los miembros del Microsoft Partner Network (MPN) c
 - Administrador de partners de MPN
 - Administrador global
 
-Como miembro de Microsoft Partner Network (MPN), su empresa tiene acceso a muchas de las ventajas que pueden ayudar en el crecimiento de su negocio. Para averiguar cuáles son las ventajas:
+En este artículo se indica a los miembros del Microsoft Partner Network (MPN) cómo encontrar sus ventajas de MPN en el panel del centro de Partners. Esta información incluye cómo buscar los identificadores de soporte técnico específicos de su empresa, como el identificador de contrato y el identificador de acceso, asociados a las ventajas técnicas.
+
+>[!NOTE]
+> Si la pertenencia a Microsoft Partner Network todavía está en el centro de pertenencia a asociados (PMC), es posible que deba ponerse en contacto con otro recurso como partner Frontline para ayudarle a ver o activar ciertas ventajas. Para obtener más información, consulte [activación de las ventajas técnicas fuera del centro de Partners](partner-membership-center-tech-benefits-activate.md).
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Busque las ventajas de MPN en el centro de Partners
+
+Como miembro de Microsoft Partner Network, su empresa tiene acceso a muchas de las ventajas que pueden ayudar en el crecimiento de su negocio. Para averiguar cuáles son las ventajas:
 
 1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners, seleccione **MPN**y, luego, seleccione **beneficios**.
 
@@ -60,7 +62,7 @@ Después de seguir los pasos anteriores y activar ciertas ventajas (como benefic
 En el caso de las ventajas técnicas, verá los identificadores de soporte técnico de Microsoft, como el **identificador de acceso** y el **identificador de contrato** en el centro de Partners.
 
 >[!NOTE]
-> Si la pertenencia a Microsoft Partner Network todavía está en el centro de pertenencia a asociados (PMC) y aún no se ha migrado al centro de Partners, deberá ponerse en contacto con el Partner Frontline para activar los beneficios técnicos o recibir el identificador de acceso y el identificador de contrato de soporte técnico.
+> Si la pertenencia a Microsoft Partner Network todavía está en el centro de pertenencia a asociados (PMC) y aún no se ha migrado al centro de Partners, deberá [ponerse en contacto con el Partner Frontline](partner-membership-center-tech-benefits-activate.md) para activar los beneficios técnicos o recibir el identificador de acceso y el identificador de contrato de soporte técnico.
 
  Siga estos pasos para ver esta información en el centro de Partners:
 
