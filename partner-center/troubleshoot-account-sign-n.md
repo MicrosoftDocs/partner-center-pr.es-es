@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
+ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220243"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89443591"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuración de cuenta o de renovación de MPN
 
@@ -31,13 +31,15 @@ Estas son algunas sugerencias para solucionar problemas comunes que surgen al co
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>¿Qué ocurre si está migrando desde el centro de pertenencia de socios comerciales y no puede editar los campos de información de la compañía?
 
-Esto se produce en los casos en los que su empresa ya tiene una presencia en el centro de Partners (por ejemplo, la cuenta de CSP), se mostrará una pantalla de solo lectura que mostrará toda la información sobre su empresa tal como existe en el centro de Partners.
+En los casos en los que su empresa ya tiene una presencia en el centro de Partners (por ejemplo, la cuenta de CSP), se mostrará una pantalla de solo lectura que mostrará toda la información sobre su empresa tal como existe en el centro de Partners.
 
 No se pueden cambiar los detalles de esta pantalla. Esto es así por diseño y no un error.
 
 Seleccione **Aceptar** y **continúe** para continuar.
 
-## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Está intentando inscribirse o migrar desde el centro de pertenencia del asociado y recibe un mensaje de error que indica que el Departamento de ti ha desactivado el **registro para el centro de Partners**.
+
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si el Departamento de ti ha desactivado **registrarse en el centro de Partners**.
+
 
 Verá este mensaje porque los usuarios virales están deshabilitados o se ha deshabilitado el registro viral en el inquilino de Azure AD. El administrador global de su cuenta de Azure AD puede habilitar las características necesarias ejecutando el siguiente comando de PowerShell:
 
@@ -51,11 +53,13 @@ Si ha olvidado la contraseña, seleccione el vínculo **¿no puede acceder a su 
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>En la pantalla "indíquenos sobre su empresa", recibe el error "se ha producido algún problema"
 
-Esto suele ocurrir si utiliza accidentalmente caracteres especiales, espacios o código de país en el número de teléfono de la empresa. El valor especificado en el campo número de teléfono solo puede contener un máximo de 10 caracteres.
+Este mensaje de error suele mostrarse si utiliza accidentalmente caracteres especiales, espacios o código de país en el número de teléfono de la empresa. El valor especificado en el campo número de teléfono solo puede contener un máximo de 10 caracteres.
 
-## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Está intentando completar la compra a través de la tarjeta de crédito, pero recibe un mensaje de error que indica que "el pedido se ha rechazado. Compruebe la información "
 
-Siempre debe insertar la dirección correspondiente a su tarjeta de crédito y que no corresponda a su entidad legal. Además, asegúrese de que el código postal sea correcto y corresponda a la dirección que use.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>La compra de la tarjeta de crédito recibe un mensaje de error que indica que "el pedido se ha rechazado. Compruebe la información "
+
+
+Use siempre la dirección correspondiente a su tarjeta de crédito en lugar de la entidad legal. Además, asegúrese de que el código postal sea correcto y corresponda a la dirección que use.
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Quiere cambiar de pago sin conexión a método de pago en línea 
 
@@ -68,3 +72,8 @@ Para cancelar un pedido:
 2. Seleccione **Cancelar orden**
 
 3. Aparecerá una ventana de confirmación que debe confirmar para cancelar el pedido inicial.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
+- [Cómo leer el archivo de factura y concil](read-your-bill.md)
