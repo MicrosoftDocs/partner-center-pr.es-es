@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286510"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427102"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Experiencia de soporte técnico de incentivos y proceso de creación de vales mejorados](2020-september.md#4)|2 de septiembre|
 |Ofertas/mercados|[Próximas ofertas nuevas de Microsoft Dynamics 365](2020-september.md#3)|1 de septiembre|
 |Ofertas/mercados|[El plan de llamadas para Office 365 estará disponible en los nuevos mercados el 1 de octubre de 2020](2020-september.md#2)|1 de septiembre|
 |Ofertas/mercados|Ya está disponible [Protección contra amenazas avanzada de Microsoft Defender (ATP) para Servidores para Educación](2020-september.md#1)|1 de septiembre|
