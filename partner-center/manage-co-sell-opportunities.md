@@ -9,28 +9,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434364"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471460"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
 **Se aplica a**
 
 - Centro de partners
-- Referencias
-- Venta conjunta con Microsoft
-- Uso compartido
 
 **Roles adecuados**
 
 - Administrador de partners de MPN
 - Administrador de referencias
 
-Puede aprovechar las ventajas de las oportunidades de venta conjunta.  Las oportunidades de venta conjunta son aquellas en las que hay una venta colaborativa realizada por varias partes para satisfacer las necesidades de los clientes. Esta sección le ayudará a comprender cómo puede aprovechar la eficacia de la venta conjunta en el centro de partners para realizar de forma eficaz la venta conjunta y la adquisición de nuevos clientes.
+Aproveche las ventajas de las oportunidades de venta conjunta.  Las oportunidades de venta conjunta son una colaboración de varias partes para vender productos que satisfacen las necesidades de los clientes. Este artículo le ayudará a comprender cómo puede usar el potencial de la venta conjunta en el centro de partners para vender de forma eficaz y adquirir nuevos clientes.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de venta conjunta
 
@@ -47,9 +44,9 @@ Hay tres pestañas de nivel superior en la sección de venta conjunta.
 
 **Entrante** : en esta pestaña se encuentran disponibles todas las oportunidades que se envían al socio comercial de los vendedores de Microsoft para la venta en colaboración.
 
-**Saliente** : todas las oportunidades que crea el socio comercial están disponibles en esta pestaña. los asociados pueden crear dos categorías diferentes de oportunidades: venta conjunta y canalización privada. 
+**Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear dos categorías diferentes de oportunidades: venta conjunta y de canalización privada. 
 
-**Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas de las oportunidades de venta conjunta entrantes o salientes. para marcar cualquier oportunidad como favorita, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
+**Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas oportunidades de venta conjunta entrantes o salientes. Marque cualquier oportunidad como favorita; para ello, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
 
 
 ## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta 
@@ -130,7 +127,25 @@ Cuando haya terminado, puede realizar una de las dos acciones, que marcan el tra
 
 ### <a name="archived-stage"></a>Fase de archivado
 
-Se trata de una fase de terminal donde finalmente se alcanzan todas las oportunidades. En esta fase puede ver todos los clientes potenciales que se encuentran en **ganada, perdida, rechazada**y que han **expirado** . No hay acciones que pueda realizar en esta fase.
+Esta es la fase final de todas las oportunidades. Puede ver todos los clientes potenciales que se encuentran en el archivo **ganado, perdido, rechazado**y **caducado** . No hay acciones que pueda realizar en esta fase.
+
+## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+
+**Q1. ¿Se puede editar una vez que se ha marcado como ganada o perdida?**
+
+No, los contratos no se pueden modificar una vez que pasan a un estado de terminal. Caducado, rechazo, ganada y perdida son Estados de terminal en los que no es posible realizar más actualizaciones para el trato. Tenga cuidado al trasladar el trato a cualquiera de estos Estados de terminal.
+
+**Q2. He recibido una nueva notificación de referencia, pero no la encuentra en el centro de Partners.**
+
+Esto puede ocurrir si su empresa tiene varios inquilinos asociados a la misma cuenta de MPN. Vaya a la configuración de la cuenta del centro de Partners y compruebe los inquilinos asociados con la cuenta. A continuación, cree una incidencia de soporte técnico para la vinculación de los inquilinos. Proporcione el identificador de inquilino en el que ha iniciado sesión en la incidencia de soporte técnico.
+
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagen que muestra la configuración de la cuenta en la que se puede encontrar información del inquilino.":::
+
+**Q3. ¿Quién recibe una notificación por correo electrónico del centro de Partners?**
+
+En el flujo de trabajo siguiente se explica cómo se envían los mensajes de correo electrónico a los asociados desde el sistema de referencias del centro de partners para las nuevas referencias de entrada de socios comerciales.
+
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para las nuevas referencias entrantes.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtener más oportunidades de venta conjunta
 
