@@ -1,22 +1,22 @@
 ---
-title: Referencias 101 para asociados de la migración de ventas asociadas (PSC) al centro de Partners (PC)
+title: Migrar de sales Partner Connect (PSC)
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir acuerdos, invitar a Microsoft a colaborar o ver ofertas enviadas.
+description: Obtenga información acerca de cómo los asociados de Microsoft pueden migrar de Partner Sales Connect (PSC) al centro de Partners y crear o administrar los acuerdos enviados por los vendedores de Microsoft.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471472"
+ms.locfileid: "89490663"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
 **Se aplica a**
 

@@ -8,12 +8,12 @@ description: Sincronizar las referencias en el centro de Partners con el CRM de 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527581"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490673"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 
@@ -28,7 +28,7 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 ## <a name="before-you-install---pre-requisites"></a>Antes de instalar: requisitos previos
 
-|**Temas**   |**Detalles**   |**Vínculos**   |
+|**Tratados**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
 |Lista de coventas|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -109,7 +109,7 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 1. Para registrar la dirección URL, seleccione **registro de webhook del centro de Partners (versión preliminar de Insider)** flujo de automatización.
 
-2. Agregar conexiones para () Usuario del centro de Partners con credenciales de administrador de referencias (b.) Eventos del centro de Partners, tal y como se resalta
+2. Agregar conexiones para (a) el usuario del centro de Partners con credenciales de administrador de referencias (b.) eventos del centro de partners como se resaltan a continuación
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Desencadenador":::
 
@@ -171,7 +171,7 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
 3. Para personalizar los campos de la sincronización de referencia de CRM a equipo para eventos de actualización:
 
-    a. Seleccione **Editar** para editar o personalizar el flujo de Power Automatic.
+    a. Seleccione **Editar**  para editar o personalizar el flujo de Power Automatic.
 
     b. Seleccione **(ámbito) sincronizar la oportunidad**.
 
@@ -183,7 +183,7 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
 4. Para personalizar los campos de la sincronización de referencia de CRM a equipo para crear eventos
 
-   a. Seleccione **Editar** para editar o personalizar el flujo de Power Automatic.
+   a. Seleccione **Editar**  para editar o personalizar el flujo de Power Automatic.
 
    b. Seleccione **(ámbito) sincronizar referencias.**
 
@@ -223,7 +223,7 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
    2. Asegúrese de que la siguiente sección está presente al crear una "nueva oportunidad" en el entorno de Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Oportunidad":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Sección de la oportunidad de ejemplo que muestra la información del centro de Partners de Microsoft en Dynamics 365.":::
 
    3. Para sincronizar esta oportunidad con el centro de Partners de Microsoft, asegúrese de establecer los siguientes campos en la vista tarjeta:
 
@@ -231,7 +231,7 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
       - **¿Cómo puede ayudarle Microsoft?**: Seleccione una de las siguientes opciones:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Selecciones de la ayuda":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sección de la oportunidad de ejemplo en Dynamics 365 que muestra las opciones de ayuda del centro de Partners de Microsoft junto a un campo llamado ¿Cómo puede ayudarle Microsoft?":::
 
       - **Productos**: identificadores de la solución del producto
 

@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545666"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490653"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver facturas firmadas digitalmente
 
@@ -34,19 +34,19 @@ Los asociados de India ahora ven que Microsoft tiene facturas firmadas digitalme
 
 2. En la parte superior de la factura debería ver **firmado y todas las firmas son válidas**.
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="firma válida":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Factura de ejemplo con un banner de notificación de firma válido que muestra la firma de marca de verificación verde y la frase que indica, con firma y todas las firmas son válidas.":::
 
 3. Haga clic en la firma. Aparecerá el certificado que indica la validez.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="certificado"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Factura firmada con campo firmante autorizado y estado de validación de firma cuadro de diálogo con detalles, opción propiedades de la firma, opción cancelar."::: 
 
 4. Seleccione **propiedades** de la firma para ver más detalles sobre la validez de la firma.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Propiedades de la firma"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="La vista de detalles de las propiedades de la firma muestra información sobre quién, dónde, Cuándo se firmó el documento, su proceso de validación y el certificado del firmante."::: 
 
 4. También puede asegurarse de que las rutas de certificación son correctas y de que el certificado es de confianza.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="certificado":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="El cuadro de diálogo Visor de certificados muestra varias pestañas con más detalles sobre un certificado y su cadena de emisión completa.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Información adicional sobre las facturas y las firmas digitales
 
