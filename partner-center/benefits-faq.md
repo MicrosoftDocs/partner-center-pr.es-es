@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188439"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551646"
 ---
 # <a name="benefits-faq"></a>Preguntas frecuentes sobre ventajas
 
@@ -94,6 +94,8 @@ Puede asignar suscripciones a cualquier usuario de la lista de administración d
 4. Asigne los usuarios deseados a las suscripciones existentes de Visual Studio disponibles.
 
 Una vez asignada la suscripción, el usuario debe iniciar sesión en Visual Studio para administrarla.
+
+Nota: el usuario asignado a una suscripción de Visual Studio en el centro de Partners no se puede quitar hasta 90 días de la asignación original
 
 ## <a name="technical-benefits-and-support"></a>Ventajas técnicas y soporte técnico
 
