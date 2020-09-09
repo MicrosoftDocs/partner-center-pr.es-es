@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427102"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564765"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,7 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
-|Ofertas/mercados|[Experiencia de soporte técnico de incentivos y proceso de creación de vales mejorados](2020-september.md#4)|2 de septiembre|
+|Ofertas/mercados|[Las nuevas SKU aportan la eficacia de Project Cortex y mucho más a los clientes](2020-september.md#5)|8 de septiembre|
+|Funcionalidades|[Experiencia de soporte técnico de incentivos y proceso de creación de vales mejorados](2020-september.md#4)|2 de septiembre|
 |Ofertas/mercados|[Próximas ofertas nuevas de Microsoft Dynamics 365](2020-september.md#3)|1 de septiembre|
 |Ofertas/mercados|[El plan de llamadas para Office 365 estará disponible en los nuevos mercados el 1 de octubre de 2020](2020-september.md#2)|1 de septiembre|
 |Ofertas/mercados|Ya está disponible [Protección contra amenazas avanzada de Microsoft Defender (ATP) para Servidores para Educación](2020-september.md#1)|1 de septiembre|
