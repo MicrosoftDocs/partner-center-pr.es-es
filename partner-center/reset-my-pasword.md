@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811285"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564775"
 ---
 # <a name="reset-my-password"></a>Restablecimiento de mi contraseña
 
@@ -44,7 +44,7 @@ El administrador global debe haber configurado la capacidad de restablecer la co
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Si el administrador global ha abandonado la empresa
 
-Si el administrador global ha abandonado la empresa o ha pasado a otro rol y necesita agregar un nuevo administrador global, debe registrar una solicitud de servicio en el portal de [Microsoft Partner Network](https://partner.microsoft.com/commercial#/). El agente de soporte técnico puede solicitar la elevación de un usuario al administrador global si el solicitante es capaz de proporcionar la información de identidad personal necesaria y proporciona información adicional acerca de la empresa.
+Si el administrador global ha abandonado la empresa o ha pasado a otro rol y necesita agregar un nuevo administrador global, debe registrar una solicitud de servicio en el portal de [Microsoft Partner Network](https://partner.microsoft.com/commercial#/). El agente de soporte técnico puede solicitar la elevación de un usuario al administrador global si el solicitante es capaz de proporcionar la información de identidad personal necesaria y proporciona información adicional acerca de la empresa. 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
