@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943622"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564696"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
@@ -38,7 +38,7 @@ Lee también [Restablecer los privilegios de administrador para las suscripcione
 
 - El valor de PEC está asociado al consumo facturado (de pago) de los servicios de Azure del cliente en CSP y que administra el partner. Asimismo, este valor de PEC está disponible solo para partners en CSP y que factura Microsoft (proveedor indirecto y partners de facturación directa). 
 
-- Servicios válidos: El crédito obtenido del partner se aplica a los servicios enumerados en los [precios de consumo del plan de Azure](https://partner.microsoft.com/commerce/sales) que los partners pueden exportar desde la página de **precios del plan de Azure**. Ten en cuenta que hay excepciones que incluyen, sin limitación, productos de terceros identificados como **Tercero** en la columna **Etiquetas** de la lista de precios de consumo del plan de Azure y las reservas del plan de Azure, y productos de la lista de precios del Marketplace.
+- Servicios válidos: El crédito obtenido del partner se aplica a los servicios enumerados en los [precios de consumo del plan de Azure](https://partner.microsoft.com/commerce/sales) que los partners pueden exportar desde la página de **precios del plan de Azure**. El crédito obtenido por el partner no se aplica a productos de terceros identificados como **Tercero** en la **columna Etiquetas** de la lista de precios de consumo del plan de Azure,reserva del plan de Azure, productos de la lista de precios del marketplace y [máquinas virtuales de Azure al contado](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
 
 - El PEC se calcula a diario y se puede ver en el archivo de uso diario y en el archivo de conciliación de facturas mensuales. Un partner (proveedor indirecto o revendedor indirecto) debe tener acceso durante todo el día (24x7) para asegurarse de obtener el valor del PEC.  
 

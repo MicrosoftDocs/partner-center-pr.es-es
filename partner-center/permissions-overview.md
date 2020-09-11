@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040771"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490603"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -35,25 +35,24 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Administra las transacciones comerciales en el Centro de partners (roles de Azure AD y CSP)
 
-|**Rol**|**Qué puede hacer**|
-|----------------------------------|:---------------------------------|
-|Administrador global|*    Obtener acceso a todos los servicios o cuentas de Microsoft con privilegios completos
+|**Rol**|**Qué puede hacer**|**Más información**|
+|----------------------------------|---|:---------------------------------|
+|Administrador global|*    Obtener acceso a todos los servicios o cuentas de Microsoft con privilegios completos|[Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
 |      |*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
 ||*    Ver contratos, listas de precios y ofertas
 ||*    Ver, crear y administrar usuarios asociados|
 ||  • Ver, crear y administrar los archivos de facturación, facturas y conciliación
-|Administrador del control de usuarios   | *    Ver, crear y administrar usuarios
+|Administrador del control de usuarios   | *    Ver, crear y administrar usuarios|[Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners](manage-your-partner-network-benefits.md)
 ||*    Ver todos los perfiles de asociado
-||*    Ver, crear y administrar usuarios asociados  |
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
-|Administrador de facturación | • Ver, crear y administrar los archivos de facturación, facturas y conciliación|
+|Administrador de facturación | • Ver, crear y administrar los archivos de facturación, facturas y conciliación|[Lectura de la factura](billing.md)
 ||*    Ver precios
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
-|Usuario predeterminado|  Ver mi perfil   |
-|Agente de administrador | *    Administración de clientes
+|Usuario predeterminado|  Ver mi perfil   |[Restablecimiento de la contraseña](reset-my-pasword.md)
+|Agente de administrador | *    Administración de clientes|[Configuración y administración de las cuentas de clientes para partners revendedores en el Centro de partners](customer-accounts.md)
 ||*    Agregar una lista de dispositivos en el Centro de partners
 ||*    Crear perfiles y aplicarlos a dispositivos
 ||*    Administración de suscripciones
@@ -65,7 +64,7 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Registrar un revendedor de valor agregado
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree|
-|Agente de ventas | *    Administración de clientes
+|Agente de ventas | *    Administración de clientes|[Proporcionar soporte de facturación para sus clientes y ayudar a responder sus preguntas de facturación](provide-billing-support.md)
 ||*    Agregar una lista de dispositivos en el Centro de partners
 ||*    Administración de suscripciones
 ||*    Ver vales de soporte técnico
@@ -76,7 +75,7 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Registrar un vendedor de valor agregado
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree|
-|Agente del departamento de soporte técnico| *    Buscar y ver un cliente
+|Agente del departamento de soporte técnico| *    Buscar y ver un cliente|[Escalar los problemas a Microsoft y saber qué problemas son más adecuados para escalar a Microsoft.](escalate-problems-to-microsoft.md)
 ||*    Editar detalles del cliente
 ||*    Ayudar a resolver problemas del cliente referentes a la facturación o la administración de las suscripciones
 ||*    Solicitar soporte técnico en nombre de los clientes 
@@ -87,9 +86,9 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Proveedor del panel de control (CPV). (Rol de CSP y rol que no es de AAD)
 Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones en la nube (CSP) y que así puedan integrar sus sistemas con las API del Centro de partners. 
 
-|**Rol**   |**Qué puede hacer**|
-|------------------------------|:----------------------------|
-|Administrador global| Ver y administrar el perfil de CPV|
+|**Rol**   |**Qué puede hacer**|**Más información**|
+|------------------------------|:----------------------------|----|
+|Administrador global| Ver y administrar el perfil de CPV|[Inscribirse como proveedor de panel de control para facilitar la integración de sistemas de partners de CSP con las API del Centro de partners](enroll-as-cpv.md)
 ||Ver y administrar los usuarios que necesiten acceso a las funcionalidades de CPV|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuario invitado (debe agregarse al inquilino de AAD)
@@ -105,9 +104,9 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 
 ## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Administrar la pertenencia a MPN y su empresa (roles que no son de AAD: estos roles administran el negocio de la empresa en lugar del inquilino)
 
-|**Rol** | **Qué puede hacer**|
-|----------------------------|:----------------------------|
-|Administrador de partners de MPN|*    Ver, crear y administrar las solicitudes de servicio de los asociados||
+|**Rol** | **Qué puede hacer**|**Más información**|
+|----------------------------|:----------------------------|-----|
+|Administrador de partners de MPN|*    Ver, crear y administrar las solicitudes de servicio de los asociados|[Compra o renueva una suscripción a Microsoft Action Pack o las competencias Silver o Gold.](mpn-get-action-pack.md)
 ||*    Ver perfiles legales, de negocios, empresariales y de MPN
 ||*    Ver los detalles de los usuarios y sus datos de aptitudes
 ||*    Ver competencias
@@ -120,7 +119,7 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 ||*    Ver otros roles de usuario dentro de la empresa, pero no puede asignar roles
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
-|Administrador de cuentas| • Agregar ubicaciones
+|Administrador de cuentas| • Agregar ubicaciones|[Administrar ubicaciones](manage-locations.md)
 || • Administrar perfiles relacionados con las cuentas para las que es administrador 
 ||*    Asignar roles de usuarios del inquilino a roles que no son de AAD 
 ||*    Inscribir ubicaciones en programas
@@ -130,22 +129,22 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 
 ## <a name="manage-referrals"></a>Administrar referencias 
 
-|**Rol**|**Qué puede hacer**|
-|-----------------------------|:------------------------|
-|Administrador de referencias       |*    Ver, crear y administrar los perfiles de negocio
+|**Rol**|**Qué puede hacer**|**Más información**|
+|-----------------------------|:------------------------|---|
+|Administrador de referencias       |*    Ver, crear y administrar los perfiles de negocio|[Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas](manage-leads.md)
 ||*    Recibir y administrar referencias
 ||*    Ver, crear y administrar referencias de venta conjunta|
 ||*    Ver, crear y administrar las solicitudes de servicio de los asociados
-|Administrador del perfil de negocio   |*    Ver, crear y administrar el perfil de negocio 
+|Administrador del perfil de negocio   |*    Ver, crear y administrar el perfil de negocio |[Crear un perfil de negocio](create-a-marketing-profile.md)
 ||*    Ver, crear y administrar las solicitudes de servicio de los asociados
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree|
 
 ## <a name="manage-incentives"></a>Administrar incentivos 
 
-|**Rol** | **Qué puede hacer**|
-|------------------------------|:-------------------------|
-|Administrador de incentivos|*    Iniciar y administrar incentivos 
+|**Rol** | **Qué puede hacer**|**Más información**
+|------------------------------|:-------------------------|---|
+|Administrador de incentivos|*    Iniciar y administrar incentivos |[Usar estos recursos para ayudarle a empezar a trabajar con incentivos](incentives-get-started-intro.md)
 ||*    Ver y editar todos los aspectos de los programas de incentivos
 ||*    Ver y editar información bancaria y fiscal
 ||*    Ver ganancias de devolución y cooperación
@@ -159,12 +158,15 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 
 ## <a name="view-partner-center-insights-data"></a>Ver datos de conclusiones del Centro de partners
 
-|**Rol** | **Qué puede hacer**|
-|------------------------------|:-------------------------|
-|Visor de informes ejecutivos|Acceder a todos los conjuntos de datos de informes, crear vales de soporte para partners, ver los vales de soporte técnico para partners que cree|
+|**Rol** | **Qué puede hacer**|**Más información**|
+|------------------------------|:-------------------------|---|
+|Visor de informes ejecutivos|Acceder a todos los conjuntos de datos de informes, crear vales de soporte para partners, ver los vales de soporte técnico para partners que cree|[Revisar los informes del panel disponibles en la Información acerca del Centro de partners](pci-overview-report.md)
 |Visor de informes|Acceder a los informes de datos, con excepción de los ingresos y de los datos personales de clientes y empleados, crear vales de soporte para partners, ver los vales de soporte técnico para partners que cree|
 
+## <a name="next-steps"></a>Pasos siguientes
 
+- [Creación de cuentas de usuario y asignación de roles y permisos](create-user-accounts-and-set-permissions.md)
+- [Comprobación de la información de la cuenta al inscribirse en un nuevo programa del Centro de partners](verification-responses.md)
 
 
 
