@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490663"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082523"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -43,6 +43,9 @@ Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2
 - Configure su cuenta con la ayuda del administrador de la [cuenta](https://docs.microsoft.com/partner-center/permissions-overview)del centro de Partners.
 - Lea este documento para obtener información sobre cómo vender en el centro de Partners.
 - Configure cuentas de usuario en el centro de partners para todos los usuarios de PSC (roles de administrador, administrador de transacciones y vendedor) y asígneles [roles de administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview).
+
+>[!Important]
+> Asegúrese de que el identificador de MPN que se muestra en el banner de PSC está disponible en la lista de ubicaciones de MPN del centro de Partners. Puede comprobarlo en el centro de partners; para ello, vaya a configuración de la cuenta y [ubicaciones](https://docs.microsoft.com/partner-center/manage-locations) en este para buscar la lista de todas las MPNs asociadas a la cuenta del centro de Partners.
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si es un administrador de transacciones de PSC o un vendedor
 
