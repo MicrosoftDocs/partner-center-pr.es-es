@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444903"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614158"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Preguntas más frecuentes sobre los requisitos de seguridad para partners
 
@@ -214,7 +214,7 @@ Al aplicar la autenticación multifactor para todas las cuentas de usuario, cual
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Uso herramientas de automatización como PowerShell. ¿Cómo implemento el modelo de aplicaciones seguras?
 
-Deberás implementar el modelo de aplicaciones seguras si la automatización está pensada para ejecutarse de forma no interactiva y se basa en credenciales de usuario para la autenticación. Consulta [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) (Modelo de aplicaciones seguras | Powershell del Centro de partners) para obtener instrucciones de cómo implementar este marco.  
+Deberás implementar el modelo de aplicaciones seguras si la automatización está pensada para ejecutarse de forma no interactiva y se basa en credenciales de usuario para la autenticación. Consulta [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) (Modelo de aplicaciones seguras | Powershell del Centro de partners) para obtener instrucciones de cómo implementar este marco.  
 
 >[!Note] 
 >No todas las herramientas de automatización proporcionan la capacidad de autenticación mediante tokens de acceso. Si necesitas ayuda para comprender los cambios que deben hacerse, publica un mensaje en el grupo de [instrucciones de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
@@ -292,7 +292,7 @@ Para obtener más información, visita la página [Requisito de Multi-Factor Aut
 
 Para validar la cuenta que tiene acceso a los recursos para la que se solicita la autenticación multifactor, se comprobará la notificación de [referencia del método de autenticación ](https://tools.ietf.org/html/rfc8176) para ver si se muestra la MFA. Algunas soluciones de terceros no emiten esta notificación o no incluyen el valor de MFA. Si falta la notificación o el valor de MFA no aparece en la lista, no hay ninguna manera de determinar si se ha solicitado la autenticación multifactor para la cuenta autenticada. Deberá trabajar con el proveedor de la solución de terceros para determinar las acciones que deben realizarse para que la solución emita la notificación de referencia del método de autenticación.
 
-Consulta [Prueba de los requisitos de seguridad para partners](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) si no sabes con certeza si la solución de terceros está emitiendo la notificación esperada.
+Consulta [Prueba de los requisitos de seguridad para partners](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) si no sabes con certeza si la solución de terceros está emitiendo la notificación esperada.
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA impide que ofrezca soporte técnico al cliente mediante AOBO, ¿qué debo hacer?
 
