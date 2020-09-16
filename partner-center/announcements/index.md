@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564765"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574391"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[La compra de autoservicio para Microsoft Project y Microsoft Visio ya está disponible](2020-september.md#6)|15 de septiembre|
 |Ofertas/mercados|[Las nuevas SKU aportan la eficacia de Project Cortex y mucho más a los clientes](2020-september.md#5)|8 de septiembre|
 |Funcionalidades|[Experiencia de soporte técnico de incentivos y proceso de creación de vales mejorados](2020-september.md#4)|2 de septiembre|
 |Ofertas/mercados|[Próximas ofertas nuevas de Microsoft Dynamics 365](2020-september.md#3)|1 de septiembre|
