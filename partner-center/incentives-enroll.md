@@ -1,21 +1,21 @@
 ---
-title: Inscribirse en el programa de inventivos
+title: Inscripción de incentivos
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: Inscríbase en el programa incentivos y asigne los roles necesarios para la administración de usuarios.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220603"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714449"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Inscribirse en el programa de inventivos
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscripción y administración de usuarios en el programa incentivos
 
 **Se aplica a:**
 
@@ -55,4 +55,4 @@ La inscripción de incentivos expira al final del año fiscal. Sin embargo, siem
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Determinar su idoneidad para el programa](incentives-determined-your-program-eligibility.md)
+- [Determinar la idoneidad del programa](incentives-determined-your-program-eligibility.md)

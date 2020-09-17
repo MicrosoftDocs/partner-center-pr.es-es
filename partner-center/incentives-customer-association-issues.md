@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220623"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714479"
 ---
-# <a name="incentives-customer-association-issues"></a>Problemas de asociación de clientes a incentivos
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas con las asociaciones de cliente de socio de registro (CPOR)
 
 **Se aplica a:**
 
@@ -64,7 +64,7 @@ La plataforma de reclamación de CPOR permite notificaciones de Asociación de C
 | Aplicaciones empresariales      | Soporte preventa   | Seleccione si influye en su compra de un producto válido y desea solicitar los incentivos de preventa. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
 |    |  Uso  | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
 |    | Asociación de ingresos   | Seleccione esta opción si influye en la selección de un producto válido como Influenciante empresarial. Esta opción es solo para la Asociación de ingresos, no para los pagos por incentivos. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct.   |
-| Microsoft 365   | Uso   | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. |
+| Microsoft 365   | Uso   | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. |
 
 ## <a name="which-mpn-do-i-choose"></a>¿Qué MPN elegir?
 

@@ -1,30 +1,31 @@
 ---
 title: Acceder a la página de pagos
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Obtenga más información sobre el acceso a la información de pago de sus aplicaciones y juegos de Windows, incentivos de MPN y pagos comerciales de Marketplace para proveedores de software independientes.
+description: Obtenga información sobre cómo acceder a la información de pago de sus aplicaciones y juegos de Windows, incentivos de MPN y pagos comerciales de Marketplace para proveedores de software independientes.
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5ae7f13f7373370789c9db35d546e90b3d32b9db
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303121"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714369"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Acceder a páginas de pagos para aplicaciones y juegos de Windows, incentivos de MPN y pagos comerciales de Marketplace
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Administrador de incentivos
--   Usuario de incentivos
--   Agente de ventas
--   Administrador de partners de MPN
+
+- Administrador global
+- Administrador de usuarios
+- Administrador de incentivos
+- Usuario de incentivos
+- Agente de ventas
+- Administrador de partners de MPN
 
 La información de ayuda de pago que se le aplica depende del programa de asociados en el que esté trabajando. Para ver la página adecuada, seleccione el vínculo correspondiente a continuación:
 

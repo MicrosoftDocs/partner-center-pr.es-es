@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471460"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714379"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
@@ -33,10 +33,12 @@ Aproveche las ventajas de las oportunidades de venta conjunta.  Las oportunidade
 
 **Venta conjunta** : aquí es donde uno o más representantes de ventas de Microsoft participan activamente en el trato para ayudar a resolver un problema del cliente. Las oportunidades pueden originarse en una cuenta de cliente en la que un representante de ventas de Microsoft invite al socio a participar en una actividad de venta conjunta o de un asociado en el que necesiten ayuda adicional de Microsoft Sales para cerrar el trato.
 
-**Trato de la canalización privada** : esto se debe a que un asociado decide trabajar de forma independiente en un trato que se ha creado en el centro de Partners. Los asociados tienen la opción de invitar a los vendedores de Microsoft después de crear el trato para convertirlo en una actividad de venta colaborativa. Los detalles del trato no se comparten con el equipo de ventas de Microsoft hasta el momento en que el asociado solicita explícitamente la ayuda de ventas de Microsoft.
+**Asociado a socio (P2P)** : aquí es donde un asociado puede invitar a otros asociados en el ecosistema de venta conjunta de Microsoft para que colaboren. Los asociados pueden invitar opcionalmente a un representante de ventas de Microsoft al trato para ayudar a cerrar el trato. Se puede invitar a ambos asociados y a Microsoft incluso después de crear un trato, siempre y cuando sea anterior a su finalización. (Tenga en cuenta que complete incluye ganada, perdida, rechazada y expirada).
+
+**Trato privado** : esto se debe a que un asociado decide trabajar de forma independiente en un trato que se ha creado en el centro de Partners. Los asociados tienen la opción de invitar a los vendedores de Microsoft después de crear el trato para convertirlo en una actividad de venta colaborativa. Los detalles del trato no se comparten con el equipo de ventas de Microsoft hasta el momento en que el asociado solicita explícitamente la ayuda de ventas de Microsoft.
 
 > [!NOTE]
-> Los acuerdos de canalización privados, aunque no son realmente colaborativos, se incluyen aquí para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización que se encuentre en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal (**ganada, perdida, rechazada y expirada**).
+> Los negocios privados, aunque no son realmente colaborativos, se incluyen aquí para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización que se encuentre en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal (**ganada, perdida, rechazada y expirada**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navegar por la sección de venta conjunta
 
@@ -44,24 +46,22 @@ Hay tres pestañas de nivel superior en la sección de venta conjunta.
 
 **Entrante** : en esta pestaña se encuentran disponibles todas las oportunidades que se envían al socio comercial de los vendedores de Microsoft para la venta en colaboración.
 
-**Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear dos categorías diferentes de oportunidades: venta conjunta y de canalización privada. 
+**Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear tres categorías diferentes de oportunidades: venta conjunta, privada y socio comercial.
 
 **Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas oportunidades de venta conjunta entrantes o salientes. Marque cualquier oportunidad como favorita; para ello, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
 
-
-## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta 
+## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta
 
 > [!IMPORTANT]
 > Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas implicado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
-
-Puede crear dos tipos de oportunidades de venta conjunta. 
+Puede crear tres tipos de oportunidades.
 
 ### <a name="select-your-customer"></a>Seleccione su cliente
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
+Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -79,9 +79,9 @@ Especifique los detalles de la transacción actual. Los campos que se definen a 
 |**ID. de campaña de marketing**| Opcionales | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
 |**Notas**| Opcionales | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
 
-### <a name="add-your-employees"></a>Agregar los empleados
+### <a name="add-team-members"></a>Agregar miembros del equipo
 
-Después de agregar los detalles del trato, agregue los empleados que van a trabajar en este trato específico. Tendrá que escribir el nombre, el número de teléfono y la dirección de correo electrónico del empleado. Estos detalles son obligatorios y debe tener al menos un contacto con todos los detalles especificados para que pueda crear un trato. Estos detalles se pueden cambiar incluso después de crear un trato. Los contactos recientes de sus acuerdos anteriores se muestran en el lado derecho para que los agregue rápidamente a la transacción.
+Después de agregar los detalles del trato, agregue los empleados que van a trabajar en este trato específico. Tendrá que escribir el nombre, el número de teléfono y la dirección de correo electrónico del empleado. Estos detalles son obligatorios y debe tener al menos un contacto con todos los detalles especificados para que pueda crear un trato. Estos detalles se pueden cambiar incluso después de crear un trato. Los contactos recientes de sus acuerdos anteriores se muestran en el lado derecho para que los agregue rápidamente a la transacción. En el caso de los tratos P2P, el equipo puede tener empleados de la empresa y la empresa que envía la invitación.
 
 ### <a name="add-solutions"></a>Agregar soluciones
 
@@ -91,11 +91,29 @@ En esta sección, debe proporcionar la información relacionada con las solucion
 - **Microsoft:** Se trata de soluciones propiedad de Microsoft
 - **Otras soluciones de terceros:** Se trata de soluciones listas para la venta conjunta publicadas por otros asociados en el ecosistema de venta conjunta de Microsoft.
 
-Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene dos opciones:
+Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene tres opciones:
 
-**Contrato de canalización privada**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
+**Trato privado**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
 
-**Contrato de venta conjunta:** Si cambia el valor de alternancia a sí para la pregunta **"¿le gustaría ayuda de Microsoft?"**, el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft podría ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
+**Contrato de venta conjunta:** Si selecciona una opción distinta de la selección predeterminada para la pregunta **"identificar el tipo de ayuda que le gustaría de Microsoft"**, el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft puede ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
+
+Contrato entre socios comerciales **(P2P)**: puede invitar a otros asociados al trato haciendo clic en el vínculo invitar al socio. A continuación se muestra el proceso para crear un trato P2P.
+
+- **Seleccione un asociado:** Después de hacer clic en invitar Partner, podrá empezar a escribir el nombre del asociado para obtener una lista sugerida de asociados que coincidan con el nombre que está escribiendo. Seleccione el socio que le interese para rellenar los detalles adicionales de ese socio. Solo puede buscar asociados que estén en el ecosistema de venta conjunta de Microsoft y que estén transaccionando en el centro de Partners.
+
+- **Fecha de cierre estimada:** Esta es la fecha en la que espera que el socio invitado complete su parte del contrato. La fecha se rellena de antemano para que pueda elegir modificar la fecha solo si es necesario. Es un campo obligatorio y puede ser editado por el socio al que invita después de crear el contrato. No se puede modificar este campo después de crear el contrato.
+
+- **Valor y moneda estimados:** Este es el valor del trato que tendrá el socio invitado en el trato global. Asegúrese de escribir el valor correcto aquí para que el asociado invitado pueda decidir si desea formar parte del trato o no. El socio invitado puede cambiar este valor después de crear el contrato. No se puede modificar este campo después de crear el contrato.
+
+- **Notas:** Agregue los detalles del motivo por el que va a invitar al socio para que forme parte de este contrato. La información detallada ayudará al socio invitado a decidir si desea participar.
+
+- **Agregue su equipo:** Agregue los empleados de la empresa que vayan a trabajar con el socio invitado. Si el socio invitado acepta el trato, puede agregar sus propios empleados para que ambas empresas dispongan de una vista de todo el equipo que colabora en el trato. Solo puede modificar estos detalles antes de crear el trato. Los detalles de los empleados especificados en los datos de los negocios se rellenan previamente para facilitar la elección de los empleados que trabajan con este socio específico.
+
+- **Agregar soluciones:**  Agregue las soluciones que desea que el socio invitado incorpore a la tabla. Al menos una solución es obligatoria. El socio invitado puede modificar las soluciones una vez que acepten la invitación.
+
+- **Identifique el tipo de ayuda:** Identifique el tipo de ayuda: por último, identifique la ayuda específica que necesita del socio invitado.
+
+Repita este procedimiento para todos los asociados a los que desea invitar para que formen parte de este contrato. Un asociado a un socio comercial también puede tener a Microsoft un vendedor en el que esté invitando a Microsoft y a los asociados. También puede invitar a Microsoft y a los asociados más adelante, después de crear el contrato.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Respuesta a una oportunidad de venta conjunta
 
@@ -105,7 +123,7 @@ Cada oportunidad se mueve a través de un ciclo de vida propio.
 
 En esta fase, si ha recibido una nueva oportunidad de venta conjunta de un vendedor de Microsoft o de otros asociados en el ecosistema de venta conjunta de Microsoft, revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información sobre sus necesidades empresariales. En esta fase puede realizar dos acciones. acepte o rechace la referencia:
 
-- **Aceptar:** Escriba un nombre para el contrato, edite el valor del negocio estimado y el período de tiempo de compra estimado en función de la revisión. Una vez que haya establecido el contacto con el cliente, debe proporcionar información en el campo **notas** para explicar mejor lo que busca el cliente. Opcionalmente, puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing que dio lugar a la oportunidad respectiva y agregar contactos de la empresa que trabajarán en este trato. 
+- **Aceptar:** Escriba un nombre para el contrato, edite el valor del negocio estimado y el período de tiempo de compra estimado en función de la revisión. Una vez que haya establecido el contacto con el cliente, debe proporcionar información en el campo **notas** para explicar mejor lo que busca el cliente. Opcionalmente, puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing que dio lugar a la oportunidad respectiva y agregar contactos de la empresa que trabajarán en este trato.
 
 - Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a **la siguiente fase**, lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro.
 
@@ -113,12 +131,22 @@ En esta fase, si ha recibido una nueva oportunidad de venta conjunta de un vende
 
 - Si no responde en el tiempo asignado (actualmente, 14 días), lo archivaremos como **expirado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
 
-
 ### <a name="accepted-stage"></a>Fase aceptada
 
 Trabaja para cerrar la oferta con el cliente. Si desea cambiar cualquiera de la información que ha proporcionado para una referencia aceptada, seleccione **Editar**. Después, puede actualizar el nombre del trato, la fecha de compra estimada, el valor estimado, las notas, el ID. de CRM o el ID. de campaña de marketing.  También puede seleccionar **Agregar los empleados** para proporcionar el nombre, el número de teléfono y las direcciones de correo electrónico de las personas que trabajan en el trato. Las soluciones también se pueden editar en función de las necesidades del cliente.
 
 De forma predeterminada, todos los acuerdos que ha creado se encuentran en la fase aceptado.
+
+### <a name="combinations"></a>Posibles
+
+En la tabla siguiente se muestran las combinaciones de personas a las que se puede invitar en esta fase del trato.
+
+|**Tipo de trato original**|**Personas a las que se puede invitar**|**Notas**|
+|-----|:-----|:-----|
+|Private|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
+|Venta conjunta|Otros asociados|Se puede invitar a otros asociados solo si su empresa inició el trato. No se puede invitar a los asociados a los contratos en la pestaña entrante.|
+|Asociado al asociado sin Microsoft|Microsoft|El trato se actualizará a un trato de venta conjunta.|
+|Asociado al asociado sin Microsoft|Otros asociados||
 
 Cuando haya terminado, puede realizar una de las dos acciones, que marcan el trato como **ganada** o **perdida** para informar del resultado, de modo que podamos archivarlo en consecuencia.
 

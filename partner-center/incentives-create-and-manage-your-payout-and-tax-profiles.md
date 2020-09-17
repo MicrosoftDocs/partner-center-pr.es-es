@@ -1,21 +1,21 @@
 ---
-title: Crear y administrar perfiles de pago y impuestos en el Centro de partners
+title: Perfiles fiscales y de pago en el Centro de partners
 ms.topic: how-to
-ms.date: 08/31/2020
-description: Antes de que pueda pagar por su trabajo de incentivos, debe crear los perfiles de pago y fiscal.
+ms.date: 09/11/2020
+description: Cree y administre su perfil fiscal y de pago para que pueda pagar su trabajo de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220803"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714499"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>Perfiles fiscales y de pago en el Centro de partners
+# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
 **Se aplica a:**
 
@@ -109,11 +109,11 @@ Los perfiles de banco se crean en el nivel de organización. Esto permite asigna
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Next** (Siguiente).
+2. Seleccione **Siguiente**.
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Next** (Siguiente).
+4. Seleccione **Siguiente**.
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
@@ -140,7 +140,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo.
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Next** (Siguiente). 
+3. Seleccione **Siguiente**. 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 
