@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274994"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614125"
 ---
 # <a name="august-2020-announcements"></a>Anuncios de agosto de 2020
 
@@ -134,9 +134,9 @@ El [año pasado](https://partner.microsoft.com/resources/detail/power-apps-power
 
 #### <a name="partner-benefits"></a>Ventajas para partners
 
-Podrá ofrecer sus servicios a usuarios individuales y equipos sin necesidad de pasar por el proceso de centralizado de adquisición de TI para obtener las licencias necesarias. Los servicios pueden abarcar Project y Visio, en función de los escenarios de integración con Microsoft 365 y Power Platform. 
+Podrá ofrecer sus servicios a usuarios individuales y equipos sin necesidad de pasar por el proceso centralizado de adquisición de TI para obtener las licencias necesarias. Los servicios pueden abarcar Project y Visio, en función de los escenarios de integración con Microsoft 365 y Power Platform. 
 
-Obtenga más información sobre las oportunidades para partners con las soluciones de Visio y Power Platform en la sesión de Microsoft Inspire [Recompilar y reimaginar las empresas con Microsoft Visio y Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Para obtener información adicional, visite la [guía de administración de autoservicio](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+Obtenga más información sobre las oportunidades para partners con las soluciones de Visio y Power Platform en la sesión de Microsoft Inspire [Recompilar y reimaginar las empresas con Microsoft Visio y Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Para obtener información adicional, visite la [guía de administración de autoservicio](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Recursos adicionales
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545846"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614150"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 
@@ -116,7 +116,7 @@ Después de adquirir la suscripción de software, sigue los pasos que se indican
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Claves de licencia y descarga de suscripción de servidor disponibles a través del Centro de administración de Microsoft 365 para clientes 
 
-Los clientes podrán obtener las claves de licencia de suscripción y descargas del servidor de CSP desde el Centro de administración de Microsoft 365. Para ver las claves de licencia y las descargas de su suscripción de servidor de CSP, el cliente debe ir al Centro de administración de Microsoft 365 > **Facturación > Sus productos > pestaña Software**. Para obtener más información, consulte la [pestaña Software en Facturación](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
+Los clientes podrán obtener las claves de licencia de suscripción y descargas del servidor de CSP desde el Centro de administración de Microsoft 365. Para ver las claves de licencia y las descargas de su suscripción de servidor de CSP, el cliente debe ir al Centro de administración de Microsoft 365 > **Facturación > Sus productos > pestaña Software**. Para obtener más información, consulte la [pestaña Software en Facturación](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Visualización de la actividad de acceso a claves de software y descargas de software
 
@@ -157,7 +157,7 @@ Sigue los pasos que se indican a continuación para cancelar una compra:
 
 3. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
-4. En la página de detalles del cliente, selecciona **Software** para ver la lista de software adquirido para el cliente. 
+4. En la página de detalles del cliente, seleccione **Software** para ver la lista de software adquirido para el cliente. 
 
 5. Localiza la compra de software que quieres cancelar y selecciona **Cancelar**. Aparecerá un cuadro de diálogo.
 
