@@ -498,9 +498,11 @@
           href: pci-competencies-report.md
         - name: 'Conclusiones: informe de ventajas'
           href: pci-benefits-report.md
+        - name: 'Conclusiones: informe de propensión de CloudAscent'
+          href: pci-customer-opportunities.md
         - name: 'Conclusiones: problemas conocidos'
           href: pci-known-issues.md
-        - name: 'Conclusiones: descargar informes'
+        - name: 'Conclusiones: informes de descarga'
           href: pci-download-reports.md
     - name: Indicadores de contribución de partners
       href: partner-contribution-indicators.md
