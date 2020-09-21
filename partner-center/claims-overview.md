@@ -1,7 +1,7 @@
 ---
-title: Reclamaciones de incentivos de cooperación
+title: Información general sobre las notificaciones y la cooperación de incentivos
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 09/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtenga información acerca de cómo enviar una demanda de cooperación correcta para sus incentivos organizando la documentación, las facturas, las instrucciones y la prueba de ejecución adecuadas.
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
+ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714309"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "90811303"
 ---
-# <a name="overview-of-incentives-co-op-claims"></a>Información general de las notificaciones de cooperación de incentivos
+# <a name="earn-cooperative-marketing-funds"></a>Ganar fondos de marketing cooperativo
 
 **Se aplica a**
 
@@ -27,25 +27,51 @@ ms.locfileid: "90714309"
 - Administrador de incentivos
 - Usuario de incentivos
 
-Cuando participa en uno de los programas de incentivos de Microsoft (por ejemplo, el fondo de marketing cooperativo, el programa de asesor de servicios en línea o el programa de Dynamics ISV), reclama reembolsos de los fondos obtenidos para las actividades que ha realizado y que admiten el conocimiento de los productos de Microsoft. Envía una demanda directamente desde el centro de Partners. Ya no es necesario que Microsoft Revise el plan de actividad antes de enviar una demanda. Envíe su demanda y la documentación necesaria no más tarde que la fecha límite del período de la demanda, que es de 45 días después del final del período de uso.
+Los fondos de marketing cooperativo (Co-op) son fondos que gana a través de los programas de incentivos de Microsoft, ya que solicita el reembolso de las actividades que admiten el conocimiento de los productos de Microsoft. Algunos ejemplos de programas de incentivos son proveedor de soluciones en la nube, revendedores administrados, hospedaje y superficie.
 
-Una demanda correcta incluye:
+Los fondos de Co-op permiten realizar actividades de marketing que aumentarán el conocimiento de la marca y el crecimiento de la canalización de ventas. Puede invertir fondos cooperativos en actividades para facilitar la preparación, desarrollar especializaciones o conseguir certificaciones de Microsoft: actividades que fomentan prácticas de solución centrada y centros de excelencia.
 
-- Documentación en la que se muestra cómo se han cumplido los requisitos básicos para la actividad
-- Facturas de proveedores de terceros con los que trabaja
-- Declaración e informe de certificación (CSR) para cualquier trabajo interno completado
-- La documentación adecuada (prueba de ejecución o PoE) que demuestra que ha completado la actividad 
+Puede obtener más información en la página de recursos de fondos de la [Co-op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+
+>[!Important]
+>Las notificaciones de Co-op no se aplican a los programas de incentivos de los servicios en línea (OSA) venta, uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Para enviar una demanda de uno de estos programas, consulte [creación de un associearation de cliente con el modelo cpor](submit-osa-claim.md).
+
+## <a name="how-co-op-funds-are-calculated"></a>Cómo se calculan los fondos de la Co-op
+
+Microsoft calcula las ganancias de incentivos válidas mediante un porcentaje dividido (por ejemplo, 60% de descuento-40% de Co-op). Recibirá la parte del descuento mediante el ritmo de pago existente para su programa individual, mientras que Microsoft proporcionará la parte de la cooperación de los ingresos de incentivos.
+
+Puede obtener más información sobre el ritmo de pago y el porcentaje de división en su guía de programas de incentivos. Utilice [este procedimiento](incentives-determined-your-program-eligibility.md) para tener acceso a la guía de programas.
+
+## <a name="when-to-claim-your-funds"></a>Cuándo reclamar los fondos
+
+La escala de tiempo de los fondos de cooperación se divide en períodos de 2 6 meses, H1 y H2. (La "H" representa el semestre fiscal).
+
+- H1 es la primera mitad del año fiscal, el 1 de julio y el 31 de diciembre.
+- H2 es la segunda mitad del año fiscal, el 1 de enero y el 30 de junio.
+
+El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención**. Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso**de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
+
+En la tabla siguiente se muestran los diferentes períodos de obtención, uso y reclamaciones. Los períodos se extienden desde el primer día del primer mes hasta el último día del último mes.
+
+|  Si el período de obtención/acumulación es  |El período de semestre fiscal es  |  El período de uso es  |  El período de reclamaciones es  |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+|**Julio-2020 de diciembre**| FY20 H1  |  Ene-junio 2021  |  Feb-2021 de julio  |
+|**Ene-junio 2021** |  FY20 H2  |  Julio-2021 de diciembre  |  De agosto de 2021 a enero de 2022  |
+|**Julio-2021 de diciembre**|  FY21 H1  |  Ene-junio 2022  |  Feb-2022 de julio  |
+|**Ene-junio 2022** |  FY21 H2  |  Julio-2022 de diciembre  |  De agosto de 2022 a enero de 2023  |
 
 >[!NOTE]
->Microsoft se reserva el derecho de solicitar documentos de PoE originales. Mantenga todos los documentos originales durante un período de 24 meses a partir de la fecha de la actividad. 
+>Microsoft se reserva el derecho de solicitar documentos de prueba de ejecución original (PoE). Debe conservar todos los documentos originales durante 24 meses después de la fecha de la actividad.
 
-|**Para**   |**Lee esto**   |
-|-----------------|:--------------------------------------|
-|Enviar una demanda e incluir la documentación correcta|[Crear y administrar una demanda de actividades del programa incentivos](create-incentives-claims.md)|
-|Una vez que haya enviado la solicitud, administre más solicitudes de documentación|[Crear y administrar una demanda de actividades del programa incentivos](create-incentives-claims.md)  |
-|Asegúrese de que conoce los requisitos principales de la demanda de actividad|[Conocer los requisitos principales de las notificaciones de incentivos](core-requirements.md)   |
-|Obtener información detallada sobre los programas de incentivos completos|[Guía de cooperación de los incentivos para asociados](https://assets.microsoft.com/coop-guidebook.pdf)
-|Creación de una asociación de cliente y envío de una demanda |[Crear una asociación de clientes mediante el modelo de CPOR](submit-osa-claim.md)|
+Los siguientes recursos le ayudarán a empezar a trabajar con notificaciones de cooperación.
+
+| Para hacer esto | Lea este |
+| ------ | ----------- |
+| Enviar una demanda |  [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)  |
+| Administrar una demanda enviada | [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)    |
+| Descripción de los requisitos básicos de la demanda de actividad | [Requisitos básicos para las actividades de su programa de incentivos](core-requirements.md)   |
+| Revisar los detalles del programa incentivos | [Guía de cooperación de los incentivos para asociados](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Creación de una asociación de cliente y envío de una demanda | [Crear una asociación de clientes mediante el modelo de CPOR](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Pasos siguientes
 

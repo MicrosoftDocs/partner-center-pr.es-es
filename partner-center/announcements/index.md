@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574391"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714240"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Actualización de MPA de revendedor indirecto. Acción requerida de los usuarios de la API de MPA y nuevos informes de MPA](2020-september.md#7)|16 de septiembre|
 |Ofertas/mercados|[La compra de autoservicio para Microsoft Project y Microsoft Visio ya está disponible](2020-september.md#6)|15 de septiembre|
 |Ofertas/mercados|[Las nuevas SKU aportan la eficacia de Project Cortex y mucho más a los clientes](2020-september.md#5)|8 de septiembre|
 |Funcionalidades|[Experiencia de soporte técnico de incentivos y proceso de creación de vales mejorados](2020-september.md#4)|2 de septiembre|
