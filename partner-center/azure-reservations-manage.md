@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366879"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000259"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366879"
 - Administrador del control de usuarios
 
 > [!NOTE]
-> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
 
 Para administrar las reservas de Azure de sus clientes después de la compra, seleccione el cliente y la reserva que desea administrar en el centro de Partners y, a continuación, realice cambios en la reserva en el Azure Portal.
 
@@ -46,7 +46,7 @@ Para administrar las reservas de Azure de sus clientes después de la compra, se
     | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
     | **Información general**   | Ver detalles de la reserva de un cliente, incluida la fecha de expiración, el ámbito y los datos de uso. **Nota:** Seleccione **reembolso** para crear una solicitud de soporte técnico para un reembolso prorrateado. Seleccione **Exchange** para crear una solicitud de soporte técnico para intercambiar la parte no utilizada del término de reserva.  
-    | **Access Control (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
+    | **Control de acceso (IAM)**   | Administrar el acceso a la información de reserva del cliente.|
     | **Configuración**   | Cambiar el ámbito de la reserva o la suscripción de Azure a la que está asociada la reserva.    |
     | **Propiedades**   | Vea las propiedades de la reserva y copie en el Portapapeles el ID. de reserva y el ID. de pedido de reserva. **Nota:** El soporte técnico puede pedirle el identificador de reserva y el identificador de pedido de reserva cuando solicite soporte técnico en nombre de un cliente.    |
     | **Nueva solicitud de soporte técnico**    | Solicitar ayuda de Soporte técnico de Microsoft.   |
@@ -107,6 +107,5 @@ Para enviar una solicitud de soporte técnico para un reembolso o Exchange en no
 |Información general sobre las reservas de Azure en CSP  | [Vender Microsoft Azure instancias reservadas](azure-reservations.md) |
 |Compra de reservas de Azure para sus clientes en el centro de Partners   | [Comprar reservas de Azure](azure-reservations-buying.md) |
 |Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual del cliente   | [Tamaño de máquina virtual para el uso máximo de reserva de Azure](azure-usage.md)   |
-|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
+|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
 |Otorgar permiso a los clientes para comprar sus propias reservas de Azure a partir de una suscripción que haya adquirido. | [Conceder permiso a los clientes para que compren sus propias reservas de Azure](give-customers-permission.md)   |
-

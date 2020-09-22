@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811135"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000639"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Traslade a los clientes basados en licencias de otros canales & asociados al programa proveedor de soluciones en la nube.
 
@@ -34,7 +34,7 @@ Si el cliente desea contratar a varios asociados, transferir sus suscripciones a
 
 
    >[!NOTE]
-   >El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges.md).
+   >El cliente puede ser válido para un crédito si se ha adquirido a través del portal de administración de Microsoft 365 (M365) (por ejemplo, a través de la facturación mensual o anual directa de Microsoft). Los créditos de las suscripciones compradas directamente por Microsoft se controlan mediante el **soporte de facturación de M365**. Consulte la guía de M365 sobre cómo [cancelar la suscripción a M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Si tiene privilegios de administración delegados para el cliente, puede ponerse en contacto con el soporte técnico de M65 en nombre de su cliente. Si no es así, pídale a su cliente que se ponga en contacto con el soporte técnico de M365 directamente para averiguar cuánto crédito es válido para y cómo se le concederá este crédito. Leer información sobre los [privilegios de administrador delegado](customers-revoke-admin-privileges.md).
 
 
 4. El cliente seguirá adelante con las suscripciones que ha aprovisionado sin interrupción.

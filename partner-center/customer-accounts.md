@@ -9,14 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 7ff3f1f7fa5488fe1c4a2ccfccf716dc6adc97f9
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: bc46789ccabea3e8b3b2ade0d87bfe058c2f0f12
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366990"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000479"
 ---
-# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configuración y administración de la cuenta de cliente para socios distribuidores en el centro de Partners
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Configuración y administración de las cuentas de clientes para partners revendedores en el Centro de partners
 
 **Se aplica a**
 
@@ -36,7 +36,7 @@ Como partner reseller, debe crear una cuenta para cada uno de los clientes del c
 
 |**Para**   |**Lee este documento para descubrir cómo**   |**Se aplica a**|
 |-----------------|:----------------------------|:--------------|
-|Obtener nuevos clientes|Los revendedores indirectos se conectan con [proveedores indirectos](indirect-reseller-tasks-in-partner-center.md) que le remitirán a los clientes. Debe asegurarse también de que el [Perfil de negocio](create-a-marketing-profile.md) está actualizado. Cuando usted y un cliente han acordado [trabajar juntos](responding-to-referrals.md), [agréguelos](add-a-new-customer.md) a su cuenta. Los asociados directos deben leer [ la solicitud de una relación con un cliente](request-a-relationship-with-a-customer.md).|Partners de CSP|
-|Agregar clientes existentes a su cuenta   | Los clientes con los que realiza transacciones en otros portales, como Office 365, aparecerán en la [lista de clientes](see-your-customer-list.md) en el Centro de partners. Tendrá que [establecer relaciones entre distribuidores](indirect-reseller-tasks-in-partner-center.md) y otros clientes existentes. Para ello, envíeles una [invitación para](responding-to-referrals.md) que se conecte con usted en el centro de Partners.   | Partners de CSP   |
+|Obtener nuevos clientes|Los revendedores indirectos se conectan con [proveedores indirectos](indirect-reseller-tasks-in-partner-center.md) que le remitirán a los clientes. Debe asegurarse también de que el [Perfil de negocio](create-a-marketing-profile.md) está actualizado. Cuando usted y un cliente han acordado [trabajar juntos](manage-leads.md), [agréguelos](add-a-new-customer.md) a su cuenta. Los asociados directos deben leer [ la solicitud de una relación con un cliente](request-a-relationship-with-a-customer.md).|Partners de CSP|
+|Agregar clientes existentes a su cuenta   | Los clientes con los que realiza transacciones en otros portales, como Office 365, aparecerán en la [lista de clientes](see-your-customer-list.md) en el Centro de partners. Tendrá que [establecer relaciones entre distribuidores](indirect-reseller-tasks-in-partner-center.md) y otros clientes existentes. Para ello, envíeles una [invitación para](manage-leads.md) que se conecte con usted en el centro de Partners.   | Partners de CSP   |
 |Finalizar o restablecer una relación de cliente   | Agregue o quite clientes o [finalice una relación de cliente](remove-a-relationship.md).  |   Partners de CSP |
 |Permitir a los clientes comprar sus propios servicios   | [Ofrezca a los clientes permiso para comprar sus propios productos o servicios](give-customers-permission.md), como comprar sus propias reservas de Azure desde una suscripción anterior que haya adquirido para ellos.  | Partners de CSP |

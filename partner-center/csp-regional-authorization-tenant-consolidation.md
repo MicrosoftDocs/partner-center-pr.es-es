@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545656"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000379"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
@@ -29,7 +29,7 @@ ms.locfileid: "87545656"
 - Administrador global
 - Agente de administrador
 
-\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no otorga ninguna garantía, explícita o implícita, con respecto a la información proporcionada aquí.\]
+\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no proporciona ninguna garantía, expresa o implícita, con respecto a la información proporcionada aquí.\]
 
 Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
@@ -38,15 +38,15 @@ Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para co
 
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
-- Inicie sesión en el **centro de Partners** mediante la cuenta de **transición** (la que va a pasar a la nueva cuenta) y Revise todos los clientes y todos los servicios aprovisionados para esos clientes.
+- Inicie sesión en el **centro de Partners**  mediante la cuenta de **transición** (la que va a pasar a la nueva cuenta) y Revise todos los clientes y todos los servicios aprovisionados para esos clientes.
 
 - Cierre la sesión de esta cuenta.
 
 ## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
-1. Inicie sesión en el **centro de Partners** con la cuenta de **transición** (nueva) (aquella en la que va a realizar la transición de los clientes).
+1. Inicie sesión en el **centro de Partners**  con la cuenta de **transición** (nueva) (aquella en la que va a realizar la transición de los clientes).
 
-2. Selecciona **Clientes**.
+2. Seleccione **Clientes**.
 
 3. Haz clic en **Solicitar una relación de revendedor**. Se le presentará un mensaje de correo electrónico predeterminado para enviarlo a sus clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
 
@@ -144,8 +144,8 @@ Si usas la **Función de exportación**, puedes capturar las suscripciones que n
 
 ### <a name="api-registration"></a>Registro de API
 
-Para obtener más información sobre el registro de API, consulte [configuración del acceso de API en el centro de Partners](https://go.microsoft.com/fwlink/?linkid=847990).
+Para obtener más información sobre el registro de API, consulte [configuración del acceso de API en el centro de Partners](/partner-center/develop/set-up-api-access-in-partner-center).
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Configuración y administración de la cuenta de cliente para socios distribuidores en el centro de Partners](customer-accounts.md)
+- [Configuración y administración de las cuentas de clientes para partners revendedores en el Centro de partners](customer-accounts.md)

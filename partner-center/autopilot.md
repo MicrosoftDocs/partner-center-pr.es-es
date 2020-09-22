@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527661"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999439"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfiles de Windows AutoPilot en dispositivos nuevos para personalizar la experiencia rápida de un cliente
 
@@ -37,7 +37,7 @@ En este artículo se explica cómo crear y aplicar perfiles de AutoPilot a dispo
 
 Si no está familiarizado con AutoPilot, revise la información de estos artículos:
 
-- [Información general de Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Información general de Windows AutoPilot](/windows/deployment/windows-10-auto-pilot)
 - [Guía de referencia de implementación de AutoPilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Información general
@@ -77,7 +77,7 @@ En el centro de Partners, puede crear perfiles de implementación de Windows Aut
 
 3. En **perfiles de Windows AutoPilot** , seleccione **Agregar nuevo perfil**.
 
-4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija de entre las siguientes opciones:  
+4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija entre las siguientes opciones:  
 
    - Omitir la configuración de privacidad en el programa de instalación
 
@@ -162,7 +162,7 @@ Siga las instrucciones que se indican a continuación para agregar dispositivos 
 4. Escriba un nombre para la lista de dispositivos y, a continuación, seleccione **examinar** para cargar la lista de clientes (en formato de archivo. csv) en el centro de Partners.
 
     >[!NOTE]
-    >Debe haber recibido este archivo. csv con la compra del dispositivo. Si no recibió un archivo. csv, puede crear uno usted mismo siguiendo los pasos descritos en [Agregar dispositivos a Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Debe haber recibido este archivo. csv con la compra del dispositivo. Si no recibió un archivo. csv, puede crear uno usted mismo siguiendo los pasos descritos en [Agregar dispositivos a Windows AutoPilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
 5. Cargue el archivo. csv y, a continuación, seleccione **Guardar**.
 

@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545646"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000469"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dar permiso a los clientes en el centro de partners para comprar sus propios productos o servicios
 
@@ -52,7 +52,7 @@ Antes de activar los permisos del cliente, tenga en cuenta los siguientes puntos
 
 - Puede activar (habilitar) los permisos para cualquier cliente que elija.
 
-- Puede activar (o desactivar) los permisos del cliente mediante el panel del centro de Partners o las [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/manage-customers).
+- Puede activar (o desactivar) los permisos del cliente mediante el panel del centro de Partners o las [API del centro de Partners](/partner-center/develop/manage-customers).
 
 - Después de activar (habilitar) los permisos para un cliente específico, será responsable de pagar las compras posteriores realizadas por ese cliente. Si los clientes desean intercambiar, cancelar o renovar una compra realizada (o quieren cambiar el ámbito inicial de una reserva), no podrán hacerlo por sí mismos. Necesitan pedirle a usted, como asociado, que les ayude a intercambiar, cancelar y renovar las compras, o realizar cambios posteriores en el ámbito de una reserva.  
 
@@ -65,7 +65,7 @@ Antes de activar los permisos del cliente, tenga en cuenta los siguientes puntos
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Conceder permiso a los clientes para que compren sus propias reservas de Azure
 
-Las reservas de Azure son una excelente manera de comprar servicios de Azure a una tarifa con descuento. Para obtener más información sobre las ventajas de las reservas de Azure, consulte [¿Qué son Azure reservations?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Las reservas de Azure son una excelente manera de comprar servicios de Azure a una tarifa con descuento. Para obtener más información sobre las ventajas de las reservas de Azure, consulte [¿Qué son Azure reservations?](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 Ahora tiene la opción de comprar reservas de Azure en nombre de sus clientes, ya que es posible que ya lo haya hecho. O bien, puede dar permiso a los clientes para que compren sus propias reservas de Azure.
 
@@ -109,11 +109,11 @@ Para comprobar que el cliente tiene asignado el rol de **propietario** para una 
 
 4. Seleccione el botón **administrar** junto a la suscripción de ese cliente. Al hacerlo, se abre el [Azure portal](https://portal.azure.com/).
 
-5. Para asignar el rol de **propietario** a un usuario específico, siga estos pasos [para asignar un usuario como administrador](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
+5. Para asignar el rol de **propietario** a un usuario específico, siga estos pasos [para asignar un usuario como administrador](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Activar o desactivar los permisos de los clientes para adquirir sus propias reservas de Azure
 
-Después de comprobar que el cliente tiene una suscripción de Azure existente y a los usuarios se les asigna el rol de **propietario** de esa suscripción, está listo para activar (habilitar) los permisos de cliente. También puede usar estos pasos para desactivar (deshabilitar) los permisos de los clientes. Puede habilitar o deshabilitar los permisos de cliente mediante el panel del centro de Partners o las [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/manage-customers).
+Después de comprobar que el cliente tiene una suscripción de Azure existente y a los usuarios se les asigna el rol de **propietario** de esa suscripción, está listo para activar (habilitar) los permisos de cliente. También puede usar estos pasos para desactivar (deshabilitar) los permisos de los clientes. Puede habilitar o deshabilitar los permisos de cliente mediante el panel del centro de Partners o las [API del centro de Partners](/partner-center/develop/manage-customers).
 
 Para activar (o desactivar) los permisos del cliente en el centro de Partners:
 
@@ -151,7 +151,7 @@ Ayude a los clientes a comprender mejor la administración de estos aspectos de 
 
 **Precios que los clientes pagarán por sus reservas.** El cliente adquirirá reservas de Azure en función de una suscripción que haya comprado previamente en su cuenta de facturación de asociados de CSP. El precio del cliente para las reservas de Azure que compren en función de esta suscripción también lo establece el usuario. Este precio puede ser diferente del precio directo que el cliente ve en el Azure Portal.
 
-**Cómo los clientes pueden optimizar el uso de una reserva.** Algunos clientes pueden beneficiarse de obtener más información sobre cómo optimizar el uso de una reserva o cómo asignar el ámbito inicial de una reserva durante su compra. Para obtener más información, pida a los clientes que lean [administrar las reservas de recursos de Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**Cómo los clientes pueden optimizar el uso de una reserva.** Algunos clientes pueden beneficiarse de obtener más información sobre cómo optimizar el uso de una reserva o cómo asignar el ámbito inicial de una reserva durante su compra. Para obtener más información, pida a los clientes que lean [administrar las reservas de recursos de Azure](/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
 
 **¿Qué ocurre cuando un cliente adquiere una reserva con un ámbito compartido?** Cuando los clientes adquieren una reserva basada en una suscripción de CSP anterior y asignan un ámbito compartido a esa reserva, los descuentos que el CSP haya proporcionado al cliente se aplicarán al uso de coincidencias para todas las suscripciones que el asociado de CSP haya adquirido para ese cliente.
 

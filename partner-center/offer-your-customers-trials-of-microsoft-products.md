@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444913"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999219"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ofrezca a los clientes versiones de evaluación gratuitas de los productos de Microsoft durante 30 días
 
@@ -79,8 +79,8 @@ Puede convertir las pruebas en suscripciones de pago mediante el centro de Partn
 
 Es posible que tenga que modificar las API para dar cabida a la conversión de una evaluación gratuita en una suscripción de pago. Para obtener más información, consulte la siguiente documentación para desarrolladores:
 
-- [Convertir una suscripción de prueba en otra de pago](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtener una lista de ofertas de conversión de versiones de prueba](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Convertir una suscripción de prueba en otra de pago](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obtener una lista de ofertas de conversión de versiones de prueba](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Pruebas sin conversiones
 

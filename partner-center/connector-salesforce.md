@@ -8,12 +8,12 @@ description: Sincronizar las referencias en el centro de Partners con el CRM de 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527838"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000599"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venta conjunta para Salesforce CRM: información general
 
@@ -31,10 +31,10 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 |**Temas**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
-|Venta conjunta lista|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Listo para la venta conjunta|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Cuenta de Centro de partners|El identificador de MPN asociado al inquilino del centro de Partners debe ser el mismo que el identificador de MPN asociado a la solución de venta conjunta. Compruebe que puede ver las referencias de venta conjunta en el portal del centro de Partners antes de implementar los conectores.|[Administración de la cuenta](create-user-accounts-and-set-permissions.md)|
 |Roles de usuario del Centro de partners|El empleado que va a instalar y usar los conectores debe ser un administrador de referencias.|[Asignar roles y permisos de usuarios](create-user-accounts-and-set-permissions.md)|
-|CRM de Salesforce|El rol de usuario CRM es administrador del sistema o Personalizador del sistema|[Asignación de roles en el CRM de Salesforce](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|CRM de Salesforce|El rol de usuario CRM es administrador del sistema o Personalizador del sistema|[Asignación de roles en el CRM de Salesforce](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Cuenta de flujo de automatización de energía|Una cuenta activa de [Power Automatic](https://flow.microsoft.com) para el administrador del sistema CRM o el personalizador del sistema. Dicho usuario debe iniciar sesión en [Power automatizate](https://flow.microsoft.com) al menos una vez antes de la instalación.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Instalación de la sincronización de referencias del centro de partners para Salesforce CRM
@@ -115,7 +115,7 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 1. Para registrar la dirección URL, seleccione **registro de webhook del centro de Partners (versión preliminar de Insider)** flujo de automatización.
 
-2. Agregar conexiones para () Usuario del centro de Partners con credenciales de administrador de referencias (b.) Eventos del centro de Partners, tal y como se resalta
+2. Agregar conexiones para (a) el usuario del centro de Partners con credenciales de administrador de referencias (b.) eventos del centro de partners como se resaltan a continuación
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Desencadenador":::
 
@@ -177,7 +177,7 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
 3. Para personalizar los campos de la sincronización de referencia de CRM a equipo para eventos de actualización:
 
-   1. Seleccione **Editar** para editar o personalizar el flujo de Power Automatic.
+   1. Seleccione **Editar**  para editar o personalizar el flujo de Power Automatic.
 
    2. Seleccione **(ámbito) sincronizar la oportunidad**.
 
@@ -189,7 +189,7 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
 4. Para personalizar los campos de la sincronización de referencia de CRM a equipo para crear eventos
 
-   1. Seleccione **Editar** para editar o personalizar el flujo de Power Automatic.
+   1. Seleccione **Editar**  para editar o personalizar el flujo de Power Automatic.
 
    2. Seleccione **(ámbito) sincronizar referencias.**
 
@@ -226,7 +226,7 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
 3. Seleccionar **campos & relaciones** en el panel de navegación izquierdo
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Campos":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. Agregue los campos siguientes en los **campos &** tabla de relaciones:
 
@@ -298,7 +298,7 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
        - "¿Cómo puede ayuda de Microsoft?": Seleccione una de las siguientes opciones:
        - Productos: identificadores de la solución del producto
 
-   4. Una vez que haya establecido la opción de sincronización de oportunidades **con el centro de Partners** en **sí**, espere 10 minutos, inicie sesión en su cuenta del centro de Partners. Las referencias se sincronizarán con el CRM de Salesforce.
+   4. Una vez que haya establecido la opción de sincronización de oportunidades  **con el centro de Partners** en **sí**, espere 10 minutos, inicie sesión en su cuenta del centro de Partners. Las referencias se sincronizarán con el CRM de Salesforce.
 
    5. Cuando la opción "sincronizar con el centro de Partners" está establecida en "sí", si actualiza la oportunidad en el CRM de Salesforce, los cambios se sincronizarán con la cuenta del centro de Partners.
 
@@ -322,10 +322,10 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [¿Más información sobre la plataforma Microsoft Power Automate?](https://docs.microsoft.com/-automate/)
+- [¿Más información sobre la plataforma Microsoft Power Automate?](/-automate/)
 
 - [Administrar los clientes potenciales](manage-leads.md)
 
 - [Administrar las oportunidades de venta conjunta](manage-co-sell-opportunities.md)
 
-- [Webhooks del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Webhooks del Centro de partners](/partner-center/develop/partner-center-webhooks)

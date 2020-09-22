@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114150"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000079"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
@@ -51,7 +51,7 @@ Verás la cuenta existente y una nota que indica que los detalles de la empresa 
 
 En esta pantalla se muestran los detalles de la cuenta existente (nombre y dirección) que ya se ha creado en el Centro de partners, junto con los detalles del contacto principal.
 
-Selecciona **Continuar**.
+Seleccione **Continuar**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>¿Qué ocurre durante la consolidación de cuentas?
 
@@ -93,4 +93,4 @@ Cuando veas tu perfil, verás tanto la información de la denominación legal de
 - [Asignación de roles y permisos de usuario](permissions-overview.md)
 - [Administración de programas de suscripción](renew-mpn-offers.md)
 - [Creación del perfil de negocio de una empresa](create-a-marketing-profile.md)
-- [Conexión con los clientes a través de referencias](responding-to-referrals.md)
+- [Conexión con los clientes a través de referencias](manage-leads.md)

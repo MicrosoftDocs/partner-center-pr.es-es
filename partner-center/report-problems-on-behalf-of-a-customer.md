@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220183"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999789"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
@@ -143,7 +143,7 @@ Si inicia sesión directamente en el centro de administración de Office 365, es
 
 Si tiene problemas relacionados con: las suscripciones a Dynamics 365 plan, las licencias, la facturación, las operaciones de finanzas &, las licencias de producto de Dynamics 365 o necesita soporte técnico adicional:
  
-Ponte en contacto con el [Soporte técnico de Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+Ponte en contacto con el [Soporte técnico de Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
 
 Lee [Soporte técnico de Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 

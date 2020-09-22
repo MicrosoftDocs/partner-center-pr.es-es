@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444942"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000409"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general sobre Marketplace comercial del Centro de partners
 
@@ -47,15 +47,15 @@ Si es un asociado en el programa CSP, hay muchas actividades comerciales de Mark
 |Obtenga información acerca de los contratos y las responsabilidades de los asociados de CSP e ISV en el Marketplace comercial | [Comprender la contratación](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> En esta información general se describe cómo los asociados del programa CSP pueden usar determinadas características de Marketplace comercial en el centro de Partners. A diferencia de los asociados en el programa CSP, los publicadores ISV tienen un rol de Marketplace diferente. También tienen disponibles diferentes características de Marketplace comercial en el centro de Partners. Para obtener más información sobre el rol de los editores de ISV, consulte la [Introducción a Azure Commercial Marketplace](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> En esta información general se describe cómo los asociados del programa CSP pueden usar determinadas características de Marketplace comercial en el centro de Partners. A diferencia de los asociados en el programa CSP, los publicadores ISV tienen un rol de Marketplace diferente. También tienen disponibles diferentes características de Marketplace comercial en el centro de Partners. Para obtener más información sobre el rol de los editores de ISV, consulte la [Introducción a Azure Commercial Marketplace](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>Dónde completar las actividades comerciales de Marketplace
 
-Como asociado en el programa CSP, puede completar muchas actividades comerciales de Marketplace para las ofertas de SaaS de ISV directamente desde el [Panel](https://partner.microsoft.com/dashboard) del centro de Partners o mediante las [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/). Sin embargo, para realizar otras actividades de Marketplace, puede que tenga que ir a:
+Como asociado en el programa CSP, puede completar muchas actividades comerciales de Marketplace para las ofertas de SaaS de ISV directamente desde el [Panel](https://partner.microsoft.com/dashboard) del centro de Partners o mediante las [API del centro de Partners](/partner-center/develop/). Sin embargo, para realizar otras actividades de Marketplace, puede que tenga que ir a:
 
 - [Portal de administración de Microsoft Azure](https://portal.azure.com/)
 
-    Or
+    O bien
 
 - Un sistema o sitio web de un publicador de ISV de terceros
 
@@ -82,7 +82,7 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |Para comprar una oferta  | Azure portal  |
 |Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure portal  |
 |Para cancelar o renovar las suscripciones de la oferta o agregar o quitar licencias | Azure portal  |
-|Para crear usuarios o administrar permisos  | Azure portal  |
+|Para crear usuarios o administrar permisos  | Azure Portal  |
 
 ## <a name="next-steps"></a>Pasos siguientes
 

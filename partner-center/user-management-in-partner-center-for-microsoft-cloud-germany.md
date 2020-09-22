@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220094"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000629"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
@@ -46,11 +46,11 @@ Después de haber iniciado sesión correctamente en el portal de Azure para Micr
 > [!NOTE]  
 > La selección de los vínculos siguientes le llevará a un sitio web diferente.
 
--  [Adición de nuevos usuarios a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Adición de nuevos usuarios a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Asignación de un usuario a roles de administrador en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Asignación de un usuario a roles de administrador en Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Restablecimiento de la contraseña de un usuario en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Restablecimiento de la contraseña de un usuario en Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Pasos siguientes
 

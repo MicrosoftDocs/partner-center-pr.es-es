@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714499"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999319"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
@@ -27,7 +27,7 @@ ms.locfileid: "90714499"
 - Administrador de facturación
 - Administrador global
 
-Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil de pago e impuestos para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
+Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil fiscal y de pago para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>Roles, monedas y otros programas de Microsoft
 
@@ -58,7 +58,7 @@ Dentro del minorista, los pagos por cada uno de los cinco programas de incentivo
 Las secciones siguientes le guiarán a través del proceso de creación y administración de perfiles de pago y impuestos en el centro de Partners.
 
 >[!IMPORTANT]
->Debe ser administrador de incentivos para crear o administrar perfiles de pago en el centro de Partners. Los roles de incentivos deben asignarse a cada ubicación de MPN en cada programa de incentivos. Para obtener más información acerca de cómo agregar administradores de incentivos en el centro de Partners, consulte [crear cuentas de usuario](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
+>Debe ser administrador de incentivos para crear o administrar perfiles de pago en el centro de Partners. Los roles de incentivos deben asignarse a cada ubicación de MPN en cada programa de incentivos. Para obtener más información acerca de cómo agregar administradores de incentivos en el centro de Partners, consulte [crear cuentas de usuario](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Acceder a la sección de impuestos y pago en el centro de Partners
 
@@ -109,11 +109,11 @@ Los perfiles de banco se crean en el nivel de organización. Esto permite asigna
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Siguiente**.
+2. Seleccione **Next** (Siguiente).
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Siguiente**.
+4. Seleccione **Next** (Siguiente).
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
@@ -140,7 +140,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo.
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Siguiente**. 
+3. Seleccione **Next** (Siguiente). 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 

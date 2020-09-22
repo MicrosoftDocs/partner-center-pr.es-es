@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ff6252ce36e68f2f17115460a97fa4928daf029
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89570634"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999339"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>¿Qué se debe hacer si el único administrador del programa MPN ha abandonado la empresa?
 
@@ -48,7 +48,7 @@ Si va a la página de **Administración de usuarios** y filtra por el administra
 
 ## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Escenario 3: el administrador de asociados de MPN/administrador de la cuenta/Administrador global ha abandonado la empresa y no hay otros usuarios que puedan tener acceso a la Azure AD de la empresa. Se trata de una pérdida completa de acceso.
 
-Siga los pasos de [adquisición del administrador](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) para asumir un directorio no administrado como administrador de Azure Active Directory.
+Siga los pasos de [adquisición del administrador](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) para asumir un directorio no administrado como administrador de Azure Active Directory.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>¿No estás seguro de si tu empresa ya tiene una cuenta profesional?
 

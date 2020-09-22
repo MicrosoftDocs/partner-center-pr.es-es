@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811195"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000649"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -27,7 +27,7 @@ ms.locfileid: "87811195"
 
 Podrá inscribirse en el programa de revendedor indirecto con el inquilino de factura directo existente.
 
-## <a name="get-started"></a>Primeros pasos
+## <a name="get-started"></a>Introducción
 
 1. Asegúrese de que el perfil de socio comercial en el centro de Partners y el ID. de MPN están actualizados.
 
@@ -76,7 +76,7 @@ Los diferentes proveedores indirectos ofrecen diferentes servicios y soporte té
 
 Busque en la lista de [proveedores de Microsoft indirectos](https://partnercenter.microsoft.com/partner/find-a-provider)oficiales.
 
-Más información, leer [asociado con proveedores indirectos](indirect-reseller-tasks-in-partner-center.md)
+Más información, leer  [asociado con proveedores indirectos](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Aceptación de una invitación de Asociación de su proveedor indirecto
 
@@ -161,7 +161,7 @@ Puede usar la característica de extensión de relación reseller para establece
 
 - No se proporcionará a su proveedor indirecto [privilegios de administración delegada](customers-revoke-admin-privileges.md) en el inquilino del cliente. Si el proveedor indirecto requiere privilegios de administración delegados, debe enviar una invitación de revendedor indirecto al cliente en su lugar.
 
-- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página relaciones de socios comerciales del [centro de administración de M365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).
+- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página relaciones de socios comerciales del [centro de administración de M365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Para evitar confusiones y malentendidos, tiene la obligación contractual del acuerdo de socio comercial de informar y obtener el consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un cliente de facturación directo existente y un proveedor indirecto.
@@ -245,15 +245,15 @@ La característica es un proceso de 4 pasos, donde:
 ### <a name="transitioning-partner"></a>Asociado de transición
 
 > [!NOTE]
-> También puede usar el [SDK/API del centro de Partners](https://docs.microsoft.com/partner-center/develop/manage-customers) para transferir las suscripciones existentes a su proveedor indirecto.
+> También puede usar el [SDK/API del centro de Partners](/partner-center/develop/manage-customers) para transferir las suscripciones existentes a su proveedor indirecto.
 >
-> - [Obtener la idoneidad de la transferencia de suscripciones de un cliente](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Crear una transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [Retirar la transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [Aceptar una transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [Rechazar la transferencia de un cliente](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [Obtener las transferencias de un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Obtener detalles de la transferencia por identificador](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [Obtener la idoneidad de la transferencia de suscripciones de un cliente](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Crear una transferencia de un cliente](/partner-center/develop/create-a-transfer)
+> - [Retirar la transferencia de un cliente](/partner-center/develop/withdraw-a-transfer)
+> - [Aceptar una transferencia de un cliente](/partner-center/develop/accept-a-transfer)
+> - [Rechazar la transferencia de un cliente](/partner-center/develop/reject-a-transfer)
+> - [Obtener las transferencias de un cliente](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Obtener detalles de la transferencia por identificador](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Transición de asociado: crear solicitud de transferencia
 

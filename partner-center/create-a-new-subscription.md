@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527808"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000529"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -93,7 +93,7 @@ Para comprar un complemento, el cliente debe tener primero una suscripción base
 5. Actualice la cantidad de licencias para cada complemento necesario. Haga clic en **Enviar** para enviar los cambios.
 
 La capacidad de comprar complementos a través del centro de Partners solo está disponible para los proveedores directos de facturación e indirectos.
-Solo se muestran los complementos válidos en función de los requisitos base y la disponibilidad regional. Consulte la matriz de la oferta del Reseller de la nube para obtener más información sobre precios y ofertas.  Al suspender la suscripción base, también se suspenderán los complementos asociados.
+Solo se muestran los complementos válidos en función de los requisitos base y la disponibilidad regional. Consulte la matriz de la oferta del revendedor en la nube para más información sobre precios y ofertas.  Al suspender la suscripción base, también se suspenderán los complementos asociados.
 
 Las fechas de inicio de los complementos se alinean con la suscripción base y los cargos se calculan a partir de la fecha de inicio y la fecha de finalización del cargo con cargos prorrateados en la primera factura. Para obtener más información, consulte [facturación basada en licencias](license-based-billing.md).
 
@@ -154,7 +154,7 @@ Para cancelar una suscripción de SaaS basada en licencia de un publicador de IS
 6. Para confirmar la cancelación, seleccione **sí, cancelar**.
 
 > [!NOTE]
-> También puede optar por cancelar una suscripción de Azure Marketplace mediante las API. Para ello, consulte [cancelación de una suscripción de Azure Marketplace](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> También puede optar por cancelar una suscripción de Azure Marketplace mediante las API. Para ello, consulte [cancelación de una suscripción de Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Elegir si se va a renovar automáticamente una suscripción de Marketplace comercial
 

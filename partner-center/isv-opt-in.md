@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949450"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000119"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Ofertas exclusivas de Marketplace de fabricantes de software independientes
 
@@ -46,6 +46,6 @@ Sus opciones son:
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener más información sobre la experiencia de ISV en Marketplace comercial, lea [proveedores de soluciones](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)en la nube.
+- Para obtener más información sobre la experiencia de ISV en Marketplace comercial, lea [proveedores de soluciones](/azure/marketplace/cloud-solution-providers)en la nube.
 
 - Para obtener más información sobre el Marketplace comercial, consulte [información general de Marketplace comercial para proveedores de soluciones en la nube](csp-commercial-marketplace-overview.md).

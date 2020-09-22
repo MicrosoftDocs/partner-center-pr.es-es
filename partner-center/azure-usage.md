@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367099"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000195"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
@@ -25,7 +25,7 @@ ms.locfileid: "89367099"
 - Partners del programa CSP
  
 > [!NOTE]
-> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinar el tamaño de la máquina virtual para la reserva de Azure de un cliente
 
@@ -48,7 +48,7 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 
 1. Use el valor para el atributo ServiceType de additionalInfo en la respuesta de la API para identificar el tamaño de la máquina virtual que se va a comprar.
 
-2. Para obtener más información, consulte [obtención de los registros de uso de un cliente para Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) en la [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/).
+2. Para obtener más información, consulte [obtención de los registros de uso de un cliente para Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) en la [API del centro de Partners](/partner-center/develop/).
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Obtención de información de tamaño de la máquina virtual mediante el Microsoft Azure Portal
 
@@ -123,10 +123,10 @@ Puede obtener datos de uso de reserva con la API de uso de Azure para comprobar 
 - consumptionMeter es el MeterId de la máquina virtual que tiene aplicado el descuento de reserva.
 - El ReservationMeter muestra el costo $0 desde que se aplicó el descuento de reserva.
 
-Para obtener más información, consulte [obtención de los registros de uso de un cliente para Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) en la [API del centro de Partners](https://docs.microsoft.com/partner-center/develop/).
+Para obtener más información, consulte [obtención de los registros de uso de un cliente para Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) en la [API del centro de Partners](/partner-center/develop/).
 
 >[!IMPORTANT]
->Los costos de software, como Microsoft Windows Server, no se incluyen actualmente en el precio de una reserva de máquinas virtuales y aparecerán como elementos de línea independientes en el registro de pedidos y en la factura. Sin embargo, si un cliente tiene la ventaja de uso híbrido de Azure, no se aplicarán los costos de software. Para obtener más información, consulte [los costos de software de Windows no incluidos con las instancias reservadas](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
+>Los costos de software, como Microsoft Windows Server, no se incluyen actualmente en el precio de una reserva de máquinas virtuales y aparecerán como elementos de línea independientes en el registro de pedidos y en la factura. Sin embargo, si un cliente tiene la ventaja de uso híbrido de Azure, no se aplicarán los costos de software. Para obtener más información, consulte [los costos de software de Windows no incluidos con las instancias reservadas](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas de Azure
 
@@ -135,7 +135,7 @@ Para obtener más información, consulte [obtención de los registros de uso de 
 |Información general sobre las reservas de Azure en CSP  | [Vender Microsoft Azure instancias reservadas de máquina virtual](azure-reservations.md)
 |Compra de reservas de Azure para sus clientes en el centro de Partners   | [Comprar reservas de Azure](azure-reservations-buying.md)
 |Administración de las reservas de Azure en el centro de Partners | [Administración de las reservas de Azure en el centro de Partners](azure-reservations-manage.md)
-|Compra de reservas de Azure en el Azure Portal | [Pagar por adelantado máquinas virtuales con Azure Reserved VM instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) en la ayuda de Azure |
-|Administración de las reservas de Azure en el Azure Portal   | [Administración de instancias reservadas de máquina virtual](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) en la ayuda de Azure  |
-|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
+|Compra de reservas de Azure en el Azure Portal | [Pagar por adelantado máquinas virtuales con Azure Reserved VM instances](/azure/virtual-machines/windows/prepay-reserved-vm-instances) en la ayuda de Azure |
+|Administración de las reservas de Azure en el Azure Portal   | [Administración de instancias reservadas de máquina virtual](/azure/billing/billing-manage-reserved-vm-instance) en la ayuda de Azure  |
+|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
 |Otorgar permiso a los clientes para comprar sus propias reservas de Azure a partir de una suscripción que haya adquirido. | [Conceder permiso a los clientes para que compren sus propias reservas de Azure](give-customers-permission.md)   |

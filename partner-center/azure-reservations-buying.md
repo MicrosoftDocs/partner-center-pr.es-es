@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367019"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000269"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre Microsoft Azure reservas en nombre de sus clientes en el centro de Partners
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367019"
 - Administrador del control de usuarios
  
 > [!NOTE]
-> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](https://docs.microsoft.com/azure/cost-management-billing/reservations)de las reservas de Azure.
+> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
 
 ## <a name="before-you-begin"></a>Antes de empezar
 
@@ -136,7 +136,7 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
     - Seleccione el ámbito de la reserva. El ámbito de la reserva puede cubrir una o varias suscripciones (ámbito compartido). Si el ámbito de la reserva es una sola suscripción, el descuento de reserva se aplica solo a esta suscripción. Si selecciona compartido, el descuento de reserva se aplica a todas las suscripciones del contexto de facturación del cliente. 
 
       >[!NOTE] 
-      >Si opta por limitar el ámbito de la reserva a una sola suscripción de Azure, puede que tenga que aumentar la cuota de vCPU de la suscripción. Para aumentar la cuota de vCPU de la suscripción, deberá crear una solicitud de soporte técnico en el Azure Portal. Siga las instrucciones [de este tema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) para crear la solicitud. 
+      >Si opta por limitar el ámbito de la reserva a una sola suscripción de Azure, puede que tenga que aumentar la cuota de vCPU de la suscripción. Para aumentar la cuota de vCPU de la suscripción, deberá crear una solicitud de soporte técnico en el Azure Portal. Siga las instrucciones [de este tema](/azure/azure-supportability/resource-manager-core-quotas-request) para crear la solicitud. 
 
       >[!NOTE]   
       >Si el cliente está en el plan de Azure, el **ámbito**  se establecerá en **compartido**. 
@@ -156,5 +156,5 @@ Siga los pasos que se indican a continuación para adquirir Microsoft Azure rese
 |Información general sobre las reservas de Azure en CSP  | [Vender Microsoft Azure instancias reservadas](azure-reservations.md) |
 |Administración de las reservas de Azure en el centro de Partners | [Administración de las reservas de Azure en el centro de Partners](azure-reservations-manage.md)
 |Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual del cliente   |[Tamaño de máquina virtual para el uso máximo de reserva de Azure](azure-usage.md)   |
-|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
+|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
 |Otorgar permiso a los clientes para comprar sus propias reservas de Azure  | [Conceder permiso a los clientes para que compren sus propias reservas de Azure](give-customers-permission.md)  |

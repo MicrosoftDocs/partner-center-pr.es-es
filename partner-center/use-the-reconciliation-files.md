@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468336"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999709"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -58,7 +58,7 @@ Siga estos pasos para corregir los problemas de formato en los archivos de conci
 
 ## <a name="download-reconciliation-files-programmatically"></a>Descargar archivos de conciliación mediante programación
 
-Los archivos de conciliación pueden ser muy grandes y a veces son difíciles de descargar. Para descargar los archivos de conciliación mediante programación, vea [obtener artículos de línea de factura](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
+Los archivos de conciliación pueden ser muy grandes y a veces son difíciles de descargar. Para descargar los archivos de conciliación mediante programación, vea [obtener artículos de línea de factura](/partner-center/develop/get-invoiceline-items).
 
 ## <a name="map-taxes-or-vat"></a>Impuestos de mapa o IVA
 

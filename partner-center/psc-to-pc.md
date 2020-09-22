@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848275"
+ms.locfileid: "90999349"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -40,12 +40,12 @@ Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2
 ### <a name="if-you-are-psc-admin"></a>Si es administrador de PSC
 
 - Necesita un correo electrónico de trabajo para iniciar sesión en el [centro de Partners](https://partner.microsoft.com/).
-- Configure su cuenta con la ayuda del administrador de la [cuenta](https://docs.microsoft.com/partner-center/permissions-overview)del centro de Partners.
+- Configure su cuenta con la ayuda del administrador de la [cuenta](permissions-overview.md)del centro de Partners.
 - Lea este documento para obtener información sobre cómo vender en el centro de Partners.
-- Configure cuentas de usuario en el centro de partners para todos los usuarios de PSC (roles de administrador, administrador de transacciones y vendedor) y asígneles [roles de administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview).
+- Configure cuentas de usuario en el centro de partners para todos los usuarios de PSC (roles de administrador, administrador de transacciones y vendedor) y asígneles [roles de administrador de referencias](permissions-overview.md).
 
 >[!Important]
-> Asegúrese de que el identificador de MPN que se muestra en el banner de PSC está disponible en la lista de ubicaciones de MPN del centro de Partners. Para comprobarlo en el centro de Partners, vaya a "configuración de la cuenta" y "[ubicaciones](https://docs.microsoft.com/partner-center/manage-locations)" en la lista para buscar la lista de todas las MPNs asociadas a la cuenta del centro de Partners.
+> Asegúrese de que el identificador de MPN que se muestra en el banner de PSC está disponible en la lista de ubicaciones de MPN del centro de Partners. Para comprobarlo en el centro de Partners, vaya a "configuración de la cuenta" y "[ubicaciones](manage-locations.md)" en la lista para buscar la lista de todas las MPNs asociadas a la cuenta del centro de Partners.
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagen que muestra el banner de PSC en el que los asociados pueden encontrar el ID. de MPN.":::
 
@@ -61,10 +61,10 @@ Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2
 
 Si no ve la pestaña referencias:
 
-- El [administrador global](https://docs.microsoft.com/partner-center/permissions-overview) de su empresa puede concederle acceso a la pestaña referencias. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Seleccione la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales". La página mostrará a continuación todos los administradores globales con sus respectivos identificadores de correo electrónico. Póngase en contacto con ellos para obtener acceso "Administrador de referencia" para su cuenta profesional.
+- El [administrador global](permissions-overview.md) de su empresa puede concederle acceso a la pestaña referencias. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Seleccione la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales". La página mostrará a continuación todos los administradores globales con sus respectivos identificadores de correo electrónico. Póngase en contacto con ellos para obtener acceso "Administrador de referencia" para su cuenta profesional.
 
 >[!Important]
-> Si su rol solo está administrando usuarios en PSC, puede obtener el rol [Administrador de cuenta](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) en el centro de Partners. Si su rol también incluye la administración de oportunidades de venta conjunta, debe obtener el rol de [Administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) . Además, supongamos que un responsable de administración de cambios entre los administradores de PSC trabaja con el administrador de la cuenta del centro de Partners en lugar de que todos los administradores de PSC lleguen a los administradores de cuentas del equipo individualmente.
+> Si su rol solo está administrando usuarios en PSC, puede obtener el rol [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. Si su rol también incluye la administración de oportunidades de venta conjunta, debe obtener el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) . Además, supongamos que un responsable de administración de cambios entre los administradores de PSC trabaja con el administrador de la cuenta del centro de Partners en lugar de que todos los administradores de PSC lleguen a los administradores de cuentas del equipo individualmente.
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
 
@@ -76,9 +76,9 @@ Si no ve la pestaña referencias:
 Una vez configurada la cuenta en el centro de Partners,
 
 - Invite a todos los usuarios que tienen un rol "Deal Manager" o "vendedor" en PSC al centro de partners como paso siguiente.
-- El [Administrador](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) de la cuenta que le ayudó con el acceso a las referencias puede invitar a todos los usuarios.
-- Al invitar a los usuarios, pídale al administrador de la cuenta que le asigne el rol de [Administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) .
-- Es posible que algunos de los usuarios de PSC estén usando una cuenta que no sea de trabajo o una cuenta de un dominio diferente del que está usando en el centro de Partners. Todos estos usuarios deben iniciar sesión en el centro de Partners con su cuenta profesional asociada al inquilino de Azure AD. El [administrador global](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) puede ayudarle con esto. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales".
+- El [Administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de la cuenta que le ayudó con el acceso a las referencias puede invitar a todos los usuarios.
+- Al invitar a los usuarios, pídale al administrador de la cuenta que le asigne el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) .
+- Es posible que algunos de los usuarios de PSC estén usando una cuenta que no sea de trabajo o una cuenta de un dominio diferente del que está usando en el centro de Partners. Todos estos usuarios deben iniciar sesión en el centro de Partners con su cuenta profesional asociada al inquilino de Azure AD. El [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) puede ayudarle con esto. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales".
 - El administrador global puede crear una nueva cuenta de usuario en el inquilino de Azure AD o asignar acceso de usuario invitado a los demás usuarios de la cuenta de dominio.
 - Una vez que las cuentas están configuradas para todos los administradores y usuarios de la empresa de PSC, deben iniciar sesión en el centro de Partners, ir a la pestaña referencia en el panel de navegación izquierdo y comprobar que pueden ver la página referencias.
 
@@ -100,16 +100,16 @@ Este es un paso importante, que le ayudará a prepararse para la venta conjunta 
 
 |**Escenario**|**Conexión de ventas de asociados**|**Centro de partners**|
 |-----|:-----|:-----|
-|Roles de usuario|PSC tiene roles de administrador, Director de transacciones y vendedor.|PC solo tiene el rol de [Administrador de referencia](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) que proporciona permiso de lectura y escritura para todos los contratos.|
-|Invitar a Microsoft en un trato de venta conjunta|Iniciado por el vendedor de Microsoft, no hay ninguna pregunta explícita por parte del asociado.|El asociado tendrá que realizar una [solicitud explícita](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) si se necesita ayuda de Microsoft para un vendedor. El vendedor de Microsoft tiene una opción para rechazar la solicitud.|
+|Roles de usuario|PSC tiene roles de administrador, Director de transacciones y vendedor.|PC solo tiene el rol de [Administrador de referencia](permissions-overview.md#manage-referrals) que proporciona permiso de lectura y escritura para todos los contratos.|
+|Invitar a Microsoft en un trato de venta conjunta|Iniciado por el vendedor de Microsoft, no hay ninguna pregunta explícita por parte del asociado.|El asociado tendrá que realizar una [solicitud explícita](manage-co-sell-opportunities.md#add-solutions) si se necesita ayuda de Microsoft para un vendedor. El vendedor de Microsoft tiene una opción para rechazar la solicitud.|
 |Expiry|No hay ningún concepto de la expiración de un contrato.|Los acuerdos de entrada de asociados expiran en 14 días si no los acepta el socio. Lo mismo ocurre con los acuerdos salientes de los asociados en los que pueden entrar en el estado expirado si el vendedor de Microsoft no actúa en ellos en 14 días.|
 |Detalles de vendedor de Microsoft|Visible en cuanto se crea un trato.|Los detalles de los vendedores de Microsoft se comparten con el socio comercial solo si el vendedor acepta explícitamente la invitación para la venta conjunta del socio.|
-|[Canalización privada](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|No está disponible.|Los asociados pueden compartir su canalización sin ofrecer visibilidad a los vendedores de Microsoft.|
-|Soluciones|Las soluciones que pertenecen a una sola lista de precios se pueden agregar a un contrato.|El asociado puede agregar [soluciones](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) que pertenezcan a las listas siguientes. a) sus propias soluciones de soluciones b) del catálogo de Microsoft First Party (similar a la función de trato de transacciones en PSC) y c) soluciones de venta conjunta de otros asociados de terceros (similar al rol de negocio de ISV en PSC).|
+|[Canalización privada](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|No está disponible.|Los asociados pueden compartir su canalización sin ofrecer visibilidad a los vendedores de Microsoft.|
+|Soluciones|Las soluciones que pertenecen a una sola lista de precios se pueden agregar a un contrato.|El asociado puede agregar [soluciones](manage-co-sell-opportunities.md#add-solutions) que pertenezcan a las listas siguientes. a) sus propias soluciones de soluciones b) del catálogo de Microsoft First Party (similar a la función de trato de transacciones en PSC) y c) soluciones de venta conjunta de otros asociados de terceros (similar al rol de negocio de ISV en PSC).|
 |Asignación de trato|Solo el vendedor asignado puede ver los acuerdos y actuar sobre ellos.|Los miembros del equipo se pueden agregar a un trato para especificar las personas que trabajan en un trato, no hay ningún bloqueo de otros administradores de referencia que puedan ver o actuar en esos acuerdos.|
-|Organización del cliente|Entrada de texto de forma libre.|Puede buscar la [organización del cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) en la [base de datos D&B](https://www.dnb.com/) escribiendo solo unos pocos caracteres. El nombre y la dirección válidos se rellenan automáticamente en función de la elección.|
+|Organización del cliente|Entrada de texto de forma libre.|Puede buscar la [organización del cliente](manage-co-sell-opportunities.md#select-your-customer) en la [base de datos D&B](https://www.dnb.com/) escribiendo solo unos pocos caracteres. El nombre y la dirección válidos se rellenan automáticamente en función de la elección.|
 |Contacto del cliente|No es obligatorio.|No es obligatorio para el uso compartido de la canalización privada. Requerido si el vendedor de Microsoft está invitado a participar en una solicitud de venta conjunta.|
-|API pública|No está disponible.|[API pública](https://docs.microsoft.com/partner/develop/referrals) para administrar mediante programación las referencias del centro de Partners.|
+|API pública|No está disponible.|[API pública](/partner/develop/referrals) para administrar mediante programación las referencias del centro de Partners.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Asignación de campos de centro de Partners y PSC
 
@@ -166,13 +166,13 @@ En esta sección se presenta la asignación exacta de los atributos entre PSC y 
 
 **Q1. ¿Qué debo hacer si no tengo acceso al centro de Partners?**
 
-Puede ponerse en contacto con los administradores que aparecen en la página "sin acceso" para obtener los roles asignados. Necesitará el rol "[Administrador de referencias](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" para el permiso de lectura y escritura en la sección referencias. Si solo está administrando perfiles de negocio, necesitará el rol "Administrador de Perfil de negocio" en el centro de Partners.
+Puede ponerse en contacto con los administradores que aparecen en la página "sin acceso" para obtener los roles asignados. Necesitará el rol "[Administrador de referencias](permissions-overview.md#manage-referrals)" para el permiso de lectura y escritura en la sección referencias. Si solo está administrando perfiles de negocio, necesitará el rol "Administrador de Perfil de negocio" en el centro de Partners.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagen que muestra la experiencia de no acceso en el centro de Partners.":::
 
 **Q2. ¿Quién puede concederme acceso a la sección de referencias del centro de Partners?**
 
-El [Administrador](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) de la cuenta puede concederle acceso a la pestaña referencias. Para buscar el administrador de la cuenta, vaya a configuración del socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "Admins. de cuenta". La página mostrará todos los administradores de cuentas con sus respectivos identificadores de correo electrónico. Póngase en contacto con ellos para obtener acceso "Administrador de referencia" para su cuenta profesional.
+El [Administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de la cuenta puede concederle acceso a la pestaña referencias. Para buscar el administrador de la cuenta, vaya a configuración del socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "Admins. de cuenta". La página mostrará todos los administradores de cuentas con sus respectivos identificadores de correo electrónico. Póngase en contacto con ellos para obtener acceso "Administrador de referencia" para su cuenta profesional.
 
 **Q3. El botón + nuevo contrato está atenuado para nuestra cuenta. ¿Qué debo hacer para empezar a crear negocios?**
 
@@ -192,7 +192,7 @@ No, no hay ninguna vista de solo lectura de los contratos en la sección referen
 
 **Q7. ¿Cómo puedo registrar un trato después de que lo gane?**
 
-Si el trato cumple los siguientes criterios, se mostrará un elemento emergente para empezar a trabajar con el [registro](https://docs.microsoft.com/partner-center/register-deals).
+Si el trato cumple los siguientes criterios, se mostrará un elemento emergente para empezar a trabajar con el [registro](./register-deals.md).
 
 - Existe una solución de incentivos que reúne el trato.
 - El vendedor de Microsoft está invitado a participar en el trato o le ha invitado al trato.
@@ -204,11 +204,11 @@ El "+ nuevo registro de trato" solo lo usarán los asociados registrados en el p
 
 **Q9. ¿Es obligatorio agregar una organización de cliente?**
 
-Sí, la adición de una [organización de clientes](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) es obligatoria en el centro de Partners. En primer lugar, busque la ubicación donde se encuentra el cliente. En función de los detalles que tenga; puede ser específico incluyendo el nombre exacto de la compilación o simplemente proporcionar los detalles de la ciudad. La búsqueda de la organización recuperará todas las entidades jurídicas que coincidan con el nombre especificado para que no tenga que escribir ningún detalle de dirección. Todos los detalles se rellenan automáticamente en función de la organización seleccionada.
+Sí, la adición de una [organización de clientes](./manage-co-sell-opportunities.md#select-your-customer) es obligatoria en el centro de Partners. En primer lugar, busque la ubicación donde se encuentra el cliente. En función de los detalles que tenga; puede ser específico incluyendo el nombre exacto de la compilación o simplemente proporcionar los detalles de la ciudad. La búsqueda de la organización recuperará todas las entidades jurídicas que coincidan con el nombre especificado para que no tenga que escribir ningún detalle de dirección. Todos los detalles se rellenan automáticamente en función de la organización seleccionada.
 
 **Q10. ¿Son obligatorios los detalles de contacto del cliente?**
 
-Depende del [tipo de trato](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) que se va a crear. Si solo comparte su canalización y no requiere ayuda de la organización de ventas de Microsoft, puede elegir no proporcionar los detalles de contacto del cliente. Si va a realizar la venta conjunta en la que va a buscar ayuda de forma activa en el vendedor de Microsoft, deberá proporcionar los detalles de contacto del cliente. Debe obtener el consentimiento explícito del cliente antes de crear una solicitud de venta conjunta en el centro de Partners.
+Depende del [tipo de trato](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) que se va a crear. Si solo comparte su canalización y no requiere ayuda de la organización de ventas de Microsoft, puede elegir no proporcionar los detalles de contacto del cliente. Si va a realizar la venta conjunta en la que va a buscar ayuda de forma activa en el vendedor de Microsoft, deberá proporcionar los detalles de contacto del cliente. Debe obtener el consentimiento explícito del cliente antes de crear una solicitud de venta conjunta en el centro de Partners.
 
 **Q11. ¿Cuántas soluciones se pueden agregar a un trato?**
 
@@ -228,7 +228,7 @@ El centro de Partners no es accesible desde el PDM directamente, a diferencia de
 
 - OCP Insights: si PDM solo está viendo los acuerdos & progreso relacionado con ellos, pueden usar el portal de OCP Insights para obtener la vista de la organización. Se trata de una herramienta interna que solo está disponible para PDM. Tenga en cuenta que OCP Insights no está disponible para los usuarios de su empresa.
 - Usuario invitado en el centro de Partners: puede agregar su @microsoft.com cuenta de PDM como usuario invitado en el centro de Partners y asignarle el rol de administrador de referencias para que puedan ver y actuar en función de las referencias.
-- Creación de un [nuevo usuario](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) en el inquilino: puede crear un nuevo usuario en su propio inquilino y compartir esos detalles con el PDM para que puedan ver y actuar en las referencias similares a otros usuarios de referencia de su cuenta.
+- Creación de un [nuevo usuario](./create-user-accounts-and-set-permissions.md#add-a-new-user) en el inquilino: puede crear un nuevo usuario en su propio inquilino y compartir esos detalles con el PDM para que puedan ver y actuar en las referencias similares a otros usuarios de referencia de su cuenta.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Recursos para ayudarle a crear y administrar sus ofertas en el centro de Partners
 
@@ -236,15 +236,15 @@ Si aún no ha leído los temas de ayuda de la venta conjunta, los siguientes rec
 
 |**Para**   |**Lee esto**   |
 |-----------------------|:-----------------------|
-|Descripción de las pestañas y la navegación en la página de oportunidades de venta conjunta|[Navegar por la sección de venta conjunta](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|Selección de una organización de cliente en la lista D&B |[Seleccione su cliente](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|Modificación de los campos de la sección Detalles del contrato|[Detalles del trato](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|Agregar los empleados de la empresa a un equipo de negocio|[Agregar los empleados](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|Respuesta a un trato de venta conjunta|[Administrar ofertas de venta conjunta](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|Registre los acuerdos que ha ganado en el centro de Partners |[Registrar una nueva oferta](https://docs.microsoft.com/partner-center/register-deals)
-|Obtenga información de referencia y descubra cómo están haciendo sus referencias |[Información de referencia](https://docs.microsoft.com/partner-center/referral-insights)
-|Creación y administración de perfiles de negocio|[Administrar el perfil de negocio](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|Administración de clientes potenciales para su perfil de negocio |[Administrar los clientes potenciales](https://docs.microsoft.com/partner-center/manage-leads)|
+|Descripción de las pestañas y la navegación en la página de oportunidades de venta conjunta|[Navegar por la sección de venta conjunta](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Selección de una organización de cliente en la lista D&B |[Seleccione su cliente](./manage-co-sell-opportunities.md#select-your-customer)|
+|Modificación de los campos de la sección Detalles del contrato|[Detalles del trato](./manage-co-sell-opportunities.md#deal-details)|
+|Agregar los miembros del equipo a un equipo de trato|[Agregar los empleados](./manage-co-sell-opportunities.md#add-team-members)|
+|Respuesta a un trato de venta conjunta|[Administrar ofertas de venta conjunta](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Registre los acuerdos que ha ganado en el centro de Partners |[Registrar una nueva oferta](./register-deals.md)
+|Obtenga información de referencia y descubra cómo están haciendo sus referencias |[Información de referencia](./referral-insights.md)
+|Creación y administración de perfiles de negocio|[Administrar el perfil de negocio](./create-a-marketing-profile.md)
+|Administración de clientes potenciales para su perfil de negocio |[Administrar los clientes potenciales](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>Recursos adicionales
 

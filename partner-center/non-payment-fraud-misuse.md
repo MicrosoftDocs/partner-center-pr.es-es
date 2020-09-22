@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280605"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999299"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Administración de no pago, fraude o uso indebido en el Centro de partners
 
@@ -79,7 +79,7 @@ Sugerencias para reducir los riesgos en línea al incorporar nuevos clientes:
 - Use la autenticación multifactor (como la comprobación de SMS) durante el registro para minimizar la exposición a la creación y compra de cuentas robóticas.
 - Administrar y realizar un seguimiento de las identidades mediante servicios (como servicios de identidad digital).
 - Evalúe el nivel financiero del cliente a través de rigurosos sistemas de detección de fraudes de tarjetas de crédito.
-- Establezca una directiva de recopilación clara. Detalle el proceso de las colecciones y el momento en que el acceso a las suscripciones se verá afectado por no pago. (Puede deshabilitar el acceso o [suspender las suscripciones de un cliente](suspend-a-subscription.md) para que no sean de pago).
+- Establezca una directiva de recopilación clara. Detalle el proceso de las colecciones y el momento en que el acceso a las suscripciones se verá afectado por no pago. (Puede deshabilitar el acceso o [suspender las suscripciones de un cliente](create-a-new-subscription.md#suspend-a-subscription) para que no sean de pago).
 
 ### <a name="managing-customer-accounts"></a>Administración de cuentas de clientes
 

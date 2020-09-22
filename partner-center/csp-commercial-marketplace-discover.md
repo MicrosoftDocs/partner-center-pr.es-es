@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527731"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000419"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Descubra ofertas y precios en el Marketplace comercial del centro de Partners
 
@@ -70,7 +70,7 @@ Para ver las ofertas de Marketplace comercial disponibles en el programa CSP:
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Ver ofertas de Marketplace a través de las API del centro de Partners
 
-Los asociados del programa CSP también pueden usar las API para devolver una lista de ofertas válidas. Las ofertas válidas solo estarán disponibles para que el asociado pueda vender a través del Marketplace del centro de Partners. En el caso de los asociados que usan las API para identificar ofertas en el catálogo, consulte las instrucciones para [obtener una lista de ofertas para un mercado](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Los asociados del programa CSP también pueden usar las API para devolver una lista de ofertas válidas. Las ofertas válidas solo estarán disponibles para que el asociado pueda vender a través del Marketplace del centro de Partners. En el caso de los asociados que usan las API para identificar ofertas en el catálogo, consulte las instrucciones para [obtener una lista de ofertas para un mercado](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Vea los precios más recientes de la oferta de Marketplace en el centro de Partners
 
@@ -101,7 +101,7 @@ En el caso de cualquier oferta marcada como exclusiva, sin embargo, solo los aso
 > [!NOTE]
 > Si ve una oferta marcada como exclusiva que le gustaría vender a sus clientes, póngase en contacto directamente con el ISV y pida permiso para vender la oferta exclusiva. Al ver los detalles de una oferta exclusiva, puede ver un vínculo de **ISV de contacto** que puede seleccionar.
 
-Para obtener más información sobre la experiencia de ISV en Marketplace comercial, lea [proveedores de soluciones](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)en la nube.
+Para obtener más información sobre la experiencia de ISV en Marketplace comercial, lea [proveedores de soluciones](/azure/marketplace/cloud-solution-providers)en la nube.
 
 Para obtener más información sobre la experiencia de CSP en Marketplace, consulte [información general de Marketplace comercial](csp-commercial-marketplace-overview.md).
 

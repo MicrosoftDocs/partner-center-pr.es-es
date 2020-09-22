@@ -8,12 +8,12 @@ description: Como asociado de Microsoft, puede tener preguntas sobre el uso de d
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041108"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999759"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guía para los recursos de licencias de los asociados de Microsoft 
 
@@ -48,7 +48,7 @@ Puede obtener más información acerca de los programas de licencias específico
 |Más información sobre licencias por volumen (VL) y licencias para soluciones específicas  | [Licencias de Microsoft: productos y soluciones](https://www.microsoft.com/licensing/default) |
 |Obtenga información sobre el entrenamiento y los recursos de licencias por volumen que pueden ayudarle con los precios, las ofertas, los contratos, la activación de productos y otras herramientas de licencias por volumen.  | [Aprendizaje y recursos de Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
 |Explore los módulos de entrenamiento **obtener licencias preparadas para** licencias  | [Obtención de licencias listas](https://www.getlicensingready.com/)  |
-|Lea sobre el examen de licencias que le ayuda a diseñar y proporcionar soluciones de licencias de Microsoft a organizaciones de gran tamaño *(el examen se retirará el 31 de enero de 2021 a las 11:59 P.m. hora central)*  | [Examen 70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|Lea sobre el examen de licencias que le ayuda a diseñar y proporcionar soluciones de licencias de Microsoft a organizaciones de gran tamaño *(el examen se retirará el 31 de enero de 2021 a las 11:59 P.m. hora central)*  | [Examen 70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Términos y contratos de licencia específicos del programa y específicos del producto
 
@@ -84,7 +84,7 @@ El proveedor indirecto (para el programa CSP) o el distribuidor del programa deb
 |Ver precios y ofertas de programas de CSP desde el panel del centro de Partners *(debe inscribirse en el programa CSP para ver este panel)*  |[Precios de CSP y ofertas de información general](pricing-and-offers.md) o [documentos y recursos de CSP](csp-documents-and-learning-resources.md) |
 |Explore material de marketing para ayudarle con un negocio  | [Materiales de preparación de asociados de MPN](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Obtenga ayuda de los servicios de implementación y Preventas técnicas de Microsoft para un caso de un negocio o un caso en línea  | Información general de [servicios de implementación y Preventas técnicas](https://partner.microsoft.com/training/technical-presales-deployment-services) o [información general de soporte técnico](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Obtenga información sobre cómo activar Microsoft Azure en licencias Open   | [Preguntas más frecuentes sobre la activación del servicio en línea para programas abiertos](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|Obtenga información sobre cómo activar Microsoft Azure en licencias Open   | [Preguntas más frecuentes sobre la activación del servicio en línea para programas abiertos](/licensing/online-service-activation-faq)  |
 |Cómo y cuándo calcular y solicitar un crédito de contrato de nivel de servicio de Microsoft para clientes afectados por una interrupción  | [Solicitud de crédito de un contrato de nivel de servicio para una interrupción](request-credit.md)   |
 |Obtener ayuda de la comunidad de asociados de Microsoft  | [Foro de la comunidad de asociados de Microsoft](https://www.microsoftpartnercommunity.com)  |
 
