@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714379"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848253"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
@@ -61,7 +61,7 @@ Puede crear tres tipos de oportunidades.
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
+Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -75,9 +75,9 @@ Especifique los detalles de la transacción actual. Los campos que se definen a 
 |**Nombre del trato** | Mandatory | El nombre descriptivo para identificar el trato en un momento posterior. |
 |**Valor estimado** | Mandatory | El valor del trato en función de la información disponible durante la creación de la transacción.|
 |**Fecha de cierre estimada**| Mandatory| Fecha en la que se espera que se cierre el trato con el cliente. |
-|**IDENTIFICADOR DE CRM**| Opcionales | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
-|**ID. de campaña de marketing**| Opcionales | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
-|**Notas**| Opcionales | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
+|**IDENTIFICADOR DE CRM**| Opcional | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
+|**ID. de campaña de marketing**| Opcional | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
+|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
 
 ### <a name="add-team-members"></a>Agregar miembros del equipo
 
@@ -94,6 +94,9 @@ En esta sección, debe proporcionar la información relacionada con las solucion
 Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene tres opciones:
 
 **Trato privado**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
+
+> [!Important]
+> El registro del trato no es aplicable a las ofertas privadas. Tenga cuidado a la vez que crea un trato privado con soluciones válidas para incentivos, ya que no será válida para el registro de trato en el centro de Partners.
 
 **Contrato de venta conjunta:** Si selecciona una opción distinta de la selección predeterminada para la pregunta **"identificar el tipo de ayuda que le gustaría de Microsoft"**, el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft puede ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
 
@@ -133,9 +136,50 @@ En esta fase, si ha recibido una nueva oportunidad de venta conjunta de un vende
 
 ### <a name="accepted-stage"></a>Fase aceptada
 
-Trabaja para cerrar la oferta con el cliente. Si desea cambiar cualquiera de la información que ha proporcionado para una referencia aceptada, seleccione **Editar**. Después, puede actualizar el nombre del trato, la fecha de compra estimada, el valor estimado, las notas, el ID. de CRM o el ID. de campaña de marketing.  También puede seleccionar **Agregar los empleados** para proporcionar el nombre, el número de teléfono y las direcciones de correo electrónico de las personas que trabajan en el trato. Las soluciones también se pueden editar en función de las necesidades del cliente.
+Trabaja para cerrar la oferta con el cliente. Si desea cambiar cualquiera de la información que ha proporcionado para una referencia aceptada, seleccione **Editar**. Después, puede actualizar el nombre del trato, la fecha de compra estimada, el valor estimado, las notas, el ID. de CRM o el ID. de campaña de marketing.  También puede seleccionar **Agregar su equipo** para proporcionar el nombre, el número de teléfono y las direcciones de correo electrónico de las personas que trabajan en el trato. Las soluciones también se pueden editar en función de las necesidades del cliente.
 
 De forma predeterminada, todos los acuerdos que ha creado se encuentran en la fase aceptado.
+
+Una vez que empiece a trabajar en el trato, puede proporcionar los detalles del progreso que está realizando marcando las fases de ventas en el ciclo de vida del trabajo. Hay cuatro fases en el ciclo de vida de la negociación, aparte de la aceptación o la creación inicial, y las fases finales ganadas o perdidas, como se menciona a continuación. Proporcionar estos detalles es opcional, pero le recomendamos que los comparta para obtener la ayuda adecuada de los representantes de ventas de Microsoft en un trato de venta conjunta.
+
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
+
+|**Nombre de la fase de ventas**|**Porcentaje de fase de ventas**|**Definición de la fase de ventas**|
+|:----|:-----|:-----|
+|Creado|10 %|Crear un trato saliente.|
+|Aceptado|10 %|Aceptación de un trato entrante.|
+|Apto|20%|Calificar el valor de los requisitos de trato y cliente antes de continuar.|
+|Elabora|40%|Desarrollar el trato aún más para comprender los requisitos detallados para preparar una POC o cualquier otro artefacto necesario para una propuesta formal.|
+|Propuesto|60 %|Realización de una propuesta formal al cliente en función de sus requisitos.|
+|Negotiated|80 %|Negociar los términos finales en función de la propuesta para llegar al estado final: ganar o perder el trato.|
+|Ganado|100%|Marcar el trato como ganado.|
+
+Cuando haya terminado, puede realizar una de las dos acciones, que marcan el trato como **ganada** o **perdida** para informar del resultado.
+
+> [!Note]
+> No es necesario que su compañía siga las mismas fases de ventas. Este es el modo en que el centro de Partners reconoce las fases de ventas del negocio y asignará automáticamente las fases de la empresa a estas fases estándar si pasa estos valores mediante la API. Si usa la experiencia del usuario del centro de Partners, los porcentajes que se muestran en la tabla se usan para marcar las fases de ventas.
+
+> [!Important]
+> En el caso de ciertas soluciones válidas, después de seleccionar ganad, se le pedirá que proporcione información adicional para registrar su negocio. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión. Para obtener más información, consulta [Registrar las ofertas](register-deals.md).
+
+Un trato será válido para el registro de trato solo si cumple todos los criterios siguientes.
+
+1. Microsoft está invitado al trato.
+2. Microsoft aceptó la invitación o marcó el trato como ganada. Para comprender el estado de Microsoft, consulte la tarjeta de Microsoft debajo de los detalles del contrato.
+3. Existe una solución de incentivos que reúne el trato.
+
+> [!Important]
+> Registre el trato solo si el nombre de su empresa y la solución de incentivos que cumpla con el trato se mencionan claramente en el contrato con el cliente.
+
+Si el trato es válido para el registro de trato, se agregará un hito adicional al ciclo de vida del trato denominado "registro de trato", como se muestra a continuación.
+
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen en la que se muestra el ciclo de vida del negocio, la ubicación desde donde se puede iniciar el registro del contrato.":::
+
+Puede optar por registrar el trato inmediatamente después de marcar el trato como ganado o en un momento posterior a través del botón registrar ciclo de vida **ahora** .
+Una vez registrado el trato, puede ver el progreso de la validación del trato desde el mismo ciclo de vida. Si se requiere alguna acción de la empresa, se mostrarán los errores correspondientes en la vista ciclo de vida del negocio. El trato entra en el estado cerrado cuando se completa la validación del contrato.
+
+> [!Important]
+> Tanto la revisión del contrato como el estado final de la validación solo se aplican a las ofertas de venta conjunta de IP.
 
 ### <a name="combinations"></a>Posibles
 
@@ -143,19 +187,14 @@ En la tabla siguiente se muestran las combinaciones de personas a las que se pue
 
 |**Tipo de trato original**|**Personas a las que se puede invitar**|**Notas**|
 |-----|:-----|:-----|
-|Private|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
+|Privados|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
 |Venta conjunta|Otros asociados|Se puede invitar a otros asociados solo si su empresa inició el trato. No se puede invitar a los asociados a los contratos en la pestaña entrante.|
 |Asociado al asociado sin Microsoft|Microsoft|El trato se actualizará a un trato de venta conjunta.|
 |Asociado al asociado sin Microsoft|Otros asociados||
 
-Cuando haya terminado, puede realizar una de las dos acciones, que marcan el trato como **ganada** o **perdida** para informar del resultado, de modo que podamos archivarlo en consecuencia.
+### <a name="closed-stage"></a>Fase cerrada
 
-> [!TIP]
-> En el caso de ciertas soluciones válidas, después de seleccionar ganad, se le pedirá que proporcione información adicional para registrar su negocio. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión. Para obtener más información, consulta Registrar las ofertas.
-
-### <a name="archived-stage"></a>Fase de archivado
-
-Esta es la fase final de todas las oportunidades. Puede ver todos los clientes potenciales que se encuentran en el archivo **ganado, perdido, rechazado**y **caducado** . No hay acciones que pueda realizar en esta fase.
+Esta es la fase final de todas las oportunidades. Puede ver todos los acuerdos que se encuentran en las versiones **ganadas, perdidas, rechazadas**y **expiradas** en la fase cerrada. No hay acciones que pueda realizar en esta fase.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 

@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811303"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848225"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganar fondos de marketing cooperativo
 
@@ -51,14 +51,14 @@ La escala de tiempo de los fondos de cooperación se divide en períodos de 2 6 
 
 El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención**. Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso**de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
 
-En la tabla siguiente se muestran los diferentes períodos de obtención, uso y reclamaciones. Los períodos se extienden desde el primer día del primer mes hasta el último día del último mes.
+En la tabla siguiente se muestran los diferentes períodos de obtención, uso y reclamaciones. A menos que se indique lo contrario, los períodos se extienden desde el primer día del primer mes hasta el último día del último mes.
 
 |  Si el período de obtención/acumulación es  |El período de semestre fiscal es  |  El período de uso es  |  El período de reclamaciones es  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Julio-2020 de diciembre**| FY20 H1  |  Ene-junio 2021  |  Feb-2021 de julio  |
-|**Ene-junio 2021** |  FY20 H2  |  Julio-2021 de diciembre  |  De agosto de 2021 a enero de 2022  |
-|**Julio-2021 de diciembre**|  FY21 H1  |  Ene-junio 2022  |  Feb-2022 de julio  |
-|**Ene-junio 2022** |  FY21 H2  |  Julio-2022 de diciembre  |  De agosto de 2022 a enero de 2023  |
+|**Julio-2020 de diciembre**| FY20 H1  |  Ene-junio 2021  |  16 de febrero de 15 2021  |
+|**Ene-junio 2021** |  FY20 H2  |  Julio-2021 de diciembre  |  De agosto de 16 2021 a febrero de 15 2022  |
+|**Julio-2021 de diciembre**|  FY21 H1  |  Ene-junio 2022  |  16 de febrero de 15 2022  |
+|**Ene-junio 2022** |  FY21 H2  |  Julio-2022 de diciembre  |  De agosto de 16 2022 a febrero de 15 2023  |
 
 >[!NOTE]
 >Microsoft se reserva el derecho de solicitar documentos de prueba de ejecución original (PoE). Debe conservar todos los documentos originales durante 24 meses después de la fecha de la actividad.
