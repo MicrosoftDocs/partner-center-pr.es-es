@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026545"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007409"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
@@ -28,7 +28,7 @@ Una vez que haya configurado la cuenta, debe hacer dos cosas antes de poder vend
 - [Configuración de la cuenta de pago](#payout-account)
 
 > [!NOTE]
-> Para más información sobre cómo y cuándo se le pagará por el dinero que hace su oferta, consulte [Recepción del pago](marketplace-payout-account-setup.md).
+> Para más información sobre cómo y cuándo se le pagará por el dinero que hace su oferta, consulte [Recepción del pago](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="tax-forms"></a>Formularios de impuestos
 
@@ -131,7 +131,7 @@ Puede editar los perfiles de pago existentes si necesita realizar cambios o corr
 3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y haga clic en **Editar** en el extremo derecho.
 
 > [!IMPORTANT]
-> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Recepción del pago](marketplace-payout-account-setup.md) para más información.
+> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Recepción del pago](/azure/marketplace/marketplace-payout-account-setup) para más información.
 
 ### <a name="paypal-info"></a>Información de PayPal
 

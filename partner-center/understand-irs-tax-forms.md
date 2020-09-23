@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026543"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007477"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Descripción de los formularios fiscales del IRS emitidos por Microsoft
 
@@ -27,7 +27,7 @@ A continuación, explicaremos más sobre estos formularios, incluidos sus destin
 |1042-S | Relacionado con los pagos que se le han realizado y que están sujetos a Estados Unidos impuesto de retención | Los formularios impresos se postmarcarán el **15 de marzo**, y las copias de. pdf estarán disponibles en el centro de Partners (en la configuración del desarrollador del **centro de Partners** en **pagos e impuestos > los perfiles de pago y impuestos**) al mismo tiempo.  |
 
 > [!NOTE]
-> La dirección que usamos en los formularios fiscales del IRS procede de la dirección del [perfil fiscal](marketplace-payout-account-setup.md). Si la dirección ha cambiado, asegúrese de actualizar la dirección del **perfil fiscal**.
+> La dirección que usamos en los formularios fiscales del IRS procede de la dirección del [perfil fiscal](/azure/marketplace/marketplace-payout-account-setup). Si la dirección ha cambiado, asegúrese de actualizar la dirección del **perfil fiscal**.
 
 Los formularios fiscales se le enviarán desde las siguientes direcciones:
 
