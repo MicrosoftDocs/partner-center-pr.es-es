@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 07/10/2020
-  ms.openlocfilehash: 767ecd96c8899970fe4ff6d777d6316f8ff3bc76
-  ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+  ms.openlocfilehash: d6f28cfaa18742a5667a524e19b8c774329d1515
+  ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 07/13/2020
-  ms.locfileid: "86286653"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "91000149"
 highlightedContent:
   items:
   - title: Más información sobre las actualizaciones importantes del Centro de partners
@@ -28,13 +28,13 @@ highlightedContent:
     url: manage-your-partner-network-benefits.md
   - title: Unirse al programa de usuarios pioneros de API y SDK
     itemType: deploy
-    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+    url: /partner-center/develop/early-adopter-program
   - title: Obtención de especializaciones avanzadas
     itemType: whats-new
     url: advanced-specializations.md
   - title: 'Partners ISV: crea y publica ofertas en Marketplace, AppSource y el canal de revendedores de CSP'
     itemType: whats-new
-    url: https://docs.microsoft.com/azure/marketplace/
+    url: /azure/marketplace/
   - title: Preguntas más frecuentes sobre requisitos de seguridad para partners
     itemType: overview
     url: partner-security-requirements-faq.md
@@ -137,7 +137,7 @@ additionalContent:
       url: https://partner.microsoft.com/membership
     - title: Referencia de API y SDK del Centro de partners
       summary: Usa el SDK de Centro de partners para administrar los datos de clientes, suscripciones y pedidos.
-      url: https://docs.microsoft.com/partner-center/develop/
+      url: /partner-center/develop/
     - title: Administración de Marketplace Rewards
       summary: Marketplace Rewards proporciona soporte técnico dirigido para todas sus ofertas con ventajas técnicas, de ventas y de marketing.
       url: marketplace-rewards.md
@@ -146,24 +146,24 @@ additionalContent:
     - title: Facturación y administración de costos
       links:
       - text: Primeros pasos con la cuenta de facturación de Microsoft Partner Agreement
-        url: https://docs.microsoft.com/azure/billing/mpa-overview
+        url: /azure/billing/mpa-overview
       - text: Introducción a Azure Cost Management
-        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+        url: /azure/cost-management/get-started-partners
       - text: Creación de una suscripción a Azure adicional
-        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+        url: /azure/billing/billing-create-subscription
       - text: Creación de suscripciones a Azure mediante programación
-        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
       - text: Ver más >
-        url: https://docs.microsoft.com/azure/billing/
+        url: /azure/billing/
     - title: Azure Lighthouse
       links:
       - text: Habilitación de experiencias de administración entre inquilinos
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+        url: /azure/lighthouse/concepts/cross-tenant-management-experience
       - text: Consideraciones acerca de CSP
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider
+        url: /azure/lighthouse/concepts/cloud-solution-provider
       - text: Incorporación de clientes para la administración de recursos delegados de Azure
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+        url: /azure/lighthouse/how-to/onboard-customer
       - text: Publicación de ofertas de servicios administrados
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+        url: /azure/lighthouse/how-to/publish-managed-services-offers
       - text: Ver más >
-        url: https://docs.microsoft.com/azure/lighthouse/
+        url: /azure/lighthouse/

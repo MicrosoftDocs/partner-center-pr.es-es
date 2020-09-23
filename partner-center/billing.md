@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89275004"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000159"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
 
@@ -43,4 +43,4 @@ ms.locfileid: "89275004"
 | [Impago, fraude o uso incorrecto](non-payment-fraud-misuse.md) | Cómo administrar en el Centro de partners los clientes que no pagan, realizan acciones fraudulentas o usan de forma inadecuada el servicio. |
 | [Solicitar un crédito del Acuerdo de Nivel de Servicio para interrupciones](request-credit.md) | Cómo solicitar a Microsoft un crédito del Acuerdo de Nivel de Servicio para tus clientes, cuando se produce una interrupción del servicio. |
 
-Si estás buscando información y recursos de facturación de la API del Centro de partners, consulta la [documentación de facturación de para desarrolladores](https://docs.microsoft.com/partner-center/develop/manage-billing).
+Si estás buscando información y recursos de facturación de la API del Centro de partners, consulta la [documentación de facturación de para desarrolladores](/partner-center/develop/manage-billing).

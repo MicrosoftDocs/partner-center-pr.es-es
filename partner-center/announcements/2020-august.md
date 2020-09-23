@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614125"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999629"
 ---
 # <a name="august-2020-announcements"></a>Anuncios de agosto de 2020
 
@@ -136,7 +136,7 @@ El [año pasado](https://partner.microsoft.com/resources/detail/power-apps-power
 
 Podrá ofrecer sus servicios a usuarios individuales y equipos sin necesidad de pasar por el proceso centralizado de adquisición de TI para obtener las licencias necesarias. Los servicios pueden abarcar Project y Visio, en función de los escenarios de integración con Microsoft 365 y Power Platform. 
 
-Obtenga más información sobre las oportunidades para partners con las soluciones de Visio y Power Platform en la sesión de Microsoft Inspire [Recompilar y reimaginar las empresas con Microsoft Visio y Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Para obtener información adicional, visite la [guía de administración de autoservicio](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Obtenga más información sobre las oportunidades para partners con las soluciones de Visio y Power Platform en la sesión de Microsoft Inspire [Recompilar y reimaginar las empresas con Microsoft Visio y Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform). Para obtener información adicional, visite la [guía de administración de autoservicio](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Recursos adicionales
 
@@ -221,7 +221,7 @@ Protección contra amenazas avanzada (ATP) de Microsoft Defender para Servidores
 ### <a name="next-steps"></a>Pasos siguientes
 
 - Comparta esta información con los contactos adecuados de su organización.
-- Lea la [documentación de ATP de Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obtener más información sobre el producto.
+- Lea la [documentación de ATP de Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obtener más información sobre el producto.
 
 ________________
 

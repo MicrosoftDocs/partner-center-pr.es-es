@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114900"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000569"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
@@ -108,6 +108,6 @@ Visita el panel. Aquí puedes administrar tu pertenencia, agregar un perfil de n
 
 - [Creación del perfil de negocio de una empresa](create-a-marketing-profile.md)
 
-- [Conexión con los clientes a través de referencias](responding-to-referrals.md)
+- [Conexión con los clientes a través de referencias](manage-leads.md)
 
 - [Guía para la migración de varias empresas de PMC al Centro de partners](move-multiple-companies.md)

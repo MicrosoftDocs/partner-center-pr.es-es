@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944442"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999619"
 ---
 # <a name="february-2020-announcements"></a>Anuncios de febrero de 2020
 
@@ -75,7 +75,7 @@ Esta nueva funcionalidad significa que los [partners ahora tienen dos opciones](
 - **Opción 1:** los partners pueden presentar el nuevo Contrato de cliente de Microsoft a sus clientes igual que lo hacían antes con el Contrato de Microsoft Cloud. Una vez que los clientes hayan revisado y aceptado el contrato, los partners deben dar fe de esa aceptación a Microsoft. El panel del Centro de partners, la API del Centro de partners y el SDK de .NET se han actualizado para que los partners puedan confirmar la aceptación del Contrato de cliente de Microsoft por parte de los clientes.
 - **Opción 2 (característica nueva):** los partners pueden invitar a los clientes a un portal de Microsoft autenticado (Centro de administración de Microsoft 365) para ver y firmar el contrato. Esta opción simplifica la administración de los contratos, agiliza la implementación y reduce la carga de trabajo de los partners porque, una vez que el cliente acepta el contrato directamente en el Centro de administración de Microsoft 365, se confirma la aprobación de los términos.
 
-Los partners pueden saber si los clientes han aceptado el nuevo contrato con la nueva funcionalidad disponible en el panel del Centro de partners o con [esta nueva API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement).
+Los partners pueden saber si los clientes han aceptado el nuevo contrato con la nueva funcionalidad disponible en el panel del Centro de partners o con [esta nueva API](/partner-center/develop/get-direct-sign-status-of-customer-agreement).
 
 Desde el 1 de febrero de 2020, es obligatorio que los partners confirmen la aceptación del Contrato de cliente de Microsoft por parte de sus clientes para poder realizar nuevos pedidos de ofertas de CSP en todas las regiones de la nube pública de Microsoft. Los partners del programa CSP ya no pueden realizar compras nuevas, incluidos cambios de puestos y renovaciones de adquisiciones actuales, sin confirmar que el cliente ha aceptado el Contrato de cliente de Microsoft por medio de alguna de estas opciones.
  
@@ -98,7 +98,7 @@ Los partners pueden ver el contenido del Contrato de cliente de Microsoft en est
 ### <a name="change-log"></a>Registro de cambios:
 
 - 11 de febrero de 2020: publicación del anuncio original
-- 25 de febrero de 2020: actualización del anuncio con [esta nueva API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) para obtener el estado de aceptación directa de un cliente.
+- 25 de febrero de 2020: actualización del anuncio con [esta nueva API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) para obtener el estado de aceptación directa de un cliente.
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>Resumen:
 
-Esta es una actualización importante de los [requisitos de seguridad obligatorios para partners](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir del **29 de febrero de 2020**, [se quitarán las directivas de "línea de base"](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) de Azure Active Directory (Azure AD) y se reemplazarán por los "valores predeterminados de seguridad", un conjunto de directivas de protección más completo para usted y sus clientes. Los valores predeterminados de seguridad de Azure AD ayudan a proteger su organización con opciones de seguridad preconfiguradas para ataques comunes.
+Esta es una actualización importante de los [requisitos de seguridad obligatorios para partners](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir del **29 de febrero de 2020**, [se quitarán las directivas de "línea de base"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) de Azure Active Directory (Azure AD) y se reemplazarán por los "valores predeterminados de seguridad", un conjunto de directivas de protección más completo para usted y sus clientes. Los valores predeterminados de seguridad de Azure AD ayudan a proteger su organización con opciones de seguridad preconfiguradas para ataques comunes.
 
 Nuestro sistema indica que su organización usa actualmente directivas de línea de base y aún no ha cambiado a los valores predeterminados de seguridad. **Si no cambia a los valores predeterminados de seguridad antes del 29 de febrero, dejará de tener habilitada la opción Multi-Factor Authentication (MFA) con las directivas de línea de base en sus inquilinos de partner. Debe habilitar los valores predeterminados de seguridad lo antes posible para evitar cualquier interrupción del negocio**.
 
 ### <a name="key-considerations"></a>Consideraciones clave
 
-La directiva de valores predeterminados de seguridad es una de las [opciones ](../partner-security-requirements.md#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
+La directiva de valores predeterminados de seguridad es una de las [opciones ](../partner-security-requirements.md#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
 
-- En el caso de los partners que usan el [acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los valores predeterminados de seguridad no estarán disponibles.
+- En el caso de los partners que usan el [acceso condicional](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los valores predeterminados de seguridad no estarán disponibles.
 - Los valores predeterminados de seguridad aplican todas las directivas a la vez, que incluyen la directiva obligatoria de MFA para administradores, la directiva de protección del usuario final y la directiva obligatoria de MFA para la administración de servicios.
 - El bloqueo de la autenticación heredada no se aplicará a los asociados en este momento. Sin embargo, dado que la mayoría de los eventos relacionados con identidades comprometidas provienen de intentos de inicio de sesión mediante la autenticación heredada, se recomienda a los asociados apartarse de estos protocolos antiguos.
 - Los valores predeterminados de seguridad excluyen automáticamente la cuenta de sincronización de Azure AD Connect.
-- Los valores predeterminados de seguridad son el reemplazo de disponibilidad general de las [directivas de línea de base](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) de la versión preliminar. Una vez que un asociado habilite los valores predeterminados de seguridad, ya no podrá habilitar las directivas de línea de base.
+- Los valores predeterminados de seguridad son el reemplazo de disponibilidad general de las [directivas de línea de base](/azure/active-directory/conditional-access/concept-baseline-protection) de la versión preliminar. Una vez que un asociado habilite los valores predeterminados de seguridad, ya no podrá habilitar las directivas de línea de base.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Pasos siguientes y recursos para los valores predeterminados de seguridad
 
 Si es un partner que utiliza actualmente las directivas de línea de base:
 
-- Obtenga más información sobre los [valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) y la [habilitación de MFA para su organización](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
+- Obtenga más información sobre los [valores predeterminados de seguridad](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) y la [habilitación de MFA para su organización](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
 - Planee la transición de las directivas de línea de base a los valores predeterminados de seguridad.
-- [Habilite los valores predeterminados de seguridad con un clic](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada inquilino de partner lo antes posible. Puede considerar otras opciones si los valores predeterminados de seguridad no satisfacen sus necesidades.
+- [Habilite los valores predeterminados de seguridad con un clic](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada inquilino de partner lo antes posible. Puede considerar otras opciones si los valores predeterminados de seguridad no satisfacen sus necesidades.
 
 Proveedores indirectos:
 
@@ -270,7 +270,7 @@ Proveedores indirectos y de facturación directa del programa CSP que realicen t
 
 La [nueva experiencia comercial de Azure en el programa CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) puede ayudarle a conseguir más clientes y a impulsar la rentabilidad con experiencias de compra y venta optimizadas.
 
- Como parte de la nueva experiencia, nos complace anunciar la disponibilidad de [nuevas API de precios](https://docs.microsoft.com/partner/develop/pricing) que recuperan mediante programación los **precios de los planes de Azure para consumo y reservas** y los **tipos de cambio** para las monedas de facturación que admite Microsoft. Con la nueva API de precios, los partners pueden automatizar y simplificar el proceso de recuperación de la información de precios.
+ Como parte de la nueva experiencia, nos complace anunciar la disponibilidad de [nuevas API de precios](/partner/develop/pricing) que recuperan mediante programación los **precios de los planes de Azure para consumo y reservas** y los **tipos de cambio** para las monedas de facturación que admite Microsoft. Con la nueva API de precios, los partners pueden automatizar y simplificar el proceso de recuperación de la información de precios.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Las nuevas API de precios proporcionan las siguientes funcionalidades:
 
@@ -281,13 +281,13 @@ La [nueva experiencia comercial de Azure en el programa CSP](https://blogs.partn
 
 >[!Note] 
 >Se trata de un recurso de API nuevo específico para los precios de los planes de Azure.
-- La [API RateCard](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) actual debe seguir utilizándose para los recursos o las reservas de Azure que se hayan implementado en suscripciones de Azure anteriores que no formen parte de un plan de Azure.
+- La [API RateCard](/partner-center/develop/get-prices-for-microsoft-azure) actual debe seguir utilizándose para los recursos o las reservas de Azure que se hayan implementado en suscripciones de Azure anteriores que no formen parte de un plan de Azure.
 - Estas API se encuentran en un punto de conexión (un dominio que hospeda las API) diferente al de las API del Centro de partners.
 
 ### <a name="partner-next-steps-and-resources"></a>Próximos pasos y recursos para partners:
 
 - Revise la [documentación para desarrolladores](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/).
-- Implemente el proceso automatizado con [la nueva API](https://docs.microsoft.com/partner/develop/pricing).
+- Implemente el proceso automatizado con [la nueva API](/partner/develop/pricing).
 - Consulte la [documentación sobre los precios de los planes de Azure](../azure-plan-price-list.md) para ver preguntas relacionadas con los precios.
 - [Obtenga más información sobre los planes de Azure y la nueva experiencia comercial del programa CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 

@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220218"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000029"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisitos de seguridad para partners que usan el Centro de partners o las API del Centro de partners
 
@@ -54,9 +54,9 @@ La habilitación de Multi-Factor Authentication (MFA) y la adopción del marco d
 
 Para cumplir los requisitos de seguridad para partners, debes aplicar la autenticación multifactor para cada cuenta de usuario en el inquilino del partner. Esto se puede lograr de una de las siguientes maneras:
 
-- Implementar los [valores predeterminados de seguridad Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+- Implementar los [valores predeterminados de seguridad Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-- Comprar Azure Active Directory Premium para cada cuenta de usuario. Para más información, consulta [Planificación de una implementación de Azure Multi-Factor Authentication basada en la nube](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted).
+- Comprar Azure Active Directory Premium para cada cuenta de usuario. Para más información, consulta [Planificación de una implementación de Azure Multi-Factor Authentication basada en la nube](/azure/active-directory/authentication/howto-mfa-getstarted).
 
 - Usar una solución de terceros para aplicar la autenticación multifactor para cada cuenta de usuario en el inquilino del partner. Para asegurarte de que la solución proporcionará la solución esperada, consulta el apartado sobre [cómo se aplicarán los requisitos de seguridad](#how-the-requirements-will-be-enforced).
 
@@ -75,18 +75,18 @@ La directiva de valores predeterminados de seguridad es una de las [opciones ](#
 
 - Con los valores predeterminados de seguridad, todas las directivas se habilitarán a la vez.
 
-- En el caso de los asociados que usan el [acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los [valores predeterminados de seguridad no estarán disponibles](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+- En el caso de los asociados que usan el [acceso condicional](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los [valores predeterminados de seguridad no estarán disponibles](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
 - El bloqueo de la autenticación heredada no se aplicará a los asociados en este momento. Sin embargo, dado que la mayoría de los eventos relacionados con identidades comprometidas provienen de intentos de inicio de sesión mediante la autenticación heredada, se recomienda a los asociados a apartarse de estos protocolos antiguos.
 
 - La cuenta de sincronización de Azure AD Connect se excluye de los valores predeterminados de seguridad.
 
-- Para obtener información detallada, consulta [Habilitar la autenticación multifactor para la organización](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) y [Valores predeterminados de seguridad de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+- Para obtener información detallada, consulta [Habilitar la autenticación multifactor para la organización](/azure/active-directory/authentication/concept-mfa-get-started) y [Valores predeterminados de seguridad de Azure Active Directory](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 > [!NOTE]
 > Los valores predeterminados de seguridad de Azure AD es la evolución simplificada de las directivas de protección de línea base. Si ya has habilitado las directivas de protección de línea de base, se recomienda encarecidamente que habilites los valores predeterminados de seguridad.
 
-Para pasar de las directivas de línea de base a los valores predeterminados de seguridad, lee [¿Cuáles son los valores de seguridad predeterminados?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Para pasar de las directivas de línea de base a los valores predeterminados de seguridad, lee [¿Cuáles son los valores de seguridad predeterminados?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 ### <a name="consideration"></a>Consideración
 
@@ -96,17 +96,17 @@ Antes de realizar cualquier acción, es aconsejable identificar lo siguiente:
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>¿Hay alguna aplicación o algún dispositivo que no admita el uso de la autenticación moderna?
 
-Cuando apliques la opción de autenticación heredada de la autenticación multifactor, se bloqueará el uso de protocolos como IMAP, POP3, SMTP, etc., ya que no admiten la autenticación multifactor. Para solucionar esta limitación, puedes usar una característica conocida como [contraseñas de aplicación](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) para asegurarte de que la aplicación o el dispositivo se seguirán autenticando. Debes examinar las consideraciones acerca del uso de contraseñas, que están documentadas [aquí](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), aquí para determinar si se pueden usar en su entorno.
+Cuando apliques la opción de autenticación heredada de la autenticación multifactor, se bloqueará el uso de protocolos como IMAP, POP3, SMTP, etc., ya que no admiten la autenticación multifactor. Para solucionar esta limitación, puedes usar una característica conocida como [contraseñas de aplicación](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) para asegurarte de que la aplicación o el dispositivo se seguirán autenticando. Debes examinar las consideraciones acerca del uso de contraseñas, que están documentadas [aquí](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords), aquí para determinar si se pueden usar en su entorno.
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>¿Hay usuarios que usen Office 365 proporcionados por licencias asociadas a tu inquilino del partner?
 
-Antes de implementar cualquier solución, aconsejamos determinar qué versión de Microsoft Office utilizan los usuarios de tu inquilino de partner. Examina el [plan para realizar la autenticación multifactor en implementaciones de Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) antes de realizar cualquier acción. Existe la posibilidad de que los usuarios tengan problemas de conectividad con aplicaciones como Outlook. Antes de aplicar la autenticación multifactor, es importante asegurarse de que se usa Outlook 2013 SP1, o cualquier versión posterior, y que la organización tiene habilitada la autenticación moderna. Para más información, consulta [Habilitar la autenticación moderna en Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Antes de implementar cualquier solución, aconsejamos determinar qué versión de Microsoft Office utilizan los usuarios de tu inquilino de partner. Examina el [plan para realizar la autenticación multifactor en implementaciones de Office 365](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) antes de realizar cualquier acción. Existe la posibilidad de que los usuarios tengan problemas de conectividad con aplicaciones como Outlook. Antes de aplicar la autenticación multifactor, es importante asegurarse de que se usa Outlook 2013 SP1, o cualquier versión posterior, y que la organización tiene habilitada la autenticación moderna. Para más información, consulta [Habilitar la autenticación moderna en Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
-Para habilitar la autenticación moderna en cualquier dispositivo con Windows que tenga Microsoft Office 2013 instalado, es preciso crear dos claves del Registro. Consulta [Habilitar autenticación moderna para Office 2013 en dispositivos Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+Para habilitar la autenticación moderna en cualquier dispositivo con Windows que tenga Microsoft Office 2013 instalado, es preciso crear dos claves del Registro. Consulta [Habilitar autenticación moderna para Office 2013 en dispositivos Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>¿Hay alguna directiva que impida que los usuarios usen sus dispositivos móviles mientras trabajan?
 
-Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que esto influirá en la solución de autenticación multifactor que implementes. Hay soluciones, como la que se proporciona a través de la implementación de las [directivas de seguridad de Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), que solo permiten el uso de una aplicación de autenticación para la comprobación. Si la organización tiene una directiva que impide el uso de dispositivos móviles, debes tener en cuenta una de las siguientes opciones:
+Es importante identificar las directivas corporativas que impiden que los empleados usen dispositivos móviles mientras trabajan, ya que esto influirá en la solución de autenticación multifactor que implementes. Hay soluciones, como la que se proporciona a través de la implementación de las [directivas de seguridad de Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults), que solo permiten el uso de una aplicación de autenticación para la comprobación. Si la organización tiene una directiva que impide el uso de dispositivos móviles, debes tener en cuenta una de las siguientes opciones:
 
 - Implementar una aplicación de contraseñas de un solo uso y duración definida (TOTP) que se pueda ejecutar en un sistema seguro.
 
@@ -124,11 +124,11 @@ Como el requisito es aplicar MFA a todos los usuarios, incluidas las cuentas de 
 
 - Scripts de PowerShell que usan los módulos Az, AzureRM, Azure AD, MS Online, etc.
 
-La lista anterior no es completa. Por tanto, es importante que realices una evaluación completa de cualquier aplicación o servicio de tu entorno que aproveche las credenciales de usuario para la autenticación. Para enfrentarte al requisito de la autenticación multifactor, debes implementar las instrucciones del [marco de modelo de aplicaciones seguras](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) siempre que sea posible.
+La lista anterior no es completa. Por tanto, es importante que realices una evaluación completa de cualquier aplicación o servicio de tu entorno que aproveche las credenciales de usuario para la autenticación. Para enfrentarte al requisito de la autenticación multifactor, debes implementar las instrucciones del [marco de modelo de aplicaciones seguras](/partner-center/develop/enable-secure-app-model) siempre que sea posible.
 
 ## <a name="accessing-your-environment"></a>Acceso al entorno
 
-Para saber mejor qué o quién realiza la autenticación sin que sea un desafío para la autenticación multifactor, te recomendamos revisar la actividad de inicio de sesión. En Azure Active Directory Premium puedes aprovechar el informe de inicio de sesión. Consulta los [informes de actividad de inicio de sesión en el portal de Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) para obtener más información. Si no tienes Azure Active Directory Premium o estás buscando una manera de obtenerlo a través de PowerShell, deberás utilizar el cmdlet [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) del módulo de [PowerShell del Centro de partners](https://www.powershellgallery.com/packages/PartnerCenter/).
+Para saber mejor qué o quién realiza la autenticación sin que sea un desafío para la autenticación multifactor, te recomendamos revisar la actividad de inicio de sesión. En Azure Active Directory Premium puedes aprovechar el informe de inicio de sesión. Consulta los [informes de actividad de inicio de sesión en el portal de Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins) para obtener más información. Si no tienes Azure Active Directory Premium o estás buscando una manera de obtenerlo a través de PowerShell, deberás utilizar el cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) del módulo de [PowerShell del Centro de partners](https://www.powershellgallery.com/packages/PartnerCenter/).
 
 ## <a name="how-the-requirements-will-be-enforced"></a>Cómo se aplicarán los requisitos
 
@@ -138,7 +138,7 @@ Tras la activación, se solicitará a los usuarios del inquilino de partner que 
 
 Si utilizas Azure Multi-Factor Authentication o las directivas de seguridad de Azure AD, no es necesario realizar ninguna acción adicional.
 
-Cuando se usa una solución de autenticación multifactor de terceros, existe la posibilidad de que no se emita la notificación de MFA. Si falta la notificación, Azure Active Directory no podrá determinar si la autenticación multifactor procesó la solicitud de autenticación. Para obtener más información sobre cómo comprobar si la solución emite la notificación esperada, consulta [Prueba de los requisitos de seguridad para partners](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements). 
+Cuando se usa una solución de autenticación multifactor de terceros, existe la posibilidad de que no se emita la notificación de MFA. Si falta la notificación, Azure Active Directory no podrá determinar si la autenticación multifactor procesó la solicitud de autenticación. Para obtener más información sobre cómo comprobar si la solución emite la notificación esperada, consulta [Prueba de los requisitos de seguridad para partners](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Si la solución de terceros no emite la notificación esperada, deberás contactar con el proveedor que desarrolló la solución para determinar las acciones que se deben llevar a cabo.
@@ -150,4 +150,4 @@ Consulta los siguientes recursos para obtener soporte y el código de ejemplo:
 - [Comunidad del grupo de instrucciones de seguridad del Centro de partners](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): la comunidad del grupo de instrucciones de seguridad del Centro de partners es una comunidad en línea en la que puedes obtener información acerca de los próximos eventos y realizar todas las preguntas que puedas tener.
 - [Ejemplos de .NET del Centro de partners](https://github.com/microsoft/partner-center-dotnet-samples): este repositorio de GitHub contiene ejemplos que se han desarrollado mediante .NET y que muestran cómo se puede implementar el marco de modelo de aplicaciones seguras.
 - [Ejemplos de Java del Centro de partners](https://github.com/microsoft/partner-center-java-samples): este repositorio de GitHub contiene ejemplos que se han desarrollado mediante Java y que muestran cómo se puede implementar el marco de modelo de aplicaciones seguras.
-- [Multi-Factor Authentication de PowerShell del Centro de partners](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth): en este artículo de Multi-Factor Authentication se proporcionan datos acerca de cómo implementar el marco de modelo de aplicaciones seguras mediante PowerShell.
+- [Multi-Factor Authentication de PowerShell del Centro de partners](/powershell/partnercenter/multi-factor-auth): en este artículo de Multi-Factor Authentication se proporcionan datos acerca de cómo implementar el marco de modelo de aplicaciones seguras mediante PowerShell.

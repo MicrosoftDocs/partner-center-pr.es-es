@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435274"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000449"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Después de publicar el perfil, aparecen actualizaciones en las búsquedas de [B
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Mejora de la visibilidad del perfil 
 
-- **[Responda rápidamente a las solicitudes](responding-to-referrals.md)** . Cuando reciba una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para los futuros clientes.
+- **[Responda rápidamente a las solicitudes](manage-leads.md)** . Cuando reciba una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para los futuros clientes.
+
 - **Sea selectivo con las etiquetas**.  Es mejor tener menos etiquetas que representen mejor las ofertas de tu empresa, soluciones, propuestas de valor y una posición única donde puedas demostrar coherentemente éxito.  De esta forma, tendrá sus frutos en los futuros resultados de búsqueda.
 - **Consiga etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
 - **Consiga etiquetas de aprobación** de los clientes que aprecian su trabajo.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Responder a las referencias](responding-to-referrals.md)
+[Responder a las referencias](manage-leads.md)

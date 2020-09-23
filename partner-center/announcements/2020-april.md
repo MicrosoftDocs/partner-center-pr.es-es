@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433906"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999639"
 ---
 # <a name="april-2020-announcements"></a>Anuncios de abril de 2020
 
@@ -283,7 +283,7 @@ Tendremos más información pública más adelante a lo largo del año para comp
 ### <a name="additional-resources"></a>Recursos adicionales
 
 - Visite la página de [Protección contra amenazas avanzada de Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) para más información.
-- Lea la [documentación de Azure Security Center](https://docs.microsoft.com/azure/security-center/) para más información sobre Azure Security Center.
+- Lea la [documentación de Azure Security Center](/azure/security-center/) para más información sobre Azure Security Center.
 
 ### <a name="questions"></a>¿Alguna pregunta?
 
@@ -761,7 +761,7 @@ Encontrará más información y recursos en la página de la galería de CSP [aq
 ### <a name="actions-for-indirect-providers"></a>Acciones para proveedores indirectos
 1. Informe a las principales partes interesadas de su organización para que revisen el contrato Microsoft Partner Agreement.
 2. Acepte el contrato Microsoft Partner Agreement en la [página de información general de CSP en el Centro de partners](https://partner.microsoft.com/pcv/dashboard/overview) usando credenciales de administrador global.
-3. Utilice la [API para comprobar el estado de firma de un revendedor indirecto](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status).
+3. Utilice la [API para comprobar el estado de firma de un revendedor indirecto](/partner-center/develop/verify-indirect-reseller-mpa-status).
 4. Ayude a los revendedores indirectos a realizar las acciones que se indican a continuación.
 
 Encontrará más información y recursos en la página de la galería de CSP [aquí](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/).
