@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: 'Conector de venta conjunta para Salesforce CRM: información general'
           href: connector-salesforce.md
+        - name: Solución de problemas de conectores de referencias de venta conjunta
+          href: connectors-troubleshoot.md
         - name: Venta conjunta para asociados que han realizado la migración desde Partner Sales Connect (PSC)
           href: psc-to-pc.md
         - name: Registrar las ofertas
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Escenarios de suscripciones SaaS basadas en licencias
           href: common-billing-scenarios-saas.md
+        - name: Facturación de ofertas de Marketplace
+          href: csp-commercial-marketplace-billing.md
+        - name: 'Cobro: marketplace'
+          href: marketplace-get-paid.md
     - name: 'Vista de firmas digitales: Centro de partners de India'
       href: digital-signature.md
     - name: Impuestos y exenciones fiscales
@@ -308,12 +314,20 @@
       items:
         - name: Información sobre el IVA de la empresa
           href: organization-tax-info.md
+        - name: Información del impuesto sobre el valor añadido (IVA) en el registro en el Centro de partners
+          href: vat-info.md
         - name: Recibir crédito por retención de impuestos
           href: withholding-tax-credit-form.md
         - name: 'Impuesto regional: servicios de voz'
           href: tax-and-fees-voice-services.md
-    - name: Solicitar un crédito de contrato de nivel de servicio de Microsoft
-      href: request-credit.md
+        - name: Información sobre impuestos para los publicadores de Marketplace comercial
+          href: tax-details-marketplace.md
+        - name: Descripción de los formularios fiscales del IRS emitidos por Microsoft
+          href: understand-irs-tax-forms.md
+        - name: Configuración de la cuenta de pago y los formularios de impuestos
+          href: set-up-your-payout-account.md
+        - name: Solicitar un crédito de contrato de nivel de servicio de Microsoft
+          href: request-credit.md
     - name: Establecer un presupuesto de gastos de Azure para tus clientes
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Administración de los impagos, fraudes o usos incorrectos'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: Administrar ofertas de Marketplace
           href: csp-commercial-marketplace-manage.md
-        - name: Facturación de ofertas de Marketplace
-          href: csp-commercial-marketplace-billing.md
         - name: Soporte para ofertas de Marketplace
           href: csp-commercial-marketplace-support.md
         - name: Contratos para compras de Marketplace
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Mover los clientes de servicios basados en licencias al Programa Proveedor de servicios en la nube
           href: transition-seat-based-services.md
-        - name: 'Vender Minecraft: Suscripciones a Education Edition'
+        - name: Vender suscripciones a Minecraft Education Edition
           href: minecraft-subscriptions.md
         - name: Vender en sectores especializados
           href: Get-special-pricing-for-offers.md
