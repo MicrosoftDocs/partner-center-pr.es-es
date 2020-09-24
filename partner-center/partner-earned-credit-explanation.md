@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564696"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999869"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
@@ -44,7 +44,7 @@ Lee también [Restablecer los privilegios de administrador para las suscripcione
 
 - El valor del PEC se obtiene en el nivel de recursos de Azure. Si el partner tiene acceso válido a la suscripción o al nivel del grupo de recursos, cada recurso que desempeñe hasta la entidad superior obtendrá el PEC.  
 
-- Los detalles del PEC también estarán disponibles en [Azure Cost Management](https://go.microsoft.com/fwlink/?linkid=2106482)
+- Los detalles del PEC también estarán disponibles en [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners)
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -77,5 +77,4 @@ Si la propiedad PartnerEarnedCreditApplied es False, el costo asociado no cumple
 
 - [Administrar suscripciones y recursos en el plan de Azure](azure-plan-manage.md)
 
-- [Restablecer los privilegios de administrador para las suscripciones de Azure CSP](revoke-reinstate-csp.md)
-
+- [Revocación o restablecimiento de los privilegios de administrador para las suscripciones del programa CSP de Azure](revoke-reinstate-csp.md)

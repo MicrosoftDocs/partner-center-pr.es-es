@@ -1,20 +1,20 @@
 ---
 title: Asignación de roles y permisos a los usuarios
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre qué roles son los más adecuados para los usuarios que administran las transacciones comerciales, las referencias, los incentivos o las suscripciones a MPN de tu empresa.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490603"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832118"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -28,10 +28,10 @@ Has configurado tu perfil de partner, incluyendo el nombre y la dirección legal
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configura a sus empleados para trabajar en el Centro de partners
 
-Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de partners, en función de los roles y permisos que les otorgues. Los roles están relacionados con los programas en los que participa tu empresa. Por ejemplo, si tu negocio es un Proveedor de soluciones en la nube (CSP), no solo tendrás los roles estándar de administración de inquilinos de Azure AD (como el administrador global), sino que también necesitarás roles específicos para el programa de CSP. Recuerda que cada programa tiene roles específicos.
+Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de partners, en función de los roles y permisos que les otorgues. Los roles están relacionados con los programas en los que participa tu empresa. Por ejemplo, si su empresa es un Proveedor de soluciones en la nube (CSP), no solo tendrá los roles estándar de administración de inquilinos de Azure Active Directory (como el administrador global), sino que también necesitarás roles específicos para el programa CSP. Recuerda que cada programa tiene roles específicos.
 
 >[!Note]
-> Los roles de inquilino de Azure Active Directory (AAD) incluyen roles de administrador global, administrador de usuarios y CSP. Los roles que no son de AAD son aquellos que no administran al inquilino, e incluyen un administrador de MPN, un administrador de perfil comercial, un administrador de referencias, un administrador de incentivos y un usuario de incentivos. 
+> Los roles de inquilino de Azure Active Directory incluyen roles de administrador global, administrador de usuarios y CSP. Los roles que no son de Azure Active Directory son aquellos que no administran al inquilino, e incluyen un administrador de MPN, un administrador de perfil comercial, un administrador de referencias, un administrador de incentivos y un usuario de incentivos. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Administra las transacciones comerciales en el Centro de partners (roles de Azure AD y CSP)
 
@@ -83,7 +83,8 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Proveedor del panel de control (CPV). (Rol de CSP y rol que no es de AAD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Proveedor del panel de control (CPV). (Rol de CSP y rol que no es de Azure AD)
+
 Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones en la nube (CSP) y que así puedan integrar sus sistemas con las API del Centro de partners. 
 
 |**Rol**   |**Qué puede hacer**|**Más información**|
@@ -91,7 +92,7 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 |Administrador global| Ver y administrar el perfil de CPV|[Inscribirse como proveedor de panel de control para facilitar la integración de sistemas de partners de CSP con las API del Centro de partners](enroll-as-cpv.md)
 ||Ver y administrar los usuarios que necesiten acceso a las funcionalidades de CPV|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Usuario invitado (debe agregarse al inquilino de AAD)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Usuario invitado (debe agregarse al inquilino de Azure Active Directory)
 
 |**Usuario invitado**   | **Roles**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 ||Administrador de referencias|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Administrar la pertenencia a MPN y su empresa (roles que no son de AAD: estos roles administran el negocio de la empresa en lugar del inquilino)
+## <a name="manage-mpn-membership-and-your-company"></a>Administración de la pertenencia a MPN y su empresa 
+
+Estos no son roles de Azure Active Directory. Estos roles administran el negocio de la empresa en lugar del inquilino.
 
 |**Rol** | **Qué puede hacer**|**Más información**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 ||*    Ver los vales de soporte técnico para partners que cree
 |Administrador de cuentas| • Agregar ubicaciones|[Administrar ubicaciones](manage-locations.md)
 || • Administrar perfiles relacionados con las cuentas para las que es administrador 
-||*    Asignar roles de usuarios del inquilino a roles que no son de AAD 
+||*    Asignar roles para los usuarios en el inquilino a roles que no son de Azure Active Directory 
 ||*    Inscribir ubicaciones en programas
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
@@ -167,14 +170,3 @@ Los CPV desarrollan aplicaciones para los partners del Proveedor de soluciones e
 
 - [Creación de cuentas de usuario y asignación de roles y permisos](create-user-accounts-and-set-permissions.md)
 - [Comprobación de la información de la cuenta al inscribirse en un nuevo programa del Centro de partners](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    
