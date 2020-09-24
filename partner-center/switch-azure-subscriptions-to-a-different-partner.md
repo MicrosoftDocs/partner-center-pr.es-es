@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412441"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206327"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Obtenga información sobre cómo transferir las suscripciones de Azure de un cliente a otro asociado.
+# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Aprenda cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
 **Se aplica a**
 
@@ -106,5 +106,6 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 ## <a name="next-steps"></a>Pasos siguientes
 
 - Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-- Más información sobre [la compatibilidad con varios asociados](multipartner.md).
-- Lea acerca de [la compatibilidad con varios canales](multichannel.md).
+- [compatibilidad con varios asociados](multipartner.md).
+- [compatibilidad con varios canales](multichannel.md).
+- [Transferir suscripciones de Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
