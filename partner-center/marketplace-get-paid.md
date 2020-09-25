@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007399"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248903"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recepción de pagos en el Marketplace comercial
 
@@ -30,11 +30,11 @@ Los honorarios de Store se aplican a todas las ventas de ofertas que reciba el M
 
 ## <a name="payout-reporting"></a>Informes de pago
 
-Puede obtener acceso a los detalles sobre la información de pago y descargar informes en el **Resumen de pago** del [Centro de partners](https://partner.microsoft.com/dashboard). Para más información sobre lo que se muestra aquí y cómo clasificamos el dinero que gana, consulte [Introducción al resumen de pagos](/azure/marketplace/payout-summary-overview).
+Puede obtener acceso a los detalles sobre la información de pago y descargar informes en el **Resumen de pago** del [Centro de partners](https://partner.microsoft.com/dashboard). Para obtener información detallada sobre la información que se muestra aquí y cómo clasificamos el dinero que gane, consulte la [declaración de pago](payout-statement.md).
 
 ## <a name="payout-time-frame"></a>Plazo de tiempo para el pago
 
-Los pagos se realizan mensualmente (siempre que se cumpla el umbral de pago aplicable y que no se haya retenido el pago, tal y como se describe a continuación). Normalmente enviaremos todos los pagos cuyo vencimiento sea en un mes específico antes del día 15 de ese mes. Tenga en cuenta que los pagos suelen tardar entre 3 y 10 días laborables adicionales para llegar a su cuenta de pago. Para conocer los detalles, consulte [Umbrales de pago, métodos e intervalos de tiempo](/azure/marketplace/payment-thresholds-methods-timeframes).
+Los pagos se realizan mensualmente (siempre que se cumpla el umbral de pago aplicable y que no se haya retenido el pago, tal y como se describe a continuación). Normalmente enviaremos todos los pagos cuyo vencimiento sea en un mes específico antes del día 15 de ese mes. Tenga en cuenta que los pagos suelen tardar entre 3 y 10 días laborables adicionales para llegar a su cuenta de pago. Para conocer los detalles, consulte [Umbrales de pago, métodos e intervalos de tiempo](payment-thresholds-methods-timeframes.md).
 
 ## <a name="payout-hold-status"></a>Estado de retención de pagos
 
