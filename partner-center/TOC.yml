@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: Facturación basada en licencia
           href: license-based-billing.md
+        - name: Facturación de operadores de telefonía móvil
+          href: mobile-operator-billing.md
         - name: Escenarios de suscripciones SaaS basadas en licencias
           href: common-billing-scenarios-saas.md
     - name: Escenarios de facturación y pago de Marketplace
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: 'Cobro: marketplace'
           href: marketplace-get-paid.md
+        - name: Detalles de directiva de pagos
+          href: payout-policy-details.md
+        - name: 'Umbrales de pago, métodos e intervalos de tiempo'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Balances de pagos
+          href: payout-statement.md
+        - name: Preguntas más frecuentes sobre los pagos de Marketplace
+          href: payout-faq.md
     - name: 'Vista de firmas digitales: Centro de partners de India'
       href: digital-signature.md
     - name: Impuestos y exenciones fiscales
