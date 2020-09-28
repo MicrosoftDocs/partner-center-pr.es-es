@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220263"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406348"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -80,9 +80,9 @@ Para acceder a la **información general de mis incentivos**:
 |:------------------------------------|:------------------|
 | Acción requerida  | El asociado ha aceptado una invitación para inscribirse en un programa de incentivos, pero puede que tenga que actualizar la información bancaria o fiscal. Consulte la columna **Actions Required (acciones necesarias** ) para ver los pasos siguientes o vínculos para actualizar la información bancaria o fiscal en el centro de Partners. |
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
-| Inscritos  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
+| Inscrito  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inscribiendo  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
-| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. |
+| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br><br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. <br><br> También puede ver un estado **inactivo** de las inscripciones de la organización virtual (Vorg) o de la cuenta global de socio (PGA) que ya no están activas en el programa de incentivos.  |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 
@@ -116,7 +116,7 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 #### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
 
-| Month (Mes) | Amount |
+| Month | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -144,7 +144,7 @@ Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las
 |Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Con errores        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|Con error        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
 |Enviado        |El pago se ha enviado al banco.          |No       |
@@ -278,7 +278,7 @@ El informe de Resumen de transacciones proporciona los detalles de la transacci�
 >[!NOTE]
 >El informe de Resumen de transacciones no incluirá información de clientes y suscripciones para las suscripciones más recientes que 60 días, o si los ingresos de consumo son inferiores a un cent.
 
-|Nombre de columna |Descripción |
+|Nombre de la columna |Descripción |
 |------ |:-----------|
 |  earningId | Identificador único de cada ganancia.  |
 |  participantId | Identidad principal del asociado que gana con el programa.  |
