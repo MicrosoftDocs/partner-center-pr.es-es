@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372795"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422331"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Disponibilidad de la herramienta de transición de nuevas suscripciones entre asociados para plan de Azure](2020-september.md#15)|28 de septiembre|
+|Funcionalidades|[Prueba de la actualización: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-september.md#14)|28 de septiembre|
+|Funcionalidades|[Actualización de las API de uso de O365 de CSP e informes de uso de licencias de CSP ](2020-september.md#13)|29 de septiembre|
 |Funcionalidades|[Próximos cambios en el IVA de la ley federal rusa](2020-september.md#12)|25 de septiembre|
 |Funcionalidades|[Versión del SDK en .NET Standard (v1.16.2)](2020-september.md#11)|22 de septiembre|
 |Funcionalidades|[Información acerca del Centro de partners: El recurso de informes único para comprender su empresa con Microsoft.](2020-september.md#10)|23 de septiembre|
