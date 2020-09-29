@@ -8,12 +8,12 @@ description: Preguntas más frecuentes sobre cómo solucionar problemas de conec
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91003003"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422341"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solución de problemas de conectores de referencias de venta conjunta
 
@@ -104,27 +104,28 @@ Puede agregar conexiones al flujo mientras el flujo se está ejecutando y agrega
 
 5. ¿Qué debe hacer si los flujos de la solución de conectores de las referencias de venta conjunta no se activan (activar)?
 
-    A. En Power Automate, tendrá que editar los flujos en el siguiente orden y actualizarlos para que usen las conexiones correspondientes:
+A. En Power Automate, tendrá que editar los flujos en el siguiente orden y actualizarlos para que usen las conexiones correspondientes:
 
-    - Registro del webhook del centro de Partners (versión preliminar de Insider)
-    - Creación de una referencia de venta conjunta: Salesforce al centro de Partners (versión preliminar de Insider)
-    - Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
-    - Centro de partners a Salesforce (versión preliminar de Insider)
-    - Salesforce a Partner Center (versión preliminar de Insider)
-    - Oportunidad de Salesforce para el centro de Partners (versión preliminar de Insider)
-    - Soluciones de Salesforce de Microsoft para el centro de Partners (versión preliminar de Insider)
+- Registro del webhook del centro de Partners (versión preliminar de Insider)
+- Creación de una referencia de venta conjunta: Salesforce al centro de Partners (versión preliminar de Insider)
+- Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
+- Centro de partners a Salesforce (versión preliminar de Insider)
+- Salesforce a Partner Center (versión preliminar de Insider)
+- Oportunidad de Salesforce para el centro de Partners (versión preliminar de Insider)
+- Soluciones de Salesforce de Microsoft para el centro de Partners (versión preliminar de Insider)
 
-    B. Para cada flujo, seleccione la opción **ejecutar solo usuarios** . Seleccione **Usar conexión** en lugar de **proporcionados por el usuario de solo ejecución**.  
+ B. Para cada flujo, seleccione la opción **ejecutar solo usuarios** . Seleccione **Usar conexión** en lugar de **proporcionados por el usuario de solo ejecución**.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para activar un flujo":::
 
+
 C. Active estos flujos que se indican a continuación:
 
-- Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
+ - Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
 
 - Salesforce a Partner Center (versión preliminar de Insider)
 
-
+    
 D. Active todos los flujos restantes.
 
 E. En el registro del webhook del centro de Partners de Flow, seleccione **Ejecutar**. Proporcione la **dirección URL http** de la primera acción del **centro de Partners al flujo de Salesforce** . Seleccione las cuatro opciones en **eventos para registrarse** y seleccione **sí** para sobrescribir.

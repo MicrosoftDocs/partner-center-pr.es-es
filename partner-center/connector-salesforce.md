@@ -8,12 +8,12 @@ description: Sincronizar las referencias en el centro de Partners con el CRM de 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372858"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422451"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venta conjunta para Salesforce CRM: información general
 
@@ -237,45 +237,6 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
 Puede editar las asignaciones en esta sección basándose en la guía de asignación de campos.
 
-### <a name="set-up-fields-and-relationships"></a>Configurar campos y relaciones
-
-1. Inicie sesión en su cuenta de Salesforce y vaya a la **oportunidad**.
-
-2. Haga clic en las opciones de **configuración** y **Editar objeto** para agregar los campos necesarios.
-
-3. Seleccionar **campos & relaciones** en el panel de navegación izquierdo
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. Agregue los campos siguientes en los **campos &** tabla de relaciones:
-
-   |**Etiqueta de campo**   |**Nombre del campo**|**Tipo de datos**|**Indizó**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Auditoría| Audit__c|Área de texto largo (100.000) (línea visible 4)||
-   |¿Cómo puede ayudarle Microsoft?|How_can_Microsoft_help_c|Lista desplegable|
-   |Productos|Products_c|texto (255)||
-   |Referral | Referral_Identfier_c|Texto (100) (ID. externo)|sí|
-   |Vínculo de referencia| Referral_Link_c_|URL (255)||
-   |Sincronizar con el centro de Partners|sync_with_partner_center_c|CheckBox (valor predeterminado desactivado)||
-
-   * Valores de lista desplegable:
-
-   - Propuesta de valor específico de carga de trabajo
-   - Arquitectura técnica del cliente
-   - Prueba de concepto o demostración
-   - Comillas o licencias
-   - Éxito del cliente de ventas
-   - General u otro
-
-5. Los campos se crearían en **campos & relaciones**
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="Campos creados":::
-
-6. En el diseño de la oportunidad, cree una sección independiente con los campos indicados anteriormente.
-
-   - Esta sección debe estar disponible para los vendedores en el diseño de la oportunidad.
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Diseño de campos del centro de Partners":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronización de referencia de venta conjunta bidireccional de un extremo a otro
 

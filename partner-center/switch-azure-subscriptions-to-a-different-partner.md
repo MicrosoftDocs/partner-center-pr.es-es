@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206327"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422321"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Aprenda cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
@@ -37,23 +37,27 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 1. Para transferir una suscripción de Azure a un socio nuevo, el cliente debe iniciar el proceso y ponerse en contacto con su partner de registro actual por escrito.
 
    >[!Note]
-   >Es responsabilidad del asociado actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo socio. El cliente debe planear trabajar en estrecha colaboración con el socio actual para que la transición se lleve a cabo sin problemas.
+   > Es responsabilidad del asociado actual crear el vale de servicio que inicia el proceso de transferencia. Microsoft no puede intervenir en nombre del cliente o del nuevo socio. El cliente debe planear trabajar en estrecha colaboración con el socio actual para que la transición se lleve a cabo sin problemas.
 
 2. El socio comercial de la suscripción debe realizar las siguientes tareas:
 
    Crear un vale de servicio de Azure desde el Centro de partners para solicitar una transferencia de suscripción:
 
-   - En el menú del centro de Partners, seleccione **clientes**, seleccione el cliente en la lista y, a continuación, seleccione **Administración de servicios**. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
+   1. En el menú del centro de Partners, seleccione **clientes**, seleccione el cliente en la lista y, a continuación, seleccione **Administración de servicios**. 
 
-   - En el [Azure portal](https://portal.azure.com), seleccione **nueva solicitud de soporte técnico**.
+   2. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
+   
+   3. En el [Azure portal](https://portal.azure.com), seleccione **nueva solicitud de soporte técnico**.
+   
+   4. En el paso 1, elija **Administración de suscripciones** como tipo de problema, especifique el identificador de suscripción que desea transferir y elija **proveedor de soluciones** en la nube como plan de soporte técnico.
+   
+   5. En el paso 2, seleccione **C-impacto mínimo** y elija **otras preguntas generales** como tipo de problema.
+   
+   6. Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
 
-     En el paso 1, elija **Administración de suscripciones** como tipo de problema, especifique el identificador de suscripción que desea transferir y elija **proveedor de soluciones** en la nube como plan de soporte técnico.
+3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), Regístrese y, a continuación, envíelo al cliente. 
 
-     En el paso 2, seleccione **C-impacto mínimo** y elija **otras preguntas generales** como tipo de problema.
-
-     Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
-
-3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), Regístrese y, a continuación, envíelo al cliente. Para rellenar el formulario, necesitarás la siguiente información:
+   Para rellenar el formulario, necesitarás la siguiente información:
 
    - Información de contacto del partner actual e Id. de Microsoft. En el menú del Centro de partners, selecciona **Configuración de la cuenta** &gt; **Perfil de la organización** y usa el **Id. de Microsoft**, **Nombre de la organización** y **Dirección** que se enumeran ahí.
 
@@ -106,6 +110,10 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 ## <a name="next-steps"></a>Pasos siguientes
 
 - Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+
+- Más información sobre [la compatibilidad con varios asociados](multipartner.md).
+
 - [compatibilidad con varios asociados](multipartner.md).
 - [compatibilidad con varios canales](multichannel.md).
 - [Transferir suscripciones de Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+
