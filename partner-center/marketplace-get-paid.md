@@ -1,49 +1,52 @@
 ---
-title: Recepción de pagos en el marketplace comercial de Microsoft
-description: Obtenga información acerca de cómo recibir los pagos de sus ganancias en el marketplace comercial de Microsoft.
+title: Recepción de pagos en el Marketplace comercial
+description: 'Obtenga información sobre cómo recibir los pagos de sus ganancias en el Marketplace comercial: Azure Marketplace.'
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 06/09/2020
+ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248903"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591084"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recepción de pagos en el Marketplace comercial
 
-Esta es información importante sobre cómo recibir el pago por las ofertas, los complementos y los ingresos publicitarios.
+En este artículo se ofrece información importante sobre cómo recibir el pago de las ofertas, los complementos y los ingresos publicitarios. Resume la Directiva de pago, los pasos necesarios antes de recibir el pago y la información general sobre la declaración de pago.
 
-> [!IMPORTANT]
-> Antes de que pueda recibir dinero de las ventas de sus ofertas en Marketplace comercial, debe [configurar la cuenta de pago y rellenar los formularios fiscales necesarios](/azure/marketplace/marketplace-payout-account-setup).
+## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratos y directivas de pago de Marketplace comercial
 
-## <a name="store-fee"></a>Honorarios de Store
+Para obtener el pago, es necesario cumplir los acuerdos y la Directiva de pago.
 
-Cuando [se registra a una cuenta de desarrollador](https://go.microsoft.com/fwlink/p/?LinkID=615100), acepta el [Acuerdo de publicador de Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Este contrato explica la relación entre usted y Microsoft en relación a la oferta de venta en el Marketplace comercial, incluidos los honorarios de Store que Microsoft cobra por cada venta realizada.
+- [Microsoft Azure Marketplace acuerdo del publicador](https://go.microsoft.com/fwlink/p/?LinkID=699560): antes de recibir el pago, debe aceptar este contrato del anunciante. En este contrato se explica la relación entre usted y Microsoft como perteneciente a las ofertas de vendedores en el Marketplace comercial, incluida la cuota de la tienda que Microsoft cobra por cada venta realizada.
+- La [Directiva](payout-policy-details.md) de pago muestra las directivas de pago de pago, incluidos los métodos de pago y programación de pago. La Directiva también explica el proceso de los no pagos de clientes.
+- [Detalles de impuestos](tax-details-marketplace.md) explica la consideración fiscal de la selección de precios y la responsabilidad fiscal en el contrato de Microsoft [Publisher](https://go.microsoft.com/fwlink/p/?LinkID=699560).
+- Las tarifas de la **tienda** se definen oficialmente en el acuerdo del publicador. La tarifa de la tienda se aplica a todas las ventas de ofertas recopiladas por el Marketplace comercial, incluidos los complementos.
+- Los **pagos** se realizan mensualmente (siempre que se cumpla el umbral de pago). Normalmente enviamos cualquier pago debido a un mes determinado el día 15 de ese mes. Los pagos suelen tardar entre 3 y 10 días hábiles adicionales en llegar a su cuenta de pago. Para conocer los detalles, consulte [Umbrales de pago, métodos e intervalos de tiempo](payment-thresholds-methods-timeframes.md).
 
-Los honorarios están definidos oficialmente en el [Acuerdo de publicador de Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560). Revise siempre ese documento si tiene alguna pregunta.
+## <a name="prerequisite-steps-before-getting-paid"></a>Pasos de requisitos previos antes de recibir el pago
 
-Los honorarios de Store se aplican a todas las ventas de ofertas que reciba el Marketplace comercial, incluidos los complementos.
+Antes de que se pague por primera vez, debe configurar la cuenta de pago y completar los formularios de banco y fiscal necesarios. En los formularios bancarios y fiscales, se proporcionarán los métodos de pago preferidos y los formularios fiscales para la retención de impuestos. Los formularios de banco y fiscal son necesarios para que podamos pagarle. Para obtener más información, consulte [configuración de la cuenta de pago y los formularios fiscales](set-up-your-payout-account.md).
 
-## <a name="payout-reporting"></a>Informes de pago
+### <a name="payout-hold-status"></a>Estado de retención de pagos
 
-Puede obtener acceso a los detalles sobre la información de pago y descargar informes en el **Resumen de pago** del [Centro de partners](https://partner.microsoft.com/dashboard). Para obtener información detallada sobre la información que se muestra aquí y cómo clasificamos el dinero que gane, consulte la [declaración de pago](payout-statement.md).
+De forma predeterminada, enviaremos pagos mensualmente, como se describió anteriormente. Sin embargo, tiene la opción de poner los pagos para un programa en espera y Microsoft no publicará los pagos en su cuenta. Si decide poner los pagos en espera, continuaremos registrando cualquier ganancia en la página de **pagos** . Pero no se le envía ningún pago a la cuenta hasta que quite la retención.
 
-## <a name="payout-time-frame"></a>Plazo de tiempo para el pago
+Para poner los pagos en espera, vaya a **Configuración de la cuenta**. En **Pago e impuestos**, en la sección **Asignación de perfiles fiscales y de pago**, busque el programa para el que quiere suspender los pagos. Active la casilla **mantener mi pago** para conservar los pagos de este programa. Puede cambiar el estado de la retención de pago en cualquier momento, pero su decisión afectará al siguiente pago mensual. Por ejemplo, si quiere retener los pagos de abril, asegúrese de establecer el estado de retención de pagos en **Activado** antes del final de marzo.
 
-Los pagos se realizan mensualmente (siempre que se cumpla el umbral de pago aplicable y que no se haya retenido el pago, tal y como se describe a continuación). Normalmente enviaremos todos los pagos cuyo vencimiento sea en un mes específico antes del día 15 de ese mes. Tenga en cuenta que los pagos suelen tardar entre 3 y 10 días laborables adicionales para llegar a su cuenta de pago. Para conocer los detalles, consulte [Umbrales de pago, métodos e intervalos de tiempo](payment-thresholds-methods-timeframes.md).
+Una vez que haya establecido el estado de retención de pago en **activado**, todos los pagos de este programa estarán en espera hasta que **desactive la casilla.** Al hacerlo, se incluirá durante el siguiente ciclo de pago mensual (siempre que se cumpla el umbral de pago). Si ha tenido los pagos en espera, pero desea tener un pago generado en junio, desactive la casilla para **desactivarla** antes del final de mayo.
 
-## <a name="payout-hold-status"></a>Estado de retención de pagos
+>[!Note]
+> El estado de la retención de pago se aplica individualmente a cada programa (Microsoft Store, publicidad, Azure Marketplace, etc.). Si desea conservar los pagos de todos los programas, mantenga el pago en cada programa individualmente.
 
-De forma predeterminada, enviaremos pagos mensualmente, como se describió anteriormente. No obstante, tiene la opción de retener los pagos de un programa, lo que nos impediría enviar pagos a su cuenta. Si decide retener los pagos, se siguen registrando los ingresos que genera y se le proporcionan los detalles en el **Resumen de pagos**. Pero no se le envía ningún pago a la cuenta hasta que quite la retención.
+## <a name="payout-statements"></a>Extractos de pagos
 
-Para retener los pagos, vaya a la **Configuración del desarrollador**. En **Pago e impuestos**, en la sección **Asignación de perfiles fiscales y de pago**, busque el programa para el que quiere suspender los pagos. Haga clic en la casilla **Retener mi pago** para retener los pagos de este programa. Puede cambiar el estado de retención de pagos en cualquier momento, pero tenga en cuenta que su decisión afectará a su próximo pago mensual. Por ejemplo, si quiere retener los pagos de abril, asegúrese de establecer el estado de retención de pagos en **Activado** antes del final de marzo.
+La declaración de pago muestra los beneficios de las ventas de las ofertas y los complementos en el historial de transacciones. También puede ver los detalles de pago y descargar informes en formato TSV o CSV. Consulte las [declaraciones](payout-statement.md) de pago para obtener más información sobre cómo acceder a la declaración de pago y los detalles del historial de transacciones y los informes de pago. Además, puede usar la [API de pagos de asociados](https://apidocs.microsoft.com/services/partnerpayouts) para extraer sistemáticamente los informes de pago.
 
-Una vez que haya establecido el estado de la retención de pagos en **Activado**, todos los pagos de este programa se pondrán en espera hasta que desplace el control deslizante de nuevo a **Desactivado**. Una vez hecho esto, se le incluye en el siguiente ciclo de pago mensual (siempre que se hayan cumplido los umbrales de pago aplicables). Por ejemplo, si ha retenido los pagos pero quiere que se genere un pago en junio, asegúrese de alternar el estado de retención de pagos a **Desactivado** antes de finales de mayo.
+## <a name="next-steps"></a>Pasos siguientes
 
-> [!NOTE]
-> El **Estado de retención del pago** se aplica individualmente a cada programa (Microsoft Store, publicidad, Azure Marketplace, etc.). Si quiere retener los pagos de todos los programas, debe retenerlos en cada programa de forma individual.
-
+- [API de pagos de asociados](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Preguntas más frecuentes sobre los pagos de Marketplace](payout-faq.md)

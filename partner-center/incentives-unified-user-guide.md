@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 28ad3a9eef770793c1412623aba2bd1d1972c8aa
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999889"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591085"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Acceder a páginas de pagos para aplicaciones y juegos de Windows, incentivos de MPN y pagos comerciales de Marketplace
 
@@ -35,4 +35,4 @@ La información de ayuda de pago que se le aplica depende del programa de asocia
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener información sobre los pagos comerciales de Marketplace para fabricantes de software independientes (ISV), consulte Resumen de pagos [comerciales de Marketplace](/azure/marketplace/partner-center-portal/payout-summary).
+- Para obtener información sobre los pagos comerciales de Marketplace para fabricantes de software independientes (ISV), consulte las [instrucciones de pago](payout-statement.md).

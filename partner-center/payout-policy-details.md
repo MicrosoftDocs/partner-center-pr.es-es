@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335769"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591115"
 ---
 # <a name="payout-policy-details"></a>Detalles de la política de pago
 
-En este artículo se describe el proceso de pago de Microsoft, la programación de pagos y la Directiva de recuperaciones, y dónde encontrar el estado de un pago.
-
-## <a name="where-to-find-upcoming-payouts"></a>Dónde encontrar los pagos futuros
-
-En el centro de Partners, seleccione el icono de **pago** en la esquina superior derecha de la pantalla:
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Se muestra el icono de Pago en la parte superior derecha del portal del Centro de partners.":::
-
-> [!TIP]
-> No todos los roles de cuenta tienen acceso a la información de pago. Para obtener más información, consulte [roles y permisos](payout-statement.md#roles-and-permissions).
+En este artículo se describe el proceso de pago de Microsoft, la programación de pago, dónde encontrar el estado de un pago y la política de recuperación.
 
 ## <a name="payment-schedules"></a>Programaciones de pago
 
@@ -33,9 +24,9 @@ En las secciones siguientes se describe nuestro proceso de pago.
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Transacciones del Contrato Enterprise después del 1 de mayo de 2020
 
-Hemos realizado la siguiente actualización en nuestro modelo de pago de publicador de Marketplace comercial:
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Actualización a nuestro modelo de pago de publicador de Marketplace comercial
 
-A partir del 1 de mayo de 2020, vamos a actualizar nuestra política de pagos relacionada con los productos adquiridos en Microsoft AppSource o Azure Marketplace por parte de los clientes con un Contrato Enterprise de Microsoft. Cuando un cliente compra un producto de Azure Marketplace o AppSource con su Contrato Enterprise de Microsoft actual para las transacciones, después del 1 de mayo 2020, comenzará a emitir pagos en el siguiente ciclo de pago 30 días después de la factura del cliente. Las transacciones realizadas mediante tarjeta de crédito no experimentarán cambios y seguirán teniendo un período de retención de 30 días antes del pago. En esta tabla se muestran los detalles de la programación del pago.
+A partir del 1 de mayo de 2020, vamos a actualizar nuestra política de pago relacionada con los productos que los clientes con un Contrato Enterprise de Microsoft han adquirido en Azure Marketplace o AppSource. Si un cliente compra un producto en Azure Marketplace o AppSource con su Contrato Enterprise de Microsoft actual con posterioridad al 1 de mayo de 2020, los pagos comenzarán a emitirse en el siguiente ciclo de pago, 30 días después de la factura del cliente. Las transacciones realizadas mediante tarjeta de crédito no experimentarán cambios y seguirán teniendo un período de retención de 30 días antes del pago. En esta tabla se muestran los detalles de la programación del pago.
 
 > [!NOTE]
 > Consulte a continuación [Proceso para impagos de los clientes](#process-for-customer-non-payment) para conocer qué acciones emprender si un cliente no paga, pero a usted ya se la ha emitido un pago.
@@ -51,7 +42,7 @@ A partir del 1 de mayo de 2020, vamos a actualizar nuestra política de pagos re
 | Factura de cliente cobrada | 1/12/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos.  |
 |  |  |  |  |
 
-\* Se puede acceder a los informes de uso y de pedidos en la sección Analizar del Centro de partners.</br>\** La fecha de pago está en la hora estándar del Pacífico (PST).
+\* Los informes de uso y pedidos son accesibles en la sección analizar del centro de Partners. \* *. La fecha de pago está en hora estándar del Pacífico (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Clientes que pagan mediante tarjeta de crédito o factura
 
@@ -95,12 +86,12 @@ Según el proceso de pago articulado aquí, es posible que Microsoft ya haya pag
 
 Microsoft recuperará los pagos que ya se le hayan pagado a usted con uno de los siguientes métodos: (1) Microsoft puede restar los importes no pagados de los pagos futuros; por ejemplo, si se considera que 1000 dólares USA de los pagos no se pueden cobrar ni cancelar, se retienen los pagos futuros hasta que se recupere este importe; o bien, (2) Microsoft puede solicitar un reembolso o los importes no cobrados a los anunciantes de la factura.
 
-En la tabla siguiente se muestra un ejemplo de programación:
+A continuación, se muestra una programación de ejemplo:
 
 | Evento | Fecha aproximada | Visibilidad de los asociados |
 | --- | --- | --- |
 | Ejemplo de fecha de pago | 15/10/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. |
-| Si el cliente no paga a Microsoft | 2/12/2020 – 5/12/2020 | Sin cambios, igual que antes. |
+| <font color="red">Si el cliente no paga a Microsoft</font> | 2/12/2020 – 5/12/2020 | Sin cambios, igual que antes. |
 | El cliente recibe el primer correo electrónico de pago atrasado. | 12/6/2020 | None |
 | El cliente recibe mensajes de correo electrónico periódicos cada vez más urgentes. | 07/12/2020 – 31/01/2021 | None |
 | Es probable que el anunciante reciba una notificación de una probable cancelación. | 07/01/2021 | Notificación por correo electrónico enviada al anunciante de que su cliente aún no ha enviado el pago. Se incluyen el identificador de la transacción y el importe en dólares. |
@@ -122,7 +113,8 @@ Normalmente enviamos todos los pagos con vencimiento en un mes determinado a dí
 | PayPal             | 1 día laborable                             |
 | ACH/SEPA           | 2 a 3 días laborables                          |
 | Transferencia bancaria      | 7 a 10 días laborables                         |
+|
 
-## <a name="next-step"></a>siguiente paso
+## <a name="next-steps"></a>Pasos siguientes
 
 - [Datos fiscales](tax-details-marketplace.md)
