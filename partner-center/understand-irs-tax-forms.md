@@ -5,13 +5,13 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 09/24/2020
-ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/30/2020
+ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248913"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663916"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Descripción de los formularios fiscales del IRS emitidos por Microsoft
 
@@ -63,14 +63,15 @@ Los formularios fiscales se le enviarán desde las siguientes direcciones:
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Para los desarrolladores que se encuentran fuera de Estados Unidos
 
+
 | | |
 |---|---|
 | **Recibí un formulario 1042-S de Microsoft. ¿Para qué sirve?** | Microsoft te ha proporcionado uno o varios formularios 1042-S porque se te han pagado ingresos que deben declararse a las autoridades fiscales de los Estados Unidos y estaban sujetos a retención de impuestos.  El formulario 1042-S se usa para este requisito de declaración fiscal. | 
 | **¿Qué debo hacer con los formularios?** | Por lo general, no se requiere ninguna acción específica de tu parte. El formulario 1042-S quizá te resulte útil si quieres solicitar a las autoridades tributarias locales cualquier tipo de crédito fiscal.  Póngase en contacto con sus propios asesores fiscales para obtener más información sobre este tema. | 
-| **¿Por qué se retuvieron impuestos en mis pagos si he completado un formulario W8?** | La retención de impuestos se realiza si:<ol><li>No completaste correctamente la sección de tratado fiscal del formulario W8 o</li><li>Resides en un país que no tiene un tratado fiscal con los Estados Unidos.</li></ol><br/>Puede visitar el centro de Partners en cualquier momento para enviar un formulario de W8 actualizado.<br/><br/> **Nota:** No todos los ingresos están sujetos a la retención de impuestos. | 
+| **¿Por qué se retuvieron impuestos en mis pagos si he completado un formulario W8?** | La retención de impuestos se realiza si:<br/><br/>1. no completó la sección del tratado fiscal del W8 correctamente, o bien <br/>2. el usuario reside en un país que no tiene un tratado fiscal con el Estados Unidos.<br/><br/>Puede visitar el centro de Partners en cualquier momento para enviar un formulario de W8 actualizado.<br/><br/> **Nota:** No todos los ingresos están sujetos a la retención de impuestos. | 
 | **He enviado un formulario W8 actualizado con información de tratados válida. ¿Puede Microsoft reembolsar los impuestos que se han retenido?** | Una vez que se han retenido los impuestos, no pueden reembolsarse. Póngase en contacto con sus asesores fiscales para analizar si puede reclamar un crédito local por estos impuestos o si puede solicitar un reembolso de la Agencia Tributaria. | 
 | **¿Qué ventas se declaran en el formulario 1042-S?** | Solo se notifican las ventas realizadas **a los compradores que se encuentren en los Estados Unidos que estuvieran clasificadas como sujetas a retención de impuestos**.  Todas las demás ventas no deben declararse. | 
-| **¿Por qué obtengo tres copias del mismo formato 1042-S en un sobre?** | Las disposiciones del IRS estipulan que se deben proporcionar tres copias del formulario:<ul><li>una para el destinatario;</li><li>una para presentar una declaración de impuestos federal de Estados Unidos (si procede);</li><li>una para presentar una declaración de impuestos estatal de Estados Unidos (si procede).</li></ul> |
+| **¿Por qué obtengo tres copias del mismo formato 1042-S en un sobre?** | Las disposiciones del IRS estipulan que se deben proporcionar tres copias del formulario:<br/><br/>-Uno para los registros del destinatario<br/>-Uno para el archivado con una devolución de impuesto federal Estados Unidos (si es aplicable)<br/>-Uno para el archivado con una devolución de impuestos estatal Estados Unidos (si es aplicable) |
 
 > [!NOTE]
 > Si tiene preguntas o inquietudes adicionales relacionadas con los **formularios fiscales de IRS**, vaya a [ayuda y soporte técnico](https://partner.microsoft.com/dashboard/support/) en el panel del centro de Partners. Microsoft no puede responder preguntas relacionadas con tus circunstancias fiscales específicas. Para tales preguntas, consulta a tu profesional en materia fiscal.

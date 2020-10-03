@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714429"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663876"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Administración de notificaciones de cooperación de incentivos
 
@@ -65,11 +65,13 @@ Si se determina que los materiales que proporcionó con la notificación de coop
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. En **Incentivos**, seleccione **Co-op claims** (Notificaciones de cooperación).
+2. En **incentivos**, seleccione **Administración de planes**.
 
-3. Seleccione la notificación de cooperación con la que no está de acuerdo. Se abre la página de notificaciones de la Co-op.
+3. Seleccione **Administración de Co-op**.
 
-4. En la parte inferior de la página, seleccione **Impugnar**.
+4. Seleccione la notificación de cooperación con la que no está de acuerdo. Se abre la página de notificaciones de la Co-op.
+
+5. En la parte inferior de la página, seleccione **Impugnar**.
 
 El equipo de validación de notificaciones de cooperación revisará la notificación en un plazo de cinco días laborables. Durante este tiempo, el estado se mostrará como **Con conflicto**. Podemos ponernos en contacto con usted para solicitar información adicional. Una vez completada la revisión, el equipo de validación actualizará el estado a **Aprobado**, **Rechazado** o **Acción por parte del partner necesaria**.
 
