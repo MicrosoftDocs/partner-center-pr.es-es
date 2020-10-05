@@ -42,11 +42,13 @@
         - name: Buscar las ventajas de MPN
           href: mpn-find-benefits.md
     - name: Competencias
-      href: learn-about-competencies.md
+      items:
+        - name: Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
+          href: learn-about-competencies.md
+        - name: Exención de la competencia de desarrollo de aplicaciones
+          href: app-dev-isv.md
     - name: Especializaciones avanzadas
       href: advanced-specializations.md
-    - name: Exención única del examen para la competencia Application Development
-      href: app-dev-isv.md
     - name: Convertirse en MSP experto de Azure
       href: azure-expert-msp.md
     - name: Ventajas
@@ -122,153 +124,160 @@
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
         - name: Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
-- name: Administración de la cuenta del Centro de partners
-  href: partner-center-account-setup.md
+- name: Administrar una cuenta del Centro de partners
   items:
-    - name: Cuentas profesionales y Centro de partners
-      href: azure-active-directory-tenants-and-partner-center.md
-    - name: Estructura de cuentas en el Centro de partners
-      href: account-structure.md
-    - name: Comprobar tu propiedad de un dominio
-      href: become-global-admin.md
-    - name: Comprobar la información de la cuenta
-      href: verification-responses.md
-    - name: Combinar la cuenta de asociado con otra cuenta de asociado
-      href: merge-accounts.md
-    - name: Asociar inquilinos de Azure AD adicionales a la cuenta del Centro de partners
-      href: multi-tenant-account.md
-    - name: Actualizar tu perfil de partner
-      href: update-your-partner-profile.md
-    - name: Ubicaciones
-      href: manage-locations.md
-    - name: Inscribirse como proveedor del Panel de control
-      href: enroll-as-cpv.md
-    - name: Restaurar una cuenta suspendida del Centro de partners
-      href: suspended-partner-center-account.md
-    - name: Agregar una aplicación de Azure AD
-      href: service-principal.md
-    - name: Asociación de la cuenta de Microsoft Learn al Centro de partners
-      href: ms-learn-associate.md
-- name: Administrar la cuenta del Centro de partners (usuarios)
+    - name: Administración general de cuentas
+      items:
+        - name: Acerca de la cuenta
+          href: partner-center-account-setup.md
+        - name: Acerca de la estructura de la cuenta
+          href: account-structure.md
+        - name: Vincular la cuenta profesional
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: Comprobar la propiedad del dominio
+          href: become-global-admin.md
+        - name: Verificar la información de la cuenta
+          href: verification-responses.md
+        - name: Combinar cuentas de asociados
+          href: merge-accounts.md
+        - name: "Agregar más inquilinos de Azure\_AD"
+          href: multi-tenant-account.md
+        - name: Actualizar tu perfil de partner
+          href: update-your-partner-profile.md
+        - name: Administrar ubicaciones
+          href: manage-locations.md
+        - name: Convertirse en proveedor de panel de control
+          href: enroll-as-cpv.md
+        - name: Restaurar cuentas suspendidas
+          href: suspended-partner-center-account.md
+        - name: "Agregar aplicaciones de Azure\_AD"
+          href: service-principal.md
+        - name: Asociar cuenta de aprendizaje
+          href: ms-learn-associate.md
+    - name: Administrar usuarios
+      items:
+        - name: Crear las cuentas de usuario
+          href: create-user-accounts-and-set-permissions.md
+        - name: Asignación de roles a usuarios
+          href: permissions-overview.md
+        - name: Convertirse en proveedor de panel de control
+          href: enroll-as-cpv.md
+        - name: Restablecimiento de la contraseña del usuario
+          href: reset-a-user-password.md
+        - name: Restablecimiento de mi contraseña
+          href: reset-my-pasword.md
+        - name: El usuario no puede iniciar sesión
+          href: unable-to-sign-in.md
+        - name: El usuario no tiene ningún administrador de MPN
+          href: no-mpn-admin.md
+    - name: Administrar la empresa
+      items:
+        - name: Servicios compartidos para asociados de Azure
+          href: shared-services.md
+        - name: Precios y ofertas
+          href: pricing-and-offers.md
+        - name: Personalizar el catálogo
+          href: customize-the-catalog.md
+- name: Referencias
   items:
-    - name: Crear las cuentas de usuario
-      href: create-user-accounts-and-set-permissions.md
-    - name: Asignar roles y permisos de usuarios
-      href: permissions-overview.md
-    - name: Inscribirse como proveedor del Panel de control
-      href: enroll-as-cpv.md
-    - name: Restablecimiento de la contraseña del usuario
-      href: reset-a-user-password.md
-    - name: Restablecimiento de mi contraseña
-      href: reset-my-pasword.md
-    - name: Si no puede iniciar sesión en el Centro de partners
-      href: unable-to-sign-in.md
-    - name: ¿Qué hacer si el administrador del programa MPN ha abandonado la empresa?
-      href: no-mpn-admin.md
-- name: Administrar la cuenta del Centro de partners (empresas)
-  items:
-    - name: Agregar Servicios compartidos para asociados de Azure
-      href: shared-services.md
-    - name: Precios y ofertas
-      href: pricing-and-offers.md
-    - name: Personalizar el catálogo
-      href: customize-the-catalog.md
-- name: Desarrollo de la empresa
-  href: grow-your-business.md
-  items:
+    - name: Contribuir al crecimiento del negocio
+      href: grow-your-business.md
     - name: Información general sobre referencias
       href: referrals.md
+    - name: Administrar el perfil de negocio
+      href: create-a-marketing-profile.md
+    - name: Administración de clientes potenciales
+      href: manage-leads.md
+    - name: Administración de las oportunidades de venta conjunta
       items:
-        - name: Administrar el perfil de negocio
-          href: create-a-marketing-profile.md
-        - name: Administración de clientes potenciales
-          href: manage-leads.md
-        - name: Administración de las oportunidades de venta conjunta
+        - name: Acerca de los clientes potenciales de venta conjunta
           href: manage-co-sell-opportunities.md
-        - name: 'Conector de venta conjunta para Dynamics 365 CRM: información general'
-          href: connector-dynamics.md
-        - name: 'Conector de venta conjunta para Salesforce CRM: información general'
-          href: connector-salesforce.md
-        - name: Solución de problemas de conectores de referencias de venta conjunta
+        - name: Usar conectores de CRM de venta conjunta
+          items:
+            - name: "Para Dynamics\_365"
+              href: connector-dynamics.md
+            - name: Para Salesforce
+              href: connector-salesforce.md
+        - name: Solución de problemas de conectores
           href: connectors-troubleshoot.md
-        - name: Venta conjunta para asociados que han realizado la migración desde Partner Sales Connect (PSC)
+        - name: 'Venta conjunta: migración de PSC a equipo'
           href: psc-to-pc.md
-        - name: Registrar las ofertas
-          href: register-deals.md
-        - name: Obtener información de referencia
-          href: referral-insights.md
-        - name: Analizar tu perfil de negocio
-          href: analyze-your-marketing-profile.md
-    - name: Incentivos
+    - name: Registrar las ofertas
+      href: register-deals.md
+    - name: Obtener información de referencia
+      href: referral-insights.md
+    - name: Analizar tu perfil de negocio
+      href: analyze-your-marketing-profile.md
+- name: Incentivos
+  items:
+    - name: Introducción a los incentivos
       items:
+        - name: P+F sobre incentivos
+          href: incentives-faq.md
         - name: Introducción a los incentivos
-          items:
-            - name: P+F sobre incentivos
-              href: incentives-faq.md
-            - name: Introducción a los incentivos
-              href: incentives-get-started-intro.md
-            - name: "10\_puntos fundamentales de los incentivos"
-              href: incentives-ten-essentials.md
-            - name: Inscripción en los incentivos
-              href: incentives-enroll.md
-            - name: Comprobación de la idoneidad para el programa
-              href: incentives-determined-your-program-eligibility.md
-              displayName: incentives
-            - name: Información sobre perfiles fiscales y de pago
-              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-              displayName: incentives
-            - name: P+F sobre perfiles fiscales y de pago
-              href: incentives-payout-tax-profile-faqs.md
-              displayName: incentives
-            - name: Comprobación de la elegibilidad de ganancias
-              href: incentives-confirm-your-earnings-eligibility.md
-              displayName: incentives
-            - name: Consulta de pagos y programas
-              href: understand-incentive-payouts.md
-              displayName: incentives
-            - name: Acceso a la página de pagos
-              href: incentives-unified-user-guide.md
-              displayName: incentives
-        - name: Planes y pruebas de ejecución
-          items:
-            - name: Información sobre planes y PoE
-              href: incentives-plans-proofs-intro.md
-              displayName: 'incentives, proof of execution, proofs of execution'
-            - name: Crear el plan
-              href: incentives-create-your-plan.md
-              displayName: incentives
-            - name: Creación de la prueba de ejecución
-              href: incentives-prepare-your-proof-of-execution.md
-              displayName: incentives
-        - name: Reclamaciones de incentivos de cooperación
-          items:
-            - name: Reclamaciones de incentivo de cooperación
-              href: claims-overview.md
-              displayName: incentives
-            - name: Administración de reclamaciones de cooperación
-              href: create-incentives-claims.md
-              displayName: incentives
-            - name: Consulta de requisitos básicos
-              href: core-requirements.md
-              displayName: incentives
-            - name: Aprobación y fechas límite de reclamaciones de cooperación
-              href: incentives-managing-co-op-claims.md
-              displayName: incentives
-        - name: Reclamaciones de incentivos de la asociación CPOR
-          items:
-            - name: Información sobre las asociaciones de CPOR
-              href: incentives-customer-associations-intro.md
-            - name: Creación de una asociación de clientes
-              href: submit-osa-claim.md
-            - name: Administrar asociaciones de clientes
-              href: incentives-manage-customer-associations.md
-              displayName: incentives
-            - name: Problemas de asociación de clientes
-              href: incentives-customer-association-issues.md
-              displayName: incentives
-        - name: Solución de problemas de pagos y ganancias
-          href: incentives-payment-issues.md
+          href: incentives-get-started-intro.md
+        - name: "10\_puntos fundamentales de los incentivos"
+          href: incentives-ten-essentials.md
+        - name: Inscripción en los incentivos
+          href: incentives-enroll.md
+        - name: Comprobación de la idoneidad para el programa
+          href: incentives-determined-your-program-eligibility.md
           displayName: incentives
+        - name: Información sobre perfiles fiscales y de pago
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: P+F sobre perfiles fiscales y de pago
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: Comprobación de la elegibilidad de ganancias
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: Consulta de pagos y programas
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: Acceso a la página de pagos
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: Planes y pruebas de ejecución
+      items:
+        - name: Información sobre planes y PoE
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: Crear el plan
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: Creación de la prueba de ejecución
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+    - name: Reclamaciones de incentivos de cooperación
+      items:
+        - name: Reclamaciones de incentivo de cooperación
+          href: claims-overview.md
+          displayName: incentives
+        - name: Administración de reclamaciones de cooperación
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: Consulta de requisitos básicos
+          href: core-requirements.md
+          displayName: incentives
+        - name: Aprobación y fechas límite de reclamaciones de cooperación
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: Reclamaciones de incentivos de la asociación CPOR
+      items:
+        - name: Información sobre las asociaciones de CPOR
+          href: incentives-customer-associations-intro.md
+        - name: Creación de una asociación de clientes
+          href: submit-osa-claim.md
+        - name: Administrar asociaciones de clientes
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: Problemas de asociación de clientes
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: Solución de problemas de pagos y ganancias
+      href: incentives-payment-issues.md
+      displayName: incentives
 - name: Facturación e impuestos
   href: billing.md
   items:
@@ -282,7 +291,7 @@
       href: use-the-reconciliation-files.md
     - name: Tipos de cargo de archivo de conciliación
       href: recon-file-charge-types.md
-    - name: Lectura de archivos de conciliación de uso clasificados diariamente en el Centro de partners
+    - name: Archivos de conciliación de uso con clasificación diaria
       href: daily-rated-usage-recon-files.md
     - name: Archivos de conciliación basada en licencia
       href: license-based-recon-files.md
@@ -365,9 +374,9 @@
       href: update-customer-account-info.md
     - name: Permitir que los clientes compren sus propios servicios
       href: give-customers-permission.md
-    - name: Procedimiento para agregar varios usuarios para un cliente
+    - name: Agregar varios usuarios para un cliente
       href: adding-multiple-users-to-a-customer-account.md
-    - name: Campos obligatorios para que el archivo importe varios usuarios para una cuenta de cliente
+    - name: Importar varios usuarios
       href: file-customer-users.md
     - name: Asignar contactos de soporte técnico
       href: assign-support-contacts.md
@@ -487,64 +496,69 @@
           href: advisor-create-a-purchase-offer.md
 - name: Análisis y datos del Centro de partners
   items:
-    - name: Obtener acceso a análisis y datos de usuario
+    - name: Acceder a análisis y datos de usuario
       href: data-analysis-lp.md
-    - name: "Aplicación de análisis del Centro de partners para Power\_BI"
+    - name: "Aplicación de análisis para Power\_BI"
       items:
-        - name: "Introducción a la Aplicación de análisis del Centro de partners para Power\_BI"
+        - name: Introducción a la aplicación de análisis
           href: power-bi-app-for-direct-partners.md
-        - name: "Instalación de la Aplicación de análisis del Centro de partners para Power\_BI"
+        - name: Instalar la aplicación de análisis
           href: power-bi-app-for-direct-partners-install.md
-        - name: "Uso de la Aplicación de análisis del Centro de partners para Power\_BI"
+        - name: Usar la aplicación de análisis
           href: power-bi-app-for-direct-partners-use.md
-    - name: Información acerca del Centro de partners
-      href: partner-center-insights.md
+    - name: Insights del Centro de partners (PCI)
       items:
-        - name: 'Conclusiones: panel de información general'
-          href: pci-overview-report.md
-        - name: 'Conclusiones: control de acceso basado en roles para el panel de conclusiones'
+        - name: Acerca de Insights
+          href: partner-center-insights.md
+        - name: Acceso basado en roles de Insights
           href: pci-roles.md
-        - name: 'Conclusiones: panel del cliente'
-          href: pci-customer-report.md
-        - name: 'Conclusiones: panel de rendimiento de revendedor'
-          href: pci-resellers-performance.md
-        - name: 'Conclusiones: panel de suscripciones de productos'
-          href: pci-product-subscriptions-report.md
-        - name: 'Conclusiones: panel de licencias de productos'
-          href: pci-product-licenses-report.md
-        - name: 'Conclusiones: panel de uso de Azure'
-          href: pci-azure-usage-report.md
-        - name: 'Conclusiones: panel de entrenamiento'
-          href: pci-training-dashboard.md
-        - name: "Conclusiones: análisis de Microsoft\_Learn"
-          href: ms-learn-analytics.md
-        - name: 'Conclusiones: informe de competencias'
-          href: pci-competencies-report.md
-        - name: 'Conclusiones: informe de ventajas'
-          href: pci-benefits-report.md
-        - name: 'Conclusiones: informe de propensión de CloudAscent'
-          href: pci-customer-opportunities.md
-        - name: 'Conclusiones: problemas conocidos'
+        - name: Informes de Insights
+          items:
+            - name: Uso de Azure
+              href: pci-azure-usage-report.md
+            - name: Ventajas
+              href: pci-benefits-report.md
+            - name: Tendencia de CloudAscent
+              href: pci-customer-opportunities.md
+            - name: Competencias
+              href: pci-competencies-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Análisis de Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Información general
+              href: pci-overview-report.md
+            - name: Licencias de producto
+              href: pci-product-licenses-report.md
+            - name: Suscripciones de producto
+              href: pci-product-subscriptions-report.md
+            - name: Rendimiento de revendedores
+              href: pci-resellers-performance.md
+            - name: Cursos
+              href: pci-training-dashboard.md
+        - name: Problemas conocidos
           href: pci-known-issues.md
-        - name: 'Conclusiones: informes de descarga'
+        - name: Descargar informes de Insights
           href: pci-download-reports.md
     - name: Indicadores de contribución de partners
       href: partner-contribution-indicators.md
-    - name: Obtener datos sobre el uso de las suscripciones de Azure de tus clientes
-      href: analyze-azure-usage.md
-    - name: Analizar el rendimiento de los revendedores indirectos
-      href: analyze-indirect-resellers.md
-    - name: Analizar suscripciones y licencias
-      href: analyze-subscriptions-licenses.md
+    - name: Analizar otros datos
+      items:
+        - name: Uso de Azure del cliente
+          href: analyze-azure-usage.md
+        - name: Rendimiento de revendedor indirecto
+          href: analyze-indirect-resellers.md
+        - name: Suscripciones y licencias
+          href: analyze-subscriptions-licenses.md
 - name: Trabajar con otros partners
   items:
     - name: Buscar un asociado
       href: find-a-partner.md
     - name: Trabajar con otros partners
       href: work-with-other-partners.md
-    - name: Tareas de proveedor indirecto en el Centro de partners
+    - name: Tareas de proveedores indirectos
       href: indirect-provider-tasks-in-partner-center.md
-    - name: Tareas de revendedor indirecto del Centro de partners
+    - name: Tareas de revendedores indirectos
       href: indirect-reseller-tasks-in-partner-center.md
     - name: Relaciones de partners de CSP admitidas
       href: csp-supported-partner-relationships.md
