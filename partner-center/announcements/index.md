@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
-ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
+ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "91625148"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663816"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -23,7 +23,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 | **Categoría** | **Anuncios de octubre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
 |Ofertas/mercados|[Las actualizaciones de seguridad extendidas (ESU) para Windows 7 año 2 ya están disponibles para los partners del programa Proveedor de soluciones en la nube (CSP)](2020-october.md#3)|1 de octubre|
-|Ofertas/mercados|[El plan de llamadas para Office 365 ya está disponible en nuevos mercados](2020-october.md#2)|1 de octubre|
+|Ofertas/mercados|[Las nuevas SKU aportan la eficacia de Project Cortex y mucho más a los clientes](2020-october.md#2)|1 de octubre|
 |Funcionalidades|[Anuncio del programa de incentivos de Proveedor de soluciones en la nube (CSP) del año fiscal 2021](2020-october.md#1)|1 de octubre|
 | **Categoría** | **Anuncios de septiembre de 2020** | **Fecha** |
 |Funcionalidades|[Aviso de cumplimiento de descarga y clave de licencia de software del Centro de Partners](2020-september.md#17)|30 de septiembre|
