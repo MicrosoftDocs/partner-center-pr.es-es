@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999919"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763360"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscribirse en el programa proveedor de soluciones en la nube para Microsoft Cloud para el gobierno de EE. UU.
 
@@ -65,7 +65,7 @@ Para crear una cuenta del centro de Partners e inscribirse en CSP para Microsoft
 
 1. Inicie sesión en el centro de partners para Microsoft Cloud para el gobierno de EE. UU. mediante el vínculo proporcionado en el correo electrónico de aprobación de la aplicación.
 
-2. En la página del **acuerdo** , lea los términos y, si está de acuerdo, seleccione **Aceptar y continúe** para firmar digitalmente el [acuerdo de revendedor para Microsoft Cloud para el gobierno de EE. UU.](https://go.microsoft.com/fwlink/p/?linkid=843364) Crear la cuenta puede tardar varias horas. Cierre la sesión del centro de partners para Microsoft Cloud para el gobierno de EE. UU. y vuelva a iniciarla más tarde.
+2. En la página del **acuerdo** , lea los términos y, si está de acuerdo, seleccione **Aceptar y continúe** para firmar digitalmente el acuerdo de revendedor para Microsoft Cloud para el gobierno de EE. UU. Crear la cuenta puede tardar varias horas. Puede cerrar la sesión del centro de partners para Microsoft Cloud para el gobierno de EE. UU. y volver a iniciar sesión más tarde.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Paso 4: asignación de usuarios al rol de agente de administración en el portal de administración de Microsoft Azure para Microsoft Cloud para el gobierno de EE. UU.
 
