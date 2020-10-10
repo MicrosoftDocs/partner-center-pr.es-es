@@ -1,7 +1,7 @@
 ---
 title: Migración de PMC al Centro de partners
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a migrar tu empresa de Partner Membership Center (PMC) al Centro de partners.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000569"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663836"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guía para la migración de PMC al Centro de partners
 
@@ -53,7 +53,7 @@ Si tu empresa no tiene un correo electrónico del trabajo ni un inquilino de AAD
 >[!NOTE]
 >Si eres un partner de China y estás inscrito en Microsoft Partner Network y en el programa Proveedor de soluciones en la nube (CSP), tendrás un inquilino diferente para cada cuenta. Tu cuenta con el programa Proveedor de soluciones en la nube se administra en la nube nacional y la cuenta de Microsoft Partner Network se administra en la nube global. Las dos cuentas no pueden estar vinculadas.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Háblenos de su empresa":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Introducción":::
 
 Una vez que hayas comprobado o actualizado la información, selecciona **Aceptar y continuar**.
 Los términos y condiciones de esta página son **exactamente los mismos** que los del acuerdo que la empresa firmó en PMC.  
@@ -71,7 +71,7 @@ Al seleccionar **Aceptar y continuar** también sucede lo siguiente:
 
 Cuando se crea tu nuevo inquilino de Azure AD, puedes invitar a los empleados a iniciar sesión en el Centro de partners.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Invitar a empleados":::
+:::image type="content" source="images/migration/invite.png" alt-text="Introducción":::
 
 Si has iniciado sesión con un inquilino de AAD existente, los empleados se habrán migrado contigo. En este caso, asigna a tus empleados roles que determinen lo que pueden hacer en el Centro de partners. 
 
@@ -84,11 +84,11 @@ Si el inquilino de AAD es nuevo, no se asigna a nadie el rol de administrador gl
 
 Aunque puede usar las ofertas que ya ha comprado, no podrá comprar nuevas ofertas hasta que complete el paso de asignación de un administrador global.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Tomar el control":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Introducción":::
 
 Al seleccionar Introducción, verás la siguiente pantalla:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Comprobar la propiedad del dominio":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Introducción":::
 
 El registrador de dominios aparecerá rellenado automáticamente. Solo el propietario del dominio puede actualizar el archivo DNS, de modo que al copiar y agregar el archivo de texto al registro DNS, podamos comprobar que eres el propietario. La actualización tardará unos minutos en producirse. Tendrás que cerrar la sesión del Centro de partners y volver a iniciarla. Tu rol habrá cambiado a administrador global.
 
@@ -96,9 +96,21 @@ El registrador de dominios aparecerá rellenado automáticamente. Solo el propie
 
 Visita el panel. Aquí puedes administrar tu pertenencia, agregar un perfil de negocio para las referencias, inscribirse en el programa Proveedor de soluciones en la nube, y ver las notificaciones y ofertas importantes para tu empresa en cualquier momento. Para ello, selecciona **Panel**. También puedes administrar incentivos, comprar en Marketplace, registrarte para obtener servicios de comercialización y mucho más.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Visítelo":::
+:::image type="content" source="images/migration/fre.png" alt-text="Introducción":::
+
+## <a name="sign-the-microsoft-partner-agreement"></a>Firma del contrato Microsoft Partner Agreement
+
+Si es un revendedor indirecto, una vez configurada la cuenta del Centro de partners, debe inscribirse oficialmente en el programa Proveedor de soluciones en la nube. Para comprobar el estado de pertenencia, vaya a su [Perfil de partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) y confirme el tipo de cuenta. A continuación, inscríbase en CSP como [revendedor indirecto](enrolling-in-the-csp-program.md).
+
+ Una vez inscrito como revendedor indirecto, acepte la [solicitud de relación de CSP con el proveedor indirecto](indirect-reseller-tasks-in-partner-center.md).
+
+Después, acepte el contrato Microsoft Partner Agreement en el [panel](https://partner.microsoft.com/pvc/dashboard) del Centro de partners con las credenciales de administrador global. Confirme que ha firmado el contrato Microsoft Partner Agreement en la sección Información del programa del Perfil de partner. Además, verá una notificación de banner de confirmación en la página de información general de CSP. 
 
 ## <a name="next-steps"></a>Pasos siguientes
+
+- [Buscar el administrador global](become-global-admin.md)
+
+- [Microsoft Partner Agreement](microsoft-partner-agreement.md)
 
 - [Crear cuentas de usuario](create-user-accounts-and-set-permissions.md)
 

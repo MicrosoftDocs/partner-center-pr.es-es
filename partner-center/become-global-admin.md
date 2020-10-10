@@ -1,7 +1,7 @@
 ---
 title: Convertirse en administrador global de la empresa
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Para trabajar en el Centro de partners, primero debes comprobar la propiedad de tu dominio. Aprende a hacer esto y a convertirte en un administrador global que puede agregar usuarios.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527391"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663806"
 ---
-# <a name="verify-your-domain-ownership"></a>Comprobar tu propiedad de un dominio
+# <a name="verify-your-domain-ownership-to-become-global-admin"></a>Comprobación de la propiedad del dominio para convertirse en administrador global 
 
 **Se aplica a:**
 
@@ -25,15 +25,20 @@ ms.locfileid: "87527391"
 **Roles adecuados**
 
 - Administrador global
+- Administrador de cuentas
 
-Cuando tu empresa inicia sesión por primera vez en el Centro de partners, es probable que tus empleados no tengan asignados los roles necesarios para empezar a trabajar en el Centro de partners. Para trabajar en el Centro de partners, todo el mundo debe tener un rol, que incluye los permisos que se les han asignado.  
+Cuando la empresa crea una cuenta por primera vez en el Centro de partners, es probable que sus empleados no tengan asignados los roles necesarios para empezar a trabajar.  Para trabajar en el Centro de partners, todo el mundo debe tener un rol, que incluye los permisos que se les han asignado.  
 
-Debes comprobar la propiedad de tu dominio para poder comprar los beneficios a los que puede optar tu empresa, agregar nuevos usuarios y asignarles roles o realizar otras tareas en el Centro de partners.
+## <a name="find-the-companys-global-admin"></a>Búsqueda del administrador global de la empresa
 
->[!Note]
->Por ejemplo, un administrador global de tu empresa es el que administra los servicios en la nube. Si tu empresa tiene un administrador global, pero no estás seguro de quién es, desde el **icono de configuración**  en la parte superior derecha del Centro de partners, selecciona **Administración de usuarios**. Para encontrar administradores globales y ponerte en contacto con ellos, dirígete a Administración de usuarios y filtra por administradores globales.
+1. En el **icono Configuración** de la parte superior derecha del Centro de partners, seleccione **Administración de usuarios**.
 
-## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Verificar la propiedad del dominio y convertirse en administrador global del Centro de partners
+1. Filtre por el administrador global en el cuadro de búsqueda. Aparecerá una lista de administradores globales de la empresa. Si la empresa todavía no tiene un administrador global, siga las instrucciones que se indican a continuación.
+
+
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Comprobación de la propiedad del dominio para convertirse en administrador global del Centro de partners
+
+Para convertirse en el administrador global de la empresa, debe comprobar la propiedad del dominio.
 
 1. En el panel del Centro de partners, en la página **Ofertas de suscripción**, seleccione **Convertirse en administrador global**. 
 

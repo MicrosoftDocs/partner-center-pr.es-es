@@ -1,7 +1,7 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a tu negocio, como revendedor indirecto o partner de facturación directa.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545826"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763341"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Inscríbete en el programa Proveedor de soluciones en la nube y crea un negocio rentable de soluciones en la nube.
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545826"
 
 La creciente demanda de soluciones y servicios en la nube ofrece muchas oportunidades a todo tipo de partners de Microsoft para crear soluciones de negocio en la nube rentables. Los partners que estén listos para acceder al mercado, pero que no quieran administrar varios proveedores o que no tengan implementada una infraestructura de administración de las relaciones con el cliente completa pueden inscribirse en el programa de Proveedor de soluciones en la nube (CSP) de Microsoft como revendedores indirectos.
 
-Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesita un id. de MPN. ¿Todavía no tiene uno? Únase [aquí](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=).
+Para inscribirse en el programa de Proveedor de soluciones en la nube, primero necesita un id. de MPN. ¿Todavía no tiene uno? Únase [aquí](https://partner.microsoft.com/).
 
 Para completar la solicitud de CSP, necesitará el id. de MPN de la empresa, la dirección empresarial completa, la información bancaria y el correo electrónico profesional del empleado que actuará como administrador del Centro de partners.
 
@@ -96,4 +96,5 @@ Consulte [Transition from Cloud Solution Provider (CSP) direct bill partner to C
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados y monedas regionales del CSP
 
 La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP. Consulte [Mercados regionales del programa Proveedor de soluciones en la nube y monedas](regional-authorization-overview.md) para obtener información sobre monedas y ubicaciones de mercados.
+Asegúrese de leer [Adición de una nueva ubicación del identificador de MPN](manage-locations.md).
 
