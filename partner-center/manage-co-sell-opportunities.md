@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
+ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848253"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "91952381"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Administrar oportunidades de venta conjunta en el centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes
 
@@ -36,6 +36,8 @@ Aproveche las ventajas de las oportunidades de venta conjunta.  Las oportunidade
 **Asociado a socio (P2P)** : aquí es donde un asociado puede invitar a otros asociados en el ecosistema de venta conjunta de Microsoft para que colaboren. Los asociados pueden invitar opcionalmente a un representante de ventas de Microsoft al trato para ayudar a cerrar el trato. Se puede invitar a ambos asociados y a Microsoft incluso después de crear un trato, siempre y cuando sea anterior a su finalización. (Tenga en cuenta que complete incluye ganada, perdida, rechazada y expirada).
 
 **Trato privado** : esto se debe a que un asociado decide trabajar de forma independiente en un trato que se ha creado en el centro de Partners. Los asociados tienen la opción de invitar a los vendedores de Microsoft después de crear el trato para convertirlo en una actividad de venta colaborativa. Los detalles del trato no se comparten con el equipo de ventas de Microsoft hasta el momento en que el asociado solicita explícitamente la ayuda de ventas de Microsoft.
+
+**Evaluación de la solución (SA)** : estos tipos de contratos pueden crearse solo por un conjunto de asociados que probado el equipo empresarial de valoraciones de la solución para realizar evaluaciones tecnológicas para los clientes que usan o planean usar tecnologías de Microsoft.
 
 > [!NOTE]
 > Los negocios privados, aunque no son realmente colaborativos, se incluyen aquí para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización que se encuentre en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal (**ganada, perdida, rechazada y expirada**).
@@ -61,7 +63,7 @@ Puede crear tres tipos de oportunidades.
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
+Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -90,8 +92,12 @@ En esta sección, debe proporcionar la información relacionada con las solucion
 - **Soluciones de mi empresa:** Se trata de soluciones listas para la venta conjunta publicadas por su empresa
 - **Microsoft:** Se trata de soluciones propiedad de Microsoft
 - **Otras soluciones de terceros:** Se trata de soluciones listas para la venta conjunta publicadas por otros asociados en el ecosistema de venta conjunta de Microsoft.
+- **Evaluaciones de soluciones:** Estos son los tipos de evaluación, que un asociado válido puede seleccionar en función de la necesidad del cliente
 
-Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene tres opciones:
+> [!Important]
+> Solo se puede seleccionar un tipo de evaluación para un contrato de evaluación de la solución y no se pueden agregar otras soluciones. Una vez que se selecciona una evaluación de la solución, el asociado tiene que elegir la ubicación para la que se crea la evaluación. Esto es necesario para los pagos de incentivos correctos.
+
+Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene tres opciones si elige soluciones de las tres primeras opciones y no una evaluación de la solución:
 
 **Trato privado**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
 
@@ -144,10 +150,15 @@ Una vez que empiece a trabajar en el trato, puede proporcionar los detalles del 
 
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
 
+> [!Note]
+> Las fases de ventas variarán si el trato es un contrato de evaluación de la solución. El marcado de la fase de ventas también es **obligatorio** para las ofertas de evaluación de la solución. El botón **Won** solo se habilitará después de que el socio haya marcado todas las fases de ventas.
+
+A continuación se muestra la tabla en la que se muestran las fases de ventas y los porcentajes correspondientes para los contratos distintos de las evaluaciones de soluciones, según lo determinado por el sistema de referencias del centro de Partners de Microsoft.
+
 |**Nombre de la fase de ventas**|**Porcentaje de fase de ventas**|**Definición de la fase de ventas**|
 |:----|:-----|:-----|
 |Creado|10 %|Crear un trato saliente.|
-|Aceptado|10 %|Aceptación de un trato entrante.|
+|Accepted|10 %|Aceptación de un trato entrante.|
 |Apto|20%|Calificar el valor de los requisitos de trato y cliente antes de continuar.|
 |Elabora|40%|Desarrollar el trato aún más para comprender los requisitos detallados para preparar una POC o cualquier otro artefacto necesario para una propuesta formal.|
 |Propuesto|60 %|Realización de una propuesta formal al cliente en función de sus requisitos.|
@@ -173,10 +184,10 @@ Un trato será válido para el registro de trato solo si cumple todos los criter
 
 Si el trato es válido para el registro de trato, se agregará un hito adicional al ciclo de vida del trato denominado "registro de trato", como se muestra a continuación.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen en la que se muestra el ciclo de vida del negocio, la ubicación desde donde se puede iniciar el registro del contrato.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
 
 Puede optar por registrar el trato inmediatamente después de marcar el trato como ganado o en un momento posterior a través del botón registrar ciclo de vida **ahora** .
-Una vez registrado el trato, puede ver el progreso de la validación del trato desde el mismo ciclo de vida. Si se requiere alguna acción de la empresa, se mostrarán los errores correspondientes en la vista ciclo de vida del negocio. El trato entra en el estado cerrado cuando se completa la validación del contrato.
+Una vez registrado el contrato, puede ver el progreso de la validación del contrato desde el mismo ciclo de vida. Si se requiere alguna acción de la empresa, se mostrarán los errores correspondientes en la vista ciclo de vida del negocio. El trato entra en el estado cerrado cuando se completa la validación del contrato.
 
 > [!Important]
 > Tanto la revisión del contrato como el estado final de la validación solo se aplican a las ofertas de venta conjunta de IP.
@@ -206,13 +217,13 @@ No, los contratos no se pueden modificar una vez que pasan a un estado de termin
 
 Esto puede ocurrir si su empresa tiene varios inquilinos asociados a la misma cuenta de MPN. Vaya a la configuración de la cuenta del centro de Partners y compruebe los inquilinos asociados con la cuenta. A continuación, cree una incidencia de soporte técnico para la vinculación de los inquilinos. Proporcione el identificador de inquilino en el que ha iniciado sesión en la incidencia de soporte técnico.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagen que muestra la configuración de la cuenta en la que se puede encontrar información del inquilino.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
 
 **Q3. ¿Quién recibe una notificación por correo electrónico del centro de Partners?**
 
 En el flujo de trabajo siguiente se explica cómo se envían los mensajes de correo electrónico a los asociados desde el sistema de referencias del centro de partners para las nuevas referencias de entrada de socios comerciales.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para las nuevas referencias entrantes.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtener más oportunidades de venta conjunta
 
