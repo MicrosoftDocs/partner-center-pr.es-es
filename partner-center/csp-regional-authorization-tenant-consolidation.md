@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000379"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006776"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
@@ -29,7 +29,7 @@ ms.locfileid: "91000379"
 - Administrador global
 - Agente de administrador
 
-\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no proporciona ninguna garantía, expresa o implícita, con respecto a la información proporcionada aquí.\]
+\[Algunos datos se relacionan con productos de versiones preliminares que pueden modificarse sustancialmente antes de su lanzamiento comercial. Microsoft no ofrece ninguna garantía, expresa o implícita, con respecto a la información que se ofrece aquí.\]
 
 Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
@@ -148,4 +148,4 @@ Para obtener más información sobre el registro de API, consulte [configuració
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Configuración y administración de las cuentas de clientes para partners revendedores en el Centro de partners](customer-accounts.md)
+- [Los mercados regionales y las divisas del programa proveedor de soluciones en la nube donde puede vender ofertas de CSP](regional-authorization-overview.md)

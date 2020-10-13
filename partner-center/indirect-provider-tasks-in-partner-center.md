@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545986"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006875"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -170,7 +170,5 @@ Cuando los clientes desean comprar nuevas suscripciones, actualizar las existent
 ## <a name="next-steps"></a>Pasos siguientes
 
 Para obtener más información acerca de la administración de cuentas y suscripciones de clientes, consulte:
-
-- [Cuentas de cliente](customer-accounts.md)
 
 - [Suscripciones de cliente](customer-subscriptions.md)

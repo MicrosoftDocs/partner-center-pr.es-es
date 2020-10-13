@@ -2,19 +2,19 @@
 title: Cómo vender ofertas a clientes educativos
 description: Aprenda a crear un cliente educativo y a vender sus ofertas en el centro de Partners.
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811275"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006837"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
 
@@ -30,51 +30,51 @@ ms.locfileid: "87811275"
 
 ## <a name="create-an-education-customer"></a>Crear un cliente educativo
 
-En este artículo se explica cómo crear un cliente de educación en el centro de Partners y vender productos de educación a ellos. También se explica cómo ver el estado de investigación y volver a enviar la solicitud de investigación si es necesario.
+En este artículo se explica cómo crear un cliente de educación en el centro de Partners y vender productos de educación a ellos. También se explica cómo ver el estado de comprobación y volver a enviar la solicitud de comprobación si es necesario.
 
 > [!IMPORTANT]
-> Microsoft VETS cada inquilino de cliente de educación recién creado para asegurarse de que están calificados para las ofertas educativas.  Asegúrese de especificar la información necesaria de la forma más precisa y completa posible para evitar retrasos en el proceso de investigación.
+> Microsoft comprueba cada inquilino de cliente de educación recién creado para asegurarse de que está cualificado para las ofertas educativas.  Asegúrese de especificar la información necesaria de la forma más precisa y completa posible para evitar retrasos en el proceso de comprobación.
 
 1. Inicie sesión en el Centro de partners.
 
-2. Seleccione **clientes** y, a continuación, seleccione **Agregar un cliente**. Seleccione **educación** en la lista desplegable de **calificaciones especiales** .  Rellene el resto de la información de la cuenta según sea necesario.  Los campos clave que ayudan al proceso investigación incluyen:
+2. Seleccione **clientes** y, a continuación, seleccione **Agregar un cliente**. Seleccione **educación** en la lista desplegable de **calificaciones especiales** .  Rellene el resto de la información de la cuenta según sea necesario.  Los campos clave que ayudan al proceso de comprobación son:
 
-   - **Nombre**de la empresa: escriba el nombre de la entidad jurídica: necesario para investigación
-   - **Líneas de país o región y dirección**: escriba la dirección de correo electrónico de entidad completa: necesaria para investigación
-   - **Dirección de correo electrónico**: escriba el correo electrónico de la entidad, no un correo electrónico gratuito o on.Microsoft.com, necesario para investigación
-   - **Información de contacto del cliente**: estos detalles se usarán como parte del proceso de investigación.
+   - **Nombre**de la empresa: escriba el nombre de la entidad legal: necesario para la comprobación
+   - **Líneas de país o región y dirección**: escriba la dirección de correo electrónico de entidad completa: necesaria para la comprobación
+   - **Dirección de correo electrónico**: escriba el correo electrónico de la entidad, no un correo electrónico gratuito o on.Microsoft.com, necesario para la comprobación
+   - **Información de contacto del cliente**: estos detalles se usarán como parte del proceso de comprobación.
    - **Nombre de dominio principal**: se usa para crear la cuenta del cliente y las direcciones de correo electrónico.  Elija un nombre similar al nombre de la empresa sin espacios ni caracteres especiales.  Este nombre no se puede cambiar más adelante.
 
 3. Cuando haya terminado, seleccione **revisar**.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Cuenta de cliente de Education":::
 
-### <a name="confirm-your-education-customers-vetting-status"></a>Confirmar el estado de investigación del cliente educativo
+### <a name="confirm-your-education-customers-verification-status"></a>Confirmar el estado de comprobación del cliente educativo
 
 En la página cuenta del cliente, consulte **Estado de calificación especial**.
 Ejemplos de estado:
 
-- Si el cliente pasó investigación: Education
+- Si el cliente pasó la comprobación: Educación
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Education investigación correcta":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Cuenta de cliente de Education":::
 
-- Si el cliente no pasó investigación: no es un cliente educativo
+- Si el cliente no ha superado la comprobación: no es un cliente educativo
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Educación investigación incorrecta":::
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Cuenta de cliente de Education":::
 
 - Si el cliente no se etiquetó como cliente educativo: ninguno
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Educación no etiquetada":::
+   :::image type="content" source="images/edunottagged.png" alt-text="Cuenta de cliente de Education":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Corregir la información de la cuenta del cliente y volver a enviarla para investigación  
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corregir la información de la cuenta del cliente y volver a enviarla para la comprobación
 
-Si el cliente no supera el investigación inicial, ahora puede corregir la información y volver a enviarla.
+Si el cliente no supera la comprobación inicial, ahora puede corregir la información y volver a enviarla.
 
 ### <a name="correct-the-customer-account-information"></a>Corregir la información de la cuenta del cliente
 
 Debe tener privilegios de administrador global para actualizar la información del cliente. La información se actualiza en el portal de Office 365 porque estos datos no se pueden actualizar desde el portal del centro de Partners.
 
-1. En la página cuenta, verá información que indica que la calificación del cliente se considera "no es un cliente educativo".
+1. En la página **cuenta** , verá información que indica que la calificación del cliente se considera "no es un cliente educativo".
 
 2. Actualice el explorador para restablecer la página. Habrá un botón **Actualizar** y el **estado especial** de las calificaciones se establecerá en **ninguno**.
 
@@ -88,9 +88,9 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 7. Seleccione **Guardar cambios** en la parte inferior de la barra lateral.  
 
-### <a name="resubmit-for-revetting"></a>Volver a enviar para revetting
+### <a name="resubmit-for-verification"></a>Volver a enviar para la comprobación
 
-1. Vaya a la pestaña Centro de Partners y a la página **cuenta** de cliente. Actualice el explorador. y compruebe que la página de la compañía se ha actualizado a la nueva información. Seleccione el botón **Actualizar** para solicitar educación revetting.
+1. Vaya a la pestaña Centro de Partners y a la página **cuenta** de cliente. Actualice el explorador. y compruebe que la página de la compañía se ha actualizado a la nueva información. Seleccione el botón **Actualizar** para solicitar la reverificación de educación.
 
 2. Si los detalles actualizados del cliente son válidos para las ofertas de educación, verá que las **calificaciones especiales** se actualizaron a la **educación**. Si todavía no ve **un cliente de educación**, póngase en contacto con el soporte técnico para la comprobación manual.
 

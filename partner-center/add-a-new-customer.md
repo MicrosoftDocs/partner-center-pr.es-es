@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 71bfb819b0ce928d064bebe685664412a5eac689
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527241"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006719"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Cómo agregar un nuevo registro de cliente en el Centro de partners
 
@@ -71,4 +71,3 @@ En este artículo se indica cómo agregar un nuevo cliente a la lista de cliente
 
 - Para obtener más información sobre lo que puede vender a los clientes a través del programa proveedor de soluciones en la nube, consulte [ofertas de asociados en el programa proveedor de soluciones en la nube](csp-offers.md) .
 
-- Para obtener más información acerca de cómo asociar un nuevo cliente a su cuenta de socio comercial, consulte [conexión con los clientes](customer-accounts.md).
