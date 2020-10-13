@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114827"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899233"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Contratos de cliente de Microsoft por región e idioma
 
@@ -127,11 +127,11 @@ Si no estás seguro de en qué regiones y mercados puedes vender, busca la ubica
     
     En Alemania, el código penal (sección 203) y los códigos de conducta profesional requieren que ciertas relaciones de cliente se mantengan confidenciales, por ejemplo, la relación entre los pacientes y sus médicos y la relación entre los abogados y sus clientes. Estos grupos profesionales deben garantizar el secreto profesional. Para que las personas que ejercen estas y otras profesiones puedan comprar servicios basados en la nube a proveedores de soluciones en la nube, el proveedor de servicios en la nube debe firmar un contrato escrito con el cliente que garantice el secreto profesional.
 
-    Si hace negocios en Alemania, es posible que tenga que proporcionar este acuerdo de modificación del secreto profesional a sus clientes, además del Contrato de Microsoft Cloud.
+    Si hace negocios en Alemania, es posible que tenga que proporcionar este acuerdo de modificación del secreto profesional a sus clientes, además del Contrato de cliente de Microsoft.
 
-  - [Acuerdo de modificación del secreto profesional del Contrato de Microsoft Cloud para Alemania (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Acuerdo de modificación del secreto profesional del Contrato de Microsoft Cloud para Alemania (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Acuerdo de modificación del secreto profesional del Contrato de Microsoft Cloud para Alemania (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Acuerdo de modificación del secreto profesional del Contrato de Microsoft Cloud para Alemania (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Gibraltar: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Grecia: [Inglés](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [griego](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
