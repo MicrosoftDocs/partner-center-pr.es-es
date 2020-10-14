@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006837"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032088"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
 
@@ -51,7 +51,7 @@ En este artículo se explica cómo crear un cliente de educación en el centro d
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmar el estado de comprobación del cliente educativo
 
-En la página cuenta del cliente, consulte **Estado de calificación especial**.
+En la página **cuenta** del cliente, consulte **Estado de calificación especial**.
 Ejemplos de estado:
 
 - Si el cliente pasó la comprobación: Educación
@@ -90,7 +90,7 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 ### <a name="resubmit-for-verification"></a>Volver a enviar para la comprobación
 
-1. Vaya a la pestaña Centro de Partners y a la página **cuenta** de cliente. Actualice el explorador. y compruebe que la página de la compañía se ha actualizado a la nueva información. Seleccione el botón **Actualizar** para solicitar la reverificación de educación.
+1. Vaya a la pestaña Centro de Partners y a la página **cuenta** de cliente. Actualice el explorador y compruebe que la página de la compañía se ha actualizado a la nueva información. Seleccione el botón **Actualizar** para solicitar la reverificación de educación.
 
 2. Si los detalles actualizados del cliente son válidos para las ofertas de educación, verá que las **calificaciones especiales** se actualizaron a la **educación**. Si todavía no ve **un cliente de educación**, póngase en contacto con el soporte técnico para la comprobación manual.
 

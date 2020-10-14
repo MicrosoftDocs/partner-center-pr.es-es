@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los asociados ahora pueden firmar facturas digitalmente
+description: Obtenga información acerca de cómo los asociados del centro de Partners en India pueden ver facturas firmadas digitalmente y recibir copias digitales de las facturas de los pedidos creados en el centro de Partners.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490653"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031958"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver facturas firmadas digitalmente
 
@@ -38,15 +38,15 @@ Los asociados de India ahora ven que Microsoft tiene facturas firmadas digitalme
 
 3. Haga clic en la firma. Aparecerá el certificado que indica la validez.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Factura firmada con campo firmante autorizado y estado de validación de firma cuadro de diálogo con detalles, opción propiedades de la firma, opción cancelar."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Factura de ejemplo con un banner de notificación de firma válido que muestra la firma de marca de verificación verde y la frase que indica, con firma y todas las firmas son válidas."::: 
 
 4. Seleccione **propiedades** de la firma para ver más detalles sobre la validez de la firma.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="La vista de detalles de las propiedades de la firma muestra información sobre quién, dónde, Cuándo se firmó el documento, su proceso de validación y el certificado del firmante."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Factura de ejemplo con un banner de notificación de firma válido que muestra la firma de marca de verificación verde y la frase que indica, con firma y todas las firmas son válidas."::: 
 
 4. También puede asegurarse de que las rutas de certificación son correctas y de que el certificado es de confianza.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="El cuadro de diálogo Visor de certificados muestra varias pestañas con más detalles sobre un certificado y su cadena de emisión completa.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Factura de ejemplo con un banner de notificación de firma válido que muestra la firma de marca de verificación verde y la frase que indica, con firma y todas las firmas son válidas.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Información adicional sobre las facturas y las firmas digitales
 

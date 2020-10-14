@@ -2,17 +2,17 @@
 title: Archivos de conciliación de uso clasificados diariamente
 ms.topic: article
 ms.date: 06/12/2020
-description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners.
+description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners. Incluye descripciones de campos específicos en el archivo de conciliación.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281317"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031968"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -60,7 +60,7 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | UsageDate | Fecha del uso del servicio. |
 | MeterType | Tipo de medidor. |
 | MeterCategory | Identifica el servicio de nivel superior para el uso. |
-| Id. del medidor | Identificador del medidor que se está usando. |
+| MeterId | Identificador del medidor que se está usando. |
 | MeterSubCategory | El tipo de servicio de Azure, que puede afectar a la tarifa. |
 | MeterName | Unidad de medida del medidor que se está consumiendo. |
 | MeterRegion | Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios en los que MeterRegion es aplicable y rellenado. |
