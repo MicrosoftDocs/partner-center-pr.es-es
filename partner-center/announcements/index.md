@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844679"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081374"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de octubre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Actualización de noviembre de 2020: Guía de autorización de canal de software y servicios en línea](2020-october.md#11)|14 de octubre|
+|Ofertas/mercados|[Presentación de Microsoft 365 Business Voice para organizaciones sin ánimo de lucro](2020-october.md#10)|12 de octubre|
+|Ofertas/mercados|[Ya está disponible la promoción de Audioconferencia de Microsoft 365 y la de Microsoft 365 Business Voice lo estará próximamente](2020-october.md#9)|9 de octubre|
 |Funcionalidades|[Experiencia simplificada de las aplicaciones de Azure en Azure Marketplace](2020-october.md#8)|7 de octubre|
 |Ofertas/mercados|[Lanzamiento de la SKU de Salas de Microsoft Teams Premium](2020-october.md#7)|5 de octubre|
 |Ofertas/mercados|[Los planes de llamada de Microsoft ya están disponibles en nuevos mercados](2020-october.md#6)|2 de octubre|
