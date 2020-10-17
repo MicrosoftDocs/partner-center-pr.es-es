@@ -1,7 +1,7 @@
 ---
-title: Insights descargar panel de informes.
+title: Panel de informes de descarga de Insights
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Explore el panel de informes Unificado del centro de Partners.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436684"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100765"
 ---
 # <a name="download-reports"></a>Descargar informes
 
@@ -34,7 +34,7 @@ Para generar un informe, seleccione primero el informe en la lista desplegable *
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Crear nuevo informe":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Informes generados":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Crear nuevo informe":::
 
 >[!NOTE] 
 >Solo los usuarios que sean ejecutivos de informes pueden descargar informes. Para más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [roles de PCI](pci-roles.md). 
@@ -51,13 +51,13 @@ Los informes siguientes están disponibles para su descarga:
 
 El **uso de Azure** proporciona los detalles de uso de Azure. Estos detalles son para las suscripciones de Azure vendidas o administradas por el asociado. Los detalles de uso se dividen por categoría de medidor y otras dimensiones clave. El informe se agrega mensualmente.
 
-**Office365: el uso de licencias** proporciona los detalles de uso de las licencias de O365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como derechos activos, derechos cualificados, etc. El informe se agregará mensualmente.
+**Office365: el uso de licencias** proporciona los detalles de uso de las licencias de O365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos completos, etc. El informe se agregará mensualmente.
 
-**Enterprise Mobility: el uso de licencias** proporciona los detalles de uso de las licencias de Enterprise Mobility vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como derechos activos, derechos cualificados, etc. El informe se agrega mensualmente.
+**Enterprise Mobility: el uso de licencias**  proporciona los detalles de uso de las licencias de Enterprise Mobility vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos completos, etc. El informe se agrega mensualmente.
 
-**Dynamics 365: el uso de licencias** proporciona los detalles de uso de las licencias de D365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como derechos activos, derechos cualificados, etc. El informe se agrega mensualmente.
+**Dynamics 365: el uso de licencias** proporciona los detalles de uso de las licencias de D365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos completos, etc. El informe se agrega mensualmente.
 
-El uso de la **licencia de Power BI** proporciona los detalles de uso de Power BI licencias vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como derechos activos, derechos cualificados, etc. El informe se agrega mensualmente.
+El uso de la **licencia de Power BI** proporciona los detalles de uso de Power BI licencias vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos completos, etc. El informe se agrega mensualmente.
 
 Los **cursos de aprendizaje** proporcionan detalles como exámenes, certificaciones, evaluaciones, pistas, cursos completados o repartidos por los empleados del socio.
 

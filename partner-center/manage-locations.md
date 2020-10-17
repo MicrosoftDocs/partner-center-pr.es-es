@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006843"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100775"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición de una nueva ubicación
 
@@ -54,7 +54,7 @@ Proporcione los detalles de la empresa legal, incluidos el nombre legal de la em
 
 4. Acepte el contrato Microsoft Partner Agreement y active la cuenta.
 
-## <a name="add-a-location"></a>Agregar una ubicación
+## <a name="add-an-mpn-location"></a>Agregar una ubicación de MPN
 
 1. Inicie sesión con la cuenta de MPN en el Centro de partners. La cuenta de MPN debe tener privilegios de administrador global o de cuenta. 
 
