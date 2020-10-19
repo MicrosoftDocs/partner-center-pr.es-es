@@ -1,17 +1,17 @@
 ---
 title: Recepción de pagos en el Marketplace comercial
-description: 'Obtenga información sobre cómo recibir los pagos de sus ganancias en el Marketplace comercial: Azure Marketplace.'
+description: 'Obtenga información sobre cómo recibir los pagos de ganancias en el Marketplace comercial: Azure Marketplace. Incluye la política de pago, el estado de retención de pago y las declaraciones de pago.'
 ms.service: marketplace
 ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591084"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175215"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recepción de pagos en el Marketplace comercial
 
@@ -42,7 +42,7 @@ Una vez que haya establecido el estado de retención de pago en **activado**, to
 >[!Note]
 > El estado de la retención de pago se aplica individualmente a cada programa (Microsoft Store, publicidad, Azure Marketplace, etc.). Si desea conservar los pagos de todos los programas, mantenga el pago en cada programa individualmente.
 
-## <a name="payout-statements"></a>Extractos de pagos
+## <a name="payout-statements"></a>Balances de pagos
 
 La declaración de pago muestra los beneficios de las ventas de las ofertas y los complementos en el historial de transacciones. También puede ver los detalles de pago y descargar informes en formato TSV o CSV. Consulte las [declaraciones](payout-statement.md) de pago para obtener más información sobre cómo acceder a la declaración de pago y los detalles del historial de transacciones y los informes de pago. Además, puede usar la [API de pagos de asociados](https://apidocs.microsoft.com/services/partnerpayouts) para extraer sistemáticamente los informes de pago.
 

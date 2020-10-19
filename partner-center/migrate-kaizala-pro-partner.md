@@ -1,18 +1,18 @@
 ---
 title: Migración de suscripciones de Kaizala Pro a Microsoft365
-description: Obtenga información sobre cómo migrar las suscripciones de Kaizala Pro a las versiones de Microsoft365 o Office 365.
+description: Obtenga información sobre cómo migrar las suscripciones de Kaizala Pro a las versiones de Microsoft365 o Office 365. Lea este artículo para obtener más información sobre la transición de los clientes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611241"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175172"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migración de suscripciones independientes de Kaizala Pro a versiones de Microsoft365 o Office 365
 
@@ -29,21 +29,21 @@ Las suscripciones del plan E4 se establecerán `auto renew=False` en el 1 de jul
 Con los nuevos planes, sus clientes pueden beneficiarse de las características y funcionalidades más recientes en Microsoft 365. Los detalles de precios se encuentran en la lista de precios y en la matriz de lista de ofertas del centro de Partners.
 
 - [**Microsoft 365 para empresas**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), incluidos:  
-   - Microsoft 365 Empresa Basic
-   - Estándar Microsoft 365 Empresa
-   - Microsoft 365 Empresa Premium
+   - Microsoft 365 Empresa Básico
+   - Microsoft 365 Empresa Estándar
+   - Microsoft 365 Empresa Premium
     
 - [**Microsoft 365 para Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), incluidos:
-   - Microsoft 365 F3 (antes Microsoft 365 F1) y Office 365 F3
+   - Microsoft 365 F3 (antes Microsoft 365 F1) y Office 365 F3
     
 - [**Microsoft 365 para Enterprise**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), incluido: 
-   - Office 365 E1
-   - Microsoft 365 E3 y Office 365 E3
-   - Microsoft 365 E5 y Office 365 E5
+   - Office 365 E1
+   - Microsoft 365 E3 y Office 365 E3
+   - Microsoft 365 E5 y Office 365 E5
 
 - [**Microsoft 365 para educación**](https://www.microsoft.com/education/buy-license/microsoft365), incluidos: 
-    - Microsoft 365 a1 y Office 365 a1
-    - Microsoft 365 a3 y Office 365 a3
+    - Microsoft 365 A1 y Office 365 A1
+    - Microsoft 365 A3 y Office 365 A3
     - Microsoft 365 A5 y Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos

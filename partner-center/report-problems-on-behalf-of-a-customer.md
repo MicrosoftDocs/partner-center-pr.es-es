@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo remitir un problema de servicio al cliente a Microsoft y cómo archivar una incidencia de soporte técnico.
+description: Obtenga información acerca de cómo remitir un problema de servicio al cliente a Microsoft y cómo archivar una incidencia de soporte técnico para diferentes tipos de servicios de Microsoft.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999789"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175080"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
@@ -40,7 +40,7 @@ Si el cliente tiene un problema de servicio que no puede resolver y cumple los c
 >[!NOTE]
 >Las operaciones de soporte técnico asociados que transaccionan Dynamics 365 en CSP son necesarias para mantener un contrato de soporte técnico de soporte técnico avanzado para el plan de asociados (ASfP) o superior. Este contrato de soporte técnico es necesario para enviar incidentes de Dynamics 365 en nombre de un cliente de CSP. [Obtenga más información](https://partner.microsoft.com/support/partnersupport) sobre las opciones del contrato de soporte técnico.
 
-### <a name="microsoft-azure"></a>Microsoft Azure
+### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > Cuando necesites crear una solicitud de servicio para tu cliente en Azure, ten en cuenta que:

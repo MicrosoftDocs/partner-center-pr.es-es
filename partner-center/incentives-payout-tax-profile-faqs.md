@@ -2,18 +2,18 @@
 title: Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 ms.topic: article
 ms.date: 09/11/2020
-description: Preguntas más frecuentes sobre los perfiles de pago y fiscal de incentivos.
+description: Preguntas más frecuentes sobre los perfiles fiscales y de pago de incentivos. Entre las preguntas se incluye el motivo por el que no se pueden ver los perfiles fiscales y de pago y qué hacer con ellos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999309"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175343"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Preguntas más frecuentes sobre los pagos de incentivos y los perfiles fiscales
 
@@ -65,7 +65,7 @@ No obstante, puede haber excepciones al aplicar el perfil bancario a distintos p
 
 Los perfiles fiscales creados para una ubicación de MPN se reutilizan y se rellenan automáticamente cuando la misma ubicación de MPN participa en otro programa de incentivos. Pero puede haber excepciones. Por ejemplo, las reglas de pago de un nuevo programa de incentivos pueden requerir detalles adicionales para el perfil fiscal.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio.   ¿Qué debo hacer?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
 
 Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
 

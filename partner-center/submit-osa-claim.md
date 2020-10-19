@@ -1,20 +1,20 @@
 ---
-title: Crear una asociación de cliente
+title: Creación de una asociación de clientes
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Cree asociaciones de cliente con el modelo de notificaciones de registro (CPOR). Ayuda a administrar las ventas, el uso, los incentivos de & para los clientes de Microsoft 365 y Dynamics 365.
+description: Cree asociaciones de cliente con el modelo de notificaciones de registro (CPOR). Ayuda a administrar las ventas, el uso, los incentivos de Microsoft 365 & Dynamics 365 clientes.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714359"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174997"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Asociaciones de clientes a través del modelo de socio de registro (CPOR) solicitado para Microsoft 365 y Dynamics 365
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714359"
 
 - Administrador de incentivos
 
-El 1 de octubre de 2019, Microsoft comenzó a usar el modelo de reclamaciones de registro de registros (CPOR) para administrar las asociaciones que tiene con sus clientes de Microsoft 365 y Dynamics 365 con respecto a los incentivos de los servicios en línea (OSA), el uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business Application.
+El 1 de octubre de 2019, Microsoft comenzó a usar el modelo de reclamaciones de registro (CPOR) para administrar las asociaciones que tiene con sus clientes de Microsoft 365 y Dynamics 365 con respecto a la venta del asesoramiento de servicios en línea (OSA), el uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business incentivos de la aplicación.
 
 >[!Important]
-> Las notificaciones de Asociación de cliente (CPOR) solo se aplican a los programas de incentivos de la solicitud de servicio en línea (OSA) venta, uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Si va a enviar una notificación de cooperación para otro programa, como proveedor de soluciones en la nube, revendedor administrado, hospedaje o Surface, consulte el proceso de notificaciones de la Co-op que se describe aquí. <br><br>Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
+> Las notificaciones de Asociación de cliente (CPOR) solo se aplican al servicio online Services Advisory (OSA), el uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business programas de incentivos de aplicaciones. Si va a enviar una notificación de cooperación para otro programa, como proveedor de soluciones en la nube, revendedor administrado, hospedaje o Surface, consulte el proceso de notificaciones de la Co-op que se describe aquí. <br><br>Cuando envía su demanda, Microsoft la valida. Es posible que le pidamos más información en este momento. También notificaremos al cliente la solicitud de asociación. Los clientes tienen cinco días laborables para dejar de participar. Si no lo hacen, la asociación con este inquilino y carga de trabajo específicos será oficial. En este momento tendrá acceso a los datos de uso del cliente. 
 
 Necesitará la siguiente información para completar una demanda:
 
@@ -63,9 +63,9 @@ También debe comprender los puntos siguientes:
 
 - Si tiene asociaciones existentes con Dynamics 365 o Power BI clientes, estas asociaciones seguirán siendo válidas hasta que expiren sus suscripciones.
 
-- Un cliente puede tener varios asociados, pero cada carga de trabajo (para OSU-Microsoft 365) o suscripción (para OSA-Sell y OSU-Business Applications) solo se puede asociar a un asociado.
+- Un cliente puede tener varios asociados, pero cada carga de trabajo (por OSU-Microsoft 365) o suscripción (para aplicaciones OSA-Sell y OSU-Business) solo se puede asociar a un asociado.
 
-## <a name="create-a-customer-association"></a>Crear una asociación de cliente
+## <a name="create-a-customer-association"></a>Creación de una asociación de clientes
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 

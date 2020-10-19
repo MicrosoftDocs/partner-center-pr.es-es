@@ -2,19 +2,19 @@
 title: Obtener crédito por retención de impuestos
 ms.topic: article
 ms.date: 06/05/2020
-description: Recibir crédito en la cuenta del centro de partners para la retención de impuestos
+description: Reciba crédito en la cuenta del centro de partners para la retención de impuestos. La información incluye pasos para enviar una solicitud de retención de impuestos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251270"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174935"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recibir crédito en la cuenta del centro de partners para la retención de impuestos
 
@@ -45,9 +45,7 @@ Siga estos pasos para enviar una nueva retención de impuestos:
 
 4. Revise los detalles de la factura para asegurarse de que está enviando la solicitud de la factura correcta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Detalles completos de retención de impuestos para una factura":::
-
-5. Escriba el "total de retención" en **detalles de retención de impuestos**. El "total de retención" es la cantidad que se espera que se abone.
+   :::image type="content" source="images/wht2.png" alt-text="Enviar una nueva retención de impuestos para una factura" es la cantidad que se espera que se abone.
 
 6. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** del **certificado de retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local al pagar los impuestos a la autoridad fiscal local. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos.
 

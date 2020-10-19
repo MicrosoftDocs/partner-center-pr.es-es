@@ -1,17 +1,17 @@
 ---
 title: Combinar la cuenta de asociado con otra cuenta de asociado
-description: Las empresas que son asociados de Microsoft activos en el centro de partners pueden combinar sus cuentas.
+description: Obtenga información acerca de cómo combinar su cuenta de asociado con otra cuenta de socio comercial en el centro de partners para empresas que son asociados de Microsoft activos en el centro de Partners.
 ms.topic: article
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444960"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175183"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 

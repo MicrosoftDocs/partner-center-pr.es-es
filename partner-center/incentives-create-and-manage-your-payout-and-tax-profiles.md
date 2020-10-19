@@ -2,18 +2,18 @@
 title: Perfiles fiscales y de pago en el Centro de partners
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Cree y administre su perfil fiscal y de pago para que pueda pagar su trabajo de incentivos.
+description: Cree y administre su perfil fiscal y de pago para que pueda pagar su trabajo de incentivos. Incluye la creación, administración y uso de perfiles diferentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999319"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175352"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 

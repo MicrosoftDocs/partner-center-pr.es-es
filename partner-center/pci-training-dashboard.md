@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore el panel de aprendizaje del centro de Partners.
+description: Explore el panel de aprendizaje del centro de Partners. El entrenamiento es uno de los informes disponibles en el área del centro de Partners (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220723"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175260"
 ---
 # <a name="trainings-dashboard"></a>Panel de aprendizaje
 
@@ -49,13 +49,13 @@ En la sección Resumen se presenta una vista numérica de una instantánea de va
 
 El rendimiento del entrenamiento presenta el número mensual de personas y los cursos que han realizado los usuarios de su empresa. Se divide por certificaciones, evaluaciones y exámenes en forma de gráfico para el intervalo de fechas seleccionado. El eje X representa los meses para el intervalo de fechas seleccionado. El eje Y representa el recuento distintivo de personas y el número de entrenamientos tomados por el tipo de entrenamiento seleccionado. Haga clic en las pestañas correspondientes sobre el gráfico para ver el desglose por tipo de entrenamiento. Los datos del gráfico se pueden descargar mediante el icono de descarga en formato. TSV para el intervalo de fechas seleccionado.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Rendimiento de aprendizaje":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Resumen":::
 
 ## <a name="individuals-performance"></a>Rendimiento de los usuarios
 
 La sección de rendimiento de los usuarios presenta los detalles del entrenamiento realizado por las personas de la empresa, para el intervalo de fechas seleccionado. Busque y seleccione el nombre de un individuo en el panel izquierdo de la sección. Los detalles de aprendizaje de la persona seleccionada se muestran en el panel derecho de la sección.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Rendimiento de individual":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Resumen":::
 
 >[!NOTE] 
 > La sección de rendimiento de los individuos solo está disponible para los usuarios que son ejecutivos de informes. 

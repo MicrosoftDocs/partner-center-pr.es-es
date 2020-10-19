@@ -2,17 +2,17 @@
 title: Descripción de los campos de las facturas de facturación
 ms.topic: article
 ms.date: 05/18/2020
-description: Comprenda los campos del archivo de factura para la facturación del centro de Partners.
+description: Comprenda los campos del archivo de factura para la facturación del centro de Partners. la información incluye campos y definiciones para todos los campos de factura y los campos de cargos de un solo tiempo.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444947"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175332"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Facturas de facturación del centro de Partners: Aprenda a leer los campos de facturación y de cargos de un solo uso
 

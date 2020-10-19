@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información sobre cómo buscar las ventajas de MPN en el panel del centro de Partners.
+description: Obtenga información sobre cómo buscar las ventajas de MPN en el panel del centro de Partners. Incluye información sobre cómo buscar el identificador de acceso y el identificador de contrato para obtener ventajas técnicas.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427122"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175323"
 ---
-# <a name="locate-your-microsoft-partner-network-benefits"></a>Busque sus ventajas Microsoft Partner Network 
+# <a name="locate-your-microsoft-partner-network-benefits"></a>Busque sus ventajas Microsoft Partner Network. 
 
 ### <a name="applies-to"></a>Se aplica a
 
@@ -74,7 +74,7 @@ En el caso de las ventajas técnicas, verá los identificadores de soporte técn
 
    Debería ver el ID. de **contrato** de soporte técnico del producto específico y el ID. de **acceso** asignados a esta ventaja.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Ejemplo de soporte técnico de Gold Core Competency support con identificadores de soporte técnico de Microsoft como ID. de contrato e identificador de acceso":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Ventajas ampliadas":::
 
    > [!NOTE]
    > Realice un seguimiento de estos ID. de soporte técnico. Algunos sistemas pueden solicitarlos la primera vez que usted (o uno de los usuarios de su empresa) registra una solicitud de soporte técnico asociada a una ventaja técnica específica. Es probable que todos los usuarios de la empresa usen el mismo identificador de acceso e identificador de contrato.

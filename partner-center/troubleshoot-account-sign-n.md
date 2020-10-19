@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Solucionar problemas de inscripción en el centro de Partners
+description: Solucionar problemas al intentar inscribirse en el centro de Partners. Responde a los desafíos relacionados con los métodos de pago, olvidar las contraseñas, etc.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000619"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174842"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuración de cuenta o de renovación de MPN
 
@@ -31,7 +31,7 @@ Estas son algunas sugerencias para solucionar problemas comunes que surgen al co
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>¿Qué ocurre si está migrando desde el centro de pertenencia de socios comerciales y no puede editar los campos de información de la compañía?
 
-En los casos en los que su empresa ya tiene una presencia en el centro de Partners (por ejemplo, la cuenta de CSP), se mostrará una pantalla de solo lectura que mostrará toda la información sobre su empresa tal como existe en el centro de Partners.
+En los casos en los que su empresa ya tiene una presencia en el centro de Partners (por ejemplo, la cuenta de CSP), se mostrará una pantalla de solo lectura. Esta pantalla mostrará toda la información acerca de la empresa tal como existe en el centro de Partners.
 
 No se pueden cambiar los detalles de esta pantalla. Esto es así por diseño y no un error.
 
@@ -40,8 +40,7 @@ Seleccione **Aceptar** y **continúe** para continuar.
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si el Departamento de ti ha desactivado **registrarse en el centro de Partners**.
 
-
-Verá este mensaje porque los usuarios virales están deshabilitados o se ha deshabilitado el registro viral en el inquilino de Azure AD. El administrador global de su cuenta de Azure AD puede habilitar las características necesarias ejecutando el siguiente comando de PowerShell:
+Verá este mensaje porque los usuarios virales están deshabilitados o porque se ha deshabilitado el registro viral en el inquilino de Azure AD. El administrador global de su cuenta de Azure AD puede habilitar las características necesarias ejecutando el siguiente comando de PowerShell:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ Para obtener más información, lea [el registro de autoservicio](/azure/active-
 
 ## <a name="you-forgot-your-password"></a>Olvidó su contraseña
 
-Si ha olvidado la contraseña, seleccione el vínculo **¿no puede acceder a su cuenta?** en la página de inicio de sesión para restablecer la contraseña o pida a su administrador global que le asigne nuevas credenciales.
+Si ha olvidado la contraseña, seleccione el vínculo **¿no puede acceder a su cuenta?** en la página de inicio de sesión. Esta opción le permite restablecer la contraseña o pedir al administrador global que le asigne nuevas credenciales.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>En la pantalla "indíquenos sobre su empresa", recibe el error "se ha producido algún problema"
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>En la pantalla visualbasicwinappprojectscriptonlyviewbutton "Cuéntenos su empresa", recibirá un error que indica que se ha producido algún problema
 
 Este mensaje de error suele mostrarse si utiliza accidentalmente caracteres especiales, espacios o código de país en el número de teléfono de la empresa. El valor especificado en el campo número de teléfono solo puede contener un máximo de 10 caracteres.
 

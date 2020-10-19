@@ -1,18 +1,18 @@
 ---
 title: 'Detalles de la Directiva de pago: Microsoft Commercial Marketplace'
-description: Detalles relativos a las directivas de pago comerciales de Marketplace, como programaciones y recuperaciones.
+description: Obtenga información sobre los detalles relacionados con las directivas de pago de Marketplace comercial, como programaciones y recuperaciones.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/28/2020
-ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591115"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174918"
 ---
 # <a name="payout-policy-details"></a>Detalles de la política de pago
 
