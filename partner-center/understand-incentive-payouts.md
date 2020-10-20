@@ -1,7 +1,7 @@
 ---
 title: Ver los detalles del programa y el incentivo
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Use estas páginas para ver, administrar y exportar los datos de pago y ganancias, así como el estado del programa y el historial de transacciones completo.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406348"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198091"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -116,7 +116,7 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 #### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
 
-| Month | Amount |
+| Mes | Importe |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -198,17 +198,23 @@ Esta opción proporciona la descarga de cada artículo de línea de ganancia que
 >- **lastPaymentCurrency**  La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.
 >- **earningAmountInLastPaymentCurrency**  Importe de la ganancia en la última moneda del pago.
 
+En la tabla siguiente se enumeran los códigos de motivo de los ajustes y sus descripciones.
+
+|**Código de motivo**   |**Descripción**   |
+|------------------|:-------------------------------------|
+| Compatibilidad de AR | Ajuste que reduce las ganancias cuando el asociado no paga las facturas de Microsoft a tiempo. |
+| Sustitución de la Co-op | Ajuste que transfiere las ganancias de la Co-op a otro período, o bien convierte las ganancias de la Co-op al tipo de descuento. |
+| Ajuste de operaciones | Ajuste que corrige los errores de cálculo del sistema de Microsoft. |
+| Ajuste de operaciones de cálculo incorrecto de Microsoft | Ajuste que corrige los cálculos erróneos. |
+| Ajuste de operaciones de inscripción incorrecta de Microsoft | Ajuste para los cálculos erróneos relacionados con la inscripción. |
+| Asignación de asociados (suscripción) MCI/CSP | Ajuste que corrige la desalineación de la suscripción. |
+| Excepción de Directiva | Ajuste que invalida una regla de programa.  |
+| Ingresos del período anterior | Ajuste para las ganancias fuera del período de obtención actual. |
+
+En la tabla siguiente se enumeran los campos que se muestran en la página de exportación de descarga de historial de transacciones y sus descripciones.
 
 |**Nombre de la columna**   |**Descripción**   |
 |------------------|:-------------------------------------|
-| Compatibilidad de AR | Ajuste que reduce las ganancias cuando el asociado no paga las facturas de Microsoft por el tiempo |
-| Sustitución de la Co-op | Ajuste que transfiere las ganancias de la Co-op a otro período o convierte las ganancias de la Co-op al tipo de descuento |
-| Ajuste de operaciones de cálculo incorrecto de Microsoft | Ajuste que corrige los cálculos erróneos |
-| Ajuste de operaciones de inscripción incorrecta de Microsoft | Ajuste para los cálculos erróneos relacionados con la inscripción |
-| Excepción de Directiva | Ajuste que invalida una regla de programa  |
-| Ajuste de operaciones | Ajuste que corrige los errores de cálculo del sistema de Microsoft |
-| Ingresos del período anterior | Ajuste para ganancias fuera del período actual de obtención |
-| Asignación de asociados (suscripción) MCI/CSP | Ajuste que corrige la desalineación de la suscripción |
 |customerId   |Identificador de cliente   |
 |customerName   |Nombre del cliente de transacción   |
 |earningAmount   |Ganar importe en la moneda de la transacción original   |

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Fortalezca su perfil de negocio en el directorio de socios comerciales. Obtenga información sobre cómo obtener especializaciones avanzadas junto con sus competencias Gold o Silver.
+description: Fortalezca su perfil de negocio en el directorio de asociados de Microsoft. Obtenga información sobre cómo ganar especializaciones avanzadas junto con sus competencias Gold y Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100755"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198081"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Obtenga una especialización avanzada para exhibir su experiencia y resaltar a los clientes. 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Obtenga una especialización avanzada para exhibir su experiencia
 
 Muchos de los asociados que han logrado tener una [competencia Gold](learn-about-competencies.md) en un área clave seguirán obteniendo una especialización avanzada.
 
