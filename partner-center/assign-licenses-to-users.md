@@ -1,22 +1,22 @@
 ---
-title: Administrar usuarios en cuentas de cliente
+title: Administrar usuarios y licencias de usuario para cuentas de cliente
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo crear cuentas de usuario para un cliente, agregar o quitar licencias de usuario, restablecer contraseñas de usuario, eliminar cuentas de usuario o restaurarlas.
+description: Obtenga información acerca de cómo administrar usuarios para sus clientes en el centro de Partners, como crear cuentas de usuario, agregar o quitar licencias de usuario, restablecer contraseñas de usuario y eliminar o restaurar cuentas de usuario.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527681"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198021"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Tareas de administración de usuarios para cuentas de cliente en el centro de Partners
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Administrar usuarios y licencias de usuario para cuentas de cliente
 
 **Se aplica a**
 
