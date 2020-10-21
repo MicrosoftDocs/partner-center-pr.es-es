@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832118"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006808"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -52,7 +52,7 @@ Debes determinar los tipos de acceso que tendrán los usuarios en el Centro de p
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
 |Usuario predeterminado|  Ver mi perfil   |[Restablecimiento de la contraseña](reset-my-pasword.md)
-|Agente de administrador | *    Administración de clientes|[Configuración y administración de las cuentas de clientes para partners revendedores en el Centro de partners](customer-accounts.md)
+|Agente de administrador | *    Administración de clientes|[Conectar con sus clientes](connect-with-your-customers.md)
 ||*    Agregar una lista de dispositivos en el Centro de partners
 ||*    Crear perfiles y aplicarlos a dispositivos
 ||*    Administración de suscripciones

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999269"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198001"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Administrar la cuenta del Centro de partners: perfiles, información bancaria, roles, permisos y otros aspectos de la empresa
 
@@ -53,7 +53,7 @@ En la actualidad, el Centro de partners divide la administración de cuentas en 
 >[!NOTE]
 >Para acceder a **Configuración de partners** o a **Configuración de desarrolladores**, debes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y, después, seleccionar la opción **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla. Después, puedes seleccionar **Configuración de partners** o **Configuración de desarrolladores** en el menú desplegable.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Configuración de la cuenta":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="Menú de programas a los que está inscrito":::
 
 Los partners pueden ver la opción para administrar las opciones de **Configuración de partners** o **Configuración de desarrolladores**, en función de si su empresa se ha inscrito en esos programas. La opción Configuración solo estará disponible si tu empresa se ha inscrito en al menos un programa asociado a esa configuración.
 
@@ -85,11 +85,11 @@ Las opciones de **Configuración de partners** variarán de las de **Configuraci
 
 **Opciones de Configuración de partners**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Opciones de partner":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menú de programas a los que está inscrito":::
 
 **Opciones de Configuración de desarrolladores**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Opciones de desarrollador":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menú de programas a los que está inscrito":::
 
 ## <a name="enrolling-in-programs"></a>Inscripción en programas
 
@@ -108,7 +108,7 @@ Para obtener más información acerca de la inscripción en los programas del Ce
 
 Puedes formar parte de más de una cuenta. Si formas parte de varias cuentas, verás el "selector de cuentas" en el menú de navegación izquierdo. Si seleccionas el selector de cuentas, todas las cuentas de las que eres miembro se mostrarán en forma de lista. Puedes seleccionar cualquiera y cambiar a la que quieras para ver todos los programas e información que incluye. Si no ves ningún selector de cuentas, significa que solo eres miembro de una cuenta.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Selector de cuentas":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Menú de programas a los que está inscrito":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Otros recursos para ayudarte a administrar tu cuenta del Centro de partners
 
