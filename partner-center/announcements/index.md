@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081374"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352871"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de octubre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Actualizaciones de ofertas para Microsoft 365 Business Voice](2020-october.md#12)|16 de octubre|
 |Funcionalidades|[Actualización de noviembre de 2020: Guía de autorización de canal de software y servicios en línea](2020-october.md#11)|14 de octubre|
 |Ofertas/mercados|[Presentación de Microsoft 365 Business Voice para organizaciones sin ánimo de lucro](2020-october.md#10)|12 de octubre|
 |Ofertas/mercados|[Ya está disponible la promoción de Audioconferencia de Microsoft 365 y la de Microsoft 365 Business Voice lo estará próximamente](2020-october.md#9)|9 de octubre|
