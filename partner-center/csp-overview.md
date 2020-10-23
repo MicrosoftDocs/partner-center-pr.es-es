@@ -4,31 +4,31 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga más información sobre las ventajas y los diferentes modelos del programa Proveedor de soluciones en la nube para ayudar a su empresa a crecer con nuevos clientes y nuevos conocimientos.
+description: Obtenga más información sobre las ventajas y los diferentes modelos del programa Proveedor de soluciones en la nube (CSP) para ayudar a su empresa a crecer con nuevos clientes y nuevos conocimientos.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114331"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197911"
 ---
-# <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Ventajas del programa Proveedor de soluciones en la nube y modelos diferentes
+# <a name="cloud-solution-provider-program"></a>Programa Proveedor de soluciones en la nube 
 
 **Se aplica a**
 
 - Centro de partners
 - Partners del programa CSP
 
-El programa Proveedor de soluciones en la nube (CSP) te ayuda a ir más allá de la reventa de licencias e implicarte más en los negocios de tus clientes.
+En este artículo se ofrece información general sobre el programa Proveedor de soluciones en la nube (CSP) y se explican los diferentes modelos operativos y sus requisitos, así como otros detalles sobre la venta a través de este programa.  El programa CSP le ayuda a estar más implicado en los negocios de sus clientes, más allá de las licencias de reventa, y puede incluir las siguientes ventajas: 
 
-- Crea un vínculo más profundo con tus clientes: quedar periódicamente con tus clientes te permitirá obtener un mejor conocimiento de sus empresas y necesidades.
-- Aumenta tus beneficios: ofrecer mejores servicios de facturación y soporte, ya sea tú mismo o a través de un proveedor indirecto, supone nuevas fuentes de ingresos.  
-- Agregar valor: podrás ofrecer a los clientes soluciones específicas del sector integradas con productos de Microsoft.
-- Proporcionar servicios administrados: estarás en el buen camino para hacer frente a la demanda de los clientes de servicios administrados. 
+- Vínculo más profundo con los clientes: reunirse periódicamente con sus clientes le permitirá obtener un mejor conocimiento de sus negocios y necesidades.
+- Mayores beneficios: ofrecer mejores servicios de facturación y soporte, ya sea usted mismo o a través de un proveedor indirecto, supone nuevas fuentes de ingresos.  
+- Adición de valor: podrá ofrecer a los clientes soluciones específicas del sector integradas con productos de Microsoft.
+- Proporción de servicios administrados: estará en el buen camino para hacer frente a la demanda de los clientes de servicios administrados. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>¿Qué modelo CSP es el mejor para mí?
 
@@ -36,7 +36,7 @@ El programa Proveedor de soluciones en la nube (CSP) te ayuda a ir más allá de
 
  En el modelo de facturación directa, los partners adquieren suscripciones y productos de Microsoft directamente de Microsoft y los venden directamente a sus clientes a través de sus vendedores propios. Los partners que ya operan con la infraestructura adecuada de ventas, facturación y soporte, o están deseando desarrollarla, pueden elegir el modelo directo de CSP. Los requisitos para convertirse en un partner directo se han modificado recientemente y entrarán en vigor a partir del 31 de agosto de 2018. Los partners directos deberán cumplir los nuevos requisitos a partir de su siguiente período de inscripción después del 31 de agosto de 2018.
 
-#### <a name="new-expanded-requirements"></a>Nuevos requisitos ampliados:
+#### <a name="new-expanded-requirements"></a>Nuevos requisitos ampliados
 
 Soporte técnico
 
@@ -44,10 +44,9 @@ Soporte técnico
 
 Servicios
 
-- Demuestra que proporcionas al menos un servicio administrado, un servicio de IP o una aplicación de solución de cliente. Obtén más información sobre cómo agregar servicios administrados
+- Demuestra que proporcionas al menos un servicio administrado, un servicio de IP o una aplicación de solución de cliente. 
 
-- Cumple las capacidades de infraestructura mínimas, como las de facturación y aprovisionamiento.
-Estamos supervisando el rendimiento anual para confirmar que los partners de factura directa que cumplen estos requisitos están demostrando un crecimiento empresarial estable. No hay ningún objetivo de rendimiento específico implantado en este momento, pero Microsoft pueden implementar un listón de rendimiento en el futuro.
+- Cumple las capacidades de infraestructura mínimas, como las de facturación y aprovisionamiento. Estamos supervisando el rendimiento anual para confirmar que los partners de factura directa que cumplen estos requisitos están demostrando un crecimiento empresarial estable. No hay ningún objetivo de rendimiento específico implantado en este momento, pero Microsoft pueden implementar un listón de rendimiento en el futuro.
 
 - Un identificador de Microsoft Partner Network (MPN) activo para la ubicación en la que quieras realizar las ventas
 
@@ -71,12 +70,9 @@ Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partne
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Requisitos para cada modelo de CSP: [programa Proveedor de soluciones en la nube](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-
-- Ventas en las nubes nacionales de Microsoft: [Solicitud para vender en las nubes nacionales de Microsoft](csp-national-clouds-overview.md)
-
-- Plantillas de cliente del Contrato de cliente de Microsoft: [Contratos de cliente de Microsoft por región e idioma](agreements.md)
-
-- Tareas de proveedor indirecto en el Centro de partners: [Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-provider-tasks-in-partner-center.md)
-
-- Tareas de revendedor indirecto en el Centro de partners: [Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)
+- [Inscripción en el programa CSP](enrolling-in-the-csp-program.md)
+- [Revisión de los requisitos para cada modelo CSP](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+- [Solicitud para vender en las nubes nacionales de Microsoft](csp-national-clouds-overview.md)
+- [Contratos de cliente de Microsoft por región e idioma](agreements.md)
+- [Tareas del proveedor indirecto en el Centro de partners](indirect-provider-tasks-in-partner-center.md)
+- [Trabajar junto a proveedores indirectos en el programa de Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)

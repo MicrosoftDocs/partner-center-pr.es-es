@@ -1,22 +1,22 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información acerca de cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a tu negocio, como revendedor indirecto o partner de facturación directa.
+description: Obtenga información sobre cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a su negocio, como revendedor indirecto o partner de facturación directa.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763341"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198101"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Inscríbete en el programa Proveedor de soluciones en la nube y crea un negocio rentable de soluciones en la nube.
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
 **Se aplica a**
 
@@ -64,7 +64,7 @@ Para más información sobre lo que se requiere para participar en el programa C
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscripción como partner de factura directa
 
-Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de factura directa el 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico. 
+Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de factura directa el 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico.
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
@@ -96,5 +96,8 @@ Consulte [Transition from Cloud Solution Provider (CSP) direct bill partner to C
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados y monedas regionales del CSP
 
 La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP. Consulte [Mercados regionales del programa Proveedor de soluciones en la nube y monedas](regional-authorization-overview.md) para obtener información sobre monedas y ubicaciones de mercados.
-Asegúrese de leer [Adición de una nueva ubicación del identificador de MPN](manage-locations.md).
+Asegúrese de leer [Requisitos previos para agregar una nueva ubicación para una empresa de CSP](manage-locations.md).
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Más información acerca de Microsoft Partner Agreement (MPA) para partners del programa CSP](microsoft-partner-agreement.md)

@@ -1,6 +1,6 @@
 ---
 title: Anuncios de abril de 2020
-description: Anuncios de abril de 2020 para el Centro de partners de Microsoft
+description: Anuncios de abril de 2020 para el Centro de partners de Microsoft, como nuevas capacidades, promociones, ofertas, mercados o cambios en ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999639"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031848"
 ---
 # <a name="april-2020-announcements"></a>Anuncios de abril de 2020
 

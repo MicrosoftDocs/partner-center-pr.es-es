@@ -1,22 +1,22 @@
 ---
 title: Requisitos de las competencias Gold y Silver de Microsoft
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información acerca de cómo obtener el estado de los partners de Microsoft y atraer a nuevos clientes que cumplan los requisitos de competencia de los niveles Gold y Silver.
+description: Obtenga información sobre cómo obtener el estado de los partners de Microsoft y atraer a nuevos clientes que cumplan los requisitos de competencia de los niveles Gold y Silver.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434434"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100725"
 ---
-# <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
+# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Destaque su negocio consiguiendo competencias de Microsoft
 
 **Roles adecuados**
 - Administrador global
@@ -24,57 +24,47 @@ ms.locfileid: "86434434"
 
 Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades de los clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
-- Gane una **suscripción Silver** para demostrar su capacidad, experiencia y compromiso.
+- Obtenga una competencia **Silver** para demostrar su capacidad y compromiso.
 
-- Gane una **suscripción Gold** para demostrar su capacidad superior dentro de un área específica de soluciones de Microsoft.
+- Obtenga una competencia **Gold** para demostrar su capacidad superior dentro de un área de soluciones de Microsoft.
 
-- Como miembro partner Gold, también puede agregar especializaciones avanzadas a su cartera.
+La obtención de una competencia también puede ser una entrada para más ventajas y oportunidades:
 
-La obtención de las competencias de la **suscripción Silver** o la **suscripción Gold** también ofrece excelentes ofertas y programas de [Comercialización](mpn-learn-about-go-to-market-benefits.md) para ayudarte a expandir y aumentar tu negocio.
+- Desbloquee eficaces ofertas y programas de [comercialización](mpn-learn-about-go-to-market-benefits.md) que pueden ayudarle a expandir y aumentar su negocio. [Obtenga más información sobre comercializar con Microsoft](https://partner.microsoft.com/solutions/go-to-market).
 
-## <a name="check-your-status-as-you-earn-a-competency"></a>Comprobación del estado al obtener una competencia
+- La obtención de una competencia Gold le ofrece la oportunidad de buscar y agregar más [especializaciones avanzadas](advanced-specializations.md) a su cartera. Las especializaciones avanzadas le ayudan a exhibir su creciente experiencia a los clientes. [Más información sobre las especializaciones avanzadas](https://partner.microsoft.com/membership/advanced-specialization).
+
+## <a name="check-your-status-as-you-attain-a-competency"></a>Comprobación del estado al obtener una competencia
 
 Puedes ver los requisitos y lo que ha logrado tu empresa en el área de competencias del panel del Centro de partners.
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
 
-2. En la sección MPN del menú del Centro de partners, selecciona **Competencias**. 
+2. En la sección MPN del menú del Centro de partners, selecciona **Competencias**.
 
 3. Selecciona el nombre de la competencia y la opción de competencia específica para ver los detalles. Aquí puedes ver lo que has completado, así como los requisitos completos y vínculos a exámenes específicos y fechas de validación de exámenes retirados.
 
 ## <a name="competency-areas"></a>Áreas de competencia
 
-Para adquirir la suscripción Silver o Gold, se le pide que demuestre experiencia en diversas áreas de negocio y tecnología.
+Para adquirir la competencia de miembro Silver o Gold, se le pide que demuestre experiencia en diversas áreas de negocio y tecnología.
 
-|**Área**            |**Subáreas**                    |
+|**Ámbito**            |**Competencia**                    |
 |--------------------|--------------------------------|
-|Aplicaciones e infraestructura|Desarrollo de aplicaciones; integración de aplicaciones; plataforma en la nube; DevOps; centro de datos|
-|Aplicaciones empresariales |Aplicaciones empresariales en la nube; planificación de recursos empresariales; administrador de relaciones con el cliente en la nube|
-|Datos e IA|Análisis de datos; plataforma de datos|
-|Área de trabajo moderna| Colaboración y contenido; comunicaciones, productividad en la nube; administración de movilidad empresarial; mensajería; proyecto y cartera; seguridad; soluciones en la nube de pequeñas y medianas empresas; Windows y dispositivos|
+|Aplicaciones e infraestructura| - Desarrollo de aplicaciones<br/> - Integración de aplicaciones<br/> - Plataforma en la nube<br/> - DevOps<br/> - Datacenter |
+|Aplicaciones empresariales | - Aplicaciones empresariales en la nube</br> - Planificación de recursos empresariales (ERP)</br> - Proyecto y cartera |
+|Datos e IA| - Análisis de datos<br/> - Plataforma de datos |
+|Área de trabajo moderna y seguridad | - Colaboración y contenido<br/> - Comunicaciones<br/> - Productividad en la nube<br/> - Administración de movilidad empresarial (EMM)<br/> - Mensajes<br/> - Seguridad<br/> - Soluciones en la nube para pequeñas y medianas empresas<br/> - Windows y dispositivos |
 
-Los niveles de competencia Silver y Gold tienen requisitos diferentes para cada una de las áreas. Dentro de cada área hay clases y exámenes que los empleados de la empresa pueden realizar para lograr el nivel de competencia que quiera.
+Los niveles de competencia Silver y Gold tienen requisitos diferentes para cada una de las áreas. Dentro de cada área hay clases y exámenes que los empleados de la empresa pueden realizar para lograr el nivel de competencia que quiera. 
 
+Para más información sobre lo que se necesita para obtener las competencias Silver y Gold, consulte [Competencias de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-Más información sobre los [requisitos necesarios para obtener las suscripciones Silver y Gold](https://partner.microsoft.com/membership/competencies).
+## <a name="next-steps"></a>Pasos siguientes
 
-Más información acerca de los [beneficios de comercialización específicos disponibles para las afiliaciones Silver y Gold](mpn-learn-about-go-to-market-benefits.md). 
+- Más información sobre los [requisitos para lograr las competencias Silver y Gold](https://partner.microsoft.com/membership/competencies).
 
-Más información sobre [facturas e impuestos de las competencias](mpn-view-print-maps-invoice.md).
+- Obtenga información sobre cómo exhibir su experiencia mediante el emparejamiento de una competencia Gold con una o varias [especializaciones avanzadas](advanced-specializations.md).
 
-## <a name="advanced-specializations"></a>Especializaciones avanzadas
+- Obtenga información sobre las [ventajas específicas de la comercialización](mpn-learn-about-go-to-market-benefits.md) que se incluyen con las competencias.
 
-Vaya más allá de la competencia Gold con una especialización avanzada. Dicha especialización proporciona un medio para presentar conocimientos comprobables y comprobados sobre un producto, área de solución o servicio. Los clientes podrán ver la competencia Gold y la especialización avanzada en el perfil de negocio en el directorio de partners. Para recibir una etiqueta de especialización avanzada, la empresa debe cumplir totalmente un conjunto de criterios publicados y tener la validación de Microsoft. [Más información](https://partner.microsoft.com/membership/competencies#tab-content-2). 
-
-## <a name="the-current-advanced-specializations"></a>Especializaciones avanzadas actuales
-
-- Los partners de SAP en Azure que demuestran un conocimiento profundo, una amplia experiencia y un éxito demostrado en la implementación de SAP en soluciones de Azure pueden solicitar la especialización avanzada de SAP en Azure.
-
-- La migración de Windows Server y SQL Server a partner de Microsoft Azure tiene una profundidad de conocimientos para proporcionar instrucciones sobre las diversas opciones de migración de SQL dentro de Azure y demuestra experiencia en migración y optimización de cargas de trabajo basadas en SQL Server y Windows Server para Microsoft Azure. 
-
-- La migración de bases de datos de código abierto y Linux a partner de Microsoft Azure tiene un gran conocimiento en tecnologías de código abierto y demuestra experiencia en la migración y optimización de cargas de trabajo de producción que se ejecutan en Red Hat Enterprise Linux (RHEL) o máquinas virtuales SUSE o base de datos de MariaDB, PostgreSQL, MySQL, CassandraDB y MongoDB en Azure.
-
-- La migración de Data Warehouse a partner de Microsoft Azure tiene experiencia en la migración correcta de los almacenamientos de datos de Teradata, Netezza u Oracle Exadata a Azure y demuestra experiencia en el análisis de las cargas de trabajo existentes, la generación de modelos de esquema y la realización de operaciones de extracción, transformación y carga (ETL) para migrar datos a almacenamientos de datos basados en la nube.
-
-- Kubernetes en partner de Microsoft Azure emplea prácticas de DevOps para implementaciones de AKS y demuestra experiencia en la implementación y administración de cargas de trabajo de producción en la nube mediante contenedores y la administración de entornos de Kubernetes hospedados en Microsoft Azure.
-La modernización de aplicaciones web en partner de Microsoft Azure garantiza el éxito del cliente en el desarrollo de aplicaciones y la familiarización con los sistemas de administración de contenido. Demuestre experiencia en la migración e implementación de cargas de trabajo de aplicaciones web de producción, la aplicación de prácticas de DevOps y la administración de servicios de aplicaciones en Microsoft Azure.
+- Más información sobre [facturas e impuestos de las competencias](mpn-view-print-maps-invoice.md).
