@@ -1,19 +1,19 @@
 ---
 title: Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: Preguntas más frecuentes sobre los perfiles fiscales y de pago de incentivos. Entre las preguntas se incluye el motivo por el que no se pueden ver los perfiles fiscales y de pago y qué hacer con ellos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175343"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454157"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Preguntas más frecuentes sobre los pagos de incentivos y los perfiles fiscales
 
@@ -24,8 +24,34 @@ Se aplica a:
 Roles adecuados:
 
 - Administrador de incentivos
-- Administrador de facturación
+- Administrador de cuentas
 - Administrador global
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>El perfil de impuestos ha expirado. ¿Cómo puedo corregirlo?
+
+Si un perfil de impuestos ha expirado o está a punto de expirar, significa que el formulario de impuestos que proporcionó a Microsoft debe actualizarse. Use el procedimiento siguiente para editar los perfiles de impuestos:
+
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
+
+2. Seleccione el icono de engranaje para abrir el menú **Configuración**.
+
+3. En **Configuración de cuenta**, seleccione **Pago e impuestos** y, a continuación, seleccione **Perfiles fiscales y de pago**.
+
+4. Seleccione el **Perfil de impuestos**.
+
+5. Seleccione la columna **fecha de expiración** y navegue hasta el perfil de impuestos que ha expirado o que va a expirar.
+
+6. Seleccione **Editar** para iniciar el proceso de edición del perfil fiscal.
+
+7. Actualice los formularios fiscales proporcionando los detalles necesarios.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>¿Cómo garantiza Microsoft que la información bancaria es realmente la de la empresa, y no una cuenta bancaria personal para un empleado?
+
+Es responsabilidad de la empresa asegurarse de que el rol de administrador de incentivos, que tiene permisos para editar esta información, solo se proporciona a los empleados correspondientes.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>¿Puedo usar el mismo banco y los mismos detalles de impuestos para todos los programas de incentivos en Microsoft?
+
+Si su empresa está invitada a usar varios programas de incentivos, puede utilizar la misma cuenta de pago para todos los programas de incentivos o puede elegir tener cuentas de pago diferentes para los distintos programas.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>¿Por qué es necesario proporcionar los detalles de pago o de impuestos?
 
@@ -65,7 +91,7 @@ No obstante, puede haber excepciones al aplicar el perfil bancario a distintos p
 
 Los perfiles fiscales creados para una ubicación de MPN se reutilizan y se rellenan automáticamente cuando la misma ubicación de MPN participa en otro programa de incentivos. Pero puede haber excepciones. Por ejemplo, las reglas de pago de un nuevo programa de incentivos pueden requerir detalles adicionales para el perfil fiscal.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio.   ¿Qué debo hacer?
 
 Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
 
