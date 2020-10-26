@@ -607,6 +607,8 @@
       href: partner-security-requirements.md
     - name: Requerir MFA para el inquilino del asociado
       href: partner-security-requirements-mandating-mfa.md
+    - name: Configurar los usuarios con la autenticación multifactor
+      href: mfa-for-users.md
     - name: Estado de los requisitos
       href: partner-security-compliance.md
     - name: Preguntas más frecuentes
