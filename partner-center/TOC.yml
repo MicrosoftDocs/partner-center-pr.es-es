@@ -46,6 +46,8 @@
       items:
         - name: Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
           href: learn-about-competencies.md
+        - name: Preguntas más frecuentes sobre competencias
+          href: competencies-faq.md
         - name: Exención de la competencia de desarrollo de aplicaciones
           href: app-dev-isv.md
     - name: Especializaciones avanzadas

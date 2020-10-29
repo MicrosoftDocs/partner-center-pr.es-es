@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198001"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333937"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Administrar la cuenta del Centro de partners: perfiles, información bancaria, roles, permisos y otros aspectos de la empresa
 
@@ -42,20 +42,20 @@ Para ver a qué programas tienes acceso en el Centro de partners:
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 2. Observa el panel de navegación izquierdo. Aparecerán las opciones asociadas a los programas a los que estás inscrito.
 
-A continuación se muestra un ejemplo. Supongamos que un usuario tiene acceso a tres programas en el panel del Centro de partners: El programa **MPN**, el programa **Referencias** y el programa **Marketplace comercial**. Cuando inicien sesión en el panel del Centro de partners, verán estos tres programas en el lado izquierdo de la pantalla.
+A continuación se muestra un ejemplo. Supongamos que un usuario tiene acceso a tres programas en el panel del Centro de partners: El programa **MPN** , el programa **Referencias** y el programa **Marketplace comercial** . Cuando inicien sesión en el panel del Centro de partners, verán estos tres programas en el lado izquierdo de la pantalla.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menú de programas a los que está inscrito":::
 
 ## <a name="account-management"></a>Administración de cuentas
 
-En la actualidad, el Centro de partners divide la administración de cuentas en dos secciones diferentes: **Configuración de partners** y **Configuración de desarrolladores**.
+En la actualidad, el Centro de partners divide la administración de cuentas en dos secciones diferentes: **Configuración de partners** y **Configuración de desarrolladores** .
 
 >[!NOTE]
->Para acceder a **Configuración de partners** o a **Configuración de desarrolladores**, debes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y, después, seleccionar la opción **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla. Después, puedes seleccionar **Configuración de partners** o **Configuración de desarrolladores** en el menú desplegable.
+>Para acceder a **Configuración de partners** o a **Configuración de desarrolladores** , debes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y, después, seleccionar la opción **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla. Después, puedes seleccionar **Configuración de partners** o **Configuración de desarrolladores** en el menú desplegable.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="Menú de programas a los que está inscrito":::
 
-Los partners pueden ver la opción para administrar las opciones de **Configuración de partners** o **Configuración de desarrolladores**, en función de si su empresa se ha inscrito en esos programas. La opción Configuración solo estará disponible si tu empresa se ha inscrito en al menos un programa asociado a esa configuración.
+Los partners pueden ver la opción para administrar las opciones de **Configuración de partners** o **Configuración de desarrolladores** , en función de si su empresa se ha inscrito en esos programas. La opción Configuración solo estará disponible si tu empresa se ha inscrito en al menos un programa asociado a esa configuración.
 
 Para administrar la configuración de la cuenta, debes seleccionar la opción de configuración de la cuenta adecuada para el programa en cuestión.  
 
@@ -75,19 +75,19 @@ Esta es una lista parcial de los programas disponibles y la opción de configura
 
 ### <a name="locate-your-mpn-id"></a>Encuentra tu identificador de MPN
 
-Independientemente de si eres un partner o un desarrollador, tienes que usar el identificador de MPN para cosas como el registro de incidencias de soporte técnico. Si es un desarrollador, el identificador de MPN se encuentra en la página de detalles de **configuración de la cuenta**.
+Independientemente de si eres un partner o un desarrollador, tienes que usar el identificador de MPN para cosas como el registro de incidencias de soporte técnico. Si es un desarrollador, el identificador de MPN se encuentra en la página de detalles de **configuración de la cuenta** .
 
-El identificador de MPN del partner se encuentra en la página **Perfil de partner**.
+El identificador de MPN del partner se encuentra en la página **Perfil de partner** .
 
 ### <a name="see-partner-and-developer-settings"></a>Consulta las opciones de configuración para partners y desarrolladores
 
-Las opciones de **Configuración de partners** variarán de las de **Configuración de desarrolladores**. A continuación se muestran capturas de pantallas de ejemplo de cada conjunto de opciones. Si tienes acceso a otros programas, también puedes ver otras opciones aparte de los ejemplos de estas capturas de pantalla.
+Las opciones de **Configuración de partners** variarán de las de **Configuración de desarrolladores** . A continuación se muestran capturas de pantallas de ejemplo de cada conjunto de opciones. Si tienes acceso a otros programas, también puedes ver otras opciones aparte de los ejemplos de estas capturas de pantalla.
 
-**Opciones de Configuración de partners**:
+**Opciones de Configuración de partners** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menú de programas a los que está inscrito":::
 
-**Opciones de Configuración de desarrolladores**:
+**Opciones de Configuración de desarrolladores** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menú de programas a los que está inscrito":::
 
@@ -126,6 +126,5 @@ Si estás inscrito en programas como los de MPN o Proveedor de soluciones en la 
 |Inscribirse en el Centro de partners como proveedor del panel de control|[Inscribirse en el Centro de partners como proveedor del panel de control](enroll-as-cpv.md)|
 |Asociar la cuenta de Microsoft Learn al Centro de partners|[Asociar la cuenta de Microsoft Learn al Centro de partners](ms-learn-associate.md)|
 |Asegúrate de comercializar tu empresa para que los clientes puedan encontrarla   |[Crear un perfil de negocio](create-a-marketing-profile.md)|
-|Organizar el catálogo para que los productos más importantes se encuentren en la parte superior de la lista   |[Personalizar el catálogo](customize-the-catalog.md)|
 |Mantenerte al día con las ofertas y precios actuales   |[Precios y ofertas](pricing-and-offers.md)|
-|API: Verificar un id. de MPN de partner|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API: Verificar un id. de MPN de partner|[Comprobar un id. de MPN de asociado](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

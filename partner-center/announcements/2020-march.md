@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031718"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795808"
 ---
 # <a name="march-2020-announcements"></a>Anuncios de marzo de 2020
 
@@ -44,9 +44,9 @@ Todos los partners del programa Proveedor de soluciones en la nube (CSP).
 
 El 21 de abril de 2020, cambiaremos los nombres de las ofertas de Office 365 para pymes:
 
-- Office 365 Empresa Essentials pasará a llamarse **Microsoft 365 Empresa Básico**. Esta es nuestra oferta para los clientes que buscan servicios en la nube básicos.
-- Office 365 Empresa Premium pasará a llamarse **Microsoft 365 Empresa Estándar**. Esta es nuestra oferta principal para pymes, que incluye servicios en la nube y aplicaciones de escritorio conectadas a la nube.
-- Microsoft 365 Empresa pasará a llamarse **Microsoft 365 Empresa Premium**. Esta sigue siendo nuestra mejor SKU para pymes de alto nivel que buscan más valor en cuanto a seguridad, dispositivos e identidad.
+- Office 365 Empresa Essentials pasará a llamarse **Microsoft 365 Empresa Básico** . Esta es nuestra oferta para los clientes que buscan servicios en la nube básicos.
+- Office 365 Empresa Premium pasará a llamarse **Microsoft 365 Empresa Estándar** . Esta es nuestra oferta principal para pymes, que incluye servicios en la nube y aplicaciones de escritorio conectadas a la nube.
+- Microsoft 365 Empresa pasará a llamarse **Microsoft 365 Empresa Premium** . Esta sigue siendo nuestra mejor SKU para pymes de alto nivel que buscan más valor en cuanto a seguridad, dispositivos e identidad.
 
 También adoptaremos el nombre **Aplicaciones de Microsoft 365** para nuestras dos suscripciones de cliente de Office:
 
@@ -208,7 +208,7 @@ Aviso de nueva funcionalidad: ahora los partners pueden corregir la información
 Como parte de nuestro compromiso continuo con las prácticas empresariales conformes con la normativa para clientes y partners, Microsoft incorporó un proceso de validación automatizada de todos los envíos de cuentas de clientes de Education para comprobar su idoneidad como clientes. Desde que se lanzó la funcionalidad de validación automatizada, hemos observado un número creciente de problemas de verificación porque se habían proporcionado datos de clientes incorrectos o no válidos. Con el fin de optimizar el proceso y minimizar los retrasos en el proceso de verificación, debe seguir estas instrucciones:
 
 - Para reducir los retrasos en la investigación de errores de verificación de entradas legítimas, asegúrate de especificar datos de cliente que sean **precisos** y tan **completos** como sea posible. No proporcione datos de prueba o ficticios.
-- Revise la **guía para la creación de clientes de Education del Centro de partners** y la **página Agregar nuevo cliente**, donde se indica lo que se requiere para crear un nuevo cliente de Education en el Centro de partners. Ambos se pueden encontrar en la galería de recursos siguiente.
+- Revise la **guía para la creación de clientes de Education del Centro de partners** y la **página Agregar nuevo cliente** , donde se indica lo que se requiere para crear un nuevo cliente de Education en el Centro de partners. Ambos se pueden encontrar en la galería de recursos siguiente.
 
 >[!NOTE] 
 >Ahora la **guía para la creación de clientes de Education en el Centro de partners** incluye instrucciones paso a paso para corregir la información de los clientes y volver a enviarla si no ha sido posible la verificación del cliente.
@@ -263,7 +263,7 @@ Habrá disponible una nueva SKU de mensajería prémium como complemento para la
 
 La mensajería prémium permite:
 
-- Notificaciones prioritarias ilimitadas para los usuarios. Para los mensajes de Teams etiquetados como **urgentes**, se enviarán notificaciones a los destinatarios cada 2 minutos durante un período de 20 minutos.
+- Notificaciones prioritarias ilimitadas para los usuarios. Para los mensajes de Teams etiquetados como **urgentes** , se enviarán notificaciones a los destinatarios cada 2 minutos durante un período de 20 minutos.
 - Comunicaciones dirigidas en chats, canales y tareas.
 
  Consulte la siguiente oferta en la lista de precios de la versión preliminar: Colaboración avanzada, 61fde0d0-4b08-4900-b30a-e2e70e0447ba.
@@ -317,7 +317,7 @@ Consulte los cambios específicos en el archivo denominado "Dynamics CSP Offer U
 
 - [Página principal de Dynamics 365](https://dynamics.microsoft.com/)
 - [Página principal de la guía de aplicaciones de realidad mixta](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Página principal de Fraud Protection](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Página principal de Fraud Protection](/dynamics365/fraud-protection/overview)
 - [Actualizaciones de licencias de Power Apps y Flow en el año fiscal 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licencias de Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 y Power Platform: disponibilidad, ubicación de datos, lenguaje y contenido de localización](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

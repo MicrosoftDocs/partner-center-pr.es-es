@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175183"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795838"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 
@@ -84,12 +84,32 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
 1. Seleccione **configuración** en el panel del centro de Partners. 
 
-2. Seleccione **combinación de cuentas**.
+2. Seleccione **combinación de cuentas** .
 
 3. Agregue el identificador de MPN ubicado en el **Perfil de socio comercial** de la cuenta a la que desea invitar a combinar con usted. Debe usar su identificador de MPN global de socio. No se puede usar un identificador de MPN de ubicación.
 
-4. Al seleccionar **fusionar mediante combinación**, se envía una invitación a la empresa asociada. Cuando acepten su solicitud, puede iniciar la combinación de cuentas dentro del centro de Partners. Si la empresa rechaza su solicitud para fusionar mediante combinación cuentas, puede explicar por qué rechazó la solicitud. En el **historial de combinación**está disponible una lista de todas las combinaciones de cuentas.
+4. Al seleccionar **fusionar mediante combinación** , se envía una invitación a la empresa asociada. Cuando acepten su solicitud, puede iniciar la combinación de cuentas dentro del centro de Partners. Si la empresa rechaza su solicitud para fusionar mediante combinación cuentas, puede explicar por qué rechazó la solicitud. En el **historial de combinación** está disponible una lista de todas las combinaciones de cuentas.
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Ejemplo de dos empresas combinando cuentas
 
+1. Contoso tiene 
+
+    a. un [identificador de MPN global de 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) y uno [de los identificadores MPN de ubicación subordinada de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. un inquilino de Azure AD = @contoso.com
+ 
+    c. una competencia Gold que expira el 1 de octubre de 2020
+2. Fabricam tiene
+ 
+    a.  un ID. de MPN global de 3333333 y dos identificadores de MPN de ubicación subordinada de 4444444 y 5555555
+
+    b.  un inquilino de AAD = @fabricam.com
+
+    c.  dos competencias Gold que expiran el 1 de diciembre de 2020
+3.  Contoso compra Fabricam y va [aquí](https://partner.microsoft.com/dashboard/account/merger) para iniciar una solicitud de combinación
+4.  Fabricam inicia sesión en el centro de Partners y se dirige a la misma página que Contoso en el paso #3 para aprobar la solicitud de contoso.
+5.  Contoso revisa los detalles de la combinación en esa misma página y proporciona confirmación para continuar con la fusión de cuentas.
+    
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Asignar roles y permisos de usuarios](permissions-overview.md)

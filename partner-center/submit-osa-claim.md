@@ -1,7 +1,7 @@
 ---
 title: Creación de una asociación de clientes
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Cree asociaciones de cliente con el modelo de notificaciones de registro (CPOR). Ayuda a administrar las ventas, el uso, los incentivos de Microsoft 365 & Dynamics 365 clientes.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174997"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917268"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Asociaciones de clientes a través del modelo de socio de registro (CPOR) solicitado para Microsoft 365 y Dynamics 365
 
@@ -35,15 +35,15 @@ Necesitará la siguiente información para completar una demanda:
 
 - **Identificador de MPN** de la entidad que realiza la declaración.
 
-- **El nombre de dominio** del cliente [encuentra este](find-domain-name.md)
+- **El nombre de dominio** del cliente [encuentra este](find-ids-and-domain-names.md)
 
-- Identificador de **directorio** o de **inquilino** del [cliente.](find-domain-name.md)
+- Identificador de **directorio** o de **inquilino** del [cliente.](find-ids-and-domain-names.md)
 
-- Área de la **solución**, como Business Applications o Microsoft 365
+- Área de la **solución** , como Business Applications o Microsoft 365
 
 - La **actividad** que ha realizado y el tipo de demanda que desea realizar, como ventas previas, uso o asociación de ingresos
 
-- El nombre de **contacto**, el título y la dirección de correo electrónico del cliente
+- El nombre de **contacto** , el título y la dirección de correo electrónico del cliente
 
 - Para Dynamics 365, también debe proporcionar el nombre de **contacto técnico** , el título y la dirección de correo electrónico del cliente.
 
@@ -53,9 +53,9 @@ Necesitará la siguiente información para completar una demanda:
 
 - Los **productos** o cargas de trabajo que va a reclamar
 
-- **Prueba de ejecución (PoE)**, como una declaración de trabajo firmada por el cliente. También puede descargar una plantilla de PoE para usarla.
+- **Prueba de ejecución (PoE)** , como una declaración de trabajo firmada por el cliente. También puede descargar una plantilla de PoE para usarla.
 
-- En el caso de los asociados que reclaman ingresos solamente: nombre de vendedor de la **solución Dynamics**, **nombre del cliente**y **nombre del producto o solución de ISV**. 
+- En el caso de los asociados que reclaman ingresos solamente: nombre de vendedor de la **solución Dynamics** , **nombre del cliente** y **nombre del producto o solución de ISV** . 
 
 También debe comprender los puntos siguientes:
 
@@ -69,38 +69,38 @@ También debe comprender los puntos siguientes:
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. Seleccione la pestaña **incentivos** , seleccione **información general**y, a continuación, seleccione **asociaciones de cliente**.
+2. Seleccione la pestaña **incentivos** , seleccione **información general** y, a continuación, seleccione **asociaciones de cliente** .
 
-3. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes**.
+3. En la parte superior de la página asociaciones de clientes, seleccione **+ Asociación de clientes** .
 
-4. Seleccione el **identificador de MPN** de la ubicación del asociado que se va a asociar con el cliente y, después, agregue el nombre de dominio y el identificador de directorio del cliente. [Buscar](find-domain-name.md)
+4. Seleccione el **identificador de MPN** de la ubicación del asociado que se va a asociar con el cliente y, después, agregue el nombre de dominio y el identificador de directorio del cliente. [Buscar](find-ids-and-domain-names.md)
 
-5. Seleccione **Continuar**.
+5. Seleccione **Continuar** .
 
-6. Seleccione el **área** de la solución y la **actividad**. 
+6. Seleccione el **área** de la solución y la **actividad** . 
 
    >[!Note]
    >
-   >Si selecciona Business Applications, seleccione uso o **preventa**, o **Asociación de ingresos**, y, a continuación, seleccione **continuar**. 
+   >Si selecciona Business Applications, seleccione uso o **preventa** , o **Asociación de ingresos** , y, a continuación, seleccione **continuar** . 
    <br><br>Si selecciona la Asociación ingresos, se le solicitará información ligeramente diferente a la que se muestra a continuación.
 
-7. Escriba la información adecuada en la página **asociar el cliente** y, a continuación, seleccione **crear notificaciones**.
+7. Escriba la información adecuada en la página **asociar el cliente** y, a continuación, seleccione **crear notificaciones** .
 
-8. Seleccione los productos asociados a esta asociación de cliente y, a continuación, seleccione **continuar**.
+8. Seleccione los productos asociados a esta asociación de cliente y, a continuación, seleccione **continuar** .
 
 9. Complete la información de contacto del cliente y la información de contacto de la empresa. Todos los campos son obligatorios. 
 
    >[!NOTE]
    >Si el producto es Dynamics 365 y el producto que elige tiene varias suscripciones para este cliente concreto, también deberá escribir el identificador de la suscripción.
 
-10. Proporcione la prueba de ejecución (PoE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla mediante la selección de **Descargar plantilla**. 
+10. Proporcione la prueba de ejecución (PoE). Puede arrastrarlo hasta el cuadro, buscar su propia documentación complementaria o usar una plantilla mediante la selección de **Descargar plantilla** . 
 
-11. Agregue y guarde los comentarios si lo desea y, después, seleccione **Enviar reclamación**. Enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
+11. Agregue y guarde los comentarios si lo desea y, después, seleccione **Enviar reclamación** . Enviaremos un correo electrónico al cliente que solicita la aprobación de la asociación con el cliente.
 
    >[!NOTE]
    >Una vez que envíe la Asociación de cliente, no podrá modificarla.
 
-El estado de la asociación de cliente saparece en el campo **Estado**.
+El estado de la asociación de cliente saparece en el campo **Estado** .
 
 Seleccione **Historial** para ver el historial de una asociación de cliente.
 

@@ -1,7 +1,7 @@
 ---
 title: Funcionalidades de facturación directa restringidas
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los requisitos de los asociados de factura de CSP directos y qué hacer para evitar que se restrinjan las funcionalidades. Averigüe si sus funcionalidades se han restringido.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444775"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795782"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de factura directa restringida y los requisitos necesarios para los asociados de facturación directa de CSP  
 
@@ -31,11 +31,11 @@ Siga estos pasos para confirmar si se ha restringido el acceso desde el inquilin
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard).
 
-2. Vaya a **configuración de Partner**  ->  **Perfil de socio comercial**.
+2. Vaya a **configuración de Partner**  ->  **Perfil de socio comercial** .
 
-3. En **información del programa**, busque **Microsoft Cloud estado del proveedor de soluciones**.
+3. En **información del programa** , busque **Microsoft Cloud estado del proveedor de soluciones** .
 
-4. Si el estado del programa tiene el valor **restringido**, significa que se ha restringido el acceso del inquilino directo de Bill Partner a las capacidades de factura directa.
+4. Si el estado del programa tiene el valor **restringido** , significa que se ha restringido el acceso del inquilino directo de Bill Partner a las capacidades de factura directa.
 
 ## <a name="affected-direct-bill-capabilities"></a>Capacidades de factura directa afectadas
 
@@ -51,7 +51,7 @@ Si las capacidades de factura directa se han restringido, ya no podrá realizar 
 
 Tampoco puede usar la [oferta de servicios compartidos de asociados de Azure](shared-services.md) en el programa CSP para comprar suscripciones de Azure nuevas para su propio uso.
 
-Las suscripciones de factura directa existentes no se ven afectadas. Siguen siendo válidos y se renuevan. Se seguirá facturando directamente por Microsoft hasta que se cancele. Todavía puede administrar las suscripciones existentes de las siguientes maneras:
+Las suscripciones de factura directa existentes no se ven afectadas. Siguen siendo válidos y se renuevan automáticamente. Se seguirá facturando directamente por Microsoft hasta que se cancele. Todavía puede administrar las suscripciones existentes de las siguientes maneras:
 
 - Suspender las suscripciones existentes
 
