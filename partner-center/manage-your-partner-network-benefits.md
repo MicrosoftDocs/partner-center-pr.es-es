@@ -1,7 +1,7 @@
 ---
 title: Administración de las ventajas de Microsoft Partner Network
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Únete a Microsoft Partner Network (MPN) y usa el Centro de partners para administrar las ventajas y las ofertas de la suscripción, que pueden ayudarte a que tu negocio crezca.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427092"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523590"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners
 
@@ -43,7 +43,7 @@ Tras comprar un paquete de beneficios de suscripción, deberás obtener claves d
 
 Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos de comercialización, ofertas y programas relacionados con el mercado. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
-Para ver y administrar todos sus beneficios de suscripción, vaya a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere iniciar sesión). Como alternativa, puedes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, selecciona la [**opción Beneficios**] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
+Para ver y administrar todos sus beneficios de suscripción, vaya a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere iniciar sesión). Como alternativa, puedes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, selecciona la [ **opción Beneficios** ] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
 
 Para activar la mayoría de los beneficios o descargar claves de software relacionadas, etc., el Centro de partners normalmente requiere que alguien tenga asignado el rol de administrador global o administrador de asociados de MPN. Si no puede ver ningún beneficio o no puede activar algún beneficio, consulte con el administrador global del Centro de partners para asegurarse de tener los permisos adecuados. [Obtenga más información sobre los roles del Centro de partners](permissions-overview.md).
 
@@ -79,14 +79,15 @@ Para activar la mayoría de los beneficios o descargar claves de software relaci
 
 2. Busca la suscripción que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles de la suscripción.
 
-3. Para activar una suscripción a Visual Studio, selecciona un usuario de la lista y, a continuación, selecciona **Asignar usuario**.
+3. Para activar una suscripción a Visual Studio, selecciona un usuario de la lista y, a continuación, selecciona **Asignar usuario** .
 
    > [!IMPORTANT]  
-   > Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta**.
+   > Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta** .
 
 4. Repite este proceso para cada suscripción que desees asignar. Los usuarios pueden administrar sus suscripciones en el portal de Visual Studio.
 
-   Puedes reasignar suscripciones en cualquier momento. Para ello, quita un usuario asignado y, a continuación, asigna otro.
+   >[!Note]
+   >Los administradores de suscripciones de Visual Studio pueden reasignar las suscripciones de un suscriptor a otro si han transcurrido 90 días desde el momento de la asignación original. Para obtener información adicional, lea la [guía de programas de Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
 
 ## <a name="manage-technical-benefits"></a>Administrar las ventajas técnicas
 
@@ -102,7 +103,7 @@ Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
 3. Expanda la lista de beneficios. Para empezar a usar una ventaja de soporte técnico específica, debe hacer lo siguiente la primera vez que la use:
 
-   - **Active la ventaja técnica.** Después de expandir los detalles de una ventaja, seleccione **Activar**. Deje pasar unos días para que se procese la solicitud de activación.
+   - **Active la ventaja técnica.** Después de expandir los detalles de una ventaja, seleccione **Activar** . Deje pasar unos días para que se procese la solicitud de activación.
 
    - **Vea y comparta el id. de acceso y el id. de contrato de soporte técnico del producto.** Una vez que se procese la solicitud de activación, verá los detalles sobre el **Id. de acceso** y el **Id. de contrato** la próxima vez que expanda esa ventaja técnica. Es posible que usted, o los usuarios de su empresa, tenga que compartir esta información la primera vez que se envíe una solicitud de soporte técnico para determinados tipos de productos o servicios.
 
@@ -112,7 +113,7 @@ Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
    **Soporte técnico (break-fix).** Utilice este tipo de soporte técnico cuando se interrumpa la funcionalidad o cuando algo no funcione según lo esperado (por ejemplo, cuando reciba un mensaje de error). Como guía:
 
-   - Solo para los partners de la competencia Gold/Silver (no disponible para los suscriptores de Action Pack), use **Soporte técnico de Signature** para **productos en la nube**.
+   - Solo para los partners de la competencia Gold/Silver (no disponible para los suscriptores de Action Pack), use **Soporte técnico de Signature** para **productos en la nube** .
 
    - En el caso de los partners de Action Pack y de la competencia Gold/Silver, use incidentes de **Soporte de productos de Microsoft** para **productos locales recientes** (solo en las versiones actuales y anteriores).
 
@@ -136,22 +137,22 @@ Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
 2. Para activar cualquier oferta de comercialización, primero debes asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre las ofertas de Comercialización activas.
 
-3. Para agregar o actualizar la información de contacto de marketing, ve a la parte superior de la página Comercialización y selecciona **Agregar**, **Actualizar** o **Cambiar**. A continuación, realiza los siguientes pasos:  
+3. Para agregar o actualizar la información de contacto de marketing, ve a la parte superior de la página Comercialización y selecciona **Agregar** , **Actualizar** o **Cambiar** . A continuación, realiza los siguientes pasos:  
 
-   a. Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta**.
+   a. Seleccione un usuario de la lista. Si el usuario que quieres asignar no está en la lista, puedes [agregar nuevos usuarios](create-user-accounts-and-set-permissions.md) en **Configuración de cuenta** .
 
    b. Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa.
 
       Enviaremos las instrucciones por correo electrónico para usar la oferta de Comercialización a la dirección de correo electrónico del contacto de marketing que has designado.
 
-   c.  Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**.
+   c.  Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario** .
 
-4. Después de actualizar el contacto de marketing, busca la oferta de Comercialización que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles de la oferta. La lista mostrará todos los tipos de ofertas disponibles debajo del nombre de la ventaja (por ejemplo, **Silver Core**, **Gold Core** o **Venta conjunta de ISV lista**).
+4. Después de actualizar el contacto de marketing, busca la oferta de Comercialización que quieras empezar a usar y, a continuación, selecciona la flecha abajo situada en el extremo derecho de la fila para ampliar los detalles de la oferta. La lista mostrará todos los tipos de ofertas disponibles debajo del nombre de la ventaja (por ejemplo, **Silver Core** , **Gold Core** o **Venta conjunta de ISV lista** ).
 
 5. Selecciona **Activar** para activar la oferta.
 
    > [!NOTE]
-   >Se pueden tardar varios días en enviar las instrucciones por correo electrónico al contacto de marketing asignado y activar una oferta de Comercialización. Una vez activada la oferta, verás los cambios en la página Comercialización. En la columna **Estado**, verás el cambio de la oferta a **Activo**. En la columna **Caduca**, verás la fecha de expiración de la oferta. Puedes usar esta oferta hasta la fecha de expiración. Obtén más información sobre los [diferentes tipos de recursos, ofertas y programas de Comercialización](mpn-learn-about-go-to-market-benefits.md) disponibles.  
+   >Se pueden tardar varios días en enviar las instrucciones por correo electrónico al contacto de marketing asignado y activar una oferta de Comercialización. Una vez activada la oferta, verás los cambios en la página Comercialización. En la columna **Estado** , verás el cambio de la oferta a **Activo** . En la columna **Caduca** , verás la fecha de expiración de la oferta. Puedes usar esta oferta hasta la fecha de expiración. Obtén más información sobre los [diferentes tipos de recursos, ofertas y programas de Comercialización](mpn-learn-about-go-to-market-benefits.md) disponibles.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar una oferta o ventaja de suscripción
 
