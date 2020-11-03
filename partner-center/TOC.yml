@@ -295,9 +295,6 @@
         - name: Creación de la prueba de ejecución
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Envío de una factura de impuestos como PoE
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Reclamaciones de incentivos de cooperación
       items:
         - name: Reclamaciones de incentivo de cooperación
