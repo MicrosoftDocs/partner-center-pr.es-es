@@ -1,7 +1,7 @@
 ---
 title: Información general sobre las notificaciones y la cooperación de incentivos
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Obtenga información acerca de cómo enviar una demanda de cooperación correcta para sus incentivos organizando la documentación, las facturas, las instrucciones y la prueba de ejecución adecuadas.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848225"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133089"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganar fondos de marketing cooperativo
 
@@ -34,13 +34,16 @@ Los fondos de Co-op permiten realizar actividades de marketing que aumentarán e
 Puede obtener más información en la página de recursos de fondos de la [Co-op](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
 
 >[!Important]
->Las notificaciones de Co-op no se aplican a los programas de incentivos de los servicios en línea (OSA) venta, uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business. Para enviar una demanda de uno de estos programas, consulte [creación de un associearation de cliente con el modelo cpor](submit-osa-claim.md).
+>Las notificaciones de la Co-op no se aplican al servicio de asesoramiento de servicios en línea (OSA) venta, uso de servicios en línea (OSU)-Microsoft 365 y OSU-Business programas de incentivos de aplicaciones. Para enviar una demanda de uno de estos programas, consulte [creación de un associearation de cliente con el modelo cpor](submit-osa-claim.md).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Cómo se calculan los fondos de la Co-op
 
 Microsoft calcula las ganancias de incentivos válidas mediante un porcentaje dividido (por ejemplo, 60% de descuento-40% de Co-op). Recibirá la parte del descuento mediante el ritmo de pago existente para su programa individual, mientras que Microsoft proporcionará la parte de la cooperación de los ingresos de incentivos.
 
 Puede obtener más información sobre el ritmo de pago y el porcentaje de división en su guía de programas de incentivos. Utilice [este procedimiento](incentives-determined-your-program-eligibility.md) para tener acceso a la guía de programas.
+
+>[!NOTE]
+>Si los ingresos de la Co-op están por debajo del umbral en el período de obtención de la cooperación, las ganancias de la Co-op se convertirán en un descuento al final del semestre. Para obtener más detalles o para determinar la cantidad de umbral, consulte la guía del programa de incentivos.
 
 ## <a name="when-to-claim-your-funds"></a>Cuándo reclamar los fondos
 
@@ -49,7 +52,7 @@ La escala de tiempo de los fondos de cooperación se divide en períodos de 2 6 
 - H1 es la primera mitad del año fiscal, el 1 de julio y el 31 de diciembre.
 - H2 es la segunda mitad del año fiscal, el 1 de enero y el 30 de junio.
 
-El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención**. Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso**de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
+El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención** . Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso** de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
 
 En la tabla siguiente se muestran los diferentes períodos de obtención, uso y reclamaciones. A menos que se indique lo contrario, los períodos se extienden desde el primer día del primer mes hasta el último día del último mes.
 
@@ -65,7 +68,7 @@ En la tabla siguiente se muestran los diferentes períodos de obtención, uso y 
 
 Los siguientes recursos le ayudarán a empezar a trabajar con notificaciones de cooperación.
 
-| Para hacer esto | Lea este |
+| Para | Lea este |
 | ------ | ----------- |
 | Enviar una demanda |  [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)  |
 | Administrar una demanda enviada | [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)    |

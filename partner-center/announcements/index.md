@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749704"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917219"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,7 +22,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de octubre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Ya está disponible la experiencia digital actualizada del Proveedor de soluciones en la nube (CSP)](2020-october.md#15)|28 de octubre|
 |Funcionalidades|[Presentación de un estándar de rendimiento para los requisitos de los asociados que usan la facturación directa en el programa Proveedor de soluciones en la nube (CSP)](2020-october.md#13)|27 de octubre|
+|Ofertas/mercados|[Actualizaciones de la lista de precios de las suscripciones de software del Proveedor de soluciones en la nube (CSP) de octubre de 2020](2020-october.md#14)|26 de octubre|
 |Ofertas/mercados|[Actualizaciones de ofertas para Microsoft 365 Business Voice](2020-october.md#12)|16 de octubre|
 |Funcionalidades|[Actualización de noviembre de 2020: Guía de autorización de canal de software y servicios en línea](2020-october.md#11)|14 de octubre|
 |Ofertas/mercados|[Presentación de Microsoft 365 Business Voice para organizaciones sin ánimo de lucro](2020-october.md#10)|12 de octubre|
@@ -45,7 +47,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Funcionalidades|[Versión del SDK en .NET Standard (v1.16.2)](2020-september.md#11)|22 de septiembre|
 |Funcionalidades|[Información acerca del Centro de partners: El recurso de informes único para comprender su empresa con Microsoft.](2020-september.md#10)|23 de septiembre|
 |Ofertas/mercados|[Anuncio de la disponibilidad general de Azure SQL Edge](2020-september.md#9)|22 de septiembre|
-|Funcionalidades|[Próximos cambios en las API de uso de O365 de CSP y en los informes de uso de licencias de CSP el 30 de septiembre de 2020.](2020-september.md#8)|Septiembre de 17|
+|Funcionalidades|[Próximos cambios en las API de uso de O365 de CSP y los informes de uso de licencias de CSP del 30 de septiembre de 2020.](2020-september.md#8)|Septiembre de 17|
 |Funcionalidades|[Actualización de MPA de revendedor indirecto. Acción requerida de los usuarios de la API de MPA y nuevos informes de MPA](2020-september.md#7)|16 de septiembre|
 |Ofertas/mercados|[La compra de autoservicio para Microsoft Project y Microsoft Visio ya está disponible](2020-september.md#6)|15 de septiembre|
 |Ofertas/mercados|[Las nuevas SKU aportan la eficacia de Project Cortex y mucho más a los clientes](2020-september.md#5)|8 de septiembre|

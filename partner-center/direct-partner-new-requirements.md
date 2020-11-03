@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366859"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795786"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para inscribirse como partner de facturación directa de CSP
 
@@ -32,9 +32,10 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Id. de Microsoft Partner Network (MPN) activo para la ubicación de tu empresa.    |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|
+|**Ingresos**|A partir de enero de 2021, los partners inscritos como partners de factura directa deberán haber operado al menos 300 000 USD en ingresos del programa Proveedor de soluciones en la nube en un nivel de cuenta global de partner durante los 12 meses anteriores.| 
 |**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br/>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br/> IMPORTANTE: Debes superar una comprobación de crédito para poder comprar un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
 |**Servicio administrado**   |Al menos un servicio gestionado, servicio IP o una aplicación de solución de cliente. Obtén más información sobre cómo agregar [servicios gestionados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes
+|**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes|
 
 ### <a name="verify-direct-bill-eligibility"></a>Comprobación de la elegibilidad de factura directa
 

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795838"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189754"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 
@@ -103,13 +103,23 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
  
     a.  un ID. de MPN global de 3333333 y dos identificadores de MPN de ubicación subordinada de 4444444 y 5555555
 
-    b.  un inquilino de AAD = @fabricam.com
+    b.  un inquilino de Azure AD = @fabricam.com
 
     c.  dos competencias Gold que expiran el 1 de diciembre de 2020
-3.  Contoso compra Fabricam y va [aquí](https://partner.microsoft.com/dashboard/account/merger) para iniciar una solicitud de combinación
+3.  Contoso compra Fabricam y va [aquí](https://partner.microsoft.com/dashboard/account/merger) para iniciar una solicitud de combinación.
 4.  Fabricam inicia sesión en el centro de Partners y se dirige a la misma página que Contoso en el paso #3 para aprobar la solicitud de contoso.
 5.  Contoso revisa los detalles de la combinación en esa misma página y proporciona confirmación para continuar con la fusión de cuentas.
+6.  Después de la fusión, la cuenta de empresa se mostrará como:
+
+    a.  Una empresa llamada contoso con un identificador de MPN global de 1111111 y 4 identificadores de MPN de ubicación subordinada de 2222222, 3333333, 4444444 y 5555555
     
+    b.  Tendrá dos Azure AD inquilinos ( @contoso.com + @fabricam.com ) que tienen acceso a la misma cuenta del centro de Partners.
+    
+    c.  Tendrá dos paquetes de ventajas de la competencia: uno que expire el 1 de octubre de 2020 y otro que expire el 1 de diciembre de 2020. Podrán renovarse como un paquete de ventajas de una sola competencia el 1 de diciembre de 2020. Cuando se renuevan, contoso conservará las tres competencias, aunque solo pueda mantener un único paquete de beneficios.
+    
+7.  Los administradores de Contoso seguirán administrando los roles del centro de partners para @contoso.com los usuarios de. Los administradores de Fabricam seguirán administrando los roles del centro de partners para @fabricam.com los usuarios de. Los administradores de Contoso solo pueden administrar los usuarios de Fabricam si están invitados como invitados al inquilino de Fabricam.
+8.  Contoso podría decidir omitir el @fabricam.com inquilino y volver a emitir las nuevas credenciales de los empleados de Fabricam @contoso.com con nuevos roles y permisos.
+
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Asignar roles y permisos de usuarios](permissions-overview.md)

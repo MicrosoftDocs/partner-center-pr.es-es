@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663876"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133157"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Administración de notificaciones de cooperación de incentivos
 
@@ -65,15 +65,13 @@ Si se determina que los materiales que proporcionó con la notificación de coop
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. En **incentivos**, seleccione **Administración de planes**.
+2. En **incentivos** , seleccione **Administración de Co-op** .
 
-3. Seleccione **Administración de Co-op**.
+3. Seleccione la notificación de cooperación con la que no está de acuerdo. Se abre la página de notificaciones de la Co-op.
 
-4. Seleccione la notificación de cooperación con la que no está de acuerdo. Se abre la página de notificaciones de la Co-op.
+4. En la parte inferior de la página, seleccione **Impugnar** .
 
-5. En la parte inferior de la página, seleccione **Impugnar**.
-
-El equipo de validación de notificaciones de cooperación revisará la notificación en un plazo de cinco días laborables. Durante este tiempo, el estado se mostrará como **Con conflicto**. Podemos ponernos en contacto con usted para solicitar información adicional. Una vez completada la revisión, el equipo de validación actualizará el estado a **Aprobado**, **Rechazado** o **Acción por parte del partner necesaria**.
+El equipo de validación de notificaciones de cooperación revisará la notificación en un plazo de cinco días laborables. Durante este tiempo, el estado se mostrará como **Con conflicto** . Podemos ponernos en contacto con usted para solicitar información adicional. Una vez completada la revisión, el equipo de validación actualizará el estado a **Aprobado** , **Rechazado** o **Acción por parte del partner necesaria** .
 
 ## <a name="next-steps"></a>Pasos siguientes
 

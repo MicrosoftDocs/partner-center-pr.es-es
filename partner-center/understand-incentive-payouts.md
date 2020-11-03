@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198091"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244070"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
 
@@ -39,8 +39,8 @@ Use estas páginas para ver los detalles de los pagos y ganancias anteriores, pe
 
 Puede acceder a la información de los incentivos de varias maneras desde el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners:
 
-- Seleccione **incentivos** en el menú de la izquierda. Aparecen varias opciones en **incentivos**, incluida la **información general**. Explore estas opciones para conocer el estado de los programas de incentivos, los pagos de incentivos, los ingresos y las demandas.
-- Seleccione el icono de **dinero** (pago) en la esquina superior derecha. Después, puede seleccionar otras opciones, como **historial de transacciones**, **pagos**, **exportar datos**o informe de **ventas de Office**.
+- Seleccione **incentivos** en el menú de la izquierda. Aparecen varias opciones en **incentivos** , incluida la **información general** . Explore estas opciones para conocer el estado de los programas de incentivos, los pagos de incentivos, los ingresos y las demandas.
+- Seleccione el icono de **dinero** (pago) en la esquina superior derecha. Después, puede seleccionar otras opciones, como **historial de transacciones** , **pagos** , **exportar datos** o informe de **ventas de Office** .
 
 A continuación se describen las siguientes páginas:
 
@@ -59,10 +59,10 @@ La **información general de mis incentivos** muestra el estado general de los p
 
 También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que haya que realizar para inscribirse en un programa en una ubicación específica.
 
-Para acceder a la **información general de mis incentivos**:
+Para acceder a la **información general de mis incentivos** :
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
-2. Seleccione **incentivos**e **información general** en el menú.
+2. Seleccione **incentivos** e **información general** en el menú.
 3. Vea el resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
 
    - Para ordenar por columna, seleccione el nombre de la columna.
@@ -70,7 +70,7 @@ Para acceder a la **información general de mis incentivos**:
    - Para agrupar por ubicación, seleccione la pestaña **por ubicación** situada encima de la tabla.
    - Para ver más detalles acerca de las inscripciones dentro de un grupo específico, seleccione el símbolo de cheurón al final de una fila determinada. Este cheurón expande la vista.
 
-4. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado**. En este caso, seleccione el símbolo del botón de contenido adicional para obtener información sobre los pasos que debe realizar.
+4. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado** . En este caso, seleccione el símbolo del botón de contenido adicional para obtener información sobre los pasos que debe realizar.
 
 >[!NOTE]
 >Vea la tabla siguiente para obtener más información acerca de los diferentes Estados de inscripción que se muestran en la columna **Estado** .
@@ -82,7 +82,7 @@ Para acceder a la **información general de mis incentivos**:
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
 | Inscrito  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inscribiendo  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
-| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br><br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. <br><br> También puede ver un estado **inactivo** de las inscripciones de la organización virtual (Vorg) o de la cuenta global de socio (PGA) que ya no están activas en el programa de incentivos.  |
+| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br><br> Si el estado es no **válido** , el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. <br><br> También puede ver un estado **inactivo** de las inscripciones de la organización virtual (Vorg) o de la cuenta global de socio (PGA) que ya no están activas en el programa de incentivos.  |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 
@@ -95,7 +95,7 @@ Los totales de esta página representan todos los identificadores de MPN que se 
 |Siguiente pago estimado      |El siguiente pago que le llega (incluso si hay otros que próximamente), en dólares estadounidenses.                                     |
 |Último pago           |La cantidad (en dólares estadounidenses), el nombre del programa y el ID. de MPN del pago más reciente.                                      |
 |Pagos por origen       |Cantidad de pagos, en dólares estadounidenses, representados por el programa en los últimos 12 meses.                                      |
-|Pagos                       |Seleccione **pago** o **pendiente** y, a continuación, ordenar como desee. Para obtener detalles adicionales de un pago específico, seleccione **Ver**. Para descargar una copia del extracto de remesa de pago, seleccione **Descargar**. Los datos del historial de transacciones pueden tardar hasta 24 horas en aparecer, por lo que es posible que no vea las ganancias asociadas de inmediato.  |
+|Pagos                       |Seleccione **pago** o **pendiente** y, a continuación, ordenar como desee. Para obtener detalles adicionales de un pago específico, seleccione **Ver** . Para descargar una copia del extracto de remesa de pago, seleccione **Descargar** . Los datos del historial de transacciones pueden tardar hasta 24 horas en aparecer, por lo que es posible que no vea las ganancias asociadas de inmediato.  |
 
 Para exportar cualquiera de los datos de esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos.
 
@@ -106,17 +106,72 @@ Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se enc
 
 Para exportar cualquiera de los datos de la transacción en esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos. Los archivos exportados desde la página Historial de transacciones muestran los datos en la moneda de la transacción, las ganancias en la moneda de la transacción y en dólares estadounidenses, y el valor de pago en la moneda del destinatario del pago.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Envíe su factura de impuestos como prueba de ejecución (PoE)
+
+>[!NOTE]
+>Este contenido se relaciona **solo** con asociados en India, China, Italia, Corea, México y Taiwán. <br><br>Los asociados de India deben enviar una copia impresa de la factura de impuestos.
+
+#### <a name="submit-a-tax-invoice"></a>Enviar una factura de impuestos
+
+Si es un asociado de uno de los países mencionados anteriormente, Microsoft le enviará una notificación por correo electrónico que le solicitará que envíe una factura de impuestos para reclamar sus beneficios de incentivos. El correo electrónico que reciba proporcionará instrucciones para enviar la factura de impuestos y también mostrará la información adicional necesaria.
+
+Los asociados de India deben enviar su factura de impuestos en copia impresa. Los asociados de los demás países pueden enviar una copia de hardware o software.
+
+Debe enviar la factura de impuestos en un plazo de 180 días a partir de la demanda. Una vez que se haya recibido y validado la factura, se procesará el pago de los incentivos.
+
+Debe enviar la siguiente información junto con la factura de impuestos:
+
+- Número de factura (es un número que se genera) 
+
+- Número de referencia de incentivos de canal (CI) (proporcionado por Microsoft) 
+
+- El nombre del programa de incentivos
+
+- El nombre legal y la dirección de facturación en el perfil de socio comercial 
+
+- Importe de ganancias
+
+- Importe de impuestos
+
+Si no conoce el número de referencia de los incentivos de canal (CI), puede encontrarlo en los tres lugares siguientes: 
+
+- La notificación por correo electrónico que Microsoft envía a su administrador de incentivos. 
+
+- El [panel del centro de Partners](https://partner.microsoft.com/dashboard/) (inicio de sesión requerido), tanto en la pestaña **pago** como en la pestaña **pendiente** .  
+
+- El informe de pago, que se encuentra en la página de exportación de la [descarga del pago](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Si el envío se ha rechazado
+
+La causa más probable de que se rechace un envío es que la información de la factura de impuestos no coincida con la información de nuestros registros. Entre los ejemplos de datos que faltan o son incorrectos se incluyen: 
+
+- El número de impuestos de bienes y servicios (GST) de su empresa
+
+- Los números de sistema armonizado de nomenclatura (nombres jerárquico) y código de cuentas de servicio (SAC)
+
+- Número de factura (no debe superar los 16 dígitos)
+
+- Fecha de la factura
+
+- Valor de impuestos (inclusivo y exclusivo)
+
+- Si su empresa está en el mismo estado que Microsoft, se deben alinear los porcentajes fiscales de los impuestos centrales de bienes y servicios (CGST) y el impuesto de bienes y servicios de estado (SGST).
+
+- Si su empresa se encuentra en un estado diferente al de Microsoft, debe proporcionar el porcentaje de los bienes y servicios integrados (IGST).
+
+Los envíos también se pueden rechazar si se proporcionan más de 180 días después de la demanda, si la factura no es válida o si los datos se han escrito incorrectamente.
+
 ### <a name="estimated-payment-month"></a>Mes de pago estimado
 
 La página historial de transacciones incluye ahora una tabla que muestra los importes de pago estimados durante los próximos meses. También puede ver y descargar esta información en las exportaciones historial de transacciones y informe de resumen. Esta información facilita la conciliación y las proyecciones de pago.
 
 El mes de pago estimado se calcula en función de las reglas de configuración del programa y de las escalas de tiempo, y se procesa en el siguiente ciclo de pago o próximo.
 
-El mes de pago estimado está disponible actualmente para todos los tipos de obtención, excepto la cooperación, que se mostrará como **no aplicable**. En el caso de las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá como **no disponible**.
+El mes de pago estimado está disponible actualmente para todos los tipos de obtención, excepto la cooperación, que se mostrará como **no aplicable** . En el caso de las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá como **no disponible** .
 
 #### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
 
-| Mes | Importe |
+| Month | Importe |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -144,7 +199,7 @@ Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las
 |Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
 |Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
 |Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Con error        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
+|Erróneo.        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
 |En curso     |El pago está en curso.         |No         |
 |Pago incorrecto        |La regresión del pago está en curso.          |No        |
 |Enviado        |El pago se ha enviado al banco.          |No       |
@@ -165,7 +220,7 @@ Estas son algunas consideraciones al intentar exportar datos:
 
 - La página Exportar datos no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes.
 
-- El filtro puede dar lugar a un error **No hay datos disponibles**. Este error probablemente significa que ha dejado el período de tiempo predeterminado seleccionado en tres meses y, a continuación, ha seleccionado un identificador de pago de una ganancia que está fuera de ese período. Amplíe el período de tiempo y vuelva a intentarlo.
+- El filtro puede dar lugar a un error **No hay datos disponibles** . Este error probablemente significa que ha dejado el período de tiempo predeterminado seleccionado en tres meses y, a continuación, ha seleccionado un identificador de pago de una ganancia que está fuera de ese período. Amplíe el período de tiempo y vuelva a intentarlo.
 
 ## <a name="payment-download-export"></a>Exportación de descarga de pago
 Esta opción proporciona una descarga de los pagos que recibió en el banco por un programa determinado, los impuestos asociados y el importe de la ganancia agregada.
@@ -276,7 +331,7 @@ El informe de Resumen de transacciones proporciona los detalles de la transacci�
 ### <a name="download-the-transaction-summary-report"></a>Descargar el informe de Resumen de transacciones
 
 1. En la página **información general sobre incentivos** , seleccione el icono **Money** (pago) de la esquina superior derecha.
-2. Seleccione **Exportar datos**.
+2. Seleccione **Exportar datos** .
 3. Seleccione la pestaña **Resumen de transacciones** .
 4. Seleccione los filtros adecuados para ver los programas y las palancas que son válidos para los beneficios agregados. Si no se muestra ningún dato, los programas no son válidos para las palancas agregadas.
 5. Seleccione **iniciar descarga**   para exportar el informe.  

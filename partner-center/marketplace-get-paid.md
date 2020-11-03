@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175215"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189737"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Recepción de pagos en el Marketplace comercial
 
@@ -35,9 +35,9 @@ Antes de que se pague por primera vez, debe configurar la cuenta de pago y compl
 
 De forma predeterminada, enviaremos pagos mensualmente, como se describió anteriormente. Sin embargo, tiene la opción de poner los pagos para un programa en espera y Microsoft no publicará los pagos en su cuenta. Si decide poner los pagos en espera, continuaremos registrando cualquier ganancia en la página de **pagos** . Pero no se le envía ningún pago a la cuenta hasta que quite la retención.
 
-Para poner los pagos en espera, vaya a **Configuración de la cuenta**. En **Pago e impuestos**, en la sección **Asignación de perfiles fiscales y de pago**, busque el programa para el que quiere suspender los pagos. Active la casilla **mantener mi pago** para conservar los pagos de este programa. Puede cambiar el estado de la retención de pago en cualquier momento, pero su decisión afectará al siguiente pago mensual. Por ejemplo, si quiere retener los pagos de abril, asegúrese de establecer el estado de retención de pagos en **Activado** antes del final de marzo.
+Para colocar los pagos en espera, seleccione el icono de engranaje **configuración** en la parte superior derecha y, a continuación, **configuración del desarrollador** . Seleccione **pago y impuestos** en el menú de la izquierda y, en la sección **asignación de Perfil de pago y impuestos** , busque el programa para el que desea realizar los pagos. Active la casilla **mantener mi pago** para conservar los pagos de este programa. Puede cambiar el estado de la retención de pago en cualquier momento, pero su decisión afectará al siguiente pago mensual. Por ejemplo, si quiere retener los pagos de abril, asegúrese de establecer el estado de retención de pagos en **Activado** antes del final de marzo.
 
-Una vez que haya establecido el estado de retención de pago en **activado**, todos los pagos de este programa estarán en espera hasta que **desactive la casilla.** Al hacerlo, se incluirá durante el siguiente ciclo de pago mensual (siempre que se cumpla el umbral de pago). Si ha tenido los pagos en espera, pero desea tener un pago generado en junio, desactive la casilla para **desactivarla** antes del final de mayo.
+Una vez que haya establecido el estado de retención de pago en **activado** , todos los pagos de este programa estarán en espera hasta que **desactive la casilla.** Al hacerlo, se incluirá durante el siguiente ciclo de pago mensual (siempre que se cumpla el umbral de pago). Si ha tenido los pagos en espera, pero desea tener un pago generado en junio, desactive la casilla para **desactivarla** antes del final de mayo.
 
 >[!Note]
 > El estado de la retención de pago se aplica individualmente a cada programa (Microsoft Store, publicidad, Azure Marketplace, etc.). Si desea conservar los pagos de todos los programas, mantenga el pago en cada programa individualmente.
