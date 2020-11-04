@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133021"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327247"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
 Más información sobre las actualizaciones importantes del Centro de partners. Esta información se actualiza con frecuencia, así que asegúrate de revisarla de vez en cuando.
 
-| **Categoría** | **Anuncios de octubre de 2020** | **Fecha del anuncio** |
+| **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[La actualización a Windows 10 Education ya está disponible para clientes de la versión Education cualificados como Proveedores de soluciones en la nube (CSP) ](2020-november.md#4)|2 de noviembre|
+|Ofertas/mercados|[Experiencia digital del programa Proveedor de soluciones en la nube actualizada ya disponible Actualizaciones de la lista de precios de las suscripciones de software del programa Proveedor de soluciones en la nube (CSP) de octubre de 2020](2020-november.md#3)|2 de noviembre|
+|Ofertas/mercados|[Actualizaciones de la lista de precios de las suscripciones de software del Proveedor de soluciones en la nube (CSP) de octubre de 2020](2020-november.md#2)|2 de noviembre|
+|Ofertas/mercados|[Presentación de un estándar de rendimiento para los requisitos de los asociados que usan la facturación directa en el programa Proveedor de soluciones en la nube (CSP)](2020-november.md#1)|2 de noviembre|
+| **Categoría** | **Anuncios de octubre de 2020** | **Fecha** |
 |Funcionalidades|[Actualizaciones de características de las suscripciones de software de Windows Server](2020-october.md#17)|29 de octubre|
 |Funcionalidades|[La actualización a Windows 10 Education ya está disponible para clientes de la versión Education cualificados como Proveedores de soluciones en la nube (CSP) ](2020-october.md#16)|28 de octubre|
 |Funcionalidades|[Ya está disponible la experiencia digital actualizada del Proveedor de soluciones en la nube (CSP)](2020-october.md#15)|28 de octubre|
