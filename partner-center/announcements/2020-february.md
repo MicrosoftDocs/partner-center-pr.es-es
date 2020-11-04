@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031788"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132851"
 ---
 # <a name="february-2020-announcements"></a>Anuncios de febrero de 2020
 
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>Resumen:
 
-Esta es una actualización importante de los [requisitos de seguridad obligatorios para partners](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir del **29 de febrero de 2020**, [se quitarán las directivas de "línea de base"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) de Azure Active Directory (Azure AD) y se reemplazarán por los "valores predeterminados de seguridad", un conjunto de directivas de protección más completo para usted y sus clientes. Los valores predeterminados de seguridad de Azure AD ayudan a proteger su organización con opciones de seguridad preconfiguradas para ataques comunes.
+Esta es una actualización importante de los [requisitos de seguridad obligatorios para partners](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). A partir del **29 de febrero de 2020** , [se quitarán las directivas de "línea de base"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) de Azure Active Directory (Azure AD) y se reemplazarán por los "valores predeterminados de seguridad", un conjunto de directivas de protección más completo para usted y sus clientes. Los valores predeterminados de seguridad de Azure AD ayudan a proteger su organización con opciones de seguridad preconfiguradas para ataques comunes.
 
 Nuestro sistema indica que su organización usa actualmente directivas de línea de base y aún no ha cambiado a los valores predeterminados de seguridad. **Si no cambia a los valores predeterminados de seguridad antes del 29 de febrero, dejará de tener habilitada la opción Multi-Factor Authentication (MFA) con las directivas de línea de base en sus inquilinos de partner. Debe habilitar los valores predeterminados de seguridad lo antes posible para evitar cualquier interrupción del negocio**.
 
 ### <a name="key-considerations"></a>Consideraciones clave
 
-La directiva de valores predeterminados de seguridad es una de las [opciones ](../partner-security-requirements.md#actions-that-you-need-to-take) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
+La directiva de valores predeterminados de seguridad es una de las [opciones ](../partner-security-requirements.md#implementing-multi-factor-authentication) que los asociados pueden elegir para implementar MFA para cumplir con los requisitos de seguridad en función de sus necesidades empresariales. Ofrece un nivel básico de seguridad habilitado sin costo adicional. Consulte [cómo habilitar MFA para su organización con Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) y las siguientes consideraciones clave:
 
 - En el caso de los partners que usan el [acceso condicional](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), los valores predeterminados de seguridad no estarán disponibles.
 - Los valores predeterminados de seguridad aplican todas las directivas a la vez, que incluyen la directiva obligatoria de MFA para administradores, la directiva de protección del usuario final y la directiva obligatoria de MFA para la administración de servicios.

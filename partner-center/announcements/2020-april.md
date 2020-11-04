@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031848"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133004"
 ---
 # <a name="april-2020-announcements"></a>Anuncios de abril de 2020
 
@@ -172,7 +172,7 @@ Para ayudar a defender a los partners y clientes, **a partir del 1 de mayo de 20
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- **Si no ha activado los requisitos de seguridad recomendados para proteger al inquilino y los usuarios**, hágalo inmediatamente para seguir siendo compatible y evitar las interrupciones de negocio en la administración de clientes o en las transacciones en CSP. Los partners que no implementen los requisitos de seguridad pueden poner en peligro su participación en el programa CSP.
+- **Si no ha activado los requisitos de seguridad recomendados para proteger al inquilino y los usuarios** , hágalo inmediatamente para seguir siendo compatible y evitar las interrupciones de negocio en la administración de clientes o en las transacciones en CSP. Los partners que no implementen los requisitos de seguridad pueden poner en peligro su participación en el programa CSP.
 - Los proveedores indirectos deben implementar estos requisitos de seguridad para sus propios negocios y trabajar con revendedores para asegurarse de que también implementan los requisitos mediante esta plantilla de correo electrónico. También nos pondremos en contacto directamente con sus revendedores a través de las comunicaciones por correo electrónico.
 - Visite la [página de estado de los requisitos de seguridad del Centro de partners](https://partner.microsoft.com/commerce/security/compliance) para identificar el progreso y las acciones clave que se deben realizar. Trabaje con su administrador global para comprobar el progreso de los requisitos de seguridad con regularidad para cada uno de los inquilinos.
 - Si usa una solución de proveedor de panel de control (CPV), consulte a su CPV.
@@ -192,7 +192,7 @@ Para más asistencia con problemas técnicos, [envíe una incidencia de soporte 
 Gracias por asociarse con nosotros y por su compromiso de hacer que nuestro ecosistema sea un lugar de confianza.
 
 >[!NOTE] 
->Si usa directivas de línea de base y no ha realizado la transición a la directiva de valores predeterminados de seguridad o a [otras opciones de implementación de MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), realice la transición en cuanto sea posible remitiéndose a los [recursos clave aquí](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Si usa directivas de línea de base y no ha realizado la transición a la directiva de valores predeterminados de seguridad o a [otras opciones de implementación de MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication), realice la transición en cuanto sea posible remitiéndose a los [recursos clave aquí](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Registro de cambios
 
