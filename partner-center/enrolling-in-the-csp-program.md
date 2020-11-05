@@ -1,7 +1,7 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a su negocio, como revendedor indirecto o partner de facturación directa.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198101"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045395"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
 **Se aplica a**
 
-- Programa Proveedor de soluciones en la nube  
+- Centro de partners  
 
 **Roles adecuados**
 
@@ -64,26 +64,25 @@ Para más información sobre lo que se requiere para participar en el programa C
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscripción como partner de factura directa
 
-Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de factura directa el 31 de agosto de 2018. Estos nuevos requisitos te ayudarán a acelerar el crecimiento de tu negocio con el modelo de inscripción de CSP adecuado y fortalecer las relaciones con tus clientes mediante servicios de valor añadido y soporte técnico.
+Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de facturación directa el 27 de octubre de 2020. Estos requisitos le ayudarán a acelerar el crecimiento del negocio con el modelo adecuado del programa Proveedor de soluciones en la nube y a fortalecer las relaciones con los clientes mediante servicios de valor añadido y soporte técnico.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
 |**Requisitos**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**Id. de MPN**   |Id. de Microsoft Partner Network (MPN) activo para la ubicación de tu empresa.    |
+|**Id. de MPN**   |Una pertenencia a Microsoft Partner Network activa y un id. de MPN para la ubicación en la que quiera realizar las ventas.    |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|
 |**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br> IMPORTANTE: Debe superar una comprobación de crédito antes de comprar un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
+|**Requisito de ingresos**|Debe tener unos ingresos anuales de al menos 300 000 USD en el programa Proveedor de soluciones en la nube durante los últimos doce meses como revendedor indirecto. Los partners pueden revisar los ingresos de los últimos doce meses en el Centro de partners.<br/>Las ventas que componen los ingresos de 300 000 USD de los últimos doce meses están sujetas a revisiones y verificación por parte de Microsoft y es posible que se le pida que proporcione información adicional. El requisito de ingresos de 300 000 USD se calcula en función de los ingresos en la nube y excluirá el software perpetuo en CSP.|
+|**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes|
+|**Recomendación**|             |
 |**Servicio administrado**   |Al menos un servicio gestionado, servicio IP o una aplicación de solución de cliente. Obtén más información sobre cómo agregar [servicios gestionados](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
-|**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes
 
 ### <a name="verify-direct-bill-eligibility"></a>Comprobación de la elegibilidad de factura directa
 
-Si aún no lo ha hecho, revise los requisitos mínimos anteriores para asegurarse de que los puede cumplir y, a continuación, complete el [cuestionario del Proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-Usamos sus respuestas a las preguntas del formulario para ayudarnos a determinar su elegibilidad para inscribirse en el programa CSP como partner de factura directa.
+Después de verificar que cumple los requisitos mínimos para inscribirse como partner de facturación directa, puede continuar con el [formulario de inscripción](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
 Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscribirse como partner de factura directa y tras haber completado la solicitud de inscripción, revisaremos y comprobaremos la información empresarial que ha proporcionado en el proceso de inscripción. Como parte de esta revisión, comprobaremos el crédito de la empresa. Le enviaremos un correo electrónico para informarle cuando la empresa haya superado la comprobación de crédito.
-
 >[!IMPORTANT]
 >La comprobación del crédito de la empresa puede tardar varios días o más en completarse. Durante este tiempo, es importante que NO compre ningún plan de soporte técnico de Microsoft. Debe comprar un plan de soporte técnico de Microsoft solo después de que le hayamos informado de que ha superado la comprobación de crédito.
 

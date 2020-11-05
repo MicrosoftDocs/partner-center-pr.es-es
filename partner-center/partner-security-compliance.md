@@ -1,70 +1,57 @@
 ---
-title: Estado de los requisitos de seguridad para partners
-ms.date: 05/26/2020
+title: Informe de estado de requisitos de seguridad
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtén información sobre los nuevos requisitos obligatorios que aumentan la seguridad para asesores, proveedores del panel de control y partners en el programa Proveedor de soluciones en la nube.
+description: Obtenga información acerca de cómo comprobar el cumplimiento de los requisitos de seguridad con el informe de estado de requisitos de seguridad y el informe de MFA del Centro de partners.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999839"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132985"
 ---
-# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Estado de los requisitos de seguridad para partners: obtención de respuestas y comprobación de informes sobre el estado actual
+# <a name="security-requirements-status-report"></a>Informe de estado de requisitos de seguridad
 
 **Se aplica a**
 
 - Todos los partners que estén en el programa Proveedor de soluciones en la nube
-  - Factura directa
-  - Proveedor indirecto
-  - Revendedor indirecto
 - Todos los proveedores de panel de control
 - Todos los asesores
 
 **Usuarios adecuados**
 - Todos los usuarios habilitados, incluidos los invitados
 
-Una mayor seguridad y protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de que tienen las protecciones de seguridad adecuadas. Para ayudar a proteger a los partners y clientes, presentamos un conjunto de requisitos de seguridad obligatorios para los asesores, proveedores de panel de control y partners que participan en el programa Proveedor de soluciones en la nube.
+En este artículo se explica el informe de estado de los requisitos de seguridad del Centro de partners. Este informe proporciona métricas sobre el cumplimiento de los [requisitos de seguridad de los partners](partner-security-requirements.md) para la autenticación multifactor (MFA) para los usuarios del inquilino de partner.
 
-A partir del 1 de agosto de 2019, todos los partners tienen la obligación de aplicar la autenticación multifactor a todos los usuarios, incluidas las cuentas de servicio, en su inquilino de partner. Para obtener información más detallada sobre las nuevas directivas de seguridad, consulte [Requisitos de seguridad para partners](partner-security-requirements.md).
-
-Queremos asegurarnos de que cada usuario tenga un desafío de MFA para cada autenticación. Esta experiencia se puede realizar de cualquiera de estas maneras:
-
-- Mediante la implementación de Azure AD Premium para asegurarse de que se aplica MFA a todos los usuarios.
-- Implementar los [valores predeterminados de seguridad Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
-- Mediante la implementación de una solución de terceros para asegurarse de que se aplica MFA a todos los usuarios.
-
-## <a name="partner-security-requirements-status"></a>Estado de los requisitos de seguridad para partners
-
-Este informe puede ayudarle a comprobar el estado de los requisitos de seguridad al proporcionar una manera de ver dónde puede que no los cumpla. El seguimiento se actualiza periódicamente.
+Para obtener acceso a este informe en el [Centro de Partners](https://partner.microsoft.com/dashboard), vaya a **Configuración** > **Configuración de partners** > **Estado de requisitos de seguridad**. El informe se actualiza diariamente y refleja los datos de inicio de sesión de los últimos siete días.
 
 >[!NOTE]
->El informe de estado de los requisitos de seguridad para partners solo se admite en el Centro de partners. No está disponible en Microsoft Cloud for US Government ni en Microsoft Cloud Germany. Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (21Vianet, gobierno de EE. UU. y Alemania) que adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, no es preciso que estos partners cumplan los nuevos requisitos de seguridad que entran en vigor el 1 de agosto de 2019. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
+>El informe de estado de los requisitos de seguridad solo se admite en el Centro de partners. No está disponible en Microsoft Cloud for US Government ni en Microsoft Cloud Germany. Se recomienda encarecidamente a todos los partners que realicen transacciones a través de una nube soberana (Gobierno de EE. UU. y Alemania) que adopten estos nuevos requisitos de seguridad de inmediato. Sin embargo, actualmente, no es preciso que estos partners cumplan los nuevos requisitos de seguridad. En el futuro, Microsoft proporcionará más información acerca de la aplicación de estos requisitos de seguridad para las nubes soberanas.
 
-## <a name="multi-factor-authentication-mfa-report"></a>Informe de Multi-Factor Authentication ("MFA")
+## <a name="security-status-metrics"></a>Métricas de estado de seguridad
 
-El informe de MFA del Centro de partners ofrece información sobre la implementación de MFA para asociados, para lo cual proporciona dos tipos de métricas basadas en la configuración de MFA y en las actividades del Centro de partners del inquilino del CSP: 
+El informe de estado de requisitos de seguridad ofrece conclusiones acerca de la implementación de MFA para partners y proporciona métricas sobre la configuración de MFA y las actividades del Centro de partners en los inquilinos de partner. En las siguientes secciones se describen con más detalle estas métricas.
 
-### <a name="mfa-configuration-on-a-csp-tenant"></a>Configuración de MFA en un inquilino del CSP
+### <a name="mfa-configuration-on-a-partner-tenant"></a>Configuración de MFA en un inquilino de partner
 
-Esta métrica está relacionada con la configuración de MFA en un inquilino del CSP, que se captura y se notifica diariamente. Mide el porcentaje de cuentas de usuario habilitadas en las que se aplica MFA mediante cualquiera de esas [opciones de MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). Por ejemplo:
+La métrica **Percentage of enabled user accounts with MFA enforced using options listed here:** (Porcentaje de cuentas de usuario habilitadas con MFA aplicada mediante las opciones que se muestran aquí:) muestra el porcentaje de cuentas de usuario habilitadas en el inquilino del partner que tiene MFA aplicada. Puede usar una de estas [opciones de MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) para lograr el cumplimiento. Estos datos se capturan y se registran diariamente. Por ejemplo:
 
 - Contoso es un partner de CSP con 110 cuentas de usuario en el inquilino, 10 de las cuales están deshabilitadas. 
 - De las 100 cuentas restantes, en 90 se aplica MFA mediante las [opciones de MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) proporcionadas. Por lo tanto, la métrica muestra un 90 %. 
 
-### <a name="partner-center-activities-with-mfa"></a>Actividades del Centro de partners con MFA
+### <a name="partner-center-requests-with-mfa"></a>Solicitudes del Centro de partners con MFA
 
-Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. El estado que se muestra corresponde a los siete días anteriores.
+Cada vez que los empleados inician sesión en el Centro de partners para trabajar o, mediante las API, obtener o enviar datos a través del Centro de partners, su estado de seguridad recibe un desafío y seguimiento. En el seguimiento del estado de seguridad también se incluyen las aplicaciones y cualquier aplicación del proveedor del panel de control. Estos datos se muestran en métricas en **Porcentaje de solicitudes al Centro de partners con MFA** y reflejan los últimos siete días.
 
-#### <a name="mfa-verification-completed-by-users"></a>Comprobación de MFA realizada por los usuarios
+#### <a name="dashboard-mfa-verification"></a>Verificación de MFA del panel
 
-Esta métrica está relacionada con actividades del panel del Centro de partners. Mide el porcentaje de operaciones realizadas por los usuarios que han completado la comprobación de MFA. Por ejemplo:
+La métrica **Through Partner Center portal** (Mediante el portal del Centro de partners) está relacionada con las actividades del panel del Centro de partners. Mide el porcentaje de operaciones realizadas por los usuarios que han completado la comprobación de MFA. Por ejemplo:
 
 - Contoso es un partner de CSP con dos agentes de administración, Julia y Juan.
 - El primer día, Julia inicia sesión en el panel del Centro de partners sin verificación MFA y realiza tres operaciones.
@@ -75,9 +62,9 @@ Esta métrica está relacionada con actividades del panel del Centro de partners
 
 Usa el archivo **Portal requests without MFA** para averiguar qué usuario inició sesión en el panel del Centro de partners sin verificación MFA y la hora de la última visita en el período notificado.
 
-#### <a name="appuser-authentication"></a>Autenticación de aplicación y usuario
+#### <a name="appuser-mfa-verification"></a>Verificación MFA de aplicación y usuario
 
-Esta métrica está relacionada con el uso de solicitudes de API del Centro de partners realizadas con la autenticación de aplicación y usuario. Mide el porcentaje de solicitudes de API realizadas mediante un token de acceso con notificación de MFA. Por ejemplo:
+La métrica **Through API or SDK** (Mediante la API o el SDK) está relacionada con la autenticación de aplicación y usuario mediante solicitudes de la API del Centro de partners. Mide el porcentaje de solicitudes de API realizadas mediante un token de acceso con notificación de MFA. Por ejemplo:
 
 - Fabrikam es un partner de CSP y tiene una aplicación de CSP que usa una combinación de métodos de autenticación de aplicación y usuario y de solo aplicación.
 - El primer día, la aplicación realiza tres solicitudes de API respaldadas por un token de acceso obtenido mediante el método de autenticación de aplicación y usuario sin la verificación de MFA.
@@ -91,41 +78,40 @@ Para conocer los resultados de las actividades de aplicación y usuario en el va
 - **API requests summary** para comprender el estado general de MFA por aplicación.
 - **All API requests** para comprender los detalles de cada una de las solicitudes de API realizadas por los usuarios del inquilino. El resultado está limitado a un máximo de 10 000 solicitudes más recientes a fin de optimizar la experiencia de descarga.
 
-## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>¿Qué debo hacer si las métricas del informe de MFA no corresponde al 100 %?
+## <a name="actions-for-mfa-status-below-100"></a>Acciones para un estado de MFA inferior al 100 %
 
-Es posible que las métricas del informe de MFA del Centro de partners no sean del 100 % para los partners que han implementado MFA. Para comprender por qué, estos son algunos factores a tener en cuenta.
+Algunos partners que hayan implementado MFA podrían ver métricas de informe por debajo del 100 %. Para comprender por qué, estos son algunos factores a tener en cuenta.
 
 > [!NOTE]
 > Tendrá que trabajar con alguien de la organización que esté familiarizado con la administración de identidades y la implementación de MFA para el inquilino del partner.
 
-### <a name="have-you-implemented-mfa-for-your-partner-tenant"></a>¿Ha implementado MFA para el inquilino del partner?
+### <a name="implemented-mfa-for-your-partner-tenant"></a>Se implementó MFA para el inquilino del partner
 
-Si no es así, primero debe implementar MFA para el inquilino del partner. Para obtener más información sobre cómo implementar MFA, consulta el artículo [Requisitos de seguridad para partners](partner-security-requirements.md).
+Para lograr el cumplimiento, debe implementar MFA para el inquilino del partner. Para obtener información detallada sobre cómo implementar MFA, consulte [Requisitos de seguridad para usar el Centro de partners o las API del Centro de partners](partner-security-requirements.md).
 
-### <a name="have-you-only-recently-completed-mfa-implementation"></a>¿Solo ha completado la implementación de MFA recientemente?
+>[!NOTE]
+> Las métricas de MFA se calculan cada día y tienen en cuenta las operaciones realizadas en los últimos siete días. Si solo ha completado recientemente la implementación de MFA para el inquilino del partner, puede que las métricas aún no sean del 100 %.
 
-Las métricas se calculan cada día y tienen en cuenta las operaciones realizadas en los últimos siete días. Si solo ha completado recientemente la implementación de MFA para el inquilino del partner, las métricas pueden no ser del 100 %.
+### <a name="verify-mfa-on-all-user-accounts"></a>Verificar MFA en todas las cuentas de usuario
 
-### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>¿Algunas cuentas de usuario se han excluido de la implementación de MFA?
+Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario o solo algunas. Algunas soluciones MFA están basadas en directivas y admiten la exclusión de usuarios, mientras que otras pueden requerir que se habilite explícitamente MFA por usuario. Compruebe que no ha excluido ningún usuario de la implementación de MFA actual. Las cuentas de usuario que se excluyan e inicien sesión en el Centro de partners para realizar cualquier actividad relacionada con CSP, CPV o Advisor pueden hacer que las métricas no sean del 100 %.
 
-Comprenda si la implementación de MFA actual cubre todas las cuentas de usuario o solo algunas. Algunas soluciones MFA están basadas en directivas y admiten la exclusión de usuarios, mientras que otras pueden requerir que se habilite explícitamente MFA por usuario. Compruebe que no ha excluido ningún usuario de la implementación de MFA actual. Las cuentas de usuario que se excluyan e inicien sesión en el Centro de partners para realizar cualquier actividad relacionada con CSP pueden hacer que las métricas no sean del 100 %.
-
-### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>¿Solo se requiere MFA cuando se cumplen ciertas condiciones?
+### <a name="review-your-mfa-conditions"></a>Revisión de las condiciones de MFA
 
 Comprende si la implementación actual solo aplica MFA en condiciones específicas. Algunas soluciones MFA proporcionan flexibilidad para aplicar MFA solo cuando se cumplen ciertas condiciones. Por ejemplo, el usuario obtiene acceso desde un dispositivo desconocido o una ubicación desconocida. Un usuario que esté habilitado para MFA pero que no se requiera que complete la comprobación de MFA al acceder al Centro de partners, puede provocar que las métricas no sean del 100%.
 
 >[!NOTE]
 >En el caso de los partners que han implementado MFA con los valores predeterminados de seguridad de Azure AD, es importante tener en cuenta que, para ninguna de las cuentas de usuario de administrador, se aplicará la autenticación multifactor según el riesgo. A los usuarios se les pedirá MFA solo durante los intentos de inicio de sesión de riesgo (por ejemplo, el usuario inicia sesión desde una ubicación diferente). Además, los usuarios tendrán hasta 14 días para registrarse para MFA. A los usuarios que no hayan completado el registro de MFA no se les solicitará la comprobación de MFA durante el período de 14 días. Por lo tanto, se espera que las métricas puede que no sean del 100 % para los partners que han implementado MFA con los valores por defecto de seguridad de Azure AD.
 
-### <a name="are-you-using-third-party-mfa-solution"></a>¿Usas una solución de MFA de terceros?
+### <a name="review-third-party-mfa-configurations"></a>Revisión de las configuraciones de MFA de terceros
 
 Si usas una solución de MFA de terceros, identifica cómo se integra con Azure AD. En general, hay dos métodos, incluidos los controles personalizados y de federación:
 
-* **Federación de identidades**: cuando Azure AD recibe una solicitud de autenticación, Azure AD redirigirá al usuario al proveedor de identidades federado para la autenticación. Tras una autenticación correcta, el proveedor de identidades federado redirigirá al usuario a Azure AD junto con un token SAML. Para que Azure AD reconozca que el usuario ha completado la comprobación de MFA al autenticarse en el proveedor de identidades federado, el token SAML debe incluir la notificación *authenticationmethodsreferences* (con el valor *multipleauthn*). Compruebe si el proveedor de identidades federado admite la emisión de este tipo de notificaciones. Si es así, compruebe si el proveedor de identidades federado se ha configurado para ello. Si falta la notificación, Azure AD (y, por tanto, el Centro de partners) no sabrá que el usuario ha completado la verificación MFA y esto puede hacer que la métrica no sea del 100 %.
+* **Federación de identidades** : cuando Azure AD recibe una solicitud de autenticación, Azure AD redirigirá al usuario al proveedor de identidades federado para la autenticación. Tras una autenticación correcta, el proveedor de identidades federado redirigirá al usuario a Azure AD junto con un token SAML. Para que Azure AD reconozca que el usuario ha completado la comprobación de MFA al autenticarse en el proveedor de identidades federado, el token SAML debe incluir la notificación *authenticationmethodsreferences* (con el valor *multipleauthn* ). Compruebe si el proveedor de identidades federado admite la emisión de este tipo de notificaciones. Si es así, compruebe si el proveedor de identidades federado se ha configurado para ello. Si falta la notificación, Azure AD (y, por tanto, el Centro de partners) no sabrá que el usuario ha completado la verificación MFA y esto puede hacer que la métrica no sea del 100 %.
 
-* **Control personalizado**: el control personalizado de Azure AD no se puede usar para identificar si un usuario ha completado la verificación MFA mediante una solución MFA de terceros. Como resultado, cualquier usuario que haya completado la comprobación de MFA a través de un control personalizado aparecerá siempre en Azure AD (y, a su vez, en el Centro de partners) como si no hubiera completado dicha comprobación. Siempre que sea posible, se recomienda usar la Federación de identidades en lugar de un Control personalizado al integrar con Azure AD.
+* **Control personalizado** : el control personalizado de Azure AD no se puede usar para identificar si un usuario ha completado la verificación MFA mediante una solución MFA de terceros. Como resultado, cualquier usuario que haya completado la comprobación de MFA a través de un control personalizado aparecerá siempre en Azure AD (y, a su vez, en el Centro de partners) como si no hubiera completado dicha comprobación. Siempre que sea posible, se recomienda usar la Federación de identidades en lugar de un Control personalizado al integrar con Azure AD.
 
-### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identificar qué usuarios han iniciado sesión en el Centro de partners sin usar MFA
+### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identificar qué usuarios han iniciado sesión en el Centro de partners sin MFA
 
 Puede ser útil identificar los usuarios que inician sesión en el Centro de partners sin comprobación de MFA y comprobarlos con la implementación de MFA actual. Puede usar el [informe de inicio de sesión de Azure AD ](/azure/active-directory/reports-monitoring/concept-sign-ins) para averiguar si un usuario ha completado la comprobación de MFA o no. Actualmente, el informe de inicio de sesión de Azure AD solo está disponible para los partners que se han suscrito a Azure AD Premium o a cualquier SKU de O365, lo que incluye Azure AD Premium (por ejemplo, EMS).
 
