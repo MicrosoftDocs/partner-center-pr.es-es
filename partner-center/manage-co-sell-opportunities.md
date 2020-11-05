@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198041"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363646"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Administrar oportunidades de venta conjunta en el centro de Partners
 
@@ -40,7 +40,7 @@ Aproveche las ventajas de las oportunidades de venta conjunta.  Las oportunidade
 **Evaluación de la solución (SA)** : estos tipos de contratos pueden crearse solo por un conjunto de asociados que probado el equipo empresarial de valoraciones de la solución para realizar evaluaciones tecnológicas para los clientes que usan o planean usar tecnologías de Microsoft.
 
 > [!NOTE]
-> Los negocios privados, aunque no son realmente colaborativos, se incluyen aquí para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización que se encuentre en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal (**ganada, perdida, rechazada y expirada**).
+> Los negocios privados, aunque no son realmente colaborativos, se incluyen aquí para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización que se encuentre en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal ( **ganada, perdida, rechazada y expirada** ).
 
 ## <a name="navigating-the-co-sell-section"></a>Navegar por la sección de venta conjunta
 
@@ -63,7 +63,7 @@ Puede crear tres tipos de oportunidades.
 
 Seleccione el cliente para este trato específico. Escriba su ubicación y comience a escribir el nombre. La sugerencia automática comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
+Una vez que haga clic en **seleccionar el cliente** , se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Siguiente**.
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -75,11 +75,12 @@ Especifique los detalles de la transacción actual. Los campos que se definen a 
 | **Nombre del campo** | **Obligatorio/opcional** | **Detalles** |
 |-------------|--------|-------|
 |**Nombre del trato** | Mandatory | El nombre descriptivo para identificar el trato en un momento posterior. |
+|**Ubicación**| Mandatory | El ámbito de ubicación de MPN de la referencia. Los usuarios de referencia con este ámbito de ubicación pueden ver las referencias si forman parte del equipo. Los administradores de referencia y los administradores de referencia con ámbito global pueden ver las referencias independientemente de la ubicación. No se puede editar la ubicación después de crear la referencia.|
 |**Valor estimado** | Mandatory | El valor del trato en función de la información disponible durante la creación de la transacción.|
 |**Fecha de cierre estimada**| Mandatory| Fecha en la que se espera que se cierre el trato con el cliente. |
-|**IDENTIFICADOR DE CRM**| Opcional | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
-|**ID. de campaña de marketing**| Opcional | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
-|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
+|**IDENTIFICADOR DE CRM**| Opcionales | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
+|**ID. de campaña de marketing**| Opcionales | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
+|**Notas**| Opcionales | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
 
 ### <a name="add-team-members"></a>Agregar miembros del equipo
 
@@ -99,14 +100,14 @@ En esta sección, debe proporcionar la información relacionada con las solucion
 
 Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene tres opciones si elige soluciones de las tres primeras opciones y no una evaluación de la solución:
 
-**Trato privado**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
+**Trato privado** : Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato.
 
 > [!Important]
 > El registro del trato no es aplicable a las ofertas privadas. Tenga cuidado a la vez que crea un trato privado con soluciones válidas para incentivos, ya que no será válida para el registro de trato en el centro de Partners.
 
-**Contrato de venta conjunta:** Si selecciona una opción distinta de la selección predeterminada para la pregunta **"identificar el tipo de ayuda que le gustaría de Microsoft"**, el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft puede ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
+**Contrato de venta conjunta:** Si selecciona una opción distinta de la selección predeterminada para la pregunta **"identificar el tipo de ayuda que le gustaría de Microsoft"** , el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft puede ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
 
-Contrato entre socios comerciales **(P2P)**: puede invitar a otros asociados al trato haciendo clic en el vínculo invitar al socio. A continuación se muestra el proceso para crear un trato P2P.
+Contrato entre socios comerciales **(P2P)** : puede invitar a otros asociados al trato haciendo clic en el vínculo invitar al socio. A continuación se muestra el proceso para crear un trato P2P.
 
 - **Seleccione un asociado:** Después de hacer clic en invitar Partner, podrá empezar a escribir el nombre del asociado para obtener una lista sugerida de asociados que coincidan con el nombre que está escribiendo. Seleccione el socio que le interese para rellenar los detalles adicionales de ese socio. Solo puede buscar asociados que estén en el ecosistema de venta conjunta de Microsoft y que estén transaccionando en el centro de Partners.
 
@@ -134,9 +135,9 @@ En esta fase, si ha recibido una nueva oportunidad de venta conjunta de un vende
 
 - **Aceptar:** Escriba un nombre para el contrato, edite el valor del negocio estimado y el período de tiempo de compra estimado en función de la revisión. Una vez que haya establecido el contacto con el cliente, debe proporcionar información en el campo **notas** para explicar mejor lo que busca el cliente. Opcionalmente, puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing que dio lugar a la oportunidad respectiva y agregar contactos de la empresa que trabajarán en este trato.
 
-- Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a **la siguiente fase**, lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro.
+- Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a **la siguiente fase** , lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro.
 
-- **Rechazar**: seleccione el motivo por el que va a rechazar el trato y agregue las notas que quiera incluir y, después, seleccione **cerrar trato**. Lo archivaremos como **rechazado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
+- **Rechazar** : seleccione el motivo por el que va a rechazar el trato y agregue las notas que quiera incluir y, después, seleccione **cerrar trato**. Lo archivaremos como **rechazado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
 
 - Si no responde en el tiempo asignado (actualmente, 14 días), lo archivaremos como **expirado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
 
@@ -161,7 +162,7 @@ A continuación se muestra la tabla en la que se muestran las fases de ventas y 
 |Aceptado|10 %|Aceptación de un trato entrante.|
 |Apto|20%|Calificar el valor de los requisitos de trato y cliente antes de continuar.|
 |Elabora|40%|Desarrollar el trato aún más para comprender los requisitos detallados para preparar una POC o cualquier otro artefacto necesario para una propuesta formal.|
-|Propuesto|60 %|Realización de una propuesta formal al cliente en función de sus requisitos.|
+|Propuesto|60%|Realización de una propuesta formal al cliente en función de sus requisitos.|
 |Negotiated|80 %|Negociar los términos finales en función de la propuesta para llegar al estado final: ganar o perder el trato.|
 |Ganado|100%|Marcar el trato como ganado.|
 
@@ -184,7 +185,7 @@ Un trato será válido para el registro de trato solo si cumple todos los criter
 
 Si el trato es válido para el registro de trato, se agregará un hito adicional al ciclo de vida del trato denominado "registro de trato", como se muestra a continuación.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen en la que se muestra el ciclo de vida del negocio, la ubicación desde donde se puede iniciar el registro del contrato.":::
 
 Puede optar por registrar el trato inmediatamente después de marcar el trato como ganado o en un momento posterior a través del botón registrar ciclo de vida **ahora** .
 Una vez registrado el contrato, puede ver el progreso de la validación del contrato desde el mismo ciclo de vida. Si se requiere alguna acción de la empresa, se mostrarán los errores correspondientes en la vista ciclo de vida del negocio. El trato entra en el estado cerrado cuando se completa la validación del contrato.
@@ -198,14 +199,14 @@ En la tabla siguiente se muestran las combinaciones de personas a las que se pue
 
 |**Tipo de trato original**|**Personas a las que se puede invitar**|**Notas**|
 |-----|:-----|:-----|
-|Privados|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
+|Private|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
 |Venta conjunta|Otros asociados|Se puede invitar a otros asociados solo si su empresa inició el trato. No se puede invitar a los asociados a los contratos en la pestaña entrante.|
 |Asociado al asociado sin Microsoft|Microsoft|El trato se actualizará a un trato de venta conjunta.|
 |Asociado al asociado sin Microsoft|Otros asociados||
 
 ### <a name="closed-stage"></a>Fase cerrada
 
-Esta es la fase final de todas las oportunidades. Puede ver todos los acuerdos que se encuentran en las versiones **ganadas, perdidas, rechazadas**y **expiradas** en la fase cerrada. No hay acciones que pueda realizar en esta fase.
+Esta es la fase final de todas las oportunidades. Puede ver todos los acuerdos que se encuentran en las versiones **ganadas, perdidas, rechazadas** y **expiradas** en la fase cerrada. No hay acciones que pueda realizar en esta fase.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -217,13 +218,13 @@ No, los contratos no se pueden modificar una vez que pasan a un estado de termin
 
 Esto puede ocurrir si su empresa tiene varios inquilinos asociados a la misma cuenta de MPN. Vaya a la configuración de la cuenta del centro de Partners y compruebe los inquilinos asociados con la cuenta. A continuación, cree una incidencia de soporte técnico para la vinculación de los inquilinos. Proporcione el identificador de inquilino en el que ha iniciado sesión en la incidencia de soporte técnico.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagen que muestra la configuración de la cuenta en la que se puede encontrar información del inquilino.":::
 
 **Q3. ¿Quién recibe una notificación por correo electrónico del centro de Partners?**
 
 En el flujo de trabajo siguiente se explica cómo se envían los mensajes de correo electrónico a los asociados desde el sistema de referencias del centro de partners para las nuevas referencias de entrada de socios comerciales.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para las nuevas referencias entrantes.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtener más oportunidades de venta conjunta
 
