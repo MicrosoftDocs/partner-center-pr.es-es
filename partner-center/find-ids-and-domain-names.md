@@ -1,7 +1,7 @@
 ---
 title: Buscar el ID. de inquilino, el nombre de dominio, el ID. de objeto de usuario
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Obtenga información sobre cómo buscar identificadores en el Azure Portal: el identificador de inquilino de Azure AD de una organización, el nombre de dominio o el identificador de objeto de usuario específico. Algunas tareas necesitan esta información.'
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740437"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360078"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Búsqueda de identificadores importantes para un usuario
 
@@ -28,7 +28,7 @@ En este artículo se describe cómo usar el [Azure portal](https://portal.azure.
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Busque el identificador de inquilino de Microsoft Azure AD y el nombre de dominio principal
 
-Siga estos pasos para buscar el identificador de inquilino de Azure AD o el nombre de dominio principal en el Azure Portal.
+Siga estos pasos para buscar el identificador de inquilino de Azure AD o el nombre de dominio principal en el Azure Portal. (Si desea buscar un identificador de inquilino mediante programación, consulte búsqueda de un [identificador de inquilino con PowerShell o CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)).
 
 > [!NOTE]
 > El identificador de inquilino puede denominarse nombres diferentes en aplicaciones o recursos diferentes. Por ejemplo, se puede hacer referencia al identificador de inquilino como el identificador de directorio, el inquilino de Azure Active Directory (Azure AD), el identificador de Microsoft o para determinados informes, incluso el *tenantguid*.
@@ -75,5 +75,6 @@ Solo se puede encontrar el nombre de dominio y el ID. de inquilino. También es 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
+- [Busque el identificador de inquilino mediante programación con PowerShell o CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Más información acerca de los perfiles de usuario en Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Averigüe cómo los asociados pueden ver o exportar los detalles del cliente en el centro de Partners](see-your-customer-list.md)
