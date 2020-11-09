@@ -1,20 +1,20 @@
 ---
 title: Migrar de sales Partner Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados de Microsoft pueden migrar de Partner Sales Connect (PSC) al centro de Partners y crear o administrar los acuerdos enviados por los vendedores de Microsoft.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999349"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381438"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999349"
 - Administrador de ventas de asociados (PSC)
 - Director de ventas de socio comercial (PSC)
 
-Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2020. Sin embargo, encontrará todo lo que desea hacer para crear ofertas de venta conjunta, administrar sus negocios y realizar acciones en los acuerdos enviados por los vendedores de Microsoft en el centro de Partners. Sin embargo, habrá diferencias y las siguientes instrucciones le ayudarán a hacer que la transición al centro de Partners sea más suave y directa.
+Como sabe, su empresa perderá el acceso a PSC después del 31 de marzo de 2021. Sin embargo, encontrará todo lo que desea hacer para crear ofertas de venta conjunta, administrar sus negocios y realizar acciones en los acuerdos enviados por los vendedores de Microsoft en el centro de Partners. Sin embargo, habrá diferencias y las siguientes instrucciones le ayudarán a hacer que la transición al centro de Partners sea más suave y directa.
 
 >[!Important]
 > Si está aquí porque vio un banner en PSC sobre la migración, está en el lugar correcto. Esta guía no es aplicable a los asociados de evaluación de soluciones (SA) y OEM IOT que administran sus contratos en PSC.
@@ -47,7 +47,7 @@ Como sabe, su empresa perderá el acceso a PSC después del 31 de diciembre de 2
 >[!Important]
 > Asegúrese de que el identificador de MPN que se muestra en el banner de PSC está disponible en la lista de ubicaciones de MPN del centro de Partners. Para comprobarlo en el centro de Partners, vaya a "configuración de la cuenta" y "[ubicaciones](manage-locations.md)" en la lista para buscar la lista de todas las MPNs asociadas a la cuenta del centro de Partners.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagen que muestra el banner de PSC en el que los asociados pueden encontrar el ID. de MPN.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagen que muestra el banner de PSC en el que los asociados pueden encontrar el ID. de MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Si es un administrador de transacciones de PSC o un vendedor
 
@@ -63,26 +63,55 @@ Si no ve la pestaña referencias:
 
 - El [administrador global](permissions-overview.md) de su empresa puede concederle acceso a la pestaña referencias. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Seleccione la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales". La página mostrará a continuación todos los administradores globales con sus respectivos identificadores de correo electrónico. Póngase en contacto con ellos para obtener acceso "Administrador de referencia" para su cuenta profesional.
 
->[!Important]
-> Si su rol solo está administrando usuarios en PSC, puede obtener el rol [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. Si su rol también incluye la administración de oportunidades de venta conjunta, debe obtener el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) . Además, supongamos que un responsable de administración de cambios entre los administradores de PSC trabaja con el administrador de la cuenta del centro de Partners en lugar de que todos los administradores de PSC lleguen a los administradores de cuentas del equipo individualmente.
+  >[!Important]
+  > Si su rol solo está administrando usuarios en PSC, puede obtener el rol [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. Si su rol también incluye la administración de oportunidades de venta conjunta, debe obtener el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) . Además, supongamos que un responsable de administración de cambios entre los administradores de PSC trabaja con el administrador de la cuenta del centro de Partners en lugar de que todos los administradores de PSC lleguen a los administradores de cuentas del equipo individualmente.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
 
 - Vaya a la pestaña referencias en el panel de navegación izquierdo y compruebe si puede tener acceso a las páginas.
 
+  >[!Note]
+  > Es posible que tenga que cerrar la sesión del centro de Partners y volver a iniciar sesión para actualizar las credenciales para el acceso a las páginas de referencias.
+
+## <a name="user-migration"></a>Migración de usuarios
+
+Una vez configurada la cuenta en el centro de Partners, use el Asistente para migración de usuarios de la página oportunidades de venta conjunta para asignar automáticamente roles del centro de partners a los empleados de la empresa.
+
 >[!Note]
-> Es posible que tenga que cerrar la sesión del centro de Partners y volver a iniciar sesión para actualizar las credenciales para el acceso a las páginas de referencias.
+> La migración de usuarios solo la pueden realizar los [administradores de cuentas](permissions-overview.md#manage-mpn-membership-and-your-company) de su empresa. Si no tiene el rol de administrador de cuenta, busque un administrador de cuenta que pueda ayudarle a configurar las cuentas de usuario con la ayuda del Asistente para migración de usuarios. La funcionalidad de migración de usuarios estará disponible a partir del 16 de noviembre de 2020.
 
-Una vez configurada la cuenta en el centro de Partners,
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagen que muestra el Asistente para migración de usuarios.":::
 
-- Invite a todos los usuarios que tienen un rol "Deal Manager" o "vendedor" en PSC al centro de partners como paso siguiente.
-- El [Administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de la cuenta que le ayudó con el acceso a las referencias puede invitar a todos los usuarios.
-- Al invitar a los usuarios, pídale al administrador de la cuenta que le asigne el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) .
-- Es posible que algunos de los usuarios de PSC estén usando una cuenta que no sea de trabajo o una cuenta de un dominio diferente del que está usando en el centro de Partners. Todos estos usuarios deben iniciar sesión en el centro de Partners con su cuenta profesional asociada al inquilino de Azure AD. El [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) puede ayudarle con esto. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales".
-- El administrador global puede crear una nueva cuenta de usuario en el inquilino de Azure AD o asignar acceso de usuario invitado a los demás usuarios de la cuenta de dominio.
-- Una vez que las cuentas están configuradas para todos los administradores y usuarios de la empresa de PSC, deben iniciar sesión en el centro de Partners, ir a la pestaña referencia en el panel de navegación izquierdo y comprobar que pueden ver la página referencias.
+El vínculo Admins. de cuentas obtendrá un asistente para migración de usuarios de PSC en la página oportunidades de venta conjunta, junto a la guía de referencias. Para iniciar la migración de usuarios, haga clic en el vínculo. Esta acción se puede realizar varias veces hasta que todos los usuarios a los que desea migrar la empresa tengan asignados roles adecuados en el centro de Partners.
+
+La tabla de migración de usuarios tiene los detalles siguientes
+
+- Cuenta de usuario: ID. de correo electrónico del empleado
+- Cuenta de asociado de PSC: la cuenta a la que está asociado el empleado en PSC
+- Función de usuario de PSC: una de las tres funciones asignadas a en PSC.
+- Ubicación de MPN de PC: la ubicación para la que se proporcionará al usuario roles de equipo relevantes. El MPN de la cuenta de asociado de PSC se usa para encontrar la ubicación de MPN equivalente en el centro de partners para asignar permisos. Toda la organización denota el identificador de vOrg MPN.
+- Rol de usuario de equipo: a los empleados se les asignan roles según sus roles de usuario de PSC. En el administrador de PSC se le asignarán roles de administrador de referencias en PC. Al vendedor se le asignará un rol de usuario de referencias en PC. Obtenga más información sobre los roles de PC y lo que pueden hacer los usuarios con estos roles en el centro de Partners [aquí](permissions-overview.md#manage-referrals)
+- Inquilino de AAD de equipo: el inquilino al que están asignados los usuarios en el centro de Partners
+- Estado: hay tres Estados posibles para el estado de la migración.
+    - No migrado: el usuario no tiene asignada ninguna función de referencias de equipo
+    - Migrated: el usuario se migró correctamente con el rol pertinente asignado como se muestra en la tabla.
+    - Error: no se puede completar la migración debido a un error
+
+Se puede producir un error en la migración y provocar errores en algunas condiciones en las que se proporcionan las soluciones siguientes
+
+1. Los usuarios de PSC pueden estar usando una cuenta que no es de trabajo.
+
+2. Los usuarios de PSC pueden estar utilizando una cuenta de un dominio diferente del que está usando en el centro de Partners.
+
+   - Para resolver los errores relacionados con los escenarios 1 y 2, todos estos usuarios deben iniciar sesión en el centro de Partners con su cuenta profesional asociada al inquilino de Azure AD. El [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) puede ayudarle con esto. Para buscar el administrador global, vaya a configuración de socio comercial en el icono de engranaje de la parte superior derecha del centro de Partners. Haga clic en la página Administración de usuarios en el segundo nivel de la barra de navegación izquierda. Haga clic en la lista desplegable que muestra "todos los usuarios" en la parte superior derecha de la página y cambie a "administradores globales". El administrador global puede crear una nueva cuenta de usuario en el inquilino de Azure AD o asignar acceso de usuario invitado a los demás usuarios de la cuenta de dominio. Una vez que las cuentas están configuradas para todos los administradores y usuarios de la empresa de PSC, deben iniciar sesión en el centro de Partners, ir a la pestaña referencia en el panel de navegación izquierdo y comprobar que pueden ver la página referencias.
+
+3. El usuario ya tiene un rol de referencia asignado en el centro de Partners.
+    - Puede comprobar el rol existente del usuario desde la página de administración de usuarios en la configuración de la cuenta y modificar lo mismo que sea necesario.
+
+Una vez completada la migración de usuarios, use las siguientes instrucciones para decidir la estrategia de migración: 
 
 Si su empresa tiene un PDM, cuando se configure la cuenta del centro de Partners y los usuarios hayan movido y tengan roles y permisos, puede trasladar las actividades de venta conjunta al centro de Partners. Informe a PDM para que realice el cambio en lugar de esperar hasta que se complete la fecha límite de la migración, lo que permitirá que todos los nuevos acuerdos fluyan al centro de Partners.
+
 >[!Note]
 >Una vez que haya realizado este cambio, solo podrá actuar en los contratos activos existentes en PSC. No puede crear nuevos acuerdos ni recibir ningún trato de los vendedores de Microsoft en PSC.
 
@@ -128,7 +157,7 @@ En esta sección se presenta la asignación exacta de los atributos entre PSC y 
 - El rol de negocio no es un campo obligatorio en PC. No se muestra ni se captura en ninguno de los flujos de trabajo. Se deriva automáticamente en el lado de vendedor de Microsoft en función de las soluciones agregadas a la transacción.
 - La fecha de la última modificación no se muestra en la página Detalles de referencia de PC. Los asociados pueden usar la funcionalidad de ordenación para ordenar los acuerdos en función de la fecha de la última actualización.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de cuadrícula de conexión de ventas de socio (PSC) y la vista de trato del centro de Partners.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de cuadrícula de conexión de ventas de socio (PSC) y la vista de trato del centro de Partners.":::
 
 **Vista de detalles del contrato en PSC y en el centro de Partners**
 
@@ -141,11 +170,11 @@ En esta sección se presenta la asignación exacta de los atributos entre PSC y 
 >[!Note]
 >Cualquier trato marcado como ganada o perdida no se puede editar. Tenga cuidado al trasladar un trato a uno de estos Estados de terminal.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de detalles del contrato de ventas de asociados (PSC) y la vista de detalles del centro de Partners.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de detalles del contrato de ventas de asociados (PSC) y la vista de detalles del centro de Partners.":::
 
 **Vista "agregar productos" de PSC y la vista "agregar soluciones" del centro de Partners**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Imagen en la que se muestran las asignaciones de campos entre la vista agregar productos del socio comercial de ventas (PSC) y el centro de Partners agregar vista de soluciones.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Imagen en la que se muestran las asignaciones de campos entre la vista agregar productos del socio comercial de ventas (PSC) y el centro de Partners agregar vista de soluciones.":::
 
 **Administración de usuarios en PSC y centro de Partners**
 
@@ -156,11 +185,11 @@ En esta sección se presenta la asignación exacta de los atributos entre PSC y 
 - El rol equivalente para el administrador de PSC es el rol de administrador de cuenta en el centro de Partners.
 - Solo hay un rol en el centro de partners para la administración de acuerdos de venta conjunta, que es el rol de administrador de referencia.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de asignación de roles de conexión de ventas (PSC) de asociados y la vista de asignación de roles del centro de Partners.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Imagen que muestra las asignaciones de campos entre la vista de asignación de roles de conexión de ventas (PSC) de asociados y la vista de asignación de roles del centro de Partners.":::
 
 **Notificaciones en PSC y centro de Partners**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Imagen que muestra la asignación entre las notificaciones de socio comercial (PSC) de asociados y la vista de notificaciones del centro de Partners.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Imagen que muestra la asignación entre las notificaciones de socio comercial (PSC) de asociados y la vista de notificaciones del centro de Partners.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Cambio de PSC a Partner Center: preguntas más frecuentes
 
@@ -246,7 +275,9 @@ Si aún no ha leído los temas de ayuda de la venta conjunta, los siguientes rec
 |Creación y administración de perfiles de negocio|[Administrar el perfil de negocio](./create-a-marketing-profile.md)
 |Administración de clientes potenciales para su perfil de negocio |[Administrar los clientes potenciales](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Recursos adicionales
+## <a name="next-steps"></a>Pasos siguientes
+
+Siga estos recursos adicionales:
 
 - [Ventas de asociados conectar con el centro de Partners libro](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) : libro para alinear los procesos de ventas y roles de los asociados con nuevos procesos de ventas a través del centro de Partners frente a la conexión de ventas de asociados.
 - [Guía de funcionamiento de la venta conjunta del centro de Partners](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) : Guía para identificar un modelo operativo a través del centro de Partners con el fin de administrar oportunidades de ventas de clientes potenciales o de venta conjunta.

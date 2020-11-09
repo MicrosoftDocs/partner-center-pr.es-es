@@ -1,82 +1,60 @@
 ---
-title: 'Detalles de la Directiva de pago: Microsoft Commercial Marketplace'
+title: 'Programaciones de pago y detalles de la Directiva: Azure Marketplace'
 description: Obtenga información sobre los detalles relacionados con las directivas de pago de Marketplace comercial, como programaciones y recuperaciones.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 09/28/2020
-ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 11/06/2020
+ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174918"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381399"
 ---
-# <a name="payout-policy-details"></a>Detalles de la política de pago
+# <a name="payout-schedules-and-policy-details"></a>Programaciones de pago y detalles de la Directiva
 
-En este artículo se describe el proceso de pago de Microsoft, la programación de pago, dónde encontrar el estado de un pago y la política de recuperación.
+En este artículo se describe el proceso de pago de Microsoft, la programación de pagos, dónde encontrar el estado de un pago y el proceso de no pago del cliente.
 
 ## <a name="payment-schedules"></a>Programaciones de pago
 
-En las secciones siguientes se describe nuestro proceso de pago.
+En las secciones siguientes se describe el proceso de pago de las transacciones de **contrato Enterprise** y de la **tarjeta de crédito/factura** .
 
-### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Transacciones del Contrato Enterprise después del 1 de mayo de 2020
+### <a name="enterprise-agreement-transactions"></a>Transacciones de Contrato Enterprise
 
-#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Actualización a nuestro modelo de pago de publicador de Marketplace comercial
+Cuando un cliente compra un producto desde Microsoft AppSource o Azure Marketplace usando su Contrato Enterprise de Microsoft actual para las transacciones, se emitirán pagos en el siguiente ciclo de pago 30 días después de la factura del cliente. Las transacciones en las que un cliente utiliza una tarjeta de crédito tienen un período de retención de 30 días antes del pago.
 
-A partir del 1 de mayo de 2020, vamos a actualizar nuestra política de pago relacionada con los productos que los clientes con un Contrato Enterprise de Microsoft han adquirido en Azure Marketplace o AppSource. Si un cliente compra un producto en Azure Marketplace o AppSource con su Contrato Enterprise de Microsoft actual con posterioridad al 1 de mayo de 2020, los pagos comenzarán a emitirse en el siguiente ciclo de pago, 30 días después de la factura del cliente. Las transacciones realizadas mediante tarjeta de crédito no experimentarán cambios y seguirán teniendo un período de retención de 30 días antes del pago. En esta tabla se muestran los detalles de la programación del pago.
+A menudo se producirá un pago antes de que Microsoft recopile el pago del cliente. Vea el [proceso de no pago](#process-for-customer-non-payment) a través de los clientes a continuación para las acciones que tomamos si el cliente no paga a Microsoft, pero ya hemos emitido un pago.
 
-> [!NOTE]
-> Consulte a continuación [Proceso para impagos de los clientes](#process-for-customer-non-payment) para conocer qué acciones emprender si un cliente no paga, pero a usted ya se la ha emitido un pago.
-
-| Evento  | Fecha (UTC) | Visibilidad de los asociados: Informe de pago del Centro de partners  |  Visibilidad de los asociados: Análisis del Centro de partners\* |
+| Evento | Descripción | Visibilidad de informes | Agotamiento |
 | --- | --- | --- | --- |
-| Transacción o mes de uso | 1/8/2020 – 31/8/2020 | N/D | **Informe de uso**: se muestra el nuevo consumo (actualizado cada cuatro horas).<br>**Informe de pedidos**: N/D |
-| Final del período (mes) | 31/8/2020 | N/D | **Informe de uso**: se muestra el consumo de fin de mes.<br>**Informe de pedidos**: N/D |
-| Pedido generado | 3/9/2020 – 7/9/2020 | N/D | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Cálculo de la ganancia de pago | 4/9/2020 – 10/9/2020 | Se marca como **No procesado** en el historial de transacciones del panel de pago | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Pago mensual | 5/10/2020 | Se marca como **Próximo** en el historial de transacciones del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Fecha de pago\** | 15/10/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Factura de cliente cobrada | 1/12/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos.  |
-|  |  |  |  |
+| Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
+| Pedido de compra creado | Determinar el uso total, total de transacciones | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
+| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 3 (primera semana)** |
+| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la instrucción de pago | **Mes 3 (primera semana)** |
+| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la instrucción de pago** | **Mes 3 (no posterior al 15)** |
+| Factura pagada por el cliente | Microsoft recopila el pago del cliente | Sin cambios | **Mes 4 a 12** |
+|
 
-\* Los informes de uso y pedidos son accesibles en la sección analizar del centro de Partners. \* *. La fecha de pago está en hora estándar del Pacífico (PST).
+\* La fecha de pago está en hora estándar del Pacífico (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Clientes que pagan mediante tarjeta de crédito o factura
 
-Todas las compras con una tarjeta de crédito o una factura mensual tienen un período de retención de 30 días para garantizar que los fondos se borran y no hay contracargos ni fraudes sospechosos.
+Todas las compras con una tarjeta de crédito o una factura mensual tienen un período de retención de 30 días para garantizar que los fondos se recopilan del cliente.
 
-| Evento  | Fecha (UTC) | Visibilidad de los asociados: Informe de pago del Centro de partners  |  Visibilidad de los asociados: Análisis del Centro de partners\*  |
+| Evento | Descripción | Visibilidad de informes | Agotamiento |
 | --- | --- | --- | --- |
-| Transacción o mes de uso | 1/8/2019 - 31/8/2019 | N/D | **Informe de uso**: se muestra el nuevo consumo (actualizado cada cuatro horas).<br>**Informe de pedidos**: N/D |
-| Final del período (mes) | 31/8/2019 | N/D | **Informe de uso**: se muestra el consumo de fin de mes.<br>**Informe de pedidos**: N/D |
-| Pedido generado | 3/9/2019 – 7/9/2019 | N/D | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Factura de cliente cobrada | 7/9/2019 – 10/9/2019 | N/D | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Cálculo del pago | 8/9/2019 –12/9/2019 | Se marca como **No procesado** en el historial de transacciones del panel de pago | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Pago mensual | 5/11/2019\* | Se marca como **Próximo** en el historial de transacciones del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Fecha de pago\** | 15/11/2019 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-|  |  |  |  |
+| Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
+| Factura pagada por el cliente | Determinar el uso total, el valor total de la transacción y el cliente paga la factura | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
+| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 2** |
+| Período de 30 días | Garantizar la recopilación de fondos, los posibles contracargos y las solicitudes de reembolso | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 3** |
+| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la instrucción de pago | **Primera semana del mes 4** |
+| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la instrucción de pago** | **Mes 4 (no posterior al 15)** |
+|
 
-\* Se puede acceder a los informes de uso y de pedidos en la sección Analizar del Centro de partners.</br>\** La fecha de pago está en la hora estándar del Pacífico (PST).
-
-### <a name="enterprise-agreement-transactions-prior-to-may-1-2020"></a>Transacciones del Contrato Enterprise anteriores al 1 de mayo de 2020
-
-Todas las compras realizadas antes de esta fecha se procesan y pagan según la programación siguiente después de que Microsoft haya cobrado el pago a los clientes y procesado la cuota de Marketplace.
-
-| Evento  | Fecha (UTC)  | Visibilidad de los asociados: Informe de pago del Centro de partners  |  Visibilidad de los asociados: Análisis del Centro de partners\*  |
-| --- | --- | --- | --- |
-| Transacción o mes de uso | 1/8/2019 – 31/8/2019 | N/D | **Informe de uso**: se muestra el nuevo consumo (actualizado cada cuatro horas).<br>**Informe de pedidos**: N/D |
-| Final del período (mes) | 31/8/2019 | N/D | **Informe de uso**: se muestra el consumo de fin de mes.<br>**Informe de pedidos**: N/D |
-| Pedido generado | 3/9/2019 – 7/9/2019 | N/D | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Factura de cliente cobrada | 1/12/2019 | N/D | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Cálculo del pago | 5/12/2019 –7/12/2019 | Se marca como **No procesado** en el historial de transacciones del panel de pago | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Pago mensual | 5/1/2019 | Se marca como **Próximo** en el historial de transacciones del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-| Fecha de pago\** | 15/1/2019 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. | **Informe de uso**: se muestra el consumo con OrderID/OrderLineItemID.<br>**Informe de pedidos**: los pedidos de cliente se muestran como activos. |
-|  |  |  |  |
-
-\* Se puede acceder a los informes de uso y de pedidos en la sección Analizar del Centro de partners.</br>\** La fecha de pago está en la hora estándar del Pacífico (PST).
+\* La fecha de pago está en hora estándar del Pacífico (PST).
 
 ## <a name="process-for-customer-non-payment"></a>Proceso en caso de impago de los clientes
 
@@ -88,7 +66,7 @@ Microsoft recuperará los pagos que ya se le hayan pagado a usted con uno de los
 
 A continuación, se muestra una programación de ejemplo:
 
-| Evento | Fecha aproximada | Visibilidad de los asociados |
+| Evento | Fecha aproximada * | Visibilidad de los asociados |
 | --- | --- | --- |
 | Ejemplo de fecha de pago | 15/10/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. |
 | <font color="red">Si el cliente no paga a Microsoft</font> | 2/12/2020 – 5/12/2020 | Sin cambios, igual que antes. |
@@ -100,6 +78,8 @@ A continuación, se muestra una programación de ejemplo:
 | El pago se deduce. | 01/03/2021 | El anunciante verá una transacción negativa en la declaración de pago del Centro de partners. |
 | El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en la declaración de pago del Centro de partners. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
 |||
+
+\* La fecha de pago está en hora estándar del Pacífico (PST).
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Número de días para que los pagos lleguen a la cuenta de pago
 
@@ -117,4 +97,4 @@ Normalmente enviamos todos los pagos con vencimiento en un mes determinado a dí
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Datos fiscales](tax-details-marketplace.md)
+Obtenga información sobre los [detalles de impuestos](tax-details-marketplace.md).
