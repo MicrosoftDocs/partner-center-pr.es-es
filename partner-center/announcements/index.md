@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327247"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333919"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,10 +22,12 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
-|Ofertas/mercados|[La actualización a Windows 10 Education ya está disponible para clientes de la versión Education cualificados como Proveedores de soluciones en la nube (CSP) ](2020-november.md#4)|2 de noviembre|
-|Ofertas/mercados|[Experiencia digital del programa Proveedor de soluciones en la nube actualizada ya disponible Actualizaciones de la lista de precios de las suscripciones de software del programa Proveedor de soluciones en la nube (CSP) de octubre de 2020](2020-november.md#3)|2 de noviembre|
-|Ofertas/mercados|[Actualizaciones de la lista de precios de las suscripciones de software del Proveedor de soluciones en la nube (CSP) de octubre de 2020](2020-november.md#2)|2 de noviembre|
-|Ofertas/mercados|[Presentación de un estándar de rendimiento para los requisitos de los asociados que usan la facturación directa en el programa Proveedor de soluciones en la nube (CSP)](2020-november.md#1)|2 de noviembre|
+|Funcionalidades|[Expansión del contenido del asociado de licencia comercial en la galería de preparación de operaciones](2020-november.md#6)|2 de noviembre|
+|Ofertas/mercados|[Lanzamiento de la SKU de Salas de Microsoft Teams Premium](2020-november.md#5)|2 de noviembre|
+|Ofertas/mercados|[Próximamente habrá nuevas SKU de Advanced Communications de Microsoft Teams para Government Community Cloud (GCC)](2020-november.md#4)|2 de noviembre|
+|Ofertas/mercados|[Dynamics 365 ofertas y productos recientes y próximos](2020-november.md#3)|2 de noviembre|
+|Ofertas/mercados|[Presentación de Microsoft 365 Business Voice para organizaciones sin ánimo de lucro](2020-november.md#2)|2 de noviembre|
+|Ofertas/mercados|[Ya está disponible la promoción del Proveedor de soluciones en la nube (CSP) para Microsoft 365 Business Voice](2020-november.md#1)|2 de noviembre|
 | **Categoría** | **Anuncios de octubre de 2020** | **Fecha** |
 |Funcionalidades|[Actualizaciones de características de las suscripciones de software de Windows Server](2020-october.md#17)|29 de octubre|
 |Funcionalidades|[La actualización a Windows 10 Education ya está disponible para clientes de la versión Education cualificados como Proveedores de soluciones en la nube (CSP) ](2020-october.md#16)|28 de octubre|
