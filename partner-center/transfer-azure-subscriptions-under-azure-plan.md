@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980266"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433354"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transfiera las suscripciones del plan de Azure de un cliente a un asociado diferente
 
-## <a name="applies-to"></a>Se aplica a
+**Roles adecuados**
 
 - Partners del programa Proveedor de soluciones en la nube (CSP)
 
@@ -66,28 +66,31 @@ El cliente también debe identificar las suscripciones que desean transferir des
 
 El socio comercial de la suscripción debe completar un formulario de solicitud de transferencia desde el centro de partners para solicitar una transferencia de suscripción:
 
-1.  En el menú del centro de Partners, seleccione **clientes**y, a continuación, seleccione el cliente en nombre del que desea completar un formulario de solicitud de transferencia.
+1.  En el menú del centro de Partners, seleccione **clientes** y, a continuación, seleccione el cliente en nombre del que desea completar un formulario de solicitud de transferencia.
 2.  En el menú del cliente, seleccione **suscripciones**.
 3.  Seleccione la sección **solicitud de transferencia** .
-4.  En la **sección solicitud de transferencia**, seleccione **Agregar nueva solicitud**.
+4.  En la **sección solicitud de transferencia** , seleccione **Agregar nueva solicitud**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Sección transferencias":::
 
 5.  Complete el formulario **nueva solicitud de transferencia** .
 
-6.  Seleccione **Enviar solicitud de transferencia**de  >  **envío**.
+6.  Seleccione **Enviar solicitud de transferencia** de  >  **envío**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Sección transferencias":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulario completar solicitud de transferencia":::
 
 7.  Revisar confirmación de solicitud de transferencia
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Sección transferencias" o "completo", no se podrán realizar las cancelaciones.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Revisión de la transferencia pendiente":::
+
+    >[!Note]
+    >El asociado futuro puede cancelar la solicitud de transferencia seleccionando **Cancelar solicitud** en la esquina superior derecha solo cuando el estado de la solicitud de transferencia es "pendiente". Una vez que el estado de la solicitud de transferencia es "en curso" o "completo", no se podrán realizar las cancelaciones.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Tareas de asociados actuales para completar
 
 El agente de administración del asociado actual del cliente recibirá un correo electrónico que solicitará a su cliente una transferencia de sus suscripciones:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Sección transferencias":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Revisar":::
 
 Revise y acepte el formulario de solicitud de transferencia del centro de partners para completar la transferencia de la suscripción.
 
@@ -95,12 +98,12 @@ Revise y acepte el formulario de solicitud de transferencia del centro de partne
 >Si el asociado actual no realiza ninguna acción en un plazo de 30 días, la solicitud expirará y el asociado futuro tendrá un para crear una nueva solicitud de transferencia.
 
 1.  Seleccione **revisar solicitud de transferencia** desde el correo electrónico o
-1.  En el menú del centro de Partners, seleccione **clientes**y, a continuación, seleccione el cliente al que se ha enviado una solicitud de transferencia en nombre de.
+1.  En el menú del centro de Partners, seleccione **clientes** y, a continuación, seleccione el cliente al que se ha enviado una solicitud de transferencia en nombre de.
 2.  En el menú del cliente, seleccione **suscripciones**.
 3.  Seleccione la sección **solicitud de transferencia** .
 4.  Expanda transferir información seleccionando el **identificador de solicitud de transferencia** elegido en **solicitudes recibidas** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Sección transferencias":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Solicitud de transferencia de revisiones de origen":::
 
 5.  Revise la solicitud de transferencia. Seleccione las suscripciones de Azure solicitadas que se van a transferir.
 
@@ -111,7 +114,7 @@ Revise y acepte el formulario de solicitud de transferencia del centro de partne
 
 6.  A continuación, seleccione **Aceptar y transferir** para completar el proceso de transferencia.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sección transferencias":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Seleccione las suscripciones que se van a transferir en sus planes de Azure":::
 
 7.  Permite ver la confirmación de aceptación de transferencia.
 
