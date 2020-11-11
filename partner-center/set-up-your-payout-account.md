@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007409"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488148"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
@@ -28,7 +28,7 @@ Una vez que haya configurado la cuenta, debe hacer dos cosas antes de poder vend
 - [Configuración de la cuenta de pago](#payout-account)
 
 > [!NOTE]
-> Para más información sobre cómo y cuándo se le pagará por el dinero que hace su oferta, consulte [Recepción del pago](/azure/marketplace/marketplace-payout-account-setup).
+> Para obtener más información sobre cómo y cuándo se pagará por el dinero que realice su oferta, consulte el artículo sobre [el pago en el Marketplace comercial](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Formularios de impuestos
 
@@ -77,7 +77,7 @@ Si reside fuera de Estados Unidos, puede aprovechar los beneficios por tratados 
 Una cuenta de pago es la cuenta bancaria a la que se envían los ingresos de sus ventas. Puede ver todas las cuentas de pago que ha especificado en la página Perfil.
 
 > [!NOTE]
-> En algunos mercados, se puede usar PayPal para su cuenta de pago. Para averiguar si se admite PayPal para un mercado específico, consulte [Umbrales, métodos y períodos de tiempo de pago](/azure/marketplace/payment-thresholds-methods-timeframes) y la [información sobre PayPal](#paypal-info) siguiente para más detalles.
+> En algunos mercados, se puede usar PayPal para su cuenta de pago. Para averiguar si se admite PayPal para un mercado específico, consulte [Umbrales, métodos y períodos de tiempo de pago](payment-thresholds-methods-timeframes.md) y la [información sobre PayPal](#paypal-info) siguiente para más detalles.
 
 ### <a name="create-a-payment-profile"></a>Creación de un perfil de pago
 
@@ -102,7 +102,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
     > Los campos que se usan para proporcionar la información de la cuenta aceptan solo caracteres alfanuméricos.
 
 3. Proporcione los detalles del beneficiario.
-4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
+4. De nuevo en la página de *asignación de perfil* , seleccione la moneda que desea usar cuando emita sus pagos.
 
     > [!WARNING]
     > Asegúrese de que el banco acepte la moneda de pago que seleccione.
@@ -131,20 +131,20 @@ Puede editar los perfiles de pago existentes si necesita realizar cambios o corr
 3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y haga clic en **Editar** en el extremo derecho.
 
 > [!IMPORTANT]
-> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Recepción del pago](/azure/marketplace/marketplace-payout-account-setup) para más información.
+> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Para más información, consulte el artículo sobre [el pago en Marketplace comercial](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>Información de PayPal
 
 En la selección de países y regiones, puede crear una cuenta de pago indicando su información de PayPal. Sin embargo, antes de elegir PayPal como opción de cuenta de pago:
 
-- Consulte [Umbrales, métodos y períodos de tiempo de pago](/azure/marketplace/payment-thresholds-methods-timeframes) para confirmar si PayPal es un método de pago admitido en su país o región.
+- Consulte [Umbrales, métodos y períodos de tiempo de pago](payment-thresholds-methods-timeframes.md) para confirmar si PayPal es un método de pago admitido en su país o región.
 - Consulte las preguntas frecuentes siguientes. En función de su situación, es posible que PayPal no sea la mejor opción de la cuenta de pago y que se prefiera una cuenta bancaria.
 
 Preguntas comunes sobre el uso de PayPal como método de pago:
 
 - **¿Qué configuración de PayPal necesito tener para recibir pagos?** Asegúrese de que la cuenta de PayPal no bloquee los pagos por cheque electrónico. Esta configuración se administra en la página de preferencias de recepción de pagos de PayPal. Consulte la [página de configuración de la cuenta de PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) para más información.
 
-- **¿Se admite mi país o región?** Consulte [Umbrales, métodos y períodos de tiempo de pago](/azure/marketplace/payment-thresholds-methods-timeframes) para averiguar dónde se admite PayPal como método de pago.
+- **¿Se admite mi país o región?** Consulte [Umbrales, métodos y períodos de tiempo de pago](payment-thresholds-methods-timeframes.md) para averiguar dónde se admite PayPal como método de pago.
 
 - **¿Mi cuenta de PayPal tiene que estar registrada en el mismo país o región que mi cuenta del Centro de partners?** No. Al configurar una cuenta de PayPal, puede aceptar la configuración predeterminada. No debería tener ningún problema con otros países o regiones y monedas, a menos que haya bloqueado el pago en algunas monedas. Esta configuración se administra en la página de preferencias de recepción de pagos de PayPal.
 
@@ -192,17 +192,17 @@ Microsoft proporciona los tres documentos cuando se va a realizar el primer pago
 
 Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el siguiente proceso para configurar su cuenta.
 
-1. En la página de *PayPal*, proporcione la información necesaria sobre su cuenta de PayPal.
+1. En la página de *PayPal* , proporcione la información necesaria sobre su cuenta de PayPal.
 2. Especifique los detalles de la cuenta de PayPal.
 
     > [!NOTE]
     > Los campos que se usan para proporcionar la información de la cuenta aceptan solo caracteres alfanuméricos.
 
 3. Proporcione los detalles del beneficiario.
-4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
+4. De nuevo en la página de *asignación de perfil* , seleccione la moneda que desea usar cuando emita sus pagos.
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
 6. Haga clic en Enviar para guardar los cambios.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Facturación de Marketplace comercial](/azure/marketplace/billing-details)
+[Recepción de pagos en el Marketplace comercial](marketplace-get-paid.md)

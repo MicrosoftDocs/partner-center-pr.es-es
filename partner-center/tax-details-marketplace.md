@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175002"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488204"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Información sobre impuestos para los publicadores de Marketplace comercial
 
@@ -269,7 +269,7 @@ Lo siguiente se aplica solo a los publicadores de Azure Marketplace, con indepen
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Países o regiones de remesas mixtas para publicadores
 
-Algunos partners de facturación de Microsoft pueden recolectar y remitir los impuestos de ventas, uso, bienes y servicios, al valor añadido u otros similares, si los hubiera, aplicables a la adquisición por parte de los clientes de las aplicaciones o productos en la aplicación a través de Store en los países o regiones que se enumeran a continuación. En los [informes](/azure/marketplace/payout-summary-overview) que Microsoft pone a su disposición, se identificarán las transacciones para las que un partner de facturación haya recolectados los impuestos de ventas, uso, bienes y servicios, valor añadido u otros similares aplicables a la adquisición por parte de los clientes de las aplicaciones o productos en la aplicación a través de Store. A excepción de las transacciones descritas en estos informes, ni Microsoft ni sus proveedores de servicios de facturación remitirán ningún impuesto de ventas, uso, bienes y servicios, valor añadido u otro similar en relación con la adquisición por parte de los clientes de sus aplicaciones o productos integrados en la aplicación en estos países o regiones. Usted es responsable de revisar los informes que se le proporcionan, así como de determinar y cumplir sus obligaciones, en caso de haberlas, de registro, recolección y remisión de impuestos en relación con las transacciones que impliquen a sus aplicaciones o los productos en la aplicación.
+Algunos partners de facturación de Microsoft pueden recolectar y remitir los impuestos de ventas, uso, bienes y servicios, al valor añadido u otros similares, si los hubiera, aplicables a la adquisición por parte de los clientes de las aplicaciones o productos en la aplicación a través de Store en los países o regiones que se enumeran a continuación. Los informes de su [declaración de pago](payout-statement.md) que Microsoft pone a su disposición para identificar las transacciones para las que un asociado de facturación ha recopilado ventas, uso, bienes y servicios, importes añadidos o impuestos similares aplicables a la adquisición de los clientes de las aplicaciones o In-App productos a través de la tienda. A excepción de las transacciones descritas en estos informes, ni Microsoft ni sus proveedores de servicios de facturación remitirán ningún impuesto de ventas, uso, bienes y servicios, valor añadido u otro similar en relación con la adquisición por parte de los clientes de sus aplicaciones o productos integrados en la aplicación en estos países o regiones. Usted es responsable de revisar los informes que se le proporcionan, así como de determinar y cumplir sus obligaciones, en caso de haberlas, de registro, recolección y remisión de impuestos en relación con las transacciones que impliquen a sus aplicaciones o los productos en la aplicación.
 
 | Países o regiones de remesas mixtas |
 |------------------------------------|
@@ -289,4 +289,4 @@ Lo siguiente se aplica solo a los publicadores de Azure Marketplace:
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Configuración de la cuenta de pago y los formularios de impuestos](/azure/marketplace/marketplace-payout-account-setup)
+[Configuración de la cuenta de pago y los formularios de impuestos](set-up-your-payout-account.md)

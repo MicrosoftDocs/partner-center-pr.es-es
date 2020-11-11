@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999709"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488098"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -30,13 +30,14 @@ Roles adecuados:
 - Administrador de facturación
 - Administrador global
 
-Para obtener información sobre cómo leer la **factura**, consulte [leer su](read-your-bill.md)factura.
+Para obtener información sobre cómo leer la **factura** , consulte [leer su](read-your-bill.md)factura.
 
 ## <a name="understand-reconciliation-file-fields"></a>Descripción de los campos de archivo de conciliación
 
 - [Campos de archivos de conciliación basados en licencias](license-based-recon-files.md)
 - [Campos de archivos de conciliación basados en el uso](usage-based-recon-files.md)
 - [Campos de archivo de conciliación de uso con clasificación diaria](daily-rated-usage-recon-files.md)
+- [Campos de archivo de conciliación de CSP de compra única](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Descripción de los tipos de carga en los archivos de conciliación
 
@@ -50,11 +51,11 @@ Siga estos pasos para corregir los problemas de formato en los archivos de conci
 
 1. Abra el archivo de conciliación (en formato. csv) en Microsoft Excel.
 2. Seleccione la primera columna del archivo.
-3. Abra el **Asistente para convertir texto en columnas**. En la cinta de opciones, seleccione **datos**y, a continuación, seleccione **texto en columnas**.
+3. Abra el **Asistente para convertir texto en columnas**. En la cinta de opciones, seleccione **datos** y, a continuación, seleccione **texto en columnas**.
 4. En el asistente, seleccione **tipo de archivo delimitado**. Después, seleccione **Siguiente**.
 5. En el campo **delimitadores** , seleccione **coma**. (Si la **pestaña** ya está seleccionada, puede dejar esta opción seleccionada). A continuación, seleccione **siguiente**.
 6. En el campo **formato de datos de columna** , seleccione **Fecha: MDA**. Después, seleccione **Siguiente**.
-7. En el campo **formato de datos de columna** , seleccione **texto** para todas las columnas de importe. Después, seleccione **Finalizar**.
+7. En el campo **formato de datos de columna** , seleccione **texto** para todas las columnas de importe. A continuación, seleccione **Finish** (Finalizar).
 
 ## <a name="download-reconciliation-files-programmatically"></a>Descargar archivos de conciliación mediante programación
 
@@ -80,13 +81,13 @@ Los asociados en el **modelo indirecto** pueden utilizar estos campos adicionale
 
 Si un asociado de CSP vendió la suscripción directamente al cliente, su **identificador de MPN** aparece dos veces, como el **identificador de MPN** y el ID. de **MPN del reseller**.
 
-Si un asociado de CSP tiene un revendedor sin **identificador de MPN**, este valor se establece en el **identificador de MPN** del asociado en su lugar.
+Si un asociado de CSP tiene un revendedor sin **identificador de MPN** , este valor se establece en el **identificador de MPN** del asociado en su lugar.
 
-Si el asociado de CSP quita un ID. de **revendedor de MPN**, este valor se establecerá en *-1*.
+Si el asociado de CSP quita un ID. de **revendedor de MPN** , este valor se establecerá en *-1*.
 
-Para ver o actualizar el **ID. de revendedor MPN**:
+Para ver o actualizar el **ID. de revendedor MPN** :
 
-1. Inicie sesión en el Centro de partners.
+1. Inicie sesión en el Centro de datos.
 2. En el menú del Centro de partners, selecciona **Clientes**.
 3. Elija el cliente de la lista.
 4. En el menú del cliente, seleccione **suscripciones**.
