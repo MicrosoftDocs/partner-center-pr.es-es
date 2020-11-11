@@ -338,9 +338,11 @@
         - name: Búsqueda del número de dispositivos de escritorio y el nivel de recargo de un contrato
           href: chip-locate-agreement.md
         - name: Idoneidad para la evaluación de soluciones
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Estado del pago de la evaluación de la solución
           href: chip-solution-assessment-payment.md
+        - name: Preguntas frecuentes sobre la evaluación de soluciones
+          href: chip-faq.md
         - name: Problemas de acceso a CHIP
           href: chip-access-trouble.md
 - name: Facturación e impuestos
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Archivos de conciliación basada en licencia
       href: license-based-recon-files.md
+    - name: Archivos de conciliación de CSP de compra única
+      href: modern-invoice-reconciliation-file.md
+    - name: Cálculo del precio unitario vigente
+      href: effective-unit-price-calculation.md
     - name: Escenarios comunes de facturación
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
