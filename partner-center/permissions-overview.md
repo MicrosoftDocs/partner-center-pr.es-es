@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133038"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363629"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -127,21 +127,38 @@ Estos no son roles de Azure Active Directory. Estos roles administran el negocio
 ||*    Crear vales de soporte técnico para el Centro de partners
 ||*    Ver los vales de soporte técnico para partners que cree
 
+## <a name="manage-referrals"></a>Administrar referencias
 
-## <a name="manage-referrals"></a>Administrar referencias 
+> [!Note]
+>El nuevo rol de usuario Referencias estará disponible a partir del 16 de noviembre de 2020. Los administradores de referencias existentes conservarán su rol de administrador de referencias en el ámbito de toda la compañía.
 
-|**Rol**|**Qué puede hacer**|**Más información**|
-|-----------------------------|:------------------------|---|
-|Administrador de referencias       |*    Ver, crear y administrar los perfiles de negocio|[Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas](manage-leads.md)
-||*    Recibir y administrar referencias
-||*    Ver, crear y administrar referencias de venta conjunta|
-||*    Ver, crear y administrar las solicitudes de servicio de los asociados
-|Administrador del perfil de negocio   |*    Ver, crear y administrar el perfil de negocio |[Crear un perfil de negocio](create-a-marketing-profile.md)
-||*    Ver, crear y administrar las solicitudes de servicio de los asociados
-||*    Crear vales de soporte técnico para el Centro de partners
-||*    Ver los vales de soporte técnico para partners que cree|
+|**Rol** | **Qué puede hacer**|**Más información**
+|------------------------------|:-------------------------|---|
+|Administrador de referencias|Crear y administrar todo el contenido de la pestaña Referencias del Centro de partners|[Administrar oportunidades de venta conjunta en el Centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes](manage-co-sell-opportunities.md)
+||    Puede ver y editar todos los clientes potenciales y oportunidades de venta conjunta
+||    Puede asignar miembros del equipo para una oferta
+||    Puede ver y editar perfiles de negocio
+||    Puede ver y registrar ofertas de oportunidades que se han marcado como ganadas y aptas para registrar la oferta
+||    Puede crear y ver incidencias de soporte técnico
+|Usuario de Referencias|Crear y administrar oportunidades de venta conjunta solo si forman parte del equipo |[Administrar oportunidades de venta conjunta en el Centro de partners para definir acuerdos y satisfacer mejor las necesidades de los clientes](manage-co-sell-opportunities.md)
+||    Puede crear oportunidades de venta conjunta para las ubicaciones en las que se les ha asignado el rol
+||    Puede ver y registrar ofertas para las oportunidades que se han marcado como ganadas y aptas para registrar la oferta si son miembros del equipo
+||    Puede crear y ver incidencias de soporte técnico
+|Administrador del perfil de negocio|Crear y administrar perfiles de negocio | [Administrar perfiles de negocio](create-a-marketing-profile.md)
+||    Puede crear y ver incidencias de soporte técnico
 
-## <a name="manage-incentives"></a>Administrar incentivos 
+Junto con el nuevo rol de usuario Referencias, también se introduce el ámbito de ubicación para las ofertas. En la tabla siguiente se explica el acceso a las ofertas basado en la ubicación.
+
+|**Scope** | **Qué puede hacer** |
+|------------------------------|:-------------------------|
+|Toda la compañía | Tanto los administradores como los usuarios tienen acceso para crear ofertas para cualquier ubicación de su compañía|
+|| El administrador de referencias tiene acceso para ver y editar todas las ofertas |
+|| Los usuarios de referencias tienen acceso para ver y editar todas las ofertas solo si forman parte del equipo |
+|Una o varias ubicaciones | Tanto los administradores como los usuarios tienen acceso para crear ofertas para la ubicación asignada en su compañía|
+|| El administrador de referencias tiene acceso para ver y editar todas las ofertas que pertenecen a las ubicaciones asignadas|
+|| Los usuarios de referencias tienen acceso para ver y editar todas las ofertas que pertenecen a las ubicaciones asignadas si forman parte del equipo|
+
+## <a name="manage-incentives"></a>Administrar incentivos
 
 |**Rol** | **Qué puede hacer**|**Más información**
 |------------------------------|:-------------------------|---|
