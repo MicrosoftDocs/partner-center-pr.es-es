@@ -4,17 +4,17 @@ description: Obtenga información acerca de las instrucciones de pago y resúmen
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335782"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532062"
 ---
-# <a name="payout-statements"></a>Instrucciones de pago
+# <a name="payout-statements"></a>Extractos de pagos
 
 La **declaración de pago** presenta una visión general de los pagos de ofertas vendidas a través del Marketplace comercial. Muestra el historial transaccional de los ingresos, calcula el siguiente pago y muestra las tendencias de pago. También puede descargar el historial de transacciones y las instrucciones de pago. En este artículo se explica cómo acceder a la declaración de pago y las distintas páginas de pago y descargas a las que se puede acceder en el centro de Partners.
 
@@ -238,7 +238,7 @@ Para ver más detalles sobre los pagos, seleccione **Descargar** en la parte sup
 
 ## <a name="export-data"></a>Exportar datos
 
-La página **exportar datos** no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes. Seleccione una de las tres pestañas para exportar el **historial de transacciones**, los **pagos**, el **Resumen de transacciones**o la **instrucción histórica**.
+La página **exportar datos** no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes. Seleccione una de las tres pestañas para exportar el **historial de transacciones** , los **pagos** , el **Resumen de transacciones** o la **instrucción histórica**.
 
 El filtro podría producir un error **no hay datos disponibles** . Esto puede ocurrir si se deja el período de tiempo predeterminado seleccionado en tres meses y después se selecciona un ID. de pago de una ganancia que está fuera de ese período. Si esto ocurre, expanda el período de tiempo y vuelva a intentarlo.
 
@@ -285,18 +285,18 @@ En la tabla siguiente se explica cada columna de una instrucción histórica.
 | Recibos netos | Importe de la transacción menos el impuesto remitido. |
 | Honorarios de la Tienda | El porcentaje de recibos netos retenido por Microsoft como honorarios por hacer que la aplicación o el complemento estén disponibles en la Tienda. |
 | Ganancias por la aplicación | Recibos netos menos los honorarios de la Tienda. |
-| Impuestos retenidos | Importe de los impuestos retenidos (no se incluye en el archivo CSV **Reserved**). |
+| Impuestos retenidos | Importe de los impuestos retenidos (no se incluye en el archivo CSV **Reserved** ). |
 | Payment | Ganancias por la aplicación menos la retención de impuestos aplicable (el importe se muestra en la moneda de la transacción). No se incluye en el archivo CSV **Reserved**. |
 | Tipo de cambio | Tipo de cambio usado para convertir la moneda de la transacción a la moneda del pago. |
 | Moneda del pago | Moneda en la que se realiza el pago. |
 | Pago convertido | Importe del pago convertido a la moneda del pago mediante el tipo de cambio. |
 | Modelo de remisión de impuestos | Entidad responsable de la emisión de impuestos (ventas, uso o impuestos de IVA/GST). |
-| Fecha y hora de la idoneidad | La fecha y la hora en que las ganancias por la transacción se vuelven aptas para el pago (UTC). Cuando se crea un pago, incluye ganancias por la transacción con una fecha y hora de la idoneidad anterior a la fecha de creación del pago (solo se incluye en el archivo CSV **Reserved**). |
-| Charges | Muestra un desglose de todos los detalles de los cargos agregados en la columna Importe de transacción (solo se incluye para Azure Marketplace; no se incluye en el archivo CSV **Reserved**). |
+| Fecha y hora de la idoneidad | La fecha y la hora en que las ganancias por la transacción se vuelven aptas para el pago (UTC). Cuando se crea un pago, incluye ganancias por la transacción con una fecha y hora de la idoneidad anterior a la fecha de creación del pago (solo se incluye en el archivo CSV **Reserved** ). |
+| Charges | Muestra un desglose de todos los detalles de los cargos agregados en la columna Importe de transacción (solo se incluye para Azure Marketplace; no se incluye en el archivo CSV **Reserved** ). |
 |||
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [API de pago de asociados](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Partner Payout API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Detalles de directiva de pagos](payout-policy-details.md)
 - Para obtener soporte técnico sobre facturación, póngase en contacto con el [soporte técnico al editor](https://partner.microsoft.com/support/v2/?stage=1) en el marketplace comercial.
