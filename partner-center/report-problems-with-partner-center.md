@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175234"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567097"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Cómo notificar problemas con el centro de Partners y enviar información de registros o diagnósticos
 
@@ -41,6 +41,24 @@ Todos los usuarios registrados en el centro de partners pueden crear solicitudes
 
 5. Complete los **detalles del problema** y, a continuación, **envíe**. Un representante de soporte técnico del asociado realizará un seguimiento con usted.
 
+## <a name="schedule-a-support-appointment"></a>Programar una cita de soporte técnico 
+
+**Actualmente en versión preliminar*
+
+Si su problema requiere una conversación con el defensor de soporte técnico, puede programar la cita a partir de los detalles del vale.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Programar una cita de soporte técnico":::
+
+1.  En la página Detalles del vale del centro de Partners, seleccione una fecha y una hora disponibles en el calendario del defensor de soporte técnico. Solo verá las fechas y horas disponibles en la zona horaria local.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Programar cita":::
+
+2. El centro de Partners comprueba la disponibilidad del calendario del defensor de soporte técnico.
+
+1. Al programar una cita, el centro de Partners le envía una invitación de calendario con información sobre el modo en que el defensor de soporte técnico se pondrá en contacto con usted, de modo que pueda realizar el seguimiento de esta cita en su propio calendario de trabajo.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora":::
+
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 
 Si se produce un error mientras se encuentra en una página del centro de Partners, es posible que se le pida que recopile la información de registro. Seleccione **recopilar más información** en el vínculo que se despliega en la parte superior de la página para abrir la herramienta de diagnóstico de cliente. Esta herramienta recopila la información que necesita el equipo de soporte técnico de partners para determinar la causa del error. 
@@ -65,3 +83,6 @@ Puedes obtener una vista previa de la información de diagnóstico y luego guard
 
 La compatibilidad con asociados puede pedirle que ejecute esta herramienta varias veces para poder obtener la información más actualizada.
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Notificar un problema del servicio en nombre de un cliente](report-problems-on-behalf-of-a-customer.md)

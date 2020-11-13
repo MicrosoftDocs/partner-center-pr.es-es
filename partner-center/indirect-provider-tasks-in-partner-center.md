@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006875"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567056"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -101,7 +101,7 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 | **Para lograr esto** | **Haga esto** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la página **nuevo cliente** |
-| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
+| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure** , seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
 | Conceda al reseller el crédito para obtener incentivos | Asociar el revendedor a la suscripción (nuevo o existente) | En la página **nueva suscripción** |
 | Delegación del soporte al cliente para suscripciones específicas al distribuidor | Seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . | En la página de detalles de la suscripción: seleccione la página cliente de su **clientes** y, a continuación, seleccione la suscripción en la página **suscripciones** del cliente. |
 
@@ -140,9 +140,9 @@ Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la 
 
 4. Seleccione **Siguiente: Review** (Siguiente: revisar).
 
-5. Si el orden es correcto, seleccione **submit (enviar**). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
+5. Si el orden es correcto, seleccione **submit (enviar** ). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
 
-6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación**, se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
+6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación** , se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
 
     > [!IMPORTANT]  
     > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no puede tener acceso a esta información de nuevo después de cerrar esta página.
@@ -151,7 +151,7 @@ Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la 
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Agregar nuevas suscripciones a las cuentas de cliente
 
-Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, debe realizar estos cambios en la cuenta del cliente.
+Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, debe realizar estos cambios en la cuenta del cliente a través del portal de M365. No se puede hacer esto en el Azure Portal.
 
 1. Seleccione **clientes** en el menú del **centro de Partners** .
 
@@ -163,7 +163,7 @@ Cuando los clientes desean comprar nuevas suscripciones, actualizar las existent
 
 5. Las nuevas suscripciones aparecen en la lista de suscripciones del cliente.
 
-6. Si desea que el revendedor controle las solicitudes de soporte al cliente de la nueva suscripción, seleccione la suscripción y, a continuación, seleccione el distribuidor de la lista de **contactos de soporte técnico designado** .
+6. Si desea que el revendedor controle las solicitudes de soporte al cliente de la nueva suscripción, seleccione la suscripción y, a continuación, seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . 
 
 7. Seleccione **Enviar** cuando termine.
 
