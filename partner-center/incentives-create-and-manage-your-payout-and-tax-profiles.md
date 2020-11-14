@@ -1,19 +1,19 @@
 ---
 title: Perfiles fiscales y de pago en el Centro de partners
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Cree y administre su perfil fiscal y de pago para que pueda pagar su trabajo de incentivos. Incluye la creación, administración y uso de perfiles diferentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175352"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626038"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
@@ -24,7 +24,7 @@ ms.locfileid: "92175352"
 **Roles adecuados:**
 
 - Administrador de incentivos
-- Administrador de facturación
+- Administrador de cuentas
 - Administrador global
 
 Antes de que pueda recibir el pago de sus programas de incentivos para una ubicación de MPN determinada, debe completar la inscripción; para ello, asocie un perfil de fiscal y de pago válido al programa y la ubicación MPN. Microsoft usará este perfil fiscal y de pago para emitir los pagos. Es posible que se le permita usar la transferencia electrónica bancaria o una nota de crédito para el pago, en función de las reglas del programa de incentivos. 
@@ -43,15 +43,11 @@ Incentivos: los usuarios pueden ver los ingresos y los informes de beneficios y 
 
 ### <a name="choose-your-disbursement-currency"></a>Elegir la moneda de desembolso
 
-De forma predeterminada, los pagos de incentivos se realizan en la moneda local de cada entidad respectiva. Puede especificar una moneda diferente durante la configuración del perfil. Los pagos se calcularán usando una tasa de cambio de acuerdo con la configuración mensual de Microsoft. Será responsable de cualquier cambio en el valor debido a la moneda seleccionada.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Información bancaria y fiscal y otros programas
-
-Proporcione la información que se describe a continuación aunque Microsoft ya use los datos bancarios para los pagos. Esto ayuda a garantizar la privacidad y la seguridad de los datos de su empresa, ya que copiar el perfil en la nueva herramienta podría exponer información confidencial. Seguir este proceso también es una buena oportunidad para asegurarse de que los datos estén completos y sean precisos.
+Los pagos por incentivos se realizan en la moneda que ha seleccionado al configurar el perfil de pago. Los pagos se calcularán usando una tasa de cambio de acuerdo con la configuración mensual de Microsoft. Será responsable de cualquier cambio en el valor debido a la moneda seleccionada.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Usar perfiles diferentes para distintos programas de Microsoft
 
-Dentro del minorista, los pagos por cada uno de los cinco programas de incentivos comerciales pueden dirigirse a la misma cuenta bancaria. Como alternativa, puede elegir que los pagos de Xbox minorista se dirijan a una cuenta bancaria mientras que la oficina de venta directa se paga a una cuenta bancaria diferente.
+Si su empresa está inscrita en varios programas de incentivos, puede usar la misma cuenta de pago para todos ellos o elegir usar cuentas de pago diferentes para distintos programas.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y impuestos en el Centro de partners
 
@@ -66,7 +62,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
    - Se pueden registrar varios dominios en una cuenta de Azure AD. Póngase en contacto con el administrador global para determinar qué dominios están asociados.
    - Si solo puede iniciar sesión con el @onmicrosoft.com dominio, póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de Azure ad.
-   - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal**, seleccione **cuenta profesional o educativa**.
+   - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal** , seleccione **cuenta profesional o educativa**.
 
 2. Seleccione el icono de engranaje para abrir el menú de **configuración** y, a continuación, seleccione **configuración de socio comercial**.
 
@@ -76,7 +72,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/)y seleccione el icono de engranaje para abrir el menú de **configuración** . 
 
-2. Seleccione **configuración de socio comercial**, expanda la **sección pago y impuestos**y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
+2. Seleccione **configuración de socio comercial** , expanda la **sección pago y impuestos** y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
    
    Se mostrará una lista de los programas. Seleccione la flecha situada junto a un programa para ver los detalles del perfil. 
 
@@ -96,7 +92,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
     
 5. Seleccione la **moneda**.
 
-6. Cuando haya completado todos los campos de pago, seleccione **submit (enviar**).
+6. Cuando haya completado todos los campos de pago, seleccione **submit (enviar** ).
 
 ## <a name="create-your-bank-profile"></a>Crear el perfil de Banco
 
@@ -109,17 +105,17 @@ Los perfiles de banco se crean en el nivel de organización. Esto permite asigna
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Next** (Siguiente).
+2. Seleccione **Siguiente**.
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Next** (Siguiente).
+4. Seleccione **Siguiente**.
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
-6. Una vez completados los campos, seleccione **Finalizar**y, a continuación, seleccione **confirmar** para crear el perfil de banco.
+6. Una vez completados los campos, seleccione **Finalizar** y, a continuación, seleccione **confirmar** para crear el perfil de banco.
 
-Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Este proceso puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción**, repita los pasos anteriores y proporcione la información necesaria. 
+Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Este proceso puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción** , repita los pasos anteriores y proporcione la información necesaria. 
 
 ## <a name="create-your-tax-profile"></a>Crear el perfil de impuestos
 
@@ -140,7 +136,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo.
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Next** (Siguiente). 
+3. Seleccione **Siguiente**. 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 

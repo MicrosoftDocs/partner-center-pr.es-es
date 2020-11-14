@@ -1,19 +1,19 @@
 ---
 title: Inscripción de incentivos
 ms.topic: how-to
-ms.date: 09/25/2020
+ms.date: 11/12/2020
 description: Inscríbase en el programa incentivos y asigne los roles necesarios para la administración de usuarios. En este artículo se describe el proceso de inscripción.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175192"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626021"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscripción y administración de usuarios en el programa incentivos
 
@@ -41,13 +41,15 @@ Para inscribirse en un programa de incentivos del centro de Partners, el adminis
 Una vez que su organización pueda obtener incentivos, Microsoft enviará invitaciones al administrador de la cuenta y al administrador de incentivos.
 
 >[!NOTE]
->Solo el administrador de incentivos puede inscribirse en programas de incentivos. Si no hay ningún administrador de incentivos para su ubicación, el administrador global y el administrador de la cuenta deben asignar uno. El administrador de incentivos debe estar asignado para los identificadores de MPN de ubicación. También se puede asignar el administrador global o el administrador de cuentas como administrador de incentivos.
+>Solo el administrador de incentivos puede inscribirse en programas de incentivos. Si no hay ningún administrador de incentivos para su ubicación, el administrador global y el administrador de la cuenta deben asignar uno. El administrador de incentivos debe estar asignado para los identificadores de MPN de ubicación. También se puede asignar el administrador global o el administrador de cuentas como administrador de incentivos. Para obtener más información sobre los distintos roles, consulte [Administración de incentivos](permissions-overview.md#manage-incentives).
 
 ## <a name="enrollment-process"></a>Proceso de inscripción
 
-Una vez que su organización sea válida para los incentivos, Microsoft enviará una invitación al administrador de incentivos de la MPNLocationID válida para comenzar el proceso de inscripción. Este correo electrónico se enviará desde el **centro de Partners de Microsoft**y tendrá la invitación de inscripción de **incentivo para asociados**. Abra la invitación **y seleccione introducción**.
+Una vez que su organización sea válida para los incentivos, Microsoft enviará una invitación al administrador de incentivos de la MPNLocationID válida para comenzar el proceso de inscripción. Este correo electrónico se enviará desde el **centro de Partners de Microsoft** y tendrá la invitación de inscripción de **incentivo para asociados**. Abra la invitación **y seleccione introducción**.
 
-También verá una invitación en la Página principal del centro de Partners. Una vez que seleccione el mensaje, no podrá verlo de nuevo. Sin embargo, el administrador de incentivos todavía puede iniciar el proceso iniciando sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/) y seleccionando administración de **usuarios**.
+También verá una invitación en la Página principal del centro de Partners. Una vez que seleccione el mensaje, no podrá verlo de nuevo. Sin embargo, el administrador de incentivos todavía puede completar el proceso iniciando sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/) y seleccionando **información general** en **incentivos** en la navegación de la izquierda. Seleccione **inscribir** y, a continuación, complete el pago y el perfil fiscal para el programa.
+
+Una inscripción se considera completa solo cuando Microsoft valida el pago y el perfil fiscal que proporciona para la inscripción.
 
 Algunos programas de incentivos no tienen ningún criterio de elegibilidad y están abiertos a todos los asociados. El administrador de incentivos verá invitaciones para estos programas en la página de información general sobre incentivos, siempre que tengan permisos para el programa de estímulo pertinente y el MPN. Microsoft no envía invitaciones por correo electrónico para estos programas.
 
@@ -55,7 +57,7 @@ Para obtener más información sobre el proceso de inscripción, descargue la [G
 
 ## <a name="expiration-and-renewal"></a>Expiración y renovación
 
-La inscripción de incentivos expira al final del año fiscal. Sin embargo, siempre que siga siendo un asociado válido con un acuerdo activo, Microsoft pondrá al día la inscripción de incentivos en el siguiente año fiscal. No tiene que realizar ninguna acción.
+La inscripción de incentivos expira al final del año fiscal. Sin embargo, siempre que siga siendo un asociado válido con un acuerdo activo, Microsoft pondrá al día la inscripción de incentivos en el siguiente año fiscal. No es necesario realizar ninguna acción, siempre que el pago y la información fiscal necesaria para el programa de incentivos se completen según las reglas del programa de incentivos.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

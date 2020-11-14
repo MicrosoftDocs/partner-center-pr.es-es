@@ -1,7 +1,7 @@
 ---
-title: Uso de Analytics para Customer Insights
+title: Uso de Analytics para la información de suscripción
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a usar Analytics en el centro de partners para comprender mejor su negocio y cómo los clientes usan las licencias que ha adquirido.
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434744"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626079"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Use Analytics para obtener más información sobre el uso de licencias de clientes y cómo puede ayudar a satisfacer sus necesidades
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Uso de Analytics para obtener más información sobre los ingresos de suscripción
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
-- Asociados de MPN
-- Partners del programa CSP
-
-**Rol adecuado**
-
+- Administrador global
 - Administrador de partners de MPN
 
-Para planear cómo desarrollar su negocio como CSP es necesario comprender cómo usan los clientes sus productos Microsoft. Tiene varias opciones para recopilar datos en el centro de Partners y puede recopilar datos tanto en su empresa como en si y cómo los clientes usan las licencias que han adquirido. Si está en el modelo de CSP directo, tiene la oportunidad de instalar y usar la aplicación de análisis del centro de partners para Power BI recopilar datos adicionales.
+Para planear cómo desarrollar su negocio como CSP es necesario comprender cómo usan los clientes sus productos Microsoft. Tiene varias opciones para recopilar datos en el centro de Partners y puede recopilar datos tanto en su empresa como en si y cómo los clientes usan las licencias que han adquirido. Si está en el modelo de CSP directo, también tiene la oportunidad de instalar y usar la aplicación de análisis del centro de partners para Power BI recopilar datos adicionales.
 
-## <a name="access-to-user-analytics"></a>Acceso a análisis de usuarios
+## <a name="access-to-the-subscription-analytics"></a>Acceso al análisis de suscripciones
 
-En el centro de Partners, solo el administrador del asociado de MPN tiene acceso al análisis de usuarios. Si alguien de su empresa necesita este acceso (por ejemplo, un administrador de facturación), puede concederlo asignando a esa persona el rol de administrador de asociados de MPN.
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
+1. En CSP, en el menú del centro de Partners, seleccione **analizar** y luego **análisis de suscripciones**.
+
+1. Los ingresos del CSP de doce meses finales se mostrarán en la parte superior de la página.
+
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Pantalla de suscripción":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Ingresos del CSP de Twelve-Month final (TTM)
+
+Los ingresos del CSP de 12 meses finales representan los ingresos del programa del proveedor de soluciones en la nube finales en USD en un nivel de cuenta global de socio comercial. Los datos se actualizan el 8 de cada mes, para mostrar los ingresos de doce meses finales hasta el mes anterior. Por ejemplo, en el noveno de septiembre de 2020, debería poder ver el TTM durante el período fijo del 2019 de septiembre al 2020 de agosto.
+
+Los ingresos mostrados en el centro de Partners se calculan para un intervalo de tiempo fijo de doce meses y no se pueden modificar a un período de tiempo más corto.
+
+Para ver un desglose de los ingresos en el nivel de cuenta de la ubicación del asociado:
+
+- Seleccione el vínculo "descargar detalles" y descargue un archivo. TSV que muestra los ingresos de TTM en todas las ubicaciones.
 
 >[!NOTE] 
->Para conceder acceso, debe ser administrador de asociados de MPN.
+>La suma de los números de ingresos de TTM individuales en los identificadores de MPN en el archivo. TSV puede parecer mayor que los ingresos totales de TTM que se muestran en el centro de Partners. Esto se debe a que los ingresos se pueden recuento doble para las suscripciones con varias atribuciones de asociados en el archivo descargado.
 
-**Conceder acceso a análisis de usuarios en el centro de Partners** 
+## <a name="subscription-summary"></a>Resumen de suscripción
 
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+En la mitad inferior de la pantalla se muestra un resumen de las suscripciones. Use los siguientes filtros para ver los detalles de suscripción necesarios:  
 
-2. En el menú del centro de Partners, en la página de **Administración de usuarios** del centro de Partners, use el cuadro de búsqueda para buscar a la persona que necesita acceso.
-2.  En los resultados de la búsqueda, seleccione el nombre de la persona para abrir la página de **detalles del usuario** .
-3.  En **roles y permisos**, seleccione **Administrador de asociados de MPN** y, luego, seleccione **Actualizar**.
+1. **Duración** : puede optar por ver el Resumen de suscripción para 
+
+- 30D: últimos 30 días
+- 3M: últimos 3 meses
+- 6 M: últimos 6 meses
+- 12M: últimos 12 meses
+
+2. **Tipo de producto** :
+ 
+- Office 365
+- Microsoft 365
+- Dynamics 365
+- EMS
+
+La aplicación de estos filtros no afectará a la métrica de ingresos de TTM en la parte superior de este informe.
+
 
  
-## <a name="access-data-in-partner-center"></a>Acceder a los datos en el centro de Partners
+## <a name="next-steps"></a>Pasos siguientes
 
-|**Para obtener datos**   |**Descargar este**   |**Lee esto**   | **Se aplica a**    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|Cómo usan los clientes las licencias que han adquirido   |Datos de implementación y uso del centro de Partners => análisis de productos   |[Aumentar la adopción y la satisfacción](increasing-adoption-and-satisfaction.md)|Partners de CSP|
-|Actividad del cliente con respecto a las suscripciones   |Registros de actividad   |[Ver los registros de actividades de los clientes](activity-logs.md)|Partners de CSP   |
-|Crecimiento de la base de clientes, uso, consumo de Azure, etc.   |Aplicación del centro de partners para Power BI   |[Aplicación de análisis del Centro de partners para Power BI (partners directos en CSP)](power-bi-app-for-direct-partners.md)|Asociados directos de CSP|
+- [Analice el modo en que los clientes usan las licencias que han adquirido](increasing-adoption-and-satisfaction.md)  
+- [Ver los registros de actividades de los clientes](activity-logs.md)
+- [Aplicación de análisis del Centro de partners para Power BI](power-bi-app-for-direct-partners.md)
 
 
 
