@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381438"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670174"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -78,7 +78,7 @@ Si no ve la pestaña referencias:
 Una vez configurada la cuenta en el centro de Partners, use el Asistente para migración de usuarios de la página oportunidades de venta conjunta para asignar automáticamente roles del centro de partners a los empleados de la empresa.
 
 >[!Note]
-> La migración de usuarios solo la pueden realizar los [administradores de cuentas](permissions-overview.md#manage-mpn-membership-and-your-company) de su empresa. Si no tiene el rol de administrador de cuenta, busque un administrador de cuenta que pueda ayudarle a configurar las cuentas de usuario con la ayuda del Asistente para migración de usuarios. La funcionalidad de migración de usuarios estará disponible a partir del 16 de noviembre de 2020.
+> La migración de usuarios solo la pueden realizar los [administradores de cuentas](permissions-overview.md#manage-mpn-membership-and-your-company) de su empresa. Si no tiene el rol de administrador de cuenta, busque un administrador de cuenta que pueda ayudarle a configurar las cuentas de usuario con la ayuda del Asistente para migración de usuarios. La funcionalidad de migración de usuarios estará disponible a partir del 18 de noviembre de 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagen que muestra el Asistente para migración de usuarios.":::
 
@@ -133,12 +133,12 @@ Este es un paso importante, que le ayudará a prepararse para la venta conjunta 
 |Invitar a Microsoft en un trato de venta conjunta|Iniciado por el vendedor de Microsoft, no hay ninguna pregunta explícita por parte del asociado.|El asociado tendrá que realizar una [solicitud explícita](manage-co-sell-opportunities.md#add-solutions) si se necesita ayuda de Microsoft para un vendedor. El vendedor de Microsoft tiene una opción para rechazar la solicitud.|
 |Expiry|No hay ningún concepto de la expiración de un contrato.|Los acuerdos de entrada de asociados expiran en 14 días si no los acepta el socio. Lo mismo ocurre con los acuerdos salientes de los asociados en los que pueden entrar en el estado expirado si el vendedor de Microsoft no actúa en ellos en 14 días.|
 |Detalles de vendedor de Microsoft|Visible en cuanto se crea un trato.|Los detalles de los vendedores de Microsoft se comparten con el socio comercial solo si el vendedor acepta explícitamente la invitación para la venta conjunta del socio.|
-|[Canalización privada](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|No está disponible.|Los asociados pueden compartir su canalización sin ofrecer visibilidad a los vendedores de Microsoft.|
+|[Canalización privada](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|No disponible.|Los asociados pueden compartir su canalización sin ofrecer visibilidad a los vendedores de Microsoft.|
 |Soluciones|Las soluciones que pertenecen a una sola lista de precios se pueden agregar a un contrato.|El asociado puede agregar [soluciones](manage-co-sell-opportunities.md#add-solutions) que pertenezcan a las listas siguientes. a) sus propias soluciones de soluciones b) del catálogo de Microsoft First Party (similar a la función de trato de transacciones en PSC) y c) soluciones de venta conjunta de otros asociados de terceros (similar al rol de negocio de ISV en PSC).|
 |Asignación de trato|Solo el vendedor asignado puede ver los acuerdos y actuar sobre ellos.|Los miembros del equipo se pueden agregar a un trato para especificar las personas que trabajan en un trato, no hay ningún bloqueo de otros administradores de referencia que puedan ver o actuar en esos acuerdos.|
 |Organización del cliente|Entrada de texto de forma libre.|Puede buscar la [organización del cliente](manage-co-sell-opportunities.md#select-your-customer) en la [base de datos D&B](https://www.dnb.com/) escribiendo solo unos pocos caracteres. El nombre y la dirección válidos se rellenan automáticamente en función de la elección.|
 |Contacto del cliente|No es obligatorio.|No es obligatorio para el uso compartido de la canalización privada. Requerido si el vendedor de Microsoft está invitado a participar en una solicitud de venta conjunta.|
-|API pública|No está disponible.|[API pública](/partner/develop/referrals) para administrar mediante programación las referencias del centro de Partners.|
+|API pública|No disponible.|[API pública](/partner/develop/referrals) para administrar mediante programación las referencias del centro de Partners.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>Asignación de campos de centro de Partners y PSC
 
