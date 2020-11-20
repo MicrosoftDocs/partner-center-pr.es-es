@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531994"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947671"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Programaciones de pago y detalles de la Directiva
 
@@ -32,9 +32,9 @@ A menudo se producirá un pago antes de que Microsoft recopile el pago del clien
 | --- | --- | --- | --- |
 | Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
 | Pedido de compra creado | Determinar el uso total, total de transacciones | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
-| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 3 (primera semana)** |
-| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la instrucción de pago | **Mes 3 (primera semana)** |
-| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la instrucción de pago** | **Mes 3 (no posterior al 15)** |
+| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
+| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
+| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la [instrucción de pago](payout-statement.md)** | **Mes 3 (no posterior al 15)** |
 | Factura pagada por el cliente | Microsoft recopila el pago del cliente | Sin cambios | **Mes 4 a 12** |
 |
 
@@ -48,10 +48,10 @@ Todas las compras con una tarjeta de crédito o una factura mensual tienen un pe
 | --- | --- | --- | --- |
 | Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
 | Factura pagada por el cliente | Determinar el uso total, el valor total de la transacción y el cliente paga la factura | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
-| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 2** |
-| Período de 30 días | Garantizar la recopilación de fondos, los posibles contracargos y las solicitudes de reembolso | Marcado como no procesado en el historial de transacciones de la instrucción de pago | **Mes 3** |
-| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la instrucción de pago | **Primera semana del mes 4** |
-| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la instrucción de pago** | **Mes 4 (no posterior al 15)** |
+| Se crea la obtención de pagos de ISV | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 2** |
+| Período de 30 días | Garantizar la recopilación de fondos, los posibles contracargos y las solicitudes de reembolso | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3** |
+| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 4 (primera semana)** |
+| **Fecha de pago** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la [instrucción de pago](payout-statement.md)** | **Mes 4 (no posterior al 15)** |
 |
 
 \* La fecha de pago está en hora estándar del Pacífico (PST).
@@ -75,8 +75,8 @@ A continuación, se muestra una programación de ejemplo:
 | Es probable que el anunciante reciba una notificación de una probable cancelación. | 07/01/2021 | Notificación por correo electrónico enviada al anunciante de que su cliente aún no ha enviado el pago. Se incluyen el identificador de la transacción y el importe en dólares. |
 | El cliente recibe el aviso de cancelación. | 01/02/2021 | None |
 | El proceso de cobro finaliza o los fondos se cancelan. | 15/02/2021 | Notificación por correo electrónico enviada al anunciante de que los fondos se han cancelado. Se incluyen el identificador de la transacción y el importe en dólares. |
-| El pago se deduce. | 01/03/2021 | El anunciante verá una transacción negativa en la declaración de pago del Centro de partners. |
-| El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en la declaración de pago del Centro de partners. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
+| El pago se deduce. | 01/03/2021 | El publicador verá una transacción negativa en la declaración de pago del centro de Partners |
+| El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en la declaración de pago del centro de Partners. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
 |||
 
 \* La fecha de pago está en hora estándar del Pacífico (PST).
@@ -97,4 +97,4 @@ Normalmente enviamos todos los pagos con vencimiento en un mes determinado a dí
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Obtenga información sobre los [detalles de impuestos](tax-details-marketplace.md).
+- [Datos fiscales](tax-details-marketplace.md)

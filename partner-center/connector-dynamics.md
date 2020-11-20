@@ -8,12 +8,12 @@ description: Sincronice sus referencias en el centro de Partners con el conector
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031338"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947827"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 
@@ -46,7 +46,7 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 4. Haga clic en el vínculo **abrir AppSource** en el menú superior.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Abrir AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Abrir AppSource":::
 
 5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
 
@@ -54,21 +54,13 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 
 7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
 
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners" con los botones de flecha de la parte inferior de la página. La **instalación programada** debe aparecer junto a la solución de referencias del centro de Partners. La instalación tardará 10-15 minutos. 
+8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a "referencias del centro de Partners" con los botones de flecha de la parte inferior de la página. La **instalación programada** debe aparecer junto a la solución de referencias del centro de Partners. La instalación tardará 10-15 minutos. 
 
 9. Una vez completada la instalación, vuelva a [Power Automatic](https://flow.microsoft.com) y seleccione **soluciones** en el área de navegación izquierda. Observe que la **sincronización de las referencias del centro de partners para Dynamics 365** está disponible en la lista de soluciones.
 
 10. Seleccione la **sincronización de referencias del centro de partners para Dynamics 365**. Están disponibles los siguientes flujos y entidades:
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Abrir AppSource&quot;:::
-
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
-
-6. Haga clic en el botón **obtener ahora** y **continúe**.
-
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="CRMS disponibles":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Procedimiento recomendado: prueba antes de la marcha
 
@@ -82,6 +74,7 @@ Antes de instalar, configurar y personalizar la solución Power Automate en el e
 ## <a name="configure-the-solution"></a>Configuración de la solución
 
 1. Una vez que haya instalado la solución en la instancia de CRM, vuelva a [Power Automatic](https://flow.microsoft.com/).
+
 
 2. En la lista desplegable de **entornos** de la esquina superior derecha, seleccione la instancia de CRM en la que instaló la solución Power Automatic.
 
@@ -97,15 +90,7 @@ Antes de instalar, configurar y personalizar la solución Power Automate en el e
 
       2. Cree una conexión haciendo clic en **crear una conexión**.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Abrir AppSource&quot;:::
-
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
-
-6. Haga clic en el botón **obtener ahora** y **continúe**.
-
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Crear conexión":::
 
       3. Busque **referencias del centro de Partners (versión preliminar)** en la barra de búsqueda en la esquina superior derecha.
 
@@ -114,10 +99,31 @@ Antes de instalar, configurar y personalizar la solución Power Automate en el e
       5. A continuación, cree una conexión de eventos del centro de partners para el usuario del centro de Partners con las credenciales de administrador de referencias.
 
       6. Cree una conexión para Common Data Service (entorno actual) para el usuario administrador de CRM.
+       
+     
+      7. Una vez que haya agregado todas las conexiones, debería ver las siguientes conexiones en su entorno:
 
-4. Para asociar los flujos de alimentación automatizada con las conexiones, edite cada uno de los flujos de Power Automatic para conectarse a Common Data Service y a las referencias del centro de Partners. Guarde los cambios.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Conexiones":::
+   
+## <a name="edit-the-connections"></a>Editar las conexiones
 
-5. **Encienda** los flujos automáticos de energía.
+1. Vuelva a la página **soluciones** y seleccione **solución predeterminada**. Haga clic en **todo** para seleccionar **referencia de conexión (vista previa)** .
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Conexión":::
+
+2. Edite cada una de las conexiones de una en una; para ello, seleccione el icono de tres puntos. Agregue las conexiones correspondientes.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Conexiones enumeradas"::: 
+
+3.  Active los flujos en la secuencia siguiente:
+- Registro del webhook del centro de Partners (versión preliminar de Insider)
+- Creación de una referencia de venta conjunta: Dynamics 365 al centro de Partners (versión preliminar de Insider)
+- Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft a Dynamics 365 (versión preliminar de Insider)
+- Centro de partners a Dynamics 365 (versión preliminar de Insider)
+- Dynamics 365 al centro de Partners (versión preliminar de Insider)
+- Oportunidad de Dynamics 365 al centro de Partners (versión preliminar de Insider)
+- Dynamics 365 Microsoft Solutions to partner Center (versión preliminar de Insider)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Uso de las API de webhook para registrar eventos de cambio de recursos
 
@@ -127,27 +133,11 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 2. Agregar conexiones para (a) el usuario del centro de Partners con credenciales de administrador de referencias (b.) eventos del centro de partners como se resaltan a continuación
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Abrir AppSource&quot;:::
-
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
-
-6. Haga clic en el botón **obtener ahora** y **continúe**.
-
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Desencadenador":::
 
 3. Cuando realice estas actualizaciones, verá
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Abrir AppSource&quot;:::
-
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
-
-6. Haga clic en el botón **obtener ahora** y **continúe**.
-
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
 4. Guarde los cambios y seleccione **Activar**.
 
@@ -159,15 +149,17 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 7. Seleccione el icono de **copiar** para copiar la dirección URL http post proporcionada.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Abrir AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copiar la dirección URL":::
 
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
+8. Ahora, seleccione "registro de webhook del centro de Partners (versión preliminar de Insider)" flujo automático de energía y seleccione **Ejecutar**.
 
-6. Haga clic en el botón **obtener ahora** y **continúe**.
+9. Asegúrese de que se abre la ventana "flujo de ejecución" en el panel derecho y haga clic en **continuar**.
 
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
+10. Escriba la siguiente información:
 
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners"
+    1. **Punto de conexión de desencadenador http**: dirección URL copiada del paso anterior
+
+    2. **Eventos para registrar**: "referencia creada" y "referencia-actualizada"
 
     3. **Sobrescribir puntos de conexión de desencadenador existentes si están presentes**: sí (esto Sobrescribe todos los extremos existentes).
 
@@ -221,6 +213,16 @@ Se pueden personalizar varios pasos de cada uno de los flujos de potencia automa
 
    Puede editar las asignaciones en esta sección basándose en la guía de asignación de campos.
 
+Se han creado dos variables de entorno:
+
+- Marca de verificación: indica si necesitaría un icono de marca de verificación además de las oportunidades que se sincronizan bidireccionalmente entre el centro de Partners y Dynamics 365 CRM.
+
+- Sincronizar solo las oportunidades de venta conjunta: significa si desea sincronizar solo las oportunidades de venta conjunta.
+
+Puede optar por editar el valor predeterminado de las variables de entorno.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Cuadro de edición para los valores predeterminados":::
+
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Sincronización de referencia de venta conjunta bidireccional de un extremo a otro
 
 Una vez que haya instalado, configurado y personalizado la solución Power Automate, puede probar la sincronización de referencias de venta conjunta entre Dynamics 365 y el centro de Partners.
@@ -245,6 +247,12 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
 - **Audit**: una pista de auditoría de solo lectura para la sincronización con las referencias del centro de Partners
 
+Actualice el formulario de la oportunidad en Dynamics 365 CRM para incluir el campo soluciones para productos.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Formulario de la oportunidad":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
+
 ### <a name="scenarios"></a>SITUACIÓN
 
 1. Sincronización de referencia cuando se crea o actualiza una referencia en CRM y se sincroniza en el centro de Partners:
@@ -253,15 +261,7 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
    2. Asegúrese de que la siguiente sección está presente al crear una "nueva oportunidad" en el entorno de Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Abrir AppSource&quot;:::
-
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
-
-6. Haga clic en el botón **obtener ahora** y **continúe**.
-
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Sección de la oportunidad de ejemplo que muestra la información del centro de Partners de Microsoft en Dynamics 365.":::
 
    3. Para sincronizar esta oportunidad con el centro de Partners de Microsoft, asegúrese de establecer los siguientes campos en la vista tarjeta:
 
@@ -269,15 +269,13 @@ Los siguientes campos personalizados deben formar parte de la sección CRM:
 
       - **¿Cómo puede ayudarle Microsoft?**: Seleccione una de las siguientes opciones:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Abrir AppSource&quot;:::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sección de la oportunidad de ejemplo en Dynamics 365 que muestra las opciones de ayuda del centro de Partners de Microsoft junto a un campo llamado ¿Cómo puede ayudarle Microsoft?":::
 
-5. Busque **conectores de referencias del centro de partners para Dynamics365** en la pantalla emergente.  
+      - **Productos**: identificadores de la solución del producto
 
-6. Haga clic en el botón **obtener ahora** y **continúe**.
+   4. Una vez creada la oportunidad en Dynamics 365 con la opción **sincronizar con el centro de Partners** establecida en **sí**, espere 10 minutos y, a continuación, inicie sesión en su cuenta del centro de Partners. Las referencias se sincronizarán con Dynamics 365.
 
-7. Se abrirá la página en la que puede seleccionar el entorno de CRM (Dynamics 365) para instalar la aplicación.  Acepte los términos y condiciones.
-
-8. A continuación, se le dirigirá a la página **administrar soluciones** .  Vaya a &quot;referencias del centro de Partners" establecida en "sí", si actualizas la oportunidad en Dynamics 365 CRM, los cambios se sincronizarán en la cuenta del centro de Partners.
+   5. Del mismo modo, para una oportunidad que tuviera la opción "sincronizar con el centro de Partners" establecida en "sí", si actualizas la oportunidad en Dynamics 365 CRM, los cambios se sincronizarán en la cuenta del centro de Partners.
 
    6. Las oportunidades que se sincronizan correctamente con el centro de Partners se identificarán con ✔ icono en Dynamics 365.
 
