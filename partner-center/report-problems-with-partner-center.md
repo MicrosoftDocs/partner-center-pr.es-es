@@ -1,20 +1,20 @@
 ---
 title: Informar sobre problemas con el Centro de partners
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Obtenga información acerca de cómo notificar problemas con el centro de Partners y cómo recopilar información de diagnóstico para el equipo de soporte técnico de asociados.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567097"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983348"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Cómo notificar problemas con el centro de Partners y enviar información de registros o diagnósticos
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567097"
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas o necesita ayuda con el centro de Partners.
-
-**Roles de usuario**
+**Roles adecuados**
 
 Todos los usuarios registrados en el centro de partners pueden crear solicitudes de soporte técnico de asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.
 
@@ -58,6 +56,12 @@ Si su problema requiere una conversación con el defensor de soporte técnico, p
 1. Al programar una cita, el centro de Partners le envía una invitación de calendario con información sobre el modo en que el defensor de soporte técnico se pondrá en contacto con usted, de modo que pueda realizar el seguimiento de esta cita en su propio calendario de trabajo.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora":::
+
+## <a name="hours-of-operation"></a>Horas de operación
+
+**Soporte técnico del asociado**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de soporte técnico":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 
