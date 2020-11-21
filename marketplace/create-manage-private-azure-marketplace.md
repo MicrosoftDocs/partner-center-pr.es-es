@@ -2,16 +2,16 @@
 title: Creación y administración de Azure Marketplace privado en Azure Portal
 description: Obtenga información sobre cómo crear y administrar Azure Marketplace privado (versión preliminar) en el Azure Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487710"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006946"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Creación y administración de Azure Marketplace privado (versión preliminar) en el Azure Portal
 
@@ -37,8 +37,8 @@ Debe cumplir estos requisitos previos para poder asignar el rol de administrador
 
 - Tiene acceso a un usuario de **administrador global** .
 - El inquilino tiene al menos una suscripción (puede ser cualquier tipo).
-- Al usuario administrador global se le asigna el rol **colaborador** o superior para la suscripción elegida en el paso 2.
-- El usuario administrador global tiene el acceso con privilegios elevados establecido en **sí** (consulte [Elevate-Access-global-admin](/azure/role-based-access-control/elevate-access-global-admin)).
+- Al usuario administrador global se le asigna el rol **colaborador** o superior para la suscripción elegida.
+- El usuario administrador global tiene el acceso con privilegios elevados establecido en **sí** (consulte [elevación de acceso para administrar todas las suscripciones y grupos de administración de Azure](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Asignación del rol de administrador de Marketplace con PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -222,6 +221,6 @@ Aunque la experiencia de la página de detalles del producto es similar a la de 
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="El banner de la oferta indicando que se puede crear un plan y mostrar los planes disponibles.":::
 
-## <a name="contact-support"></a>Póngase en contacto con el soporte técnico.
+## <a name="contact-support"></a>Ponerse en contacto con soporte técnico
 
 Para obtener soporte técnico de Azure Marketplace, visite [Microsoft Q&A](/answers/products/). 

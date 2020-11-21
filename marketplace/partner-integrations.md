@@ -3,15 +3,15 @@ title: Integraciones de asociados de Azure Marketplace
 description: Obtenga información sobre las soluciones de Azure Marketplace que se integran con su entorno de Azure y obtenga vínculos a guías de implementación de asociados de Microsoft.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691672"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006912"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Integraciones de asociados de Azure Marketplace
 
