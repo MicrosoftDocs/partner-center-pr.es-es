@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564735"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417258"
 ---
 # <a name="benefits-faq"></a>Preguntas frecuentes sobre ventajas
 
@@ -89,14 +89,14 @@ Puede asignar suscripciones a cualquier usuario de la lista de administración d
 
 2. En el panel de navegación izquierdo, seleccione **MPN**.
 
-3. Seleccione **beneficios**y, a continuación, seleccione **Visual Studio**.
+3. Seleccione **beneficios** y, a continuación, seleccione **Visual Studio**.
 
 4. Asigne los usuarios deseados a las suscripciones existentes de Visual Studio disponibles.
 
 Una vez asignada la suscripción, el usuario debe iniciar sesión en Visual Studio para administrarla.
 
 >[!Note]
-> Un usuario asignado a una suscripción de Visual Studio en el centro de Partners no se puede quitar hasta 90 días después de la asignación original.
+> Las suscripciones de Visual Studio se pueden reasignar de un suscriptor a otro después de 90 días de asignación original
 
 ## <a name="technical-benefits-and-support"></a>Ventajas técnicas y soporte técnico
 
@@ -108,7 +108,7 @@ La instalación, la activación y otra ayuda relacionada con productos se propor
 
 2. En el panel de navegación izquierdo, seleccione **MPN**.
 
-3. Seleccione **beneficios**y, a continuación, seleccione **ventajas técnicas**.
+3. Seleccione **beneficios** y, a continuación, seleccione **ventajas técnicas**.
 
 4. Use la sección ventajas técnicas para activar y recibir un identificador de acceso o un identificador de contrato.
 
