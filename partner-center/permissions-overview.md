@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363629"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670157"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Asignación de roles y permisos a los usuarios de una empresa que necesitan trabajar en el Centro de partners
 
@@ -130,7 +130,7 @@ Estos no son roles de Azure Active Directory. Estos roles administran el negocio
 ## <a name="manage-referrals"></a>Administrar referencias
 
 > [!Note]
->El nuevo rol de usuario Referencias estará disponible a partir del 16 de noviembre de 2020. Los administradores de referencias existentes conservarán su rol de administrador de referencias en el ámbito de toda la compañía.
+>El nuevo rol de usuario Referencias estará disponible a partir del 18 de noviembre de 2020. Los administradores de referencias existentes conservarán su rol de administrador de referencias en el ámbito de toda la compañía.
 
 |**Rol** | **Qué puede hacer**|**Más información**
 |------------------------------|:-------------------------|---|

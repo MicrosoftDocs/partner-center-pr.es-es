@@ -1,20 +1,20 @@
 ---
 title: Comprobación de tu perfil de partner
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Obtén información sobre cómo comprobar la información de tu empresa, como el contacto principal, la dirección y la información del programa. También puedes actualizar el domicilio legal y la dirección de facturación.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490643"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626004"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Comprobación de la información del perfil de partner en el Centro de partners
 
@@ -69,9 +69,17 @@ Para actualizar el id. de MPN asociado a la cuenta de CSP:
 
 ## <a name="update-your-billing-address"></a>Actualización de la dirección de facturación
 
-Si eres el administrador global, el administrador de facturación o el agente de administración, puedes cambiar la dirección que aparece en la factura en el **perfil de facturación**. Sin embargo, no puedes cambiar el nombre de la empresa en la factura debido a una limitación con el sistema de facturación.
+Si es el administrador global, el administrador de facturación o el agente de administración, puede actualizar:
 
- 
+- La dirección que aparece en la factura del **Perfil de facturación**
+- Su número de pedido de compra
+
+No puede cambiar:
+ 
+- Nombre de la compañía
+- País
+- Fecha de facturación
+ 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Administrar ubicaciones](manage-locations.md)
