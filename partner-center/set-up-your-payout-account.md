@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488148"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514765"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
@@ -44,7 +44,7 @@ Puede completar y enviar los formularios fiscales electrónicamente desde el Cen
 > [!IMPORTANT]
 > Los distintos países y regiones tienen requisitos fiscales diferentes. El importe exacto que debe pagar en impuestos dependerá de los países y regiones en los que desea vender sus ofertas. Consulte el [Contrato para editores de Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para averiguar para qué países o regiones Microsoft remite las ventas y los impuestos sobre el consumo en su nombre. En otros países o regiones, según donde esté registrado, puede que tenga que remitir las ventas de ofertas y los impuestos sobre el consumo de estas directamente ante la autoridad fiscal local. Además, los ingresos por ventas de la aplicación que recibe pueden estar sujetos a impuestos como ingresos. Le recomendamos encarecidamente que se ponga en contacto con la autoridad pertinente del país o región que mejor le pueda ayudar a determinar la información fiscal adecuada para sus actividades de Marketplace comercial.
 
-1. En el [Centro de partners](https://partner.microsoft.com/dashboard), seleccione el icono de **configuración de la cuenta** en la esquina superior derecha y, a continuación, seleccione **Configuración del desarrollador**.
+1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la **cuenta**.
 
 2. En el menú de navegación izquierdo, seleccione **Pago e impuestos** y, a continuación, seleccione **Asignaciones de perfiles fiscales y de pago**.
 
@@ -81,7 +81,7 @@ Una cuenta de pago es la cuenta bancaria a la que se envían los ingresos de sus
 
 ### <a name="create-a-payment-profile"></a>Creación de un perfil de pago
 
-1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, seleccione Configuración de la **cuenta**.
+1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la **cuenta**.
 2. Debajo del encabezado *Pago e impuestos* fiscal, seleccione **Asignación de perfiles fiscales y de pago**.
 
     > [!NOTE]
@@ -102,7 +102,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
     > Los campos que se usan para proporcionar la información de la cuenta aceptan solo caracteres alfanuméricos.
 
 3. Proporcione los detalles del beneficiario.
-4. De nuevo en la página de *asignación de perfil* , seleccione la moneda que desea usar cuando emita sus pagos.
+4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
 
     > [!WARNING]
     > Asegúrese de que el banco acepte la moneda de pago que seleccione.
@@ -124,7 +124,7 @@ Para garantizar que el pago se realiza correctamente, asegúrese de lo siguiente
 
 Puede editar los perfiles de pago existentes si necesita realizar cambios o corregir cualquier información incorrecta.
 
-1. En el [Centro de partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje de **configuración** en la esquina superior derecha y, después, seleccione **Configuración del desarrollador**.
+1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la  **cuenta**.
 
 2. Debajo del encabezado *Pago e impuestos* fiscal, seleccione **Perfiles fiscales y de pago**.
 
@@ -192,14 +192,14 @@ Microsoft proporciona los tres documentos cuando se va a realizar el primer pago
 
 Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el siguiente proceso para configurar su cuenta.
 
-1. En la página de *PayPal* , proporcione la información necesaria sobre su cuenta de PayPal.
+1. En la página de *PayPal*, proporcione la información necesaria sobre su cuenta de PayPal.
 2. Especifique los detalles de la cuenta de PayPal.
 
     > [!NOTE]
     > Los campos que se usan para proporcionar la información de la cuenta aceptan solo caracteres alfanuméricos.
 
 3. Proporcione los detalles del beneficiario.
-4. De nuevo en la página de *asignación de perfil* , seleccione la moneda que desea usar cuando emita sus pagos.
+4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
 6. Haga clic en Enviar para guardar los cambios.
 
