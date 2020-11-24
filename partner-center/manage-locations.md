@@ -1,7 +1,7 @@
 ---
 title: Administración de las ubicaciones en tu cuenta de partner
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aprenda a agregar una nueva ubicación y cómo se usa el identificador de MPN de ubicación en programas de incentivos, empresas de CSP, suscripciones y otras transacciones.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100775"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514809"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición de una nueva ubicación
 
@@ -58,9 +58,9 @@ Proporcione los detalles de la empresa legal, incluidos el nombre legal de la em
 
 1. Inicie sesión con la cuenta de MPN en el Centro de partners. La cuenta de MPN debe tener privilegios de administrador global o de cuenta. 
 
-1. En el **icono Configuración**, selecciona **Configuración de partners**.
+1. En el **icono Configuración**, seleccione **Configuración de la organización**.
 
-2. Selecciona **Ubicaciones.**
+2. Seleccione **Legal** y, a continuación, seleccione **Ubicaciones.**
 
 3. Seleccione **Agregar una ubicación** e inserte los detalles de la dirección de la ubicación que quiera agregar a la empresa, así como un contacto principal para la ubicación.
 
@@ -69,18 +69,15 @@ Proporcione los detalles de la empresa legal, incluidos el nombre legal de la em
 
 ## <a name="change-global-partner-account-location"></a>Cambio de la ubicación de la cuenta de partner global
 
-1. En la página **[Ubicaciones](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** , compruebe la lista de ubicaciones para asegurarse de que se muestra la ubicación que quiere como entidad jurídica. Si no es así, agrégala.
+1. En **[Ubicaciones de la empresa](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** , compruebe la lista de ubicaciones para asegurarse de que se muestra la ubicación que quiere como entidad jurídica. Si no es así, agrégala.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Estructura de ubicaciones de MPN":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Captura de pantalla de la página de ubicaciones de cuentas del Centro de Partners con una lista de todas las ubicaciones actuales.":::
 
-2. Selecciona **Perfil del partner** y luego **Update legal business profile** (Actualizar perfil de denominación legal de la empresa).
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Estructura de ubicaciones de MPN":::
-
+2. Selecciona **Legal** y luego **Update legal business profile** (Actualizar perfil de denominación legal de la empresa).
+  
 3. Selecciona la región, la entidad jurídica y **Enviar**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Estructura de ubicaciones de MPN":::
-
+  
 ## <a name="next-steps"></a>Pasos siguientes
 
 - Obtenga más información acerca del [proceso de verificación](verification-responses.md).
