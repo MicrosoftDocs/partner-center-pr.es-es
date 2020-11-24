@@ -1,7 +1,7 @@
 ---
 title: Encuentre sus ventajas
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo buscar las ventajas de MPN en el panel del centro de Partners. Incluye información sobre cómo buscar el identificador de acceso y el identificador de contrato para obtener ventajas técnicas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175323"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812839"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Busque sus ventajas Microsoft Partner Network. 
 
@@ -36,7 +36,7 @@ En este artículo se indica a los miembros del Microsoft Partner Network (MPN) c
 
 Como miembro de Microsoft Partner Network, su empresa tiene acceso a muchas de las ventajas que pueden ayudar en el crecimiento de su negocio. Para averiguar cuáles son las ventajas:
 
-1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners, seleccione **MPN**y, luego, seleccione **beneficios**.
+1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners, seleccione **MPN** y, luego, seleccione **beneficios**.
 
 2. A partir de las ventajas, puede revisar, activar, ordenar o descargar las ventajas de interés que pertenecen a una de las categorías disponibles. Para ello, seleccione el área de beneficio en la que desea obtener más información:
 
@@ -68,13 +68,13 @@ En el caso de las ventajas técnicas, verá los identificadores de soporte técn
 
 1. Inicie sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
 
-2. Seleccione **MPN**y, a continuación, **ventajas**y **ventajas técnicas**.
+2. Seleccione **MPN** y, a continuación, **ventajas** y **ventajas técnicas**.
 
 3. Seleccione una ventaja de la lista. Amplíe la ventaja para ver más detalles. 
 
    Debería ver el ID. de **contrato** de soporte técnico del producto específico y el ID. de **acceso** asignados a esta ventaja.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Ventajas ampliadas":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Ejemplo de soporte técnico de Gold Core Competency support con identificadores de soporte técnico de Microsoft como ID. de contrato e identificador de acceso":::
 
    > [!NOTE]
    > Realice un seguimiento de estos ID. de soporte técnico. Algunos sistemas pueden solicitarlos la primera vez que usted (o uno de los usuarios de su empresa) registra una solicitud de soporte técnico asociada a una ventaja técnica específica. Es probable que todos los usuarios de la empresa usen el mismo identificador de acceso e identificador de contrato.
@@ -83,7 +83,7 @@ En el caso de las ventajas técnicas, verá los identificadores de soporte técn
 
 Para averiguar qué ventajas están disponibles con las competencias de Microsoft Action Pack, Silver o Gold, consulte los siguientes recursos:
 
-- [Tabla de licencias para asociados de Microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tabla de licencias para asociados de Microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Tabla de licencias para asociados de competencia](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 

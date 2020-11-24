@@ -1,19 +1,19 @@
 ---
 title: 'Competencias: preguntas más frecuentes'
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Respuestas a preguntas sobre la obtención de las competencias Microsoft Partner Network Gold y Silver, la expiración de las ventajas, la renovación y la activación de licencias para Azure, la nube, Visual Studio y los beneficios técnicos y de soporte técnico
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755230"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812816"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competencias: preguntas más frecuentes
 
@@ -44,11 +44,11 @@ Pueden hacerlo desde el centro de Partners, como se indica a continuación:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-1. Seleccione **MPN** seguido de **competencias** .
+1. Seleccione **MPN** seguido de **competencias**.
 
 1. En la parte superior de la página competencias, busque y seleccione la opción **Descargar informe de aptitudes** .
 
-También hay otros informes sobre los conocimientos de su organización en el área del centro de [Partners](partner-center-insights.md) del centro de Partners. Para ver estos informes, es posible que tenga que tener asignado un rol específico de información del **visor de informes** o del **visor de informes ejecutivos** . Es posible que tenga que pedir al administrador del asociado de MPN que le proporcione acceso a uno de estos roles.
+También hay otros informes sobre los conocimientos de su organización en el área del centro de [Partners](partner-center-insights.md) del centro de Partners. Para ver estos informes, es posible que tenga que tener asignado un rol específico de información del **visor de informes** o del **visor de informes ejecutivos**. Es posible que tenga que pedir al administrador del asociado de MPN que le proporcione acceso a uno de estos roles.
 
 Vea los informes de Insights como se indica a continuación:
 
@@ -64,7 +64,7 @@ Vea los informes de Insights como se indica a continuación:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>Q. ¿Cuánto tiempo se tarda en ver las evaluaciones de usuario más recientes en el informe de aptitudes de usuario del centro de Partners?
 
-La cuenta de Partner University se asociará a la cuenta de usuario del centro de Partners. Las evaluaciones del usuario aparecerán en el informe de aptitudes de usuario del centro de Partners en **72 horas** .
+La cuenta de Partner University se asociará a la cuenta de usuario del centro de Partners. Las evaluaciones del usuario aparecerán en el informe de aptitudes de usuario del centro de Partners en **72 horas**.
 
 En este informe solo aparecerán los conocimientos pertinentes para las competencias y los programas del centro de Partners. (Algunos conocimientos retirados también pueden aparecer durante 12 meses o más una vez que se retiran).
 
@@ -79,7 +79,7 @@ Vea los siguientes recursos:
 
 - [Descargue](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) las tablas de licencia para los asociados de competencia.
 
-- [Descargue](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) la tabla de licencias para asociados de suscripción de Microsoft Action Pack.
+- [Descargue](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) la tabla de licencias para asociados de suscripción de Microsoft Action Pack.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. Cómo vincular un identificador de Perfil de certificación de Microsoft (MCP ID o MCID) a mi cuenta del centro de Partners de Microsoft?
 
