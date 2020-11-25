@@ -1,7 +1,7 @@
 ---
 title: Compra o renovación de ofertas Microsoft Action Pack
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtén información sobre cómo comprar una suscripción a Microsoft Action Pack y empezar a usar las ventajas de Action Pack. También aprenderás a realizar renovaciones, cancelaciones, visualizar tu factura y mucho más.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998377"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812847"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Compra o renueva una suscripción a Microsoft Action Pack o las competencias Silver o Gold.
 
@@ -52,7 +52,7 @@ Conviértase en un [partner de competencias](https://partner.microsoft.com/membe
 ### <a name="check-your-renewal-eligibility"></a>Comprobar la posibilidad de renovación
 
 >[!IMPORTANT]
->Si le invitaron a renovar la suscripción en el Centro de partners, tenga en cuenta que hemos cambiado nuestra política de ventanas de renovación, de manera que solo puede renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puede renovarla a partir del 23 de junio y durante los 30 días posteriores.       
+>Si le invitaron a renovar la suscripción en el Centro de partners, tenga en cuenta que hemos cambiado nuestra política de ventanas de renovación, de manera que solo puede renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puede renovarla a partir del 23 de junio y durante los 30 días posteriores.
 >Puede hallar la fecha de expiración de la suscripción en la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inicio de sesión necesario). Cuando reúnas los requisitos para la renovación en el Centro de partners, sigue los pasos siguientes.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Renovar una suscripción a Microsoft Action Pack en el Centro de partners
@@ -64,13 +64,13 @@ Conviértase en un [partner de competencias](https://partner.microsoft.com/membe
     >[!NOTE]
     >Si no se muestra la opción **Renovar suscripción** o está desactivada, aún no tiene la posibilidad de renovar la suscripción a Action Pack. Hemos cambiado nuestra política de ventanas de renovación y solo puede renovar la suscripción después de que expire. Por ejemplo, si la suscripción expira el 22 de junio, puede renovarla a partir del 23 de junio y durante los 30 días posteriores.  
 
-3. Si paga con tarjeta de crédito, siga las instrucciones para agregar la información de la tarjeta de crédito. Si paga mediante transferencia bancaria electrónica, proporcione un nombre de contacto, un número de teléfono y una dirección de correo electrónico y, después, seleccione **Enviar**. 
-     
+3. Si paga con tarjeta de crédito, siga las instrucciones para agregar la información de la tarjeta de crédito. Si paga mediante transferencia bancaria electrónica, proporcione un nombre de contacto, un número de teléfono y una dirección de correo electrónico y, después, seleccione **Enviar**.
+
 4. Revisa los detalles del pedido y, a continuación, selecciona **Comprar** cuando estés preparado para comprar Action Pack. Se cargará inmediatamente en la tarjeta de crédito.
 
 5. El pedido se ha confirmado. Seleccione **Cerrar**.
 
-La suscripción a Action Pack se renovará automáticamente cada año en esta fecha. Puede desactivar la renovación automática en cualquier momento desde la lista de ofertas **Compradas**; sin embargo, no podrá volver a activar la renovación automática de suscripción hasta que la suscripción se vuelva a renovar. 
+La suscripción a Action Pack se renovará automáticamente cada año en esta fecha.
 
 ### <a name="update-your-bill-to-address"></a>Actualización de la dirección de facturación
 
@@ -79,16 +79,6 @@ En el proceso de renovación o compra de Action Pack, tiene la oportunidad de va
  1. Después de seleccionar **Enviar**, puede revisar los detalles de la compra. Seleccione **Actualizar** si ve que es necesario actualizar la dirección.
   
  1. En la página **Perfil del partner**, actualice su dirección.
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desactivar la renovación automática de la suscripción a Action Pack
-
-1. Vaya a la página [**Ofertas de suscripción**](https://partnercenter.microsoft.com/pcv/partnership/offers).  Seleccione **Suscripción a Microsoft Action Pack** para ver los detalles de suscripción. 
-
-2. Seleccione **Desactivar renovación automática** si no quiere que la suscripción a Action Pack se renueve automáticamente cada año. 
-
-    >[!NOTE]
-    >Si desactivas la renovación automática de la suscripción, no podrás volver a activarla hasta que vuelvas a renovar la suscripción. Te recordaremos que debes renovar la suscripción antes de que expire.
-
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancelar la suscripción a Action Pack
 

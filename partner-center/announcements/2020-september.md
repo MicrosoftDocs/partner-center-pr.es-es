@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031558"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878807"
 ---
 # <a name="september-2020-announcements"></a>Anuncios de septiembre de 2020
 
@@ -46,7 +46,7 @@ El Centro de administración de Microsoft 365 mejora la entrega segura del soft
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener más información sobre el software del Centro de administración de Microsoft 365, revise la [introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), las [tareas comunes](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) y las [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Para obtener más información sobre el software del Centro de administración de Microsoft 365, revise la [introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), las [tareas comunes](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) y las [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Comparta esta actualización con los equipos correspondientes de la organización.
 
