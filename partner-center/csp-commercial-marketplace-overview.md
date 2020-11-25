@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000409"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038836"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general sobre Marketplace comercial del Centro de partners
 
@@ -55,7 +55,7 @@ Como asociado en el programa CSP, puede completar muchas actividades comerciales
 
 - [Portal de administración de Microsoft Azure](https://portal.azure.com/)
 
-    O bien
+    Or
 
 - Un sistema o sitio web de un publicador de ISV de terceros
 
@@ -68,7 +68,7 @@ Vaya a los [conceptos básicos de facturación](billing-basics.md) para obtener 
 
 Para saber dónde completar una actividad específica de Marketplace para las ofertas de ISV basadas en licencias o en el uso, consulte las tablas siguientes.
 
-|**Para las ofertas de SaaS basadas en licencias de ISV**  |**Uso**  |
+|**Para las ofertas de SaaS basadas en licencias o en uso medido de fabricantes de software independientes**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para detectar o Buscar ofertas disponibles  | API del centro de Partners o del centro de Partners  |
 |Para comprar una oferta  | API del centro de Partners o del centro de Partners  |
@@ -79,9 +79,9 @@ Para saber dónde completar una actividad específica de Marketplace para las of
 |**Para las ofertas basadas en el uso de ISV**  |**Uso**  |
 |:------------------------------------|:------------------|
 |Para detectar o Buscar ofertas disponibles  | Panel del centro de Partners, API del centro de Partners o Azure Portal  |
-|Para comprar una oferta  | Azure portal  |
-|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Azure portal  |
-|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar licencias | Azure portal  |
+|Para comprar una oferta  | Portal de Azure  |
+|Para implementar una oferta comprada (configuración de la cuenta, administración de software o implementación en el inquilino de AAD del cliente)  | Portal de Azure  |
+|Para cancelar o renovar las suscripciones de la oferta o agregar o quitar licencias | Portal de Azure  |
 |Para crear usuarios o administrar permisos  | Azure Portal  |
 
 ## <a name="next-steps"></a>Pasos siguientes

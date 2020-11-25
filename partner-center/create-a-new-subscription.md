@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000529"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038887"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Crear, suspender o cancelar suscripciones de clientes
 
@@ -36,8 +36,8 @@ Después de crear un registro del cliente en el Centro de partners, puedes vende
 
 Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de las ofertas restringidas, visita la página Precios y ofertas del Centro de partners.
 
-> [!IMPORTANT]
-> Como asociado en el programa CSP, solo puede comprar suscripciones de SaaS **basadas en licencias** de los publicadores ISV del centro de Partners. Esto significa que puede comprar cualquier oferta **de SaaS basada en licencia** que el publicador de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tenga acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (como las ofertas basadas en **el uso, el uso**medido o las basadas en el consumo que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [portal de administración de Azure](https://portal.azure.com/). Para obtener más información, consulte [comprar productos comerciales de Marketplace](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Como asociado en el programa CSP, puede comprar suscripciones de SaaS **basadas en licencias** o en la **medida** de los editores de ISV del centro de Partners. Esto significa que puede comprar cualquier oferta de SaaS de **uso** o **basada en licencias** que el anunciante de ISV le haya puesto a su disposición, incluidas las [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a las que tiene acceso. Para comprar o administrar otras ofertas comerciales de Marketplace de fabricantes de software independientes (por ejemplo, ofertas basadas en el uso que impliquen aplicaciones, contenedores o máquinas virtuales de Azure), debe ir al [Azure portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Crear una nueva suscripción
 
@@ -50,7 +50,7 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
 4. Para ver solo determinados tipos de suscripciones, haz selecciones en los filtros disponibles:
    - **Publicador**: elija **Microsoft** para ver solo las ofertas de Microsoft o **Partner** para ver los productos comerciales de Marketplace publicados por ISV.
    - **Tipo de facturación**: seleccione el tipo de facturación de la suscripción que quiere usar: **licencia** o **uso**. Consulte [facturación basada en licencias](license-based-billing.md) para obtener información que le ayude a decidir entre la frecuencia de facturación mensual y anual.
-   - **Categoría**: elija **empresa**, **pequeña empresa**o **prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Categoría**: elija **empresa**, **pequeña empresa** o **prueba**. Para obtener información sobre las suscripciones de prueba, consulta [Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Seleccione las suscripciones de producto que desea comprar para su cliente. Los productos que se ven dependen del tipo de segmento de cliente (educación, gobierno, etc.) y de los filtros aplicados. Es posible que algunas ofertas que se muestran en Marketplace no siempre estén disponibles para un cliente específico o un asociado de CSP específico. Esto puede deberse a:
 
@@ -70,7 +70,7 @@ Algunas ofertas se limitan a una suscripción por cliente. Para ver una lista de
 
     - Puede revisar o editar la suscripción seleccionando el nombre de la suscripción en la página de **suscripciones** de ese cliente. Desde aquí, puedes seleccionar licencias de complementos, si hay alguna disponible, cambiar la cantidad de licencias o suspender la suscripción.
 
-    **Para las suscripciones de SaaS de ISV (basadas en licencias):**
+    **Para las suscripciones SaaS de ISV (basadas en licencias y en uso medido):**
     - Recibirá un vínculo al sitio del editor de ISV. Este vínculo le ayudará a completar la configuración de la implementación o la cuenta de la suscripción del cliente.
       
     >[!NOTE]
@@ -112,7 +112,7 @@ Si cambias el estado de una suscripción a **Suspendida**, los usuarios no podr�
 
 3. Selecciona la suscripción que deseas administrar.
 
-4. En la sección**Estado**, elija **Suspendida**. Haga clic en **Enviar** para enviar los cambios.
+4. En la sección **Estado**, elija **Suspendida**. Haga clic en **Enviar** para enviar los cambios.
 
 5. Se eliminarán todos los datos a menos que la suscripción se reactive en un plazo de 90 días o 90 días más el número de días entre el momento en el que se abrió la cuenta y el primer período de facturación (120 días como máximo).
 
