@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691306"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514748"
 ---
 # <a name="november-2020-announcements"></a>Anuncios de noviembre de 2020
 
@@ -23,6 +23,219 @@ En esta página se detallan los anuncios del Centro de partners de Microsoft de 
 Anuncios de 2020: [abril](2020-april.md) | [mayo](2020-may.md) | [junio](2020-june.md) | [julio](2020-july.md) | [agosto](2020-august.md) | [septiembre](2020-september.md) | [octubre](2020-October.md) | noviembre
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Presentación de la capacidad de comprar ofertas de SaaS con facturación de uso medido en el Centro de partners 
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 24-11-2020
+- Funcionalidades
+
+## <a name="summary"></a>Resumen
+
+Microsoft presenta la posibilidad de que los asociados del programa Proveedor de soluciones en la nube compren ofertas de SaaS con la facturación de uso medido en el Centro de partners. 
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners
+
+### <a name="details"></a>Detalles
+
+Microsoft presenta la posibilidad de que los asociados del programa Proveedor de soluciones en la nube, incluidos los proveedores indirectos y los asociados de facturación directa, compren ofertas de SaaS con [facturación de uso medido](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) en el Centro de partners. Actualmente, los asociados del programa Proveedor de soluciones en la nube pueden ver y [comprar ofertas de SaaS con facturación de uso medido a través de Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Esta nueva experiencia permitirá que los asociados compren estas ofertas a través del marketplace de CSP en el Centro de partners y la API como lo hacen con otros tipos de ofertas de SaaS. 
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Comparta esta información con todos los contactos de su empresa a quienes corresponda.
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nueva experiencia de administración de cuentas unificada
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 18-11-2020
+- Funcionalidades
+
+## <a name="summary"></a>Resumen
+
+A partir del 18 de noviembre, el Centro de partners comenzará a implementar la nueva experiencia de administración de cuentas que mejorará la experiencia del usuario para los asociados. Los asociados ahora podrán administrar su cuenta para todos los programas desde Configuración -> Configuración de la cuenta.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners
+
+### <a name="details"></a>Detalles
+
+El cambio de clave en la administración de cuentas es la integración de la vista **Configuración de partners** anteriormente independiente para los asociados inscritos en programas comerciales (Microsoft Partner Network, Proveedor de soluciones en la nube, Referencias, etc.) y la vista **Configuración de desarrollador** para los asociados inscritos en programas de desarrolladores (marketplace comercial, Windows y Xbox, etc) en la vista **configuración de la cuenta** unificada.
+
+### <a name="entry-point"></a>Punto de entrada
+
+Inicie sesión en el panel del Centro de partners y, después, seleccione el icono  **Configuración** y haga clic en **Configuración de la cuenta**. Ya no debe elegir entre Asociado y Desarrollador, ya que ahora todos los perfiles y valores de configuración están combinados.
+
+### <a name="left-navigation-hierarchy"></a>Jerarquía de navegación izquierda
+
+- Perfil de la organización
+   - Legal: administre su perfil legal de empresa, el perfil de asociado y las ubicaciones de la empresa.
+   - Inquilinos: aquí se realiza un seguimiento de toda la información sobre los inquilinos de Azure AD y los roles de comercial y desarrollador.
+   - Identificadores: identidades del Centro de partners para su empresa: MPNID, publisherId, etc.
+- Administración de usuarios: administre los usuarios y asígneles roles de comercial y desarrollador desde un solo lugar. También puede administrar grupos y aplicaciones de Azure AD desde aquí.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Comparta esta información con todos los contactos de su empresa a quienes corresponda.
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)
+
+### <a name="categories"></a>Categorías
+- Fecha: 18-11-2020
+- Ofertas/mercados
+
+### <a name="summary"></a>Resumen
+Presentamos una nueva promoción de Office 365 E1 para mercados medianos, restringida a los mercados emergentes de LATAM, India y APAC (no incluye los mercados desarrollados dentro de APAC).
+
+### <a name="impacted-audience"></a>Audiencia afectada
+Todos los asociados que operan a través del programa Proveedor de soluciones en la nube (CSP) de los mercados participantes indicados anteriormente.
+
+### <a name="details"></a>Detalles
+La promoción consiste en un 30 % de descuento en Office 365 E1 para CSP. Se lanzará el 1 de diciembre de 2020 y estará disponible durante 6 meses, hasta el 31 de mayo de 2020. Esta promoción solo está disponible para los clientes que no están familiarizados con la nube de MW y tienen hasta 500 puestos. Tenga en cuenta que está restringida a los mercados emergentes de LATAM, India y APAC, a fin de permitir la transición a la nube. 
+
+#### <a name="offer-details"></a>Detalles de la oferta
+
+   |**Nombre de la oferta**|**Identificador de oferta**|
+   |-------------------|:------|
+   |Office 365 E1 para la promoción en mercados medianos|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Pasos siguientes
+Esta información estará disponible el 1 de diciembre. Mientras tanto, compártala con todos los contactos de la organización a quienes corresponda (de las regiones participantes). Comience a interactuar con los clientes que aún no están en la nube de las regiones participantes. 
+
+### <a name="questions"></a>¿Tiene preguntas?
+Póngase en contacto con el [servicio de soporte técnico del Centro de partners](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) si tiene alguna duda o consulta, o para obtener más información.
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 17-11-2020
+- Funcionalidades | Filtrado de cliente mejorado
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Los asociados de facturación directa o los proveedores indirectos que participan en el programa Proveedor de soluciones en la nube (CSP) y que tienen clientes nuevos o existentes en los siguientes países:
+
+- Armenia (AM)
+- Azerbaiyán (AZ)
+- Belarús (BY)
+- Hungría (HU)
+- Kazajistán (KZ)
+- Kirguistán (KG)
+- Moldavia (MD)
+- Rusia (RU)
+- Tayikistán (TJ)
+- Uzbekistán (UZ)
+- Ucrania (UA)
+
+### <a name="summary"></a>Resumen
+
+Como parte del compromiso continuo de Microsoft con los clientes y asociados en relación con las prácticas empresariales conformes, ahora se pedirá a algunos asociados con clientes de determinados países que rellenen algunos campos de datos adicionales sobre estos clientes cuando el asociado intente actualizar una suscripción de cliente existente o crear una nueva suscripción para un nuevo cliente. 
+
+### <a name="details"></a>Detalles
+
+Microsoft funciona con confianza. Nos comprometemos a proporcionar un método compatible, seguro y protegido para la validación de clientes durante las operaciones de transacción con suscripciones de clientes en el programa CSP. Como parte de este trabajo, hemos incorporado mejoras en la interfaz de usuario y la API del Centro de partners, que afectarán a los asociados que cumplan todos los criterios siguientes: 
+
+- El asociado tiene una relación de facturación directa con Microsoft (por ejemplo, un asociado de facturación directa o un proveedor indirecto).
+
+- El asociado hace negocios con clientes nuevos o existentes en los siguientes países: Armenia (AM), Azerbaiyán (AZ), Belarús (BY), Hungría (HU), Kazajistán (KZ), Kirguistán (KG), Moldavia (MD), Rusia (RU), Tayikistán (TJ), Uzbekistán (UZ) y Ucrania (UA). 
+
+En el caso de los asociados con un cliente de estos países, ahora se pedirá al asociado que envíe el **identificador legal** del cliente específico (también conocido como **INN de la organización** del cliente) y el **número de teléfono** de dicho cliente cuando el asociado intente actualizar o crear una suscripción para ese cliente. Estos asociados ahora también pueden optar por escribir un **segundo nombre** opcional para el cliente.
+
+### <a name="partner-center-enhancements"></a>Mejoras en el Centro de partners
+
+- Mejoras de la interfaz de usuario del Centro de partners para perfeccionar la validación de clientes en determinados países
+
+- Nuevas API para admitir la validación mejorada de clientes en determinados países
+
+**Cambios en la página Cuenta de cliente de la interfaz de usuario del Centro de partners**
+
+La página Cuenta de cliente del Centro de partners se ha actualizado del modo siguiente:
+
+1. **INN de la organización** (también conocido como identificador legal). Este campo ahora es necesario para los clientes de determinados países. 
+
+   > [!NOTE]
+   > Los datos solo se deben escribir en caracteres alfanuméricos, sin guiones, caracteres especiales ni espacios. Los asociados deberán trabajar con el contacto del cliente en estos países para confirmar el estado del identificador legal del cliente, como su identificador fiscal o número INN. Para obtener más información específica del país, consulte la siguiente tabla.  
+
+2. **Segundo nombre.** Este campo es opcional para todos los clientes. Si conoce el segundo nombre o la inicial del cliente, el asociado puede escribirlo aquí.
+
+3. **Número de teléfono.** Este campo era opcional anteriormente, pero ahora es necesario para clientes de países concretos.  
+
+A continuación, se muestran los requisitos del campo **INN de la organización** (identificador legal) específicos del país.
+
+| País | Área A14 | Código ISO de país | Requisitos de caracteres del campo | Nombre del campo específico del país en lenguaje nativo | Traducción en inglés o comentarios |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Armenia | CEE      | AM               | 8 o 10 dígitos         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/número de servicio público                     |
+| Azerbaiyán| CEE      | AZ               | 7 o 10 dígitos         | :::no-loc text="ИНН/VOEN/ПИК"::: | CIF/NIF/INN/PIC              |
+| Bielorrusia | CEE      | BY               | 9 dígitos         | :::no-loc text="УНП"::: | UNP (hace referencia al número de identificación fiscal)                    |
+| Hungría | CEE      | HU               | 10 u 11 dígitos         | :::no-loc text="TIN"::: | NIF/CIF (número de identificación fiscal)                     |
+| Kazajistán | CEE      | KZ              | 12 dígitos         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| Kirguistán | CEE      | KG               | 14 dígitos         | :::no-loc text="ИНН"::: | UNN/número de servicio público                     |
+| Moldova  | CEE        | MD               | 6, 7, 8 o 13 dígitos         | :::no-loc text="IDNO/IDNP"::: | El número de identificación de estado único (IDNO) que se asigna a la entidad jurídica también se constituye como código fiscal. \"Registro estatal de las unidades legales con respecto a las empresas registradas en la República de Moldavia, publicado por el Ministerio de Tecnología de la Información y las Comunicaciones en el portal gubernamental de datos públicos data.gov.md.\"                    |
+| Rusia | CEE      | RU               | 9, 10 o 12 dígitos         | :::no-loc text="ИНН"::: | INN                     |
+| Tayikistán | CEE      | TJ               | 9, 10 o 12 dígitos     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| Uzbekistán | CEE     | UZ               | 9 dígitos                 | :::no-loc text="INN":::         | INN                               |
+| Ucrania   | CEE      | UA               | 8, 10 o 12 dígitos      | :::no-loc text="EGRPOU/EDRPOU":::        | Código de identificación de una entidad jurídica                             | 
+
+**Cambios en la API del Centro de partners**
+
+Los siguientes cambios de contrato se realizarán en la API del Centro de partners. Estos cambios se limitan a los asociados que administran cuentas de clientes en los países mencionados anteriormente.
+
+> [!NOTE]
+> Si es un asociado que usa una interpretación estricta de la respuesta JSON del Centro de partners, es posible que estos cambios le afecten si no realiza las actualizaciones. JSON no es una integración recomendada con las API del Centro de partners.
+
+| Actualizaciones para los recursos de REST | Documentación del Centro de partners relacionada |
+|---------------------------|-----------------------|
+| Nuevo campo obligatorio: organizationRegistrationNumber | - [Crear un cliente](/partner-center/develop/create-a-customer#company-profile)<br/>- [Crear un cliente para un revendedor indirecto](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Recursos de cliente](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Ahora se requiere el campo actualizado: PhoneNumber<br/>Campo opcional: MiddleName | - [Recursos de la utilidad](/partner-center/develop/utility-resources#address) |
+| Nuevos códigos de error BadRequest de REST: 600002, 600049, 600050, 600051 | - [Códigos de error de REST del Centro de partners](/partner-center/develop/error-codes#error-codes) |
+
+*Contrato externo propuesto para los clientes:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio.  
 
 ### <a name="categories"></a>Categorías
@@ -146,8 +359,16 @@ Revise la [Guía de limitación de API](https://docs.microsoft.com/partner-cente
 - Pedimos que los partners se pongan en contacto con nosotros para que podamos ayudarles a realizar pruebas mediante la adición de sus inquilinos a un paquete piloto con los cambios para que puedan asegurarse de que la actualización de la solución funciona según lo previsto.
 
 
+### <a name="next-steps-for-partners"></a>Pasos siguientes para asociados
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Pruebas disponibles: actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para el proceso de validación de clientes de Education
+- Revise estos nuevos cambios en la interfaz de usuario y la API del Centro de partners. La próxima vez que intente crear una suscripción de cliente o actualizar una suscripción existente de un cliente en uno de estos países, compruebe la información de la cuenta del cliente a fin de asegurarse de que ha agregado datos a los dos nuevos campos obligatorios para ese cliente: INN de la organización (identificador legal) y número de teléfono. Puede actualizar esta información a través del [panel](https://partner.microsoft.com/dashboard) del Centro de partners o a través de las [API](/partner-center/develop/create-a-customer#company-profile) del Centro de partners.
+
+- Comparta esta información con los equipos de su organización a quienes corresponda a fin de ayudarlos a prepararse para estos cambios.
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Pruebas disponibles: mejoras de la API del Centro de partners y de la interfaz de usuario (UI) para el proceso de validación de clientes de Education
 
 ### <a name="categories"></a>Categorías
 
