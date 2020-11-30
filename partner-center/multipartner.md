@@ -1,7 +1,7 @@
 ---
 title: Soporte técnico multipartner
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es posible que un cliente desee trabajar con varios asociados en el programa proveedor de soluciones en la nube que se especializan en servicios diferentes.
@@ -9,26 +9,27 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e34a8f8c85b1ad7826869a50f79a26550cf4790
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949401"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322124"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Compatibilidad con varios socios para los clientes que desean trabajar con más de un asociado
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners
+- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de ventas
 
-La característica de varios asociados del centro de Partners admite escenarios en los que un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente puede querer contratar a un asociado por su experiencia en Office 365, pero contratar a un partner diferente que se especializa en Microsoft Azure. 
+- Administrador global
+- Administrador de usuarios
+- Agente de ventas
+
+La característica de varios asociados del centro de Partners admite escenarios en los que un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente puede querer contratar a un asociado por su experiencia en Office 365, pero contratar a un partner diferente que se especializa en Microsoft Azure.
 
 Un inquilino de CSP de Azure puede incluir una suscripción de Azure adicional de un asociado de CSP diferente.
 
@@ -45,10 +46,4 @@ La funcionalidad multipartner no sirve para:
 - Cambiar el socio comercial del registro de una suscripción
 
 > [!IMPORTANT]  
-> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).
-
-
-
-
-
-
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Esta restricción solo se aplica al inquilino que se usa para realizar transacciones de CSP. Los asociados de CSP que usan un inquilino no CSP para su uso corporativo pueden adquirir servicios en línea de otro asociado de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).
