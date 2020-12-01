@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811255"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438984"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Establecer, comprobar o quitar los presupuestos de gastos mensuales de Azure para los clientes del centro de Partners
 
@@ -64,9 +64,9 @@ También puede *establecer un presupuesto para un cliente individual* en su conf
 
 2. En el menú de la izquierda, en **CSP**, elija **clientes**.
 
-3. En la página **clientes** , seleccione el nombre de la **empresa**del cliente.
+3. En la página **clientes** , seleccione el nombre de la **empresa** del cliente.
 
-4. En la página **suscripciones** del cliente, en **suscripción basada**en el uso, elija **cambiar presupuesto**.
+4. En la página **suscripciones** del cliente, en **suscripción basada** en el uso, elija **cambiar presupuesto**.
 
 5. Escriba un valor para el presupuesto.
 
@@ -98,26 +98,31 @@ Puede *realizar un seguimiento de los gastos mensuales y del gasto actual de Azu
 
 Puede *activar las notificaciones por correo electrónico* para cuando el gasto mensual del cliente esté cerca del límite de presupuesto. Al activar esta opción, se le notificará cuando los clientes usen un 80% o más de su presupuesto mensual. Esta opción le ayuda a estar atento a la factura de Azure. Para configurar notificaciones por correo electrónico:
 
-1. Inicie sesión en el Centro de partners.
+1. Inicie sesión en el Centro de datos.
 
-2. En el menú de la izquierda, en **CSP**, elija **gasto de Azure**.
+2. Vaya a **Configuración**.
 
-3. En la **Página gasto de Azure** , en **notificaciones por correo electrónico**, active la opción **obtener correos electrónicos** en **activado**.
+3. Seleccione **mis preferencias**.
 
-4. Elija **cambiar dirección de correo electrónico** para ver la dirección de correo electrónico para las notificaciones.
+4. Si no lo ha hecho, configure una dirección de correo electrónico preferida.
 
-5. Si la dirección de correo electrónico *no es correcta*, escriba la dirección de correo electrónico correcta y elija **Actualizar**. Si la dirección de correo electrónico *es correcta*, elija **Cancelar**.
+5. Configure el idioma preferido para la notificación.
+
+6. Seleccione la pestaña **CSP** en la sección **preferencias de notificación** .
+
+7. Compruebe la opción de correo electrónico para la notificación de **gasto de Azure** y **guárdela**.
+
 
 ## <a name="itemized-costs-by-service"></a>Costos inventariados por servicio
 
 Puede *ver los costos calculados (y el uso estimado) por servicio para las suscripciones basadas en el uso*:
 
-1. Inicie sesión en el Centro de partners.
+1. Inicie sesión en el Centro de datos.
 
 2. En el menú de la izquierda, en **CSP**, elija **clientes**.
 
-3. En la página **clientes** , seleccione el nombre de la **empresa**del cliente.
+3. En la página **clientes** , seleccione el nombre de la **empresa** del cliente.
 
-4. En la página **suscripciones** del cliente, en **suscripciones basadas**en el uso, seleccione el nombre de la **suscripción**.
+4. En la página **suscripciones** del cliente, en **suscripciones basadas** en el uso, seleccione el nombre de la **suscripción**.
 
 5. En la página de la suscripción, puede revisar los **costos** calculados por servicio y el **uso estimado** para el mes en curso.

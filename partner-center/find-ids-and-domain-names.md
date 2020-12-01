@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360078"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439234"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Búsqueda de identificadores importantes para un usuario
 
@@ -78,3 +78,4 @@ Solo se puede encontrar el nombre de dominio y el ID. de inquilino. También es 
 - [Busque el identificador de inquilino mediante programación con PowerShell o CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Más información acerca de los perfiles de usuario en Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Averigüe cómo los asociados pueden ver o exportar los detalles del cliente en el centro de Partners](see-your-customer-list.md)
+
