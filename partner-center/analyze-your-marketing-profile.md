@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999649"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474043"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analice su perfil de negocio: vea cómo atrae a los clientes de destino y las posibles referencias
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Se aplica a**
-
-- Centro de partners
-- Partners de Microsoft Partner Network
-- Partners del programa Proveedor de soluciones en la nube
-
 **Roles adecuados**
 
 - Administrador global
 - Administrador de partners de MPN
-- Administrador de referencias
 - Administrador del perfil de negocio
-- Agente de administrador
-- Agente de ventas
+- Administrador de referencias
 
 La página **Business Profile Insights** del centro de Partners le permite ver lo bien que está captando la atención de sus clientes de destino y generando referencias.
 
@@ -46,10 +38,15 @@ Después de publicar el perfil de [negocio](create-a-marketing-profile.md)de su 
 
 El gráfico de **Resumen rendimiento de perfil** incluye la siguiente información para el período de tiempo seleccionado:
 
-- **Resultados**de la búsqueda: información acerca de los términos de búsqueda que usan los clientes para buscar el perfil de negocio.
+- **Resultados** de la búsqueda: información acerca de los términos de búsqueda que usan los clientes para buscar el perfil de negocio.
 - **Vistas de página**: el número total de veces que los clientes vieron el perfil de negocio.
 - **Clics de contacto**: el número total de veces que los clientes seleccionaron su perfil de negocio desde la página [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) .
 - **Referencias generadas**: el número total de referencias enviadas después de que un cliente haya seleccionado su perfil de negocio.
 
 > [!TIP]
 > A medida que empiece a [responder a estas referencias](manage-leads.md), asegúrese de revisar la página de información de [referencia](referral-insights.md) para ver más detalles sobre el rendimiento de las referencias.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Crear un perfil de negocio](create-a-marketing-profile.md)
+- [Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias](referral-insights.md)

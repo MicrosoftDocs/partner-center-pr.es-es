@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367359"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474060"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Usar análisis para analizar el rendimiento de los revendedores indirectos
-
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa Proveedor de soluciones en la nube
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Uso de Analytics para analizar el rendimiento de los revendedores indirectos
 
 **Roles adecuados**
 
 - Administrador global
 - Administrador del control de usuarios
-- Agente de administrador
-- Agente de ventas
+
 
 Data impulsa las decisiones empresariales. Use las métricas de la página de **análisis de distribuidores** para identificar sus éxitos, los éxitos de los revendedores indirectos y las áreas que requieren más atención. Use esta información a medida que planee nuevos objetivos empresariales.
 
 > [!NOTE]
-> El análisis de revendedores indirectos solo está disponible para los asociados del programa proveedor de soluciones en la nube.
+> El análisis de revendedores indirectos solo está disponible para proveedores indirectos en el programa proveedor de soluciones en la nube.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análisis de reseller que puede ver
 

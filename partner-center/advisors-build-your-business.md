@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527011"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474179"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Asesores: compilar la base de clientes con invitaciones de evaluación de Office 365 y ofertas de compra
 
-**Se aplica a**
 
-- Centro de partners
- 
 **Roles adecuados**
 
 - Asesores
@@ -29,7 +26,7 @@ ms.locfileid: "87527011"
 
 Como asesor autorizado de Microsoft, el **centro de Partners** le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con sus clientes. Con el centro de Partners, puede enviar a sus clientes invitaciones de evaluación y ofertas de compra, y ofrecer servicios de administración delegados, en función de los servicios que esté autorizado a proporcionar.
 
-Al iniciar sesión en el centro de Partners, vaya a la **versión de evaluación y**a las ofertas de compra, verá algunas herramientas y tareas que le ayudarán a aumentar su negocio.
+Al iniciar sesión en el centro de Partners, vaya a la **versión de evaluación y** a las ofertas de compra, verá algunas herramientas y tareas que le ayudarán a aumentar su negocio.
 
 ## <a name="create-and-send-trial-invitations"></a>Crear y enviar invitaciones de evaluación
 
@@ -53,5 +50,7 @@ Después de enviar una invitación de evaluación a sus clientes, puede realizar
 Al crear la oferta de compra, se crea una dirección URL personalizada. La dirección URL tiene un código incrustado que le identifica como asesor de la suscripción. Puede usar esta dirección URL para un cliente o para muchos clientes. Envíe la dirección URL a su cliente en un correo electrónico o publíquelo en el sitio Web.
 
 Si su cliente desea un número diferente de licencias, envíeles una nueva oferta o cambie el número de licencias cuando compren la suscripción.
+
+## <a name="next-steps"></a>Pasos siguientes
 
 Para obtener más información acerca de las ofertas de compra, consulte [creación de una oferta de compra](advisor-create-a-purchase-offer.md).

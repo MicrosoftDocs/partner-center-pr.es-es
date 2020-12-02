@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198021"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474077"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Administrar usuarios y licencias de usuario para cuentas de cliente
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
 - Administrador global
 - Administrador del control de usuarios
 - Agente de administrador
-- Agente de ventas
-- Agente del departamento de soporte técnico
+
 
 Puede crear y eliminar nuevos usuarios en la cuenta de un cliente. También puede restaurar una o más cuentas de usuario que haya eliminado previamente en un plazo de 30 días a partir de la eliminación. Las asignaciones anteriores de la suscripción del usuario también se restaurarán (suponiendo que sus asignaciones anteriores estén disponibles).
 
@@ -46,7 +41,7 @@ Puede [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-mu
 
 3. En el menú del cliente, seleccione **Usuarios y licencias**.
 
-4. Para cada usuario que agregue, seleccione **Agregar suscripción**y, a continuación, rellene la información, incluidos los permisos y las licencias. Guarde los cambios mediante **Guardar**.
+4. Para cada usuario que agregue, seleccione **Agregar suscripción** y, a continuación, rellene la información, incluidos los permisos y las licencias. Guarde los cambios mediante **Guardar**.
 
 5. Asegúrate de registrar el nombre de usuario y la contraseña temporal que enviarás al usuario.
 
@@ -103,7 +98,7 @@ Si tiene que restaurar esta cuenta, puede encontrarla en la pestaña **usuarios 
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurar cuentas de usuario eliminadas
 
-1.  En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija el cliente de la lista.
+1.  En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, elija el cliente de la lista.
 
 2.  Seleccione **usuarios y licencias**.
 

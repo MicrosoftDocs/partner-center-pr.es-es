@@ -9,18 +9,19 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527691"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473958"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Asignar suscripciones de Azure a los clientes en el Centro de partners
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
+- Administrador global
+- Agente de ventas
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Asignación de suscripciones de Azure a los clientes
 

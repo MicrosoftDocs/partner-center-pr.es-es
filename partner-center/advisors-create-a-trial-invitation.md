@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527001"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474162"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Asesores: crear y enviar una invitación de evaluación para que los clientes prueben Office 365
 
-**Se aplica a**
 
-- Centro de partners
- 
 **Roles adecuados**
 
 - Asesores
@@ -49,11 +46,15 @@ Si está certificado para ofrecer administración delegada, puede Agregar una op
 
 3. Haga clic en **Next**.
 
-4. En la página de la**invitación de evaluación** , copie la información y la dirección URL de la invitación de evaluación y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una invitación de evaluación personalizada.
+4. En la página de la **invitación de evaluación** , copie la información y la dirección URL de la invitación de evaluación y, a continuación, péguela en un correo electrónico, un documento o una página web para crear una invitación de evaluación personalizada.
 
     > [!NOTE]
-    > Anote el **identificador de Resumen**de la invitación de evaluación. Use este identificador para realizar un seguimiento de la oferta.
+    > Anote el **identificador de Resumen** de la invitación de evaluación. Use este identificador para realizar un seguimiento de la oferta.
 
 5. Personalice el mensaje incluyendo el logotipo de la empresa, la introducción, las notas de cierre u otra información.
 
 6. Envíe la invitación de evaluación a su cliente.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Crear una oferta de compra](advisor-create-a-purchase-offer.md)
