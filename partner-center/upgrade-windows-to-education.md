@@ -1,22 +1,22 @@
 ---
-title: Actualización de los clientes de Windows 10 Home a Windows 10 Education
+title: Actualización de Windows 10 Home a Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Actualización de los clientes de Windows 10 Home a Windows 10 Education
+description: Obtenga información sobre cómo los asociados del proveedor de soluciones en la nube (CSP) pueden actualizar algunos de sus clientes de Educación de Windows 10 Home a Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360010"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556420"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Actualización de los clientes de Windows 10 Home a Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Actualice algunos clientes de Educación de Windows 10 Home a Windows 10 Education
 
 **Se aplica a**
 
@@ -63,7 +63,7 @@ Los asociados deben crear una solicitud de soporte técnico y obtener las claves
 - **Descripción:** Solicitando [Insertar número] claves para habilitar la actualización a Windows 10 Education. (Tenga en cuenta que el número de claves solicitadas no debe ser mayor que las licencias de suscripción de Microsoft 365 A3/A5 o de Windows 10 Enterprise A3/A5). IDENTIFICADOR de suscripción del cliente [Inserte el GUID del ID. de suscripción de los clientes para su Microsoft 365 suscripción A3/A5 o A3/A5 de Windows 10 Enterprise).
 - **Número de contacto:** Se rellenará previamente; Revise para confirmar o actualizar.
 - **Correo electrónico:** Esto se rellenará previamente y debe ser el correo electrónico que use como administrador del portal de Microsoft (solo administrador global o administrador de facturación).
-- **Método de contacto preferido** : elija **teléfono** o **programe una devolución de llamada**.
+- **Método de contacto preferido**: elija **teléfono** o **programe una devolución de llamada**.
 
 8. Seleccione **ponerse en contacto conmigo**. El tiempo de espera esperado se indica en el panel **¿necesita ayuda?** .
 

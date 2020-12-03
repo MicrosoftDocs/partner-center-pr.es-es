@@ -1,20 +1,20 @@
 ---
-title: Cálculo del precio de unidad efectivo
+title: Cálculo del precio unitario vigente
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Obtenga información sobre la unidad de precio efectiva y cómo se calcula. Incluye un cálculo de ejemplo.
+description: Obtenga información sobre el precio unitario efectivo y cómo se calcula. En este artículo también se incluye un cálculo de ejemplo.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498580"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556334"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo de precio por unidad efectivo para el consumo de planes de Azure
 
@@ -35,7 +35,7 @@ Dado que supervisamos el consumo diariamente a lo largo del ciclo de facturació
 Si no sabe si el medidor usa precios por niveles, use el procedimiento siguiente para averiguarlo. 
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
-2. Seleccione **vender** , seleccione **precios y ofertas** y, luego, seleccione **precios del plan de Azure**.
+2. Seleccione **vender**, seleccione **precios y ofertas** y, luego, seleccione **precios del plan de Azure**.
 3. Busque el medidor según el identificador y, a continuación, descargue los datos de precios. 
 
 ## <a name="sample-calculation"></a>Cálculo de ejemplo

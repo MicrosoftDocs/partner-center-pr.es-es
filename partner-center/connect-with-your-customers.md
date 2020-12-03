@@ -1,6 +1,6 @@
 ---
 title: Conectar con sus clientes
-description: Obtenga información sobre cómo conectarse con clientes nuevos y existentes como revendedores indirectos
+description: Si es un revendedor indirecto en el programa CSP, este artículo le ayudará a conectarse con los clientes nuevos y existentes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010713"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556317"
 ---
 # <a name="connect-with-customers"></a>Conexión con los clientes
 
