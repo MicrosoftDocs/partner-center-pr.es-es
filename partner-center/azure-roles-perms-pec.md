@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011745"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534597"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Roles y permisos coincidentes para ganar el crédito obtenido por el socio
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Roles y permisos necesarios para ganar el crédito obtenido por el socio
 
 Los roles siguientes se asignan a los niveles de permisos que determinan si un asociado es válido para créditos obtenidos por el socio.
 
@@ -147,3 +147,7 @@ Colaborador de la máquina virtual | Permite administrar máquinas virtuales, pe
 Inicio de sesión de usuario de Virtual Machine | Visualización de máquinas virtuales en el portal e inicio de sesión como usuario normal. | Sí | 
 Colaborador de plan web | Permite administrar los planes web para sitios web, pero no acceder a ellos. | Sí | 
 Colaborador de sitio web | Le permite administrar sitios web (no planes Web), pero no acceder a ellos. | Sí |
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Crédito obtenido del partners: información general sobre cómo funciona en la nueva experiencia de comercio en CSP](partner-earned-credit.md)

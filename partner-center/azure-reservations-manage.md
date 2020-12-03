@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000259"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534767"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Administración, cancelación, intercambio o reembolso de Microsoft Azure reservas para clientes
-
-**Se aplica a**
-
-- Centro de partners
-- Microsoft Azure Portal 
-- Asociados en CSP
 
 **Roles adecuados**
 
@@ -31,6 +25,8 @@ ms.locfileid: "91000259"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 - Administrador del control de usuarios
+
+En este artículo se explica cómo administrar las reservas de Azure para un cliente, incluido cómo cancelar una reserva, intercambiar una reserva o solicitar un reembolso.
 
 > [!NOTE]
 > Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.

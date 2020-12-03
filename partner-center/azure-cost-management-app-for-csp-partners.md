@@ -1,5 +1,5 @@
 ---
-title: Azure Cost Management por Cloudyn para CSP
+title: Azure Cost Management de Cloudyn para CSP
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: aparnagkrishnan
 ms.author: aparnag
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: defa691a3bc70cbda45f01cb447d89364a49e3b8
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435914"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96535002"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>Realice un seguimiento del uso y los costos de Azure de los clientes con la aplicación Azure cost Management para asociados de CSP  
-
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa Proveedor de soluciones en la nube
 
 **Roles adecuados**
 
@@ -42,7 +37,7 @@ Cloudyn es una aplicación web que le permite realizar un seguimiento y administ
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registro de la aplicación web en el centro de Partners
 Al registrar una aplicación Web de Azure Active Directory en el centro de Partners, se habilita el acceso a la API del centro de Partners. 
-1.  Inicie sesión en [el centro de Partners](https://partnercenter.microsoft.com/pcv/dashboard/overview) con una [cuenta de administrador global o de agente de administración](create-user-accounts-and-set-permissions.md).
+1.  Inicie sesión en el [centro de Partners](https://partnercenter.microsoft.com/pcv/dashboard/overview) con una [cuenta de administrador global o de agente de administración](create-user-accounts-and-set-permissions.md).
 2.  En el **centro de Partners**, seleccione Configuración de la **cuenta** &gt; **[Administración de aplicaciones](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**.
 3.  En la sección **aplicación web** , haga clic en **Agregar nueva aplicación web**.
 <br> **Nota**: Si ya ha creado una aplicación Web, puede omitir el paso 3.

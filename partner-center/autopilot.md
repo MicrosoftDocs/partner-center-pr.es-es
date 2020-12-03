@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999439"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96535003"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfiles de Windows AutoPilot en dispositivos nuevos para personalizar la experiencia rápida de un cliente
-
-**Se aplica a**
-
-- CSP directo: factura, proveedores indirectos y distribuidores indirectos
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Usar perfiles de Windows Autopilot en dispositivos nuevos para personalizar la experiencia rápida de un cliente
 
 **Roles adecuados**
 
@@ -56,7 +52,7 @@ Con la característica de Windows AutoPilot del centro de Partners, puede crear 
 
 Se aplican las siguientes limitaciones y permisos de administración de perfiles y dispositivos:
 
-- Los asociados de CSP pueden seguir administrando los perfiles de AutoPilot para los clientes existentes con quienes tienen relaciones de reseller, incluso si los clientes han quitado los privilegios de administración delegada del socio.
+- Los asociados de CSP pueden seguir administrando los perfiles de Autopilot para los clientes existentes con quienes tienen relaciones de revendedor, incluso si los clientes han quitado los privilegios de administración delegada del asociado.
 
 - Puede administrar los dispositivos existentes para los clientes que ha agregado.
 
@@ -77,7 +73,7 @@ En el centro de Partners, puede crear perfiles de implementación de Windows Aut
 
 3. En **perfiles de Windows AutoPilot** , seleccione **Agregar nuevo perfil**.
 
-4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija entre las siguientes opciones:  
+4. Escriba el nombre y la descripción del perfil y, a continuación, establezca la configuración de OOBE. Elija de entre las siguientes opciones:  
 
    - Omitir la configuración de privacidad en el programa de instalación
 
@@ -149,11 +145,11 @@ Si tiene previsto usar el nombre del OEM, el número de serie y la combinación 
 
 - Esta tupla solo funciona para dispositivos más recientes (por ejemplo, hash 4k) y no se admite para los hashes 128B (RS2 y dispositivos anteriores).
 
-- El registro de la tupla distingue entre mayúsculas y minúsculas, por lo que los datos del archivo deben coincidir ***exactamente*** con los nombres del modelo y del fabricante, tal como lo proporciona el proveedor de OEM (proveedor de hardware).
+- El registro de la tupla distingue entre mayúsculas y minúsculas, por lo que los datos del archivo deben coincidir con los nombres del modelo y del fabricante **_exactamente_* _ según lo proporcionado por el proveedor de OEM (proveedor de hardware).
 
 Siga las instrucciones que se indican a continuación para agregar dispositivos a la cuenta de un cliente en el centro de Partners.
 
-1. Seleccione **customers (clientes** ) en el menú del centro de Partners y seleccione el cliente cuyos dispositivos desea administrar.
+1. Seleccione _ *Customers** en el menú del centro de Partners y seleccione el cliente cuyos dispositivos desea administrar.
 
 2. En la página de detalles del cliente, seleccione **dispositivos**.
 
@@ -166,7 +162,7 @@ Siga las instrucciones que se indican a continuación para agregar dispositivos 
 
 5. Cargue el archivo. csv y, a continuación, seleccione **Guardar**.
 
-Si recibe un mensaje de error al intentar cargar el archivo. csv, compruebe el formato del archivo. Solo puede utilizar el hash de hardware, el nombre de OEM, el número de serie y el modelo (en ese orden de columna), o el identificador de producto de Windows. También puede usar el archivo. csv de ejemplo que se proporciona en el vínculo junto a **Agregar dispositivos** para crear una lista de dispositivos.
+Si recibe un mensaje de error al intentar cargar el archivo .csv, compruebe el formato del archivo. Solo puede utilizar el hash de hardware, el nombre de OEM, el número de serie y el modelo (en ese orden de columna), o el identificador de producto de Windows. También puede usar el archivo. csv de ejemplo que se proporciona en el vínculo junto a **Agregar dispositivos** para crear una lista de dispositivos.
 
 El archivo. csv debería tener un aspecto similar al siguiente:
 

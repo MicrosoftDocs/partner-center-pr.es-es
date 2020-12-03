@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000239"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534903"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda Microsoft Azure reservas a los clientes mediante el centro de Partners, el Azure Portal o las API
-
-**Se aplica a**
-
-- Centro de partners
-- Microsoft Azure Portal
-- Partners del programa CSP
 
 **Roles adecuados**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000239"
 - Agente de ventas
 - Administrador del control de usuarios
 
+Como asociado en el programa proveedor de soluciones en la nube (CSP), puede comprar, vender o administrar las reservas de Azure para los clientes. Use el centro de Partners, el Azure Portal o la API del centro de Partners.
+
 > [!NOTE]
-> Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
+> Este artículo solo se aplica a los asociados en CSP. Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
 
 Los asociados del programa CSP pueden ofrecer a sus clientes Microsoft Azure reservas. Los clientes pueden obtener ahorros significativos cuando se reservan de antemano. Las reservas de Azure ofrecen simplicidad y flexibilidad a los clientes de las siguientes maneras:
 
@@ -56,7 +52,7 @@ Las reservas de Azure pueden apelar a los clientes de las siguientes maneras:
 
 |**Para información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
-| Documentación de reservas de Azure para sus clientes | [¿Qué es Azure Reservations?](/azure/billing/billing-save-compute-costs-reservations)
+| Documentación de reservas de Azure para sus clientes | [¿Qué son las reservas de Azure?](/azure/billing/billing-save-compute-costs-reservations)
 |Compra de reservas de Azure para sus clientes en el centro de Partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
 |Administración de las reservas de Azure en el centro de Partners | [Administración de las reservas de Azure en el centro de Partners](azure-reservations-manage.md)
 |Determinación del tamaño correcto de la máquina virtual y comprobación del uso de la máquina virtual del cliente   |[Tamaño de máquina virtual para el uso máximo de reserva de Azure](azure-usage.md)   |

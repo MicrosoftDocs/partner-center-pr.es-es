@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000195"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534954"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
-- Azure portal
-- Partners del programa CSP
+- Agente de administrador
+- Agente de ventas
+
+En este artículo se explica cómo cambiar el tamaño de una máquina virtual (VM) a las necesidades informáticas de los clientes cuando se compran Microsoft Azure reservas para ellas.
  
 > [!NOTE]
 > Este artículo se aplica únicamente a los asociados del programa proveedor de soluciones en la nube (CSP). Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
@@ -128,7 +129,7 @@ Para obtener más información, consulte [obtención de los registros de uso de 
 >[!IMPORTANT]
 >Los costos de software, como Microsoft Windows Server, no se incluyen actualmente en el precio de una reserva de máquinas virtuales y aparecerán como elementos de línea independientes en el registro de pedidos y en la factura. Sin embargo, si un cliente tiene la ventaja de uso híbrido de Azure, no se aplicarán los costos de software. Para obtener más información, consulte [los costos de software de Windows no incluidos con las instancias reservadas](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Recursos de reservas de Azure
+## <a name="next-steps"></a>Pasos siguientes
 
 |**Para información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
