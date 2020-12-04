@@ -1,20 +1,20 @@
 ---
-title: Estado de la oportunidad de evaluación de soluciones en la plataforma de incentivos de canal (CHIP)
+title: Estado de la oportunidad de evaluación de soluciones de CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Obtenga información sobre cómo buscar el estado de la oportunidad de las evaluaciones de la solución en CHIP.
+description: Obtenga información sobre cómo encontrar el estado de la oportunidad de evaluación de la solución en la plataforma de incentivos de canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418183"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570389"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Busque el estado de la oportunidad de las evaluaciones de la solución en el CHIP
 
@@ -46,7 +46,7 @@ Asegúrese de que su trato ha alcanzado la fase de ventas válida y está aproba
 
      - Escriba el identificador de oportunidad en el cuadro **oportunidad** y haga clic en **Buscar**.
 
-     - Una vez que la oportunidad esté visible, haga clic en **submit (enviar** ).
+     - Una vez que la oportunidad esté visible, haga clic en **submit (enviar**).
   
      - En el menú nuevo POE, busque el documento POE necesario y selecciónelo.
 
@@ -54,7 +54,7 @@ Asegúrese de que su trato ha alcanzado la fase de ventas válida y está aproba
 
      - Repita esta operación tantas veces como sea necesario para cargar todos los documentos necesarios.
 
-     - Una vez que se hayan cargado todos los documentos, haga clic en **submit (enviar** ).
+     - Una vez que se hayan cargado todos los documentos, haga clic en **submit (enviar**).
 
 Si la casilla de verificación de EM no está activada, póngase en contacto con el especialista de evaluación de la solución (SAS) para revisar y proporcionar la aprobación.
  

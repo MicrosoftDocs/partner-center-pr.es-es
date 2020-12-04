@@ -1,22 +1,22 @@
 ---
-title: Busque el número de equipos de escritorio y el nivel de cuota para un acuerdo
+title: Buscar recuento de equipos de escritorio, nivel de cuota en CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Donde es el número de equipos de escritorio y la información de nivel de cuota en CHIP.
+description: Aprenda a usar la plataforma de incentivos de canal (CHIP) para encontrar la información de recuento de equipos de escritorio y tarifas de un acuerdo.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418189"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570559"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Busque el número de equipos de escritorio y el nivel de cuota para un acuerdo
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Búsqueda del número de dispositivos de escritorio y el nivel de recargo de un contrato
 
 Puede descargar en Excel, un archivo que proporciona los detalles del contrato para el recuento de equipos de escritorio y el nivel de cuota.
 

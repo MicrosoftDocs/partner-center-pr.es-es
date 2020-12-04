@@ -2,21 +2,21 @@
 title: Preguntas frecuentes sobre incentivos de evaluación de soluciones
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Respuestas a las preguntas más frecuentes sobre la evaluación de soluciones
+description: Obtenga respuestas a las preguntas más frecuentes sobre la evaluación de soluciones en la plataforma de incentivos de canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447256"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570457"
 ---
-# <a name="solution-assessment-incentives-faq"></a>Preguntas más frecuentes sobre los incentivos de evaluación de soluciones
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Preguntas más frecuentes sobre los incentivos de evaluación de soluciones para la plataforma de incentivos de canal (CHIP) 
 
 Encuentre respuestas a las preguntas más frecuentes a continuación.
 

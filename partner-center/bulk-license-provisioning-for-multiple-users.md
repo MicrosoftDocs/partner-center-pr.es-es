@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527401"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570661"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Asignar o revocar licencias al mismo tiempo para varios usuarios de una cuenta de cliente
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -36,7 +32,7 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 ## <a name="assign-licenses-to-multiple-users"></a>Asignar licencias a varios usuarios
 
-1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
+1. En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, elija un cliente de la lista.
 
 2. Seleccione **usuarios y licencias**.
 
@@ -78,7 +74,7 @@ El centro de Partners realiza un seguimiento y muestra todos los derechos de lic
 
 ## <a name="revoke-users-license-assignments"></a>Revocar las asignaciones de licencia de los usuarios
 
-1. En el menú del **centro de Partners** , seleccione **clientes**y, a continuación, elija un cliente de la lista.
+1. En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, elija un cliente de la lista.
 
 2. Seleccione **usuarios y licencias**.
 

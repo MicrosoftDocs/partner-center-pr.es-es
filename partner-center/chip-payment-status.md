@@ -2,21 +2,21 @@
 title: Comprobar el estado del pago en CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Obtenga información acerca de cómo comprobar el estado del pago en CHIP.
+description: Aprenda a usar la plataforma de incentivos de canal (CHIP) para comprobar el estado del pago. Tenga en cuenta que el CHIP se retirará al final de 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418195"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570542"
 ---
-# <a name="check-payment-status-in-chip"></a>Comprobar el estado del pago en CHIP
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Comprobación del estado del pago en la plataforma de incentivos de canal (CHIP)
 
 **Roles adecuados**
 

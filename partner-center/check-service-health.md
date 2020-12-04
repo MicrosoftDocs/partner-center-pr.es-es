@@ -1,6 +1,6 @@
 ---
 title: Comprobar el estado del servicio de un cliente
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527591"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570627"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Comprobación del estado del servicio de un cliente que informa de un posible problema o interrupción del servicio
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -29,7 +25,7 @@ ms.locfileid: "87527591"
 - Agente del departamento de soporte técnico
 - Agente de ventas
 
-Una de las primeras cosas que puedes hacer si un cliente está experimentando problemas con un servicio es comprobar el estado de dicho servicio. 
+En este artículo se explica cómo utilizar el centro de partners para comprobar el estado del servicio de un cliente cuando se produce un problema con un servicio. 
 
 ## <a name="check-service-health"></a>Comprobación del estado del servicio
 
@@ -48,5 +44,5 @@ Durante una interrupción del servicio, Microsoft proporciona actualizaciones pe
 
 - Microsoft 365 y Microsoft Azure proporcionan [API que los asociados pueden usar para recuperar el estado del servicio en tiempo real](get-automated-service-notifications-with-our-apis.md), las comunicaciones del centro de mensajes y los eventos de mantenimiento planeado.
 
- 
+ 
 

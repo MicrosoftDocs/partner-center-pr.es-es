@@ -2,21 +2,21 @@
 title: Ver ganancias en CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Directrices para ver las ganancias en CHIP
+description: Obtenga información sobre cómo ver el informe de incentivos y las ganancias en la herramienta de plataforma de incentivos de canal (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418190"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570508"
 ---
-# <a name="view-earnings-in-chip"></a>Ver ganancias en CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Visualización de ganancias mediante la herramienta CHIP
 
 Puede tener acceso a su declaración de incentivos a través de la herramienta de plataforma de incentivos de canal (CHIP).
 
@@ -32,7 +32,7 @@ Puede tener acceso a su declaración de incentivos a través de la herramienta d
 
 ### <a name="explanation-of-details-tabs"></a>Explicación de las pestañas de detalles
 
-|**Pestaña**|**Definición**|
+|**Tabulación**|**Definición**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Incluye detalles del programa incentivos para el período de tiempo seleccionado, incluidos el nombre del cliente, el contrato, los detalles de la palanca|
 |DeltaReport-Pivot|Actualizaciones de la última instrucción publicada solo para empresas|

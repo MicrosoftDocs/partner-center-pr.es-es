@@ -1,22 +1,22 @@
 ---
-title: Administrar usuarios y licencias de usuario para cuentas de cliente
+title: Administrar usuarios para cuentas de cliente
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo administrar usuarios para sus clientes en el centro de Partners, como crear cuentas de usuario, agregar o quitar licencias de usuario, restablecer contraseñas de usuario y eliminar o restaurar cuentas de usuario.
+description: 'Administrar usuarios para sus clientes en el centro de Partners: crear cuentas de usuario, agregar o quitar licencias de usuario, restablecer contraseñas y eliminar o restaurar cuentas de usuario.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474077"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570746"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Administrar usuarios y licencias de usuario para cuentas de cliente
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Administrar usuarios y licencias de usuario para cuentas de cliente 
 
 **Roles adecuados**
 
@@ -76,21 +76,21 @@ Los siguientes pasos se aplican a la adición o eliminación de licencias de usu
 
 2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
 
-3.  En el menú del cliente, seleccione **Usuarios y licencias**. Elija el usuario de la lista.
+3. En el menú del cliente, seleccione **Usuarios y licencias**. Elija el usuario de la lista.
 
-4.  En la parte inferior de la pantalla, selecciona **Restablecer contraseña**. 
+4. En la parte inferior de la pantalla, selecciona **Restablecer contraseña**. 
 
-5.  Envía la nueva contraseña temporal al usuario.
+5. Envía la nueva contraseña temporal al usuario.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Delete user accounts for a customer (Eliminar cuentas de usuario de un cliente)
 
-1.  En el menú del **centro de Partners** , seleccione **clientes**. Elija el cliente de la lista.
+1. En el menú del **centro de Partners** , seleccione **clientes**. Elija el cliente de la lista.
 
-2.  En el menú del cliente, seleccione **Usuarios y licencias**. Elija el usuario de la lista.
+2. En el menú del cliente, seleccione **Usuarios y licencias**. Elija el usuario de la lista.
 
-3.  En la parte inferior de la pantalla, seleccione **Eliminar cuenta de usuario**.
+3. En la parte inferior de la pantalla, seleccione **Eliminar cuenta de usuario**.
 
 Si tiene que restaurar esta cuenta, puede encontrarla en la pestaña **usuarios eliminados** de la lista de **usuarios y licencias** del cliente. Tiene 30 días para restaurar un usuario eliminado.
 
@@ -98,19 +98,18 @@ Si tiene que restaurar esta cuenta, puede encontrarla en la pestaña **usuarios 
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurar cuentas de usuario eliminadas
 
-1.  En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, elija el cliente de la lista.
+1. En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, elija el cliente de la lista.
 
-2.  Seleccione **usuarios y licencias**.
+2. Seleccione **usuarios y licencias**.
 
-3.  Seleccione la pestaña **usuarios eliminados ()** . Debe leer **(1)** o superior cuando haya usuarios eliminados que se puedan restaurar.
+3. Seleccione la pestaña **usuarios eliminados ()** . Debe leer **(1)** o superior cuando haya usuarios eliminados que se puedan restaurar.
 
-4.  Selecciona una o varias de las casillas de los usuarios eliminados y, a continuación, selecciona **Restaurar**.
+4. Selecciona una o varias de las casillas de los usuarios eliminados y, a continuación, selecciona **Restaurar**.
 
     Todas las cuentas de usuario seleccionadas volverán a aparecer en la página **Usuarios y licencias**.
 
-## <a name="related-topics"></a>Temas relacionados
+## <a name="next-steps"></a>Pasos siguientes
 
+- [Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
 
-[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)
-
-[Crear varios usuarios para una cuenta de cliente](adding-multiple-users-to-a-customer-account.md)
+- [Crear varios usuarios para una cuenta de cliente](adding-multiple-users-to-a-customer-account.md)
