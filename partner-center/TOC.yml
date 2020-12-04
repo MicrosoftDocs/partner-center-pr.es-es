@@ -2,6 +2,8 @@
   href: index.yml
 - name: Anuncios
   href: announcements/TOC.md
+- name: Acerca del Centro de partners
+  href: overview.md
 - name: Pertenencia a la red de asociados
   items:
     - name: Asóciate con Microsoft
@@ -60,8 +62,13 @@
         - name: Exención de la competencia de desarrollo de aplicaciones
           href: app-dev-isv.md
     - name: Especializaciones avanzadas
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Mostrar sus conocimientos
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Aplicación o comprobación del estado
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Convertirse en MSP experto de Azure
       href: azure-expert-msp.md
     - name: Ventajas
