@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663886"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755646"
 ---
-# <a name="vat-info"></a>Información sobre el IVA
+# <a name="value-added-tax-vat-information"></a>Información del impuesto sobre el valor añadido (IVA)
 
 **Se aplica a:**
 
@@ -25,6 +25,24 @@ Si se le pide que proporcione un número de identificación de IVA durante el pr
 ## <a name="understanding-vat-numbers"></a>Descripción de los números de IVA
 
 Un número de impuesto sobre el valor añadido (IVA) es un identificador que se utiliza en los países o regiones de la Unión Europea. Para obtener más información, consulte el [sitio de VIES](http://ec.europa.eu/taxation_customs/vies/vieshome.do)oficial de la Unión Europea.
+
+## <a name="location-specific-vat-information"></a>Información de IVA específica de la ubicación
+
+Los detalles siguientes son exclusivos de los países o regiones que se enumeran a continuación.
+
+### <a name="european-union"></a>Unión Europea
+
+En los Estados miembros de la Unión Europea, los partners deben proporcionar su número de identificación a efectos de IVA válido para cargos invertidos y las facturaciones adecuadas. El número de IVA debe estar aceptado como válido.
+
+Microsoft no admite créditos ni refacturar. Antes de vender las suscripciones, debe [registrar el número de identificación de IVA en el](organization-tax-info.md) centro de Partners.
+
+### <a name="south-africa"></a>Sudáfrica
+
+Microsoft aplica ahora el IVA estándar en el contenido digital y los servicios adquiridos por los asociados de Sudáfrica. Para excluir el IVA de las facturas y administrarlo usted mismo, debe actualizar el perfil de facturación del socio mediante el [envío de Microsoft su número de identificación de IVA](organization-tax-info.md).
+
+### <a name="turkey"></a>Turquía
+
+Microsoft aplica ahora el IVA estándar en el contenido digital y los servicios adquiridos por los asociados en Turquía. Para excluir el IVA de las facturas y administrarlo usted mismo, debe actualizar el perfil de facturación del socio mediante el [envío de Microsoft su número de identificación de IVA](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Formatos válidos para números de IVA
 
