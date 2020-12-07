@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999679"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474230"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adición de licencias o más servicios a la suscripción de un cliente
-
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa Proveedor de soluciones en la nube
 
 **Roles adecuados**
 
@@ -35,7 +30,7 @@ Si el cliente necesita más licencias de las que proporciona su suscripción act
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Actualizaciones admitidas en el programa CSP <a id="upgradesubscription"></a>
 
-Las siguientes actualizaciones son compatibles con Proveedor de soluciones en la nube:
+Las siguientes actualizaciones se admiten en el programa de Proveedor de soluciones en la nube:
 
 | Oferta | Actualizaciones posibles|
 |---:|:---|

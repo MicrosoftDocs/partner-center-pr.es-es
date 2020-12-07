@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133004"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439131"
 ---
 # <a name="april-2020-announcements"></a>Anuncios de abril de 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Fecha: 30-04-2020
 - Tipo: Funcionalidades
-- Estado: Próximamente
-- [Más información](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Resumen
 
@@ -49,7 +49,7 @@ El 4 de mayo de 2020, Microsoft incorporará nuevas promociones con descuento pa
 Estas promociones reemplazarán la oferta de evaluación de Office 365 E1 actual y difieren en lo siguiente:
 
 - Los partners podrán realizar transacciones con las SKU anuales de Office 365 E1 o Microsoft 365 Empresa Básico aprovechando una promoción de CSP que aplica un descuento del 100 % durante los 6 primeros meses, en lugar de una SKU de evaluación de 6 meses única. [Más información sobre las promociones para CSP](../promotions.md).
-- Los pedidos estarán limitados técnicamente a "clientes nuevos", a diferencia de la versión de evaluación de Office 365 E1, que estaba limitada a clientes nuevos solo mediante una directiva escrita. [Consulte las preguntas más frecuentes de los partners de Microsoft para obtener más información](https://aka.ms/CSPCOVIDPromo).
+- Los pedidos estarán limitados técnicamente a "clientes nuevos", a diferencia de la versión de evaluación de Office 365 E1, que estaba limitada a clientes nuevos solo mediante una directiva escrita. 
 - Para los clientes que sean pymes, se incluirá Microsoft 365 Empresa Básico en esta promoción. De este modo, los partners podrán incorporar clientes que tengan menos de 300 puestos a la familia de productos adecuada con Microsoft 365 Empresa.
 Los clientes que ahora tienen una licencia de la versión de evaluación de Office 365 E1 (disponible hasta el 4 de mayo de 2020) permanecerán en el plan actual. Este cambio afecta solo a los clientes nuevos.
 
@@ -58,12 +58,13 @@ Definición de clientes nuevos
 Los clientes nuevos que pueden beneficiarse de esta promoción son:
 
 1. Inquilinos de clientes totalmente nuevos.
-2. Clientes actuales que no tengan una suscripción de pago ni la hayan cancelado recientemente (en los últimos 30 días) en su inquilino para cualquiera de los productos definidos en la [guía de preguntas más frecuentes de partners de Microsoft](https://aka.ms/CSPCOVIDPromo).
+2. Son clientes actuales que no tengan una suscripción de pago ni la hayan cancelado recientemente (en los últimos 30 días) en su inquilino, para cualquiera de los productos definidos en la guía de preguntas más frecuentes (P+F) de los partners de Microsoft.
 
+ 
 ### <a name="additional-resources"></a>Recursos adicionales
 
 - Visite el [centro de recursos de trabajo a distancia de partners](https://www.microsoft.com/microsoft-365/partners/remotework) para obtener más información sobre el trabajo a distancia seguro.
-- Encontrará más información sobre estos cambios en las [preguntas más frecuentes de partners relacionadas](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Pasos siguientes
 
@@ -172,7 +173,7 @@ Para ayudar a defender a los partners y clientes, **a partir del 1 de mayo de 20
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- **Si no ha activado los requisitos de seguridad recomendados para proteger al inquilino y los usuarios** , hágalo inmediatamente para seguir siendo compatible y evitar las interrupciones de negocio en la administración de clientes o en las transacciones en CSP. Los partners que no implementen los requisitos de seguridad pueden poner en peligro su participación en el programa CSP.
+- **Si no ha activado los requisitos de seguridad recomendados para proteger al inquilino y los usuarios**, hágalo inmediatamente para seguir siendo compatible y evitar las interrupciones de negocio en la administración de clientes o en las transacciones en CSP. Los partners que no implementen los requisitos de seguridad pueden poner en peligro su participación en el programa CSP.
 - Los proveedores indirectos deben implementar estos requisitos de seguridad para sus propios negocios y trabajar con revendedores para asegurarse de que también implementan los requisitos mediante esta plantilla de correo electrónico. También nos pondremos en contacto directamente con sus revendedores a través de las comunicaciones por correo electrónico.
 - Visite la [página de estado de los requisitos de seguridad del Centro de partners](https://partner.microsoft.com/commerce/security/compliance) para identificar el progreso y las acciones clave que se deben realizar. Trabaje con su administrador global para comprobar el progreso de los requisitos de seguridad con regularidad para cada uno de los inquilinos.
 - Si usa una solución de proveedor de panel de control (CPV), consulte a su CPV.
