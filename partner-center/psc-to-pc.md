@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612829"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776925"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -66,22 +66,22 @@ En el menú de navegación a la izquierda del centro de Partners, seleccione la 
   >[!Note]
   > Es posible que tenga que cerrar la sesión del centro de Partners y volver a iniciar sesión para actualizar las credenciales para el acceso a las páginas de referencias.
 
-Si no ve la opción **referencias** en el menú del centro de Partners o en las páginas relacionadas con las referencias, póngase en contacto con el [administrador global](permissions-overview.md) de su empresa y pídale que le proporcione acceso a la opción de **referencias** y al área relacionada. 
+Si no ve la opción **referencias** en el menú del centro de Partners o en las páginas relacionadas con las referencias, póngase en contacto con el administrador de la [cuenta](permissions-overview.md) de su empresa y pídales que le proporcione acceso a la opción de **referencias** y al área relacionada.
 
-Para buscar el administrador global de su empresa:
+Para buscar el administrador de la cuenta de su empresa:
 
 1. Seleccione **configuración** de la cuenta en el icono de engranaje en la parte superior derecha del panel del centro de Partners.
 
-1. Seleccione **Administración de usuarios** en el menú de navegación izquierdo de segundo nivel. 
+1. Seleccione **Administración de usuarios** en el menú de navegación izquierdo de segundo nivel.
 
-1. En la parte superior de la lista de usuarios, seleccione el menú desplegable **filtro** . Cambie la opción a **administrador global**.
+1. En la parte superior de la lista de usuarios, seleccione el menú desplegable **filtro** . Cambie la opción a **Administrador** de la cuenta.
 
-   En la página se mostrarán todos los administradores globales con sus direcciones de correo electrónico respectivas. Envíe un correo electrónico a uno de ellos y pídales que asignen el rol de administrador de referencias para su cuenta profesional.
+   La página mostrará todos los administradores de cuenta con sus direcciones de correo electrónico respectivas. Envíe un correo electrónico a uno de ellos y pídales que asignen el rol de administrador de referencias para su cuenta profesional.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
 
 >[!Important]
->- Si su rol solo implica la administración de usuarios en PSC, pida al administrador global de su empresa que le asigne el rol de [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. 
+>- Si su rol solo implica la administración de usuarios en PSC, pida al administrador de la cuenta de su empresa que le asigne el rol de [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. 
 >- Si su rol también incluye la administración de oportunidades de venta conjunta, pida que se le asigne el rol de [Administrador de referencias](permissions-overview.md#manage-referrals) .
 > - Es una buena idea designar también un responsable de administración de cambios entre los administradores de PSC. Esto impedirá que todos los administradores de PSC tengan que ponerse en contacto individualmente con los administradores de cuentas del centro de Partners. En su lugar, el responsable de administración de cambios puede ser la persona principal que trabaja con el administrador de la cuenta del centro de Partners.
 
@@ -129,7 +129,7 @@ A veces, se puede producir un error en la migración y provocar errores. Estos s
 
 Una vez completada la migración de usuarios, utilice las siguientes instrucciones para decidir la estrategia de migración:
 
-Si su empresa tiene un PDM, cuando se configure la cuenta del centro de Partners y los usuarios hayan movido y tengan roles y permisos, puede trasladar las actividades de venta conjunta al centro de Partners. Informe a PDM para que realice el cambio en lugar de esperar hasta que se complete la fecha límite de la migración, lo que permitirá que todos los nuevos acuerdos fluyan al centro de Partners.
+Si su empresa tiene un administrador de desarrollo de asociados (PDM), cuando se configure la cuenta del centro de Partners y los usuarios hayan movido y tengan roles y permisos, puede trasladar las actividades de venta conjunta al centro de Partners. Informe a PDM para que realice el cambio en lugar de esperar hasta que se complete la fecha límite de la migración, lo que permitirá que todos los nuevos acuerdos fluyan al centro de Partners.
 
 >[!Note]
 >Una vez que haya realizado este cambio, solo podrá actuar en los contratos activos existentes en PSC. No puede crear nuevos acuerdos ni recibir ningún trato de los vendedores de Microsoft en PSC.
@@ -137,7 +137,7 @@ Si su empresa tiene un PDM, cuando se configure la cuenta del centro de Partners
 Si su empresa no tiene un PDM, asegúrese de que todos los usuarios configuran y comprueban todas las cuentas de usuario. Recibirá una notificación a través de un correo electrónico y un banner en PSC respecto a la fecha exacta en la que podrá empezar a vender en el centro de Partners. Recuerde que todavía tendrá que administrar las ofertas activas existentes en PSC.
 
 >[!Important]
->Las ofertas activas no se migrarán al equipo. Tendrá hasta el 31 de diciembre de 2020 para cerrar y registrar los acuerdos.
+>Las ofertas activas no se migrarán al equipo. Tendrá hasta el 31 de marzo de 2021 para cerrar y registrar los acuerdos.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Pasos siguientes para administradores de PSC, administradores de acuerdos de PSC y vendedores de PSC
 
@@ -263,7 +263,7 @@ Puede ponerse en contacto con los administradores que aparecen en la página "si
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-¿quién puede concederme acceso a la sección de referencias del centro de Partners?
 
-El [Administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de la cuenta puede concederle acceso a la pestaña referencias. Para buscar el administrador global, seleccione **configuración** de la cuenta en el icono de engranaje en la parte superior derecha del [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. A continuación, seleccione **Administración de usuarios** en la barra de navegación de segundo nivel y a la izquierda. En la parte superior de la lista de usuarios, seleccione el menú desplegable **filtro** y cambie la opción a **administrador global**. En la página se mostrarán todos los administradores globales con sus direcciones de correo electrónico respectivas. Pídale a uno de ellos que asigne el rol de administrador de referencia para su cuenta profesional.
+El [Administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de la cuenta puede concederle acceso a la pestaña referencias. Para buscar el administrador de la cuenta, seleccione Configuración de la **cuenta** en el icono de engranaje en la parte superior derecha del [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. A continuación, seleccione **Administración de usuarios** en la barra de navegación de segundo nivel y a la izquierda. En la parte superior de la lista de usuarios, seleccione el menú desplegable **filtro** y cambie la opción a administrador de la **cuenta**. La página mostrará todos los administradores de cuenta con sus direcciones de correo electrónico respectivas. Pídale a uno de ellos que asigne el rol de administrador de referencia para su cuenta profesional.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-el botón + nuevo contrato está atenuado para nuestra cuenta. ¿Qué debo hacer para empezar a crear negocios?
 
