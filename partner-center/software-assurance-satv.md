@@ -1,7 +1,7 @@
 ---
 title: Programa de justificante de aprendizaje de software Assurance
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información acerca de cómo inscribirse en el programa de justificante de aprendizaje de software Assurance para que pueda compensar la entrega de cursos y el planeamiento a los clientes empresariales.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811205"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926618"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
 
@@ -45,11 +45,11 @@ Puede comprobar la elegibilidad de su empresa, incluidos los requisitos aplicabl
 
 ## <a name="enroll-in-the-training-program"></a>Inscripción en el programa de formación
 
-Cuando la empresa cumpla los requisitos de idoneidad y los participantes del programa hayan superado el curso de formación de cumplimiento, estará listo para firmar el contrato del programa de aprendizaje de Software Assurance e inscribirse. Asegúrese de revisar todas [las directivas de programa de SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)y, a continuación, siga las instrucciones del [paso 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flujo de trabajo para completar el proceso de inscripción de SATV en el centro de Partners.
+Una vez que su empresa cumple los requisitos de idoneidad, está listo para firmar el contrato del programa de aprendizaje de software Assurance e inscribirse. Asegúrese de revisar todas [las directivas de programa de SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)y, a continuación, siga las instrucciones del [paso 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flujo de trabajo para completar el proceso de inscripción de SATV en el centro de Partners.
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmación de la idoneidad para el curso
-Una vez inscritos en el programa SATV, los partners pueden ofrecer sesiones de formación para cursos aptos para SATV, para los cuales los clientes pueden usar sus vales de formación. Los cursos válidos se enumeran en el [Catálogo de elegibilidad del curso de SATV](https://savl-catalog.microsoft.com/). Revise el [paso 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flujo de trabajo para comprender qué tipos de cursos se pueden SATV.
+Una vez inscritos en el programa SATV, los partners pueden ofrecer sesiones de formación para cursos aptos para SATV, para los cuales los clientes pueden usar sus vales de formación. Los cursos aptos se enumeran en el catálogo de idoneidad de cursos de SATV. Revise el [paso 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) del flujo de trabajo para comprender qué tipos de cursos se pueden SATV o para obtener un vínculo al catálogo de elegibilidad del curso.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Hacer que el cliente cree y asigne el vale
 

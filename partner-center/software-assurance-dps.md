@@ -1,7 +1,7 @@
 ---
 title: Servicios de planeación de Software Assurance
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo inscribirse y tener la seguridad en las contrataciones de Microsoft Planning Services para que pueda ofrecer aprendizaje y otros servicios a los clientes con software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092030"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926651"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
 
@@ -25,7 +25,7 @@ ms.locfileid: "88092030"
 
 Como partner de Planning Services aprobado, Microsoft le compensa por proporcionar compromisos de planeación previa a la implementación para clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, convertirse en su asociado de planificación de confianza y conducir a otras contrataciones de clientes.
 
-## <a name="get-started"></a>Introducción
+## <a name="get-started"></a>Primeros pasos
 
 Si no está familiarizado con los servicios de planeación de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en los programas de Planning Services, comience cada nuevo compromiso en el paso cuatro (4) a continuación.
 
@@ -42,10 +42,9 @@ En este artículo se explica cómo completar cada paso.
 
 ## <a name="verify-eligibility-new-partners"></a>Comprobar elegibilidad (nuevos asociados)
 
-Antes de que las empresas y los asesores asociados puedan inscribirse en una de las ofertas de servicios de planeación, deben cumplir los requisitos de entrenamiento y los requisitos de competencia:
+Antes de que las empresas y los asesores asociados puedan inscribirse en una de las ofertas de servicios de planeación, deben cumplir los requisitos de competencia, como se indica a continuación:
 
-- **Requisitos de aprendizaje de cumplimiento.** Los requisitos de entrenamiento de cumplimiento del programa deben cumplirse en el nivel de la compañía.
-- **Requisitos de capacidad.** Los requisitos de competencia son específicos de la interacción que se va a entregar. Por ejemplo, su empresa puede inscribirse en la oferta de servicios de planeación de la implementación de escritorio (DDPS). Sin embargo, solo podrá ofrecer una contratación específica dentro de la oferta de DDPS si su empresa también tiene una competencia apta para esa contratación específica.
+**Requisitos de capacidad.** Los requisitos de competencia son específicos de la interacción que se va a entregar. Por ejemplo, su empresa puede inscribirse en la oferta de servicios de planeación de la implementación de escritorio (DDPS). Sin embargo, solo podrá ofrecer una contratación específica dentro de la oferta de DDPS si su empresa también tiene una competencia apta para esa contratación específica.
 
 >[!NOTE]
 > Para obtener más información sobre los requisitos de idoneidad para las contrataciones específicas, [vea requisitos de idoneidad para la planeación de Engagement Services](software-assurance-dps-requirements.md).
