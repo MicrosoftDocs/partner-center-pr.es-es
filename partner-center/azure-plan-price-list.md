@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000329"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534733"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure
 
@@ -114,3 +114,7 @@ Esta API también permite a los partners recuperar las tasas de cambio mensuales
 > La API de precios es específica de los precios del plan de Azure. En el caso de los recursos o las reservas de Azure implementadas en suscripciones a planes que no son de Azure, igualmente debes usar la API de RateCard existente y las listas de precios publicadas en la página "Precios y ofertas" del Centro de partners. La API de precios del plan de Azure no admite precios basados en software, Marketplace o licencias, como Microsoft 365 o Dynamics 365.
 
 Para obtener más información sobre los precios del plan de Azure y las API de tasas de cambio de divisas, consulta la [documentación de la API de precios](/partner/develop/pricing) completa.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar suscripciones y recursos en el plan de Azure](azure-plan-manage.md)

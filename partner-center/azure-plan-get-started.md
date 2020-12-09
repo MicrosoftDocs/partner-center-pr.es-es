@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000579"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534920"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comienzo del uso del plan de pago por uso de Azure
+
+**Roles adecuados**
+
+- Agente de administrador
+- Agente de ventas
+
 
 Microsoft ha introducido una nueva experiencia de comercio en el Centro de partners.  Gracias a esta nueva experiencia de comercio, los partners podrán obtener acceso a los servicios de Azure con tarifas de pago por uso para los clientes según lo indicado en el Acuerdo de cliente de Microsoft.
 
