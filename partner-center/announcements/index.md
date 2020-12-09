@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570763"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869323"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de diciembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Versión del SDK en .NET Standard (v1.16.3)](2020-december.md#4)|8 de diciembre|
+|Ofertas/mercados|[Notas de la versión de la lista de precios basada en licencias de diciembre de 2020](2020-december.md#3)|8 de diciembre|
 |Ofertas/mercados|[Próximamente tendrá disponible la actualización de la oferta de Microsoft 365 Business Voice con plan de llamadas para EE. UU.](2020-december.md#2)|3 de diciembre|
 |Funcionalidades|[Ya disponibles: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-december.md#1)|3 de diciembre|
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
@@ -29,7 +31,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
 |Capacidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
 |Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
-|Capacidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
+|Funcionalidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
 |Funcionalidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
 |Funcionalidades|[Pruebas disponibles: actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para el proceso de validación de clientes de Education](2020-november.md#7)|10 de noviembre|
 |Funcionalidades|[Expansión del contenido del asociado de licencia comercial en la galería de preparación de operaciones](2020-november.md#6)|2 de noviembre|
