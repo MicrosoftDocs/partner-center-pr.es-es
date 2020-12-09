@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114725"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869289"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Cambio del Centro de administración de partners (PAC) al Centro de partners
 
@@ -31,14 +31,11 @@ El Centro de partners va evolucionando hacia un único lugar donde administrará
 |**Acción**   |**PAC**   |**Centro de partners**   |
 |--------------|:--------------|:---------------|
 |La información general de alto nivel de la actividad de tu cuenta y clientes|Pantalla Inicio|Centro de partners|
-|Conseguir nuevos clientes y proporcionar presupuestos de servicios de evaluación y de pago|Crear negocio -> Enviar presupuesto|Los presupuestos de pago no están disponibles. Las pruebas de CSP están disponibles si el partner asesor se convierte en revendedor indirecto de CSP y se asocia con un proveedor indirecto de CSP que admite las pruebas. |
-|Solicitar relaciones|(Revendedores y asesores) Crear negocio -> Enviar solicitud de DAP|(Revendedores y asesores) Clientes -> Solicitar una relación de revendedor (consultar la nota siguiente)|
+|Conseguir nuevos clientes y proporcionar presupuestos de servicios de evaluación y de pago|Crear negocio -> Enviar presupuesto|Centro de Partners: > de pruebas y ofertas de compra |
+|Solicitar relaciones|(Revendedores y asesores) Crear negocio -> Enviar solicitud de DAP|Clientes: > solicitar una relación (vea la nota a continuación)|
 |Administra tus clientes|Administración de clientes -> Lista de clientes|Centro de partners -> Clientes|
-|Administración de suscripciones de clientes|Administración de clientes -> Lista de clientes -> seleccionar cliente|Centro de Partners-> clientes: > seleccione cliente o agregue su cliente a la lista **Favoritos** . para ello, cambie la estrella en la lista de clientes y, a continuación, seleccione el Slideout **Favoritos** y vaya directamente a **administrar suscripciones** para su cliente.|
-|Administrar en nombre de un cliente|Administración de clientes -> seleccionar cliente -> seleccionar botón Administrar|Centro de Partners-> clientes: > seleccione administrar servicios en la lista desplegable > seleccione servicio o agregue su cliente a la lista de **Favoritos** . para ello, cambie a la estrella en la lista de clientes y, a continuación, seleccione el Slideout **Favoritos** y vaya directamente a **administrar servicios** para el servicio requerido.|
+|Administración de suscripciones de clientes|Administración de clientes -> Lista de clientes -> seleccionar cliente|Centro de Partners-> clientes: > seleccionar cliente o buscar un cliente por nombre o nombre de dominio. A continuación, vaya a **usuarios y licencias** para su cliente.|
+|Administrar en nombre de un cliente|Administración de clientes -> seleccionar cliente -> seleccionar botón Administrar|Centro de Partners-> clientes: > seleccionar cliente o buscar un cliente por nombre o nombre de dominio. A continuación, seleccione administrar servicios en la lista desplegable > seleccionar servicio.|
 |Crear solicitudes de servicio para el cliente|Solicitudes de servicio -> seleccionar cliente -> seleccionar el botón + | Centro de partners -> Solicitudes de servicio -> Solicitudes de clientes -> seleccionar cliente -> Nueva solicitud|
 |Administrar solicitudes de servicio al cliente| Solicitudes de servicio -> seleccionar cliente|Centro de Partners: solicitudes de servicio de >: solicitudes de > del cliente-> Seleccione el cliente o agregue la solicitud de servicio a la lista de **Favoritos** . para ello, seleccione la estrella en la vista de solicitudes de clientes del cliente y, a continuación, seleccione el Slideout **Favoritos** , seleccione la pestaña **solicitudes de soporte técnico** y vaya directamente a la solicitud de servicio o vea las actualizaciones directamente desde **Favoritos**|
 |Ver el estado de Microsoft Online Services que administras|Estado del servicio -> Estado agregado|Centro de partners -> Estado del servicio|
-
->Importante<br>
-No podrás enviar presupuestos de evaluación y de pago a clientes a través del Centro de partners. Además, para buscar los clientes en el Centro de partners, usa el nombre del cliente o los dominios del cliente disponibles cuando estableciste la relación de partner con el cliente.
