@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175080"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153152"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
@@ -31,16 +31,18 @@ Si el cliente tiene un problema de servicio que no puede resolver y cumple los c
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Enviar una solicitud de servicio para un cliente
 
-1. Desde el menú del **Centro de partners**, selecciona **Solicitudes de servicio** y, después, **Solicitud de cliente**. 
+1. En el menú del centro de Partners, en CSP, seleccione **clientes** .
 
-2. En la página de solicitudes de cliente, busca el cliente que quieras.
+2. En la página clientes, seleccione o busque el cliente que desea
+    
+3. En el menú del cliente, seleccione **solicitudes de servicio** .
 
-3. En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se le redirigirá al Microsoft Azure Portal o al centro de administración de Office 365.
+4. En el menú desplegable **Nueva solicitud**, selecciona **Azure** u **Office 365, Dynamics 365, Enterprise Mobility Suite**. Se le redirigirá al Microsoft Azure Portal o al centro de administración de Office 365.
 
 >[!NOTE]
 >Las operaciones de soporte técnico asociados que transaccionan Dynamics 365 en CSP son necesarias para mantener un contrato de soporte técnico de soporte técnico avanzado para el plan de asociados (ASfP) o superior. Este contrato de soporte técnico es necesario para enviar incidentes de Dynamics 365 en nombre de un cliente de CSP. [Obtenga más información](https://partner.microsoft.com/support/partnersupport) sobre las opciones del contrato de soporte técnico.
 
-### <a name="microsoft-azure"></a>Microsoft Azure
+### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > Cuando necesites crear una solicitud de servicio para tu cliente en Azure, ten en cuenta que:
