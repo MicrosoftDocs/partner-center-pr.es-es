@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435404"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354583"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Ejemplos de escenarios de facturación mensuales para nuevas suscripciones, cambios de cantidades de licencias o suspensiones
 
@@ -29,13 +29,13 @@ Estos ejemplos de [escenarios de facturación comunes](common-billing-scenarios.
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero adquirirá una suscripción nueva con una licencia de $4/mes y seleccionará la facturación mensual. El archivo de conciliación basado en licencias del 15 de enero contendrá las siguientes líneas de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Tarifa de ciclo   |4.00       |1        |4.00 |
 
 El archivo de conciliación basado en licencias del 15 de febrero contendrá la siguiente línea de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2/13/2018         |3/12/2018    |Tarifa de ciclo   |4.00       |1        |4.00 |
 
@@ -43,13 +43,13 @@ El archivo de conciliación basado en licencias del 15 de febrero contendrá la 
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero adquirirá una suscripción nueva con una licencia de $4/mes y seleccionará la facturación mensual. El archivo de conciliación basado en licencias del 15 de enero contendrá las siguientes líneas de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Tarifa de ciclo   |4.00       |1        |4.00    |
 
 El 1 de febrero aumenta la cantidad de licencias de uno a dos. El archivo de conciliación basado en licencias del 15 de febrero contendrá las siguientes líneas de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 1/13/2018        |12/2/2018    |Prorrateo de instancia de ciclo   |-4,00       |1        |-4,00   |
 |1/13/2018         |31/1/2018    | Prorrateo de instancia de ciclo   |2.45       |1        |2.45    |
@@ -70,13 +70,13 @@ Precio por unidad de proporciones = 1,54 = 12 x 0,129
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero adquirirá una suscripción nueva con una licencia de $4/mes y seleccionará la facturación mensual. El archivo de conciliación basado en licencias del 15 de enero contendrá las siguientes líneas de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |12/2/2018    |Tarifa de ciclo   |4.00       |1        |4.00    |
 
 El 1 de febrero suspende una suscripción. El archivo de conciliación basado en licencias del 15 de febrero contendrá la siguiente línea de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|12/2/2018|Cuota de cancelación|-4,00|1|-4,00
 
@@ -84,19 +84,19 @@ El 1 de febrero suspende una suscripción. El archivo de conciliación basado en
 
 La fecha de facturación es el 15 de cada mes. El 13 de enero adquirirá una suscripción nueva con una licencia de $4/mes y seleccionará la facturación mensual. El archivo de conciliación basado en licencias del 15 de enero contendrá las siguientes líneas de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|12/2/2018|Precio del ciclo|4.00|1|4.00
 
 El archivo de conciliación basado en licencias del 15 de febrero contendrá la siguiente línea de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Precio del ciclo|4.00|1|4.00
 
 El 1 de marzo se suspende la suscripción. El archivo de conciliación basado en licencias del 15 de marzo contendrá la siguiente línea de facturación:
 
-|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Importe |
+|Fecha de inicio de la carga |Fecha de finalización del cargo |Tipo de cargo |Unit Price |Cantidad |Cantidad |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 3/1/2018|3/12/2018|Cuota de cancelación|-1,72|1|-1,72
 
@@ -107,3 +107,7 @@ Precio por unidad = días del período de servicio x precio diario x número de 
 Hay 12 días en el período de cancelación 3/1/2018 a 3/12/2018.
 
 Por lo tanto, el precio por unidad =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Escenarios de facturación para una sola vez y selección de compras periódicas](common-billing-scenarios-onetime-recurring.md)

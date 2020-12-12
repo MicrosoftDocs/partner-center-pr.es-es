@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 720e3c4f97e374b0137db2302988a0fbd2db9432
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a301aa85310142b3327baabbf3c8545b31f489bd
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031318"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354396"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Escenarios de facturación del centro de partners para una sola vez y selección de compras periódicas
 
@@ -35,7 +35,7 @@ El archivo de conciliación incluirá lo siguiente:
 - Renovación prorrateada de 4 USD para el período de servicio comprendido entre el 11 y el 11 de junio. Este era el período cuando tenías una licencia. Cálculo = (precio mensual/total de días en período de servicio total) x días del período de servicio prorrateado x número de licencias = (4/30) x 30 x 1 = 4,00.
 - Renovación prorrateada de 8 USD para el período de servicio comprendido entre el 10 de junio y el 9 de julio. Este era el período cuando tenías 2 licencias. Cálculo = (4/30) x 30 x 2 = 8,00.
 
-|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Importe** |**Tipo de cargo** |
+|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Cantidad** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11/6/2019      |10/6/2019   |09/7/2019         |4 USD                |1                 |4 USD            |Nuevo         |
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |1        | -4 USD       |addQuantity           |
@@ -51,7 +51,7 @@ El archivo de conciliación incluirá lo siguiente:
 - Renovación prorrateada de -3,87 USD para el período de servicio comprendido entre el 11 y el 12 de junio. Este era el período cuando tenías una licencia. Cálculo = (precio mensual/total de días en período de servicio total) x días del período de servicio prorrateado x número de licencias = (4/30) x 29 x 1 = 3,87.
 - Renovación prorrateada de 7,74 USD para el período de servicio comprendido entre el 12 de junio y el 9 de julio. Este era el período cuando tenías 2 licencias. Cálculo = (4/30) x 29 x 2 = 7,74.
 
-|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Importe** |**Tipo de cargo** |
+|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Cantidad** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11/6/2019 (tienes 1 licencia)     |10/6/2019   |09/7/2019         |4 USD         |1        |4 USD            |Nuevo         |
 |12/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |1        | -3,87 USD       |addQuantity           |
@@ -67,7 +67,7 @@ El archivo de conciliación incluirá lo siguiente:
 - Renovación prorrateada de -8,00 USD para el período de servicio comprendido entre el 11 y el 11 de junio. Este era el período cuando tenías 2 licencias. Cálculo = (precio mensual/total de días en período de servicio total) x días del período de servicio prorrateado x número de licencias = (4/30) x 30 x 2 = 8,00.
 - Renovación prorrateada de 4,00 USD para el período de servicio comprendido entre el 11 de junio y el 9 de julio. Este era el período cuando tenías una licencia. Cálculo = (4/30) x 30 x 1 = 4,00.
 
-|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Importe** |**Tipo de cargo** |
+|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Cantidad** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11/6/2019      |10/6/2019   |09/7/2019         |4 USD                |2                 |8 USD            |Nuevo         |
 |11/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |2        | -8 USD       |removeQuantity           |
@@ -83,8 +83,12 @@ El archivo de conciliación incluirá lo siguiente:
 - Renovación prorrateada de -7,74 USD para el período de servicio comprendido entre el 11 y el 12 de junio. Este era el período cuando tenías 2 licencias. Cálculo = (precio mensual/total de días en período de servicio total) x días del período de servicio prorrateado x número de licencias = (4/30) x 29 x 2 = 7,74.
 - Renovación prorrateada de 3,87 USD para el período de servicio comprendido entre el 12 de junio y el 9 de julio. Este era el período cuando tenías una licencia. Cálculo = (4/30) x 29 x 1 = 3,87.
 
-|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Importe** |**Tipo de cargo** |
+|**Fecha de compra**   |**Inicio del cargo** |**Finalización del cargo**  |**Precio por unidad**  |**Cantidad**  |**Cantidad** |**Tipo de cargo** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11/6/2019 (tienes 2 licencias)     |10/6/2019   |09/7/2019         |4 USD         |2        |8 USD       |Nuevo       |
 |12/6/2019     | 10/6/2019    |09/7/2019        |4 USD        |2        | -7,74 USD       |removeQuantity           |
 |12/6/2019 (tienes 1 licencia)    | 10/6/2019    |09/7/2019   |4 USD    |1      |3,87 USD    |removeQuantity |
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Ejemplos de escenarios de facturación mensuales para nuevas suscripciones, cambios de cantidades de licencias o suspensiones](common-billing-scenarios-monthly.md)

@@ -8,18 +8,17 @@ description: Obtenga respuestas a preguntas habituales sobre el uso de conectore
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031268"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354549"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solución de problemas de conectores de referencias de venta conjunta
 
 **Se aplica a:**
 
-- Centro de partners
 - Dynamics 365 CRM
 - CRM de Salesforce
 
@@ -80,7 +79,7 @@ Siga este paso de solución de problemas:
 
 3. ¿Qué debe hacer si recibe el siguiente error al activar el flujo del centro de partners a CRM en la plataforma de automatización de energía?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensaje de error que requiere inicio de sesión":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensaje de error que requiere actualizaciones":::
 
 Siga estos pasos de solución de problemas:
 
@@ -95,11 +94,11 @@ Puede agregar conexiones al flujo mientras el flujo se está ejecutando y agrega
 - Seleccione cada flujo y edítelo de forma individual.
 - Expanda todos los pasos del flujo 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Mensaje de error que requiere inicio de sesión":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Pasos que necesitan conexiones":::
 
 - Seleccione los pasos en los que verá un icono de advertencia pidiéndole asociar conexiones y agregue conexiones. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Mensaje de error que requiere inicio de sesión":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar flujo paso a paso":::
 
 
 5. ¿Qué debe hacer si los flujos de la solución de conectores de las referencias de venta conjunta no se activan?
@@ -116,7 +115,7 @@ A. En Power Automate, tendrá que editar los flujos en el siguiente orden y actu
 
  B. Para cada flujo, seleccione la opción **ejecutar solo usuarios** . Seleccione **Usar conexión** en lugar de **proporcionados por el usuario de solo ejecución**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Mensaje de error que requiere inicio de sesión":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para activar un flujo":::
 
 
 C. Active estos flujos que se indican a continuación:
@@ -140,7 +139,7 @@ Para asegurarse de que los flujos de energía automatizada se ejecutan como se e
  
 Para determinar el estado de la sincronización de referencias, seleccione **Auditoría**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Mensaje de error que requiere inicio de sesión":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Cómo sincronizar referencias":::
 
 Asegúrese de que se cumplen las condiciones siguientes:
 
@@ -156,7 +155,53 @@ Siga estos pasos:
 
 - Los vendedores asociados deben asegurarse de que tienen habilitada la opción **sincronizar con el centro de Partners** en la sección CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Mensaje de error que requiere inicio de sesión" en el centro de Partners.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Asegúrese de que ha habilitado la sincronización":::
+
+- Los vendedores deben proporcionar los ingresos y la fecha de cierre al calificar a un cliente potencial.
+
+- Si se proporciona el identificador de CRM en la fase de **creación** o **actualización** de la oportunidad de venta conjunta, pero no se encuentra una oportunidad de cliente con ese identificador en CRM, se omitirá actualizar o crear.
+
+- Asegúrese de que el campo de moneda de referencia está configurado en el entorno de Salesforce. 
+
+4. ¿Qué debe hacer si el conector se desconecta y se pierde la sincronización de una referencia. 
+
+A continuación se muestran algunas de las opciones que puede probar:
+
+- Compruebe si el nombre de usuario o la contraseña han expirado para el usuario del centro de Partners con roles de administrador de referencias.
+
+- Puede ir a la oportunidad no sincronizada, realizar una actualización menor y observar si la referencia se ha sincronizado.
+
+- Si los flujos se han ejecutado y han dado error, seleccione el flujo y vuelva a enviar la ejecución que ha producido un error.
+
+5. ¿Qué debe hacer cuando se produce un error de acceso denegado?
+
+Asegúrese de que existen los roles adecuados
+
+- Rol de administrador de referencias para el vendedor del centro de Partners 
+ 
+- Rol de administrador del sistema o del Personalizador del sistema en la instancia de CRM
+
+- Asegúrese de que el usuario de la cuenta de flujo de Power Automate inicia sesión https://flow.microsoft.com al menos una vez de antemano.
+
+6. Si ve que falta el código de país de la **cuenta de cliente** al crear una oportunidad de venta conjunta, ¿qué debe hacer?
+
+Tendrá que agregar el código de país de dos letras ISO a la cuenta de cliente en CRM.
+
+7. ¿Qué debe hacer si ve el error el identificador de la **solución es necesario** al crear una oportunidad de venta conjunta?
+
+Con el fin de crear una referencia de venta conjunta, necesita una solución lista para participar de Microsoft. 
+
+8. ¿Qué debe hacer cuando vea oportunidades de venta conjunta creadas en el centro de partners que no se sincronizan con CRM aunque no se produzcan errores de flujo:
+
+Haga lo siguiente:
+
+- Una vez que haya creado un nuevo trato de venta conjunta en el centro de Partners, compruebe si se invoca el flujo del centro de partners a Dynamics 365 (es posible que se invoque varias veces).
+
+- Si se invoca el flujo, compruebe todos los flujos invocados e identifique la ejecución de flujo que actualizaría el CRM. Puede seguir las acciones y comprobar si se ha actualizado el CRM o si se ha producido un problema.
+
+- Consulte *nuevo trato** en el centro de partners para ver si se rellena con el identificador de CRM.
+
+- Asegúrese de que el trato no se cierra accidentalmente como "ganada" o "perdida" en el centro de Partners.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

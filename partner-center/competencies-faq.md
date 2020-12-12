@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570491"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354464"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competencias: preguntas más frecuentes
 
-Se aplica a:
+**Roles adecuados**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
-- Asociados en el programa Microsoft Partner Network (MPN)
+- Administrador de partners de MPN
 
 En este artículo se responden preguntas generales acerca de los exámenes, certificaciones y ventajas de software relacionados con la obtención de una competencia Microsoft Partner Network.
 

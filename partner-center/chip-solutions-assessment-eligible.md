@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447255"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354481"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de elegibilidad para el programa incentivos de evaluación de soluciones
+
+**Roles adecuados**
+
+- Contacto principal o administrador de programas
 
 Los asociados con el estado activo e inscrito en el programa de incentivos de evaluación de soluciones en FY20 seguirán siendo válidos para incentivos en FY21 si tienen una suscripción activa a MPN y una competencia de MPN Silver o Gold activa. Las calificaciones de los asociados se revisan para su elegibilidad anualmente. Si los asociados establecidos no cumplen los requisitos de idoneidad y participación en el año actual, se quitarán en la siguiente revisión anual. Todos los asociados nuevos se incorporan a través del especialista de evaluación de soluciones (SAS) local en su área. La SAS identificará los asociados que se incorporarán en función de la coincidencia de Aptitudes y conocimientos de la empresa asociada y de las necesidades empresariales de las subsidiarias admitidas por la SAS.
 

@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133089"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354515"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganar fondos de marketing cooperativo
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -52,7 +48,7 @@ La escala de tiempo de los fondos de cooperación se divide en períodos de 2 6 
 - H1 es la primera mitad del año fiscal, el 1 de julio y el 31 de diciembre.
 - H2 es la segunda mitad del año fiscal, el 1 de enero y el 30 de junio.
 
-El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención** . Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso** de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
+El período de seis meses durante el cual se acumulan los beneficios se convierte en el **período de obtención**. Debe utilizar estas ganancias en algún momento durante el siguiente **período de uso** de seis meses. Si no usa las ganancias al final del período de uso, las perderá. El **período** de la demanda es el período de seis meses durante el cual se puede reclamar el reembolso de las actividades del programa de incentivos.
 
 En la tabla siguiente se muestran los diferentes períodos de obtención, uso y reclamaciones. A menos que se indique lo contrario, los períodos se extienden desde el primer día del primer mes hasta el último día del último mes.
 
@@ -68,7 +64,7 @@ En la tabla siguiente se muestran los diferentes períodos de obtención, uso y 
 
 Los siguientes recursos le ayudarán a empezar a trabajar con notificaciones de cooperación.
 
-| Para | Lea este |
+| Para hacer esto | Lea este |
 | ------ | ----------- |
 | Enviar una demanda |  [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)  |
 | Administrar una demanda enviada | [Crear y administrar una demanda de cooperación de programas de incentivos](create-incentives-claims.md)    |
