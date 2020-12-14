@@ -1,6 +1,6 @@
 ---
 title: Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
-description: Obtén información sobre cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft. Los participantes del programa Proveedor de soluciones en la nube (CSP) deben hacerlo para solicitar los productos y servicios de Microsoft para los clientes.
+description: Los asociados del Proveedor de soluciones en la nube (CSP) deben confirmar la aceptación del cliente del Contrato de cliente de Microsoft antes de solicitar servicios Microsoft para los clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198061"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570576"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft en el programa de partners de CSP
 
@@ -76,7 +76,7 @@ Debes ser agente de administración o de ventas para poder hacer esto:
 
 5. Selecciona **Guardar** y continúa.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Cliente nuevo":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Cliente existente":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Recuperar la confirmación de la aceptación del cliente
 
@@ -128,7 +128,7 @@ Sigue los pasos que se indican a continuación para crear un cliente nuevo en el
 >[!NOTE] 
 >Los clientes nuevos no pueden hacer nuevas compras hasta que acepten el Contrato de cliente de Microsoft.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Cliente nuevo":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Crear un cliente nuevo":::
 
 5. Cuando llegues a la pantalla **Confirmación** del nuevo flujo de trabajo del cliente, guarda las credenciales del cliente. Deberás proporcionar estas credenciales al cliente más adelante.
 
@@ -156,7 +156,7 @@ Usa los pasos siguientes para invitar a un nuevo cliente para que revise y acept
 
 4. Usa esta plantilla de correo electrónico para invitar al cliente a aceptar la solicitud de **relación de revendedor** y el **Contrato de cliente de Microsoft**. (Nota: En la invitación por correo electrónico, asegúrate de que el partner también incluye la dirección URL que se proporcionó automáticamente, así como las credenciales del cliente que se crearon recientemente).
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Cliente nuevo":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Crear una relación":::
 
 5. El cliente recibirá una invitación por correo electrónico y hará clic en la dirección URL parametrizada. 
 
@@ -166,7 +166,7 @@ Usa los pasos siguientes para invitar a un nuevo cliente para que revise y acept
 
 8. En la misma dirección URL, el cliente podrá ver una lista consolidada de los diferentes partners con los que trabaja. Podrá seleccionar un partner para ver los detalles.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Cliente nuevo":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Aceptar el contrato":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Invitación de un cliente existente para que revise y acepte el contrato
@@ -183,7 +183,7 @@ Usa los pasos siguientes para invitar a un cliente existente para que revise y a
 
 5. En la misma dirección URL, el cliente podrá ver la lista consolidada de los diferentes partners con los que trabaja. Podrá seleccionar un partner para ver los detalles.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Cliente nuevo":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Cliente":::
 
 >[!NOTE]
 >En determinados escenarios, es posible que los clientes no puedan aceptar directamente el Contrato de cliente de Microsoft. Para obtener más información acerca de estas situaciones, consulta [Dos escenarios en los que es necesario dar fe en nombre de tu cliente](attest-acceptance-customer-agreement.md).

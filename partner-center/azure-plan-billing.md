@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334053"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534699"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Agente de administrador
 - Administrador de facturación
 - Administrador global
 
-La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario.
+En este artículo se describe cómo acceder a la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure, así cómo comprenderla. La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario.
 
 ## <a name="summary-of-billing-essentials"></a>Resumen de los elementos esenciales de la facturación
 
-- **Fecha de facturación** : La factura y el archivo de conciliación estarán disponibles en el panel o API del Centro de partners antes del día 8 (medianoche, UTC).
+- **Fecha de facturación**: La factura y el archivo de conciliación estarán disponibles en el panel o API del Centro de partners antes del día 8 (medianoche, UTC).
 
-- **Período de facturación** : El período de facturación de la factura coincidirá con el mes natural; por ejemplo, 10/1-10/31, 11/1-11/30.
+- **Período de facturación**: El período de facturación de la factura coincidirá con el mes natural; por ejemplo, 10/1-10/31, 11/1-11/30.
 
-- **Períodos del servicio de cargos** : Los cargos coincidirán con el mes natural. Por ejemplo, si el partner facturado agrega servicios de Azure a través de un plan de Azure el 15/10 y el cliente comienza a consumir los servicios de Azure el mismo 15/10, el partner facturado recibirá la factura o la conciliación el 8/11 referente al consumo del cliente durante el período de servicio del 15/10 al 31/10. La factura del próximo mes que se generará el 8/12 y contendrá todos los cargos del período de servicio del 1/11 al 11/31.
+- **Períodos del servicio de cargos**: Los cargos coincidirán con el mes natural. Por ejemplo, si el partner facturado agrega servicios de Azure a través de un plan de Azure el 15/10 y el cliente comienza a consumir los servicios de Azure el mismo 15/10, el partner facturado recibirá la factura o la conciliación el 8/11 referente al consumo del cliente durante el período de servicio del 15/10 al 31/10. La factura del próximo mes que se generará el 8/12 y contendrá todos los cargos del período de servicio del 1/11 al 11/31.
 
-- **Plazo de pago de la factura** : Neto, 60 días.
+- **Plazo de pago de la factura**: Neto, 60 días.
 
 - **Moneda de la factura** : Los partners seguirán siendo facturados en la moneda asignada del país del cliente. Por ejemplo, si el partner facturado está en Irlanda y tiene clientes en el Reino Unido, Noruega y Alemania, entonces el partner facturado recibirá una factura o conciliación en GBP, NOK y EUR.
 
-- **Incentivos de partners** : Pagado a 45 días desde el final del mes de la factura.
+- **Incentivos de partners**: Pagado a 45 días desde el final del mes de la factura.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Acceder a las facturas y los archivos de conciliación
 
@@ -54,7 +54,7 @@ Para acceder a la factura y al archivo de conciliación:
 
    :::image type="content" source="images/azure/billing3.png" alt-text="facturación":::
 
-4. Selecciona **Factura** o **Archivo de conciliación** .  
+4. Selecciona **Factura** o **Archivo de conciliación**.  
 
    Para ver las facturas históricas y los archivos de conciliación, amplía la fila del historial de facturación a continuación.
 
@@ -106,7 +106,7 @@ Para acceder a la factura y al archivo de conciliación:
 
 5. Revisa el archivo de conciliación de facturas y el archivo de uso con clasificación diaria para obtener los detalles adicionales de facturación.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="facturación":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="factura":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Lectura del archivo de conciliación de facturas
 
@@ -134,7 +134,7 @@ Para acceder a la factura y al archivo de conciliación:
 
   - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 8/7 al 31/7 (ten en cuenta que el precio unitario efectivo es el precio del minorista menos el crédito obtenido del partner).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="facturación":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Factura en la moneda del cliente
 
@@ -142,7 +142,7 @@ Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y
 
 Microsoft usará Thomson Reuters para determinar el tipo de cambio que se usará para convertir la moneda de los precios a la moneda de facturación. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
 
-**Ejemplo** :  los cargos de uso para el período de servicio del 1 de agosto al 31 de agosto se facturarán mediante el tipo de cambio publicado el 31 de julio. Estos cargos aparecerán en la factura de septiembre y el tipo de cambio se anotará en la última página de la misma.
+**Ejemplo**:  los cargos de uso para el período de servicio del 1 de agosto al 31 de agosto se facturarán mediante el tipo de cambio publicado el 31 de julio. Estos cargos aparecerán en la factura de septiembre y el tipo de cambio se anotará en la última página de la misma.
 
 ## <a name="azure-reservations"></a>Reservas de Azure
 
@@ -160,7 +160,7 @@ La experiencia existente de gasto de Azure se ha actualizado para admitir la nue
 
 Dado que el modelo de facturación para los servicios de Azure a través de un plan de Azure es el consumo de pago posterior, para evitar recibir una factura más grande de lo previsto, los partners pueden aplicar un presupuesto mensual y realizar un seguimiento del porcentaje de uso. Se puede aplicar un presupuesto a un cliente o a varios clientes al mismo tiempo. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="facturación":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos de Azure":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -1,7 +1,7 @@
 ---
 title: Obtención de privilegios de administrador para un cliente
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén los permisos que necesitas para administrar el servicio o la suscripción de un cliente en su nombre. Obtén información acerca de cómo se conceden, revocan y administran los permisos.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545906"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534886"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obtención de permisos para administrar el servicio o la suscripción de un cliente
 
@@ -47,7 +47,7 @@ Para administrar la suscripción o el servicio de un cliente en su nombre, el cl
 6.  Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre y luego selecciona el portal de administración para el servicio que quieres administrar.
 
 >[!IMPORTANT]  
->Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a no ser que hayas renegociado tu acuerdo con el cliente, continúas siendo el responsable de proporcionar soporte técnico al cliente y de cumplir con las condiciones del contrato de revendedor en la nube, incluso después de que el cliente reasigne o elimine los permisos de administrador. En esta situación, si el cliente necesita ayuda, puedes ponerte en contacto con el soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+>Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, debe informar al cliente de que, si elimina los permisos de administrador, ya no podrá abrir ninguna solicitud de servicio para Microsoft en su nombre. No podrá abrir estos tipos de solicitudes de servicio en nombre del cliente hasta que renegocie el contrato con el cliente.
 
 Los clientes pueden averiguar cuáles de sus partners tienen privilegios de administrador para su inquilino desde dentro del portal de administración de Office 365. Para ello:
 

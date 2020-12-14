@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333836"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534801"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crea una cuenta profesional que vincule tu empresa con tu cuenta del Centro de partners.
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -71,3 +67,8 @@ Al comprar una suscripción de Azure, esencialmente estás alquilando un espacio
 Una cuenta profesional de Azure es una representación virtual dedicada y aislada de tu empresa en la nube pública de Azure, que se crea automáticamente cuando te suscribes a un servicio en la nube de Microsoft como Azure, Microsoft Intune u Office 365.
 
 La cuenta profesional hospeda los usuarios de Azure AD y la información sobre ellos: sus contraseñas, datos de perfil, permisos, etc. La cuenta profesional también contiene grupos, aplicaciones y otra información relativa a una compañía y su seguridad.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
+- [Seguimiento del estado de verificación](verification-responses.md)

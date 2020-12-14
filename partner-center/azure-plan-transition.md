@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000339"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534818"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transición de clientes al plan de Azure desde ofertas de CSP de Azure existentes
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000339"
 - Agente de ventas
 - Administrador del control de usuarios
 
-Los proveedores indirectos y los partners de facturación directa pueden realizar la transición a la nueva experiencia de comercio disponible en el programa Proveedor de soluciones en la nube de Microsoft (CSP) de Azure. (Los revendedores indirectos deberán trabajar a través de sus proveedores indirectos). Gracias a ello, los clientes tendrán una forma simplificada de comprar servicios en la nube, ya sea comprando a partners, vendedores de Microsoft o directamente en la web.
+En este artículo se explica cómo los partners de CSP pueden usar el Centro de partners para trasladar a los clientes de las ofertas de CSP de Azure existentes a los servicios de Azure en el plan de Azure. Los proveedores indirectos y los partners de facturación directa pueden realizar la transición a la nueva experiencia de comercio disponible en el programa Proveedor de soluciones en la nube de Microsoft (CSP) de Azure. (Los revendedores indirectos deberán trabajar a través de sus proveedores indirectos). Gracias a ello, los clientes tendrán una forma simplificada de comprar servicios en la nube, ya sea comprando a partners, vendedores de Microsoft o directamente en la web.
 
-La capacidad de transición es solo para clientes que realicen la transición a la nueva experiencia comercial y que hayan firmado el Acuerdo de cliente de Microsoft; no se aplica a otras ofertas del programa CSP como Office 365 o Dynamics 365.
+La funcionalidad de transición solo es para clientes que realicen la transición a la nueva experiencia comercial y que hayan firmado el Contrato de cliente de Microsoft. No se aplica a otras ofertas del programa CSP, como Office 365 o Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Transición de ofertas de CSP existentes a un plan de Azure
 
@@ -55,7 +55,7 @@ Puedes hacer la transición de un cliente desde sus ofertas existentes de Azure 
    - Un plan por cliente en escenarios de CSP directo  
    - Un plan por vendedor  
 
-   Por ejemplo, un partner compra dos ofertas de Microsoft Azure e incluye dos POR diferentes en la compra. En este caso, el flujo de trabajo de la transición comprará dos planes de Azure (uno por cada vendedor) y asignará las suscripciones de Azure respectivas de los planes de Azure automáticamente.  
+   Por ejemplo, un partner compra dos ofertas de Microsoft Azure e incluye dos POR diferentes en la compra. En este caso, el flujo de trabajo de la transición comprará dos planes de Azure (uno por cada vendedor) y asignará las suscripciones a Azure respectivas en los planes de Azure automáticamente.  
 
    **Asignación de la suscripción de Azure al plan de Azure**
 

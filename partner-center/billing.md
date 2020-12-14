@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000159"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570644"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
-
-**Se aplica a**
-
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000159"
 - Administrador de facturación
 - Administrador global
 - Agente de ventas
+
+En este artículo se proporcionan vínculos con información sobre facturación e impuestos del Centro de partners, así como recursos de facturación, facturas, facturación de CSP e impuestos.
+
 
 | Tema | Descripción |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000159"
 | [Solicitar un crédito del Acuerdo de Nivel de Servicio para interrupciones](request-credit.md) | Cómo solicitar a Microsoft un crédito del Acuerdo de Nivel de Servicio para tus clientes, cuando se produce una interrupción del servicio. |
 
 Si estás buscando información y recursos de facturación de la API del Centro de partners, consulta la [documentación de facturación de para desarrolladores](/partner-center/develop/manage-billing).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Recepción de pagos en el Marketplace comercial](marketplace-get-paid.md)
