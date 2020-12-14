@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175248"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389312"
 ---
-# <a name="known-issues-with-partner-center-insights"></a><span data-ttu-id="9dc4e-104">Problemas conocidos de la información del centro de Partners</span><span class="sxs-lookup"><span data-stu-id="9dc4e-104">Known issues with Partner Center Insights</span></span>
+# <a name="partner-insights--frequently-asked-questions"></a><span data-ttu-id="210e4-104">Información de asociados: preguntas más frecuentes</span><span class="sxs-lookup"><span data-stu-id="210e4-104">Partner Insights – Frequently Asked Questions</span></span>
 
-<span data-ttu-id="9dc4e-105">Esto se relaciona con cualquier problema conocido que vea o represente informes asociados a la información.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-105">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
+<span data-ttu-id="210e4-105">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="210e4-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="210e4-106">Visor de informes</span><span class="sxs-lookup"><span data-stu-id="210e4-106">Report viewer</span></span>
+- <span data-ttu-id="210e4-107">Visor de informes ejecutivos</span><span class="sxs-lookup"><span data-stu-id="210e4-107">Executive report viewer</span></span>
 
-- <span data-ttu-id="9dc4e-106">No hay ninguna manera compatible de habilitar los informes de insights para los inquilinos de solo CSP.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-106">There is no supported way to enable the Insights reports for CSP-only tenants.</span></span> <span data-ttu-id="9dc4e-107">Solo los inquilinos con acceso al programa MPN pueden acceder a estos informes.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-107">Only tenants with access to the MPN program can access these reports.</span></span>
-- <span data-ttu-id="9dc4e-108">Los informes tienen problemas de representación con Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-108">The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="9dc4e-109">Funcionan bien con Microsoft Edge y otros exploradores.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-109">They work well with Microsoft Edge and other browsers.</span></span>
-- <span data-ttu-id="9dc4e-110">Los datos de rendimiento para la competencia de aplicaciones empresariales de nube están incompletos debido a un problema de datos de nivel superior.</span><span class="sxs-lookup"><span data-stu-id="9dc4e-110">The performance data for Cloud Business Application competency is incomplete due to an upstream data issue.</span></span>
+<span data-ttu-id="210e4-108">Esto se relaciona con cualquier problema conocido que vea o represente informes asociados a la información.</span><span class="sxs-lookup"><span data-stu-id="210e4-108">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="9dc4e-111">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="9dc4e-111">Next steps</span></span>
+<span data-ttu-id="210e4-109">P) **no veo el centro de información en mi cuenta del centro de Partners. ¿Qué debo hacer?**</span><span class="sxs-lookup"><span data-stu-id="210e4-109">Q) **I don’t see the Insights hub in my Partner Center account. What should I do?**</span></span>
 
-- <span data-ttu-id="9dc4e-112">Más información sobre la información del [centro de Partners](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="9dc4e-112">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
+<span data-ttu-id="210e4-110">A) Asegúrese de que ha iniciado sesión en la cuenta de MPN para su organización.</span><span class="sxs-lookup"><span data-stu-id="210e4-110">A) Make sure you have logged in into the MPN account for your organization.</span></span> <span data-ttu-id="210e4-111">No se puede acceder al panel Insights desde la cuenta de CSP.</span><span class="sxs-lookup"><span data-stu-id="210e4-111">You cannot access the Insights dashboard from your CSP account.</span></span> <span data-ttu-id="210e4-112">Asegúrese también de que el administrador global ha facilitado el acceso al rol visor de informes o visor de informes.  Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).</span><span class="sxs-lookup"><span data-stu-id="210e4-112">Also ensure that you have been provided Report Viewer or Executive Report Viewer role access by your Global Admin.  For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="210e4-113">P) **no puedo ver los ingresos facturados ni los datos de ingresos consumidos (ACR) de Azure en mis informes. ¿Por qué?**</span><span class="sxs-lookup"><span data-stu-id="210e4-113">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="210e4-114">A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos.</span><span class="sxs-lookup"><span data-stu-id="210e4-114">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span>  <span data-ttu-id="210e4-115">Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).</span><span class="sxs-lookup"><span data-stu-id="210e4-115">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="210e4-116">P) **no puedo ver los ingresos facturados ni los datos de ingresos consumidos (ACR) de Azure en mis informes. ¿Por qué?**</span><span class="sxs-lookup"><span data-stu-id="210e4-116">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="210e4-117">A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos.</span><span class="sxs-lookup"><span data-stu-id="210e4-117">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span> <span data-ttu-id="210e4-118">Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).</span><span class="sxs-lookup"><span data-stu-id="210e4-118">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="210e4-119">P **. parece que el país del cliente es incorrecto. ¿Por qué?**</span><span class="sxs-lookup"><span data-stu-id="210e4-119">Q) **The country reported for my customer seems to be incorrect. Why is that?**</span></span>
+
+<span data-ttu-id="210e4-120">A) el país del cliente se deriva del país de la organización primaria global de ese cliente.</span><span class="sxs-lookup"><span data-stu-id="210e4-120">A) The customer country is derived from the country of the Global parent organization of that customer.</span></span> <span data-ttu-id="210e4-121">Este país puede ser diferente del país del cliente con el que podría haber realizado la transacción.</span><span class="sxs-lookup"><span data-stu-id="210e4-121">This country might be different from the country of the customer with whom you might have transacted.</span></span> <span data-ttu-id="210e4-122">Por lo tanto, es posible que el país del cliente sea distinto del esperado.</span><span class="sxs-lookup"><span data-stu-id="210e4-122">Hence the customer reported country might be different from what you expect it to be.</span></span>
+
+<span data-ttu-id="210e4-123">P) **veo algunos nombres de cliente que se ofuscan en los informes. ¿Se espera?**</span><span class="sxs-lookup"><span data-stu-id="210e4-123">Q) **I see a few customer names are obfuscated in the reports. Is it expected?**</span></span>
+
+<span data-ttu-id="210e4-124">A) los nombres de cliente se ofuscan para determinadas suscripciones por motivos de cumplimiento.</span><span class="sxs-lookup"><span data-stu-id="210e4-124">A) Customer names are obfuscated for certain subscriptions because of compliance reasons.</span></span> <span data-ttu-id="210e4-125">Sin embargo, el cliente TPID está disponible y puede utilizarlo para buscar nombres de clientes.</span><span class="sxs-lookup"><span data-stu-id="210e4-125">However, the customer TPID is available and you can use that look up customer names from it.</span></span>
+
+<span data-ttu-id="210e4-126">P) **¿cuál es la latencia típica de los informes?**</span><span class="sxs-lookup"><span data-stu-id="210e4-126">Q) **What is the typical latency of the reports?**</span></span>
+
+<span data-ttu-id="210e4-127">A) las suscripciones y los datos de los clientes se actualizan diariamente y los datos se envían con una latencia de una semana.</span><span class="sxs-lookup"><span data-stu-id="210e4-127">A) Subscriptions and Customers data is refreshed daily and data is reported with a one week latency.</span></span> <span data-ttu-id="210e4-128">Los datos de uso de Azure se indican con una latencia de una semana.</span><span class="sxs-lookup"><span data-stu-id="210e4-128">Azure usage data is reported with a one week latency.</span></span> <span data-ttu-id="210e4-129">Los datos de uso de Office365, Teams, Dynamic365, EMS y Power BI se indican con una latencia de un mes.</span><span class="sxs-lookup"><span data-stu-id="210e4-129">Office365, Teams, Dynamic365, EMS, and Power BI usage data is reported with a one month latency.</span></span>
+
+<span data-ttu-id="210e4-130">P) **los informes no se representan en Internet Explorer: ¿se espera?**</span><span class="sxs-lookup"><span data-stu-id="210e4-130">Q) **The reports are not rendering in Internet Explorer – is that expected?**</span></span>
+
+<span data-ttu-id="210e4-131">A) los informes tienen problemas de representación con Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="210e4-131">A)  The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="210e4-132">Funcionan bien con Microsoft Edge y otros exploradores.</span><span class="sxs-lookup"><span data-stu-id="210e4-132">They work well with Microsoft Edge and other browsers.</span></span>
+
+<span data-ttu-id="210e4-133">**Pasos siguientes**</span><span class="sxs-lookup"><span data-stu-id="210e4-133">**Next steps**</span></span>
+
+- <span data-ttu-id="210e4-134">Más información sobre la información del [centro de Partners](partner-center-insights.md).</span><span class="sxs-lookup"><span data-stu-id="210e4-134">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
