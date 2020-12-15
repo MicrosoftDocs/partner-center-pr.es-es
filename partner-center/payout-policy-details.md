@@ -1,22 +1,27 @@
 ---
-title: 'Programaciones de pago y detalles de la Directiva: Azure Marketplace'
-description: Obtenga información sobre los detalles relacionados con las directivas de pago de Marketplace comercial, como programaciones y recuperaciones.
+title: Programaciones de pago y procesos
+description: Obtenga información sobre los pagos y transacciones, como los planes de pago y los procesos de rerecuperación para el Marketplace comercial y otras transacciones.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513304"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492677"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Programaciones de pago y detalles de la Directiva
+# <a name="payout-schedules-and-processes"></a>Programaciones de pago y procesos
 
-En este artículo se describe el proceso de pago de Microsoft, la programación de pagos, dónde encontrar el estado de un pago y el proceso de no pago del cliente.
+**Roles adecuados:**
+
+- Administrador de cuentas
+- Administrador global
+
+En este artículo se describe la programación de pago de Microsoft, dónde encontrar el estado de un pago y el proceso de no pago del cliente.
 
 ## <a name="payment-schedules"></a>Programaciones de pago
 
@@ -90,7 +95,7 @@ A continuación, se muestra una programación de ejemplo:
 Normalmente enviamos todos los pagos con vencimiento en un mes determinado a día 15 de ese mes, aunque el pago tardará más tiempo en llegar a su cuenta. El número de días depende del método de pago que usamos para su cuenta, como se describe a continuación.
 
 > [!NOTE]
-> Los días que se muestran a continuación son aproximados; cualquier pago puede tardar una cantidad de tiempo mayor o menor para llegar a su cuenta.
+> Los días que se muestran a continuación son aproximados; cualquier pago puede tardar más o menos tiempo en llegar a su cuenta.
 
 | Método de pago     | Número de días para que lleguen a la cuenta de pago     |
 |--------------------|--------------------------------------------|

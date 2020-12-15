@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626038"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492473"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
@@ -62,7 +62,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
    - Se pueden registrar varios dominios en una cuenta de Azure AD. Póngase en contacto con el administrador global para determinar qué dominios están asociados.
    - Si solo puede iniciar sesión con el @onmicrosoft.com dominio, póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de Azure ad.
-   - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal** , seleccione **cuenta profesional o educativa**.
+   - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal**, seleccione **cuenta profesional o educativa**.
 
 2. Seleccione el icono de engranaje para abrir el menú de **configuración** y, a continuación, seleccione **configuración de socio comercial**.
 
@@ -72,7 +72,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/)y seleccione el icono de engranaje para abrir el menú de **configuración** . 
 
-2. Seleccione **configuración de socio comercial** , expanda la **sección pago y impuestos** y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
+2. Seleccione **configuración de socio comercial**, expanda la **sección pago y impuestos** y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
    
    Se mostrará una lista de los programas. Seleccione la flecha situada junto a un programa para ver los detalles del perfil. 
 
@@ -92,7 +92,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
     
 5. Seleccione la **moneda**.
 
-6. Cuando haya completado todos los campos de pago, seleccione **submit (enviar** ).
+6. Cuando haya completado todos los campos de pago, seleccione **submit (enviar**).
 
 ## <a name="create-your-bank-profile"></a>Crear el perfil de Banco
 
@@ -115,7 +115,7 @@ Los perfiles de banco se crean en el nivel de organización. Esto permite asigna
 
 6. Una vez completados los campos, seleccione **Finalizar** y, a continuación, seleccione **confirmar** para crear el perfil de banco.
 
-Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Este proceso puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción** , repita los pasos anteriores y proporcione la información necesaria. 
+Se le redirigirá a la página de **perfiles de pago y impuestos** . El estado del nuevo perfil reflejará la **validación de Microsoft pendiente** hasta que se haya completado la validación. Este proceso puede tardar hasta 48 horas. Una vez completada la validación, el estado del perfil reflejará **aprobado** o **acción requerida**. Si se **requiere una acción**, repita los pasos anteriores y proporcione la información necesaria. 
 
 ## <a name="create-your-tax-profile"></a>Crear el perfil de impuestos
 
@@ -152,4 +152,4 @@ En el caso de las empresas asociadas de la América, si necesita información so
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Preguntas frecuentes sobre el pago de incentivos y el perfil fiscal](incentives-payout-tax-profile-faqs.md)
+- [Preguntas comunes sobre los pagos e impuestos](payout-faq.md)

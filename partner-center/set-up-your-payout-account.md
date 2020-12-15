@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514765"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492694"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
+
+**Roles adecuados:**
+
+- Administrador de cuentas
+- Administrador global
 
 Para recibir dinero de las ventas de sus ofertas en Marketplace comercial, debe configurar la cuenta de pago y rellenar los formularios de impuestos necesarios en el [Centro de partners](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Una vez que haya configurado la cuenta, debe hacer dos cosas antes de poder vend
 
 ## <a name="tax-forms"></a>Formularios de impuestos
 
-### <a name="fill-out-your-tax-forms"></a>Rellenado de los formularios de impuestos
+El perfil fiscal y los formularios fiscales se administran en la página **pago y impuestos** del centro de Partners. Los permisos de su organización determinarán los perfiles y la información que vea.
 
-En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en los que participe. Para crear su *perfil fiscal* para Marketplace comercial, complete los pasos siguientes:
+### <a name="create-or-update-your-tax-profile"></a>Crear o actualizar el perfil fiscal
 
-- Especifique el país o la región de residencia y la nacionalidad.
-- Rellene los formularios fiscales adecuados.
-
-Puede completar y enviar los formularios fiscales electrónicamente desde el Centro de partners. En la mayoría de los casos, no es necesario imprimir y enviar por correo ningún formulario.
+En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en los que participe. Use los pasos siguientes para crear o actualizar el *perfil fiscal* en el centro de Partners. Puede completar y enviar los formularios fiscales electrónicamente en el panel del centro de Partners. en la mayoría de los casos, no es necesario imprimir y enviar por correo ningún formulario.
 
 > [!IMPORTANT]
 > Los distintos países y regiones tienen requisitos fiscales diferentes. El importe exacto que debe pagar en impuestos dependerá de los países y regiones en los que desea vender sus ofertas. Consulte el [Contrato para editores de Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para averiguar para qué países o regiones Microsoft remite las ventas y los impuestos sobre el consumo en su nombre. En otros países o regiones, según donde esté registrado, puede que tenga que remitir las ventas de ofertas y los impuestos sobre el consumo de estas directamente ante la autoridad fiscal local. Además, los ingresos por ventas de la aplicación que recibe pueden estar sujetos a impuestos como ingresos. Le recomendamos encarecidamente que se ponga en contacto con la autoridad pertinente del país o región que mejor le pueda ayudar a determinar la información fiscal adecuada para sus actividades de Marketplace comercial.
 
-1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la **cuenta**.
+1. En el [panel del centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, después, configuración de la **cuenta**.
 
 2. En el menú de navegación izquierdo, seleccione **Pago e impuestos** y, a continuación, seleccione **Asignaciones de perfiles fiscales y de pago**.
 

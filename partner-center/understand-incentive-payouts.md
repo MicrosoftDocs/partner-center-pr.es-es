@@ -1,22 +1,22 @@
 ---
 title: Ver los detalles del programa y el incentivo
 ms.topic: article
-ms.date: 10/16/2020
+ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Use estas páginas para ver, administrar y exportar los datos de pago y ganancias, así como el estado del programa y el historial de transacciones completo.
+description: Use estas páginas para ver y administrar el estado del programa incentivos
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360061"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492728"
 ---
-# <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, administrar y exportar los detalles del programa de incentivos
+# <a name="view-your-incentives-program-details"></a>Ver los detalles del programa incentivos
 
 **Se aplica a**
 
@@ -30,51 +30,26 @@ ms.locfileid: "94360061"
 - Administrador global
 - Administrador de partners de MPN
 
-Use estas páginas para ver los detalles de los pagos y ganancias anteriores, pendientes y futuros, el estado de los programas de incentivos en cada ubicación y el historial de transacciones completo. También puede descargar o exportar información detallada de cualquier transacción. Todas las páginas de incentivos muestran importes en dólares estadounidenses.
-
->[!NOTE]
->Solo verá los datos de los ID. de MPN y los programas a los que está asociado. Si desea acceder a datos adicionales, consulte a su administrador de incentivos. 
-
-## <a name="access-the-incentives-pages"></a>Acceder a las páginas de incentivos
-
-Puede acceder a la información de los incentivos de varias maneras desde el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners:
-
-- Seleccione **incentivos** en el menú de la izquierda. Aparecen varias opciones en **incentivos** , incluida la **información general**. Explore estas opciones para conocer el estado de los programas de incentivos, los pagos de incentivos, los ingresos y las demandas.
-- Seleccione el icono de **dinero** (pago) en la esquina superior derecha. Después, puede seleccionar otras opciones, como **historial de transacciones** , **pagos** , **exportar datos** o informe de **ventas de Office**.
-
-A continuación se describen las siguientes páginas:
-
-- Página de información general de mis incentivos
-- Página Pagos
-- Página Historial de transacciones
-- Página exportar datos y otras páginas de exportación asociadas
-- Informe de Resumen de transacciones
+En este artículo se explica cómo acceder a la página de **información general de mis incentivos** , en la que se muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. También proporciona los distintos Estados de inscripción. 
 
 >[!NOTE]
 >Para obtener más información acerca de las características de incentivos y incentivos del centro de Partners, consulte [inversiones e incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives) (inicio de sesión obligatorio).
 
-## <a name="my-incentives-overview-page"></a>Página de información general de mis incentivos
+## <a name="access-the-incentives-overview-page"></a>Acceder a la página de información general sobre incentivos
 
-La **información general de mis incentivos** muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. Esta información incluye los ingresos y pagos totales de incentivos desde que se inscribió en los programas de incentivos.
-
-También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que haya que realizar para inscribirse en un programa en una ubicación específica.
-
-Para acceder a la **información general de mis incentivos** :
-
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
-2. Seleccione **incentivos** e **información general** en el menú.
-3. Vea el resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
+1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard).
+1. Seleccione **incentivos** e **información general** en el menú.
+1. Vea el resumen de ingresos y pagos en la parte superior de la página y más detalles en la tabla siguiente. También puede ordenar, agrupar y expandir la tabla adjunta:
 
    - Para ordenar por columna, seleccione el nombre de la columna.
    - Para agrupar por programa, seleccione la pestaña **por programa** situada encima de la tabla.
    - Para agrupar por ubicación, seleccione la pestaña **por ubicación** situada encima de la tabla.
    - Para ver más detalles acerca de las inscripciones dentro de un grupo específico, seleccione el símbolo de cheurón al final de una fila determinada. Este cheurón expande la vista.
+1. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado**. En este caso, seleccione el símbolo del botón de contenido adicional para obtener información sobre los pasos que debe realizar.
 
-4. Si se requiere una acción adicional para inscribirse en un programa, esta información aparecerá en la columna **Estado**. En este caso, seleccione el símbolo del botón de contenido adicional para obtener información sobre los pasos que debe realizar.
+## <a name="enrollment-status"></a>Estado de inscripción
 
->[!NOTE]
->Vea la tabla siguiente para obtener más información acerca de los diferentes Estados de inscripción que se muestran en la columna **Estado** .
-
+En la tabla siguiente se explican los distintos Estados de inscripción que se muestran en la columna **Estado** .
 
 | **Estado**         | **Aparece cuando** |
 |:------------------------------------|:------------------|
@@ -82,296 +57,23 @@ Para acceder a la **información general de mis incentivos** :
 | Descontinuado  | El programa de estímulo específico ya no se ofrece en el sistema de incentivos. |
 | Inscrito  | Se ha validado toda la información fiscal y bancaria. No es necesario realizar ninguna otra acción de inscripción en el socio. |
 | Inscribiendo  | El usuario no es un administrador de incentivos y la inscripción está en la **acción necesaria** o **validando** los Estados de inscripción.|
-| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br><br> Si el estado es no **válido** , el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. <br><br> También puede ver un estado **inactivo** de las inscripciones de la organización virtual (Vorg) o de la cuenta global de socio (PGA) que ya no están activas en el programa de incentivos.  |
+| Inactivo/no válido | Es posible que el programa de incentivos no esté abierto a la inscripción en este momento o que el asociado no cumpla los requisitos actuales para la inscripción o la reinscripción. <br><br> Si el estado es no **válido**, el asociado no cumple los requisitos de elegibilidad actuales para el programa. al seleccionar el vínculo **vea los requisitos de idoneidad** bajo el estado de inscripción se mostrarán los requisitos de idoneidad y cuáles de estos requisitos se han cumplido. <br><br> También puede ver un estado **inactivo** de las inscripciones de la organización virtual (Vorg) o de la cuenta global de socio (PGA) que ya no están activas en el programa de incentivos.  |
 | Invitado  | Se ha enviado una nueva invitación de inscripción del programa de incentivos al socio, pero el socio todavía no ha iniciado el proceso de inscripción. La columna **acciones requeridas** adyacentes muestra los pasos siguientes y los vínculos relacionados.  |
 | Validando la inscripción  | El asociado ya ha completado o actualizado la información bancaria y fiscal para una inscripción nueva o existente y está esperando a que Microsoft valide esta información. Durante el proceso de validación, la validación de la **inscripción** puede aparecer hasta 48 horas.  |
 
-## <a name="payments-page"></a>Página Pagos
-Los totales de esta página representan todos los identificadores de MPN que se usan. Puede filtrar por identificador de participante, programa, identificador de pago y tipo de ganancia. Los importes se indican en dólares estadounidenses. El valor de pago también se muestra en la moneda del destinatario del pago.
+## <a name="see-your-payment-information"></a>Ver la información de pago
 
-|**Ámbito**   |**Descripción**    |
-|------------------|:-------------------------------------|
-|Total pagado este año        |El total combinado abonado a su año, en dólares estadounidenses, para todos los identificadores de MPN.                                      |
-|Siguiente pago estimado      |El siguiente pago que le llega (incluso si hay otros que próximamente), en dólares estadounidenses.                                     |
-|Último pago           |La cantidad (en dólares estadounidenses), el nombre del programa y el ID. de MPN del pago más reciente.                                      |
-|Pagos por origen       |Cantidad de pagos, en dólares estadounidenses, representados por el programa en los últimos 12 meses.                                      |
-|Pagos                       |Seleccione **pago** o **pendiente** y, a continuación, ordenar como desee. Para obtener detalles adicionales de un pago específico, seleccione **Ver**. Para descargar una copia del extracto de remesa de pago, seleccione **Descargar**. Los datos del historial de transacciones pueden tardar hasta 24 horas en aparecer, por lo que es posible que no vea las ganancias asociadas de inmediato.  |
+Seleccione el icono de pago en la esquina superior derecha de la pantalla para obtener acceso a los distintos resúmenes:
 
-Para exportar cualquiera de los datos de esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos.
+- Historial de transacciones
+- Pagos
+- Exportar datos
 
-## <a name="transaction-history-page"></a>Página Historial de transacciones
-En esta página se muestran todas sus ganancias individuales, incluidos la fecha, el tipo y la obtención de cada uno de ellos. Puede seleccionar un período de tiempo para verlo y también puede filtrar por identificador de inscripción, programa, identificador de pago, tipo de ganancia, palanca y estado. Los datos están disponibles para el año fiscal actual (el 1 de julio del 30 de junio) y los dos años fiscales anteriores.
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Muestra el icono de pago en la esquina superior derecha del portal del centro de Partners.":::
 
-Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se encuentra en el lado derecho de la página. Si lo hace, se mostrará la palanca, el importe de los ingresos, el producto y el cliente. Si, por alguna razón, alguno de estos datos no está disponible, pero necesita acceder a él, póngase en contacto con el soporte técnico. Si la ganancia es el resultado de un ajuste, y no una transacción, no se mostrarán los campos producto y cliente.
+Esta información incluye los ingresos y pagos totales de incentivos desde que se inscribió en los programas de incentivos. También en esta página se incluyen las ganancias y los pagos por ubicación o programa, así como las acciones que haya que realizar para inscribirse en un programa en una ubicación específica. 
 
-Para exportar cualquiera de los datos de la transacción en esta página, seleccione **exportar** y, a continuación, siga las instrucciones de la página exportar datos. Los archivos exportados desde la página Historial de transacciones muestran los datos en la moneda de la transacción, las ganancias en la moneda de la transacción y en dólares estadounidenses, y el valor de pago en la moneda del destinatario del pago.
-
-### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Envíe su factura de impuestos como prueba de ejecución (PoE)
-
->[!NOTE]
->Este contenido se relaciona **solo** con asociados en India, China, Italia, Corea, México y Taiwán. <br><br>Los asociados de India deben enviar una copia impresa de la factura de impuestos.
-
-#### <a name="submit-a-tax-invoice"></a>Enviar una factura de impuestos
-
-Si es un asociado de uno de los países mencionados anteriormente, Microsoft le enviará una notificación por correo electrónico que le solicitará que envíe una factura de impuestos para reclamar sus beneficios de incentivos. El correo electrónico que reciba proporcionará instrucciones para enviar la factura de impuestos y también mostrará la información adicional necesaria.
-
-Los asociados de India deben enviar su factura de impuestos en copia impresa. Los asociados de los demás países pueden enviar una copia de hardware o software.
-
-Debe enviar la factura de impuestos en un plazo de 180 días a partir de la demanda. Una vez que se haya recibido y validado la factura, se procesará el pago de los incentivos.
-
-Debe enviar la siguiente información junto con la factura de impuestos:
-
-- Número de factura (es un número que se genera) 
-
-- Número de referencia de incentivos de canal (CI) (proporcionado por Microsoft) 
-
-- El nombre del programa de incentivos
-
-- El nombre legal y la dirección de facturación en el perfil de socio comercial 
-
-- Importe de ganancias
-
-- Importe de impuestos
-
-Si no conoce el número de referencia de los incentivos de canal (CI), puede encontrarlo en los tres lugares siguientes: 
-
-- La notificación por correo electrónico que Microsoft envía a su administrador de incentivos. 
-
-- El [panel del centro de Partners](https://partner.microsoft.com/dashboard/) (inicio de sesión requerido), tanto en la pestaña **pago** como en la pestaña **pendiente** .  
-
-- El informe de pago, que se encuentra en la página de exportación de la [descarga del pago](#payment-download-export). 
-
-#### <a name="if-your-submission-is-rejected"></a>Si el envío se ha rechazado
-
-La causa más probable de que se rechace un envío es que la información de la factura de impuestos no coincida con la información de nuestros registros. Entre los ejemplos de datos que faltan o son incorrectos se incluyen: 
-
-- El número de impuestos de bienes y servicios (GST) de su empresa
-
-- Los números de sistema armonizado de nomenclatura (nombres jerárquico) y código de cuentas de servicio (SAC)
-
-- Número de factura (no debe superar los 16 dígitos)
-
-- Fecha de la factura
-
-- Valor de impuestos (inclusivo y exclusivo)
-
-- Si su empresa está en el mismo estado que Microsoft, se deben alinear los porcentajes fiscales de los impuestos centrales de bienes y servicios (CGST) y el impuesto de bienes y servicios de estado (SGST).
-
-- Si su empresa se encuentra en un estado diferente al de Microsoft, debe proporcionar el porcentaje de los bienes y servicios integrados (IGST).
-
-Los envíos también se pueden rechazar si se proporcionan más de 180 días después de la demanda, si la factura no es válida o si los datos se han escrito incorrectamente.
-
-### <a name="estimated-payment-month"></a>Mes de pago estimado
-
-La página historial de transacciones incluye ahora una tabla que muestra los importes de pago estimados durante los próximos meses. También puede ver y descargar esta información en las exportaciones historial de transacciones y informe de resumen. Esta información facilita la conciliación y las proyecciones de pago.
-
-El mes de pago estimado se calcula en función de las reglas de configuración del programa y de las escalas de tiempo, y se procesa en el siguiente ciclo de pago o próximo.
-
-El mes de pago estimado está disponible actualmente para todos los tipos de obtención, excepto la cooperación, que se mostrará como **no aplicable**. En el caso de las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá como **no disponible**.
-
-#### <a name="estimated-payment-month-example"></a>Ejemplo de mes de pago estimado
-
-| Month | Importe |
-| ------ | :-----------: |
-|  Sep-2020 |  $7.273,99   |
-|  Oct-2020 | $8.692,30  |
-|  Nov-2020 | $107,89  |
-
-El importe estimado puede variar con respecto a la cantidad real por diversos motivos:
-
-- Obteniendo restateización: si se vuelven a calcular las ganancias, el importe real será diferente.
-- Ajustes: la cantidad real varía en función de los ajustes que se produjeron o se enviaron.
-- Cambio de reglas: un cambio en las reglas puede reflejar el recálculo en la cantidad real pagada
-- Pagadera: si se produce un error de pago, la cantidad real podría ser diferente
-
-Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las reglas de elegibilidad de pago y umbral del programa. Estas reglas incluyen, entre otras, la siguiente lista:
-
-- Su perfil fiscal debe estar actualizado
-- Los beneficios deben cumplir o superar el umbral de ganancia mínimo definido en la guía de programas.
-- Pago en espera: Si selecciona la opción "mantener el pago" en la página asignación de perfiles.
-- El instrumento de pago no está disponible: no se ha completado el perfil de pago o de impuestos.
-
-## <a name="payment-status"></a>Estado del pago.
-
-|**Estado de la ganancia** |**Motivo** |**¿Se requiere una acción del asociado?**       |
-|------------------|:-------------------------------------|:-------------------------------------|
-|Sin procesar        | La ganancia es válida para el pago. Permanece en este estado durante un período de enfriamiento, tal como se define en la guía del programa de incentivos.       |No        |
-|Próximamente      |El pedido de pago generó revisiones internas pendientes antes de que se procese el pago.       |No       |
-|Factura de impuestos pendiente      |La factura de impuestos está incompleta o no es válida.          |Debe actualizar su factura de impuestos antes de recibir el pago.         |
-|Rechazado durante la revisión        |Se rechazó el pago durante la revisión.          |Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft.         |
-|Con errores        |No se pudo realizar el pago debido a un error del sistema de Microsoft.         |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
-|En curso     |El pago está en curso.         |No         |
-|Pago incorrecto        |La regresión del pago está en curso.          |No        |
-|Enviado        |El pago se ha enviado al banco.          |No       |
-|Reprocesamiento       |El pago encontró un error del sistema de Microsoft y se está reprocesando.           |No         |
-|Reversed        |El banco invirtió el pago y se enviará de nuevo en el siguiente ciclo de pago.          |No        |
-|Factura de impuestos rechazada       |Se rechazó su factura de impuestos durante la revisión. Todos los pagos pendientes se pondrán en espera hasta que se complete la revisión de la factura de impuestos.          |Póngase en contacto con el soporte técnico de Microsoft para obtener detalles         |
-|Factura de impuestos en revisión        |Se está revisando su factura de impuestos. El pago se publicará una vez que se haya aprobado la factura de impuestos.           |No        |
-|Rechazada        |El Banco rechazó el pago.           |Póngase en contacto con su banco para obtener información.  |
-
-## <a name="export-data-page"></a>Página Exportar datos
-Siga las instrucciones de esta página para exportar los datos que desee.
-
-Estas son algunas consideraciones al intentar exportar datos:
-
-- Dado el gran volumen de datos, el acuerdo de nivel de servicio para la solicitud enviada que se va a procesar es de 24 horas.
-
-- Solo verá los datos de los ID. de MPN y los programas a los que está asociado. Si desea acceder a datos adicionales, consulte a su administrador de incentivos.
-
-- La página Exportar datos no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes.
-
-- El filtro puede dar lugar a un error **No hay datos disponibles**. Este error probablemente significa que ha dejado el período de tiempo predeterminado seleccionado en tres meses y, a continuación, ha seleccionado un identificador de pago de una ganancia que está fuera de ese período. Amplíe el período de tiempo y vuelva a intentarlo.
-
-## <a name="payment-download-export"></a>Exportación de descarga de pago
-Esta opción proporciona una descarga de los pagos que recibió en el banco por un programa determinado, los impuestos asociados y el importe de la ganancia agregada.
-
-|**Nombre de la columna**   |**Descripción**   |
-|------------------|:-------------------------------------|
-|participantID   |Identidad principal del asociado que gana con el programa.      |
-|participantIDType   |Normalmente MPN para programas de incentivos e identificador de vendedor para programas de tienda      |
-|participantName   |Nombre del asociado que gana.      |
-|programName   |Nombre del programa de incentivos/tienda.      |
-|earned   |Importe obtenido en la moneda del destinatario del pago para ese programa/participantID.      |
-|earnedUSD   |Importe obtenido para el programa/identificador de participante, en dólares estadounidenses.      |
-|withheldTax   |Importe de los impuestos retenidos en la moneda del destinatario del pago para el programa/participantID.      |
-|salesTax   |Importe total del impuesto de ventas en el pago por moneda para el programa/participantID      |
-|serviceFeeTax  |Cantidad total de serviceFeeTax de pago a divisa para el programa/participantID |
-|totalPayment   |Pago total en la moneda local que excluye la retención de impuestos e incluye el impuesto sobre las ventas (si es necesario) para el programa/participantID.      |
-|currencyCode   |Código de la moneda del destinatario del pago.      |
-|paymentMethod   |El método que se usa para pagar al socio comercial (transferencia bancaria electrónica, nota de crédito)      |
-|paymentID   |Identificador único del pago. Este número normalmente es visible en la instrucción Bank.      |
-|paymentStatus   |Estado del pago.      |
-|paymentStatusDescription   |Descripción detallada del estado del pago.      |
-|paymentDate   |Fecha en que Microsoft envió el pago.      |
-
-## <a name="transaction-history-download-export"></a>Exportación de la descarga del historial de transacciones
-Esta opción proporciona la descarga de cada artículo de línea de ganancia que se ve en la página del historial de transacciones, el tipo de ganancia, la fecha, el importe de transacción asociado, el cliente, el producto y otros detalles transaccionales aplicables al programa de incentivos.
-
->[!NOTE]
->La exportación del historial de transacciones descarga tiene dos campos nuevos a partir del 2020 de agosto:
->
->- **lastPaymentCurrency**  La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.
->- **earningAmountInLastPaymentCurrency**  Importe de la ganancia en la última moneda del pago.
-
-En la tabla siguiente se enumeran los códigos de motivo de los ajustes y sus descripciones.
-
-|**Código de motivo**   |**Descripción**   |
-|------------------|:-------------------------------------|
-| Compatibilidad de AR | Ajuste que reduce las ganancias cuando el asociado no paga las facturas de Microsoft a tiempo. |
-| Sustitución de la Co-op | Ajuste que transfiere las ganancias de la Co-op a otro período, o bien convierte las ganancias de la Co-op al tipo de descuento. |
-| Ajuste de operaciones | Ajuste que corrige los errores de cálculo del sistema de Microsoft. |
-| Ajuste de operaciones de cálculo incorrecto de Microsoft | Ajuste que corrige los cálculos erróneos. |
-| Ajuste de operaciones de inscripción incorrecta de Microsoft | Ajuste para los cálculos erróneos relacionados con la inscripción. |
-| Asignación de asociados (suscripción) MCI/CSP | Ajuste que corrige la desalineación de la suscripción. |
-| Excepción de Directiva | Ajuste que invalida una regla de programa.  |
-| Ingresos del período anterior | Ajuste para las ganancias fuera del período de obtención actual. |
-
-En la tabla siguiente se enumeran los campos que se muestran en la página de exportación de descarga de historial de transacciones y sus descripciones.
-
-|**Nombre de la columna**   |**Descripción**   |
-|------------------|:-------------------------------------|
-|customerId   |Identificador de cliente   |
-|customerName   |Nombre del cliente de transacción   |
-|earningAmount   |Ganar importe en la moneda de la transacción original   |
-|earningAmountInLastPaymentCurrency   |La cantidad ganada en la última moneda de pago   |
-|earningAmountUSD   |Importe en USD   |
-|earningDate   |Fecha de la ganancia.   |
-|earningExchangeRate   |Tipo de cambio usado para mostrar el importe en USD correspondiente.   |
-|earningId   |Identificador único de cada ganancia.   |
-|earningRate   |Tasa de incentivos aplicada sobre el importe de la transacción para generar una ganancia.   |
-|earningType   |Indica si se trata de una cuota, un descuento, una Co-op, una venta, etc.   |
-|Mes de pago estimado   |El mes de pago previsto con la cantidad estimada, siempre que se cumplan las reglas umbral mínimo y elegibilidad del pago.   |
-|exchangeRateDate   |Fecha del tipo de cambio usada para calcular earningAmountUSD.   |
-|lastPaymentCurrency   |La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.   |
-|lever   |Indica la regla de negocios de la ganancia.   |
-|participantID   |Identidad principal del asociado que gana con el programa.   |
-|participantIDType   |Normalmente MPN para programas de incentivos e identificador de vendedor para programas de tienda   |
-|participantName   |Nombre del asociado que gana.   |
-|partnerCountryCode   |Ubicación o país del asociado que gana.   |
-|paymentId   |Identificador único del pago. Este número normalmente es visible en la instrucción Bank.   |
-|paymentStatus   |Estado del pago.   |
-|paymentStatusDescription   |Descripción detallada del estado del pago.   |
-|programName   |Nombre del programa de incentivos/tienda.   |
-|quantity |Este campo varía según el programa. En el caso de los programas transaccionales, indica la cantidad facturada. |
-|transactionAmount   |Importe de la transacción en la moneda original de la transacción en función de la ganancia generada.   |
-|transactionAmountUSD   |Importe de la transacción en USD.   |
-|transactionCountryCode   |Compra de transacciones/ventas a código de país   |
-|transactionCurrency   |Moneda en la que se produjo la transacción de cliente original   |
-|transactionDate   |Fecha de la transacción. Resulta útil para programas en los que muchas transacciones contribuyen a una ganancia.   |
-|transactionExchangeRate  |Fecha de la tasa de cambio usada para mostrar la cantidad de USD correspondiente |
-
-Además de la tabla anterior, estos campos de historial de transacciones estarán disponibles según corresponda para el programa.
-
-|**Nombre de la columna**   |**Descripción**   |
-|------------------|:-------------------------------------|
-|partNumber   |Número de pieza vinculado a la transacción. Terminología de Microsoft.   |
-|ProductName   |Nombre de la familia de productos con la transacción   |
-|invoiceNumber   |Número de factura   |
-|subscriptionId   |Identificador de suscripción asociado al cliente.   |
-|subscriptionStartDate   |Fecha de inicio de la suscripción.   |
-|subscriptionEndDate   |Fecha de finalización de la suscripción.   |
-|offerId   |TBD   |
-|resellerId   |Identificador del revendedor.   |
-|resellerName   |Nombre del revendedor.   |
-|distributorId   |Identificador de distribuidor.   |
-|distributorName   |Nombre del distribuidor.   |
-|agreementNumber   |Número de acuerdo.   |
-|agreementStartDate   |Fecha de inicio del acuerdo.   |
-|agreementEndDate   |Fecha de finalización del acuerdo.   |
-|carga de trabajo   |Carga de trabajo   |
-
-## <a name="transaction-summary-report"></a>Informe de Resumen de transacciones
-
->[!NOTE]
->El informe Resumen de transacciones no mostrará todos los programas o las ganancias. Se trata de un resumen que solo se centra en las palancas agregadas. 
-
-El informe de Resumen de transacciones proporciona los detalles de la transacción de nivel de Resumen, incluidos los nombres de cliente y los ID. de suscripción, para las palancas de obtención agregada. El informe implica cada identificador de obtención asociado a varias transacciones. El importe total de la ganancia y los detalles de ganancias para ese ID. de obtención se repiten para cada cliente o suscripción. Esto se debe a que los incentivos para las palancas agregadas se obtienen colectivamente, no por suscripción.
-
-
-### <a name="download-the-transaction-summary-report"></a>Descargar el informe de Resumen de transacciones
-
-1. En la página **información general sobre incentivos** , seleccione el icono **Money** (pago) de la esquina superior derecha.
-2. Seleccione **Exportar datos**.
-3. Seleccione la pestaña **Resumen de transacciones** .
-4. Seleccione los filtros adecuados para ver los programas y las palancas que son válidos para los beneficios agregados. Si no se muestra ningún dato, los programas no son válidos para las palancas agregadas.
-5. Seleccione **iniciar descarga**   para exportar el informe.  
-
->[!NOTE]
->El informe de Resumen de transacciones no incluirá información de clientes y suscripciones para las suscripciones más recientes que 60 días, o si los ingresos de consumo son inferiores a un cent.
-
-|Nombre de la columna |Descripción |
-|------ |:-----------|
-|  earningId | Identificador único de cada ganancia.  |
-|  participantId | Identidad principal del asociado que gana con el programa.  |
-|  participantIdType | Normalmente MPN para programas de incentivos e identificador de vendedor para programas de tienda  |
-|  participantName | Nombre del asociado que gana.  |
-|  partnerCountryCode | Ubicación o país del asociado que gana.  |
-|  programName | Nombre del programa de incentivos/tienda.  |
-|  lever | Indica la regla de negocios de la ganancia.  |
-|  earningRate | Tasa de incentivos aplicada sobre el importe de la transacción para generar una ganancia.  |
-|  earningType | Indica si se trata de una cuota, un descuento, una Co-op, una venta, etc.  |
-|  earningAmount | Ganar importe en la moneda de la transacción original  |
-|  earningAmountUSD | Importe en USD  |
-|  earningDate | Fecha de la ganancia.  |
-|  earningExchangeRate | Tipo de cambio usado para mostrar el importe en USD correspondiente.  |
-|Mes de pago estimado   |El mes de pago previsto con la cantidad estimada, siempre que se cumplan las reglas umbral mínimo y elegibilidad del pago.   |
-|  exchangeRateDate | Fecha del tipo de cambio usada para calcular earningAmountUSD.  |
-|  transactionMonth |  Mes de transacción   |
-|  transactionCurrency | Moneda en la que se produjo la transacción de cliente original  |
-|  totalTransactionAmountUSD |  Total de transacciones   |
-|  customerId | Identificador de cliente  |
-|  customerName | Nombre del cliente de transacción  |
-|  subscriptionId | Identificador de suscripción asociado al cliente.  |
-|  subscriptionStartDate | Fecha de inicio de la suscripción.  |
-|  subscriptionEndDate | Fecha de finalización de la suscripción.  |
-|  agreementNumber | Número de acuerdo.  |
-|  invoiceNumber |  El identificador de la factura   |
-|  partNumber | Número de pieza vinculado a la transacción. Terminología de Microsoft.  |
-|  resellerId | Identificador del revendedor.  |
-|  resellerName | Nombre del revendedor.  |
-|  distributorId | Identificador de distribuidor.  |
-|  distributorName | Nombre del distribuidor.   |
-|  paymentId | Identificador único del pago. Este número normalmente es visible en la instrucción Bank.|  
+También puede usar la [API de pago de socios comerciales](https://apidocs.microsoft.com/services/partnerpayouts) para conectarse y obtener datos de pagos y transacciones de pago directamente. Consulte las [instrucciones de pago](payout-statement.md) para obtener más información.
 
 ## <a name="next-steps"></a>Pasos siguientes
-- [Acceder a la página de pagos de incentivos](incentives-unified-user-guide.md)
+- [Balances de pagos](payout-statement.md)

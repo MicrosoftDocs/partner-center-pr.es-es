@@ -1,23 +1,28 @@
 ---
-title: Recepción de pagos en el Marketplace comercial
-description: 'Obtenga información sobre cómo recibir los pagos de ganancias en el Marketplace comercial: Azure Marketplace. Incluye la política de pago, el estado de retención de pago y las declaraciones de pago.'
+title: Recibir el pago en el centro de Partners
+description: Obtenga información acerca de cómo recibir pagos por ganancias como asociado de Microsoft, como por ejemplo, ofertas de Marketplace comercial, programas de incentivos y el programa proveedor de soluciones en la nube. Incluye la política de pago, el estado de retención de pago y las declaraciones de pago.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514731"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492456"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Recepción de pagos en el Marketplace comercial
+# <a name="getting-paid-in-partner-center"></a>Recibir el pago en el centro de Partners
+
+**Roles adecuados:**
+
+- Administrador de cuentas
+- Administrador global
 
 En este artículo se ofrece información importante sobre cómo recibir el pago de las ofertas, los complementos y los ingresos publicitarios. Resume la Directiva de pago, los pasos necesarios antes de recibir el pago y la información general sobre la declaración de pago.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Contratos y directivas de pago de Marketplace comercial
+## <a name="payout-policies-and-agreements"></a>Contratos y directivas de pago
 
 Para obtener el pago, es necesario cumplir los acuerdos y la Directiva de pago.
 
@@ -49,4 +54,4 @@ La declaración de pago muestra los beneficios de las ventas de las ofertas y lo
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [API de pagos de asociados](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Preguntas más frecuentes sobre los pagos de Marketplace](payout-faq.md)
+- [Preguntas frecuentes sobre pagos](payout-faq.md)
