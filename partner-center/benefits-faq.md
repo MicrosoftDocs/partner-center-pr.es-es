@@ -1,7 +1,7 @@
 ---
 title: Preguntas frecuentes sobre ventajas
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Respuestas a preguntas sobre la expiración de las ventajas, la renovación y la activación de licencias para Azure, la nube, Visual Studio y las ventajas técnicas y de soporte técnico
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570695"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514695"
 ---
 # <a name="benefits-faq"></a>Preguntas frecuentes sobre ventajas
 
@@ -98,7 +98,7 @@ Puede asignar suscripciones a cualquier usuario de la lista de administración d
 Una vez asignada la suscripción, el usuario debe iniciar sesión en Visual Studio para administrarla.
 
 >[!Note]
-> Las suscripciones de Visual Studio se pueden reasignar de un suscriptor a otro 90 días después de la asignación original.
+> Las suscripciones de Visual Studio se pueden reasignar de un suscriptor a otro si han transcurrido 90 días desde el momento de la asignación original.
 
 ## <a name="technical-benefits-and-support"></a>Ventajas técnicas y soporte técnico
 
