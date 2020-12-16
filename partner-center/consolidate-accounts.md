@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527818"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354532"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidación de las cuentas de empresa al migrar de PMC al Centro de partners
 
@@ -62,3 +62,9 @@ En PMC, cada ubicación podía tener sus propias competencias, sus propios MAP y
 En el Centro de partners, todas las cuentas de ubicación se consolidan en una cuenta global. Esto significa que también se consolidan todos los programas, ofertas y competencias de Comercialización. Los kits de herramientas de ventajas adicionales (ABTK) no estarán disponibles. Sin embargo, puede organizar la distribución de recursos, ofertas, programas y competencias de marketing según sea necesario para su empresa. Al realizar la consolidación, se proporciona una extensión. Esta extensión permite que su empresa disfrute de los recursos, las ofertas y los programas de marketing que usa en PMC durante un año adicional.
 
 Para obtener más información sobre las diferencias entre PMC y el Centro de partners, lee [Migrar de PMC al Centro de partners](guide-to-migration.md).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
+
+- [Administrar ubicaciones](manage-locations.md)

@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333926"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354617"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Método actualizado para confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
-**Se aplica a**
-
--  Centro de partners
 
 **Roles adecuados**
 
@@ -48,7 +45,7 @@ Como partner, debes obtener la aceptación por parte de tu cliente del Contrato 
 
 - Fecha de aceptación
 
-Los partners de factura directa y los proveedores indirectos deben confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft cuando realicen transacciones a través del Centro de partners o la API del Centro de partners. La confirmación es *obligatoria* .
+Los partners de factura directa y los proveedores indirectos deben confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft cuando realicen transacciones a través del Centro de partners o la API del Centro de partners. La confirmación es *obligatoria*.
 
 Si no se facilita la confirmación para un cliente determinado:
 
@@ -70,21 +67,21 @@ Se aplica a los entornos de producción y de espacio aislado.
 
 Usa el siguiente procedimiento para confirmar la aceptación por parte del cliente mientras creas un nuevo inquilino en el panel del Centro de partners. Debes ser agente de administración o agente de ventas para poder hacer esto.
 
-1. Selecciona **Clientes** , después **Nuevo cliente** y, a continuación, selecciona **Información de la cuenta** .
+1. Selecciona **Clientes**, después **Nuevo cliente** y, a continuación, selecciona **Información de la cuenta**.
 
-2. Escribe la información sobre la **Compañía** y el **Contacto principal** .
+2. Escribe la información sobre la **Compañía** y el **Contacto principal**.
 
    :::image type="content" source="images/mca/mca1.png" alt-text="Información sobre la compañía":::
 
-3. En **Contrato de cliente de Microsoft** , selecciona **El cliente ha aceptado el Contrato de cliente de Microsoft más reciente** .
+3. En **Contrato de cliente de Microsoft**, selecciona **El cliente ha aceptado el Contrato de cliente de Microsoft más reciente**.
 
-4. En **Fecha de aceptación del contrato** , introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
+4. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
 5. Escribe los detalles del usuario que proporciona la aceptación.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Información sobre la compañía":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Adición de la fecha de aceptación":::
 
-   De manera predeterminada, se muestra la información del usuario de contacto principal. Si esto no es correcto, selecciona **Actualizar** y, a continuación, introduce el **Nombre** , los **Apellidos** , la **Dirección de correo electrónico** y el * *Número de teléfono* (opcional) de la persona que aceptó el contrato.
+   De manera predeterminada, se muestra la información del usuario de contacto principal. Si esto no es correcto, selecciona **Actualizar** y, a continuación, introduce el **Nombre**, los **Apellidos**, la **Dirección de correo electrónico** y el **Número de teléfono* (opcional) de la persona que aceptó el contrato.
 
 6. Selecciona **Siguiente** para continuar con los pasos restantes para crear el inquilino del cliente.
 
@@ -94,27 +91,27 @@ Debes ser agente de administración o agente de ventas para poder hacer esto.
 
 1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
 
-2. Selecciona **Información de cuenta** .
+2. Selecciona **Información de cuenta**.
 
-3. En **Contrato de cliente de Microsoft** , selecciona **Actualizar** .
+3. En **Contrato de cliente de Microsoft**, selecciona **Actualizar**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Información sobre la compañía":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Actualizar":::
 
-4. Escribe el **Nombre** , los **Apellidos** , la **Dirección de correo electrónico** y el **Número de teléfono** (opcional) del usuario que aceptó el contrato.
+4. Escribe el **Nombre**, los **Apellidos**, la **Dirección de correo electrónico** y el **Número de teléfono** (opcional) del usuario que aceptó el contrato.
 
-5. En **Fecha de aceptación del contrato** , introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
+5. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
-6. Selecciona **Guardar y continuar** .
+6. Selecciona **Guardar y continuar**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirmación de la aceptación del cliente durante la creación de un nuevo pedido para un cliente existente
 
 Si intenta crear un nuevo pedido para un cliente existente al que no has confirmado con anterioridad, recibirá un aviso para completar la confirmación. Usa el siguiente procedimiento para hacerlo.
 
-1. Escribe el **Nombre** , los **Apellidos** , la **Dirección de correo electrónico** y el **Número de teléfono** (opcional) del usuario que aceptó el contrato.
+1. Escribe el **Nombre**, los **Apellidos**, la **Dirección de correo electrónico** y el **Número de teléfono** (opcional) del usuario que aceptó el contrato.
 
-2. En **Fecha de aceptación del contrato** , introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
+2. En **Fecha de aceptación del contrato**, introduce la fecha adecuada. No puedes elegir para esto una fecha futura.
 
-3. Selecciona **Guardar y continuar** .
+3. Selecciona **Guardar y continuar**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperación de la confirmación de aceptación por parte del cliente para un cliente existente
 
@@ -122,9 +119,9 @@ Puedes recuperar la confirmación de la aceptación por parte del cliente para u
 
 1. Selecciona **Clientes** y, a continuación, busca y selecciona el cliente que quieras ver.
 
-2. Selecciona **Información de cuenta** .
+2. Selecciona **Información de cuenta**.
 
-3. En **Contrato de cliente de Microsoft** , verás si se ha proporcionado o no la confirmación de este cliente.
+3. En **Contrato de cliente de Microsoft**, verás si se ha proporcionado o no la confirmación de este cliente.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
