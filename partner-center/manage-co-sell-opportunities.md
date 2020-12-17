@@ -1,7 +1,7 @@
 ---
 title: Administración de las oportunidades de venta conjunta
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir acuerdos, invitar a Microsoft a colaborar o ver ofertas enviadas.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417275"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622208"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Administrar oportunidades de venta conjunta en el centro de Partners
 
@@ -44,13 +44,19 @@ Aproveche las ventajas de las oportunidades de venta conjunta.  Las oportunidade
 
 ## <a name="navigating-the-co-sell-section"></a>Navegar por la sección de venta conjunta
 
-Hay tres pestañas de nivel superior en la sección de venta conjunta.
+Para acceder a la sección de venta conjunta, siga estos pasos:
 
-**Entrante** : en esta pestaña se encuentran disponibles todas las oportunidades que se envían al socio comercial de los vendedores de Microsoft para la venta en colaboración.
+1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
 
-**Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear tres categorías diferentes de oportunidades: venta conjunta, privada y socio comercial.
+2. En el menú de navegación izquierdo, seleccione **referencias** y, a continuación, **oportunidades de venta conjunta**.
 
-**Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas oportunidades de venta conjunta entrantes o salientes. Marque cualquier oportunidad como favorita; para ello, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
+   Verá tres pestañas de nivel superior en esta sección:
+
+   - **Entrante** : en esta pestaña se encuentran disponibles todas las oportunidades que se envían al socio comercial de los vendedores de Microsoft para la venta en colaboración.
+
+   - **Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear tres categorías diferentes de oportunidades: venta conjunta, privada y socio comercial.
+
+   - **Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas oportunidades de venta conjunta entrantes o salientes. Marque cualquier oportunidad como favorita; para ello, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta
 
@@ -199,7 +205,7 @@ En la tabla siguiente se muestran las combinaciones de personas a las que se pue
 
 |**Tipo de trato original**|**Personas a las que se puede invitar**|**Notas**|
 |-----|:-----|:-----|
-|Privada|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
+|Privados|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
 |Venta conjunta|Otros asociados|Se puede invitar a otros asociados solo si su empresa inició el trato. No se puede invitar a los asociados a los contratos en la pestaña entrante.|
 |Asociado al asociado sin Microsoft|Microsoft|El trato se actualizará a un trato de venta conjunta.|
 |Asociado al asociado sin Microsoft|Otros asociados||
