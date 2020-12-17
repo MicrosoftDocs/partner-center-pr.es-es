@@ -1,27 +1,23 @@
 ---
 title: Trabajo con proveedores indirectos en el programa CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo los revendedores indirectos pueden trabajar con proveedores indirectos (o distribuidores) de Microsoft para obtener ayuda con la facturación y el servicio de soporte técnico al cliente.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795855"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514744"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -70,37 +66,26 @@ A partir de octubre de 2020, todos los partners de Microsoft que sean nuevos en 
 
 1. Para iniciar el proceso de inscripción, regístrese en la [**página de bienvenida**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
-2. Revisa la **página de bienvenida** para asegurarte de que tienes la información que necesitas para inscribirte y, a continuación, selecciona **Siguiente** .
+2. Revisa la **página de bienvenida** para asegurarte de que tienes la información que necesitas para inscribirte y, a continuación, selecciona **Siguiente**.
 
-3. Inicia sesión con la cuenta profesional. Selecciona **Iniciar sesión** y luego escribe el nombre de usuario y la contraseña que usas para iniciar sesión como administrador global para Office 365, Microsoft Azure o Microsoft Dynamics CRM.
+3. Inicie sesión con la cuenta profesional, es decir, el nombre de usuario y la contraseña que usa para iniciar sesión como administrador global para Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Después de crear la cuenta profesional, inicia sesión con las credenciales de administrador global de la nueva cuenta.
 
-   Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Después de crear la cuenta profesional, inicia sesión con las credenciales de administrador global de la nueva cuenta.
-
-4. Revisa la información sobre cómo asociar el identificador de Microsoft Partner Network con la nueva cuenta del Centro de partners. Necesitamos vincular el id. de MPN de su compañía con la nueva cuenta del Centro de partners para que pueda administrar las ventajas e incentivos de la suscripción en el Centro de partners. Selecciona **Iniciar sesión** .
-
-5. Escribe el nombre de usuario que uses para iniciar sesión en el sitio del Partner Membership Center (PMC). El sitio web de Partner Membership Center es donde actualmente administras tu cuenta de partner de Microsoft. Iniciar sesión en el Partner Membership Center nos permite recuperar el identificador de MPN y asociarlo a la nueva cuenta del Centro de partners. Selecciona **Siguiente** .
-
-6. Escribe la contraseña de la cuenta del Partner Membership Center y, a continuación, selecciona **Iniciar sesión** .
-
-7. Seleccione el perfil de la compañía con el id. de MPN vinculado a sus incentivos, ventajas de pertenencia y competencias. A continuación, podemos pasar esta información a tu cuenta del Centro de partners. Selecciona **Continuar** .
-
-   Si el id. de MPN que quiere usar no aparece en esta página, seleccione **Cancelar** y vuelva a iniciar sesión con el nombre de usuario y contraseña del perfil de la compañía que quiera usar.
 
    > [!IMPORTANT]  
-   > Seleccione el id. de MPN asociado con el perfil de la compañía activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
+   > Seleccione el id. de MPN asociado con el perfil de la empresa activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
 
-8. Proporcione o actualice el perfil comercial legal de la compañía, la información de contacto principal y la información de soporte técnico al cliente. Selecciona **Inscribirse ahora** .
+4. Proporcione o actualice el perfil comercial legal de la compañía, la información de contacto principal y la información de soporte técnico al cliente. (Para encontrar la información empresarial legal, seleccione **Perfil de la organización** y, a continuación, seleccione **Información legal**). Selecciona **Inscribirse ahora**.
 
-   El contacto principal debe ser la persona de la compañía con la que podemos ponernos en contacto en relación con la aplicación. El contacto principal puede ser usted u otra persona de la compañía. Nota: No aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en web, como Gmail o Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook.
+   El contacto principal es la persona de la empresa con la que podemos ponernos en contacto en relación con la aplicación. Puede ser usted u otra persona de la empresa. Nota: No aceptamos direcciones de correo electrónico de servicios de correo electrónico basados en web, como Gmail o Yahoo! Mail, iCloud Mail, AOL Mail o Correo de Outlook.
 
    > [!IMPORTANT]  
    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para obtener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a tu empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada. Enviaremos un correo electrónico con las actualizaciones del estado de inscripción al contacto principal.
 
-9. Cuando la cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
+5. Cuando la cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
 
-   1. En el **Centro de partners** , selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios** .
+   1. En el panel del Centro de partners, seleccione el icono **Configuración** y, a continuación, en **Configuración de la cuenta**, seleccione **Administración de usuarios**.
 
-   2. Selecciona tu nombre en la lista de usuarios. A continuación, selecciona la opción **Agente de administración** si aún no está seleccionada. Selecciona **Actualización** .
+   2. Selecciona tu nombre en la lista de usuarios. A continuación, selecciona la opción **Agente de administración** si aún no está seleccionada. Selecciona **Actualización**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Todos los revendedores indirectos deben firmar el MPA.
 
@@ -125,7 +110,7 @@ Si un proveedor indirecto quiere conectar contigo en el Centro de partners, inic
 
 2. Para aceptar la invitación, haz clic en el vínculo del correo electrónico del proveedor. Puede que necesites iniciar sesión de nuevo en el Centro de partners.
 
-3. Para confirmar la asociación con el proveedor, activa la casilla y, a continuación, selecciona **Autorizar proveedor indirecto** . El proveedor aparece ahora en tu página de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
+3. Para confirmar la asociación con el proveedor, activa la casilla y, a continuación, selecciona **Autorizar proveedor indirecto**. El proveedor aparece ahora en tu página de **proveedores indirectos** y tu empresa se muestra ahora en la página de **revendedores indirectos** del proveedor.
 
    > [!NOTE]  
    > Cuando estableces una asociación con un proveedor indirecto, estás autorizándole a enviar pedidos y a agregar suscripciones en nombre de tus clientes, y le estás dando acceso de administrador a la cuenta profesional de tu empresa. Una vez establecida la asociación con el proveedor, puedes eliminar el acceso de administrador de este a tu cuenta profesional en el portal de Office 365.
@@ -138,6 +123,10 @@ Si un proveedor indirecto quiere conectar contigo en el Centro de partners, inic
 
    > [!IMPORTANT]  
    > El proveedor indirecto necesita tener una relación de revendedor con tus clientes para enviar pedidos en su nombre.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>País de CSP y regiones de CSP en las que hace negocios
+
+La ubicación de la empresa legal como revendedor indirecto de CSP determina los proveedores indirectos con los que puede trabajar, así como las regiones en las que puede hacer negocios de CSP. Para obtener más información, lea [Mercados regionales y divisas del programa Proveedor de soluciones en la nube donde puede vender ofertas de CSP](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Pasos siguientes

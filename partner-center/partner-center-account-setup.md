@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556453"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011538"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
 **Roles apropiados**: administrador global, administrador de MPN
 
-La cuenta que creas en el Centro de partners cuando te inscribes es tu correo electrónico profesional junto con la información de tu empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de la empresa también incluirá cuentas de usuario para todos aquellos que usen el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
+La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de la empresa también incluirá cuentas de usuario para todos aquellos que usen el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
 
 Consulte también los artículos [Invitar a los empleados a unirse al Centro de partners](guide-to-migration.md) y [Agregar un nuevo usuario](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ Esto muestra la página de configuración de la cuenta.
 
 Tanto si es un partner como un desarrollador, puede usar el id. de MPN como registro de incidencias de soporte técnico. El id. de MPN se encuentra en la página de **información legal**. También puede encontrarlo en el **perfil de identidad**.
 
+## <a name="account-settings---partners-resellers"></a>Configuración de la cuenta: partners y revendedores
+
+Al seleccionar el icono de **Configuración** y abrir el menú de **Configuración de la cuenta**, la vista predeterminada, si la empresa forma parte del programa Proveedor de soluciones en la nube, es **Información legal**, que muestra dos pestañas: **Partner** y **Revendedor**. Cada pestaña incluye aspectos del negocio.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="El menú muestra pestañas para partners y revendedores":::
+
+La pestaña Partner incluirá toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
+
+Si la empresa no participa en CSP, la vista predeterminada solo mostrará la pestaña **Partner**, que incluirá el **Perfil de asistencia al cliente**.
+
 ## <a name="organization-profile"></a>Perfil de la organización
 
-Use estas páginas para administrar áreas tales como el perfil de negocio legal, el perfil de partner y las ubicaciones de la empresa. Seleccione pestañas como **Legal** o **Inquilinos** (se describe con más detalle a continuación) para editar esa área. Seleccione la pestaña del programa que le interese (MPN, CSP o Marketplace comercial) para ver la información y el estado de la investigación.
+Use estas páginas para administrar áreas detalladas del negocio, incluidos el perfil de negocio legal, el perfil de partner y los inquilinos. Administre cada área por separado. Se describen abajo. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menú de información legal.":::
 
