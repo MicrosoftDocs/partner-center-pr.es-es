@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114592"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720822"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Asociados del centro de administración de asociados de Office 365: Prepárese para trasladar las operaciones comerciales al centro de Partners
 
@@ -36,9 +36,7 @@ Estamos incorporando las características del centro de administración de asoci
 - Enviar invitaciones de relación a los clientes en nombre de tu empresa y de tu proveedor.
 - Administrar usuarios individuales y asignar licencias más fácilmente.
 
-Puedes empezar a usar el Centro de partners de inmediato para muchas de las tareas para las que actualmente usas el Centro de administración de partners de Office 365. 
-
-Por ahora, se admiten ambos sitios, por lo que, mientras realiza la transición al nuevo sitio, todavía podrá usar el centro de administración de Partners de Office 365. Los cambios que realices en una ubicación aparecerán en ambos.
+Se le redirigirá al centro de Partners de inmediato para todas las tareas para las que actualmente usa Office 365 Partner admin Center.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Buscar características del Centro de administración de partners de Office 365 en el Centro de partners
 
@@ -46,9 +44,9 @@ La realización de tareas en el centro de Partners se realiza de forma diferente
 
 | Característica del Centro de administración de partners de Office 365                       | ¿Dónde está en el Centro de partners? | 
 |   -----------------------------------------------  | -------------- |
-| Cree su empresa: crear oferta de compra | Trabaja con tu proveedor para vender ofertas a tus clientes. |
+| Cree su empresa: crear oferta de compra | Centro de Partners: versiones de evaluación y ofertas de compra > crear oferta de compra |
 | Cree su empresa: solicitar permisos de administrador delegado | Centro de Partners: los clientes > solicitar una relación de revendedor |
-| Cree su empresa: creación de invitaciones de evaluación | No disponible. Puedes seguir usando el Centro de administración de partners de Office 365 para esto. |
+| Cree su empresa: creación de invitaciones de evaluación | Centro de Partners: pruebas y ofertas de compra > crear invitación de evaluación |
 | Solicitudes de servicio: lista de clientes: Centro de administración de Office 365 | Centro de Partners: clientes > administrar servicios |
 | Solicitudes de servicio: lista de clientes: solicitudes de servicio | Centro de Partners: solicitud de servicio > las solicitudes de cliente |
 | Solicitudes de servicio: marcadas | Panel: clientes: seleccione la estrella junto al nombre de la empresa. |

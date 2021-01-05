@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007396"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771699"
 ---
-# <a name="what-is-microsoft-appsource"></a>¿Qué es Microsoft AppSource?
+# <a name="what-is-microsoft-appsource"></a>¿Qué es Microsoft AppSource?
 
 Microsoft AppSource es una tienda en línea que contiene miles de aplicaciones empresariales y servicios creados por proveedores de software líderes del sector. Puede usar AppSource para buscar, probar, comprar e implementar el software y los servicios empresariales que le ayudarán a ejecutar su negocio.
 
-El catálogo de AppSource incluye aplicaciones SaaS (software como servicio), soluciones creadas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps y servicios de consultoría de asociados de Microsoft. Puede acceder al catálogo de productos de AppSource en [https://appsource.microsoft.com](https://appsource.microsoft.com) , así como a través de la experiencia del producto en Microsoft 365, Dynamics 365 y Microsoft Power Platform. Las soluciones de AppSource también pueden estar disponibles en los distribuidores de Microsoft del programa proveedor de soluciones en la nube.
+El catálogo de AppSource incluye aplicaciones SaaS (software como servicio), soluciones creadas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps y servicios de consultoría de asociados de Microsoft. Acceda al catálogo de productos de AppSource a [https://appsource.microsoft.com](https://appsource.microsoft.com) través de la experiencia del producto en Microsoft 365, Dynamics 365 y Microsoft Power Platform. Las soluciones de AppSource también pueden estar disponibles en los distribuidores de Microsoft del programa proveedor de soluciones en la nube.
 
 ## <a name="find-what-you-need-on-appsource"></a>Encuentre lo que necesita en AppSource
 
@@ -42,14 +42,18 @@ Para comprar aplicaciones SaaS desde AppSource, necesitará una cuenta de Azure 
 
 Todos los productos disponibles en AppSource se han certificado de acuerdo con criterios específicos. Todavía le animamos a que revise cada producto cuidadosamente para asegurarse de que cumple los requisitos únicos de su organización. Para obtener información sobre las directivas de certificación que se revisan para cada tipo de oferta, consulte [directivas de certificación comerciales de Marketplace](/legal/marketplace/certification-policies). Microsoft 365 aplicaciones tienen un proceso de [certificación](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) y [atestación](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) adicional para los publicadores.
 
-## <a name="terms-and-conditions"></a>términos y condiciones
+## <a name="terms-and-conditions"></a>Términos y condiciones
 
-El proveedor de software define el precio, el contrato de licencia para el usuario final y las directivas de privacidad. Cada oferta de AppSource incluye vínculos al contrato de licencia y la Directiva de privacidad del publicador. La confirmación de estos contratos, así como la posibilidad de verlos, forma parte del flujo de compra. Consulte [contratos legales](legal-contracts.md) para obtener más información.
+El proveedor de software define el precio, el contrato de licencia para el usuario final y las directivas de privacidad. Cada oferta de AppSource incluye vínculos al contrato de licencia y la Directiva de privacidad del publicador. La visualización y el reconocimiento de estos contratos forman parte del flujo de compra. Para obtener más información, consulte [contratos legales](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>Detección de aplicaciones integradas de SaaS y M365
+
+Nuestros asociados pueden vincular entre aplicaciones de SaaS y M365 integradas. Esto le permite descargar y usar las aplicaciones integradas cuando se obtiene la aplicación SaaS vinculada. En este caso, el resultado de la búsqueda podría devolver solo la aplicación SaaS que muestra los iconos de las aplicaciones integradas que incluye. Puede navegar entre la aplicación SaaS y la aplicación integrada en la página de detalles del producto de cada una de ellas. Si una aplicación SaaS requiere una compra, consulte [compra de ofertas de SaaS en Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Buscar clasificaciones y revisiones
 
-En cada página de lista, encontrará clasificaciones y revisiones de otros clientes. Las clasificaciones usan una escala de 5 estrellas y la clasificación promedio se muestra en cada tarjeta de oferta. También están disponibles las revisiones textuales para que pueda obtener información sobre las experiencias de otros clientes. Una vez que haya adquirido una solución, también puede dejar una clasificación y revisar para ayudar a otros clientes a tomar decisiones.
+En cada página de lista, encontrará clasificaciones y revisiones de otros clientes. Las clasificaciones usan una escala de cinco estrellas y se muestra la clasificación promedio en cada tarjeta de oferta. También están disponibles las revisiones textuales para que pueda obtener información sobre las experiencias de otros clientes. Una vez que haya adquirido una solución, también puede dejar una clasificación y revisar para ayudar a otros clientes a tomar decisiones.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Comprar software en Microsoft AppSource](purchase-software-appsource.md)
+- [Comprar software en Microsoft AppSource](purchase-software-appsource.md)

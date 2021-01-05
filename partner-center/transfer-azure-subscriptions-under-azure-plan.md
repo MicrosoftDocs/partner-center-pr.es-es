@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433354"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893213"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transfiera las suscripciones del plan de Azure de un cliente a un asociado diferente
 
@@ -49,7 +49,7 @@ El cliente debe estar en conversación con ambos asociados (actuales y futuros) 
 
 - El cliente contrata al asociado de CSP actual en su intención de transición
 - El asociado de CSP futuro funciona con el cliente para garantizar que se puedan satisfacer las necesidades del cliente
-- El asociado de CSP futuro establece una relación con el cliente antes de comenzar la transición  
+- El asociado de CSP futuro establece una relación con el cliente y compra un plan de Azure antes de comenzar la transición  
 - El cliente debe firmar el acuerdo de cliente de Microsoft con el asociado de CSP futuro
 - El asociado de CSP futuro debe haber firmado el acuerdo de asociado de Microsoft para usar esta herramienta
 
@@ -69,7 +69,7 @@ El socio comercial de la suscripción debe completar un formulario de solicitud 
 1.  En el menú del centro de Partners, seleccione **clientes** y, a continuación, seleccione el cliente en nombre del que desea completar un formulario de solicitud de transferencia.
 2.  En el menú del cliente, seleccione **suscripciones**.
 3.  Seleccione la sección **solicitud de transferencia** .
-4.  En la **sección solicitud de transferencia** , seleccione **Agregar nueva solicitud**.
+4.  En la **sección solicitud de transferencia**, seleccione **Agregar nueva solicitud**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Sección transferencias":::
 

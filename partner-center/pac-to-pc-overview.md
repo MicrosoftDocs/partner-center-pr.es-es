@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174906"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720839"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>El Centro de administración de partners se traslada al Centro de partners
 
@@ -41,13 +41,10 @@ Durante el 2018 de abril, se retirará la PAC y los asociados de CSP comenzarán
 
 - Asociados de proveedor de soluciones en la nube: si es un asociado de CSP, le redirigiremos automáticamente al centro de partners a partir del 2018 de abril.
 
-- Partners de Advisor (si no lo hace mediante CSP y usa PAC para proporcionar versiones de evaluación y cotizaciones para los clientes): en cuanto decidimos en la escala de tiempo para el redireccionamiento automático al centro de Partners, se lo anunciaremos aquí.
+- Partners de Advisor (si no realiza la transacción a través de CSP y usa PAC para proporcionar versiones de evaluación y cotizaciones para los clientes): si es un asociado de asesor, le redirigirá automáticamente al centro de partners a partir de junio de 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comience a usar el centro de Partners de Microsoft ahora.
 
 Comience a usar [el centro de Partners de Microsoft](https://partnercenter.microsoft.com/) ahora para preparar el traslado desde PAC.  Usará las mismas credenciales para el centro de partners que usa para PAC.
 
-> [!IMPORTANT]  
-> Algunas características y funciones que estaban disponibles en PAC no estarán disponibles en el centro de Partners.
-
- Lea la [comparación en paralelo](moving-from-pac-to-pc.md) para comprender y familiarizarse con estos cambios. 
+Lea la [comparación en paralelo](moving-from-pac-to-pc.md) para comprender y familiarizarse con estos cambios.
