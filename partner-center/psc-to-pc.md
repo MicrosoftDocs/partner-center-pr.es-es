@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776925"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916854"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -320,6 +320,20 @@ El centro de Partners no es accesible desde el PDM directamente, a diferencia de
 - OCP Insights: si PDM solo está viendo los negocios y el progreso relacionado con ellos, pueden usar el portal de OCP Insights para obtener la vista de la organización. Se trata de una herramienta interna que solo está disponible para PDM. Tenga en cuenta que OCP Insights no está disponible para los usuarios de su empresa.
 - Usuario invitado en el centro de Partners: puede agregar su @microsoft.com cuenta de PDM como usuario invitado en el centro de Partners y asignarle el rol de administrador de referencias para que puedan ver y actuar en función de las referencias.
 - Creación de un [nuevo usuario](./create-user-accounts-and-set-permissions.md#add-a-new-user) en el inquilino: puede crear un nuevo usuario en su propio inquilino y compartir esos detalles con el PDM para que puedan ver y actuar en las referencias similares a otros usuarios de referencia de su cuenta.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Buscar el identificador de MPN correcto si su cuenta en PSC no está asociada a un MPN no válido
+
+Si está aquí porque vio un banner en PSC en el que se indica ' PSC invalid MPN ID Association problem ', está en el lugar correcto.
+
+En primer lugar, busque el identificador de MPN correcto siguiendo estos pasos:
+
+- Inicio de sesión en la cuenta del centro de Partners
+- Siga las instrucciones proporcionadas en la [documentación de configuración](./partner-center-account-setup.md#locate-your-mpn-id) de la cuenta para buscar el identificador de MPN.
+
+Después,
+
+- Si tiene un PDM, pídale que obtenga el identificador de MPN corregido con el identificador de MPN correcto de la cuenta del centro de Partners.
+- Si no tiene un PDM, envíe un correo electrónico a la dirección proporcionada en el banner de PSC con la información de la cuenta de PSC que se muestra en el banner de PSC y el ID. de MPN correcto de la cuenta del centro de Partners.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Recursos para ayudarle a crear y administrar sus ofertas en el centro de Partners
 

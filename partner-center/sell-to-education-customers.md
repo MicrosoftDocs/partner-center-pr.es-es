@@ -2,25 +2,22 @@
 title: Cómo vender ofertas a clientes educativos
 description: Aprenda a crear un cliente educativo y a vender sus ofertas en el centro de Partners. Incluye el estado de comprobación de confirmación para el cliente de educación.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175073"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916923"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes de educación & cómo crear un cliente educativo en el centro de Partners
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el centro de Partners
 
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -35,11 +32,11 @@ En este artículo se explica cómo crear un cliente de educación en el centro d
 > [!IMPORTANT]
 > Microsoft comprueba cada inquilino de cliente de educación recién creado para asegurarse de que está cualificado para las ofertas educativas.  Asegúrese de especificar la información necesaria de la forma más precisa y completa posible para evitar retrasos en el proceso de comprobación.
 
-1. Inicie sesión en el Centro de partners.
+1. Inicie sesión en el Centro de datos.
 
 2. Seleccione **clientes** y, a continuación, seleccione **Agregar un cliente**. Seleccione **educación** en la lista desplegable de **calificaciones especiales** .  Rellene el resto de la información de la cuenta según sea necesario.  Los campos clave que ayudan al proceso de comprobación son:
 
-   - **Nombre**de la empresa: escriba el nombre de la entidad legal: necesario para la comprobación
+   - **Nombre** de la empresa: escriba el nombre de la entidad legal: necesario para la comprobación
    - **Líneas de país o región y dirección**: escriba la dirección de correo electrónico de entidad completa: necesaria para la comprobación
    - **Dirección de correo electrónico**: escriba el correo electrónico de la entidad, no un correo electrónico gratuito o on.Microsoft.com, necesario para la comprobación
    - **Información de contacto del cliente**: estos detalles se usarán como parte del proceso de comprobación.
@@ -49,6 +46,10 @@ En este artículo se explica cómo crear un cliente de educación en el centro d
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Cuenta de cliente de Education":::
 
+4. Después de confirmar la **revisión**, recibirá un estado de **inrevisión** si la información enviada es válida. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Cuenta de cliente de educación en revisión"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirmar el estado de comprobación del cliente educativo
 
 En la página **cuenta** del cliente, consulte **Estado de calificación especial**.
@@ -56,15 +57,19 @@ Ejemplos de estado:
 
 - Si el cliente pasó la comprobación: Educación
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Cuenta de cliente de Education":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="La comprobación de educación se realizó correctamente":::
 
 - Si el cliente no ha superado la comprobación: no es un cliente educativo
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Cuenta de cliente de Education":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="No se pudo comprobar la educación" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Si el cliente no se etiquetó como cliente educativo: ninguno
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Cuenta de cliente de Education":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="los clientes de educación no se etiquetan como tales" lightbox="images/edu/account-one-expanded.png":::
+
+- Si el cliente está en revisión como cliente educativo: en revisión
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="el cliente de educación está en revisión" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corregir la información de la cuenta del cliente y volver a enviarla para la comprobación
 
