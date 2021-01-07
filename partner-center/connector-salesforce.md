@@ -1,19 +1,19 @@
 ---
 title: El conector de venta conjunta para el centro de Partners de Salesforce CRM
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizar las referencias en el centro de Partners con el CRM de Salesforce. A continuación, los vendedores pueden colaborar con Microsoft desde los sistemas CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947858"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960958"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de venta conjunta para Salesforce CRM: información general
 
@@ -51,7 +51,7 @@ Para sincronizar las referencias entre el centro de Partners y el CRM de Salesfo
 
 3. En Salesforce, instale los campos y objetos personalizados con el instalador de paquetes a continuación.
   
-Vaya [aquí](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) para instalar el paquete en cualquier compañía:
+Vaya [aquí](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) para instalar el paquete en cualquier compañía.
 
 
 Nota: Si va a instalar en un espacio aislado, debe reemplazar la parte inicial de la dirección URL por http://test.salesforce.com
