@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666747"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736553"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,7 +22,10 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de diciembre de 2020** | **Fecha del anuncio** |
 |---------|:---------|:---------|
-|Ofertas/mercados|[Software perpetuo en CSP:  nuevos productos y geografías](2020-december.md#10)|17 de diciembre|
+|Ofertas|[Fondos no usados del fondo de marketing cooperativo de incentivos del canal para el período de uso de la primera mitad del AF 21 que se traspasarán al período de uso de la segunda mitad](2020-december.md#13)|22 de diciembre|
+|Funcionalidades|[Migración de DocuSign a Adobe Sign en 2021 para partners que tienen contratos de Microsoft Partner (MPA)](2020-december.md#12)|22 de diciembre|
+|Ofertas/mercados|[Calendario del catálogo y precios de enero de 2021](2020-december.md#11)|22 de diciembre|
+|Funcionalidades|[Antiguo aviso sobre la compatibilidad de los servicios y las aplicaciones de Microsoft 365 con Internet Explorer 11 y Microsoft Edge](2020-december.md#10)|21 de diciembre|
 |Hacer crecer su negocio|[Organización gubernamental, académica y sin ánimo de lucro: continuidad de los cambios en el programa de Open License y evolución de CSP](2020-december.md#9)|17 de diciembre|
 |Ofertas/mercados|[Cambios en los requisitos de incorporación de clientes del Proveedor de soluciones en la nube (CSP)](2020-december.md#8)|17 de diciembre|
 |Hacer crecer su negocio|[Recordatorio: software perpetuo en el programa Proveedor de soluciones en la nube (CSP) ampliamente disponible desde enero de 2021](2020-december.md#7)|17 de diciembre|
