@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736553"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916820"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
 Más información sobre las actualizaciones importantes del Centro de partners. Esta información se actualiza con frecuencia, así que asegúrate de revisarla de vez en cuando.
 
-| **Categoría** | **Anuncios de diciembre de 2020** | **Fecha del anuncio** |
+| **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Desuso y retirada de las API de calificación GET y PUT existentes para el proceso de validación de clientes de Education a finales de febrero de 2021](2021-january.md#2)|5 de enero|
+|Ofertas/mercados|[Ofertas de Dynamics 365 para febrero de 2021](2021-january.md#1)|4 de enero|
+| **Categoría** | **Anuncios de diciembre de 2020** | **Fecha del anuncio** |
 |Ofertas|[Fondos no usados del fondo de marketing cooperativo de incentivos del canal para el período de uso de la primera mitad del AF 21 que se traspasarán al período de uso de la segunda mitad](2020-december.md#13)|22 de diciembre|
 |Funcionalidades|[Migración de DocuSign a Adobe Sign en 2021 para partners que tienen contratos de Microsoft Partner (MPA)](2020-december.md#12)|22 de diciembre|
 |Ofertas/mercados|[Calendario del catálogo y precios de enero de 2021](2020-december.md#11)|22 de diciembre|
