@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114373"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979644"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government GCC para asociados de CSP y criterios de elegibilidad del cliente-centro de Partners
-
-**Se aplica a**
-
-- Centro de partners
-- Asociados de CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC para los criterios de idoneidad para clientes y asociados de CSP 
 
 **Roles adecuados**
 
@@ -32,7 +27,7 @@ ms.locfileid: "87114373"
 >[!NOTE]
 >El proceso de validación y los criterios que se describen a continuación son específicos para los asociados directos de facturación. Los asociados directos de facturación incluyen revendedores directos y proveedores indirectos.  Si es un revendedor indirecto, trabaje con su proveedor indirecto.
 
-Si le interesa tener aprobado su organización (o la organización de su cliente) para Office 365 Government GCC for CSP, revise los requisitos siguientes.
+Si le interesa tener aprobado su empresa (o la empresa del cliente) para Office 365 Government GCC for CSP, revise los requisitos siguientes.
 
 Podría ser aprobado si es un asociado que presta servicio a entidades gubernamentales federales, estatales, locales o Tribals. Para que las organizaciones cumplan los requisitos de idoneidad, complete el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
@@ -68,3 +63,6 @@ Office 365 Government GCC para asociados y clientes de CSP se validará para sat
 
 Una entidad comercial internacional puede calificar si cumple los requisitos indicados anteriormente y ha verificado la presencia de EE. UU. (por ejemplo, la dirección de correo electrónico, la ubicación física, etc.).
 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Venda Office 365 Government GCC para suscripciones de CSP a clientes cualificados](csp-gcc-overview.md)

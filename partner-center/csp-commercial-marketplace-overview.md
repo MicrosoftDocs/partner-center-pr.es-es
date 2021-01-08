@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038836"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979454"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Información general sobre Marketplace comercial del Centro de partners
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
-- Partners del programa CSP
+- Administrador global
 
 Ser un asociado en el programa proveedor de soluciones en la nube (CSP) le permite agrupar y vender productos de Microsoft junto con soluciones publicadas por proveedores de software independientes (ISV) de terceros. Poder agrupar soluciones de esta manera le permite atender mejor a los clientes finales y aumentar su negocio de servicios de CSP.
 

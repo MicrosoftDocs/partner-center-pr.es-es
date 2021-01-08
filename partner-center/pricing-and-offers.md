@@ -1,7 +1,7 @@
 ---
 title: Precios y ofertas
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte las listas de precios actuales para servicios basados en licencias como Office 365, Microsoft Dynamics CRM y Enterprise Mobility Suite, y servicios basados en uso como Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444797"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979828"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -57,7 +54,7 @@ Los servicios basados en licencias incluyen una vista previa de la lista de prec
 |Válido desde fecha   |La primera fecha en que se puede ordenar una oferta    |
 |Válido hasta la fecha   |La última fecha en que se puede ordenar una oferta   |
 |Nombre para mostrar de la oferta   |El nombre del cliente para la oferta   |
-|Id. de oferta   |Identificador interno de la oferta.   |
+|Identificador de oferta   |Identificador interno de la oferta.   |
 |Tipo de contrato de licencia   |Los tipos de contrato de licencia pueden ser corporativos, gubernamentales o académicos. El tipo de contrato determina a qué tipos de clientes se puede vender la oferta.|
 |Unidad de compra   |La duración de compra de la oferta. Las unidades de compra suelen ser de un mes.   |
 |Tipo de licencia secundario   |Los tipos de licencias secundarias serán no específicos, complemento o evaluación. El complemento indica que hay productos necesarios que el cliente debe adquirir antes de adquirir el complemento.|
@@ -74,7 +71,7 @@ Sin embargo, los precios basados en el uso de Azure no tienen vista previa. Los 
 |**Tipo de producto**   |**Ejemplos de productos**  |**Vista previa disponible** |**Cambiar detalles**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basado en licencia|Office, Dynamics, Intune, Windows Enterprise|30 días|Lista de cambios de precios marcados como CHNG en las listas de precios de vista previa|
-|Basado en el uso|Recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
+|Basado en uso|Recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
 |Software||No disponible|Comparar listas de precios manualmente de un mes a otro|
 |Reservations|Máquinas virtuales, prepago|No disponible|Comparar listas de precios manualmente de un mes a otro|
 
@@ -157,7 +154,7 @@ Hay aproximadamente 50 ofertas de Dynamics que tienen términos de tres años. S
 
 Microsoft 365 oferta de base a1 tiene un plazo de seis años.  Los complementos de Office 365 a1 están disponibles después de adquirir esta oferta de base. 
 
-|**Nombre de la oferta**   |**Identificador de oferta**   |**Tipo**|
+|**Nombre de la oferta**   |**Identificador de oferta**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
 |Office 365 a1 para profesores (para dispositivos)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Complemento|
@@ -169,7 +166,7 @@ A continuación se muestra un resumen de cómo funcionan estas ofertas:
 - La suscripción no se renueva y expira después de 6 años
 - La frecuencia de facturación de la oferta se muestra como anual, pero el socio comercial se factura por la primera factura después de adquirir la suscripción.
 - Las suscripciones de las ofertas de a1 72 meses se bloquean después de la compra y no se pueden cancelar y no se pueden agregar recuentos de licencias a la suscripción después de la compra inicial.
-- Los asociados que necesiten cancelar deben crear una incidencia de soporte técnico con el motivo de la cancelación y el identificador de suscripción que necesitan ayuda con.
+- Esta suscripción no es cancelable y no reembolsable.
 
 ## <a name="estimated-retail-price-erp"></a>Precio comercial Estimado (ERP)
 

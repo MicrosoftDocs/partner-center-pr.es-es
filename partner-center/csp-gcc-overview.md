@@ -9,25 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000399"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979437"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Venda Office 365 Government GCC para suscripciones de CSP a clientes cualificados
-
-**Se aplica a**
-
-- Centro de partners
-- Partners de CSP
 
 **Roles adecuados**
 
 - Administrador global
 - Agente de administrador
-- Agente de ventas
+
 
 ## <a name="overview"></a>Información general
 
@@ -41,10 +36,10 @@ Los asociados de Microsoft del programa proveedor de soluciones en la nube (CSP)
 
 Una vez aprobada su empresa para vender las ofertas de Office 365 Government GCC for CSP, puede empezar a vender a los clientes mediante el centro de Partners. Consulte estos recursos para aprender a usar el centro de partners para vender suscripciones: 
 
--   Para obtener una guía paso a paso para vender las suscripciones de Office 365 Government GCC for CSP, vaya [aquí](https://go.microsoft.com/fwlink/?linkid=2007323).  
+- Para obtener una guía paso a paso, lea la [Guía para vender las suscripciones de Office 365 Government GCC for CSP](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
-## <a name="additional-resources"></a>Recursos adicionales
+## <a name="next-steps"></a>Pasos siguientes
 
 Acceda a la información sobre la [oportunidad de asociados en el gobierno de EE. UU.](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) en el Microsoft 365 para el sitio de asociados.
 

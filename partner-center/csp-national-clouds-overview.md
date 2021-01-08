@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000389"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979573"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Solicitar la venta en nubes nacionales de Microsoft como parte del programa CSP
+
+**Se aplica a**
+
+- Centro de partners para la nube de Microsoft Government
+- Centro de partners para Microsoft Cloud Alemania
+
+
+**Roles adecuados**
+
+- Administrador global
 
 Además de vender a los clientes como parte del programa de proveedores de soluciones en la nube global, los asociados de Microsoft cualificados también pueden vender soluciones en la nube a los clientes en tres nubes nacionales independientes. Las nubes nacionales son instancias físicas y lógicas aisladas de la red de servicios en la nube de la empresa de Microsoft, que están limitadas dentro de los límites geográficos de países específicos y operados por personal local. 
 
@@ -24,7 +34,7 @@ Para obtener más información acerca de las ofertas nacionales de nube de Micro
 
 Microsoft hace que estos servicios estén disponibles en las nubes nacionales:
 
--   Microsoft Azure servicios en el ámbito ofrecen informática, almacenamiento, redes y administración de identidades a gran escala. Azure protege los datos en la nube con el nivel de seguridad, privacidad, control, cumplimiento y transparencia necesarios para el gobierno.
+-   Microsoft Azure servicios en el ámbito ofrece informática, almacenamiento, redes y administración de identidades a gran escala. Azure protege los datos en la nube con el nivel de seguridad, privacidad, control, cumplimiento y transparencia necesarios para el gobierno.
 
 -   Microsoft Dynamics 365 es una solución de administración de relaciones con clientes (CRM) basada en la nube que proporciona a los empleados de la administración de informes de datos, modelado y flujos de trabajo, al mismo tiempo que ofrece características de seguridad que pueden limitar el acceso a datos confidenciales.
 
@@ -49,3 +59,7 @@ Los asociados cualificados pueden vender soluciones en la nube de Microsoft a lo
     Microsoft es el proveedor de tecnología, pero no opera el servicio; 21Vianet opera, proporciona y administra de forma independiente la entrega de servicios en la nube de Microsoft. Gracias a las tecnologías de licencias de Microsoft, 21Vianet puede ofrecer servicios de Azure y Office 365 y usar los centros de datos de Azure y Office 365 que mantienen los datos en China continental. 21Vianet también proporciona servicios de suscripción y facturación, así como soporte técnico.
 
     Para obtener información sobre cómo inscribirse y vender a los clientes en Azure y Office 365 operado por 21Vianet en China, consulte [centro de Partners operado por 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Preguntas más frecuentes sobre el centro de partners para Microsoft Cloud para el gobierno de EE. UU.](faq-for-us-govt-cloud.md)

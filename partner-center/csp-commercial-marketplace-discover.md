@@ -1,6 +1,6 @@
 ---
 title: Discover offers-Commercial Marketplace
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038866"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979607"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Descubra ofertas y precios en Marketplace comercial del centro de Partners
-
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa CSP
 
 **Roles adecuados**
 

@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435154"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979661"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para asociados de CSP que hacen negocios en Marketplace comercial
 
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa CSP
 
 **Roles adecuados**
 
 - Administrador global
 - Agente de administrador
 
-Esta sección está relacionada con los contratos de los asociados del programa CSP que optan por comprar productos o ofertas de Marketplace de ISV para sus clientes del Marketplace comercial del centro de Partners o del Azure Portal.
+Este artículo trata sobre contratos para asociados del programa CSP que optan por comprar productos o ofertas de Marketplace de ISV para sus clientes desde el Marketplace comercial del centro de Partners o el Azure Portal.
 
 La [Guía de programas de CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100) contiene los términos y condiciones que rigen las ofertas comerciales de Marketplace entre Microsoft y los asociados en el programa CSP. Los asociados de CSP deben revisar estos términos y condiciones para asegurarse de que funcionan en el cumplimiento del programa.  
 
