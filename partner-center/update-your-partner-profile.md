@@ -6,15 +6,15 @@ description: Obtén información sobre cómo comprobar la información de tu emp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514714"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666798"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificación de la información del perfil de la organización en el Centro de partners
 
@@ -27,7 +27,7 @@ La primera vez que inicies sesión en el Centro de partners como administrador g
 
 Tu perfil de partner está formado por la información legal de la empresa, el nombre y el correo electrónico de contacto principal, los programas en los que participa la empresa y, si procede, las demás compañías que incluye la denominación legal de tu empresa. Asegúrese de que el nombre y la dirección de la empresa en el perfil de negocio legal no tengan errores ortográficos ni abreviaturas, y de que coincidan exactamente con los registros de inscripción formales de la empresa. Si trabaja como un solo propietario, debe usar el nombre de su empresa como razón social.
 
-1. Vaya a **Configuración** y seleccione **Configuración de la cuenta**.
+1. Vaya al icono **Configuración** y seleccione **Configuración de la cuenta**.
  
 1. Seleccione **Perfil de la organización**. 
 
@@ -65,15 +65,11 @@ Si durante la migración de Partner Membership Center al Centro de partners se i
 
 Para actualizar el id. de MPN asociado a la cuenta de CSP:
 
-1. Inicie sesión en el panel del Centro de partners.
+1. Inicie sesión en el panel del Centro de partners y seleccione **Configuración**.
  
-1. Seleccione **Perfil de la organización** en **Configuración de la cuenta**.
+1. Seleccione **Identificadores** en **Configuración de cuenta**.
 
-1. Junto a **Associated MPNID** (MPNID asociado), seleccione **Actualizar**.
- 
-1. Seleccione **Continuar**.
- 
-1. Agregue el id. de MPN.
+1. En la sección **CSP**, use el vínculo **Actualizar** para actualizar el identificador de MPN asociado a su cuenta de CSP. 
 
 
 ## <a name="update-your-billing-address"></a>Actualización de la dirección de facturación

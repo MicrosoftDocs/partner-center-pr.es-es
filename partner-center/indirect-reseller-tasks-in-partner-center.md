@@ -1,7 +1,7 @@
 ---
 title: Trabajo con proveedores indirectos en el programa CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de cómo los revendedores indirectos pueden trabajar con proveedores indirectos (o distribuidores) de Microsoft para obtener ayuda con la facturación y el servicio de soporte técnico al cliente.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514744"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636031"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
 
@@ -69,10 +69,7 @@ A partir de octubre de 2020, todos los partners de Microsoft que sean nuevos en 
 2. Revisa la **página de bienvenida** para asegurarte de que tienes la información que necesitas para inscribirte y, a continuación, selecciona **Siguiente**.
 
 3. Inicie sesión con la cuenta profesional, es decir, el nombre de usuario y la contraseña que usa para iniciar sesión como administrador global para Office 365, Microsoft Azure o Microsoft Dynamics CRM. Si no tienes una cuenta profesional, selecciona **Crear una** para configurar una ahora. Después de crear la cuenta profesional, inicia sesión con las credenciales de administrador global de la nueva cuenta.
-
-
-   > [!IMPORTANT]  
-   > Seleccione el id. de MPN asociado con el perfil de la empresa activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
+  
 
 4. Proporcione o actualice el perfil comercial legal de la compañía, la información de contacto principal y la información de soporte técnico al cliente. (Para encontrar la información empresarial legal, seleccione **Perfil de la organización** y, a continuación, seleccione **Información legal**). Selecciona **Inscribirse ahora**.
 
@@ -81,7 +78,16 @@ A partir de octubre de 2020, todos los partners de Microsoft que sean nuevos en 
    > [!IMPORTANT]  
    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para obtener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a tu empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada. Enviaremos un correo electrónico con las actualizaciones del estado de inscripción al contacto principal.
 
-5. Cuando la cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
+5. Asocie el identificador de MPN al inquilino de su identificador de Azure.
+
+    1. Seleccione **Identificadores** en **Configuración de cuenta**.
+
+    1. En la sección **CSP**, use el vínculo **Actualizar** para actualizar el identificador de MPN asociado a su cuenta de CSP. 
+ 
+ > [!IMPORTANT]  
+   > Seleccione el id. de MPN asociado con el perfil de la empresa activa que se encuentra en el mismo país o región que el inquilino de Azure AD.
+
+6. Cuando la cuenta del Centro de partners esté lista para usarse, comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
 
    1. En el panel del Centro de partners, seleccione el icono **Configuración** y, a continuación, en **Configuración de la cuenta**, seleccione **Administración de usuarios**.
 

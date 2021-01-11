@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514752"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916837"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Más información acerca de Microsoft Partner Agreement (MPA) para partners del programa CSP
 
@@ -50,7 +50,7 @@ Para seguir participando en el programa CSP, debes firmar el acuerdo Microsoft P
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Confirmación de que está inscrito como revendedor indirecto de CSP
 
-1. Si aún no está inscrito como [revendedor indirecto de CSP](enrolling-in-the-csp-program.md) en el Centro de partners, deberá hacerlo primero. Complete el resto de los pasos después de inscribirse como revendedor indirecto de CSP en el Centro de partners.
+1. Si aún no está inscrito como [revendedor indirecto de CSP](indirect-reseller-tasks-in-partner-center.md) en el Centro de partners, deberá hacerlo primero. Complete el resto de los pasos después de inscribirse como revendedor indirecto de CSP en el Centro de partners.
 
 1. Inicie sesión en el Centro de partners con las credenciales de la cuenta de administrador global de CSP.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979794"
+ms.locfileid: "98040997"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Ofertas/mercados|[Actualizaciones de la lista de precios basados en licencias para enero de 2021](2021-january.md#4)|8 de enero|
 |Área de trabajo moderna|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2021-january.md#3)|7 de enero|
 |Funcionalidades|[Desuso y retirada de las API de calificación GET y PUT existentes para el proceso de validación de clientes de Education a finales de febrero de 2021](2021-january.md#2)|5 de enero|
 |Ofertas/mercados|[Ofertas de Dynamics 365 para febrero de 2021](2021-january.md#1)|4 de enero|
@@ -43,9 +44,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Funcionalidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
 |Capacidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
-|Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
-|Funcionalidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
-|Funcionalidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
+|Capacidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
+|Capacidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
+|Capacidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
 |Funcionalidades|[Pruebas disponibles: actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para el proceso de validación de clientes de Education](2020-november.md#7)|10 de noviembre|
 |Funcionalidades|[Expansión del contenido del asociado de licencia comercial en la galería de preparación de operaciones](2020-november.md#6)|2 de noviembre|
 |Ofertas/mercados|[Lanzamiento de la SKU de Salas de Microsoft Teams Premium](2020-november.md#5)|2 de noviembre|
