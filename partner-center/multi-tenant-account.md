@@ -1,7 +1,7 @@
 ---
 title: Agregar inquilinos adicionales a la cuenta del centro de Partners
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a agregar, consolidar o administrar varios inquilinos de Azure AD en su cuenta del centro de Partners. Obtenga información acerca de algunas de las razones por las que podría querer hacerlo.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175166"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105563"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adición y administración de varios inquilinos en la cuenta del centro de Partners
 
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -50,15 +47,36 @@ Esta característica le permite administrar varios inquilinos para su empresa y 
 
 1. Como administrador global, inicie sesión en el inquilino que desee asociar y confirme la asociación. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="asociar inquilinos"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmar los inquilinos asociados"::: 
 
-5. Después de confirmar, verá una notificación de **todos los conjuntos** .  Seleccione **volver a administración de inquilinos** y verá el inquilino que se acaba de agregar. 
+5. Después de confirmar, verá una notificación de **todos los conjuntos** .  Seleccione **volver a administración de inquilinos** y verá el inquilino recién agregado en la lista. 
  
 
 >[!NOTE]
 >No se puede asociar un inquilino a una cuenta si ya está asociado a otra cuenta del centro de Partners.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Quitar un inquilino de su cuenta
  
+1. Como administrador global, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
+
+1. En el icono de **configuración** , seleccione Configuración de la **cuenta** -> inquilinos y haga clic en la pestaña **socio comercial** .
+ 
+3. Haga clic en **quitar** para el inquilino que desea desasociar.
+
+4. La desasociación de un inquilino significa que los usuarios de ese inquilino ya no tendrán acceso a la cuenta del centro de Partners y esto podría tener un impacto en sus competencias. 
+
+El botón **quitar** está habilitado para todos los inquilinos asociados, excepto el inquilino principal y el inquilino en el que ha iniciado sesión actualmente.
+
+:::image type="content" source="images/disassociate.png" alt-text="inquilinos con el botón Quitar":::
+ 
+
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Incorporación de usuarios](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
