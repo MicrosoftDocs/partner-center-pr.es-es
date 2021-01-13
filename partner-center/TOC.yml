@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Informes de Insights
           items:
+            - name: Información general
+              href: pci-overview-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Rendimiento de revendedores
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Suscripciones de producto
+              href: pci-product-subscriptions-report.md
             - name: Uso de Azure
               href: pci-azure-usage-report.md
+            - name: Uso de equipos
+              href: pci-teams-usage-report.md
+            - name: Uso de Office 365
+              href: pci-office-365-usage-report.md
+            - name: Uso de Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Uso de Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Uso de Power BI
+              href: pci-power-bi-usage-report.md
+            - name: Cursos
+              href: pci-training-dashboard.md
+            - name: Análisis de Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Competencias
+              href: pci-competencies-report.md
             - name: Ventajas
               href: pci-benefits-report.md
             - name: Tendencia de CloudAscent
               href: pci-customer-opportunities.md
-            - name: Competencias
-              href: pci-competencies-report.md
-            - name: Customer
-              href: pci-customer-report.md
-            - name: Análisis de Microsoft Learn
-              href: ms-learn-analytics.md
-            - name: Información general
-              href: pci-overview-report.md
             - name: Licencias de producto
               href: pci-product-licenses-report.md
-            - name: Suscripciones de producto
-              href: pci-product-subscriptions-report.md
-            - name: Rendimiento de revendedores
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Cursos
-              href: pci-training-dashboard.md
         - name: 'Insights: preguntas más frecuentes'
           href: pci-known-issues.md
         - name: Descargar informes de Insights
