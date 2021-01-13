@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514712"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105535"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para inscribirse como partner de facturación directa de CSP
 
-**Se aplica a**
+**Roles adecuados**
 
-- Partners de factura directa del programa Proveedor de soluciones en la nube
+- Administrador global
 
 ## <a name="enroll-as-a-direct-partner"></a>Inscribirse como partner directo
 
-Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de facturación directa el 27 de octubre de 2020. Estos requisitos le ayudarán a acelerar el crecimiento del negocio con el modelo adecuado del programa Proveedor de soluciones en la nube y a fortalecer las relaciones con sus clientes mediante servicios de valor añadido y soporte técnico.  
+Como partner de factura directa, tiene la relación integral con el cliente y con Microsoft. Actualizamos los requisitos de inscripción para partners de facturación directa el 27 de octubre de 2020. Estos requisitos le ayudarán a acelerar el crecimiento del negocio con el modelo adecuado del programa Proveedor de soluciones en la nube y a fortalecer las relaciones con sus clientes mediante servicios de valor añadido y soporte técnico.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
