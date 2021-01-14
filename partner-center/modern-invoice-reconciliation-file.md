@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498576"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182586"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compra única de CSP
 
@@ -28,9 +28,9 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | CustomerId | Identificador único de Microsoft para el cliente en formato GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nombre de la organización del cliente según figura en el Centro de partners. Esta columna es importante para conciliar la factura con la información del sistema. | *Johnny moderno DE2* |
 | CustomerDomainName | Nombre de dominio del cliente. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | País en el que se encuentra el cliente. Consulte la [lista completa de países](/partner-center/regional-authorization-overview) de su región.  | *DE* |
+| CustomerCountry | País en el que se encuentra el cliente. Consulte la [lista completa de países](./regional-authorization-overview.md) de su región.  | *RESGUARDO* |
 | InvoiceNumber | Número de factura asociado al archivo de conciliación.  | *G002297372* |
-| MpnId | Identificador de MPN del asociado de CSP. Para obtener más información, consulte [Cómo elemento por asociado](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | Identificador de MPN del asociado de CSP. Para obtener más información, consulte [Cómo elemento por asociado](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción. | *6048879* |
 | OrderId | Identificador único para un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar el orden al ponerse en contacto con el servicio de soporte técnico. No se usa para la conciliación. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Fecha en que se realizó el pedido. | *10/3/2020* |
@@ -39,7 +39,7 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | AvailabilityId | Identificador único de disponibilidad. | *DZH318Z08B80* |
 | SkuName | Nombre de la SKU. | *Tablas: LRS* |
 | ProductName | Nombre del producto. | *Tablas* |
-| ChargeType | [Tipo de cargo](/partner-center/recon-file-charge-types) o ajuste. | *Nuevo* |
+| ChargeType | [Tipo de cargo](./recon-file-charge-types.md) o ajuste. | *Nuevo* |
 | UnitPrice | Precio por licencia, tal como se publicó en la lista de precios en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *0,045* |
 | Cantidad | El número de licencias. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *1* |
 | Subtotal | Total sin impuestos. El subtotal debe ser igual a la cantidad facturable multiplicada por el precio unitario efectivo. | *0* |
@@ -54,7 +54,7 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | ChargeStartDate | La fecha en que el centro de Partners cobra la cuota de suscripción. Si la suscripción se compra con un período de facturación anual y un plan de facturación mensual, en el primer archivo de conciliación, este es el día en el que se adquiere la suscripción. A partir del siguiente archivo de conciliación, se incrementará en 30 días. | *9/1/2020* |
 | ChargeEndDate | Final del ciclo de facturación de la suscripción. Si la suscripción se compra con un período de facturación anual y un plan de facturación mensual, en el primer archivo de conciliación, este es el trigésimo día después de la compra de la suscripción. A partir del siguiente archivo de conciliación, se incrementará en 30 días. | *30/09/2020* |
 | TermAndBillingCycle | El compromiso de duración para continuar con la suscripción en el momento de la compra. | *Datos almacenados (GB/mes)* |
-| EffectiveUnitPrice | El precio unitario prorrateado para calcular el costo del ciclo de facturación. Los descuentos, los ajustes de los días de facturación y otros factores determinan el precio por unidad vigente. Para obtener más información, consulte [cálculo del precio unitario en vigor](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| EffectiveUnitPrice | El precio unitario prorrateado para calcular el costo del ciclo de facturación. Los descuentos, los ajustes de los días de facturación y otros factores determinan el precio por unidad vigente. Para obtener más información, consulte [cálculo del precio unitario en vigor](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Tipo de unidad en la que se carga el medidor. | *1 GB/mes* |
 | AlternateId | El ID. alternativo del elemento de línea de pedido al que se hace referencia. | *6dc5c039750a* |
 | BillableQuantity | La cantidad total que se va a facturar.  | *0,005001* |

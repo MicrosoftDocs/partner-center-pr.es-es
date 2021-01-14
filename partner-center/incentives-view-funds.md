@@ -1,5 +1,5 @@
 ---
-title: Ver los fondos de la Co-op disponibles
+title: Vista de los fondos de cooperación disponibles
 ms.topic: article
 ms.date: 01/03/2021
 description: Obtenga información acerca de cómo ver los fondos de la Co-op obtenidos, reclamados y restantes, ver las fechas de expiración y conciliar las cantidades incoherentes.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864334"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182518"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver los fondos de la Co-op disponibles, reclamados y restantes
 
@@ -34,7 +34,7 @@ Puede realizar el seguimiento, la supervisión y la conciliación de los fondos 
 
 4. Para ver todas las notificaciones enviadas para el período seleccionado, desplácese a la parte inferior de la página.
 
-Si cree que hay discrepancias en las cantidades mostradas en el Resumen, puede descargar el informe de transacciones del período anterior. Este informe le ayudará a determinar la cantidad de fondos de cooperación obtenidos durante el período de uso seleccionado. Para descargar informes de transacciones o validar las notificaciones enviadas para asegurarse de que el importe de la Co-op restante es preciso, consulte [historial de transacciones](/partner-center/payout-statement#transaction-history).
+Si cree que hay discrepancias en las cantidades mostradas en el Resumen, puede descargar el informe de transacciones del período anterior. Este informe le ayudará a determinar la cantidad de fondos de cooperación obtenidos durante el período de uso seleccionado. Para descargar informes de transacciones o validar las notificaciones enviadas para asegurarse de que el importe de la Co-op restante es preciso, consulte [historial de transacciones](./payout-statement.md#transaction-history).
 
 Si sigue teniendo problemas para conciliar los importes, o si algunos fondos de cooperación no están visibles, puede abrir la incidencia de soporte técnico. Para ello, seleccione el icono de signo de interrogación en la esquina superior derecha de la página y, a continuación, seleccione **incentivos**.
 

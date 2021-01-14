@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389312"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182331"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Información de asociados: preguntas más frecuentes
 
@@ -26,15 +26,15 @@ Esto se relaciona con cualquier problema conocido que vea o represente informes 
 
 P) **no veo el centro de información en mi cuenta del centro de Partners. ¿Qué debo hacer?**
 
-A) Asegúrese de que ha iniciado sesión en la cuenta de MPN para su organización. No se puede acceder al panel Insights desde la cuenta de CSP. Asegúrese también de que el administrador global ha facilitado el acceso al rol visor de informes o visor de informes.  Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).
+A) Asegúrese de que ha iniciado sesión en la cuenta de MPN para su organización. No se puede acceder al panel Insights desde la cuenta de CSP. Asegúrese también de que el administrador global ha facilitado el acceso al rol visor de informes o visor de informes.  Para obtener más información sobre los roles, consulte [este artículo](./pci-roles.md).
 
 P) **no puedo ver los ingresos facturados ni los datos de ingresos consumidos (ACR) de Azure en mis informes. ¿Por qué?**
 
-A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos.  Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).
+A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos.  Para obtener más información sobre los roles, consulte [este artículo](./pci-roles.md).
 
 P) **no puedo ver los ingresos facturados ni los datos de ingresos consumidos (ACR) de Azure en mis informes. ¿Por qué?**
 
-A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos. Para obtener más información sobre los roles, consulte [este artículo](https://docs.microsoft.com/partner-center/pci-roles).
+A) los datos de ingresos facturados y ACR solo están disponibles para los usuarios que son visores de informes ejecutivos. Para obtener más información sobre los roles, consulte [este artículo](./pci-roles.md).
 
 P **. parece que el país del cliente es incorrecto. ¿Por qué?**
 

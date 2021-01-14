@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007371"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182484"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compras de Azure Marketplace
 
@@ -25,7 +25,7 @@ Al comprar a través de Azure Marketplace, elimina la complejidad de la administ
 
 ## <a name="permission-to-purchase"></a>Permiso para comprar
 
-Una vez que haya encontrado la aplicación de software correcta, la finalización de la compra es sencilla. Sin embargo, tendrá permisos adecuados en la suscripción de Azure. Dado que Azure funciona en un modelo de [Access Control basado en roles](https://docs.microsoft.com/azure/role-based-access-control/overview) (RBAC), la cuenta necesita permisos de **propietario** o **colaborador** de la suscripción para hacer una compra.
+Una vez que haya encontrado la aplicación de software correcta, la finalización de la compra es sencilla. Sin embargo, tendrá permisos adecuados en la suscripción de Azure. Dado que Azure funciona en un modelo de [Access Control basado en roles](/azure/role-based-access-control/overview) (RBAC), la cuenta necesita permisos de **propietario** o **colaborador** de la suscripción para hacer una compra.
 
 Antes de completar una compra, asegúrese de que el usuario tiene la configuración correcta en el inquilino de Azure. Esto ayudará a evitar errores durante la compra.
 
@@ -55,7 +55,7 @@ Esta configuración se aplica a todos los usuarios con acceso a su suscripción 
 
 ## <a name="cost-management"></a>Administración de costos
 
-A medida que compra productos de Azure Marketplace, querrá obtener información que le ayude a administrar los costos. Azure Cost Management es una herramienta gratuita para ver información sobre los productos que ha adquirido. Puede usar Cost Management para ver detalles de los servicios con los que está gastando dinero a lo largo del tiempo y cómo esos costos realizan un seguimiento de los presupuestos que ha establecido. Además de establecer presupuestos, puede programar informes y analizar los costos de las suscripciones. Para obtener más información sobre Azure Cost Management, complete el módulo de Microsoft Learn en [análisis de costos y creación de presupuestos con Azure cost Management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+A medida que compra productos de Azure Marketplace, querrá obtener información que le ayude a administrar los costos. Azure Cost Management es una herramienta gratuita para ver información sobre los productos que ha adquirido. Puede usar Cost Management para ver detalles de los servicios con los que está gastando dinero a lo largo del tiempo y cómo esos costos realizan un seguimiento de los presupuestos que ha establecido. Además de establecer presupuestos, puede programar informes y analizar los costos de las suscripciones. Para obtener más información sobre Azure Cost Management, complete el módulo de Microsoft Learn en [análisis de costos y creación de presupuestos con Azure cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Puede ver los cargos y las facturas de Azure Marketplace en la herramienta de análisis de costos en Azure Cost Management.
 
@@ -63,4 +63,4 @@ Puede ver los cargos y las facturas de Azure Marketplace en la herramienta de an
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Facturación y facturación](billing-invoicing.md)
+- [Facturación](billing-invoicing.md)
