@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120059"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979700"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Guía del Proveedor de soluciones en la nube, contratos, listas de precios y ofertas
 
@@ -77,3 +77,8 @@ Como partner de CSP, puedes vender una amplia gama de productos, servicios y sol
 Para los partners de CSP que usan la API de registro de uso CREST, Microsoft también publica una lista de los Servicios de Azure en CSP en la página **Precios y ofertas**.
 
 Para obtener información sobre las ofertas de Azure Marketplace publicadas por fabricantes de software independientes (ISV), visite la página **Marketplace** en el menú de navegación izquierdo. Actualmente, solo se pueden adquirir los tipos de productos SaaS (software como servicio) en el Centro de partners. Deberás visitar Azure Portal para adquirir otros tipos de ofertas de Azure Marketplace.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Obtener información sobre Microsoft Partner Agreement](microsoft-partner-agreement.md)
+- [Inscribirse en el programa Proveedor de soluciones en la nube](enrolling-in-the-csp-program.md)

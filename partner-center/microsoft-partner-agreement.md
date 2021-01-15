@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916837"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105518"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Más información acerca de Microsoft Partner Agreement (MPA) para partners del programa CSP
 
@@ -54,7 +54,7 @@ Para seguir participando en el programa CSP, debes firmar el acuerdo Microsoft P
 
 1. Inicie sesión en el Centro de partners con las credenciales de la cuenta de administrador global de CSP.
 
-1. En **Configuración**, seleccione [Perfil de partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. En **Configuración**, seleccione **Configuración de la cuenta** y, a continuación, [Perfil de asociado](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Compruebe la sección **Información del programa**. Si en la información no se muestra el estado **Revendedor indirecto**, debe [inscribirse como revendedor indirecto](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ Para ver si has firmado el MPA:
 >[!NOTE]
 >Solo el administrador global de la empresa puede ver y firmar el MPA. Si no eres el administrador global, tendrás que pedir al administrador global que compruebe el MPA.
 
+Para ver si ha firmado el contrato, también puede seleccionar **Acuerdos** en **Configuración de la cuenta**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indicación de firma del MPA":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Descargue la guía paso a paso adecuada para el momento en que se encuentra en el proceso.
 
@@ -91,4 +95,4 @@ Para ver si has firmado el MPA:
  
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Inscribirse en el programa Proveedor de soluciones en la nube](enrolling-in-the-csp-program.md)
+- [Inscribirse en el programa Proveedor de soluciones en la nube](indirect-reseller-tasks-in-partner-center.md)
