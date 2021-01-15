@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302291"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215754"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Vea los datos empresariales con la aplicación de análisis del centro de partners para Microsoft Power BI
 
-**Se aplica a**
 
-- Centro de partners
 
 **Roles adecuados**
 
@@ -78,7 +76,7 @@ Obtenga una representación visual de los datos empresariales con la aplicación
 
 ### <a name="subscription-insights-report"></a>Informe de información de suscripción
 
-- **Estado**de la suscripción:
+- **Estado** de la suscripción:
 
 - Active: suscripciones que pertenecen a un estado "activo" o "en período de gracia"
 
@@ -110,7 +108,7 @@ Obtenga una representación visual de los datos empresariales con la aplicación
 
 - **Suscripciones en los últimos 12 meses**: tendencia de mes a mes de nuevas suscripciones y suscripciones de renovación agregadas mensualmente durante el período de los últimos 12 meses
 
-- **Detalles**de la suscripción del cliente: vista detallada de los clientes, las suscripciones y las ofertas
+- **Detalles** de la suscripción del cliente: vista detallada de los clientes, las suscripciones y las ofertas
 
 ### <a name="license-insights-report"></a>Informe de información de licencias:
 

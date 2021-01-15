@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949330"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215941"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Proporcione soporte de facturación para sus clientes y ayude a responder sus preguntas de facturación
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Proporcionar soporte de facturación para sus clientes y ayudar a responder sus preguntas de facturación
 
-**Se aplica a**
-
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
+
 - Administrador global
 - Administrador de usuarios
 - Agente del departamento de soporte técnico
 - Administrador de facturación
 - Agente de ventas
 
-Usted es el propietario de la relación de facturación con sus clientes y usted es responsable de responder a las preguntas relacionadas con la facturación de sus clientes.
+Usted es el propietario de la relación de facturación con sus clientes y usted es responsable de responder a las preguntas relacionadas con la facturación que sus clientes pueden tener.
 
-- Usted es responsable del pago puntual a Microsoft.
+- Usted es responsable de los pagos puntuales a Microsoft.
 
 - Se recomienda establecer una directiva de recopilación clara con los clientes que detallan el proceso de recopilación y cuando el acceso a las suscripciones, los servicios o el software del cliente se verán afectados.
 
@@ -66,4 +63,7 @@ Cada servicio en línea tiene requisitos específicos y detallados para proporci
 - [Suscripciones de Azure vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Suscripciones a Office 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Proporcionar soporte técnico](provide-technical-support.md)

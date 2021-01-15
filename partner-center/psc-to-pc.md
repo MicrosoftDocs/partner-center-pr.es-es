@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950593"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215958"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950593"
 - Administrador de ventas de asociados (PSC)
 - Director de ventas de socio comercial (PSC)
 
-En este artículo se describen los asociados que realizan la migración de ventas asociadas al centro de partners para que puedan seguir creando y administrando ofertas de venta conjunta en el centro de Partners.
+En este artículo se proporcionan instrucciones para la migración de asociados de ventas de asociados al centro de partners para que puedan seguir creando y administrando ofertas de venta conjunta en el centro de Partners.
 
 Como sabe, su empresa perderá el acceso a PSC después del 31 de marzo de 2021. Sin embargo, todavía encontrará todo lo que desea hacer en el centro de Partners, como la creación de ofertas de venta conjunta, la administración de sus contratos y la actuación sobre los acuerdos enviados por los vendedores de Microsoft.
 
@@ -353,7 +353,6 @@ Si aún no ha leído los temas de ayuda de la venta conjunta, los siguientes rec
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Siga estos recursos adicionales:
 
 - [Ventas de asociados conectar con el centro de Partners libro](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) : libro para alinear los procesos de ventas y roles de los asociados con nuevos procesos de ventas a través del centro de Partners frente a la conexión de ventas de asociados.
 - [Guía de funcionamiento de la venta conjunta del centro de Partners](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) : Guía para identificar un modelo operativo a través del centro de Partners con el fin de administrar oportunidades de ventas de clientes potenciales o de venta conjunta.

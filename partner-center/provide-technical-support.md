@@ -9,21 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810915"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215839"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Proporcionar soporte técnico para ayudar a los clientes a configurar, administrar y usar sus suscripciones
 
-**Se aplica a**
-
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
+
 - Administrador global
 - Administrador de usuarios
 - Agente del departamento de soporte técnico
@@ -48,7 +45,7 @@ En el Centro de partners, puedes:
 
 Los asociados que transaccionen el modelo de CSP son el asesor de confianza para sus clientes y poseen la relación de un extremo a otro, incluido el soporte técnico cuando su cliente tiene una pregunta o un problema. A través de los partners de soporte técnico, los asociados pueden obtener más información sobre el cliente y sus negocios para identificar nuevos servicios y soluciones que conforman el valor.
 
-Para cumplir los requisitos de soporte técnico, el asociado puede revender el soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico o puede configurar una estructura para proporcionar soporte técnico directamente.  El asociado puede cobrar por toda o parte del soporte técnico proporcionado a los clientes. El asociado debe articular a sus clientes el soporte técnico que proporcionarán, las horas de servicio y el método de contacto, así como los precios (si cobra por soporte técnico). 
+Para cumplir los requisitos de soporte técnico, el asociado puede revender el soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico, o bien puede configurar una estructura para proporcionar soporte directamente.  El asociado puede cobrar por toda o parte del soporte técnico proporcionado a los clientes. El asociado debe articular a sus clientes el soporte técnico que proporcionarán, las horas de servicio y el método de contacto, así como los precios (si cobra por soporte técnico). 
 
 Los asociados son necesarios para recibir solicitudes de soporte técnico entrante de los clientes, diagnosticar problemas con lo mejor de la capacidad del asociado y resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si el asociado no puede resolver un problema, puede remitir problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
@@ -69,3 +66,7 @@ Cada servicio en línea tiene requisitos específicos y detallados para proporci
 - [Suscripciones de Azure vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Suscripciones a Office 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo](report-problems-on-behalf-of-a-customer.md)

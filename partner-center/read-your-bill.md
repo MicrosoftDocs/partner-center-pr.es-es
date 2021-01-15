@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444988"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215822"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.
 
-**Se aplica a**
-
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
@@ -82,7 +78,7 @@ A continuación se muestran algunos de los campos clave del documento PDF de fac
 
 **Período de facturación**: este es el período durante el cual se tienen usos y servicios basados en licencias. 
 
-**Fecha**de la factura: fecha de facturación o fecha de aniversario en la que se genera la factura cada mes. 
+**Fecha** de la factura: fecha de facturación o fecha de aniversario en la que se genera la factura cada mes. 
 
 **Fecha de vencimiento del pago**: fecha en la que se debe recibir el pago. 
 
@@ -97,3 +93,7 @@ Para obtener una descripción detallada de todos los campos del archivo de factu
 ## <a name="understand-reconciliation-files"></a>Descripción de los archivos de conciliación
 
  Los archivos de conciliación, que proporcionan detalles detallados o desglosados de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen los identificadores de cliente y los identificadores de suscripción que puede usar para crear facturas de cliente. Consulte  [Cómo usar los archivos de conciliación](use-the-reconciliation-files.md) para obtener más detalles sobre los archivos de conciliación. 
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Cómo usar los archivos de conciliación](use-the-reconciliation-files.md)
