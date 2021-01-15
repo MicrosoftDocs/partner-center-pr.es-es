@@ -675,8 +675,12 @@
         - name: Definiciones de datos de Insights
           href: pci-data-definitions.md
     - name: Indicadores de contribución de partners
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Para la competencia de aplicaciones empresariales de nube
+          href: partner-contribution-indicators.md
+        - name: Para la competencia de soluciones en la nube para pequeñas y medianas empresas
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: Analizar otros datos
       items:
         - name: Uso de Azure del cliente
