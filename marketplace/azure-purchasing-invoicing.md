@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182484"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584197"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compras de Azure Marketplace
 
@@ -60,6 +60,20 @@ A medida que compra productos de Azure Marketplace, querrá obtener información
 Puede ver los cargos y las facturas de Azure Marketplace en la herramienta de análisis de costos en Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Use Azure Cost Management para obtener información sobre los productos adquiridos.":::
+
+## <a name="purchase-validation-checks"></a>Comprar comprobaciones de validación
+
+La compra de una oferta a través de Azure Marketplace puede producir un error por distintos motivos. Es más probable que el uso de la interfaz de la línea de comandos (CLI) para una compra provoque errores, ya que es posible que esté intentando comprar una oferta que no está disponible o está visible en Azure Marketplace. A continuación se enumeran las comprobaciones que pueden provocar un error en la compra:
+
+1. La suscripción pertenece a una Contrato Enterprise (EA) y el administrador de EA deshabilitó las compras de Azure Marketplace.
+1. El administrador de EA ha habilitado las compras solo para las ofertas gratuitas y la oferta es una oferta de pago.
+1. La oferta no se encuentra en Marketplace.
+1. El fabricante de software independiente (ISV) dejó de vender la oferta, al menos en su región.
+1. La suscripción que está usando pertenece a una cuenta de facturación en una región en la que la oferta no está disponible.
+1. La cuenta de facturación o suscripción no está asociada a ningún instrumento de pago válido (por ejemplo, una tarjeta de crédito válida).
+1. La suscripción pertenece a un proveedor de soluciones en la nube (CSP) y el ISV rechazó vender a través de un CSP.
+1. El Marketplace privado está habilitado para la suscripción y la oferta no está en la lista de ofertas permitidas.
+1. La oferta es privada o de vista previa para determinados clientes y la suscripción no está en la lista de clientes permitidos.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
