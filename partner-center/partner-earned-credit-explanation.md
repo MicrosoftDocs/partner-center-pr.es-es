@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622174"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182416"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
@@ -36,7 +36,7 @@ Para recibir los créditos obtenidos por los partners (PEC), se aplican los requ
 
 - Debe tener un contrato de MPN activo y un rol de control de acceso basado en rol (RBAC) válido para recibir el crédito obtenido para los activos de Azure que administra.
 
-- Debe tener la administración y el control operativo ininterrumpidos de los recursos de Azure del cliente en CSP. Esto significa que debe tener privilegios de administrador en la suscripción de Azure del cliente, el grupo de recursos de Azure y el recurso de Azure. En el caso de proveedores indirectos y sus revendedores indirectos, el proveedor indirecto será apto para PEC si el proveedor indirecto, el revendedor indirecto o ambos tienen este control operativo. Para obtener más información al respecto, consulte [Restablecer los privilegios de administrador para las suscripciones del programa CSP de Azure](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Debe tener la administración y el control operativo ininterrumpidos de los recursos de Azure del cliente en CSP. Esto significa que debe tener privilegios de administrador en la suscripción de Azure del cliente, el grupo de recursos de Azure y el recurso de Azure. En el caso de proveedores indirectos y sus revendedores indirectos, el proveedor indirecto será apto para PEC si el proveedor indirecto, el revendedor indirecto o ambos tienen este control operativo. Para obtener más información al respecto, consulte [Restablecer los privilegios de administrador para las suscripciones del programa CSP de Azure](./revoke-reinstate-csp.md).
 
 - Además de los requisitos anteriores, los PEC solo se aplican a los servicios enumerados en los precios de consumo del plan de Azure, que se pueden exportar desde la página de [precios del plan de Azure](https://partner.microsoft.com/commerce/sales).
 
@@ -48,7 +48,7 @@ Para recibir los créditos obtenidos por los partners (PEC), se aplican los requ
 
 - El valor del PEC se obtiene en el nivel de recursos de Azure. Si tiene acceso válido a la suscripción o al nivel del grupo de recursos, cada recurso que se acumule hasta la entidad superior obtendrá PEC.
 
-- Los detalles sobre los PEC también están disponibles en la página de [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners).
+- Los detalles sobre los PEC también están disponibles en la página de [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners).
 
 ### <a name="calculation"></a>Cálculo
 

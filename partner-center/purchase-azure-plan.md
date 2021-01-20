@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810905"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215907"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre el plan de Azure para clientes y acceda a los servicios de Azure más recientes con tarifas de pago por uso
 
@@ -26,6 +26,7 @@ ms.locfileid: "87810905"
 Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners de CSP podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Un partner puede tener varias suscripciones de Azure en un plan de Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilidad de país y región
+
 La nueva experiencia comercial en CSP para Azure está actualmente programada para que esté disponible en 139 países. Consulta la lista completa de esos [países y regiones](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
 
 ## <a name="how-to-purchase-azure-plan"></a>Cómo comprar el plan de Azure

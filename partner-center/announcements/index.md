@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560500"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571659"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Hacer crecer su negocio|[Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube](2021-january.md#11).|19 de enero|
+|Hacer crecer su negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-january.md#10)|19 de enero|
 |Ofertas/mercados|[Lanzamientos de seguridad, cumplimiento e identidad (SCI) a partir del 1 de febrero de 2021](2021-january.md#9)|15 de enero|
 |Funcionalidades|[Migración de DocuSign a Adobe Sign para partners con un Microsoft Partner Agreement (MPA)](2021-january.md#8)|15 de enero|
 |Ofertas/mercados|[Actualización de precios comerciales para la corona noruega](2021-january.md#7)|14 de enero|
@@ -46,9 +48,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Ofertas/mercados|[Próximamente tendrá disponible la actualización de la oferta de Microsoft 365 Business Voice con plan de llamadas para EE. UU.](2020-december.md#2)|3 de diciembre|
 |Funcionalidades|[Ya disponibles: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-december.md#1)|3 de diciembre|
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
-|Funcionalidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
+|Capacidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
-|Capacidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
+|Funcionalidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
 |Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
 |Funcionalidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
 |Funcionalidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|

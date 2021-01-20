@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736549"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182569"
 ---
 # <a name="december-2020-announcements"></a>Anuncios de diciembre de 2020
 
@@ -152,7 +152,7 @@ El nuevo Microsoft Edge es nuestra mejor expresión de un explorador moderno y 
 **Impacto del cambio**
 
 - A partir del **30 de noviembre de 2020**, los clientes ya no podrán conectarse a la aplicación web de Microsoft Teams en Internet Explorer 11. Microsoft considera que los clientes obtendrán el máximo partido de Microsoft 365 y la mejor expresión de un explorador moderno al usar el [nuevo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
-- A partir del **9 de marzo de 2021**, las aplicaciones y los sitios creados para Microsoft Edge (versión anterior) seguirán funcionando en el nuevo Microsoft Edge, pero si se produce un problema de compatibilidad, se puede recibir soporte técnico gracias a la [promesa de App Assure](https://aka.ms/appassure).
+- A partir del **9 de marzo de 2021**, las aplicaciones y los sitios creados para Microsoft Edge (versión anterior) seguirán funcionando en el nuevo Microsoft Edge, pero si se produce un problema de compatibilidad, se puede recibir soporte técnico gracias a la [promesa de App Assure](/fasttrack/products-and-capabilities#app-assure).
 - A partir del **17 de agosto de 2021**, los clientes tendrán una experiencia degradada o no podrán conectarse a aplicaciones y servicios de Microsoft 365 en Internet Explorer 11. Microsoft considera que los clientes obtendrán el máximo partido de Microsoft 365 y la mejor expresión de un explorador moderno al usar el [nuevo Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3).
 
 ### <a name="next-steps"></a>Pasos siguientes
@@ -280,7 +280,7 @@ En esta misma fecha también tendrá lugar lo siguiente:
 
 - La lista de precios del software perpetuo en CSP volverá a publicarse en el Centro de partners. La encontrará en la sección **Software** de la página [Vender > Precios y ofertas](https://partnercenter.microsoft.com/pcv/sales), que contiene productos y zonas geográficas adicionales. Consulte [aquí](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) todos los detalles.
 
-- La funcionalidad de suministro de software y claves de licencia del Centro de partners se retirará (consulte el [anuncio](https://docs.microsoft.com/partner-center/announcements/2020-september#17)) y, a partir de ese momento, los partners usarán exclusivamente el Centro de administración de Microsoft 365 para este fin. Esto garantizará una experiencia más segura y eficiente para los clientes. Para obtener más información sobre el software del Centro de administración de Microsoft 365, revise la [introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), las [tareas comunes](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) y las [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- La funcionalidad de suministro de software y claves de licencia del Centro de partners se retirará (consulte el [anuncio](./2020-september.md#17)) y, a partir de ese momento, los partners usarán exclusivamente el Centro de administración de Microsoft 365 para este fin. Esto garantizará una experiencia más segura y eficiente para los clientes. Para obtener más información sobre el software del Centro de administración de Microsoft 365, revise la [introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), las [tareas comunes](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) y las [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Software perpetuo en CSP
 
@@ -292,7 +292,7 @@ Revise los siguientes recursos y compártalos con los contactos pertinentes de s
 
 - Incorporación de [zonas geográficas y productos de software perpetuo en CSP](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) el 19 de enero de 2021
 
-- [Introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [tareas comunes](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) y [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) del Centro de administración de Microsoft 365
+- [Introducción](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [tareas comunes](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) y [funcionalidades de suministro de claves de licencia](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf) del Centro de administración de Microsoft 365
 
 - [Ampliación de las oportunidades para los partners del programa Proveedor de soluciones en la nube](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anuncio para partners)
 
@@ -573,4 +573,4 @@ _31 de agosto de 2020:  fecha de publicación original
 
 - 10 de noviembre de 2020: recordatorio para suscribirse a las pruebas 
 
-- 3 de diciembre de 2020: publicación de las actualizaciones de la API 
+- 3 de diciembre de 2020: publicación de las actualizaciones de la API
