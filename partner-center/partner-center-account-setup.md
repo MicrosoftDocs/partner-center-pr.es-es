@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo usar el Centro de partners para administrar el perfil de su empresa, la información bancaria y fiscal, los roles, los permisos y mucho más.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011538"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235977"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
-**Roles apropiados**: administrador global, administrador de MPN
+**Roles apropiados**: administrador global
+- Administrador de cuentas MPN
 
 La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de la empresa también incluirá cuentas de usuario para todos aquellos que usen el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
 
@@ -60,6 +61,10 @@ Use estas páginas para administrar áreas detalladas del negocio, incluidos el 
 ### <a name="legal-info"></a>Información legal
 
 La primera vez que se una al Centro de partners, su empresa se someterá a un proceso de verificación de Microsoft. Puede realizar un seguimiento del estado de la verificación en la página de **Información legal**. Aquí podrá ver el contacto principal, que es la persona con la que se pondrá en contacto Microsoft con respecto a las preguntas de los asociados, así como el contacto principal legal, que es la persona que administra su información legal y su estado. Todas las ubicaciones empresariales de su negocio se muestran y se pueden agregar aquí.
+
+### <a name="primary-contact-email"></a>Correo electrónico del contacto principal
+
+El correo electrónico del contacto principal se usará para el envío de una notificación sobre la verificación de su cuenta. Es muy importante que el correo electrónico especificado del contacto principal sea uno que se administre e inspeccione periódicamente.  
 
 Obtenga más información sobre la [verificación y la información de la cuenta](verification-responses.md).
 
@@ -122,9 +127,9 @@ Hay muchos programas del Centro de partners disponibles. Cada programa tiene req
 
 Para obtener información sobre la inscripción en determinados programas del Centro de partners, consulte la siguiente lista parcial:
 
-- [Programa Marketplace comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa Marketplace comercial](/azure/marketplace/partner-center-portal/create-account)
 - [Ventajas de la suscripción a Microsoft Partner Network](mpn-overview.md)
-- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programa CSP](./enrolling-in-the-csp-program.md)
 - [Tienda Office](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para obtener más información acerca de la inscripción en los programas del Centro de partners, consulta también [Recursos de Partner Network](https://partner.microsoft.com/).

@@ -6,15 +6,15 @@ description: Obtén información sobre cómo comprobar la información de tu emp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666798"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235926"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verificación de la información del perfil de la organización en el Centro de partners
 
@@ -27,6 +27,12 @@ La primera vez que inicies sesión en el Centro de partners como administrador g
 
 Tu perfil de partner está formado por la información legal de la empresa, el nombre y el correo electrónico de contacto principal, los programas en los que participa la empresa y, si procede, las demás compañías que incluye la denominación legal de tu empresa. Asegúrese de que el nombre y la dirección de la empresa en el perfil de negocio legal no tengan errores ortográficos ni abreviaturas, y de que coincidan exactamente con los registros de inscripción formales de la empresa. Si trabaja como un solo propietario, debe usar el nombre de su empresa como razón social.
 
+>[!Important]
+>- En el caso de las cuentas de MPN, el administrador global y el administrador de cuentas pueden actualizar el nombre legal de la empresa.
+>- En el caso de las cuentas de revendedores indirectos de CSP, el administrador global puede actualizar el nombre legal de la empresa. 
+
+## <a name="locate-the-legal-business-profile"></a>Búsqueda del perfil legal de la empresa
+
 1. Vaya al icono **Configuración** y seleccione **Configuración de la cuenta**.
  
 1. Seleccione **Perfil de la organización**. 
@@ -37,7 +43,7 @@ Si ha combinado otras compañías bajo la denominación legal de su empresa, tam
 
 ## <a name="update-your-legal-business-profile"></a>Actualización del perfil legal de la empresa
 
-Ahora ya puedes actualizar el domicilio legal en el Centro de partners.
+Actualice el domicilio legal en el Centro de partners.
 
 1. Vaya a **Configuración** y seleccione **Perfil de la organización**.
 
@@ -45,7 +51,7 @@ Ahora ya puedes actualizar el domicilio legal en el Centro de partners.
 2. Seleccione **Legal** y, a continuación, seleccione el perfil legal de la empresa que quiere usar.
 
 >[!Important]
->Si es asociado de un Proveedor de soluciones en la nube (CSP), no puede cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está vinculado a su inquilino y a los servicios, así como a la moneda en la que realiza las transacciones. Si no estás en el programa CSP, puedes cambiar el país o región asociado con tu domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de aprobación es "Autorizado". Tendrás que [crear una incidencia de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Si es asociado de un Proveedor de soluciones en la nube (CSP), no puede cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está vinculado a su inquilino y a los servicios, así como a la moneda en la que realiza las transacciones. Si no forma parte del programa CSP, puede cambiar el país o región asociado con su domicilio legal. El nombre legal de la empresa no se puede actualizar en el Centro de partners si el estado de validación es "Autorizado". Si necesita cambiar el nombre, deberá [crear un vale de soporte técnico](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Al seleccionar **Enviar**, se volverá a evaluar la identidad legal y recibirá otro correo electrónico que deberá aceptar.
 
@@ -78,10 +84,7 @@ Si es el administrador global, el administrador de facturación o el agente de a
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-
 - [Comprobar el estado de la verificación](verification-responses.md)
  
 - [Administrar ubicaciones de MPN](manage-locations.md)
-
-
 
