@@ -1,7 +1,7 @@
 ---
 title: Aplicar para especializaciones avanzadas
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortalezca su perfil de negocio en el directorio de asociados de Microsoft. Aprenda a usar el centro de partners para solicitar especializaciones avanzadas y ganarlas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440052"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658423"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Usar el centro de partners para solicitar especializaciones avanzadas y comprobar su estado
 
@@ -60,20 +60,21 @@ Ambas tareas se pueden realizar en el centro de Partners.
 
 Las especializaciones avanzadas que requieren una auditoría con un auditor de terceros incluyen:
 
-- Migración del almacenamiento de datos a Microsoft Azure
+- Análisis en Microsoft Azure
+- Migración de Data Warehouse a Microsoft Azure
 - Kubernetes en Microsoft Azure
 - Migración de bases de datos de código abierto y Linux a Microsoft Azure
-- Escritorio virtual de Microsoft Windows
+- Microsoft Windows Virtual Desktop
 - Modernización de aplicaciones web para Microsoft Azure
-- Migración de Windows Server y SQL Server a Microsoft Azure
+- Migración de Windows Server y SQL Server a Microsoft Azure
 
 Las especializaciones avanzadas que requieren referencias de clientes incluyen:
 
 - Adopción y administración de cambios
-- Llamar a para Microsoft Teams
+- Llamada a Microsoft Teams
 - Reuniones y salones de reunión para Microsoft Teams
 - SAP en Azure
-- Implementación de trabajo en equipo
+- Implementación de Teamwork
 - Administración de identidades y acceso
 - Protección contra amenazas
 
