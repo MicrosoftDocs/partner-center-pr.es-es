@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571659"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685912"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[Cambios en la disponibilidad de la oferta de Azure en CSP relacionados con la nueva experiencia comercial en CSP para Azure](2021-january.md#12)|21 de enero|
 |Hacer crecer su negocio|[Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube](2021-january.md#11).|19 de enero|
 |Hacer crecer su negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-january.md#10)|19 de enero|
 |Ofertas/mercados|[Lanzamientos de seguridad, cumplimiento e identidad (SCI) a partir del 1 de febrero de 2021](2021-january.md#9)|15 de enero|
@@ -48,7 +49,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Ofertas/mercados|[Próximamente tendrá disponible la actualización de la oferta de Microsoft 365 Business Voice con plan de llamadas para EE. UU.](2020-december.md#2)|3 de diciembre|
 |Funcionalidades|[Ya disponibles: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-december.md#1)|3 de diciembre|
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
-|Capacidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
+|Funcionalidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
 |Funcionalidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
 |Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
