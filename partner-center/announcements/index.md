@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685912"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717852"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
+|Funcionalidades|[El registro de auditoría del Centro de partners ha cambiado para incluir dos nuevos tipos de operación para DAP](2021-january.md#13)|25 de enero|
 |Funcionalidades|[Cambios en la disponibilidad de la oferta de Azure en CSP relacionados con la nueva experiencia comercial en CSP para Azure](2021-january.md#12)|21 de enero|
 |Hacer crecer su negocio|[Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube](2021-january.md#11).|19 de enero|
 |Hacer crecer su negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-january.md#10)|19 de enero|
