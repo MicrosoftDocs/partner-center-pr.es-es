@@ -1,20 +1,20 @@
 ---
-title: Programaciones de pago y procesos
+title: Procesos y programaciones de pagos
 description: Obtenga información sobre los pagos y transacciones, como los planes de pago y los procesos de rerecuperación para el Marketplace comercial y otras transacciones.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492677"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861417"
 ---
-# <a name="payout-schedules-and-processes"></a>Programaciones de pago y procesos
+# <a name="payout-schedules-and-processes"></a>Procesos y programaciones de pagos
 
 **Roles adecuados:**
 
@@ -37,6 +37,7 @@ A menudo se producirá un pago antes de que Microsoft recopile el pago del clien
 | --- | --- | --- | --- |
 | Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
 | Microsoft calcula el importe de facturación | Determinar el uso total, total de transacciones | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
+| Factura pagada por el cliente | Microsoft recopila el pago del cliente | Sin cambios | **Mes 2** |
 | Pago registrado | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
 | Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
 | **Pago enviado** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la [instrucción de pago](payout-statement.md)** | **Mes 3 (no posterior al 15)** |

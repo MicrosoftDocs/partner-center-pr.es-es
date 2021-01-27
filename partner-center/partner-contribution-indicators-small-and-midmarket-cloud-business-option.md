@@ -1,7 +1,7 @@
 ---
 title: 'Indicadores de contribución de asociados: SMMCS'
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de los asociados de los indicadores de contribución de asociados (PCI) que deben cumplirse para poder lograr la competencia de soluciones en la nube de pequeñas y medianas empresas.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204124"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861434"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Usar indicadores de contribución de socios para lograr la competencia de soluciones de nube de pequeñas y medianas empresas
 
@@ -157,11 +157,10 @@ Net New Revenue es un [indicador de rendimiento](partner-contribution-indicators
 - Los ingresos netos nuevos se definen como netos facturados nuevos en todos los canales de ventas para los productos Dynamics 365 válidos.
 - Los ingresos netos nuevos se suman en un período de 12 meses final con una ganancia máxima posible de 10 puntos.
 - Los puntos de los ingresos netos nuevos se calculan como facturas menos créditos y se agregan durante 12 meses.
-- Los nuevos ingresos netos se calculan en función de los productos que se indican a continuación, ya sea a través de la ruta de acceso de compromiso del cliente o la ruta de acceso de finanzas y operaciones:
+- Los nuevos ingresos netos se calculan en función de cualquier combinación de lo siguiente:
   - Dynamics 365 Customer engagement: los productos aptos incluyen: ventas, marketing, servicio al cliente, servicio de campo, Project Server, plan 1, automatización, marketing, ventas de relaciones de Microsoft
-  - Entre los productos de finanzas y de operaciones se incluyen: Business central, Capacity and Storage, Finance and Operations (incluida la protección contra fraudes, operaciones, minoristas, recursos humanos, planes 2), realidad mixta, miembro del equipo
-  - Dynamics 365 Business Central
-
+  - Entre los productos de finanzas y de operaciones se incluyen: Dynamics 365 Business central, Capacity and Storage, Finance and Operations (incluida la protección contra fraudes, operaciones, minoristas, recursos humanos, plan 2), realidad mixta, miembro del equipo
+  
 - Los canales de ventas incluyen Contrato Enterprise (EA), proveedor de soluciones en la nube (CSP) y Web Direct.
 - Por Contrato Enterprise ingresos: estos ingresos incluyen ingresos del primer año del contrato. No se incluyen los ingresos recurrentes del segundo y el tercer año.
 
