@@ -1,5 +1,5 @@
 ---
-title: Preguntas más frecuentes sobre los pagos y el perfil fiscal
+title: Preguntas más frecuentes sobre perfiles fiscales y pagos
 description: Obtenga respuestas a preguntas habituales sobre los pagos y los detalles fiscales en el centro de Partners. Incluye respuestas sobre el motivo por el que las ganancias son diferentes de las esperadas.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492592"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924918"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Preguntas comunes sobre los pagos e impuestos
 
@@ -128,10 +128,6 @@ En la descarga del historial de transacciones, busque la columna del modelo de i
 
 Vaya a la página **Payout Payment** (Pagos) y, a continuación, en la sección **List of Payment** (Lista de pagos). Aparece un vínculo al formulario fiscal sobre precios de servicio para un pago que tiene el impuesto sobre precios de servicio.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>¿Cómo descargo un formulario de retención fiscal en PDF?
-
-Vaya a la página *Payout Payment* (Pagos) y, a continuación, en la sección **List of Payment** (Lista de pagos). Aparecerá un vínculo a un formulario de retención fiscal junto a un pago.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>¿Dónde encuentro los formularios fiscales de fin de año?
 
 Vaya a la [página del perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para ver los formularios fiscales de fin de año.
@@ -170,7 +166,7 @@ Vaya a la página **Payout Payment** (Pagos) y, a continuación, en la sección 
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Cómo descargar un formulario de retención de impuestos en PDF?
 
-Vaya a la página **Payout Payment** (Pagos) y, a continuación, en la sección **List of Payment** (Lista de pagos). Aparecerá un vínculo a un formulario de retención fiscal junto a un pago.
+Vaya a la página **Payout Payment** (Pagos) y, a continuación, en la sección **List of Payment** (Lista de pagos). Aparecerá un vínculo a un formulario de retención fiscal junto a un pago. Un formulario de retención de impuestos se aplica solo a los programas de incentivos seleccionados, no a los pagos comerciales de Marketplace.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>¿Dónde encuentro los formularios fiscales de fin de año?
 
