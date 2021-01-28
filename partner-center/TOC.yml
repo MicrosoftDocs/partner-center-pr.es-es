@@ -51,6 +51,9 @@
         - name: Buscar las ventajas de MPN
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Pagar tarifas de competencias
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Competencias
       items:
         - name: Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas

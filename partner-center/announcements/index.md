@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717852"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924930"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,17 +22,18 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 | **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |---------|:---------|:---------|
-|Funcionalidades|[El registro de auditoría del Centro de partners ha cambiado para incluir dos nuevos tipos de operación para DAP](2021-january.md#13)|25 de enero|
-|Funcionalidades|[Cambios en la disponibilidad de la oferta de Azure en CSP relacionados con la nueva experiencia comercial en CSP para Azure](2021-january.md#12)|21 de enero|
-|Hacer crecer su negocio|[Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube](2021-january.md#11).|19 de enero|
-|Hacer crecer su negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-january.md#10)|19 de enero|
-|Ofertas/mercados|[Lanzamientos de seguridad, cumplimiento e identidad (SCI) a partir del 1 de febrero de 2021](2021-january.md#9)|15 de enero|
-|Funcionalidades|[Migración de DocuSign a Adobe Sign para partners con un Microsoft Partner Agreement (MPA)](2021-january.md#8)|15 de enero|
-|Ofertas/mercados|[Actualización de precios comerciales para la corona noruega](2021-january.md#7)|14 de enero|
-|Ofertas/mercados|[Actualización de precios comerciales para la rupia india](2021-january.md#6)|8 de enero|
-|Ofertas/mercados|[Actualizaciones del plan de llamadas y del Sistema telefónico para el 1 de febrero de 2021](2021-january.md#5)|8 de enero|
-|Ofertas/mercados|[Actualizaciones de la lista de precios basados en licencias para enero de 2021](2021-january.md#4)|8 de enero|
-|Área de trabajo moderna|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2021-january.md#3)|7 de enero|
+|Área de trabajo moderna|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2021-january.md#14)|27 de enero|
+|Funcionalidades|[Preguntas más frecuentes nuevas y actualizadas sobre Microsoft Partner Agreement (MPA): revendedores indirectos](2021-january.md#13)|27 de enero|
+|Funcionalidades|[El registro de auditoría del Centro de partners ha cambiado para incluir dos nuevos tipos de operación para DAP](2021-january.md#12)|25 de enero|
+|Funcionalidades|[Cambios en la disponibilidad de la oferta de Azure en CSP relacionados con la nueva experiencia comercial en CSP para Azure](2021-january.md#11)|21 de enero|
+|Hacer crecer su negocio|[Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube](2021-january.md#10).|19 de enero|
+|Hacer crecer su negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-january.md#9)|19 de enero|
+|Ofertas/mercados|[Lanzamientos de seguridad, cumplimiento e identidad (SCI) a partir del 1 de febrero de 2021](2021-january.md#8)|15 de enero|
+|Funcionalidades|[Migración de DocuSign a Adobe Sign para partners con un Microsoft Partner Agreement (MPA)](2021-january.md#7)|15 de enero|
+|Ofertas/mercados|[Actualización de precios comerciales para la corona noruega](2021-january.md#6)|14 de enero|
+|Ofertas/mercados|[Actualización de precios comerciales para la rupia india](2021-january.md#5)|8 de enero|
+|Ofertas/mercados|[Actualizaciones del plan de llamadas y del Sistema telefónico para el 1 de febrero de 2021](2021-january.md#4)|8 de enero|
+|Ofertas/mercados|[Actualizaciones de la lista de precios basados en licencias para enero de 2021](2021-january.md#3)|8 de enero|
 |Funcionalidades|[Desuso y retirada de las API de calificación GET y PUT existentes para el proceso de validación de clientes de Education a finales de febrero de 2021](2021-january.md#2)|5 de enero|
 |Ofertas/mercados|[Ofertas de Dynamics 365 para febrero de 2021](2021-january.md#1)|4 de enero|
 | **Categoría** | **Anuncios de diciembre de 2020** | **Fecha del anuncio** |
