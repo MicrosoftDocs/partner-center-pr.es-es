@@ -1,19 +1,19 @@
 ---
 title: Pague la tarifa por una competencia de MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Obtenga información acerca de cómo pagar la cuota o actualizar los detalles de pago asociados con la obtención o renovación de una o más competencias Silver o Gold.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921109"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042691"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Cómo pagar la cuota asociada con una competencia Silver o Gold
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921109"
 En este artículo se describe cómo y cuándo pagar la cuota asociada a la obtención de una competencia Microsoft Partner Network Silver o Gold. En el artículo también se describe cómo cambiar el método de pago preferido, cómo cancelar un pedido y cómo recibir un descuento por cuota del 25 por ciento al pasar de una competencia Silver a Gold.
 
 > [!NOTE]
-> Para obtener más información sobre las ventajas de lograr una competencia Silver o Gold, las competencias específicas disponibles y sus requisitos únicos, consulte [Microsoft Partner Network competencias](https://partner.microsoft.com/membership/competencies). También puede consultar el Microsoft Partner Network [tablas de licencias para competencias] para obtener más información sobre las ventajas de cada competencia disponible.
+> Para obtener más información sobre las ventajas de lograr una competencia Silver o Gold, las competencias específicas disponibles y sus requisitos únicos, consulte [Microsoft Partner Network competencias](https://partner.microsoft.com/membership/competencies). También puede consultar las Microsoft Partner Network las [tablas de licencias para](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) conocer las ventajas de cada competencia disponible.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Satisfaga los requisitos de una competencia y pague la tarifa
 
@@ -43,7 +43,7 @@ De lo contrario, siga estos pasos para pagar la cuota de una competencia Silver 
 
 2. Seleccione [ofertas de pertenencia](https://partner.microsoft.com/dashboard/mpn/offers) en el menú de navegación. 
 
-3. En **Ofertas disponibles para compra**, busque el icono de pertenencia Silver * * o el icono de **pertenencia de oro** asociado a su competencia específica. 
+3. En **Ofertas disponibles para compra**, busque el icono de **pertenencia Silver** o el icono de **pertenencia Gold** asociado a su competencia específica. 
 
 4. Seleccione la opción **subscribe** que se encuentra en la parte inferior derecha del icono de pertenencia Silver o Gold específico.
 
@@ -54,7 +54,7 @@ De lo contrario, siga estos pasos para pagar la cuota de una competencia Silver 
 
 4. En la página de detalles de la **compra** , revise y confirme los detalles.
 
-   (Obtenga más información sobre [la actualización de la información del **ID. de impuestos** de la empresa](https://docs.microsoft.com/partner-center/organization-tax-info) o la [ **facturación**](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de la empresa a la dirección de la empresa.
+   (Obtenga más información sobre [la actualización de la información del **ID. de impuestos** de la empresa](https://docs.microsoft.com/partner-center/organization-tax-info) o la [ **facturación**](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de la empresa a la dirección de la empresa).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="La pertenencia ofrece la página de detalles de compras con preferencias de pago." border="false":::
 
@@ -130,7 +130,7 @@ Si paga la tarifa de suscripción Silver o Gold a través de la transferencia de
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Página de detalles con campos para cargar la prueba de mostrar una opción seleccionable, cargar prueba de pago, para cada oferta comprada." border="false":::
 
-1. Complete la información de los demás campos relacionados con la transacción de transferencia electrónica de fondos recientes, como la **fecha de pago**, * pago con el número de cuenta * * y **transacción/referencia no.**
+1. Complete la información de los demás campos relacionados con la transacción de transferencia electrónica de fondos recientes, como la **fecha de pago**, el **pago con el número de cuenta** y la **transacción/referencia no**.
 
   Puede aparecer un mensaje verde para indicarle que la solicitud se ha completado correctamente.
 

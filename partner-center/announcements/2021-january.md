@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571676"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717835"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -23,6 +23,124 @@ En esta página se detallan los anuncios del Centro de partners de Microsoft de 
 Anuncios de 2021: Enero
 
 Anuncios de 2020: [Mayo](2020-may.md) | [Junio](2020-june.md) | [Julio](2020-july.md) | [Agosto](2020-august.md) | [Septiembre](2020-september.md) | [Octubre](2020-October.md) | [Noviembre](2020-november.md) | [Diciembre](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> El registro de auditoría del Centro de partners ha cambiado para incluir dos nuevos tipos de operación para DAP
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 25-01-2021
+- Funcionalidades
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners del CSP
+
+### <a name="details"></a>Detalles
+
+Tal como anunciamos hoy, nos complace informarle de que hemos expuesto dos nuevos tipos de operación en los registros de actividad del Centro de partners a fin de proporcionar visibilidad a los partners cuando el cliente apruebe o quite las relaciones de administrador delegado.
+
+A continuación se muestran los nuevos tipos de operación:
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Aproveche los nuevos tipos de operación para realizar un seguimiento de los eventos cuando el cliente apruebe el DAP y lo termine.  
+- [Obtención de un registro de la actividad del Centro de partners: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Recursos de auditoría: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene alguna pregunta, póngase en contacto con las comunidades de Yammer de CSP correspondientes.
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Cambios en la disponibilidad de la oferta de Azure en CSP relacionados con la nueva experiencia comercial en CSP para Azure
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 21-01-2021
+- Funcionalidades
+ 
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners que operan a través del programa Proveedor de soluciones en la nube (CSP).
+
+### <a name="details"></a>Detalles:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Nueva experiencia comercial de Azure en CSP
+
+La nueva experiencia comercial de Microsoft creará una experiencia de compra coherente y simplificada para los clientes y les permitirá su transformación digital, con mayor flexibilidad en cuanto a cómo y dónde compran. Los partners desempeñan un papel fundamental en el recorrido de la nube del cliente, independientemente de los canales en los que los clientes decidan realizar transacciones con Microsoft. Una vez que se haya lanzado por completo, la plataforma y el modelo comerciales actualizados permitirán la participación de los partners en movimientos de ventas para los clientes empresariales más grandes, así como pequeñas y medianas empresas. Además, dicha experiencia ofrecerá a los partners oportunidades de ampliar su participación para impulsar el éxito de los clientes.
+
+La nueva experiencia comercial de Azure en el programa Proveedor de soluciones en la nube aumenta las oportunidades de los partners para compilar y ofrecer servicios administrados, ampliar aún más su base de clientes y ayudar a los clientes en su transformación digital.
+
+La nueva experiencia comercial ofrece las siguientes ventajas:
+
+- Simplifica el proceso de compra de Azure con el plan de Azure.
+- Crea una mejor concordancia de precios entre canales. En función de los comentarios de los clientes y partners, la nueva experiencia de Azure en el programa Proveedor de soluciones en la nube usará una sola lista de precios, en USD, que ofrecerá a los clientes y partners precios coherentes en una escala global.
+- Reduce los obstáculos de adquisición de clientes. Para ello, proporciona herramientas que incorporan el gobierno, la experiencia del cliente y las directivas adecuados para trasladarlos a la nueva experiencia de Azure en el programa Proveedor de soluciones en la nube.
+- Permite a los partners administrar sus clientes de forma más eficaz mediante funcionalidades como Azure Lighthouse y Azure Cost Management. 
+- Expande el acceso a Azure Marketplace.
+
+Con la expansión de la nueva experiencia comercial de Azure, hemos habilitado herramientas de transición para mejorar la flexibilidad de administración de Azure de formas que se adaptan a las necesidades empresariales en constante evolución de los clientes, así como para facilitar a los clientes la adopción de la nueva oferta de Azure en el programa Proveedor de soluciones en la nube. Vea la información general de las herramientas existentes para apoyar la transición de las suscripciones a Azure del cliente en el programa Proveedor de soluciones en la nube.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Nueva oferta del programa Proveedor de soluciones en la nube de Azure (plan de Azure)
+
+Gracias a la nueva experiencia comercial, los partners obtienen acceso a los servicios de Azure con tarifas de pago por uso para los clientes en virtud del Contrato de cliente de Microsoft, por medio de un plan de Azure. Este plan simplifica la experiencia de compra, ya que permite la creación de varias suscripciones a Azure en un plan de Azure. Ya no es necesario enviar un pedido independiente por cada suscripción a Azure en el Centro de partners.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Cambios en la disponibilidad de la oferta de Azure anterior en el programa Proveedor de soluciones en la nube
+
+Cuando anunciamos la nueva oferta de Azure en el programa Proveedor de soluciones en la nube (plan de Azure), notificamos a los partners que la oferta y la plataforma de Azure anteriores seguirían estando disponibles con la nueva experiencia de Azure durante algún tiempo. También les indicamos que les informaríamos con seis meses de antelación antes de realizar cualquier cambio en la oferta de Azure anterior.
+
+Aunque la nueva oferta de Azure en el programa Proveedor de soluciones en la nube (plan de Azure) proporciona a los partners una experiencia mejorada, queremos ofrecerles el tiempo necesario para incorporar las nuevas características de Azure con sus servicios y trasladar a sus clientes a la nueva experiencia.
+
+Habrá tres fases de cambio en la oferta de Azure anterior. En la actualidad, estamos compartiendo más información sobre estas tres fases.
+
+#### <a name="three-phases"></a>Tres fases
+
+**Fase 1 (inicio el 21 de julio de 2021)**
+
+En la fase 1, todas las nuevas empresas del programa Proveedor de soluciones en la nube de Azure se habrán trasladado a la nueva oferta del plan de Azure. Se aplicarán las directrices siguientes:
+
+- En el caso de todas las relaciones de revendedor existentes entre partners y clientes del programa Proveedor de soluciones en la nube, si el cliente ya ha adquirido la oferta de Azure anterior, el partner podrá continuar con la transacción y el cliente podrá seguir con la compra de la oferta de Azure anterior a través de ese partner.
+- La oferta de Azure anterior ya no estará disponible para los nuevos partners netos que realicen transacciones en CSP.
+- La oferta de Azure anterior ya no estará disponible para los nuevos clientes netos que compren a través de un partner en CSP.
+- Para todas las nuevas relaciones de revendedor o las nuevas adquisiciones de clientes, los partners solo podrán realizar transacciones con la nueva oferta de Azure (plan de Azure).
+- En el caso de todas las relaciones de revendedor existentes entre partners y clientes, si el cliente nunca ha adquirido Azure, el partner solo podrá realizar transacciones y el cliente solo podrá adquirir la nueva oferta de Azure a través de ese partner.
+
+**Fase 2 (durante el año natural 2022)**
+
+En la fase 2, que empezará en algún momento durante el año natural 2022, se quitarán los incentivos y la oportunidad de margen del partner de la oferta de Azure anterior. Comunicaremos la fecha de inicio de la fase 2 a los partners con 6 meses de antelación.
+
+**Fase 3 (fecha por determinar)**
+
+En la fase 3, los clientes restantes de la oferta de Azure anterior se migrarán a la nueva oferta de Azure en el programa Proveedor de soluciones en la nube (plan de Azure). Al igual que en las fases anteriores, comunicaremos la fecha de inicio de la fase 3 a los partners con 6 meses de antelación.
+
+#### <a name="partner-earned-credit-pec"></a>Créditos obtenidos por los partners (PEC)
+
+Con la nueva experiencia comercial, se reconoce a los partners por los servicios de valor añadido diferenciados de forma continuada a través del modelo de créditos obtenidos por los partners. Los créditos obtenidos por los partners recompensan a aquellos que se centran en impulsar el éxito de los clientes a través de servicios de valor añadido que generan una rentabilidad sostenible.
+
+### <a name="next-steps"></a>Pasos siguientes:
+
+Se recomienda encarecidamente a los partners que se familiaricen con los siguientes recursos:
+
+#### <a name="partner-earned-credit-pec"></a>Créditos obtenidos por los partners (PEC)
+
+- [Descripción de los créditos obtenidos por los partners (guía) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Créditos obtenidos por los partners. Información general: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Créditos obtenidos por los partners para servicios administrados: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Roles y permisos para los créditos obtenidos por los partners: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Módulo de entrenamiento a petición sobre los créditos obtenidos por los partners en los módulos de Azure en CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Nueva experiencia comercial
+
+- [Galería de recursos para partners: nueva experiencia comercial en CSP para Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene alguna pregunta relacionada con esta notificación, póngase en contacto con el [soporte técnico del Centro de partners](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software perpetuo ahora disponible con carácter general para el programa Proveedor de soluciones en la nube
@@ -40,12 +158,11 @@ Todos los partners del CSP
 
 Tal y como [se anunció](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoy, nos complace informar que las licencias de software perpetuo comercial ya están disponibles con carácter general para que todos los partners de CSP puedan venderlas. La lista de precios del software perpetuo de CSP del Centro de partners se ha vuelto a publicar y ahora incluye productos y zonas geográficas adicionales.
 
-Además, tenga en cuenta que, a partir de hoy, se retira la funcionalidad de asignación de claves de licencia y software del Centro de partners y que, en adelante, tanto los partners como los clientes deberán usar el Centro de administración de Microsoft 365 para este fin.
-A continuación, encontrará más información detallada y los pasos siguientes.
+Además, tenga en cuenta que, a partir de hoy, se retira la funcionalidad de suministro de claves de licencia y software del Centro de partners y que, en adelante, los partners deben dirigir a los clientes al Centro de administración de Microsoft 365 para este fin. A continuación, encontrará más información detallada y los pasos siguientes.
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- Descargue la lista de precios del **software perpetuo de CSP** en la sección **Software** de la página [Precios y ofertas](https://partnercenter.microsoft.com/en-us/pcv/sales) del Centro de partners. Puede consultar una lista de los productos y las regiones geográficas que se agregaron recientemente [aquí](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Descargue la lista de precios del **software perpetuo de CSP** en la sección **Software** de la página [Precios y ofertas](https://partnercenter.microsoft.com/pcv/sales) del Centro de partners. Puede consultar una lista de los productos y las regiones geográficas que se agregaron recientemente [aquí](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 - Revise el [artículo de procedimientos para descargar claves de licencia de producto y software perpetuo del Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2152525) e informe a sus clientes cuando estén listos para descargar el software y las claves de licencia.
 - Revise los materiales de preparación para el [software perpetuo del programa Proveedor de soluciones en la nube](https://partner.microsoft.com/resources/collection/software-in-csp#/). Use este [mapa de preparación](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rápidamente la información adecuada para su rol.
 
@@ -431,7 +548,7 @@ Microsoft anuncia nuevos cambios en la oferta de Dynamics 365 que se lanzarán 
 
 El 1 de febrero de 2021, Microsoft creará una nueva oferta de "Additional Response" con una capacidad de 1000 derechos de respuesta, que reemplazará la oferta existente con una capacidad de 2000 respuestas a encuestas. El final de la oferta será el 1 de febrero de 2021.
 
-Consulte la pestaña "Customer Voice Addl Resp" en el [documento de Excel de ofertas de Dynamics para CSP de febrero de 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) a fin de obtener información detallada sobre la SKU. Consulte la [página principal de Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) para obtener más información.
+Consulte la pestaña "Customer Voice Addl Resp" en el [documento de Excel de ofertas de Dynamics para CSP de febrero de 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) a fin de obtener información detallada sobre la SKU. Consulte la [página principal de Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/) para obtener más información.
 
 **Final de ciclo de vida de Dynamics 365 Customer Service Insights**
 

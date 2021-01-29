@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878807"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705018"
 ---
 # <a name="september-2020-announcements"></a>Anuncios de septiembre de 2020
 
@@ -36,7 +36,7 @@ Todos los partners del programa Proveedor de soluciones en la nube (CSP) que rea
 
 ### <a name="details"></a>Detalles
 
-Hoy en día, los partners pueden usar el Centro de partners o el Centro de administración de Microsoft 365 para el suministro de descargas de software y claves de licencias para los pedidos de software de CSP. A partir del **19 de enero de 2021**, la funcionalidad de suministro de software y claves de licencia del Centro de partners se retirarán y los partners usarán exclusivamente el **Centro de administración de Microsoft 365** para este fin. La página de software del cliente del Centro de partners contendrá un "vínculo profundo" al Centro de administración de Microsoft 365, donde podrá obtener las licencias de cliente y las descargas de software. Esto ayuda a garantizar una experiencia más segura y eficiente para los clientes.
+Hoy en día, los partners pueden usar el Centro de partners o el Centro de administración de Microsoft 365 para el suministro de descargas de software y claves de licencias para los pedidos de software de CSP. A partir del **19 de enero de 2021**, la funcionalidad de suministro de claves de licencia y software del Centro de partners se retirará y los partners dirigirán a los clientes al **Centro de administración de Microsoft 365** como medio exclusivo para este fin. La página de software del cliente del Centro de partners contendrá un "vínculo profundo" al Centro de administración de Microsoft 365, donde podrá dirigir a los clientes para que obtengan las licencias de cliente y las descargas de software. Esto ayuda a garantizar una experiencia más segura y eficiente para los clientes.
 
 Las claves de licencia de software y los vínculos de descarga son recursos de propiedad intelectual valiosos y muy solicitados. Si se filtran, se pueden agotar rápidamente sus límites de activación, lo que puede provocar una experiencia negativa para clientes y partners. Por lo tanto, es fundamental que los partners usen la tecnología más segura y los procedimientos recomendados para contribuir a proteger estos recursos valiosos y a sus clientes.
 

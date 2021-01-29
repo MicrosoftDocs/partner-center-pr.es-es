@@ -1,20 +1,20 @@
 ---
 title: Microsoft Partner Agreement (MPA) para CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información acerca de los requisitos de los partners de CSP de Microsoft para firmar y verificar este acuerdo Microsoft Partner Agreement (MPA) unificado y aceptado digitalmente.
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105518"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773462"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Más información acerca de Microsoft Partner Agreement (MPA) para partners del programa CSP
 
@@ -68,6 +68,20 @@ Para seguir participando en el programa CSP, debes firmar el acuerdo Microsoft P
 
 Recuerde aceptar la solicitud de la relación de CSP con el proveedor indirecto.
 
+## <a name="sign-the-mpa"></a>Firmar el contrato MPA
+
+1. Inicie sesión en el Centro de partners con su cuenta CSP Indirect Reseller. Debe ser el administrador global.
+1. Vaya a la página **[Información general de CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Si no ve la opción **Aceptar y continuar** o el banner verde que indica que el contrato MPA está firmado, significa que no tiene el rol correcto para firmarlo. Póngase en contacto con el administrador global para firmar el contrato MPA.
+
+1. Para ver y descargar el contrato **Microsoft Partner Agreement** antes de firmarlo, haga clic en el vínculo de Microsoft Partner Agreement, como se muestra a continuación.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nueva ubicación del contrato MPA":::
+
+>[!NOTE]
+>Si no ve el vínculo de **Microsoft Partner Agreement**, compruebe su rol en el Centro de partners. Solo los administradores globales del inquilino de CSP pueden ver y firmar el contrato MPA en el Centro de partners. Para comprobar su rol, vaya a **Administración de usuarios** y compruebe que la cuenta en la que se ha iniciado sesión esté marcada como **Administrador global**. De lo contrario, esta cuenta no se podrá usar para firmar el contrato MPA. Puede buscar los administradores globales de su empresa en la página Administración de usuarios.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Cómo encontrar su rol":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Comprobación de que ha firmado el MPA
 
 Para ver si has firmado el MPA:
@@ -75,17 +89,17 @@ Para ver si has firmado el MPA:
  Como administrador global de su empresa, vaya a la [información general sobre CSP](https://partner.microsoft.com/pcv/dashboard/overview) y consulte el banner verde, que le notifica que ha aceptado el MPA.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Banner verde que muestra la aceptación de MPA":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Banner verde que muestra la aceptación de MPA":::
 
 >[!NOTE]
 >Solo el administrador global de la empresa puede ver y firmar el MPA. Si no eres el administrador global, tendrás que pedir al administrador global que compruebe el MPA.
 
 Para ver si ha firmado el contrato, también puede seleccionar **Acuerdos** en **Configuración de la cuenta**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Indicación de firma del MPA":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indicación de firma del MPA":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Descargue la guía paso a paso adecuada para el momento en que se encuentra en el proceso.
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Descargue la guía paso a paso adecuada para el momento en que se encuentra en el proceso de firma del contrato MPA.
 
 1. Si va a migrar la cuenta de MPN desde PMC al Centro de partners: [Migración de PMC al Centro de partners y aceptación de Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

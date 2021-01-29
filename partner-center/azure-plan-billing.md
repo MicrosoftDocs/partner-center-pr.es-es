@@ -1,7 +1,7 @@
 ---
 title: 'Facturación del plan de Azure: facturas y archivos de conciliación'
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a obtener acceso y a comprender la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534699"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658440"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -140,9 +140,7 @@ Para acceder a la factura y al archivo de conciliación:
 
 Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y se facturarán en la moneda asignada en el país del cliente. Si la moneda de facturación no es USD, el tipo de cambio usado se mostrará en la última página de la factura. Los tipos de cambio se determinan mensualmente y se aplican a la factura siguiente. Para obtener una lista completa de las monedas de los países, consulta la [matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft usará Thomson Reuters para determinar el tipo de cambio que se usará para convertir la moneda de los precios a la moneda de facturación. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
-
-**Ejemplo**:  los cargos de uso para el período de servicio del 1 de agosto al 31 de agosto se facturarán mediante el tipo de cambio publicado el 31 de julio. Estos cargos aparecerán en la factura de septiembre y el tipo de cambio se anotará en la última página de la misma.
+Microsoft realiza la conversión de acuerdo con la Bolsa de Londres. El tipo de cambio usado equivale al tipo de cambio capturado el último segundo del último día laborable del mes en la Bolsa de Londres. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
 
 ## <a name="azure-reservations"></a>Reservas de Azure
 
