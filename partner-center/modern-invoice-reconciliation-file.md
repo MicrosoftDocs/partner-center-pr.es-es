@@ -1,19 +1,19 @@
 ---
 title: Campos de archivo de conciliación para compras de un solo tiempo de CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Obtenga información sobre todos los elementos del archivo de conciliación de compra de un solo tiempo de CSP en el centro de Partners, incluidos los valores de ejemplo.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182586"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098812"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compra única de CSP
 
@@ -64,6 +64,9 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | PCToBCExchangeRateDate | Fecha en la que se determina la moneda de los precios de la moneda de facturación. | *30/09/2020* |
 | MeterDescription | Descripción del medidor.  | *Tablas: datos LRS almacenados (GB/mes)* |
 | ReservationOrderId | Identificador del pedido de reserva. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Puede reconciliar el consumo de Azure en el archivo de conciliación de compra única. Para ello, vaya a su archivo de conciliación de uso con clasificación diaria y busque el ID. de suscripción. Esto mostrará todos los costos asociados a su identificador de plan de Azure. El SubscriptionID de Azure se muestra como EntitlementID.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -1,7 +1,7 @@
 ---
 title: Vender software local a través de CSP
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden comprar, administrar, vender y cancelar suscripciones de software locales en nombre de los clientes del centro de Partners.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584171"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098863"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda software local a través del programa proveedor de soluciones en la nube (CSP)
 
@@ -37,13 +37,16 @@ Para comprar suscripciones de software en nombre de un cliente, vaya a la págin
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activación y administración de suscripciones de software
 
-Una vez que haya adquirido el software, usted y sus clientes deben descargarlo. Usa el siguiente procedimiento para hacerlo. 
+Una vez que haya adquirido el software, los clientes deberán descargarlo. Usa el siguiente procedimiento para hacerlo.
 
 >[!NOTE]
 >Debe ser un agente de administración para obtener claves y descargas.
 
 1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
-2. Copie el vínculo de **vínculo a claves de producto de software y descargas** y comparta el vínculo con el cliente. Al seleccionar este vínculo, se le redirigirá al portal de administración de Microsoft para descargar y obtener sus claves de producto.
+2. Copie el "vínculo profundo" desde el **vínculo a las claves de producto de software y las descargas** y comparta el vínculo con el cliente. Al seleccionar este vínculo, se le redirigirá al centro de administración de Microsoft para descargar y obtener sus claves de producto.
+
+>[!NOTE]
+>Solo los clientes pueden ver las claves de producto y descargar información en el centro de administración de Microsoft. Los asociados no pueden ver esta información.
 
 Si usted o sus clientes quieren obtener más información sobre la descarga de claves de licencia, consulte [Descargar software y claves de licencia de producto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
