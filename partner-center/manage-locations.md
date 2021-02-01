@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925018"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098897"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición de una nueva ubicación
 
@@ -47,6 +47,20 @@ Para agregar una nueva cuenta de empresa de CSP, empiece por asegurarse de cumpl
  >Recuerde iniciar sesión con las **nuevas** credenciales de la cuenta de CSP **nueva**. No use las credenciales existentes, ya que el Centro de partners reconocerá que ya tiene una cuenta.
 
 2. Acepte el contrato Microsoft Partner Agreement y active la cuenta.
+
+## <a name="view-your-mpn-locations"></a>Visualización de las ubicaciones de MPN
+
+1. Inicie sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners con las credenciales de la cuenta de MPN. (Las credenciales de MPN pueden ser diferentes de las credenciales del programa CSP). 
+ 
+1. Desde el icono de **Configuración**, seleccione **Configuración de la cuenta**, **Perfil de la organización** y **Legal**. 
+
+1. En la pestaña **Partner**, compruebe que no hay ningún mensaje de error de banner que le pida que corrija las ubicaciones migradas desde PMC. Si es así, siga las instrucciones y corrija dichas ubicaciones. 
+
+3. Si no hay ningún mensaje de error, desde **Configuración**, seleccione **Configuración de la cuenta**, **Perfil de la organización** e **Identificadores**.
+
+4. Busque el id. de MPN con el tipo "Ubicación" que coincida con el país de esta cuenta de CSP y úselo para realizar la búsqueda a continuación y completar la asociación.
+
+5. Si no encuentra el id. de MPN de la ubicación que coincide con la cuenta de CSP que quiere usar, puede agregar una nueva ubicación que creará un nuevo id. de MPN. Consulte **Agregar una ubicación de MPN** a continuación.
 
 ## <a name="add-an-mpn-location"></a>Agregar una ubicación de MPN
 
