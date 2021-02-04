@@ -1,7 +1,7 @@
 ---
 title: Preguntas más frecuentes sobre beneficios de Microsoft Partner Network
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Preguntas respondidas acerca de las directivas relacionadas con Microsoft Partner Network ventajas.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349519"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552396"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Preguntas más frecuentes sobre beneficios de Microsoft Partner Network
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349519"
 
 - Administrador de partners de MPN
 
-
 En el artículo siguiente se responden algunas de las principales preguntas Microsoft Partner Network (MPN) tienen sobre sus ventajas, competencias y licencias de producto de MPN.
+
+## <a name="responding-to-covid-19"></a>Responder a COVID-19
+
+**P.** **nuestra fecha de aniversario de la competencia está próxima y no podemos cumplir los requisitos de competencia debido a los impactos relacionados con COVID-19. ¿Qué debemos hacer?**
+
+A. Si la fecha de aniversario de la competencia está comprendida entre el 1 de enero y el 30 de junio de 2021, vamos a ampliar su competencia o competencias existentes (con la excepción de la nube Business Applications competencia) a través de la siguiente fecha de aniversario de 2022. No necesitará cumplir los requisitos de examen o rendimiento, pero seguirá pagando la tarifa de la competencia.Para obtener más información, consulte nuestra [entrada de blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Pertenencia
 
@@ -140,18 +145,7 @@ A. La adquisición de Aptitudes y la compra de Action Pack se completa en el cen
 
 A. Puede ir a la [sección de soporte técnico del centro de Partners](https://partner.microsoft.com/support) para obtener vínculos a recursos que pueden ser de ayuda o para abrir una incidencia con nuestro equipo de soporte técnico de asociados si es necesario.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Extensión de competencia a efectos de desplazamiento de COVID-19
-
-**P: ¿Microsoft ofrece ayuda a los asociados que se enfrentan a complicación?**
-
-R: en el caso de los asociados con una fecha de aniversario de la competencia comprendida entre el 1 de julio y el 31 de diciembre de 2020, estamos ampliando la competencia o las competencias existentes del socio hasta la fecha de aniversario siguiente en 2021. El asociado recibirá un recordatorio de renovación para reflejar esta nueva oferta. El asociado debe pagar su tarifa de aptitud en el período de renovación de 30 días.
-
-**P: ¿Qué ocurre si un socio ha perdido el período de renovación de 30 días?**
-
-R: el asociado puede reactivar su competencia y recuperar el acceso a los recursos y las ventajas pagando su cargo en la página de ofertas de membresía del centro de Partners de hasta 30 días después de la fecha de aniversario. Si un asociado no ha cumplido el período de gracia de 30 días después de la fecha de aniversario, debe enviar una incidencia de soporte técnico a través del centro de partners para indicar los detalles de su solicitud a fin de que se le conceda una invalidación de COVID después de que haya expirado el período de renovación de 30 días.
-
-Para obtener más información, consulte [renovación](renew-mpn-offers.md)de la oferta de MPN.
-
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Busque sus ventajas Microsoft Partner Network](mpn-find-benefits.md). 
+- [Busque sus ventajas Microsoft Partner Network](mpn-find-benefits.md).
+- [Renovación de la oferta de MPN](renew-mpn-offers.md)
