@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532011"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530721"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Umbrales de pago, métodos e intervalos de tiempo
 
@@ -33,6 +33,10 @@ Normalmente enviaremos todos los pagos cuyo vencimiento sea en un mes específic
 | ACH/SEPA | 2 a 3 días laborables |
 | Transferencia bancaria | 7 a 10 días laborables |
 | | |
+
+>[!NOTE]
+>Debido a los cambios en las tasas de cambio, el importe exacto de las ventas puede variar ligeramente de una moneda a otra. Las tasas de cambio se calculan mensualmente. Según el momento en que se realizó la transacción, se aplica la tasa de cambio adecuada. La tasa de cambio y la tasa de fecha para la que se aplicó se indican en el informe de pago en las columnas exchangeRate y exchangeRateDate, respectivamente.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Métodos de pago en países y regiones
 

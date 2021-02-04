@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776860"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530840"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analice sus clientes potenciales: vea cómo atrae a los clientes de destino y las posibles referencias
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analice sus clientes potenciales: vea cómo atrae a los clientes de destino y las posibles referencias.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Roles adecuados**
 
 - Administrador de referencias
-
-**Se aplica a**
-
-- Clientes potenciales de Marketplace
-- Clientes potenciales calificados
 
 La página de **clientes potenciales** de la sección de **análisis** de referencias le permite ver el rendimiento de las referencias. Revisa estas métricas periódicamente para identificar tendencias o áreas que requieran atención, y empieza a avanzar hacia tus objetivos empresariales.
 
@@ -115,3 +110,7 @@ Puede haber varios motivos por los que obtiene un gráfico en blanco como el que
 
 > [!TIP]
 > Para ver el rendimiento de las oportunidades de venta conjunta, revise la [Página de información sobre oportunidades de venta conjunta](referral-insights.md).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas](manage-leads.md)

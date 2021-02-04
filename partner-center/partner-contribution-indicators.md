@@ -1,7 +1,7 @@
 ---
 title: 'Indicadores de contribución de asociados: CBA'
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de siete indicadores de contribución de asociados (PCI) que muestran a los asociados cómo lograr una competencia de Business Applications de la nube Silver o Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204077"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530823"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usar indicadores de contribución de socios comerciales para lograr la competencia de Business Applications en la nube
 
@@ -125,7 +125,7 @@ Consulte las tablas siguientes para obtener más información:
 | Métrica de PCI | Indicador de rendimiento: neto nuevo ingresos | Indicador de rendimiento: nuevos clientes agregados | Indicador de capacidad: Consultores funcionales | Indicador de capacidad: crecimiento de Consultor funcional | Indicador de capacidad: desarrolladores | Indicador de éxito de cliente: nuevas implementaciones de gran tamaño | Indicador de éxito de cliente: crecimiento mensual de usuarios activos |
 |---|---|---|---|---|---|---|---|
 | **Puntos máximos** | 10 puntos | 10 puntos | 15 puntos | 15 puntos | 5 puntos | 20 puntos | 25 puntos |
-| **Elabora** | 300 000 USD | 10 | 10 | *\* Vea la nota* | 5 | 5 | 25 % |
+| **Elabora** | 300 000 USD | 10 | 15 | *\* Vea la nota* | 5 | 5 | 25 % |
 | **Desarrollar** | $150.000 | 5  | 5  |*\* Vea la nota* | 2 | 1 | 25 % |
 
 *\* Nota: los objetivos de crecimiento difieren en función del número de asesores de línea base y de la opción específica que un asociado utiliza para obtener puntos. Para obtener más información sobre las opciones para obtener los puntos o los objetivos de crecimiento específicos de cada opción, vea [definiciones para el crecimiento de Consultor funcional](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983348"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530670"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Cómo notificar problemas con el centro de Partners y enviar información de registros o diagnósticos
 
@@ -53,7 +53,7 @@ Si su problema requiere una conversación con el defensor de soporte técnico, p
 
 2. El centro de Partners comprueba la disponibilidad del calendario del defensor de soporte técnico.
 
-1. Al programar una cita, el centro de Partners le envía una invitación de calendario con información sobre el modo en que el defensor de soporte técnico se pondrá en contacto con usted, de modo que pueda realizar el seguimiento de esta cita en su propio calendario de trabajo.
+1. Al programar una cita, el centro de Partners le envía una invitación de calendario con información sobre el modo en que el defensor de soporte técnico se pondrá en contacto con usted, de modo que pueda realizar el seguimiento de esta cita en su propio calendario de trabajo.  Aunque esta funcionalidad todavía está en versión preliminar, el correo electrónico y la invitación de calendario estarán en inglés, pero el abogado podrá ayudarle en el idioma que seleccionó al crear el vale.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora":::
 
