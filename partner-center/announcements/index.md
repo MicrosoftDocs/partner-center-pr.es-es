@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042708"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552424"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
 Más información sobre las actualizaciones importantes del Centro de partners. Esta información se actualiza con frecuencia, así que asegúrate de revisarla de vez en cuando.
 
-| **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
+|**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Respuesta a la COVID-19: actualización de Microsoft Partner Network](2021-february.md#3)|4 de febrero|
+|Funcionalidades|[Nuevas actualizaciones del módulo de referencias del Centro de partners](2021-february.md#2)|4 de febrero|
+|Área de trabajo moderna|[Desuso y retirada de las API de calificación PUT para el proceso de validación de clientes de Education el 25 de febrero de 2021 y de las API de calificación GET el 4 de mayo de 2021](2021-february.md#1)|4 de febrero|
+| **Categoría** | **Anuncios de enero de 2021** | **Fecha del anuncio** |
 |Área de trabajo moderna|[Fase 1 ya disponible: Cambio en EU/EFTA de la moneda de facturación de asociados para nuevas ofertas comerciales](2021-january.md#15)|28 de enero|
 |Área de trabajo moderna|[Cambios en los requisitos de incorporación de clientes del Proveedor de soluciones en la nube (CSP)](2021-january.md#14)|28 de enero|
 |Funcionalidades|[Preguntas más frecuentes nuevas y actualizadas sobre Microsoft Partner Agreement (MPA): revendedores indirectos](2021-january.md#13)|27 de enero|
