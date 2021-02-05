@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215958"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588757"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -127,7 +127,70 @@ A veces, se puede producir un error en la migración y provocar errores. Estos s
 3. El usuario ya tiene un rol de referencia asignado en el centro de Partners.
     - Puede comprobar el rol existente del usuario. En la esquina superior derecha del centro de Partners, seleccione **configuración** (el icono de engranaje) y, después, configuración de la **cuenta**. Cuando vea un segundo menú de navegación a la izquierda, seleccione **Administración de usuarios** y busque el usuario.
 
-Una vez completada la migración de usuarios, utilice las siguientes instrucciones para decidir la estrategia de migración:
+## <a name="psc-deals-migration"></a>Migración de PSC
+
+Una vez completada la migración de usuarios, use el Asistente para migración de ofertas en la página oportunidades de venta conjunta para reunir todos los contratos abiertos válidos de PSC a PC. **El vínculo de migración de negocios solo será visible para los administradores de referencia con ámbito de organización completo en el centro de Partners.** En la parte superior derecha de la página oportunidades de venta conjunta, se abrirá el vínculo **"migración de acuerdos de PSC"** , que abrirá el Asistente para migración de trato.
+
+Lea esta sección antes de comenzar la migración del negocio.
+
+**Válido para la migración**
+
+Solo algunos acuerdos son válidos para la migración de PSC a PC. Este asistente para migración se ha creado para ayudar a los asociados a ofrecer sus tratos al centro de Partners, donde siguen trabajando activamente con sus clientes para cerrar el trato. **Solo se pueden migrar los contratos que tengan un estado abierto con detalles de cuenta de asociado válidos (ID. de MPN válido) y que no estén realizando el registro de trato.**
+
+**No es válido para la migración**
+
+- Los acuerdos de evaluación de soluciones no son válidos para la migración de acuerdos
+- Las empresas de licencias de OEM no son válidas para la migración de trato
+- Cualquier trato que se haya marcado como ganada en PSC no es válido para la migración. Se debe completar el registro del contrato si es posible para las ofertas marcadas como ganadas en PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Requisitos previos para la migración de acuerdos
+
+Antes de iniciar la migración de trato desde el equipo, siga las instrucciones siguientes para configurar las ofertas en PSC para una migración correcta.
+
+1. Se informa a todos los miembros del equipo de ventas de la empresa que trabajan en los negocios abiertos sobre esta migración.
+2. Los miembros del equipo de ventas están entrenados para utilizar el centro de partners para la administración de acuerdos.
+3. Los acuerdos tienen toda la información necesaria, tal y como se describe a continuación.
+    - Detalles de la empresa del cliente, incluidos el nombre y la dirección
+    - Detalles de contacto del cliente si se trata de un trato de venta conjunta
+    - Al menos una solución
+    - Al menos un miembro del equipo con todos los detalles: nombre, apellidos, ID. de correo electrónico y número de teléfono
+    - Valor de trato
+    - Fecha estimada de cierre del negocio
+    - Notas de asociados
+
+Puede usar las capacidades de descarga y carga masivas en PSC para limpiar los datos de todos los contratos que cumplan los requerimientos.
+
+>[!Note]
+> La migración de las transacciones se realizará correctamente incluso si no se cumplen los requisitos previos anteriores. Sin embargo, no puede cambiar el estado del trato si alguno de los campos obligatorios mencionados anteriormente en el centro de Partners no está disponible. A continuación, tendrá que especificar toda la información necesaria que falta en las ofertas del centro de partners para empezar a trabajar con ellas. **Se recomienda encarecidamente limpiar los acuerdos válidos en PSC antes de migrarlos al centro de Partners.**
+
+La migración del negocio en el centro de Partners se basa en una experiencia de un solo clic. Lo único que debe hacer es hacer clic en el botón **"migrar acuerdos"** una vez que su empresa esté preparada para migrar los contratos válidos. **No puede elegir los acuerdos que desea migrar desde PSC. Si no desea migrar ningún trato al centro de Partners, muévalos al estado Closed en PSC antes de iniciar la migración.**
+
+>[!Note]
+> Después de iniciar la migración, **los acuerdos pueden tardar hasta 24 horas en migrarse**.
+
+Una vez finalizada la migración, el mensaje del banner tendrá el estado cambiado a completado con un vínculo al informe de migración. Descargue el informe para ver los detalles de los acuerdos que se han migrado de PSC a PC.
+
+El informe incluye los detalles siguientes.
+
+1. **Identificador de Engagement del centro de Partners** : el identificador único en el centro de partners para todos los acuerdos de un compromiso. Hay dos contratos: uno para el socio y otro para Microsoft en una contratación de venta conjunta en el centro de Partners.
+2. **Identificador de referencia del centro de Partners** : identificador único en el centro de partners para el trato que pertenece al socio.
+3. **Nombre del trato** : el identificador dado al contrato en PSC.
+4. **Identificador de contrato de PSC** : el identificador único en PSC para el trato.
+5. **Errores** : para indicar si hay algún error al migrar un trato específico.
+
+Todos los acuerdos que se han migrado correctamente no estarán visibles en PSC. Puede trabajar en los negocios migrados en PC. No habrá ningún cambio en las interacciones con los vendedores de Microsoft para las ofertas de venta conjunta.
+
+Los acuerdos migrados desde PSC estarán disponibles en las pestañas entrante y saliente en función del origen del trato. Todos los acuerdos creados por los asociados estarán disponibles en la pestaña saliente y los acuerdos iniciados por Microsoft estarán disponibles en la pestaña entrada del centro de Partners. Habrá dos tipos de acuerdos que se crearán después de la migración.
+
+1. **Ofertas de venta conjunta** : los acuerdos que se marcan como de venta conjunta en PSC se crearán como ofertas de venta conjunta en el centro de Partners.
+2. **Acuerdos dirigidos por asociados** : los acuerdos que no estén marcados como de venta conjunta se crearán como ofertas dirigidas por asociados en el centro de Partners. Los acuerdos dirigidos por socios comerciales son visibles para los vendedores de Microsoft y se pueden actualizar a los acuerdos de venta conjunta antes de alcanzar el estado de terminal (ganada y perdida). Además, los acuerdos dirigidos por socios comerciales son válidos para el registro de trato si hay una solución que cumpla los incentivos en el trato.
+
+>[!Important]
+> Si hay algún error que se deba a que no se pudieron migrar algunos tratos, **puede volver a iniciar la migración del negocio haciendo clic en el botón "migrar contratos"**. Solo se habilitará si todavía hay algún trato que se pueda migrar. Esto también resultará útil si está en la fase de transición en la que se crean algunas nuevas ofertas en PSC después de iniciar la migración de trato.
+
+Una vez que todos los acuerdos se hayan migrado correctamente, se mostrará el banner **"no se trata de una migración"** con el botón **"migrar contratos"** **deshabilitado**.
+
+Después de completar la migración de usuarios y/o la migración del negocio, utilice las siguientes instrucciones para decidir la estrategia de migración:
 
 Si su empresa tiene un administrador de desarrollo de asociados (PDM), cuando se configure la cuenta del centro de Partners y los usuarios hayan movido y tengan roles y permisos, puede trasladar las actividades de venta conjunta al centro de Partners. Informe a PDM para que realice el cambio en lugar de esperar hasta que se complete la fecha límite de la migración, lo que permitirá que todos los nuevos acuerdos fluyan al centro de Partners.
 
@@ -327,7 +390,7 @@ Si está aquí porque vio un banner en PSC en el que se indica ' PSC invalid MPN
 
 En primer lugar, busque el identificador de MPN correcto siguiendo estos pasos:
 
-- Inicio de sesión en la cuenta del centro de Partners
+- Iniciar sesión en su cuenta del centro de Partners
 - Siga las instrucciones proporcionadas en la [documentación de configuración](./partner-center-account-setup.md#locate-your-mpn-id) de la cuenta para buscar el identificador de MPN.
 
 Después,
