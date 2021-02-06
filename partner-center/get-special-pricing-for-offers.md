@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367179"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624058"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
@@ -34,9 +30,9 @@ Microsoft ofrece precios especiales y reducidos para determinados grupos de clie
 
 |**Precio especial**   |**Calificaciones necesarias del reseller**   |**Calificaciones necesarias para el cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Ninguna   | Debe ser un [usuario de educación calificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender las suscripciones basadas en licencias a Government, no se requiere ninguna calificación.|   Ninguna|
-|Sin ánimo de lucro  |Ninguna<br/> Debe tener un inquilino de Azure Active Directory sin ánimo de lucro.<br/> Más información acerca de las [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese en el [programa de Microsoft sin ánimo de lucro](https://nonprofit.microsoft.com/#/register) para que sea válido.   |
+|Education   |None   | Debe ser un [usuario de educación calificado](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Gobierno   |Para vender Azure, Inscríbase con el [formulario de validación de la nube de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender las suscripciones basadas en licencias a Government, no se requiere ninguna calificación.|   None|
+|Sin ánimo de lucro  |None<br/> Debe tener un inquilino de Azure Active Directory sin ánimo de lucro.<br/> Más información acerca de las [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese en el [programa de Microsoft sin ánimo de lucro](https://nonprofit.microsoft.com/#/register) para que sea válido.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
 
@@ -44,7 +40,7 @@ Los siguientes pasos solo se aplican a proveedores indirectos y a asociados dire
 
 1. En el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners, seleccione el icono de engranaje en la esquina superior derecha de la ventana para abrir la configuración de la **cuenta**.
 
-2. En el **Perfil de socio comercial**, en la sección **información del programa** , busque **calificaciones del distribuidor**.
+2. En el **perfil legal**, en la sección **información del programa** , busque **calificaciones del distribuidor**.
 
 3. Si no ves **Calificaciones de revendedor**, no tienes autorización para comprar ofertas especiales.
 

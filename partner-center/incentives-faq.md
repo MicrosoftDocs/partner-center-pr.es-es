@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133072"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624228"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Preguntas más frecuentes sobre los incentivos
-
-**Se aplica a:**
-
-- Centro de partners
 
 **Roles adecuados:**
 
@@ -35,7 +31,7 @@ No. Tanto el administrador global como el administrador de cuentas pueden asigna
 
 Si intenta unirse a MPN y su empresa ya es miembro, MPN reconocerá el dominio y lo asociará a la cuenta existente. La cuenta existente puede ser la misma empresa o una empresa relacionada que usa el mismo dominio de correo electrónico, o el mismo directorio de actividad de Azure (Azure AD) para administrar varios dominios.
 
-Puede identificar el contacto principal en la página Perfil de socio comercial. Si su ubicación es la ubicación de MPNHQ, solo tiene que configurar los permisos necesarios para administrar los incentivos. Para obtener más información acerca de los roles y permisos, consulte la [información general sobre los permisos](permissions-overview.md).
+Puede identificar el contacto principal en la página de perfil legal. Si su ubicación es la ubicación de MPNHQ, solo tiene que configurar los permisos necesarios para administrar los incentivos. Para obtener más información acerca de los roles y permisos, consulte la [información general sobre los permisos](permissions-overview.md).
 
 Si no se encuentra en el mismo país que la ubicación de MPNHQ, consulte las [instrucciones para cuentas multinacionales](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) para obtener más información sobre este escenario.
 
@@ -51,9 +47,9 @@ Para obtener más información, vea [información general sobre permisos](permis
 
 Para buscar un administrador global o un administrador de cuenta que pueda realizar cambios en el rol o asignar roles a un nuevo usuario:
 
-1. En el icono de configuración de la cuenta de la parte superior derecha del centro de Partners, seleccione **Administración de usuarios** .
-2. Filtre por el administrador **global** o el administrador de la **cuenta** .
-3. También puede ir a **mi perfil** , seleccionar **roles y permisos** y ver una lista de los diferentes administradores que pueden ayudarle a elevar sus permisos.
+1. En el icono de configuración de la cuenta de la parte superior derecha del centro de Partners, seleccione **Administración de usuarios**.
+2. Filtre por el administrador **global** o el administrador de la **cuenta**.
+3. También puede ir a **mi perfil**, seleccionar **roles y permisos** y ver una lista de los diferentes administradores que pueden ayudarle a elevar sus permisos.
  
 Para obtener más información, consulte [Buscar el rol](find-your-role.md).  
 
@@ -63,9 +59,9 @@ La razón más probable por la que no puede ver incentivos es que no tiene los p
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/) con sus credenciales de inquilino de Azure ad (sus credenciales de trabajo). Si no puede iniciar sesión, póngase en contacto con el administrador global de su empresa.
 
-2. Al iniciar sesión, si se le pide que seleccione una cuenta **profesional** o una **cuenta personal** , seleccione **cuenta profesional** .
+2. Al iniciar sesión, si se le pide que seleccione una cuenta **profesional** o una **cuenta personal**, seleccione **cuenta profesional**.
 
-3. En el menú del centro de Partners, seleccione **incentivos** y, a continuación, seleccione **información general** . Si no dispone de los permisos de usuario de administrador y incentivos, se le mostrará la información de contacto para todos los administradores globales y de cuentas de su empresa. Póngase en contacto con uno de estos administradores para obtener el rol de incentivo para los identificadores y programas de estímulo necesarios.
+3. En el menú del centro de Partners, seleccione **incentivos** y, a continuación, seleccione **información general**. Si no dispone de los permisos de usuario de administrador y incentivos, se le mostrará la información de contacto para todos los administradores globales y de cuentas de su empresa. Póngase en contacto con uno de estos administradores para obtener el rol de incentivo para los identificadores y programas de estímulo necesarios.
 
 4. Si ya tiene un rol de administrador de incentivos, verá las inscripciones de su empresa para los identificadores de MPN y los programas de incentivos para los que tiene acceso.
 
@@ -75,7 +71,7 @@ Si ve menos inscripciones de las esperadas en la página **información general*
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
-2. En **configuración** , seleccione [Administración de usuarios](https://partner.microsoft.com/pcv/users).
+2. En **configuración**, seleccione [Administración de usuarios](https://partner.microsoft.com/pcv/users).
 
 3. Seleccione su nombre para ver sus permisos.
 

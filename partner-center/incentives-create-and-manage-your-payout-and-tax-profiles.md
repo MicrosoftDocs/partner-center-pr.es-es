@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492473"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624245"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
-**Se aplica a:**
-
-- Centro de partners
 
 **Roles adecuados:**
 
@@ -64,7 +61,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
    - Si solo puede iniciar sesión con el @onmicrosoft.com dominio, póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de Azure ad.
    - Si se le pide que seleccione una cuenta **profesional o educativa** o una cuenta **personal**, seleccione **cuenta profesional o educativa**.
 
-2. Seleccione el icono de engranaje para abrir el menú de **configuración** y, a continuación, seleccione **configuración de socio comercial**.
+2. Seleccione el icono de engranaje para abrir el menú de **configuración** y, a continuación, seleccione Configuración de la **cuenta**.
 
 3. En el menú configuración de la **cuenta** , seleccione **pago e impuestos**. 
 
@@ -72,7 +69,7 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/)y seleccione el icono de engranaje para abrir el menú de **configuración** . 
 
-2. Seleccione **configuración de socio comercial**, expanda la **sección pago y impuestos** y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
+2. Seleccione **configuración** de la cuenta, expanda la **sección pago y impuestos** y, a continuación, seleccione **asignación de perfil fiscal y de pago**. 
    
    Se mostrará una lista de los programas. Seleccione la flecha situada junto a un programa para ver los detalles del perfil. 
 
@@ -105,11 +102,11 @@ Los perfiles de banco se crean en el nivel de organización. Esto permite asigna
     **Ubicación de la cuenta bancaria:** País en el que se encuentra el Banco de su empresa.
     **Método de pago:** El método de pago preferido para el centro de Partners es transferencia bancaria electrónica.
 
-2. Seleccione **Siguiente**.
+2. Seleccione **Next** (Siguiente).
 
 3. En la página **cuenta bancaria** , escriba su información. Los campos que se muestran en esta página variarán en función del país. 
 
-4. Seleccione **Siguiente**.
+4. Seleccione **Next** (Siguiente).
 
 5. En la página **beneficiario** , escriba la información adecuada. El beneficiario es la persona de su empresa en la que el Banco se pondrá en contacto si necesita discutir su cuenta.
 
@@ -136,7 +133,7 @@ En el caso de las empresas asociadas de la América, si necesita información so
    - Seleccione la opción de la izquierda si su empresa se incorpora solo en el Estados Unidos, o si este perfil es para un individuo.
    - Seleccione la opción de la derecha si su empresa se incorpora fuera del Estados Unidos y, a continuación, seleccione su país o región en la lista.
 
-3. Seleccione **Siguiente**. 
+3. Seleccione **Next** (Siguiente). 
 
 4. En la página **Estado de impuestos** , escriba la información necesaria y, a continuación, seleccione **siguiente**. Los campos de esta página variarán en función del país. los detalles. 
 

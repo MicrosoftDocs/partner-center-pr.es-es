@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795782"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623990"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de factura directa restringida y los requisitos necesarios para los asociados de facturación directa de CSP  
 
@@ -29,13 +29,13 @@ Los asociados directos de facturación deben cumplir los nuevos [requisitos](dir
 
 Siga estos pasos para confirmar si se ha restringido el acceso desde el inquilino directo de facturación a las capacidades de factura directa.
 
-1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard).
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard).
 
-2. Vaya a **configuración de Partner**  ->  **Perfil de socio comercial** .
+2. Vaya a **configuración de la cuenta**  ->  **perfil legal**.
 
-3. En **información del programa** , busque **Microsoft Cloud estado del proveedor de soluciones** .
+3. En **información del programa**, busque **Microsoft Cloud estado del proveedor de soluciones**.
 
-4. Si el estado del programa tiene el valor **restringido** , significa que se ha restringido el acceso del inquilino directo de Bill Partner a las capacidades de factura directa.
+4. Si el estado del programa tiene el valor **restringido**, significa que se ha restringido el acceso del inquilino directo de Bill Partner a las capacidades de factura directa.
 
 ## <a name="affected-direct-bill-capabilities"></a>Capacidades de factura directa afectadas
 

@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114172"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624262"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administre las recompensas de Marketplace en el centro de Partners & activar marketing, ventas y beneficios técnicos
 
@@ -50,7 +50,7 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 1. Puede usar sus ventajas técnicas para solicitar asistencia técnica durante las fases de preventa, diseño, implementación y desarrollo de aplicaciones de sus soluciones híbridas y en la nube. Para solicitar asistencia, rellene el formulario de solicitud y, a continuación, seleccione **Enviar solicitud**.
 
-2. El uso de las ventajas de patrocinio de Azure se compartirá a través de un correo electrónico a medida que desbloquee estas ventajas.
+2. El uso de las ventajas de patrocinio de Azure se compartirá por correo electrónico a medida que desbloquee estas ventajas.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de premios Commercial Marketplace en mi panel?
 
@@ -60,7 +60,7 @@ La información de recompensas de Marketplace está disponible a través del inq
 
 1. Como administrador global o administrador de cuenta, inicie sesión en el PGA en el centro de Partners.
 
-2. Seleccione **configuración** (en la parte superior derecha), **configuración de socio comercial**, **inquilinos**. 
+2. Seleccione **configuración** (en la parte superior derecha), configuración de la **cuenta**, **inquilinos**. 
 
 3. Seleccione **asociar otro inquilino de Azure ad** y seleccione el inquilino Azure ad que desea asociar con el PGA.
 
