@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534733"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924970"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534733"
 - Agente de ventas
 - Administrador del control de usuarios
 
-La lista de precios para la nueva experiencia comercial de Azure en CSP se publica en el Centro de partners. Asimismo, esta lista de precios se entrega dinámicamente en un archivo preciso en tiempo real y los precios se muestran solo en USD. Sin embargo, la facturación se realiza en la moneda admitida aplicable a la ubicación de la moneda del cliente. Para obtener más información sobre la facturación en la ubicación de la moneda del cliente, consulta [Plan de Azure: facturación](azure-plan-billing.md).
+La lista de precios para la nueva experiencia comercial de Azure en CSP se publica en el Centro de partners. Asimismo, esta lista de precios se entrega dinámicamente en un archivo preciso en tiempo real y los precios se muestran solo en USD. A partir del 28 de enero de 2021, se facturará a los partners de la región de la UE/AELC y el Reino Unido que tengan nuevos clientes y clientes de CSP existentes que adquieran nuevas ofertas de comercio por primera vez y cuyos inquilinos se hayan creado antes del 11 de mayo de 2020 por esas compras en la moneda de la ubicación del partner.  A los partners situados fuera de la región de la UE/AELC y el Reino Unido se les seguirá facturando en la moneda de la ubicación del partner. Para obtener más información, consulte [Plan de Azure: facturación](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Consulta los precios de las suscripciones en los precios del plan de Azure
 

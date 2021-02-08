@@ -1,7 +1,7 @@
 ---
 title: Venta de suscripciones de software a través de CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para comprar, administrar, vender y cancelar instancias reservadas de Azure y las suscripciones de servidor para los clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000489"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098846"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 
@@ -92,27 +92,18 @@ Para comprar suscripciones de software en nombre de un cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activación y administración de suscripciones de software
 
-Después de adquirir la suscripción de software, sigue los pasos que se indican a continuación para descargarlo.
+Una vez que haya adquirido el software, sus clientes tendrán que descargarlo. Usa el siguiente procedimiento para hacerlo.
 
 >[!NOTE]
->Tienes que ser un agente de administración para descargar software y obtener las claves de activación.
+>Debe ser un agente de administración para obtener las claves y las descargas.
 
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
-
-2. Desde el menú del Centro de partners, selecciona **Clientes** y, a continuación, elige un cliente de la lista.
-
-3. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente. 
-
-4. Expande el producto que quieras descargar. En el campo **Seleccionar producto**, selecciona la **Versión**, el **Idioma** y el valor de **File type/OS** (Tipo de archivo/SO) que quieras. 
-
-5. Selecciona **Enviar** para mostrar los productos específicos. 
-
-6. Selecciona **Obtener descargas y claves**. 
-
-7. Selecciona **Descargar** para iniciar la descarga o selecciona **Copiar vínculo** para copiar el vínculo y enviarlo al cliente. 
+1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
+2. Copie el "vínculo profundo" desde el **vínculo a las descargas y claves de producto de software** y comparta el vínculo con el cliente. Al seleccionar este vínculo, se le redirigirá al Centro de administración de Microsoft para descargar y obtener las claves de producto.
 
 >[!NOTE]
->Este vínculo expirará después de dos semanas o 50 descargas, lo que ocurra primero. Una vez que expire el vínculo, vuelve a esta página y selecciona **Obtener descargas y claves** otra vez para habilitar otras dos semanas o 50 descargas. Puedes hacerlo tantas veces como sea necesario. 
+>Solo los clientes pueden ver las claves de producto y descargar información en el Centro de administración de Microsoft. Los partners no pueden ver esta información.
+
+Si usted o sus clientes quieren obtener más información sobre la descarga de claves de licencia, consulte [Descarga de claves de licencia de software y producto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Claves de licencia y descarga de suscripción de servidor disponibles a través del Centro de administración de Microsoft 365 para clientes 
 

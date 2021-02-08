@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658440"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924998"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
@@ -36,7 +36,7 @@ En este artículo se describe cómo acceder a la estructura del archivo de conci
 
 - **Plazo de pago de la factura**: Neto, 60 días.
 
-- **Moneda de la factura** : Los partners seguirán siendo facturados en la moneda asignada del país del cliente. Por ejemplo, si el partner facturado está en Irlanda y tiene clientes en el Reino Unido, Noruega y Alemania, entonces el partner facturado recibirá una factura o conciliación en GBP, NOK y EUR.
+- **Moneda de la factura** : A partir del 28 de enero de 2021, se facturará a los partners de la región de la UE/AELC y el Reino Unido que tengan nuevos clientes y clientes de CSP existentes que adquieran nuevas ofertas de comercio por primera vez y cuyos inquilinos se hayan creado antes del 11 de mayo de 2020 por esas compras en la moneda de la ubicación del partner. A los partners situados fuera de la región de la UE/AELC y el Reino Unido se les seguirá facturando en la moneda de la ubicación del partner.
 
 - **Incentivos de partners**: Pagado a 45 días desde el final del mes de la factura.
 

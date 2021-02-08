@@ -1,7 +1,7 @@
 ---
 title: Información general sobre la facturación del Centro de partners
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Obtén información básica sobre la facturación y las facturas para los partners de CSP en el Centro de partners. También se incluyen instrucciones sobre cómo facturar a los clientes y cómo buscar y leer tu factura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570712"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042725"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Información general sobre facturación para los partners de programas de CSP que trabajan en el Centro de partners 
 
@@ -53,7 +53,7 @@ Entre los tipos de facturación del Centro de partners se incluyen la **facturac
 
 **Facturación basada en licencia y en uso**: Se te facturarán los productos en la divisa del país o región en que te encuentres. Se te facturará lo mismo, independientemente de la ubicación del cliente al que hayas vendido los productos.
 
-**Facturación única**: La factura se generará en el contexto de la moneda del cliente. Esto significa que, si eres un partner que está realizando transacciones con clientes con distintas monedas de facturación, recibirás una factura por cada tipo de moneda de cliente. Más información acerca de la facturación [única y periódica](azure-plan-billing.md). 
+**Facturación única**: A partir del 28 de enero de 2021, se facturará a los partners de la región de la UE/AELC y el Reino Unido que tengan nuevos clientes y clientes de CSP existentes que adquieran nuevas ofertas de comercio por primera vez y cuyos inquilinos se hayan creado antes del 11 de mayo de 2020 por esas compras en la moneda de la ubicación del partner.  A los partners situados fuera de la región de la UE/AELC y el Reino Unido se les seguirá facturando en la moneda de la ubicación del partner. Más información acerca de la facturación [única y periódica](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Facturas
 
@@ -86,6 +86,8 @@ Verás los **ajustes** y los **créditos** por período vencido en tu siguiente 
 Condiciones de pago: 60 días netos. Las facturas deben haberse pagado en la fecha de vencimiento (60 días después de la fecha de facturación) o la cuenta se considerará morosa, lo que puede influir en tu inscripción en CSP. 
 
 Puedes recuperar la funcionalidad completa de tus cuentas suspendidas cuando pagues el importe vencido.
+
+Una vez que se haya proporcionado la información de facturación corregida, el pago será visible en la página de facturación del Centro de partners durante 5 días laborables.
 
 ### <a name="taxes-and-vat"></a>Impuestos e IVA
 
