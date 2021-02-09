@@ -1,7 +1,7 @@
 ---
 title: Administración de las ubicaciones en tu cuenta de partner
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aprenda a agregar una nueva ubicación y cómo se usa el identificador de MPN de ubicación en programas de incentivos, empresas de CSP, suscripciones y otras transacciones.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098897"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624279"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición de una nueva ubicación
 
@@ -47,6 +47,8 @@ Para agregar una nueva cuenta de empresa de CSP, empiece por asegurarse de cumpl
  >Recuerde iniciar sesión con las **nuevas** credenciales de la cuenta de CSP **nueva**. No use las credenciales existentes, ya que el Centro de partners reconocerá que ya tiene una cuenta.
 
 2. Acepte el contrato Microsoft Partner Agreement y active la cuenta.
+
+1. Si desea inscribirse como partner de facturación directa, consulte [Requisitos para partners de facturación directa](direct-partner-new-requirements.md).
 
 ## <a name="view-your-mpn-locations"></a>Visualización de las ubicaciones de MPN
 
