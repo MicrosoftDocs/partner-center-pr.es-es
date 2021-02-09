@@ -1,19 +1,19 @@
 ---
 title: Preguntas más frecuentes sobre incentivos
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Preguntas más frecuentes sobre los incentivos de Microsoft. En este artículo se incluyen preguntas acerca de los roles de usuario, cómo inscribirse o qué hacer con los mensajes de error.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624228"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835074"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Preguntas más frecuentes sobre los incentivos
 
@@ -67,17 +67,11 @@ La razón más probable por la que no puede ver incentivos es que no tiene los p
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Faltan algunas inscripciones en la página información general sobre incentivos.
 
-Si ve menos inscripciones de las esperadas en la página **información general** sobre incentivos, puede hacer lo siguiente.
+Si ha recibido una invitación de, o se ha inscrito en, un programa de incentivos que ya no está visible en el panel, debe comprobar que tiene el acceso adecuado. Solo los usuarios con el rol de usuario o administrador de incentivos pueden ver el programa. Consulte [Buscar el rol](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
+Si necesita cambiar el rol o los permisos, póngase en contacto con el administrador global o de la cuenta de su empresa. Para saber quiénes son estas personas, lea [Buscar el administrador global](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. En **configuración**, seleccione [Administración de usuarios](https://partner.microsoft.com/pcv/users).
-
-3. Seleccione su nombre para ver sus permisos.
-
-Si necesita cambiar el rol o los permisos, consulte el administrador global o de la cuenta de su empresa.
-
-Tenga en cuenta que en esta página solo se mostrarán las inscripciones asociadas a la cuenta global de socio comercial (PGA) asociada al inquilino de Azure AD. Si su compañía tiene más de un PGA, deberá tener credenciales diferentes para cada uno.
+Tenga en cuenta que en la página información general solo se muestran las inscripciones asociadas a la cuenta global de socio comercial (PGA) asociada al inquilino de Azure AD. Si su compañía tiene más de un PGA, deberá tener credenciales diferentes para cada uno.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>¿Con quién debo ponerme en contacto si obtengo un mensaje de error o necesito ayuda durante el proceso de inscripción?
 
