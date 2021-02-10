@@ -59,6 +59,9 @@
         - name: Información sobre las competencias Silver y Gold de Microsoft y las especializaciones avanzadas
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Inscribirse como partner de aprendizaje
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Preguntas más frecuentes sobre competencias
           href: competencies-faq.md
           displayName: 'renew, mpn'
