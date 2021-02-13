@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588757"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281340"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -158,7 +158,7 @@ Antes de iniciar la migración de trato desde el equipo, siga las instrucciones 
     - Fecha estimada de cierre del negocio
     - Notas de asociados
 
-Puede usar las capacidades de descarga y carga masivas en PSC para limpiar los datos de todos los contratos que cumplan los requerimientos.
+Puede usar las capacidades de descarga y carga masivas en PSC para agregar todos los detalles que faltan en el contrato para todos los contratos que cumplan los requerimientos.
 
 >[!Note]
 > La migración de las transacciones se realizará correctamente incluso si no se cumplen los requisitos previos anteriores. Sin embargo, no puede cambiar el estado del trato si alguno de los campos obligatorios mencionados anteriormente en el centro de Partners no está disponible. A continuación, tendrá que especificar toda la información necesaria que falta en las ofertas del centro de partners para empezar a trabajar con ellas. **Se recomienda encarecidamente limpiar los acuerdos válidos en PSC antes de migrarlos al centro de Partners.**
@@ -178,9 +178,9 @@ El informe incluye los detalles siguientes.
 4. **Identificador de contrato de PSC** : el identificador único en PSC para el trato.
 5. **Errores** : para indicar si hay algún error al migrar un trato específico.
 
-Todos los acuerdos que se han migrado correctamente no estarán visibles en PSC. Puede trabajar en los negocios migrados en PC. No habrá ningún cambio en las interacciones con los vendedores de Microsoft para las ofertas de venta conjunta.
+Todos los acuerdos que se han migrado correctamente no estarán visibles en PSC. Puede seguir trabajando en los negocios migrados en PC, incluido completar el registro del contrato en PC. No habrá ningún cambio en las interacciones con los vendedores de Microsoft para las ofertas de venta conjunta.
 
-Los acuerdos migrados desde PSC estarán disponibles en las pestañas entrante y saliente en función del origen del trato. Todos los acuerdos creados por los asociados estarán disponibles en la pestaña saliente y los acuerdos iniciados por Microsoft estarán disponibles en la pestaña entrada del centro de Partners. Habrá dos tipos de acuerdos que se crearán después de la migración.
+Los acuerdos migrados desde PSC estarán disponibles en las pestañas entrante y saliente en función del origen del trato. Todos los acuerdos compartidos por su empresa estarán disponibles en la pestaña de salida y los acuerdos iniciados por Microsoft estarán disponibles en la pestaña entrada del centro de Partners. Habrá dos tipos de acuerdos que se crearán después de la migración.
 
 1. **Ofertas de venta conjunta** : los acuerdos que se marcan como de venta conjunta en PSC se crearán como ofertas de venta conjunta en el centro de Partners.
 2. **Acuerdos dirigidos por asociados** : los acuerdos que no estén marcados como de venta conjunta se crearán como ofertas dirigidas por asociados en el centro de Partners. Los acuerdos dirigidos por socios comerciales son visibles para los vendedores de Microsoft y se pueden actualizar a los acuerdos de venta conjunta antes de alcanzar el estado de terminal (ganada y perdida). Además, los acuerdos dirigidos por socios comerciales son válidos para el registro de trato si hay una solución que cumpla los incentivos en el trato.
@@ -386,12 +386,20 @@ El centro de Partners no es accesible desde el PDM directamente, a diferencia de
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Búsqueda del identificador de MPN correcto si su cuenta en PSC no está asociada a un MPN válido
 
-Si está aquí porque vio un banner en PSC en el que se indica ' PSC invalid MPN ID Association problem ', está en el lugar correcto.
+Si está aquí porque vio un banner en PSC en el que se indica ' PSC invalid MPN ID Association problem ', está en el lugar correcto. Es posible que su cuenta se haya vinculado a un identificador de MPN no válido debido a las siguientes razones:
+
+- Su empresa no tiene una cuenta del centro de Partners.
+- El PDM ha cometido un error al escribir el ID. de MPN de su cuenta en los sistemas internos que vinculan su cuenta de PSC a su cuenta del centro de Partners (MPNID).
+- Su empresa no completó la migración del centro de pertenencia del asociado (PMC) al equipo.
 
 En primer lugar, busque el identificador de MPN correcto siguiendo estos pasos:
 
 - Iniciar sesión en su cuenta del centro de Partners
 - Siga las instrucciones proporcionadas en la [documentación de configuración](./partner-center-account-setup.md#locate-your-mpn-id) de la cuenta para buscar el identificador de MPN.
+
+A continuación se muestra una captura de pantalla que muestra la ubicación exacta en la que puede encontrar el identificador de MPN del centro de Partners.
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Imagen que muestra la configuración de la cuenta en la que el socio puede encontrar su identificador de MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Después,
 

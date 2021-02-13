@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980246"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281255"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Aprenda cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
@@ -53,9 +53,9 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
    
    5. En el paso 2, seleccione **C-impacto mínimo** y elija **otras preguntas generales** como tipo de problema.
    
-   6. Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Descargue el [formulario de transferencia de suscripciones de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA), Regístrese y, a continuación, envíelo al cliente. 
+3. El socio comercial de la suscripción: Rellene el [formulario de transferencia de suscripción de CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), Regístrese y, a continuación, envíelo al cliente. 
 
    Para rellenar el formulario, necesitarás la siguiente información:
 
@@ -92,7 +92,7 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
      ```
 
      >[!NOTE]
-     > El identificador de **inquilino** del cliente aparece en el centro de partners como el **identificador de Microsoft**del cliente. Para buscar el identificador de Microsoft (identificador de inquilino) de un cliente específico, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. A continuación, seleccione **Customers** en el menú. Busque el cliente en la lista. Seleccione la flecha hacia abajo para expandir la lista del cliente. Verá información sobre el *nombre de dominio* del cliente y el **identificador de Microsoft**del cliente. Use el **identificador de Microsoft** de 16 dígitos en el Commandlet de PowerShell.
+     > El identificador de **inquilino** del cliente aparece en el centro de partners como el **identificador de Microsoft** del cliente. Para buscar el identificador de Microsoft (identificador de inquilino) de un cliente específico, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. A continuación, seleccione **Customers** en el menú. Busque el cliente en la lista. Seleccione la flecha hacia abajo para expandir la lista del cliente. Verá información sobre el *nombre de dominio* del cliente y el **identificador de Microsoft** del cliente. Use el **identificador de Microsoft** de 16 dígitos en el Commandlet de PowerShell.
 
    - Observa los roles de la cuenta, incluidos los asociados de CSP anteriores:
 

@@ -9,7 +9,7 @@
     - name: Asóciate con Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Crear una cuenta del Centro de partners
+    - name: Creación de una cuenta de MPN en el Centro de partners
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Obtención de un correo electrónico del trabajo
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Renovar tus ofertas
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Solicitar un reembolso
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Buscar las ventajas de MPN
           href: mpn-find-benefits.md
@@ -87,6 +90,9 @@
         - name: Ventajas de la comercialización
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
+        - name: Demostraciones para partners de MPN
+          href: mpn-demos.md
+          displayName: mpn
         - name: Preguntas frecuentes sobre ventajas
           href: benefits-faq.md
           displayName: 'renew, license,'
@@ -121,9 +127,6 @@
     - name: 'Microsoft Partner Agreement: CSP'
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Administrar ubicaciones
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Cómo pueden ayudar los proveedores indirectos a sus revendedores a adoptar la MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -191,6 +194,9 @@
           displayName: mpn
         - name: Vincular la cuenta profesional
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Administrar ubicaciones
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Comprobar la propiedad del dominio
           href: become-global-admin.md
         - name: Verificar la información de la cuenta
@@ -256,6 +262,8 @@
       items:
         - name: Acerca de los clientes potenciales de venta conjunta
           href: manage-co-sell-opportunities.md
+        - name: Operaciones masivas
+          href: bulk-operations.md
         - name: Usar conectores de CRM de venta conjunta
           items:
             - name: "Para Dynamics\_365"

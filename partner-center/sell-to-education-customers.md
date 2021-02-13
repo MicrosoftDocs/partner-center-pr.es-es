@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916923"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281308"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el centro de Partners
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916923"
 
 ## <a name="create-an-education-customer"></a>Crear un cliente educativo
 
-En este artículo se explica cómo crear un cliente de educación en el centro de Partners y vender productos de educación a ellos. También se explica cómo ver el estado de comprobación y volver a enviar la solicitud de comprobación si es necesario.
+En este artículo se explica cómo crear un cliente de educación en el centro de Partners y vender productos de educación a ellos. También se explica cómo ver el estado de comprobación y volver a enviar la solicitud de comprobación si es necesario. Actualmente, las ofertas educativas **solo están disponibles para servicios basados en licencias** como Microsoft 365, Dynamics, Intune, etc. No está disponible para otros tipos (suscripciones de software, software perpetuo o productos de Azure).
 
 > [!IMPORTANT]
 > Microsoft comprueba cada inquilino de cliente de educación recién creado para asegurarse de que está cualificado para las ofertas educativas.  Asegúrese de especificar la información necesaria de la forma más precisa y completa posible para evitar retrasos en el proceso de comprobación.
@@ -75,7 +75,7 @@ Ejemplos de estado:
 
 Si el cliente no supera la comprobación inicial, ahora puede corregir la información y volver a enviarla.
 
-### <a name="correct-the-customer-account-information"></a>Corregir la información de la cuenta del cliente
+### <a name="correct-the-customer-account-information"></a>Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el centro de Partners
 
 Debe tener privilegios de administrador global para actualizar la información del cliente. La información se actualiza en el portal de Office 365 porque estos datos no se pueden actualizar desde el portal del centro de Partners.
 
@@ -83,11 +83,11 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 2. Actualice el explorador para restablecer la página. Habrá un botón **Actualizar** y el **estado especial** de las calificaciones se establecerá en **ninguno**.
 
-3. Seleccione **Actualizar**. En la página **Administración de servicios** , seleccione **Office 365**.
+3. Selecciona **Actualización**. En la página **Administración de servicios** , seleccione **Office 365**.
 
 4. Se le redirigirá al centro de administración de Office 365 en una nueva pestaña del explorador. Es posible que se le pida que inicie sesión con sus credenciales.
 
-5. Seleccione **Configuración**.
+5. Haga clic en **Configuración**.
 
 6. Seleccione la pestaña Perfil de la **organización** en la parte superior de la pantalla y, a continuación, información de la **organización**. Ahora puede actualizar los detalles del cliente.
 

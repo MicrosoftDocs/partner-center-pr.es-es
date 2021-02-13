@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624058"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281299"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624058"
 - Agente de administrador
 - Agente de ventas
 
-Microsoft ofrece precios especiales y reducidos para determinados grupos de clientes, incluidos clientes educativos, clientes sin ánimo de lucro, pequeñas empresas y entidades gubernamentales. Tanto usted como el cliente deben estar calificados para poder ofrecerles precios especiales. 
+Microsoft ofrece precios especiales y reducidos para determinados grupos de clientes, incluidos clientes educativos, clientes sin ánimo de lucro, pequeñas empresas y entidades gubernamentales. Tanto usted como el cliente deben estar calificados para poder ofrecerles precios especiales. Estas ofertas especiales con precios solo están **disponibles actualmente para servicios basados en licencias** como Microsoft 365, Dynamics, Intune, etc. No está disponible para otros tipos (suscripciones de software, software perpetuo o productos de Azure).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Requisitos para vender sectores especializados
 

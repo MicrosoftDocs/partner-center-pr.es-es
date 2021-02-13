@@ -1,7 +1,7 @@
 ---
-title: Crear una cuenta del Centro de partners
+title: Creación de una cuenta de MPN en el Centro de partners
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo los miembros de Microsoft Partner Network pueden crear una cuenta en el Centro de partners para administrar sus ventajas y competencias en la red.
@@ -9,109 +9,68 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979743"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013697"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta del Centro de partners para administrar las ventajas y las competencias en la red
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta de MPN en el Centro de partners para administrar las ventajas y las competencias en la red
 
-**Roles adecuados**
 
-- Administrador global
-- Agente de administrador
+Si no está familiarizado con Microsoft Partner Network (MPN) y no tiene un id. de MPN, puede realizar la inscripción siguiendo las [instrucciones de inscripción](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
-Para poder crear una cuenta en el Centro de partners, tu empresa debe ser miembro de Microsoft Partner Network. Si aún no eres miembro de esta red, puedes [unirte ahora](https://partner.microsoft.com/commercial#). Después de crear una cuenta del Centro de partners, ve este breve vídeo sobre la [detección de tu panel](https://vimeo.com/290338211).
+## <a name="prerequisites"></a>Prerrequisitos 
 
-## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Obtención de una dirección de correo electrónico laboral antes de configurar una cuenta del Centro de partners
+Cuando esté listo para crear una cuenta en el Centro de partners, para empezar, necesitará tener los siguientes elementos a mano.  Tómate unos minutos para recopilar estos datos antes de comenzar:
 
-Su empresa debe comprar un dominio de correo electrónico para poder configurar las direcciones de correo electrónico laborales para los empleados. Colabore con su departamento de TI para comprar un dominio de correo electrónico, ya que se trata de un proceso técnico. Use el nuevo correo electrónico para configurar el inquilino de Azure AD y la cuenta del Centro de partners.
-
-## <a name="get-started"></a>Introducción
-
-Para crear una cuenta en el Centro de partners, deberás tener a mano la siguiente información. Tómate unos minutos para recopilar estos datos antes de comenzar:
-
-- Correo electrónico profesional del administrador global.
-
-- Si no estás seguro de cuál es la cuenta profesional de su empresa, consulta [Cuenta profesional de tu empresa y Centro de partners](azure-active-directory-tenants-and-partner-center.md). Si tu empresa no tiene ninguna cuenta profesional, puedes crear una durante el proceso de creación de la cuenta. 
-
-- Nombre legal y dirección de tu empresa.  
+- El correo electrónico de trabajo de la empresa o la cuenta profesional de Office 365. Para obtener más información, consulte [Cuenta profesional de la compañía y Centro de partners](azure-active-directory-tenants-and-partner-center.md). 
+ 
+- Nombre legal y dirección de tu empresa.
 
 - Autoridad para firmar acuerdos legales. Asegúrate de que tienes autorización para firmar acuerdos legales en nombre de la empresa, ya que se te pedirá que lo hagas durante el proceso de inscripción.
 
-- El nombre y el correo electrónico empresarial de la persona que quieras que sea el contacto principal. Para ayudar a garantizar la seguridad y la privacidad de tu empresa, te enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se registró para tener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a tu empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
+- El nombre y el correo electrónico empresarial de la persona que quieras que sea el contacto principal. Para ayudarle a garantizar la seguridad y privacidad de la empresa, enviaremos un correo electrónico a su contacto principal para comprobar esa dirección de correo electrónico y garantizar que pertenezca a la empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada. Tenga en cuenta que la comprobación tarda entre 3 y 5 días laborables normalmente. 
 
-Comprobaremos esta información durante el proceso de creación de la cuenta. Para obtener información sobre el proceso de verificación, consulte [Verificación de la cuenta.](verification-responses.md)
- 
-## <a name="create-a-partner-center-account"></a>Crear una cuenta del Centro de partners
+- Para obtener información sobre el proceso de verificación, consulte [Verificación de la cuenta.](verification-responses.md)
 
-1.  Revisa la información de la página **Bienvenida** y después haz clic en **Siguiente**.
+>[!NOTE]
+>Si la pertenencia a Microsoft Partner Network todavía está en Partner Membership Center (PMC), debe migrar la cuenta inmediatamente al Centro de partners. Descargue la [guía paso a paso para realizar migraciones](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
-2.  Inicia sesión como administrador global en la cuenta profesional de tu empresa. Si no estás seguro de la cuenta profesional de tu empresa, consulta [Cuenta profesional de tu empresa y Centro de partners](azure-active-directory-tenants-and-partner-center.md).
+## <a name="get-started"></a>Primeros pasos
 
-    Selecciona **Iniciar sesión** si sabes que tu empresa tiene una cuenta de correo electrónico profesional. En la página siguiente, escribe las credenciales de administrador global de la cuenta profesional de tu empresa. 
+1. Comience con el correo electrónico del trabajo que haya proporcionado su empresa, como you@yourcompanyname.com.
+ 
+    a.  La dirección de correo electrónico debe ser válida y debe tener acceso a ella, ya que se enviará un código de verificación para continuar.
 
-    Si tu empresa no tiene ninguna cuenta profesional, selecciona **Crear una** para configurar una ahora. Tras crear tu cuenta profesional, inicia sesión con las credenciales de administrador global de la cuenta profesional que acabas de crear.
+    b.  La dirección de correo electrónico no debe contener palabras como "info", "admin", "email@.." o "marketing@...", ya que no se admiten.
 
-3.  Proporcione o actualice el perfil legal de su empresa.
+    c.  Para adquirir ASIGNACIONES o administrar las competencias, tendrá que actualizar esta cuenta; para ello, debe comprobar el dominio y convertirse en el administrador. 
 
-    Puede buscar el perfil de la empresa o escribir la información de la empresa manualmente. Si su empresa está registrada con [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use el id. DUNS para buscar la información de su empresa. Si desea proporcionar los detalles de la empresa usted mismo, seleccione **Manual**.
+2. Puede iniciar sesión con su cuenta profesional de Office 365; por ejemplo, you@contoso.onmicrosoft.com.
 
-4. Una vez que haya proporcionado la información de la empresa, escriba la información de contacto principal y, a continuación, seleccione **Inscribir ahora**.
+   >[!NOTE]
+   > Recuerde que no puede usar las credenciales de la cuenta de CSP existentes para inscribirse en MPN.
 
-    El contacto principal debe ser la persona de tu empresa con la que podamos ponernos en contacto respecto a la aplicación (puedes ser tú u otra persona de la empresa). También usaremos esta información para comprobar que esa persona trabaja en la empresa y se ha inscrito para tener una cuenta del Centro de partners.
+3. Proporcione los detalles empresariales legales de su compañía.
 
-    > [!IMPORTANT]  
-    > Para ayudar a garantizar la seguridad y la privacidad de tu empresa, enviaremos un mensaje de correo electrónico al contacto principal para comprobar que (1) se ha registrado para obtener una cuenta del Centro de partners y que (2) esta dirección de correo electrónico pertenece a tu empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos nuestra revisión de la información proporcionada.
+Asimismo, puede buscar el perfil de la empresa o escribir la información de esta manualmente. Si su empresa está registrada con [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use el id. DUNS para buscar la información de su empresa. Si desea proporcionar los detalles de la empresa usted mismo, seleccione **Manual**.
 
-5.  Lee y acepta los términos y condiciones del acuerdo de Microsoft Partner Network. 
+Una vez que haya proporcionado la información de la empresa, escriba la información de contacto principal y, a continuación, seleccione **Inscribirse ahora**.
+El contacto principal debe ser la persona de tu empresa con la que podamos ponernos en contacto respecto a la aplicación (puedes ser tú u otra persona de la empresa).
 
-6.  Comprueba que se te ha agregado al grupo de agentes de administrador. Para terminar de configurar la cuenta, incluida la incorporación de otros usuarios, debes tener permisos de agente de administrador. Sigue estos pasos para ver o actualizar tus permisos:
+>[!IMPORTANT]
+>Para garantizar la seguridad y privacidad de la empresa, enviaremos un correo electrónico a su contacto principal para comprobar esa dirección de correo electrónico y garantizar que pertenezca a la empresa. Cuando el contacto principal verifique la dirección de correo electrónico, seguiremos con la revisión de la información proporcionada. Tenga en cuenta que la comprobación tarda entre 3 y 5 días laborables normalmente. 
 
-    a. En el [panel](https://partner.microsoft.com/dashboard/home**) del Centro de partners, selecciona el icono **Configuración** y, a continuación, selecciona **Administración de usuarios**.  
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Cómo ver los detalles de la cuenta o ver y descargar el contrato de MPN
 
-    b. Selecciona tu nombre en la lista de usuarios y, después, selecciona **Agente de administrador**, si aún no está seleccionado. Selecciona **Actualización**.  
+Inicie sesión en el Centro de partners con las credenciales de MPN. Seleccione [**Perfil de partner**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) para ver los detalles legales de la empresa, el estado de la comprobación, sus id. de MPN y para crear nuevas ubicaciones de MPN si fuera necesario. 
 
-## <a name="view-mpn-account-details"></a>Visualización de los detalles de la cuenta de MPN
+También puede ver otra información importante como los id. de MPN, puede administrar las ubicaciones de MPN y ver el contrato de Microsoft Partner Agreement mediante los vínculos del menú izquierdo, tal como se muestra en la siguiente captura de pantalla.
 
-Una vez que se cree la cuenta del Centro de partners, puede volver al Centro de partners para ver varios detalles de la cuenta. Muchos de estos aparecen en la página **Perfil del partner** del [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+:::image type="content" source="images/mpn-new.png" alt-text="Perfil de partner":::
 
-Entre estos detalles se incluyen:
-
-- El perfil de empresa legal de su compañía
-
-- Información sobre el identificador de MPN
-
-- Vínculos a los contratos actuales asociados a su programa de Microsoft inscrito
-
-  Por ejemplo, si está inscrito en el programa MPN, verá un vínculo al contrato de Microsoft Partner Network actual. Si está inscrito en otros programas de partners, como el programa de Proveedor de soluciones en la nube (CSP), también puede ver vínculos a otros contratos, como el Microsoft Partner Agreement (MPA). 
-
-  > [!NOTE]
-  > Ver estos tipos de vínculos puede ser útil si alguna vez desea revisar, acceder o descargar un contrato, o comprobar la fecha en la que se firmó.
-
-### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Cómo ver los detalles de la cuenta o ver y descargar el contrato de MPN
-
-Siga estos pasos para ver los detalles de la cuenta o ver y descargar el contrato de MPN:
-
-1. Con el nombre de usuario y la contraseña de su cuenta profesional, inicie sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
-
-2. Aparece una página Información general. (Si no ve la página Información general, seleccione **Información general** en el menú de navegación izquierdo).
-
-3. Seleccione el icono de engranaje en la esquina superior derecha del panel y, a continuación, seleccione **Configuración de partners**. Esto le llevará a la página de Perfil del partner.
-
-4. En la página Perfil del partner, verá distintas áreas. Entre ellas se incluyen un área de **Perfil de empresa legal** y un área **Información del programa**.
-
-5. En **Información del programa**, busque el campo **MPN program status** (Estado del programa MPN). Esto muestra un vínculo a su contrato de Microsoft Partner Network. También describe el estado actual del programa.
-
-
-   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Imagen que muestra el área de Información del programa en la página Perfil del partner con un cuadro rojo que resalta el campo de estado del programa MPN en esta área, junto con el vínculo asociado al contrato de Microsoft Partner Network.":::
-
-6. Para ver o descargar este contrato, seleccione **Contrato de Microsoft Partner Network**.  
-
-> [!NOTE]
-> También puede seguir los pasos anteriores para ver o descargar otros contratos para otros programas inscritos, como Microsoft Partner Agreement si está inscrito en el programa Proveedor de soluciones en la nube (CSP).
 
 ## <a name="next-steps"></a>Pasos siguientes
 
