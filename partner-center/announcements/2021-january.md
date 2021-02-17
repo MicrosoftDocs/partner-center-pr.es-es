@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974763"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541036"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -348,7 +348,9 @@ Todos los partners que realizan transacciones a través del programa Proveedor d
 
 A partir de febrero de 2021, Microsoft implementará una limitación de API para lograr un rendimiento más coherente en un intervalo de tiempo para los partners que realizan llamadas a las API del Centro de partners. La limitación se aplicará al número de solicitudes enviadas a un servicio dentro de un intervalo de tiempo con el fin de evitar el uso excesivo de los recursos. Cuando se supere un umbral de limitación, el Centro de partners limitará las solicitudes posteriores de ese cliente durante un período de tiempo.
   
-**Ventajas para partners:** El Centro de partners está diseñado para controlar un gran volumen de solicitudes, pero, si unos cuantos partners realizan un inmenso número de solicitudes, la limitación le ayudará a mantener un rendimiento y una confiabilidad óptimos para todos los partners.  
+**Ventajas para partners:**
+
+El Centro de partners está diseñado para controlar un gran volumen de solicitudes, pero, si unos cuantos partners realizan un inmenso número de solicitudes, la limitación le ayudará a mantener un rendimiento y una confiabilidad óptimos para todos los partners.  
 
 - La limitación garantizará que el tiempo de inactividad sea mínimo.
 - La limitación reducirá el número de solicitudes de gran volumen, lo que ayudará a garantizar un rendimiento coherente para todos los partners.

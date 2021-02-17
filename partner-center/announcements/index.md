@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588740"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490162"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,9 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Presentación de Temas Microsoft Viva](2021-february.md#7)|12 de febrero|
+|Ofertas/mercados|[Cambios de precios de Microsoft 365 E3 a partir de marzo de 2021](2021-february.md#6)|11 de febrero|
+|Ofertas/mercados|[Vista previa de la lista de precios basados en licencias actualizada para coronas noruegas](2021-february.md#5)|10 de febrero|
 |Funcionalidades|[Las evaluaciones prémium, un complemento de Compliance Manager, estarán disponibles a partir del 1 de marzo de 2021](2021-february.md#4)|5 de febrero|
 |Funcionalidades|[Respuesta a la COVID-19: actualización de Microsoft Partner Network](2021-february.md#3)|4 de febrero|
 |Funcionalidades|[Nuevas actualizaciones del módulo de referencias del Centro de partners](2021-february.md#2)|4 de febrero|
