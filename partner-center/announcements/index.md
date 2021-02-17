@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490162"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540988"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Ya disponible: Migración de DocuSign a Adobe Sign para partners con contratos de Microsoft Partner Agreement (MPA)](2021-february.md#9)|16 de febrero|
+|Hacer crecer el negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-february.md#8)|16 de febrero|
 |Funcionalidades|[Presentación de Temas Microsoft Viva](2021-february.md#7)|12 de febrero|
 |Ofertas/mercados|[Cambios de precios de Microsoft 365 E3 a partir de marzo de 2021](2021-february.md#6)|11 de febrero|
 |Ofertas/mercados|[Vista previa de la lista de precios basados en licencias actualizada para coronas noruegas](2021-february.md#5)|10 de febrero|
