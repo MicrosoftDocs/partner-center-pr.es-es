@@ -9,16 +9,208 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624177"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541005"
 ---
 # <a name="february-2021-announcements"></a>Anuncios de febrero de 2021
 
 En esta página se detallan los anuncios del Centro de partners de Microsoft de febrero de 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Ya disponible: Migración de DocuSign a Adobe Sign para partners con contratos de Microsoft Partner Agreement (MPA)
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 16-02-2021
+- Capacidades
+
+### <a name="summary"></a>Resumen
+
+Microsoft pasará el procesamiento de firmas electrónicas de DocuSign a Adobe Sign.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Partners directos e indirectos actuales del programa Proveedor de soluciones en la nube (CSP) con un MPA.
+
+### <a name="details"></a>Detalles
+
+En febrero de 2021, Microsoft empezará a realizar la transición del procesamiento de firmas electrónicas de DocuSign a Adobe Sign para los partners de CSP.
+
+La transición debería realizarse sin problemas. Tras la migración, recibirá un correo electrónico de adobesign@adobesign.com, en lugar de DocuSign, cada vez que se requiera su firma electrónica. Este correo electrónico le proporcionará un vínculo a la página web de Adobe Sign, en la que tendrá que firmar. Los partners de Microsoft no tendrán que volver a firmar los contratos existentes, sino que únicamente se aplicará para los contratos del canal futuros. Los partners de Ucrania, Rusia y Kazajstán deberán volver a firmar física o electrónicamente la cláusula adicional cada año.
+
+Puede consultar un ejemplo de un correo electrónico de solicitud de firma de Adobe Sign en la [galería de recursos](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+Para obtener la mejor experiencia, debe hacer lo siguiente:
+
+1. Agregue adobesign@adobesign.com a la lista de remitentes seguros para evitar que los correos electrónicos de esta cuenta se envíen directamente a la carpeta de correo no deseado.
+2. Colabore con su departamento de TI para realizar lo siguiente:
+    - Agregar la dirección de correo electrónico adobesign@adobesign.com a su lista de remitentes seguros a fin de asegurarse de que no esté incluida en ninguna regla de suplantación de identidad (phishing) establecida previamente.
+    - Actualizar las directivas de seguridad existentes a fin de asegurarse de que todos los destinatarios necesarios puedan firmar la documentación con la licencia para empresas de Adobe Sign.
+
+Los recursos relativos a las preguntas sobre incorporación, funcionalidades y procesos empresariales se pueden encontrar en la [página para partners de migración de Adobe Sign](https://aka.ms/eSignature/External).
+
+Adobe Sign es la solución de firma electrónica (ESS) preferida de Microsoft. La transición a Adobe Sign garantizará una experiencia de firma electrónica segura y eficaz que aportará un mayor beneficio a los clientes y partners.
+
+Para obtener información adicional sobre cómo firmar electrónicamente los documentos y cómo delegar firmas electrónicas, consulte los siguientes tutoriales:
+
+- [Cómo firmar electrónicamente un documento | Tutoriales de Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegación de la firma de un documento a otro usuario | Tutoriales de Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Comparta esta información con las partes interesadas pertinentes de su organización.
+
+### <a name="questions"></a>¿Tiene preguntas?
+
+Si tiene alguna pregunta, póngase en contacto con su Centro de operaciones regional mediante [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) o en [Explore.ms](https://www.explore.ms/). Siga el proceso de CLT estándar detalladamente para que podamos resolver su consulta lo más rápido posible.
+
+### <a name="change-log"></a>Registro de cambios
+
+- 15 de enero de 2021, fecha de publicación original: 
+- 16 de febrero de 2021: Ya disponible, nuevo recurso: Página par partners de migración de Adobe Sign 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 16-02-2021
+- Hacer crecer su negocio
+
+### <a name="summary"></a>Resumen
+
+Microsoft implementará una limitación de API para lograr un rendimiento más coherente en un intervalo de tiempo para los partners que realizan llamadas a las API del Centro de partners.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los partners que realizan transacciones a través del programa Proveedor de soluciones en la nube (CSP)  
+
+### <a name="details"></a>Detalles
+
+A partir de febrero de 2021, Microsoft implementará una limitación de API para lograr un rendimiento más coherente en un intervalo de tiempo para los partners que realizan llamadas a las API del Centro de partners. La limitación se aplicará al número de solicitudes enviadas a un servicio dentro de un intervalo de tiempo con el fin de evitar el uso excesivo de los recursos. Cuando se supere un umbral de limitación, el Centro de partners limitará las solicitudes posteriores de ese cliente durante un período de tiempo.
+
+**Ventajas para partners:**
+
+El Centro de partners está diseñado para controlar un gran volumen de solicitudes, pero, si unos cuantos partners realizan un inmenso número de solicitudes, la limitación le ayudará a mantener un rendimiento y una confiabilidad óptimos para todos los partners.  
+
+- La limitación garantizará que el tiempo de inactividad sea mínimo.
+- La limitación reducirá el número de solicitudes de gran volumen, lo que ayudará a garantizar un rendimiento coherente para todos los partners.
+
+**API que se van a limitar:**
+
+| Operación | Documentación del Centro de partners |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Obtención de todas las suscripciones de un cliente](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Obtener una suscripción según el id.](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [Obtención de todos los pedidos de un cliente](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obtener un pedido en función del id.](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Obtener el estado de aprovisionamiento de la suscripción](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Administrar pedidos y administrar una suscripción](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Obtener una lista de complementos para una suscripción](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Obtención de una lista de los derechos de Azure para una suscripción](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Obtener el estado de registro de la suscripción](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [Obtener todas las transferencias de un cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obtener el estado de actualización del producto](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Obtener una lista de ofertas de conversión de versiones de prueba](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Se recomienda encarecidamente que los partners se planteen el uso de la API de registro de actividad a fin de obtener una mayor eficiencia y evitar la limitación. Para obtener más información sobre esta característica, consulte los detalles  [aquí](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Revise los  [recursos](/partner-center/develop/api-throttling-guidance)  de este tema y adopte las medidas necesarias.  
+
+_______________
+
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Presentación de Temas Microsoft Viva
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 12 de febrero de 2021
+- Capacidades
+
+### <a name="affected-audience"></a>Audiencia afectada
+
+Todos los partners que operan a través del programa Proveedor de soluciones en la nube (CSP)
+
+### <a name="details"></a>Detalles
+
+Temas Microsoft Viva aplica inteligencia artificial (IA) para detectar el conocimiento y la experiencia a lo largo de su organización, y los mantiene en temas compartidos, como productos, clientes o proyectos. Con las cartas de temas y las páginas de temas envolventes, el conocimiento le encuentra en el contexto de sus equipos, proyectos y documentos. La IA y las personas trabajan juntas para mejorar el conocimiento y exponerlo en las aplicaciones que usted usa cada día. 
+
+Los usuarios deben tener licencia para uno de los siguientes programas para poder participar en Temas Viva:   
+- Microsoft 365 F1, F3, E3, A3, E5 o A5 
+- Office 365 F3, E1, A1, E3, A3, E5 o A5 
+- Microsoft 365 Empresa Básico, Estándar o Premium 
+- SharePoint K, plan 1 o plan 2 
+
+**Detalles de la oferta**
+
+A estas ofertas se les agregará "Experiencias de Temas" en los nombres de oferta en las listas de precios el 1 de febrero.  Estos nombres de oferta se actualizarán con "Temas Viva" cuando las listas de precios se actualicen el 1 de marzo.
+
+|**Nombre de la oferta**|**Identificador de oferta**|**Id. de material**|
+|------------------|:--------------------|:------------------|
+|Temas Viva|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Temas Viva para profesores|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|Temas Viva para estudiantes|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Revise los recursos sobre este tema y comparta esta información con las partes interesadas adecuadas de su organización.  
+- Puede encontrar más información en el [centro de recursos de Temas Viva](https://resources.techcommunity.microsoft.com/viva-topics).
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Cambios de precios de Microsoft 365 E3 a partir de marzo de 2021
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 11 de febrero de 2021
+- Ofertas/mercados
+
+### <a name="affected-audience"></a>Audiencia afectada
+
+Todos los partners que operan a través del programa Proveedor de soluciones en la nube (CSP) en EUR, AUD, GBP y JPY.
+
+### <a name="details"></a>Detalles
+
+La lista de precios de versión preliminar basados en licencias para marzo de 2021 se ha actualizado para incluir los cambios de precio de Microsoft 365 E3. A continuación se muestran la oferta y las monedas afectadas. 
+ 
+Nombre de la oferta: Microsoft 365 E3. Id. de la oferta: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091. Id. de material: AAA-35638
+
+Estas actualizaciones de precios de Microsoft 365 E3 se limitan solo a estas monedas: JPY (yen japonés), GBP (libra esterlina), EUR (euro), AUD (dólar australiano). Existen otros cambios de precios en el archivo de marzo, y los partners deben obtener la versión preliminar más reciente para ver los demás cambios esperados.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Los partners deben descargar los archivos de listas de precios más recientes del Centro de partners para obtener los precios más recientes de marzo. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Lista de precios de versión preliminar basados en licencias actualizada para coronas noruegas
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 10 de febrero de 2021
+- Ofertas/mercados
+
+### <a name="affected-audience"></a>Audiencia afectada
+
+Todos los partners que operan a través del programa Proveedor de soluciones en la nube (CSP)
+
+### <a name="summary"></a>Resumen
+
+La lista de precios de versión preliminar basados en licencias se ha actualizado para los precios esperados en coronas noruegas (NOK) para el 1 de marzo de 2021.
+
+### <a name="details"></a>Detalles
+
+Las variaciones en el tipo de cambio para marzo no se incluyeron en las listas de precios basados en licencias de marzo anteriores. Este archivo se ha actualizado para reflejar los cambios de precio esperados en NOK. Los partners deben obtener el archivo de precios de versión preliminar más reciente para ver estos cambios esperados para el 1 de marzo de 2021. Estos cambios solo se aplican a los precios en NOK.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Los partners deben descargar el archivo de versión preliminar de la lista de precios actual para conocer los cambios esperados del 1 de marzo de 2021.
 
 _______________
 
@@ -26,7 +218,7 @@ _______________
 
 ### <a name="categories"></a>Categorías
 
-- Fecha: 05/02/2021
+- Fecha: 5 de febrero de 2021
 - Capacidades
 
 ### <a name="affected-audience"></a>Audiencia afectada
@@ -61,7 +253,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>Categorías
 
-- Fecha: 04/02/2021
+- Fecha: 4 de febrero de 2021
 - Funcionalidades
 
 ### <a name="impacted-audience"></a>Audiencia afectada
@@ -70,13 +262,13 @@ Todos los partners
 
 ### <a name="details"></a>Detalles
 
-Microsoft ofrece una extensión de competencia (a excepción de la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario (AD) que oscilen entre el 1 de enero de 2021 y el 30 de junio de 2021. Consulte nuestra [entrada de blog de partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obtener más información.
+Microsoft ofrece una extensión de competencia (excepto por la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario (AD) que oscilen entre el 1 de enero de 2021 y el 30 de junio de 2021. Para obtener más información, consulte nuestra [entrada de blog para partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nuevas actualizaciones del módulo de referencias del Centro de partners
 
 ### <a name="categories"></a>Categorías
 
-- Fecha: 03/02/2021
+- Fecha: 5 de febrero de 2021
 - Funcionalidades
  
 ### <a name="impacted-audience"></a>Audiencia afectada
@@ -101,7 +293,7 @@ Estas son las novedades del módulo de referencias del Centro de partners:
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partners con ofertas de venta conjunta preparadas
 
-- [Venta conjunta con otros partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): invite a otro partner de nuestro potente ecosistema de partners para que venda con usted y desbloquee el acceso a otro tipo de clientes adicionales.  
+- [Venta conjunta con otros partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): invite a otro partner de nuestro potente ecosistema de partners para que venda con usted y desbloquee el acceso a más tipos de clientes.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partners con una oferta transferible que usa una solución válida para incentivos de Azure en Marketplace comercial
 
@@ -111,14 +303,14 @@ Estas son las novedades del módulo de referencias del Centro de partners:
 
 Si necesita ayuda con el uso de cualquiera de las nuevas características, consulte la [sección Referencias](https://docs.microsoft.com/partner-center/referrals) de nuestra base de conocimiento o de nuestros materiales de ayuda con instrucciones que tiene disponibles en la [Galería de la experiencia de venta conjunta](https://aka.ms/CoSellExperience) (inicio de sesión obligatorio).
 
-Para obtener soporte técnico adicional, puede [abrir una incidencia con nuestro equipo de soporte técnico para partners](https://partner.microsoft.com/support/?stage=1).
+Para obtener soporte técnico, puede [abrir una incidencia con nuestro equipo de soporte técnico para partners](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Desuso y retirada de las API de calificación PUT para el proceso de validación de clientes de Education el 25 de febrero de 2021 y de las API de calificación GET el 4 de mayo de 2021.
 
 ### <a name="categories"></a>Categorías
 
-- Fecha: 04/02/2021
+- Fecha: 4 de febrero de 2021
 - Funcionalidades
 
 ### <a name="impacted-audience"></a>Audiencia afectada
@@ -131,7 +323,7 @@ Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- **Actualice las nuevas API** si aún no lo ha hecho, para conseguir una transición correcta y oportuna.
+- **Actualice las nuevas API** para conseguir una transición correcta y oportuna.
 - **Revise los nuevos cambios en la API del Centro de partners y consulte la Guía** sobre los recursos de preparación de operaciones: [Mejoras en el proceso de validación de clientes de Educación del Centro de partners](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Comparta esta información con los equipos adecuados** de su organización y con sus revendedores para ayudarlos a prepararse para estos cambios.
 
