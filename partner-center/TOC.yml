@@ -99,6 +99,11 @@
         - name: Azure y ventajas de la nube
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Beneficios de Visual Studio
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Ventajas técnicas de preventa y de implementación
+          href: technical-benefits.md
     - name: Recompensas de Marketplace
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Solicitar un crédito de contrato de nivel de servicio de Microsoft
           href: request-credit.md
+        - name: Cómo afectan las directivas de impuestos al pago
+          href: tax-policies-affect-payout.md
     - name: Establecer un presupuesto de gastos de Azure para tus clientes
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
