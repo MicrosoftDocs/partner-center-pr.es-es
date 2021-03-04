@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949545"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755756"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Comprender los archivos de conciliación basados en el uso y sus campos específicos en el centro de Partners
 
@@ -21,7 +21,12 @@ Se aplica a:
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-Para conciliar los cargos con el uso de un cliente, compare los **ResellerID**, **ResellerName**y **ResellerBillableAccount** del archivo de conciliación con el **nombre del cliente** y el identificador de la **suscripción** del centro de Partners.
+**Roles adecuados**
+
+- Administrador de cuentas
+- Administrador de facturación
+
+Para conciliar los cargos con el uso de un cliente, compare los **ResellerID**, **ResellerName** y **ResellerBillableAccount** del archivo de conciliación con el **nombre del cliente** y el identificador de la **suscripción** del centro de Partners.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Campos en archivos de conciliación basados en el uso
 
@@ -46,7 +51,7 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | ServiceType | El tipo específico de servicio de Azure. | *Service Bus: individual o Pack*, *SQL Azure base de datos: Business o Web Edition* |
 | ResourceGuid | Identificador único específico de todos los datos de servicio y de la estructura de precios. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | nombreDelRecurso | El nombre del recurso de Azure. | *Transferencia de datos en (GB)* *transferencia de datos de salida (GB)* |
-| Región | La región a la que se aplica el uso. Se usa principalmente para asignar tasas a las transferencias de datos, ya que las tarifas varían según la región. | *Asia Pacífico*, *Europa*, *América Latina*, *Norteamérica* |
+| Region | La región a la que se aplica el uso. Se usa principalmente para asignar tasas a las transferencias de datos, ya que las tarifas varían según la región. | *Asia Pacífico*, *Europa*, *América Latina*, *Norteamérica* |
 | SKU | Identificador único de Microsoft para una oferta. | *7UD-00001* |
 | DetailLineItemId | Identificador y cantidad para clasificar diferentes tasas para un servicio o recurso en un período de facturación determinado. En el caso de los precios en capas de Azure, puede haber una tasa de hasta una cantidad determinada de unidades facturables y, a continuación, una tarifa diferente después de esa cantidad. | *1* |
 | ConsumedQuantity | La cantidad de servicio consumido (como horas o GB) durante el período de notificación. También incluye cualquier uso no facturado de períodos de informes anteriores. | *11* |
@@ -63,11 +68,15 @@ Los siguientes campos explican los servicios usados y la clasificación.
 | CustomerId | Identificador único de Microsoft para el cliente, en formato GUID. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | Nombre de dominio del cliente. Este campo puede aparecer en blanco hasta el segundo ciclo de facturación. | *ejemplo.onmicrosoft.com* |
 | BillingCycleType | Frecuencia de facturación de tiempo.| **Mensual**  |
-| Unidad | Unidad del **nombre**del recurso. | *GB* o *horas* |
+| Unidad | Unidad del **nombre** del recurso. | *GB* o *horas* |
 | CustomerBillableAccount | Identificador de cuenta único en la plataforma de facturación de Microsoft. | *1280018095* |
 | UsageDate | Fecha de implementación del servicio. | *2/1/2019 0:00* |
 | MeteredRegion | Identifica la ubicación de un centro de datos dentro de la región (para los servicios en los que este valor es aplicable y rellenado). | *Asia oriental*, *Asia suroriental*, *Europa del norte*, *Europa occidental*, *centro-norte de EE. UU.*, *centro-sur de EE. UU.* |
 | MeteredService | Identifica el uso individual del servicio de Azure cuando no se identifica específicamente en la columna **ServiceName** . Por ejemplo, las transferencias de datos se muestran como *Microsoft Azure todos los servicios* de la columna **ServiceName** . | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Storage* |
-| MeteredServiceType | Subtítulo del campo **MeteredService** que proporciona una explicación adicional sobre el uso del servicio de Azure. | *FUERA* |
-| Proyecto | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| MeteredServiceType | Subtítulo del campo **MeteredService** que proporciona una explicación adicional sobre el uso del servicio de Azure. | *EXTERNAL* |
+| Project | Nombre definido por el cliente para su instancia de servicio. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | El número de conexiones Azure Service Bus aprovisionadas y utilizadas en un día determinado. | *1,000000 conexiones/30 días* (si tiene una conexión aprovisionada individualmente durante un mes de 30 días), *25 conexiones/30 días – se usa: 1,000000* (si tiene un 25 paquete de conexiones Service Bus aprovisionadas y usó 1 durante ese día) |
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Descripción de los campos de los archivos de conciliación basados en licencias del centro de Partners](license-based-recon-files.md)

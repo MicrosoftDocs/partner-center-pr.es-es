@@ -1,25 +1,22 @@
 ---
 title: Recursos de licencias de Microsoft
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como asociado de Microsoft, puede tener preguntas sobre el uso de diferentes programas de licencias de Microsoft. En este artículo se ofrecen recursos que pueden ayudarle.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999759"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756816"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guía para los recursos de licencias de los asociados de Microsoft 
 
-**Se aplica a**
-
-- Asociados de Microsoft MPN, asociados de CSP y otros
 
 Este artículo comparte recursos que pueden ayudar a responder a las preguntas sobre licencias de asociados.
 
@@ -32,7 +29,7 @@ Si tiene alguna pregunta sobre cómo funcionan estos programas, estos recursos p
 > [!NOTE]
 > Si necesita ayuda con preguntas más detalladas sobre licencias o con una oferta de cliente, comience con el proveedor indirecto asignado del programa de licencias (para el programa CSP) o con el distribuidor de programas. A menudo, son los mejores puntos iniciales de contacto para preguntas de licencias concretas o para preguntas sobre la creación de ofertas de clientes, compras de SKU o requisitos previos. Si no tiene un asociado que le proporcione este rol, consulte [Buscar un partner](find-a-partner.md) para ubicar uno.
 >
-> También puede ponerse en contacto con sus contactos de Microsoft para aprovechar un equipo interno de expertos en licencias. Si no tiene contactos de Microsoft específicos, vaya a [soporte técnico de asociados](https://partner.microsoft.com/support/v2/?stage=1) y escriba **licencias** en el campo **problemas** de la página de soporte técnico. Allí puede obtener información sobre otros recursos de soporte técnico de licencias que pueden estar a su disposición. Si sigue necesitando ayuda, también puede registrar una incidencia de soporte técnico que le ayude a responder a preguntas específicas sobre licencias o a encontrar la SKU del producto correcta.
+> También puede ponerse en contacto con sus contactos de Microsoft para aprovechar un equipo interno de expertos en licencias. Si no tiene contactos de Microsoft específicos, vaya a [soporte técnico de asociados](https://partner.microsoft.com/support/v2/?stage=1) y escriba **licencias** en el campo **problemas** de la página de soporte técnico. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Recursos generales sobre licencias y aprendizaje de licencias
 

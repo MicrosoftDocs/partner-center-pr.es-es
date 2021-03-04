@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811125"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755813"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Administrar pagos sin asignar en la página de facturación del centro de Partners
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
+- Administrador de facturación
+- Administrador de cuentas
 
 En ocasiones, es posible que vea un pago sin asignar en la página de facturación. Un pago sin asignar es un pago realizado en Microsoft que no se ha aplicado a una factura específica.
 
@@ -35,3 +36,7 @@ En ocasiones, es posible que vea un pago sin asignar en la página de facturaci�
 Para aplicar esta cantidad a una factura determinada, envíe un correo electrónico bposcapp@microsoft.com y indíquenos a qué factura aplicar este pago. Asegúrese de incluir toda la información que le haría si estuviera realizando un pago. La página de facturación se actualizará en 5-6 días. 
 
 Los pagos sin asignar permanecen sin asignar hasta que los asigne a una factura. 
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Facturación de productos y suscripciones de Marketplace comercial en el centro de Partners](csp-commercial-marketplace-billing.md)

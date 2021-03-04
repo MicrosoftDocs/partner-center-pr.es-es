@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835074"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756714"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Preguntas más frecuentes sobre los incentivos
 
@@ -67,9 +67,9 @@ La razón más probable por la que no puede ver incentivos es que no tiene los p
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Faltan algunas inscripciones en la página información general sobre incentivos.
 
-Si ha recibido una invitación de, o se ha inscrito en, un programa de incentivos que ya no está visible en el panel, debe comprobar que tiene el acceso adecuado. Solo los usuarios con el rol de usuario o administrador de incentivos pueden ver el programa. Consulte [Buscar el rol](https://docs.microsoft.com/partner-center/find-your-role).
+Si ha recibido una invitación de, o se ha inscrito en, un programa de incentivos que ya no está visible en el panel, debe comprobar que tiene el acceso adecuado. Solo los usuarios con el rol de usuario o administrador de incentivos pueden ver el programa. Consulte [Buscar el rol](./find-your-role.md).
 
-Si necesita cambiar el rol o los permisos, póngase en contacto con el administrador global o de la cuenta de su empresa. Para saber quiénes son estas personas, lea [Buscar el administrador global](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Si necesita cambiar el rol o los permisos, póngase en contacto con el administrador global o de la cuenta de su empresa. Para saber quiénes son estas personas, lea [Buscar el administrador global](./find-your-role.md#find-your-global-admin).
 
 Tenga en cuenta que en la página información general solo se muestran las inscripciones asociadas a la cuenta global de socio comercial (PGA) asociada al inquilino de Azure AD. Si su compañía tiene más de un PGA, deberá tener credenciales diferentes para cada uno.
 

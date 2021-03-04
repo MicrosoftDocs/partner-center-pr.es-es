@@ -1,19 +1,19 @@
 ---
 title: El conector de venta conjunta para el centro de Partners de Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizar las referencias del centro de Partners con el conector de venta conjunta para Dynamics 365 CRM. A continuación, los vendedores pueden colaborar con Microsoft desde los sistemas CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645765"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756793"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 
@@ -31,11 +31,11 @@ La solución se basa en la solución Microsoft Power Automate y usa las API del 
 |**Temas**   |**Detalles**   |**Vínculos**   |
 |--------------|--------------------|------|
 |IDENTIFICADOR de Microsoft Partner Network |Necesita un ID. de MPN válido|Para unirse a [MPN](https://partner.microsoft.com/)|
-|Lista de coventas|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Listo para la venta conjunta|La solución de IP/servicios debe estar lista para su venta conjunta.|[Venda con Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Cuenta de Centro de partners|El identificador de MPN asociado al inquilino del centro de Partners debe ser el mismo que el identificador de MPN asociado a la solución de venta conjunta. Compruebe que puede ver las referencias de venta conjunta en el portal del centro de Partners antes de implementar los conectores.|[Administración de la cuenta](create-user-accounts-and-set-permissions.md)|
 |Roles de usuario del Centro de partners|El empleado que va a instalar y usar los conectores debe ser un administrador de referencias.|[Asignar roles y permisos de usuarios](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|El rol de usuario CRM es administrador del sistema o Personalizador del sistema|[Asignación de roles en Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Cuenta de flujo de automatización de energía|Cree un nuevo entorno de producción con base de datos para pruebas, ensayo y producción. Si tiene un entorno de producción existente con una base de datos, se puede volver a usar. El usuario que vaya a instalar la solución de conector debe tener energía automatizada y obtener acceso a este entorno. Puede supervisar el progreso y obtener más detalles en caso de que se produzca un error en la instalación de [Power Automatic](https://flow.microsoft.com/) ; para ello, haga clic en Ver historial en soluciones.|[Crear o administrar un entorno](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Cuenta de flujo de automatización de energía|Cree un nuevo entorno de producción con base de datos para pruebas, ensayo y producción. Si tiene un entorno de producción existente con una base de datos, se puede volver a usar. El usuario que vaya a instalar la solución de conector debe tener energía automatizada y obtener acceso a este entorno. Puede supervisar el progreso y obtener más detalles en caso de que se produzca un error en la instalación de [Power Automatic](https://flow.microsoft.com/) ; para ello, haga clic en Ver historial en soluciones.|[Crear o administrar un entorno](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Instalación de la sincronización de referencias del centro de partners para Dynamics 365 (solución de automatización de energía)
 
@@ -110,7 +110,7 @@ Antes de instalar, configurar y personalizar la solución Power Automate en el e
 
 1. Vuelva a la página **soluciones** y seleccione **solución predeterminada**. Haga clic en **todo** para seleccionar **referencia de conexión (vista previa)** .
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Conexión":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Editar las conexiones":::
 
 2. Edite cada una de las conexiones de una en una; para ello, seleccione el icono de tres puntos. Agregue las conexiones correspondientes.
 
@@ -141,9 +141,9 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 3. Seleccione el icono de **copiar** para copiar la dirección URL http post proporcionada.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Copiar la dirección URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Uso de webhooks para registrar cambios de recursos":::
 
-4. Ahora, seleccione "registro de webhook del centro de Partners (versión preliminar de Insider)" flujo automático de energía y seleccione **Ejecutar**.
+4. Seleccione el flujo "registro de webhook del centro de Partners (versión preliminar Insider)" y seleccione **Ejecutar**.
 
 5. Asegúrese de que se abre la ventana "flujo de ejecución" en el panel derecho y haga clic en **continuar**.
 
@@ -205,7 +205,7 @@ Para actualizar un valor de variable de entorno:
 
 3. Actualice el valor **actual** (no actualice el valor predeterminado) con la opción **nuevo valor** y proporcione el valor. El valor debe coincidir con el tipo de datos de la variable; por ejemplo, un tipo de datos sí/no aceptará ningún valor sí o no.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Cuadro de edición para los valores predeterminados":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Actualizar variables de entorno":::
 
 - Sincronización de referencia de venta conjunta bidireccional de un extremo a otro
 

@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174935"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755719"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Recibir crédito en la cuenta del centro de partners para la retención de impuestos
 
-Se aplica a:
+**Roles adecuados**
 
-- Centro de partners
+- Administrador de cuentas
+- Administrador de facturación
 
 ## <a name="overview"></a>Información general
 
@@ -45,7 +46,9 @@ Siga estos pasos para enviar una nueva retención de impuestos:
 
 4. Revise los detalles de la factura para asegurarse de que está enviando la solicitud de la factura correcta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Enviar una nueva retención de impuestos para una factura" es la cantidad que se espera que se abone.
+   :::image type="content" source="images/wht2.png" alt-text="Detalles completos de retención de impuestos para una factura":::
+
+5. Escriba el "total de retención" en **detalles de retención de impuestos**. El "total de retención" es la cantidad que se espera que se abone.
 
 6. **Adjunte** un certificado fiscal. Tendrá que incluir una **copia digital** del **certificado de retención de impuestos** en la solicitud de retención de impuestos. Ha recibido este certificado de su agencia tributaria local al pagar los impuestos a la autoridad fiscal local. El importe del impuesto de la factura en el certificado de retención de impuestos debe coincidir con la cantidad total de la solicitud de retención de impuestos.
 
@@ -66,7 +69,7 @@ El equipo de revisión puede requerir que realice correcciones y que vuelva a en
 
 2. En el menú de la izquierda, elija **facturación**
 
-3. En el **historial de facturación**de la página de **facturación** , busque solicitud de retención de impuestos. Las solicitudes que necesiten su atención tendrán el estado "pendiente de acción de asociados".
+3. En el **historial de facturación** de la página de **facturación** , busque solicitud de retención de impuestos. Las solicitudes que necesiten su atención tendrán el estado "pendiente de acción de asociados".
 
 4. Haga clic en el ID. de solicitud de retención de impuestos y el estado le lleva a la página de la solicitud.
 
@@ -84,7 +87,7 @@ Al enviar la solicitud, se le devolverá al equipo de revisión, donde aprobará
 
 Las solicitudes de retención de impuestos aprobadas se ejecutarán en la factura siguiente, escribiendo la cantidad adeudada. Las solicitudes que se marcan como **completadas** deben aplicarse en un plazo de 10 días laborables. 
 
-Los importes borrados se reflejarán en la **sección historial de facturación**de la página de facturación. Los importes borrados se mostrarán en la columna **último pago** junto a la factura a la que se envió la solicitud.
+Los importes borrados se reflejarán en la **sección historial de facturación** de la página de facturación. Los importes borrados se mostrarán en la columna **último pago** junto a la factura a la que se envió la solicitud.
 
    > [!IMPORTANT]
    > Las facturas anteriores no se regeneran ni se vuelven a emitir. La cantidad clearace se aplica simplemente a los pagos de meses anteriores.

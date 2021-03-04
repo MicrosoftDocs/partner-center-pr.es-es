@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645646"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756071"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operaciones masivas para oportunidades de venta conjunta mediante archivos de valores separados por comas (CSV)
 
@@ -71,17 +71,17 @@ Línea de dirección de cliente 2|No|Dirección de la línea 2 de la empresa del
 Ciudad del cliente|Sí|Ciudad en la que se encuentra la organización del cliente.|Redmond
 Customer State (Estado del cliente)|No|Estado en el que se encuentra la organización del cliente.|Washington
 Customer Postal Code (Código postal del cliente)|No|Código postal de la región donde se encuentra la organización del cliente.|98052
-Customer Country (País del cliente)|Sí|País o región donde se encuentra la organización del cliente. Use los códigos de país de dos letras, como se mencionó [aquí]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|EE. UU.
+Customer Country (País del cliente)|Sí|País o región donde se encuentra la organización del cliente. Use los códigos de país de dos letras, como se mencionó [aquí]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID. de cliente D-U-N-S|No|Intente capturar el ID. de DUNS de la organización del cliente. Esto le ayudará a la coincidencia más rápida de la organización del cliente en el lado de Microsoft, lo que ayuda a asignar más rápido al vendedor. Puede obtener el identificador de DUNS gratis desde este [sitio web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nombre de contacto del cliente|Depende|El nombre solo es obligatorio si necesita ayuda de Microsoft. El nombre del contacto principal de la organización del cliente que trabaja en este contrato.|John
 Apellido de contacto del cliente|Depende|El apellido solo es obligatorio si necesita ayuda de Microsoft. Apellido del contacto principal de la organización del cliente que trabaja en este contrato.|Customer
 Número de teléfono de contacto del cliente|Depende|El número de teléfono solo es obligatorio si necesita ayuda de Microsoft. Número de teléfono del contacto principal de la organización del cliente que trabaja en este trato.|9999999999
 Dirección de correo electrónico de contacto del cliente|Depende|La dirección de correo electrónico solo es obligatoria si necesita ayuda de Microsoft. Dirección de correo electrónico del contacto principal de la organización del cliente que trabaja en este contrato.|john.customer@contoso.com
-Estado de referencia de asociado|Sí|Indica el estado del trato desde la perspectiva de la empresa. Obligatorio si intenta crear o modificar una referencia. Use **nuevo** si está intentando crear un nuevo trato. Los valores aceptados se documentan [aquí](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus).|Active
-Subestado de referencia de asociado|Sí|Indica el estado exacto de la transacción. Use **aceptado** si está intentando crear un nuevo trato. También es necesario si va a modificar una referencia existente. Los valores aceptados se documentan [aquí](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus).|Aceptado
+Estado de referencia de asociado|Sí|Indica el estado del trato desde la perspectiva de la empresa. Obligatorio si intenta crear o modificar una referencia. Use **nuevo** si está intentando crear un nuevo trato. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralstatus).|Active
+Subestado de referencia de asociado|Sí|Indica el estado exacto de la transacción. Use **aceptado** si está intentando crear un nuevo trato. También es necesario si va a modificar una referencia existente. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralsubstatus).|Aceptado
 Estado de referencia de Microsoft|Depende|Indica el estado de la solicitud de venta conjunta que envió a Microsoft para buscar ayuda. Este campo es de solo lectura. Se omitirá cualquier cambio realizado en este campo mientras se importan los datos.| Pending
 Motivo de rechazo o pérdida|Depende| Solo se le pedirá que proporcione esta información si va a cambiar el subestado del campo a rechazado o perdido. Puede omitir esta columna en caso contrario. <br/> **Escriba un número basado en las opciones siguientes** <br/><br/> **1**-el presupuesto del proyecto no es adecuado  <br/> **2**-el cliente no respondió  <br/> **3**-el cliente eligió otro proveedor  <br/> **4** -no se cumplen los requisitos del cliente  <br/> **5** -no es un cliente <br/> **6**: la línea de tiempo propuesta es demasiado corta <br/> **7** -notificar como abuso, correo no deseado o phishing <br/> **8** -otros |6|
-Fase de ventas|No|Este es el campo que indica la fase de ventas detallada de la referencia. Obtenga más información sobre las fases de ventas [aquí](https://aka.ms/salesStages)|40
+Fase de ventas|No|Este es el campo que indica la fase de ventas detallada de la referencia. Obtenga más información sobre las fases de ventas [aquí](./manage-co-sell-opportunities.md)|40
 Valor de negocio estimado|Sí|"El valor del trato en función de las conversaciones iniciales con el cliente. Se puede cambiar hasta que el trato alcance uno de los Estados de terminal.| ganada o perdida ".|12563
 Moneda|Sí|La moneda en la que se especifica el valor de trato. [Aquí](https://en.wikipedia.org/wiki/ISO_4217)puede encontrar los códigos de divisa.|USD
 Fecha de cierre estimada|Sí|Fecha de cierre estimada del trato en función de las conversaciones iniciales con el cliente en el formato MM/DD/AAAA. <br/> **La fecha debe estar en la zona horaria UTC. Todas las fechas que se muestran en la interfaz de usuario del centro de Partners se basan en las zonas horarias localizadas. Puede haber una diferencia de +/-un día en la interfaz de usuario del centro de partners si está examinando la referencia para la que proporcionó la fecha en la zona horaria UTC.**|1/30/2020

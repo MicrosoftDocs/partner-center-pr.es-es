@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000319"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756764"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -23,14 +23,9 @@ ms.locfileid: "91000319"
 
 - Centro de partners para Microsoft Cloud for US Government
 
-Las siguientes tareas se administran en el portal de administración de Microsoft Azure para Microsoft Cloud para el gobierno de EE. UU.:
+**Roles adecuados**
 
-- Administración de usuarios de partners
-
-- Administración de licencias y usuarios del cliente
-
-- Restablecimiento de las contraseñas de los usuarios
-
+- Administrador global
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Cómo administrar usuarios en la Azure Portal para Microsoft Cloud para el gobierno de EE. UU.
 

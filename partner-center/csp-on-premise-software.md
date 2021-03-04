@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834826"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756046"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda software local a través del programa proveedor de soluciones en la nube (CSP)
 
@@ -40,7 +40,7 @@ Para comprar suscripciones de software en nombre de un cliente, vaya a la págin
 Una vez que haya adquirido el software, sus clientes tendrán que descargarlo. Usa el siguiente procedimiento para hacerlo.
 
 >[!NOTE]
->Debe ser un agente de administración para obtener el vínculo a las claves y descargas.
+>Debe ser un agente de administración para obtener el vínculo a las claves y las descargas.
 
 1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
 2. Copie el "vínculo profundo" desde el **vínculo a las descargas y claves de producto de software** y comparta el vínculo con el cliente. Al seleccionar este vínculo, se le redirigirá al Centro de administración de Microsoft para descargar y obtener las claves de producto.
@@ -48,7 +48,7 @@ Una vez que haya adquirido el software, sus clientes tendrán que descargarlo. U
 >[!NOTE]
 >Solo los clientes pueden ver las claves de producto y descargar información en el Centro de administración de Microsoft. Los partners no pueden ver esta información.
 
-Si usted o sus clientes quieren obtener más información sobre la descarga de claves de licencia, consulte [Descarga de claves de licencia de software y producto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Si usted o sus clientes quieren obtener más información sobre la descarga de claves de licencia, consulte [Descarga de claves de licencia de software y producto](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Cancelación de una compra
 

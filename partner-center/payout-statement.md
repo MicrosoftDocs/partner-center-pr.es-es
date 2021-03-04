@@ -1,5 +1,5 @@
 ---
-title: Balances de pagos
+title: Extractos de pagos
 description: Obtenga información sobre las instrucciones y los resúmenes de pago, y cómo ver y exportar los datos de pago del centro de Partners de Microsoft.
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,14 +7,14 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492643"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756160"
 ---
-# <a name="payout-statements"></a>Balances de pagos
+# <a name="payout-statements"></a>Extractos de pagos
 
 **Roles adecuados:**
 
@@ -99,11 +99,11 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 En la tabla siguiente se muestra un ejemplo de mes de pago estimado.
 
-| Month | Cantidad |
+| Month (Mes) | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
-|  Nov-2020 | $107,89  |
+|  Noviembre de 2020 | $107,89  |
 
 El importe estimado puede variar con respecto a la cantidad real por diversos motivos:
 
@@ -138,7 +138,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | claimId | Identificador único de una notificación. | Incentivos: solo algunos programas |
 | customerCountry | País o región del cliente. | marketplaces |
 | customerEmail |  |  |
-| customerName | Siempre estará en blanco. | Solo programas de incentivos (excepción: OEM) y Marketplaces |
+| customerName | Puede estar en blanco | Solo programas de incentivos (excepción: OEM) y Marketplaces. En el caso de las transacciones de CSP, Marketplace mostrará el nombre del CSP |
 | customerTenantId |  |  |
 | distributorId | Identificador de distribuidor. | Incentivos: solo algunos programas |
 | distributorName | Nombre del distribuidor. | Incentivos: solo algunos programas |
@@ -161,7 +161,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | LicensingProgramName | Nombre del programa de licencias. |  |
 | LineItemId | Línea individual en la factura de un cliente. |  |
 | localProviderSeller | Proveedor o vendedor local del registro. |  |
-| Mes de madurez | El mes de pago estimado | Todo |
+| Mes de madurez | El mes de pago estimado | All |
 | OrderId | Se relaciona con la factura de un cliente.  | marketplaces |
 | parentProductId | Identificador único del producto principal. Si no hay un producto principal para la transacción, el identificador del producto principal es igual al identificador del producto. | marketplaces |
 | parentProductName | Nombre del producto principal. Si no hay un producto principal para la transacción, el nombre del producto principal es igual al nombre del producto. | marketplaces |
@@ -174,7 +174,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | paymentStatus | Estado del pago. | All |
 | paymentStatusDescription | Descripción detallada del estado del pago. | All |
 | productId | Identificador único del producto. | marketplaces |
-| ProductName | Nombre del producto vinculado a la transacción. | Todo |
+| ProductName | Nombre del producto vinculado a la transacción. | All |
 | productType | Tipo de producto, como, por ejemplo, aplicación, complemento o juego. | marketplaces |
 | Código de programa. | Cadena que se va a asignar con el nombre del programa. |  |
 | programName | Nombre del programa de incentivos/tienda. | All |
@@ -263,7 +263,7 @@ En la tabla siguiente se explican los distintos Estados de la ganancia.
 | Próximamente | El pedido de pago generó revisiones internas pendientes antes de que se procese el pago. | No |
 | Factura de impuestos pendiente | La factura de impuestos está incompleta o no es válida. | Debe actualizar su factura de impuestos antes de recibir el pago. |
 | Rechazado durante la revisión | Se rechazó el pago durante la revisión. | Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft. |
-| Failed | No se pudo realizar el pago debido a un error del sistema de Microsoft. | Póngase en contacto con el soporte técnico de Microsoft para obtener detalles |
+| Con error | No se pudo realizar el pago debido a un error del sistema de Microsoft. | Póngase en contacto con el soporte técnico de Microsoft para obtener detalles |
 | En curso | El pago está en curso. | No |
 | Pago incorrecto | La regresión del pago está en curso. | No |
 | Enviado | El pago se ha enviado al banco. | No |

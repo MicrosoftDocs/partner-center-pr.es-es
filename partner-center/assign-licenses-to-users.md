@@ -1,7 +1,7 @@
 ---
 title: Administrar usuarios para cuentas de cliente
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Administrar usuarios para sus clientes en el centro de Partners: crear cuentas de usuario, agregar o quitar licencias de usuario, restablecer contraseñas y eliminar o restaurar cuentas de usuario.'
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570746"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756086"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Administrar usuarios y licencias de usuario para cuentas de cliente 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570746"
 Puede crear y eliminar nuevos usuarios en la cuenta de un cliente. También puede restaurar una o más cuentas de usuario que haya eliminado previamente en un plazo de 30 días a partir de la eliminación. Las asignaciones anteriores de la suscripción del usuario también se restaurarán (suponiendo que sus asignaciones anteriores estén disponibles).
 
 Al comprar nuevas suscripciones para un cliente, el cliente debe proporcionarle una lista de todos los usuarios que necesitarán cuentas, sus permisos de usuario y los servicios que necesite cada usuario.  
+
+>[!NOTE]
+>La sección **usuarios y licencias** de la pestaña **cliente** muestra todos los usuarios creados en el inquilino de un cliente específico, incluidos los usuarios que tienen licencias adquiridas de otro asociado de CSP o de otro canal de compra.
 
 Puede [asignar suscripciones a varios usuarios](bulk-license-provisioning-for-multiple-users.md) al mismo tiempo importando los nombres mediante un [archivo de hoja de cálculo. csv compatible con Excel](adding-multiple-users-to-a-customer-account.md).
 

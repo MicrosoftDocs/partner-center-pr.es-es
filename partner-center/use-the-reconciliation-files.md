@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488098"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755773"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -23,20 +23,20 @@ Se aplica a:
 - Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
-Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de licencias a mediados de la suscripción).
-
-Roles adecuados:
+**Roles adecuados**
 
 - Administrador de facturación
 - Administrador global
 
-Para obtener información sobre cómo leer la **factura** , consulte [leer su](read-your-bill.md)factura.
+Puede descargar los archivos de conciliación del centro de partners para obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles de los elementos de línea incluyen los cargos de las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición de licencias a mediados de la suscripción).
+
+Para obtener información sobre cómo leer la **factura**, consulte [leer su](read-your-bill.md)factura.
 
 ## <a name="understand-reconciliation-file-fields"></a>Descripción de los campos de archivo de conciliación
 
 - [Campos de archivos de conciliación basados en licencias](license-based-recon-files.md)
 - [Campos de archivos de conciliación basados en el uso](usage-based-recon-files.md)
-- [Campos de archivo de conciliación de uso con clasificación diaria](daily-rated-usage-recon-files.md)
+- [Campos de archivos de conciliación de uso con clasificación diaria](daily-rated-usage-recon-files.md)
 - [Campos de archivo de conciliación de CSP de compra única](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Descripción de los tipos de carga en los archivos de conciliación
@@ -81,11 +81,11 @@ Los asociados en el **modelo indirecto** pueden utilizar estos campos adicionale
 
 Si un asociado de CSP vendió la suscripción directamente al cliente, su **identificador de MPN** aparece dos veces, como el **identificador de MPN** y el ID. de **MPN del reseller**.
 
-Si un asociado de CSP tiene un revendedor sin **identificador de MPN** , este valor se establece en el **identificador de MPN** del asociado en su lugar.
+Si un asociado de CSP tiene un revendedor sin **identificador de MPN**, este valor se establece en el **identificador de MPN** del asociado en su lugar.
 
-Si el asociado de CSP quita un ID. de **revendedor de MPN** , este valor se establecerá en *-1*.
+Si el asociado de CSP quita un ID. de **revendedor de MPN**, este valor se establecerá en *-1*.
 
-Para ver o actualizar el **ID. de revendedor MPN** :
+Para ver o actualizar el **ID. de revendedor MPN**:
 
 1. Inicie sesión en el Centro de datos.
 2. En el menú del Centro de partners, selecciona **Clientes**.
@@ -93,3 +93,7 @@ Para ver o actualizar el **ID. de revendedor MPN** :
 4. En el menú del cliente, seleccione **suscripciones**.
 5. Elija la suscripción de la lista.
 6. Selecciona **Actualizar** para cambiar el valor de **Revendedor (id. de MPN)**.
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Cómo leer el archivo de conciliación & de la factura](read-your-bill.md) 

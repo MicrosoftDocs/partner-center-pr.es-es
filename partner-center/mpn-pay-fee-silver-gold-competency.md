@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042691"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757399"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Cómo pagar la cuota asociada con una competencia Silver o Gold
 
@@ -37,7 +37,7 @@ De lo contrario, siga estos pasos para pagar la cuota de una competencia Silver 
 
 - Ya ha cumplido los [requisitos](https://partner.microsoft.com/membership/competencies) para lograr una competencia Silver o Gold específica.
 
-- Se le ha asignado el rol de centro de Partners de [administrador global o de administrador de asociados de MPN](https://docs.microsoft.com/partner-center/permissions-overview). Si es un usuario invitado sin uno de estos roles, se le denegará el acceso a algunas de las páginas del centro de partners que se describen a continuación. Si esto sucede, [póngase en contacto con el administrador global](https://docs.microsoft.com/partner-center/find-your-role) y pídale que le asigne el rol adecuado. 
+- Se le ha asignado el rol de centro de Partners de [administrador global o de administrador de asociados de MPN](./permissions-overview.md). Si es un usuario invitado sin uno de estos roles, se le denegará el acceso a algunas de las páginas del centro de partners que se describen a continuación. Si esto sucede, [póngase en contacto con el administrador global](./find-your-role.md) y pídale que le asigne el rol adecuado. 
 
 1. Con las credenciales de la cuenta profesional de su organización, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.
 
@@ -54,7 +54,7 @@ De lo contrario, siga estos pasos para pagar la cuota de una competencia Silver 
 
 4. En la página de detalles de la **compra** , revise y confirme los detalles.
 
-   (Obtenga más información sobre [la actualización de la información del **ID. de impuestos** de la empresa](https://docs.microsoft.com/partner-center/organization-tax-info) o la [ **facturación**](https://docs.microsoft.com/partner-center/mpn-get-action-pack)de la empresa a la dirección de la empresa).
+   (Obtenga más información sobre [la actualización de la información del **ID. de impuestos** de la empresa](./organization-tax-info.md) o la [ **facturación**](./mpn-get-action-pack.md)de la empresa a la dirección de la empresa).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="La pertenencia ofrece la página de detalles de compras con preferencias de pago." border="false":::
 

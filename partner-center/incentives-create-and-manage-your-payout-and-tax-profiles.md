@@ -1,19 +1,19 @@
 ---
 title: Perfiles fiscales y de pago en el Centro de partners
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Cree y administre su perfil fiscal y de pago para que pueda pagar su trabajo de incentivos. Incluye la creación, administración y uso de perfiles diferentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624245"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756586"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
@@ -86,10 +86,22 @@ Las secciones siguientes le guiarán a través del proceso de creación y admini
 
     >[!NOTE]
     >La disponibilidad del método de pago depende de las reglas del programa de incentivos.
+
+    - Si el ID. de MPN de ubicación lo paga una filial de Microsoft local para un programa de incentivos determinado y permite LRD (distribuidor de riesgo limitado) como método de pago, el perfil de pago se rellenará previamente con el método de pago de la nota de crédito de LRD. En la fila del método de pago de nota de crédito de LRD para el programa de incentivo y el ID. de MPN de ubicación correspondientes, verá **confirmado** o **comprobación necesaria** como estado en la sección Perfil de pago.
+    
+       Seleccione la **comprobación necesaria** para confirmar y comprobar los detalles del identificador de inquilino de CSP asociados con la ubicación MPN y el método de pago para recibir el pago de la nota de crédito. En el cuadro de diálogo Detalles de la **Nota de crédito** , revise y compruebe que el identificador de inquilino de CSP y los detalles proporcionados son correctos. Si se muestra más de un identificador de inquilino, seleccione cuidadosamente el identificador de inquilino de CSP en el que desea recibir los pagos. A continuación, seleccione **confirmar** para confirmar que los detalles de su empresa son correctos y que el pago de incentivos debe realizarse en el identificador de inquilino de CSP que ha seleccionado.
+ 
+      Si el estado muestra **confirmado**, se ha completado la asignación del identificador de inquilino de CSP y no es necesario realizar ninguna otra acción. Todavía puede seleccionar confirmado para ver los detalles de la asignación.
+   
+      En los países que requieren asociados explícitamente para solicitar la aplicación de una exención fiscal, habrá una opción para aplicar la exención fiscal junto al perfil fiscal en la sección de perfil fiscal del programa de incentivos y la ubicación MPN. Al activar esta casilla, se aplicarán las ventajas de exención fiscal a su nota de crédito de incentivos. 
+   
+      Actualmente, este método de pago solo está disponible para los asociados de Australia, Nueva Zelanda y Canadá para el programa de incentivos de Microsoft Commerce. Si es un asociado directo de factura o un proveedor indirecto en estos tres países inscritos en el programa MCI y no ve LRD nota de crédito como método de pago disponible, confirme que el identificador de inquilino está asociado a la cuenta de ubicación de MPN de socio pertinente. Para obtener más información sobre este [procedimiento, lea cómo actualizar el perfil de su organización](update-your-partner-profile.md).
+
     
 5. Seleccione la **moneda**.
 
 6. Cuando haya completado todos los campos de pago, seleccione **submit (enviar**).
+
 
 ## <a name="create-your-bank-profile"></a>Crear el perfil de Banco
 

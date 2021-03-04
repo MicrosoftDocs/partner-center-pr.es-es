@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755646"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755736"
 ---
 # <a name="value-added-tax-vat-information"></a>Información del impuesto sobre el valor añadido (IVA)
 
-**Se aplica a:**
+**Roles adecuados**
 
-- Centro de partners
-- Marketplace comercial
+- Administrador de cuentas
+
 
 Si se le pide que proporcione un número de identificación de IVA durante el proceso de registro del centro de Partners, aquí se muestra información para comenzar.
 
@@ -78,6 +78,7 @@ Tenga en cuenta que Microsoft no proporciona asesoramiento fiscal y la siguiente
 |España |-Formato de número de IVA: 9 dígitos<br/>-Código de país o región: ES<br/>-Ejemplo: X12345678, 12345678X o X1234567X<br/>-Notas: incluye 1 o 2 Letras: el primero, el último, el primero y el último. |
 |Suecia |-Formato de número de IVA: 12 dígitos<br/>-Código de país o región: SE<br/>-Ejemplo: 123456789001<br/>-Notas: los 2 últimos caracteres deben ser ' 01 '. |
 |Reino Unido |-Formato de número de IVA: 9 o 12 dígitos<br/>-Código de país o región: GB<br/>-Ejemplo: 123456789 o 123456789001<br/>-Notas: 9 dígitos por lo general, pero 12 dígitos si el número representa una subempresa dentro de un grupo. |
+
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Información fiscal de la compañía y cómo agregar o enviar ID. de IVA para compras del centro de Partners](organization-tax-info.md)
