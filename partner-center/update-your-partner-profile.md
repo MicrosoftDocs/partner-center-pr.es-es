@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755787"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124778"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Comprobación de la información del perfil de la empresa en el Centro de partners
 
@@ -69,7 +69,7 @@ Para realizar estas actualizaciones, debe ser un administrador global o de la cu
 
 Para actualizar el id. de MPN asociado a la cuenta de CSP:
 
-1. Inicie sesión en el [panel](https://partner.microsoft.com/en-us/dashboard/home) del Centro de partners como administrador global con las credenciales de su cuenta de CSP y seleccione **Configuración**. (Las credenciales MPN y CSP pueden ser diferentes).
+1. Inicie sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners como administrador global con las credenciales de su cuenta de CSP y seleccione **Configuración**. (Las credenciales MPN y CSP pueden ser diferentes).
  
 1. Seleccione **Identificadores** en **Configuración de cuenta**.
 
@@ -87,4 +87,3 @@ Si es el administrador global, el administrador de facturación o el agente de a
 - [Comprobar el estado de la verificación](verification-responses.md)
 
 - [Administrar ubicaciones de MPN](manage-locations.md)
-
