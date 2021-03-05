@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124778"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220277"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Comprobación de la información del perfil de la empresa en el Centro de partners
 
@@ -54,8 +54,7 @@ Actualice el domicilio legal en el Centro de partners.
 1. Al seleccionar **Enviar**, se volverá a evaluar la identidad legal y recibirá otro correo electrónico que deberá aceptar.
 
 >[!Important]
->Si es asociado de un Proveedor de soluciones en la nube (CSP), no puede cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está vinculado a su inquilino y a los servicios, así como a la moneda en la que realiza las transacciones. Si no forma parte del programa CSP, puede cambiar el país o región asociado con su domicilio legal. Los partners de Direct Bill y los proveedores indirectos no pueden cambiar el nombre legal de la empresa si el estado de validación es "Autorizado". Si necesita cambiar el nombre, deberá [crear un vale de soporte técnico](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
-
+>Si es asociado de un Proveedor de soluciones en la nube (CSP), no puede cambiar el país o región asociado con el domicilio legal. El país o región del domicilio legal está vinculado a su inquilino y a los servicios, así como a la moneda en la que realiza las transacciones. Los partners de Direct Bill y los proveedores indirectos no pueden cambiar el nombre legal de la empresa si el estado de validación es "Autorizado". Si necesita cambiar el nombre, deberá [crear un vale de soporte técnico](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Actualización de la cuenta empresarial global de MPN
