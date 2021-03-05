@@ -102,8 +102,12 @@
         - name: Beneficios de Visual Studio
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: Ventajas técnicas de preventa y de implementación
+        - name: Servicios técnicos de implementación y preventas
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: Ventajas técnicas
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Recompensas de Marketplace
       href: marketplace-rewards.md
     - name: Software Assurance
