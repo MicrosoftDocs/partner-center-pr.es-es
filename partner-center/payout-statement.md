@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756160"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185356"
 ---
 # <a name="payout-statements"></a>Extractos de pagos
 
@@ -56,8 +56,7 @@ También puede usar la [API de pago de socios comerciales](https://apidocs.micro
 
 ## <a name="transaction-history"></a>Historial de transacciones
 
-La página **historial de transacciones** muestra el Resumen de los ingresos, el siguiente pago estimado y la tendencia de ganancias y pagos en los últimos 36 meses. También puede descargar los detalles de las transacciones en esta sección.
-
+La página **historial de transacciones** muestra el Resumen de los ingresos, el siguiente pago estimado y la tendencia de ganancias y pagos en los últimos 36 meses. También puede descargar los detalles de la transacción en esta sección.<br><br>Este informe muestra todos los beneficios que se reúnen para el pago, incluidos los pagos que todavía no se han enviado. Las ganancias son válidas para el pago cuando un ISV ha completado toda la información bancaria y fiscal del centro de Partners, ha obtenido >$50, la cuenta de ISV está activa y el cliente se ha facturado (para transacciones de EA) o se ha recibido el pago (para transacciones no de Asia oriental).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Información general sobre transacciones.":::
 
