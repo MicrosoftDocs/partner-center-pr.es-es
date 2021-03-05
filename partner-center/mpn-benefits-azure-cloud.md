@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056604"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185339"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explore el área de beneficios de Azure y productos en la nube en el centro de Partners
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
-- Agente de administrador
 - Administrador de partners de MPN
 
 En este artículo se describen los beneficios específicos de Azure y en la nube disponibles para los asociados desde el centro de Partners. También aprenderá a activar determinados tipos de suscripciones de Azure y en la nube.
