@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532045"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247704"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Agregue los servicios compartidos de asociados de Azure para que los asociados puedan comprar suscripciones de Azure para su propio uso.
 
@@ -45,7 +45,7 @@ Los Servicios compartidos para partners de Azure son un nuevo tipo de oferta par
 
 - El Azure-Carga de trabajo interna/servicios compartidos suscripción es un nuevo tipo de oferta de Azure en CSP al que se tiene acceso a través del centro de partners que los asociados obtienen para su propio uso de Azure.
 
-- Azure-Carga de trabajo interna/servicios compartidos oferta es válida para descuentos e incentivos.  Las suscripciones de servicios compartidos de asociados de Azure son válidas y se pueden usar para comprar RIs.
+- Las suscripciones de servicios compartidos de asociados de Azure son válidas y se pueden usar para comprar RIs.
 
 - La oferta de Azure-Carga de trabajo interna/servicios compartidos solo se puede aplicar al inquilino de servicios compartidos.
 

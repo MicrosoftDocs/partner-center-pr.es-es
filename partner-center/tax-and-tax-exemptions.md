@@ -1,7 +1,7 @@
 ---
 title: Impuestos regionales y exenciones fiscales
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: En el caso de los asociados de programas de CSP, obtenga información sobre las responsabilidades fiscales por región, cómo enviar exenciones fiscales para las ventas de CSP y cómo obtener soporte técnico para preguntas fiscales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755595"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247667"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Obtenga información sobre impuestos y detalles de exención fiscal por región o país para asociados en el programa CSP.
 
-Se aplica a:
-
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
 
 El programa proveedor de soluciones en la nube (CSP) es un canal de ventas centrado en la reventa de productos de asociados. Como resultado, Microsoft no siempre necesita cobrar impuestos sobre las facturas de los asociados. Las reglas varían según el país o la región. Puede revisar los [detalles específicos del país y de la región para las exenciones fiscales](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ Existe información específica relacionada con los impuestos para Canadá y el 
 
 Si se encuentra en otro país o región que cobra impuestos, consulte [la información de otras regiones](#other-regions).
 
-Para preguntas adicionales, [solicite soporte técnico en el centro de Partners](#support).
 
 ### <a name="canada"></a>Canadá
 

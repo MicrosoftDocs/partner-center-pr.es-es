@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924918"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247649"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Preguntas comunes sobre los pagos e impuestos
 
@@ -40,7 +40,7 @@ Para obtener información detallada sobre cómo actualizar los detalles de pago 
 
 Podría ser que no tenga los permisos adecuados o que haya iniciado sesión con una cuenta que no tenga estos permisos. Por ejemplo, solo los administradores de incentivos de la ubicación de MPN pueden crear o administrar perfiles de pago y de impuestos. Póngase en contacto con el administrador de la organización para administrar los permisos bancarios y fiscales.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Qué debo hacer?
 
 Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
  
@@ -63,7 +63,14 @@ Es responsabilidad de la empresa asegurarse de que el rol de administrador de in
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>El perfil de impuestos ha expirado. ¿Cómo puedo corregirlo?
 
-Siga los pasos descritos en [crear o actualizar el perfil fiscal](set-up-your-payout-account.md#create-or-update-your-tax-profile) para actualizar el perfil fiscal. En la página **perfil fiscal** , puede ver los perfiles que han expirado o que van a expirar en la columna **fecha de expiración** . 
+Si un perfil de impuestos ha expirado o está a punto de expirar, significa que el formulario de impuestos que proporcionó a Microsoft debe actualizarse. Siga estos pasos para actualizar el perfil de impuestos:
+
+1. Inicie sesión en el [Panel](https://partner.microsoft.com/dashboard/home)del centro de Partners y seleccione el icono de engranaje para abrir el menú de **configuración** .
+2. Seleccione **configuración** de la cuenta, expanda la sección **pago y impuestos** y, a continuación, seleccione **pago y perfil fiscal** .
+3. Seleccionar el perfil de **impuestos**
+4. Compruebe la **fecha de expiración** de la columna y navegue hasta el perfil de impuestos que ha expirado o que va a expirar.
+5. Seleccione **Editar** para iniciar el proceso de edición del perfil fiscal.
+6. En la sección formulario de impuestos, proporcione los detalles actualizados.
 
 ## <a name="earnings-incorrect-or-missing"></a>Ganancias incorrectas o ausentes
 
