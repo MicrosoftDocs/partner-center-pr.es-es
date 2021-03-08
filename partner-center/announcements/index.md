@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185288"
+ms.locfileid: "102220284"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,14 +22,16 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Suministro de descargas y claves de licencia de software del Centro de partners](2021-march.md#4)|5 de marzo|
+|Funcionalidades|[Migración de las ofertas de Partner Sales Connect (PSC) al Centro de partners](2021-march.md#3)|5 de marzo|
 |Funcionalidades|[Nuevos productos y ofertas de Microsoft Dynamics 365 disponibles el 1 de abril de 2021](2021-march.md#2)|4 de marzo|
 |Funcionalidades|[Microsoft universal Print ahora está disponible en algunos conjuntos](2021-march.md#1)|3 de marzo|
 |**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
-|Capacidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
-|Capacidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
-|Capacidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
-|Capacidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
-|Capacidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
+|Funcionalidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
+|Funcionalidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
+|Funcionalidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
+|Funcionalidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
+|Funcionalidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
 |Funcionalidades|[Ya disponible: Migración de DocuSign a Adobe Sign para partners con contratos de Microsoft Partner Agreement (MPA)](2021-february.md#9)|16 de febrero|
 |Hacer crecer el negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-february.md#8)|16 de febrero|
 |Funcionalidades|[Presentación de Temas Microsoft Viva](2021-february.md#7)|12 de febrero|
