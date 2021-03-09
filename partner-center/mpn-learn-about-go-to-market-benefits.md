@@ -1,7 +1,7 @@
 ---
 title: Más información sobre la comercialización con ofertas de Microsoft
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo la comercialización con ofertas de Microsoft puede ayudar a acelerar el tiempo de comercialización, generar clientes potenciales y ampliar su negocio.
@@ -9,19 +9,14 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114648"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475269"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore su comercialización con ofertas de Microsoft
-
-**Se aplica a**
-
-- Centro de partners
-- Miembros de Microsoft Partner Network
 
 **Roles adecuados**
 
@@ -39,18 +34,18 @@ Las ofertas de comercialización le proporcionan acceso a recursos exclusivos de
 
 Sus ofertas de comercialización difieren en función de su nivel específico de pertenencia a MPN, sus especializaciones y cualquier [competencia](learn-about-competencies.md) que consiga.
 
-Todos los miembros de MPN tienen acceso a determinados recursos GTM estándar. Esto incluye el acceso a recursos de marketing listos para usar, una plataforma de habilitación de ventas y marketing digital a petición. También hay más ofertas de comercialización y programas disponibles para los asociados que obtienen competencias Silver o Gold y/o asociados de ISV con una solución preparada para la venta conjunta.
+Todos los miembros de MPN tienen acceso a determinados recursos GTM estándar. Esto incluye el acceso a recursos de marketing listos para usar, una plataforma de habilitación de ventas y marketing digital a petición. También hay más ofertas de comercialización y programas disponibles para los asociados que obtienen competencias Silver o Gold y/o asociados de ISV con una oferta lista para vender.
 
 >[!NOTE]
->Los recursos, ofertas y programas de comercialización están sujetos a adiciones y cambios. Vaya a la página de Microsoft Partner Network de [comercialización](https://partner.microsoft.com/membership/go-to-market) para obtener información sobre los recursos de comercialización y las ofertas más recientes disponibles para asociados que logran diferentes niveles de competencia y/o asociados de ISV con una solución lista para su venta conjunta.
+>Los recursos, ofertas y programas de comercialización están sujetos a adiciones y cambios. Vaya a la página de Microsoft Partner Network de [comercialización](https://partner.microsoft.com/membership/go-to-market) para obtener información sobre los recursos de comercialización y las ofertas más recientes disponibles para los asociados que logran diferentes niveles de competencia y asociados de ISV con una oferta de venta conjunta preparada.
 
-Ofertas de comercialización adicionales a disposición de los usuarios con niveles de competencia **Silver** y/o asociados de ISV con una solución lista para la venta conjunta:
+Ofertas de comercialización adicionales a disposición de los usuarios con los niveles de competencia **Silver** y/o los asociados de un ISV que dispongan de una oferta que cumpla los incentivos de venta conjunta:
 
 - Todos los recursos de comercialización estándar de MPN
 - Optimización del perfil de negocio y administración de referencias
 - Cómo comercializar con Microsoft
 
-Ofertas de comercialización adicionales disponibles para asociados con niveles de competencia **Gold** y/o asociados de ISV con una solución IP lista para la venta conjunta:
+Ofertas de comercialización adicionales disponibles para los asociados con los niveles de competencia **Gold** y/o asociados de ISV con la oferta de incentivos de venta conjunta:
 
 - Todos los recursos de comercialización estándar de MPN
 - Todas las ofertas de comercialización en ventas con Silver/ISV listas para comercializar
@@ -70,7 +65,7 @@ Para ver las ofertas de comercialización:
 
    - Seleccione **Información general**. Desplácese a la sección **vínculos rápidos** y, a continuación, seleccione la pestaña **ir al mercado** .
 
-     o
+     o bien
 
    - Seleccione **beneficios** seguidos de la **comercialización**.
 
@@ -78,14 +73,14 @@ Verá una lista de ofertas de comercialización que ya están activas o que est�
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Administrar o activar ofertas de comercialización en el centro de Partners
 
-Para activar o administrar las ofertas de comercialización, consulte [Cómo administrar las ofertas de la comercialización](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Parte de este proceso requiere la asignación de una persona de marketing como contacto para los correos electrónicos de seguimiento y las comunicaciones relacionadas con las ofertas de comercialización que se activan.
+Para activar o administrar las ofertas de comercialización, consulte [Cómo administrar las ofertas de la comercialización](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Una parte del proceso de activación requiere la asignación de una persona de marketing como contacto para los correos electrónicos de seguimiento y las comunicaciones relacionadas con las ofertas de comercialización que se activan.
 
 >[!IMPORTANT]
->Debe ser el administrador global o el administrador de asociados de MPN para activar ofertas de comercialización específicas y asignar un contacto de marketing relacionado. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
+>Debe ser el administrador global o el administrador de asociados de MPN para activar ofertas de comercialización específicas y asignar un contacto de marketing relacionado. Si es necesario, puede convertirse en administrador global siguiendo las instrucciones que aparecen en la página de [ **beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Administrar las ventajas de la red de asociados](manage-your-partner-network-benefits.md)
+- [Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners](manage-your-partner-network-benefits.md)
 
 - [Compra o renovación de una suscripción a Microsoft Action Pack](mpn-get-action-pack.md)
 

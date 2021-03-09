@@ -1,7 +1,7 @@
 ---
 title: Vender software local a través de CSP
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de cómo los asociados del programa CSP pueden comprar, administrar, vender y cancelar suscripciones de software locales en nombre de los clientes del centro de Partners.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220251"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475218"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Vender software local a través del programa proveedor de soluciones en la nube (CSP)
 
@@ -33,20 +33,29 @@ Para comprar suscripciones de software en nombre de un cliente, vaya a la págin
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activación y administración de suscripciones de software
 
-Una vez que haya adquirido el software, usted o sus clientes deben descargarlo. Usa el siguiente procedimiento para hacerlo.
+Una vez que haya adquirido el software, usted o sus clientes deben descargarlo (asociados que usan el centro de Partners, clientes que usan el centro de administración de Microsoft 365). Usa el siguiente procedimiento para hacerlo. Es importante comprender los riesgos asociados a la copia de vínculos y la descarga del software. Para obtener más información, consulte **uso del centro de partners para obtener descargas de software de clientes y claves de licencia** en la guía de operaciones de comercio del centro de [Partners](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Debe ser un agente de administración para obtener el vínculo a las claves y las descargas.
+>Debe ser un agente de administración en el centro de partners para obtener el vínculo a las claves y descargas.
 
-1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
-2. Siga las instrucciones de la [Guía de operaciones de asociados](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) para completar el cumplimiento de la compra de software en nombre del cliente.
+1. Vaya a la página de detalles del cliente y, a continuación, seleccione **software**. Verás una lista de todo el software que has comprado en nombre del cliente.
+
+2. Elija **versión** del producto, **idioma**, **bit** y seleccione **obtener claves y descargas**. 
+
+3. Elija **obtener clave** , que mostrará el producto de 32 dígitos en un cuadro de diálogo emergente que puede copiar y enviar al cliente. 
+
+4. Elija **Descargar** para descargar los bits. 
+
+5. Elija **Copiar vínculo** si desea enviar al cliente el vínculo a la descarga de bits. 
+
+6. También puede **Cancelar** el pedido de software y recibir un crédito del 100% (si se realiza en el período de la Directiva de cancelación de 60 días).
 
 >[!NOTE]
->Solo los clientes pueden ver las claves de producto y descargar información en el Centro de administración de Microsoft. Los partners no pueden ver esta información.
+>Solo los clientes tienen acceso para ver las claves de producto y descargar información en el centro de administración de Microsoft 365 (se requiere el rol de administrador global). Los asociados deben usar el centro de partners para ver esta información.
 
 ## <a name="cancel-a-purchase"></a>Cancelación de una compra
 
-Utilice el siguiente procedimiento para cancelar una compra. Una vez completada la cancelación, se revocará la clave de software. 
+Utilice el siguiente procedimiento para cancelar una compra. Una vez completada la cancelación, se revocará la clave de software.
 
 >[!NOTE]
 >Debes ser un agente de administrador para cancelar una compra. 
