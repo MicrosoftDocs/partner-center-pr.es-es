@@ -8,12 +8,12 @@ description: Sincronizar las referencias del centro de Partners con el conector 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756793"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532080"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de venta conjunta para Dynamics 365 CRM: información general
 
@@ -104,7 +104,7 @@ Antes de instalar, configurar y personalizar la solución Power Automate en el e
      
       7. Una vez que haya agregado todas las conexiones, debería ver las siguientes conexiones en su entorno:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Conexiones":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Conexiones":::
    
 ## <a name="edit-the-connections"></a>Editar las conexiones
 
@@ -141,7 +141,7 @@ Las API del webhook del centro de Partners le permiten registrarse para los even
 
 3. Seleccione el icono de **copiar** para copiar la dirección URL http post proporcionada.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Uso de webhooks para registrar cambios de recursos":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Uso de webhooks para registrar cambios de recursos":::
 
 4. Seleccione el flujo "registro de webhook del centro de Partners (versión preliminar Insider)" y seleccione **Ejecutar**.
 
@@ -205,7 +205,7 @@ Para actualizar un valor de variable de entorno:
 
 3. Actualice el valor **actual** (no actualice el valor predeterminado) con la opción **nuevo valor** y proporcione el valor. El valor debe coincidir con el tipo de datos de la variable; por ejemplo, un tipo de datos sí/no aceptará ningún valor sí o no.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Actualizar variables de entorno":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Actualizar variables de entorno":::
 
 - Sincronización de referencia de venta conjunta bidireccional de un extremo a otro
 
