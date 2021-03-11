@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 03/08/2021
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541036"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514126"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -86,7 +86,7 @@ Si tiene alguna pregunta relacionada con esta notificación, póngase en contact
 - 7 de enero de 2021: escenario adicional incluido para las fases 1 y 2
 - 28 de enero de 2021: 
     -    Anuncio de que la fase 1 está activa 
-    -    Se aclara que, aunque el Reino Unido no está incluido en la UE/AELC, forma parte de [la región y el mercado europeos de Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) y se verá afectado.
+    -    Se aclara que, aunque el Reino Unido no está incluido en la UE/AELC, forma parte de [la región y el mercado europeos de Microsoft](../regional-authorization-overview.md) y se verá afectado.
 
 
 ________________
@@ -170,13 +170,13 @@ Todos los proveedores y revendedores indirectos que realizan transacciones media
 
 ### <a name="details"></a>Detalles
 
-La implementación del contrato Microsoft Partner Agreement (MPA) para revendedores indirectos está actualmente en curso. Para admitir más proveedores y revendedores, hemos escuchado sus comentarios y hemos consolidado consultas comunes sobre cómo aceptar el MPA en una nueva [página de preguntas más frecuentes](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+La implementación del contrato Microsoft Partner Agreement (MPA) para revendedores indirectos está actualmente en curso. Para admitir más proveedores y revendedores, hemos escuchado sus comentarios y hemos consolidado consultas comunes sobre cómo aceptar el MPA en una nueva [página de preguntas más frecuentes](../mpa-indirect-provider-faq.md).
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-**Revendedores indirectos:** Si no ha aceptado el contrato MPA, revise las [preguntas más frecuentes sobre el MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) y siga las instrucciones paso a paso disponibles [aquí](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) para aceptarlo.
+**Revendedores indirectos:** Si no ha aceptado el contrato MPA, revise las [preguntas más frecuentes sobre el MPA](../mpa-indirect-provider-faq.md) y siga las instrucciones paso a paso disponibles [aquí](../microsoft-partner-agreement.md) para aceptarlo.
 
-**Proveedores indirectos:** Póngase en contacto con sus revendedores indirectos y ayúdeles a usar las [Preguntas más frecuentes sobre MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) y las instrucciones paso a paso disponibles [aquí](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+**Proveedores indirectos:** Póngase en contacto con sus revendedores indirectos y ayúdeles a usar las [Preguntas más frecuentes sobre MPA](../mpa-indirect-provider-faq.md) y las instrucciones paso a paso disponibles [aquí](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
@@ -207,8 +207,8 @@ A continuación se muestran los nuevos tipos de operación:
 ### <a name="next-steps"></a>Pasos siguientes
 
 - Aproveche los nuevos tipos de operación para realizar un seguimiento de los eventos cuando el cliente apruebe el DAP y lo termine.  
-- [Obtención de un registro de la actividad del Centro de partners: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Recursos de auditoría: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Obtención de un registro de la actividad del Centro de partners: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Recursos de auditoría: desarrollador de aplicaciones del Centro de partners | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
@@ -287,9 +287,9 @@ Se recomienda encarecidamente a los partners que se familiaricen con los siguien
 #### <a name="partner-earned-credit-pec"></a>Créditos obtenidos por los partners (PEC)
 
 - [Descripción de los créditos obtenidos por los partners (guía) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Créditos obtenidos por los partners. Información general: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Créditos obtenidos por los partners para servicios administrados: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Roles y permisos para los créditos obtenidos por los partners: Centro de partners | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Créditos obtenidos por los partners. Información general: Centro de partners | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Créditos obtenidos por los partners para servicios administrados: Centro de partners | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Roles y permisos para los créditos obtenidos por los partners: Centro de partners | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Módulo de entrenamiento a petición sobre los créditos obtenidos por los partners en los módulos de Azure en CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Nueva experiencia comercial
@@ -314,6 +314,9 @@ Todos los partners del CSP
 
 ### <a name="details"></a>Detalles
 
+>[!NOTE]
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Tal y como [se anunció](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoy, nos complace informar que las licencias de software perpetuo comercial ya están disponibles con carácter general para que todos los partners de CSP puedan venderlas. La lista de precios del software perpetuo de CSP del Centro de partners se ha vuelto a publicar y ahora incluye productos y zonas geográficas adicionales.
 
 Además, tenga en cuenta que, a partir de hoy, se retira la funcionalidad de suministro de claves de licencia y software del Centro de partners y que, en adelante, los partners deben dirigir a los clientes al Centro de administración de Microsoft 365 para este fin. A continuación, encontrará más información detallada y los pasos siguientes.
@@ -321,12 +324,18 @@ Además, tenga en cuenta que, a partir de hoy, se retira la funcionalidad de sum
 ### <a name="next-steps"></a>Pasos siguientes
 
 - Descargue la lista de precios del **software perpetuo de CSP** en la sección **Software** de la página [Precios y ofertas](https://partnercenter.microsoft.com/pcv/sales) del Centro de partners. Puede consultar una lista de los productos y las regiones geográficas que se agregaron recientemente [aquí](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Revise el [artículo de procedimientos para descargar claves de licencia de producto y software perpetuo del Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2152525) e informe a sus clientes cuando estén listos para descargar el software y las claves de licencia.
+- Revise el [artículo de procedimientos para descargar claves de licencia de producto y software perpetuo del Centro de administración de Microsoft 365](/microsoft-365/admin/setup/download-software-licenses-csp) e informe a sus clientes cuando estén listos para descargar el software y las claves de licencia.
 - Revise los materiales de preparación para el [software perpetuo del programa Proveedor de soluciones en la nube](https://partner.microsoft.com/resources/collection/software-in-csp#/). Use este [mapa de preparación](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rápidamente la información adecuada para su rol.
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
 Si tiene alguna pregunta, póngase en contacto con las comunidades de Yammer de CSP correspondientes.
+
+### <a name="change-log"></a>Registro de cambios:
+
+- 19 de enero de 2021: fecha de publicación original 
+
+- 5 de marzo de 2021: se agregó una al principio sobre la reanudación de la funcionalidad de suministro de software y claves de licencia del Centro de partners.
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners 

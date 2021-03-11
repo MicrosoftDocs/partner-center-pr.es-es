@@ -1,7 +1,7 @@
 ---
 title: Venta de suscripciones de software a través de CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtén información sobre cómo los partners del programa CSP pueden usar el Centro de partners para comprar, administrar, vender y cancelar instancias reservadas de Azure y las suscripciones de servidor para los clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834863"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475201"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
 
@@ -92,18 +92,25 @@ Para comprar suscripciones de software en nombre de un cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activación y administración de suscripciones de software
 
-Una vez que haya adquirido el software, sus clientes tendrán que descargarlo. Usa el siguiente procedimiento para hacerlo.
+Una vez que haya adquirido el software, usted o sus clientes deben descargarlo (los partners desde el Centro de partners, los clientes desde el Centro de administración de Microsoft 365). Usa el siguiente procedimiento para hacerlo. Es importante comprender los riesgos asociados a la copia de vínculos y la descarga de software. Para obtener más información, consulte **Uso del Centro de partners para obtener descargas de software y claves de licencia para clientes** en la [Nueva guía de operaciones comerciales del Centro de partners](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Debe ser un agente de administración para obtener el vínculo a las claves y las descargas.
+>Debe ser agente de administración del Centro de partners para obtener el vínculo a las claves y las descargas.
 
-1. Ve a tu página de detalles del cliente y, a continuación, selecciona **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
-2. Copie el "vínculo profundo" desde el **vínculo a las descargas y claves de producto de software** y comparta el vínculo con el cliente. Al seleccionar este vínculo, se le redirigirá al Centro de administración de Microsoft para descargar y obtener las claves de producto.
+1. Vaya a la página de detalles del cliente y, a continuación, seleccione **Software**. Verás una lista de todo el software que has comprado en nombre del cliente.
+
+2. Elija la **versión**, el **idioma** y los **bits** del producto y seleccione **Obtener descargas y claves**. 
+
+3. Elija **Obtener clave**, que mostrará el producto de 32 dígitos en un cuadro de diálogo emergente que puede copiar y enviar al cliente. 
+
+4. Elija **Descargar** para descargar los bits. 
+
+5. Elija **Copiar vínculo** si quiere enviar al cliente el vínculo para la descarga de bits. 
+
+6. También puede **Cancelar** el pedido de software y recibir un crédito del 100 % (si lo hace dentro del período de la directiva de cancelación de 60 días).
 
 >[!NOTE]
->Solo los clientes pueden ver las claves de producto y descargar información en el Centro de administración de Microsoft. Los partners no pueden ver esta información.
-
-Si usted o sus clientes quieren obtener más información sobre la descarga de claves de licencia, consulte [Descarga de claves de licencia de software y producto](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+>Solo los clientes tienen acceso para ver la información de las claves de producto y descargas en el Centro de administración de Microsoft 365 (se requiere el rol Administrador global). Los partners deben usar el Centro de partners para ver esta información.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Claves de licencia y descarga de suscripción de servidor disponibles a través del Centro de administración de Microsoft 365 para clientes 
 

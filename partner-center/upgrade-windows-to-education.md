@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755828"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022747"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Actualice algunos clientes de Educación de Windows 10 Home a Windows 10 Education
 
 **Roles adecuados**
 
 - Agente de administrador
-- Agente del departamento de soporte técnico
+- Administrador de facturación
 
 ## <a name="overview"></a>Información general
 
@@ -57,7 +57,7 @@ Los asociados deben crear una solicitud de soporte técnico y obtener las claves
 
 - **Título:** Clave de producto de actualización de Windows 10 Home a Windows 10 Education
 - **Descripción:** Solicitando [Insertar número] claves para habilitar la actualización a Windows 10 Education. (Tenga en cuenta que el número de claves solicitadas no debe ser mayor que las licencias de suscripción de Microsoft 365 A3/A5 o de Windows 10 Enterprise A3/A5). IDENTIFICADOR de suscripción del cliente [Inserte el GUID del ID. de suscripción de los clientes para su Microsoft 365 suscripción A3/A5 o A3/A5 de Windows 10 Enterprise).
-- **Número de contacto:** Se rellenará previamente; Revise para confirmar o actualizar.
+- **Número de contacto:** Esto se rellenará de antemano; Revise para confirmar o actualizar.
 - **Correo electrónico:** Esto se rellenará previamente y debe ser el correo electrónico que use como administrador del portal de Microsoft (solo administrador global o administrador de facturación).
 - **Método de contacto preferido**: elija **teléfono** o **programe una devolución de llamada**.
 
@@ -92,8 +92,9 @@ Los clientes de educación deben tener en cuenta los dispositivos de Windows 10 
 **¿Hay una fecha límite para cuándo ponerse en contacto con el servicio de soporte técnico y recibir la clave de actualización?**
 La actualización de Windows 10 Education se basa en las suscripciones de licencias Active Microsoft 365 A3/A5 o Windows 10 Enterprise A3/A5 del cliente. Si el cliente no extiende o renueva la suscripción, también finaliza el derecho a actualizar.
 
+## <a name="next-steps"></a>Pasos siguientes
+
 **¿Dónde pueden los asociados obtener más información sobre Windows 10 Education?**
-Para obtener más información, siga estos vínculos:
 
 - [Características de Windows educación](https://www.microsoft.com/education/products/windows/features)
 - [Centro de Educación de Windows](/education/windows/)

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755856"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022815"
 ---
 # <a name="view-your-incentives-program-details"></a>Ver los detalles del programa incentivos
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755856"
 
 - Administrador de incentivos
 - Usuario de incentivos
-- Visor de solo lectura de incentivos
 - Administrador global
 - Administrador de partners de MPN
 
-En este artículo se explica cómo acceder a la página de **información general de mis incentivos** , en la que se muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. También proporciona los distintos Estados de inscripción. 
+En este artículo se explica la página de **información general de mis incentivos** , en la que se muestra el estado general de los programas de incentivos, así como el estado de cada programa en cada ubicación. También proporciona los distintos Estados de inscripción.
 
 >[!NOTE]
 >Para obtener más información acerca de las características de incentivos y incentivos del centro de Partners, consulte [inversiones e incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives) (inicio de sesión obligatorio).

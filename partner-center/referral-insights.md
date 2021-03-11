@@ -1,7 +1,7 @@
 ---
 title: Obtener información de referencia
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Revise la información de referencia periódicamente en el Centro de partners para ver las tendencias que se deben abordar o las áreas de mejora para ayudarle a alcanzar sus objetivos empresariales.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422413"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756495"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
@@ -59,13 +59,13 @@ Las métricas de cambio de porcentaje (mostradas en rojo o verde con un indicado
 
 En esta sección se muestra un indicador visual de cómo se mueven las ofertas de un estado a otro a lo largo del ciclo de vida. Puede ver todo el ciclo de vida basado en el volumen de ofertas, así como el valor de la oferta en USD basado en función del control dinámico principal de esta sección. La primera sección se etiqueta con el estado y el tipo de la oferta para ofrecerle un indicador visual del volumen o valor por tipo. También hay una sección, **Referencias pasadas**, que se usa para indicar las ofertas para las que ha realizado una acción, bien para aceptarlas o rechazarlas, o bien para marcarlas como ganadas o perdidas en el período de tiempo seleccionado para el informe. Puede aplicar filtros para ver el progreso de los acuerdos en varias fases de su ciclo de vida.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Imagen que muestra el embudo de conversión para las referencias.":::
 
 ## <a name="deals-by-geography"></a>Ofertas por zonas geográficas
 
 En esta sección se muestran los países o regiones de donde provienen las ofertas, junto con los detalles de cada país o región. Hay una vista de tabla de los detalles de la oferta para cada país, junto con una vista de mapa de todos los países. Puede hacer clic en un país específico de la tabla o en la vista del mapa para hacer zoom en un país específico.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagen que muestra la distribución geográfica de las referencias.":::
 
 ## <a name="deals-by-solutions"></a>Ofertas por soluciones
 
@@ -77,13 +77,13 @@ En función de la selección del control dinámico, puede ver el rendimiento de 
 
 En la tabla se incluye el total de ofertas que tienen la solución incluida y los estados correspondientes, como las ofertas ganadas, perdidas o expiradas, junto con el valor total de las ofertas ganadas y perdidas en moneda USD. También hay un gráfico de tendencias de ofertas a la derecha de la tabla que muestra los recuentos totales de ofertas y el valor de oferta ganado en la moneda USD en función de la solución seleccionada. La selección predeterminada es Todas las soluciones.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Imagen que muestra el rendimiento de las soluciones.":::
 
 ## <a name="declined--lost-reasons"></a>Motivos de rechazo y pérdida
 
 Esta sección le ayudará a analizar los motivos por los que la empresa marcó las ofertas como **Rechazadas** o **Perdidas**. Las opciones de estas representaciones son las mismas que los vendedores han elegido al cerrar la oferta como rechazada o perdida.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Imagen que muestra los motivos seleccionados por el partner al rechazar o marcar como perdida una oferta.":::
 
 ## <a name="comparison-charts"></a>Gráficos de comparación
 
@@ -96,13 +96,13 @@ Las tres dimensiones que puede elegir para comparar datos son
 
 Cuando se selecciona Tipo de oferta, tiene la opción de comparar el rendimiento de las referencias respecto a las oportunidades de venta conjunta y las ofertas privadas. Para ambos mercados y soluciones, puede elegir hasta tres opciones diferentes para comparar su rendimiento. El primer gráfico, que es un gráfico de barras, incluirá los datos presentados con una tendencia mes en mes basada en el control dinámico principal, que es el volumen o el valor de las ofertas ganadas. También hay un gráfico circular a la derecha del gráfico de barras, que muestra la distribución por porcentaje de los mismos datos.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagen que muestra la sección de comparación.":::
 
 ## <a name="raw-data-table"></a>Tabla de datos sin procesar
 
 La siguiente tabla con todos los datos sin procesar relacionados con las oportunidades de venta conjunta le ayudará a **exportar** rápidamente los datos para cualquier análisis detallado o personalizado que quiera realizar.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagen que muestra la tabla de datos sin procesar para las referencias.":::
 
 ## <a name="no-data"></a>Sin datos
 
@@ -114,10 +114,10 @@ Puede haber varios motivos por los que obtiene un gráfico en blanco como el que
 - No hay registros que coincidan con los filtros aplicados. Pruebe a restablecer los filtros.
 - Hay un retraso entre el cambio de estado de la oportunidad y su actualización en el informe de análisis. Consulte el informe después de 24 horas.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Imagen que muestra la tarjeta de resumen del análisis de oportunidades de venta conjunta.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Imagen que no muestra la visualización de datos para las referencias.":::
 
 > [!NOTE]
-> En la página **Información de referencia** solo se muestran los datos de las referencias generadas en el Centro de partners. No se muestran los datos de las referencias generadas a través de [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) ni ningún otro mecanismo.
+> En la página **Información de referencia** solo se muestran los datos de las referencias generadas en el Centro de partners. No se muestran los datos de las referencias generadas a través de [Partner Sales Connect](psc-to-pc.md) ni ningún otro mecanismo.
 
 > [!TIP]
 > Para ver el rendimiento de tu perfil de negocios en la experiencia [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home), revisa la página [Información de perfil de negocio](analyze-your-marketing-profile.md).

@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354617"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029923"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Método actualizado para confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft
 
 
 **Roles adecuados**
@@ -30,8 +30,6 @@ ms.locfileid: "97354617"
 > * Centro de partners para Microsoft Cloud Alemania
 > * Centro de partners para Microsoft Cloud for US Government
 
->[!NOTE]
->A partir del 31 de enero de 2020, todos los clientes, existentes y nuevos, deben firmar el nuevo Contrato de cliente de Microsoft. Para obtener más detalles, consulta [Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
 Como partner, debes obtener la aceptación por parte de tu cliente del Contrato de cliente de Microsoft antes de pedir productos y servicios de Microsoft para dicho cliente. Para ayudar mejor a los partners a cumplir con los requisitos de cumplimiento, Microsoft les pide que confirmen la aceptación, proporcionando los siguientes detalles de la persona que aceptó el contrato:
 
@@ -46,6 +44,9 @@ Como partner, debes obtener la aceptación por parte de tu cliente del Contrato 
 - Fecha de aceptación
 
 Los partners de factura directa y los proveedores indirectos deben confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft cuando realicen transacciones a través del Centro de partners o la API del Centro de partners. La confirmación es *obligatoria*.
+
+>[!NOTE]
+>A partir del 31 de enero de 2020, todos los clientes, existentes y nuevos, deben firmar el nuevo Contrato de cliente de Microsoft. Para obtener más detalles, consulta [Confirmación de la aceptación por parte del cliente del Contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
 Si no se facilita la confirmación para un cliente determinado:
 

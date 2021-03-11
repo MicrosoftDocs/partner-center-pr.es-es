@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220284"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619433"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Expansión de la nueva experiencia comercial en el programa Proveedor de soluciones en la nube (CSP) de Azure a Rusia](2021-march.md#5)|10 de marzo|
 |Funcionalidades|[Suministro de descargas y claves de licencia de software del Centro de partners](2021-march.md#4)|5 de marzo|
 |Funcionalidades|[Migración de las ofertas de Partner Sales Connect (PSC) al Centro de partners](2021-march.md#3)|5 de marzo|
 |Funcionalidades|[Nuevos productos y ofertas de Microsoft Dynamics 365 disponibles el 1 de abril de 2021](2021-march.md#2)|4 de marzo|

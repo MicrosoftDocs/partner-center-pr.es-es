@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124829"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770283"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guía para la venta conjunta en el centro de Partners (PC) para los asociados que migran desde la conexión de ventas de asociados (PSC)
 
@@ -81,7 +81,7 @@ Para buscar el administrador de la cuenta de su empresa:
 
    La página mostrará todos los administradores de cuenta con sus direcciones de correo electrónico respectivas. Envíe un correo electrónico a uno de ellos y pídales que asignen el rol de administrador de referencias para su cuenta profesional.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Imagen que muestra los administradores de cuentas en la página de administración de usuarios de configuración de socios comerciales.":::
 
 >[!Important]
 >- Si su rol solo implica la administración de usuarios en PSC, pida al administrador de la cuenta de su empresa que le asigne el rol de [Administrador de cuenta](permissions-overview.md#manage-mpn-membership-and-your-company) en el centro de Partners. 
@@ -95,7 +95,7 @@ Una vez configurada la cuenta en el centro de Partners, use el Asistente para mi
 >[!Note]
 > La migración de usuarios solo la pueden realizar los [administradores de cuentas](permissions-overview.md#manage-mpn-membership-and-your-company) de su empresa. Si no tiene el rol de administrador de cuenta, busque un administrador de cuenta que pueda ayudarle a configurar las cuentas de usuario con la ayuda del Asistente para migración de usuarios.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagen que muestra el Asistente para migración de usuarios.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Imagen que muestra el Asistente para migración de usuarios.":::
 
 Los administradores de cuentas verán el vínculo del Asistente para migración de usuarios de PSC en la página oportunidades de venta conjunta, junto a la guía de referencias. Pueden iniciar la migración de usuarios seleccionando el vínculo. Para iniciar la migración de usuarios, los administradores pueden seleccionar el vínculo. Pueden realizar este paso de migración de usuarios varias veces hasta que todos los usuarios tengan asignados roles adecuados en el centro de Partners.
 
