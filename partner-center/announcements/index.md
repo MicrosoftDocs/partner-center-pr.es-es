@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619433"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193620"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Migre sus soluciones de comercialización "Go-To Market" (GTM) de One Commercial Partner (OCP) al Marketplace comercial de Microsoft](2021-march.md#6)|12 de marzo|
 |Funcionalidades|[Expansión de la nueva experiencia comercial en el programa Proveedor de soluciones en la nube (CSP) de Azure a Rusia](2021-march.md#5)|10 de marzo|
 |Funcionalidades|[Suministro de descargas y claves de licencia de software del Centro de partners](2021-march.md#4)|5 de marzo|
 |Funcionalidades|[Migración de las ofertas de Partner Sales Connect (PSC) al Centro de partners](2021-march.md#3)|5 de marzo|
