@@ -1,17 +1,17 @@
 ---
 title: Información general de Microsoft AppSource
 description: Obtenga información sobre la tienda en línea de Microsoft AppSource y cómo puede encontrar y obtener un amplio catálogo de software y soluciones.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759871"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412529"
 ---
 # <a name="what-is-microsoft-appsource"></a>¿Qué es Microsoft AppSource?
 
@@ -42,7 +42,7 @@ Para comprar aplicaciones SaaS desde AppSource, necesitará una cuenta de Azure 
 
 Todos los productos disponibles en AppSource se han certificado de acuerdo con criterios específicos. Todavía le animamos a que revise cada producto cuidadosamente para asegurarse de que cumple los requisitos únicos de su organización. Para obtener información sobre las directivas de certificación que se revisan para cada tipo de oferta, consulte [directivas de certificación comerciales de Marketplace](/legal/marketplace/certification-policies). Microsoft 365 aplicaciones tienen un proceso de [certificación](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) y [atestación](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) adicional para los publicadores.
 
-## <a name="terms-and-conditions"></a>Términos y condiciones
+## <a name="terms-and-conditions"></a>términos y condiciones
 
 El proveedor de software define el precio, el contrato de licencia para el usuario final y las directivas de privacidad. Cada oferta de AppSource incluye vínculos al contrato de licencia y la Directiva de privacidad del publicador. La visualización y el reconocimiento de estos contratos forman parte del flujo de compra. Para obtener más información, consulte [contratos legales](legal-contracts.md).
 

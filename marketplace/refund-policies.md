@@ -1,17 +1,17 @@
 ---
 title: Directivas de reembolso para Microsoft AppSource y Azure Marketplace
 description: Obtenga información sobre las directivas de reembolso para productos vendidos en Microsoft AppSource y Azure Marketplace
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007401"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412682"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Directivas de reembolso para Microsoft AppSource y Azure Marketplace
 
@@ -43,7 +43,7 @@ Las directivas de reembolso para la instancia reservada de Azure (RI) están dis
 
 Si transfiere o modifica su plan de soporte técnico de Azure, puede ser válido para un reembolso parcial. El importe reembolsado se basa en la parte restante del período de suscripción.
 
-## <a name="azure-databricks"></a>Azure Databricks
+## <a name="azure-databricks"></a>Azure Databricks
 
 Si quita un recurso de Azure Databricks, podrá elegir un reembolso parcial en función de las unidades de términos restantes que haya especificado. Para obtener más información sobre Azure Databricks, consulte la [documentación de Azure Databricks](/azure/databricks).
 

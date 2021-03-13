@@ -1,17 +1,17 @@
 ---
 title: Introducción a Azure Marketplace
 description: Obtenga información sobre la tienda en línea de Azure Marketplace y cómo puede buscar y probar software y soluciones.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182535"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412597"
 ---
 # <a name="what-is-azure-marketplace"></a>¿Qué es Azure Marketplace?
 
@@ -65,7 +65,7 @@ Las compras de Azure Marketplace se agregan automáticamente a la factura de Azu
 
 Todos los productos disponibles en Azure Marketplace se han certificado de acuerdo con criterios específicos. Todavía le animamos a que revise cada producto cuidadosamente para asegurarse de que cumple los requisitos únicos de su organización. Para obtener información sobre las directivas de certificación que se revisan para cada tipo de oferta, consulte las [directivas de certificación](/legal/marketplace/certification-policies)Commercial Marketplace.
 
-## <a name="terms-and-conditions"></a>Términos y condiciones
+## <a name="terms-and-conditions"></a>términos y condiciones
 
 El proveedor de software define el precio, el contrato de licencia para el usuario final y las directivas de privacidad. Todas las ofertas de Azure Marketplace incluyen vínculos al contrato de licencia y la Directiva de privacidad del publicador. La confirmación de estos contratos, así como la posibilidad de verlos, forma parte del flujo de compra. Consulte [contratos legales](legal-contracts.md) para obtener más información.
 
