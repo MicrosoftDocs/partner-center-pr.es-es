@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193620"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480998"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Actualización de la evolución del programa Proveedor de soluciones en la nube (CSP) y cambios en el programa Open License](2021-march.md#8)|15 de marzo|
+|Hacer crecer el negocio|[Actualización a un anuncio anterior: valoraciones prémium, complemento para el Administrador de cumplimiento](2021-march.md#7)|15 de marzo|
 |Funcionalidades|[Migre sus soluciones de comercialización "Go-To Market" (GTM) de One Commercial Partner (OCP) al Marketplace comercial de Microsoft](2021-march.md#6)|12 de marzo|
 |Funcionalidades|[Expansión de la nueva experiencia comercial en el programa Proveedor de soluciones en la nube (CSP) de Azure a Rusia](2021-march.md#5)|10 de marzo|
 |Funcionalidades|[Suministro de descargas y claves de licencia de software del Centro de partners](2021-march.md#4)|5 de marzo|
