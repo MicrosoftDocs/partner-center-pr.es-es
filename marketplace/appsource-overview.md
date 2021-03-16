@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412529"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486889"
 ---
 # <a name="what-is-microsoft-appsource"></a>¿Qué es Microsoft AppSource?
 
@@ -21,13 +22,25 @@ El catálogo de AppSource incluye aplicaciones SaaS (software como servicio), so
 
 ## <a name="find-what-you-need-on-appsource"></a>Encuentre lo que necesita en AppSource
 
-AppSource ofrece opciones sencillas de búsqueda y filtrado para ayudarle a encontrar lo que busca rápidamente. Use la barra de búsqueda de la parte superior de la página para buscar soluciones por proveedor, nombre de producto o palabras clave. Use los filtros que se encuentran cerca de la parte superior de la página para restringir los resultados en función de la disponibilidad de una versión de prueba o evaluación gratuita, el modelo de precios (gratis o de pago) y las clasificaciones.
+AppSource ofrece opciones sencillas de búsqueda y filtrado para ayudarle a encontrar rápidamente lo que está buscando. Use la barra de **búsqueda** de la parte superior de la página para buscar soluciones por proveedor, nombre de producto o palabras clave.
 
-El panel de la izquierda le permite filtrar los resultados en función de una lista de tipos de productos, categorías e industrias. Los tipos de productos de AppSource se basan en productos como Microsoft 365 y Power apps. Las categorías se basan en funciones empresariales como la colaboración y el marketing. También puede elegir entre una lista de sectores como agricultura y fabricación.
+[![Muestra la página de aterrizaje de Microsoft AppSource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Al explorar la [Galería de aplicaciones](https://appsource.microsoft.com/marketplace/apps), use los filtros que se encuentran cerca de la parte superior de la página para restringir los resultados en función de la disponibilidad de una versión de prueba o evaluación gratuita, del modelo de precios (gratis o de pago) y de las clasificaciones de los clientes.
+
+El panel de la izquierda le permite filtrar los resultados en función de una lista de tipos de productos, categorías e industrias. Los tipos de productos de AppSource se basan en productos como Microsoft 365, Dynamics 365 y Power Platform. Las categorías se basan en funciones empresariales como ventas, colaboración o marketing. También puede elegir entre una lista de sectores como servicios financieros, asistencia sanitaria y distribución.
+
+## <a name="microsoft-preferred-solutions"></a>Soluciones preferidas de Microsoft
+
+Al buscar o filtrar el catálogo, los resultados pueden incluir soluciones preferidas de Microsoft, que se identifican mediante el distintivo de soluciones preferido situado en la esquina inferior derecha de la tarjeta de la aplicación o el distintivo en la página de detalles del producto.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Muestra el distintivo de proveedor preferido de AppSource.":::
+
+Las soluciones preferidas las selecciona un equipo de expertos de Microsoft y están publicadas por los asociados de Microsoft con funcionalidades y conocimientos profundos y probados para satisfacer las necesidades específicas de los clientes en una categoría, sector o vertical del sector.
 
 ## <a name="take-action-on-a-listing"></a>Realizar una acción en una lista
 
-Al seleccionar una aplicación de los resultados de la _aplicación_, aparece la página de lista de la aplicación. Todas las listas de AppSource admiten una o varias de las siguientes opciones de lista:
+Seleccione una aplicación de los *resultados* de la aplicación para ver la página de lista de la aplicación. Para realizar una acción en una lista, seleccione una o varias de las siguientes opciones:
 
 - **Obtenerla ahora**: Compre la solución inmediatamente.
 - Versión de **prueba**: Explore una demostración de seleccionada. Una versión de prueba no utiliza los datos o el entorno de producción, pero le permite determinar si la solución satisface sus necesidades empresariales.
