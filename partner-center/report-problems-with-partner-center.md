@@ -1,5 +1,5 @@
 ---
-title: Informar sobre problemas con el Centro de partners
+title: Herramienta de diagnóstico y solicitudes del portal del centro de Partners
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530670"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582043"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Cómo notificar problemas con el centro de Partners y enviar información de registros o diagnósticos
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Herramienta de diagnóstico y solicitudes del portal del centro de Partners
 
 **Se aplica a**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530670"
 **Roles adecuados**
 
 Todos los usuarios registrados en el centro de partners pueden crear solicitudes de soporte técnico de asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.
+Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas o necesita ayuda con los errores del portal del centro de Partners. Envíe diagnósticos para permitir que se solucione el problema más rápido.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Notificar un problema con el centro de Partners
 
