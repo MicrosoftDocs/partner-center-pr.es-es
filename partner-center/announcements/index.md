@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480998"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570182"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Impulsar la eficiencia y la escala|[Actualización de un nombre de empresa legal a través del Centro de partners](2021-march.md#9)|16 de marzo|
 |Funcionalidades|[Actualización de la evolución del programa Proveedor de soluciones en la nube (CSP) y cambios en el programa Open License](2021-march.md#8)|15 de marzo|
 |Hacer crecer el negocio|[Actualización a un anuncio anterior: valoraciones prémium, complemento para el Administrador de cumplimiento](2021-march.md#7)|15 de marzo|
 |Funcionalidades|[Migre sus soluciones de comercialización "Go-To Market" (GTM) de One Commercial Partner (OCP) al Marketplace comercial de Microsoft](2021-march.md#6)|12 de marzo|
