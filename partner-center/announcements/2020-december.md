@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705052"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514109"
 ---
 # <a name="december-2020-announcements"></a>Anuncios de diciembre de 2020
 
@@ -274,6 +274,9 @@ Todos los partners del CSP
 
 ### <a name="details"></a>Detalles
 
+>[!NOTE]
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Nos gustaría recordarle que, a partir del **19 de enero de 2021**, todos los partners inscritos en el programa CSP podrán vender licencias comerciales de software perpetuo para la implementación local a través de CSP. Esto proporcionará a los clientes la flexibilidad en las licencias que necesitan como parte de su transformación digital.
 
 En esta misma fecha también tendrá lugar lo siguiente:
@@ -301,6 +304,12 @@ Revise los siguientes recursos y compártalos con los contactos pertinentes de s
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
 Si tiene alguna pregunta más sobre estas ofertas, consulte con las comunidades de Yammer correspondientes.
+
+### <a name="change-log"></a>Registro de cambios:
+
+- 17 de diciembre de 2020: fecha de publicación original 
+
+- 5 de marzo de 2021: se agregó una nota al principio sobre la reanudación de la funcionalidad de suministro de software y claves de licencia del Centro de partners.
 
 ______________
 
