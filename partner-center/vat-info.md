@@ -6,12 +6,14 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
+ms.openlocfilehash: c0778ac4ba4d33dc9e60e33f4d158d264a31946e
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755736"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712144"
 ---
 # <a name="value-added-tax-vat-information"></a>Información del impuesto sobre el valor añadido (IVA)
 

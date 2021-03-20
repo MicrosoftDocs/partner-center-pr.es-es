@@ -1,7 +1,7 @@
 ---
-title: Establecer un presupuesto de gasto de Azure para los clientes
+title: Establecer, comprobar o quitar los presupuestos de gastos mensuales de Azure para los clientes del Centro de partners
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Obtenga información acerca de cómo establecer o quitar los presupuestos de gastos mensuales de Azure para los clientes y también ver los datos de gasto de Azure y establecer notificaciones relacionadas con el presupuesto.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438984"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712756"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Establecer, comprobar o quitar los presupuestos de gastos mensuales de Azure para los clientes del centro de Partners
 
-Se aplica a:
+**Roles adecuados**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Agente de administrador
 
 Puede [establecer un presupuesto de gasto de Azure mensual para sus clientes en el](#set-azure-spending-budget) centro de Partners. Esto ayuda a los clientes a administrar sus gastos de Azure. Esta opción permite comparar el gasto de Azure de los clientes con el presupuesto durante el mes. También ayuda a los clientes a presupuestar sus gastos de Azure, por lo que su factura mensual no es más alta de lo previsto.
 
@@ -48,7 +47,7 @@ Los datos de gasto se *actualizan una vez al día*. Los clientes pueden seguir u
 
 Puede *establecer un presupuesto de gasto de Azure mensual* para varios clientes en el centro de Partners:
 
-1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/).
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
 2. En el menú de la izquierda, en **CSP**, elija **gasto de Azure**.
 
@@ -60,7 +59,7 @@ Puede *establecer un presupuesto de gasto de Azure mensual* para varios clientes
 
 También puede *establecer un presupuesto para un cliente individual* en su configuración de suscripción:
 
-1. Inicia sesión en el panel del Centro de partners.
+1. Inicie sesión en el panel del Centro de partners.
 
 2. En el menú de la izquierda, en **CSP**, elija **clientes**.
 
@@ -76,7 +75,7 @@ También puede *establecer un presupuesto para un cliente individual* en su conf
 
 Puede *quitar un presupuesto mensual de gastos de Azure* para los clientes del centro de Partners:
 
-1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/).
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
 2. En el menú de la izquierda, en **CSP**, elija **gasto de Azure**.
 
@@ -88,7 +87,7 @@ Puede *quitar un presupuesto mensual de gastos de Azure* para los clientes del c
 
 Puede *realizar un seguimiento de los gastos mensuales y del gasto actual de Azure* en cualquier momento:
 
-1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/).
+1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 
 2. En el menú de la izquierda, en **CSP**, elija **gasto de Azure**.
 
@@ -126,3 +125,8 @@ Puede *ver los costos calculados (y el uso estimado) por servicio para las suscr
 4. En la página **suscripciones** del cliente, en **suscripciones basadas** en el uso, seleccione el nombre de la **suscripción**.
 
 5. En la página de la suscripción, puede revisar los **costos** calculados por servicio y el **uso estimado** para el mes en curso.
+
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Nueva experiencia comercial en CSP: facturación de Azure](azure-plan-billing.md)

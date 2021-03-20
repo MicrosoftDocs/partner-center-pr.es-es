@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098812"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712263"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compra única de CSP
 
@@ -28,7 +28,7 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | CustomerId | Identificador único de Microsoft para el cliente en formato GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nombre de la organización del cliente según figura en el Centro de partners. Esta columna es importante para conciliar la factura con la información del sistema. | *Johnny moderno DE2* |
 | CustomerDomainName | Nombre de dominio del cliente. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | País en el que se encuentra el cliente. Consulte la [lista completa de países](./regional-authorization-overview.md) de su región.  | *RESGUARDO* |
+| CustomerCountry | País en el que se encuentra el cliente. Consulte la [lista completa de países](./regional-authorization-overview.md) de su región.  | *DE* |
 | InvoiceNumber | Número de factura asociado al archivo de conciliación.  | *G002297372* |
 | MpnId | Identificador de MPN del asociado de CSP. Para obtener más información, consulte [Cómo elemento por asociado](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identificador de MPN del distribuidor de registro de la suscripción. | *6048879* |
@@ -64,6 +64,7 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | PCToBCExchangeRateDate | Fecha en la que se determina la moneda de los precios de la moneda de facturación. | *30/09/2020* |
 | MeterDescription | Descripción del medidor.  | *Tablas: datos LRS almacenados (GB/mes)* |
 | ReservationOrderId | Identificador del pedido de reserva. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | La descripción del crédito. | *Crédito de consumo de Azure* |
 
 >[!NOTE]
 >Puede reconciliar el consumo de Azure en el archivo de conciliación de compra única. Para ello, vaya a su archivo de conciliación de uso con clasificación diaria y busque el ID. de suscripción. Esto mostrará todos los costos asociados a su identificador de plan de Azure. El SubscriptionID de Azure se muestra como EntitlementID.

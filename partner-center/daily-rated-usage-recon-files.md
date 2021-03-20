@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031968"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712246"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
@@ -60,11 +60,11 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | UsageDate | Fecha del uso del servicio. |
 | MeterType | Tipo de medidor. |
 | MeterCategory | Identifica el servicio de nivel superior para el uso. |
-| MeterId | Identificador del medidor que se está usando. |
+| Id. del medidor | Identificador del medidor que se está usando. |
 | MeterSubCategory | El tipo de servicio de Azure, que puede afectar a la tarifa. |
 | MeterName | Unidad de medida del medidor que se está consumiendo. |
 | MeterRegion | Esta columna identifica la ubicación de un centro de datos dentro de la región para los servicios en los que MeterRegion es aplicable y rellenado. |
-| Unidad | Unidad del **nombre**del recurso. |
+| Unidad | Unidad del **nombre** del recurso. |
 | ResourceLocation | Centro de datos en el que se está ejecutando el medidor. |
 | ConsumedService | El servicio de la plataforma Azure que ha usado. |
 | ResourceGroup | Representa un contenedor que contiene los recursos relacionados de una solución de Azure. |
@@ -87,7 +87,8 @@ En este artículo se explica cómo leer archivos de conciliación de uso clasifi
 | EntitlementId | Representa el identificador de suscripción de Azure. |
 | EntitlementDescription | Representa el nombre del identificador de suscripción de Azure. |
 | PartnerEarnedCreditPercentage | Muestra el PartnerEarnedCredit del elemento de línea. El crédito obtenido será 0 o 15 por ciento |
-
+| CreditPercentage | Muestra el crédito de consumo de Azure. El crédito obtenido será 0 o 100 por ciento. |
+| CreditType | Tipo de crédito. Por ejemplo, se **aplica el crédito de Azure.** |
 >[!NOTE]
 >Normalmente, el uso con clasificación diaria tarda 24 horas en aparecer en el centro de Partners o en el acceso a través de la API.
 

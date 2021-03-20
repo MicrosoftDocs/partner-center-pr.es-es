@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584187"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712892"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Si no puede iniciar sesión en el centro de Partners y necesita restablecer su contraseña
 
 **Roles adecuados**
 
-- Usuarios del centro de Partners
+- Todos los asociados interesados en el centro de Partners
 
 Si olvidó su contraseña y no puede iniciar sesión en el centro de Partners, deberá ponerse en contacto con el servicio de soporte técnico. Busque el contacto adecuado en [Support for Business Products](/microsoft-365/admin/contact-support-for-business-products). 
 

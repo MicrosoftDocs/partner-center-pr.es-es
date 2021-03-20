@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619399"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712196"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operaciones masivas para oportunidades de venta conjunta mediante archivos de valores separados por comas (CSV)
 
@@ -74,10 +74,10 @@ Customer Postal Code (Código postal del cliente)|No|Código postal de la regió
 Customer Country (País del cliente)|Sí|País o región donde se encuentra la organización del cliente. Use los códigos de país de dos letras, como se mencionó [aquí]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID. de cliente D-U-N-S|No|Intente capturar el ID. de DUNS de la organización del cliente. Esto le ayudará a la coincidencia más rápida de la organización del cliente en el lado de Microsoft, lo que ayuda a asignar más rápido al vendedor. Puede obtener el identificador de DUNS gratis desde este [sitio web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nombre de contacto del cliente|Depende|El nombre solo es obligatorio si necesita ayuda de Microsoft. El nombre del contacto principal de la organización del cliente que trabaja en este contrato.|John
-Apellido de contacto del cliente|Depende|El apellido solo es obligatorio si necesita ayuda de Microsoft. Apellido del contacto principal de la organización del cliente que trabaja en este contrato.|Customer
+Apellido de contacto del cliente|Depende|El apellido solo es obligatorio si necesita ayuda de Microsoft. Apellido del contacto principal de la organización del cliente que trabaja en este contrato.|Cliente
 Número de teléfono de contacto del cliente|Depende|El número de teléfono solo es obligatorio si necesita ayuda de Microsoft. Número de teléfono del contacto principal de la organización del cliente que trabaja en este trato.|9999999999
 Dirección de correo electrónico de contacto del cliente|Depende|La dirección de correo electrónico solo es obligatoria si necesita ayuda de Microsoft. Dirección de correo electrónico del contacto principal de la organización del cliente que trabaja en este contrato.|john.customer@contoso.com
-Estado de referencia de asociado|Sí|Indica el estado del trato desde la perspectiva de la empresa. Obligatorio si intenta crear o modificar una referencia. Use **nuevo** si está intentando crear un nuevo trato. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralstatus).|Active
+Estado de referencia de asociado|Sí|Indica el estado del trato desde la perspectiva de la empresa. Obligatorio si intenta crear o modificar una referencia. Use **nuevo** si está intentando crear un nuevo trato. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralstatus).|Activo
 Subestado de referencia de asociado|Sí|Indica el estado exacto de la transacción. Use **aceptado** si está intentando crear un nuevo trato. También es necesario si va a modificar una referencia existente. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralsubstatus).|Aceptado
 Estado de referencia de Microsoft|Depende|Indica el estado de la solicitud de venta conjunta que envió a Microsoft para buscar ayuda. Este campo es de solo lectura. Se omitirá cualquier cambio realizado en este campo mientras se importan los datos.| Pending
 Motivo de rechazo o pérdida|Depende| Solo se le pedirá que proporcione esta información si va a cambiar el subestado del campo a rechazado o perdido. Puede omitir esta columna en caso contrario. <br/> **Escriba un número basado en las opciones siguientes** <br/><br/> **1**-el presupuesto del proyecto no es adecuado  <br/> **2**-el cliente no respondió  <br/> **3**-el cliente eligió otro proveedor  <br/> **4** -no se cumplen los requisitos del cliente  <br/> **5** -no es un cliente <br/> **6**: la línea de tiempo propuesta es demasiado corta <br/> **7** -notificar como abuso, correo no deseado o phishing <br/> **8** -otros |6|
@@ -89,7 +89,7 @@ IDENTIFICADOR DE CRM|No|Identificador de esta referencia específica en el siste
 ID. de campaña de marketing|No|Este campo indica la campaña de marketing, que resultó en esta referencia específica. Se usa normalmente para el cálculo de ROI|BingSummer2020
 Notas|No|Notas detalladas que indican las actualizaciones relacionadas con la referencia|Esta es una nota de ejemplo
 ¿Necesita ayuda de Microsoft?|Sí|Esto es para indicar si desea que Microsoft le ayude a hacer esta solicitud de venta conjunta.|Sí
-¿Qué ayuda específica de Microsoft?|Depende|Una de las seis maneras diferentes que Microsoft puede ayudarle. Esto solo es aplicable si elige no en la pregunta "ayuda de Microsoft necesaria? " <br/> **Escriba un número basado en las opciones siguientes** <br/><br/> **1**: propuesta de valor específica de la carga de trabajo  <br/> **2**-arquitectura técnica del cliente  <br/> **3**-prueba de concepto/demo  <br/> **4**-comillas y licencias  <br/> **5**-posterior-ventas de cliente correcta  <br/> **6**-general u otro|1|
+¿Qué ayuda específica de Microsoft?|Depende|Una de las seis maneras diferentes que Microsoft puede ayudarle. Esto solo es aplicable si elige sí en la pregunta "¿necesita ayuda de Microsoft? " <br/> **Escriba un número basado en las opciones siguientes** <br/><br/> **1**: propuesta de valor específica de la carga de trabajo  <br/> **2**-arquitectura técnica del cliente  <br/> **3**-prueba de concepto/demo  <br/> **4**-comillas y licencias  <br/> **5**-posterior-ventas de cliente correcta  <br/> **6**-general u otro|1|
 Compartir con el equipo de ventas de Microsoft|Sí|Esto indica si desea compartir los detalles del trato con el equipo de ventas de Microsoft o no. Esto solo es aplicable si elige no en la pregunta "ayuda de Microsoft necesaria? "|Sí
 Notas a Microsoft|No|Cualquier nota específica a Microsoft si necesita ayuda de Microsoft|Necesita ayuda con una POC para el cliente de Contoso
 Consentimiento para compartir el contacto con el cliente y el socio|Sí|Consentimiento para compartir los detalles de contacto del cliente y los detalles de contacto de los empleados de la empresa que trabajan en el trato. **Los contratos no se crearán ni actualizarán si elige no para esta columna.** |Sí

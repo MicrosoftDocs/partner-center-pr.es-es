@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186659"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712909"
 ---
 # <a name="technical-support-benefits"></a>Ventajas del soporte técnico
 
@@ -58,12 +58,10 @@ El soporte técnico proporciona una solución de problemas para un problema espe
 Como parte de la pertenencia a Microsoft Partner Network, los asociados son válidos para el siguiente soporte técnico
 
 
-|                           Soporte técnico                          |  Action Pack |                                      Competencia Silver                                      |                                        Competencia Gold                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Soporte técnico de Microsoft<br>Para recientes <br>solo productos | 10 incidentes | 15 incidentes                                                                                | 20 incidentes                                                                                  |   |
-| Compatibilidad con la nube de firma<br>Solo para productos en la nube                   |              | Competencias en la nube:<br>Sin límite<br>         <br>Otras competencias:<br>5 incidentes         | Competencias en la nube:<br>Sin límite<br>          <br>Otras competencias:<br>10 incidentes   
-
-
+| Soporte técnico |  Action Pack | Competencia Silver | Competencia Gold |
+|:---:|:---:|:---:|:---:|
+| Soporte técnico de Microsoft<br>Para recientes <br>solo productos | 10 incidentes | 15 incidentes  | 20 incidentes |
+| Compatibilidad con la nube de firma<br>Solo para productos en la nube |  | Competencias en la nube:<br>Sin límite<br><br>Otras competencias:<br>5 incidentes  | Competencias en la nube:<br>Sin límite<br>          <br>Otras competencias:<br>10 incidentes  |
 
 * Las competencias en la nube incluyen: competencia de seguridad, Cloud Business Applications, plataforma en la nube, productividad en la nube, administración de movilidad empresarial, soluciones de nube de pequeñas y medianas empresas.
 
