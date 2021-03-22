@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474281"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768676"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>El centro de Partners tiene dos niveles de cuentas para los asociados de MPN
 
@@ -37,10 +37,10 @@ Su compañía tiene dos niveles de cuentas en el centro de Partners.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>La cuenta de segundo nivel es la cuenta de ubicación denominada cuenta de ubicación de socio (PLA).
 
-El PGA puede tener ubicaciones de negocio adicionales. Cada ubicación tiene su propio identificador de MPN o cuenta de ubicación de socio (PLA). Se usa el identificador de MPN de ubicación para la empresa transaccional y la inscripción en programas de incentivos.
+El formato PGA puede tener ubicaciones de negocio adicionales. Cada ubicación tiene su propio identificador de MPN o cuenta de ubicación de socio (PLA). Se usa el identificador de MPN de ubicación para la empresa transaccional y la inscripción en programas de incentivos.
 
 - Cada cuenta de ubicación de asociados puede tener su propia dirección legal y contacto principal. Las ubicaciones también pueden compartir la dirección legal con la cuenta global o con otras ubicaciones.
-- Ver la lista de cuentas de ubicación de asociados de las ubicaciones de **configuración**  ->  **Locations**.
+- Ver la lista de cuentas de ubicación de asociados de las ubicaciones de **configuración**  ->  .
 - Todas las cuentas de ubicación se encuentran en el mismo nivel y en la cuenta global de socio comercial.
 - Los administradores de cuentas pueden agregar ubicaciones.
 

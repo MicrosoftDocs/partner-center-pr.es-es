@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022798"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768727"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore las preventas técnicas y los servicios de implementación (TPD) 
 
@@ -30,7 +30,7 @@ Se admiten todas las soluciones híbridas o en la nube, además de Windows 10, W
 
 - Los asociados Gold y Silver reciben asistencia ilimitada de preventas. 
 
-- Los miembros de la red pueden adquirir [Action Pack](https://partner.microsoft.com/membership/action-pack) para recibir cinco horas de asesoría  
+- Los miembros de la red pueden adquirir [Action Pack](https://partner.microsoft.com/membership/action-pack) para recibir cinco horas de consulta.  
 
 |     Tipo de oferta    | Número de horas de consulta |   Preventas técnicas   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Inicie sesión con cualquier cuenta de usuario asociada a MPN para **[crear una 
 
 Sus beneficios técnicos de preventas y servicios de implementación (TPD) se activan automáticamente y están disponibles para todos los usuarios asociados a MPN. 
 
-Para ver las ventajas técnicas en el centro de Partners
+Para ver las ventajas técnicas del centro de Partners:
 
 1. Inicie sesión con la cuenta asociada a MPN en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. 
 

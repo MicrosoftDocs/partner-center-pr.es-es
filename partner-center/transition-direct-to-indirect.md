@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624313"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768761"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
 **Roles adecuados**
 
-- Administradores globales
+- Administrador global
 
 >[!Note]
 >Este artículo está destinado a los asociados directos de facturación que han decidido realizar la transición a los revendedores indirectos. Sin embargo, aunque no haya tomado una decisión explícita todavía para inscribirse como revendedor indirecto, Microsoft informará a los asociados de factura directos que no cumplan los [requisitos](direct-partner-new-requirements.md) nuevos para el programa de socio de facturación directo de CSP cuando se [restrinjan sus capacidades de factura directa](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Usted administra los clientes directos de facturación y sus clientes de revende
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Para identificar a los clientes adquiridos como asociados directos de factura
 
-1. Seleccionar **clientes**
+1. Seleccione **Clientes**.
 
-2. Seleccionar un cliente para ver sus detalles
+2. Seleccione un cliente para ver sus detalles.
 
 3. Si este cliente es el que ha adquirido como asociado directo de factura, verá opciones para **Agregar** o **Ver productos** y verá sus suscripciones.
 
@@ -162,7 +162,7 @@ Puede usar la característica de extensión de relación reseller para establece
 
 - No se proporcionará a su proveedor indirecto [privilegios de administración delegada](customers-revoke-admin-privileges.md) en el inquilino del cliente. Si el proveedor indirecto requiere privilegios de administración delegados, debe enviar una invitación de revendedor indirecto al cliente en su lugar.
 
-- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página relaciones de socios comerciales del [centro de administración de M365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](/microsoft-store/work-with-partner-microsoft-store-business).
+- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como un asociado de CSP al cliente en la página de relaciones de socios en el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Para evitar confusiones y malentendidos, tiene la obligación contractual del acuerdo de socio comercial de informar y obtener el consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un cliente de facturación directo existente y un proveedor indirecto.
@@ -223,9 +223,9 @@ Microsoft Cloud acuerdo es válido hasta el 31 de enero de 2020. Después de esa
 
 En el modelo indirecto de CSP, los revendedores indirectos no tienen relaciones de facturación con Microsoft. En su lugar, los revendedores indirectos obtienen las suscripciones de sus clientes a través de sus proveedores indirectos. Mientras realiza la transición de Direct Bill Partner a revendedor indirecto, debe transferir las suscripciones existentes que tiene como el socio de facturación directo a su proveedor indirecto. Para ello, puede usar la característica de transferencia de suscripción de autoservicio en el panel del centro de Partners.
 
-### <a name="pre-requisites"></a>Requisitos previos
+### <a name="prerequisites"></a>Prerrequisitos
 
-- Esta característica solo está disponible para los asociados de transición que hayan completado la inscripción de revendedores indirectos mediante sus inquilinos de asociados directos de factura.
+- Esta característica solo está disponible para los asociados de transición que hayan completado la inscripción de revendedores indirectos mediante sus inquilinos de socio de facturación directos existentes.
 
 - Antes de transferir las suscripciones asociadas a un cliente determinado, el asociado de transición debe trasladar el cliente a un proveedor indirecto.
 
