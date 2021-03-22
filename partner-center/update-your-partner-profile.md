@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770250"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712603"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Comprobar o actualizar la información del perfil de empresa 
 
@@ -55,7 +55,7 @@ Actualice la razón social y el domicilio social de su empresa en el Centro de p
 
 1. Haga clic en **Actualizar** junto al nombre o la dirección de la empresa, y cambie los detalles.
  
-1. Cuando seleccione **Enviar**, se reevaluará su identidad legal.
+1. Cuando seleccione **Enviar**, se reevaluará su identidad legal. Solo revaluamos lo que ha cambiado.
 
 1. Si se produce un error en la comprobación, obtenga información acerca de cómo [corregir el problema](verification-responses.md).
 
