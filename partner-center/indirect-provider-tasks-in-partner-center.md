@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567056"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880776"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
@@ -101,7 +101,7 @@ En el caso de las suscripciones existentes, si decide trabajar con un revendedor
 | **Para lograr esto** | **Haga esto** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la página **nuevo cliente** |
-| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure** , seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
+| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
 | Conceda al reseller el crédito para obtener incentivos | Asociar el revendedor a la suscripción (nuevo o existente) | En la página **nueva suscripción** |
 | Delegación del soporte al cliente para suscripciones específicas al distribuidor | Seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . | En la página de detalles de la suscripción: seleccione la página cliente de su **clientes** y, a continuación, seleccione la suscripción en la página **suscripciones** del cliente. |
 
@@ -140,9 +140,9 @@ Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la 
 
 4. Seleccione **Siguiente: Review** (Siguiente: revisar).
 
-5. Si el orden es correcto, seleccione **submit (enviar** ). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
+5. Si el orden es correcto, seleccione **submit (enviar**). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
 
-6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación** , se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
+6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación**, se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
 
     > [!IMPORTANT]  
     > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no puede tener acceso a esta información de nuevo después de cerrar esta página.
@@ -168,6 +168,10 @@ Cuando los clientes desean comprar nuevas suscripciones, actualizar las existent
 7. Seleccione **Enviar** cuando termine.
 
 ## <a name="next-steps"></a>Pasos siguientes
+
+Encuentre respuestas a sus preguntas sobre el contrato de asociados de Microsoft
+
+- [Cómo los proveedores indirectos pueden ayudar a sus revendedores a adoptar el contrato de asociados de Microsoft: preguntas más frecuentes](mpa-indirect-provider-faq.md)
 
 Para obtener más información acerca de la administración de cuentas y suscripciones de clientes, consulte:
 

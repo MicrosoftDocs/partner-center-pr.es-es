@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo usar el Centro de partners para administrar el perfil de su empresa, la información bancaria y fiscal, los roles, los permisos y mucho más.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235977"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487025"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
@@ -26,7 +26,7 @@ La cuenta que crea en el Centro de partners al inscribirse es el correo electró
 Consulte también los artículos [Invitar a los empleados a unirse al Centro de partners](guide-to-migration.md) y [Agregar un nuevo usuario](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->El menú Configuración de la cuenta cambiará en función de los programas en los que esté inscrito. Por ejemplo, si es un asociado del programa Proveedor de soluciones en la nube (CSP), podrá administrar los servicios compartidos de Azure desde Configuración de la cuenta.
+>El menú Configuración de la cuenta cambiará en función de los programas en los que esté inscrito. Por ejemplo, si es un partner del programa Proveedor de soluciones en la nube (CSP), podrá administrar los servicios compartidos de Azure desde **Configuración de la cuenta**.
 
 ## <a name="account-management"></a>Administración de cuentas
 
@@ -51,6 +51,20 @@ Al seleccionar el icono de **Configuración** y abrir el menú de **Configuraci�
 La pestaña Partner incluirá toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
 
 Si la empresa no participa en CSP, la vista predeterminada solo mostrará la pestaña **Partner**, que incluirá el **Perfil de asistencia al cliente**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Cuando se encuentre en más de una cuenta
+
+Puedes formar parte de más de una cuenta. Puede comprobar si forma parte de varias cuentas mediante la presencia del "selector de cuentas" en el menú de navegación izquierdo.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identificación del selector de cuentas":::
+
+Si no ve el selector de cuentas, significa que solo forma parte de una cuenta. 
+
+Al hacer clic en este selector, todas las cuentas de las que forma parte aparecen como una lista. Después, puede hacer clic en cualquiera de ellas para cambiar a la que quiera. Todo lo que haya después aparecerá en el contexto de esa cuenta.  
+
+En el ejemplo siguiente, el usuario que inició sesión forma parte de las tres cuentas resaltadas. Para cambiar entre ellas, puede hacer clic en la que quiera.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Cuentas de las que forma parte":::
 
 ## <a name="organization-profile"></a>Perfil de la organización
 
@@ -90,7 +104,7 @@ Esta página contiene los detalles de los pagos y los impuestos; también se inc
 
 ## <a name="user-management"></a>Administración de usuarios
 
-Aquí se indica en qué trabaja en el Centro de partners y las áreas que puede actualizar o ver dependiendo de su rol y de los permisos asociados a este. Por ejemplo, si no es un administrador de incentivos, no podrá cambiar nada en las páginas de incentivos, aunque es posible que pueda ver los datos.
+Aquí se indica en qué trabaja en el Centro de partners y las áreas que puede actualizar o ver dependiendo de su rol y de los permisos asociados a este. Por ejemplo, si no es un administrador de incentivos, no podrá cambiar nada en las páginas de incentivos, aunque es posible que pueda ver los datos. Más información sobre [los roles y los permisos](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Actualización del correo electrónico preferido
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712196"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880725"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operaciones masivas para oportunidades de venta conjunta mediante archivos de valores separados por comas (CSV)
 
@@ -74,15 +74,15 @@ Customer Postal Code (Código postal del cliente)|No|Código postal de la regió
 Customer Country (País del cliente)|Sí|País o región donde se encuentra la organización del cliente. Use los códigos de país de dos letras, como se mencionó [aquí]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|US
 ID. de cliente D-U-N-S|No|Intente capturar el ID. de DUNS de la organización del cliente. Esto le ayudará a la coincidencia más rápida de la organización del cliente en el lado de Microsoft, lo que ayuda a asignar más rápido al vendedor. Puede obtener el identificador de DUNS gratis desde este [sitio web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Nombre de contacto del cliente|Depende|El nombre solo es obligatorio si necesita ayuda de Microsoft. El nombre del contacto principal de la organización del cliente que trabaja en este contrato.|John
-Apellido de contacto del cliente|Depende|El apellido solo es obligatorio si necesita ayuda de Microsoft. Apellido del contacto principal de la organización del cliente que trabaja en este contrato.|Cliente
+Apellido de contacto del cliente|Depende|El apellido solo es obligatorio si necesita ayuda de Microsoft. Apellido del contacto principal de la organización del cliente que trabaja en este contrato.|Customer
 Número de teléfono de contacto del cliente|Depende|El número de teléfono solo es obligatorio si necesita ayuda de Microsoft. Número de teléfono del contacto principal de la organización del cliente que trabaja en este trato.|9999999999
 Dirección de correo electrónico de contacto del cliente|Depende|La dirección de correo electrónico solo es obligatoria si necesita ayuda de Microsoft. Dirección de correo electrónico del contacto principal de la organización del cliente que trabaja en este contrato.|john.customer@contoso.com
 Estado de referencia de asociado|Sí|Indica el estado del trato desde la perspectiva de la empresa. Obligatorio si intenta crear o modificar una referencia. Use **nuevo** si está intentando crear un nuevo trato. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralstatus).|Activo
-Subestado de referencia de asociado|Sí|Indica el estado exacto de la transacción. Use **aceptado** si está intentando crear un nuevo trato. También es necesario si va a modificar una referencia existente. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralsubstatus).|Aceptado
+Subestado de referencia de asociado|Sí|Indica el estado exacto de la transacción. Use **aceptado** si está intentando crear un nuevo trato. También es necesario si va a modificar una referencia existente. Los valores aceptados se documentan [aquí](/partner/develop/referral-resources#referralsubstatus).|Accepted
 Estado de referencia de Microsoft|Depende|Indica el estado de la solicitud de venta conjunta que envió a Microsoft para buscar ayuda. Este campo es de solo lectura. Se omitirá cualquier cambio realizado en este campo mientras se importan los datos.| Pending
 Motivo de rechazo o pérdida|Depende| Solo se le pedirá que proporcione esta información si va a cambiar el subestado del campo a rechazado o perdido. Puede omitir esta columna en caso contrario. <br/> **Escriba un número basado en las opciones siguientes** <br/><br/> **1**-el presupuesto del proyecto no es adecuado  <br/> **2**-el cliente no respondió  <br/> **3**-el cliente eligió otro proveedor  <br/> **4** -no se cumplen los requisitos del cliente  <br/> **5** -no es un cliente <br/> **6**: la línea de tiempo propuesta es demasiado corta <br/> **7** -notificar como abuso, correo no deseado o phishing <br/> **8** -otros |6|
 Fase de ventas|No|Este es el campo que indica la fase de ventas detallada de la referencia. Obtenga más información sobre las fases de ventas [aquí](./manage-co-sell-opportunities.md)|40
-Valor de negocio estimado|Sí|"El valor del trato en función de las conversaciones iniciales con el cliente. Se puede cambiar hasta que el trato alcance uno de los Estados de terminal.| ganada o perdida ".|12563
+Valor de negocio estimado|Sí|El valor del trato basado en las conversaciones iniciales con el cliente. Esto se puede cambiar hasta que el trato alcance uno de los Estados de terminal **ganada** o **perdida.**|12563
 Moneda|Sí|La moneda en la que se especifica el valor de trato. [Aquí](https://en.wikipedia.org/wiki/ISO_4217)puede encontrar los códigos de divisa.|USD
 Fecha de cierre estimada|Sí|Fecha de cierre estimada del trato en función de las conversaciones iniciales con el cliente en el formato MM/DD/AAAA. <br/> **La fecha debe estar en la zona horaria UTC. Todas las fechas que se muestran en la interfaz de usuario del centro de Partners se basan en las zonas horarias localizadas. Puede haber una diferencia de +/-un día en la interfaz de usuario del centro de partners si está examinando la referencia para la que proporcionó la fecha en la zona horaria UTC.**|1/30/2020
 IDENTIFICADOR DE CRM|No|Identificador de esta referencia específica en el sistema CRM, si existe. Se trata de un campo de entrada de texto de forma libre.|34234324-Sdfsdf-345345-SFD
