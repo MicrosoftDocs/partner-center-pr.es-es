@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514092"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712518"
 ---
 # <a name="september-2020-announcements"></a>Anuncios de septiembre de 2020
 
@@ -37,7 +37,7 @@ Todos los partners del programa Proveedor de soluciones en la nube (CSP) que rea
 ### <a name="details"></a>Detalles
 
 >[!NOTE]
->Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](./2021-march.md#4).
 
 Hoy en día, los partners pueden usar el Centro de partners o el Centro de administración de Microsoft 365 para el suministro de descargas de software y claves de licencias para los pedidos de software de CSP. A partir del **19 de enero de 2021**, la funcionalidad de suministro de claves de licencia y software del Centro de partners se retirará y los partners dirigirán a los clientes al **Centro de administración de Microsoft 365** como medio exclusivo para este fin. La página de software del cliente del Centro de partners contendrá un "vínculo profundo" al Centro de administración de Microsoft 365, donde podrá dirigir a los clientes para que obtengan las licencias de cliente y las descargas de software. Esto ayuda a garantizar una experiencia más segura y eficiente para los clientes.
 
@@ -78,7 +78,7 @@ Todos los partners de los programas CSP y Open
 ### <a name="details"></a>Detalles
 
 >[!NOTE]
->Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](./2021-march.md#4).
 
 El programa CSP de Microsoft ha crecido exponencialmente, con más de 90 000 empresas participantes. Es nuestra principal propuesta de ventas de partners para pequeñas y medianas empresas, así como para clientes corporativos más pequeños de la nueva experiencia de comercio. En el contexto de este impulso, hoy anunciamos que estamos ampliando las oportunidades para los partners del programa CSP. Los detalles están disponibles en nuestra [entrada de blog para partners](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

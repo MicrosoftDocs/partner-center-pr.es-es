@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514126"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712467"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -315,7 +315,7 @@ Todos los partners del CSP
 ### <a name="details"></a>Detalles
 
 >[!NOTE]
->Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](./2021-march.md#4).
 
 Tal y como [se anunció](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoy, nos complace informar que las licencias de software perpetuo comercial ya están disponibles con carácter general para que todos los partners de CSP puedan venderlas. La lista de precios del software perpetuo de CSP del Centro de partners se ha vuelto a publicar y ahora incluye productos y zonas geográficas adicionales.
 

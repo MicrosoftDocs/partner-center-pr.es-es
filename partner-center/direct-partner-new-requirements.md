@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105535"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712213"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para inscribirse como partner de facturación directa de CSP
 
@@ -28,7 +28,7 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requisitos**|                |
+|**Requisito**|  **Descripción**  |
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Una pertenencia a Microsoft Partner Network activa y un id. de MPN para la ubicación en la que quiera realizar las ventas.   |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|

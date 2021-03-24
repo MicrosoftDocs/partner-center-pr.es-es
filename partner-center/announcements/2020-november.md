@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756413"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712535"
 ---
 # <a name="november-2020-announcements"></a>Anuncios de noviembre de 2020
 
@@ -305,11 +305,11 @@ El Centro de partners está diseñado para controlar un gran volumen de solicitu
 
 ### <a name="apis-to-be-throttled"></a>API que se van a limitar
 
-|**operación**|**Documentación del Centro de partners**|
+| **operación** | **Documentación del Centro de partners** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Obtener las suscripciones de un cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Obtener una suscripción según el id.](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Obtener todos los pedidos de un cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[Obtener todos los pedidos de un cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obtener un pedido en función del id.](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obtener el estado de aprovisionamiento de la suscripción](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Administrar pedidos y administrar una suscripción](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ El Centro de partners está diseñado para controlar un gran volumen de solicitu
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Obtener el estado de registro de la suscripción](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Obtener todas las transferencias de un cliente](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obtener el estado de actualización del producto](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Obtener una lista de ofertas de conversión de versiones de prueba](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Obtener una lista de ofertas de conversión de versiones de prueba](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Este anuncio está destinado a proporcionar a los partners información sobre los próximos cambios con antelación, lo que les permitirá prepararse. Se recomienda encarecidamente que los partners se familiaricen con estas API y consideren el uso de la API de registro de actividad para más eficiencia y para evitar la limitación. Para obtener más información sobre esta característica, consulte los detalles en la [Guía de limitación de API](/partner-center/develop/api-throttling-guidance). 

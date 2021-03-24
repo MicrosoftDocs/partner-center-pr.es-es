@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322090"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712280"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -68,7 +68,7 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requisitos**|                             |
+|**Requisito**|  **Descripción**  |
 |--------------------------------|--------------------------------------------------------------|
 |**Id. de MPN**   |Una pertenencia a Microsoft Partner Network activa y un id. de MPN para la ubicación en la que quiera realizar las ventas.    |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|

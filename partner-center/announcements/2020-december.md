@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514109"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712552"
 ---
 # <a name="december-2020-announcements"></a>Anuncios de diciembre de 2020
 
@@ -275,7 +275,7 @@ Todos los partners del CSP
 ### <a name="details"></a>Detalles
 
 >[!NOTE]
->Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Dados los comentarios de los partners, estamos restableciendo la funcionalidad de suministro del Centro de partners para obtener software y claves de licencia para los pedidos de software de suscripción perpetua y de servidor. Se restaurará a su estado previo antes de que se elimine el 19 de enero de 2021. Para obtener más información, consulte el [anuncio de marzo de 2021](./2021-march.md#4).
 
 Nos gustaría recordarle que, a partir del **19 de enero de 2021**, todos los partners inscritos en el programa CSP podrán vender licencias comerciales de software perpetuo para la implementación local a través de CSP. Esto proporcionará a los clientes la flexibilidad en las licencias que necesitan como parte de su transformación digital.
 

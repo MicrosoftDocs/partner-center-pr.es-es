@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124795"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712484"
 ---
 # <a name="february-2021-announcements"></a>Anuncios de febrero de 2021
 
@@ -77,7 +77,7 @@ Consulte el artículo que se menciona en la sección siguiente para obtener info
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-Para obtener más información sobre la funcionalidad de operaciones masivas, lea [Operaciones masivas para las oportunidades de venta conjunta mediante archivos de valores separados por comas (CSV)](https://docs.microsoft.com/partner-center/bulk-operations).
+Para obtener más información sobre la funcionalidad de operaciones masivas, lea [Operaciones masivas para las oportunidades de venta conjunta mediante archivos de valores separados por comas (CSV)](../bulk-operations.md).
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
@@ -107,7 +107,7 @@ Consulte el artículo que se menciona en la sección siguiente para obtener info
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-Para obtener más información sobre la característica de migración de ofertas, consulte la sección **Migración de ofertas de PSC** en la [Guía para la venta conjunta en el Centro de partners (PC) para los partners que migran desde Partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Para obtener más información sobre la característica de migración de ofertas, consulte la sección **Migración de ofertas de PSC** en la [Guía para la venta conjunta en el Centro de partners (PC) para los partners que migran desde Partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
@@ -139,7 +139,7 @@ Consulte el artículo que se menciona en la sección siguiente para obtener info
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-Para obtener más información, consulte nuestra guía sobre [administración de oportunidades de venta conjunta en el Centro de partners](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Para obtener más información, consulte nuestra guía sobre [administración de oportunidades de venta conjunta en el Centro de partners](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
