@@ -9,15 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281308"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028374"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Cómo vender ofertas a clientes educativos y cómo crear un cliente educativo en el centro de Partners
-
 
 **Roles adecuados**
 
@@ -83,7 +82,7 @@ Debe tener privilegios de administrador global para actualizar la información d
 
 2. Actualice el explorador para restablecer la página. Habrá un botón **Actualizar** y el **estado especial** de las calificaciones se establecerá en **ninguno**.
 
-3. Selecciona **Actualización**. En la página **Administración de servicios** , seleccione **Office 365**.
+3. Seleccione **Actualizar**. En la página **Administración de servicios** , seleccione **Office 365**.
 
 4. Se le redirigirá al centro de administración de Office 365 en una nueva pestaña del explorador. Es posible que se le pida que inicie sesión con sus credenciales.
 

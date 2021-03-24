@@ -2,20 +2,21 @@
 title: 'Configuración de la cuenta de pago y los formularios de impuestos: Marketplace comercial de Microsoft'
 description: Para recibir dinero de las ventas de sus ofertas en Marketplace comercial, aprenda a configurar la cuenta de pago y a rellenar los formularios de impuestos necesarios.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492694"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028441"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de cuentas
 - Administrador global
@@ -54,7 +55,7 @@ En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en l
 
 4. Si desea utilizar un perfil fiscal existente, selecciónelo en la lista desplegable. En caso contrario, seleccione **Crear nuevo perfil** y presione **Enviar**. Accederá a la página de perfiles fiscales.
 
-5. Haga clic en el botón **Editar** para editar la información fiscal.
+5. Seleccione el botón **Editar** para editar la información fiscal.
 
 6. Seleccione el botón de radio adecuado, así como su país o región si se le solicita. Este paso determina la entidad empresarial de Microsoft que se usará para realizar pagos en su cuenta.
 
@@ -91,7 +92,7 @@ Una cuenta de pago es la cuenta bancaria a la que se envían los ingresos de sus
 
 3. Seleccione el método de pago que quiere configurar.
 
-4. Seleccione un perfil de pago existente o haga clic en **Crear un perfil de pago** para crear un nuevo perfil para el método de pago elegido.
+4. Seleccione un perfil de pago existente o seleccione **crear un nuevo perfil de pago** para crear un nuevo perfil para el método de pago elegido.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Creación de un perfil de pago basado en el banco
 
@@ -111,7 +112,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
 
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
 
-6. Haga clic en Enviar para guardar los cambios.
+6. Seleccione Submit (enviar) para guardar los cambios.
 
    > [!NOTE]
    > Microsoft puede tardar hasta 48 horas en validar la información de su perfil. Cuando se complete este proceso, *Estado de la comprobación* mostrará **Completado**.
@@ -130,7 +131,7 @@ Puede editar los perfiles de pago existentes si necesita realizar cambios o corr
 
 2. Debajo del encabezado *Pago e impuestos* fiscal, seleccione **Perfiles fiscales y de pago**.
 
-3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y haga clic en **Editar** en el extremo derecho.
+3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y seleccione **Editar** en el extremo derecho.
 
 > [!IMPORTANT]
 > El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Para más información, consulte el artículo sobre [el pago en Marketplace comercial](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
 3. Proporcione los detalles del beneficiario.
 4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
-6. Haga clic en Enviar para guardar los cambios.
+6. Seleccione Submit (enviar) para guardar los cambios.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

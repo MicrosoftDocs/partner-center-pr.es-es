@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367629"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028424"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migración de suscripciones del Plan 1 de Skype Empresarial Online a las versiones más modernas de Office 365
-
-**Se aplica a**
-
-- Centro de partners
 
 Se retirará el plan 1 de Skype empresarial online, a partir del 1 de agosto de 2018. Después de esa fecha, los clientes ya no podrán comprar nuevas suscripciones al plan 1 de Skype empresarial y las suscripciones existentes no se renovarán automáticamente cuando expiren y no proporcionarán una opción de renovación. En la página de detalles de la suscripción, el estado de la suscripción al plan 1 de Skype empresarial online ha cambiado a "expira el [fecha]" de "renoticias automática en [fecha]".  
 
