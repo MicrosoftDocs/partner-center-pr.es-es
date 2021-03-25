@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712297"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880759"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,8 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Ofertas/mercados|[Correcciones realizadas a la lista de precios de software perpetuo del 1 de marzo de 2021](2021-march.md#14)|23 de marzo|
+|Funcionalidades|[Versión del SDK en .NET Standard (v1.17.0)](2021-march.md#13)|23 de marzo|
 |Funcionalidades|[Oferta del marketplace comercial para CSP e incentivos de CSP para ofertas válidas en el año fiscal 2021](2021-march.md#12)|18 de marzo|
 |Funcionalidades|[Actualización de nomenclatura de ofertas y de requisitos previos de Power BI Premium](2021-march.md#11)|18 de marzo|
 |Ofertas/mercados|[Actualizaciones de precios de marzo de Microsoft 365 F3](2021-march.md#10)|16 de marzo|
