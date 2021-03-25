@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286509"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028271"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver los requisitos de idoneidad para los compromisos de Planning Services
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de asociados de MPN
+- Administrador de partners de MPN
 
-Este tema le ayudará a conocer los requisitos de idoneidad que debe cumplir antes de que su empresa pueda inscribir o ofrecer compromisos de servicios de planeación de software Assurance para Microsoft.
+Este artículo le ayudará a conocer los requisitos de idoneidad que debe cumplir antes de que su empresa pueda inscribir o ofrecer compromisos de servicios de planeación de software Assurance para Microsoft.
 
 >[!NOTE]
 > Además de satisfacer los requisitos de idoneidad para una oferta de servicios de planeación, también debe seguir otros pasos para poder ofrecer compromisos de servicios de planeación de software Assurance. Para obtener información general de todos los pasos necesarios, consulte [servicios de planeación de software Assurance en el centro de Partners](software-assurance-dps.md).

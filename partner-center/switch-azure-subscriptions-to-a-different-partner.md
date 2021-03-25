@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645663"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028305"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Aprenda cómo transferir las suscripciones de Azure de un cliente a otro asociado.
 
 **Se aplica a**
 
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 - Centro de partners para Microsoft global Cloud
-- Partners del programa Proveedor de soluciones en la nube (CSP)
 
 En este artículo se describe cómo un cliente puede cambiar su Microsoft Azure servicios de un proveedor de soluciones en la nube (CSP) a otro.
 
@@ -43,7 +42,7 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
 
    Crear un vale de servicio de Azure desde el Centro de partners para solicitar una transferencia de suscripción:
 
-   1. En el menú del centro de Partners, seleccione **clientes**, seleccione el cliente en la lista y, a continuación, seleccione **Administración de servicios**. 
+   1. En el menú del centro de Partners, seleccione **clientes**, seleccione el cliente en la lista y, a continuación, seleccione **Administración de servicios**.
 
    2. En la sección **Vales de soporte**, selecciona la lista desplegable **Nuevo vale** y elige **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Para cambiar los servicios o las suscripciones de Azure de un cliente a otro aso
      Get-AzRoleAssignment
      ```
 
-7. Quitar permisos de acceso obsoletos
+7. Quitar permisos de acceso obsoletos:
 
    - En el menú del Centro de partners, selecciona **Clientes**.
-   - Busque el cliente en la lista. Seleccione (haga doble clic en) el nombre de su compañía. Se abrirá la página **suscripciones** de clientes.
+   - Busque el cliente en la lista. Seleccione (haga doble clic en) el nombre de su compañía. Esta acción abre la página **suscripciones** de clientes.
    - En el menú de detalles del cliente, seleccione **Administración de servicios**.
-   - En **Microsoft Azure**, haz clic en el vínculo para ir al **Portal de administración de Microsoft Azure**.
+   - En **Microsoft Azure**, seleccione el vínculo para ir al **portal de administración de Microsoft Azure**.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

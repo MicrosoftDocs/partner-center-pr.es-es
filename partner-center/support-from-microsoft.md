@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2531534106f421e7378f1f3f0b29361792b4a4ac
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114867"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028230"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Soporte técnico de Microsoft: Cuándo se deben remitir los problemas, cómo se notifican o cómo comprobar el estado del servicio.
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 Si tiene problemas con un servicio de Microsoft o con el centro de Partners, puede remitir a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 
@@ -34,9 +33,9 @@ Si tiene problemas con un servicio de Microsoft o con el centro de Partners, pue
 [Obtener notificaciones de servicio automatizadas con nuestras API](get-automated-service-notifications-with-our-apis.md) : los proveedores de soluciones en la nube pueden obtener notificaciones de servicio automatizadas para los servicios de sus clientes.
 
 
- 
+ 
 
- 
+ 
 
 
 
