@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185356"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549250"
 ---
 # <a name="payout-statements"></a>Extractos de pagos
 
@@ -98,7 +98,7 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 En la tabla siguiente se muestra un ejemplo de mes de pago estimado.
 
-| Month (Mes) | Amount |
+| Mes | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -169,7 +169,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | participantName | Nombre del asociado que gana. | All |
 | partnerCountryCode | Ubicación, país o región del asociado que gana. | All |
 | partNumber | Siempre estará en blanco. | Algunos programas de incentivos y Marketplace |
-| paymentId | Identificador único del pago. Este número suele aparecer en el extracto del banco. | Solo pagos de SAP |
+| paymentId | Identificador único para correlacionar todas las transacciones del informe de transacciones con un pago específico en el informe de pago | All |
 | paymentStatus | Estado del pago. | All |
 | paymentStatusDescription | Descripción detallada del estado del pago. | All |
 | productId | Identificador único del producto. | marketplaces |

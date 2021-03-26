@@ -8,22 +8,18 @@ description: Solicite una relación con un cliente para escenarios de varios aso
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007419"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548978"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el Centro de partners
 
-**Se aplica a**
-
-- Centro de partners
-
 Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el contrato de cliente de Microsoft.
 
-Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisiona, no es necesario obtener permisos de administrador.
+Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que se aprovisionan, no es necesario obtener permisos de administrador.
 
 >[!NOTE] 
 >La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud para el gobierno de EE. UU. o Microsoft Cloud Alemania. Para obtener más información, consulte [los clientes delegar privilegios de administración a los asociados](customers-revoke-admin-privileges.md).

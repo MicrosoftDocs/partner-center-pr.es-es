@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582043"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549182"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Herramienta de diagnóstico y solicitudes del portal del centro de Partners
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 **Roles adecuados**
 
-Todos los usuarios registrados en el centro de partners pueden crear solicitudes de soporte técnico de asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.
+- Todos los asociados interesados en el centro de Partners
+
+Todos los usuarios registrados en el centro de partners pueden crear una solicitud de soporte técnico para asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.
 Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas o necesita ayuda con los errores del portal del centro de Partners. Envíe diagnósticos para permitir que se solucione el problema más rápido.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Notificar un problema con el centro de Partners
@@ -77,7 +78,7 @@ Si se produce un error mientras se encuentra en una página del centro de Partne
 
 Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico. Para enviar la información:
 
-3. Revisa la información en el archivo antes de enviarlo, ya que puede contener información personal identificable que puedas querer quitar.
+3. Revise la información del archivo antes de enviarlo, ya que puede contener datos personales que puede querer quitar.
 
     >[!NOTE]
     >En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía. Esto es correcto.

@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756443"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549063"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Notificar un problema del servicio en nombre de un cliente, lo que incluye Cuándo y cómo hacerlo
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 **Roles adecuados**
 
@@ -104,7 +103,7 @@ Para buscar la información de contacto del ISV:
 
 ## <a name="faq"></a>Preguntas más frecuentes
 
-Consulte a continuación las preguntas más frecuentes sobre las solicitudes de servicio que puede enviar en nombre de un cliente. 
+Consulte las siguientes preguntas frecuentes acerca de las solicitudes de servicio que puede enviar en nombre de un cliente. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>¿Qué se incluye como parte de los derechos de soporte técnico?
 
@@ -120,8 +119,8 @@ Los tiempos de respuesta inicial dependen de la gravedad del incidente enviado. 
 
 Tiempos de respuesta iniciales de los **incidentes técnicos-corrección**:
 
-- Impacto crítico (gravedad A): 2 horas (degradación o pérdida considerable de los servicios. Servicios de producción inactivos).
-- Impacto moderado (gravedad B): cuatro horas (pérdida o degradación moderada de los servicios. Servicios de producción afectados parcialmente).
+- Impacto crítico (gravedad A): dos horas (pérdida o degradación significativa de los servicios. Servicios de producción inactivos).
+- Impacto moderado (gravedad B): cuatro horas (pérdida o degradación moderada de servicios). Servicios de producción afectados parcialmente).
 - Impacto mínimo (gravedad C): ocho horas (pérdida o degradación mínima de servicios). Servicios todavía disponibles o servicios que no son de producción afectados).
 
 Los tiempos de respuesta inicial son solo para soporte técnico en inglés. Se proporciona soporte técnico en el idioma local durante las horas laborables.
