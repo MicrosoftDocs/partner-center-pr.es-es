@@ -1,7 +1,7 @@
 ---
 title: Administrar la cuenta del Centro de partners
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo usar el Centro de partners para administrar el perfil de su empresa, la información bancaria y fiscal, los roles, los permisos y mucho más.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487025"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712867"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
 **Roles apropiados**: administrador global
 - Administrador de cuentas MPN
 
-La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de la empresa también incluirá cuentas de usuario para todos aquellos que usen el Centro de partners para agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos y proporcionar soporte técnico.
+La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de su compañía también incluirá las cuentas de usuario de cualquier persona del equipo que vaya a usar el Centro de partners. El trabajo que pueden hacer es agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos, proporcionar soporte técnico y mucho más.
 
 Consulte también los artículos [Invitar a los empleados a unirse al Centro de partners](guide-to-migration.md) y [Agregar un nuevo usuario](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Consulte también los artículos [Invitar a los empleados a unirse al Centro de 
 
 ## <a name="account-management"></a>Administración de cuentas
 
-Para obtener acceso a la Administración de cuentas de todos los partners (bien sean partners comerciales o desarrolladores) en el Centro de partners, inicie sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, seleccione la opción **Configuración** (icono con forma de engranaje) en la esquina superior derecha de la pantalla y, a continuación, pulse en **Configuración de cuenta**. Gracias a ello, ya no tiene que elegir entre las configuraciones de partner y desarrollador, ya que todos los perfiles y configuraciones estarán combinados.
+Todos los partners comerciales y desarrolladores, para acceder a la **Administración de cuentas** en el Centro de partners, deben iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y seleccionar **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla y, a continuación, pulsar en **Configuración de la cuenta**. Ya no tiene que elegir entre la configuración de Partner y Desarrollador. Ahora se combinan todos los perfiles y configuraciones.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="icono de configuración":::
 
@@ -50,13 +50,13 @@ Al seleccionar el icono de **Configuración** y abrir el menú de **Configuraci�
 
 La pestaña Partner incluirá toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
 
-Si la empresa no participa en CSP, la vista predeterminada solo mostrará la pestaña **Partner**, que incluirá el **Perfil de asistencia al cliente**.
+Si la compañía no participa en CSP, la vista predeterminada solo mostrará la pestaña **Partner**, que incluirá el **Perfil de asistencia al cliente**.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Cuando se encuentre en más de una cuenta
 
 Puedes formar parte de más de una cuenta. Puede comprobar si forma parte de varias cuentas mediante la presencia del "selector de cuentas" en el menú de navegación izquierdo.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identificación del selector de cuentas":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificación del selector de cuentas":::
 
 Si no ve el selector de cuentas, significa que solo forma parte de una cuenta. 
 
@@ -64,7 +64,7 @@ Al hacer clic en este selector, todas las cuentas de las que forma parte aparece
 
 En el ejemplo siguiente, el usuario que inició sesión forma parte de las tres cuentas resaltadas. Para cambiar entre ellas, puede hacer clic en la que quiera.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Cuentas de las que forma parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Cuentas de las que forma parte":::
 
 ## <a name="organization-profile"></a>Perfil de la organización
 
@@ -74,11 +74,17 @@ Use estas páginas para administrar áreas detalladas del negocio, incluidos el 
 
 ### <a name="legal-info"></a>Información legal
 
-La primera vez que se una al Centro de partners, su empresa se someterá a un proceso de verificación de Microsoft. Puede realizar un seguimiento del estado de la verificación en la página de **Información legal**. Aquí podrá ver el contacto principal, que es la persona con la que se pondrá en contacto Microsoft con respecto a las preguntas de los asociados, así como el contacto principal legal, que es la persona que administra su información legal y su estado. Todas las ubicaciones empresariales de su negocio se muestran y se pueden agregar aquí.
+La primera vez que se una al Centro de partners, su empresa se someterá a un proceso de verificación de Microsoft. Puede realizar un seguimiento del estado de la verificación en la página de **Información legal**. Se muestra el contacto principal (la persona con la que se pondrá en contacto Microsoft con respecto a las preguntas de los partners) y el contacto principal legal (la persona que administra su información legal y estado). Todas las ubicaciones empresariales de su negocio se muestran y se pueden agregar aquí. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Proporción de los detalles empresariales legales de la compañía
+
+Asimismo, puede buscar el perfil de la empresa o escribir la información de esta manualmente. Si su empresa está registrada con [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), use el id. de DUNS para buscar la información de su empresa. Si desea proporcionar los detalles de la empresa usted mismo, seleccione **Manual**.
+
+Si su compañía se encuentra en **Armenia**, **Hungría**, **Kirguistán**, **Moldavia**, **Uzbekistán** o **Rusia** y escribe su dirección manualmente, validaremos automáticamente su dirección. Si la que escribe es diferente de la validada, se recomienda usar la dirección validada. La comprobación garantiza que la dirección sea precisa y que se le puedan realizar envíos.
 
 ### <a name="primary-contact-email"></a>Correo electrónico del contacto principal
 
-El correo electrónico del contacto principal se usará para el envío de una notificación sobre la verificación de su cuenta. Es muy importante que el correo electrónico especificado del contacto principal sea uno que se administre e inspeccione periódicamente.  
+El correo electrónico del contacto principal se usará para notificarle la comprobación de su cuenta. Es importante que el correo electrónico especificado para el contacto principal sea uno que se administre e inspeccione periódicamente.  
 
 Obtenga más información sobre la [verificación y la información de la cuenta](verification-responses.md).
 

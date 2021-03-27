@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065478"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880793"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Más información sobre cómo asociarse con proveedores indirectos en el programa Proveedor de soluciones en la nube
 
@@ -142,6 +142,10 @@ La ubicación de la empresa legal como revendedor indirecto de CSP determina los
 
 ## <a name="next-steps"></a>Pasos siguientes
 
+- [Cómo pueden los proveedores indirectos ayudar a sus revendedores a adoptar Microsoft Partner Agreement: preguntas más frecuentes](mpa-indirect-provider-faq.md)
+
+- [Microsoft Partner Agreement](microsoft-partner-agreement.md)
+
 - [Proceso de verificación de cuenta](verification-responses.md)
 
 - [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ La ubicación de la empresa legal como revendedor indirecto de CSP determina los
 - [Más información sobre el proceso de comprobación](verification-responses.md)
 
 - [Consulte los requisitos de partner de factura directa](direct-partner-new-requirements.md)
-- [Microsoft Partner Agreement](microsoft-partner-agreement.md)
+
