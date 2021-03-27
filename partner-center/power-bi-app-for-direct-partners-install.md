@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215856"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633699"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
 
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de ventas
--   Agente de administrador
 
-## <a name="before-you-begin"></a>Antes de empezar
+- Administrador global
+- Administrador del control de usuarios
+- Agente de ventas
+- Agente de administrador
+
+## <a name="before-you-begin"></a>Antes de comenzar
 
 Seleccione la aplicación más relevante para su empresa en la siguiente lista de aplicaciones Power BI disponibles:
+
 - [Proveedor directo](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Proveedor indirecto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Antes de instalar la versión preliminar de la aplicación de análisis del cent
 
 ## <a name="to-install-the-app"></a>Para instalar la aplicación
 
-1. Haga clic en el vínculo de origen de la aplicación dado (proveedor directo/proveedor indirecto/Revendedor indirecto) en la sección anterior.
+1. Seleccione el vínculo de origen de la aplicación (proveedor directo/proveedor indirecto/Revendedor indirecto) en la sección anterior.
 
-2. Haga clic en **obtenerla ahora**. 
+2. Seleccionar **Obtenerla ahora**. 
 
-3. Para aceptar los términos y condiciones, haga clic en **continuar**.
+3. Para aceptar los términos y condiciones, seleccione **continuar**.
 
 4. ¿Ya tiene una cuenta? Seleccione **iniciar sesión**.
 
-5. En la página siguiente, escriba el nombre de usuario y la contraseña de Power BI y, a continuación, seleccione iniciar sesión.
+5. En la página siguiente, escriba el nombre de usuario y la contraseña de Power BI y, a continuación, seleccione **iniciar sesión**.
 
 6. Instale el área de trabajo proporcionando el nombre del área de trabajo.
 
 7. Puede encontrar las aplicaciones de plantilla instaladas en la sección aplicaciones.
 
-8. Haga clic en aplicaciones y elija las aplicaciones instaladas.
+8. Seleccione **aplicaciones** y elija las aplicaciones instaladas.
 
 9. Se abre la pantalla de introducción a la nueva aplicación.
 
-10. Para conectarse a los datos, haga clic en **conectar**.
+10. Para conectarse a los datos, seleccione **conectar**.
 
 11. En la ventana emergente **conectarse al centro de Partners** , compruebe que el **método de autenticación** está establecido en **OAuth2** o seleccione **OAuth2** en la lista si no lo está. 
 

@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215754"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633869"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Vea los datos empresariales con la aplicación de análisis del centro de partners para Microsoft Power BI
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215754"
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de ventas
 - Agente de administrador
 
@@ -48,7 +48,7 @@ Obtenga una representación visual de los datos empresariales con la aplicación
 
 - Los costos estimados son los datos de facturación y facturación previas a los impuestos y no son legalmente vinculantes. Los costos estimados están pensados para usarse solo para información de datos.
 
-- La información del cliente se basa en las suscripciones. Los clientes que hayan creado recientemente cuentas para, pero que aún no tienen suscripciones, no se incluyen en los recuentos.
+- La información del cliente se basa en las suscripciones. Los clientes que hayan creado recientemente cuentas para, pero que aún no tengan suscripciones, no se incluyen en los recuentos.
 
 - El costo estimado se basa en la tarjeta de tarifas más reciente, que se basa en los precios de CSP.
 

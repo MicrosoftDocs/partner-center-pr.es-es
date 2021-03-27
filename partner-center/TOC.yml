@@ -167,13 +167,9 @@
     - name: Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Actualización del método para confirmar la aceptación del Contrato de cliente de Microsoft
-      href: confirm-consent.md
-    - name: Confirmación de la aceptación del Contrato de cliente de Microsoft
+    - name: Cómo confirmar la aceptación por parte del cliente del Contrato de cliente de Microsoft
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: Cuándo se debe dar fe de la aceptación del Contrato de cliente en nombre de un cliente
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: Se aplican para vender en nubes nacionales
       href: csp-national-clouds-overview.md
       items:

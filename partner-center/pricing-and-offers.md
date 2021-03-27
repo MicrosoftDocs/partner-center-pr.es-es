@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281286"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633767"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281286"
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Administrador de partners de MPN
 - Agente de ventas
@@ -45,7 +45,7 @@ Para ver los programas y ofertas más recientes del proveedor de soluciones en l
 
 Los servicios basados en licencias incluyen una vista previa de la lista de precios, siempre con 30 días antes de que se realicen cambios. Para ver la vista previa de la lista de precios, vaya a **vender > precios y ofertas**. No hay ninguna vista previa de precios para los servicios basados en el uso, ya que estos servicios son dinámicos. En la tabla siguiente se explica cómo leer la tabla de lista de precios.
 
-|**Elemento**        |**Definition**      |
+|**Elemento**        |**Definición**      |
 |:-----------   |:-----------   |
 |ADD   |Un nuevo elemento a la lista de precios|
 |PREC   |Cambia el precio de venta de mes a mes. Pueden producirse otros cambios no relacionados con el precio de la lista, los asociados deben comparar las listas de precios entre meses para determinar los cambios en otras propiedades.|
@@ -71,7 +71,7 @@ Sin embargo, los precios basados en el uso de Azure no tienen vista previa. Los 
 |**Tipo de producto**   |**Ejemplos de productos**  |**Vista previa disponible** |**Cambiar detalles**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basado en licencia|Office, Dynamics, Intune, Windows Enterprise|30 días|Lista de cambios de precios marcados como CHNG en las listas de precios de vista previa|
-|Basado en uso|Recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
+|Basado en uso|recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
 |Software||No disponible|Comparar listas de precios manualmente de un mes a otro|
 |Reservations|Máquinas virtuales, prepago|No disponible|Comparar listas de precios manualmente de un mes a otro|
 
@@ -89,13 +89,13 @@ CSP ofrece algunos servicios a segmentos de mercado especiales, por ejemplo, edu
 |Education|Customer|No, Microsoft llevará a cabo la calificación del cliente |Solo basado en licencia|
 |Sin ánimo de lucro|Customer|No, el cliente se califica fuera del centro de Partners|Solo basado en licencia|
 |Government Community Cloud (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
-|Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|Recursos de Azure|
+|Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|recursos de Azure|
 
 Los márgenes asociados, la diferencia entre el precio de venta y los precios de venta estimados, pueden variar de segmento a segmento. Normalmente, la educación y los no beneficios suelen tener márgenes inferiores o no para los asociados de CSP. Consulte la lista de precios basada en licencias para ver los valores exactos. 
 
 ## <a name="add-on-offer-types"></a>Tipos de oferta de complementos
 
-Los servicios basados en licencias se pueden adquirir como ofertas o complementos base. Solo las ofertas base son reconocibles y compra a través del catálogo del centro de Partners. Los complementos deben aplicarse después de comprar las ofertas base. La columna **tipo de licencia secundario** de lista de precios basada en licencias incluye información sobre cada oferta y su tipo. Las ofertas base tienen valores **no específicos** en la columna de tipo de licencia secundario de lista de precios y se pueden adquirir en el catálogo. Los valores del tipo de licencia secundario del **complemento** no se pueden comprar en el catálogo. Para comprar estos complementos:
+Los servicios basados en licencias se pueden adquirir como ofertas o complementos base. Solo las ofertas base son reconocibles y compra a través del catálogo del centro de Partners. Debe aplicar los complementos después de comprar las ofertas base. La columna **tipo de licencia secundario** de lista de precios basada en licencias incluye información sobre cada oferta y su tipo. Las ofertas base tienen valores **no específicos** en la columna de tipo de licencia secundario de lista de precios y se pueden adquirir en el catálogo. Los valores del tipo de licencia secundario del **complemento** no se pueden comprar en el catálogo. Para comprar estos complementos:
 
 1. Consulte la matriz de la lista de ofertas para ver la lista de identificadores de oferta que deben adquirirse para poder comprar un complemento.
 2. Compra de la oferta base desde el catálogo
@@ -143,9 +143,9 @@ Todos los precios de las listas de precios de CSP del centro de Partners son imp
 
 ### <a name="36-month-offers"></a>Ofertas de 36 meses
 
-Hay aproximadamente 50 ofertas de Dynamics que tienen términos de tres años. Se identifican mediante **(36 Mo)** en el título de las ofertas. Estas ofertas son muy similares a las ofertas anuales. La única diferencia se encuentra en torno a su término. Estas ofertas tienen un período de tres años, lo que significa que las suscripciones se renovarán automáticamente después de tres años en lugar de una. A continuación se muestra un resumen de cómo funcionan estas ofertas:
+Hay aproximadamente 50 ofertas de Dynamics que tienen términos de tres años. Se identifican mediante **(36 Mo)** en el título de las ofertas. Estas ofertas son similares a las ofertas anuales. La única diferencia se encuentra en torno a su término. Estas ofertas tienen un período de tres años para que las suscripciones se renueven automáticamente después de tres años en lugar de una. A continuación se muestra un resumen de cómo funcionan estas ofertas:
 
-- Los términos son de 36 meses, las suscripciones se renovarán automáticamente después de tres años
+- Los términos son de 36 meses, las suscripciones se renovarán automáticamente después de tres años.
 - Los asociados pueden cancelar o cambiar el número de licencias a lo largo del período de la suscripción
 - La renovación anual será al precio del tiempo de compra durante el período de tres años.
 - La frecuencia de facturación sigue siendo anual o mensual
@@ -162,8 +162,8 @@ Microsoft 365 oferta de base a1 tiene un plazo de seis años.  Los complementos 
 
 A continuación se muestra un resumen de cómo funcionan estas ofertas:
 
-- El término es de 72 meses o 6 años
-- La suscripción no se renueva y expira después de 6 años
+- El término es de 72 meses o seis años
+- La suscripción no se renueva y expira transcurridos seis años
 - La frecuencia de facturación de la oferta se muestra como anual, pero el socio comercial se factura por la primera factura después de adquirir la suscripción.
 - Las suscripciones de las ofertas de a1 72 meses se bloquean después de la compra y no se pueden cancelar y no se pueden agregar recuentos de licencias a la suscripción después de la compra inicial.
 - Esta suscripción no es cancelable y no reembolsable.

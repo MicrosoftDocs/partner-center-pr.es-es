@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215839"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633852"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Proporcionar soporte técnico para ayudar a los clientes a configurar, administrar y usar sus suscripciones
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215839"
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente del departamento de soporte técnico
 - Agente de administrador
 
@@ -36,7 +36,7 @@ En el Centro de partners, puedes:
 ## <a name="perform-admin-tasks-for-your-customers"></a>Realiza tareas de administración para tus clientes
 
 1. En el menú del **centro de Partners** , seleccione **clientes**. Elige el cliente de la lista.
-2. En el menú cliente, seleccione **Administración de servicios**.
+2. En el menú del cliente, selecciona **Administración de servicios**.
 3. En la sección **administrar servicios** , elija el servicio en el que necesita trabajar para abrir el portal de administración del servicio.
 4. Si encuentra un problema con la cuenta de un cliente, como los servicios que están inactivos o una experiencia degradada, empiece por comprobar el estado del servicio. Consulta [Comprobar el estado del servicio](check-service-health.md).
 5. Para derivar un problema en curso a Microsoft, presenta una solicitud de servicio. Consulta [Notificar problemas en nombre de un cliente](report-problems-on-behalf-of-a-customer.md).
@@ -45,9 +45,9 @@ En el Centro de partners, puedes:
 
 Los asociados que transaccionen el modelo de CSP son el asesor de confianza para sus clientes y poseen la relación de un extremo a otro, incluido el soporte técnico cuando su cliente tiene una pregunta o un problema. A través de los partners de soporte técnico, los asociados pueden obtener más información sobre el cliente y sus negocios para identificar nuevos servicios y soluciones que conforman el valor.
 
-Para cumplir los requisitos de soporte técnico, el asociado puede revender el soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico, o bien puede configurar una estructura para proporcionar soporte directamente.  El asociado puede cobrar por toda o parte del soporte técnico proporcionado a los clientes. El asociado debe articular a sus clientes el soporte técnico que proporcionarán, las horas de servicio y el método de contacto, así como los precios (si cobra por soporte técnico). 
+Para cumplir los requisitos de soporte técnico, el asociado puede revender el soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico, o bien puede configurar una estructura para proporcionar soporte directamente.  El asociado puede cobrar por toda o parte del soporte técnico proporcionado a los clientes. El asociado debe articular a sus clientes el soporte técnico que proporcionarán, las horas de servicio y el método de contacto, y los precios (si cobran por soporte técnico). 
 
-Los asociados son necesarios para recibir solicitudes de soporte técnico entrante de los clientes, diagnosticar problemas con lo mejor de la capacidad del asociado y resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si el asociado no puede resolver un problema, puede remitir problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
+Los asociados deben recibir solicitudes de soporte técnico entrante de los clientes, diagnosticar problemas a lo mejor de la capacidad del asociado y resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si el asociado no puede resolver un problema, puede remitir problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
 - El soporte técnico de problemas **comerciales** está disponible para todos los asociados del programa CSP
 
@@ -59,7 +59,7 @@ Los asociados son necesarios para recibir solicitudes de soporte técnico entran
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
-Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, consulte:
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para más información, consulte:
 
 - [Suscripciones a Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

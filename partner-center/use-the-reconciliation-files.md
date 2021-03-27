@@ -1,7 +1,7 @@
 ---
 title: Usar los archivos de conciliación
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Obtenga información acerca de los archivos de conciliación en el centro de Partners y cómo interpretar las vistas detalladas del artículo de línea de los cargos de un ciclo de facturación determinado.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022781"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633903"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -55,6 +55,27 @@ Siga estos pasos para corregir los problemas de formato en los archivos de conci
 ## <a name="download-reconciliation-files-programmatically"></a>Descargar archivos de conciliación mediante programación
 
 Los archivos de conciliación pueden ser muy grandes y a veces son difíciles de descargar. Para descargar los archivos de conciliación mediante programación, vea [obtener artículos de línea de factura](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Si el archivo supera el límite de filas de Excel
+
+Si es capaz de descargar un archivo de conciliación pero no lo abre en Microsoft Excel, probablemente significa que el archivo contiene más filas de las que Excel permitirá. Si esto ocurre, puede usar cualquiera de los procedimientos siguientes para abrir el archivo.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Abra un archivo de conciliación en Power BI
+
+1. Descargue el archivo de conciliación como lo haría normalmente.
+2. Descargue, instale y abra una instancia de Power BI.
+3. En la pestaña **Inicio** de Power BI, seleccione **obtener datos**.
+4. En la lista de **orígenes de datos comunes**, seleccione **Text/CSV**.
+5. Cuando se le solicite, abra el archivo de conciliación.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Apertura de un archivo de conciliación en una tabla dinámica de Excel
+
+1. Descargue el archivo de conciliación como lo haría normalmente.
+2. Abra un archivo nuevo en Microsoft Excel.
+3. En la pestaña **datos** , seleccione **obtener datos**, seleccione **desde archivo** y, a continuación, seleccione **texto/CSV**.
+4. Cuando se le solicite, abra el archivo de conciliación. Los datos aparecerán.
+5. En el menú desplegable **cargar** , seleccione **cargar en** y, a continuación, haga clic en **Aceptar**.
+6. En el cuadro de diálogo **importar datos** , seleccione **Informe de tabla dinámica** para abrir el archivo.
 
 ## <a name="map-taxes-or-vat"></a>Impuestos de mapa o IVA
 
