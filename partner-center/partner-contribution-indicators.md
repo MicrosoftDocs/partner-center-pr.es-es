@@ -1,7 +1,7 @@
 ---
 title: 'Indicadores de contribución de asociados: CBA'
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información acerca de siete indicadores de contribución de asociados (PCI) que muestran a los asociados cómo lograr una competencia de Business Applications de la nube Silver o Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193654"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730270"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usar indicadores de contribución de socios comerciales para lograr la competencia de Business Applications en la nube
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193654"
 - Administrador de cuentas
 
 En este artículo se describen siete indicadores clave de contribución (PCI) de asociados que se usan para evaluar el progreso de un asociado a la hora de alcanzar o conservar una competencia de Business Applications de la nube Silver o Gold.
+
+Puede ver el progreso de PCI en el panel de contribución de socios comerciales. Los datos se actualizan el 20 de cada mes, con los datos del mes anterior. Por ejemplo, los datos de febrero se publicarán el 20 de marzo.
 
 > [!NOTE]
 > Obtenga información acerca de cómo los asociados pueden usar un conjunto diferente de métricas de indicadores de contribución de asociados para lograr la competencia de soluciones en la nube de tamaño plateado y de oro en la nube a través de la opción SMB Business Applications SMB. Para obtener más información, consulte [uso de indicadores de contribución de asociados para la competencia de soluciones de nube de pequeñas y medianas empresas](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). También puede [leer más](https://partner.microsoft.com/membership/competencies) sobre las competencias y sus requisitos.
@@ -109,6 +111,20 @@ En la imagen siguiente se ofrece una referencia visual rápida.
 
 Cada métrica de PCI tiene umbrales establecidos por Microsoft que pueden conseguir los puntos máximos de la compañía. Estos umbrales difieren en las rutas de acceso del cliente y finanzas y las operaciones que se usan para lograr la competencia Business Applications competencia. Los umbrales también difieren en los asociados que operan en mercados desarrollados en comparación con los asociados que operan exclusivamente en el desarrollo de mercados. La categorización de mercado **desarrollada** o en **desarrollo** de un país se basa en las [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Tenga en cuenta que 4 métricas se miden en función de la ubicación en la que el asociado hace negocios y no de la ubicación de MPN registrada. Esto significa que un asociado registrado en un mercado de desarrollo, que tiene clientes de un mercado desarrollado, deberá cumplir la puntuación de PCI para los países desarrollados.
+
+En la tabla siguiente se muestra qué ubicación se aplica por métrica.
+
+| Nombre de métrica | Location |
+|:-------|:--------|
+| Ingresos netos nuevos | Ubicación del cliente |
+| Net Customer Add | Ubicación del cliente |
+| Consultor funcional | Ubicación de partner |
+| Desarrollador | Ubicación de partner |
+| Crecimiento de consultores funcionales | Ubicación de partner |
+| Crecimiento de MAU | Ubicación del cliente |
+| Nuevas implementaciones de gran tamaño | Ubicación del cliente |
+
 Los puntos de cada métrica se cuentan para obtener una puntuación PCI distinta para la participación del cliente y finanzas y operaciones. Esta puntuación se actualizará mensualmente.
 
 Los partners pueden conseguir los puntos máximos para una métrica determinada si alcanzan o superan los umbrales que se indican a continuación. Se pueden obtener puntos parciales para todas las métricas, excepto para el crecimiento de Consultor funcional.
@@ -160,7 +176,7 @@ Un asociado se convierte en el CPOR si se ha establecido una asociación con un 
 Un partner se convierte en DPOR si ha establecido una asociación con un cliente en el nivel de suscripción dentro del producto.
 
 > [!NOTE]
-> Cuando CPOR y DPOR existen para una suscripción de cliente determinada, el CPOR recibirá crédito por las métricas de PCI pertinentes asociadas a esa suscripción. Si la asociación fue a través de OSA, el CPOR recibe el crédito para los nuevos ingresos netos y los agregados de clientes netos. Si la asociación se realizó a través de OSU, el CPOR recibe el crédito para las nuevas implementaciones y el crecimiento mensual de usuarios activos.
+> Cuando CPOR y DPOR existen para una suscripción de cliente determinada, el CPOR recibirá crédito por las métricas de PCI pertinentes asociadas a esa suscripción. Si la asociación fue a través de OSA (notificaciones de ingresos), el CPOR recibe el crédito para los nuevos ingresos netos y los agregados de clientes netos. Si la asociación se realizó a través de OSU (demanda de uso), el CPOR recibe el crédito para las nuevas implementaciones y el crecimiento mensual de los usuarios activos. Las notificaciones previas a la venta no son válidas para PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Definiciones de métricas PCI detalladas para esta competencia
 
@@ -324,9 +340,10 @@ Las nuevas implementaciones de gran tamaño son un [indicador de éxito del clie
   
   (Para obtener más información acerca de los mercados desarrollados y en desarrollo, consulte estas [definiciones de Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)).
 
-- Se considera que un inquilino ha cruzado el umbral de usuario activo mensual si el inquilino era: 
+- Se considera que un inquilino ha cruzado el umbral de usuario activo mensual si el inquilino era:
 
-  - Por debajo del umbral especificado hace 12 meses, *y*
+  - Por debajo del umbral especificado hace 12 meses, **y**
+
   - Superó ese umbral al menos una vez en los próximos 11 meses.
 
 - Los usuarios activos mensuales se cuentan en el nivel de inquilino y se suman solo a las suscripciones de pago del inquilino.

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633903"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730097"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea de los archivos de conciliación del centro de Partners
 
@@ -76,6 +76,15 @@ Si es capaz de descargar un archivo de conciliación pero no lo abre en Microsof
 4. Cuando se le solicite, abra el archivo de conciliación. Los datos aparecerán.
 5. En el menú desplegable **cargar** , seleccione **cargar en** y, a continuación, haga clic en **Aceptar**.
 6. En el cuadro de diálogo **importar datos** , seleccione **Informe de tabla dinámica** para abrir el archivo.
+
+## <a name="negative-amount-displayed"></a>Importe negativo mostrado
+
+Es posible que vea una cantidad negativa en el archivo de conciliación. Esto probablemente se debe a una de las siguientes causas:
+
+- Recientemente ha cancelado o reducido el número de licencias
+- Ha recibido crédito por un contrato de licencia de servicio (SLA) o por el consumo de Azure
+
+Para obtener más información acerca de esta transacción, revise su atributo de tipo de carga en el archivo de conciliación.
 
 ## <a name="map-taxes-or-vat"></a>Impuestos de mapa o IVA
 
