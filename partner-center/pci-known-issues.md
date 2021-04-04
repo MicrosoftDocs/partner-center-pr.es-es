@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182331"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086879"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Información de asociados: preguntas más frecuentes
 
 **Roles adecuados**
+
 - Visor de informes
 - Visor de informes ejecutivos
 
-Esto se relaciona con cualquier problema conocido que vea o represente informes asociados a la información.
+En este artículo se tratan los problemas conocidos de visualización o representación de informes asociados a la información.
 
 P) **no veo el centro de información en mi cuenta del centro de Partners. ¿Qué debo hacer?**
 

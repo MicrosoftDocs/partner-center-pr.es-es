@@ -8,16 +8,17 @@ description: Vea lo que está haciendo bien y dónde puede mejorar en relación 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146815"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086930"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Dynamics disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes
@@ -50,7 +51,7 @@ En la sección Resumen se presenta una vista de instantánea de los indicadores 
 
    El micro gráfico presenta una tendencia mensual de asientos activos mensuales durante el período de tiempo seleccionado.
 
-- % De uso activo: número total de puestos activos expresado como porcentaje de los puestos disponibles para el período de tiempo seleccionado. 
+- % De uso activo: número total de puestos activos expresado como un porcentaje de los puestos disponibles para el período de tiempo seleccionado. 
 
    El micro gráfico presenta una tendencia mensual del porcentaje de uso activo durante el período de tiempo seleccionado.
 

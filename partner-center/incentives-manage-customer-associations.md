@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714439"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179486"
 ---
 # <a name="manage-incentives-customer-associations"></a>Administrar las asociaciones de clientes de incentivos
 
-**Se aplica a:**
-
-- Centro de partners
-
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de facturación
 - Administrador global
@@ -87,7 +83,7 @@ Si han transcurrido 30 días y aún desea disfrutar de una demanda rechazada, de
 
 Hay tres razones principales para que se rechace una claim de Asociación de CPOR.
 
-**Solicitud de asociado:** Los asociados pueden solicitar que se rechace su asociación. Esta racionalización se usa principalmente cuando el asociado ha creado una declaración de Asociación de CPOR por equivocación mediante un MPN incorrecto, ha elegido una actividad incorrecta (ejemplo... Ha elegido Asociación de ingresos en lugar de preventa) o no está trabajando con el cliente.
+**Solicitud de asociado:** Los asociados pueden solicitar que se rechace su asociación. Este razonamiento se usa principalmente cuando el asociado ha creado una declaración de Asociación de CPOR por equivocación mediante un MPN incorrecto, ha elegido una actividad incorrecta (por ejemplo, ha elegido la Asociación de ingresos en lugar de las preventas) o no está trabajando con el cliente.
 
 **Rechazo de cliente:** Una vez que la notificación de Asociación de CPOR ha pasado por el proceso de aprobación de PoE correctamente, su estado cambia a aprobado, mientras que el cliente tiene la oportunidad de denegar el consentimiento de la asociación. Si el cliente deniega el consentimiento, se rechazará la asociación.
 

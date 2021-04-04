@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756714"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179503"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Preguntas más frecuentes sobre los incentivos
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de incentivos
-
 - Usuario de incentivos
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>¿Es necesario ser administrador global para inscribirse en incentivos?
@@ -31,7 +30,7 @@ No. Tanto el administrador global como el administrador de cuentas pueden asigna
 
 Si intenta unirse a MPN y su empresa ya es miembro, MPN reconocerá el dominio y lo asociará a la cuenta existente. La cuenta existente puede ser la misma empresa o una empresa relacionada que usa el mismo dominio de correo electrónico, o el mismo directorio de actividad de Azure (Azure AD) para administrar varios dominios.
 
-Puede identificar el contacto principal en la página de perfil legal. Si su ubicación es la ubicación de MPNHQ, solo tiene que configurar los permisos necesarios para administrar los incentivos. Para obtener más información acerca de los roles y permisos, consulte la [información general sobre los permisos](permissions-overview.md).
+Puede identificar el contacto principal en la página de perfil legal. Si su ubicación es la ubicación de MPNHQ, solo tiene que configurar los permisos necesarios para administrar los incentivos. Para obtener más información sobre los roles y los permisos, vea la [información general sobre los permisos](permissions-overview.md).
 
 Si no se encuentra en el mismo país que la ubicación de MPNHQ, consulte las [instrucciones para cuentas multinacionales](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) para obtener más información sobre este escenario.
 
@@ -55,7 +54,7 @@ Para obtener más información, consulte [Buscar el rol](find-your-role.md).
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>No puedo acceder a los incentivos mediante mis credenciales.
 
-La razón más probable por la que no puede ver incentivos es que no tiene los permisos correctos. Use el procedimiento siguiente para solucionarlo.
+La razón más probable por la que no puede ver incentivos es que no tiene los permisos correctos. Use el procedimiento siguiente para solucionar este código.
 
 1. Inicie sesión en el [panel del centro de Partners](https://partner.microsoft.com/dashboard/) con sus credenciales de inquilino de Azure ad (sus credenciales de trabajo). Si no puede iniciar sesión, póngase en contacto con el administrador global de su empresa.
 
@@ -71,7 +70,7 @@ Si ha recibido una invitación de, o se ha inscrito en, un programa de incentivo
 
 Si necesita cambiar el rol o los permisos, póngase en contacto con el administrador global o de la cuenta de su empresa. Para saber quiénes son estas personas, lea [Buscar el administrador global](./find-your-role.md#find-your-global-admin).
 
-Tenga en cuenta que en la página información general solo se muestran las inscripciones asociadas a la cuenta global de socio comercial (PGA) asociada al inquilino de Azure AD. Si su compañía tiene más de un PGA, deberá tener credenciales diferentes para cada uno.
+En la página información general solo se mostrarán las inscripciones asociadas a la cuenta global de socio comercial (PGA) asociada al inquilino de Azure AD. Si su compañía tiene más de un PGA, deberá tener credenciales diferentes para cada uno.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>¿Con quién debo ponerme en contacto si obtengo un mensaje de error o necesito ayuda durante el proceso de inscripción?
 

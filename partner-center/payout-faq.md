@@ -1,28 +1,28 @@
 ---
 title: Preguntas más frecuentes sobre perfiles fiscales y pagos
 description: Obtenga respuestas a preguntas habituales sobre los pagos y los detalles fiscales en el centro de Partners. Incluye respuestas sobre el motivo por el que las ganancias son diferentes de las esperadas.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247649"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087049"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Preguntas comunes sobre los pagos e impuestos
 
-**Roles adecuados**:
+**Roles adecuados**
 
 - Administrador de cuentas
 - Administrador global
 - Administrador de incentivos
 
-En este artículo se responden las preguntas más frecuentes sobre los pagos y los detalles fiscales del centro de Partners. los temas tratados incluyen el control de los pagos, la comprobación de la idoneidad de sus ganancias y la importancia de configurar los perfiles de pago y impuestos correctamente.
+En este artículo se responden las preguntas más frecuentes sobre los pagos y los detalles fiscales del centro de Partners. Entre los temas descritos se incluyen el tiempo de los pagos, la comprobación de la idoneidad de sus ganancias y la importancia de configurar los perfiles de pago y impuestos correctamente.
 
 ## <a name="profile-management"></a>Administración de perfiles
 
@@ -40,9 +40,9 @@ Para obtener información detallada sobre cómo actualizar los detalles de pago 
 
 Podría ser que no tenga los permisos adecuados o que haya iniciado sesión con una cuenta que no tenga estos permisos. Por ejemplo, solo los administradores de incentivos de la ubicación de MPN pueden crear o administrar perfiles de pago y de impuestos. Póngase en contacto con el administrador de la organización para administrar los permisos bancarios y fiscales.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Qué debo hacer?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Solo puedo iniciar sesión con mi @onmicrosoft.com dominio. ¿Cuál debo hacer?
 
-Póngase en contacto con el administrador de la cuenta para agregar dominios adicionales a la cuenta de AAD.
+Póngase en contacto con el administrador de la cuenta para agregar más dominios a la cuenta de AAD.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Mi organización participa en varios programas. ¿Es necesario proporcionar el perfil de pago y de impuestos varias veces?
 
@@ -61,7 +61,7 @@ Si su empresa está invitada a varios programas, puede usar la misma cuenta de p
 
 Es responsabilidad de la empresa asegurarse de que el rol de administrador de incentivos, que tiene permisos para editar esta información, solo se proporciona a los empleados correspondientes.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>El perfil de impuestos ha expirado. ¿Cómo puedo corregirlo?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>El perfil de impuestos ha expirado. ¿Cómo corregir la actualización?
 
 Si un perfil de impuestos ha expirado o está a punto de expirar, significa que el formulario de impuestos que proporcionó a Microsoft debe actualizarse. Siga estos pasos para actualizar el perfil de impuestos:
 
@@ -83,7 +83,7 @@ Si un perfil de impuestos ha expirado o está a punto de expirar, significa que 
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>¿Por qué la cantidad de ganancias es diferente de la esperada?
 
 - Si el cliente pagó parcialmente el pedido, el importe de la ganancia se basará en el importe de pago parcial después de deducir la cuota y el impuesto adecuado.
-- Comprobar la responsabilidad de la remisión de impuestos por país. En el caso de los países en los que Microsoft sea responsable del impuesto, Microsoft recauda y descuenta el impuesto de las ganancias del publicador. El importe de la transacción que se muestra en el extracto es posterior al importe del impuesto. Consulte el artículo sobre [datos fiscales](tax-details-marketplace.md).
+- Comprobar la responsabilidad de la remisión de impuestos por país. En los países en los que Tax es Microsoft-responsable, Microsoft recopila y deduce los impuestos de los beneficios del anunciante. El importe de la transacción que se muestra en el extracto es posterior al importe del impuesto. Consulte el artículo sobre [datos fiscales](tax-details-marketplace.md).
 - Las ofertas de SaaS y IaaS tienen un precio de agencia con descuento al 10% en lugar del 20% estándar, lo que permite una tasa de ganancias del 90%. Esta promoción es efectiva hasta el 30 de junio de 2021.
 
 **Más** información: [contrato de publicador de Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), detalles de la [política](payout-policy-details.md)de pago, [umbral de pago, método y](payment-thresholds-methods-timeframes.md)período de tiempo, [recibo](marketplace-get-paid.md)de pago, [detalles de impuestos](tax-details-marketplace.md), [Estados](payout-statement.md) de pago
@@ -113,7 +113,7 @@ Use AssetID, orderID y el ID. de elemento de línea que aparecen en el informe d
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Cómo configurar la cuenta para que no reciba el pago?
-Puede mantener los pagos en el [Perfil de pago](https://partner.microsoft.com/dashboard/commercial-marketplace/overview); solo tiene que comprobar la **suspensión**. Microsoft le enviará un pago hasta que publique la suspensión.
+Puede mantener los pagos en el [Perfil de pago](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Para ello, active la casilla **suspender** y Microsoft conservará el pago hasta que publique la suspensión.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>¿Por qué lo recibo en una moneda distinta a la moneda de la compra?
 
@@ -121,7 +121,7 @@ La moneda del pago se basa en la moneda seleccionada en el perfil de pago. La mo
 
 #### <a name="how-do-i-reconcile-adjustments"></a>¿Cómo concilio los ajustes?
 
-Los ajustes de pago son correcciones de pago para dar cabida a ajustes compensatorios, como problemas del sistema. En el extracto de pago, ReasonCode especificará el motivo del ajuste. No están diseñados para conciliarse directamente con transacciones individuales.
+Los ajustes de pago son correcciones de pago para dar cabida a ajustes compensatorios, como problemas del sistema. En la declaración de pago, ReasonCode especifica la razón para el ajuste. Estos no están diseñados para conciliarse directamente con transacciones individuales.
 
 **Lectura adicional**: [contrato de publicador de Marketplace comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), detalles de la [Directiva de pago](payout-policy-details.md), [detalles de impuestos](tax-details-marketplace.md), [umbral de pago, método y](payment-thresholds-methods-timeframes.md) período de tiempo
 
@@ -199,7 +199,7 @@ Use la [API de pago de socios comerciales](https://apidocs.microsoft.com/service
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>¿Cómo encuentro el precio actual de la agencia y la tarifa de pago?
 
-- Consulte el acuerdo de publicador de marketplace comercial. El precio de la agencia estándar es del 20 %. Los Co-Sell las transacciones válidas de SaaS tienen un descuento de un 10%. Compruebe los anuncios de los precios de las agencias promocionales.
+- Consulte el acuerdo de publicador de marketplace comercial. El precio de la agencia estándar es del 20 %. Las transacciones coincidentes de SaaS coexisten con un descuento de un 10%. Compruebe los anuncios de los precios de las agencias promocionales.
 - En la declaración de pago, la tarifa de obtención especifica la tasa de pago real de una transacción determinada.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>¿Cuándo se puede esperar un pago de Microsoft una vez que aparezcan ganancias en el extracto?

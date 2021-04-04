@@ -8,17 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756586"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179537"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Crear y administrar perfiles de pago y fiscal de incentivos en el centro de Partners
 
-
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de incentivos
 - Administrador de cuentas

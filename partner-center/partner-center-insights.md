@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490633"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086590"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Información del centro de Partners: un panel que muestra cómo está haciendo un socio comercial de Microsoft
 
 **Roles adecuados**
+
 - Administrador global
 - Administrador de cuentas
 - Visor de informes ejecutivos
@@ -26,7 +27,7 @@ ms.locfileid: "89490633"
 
 ## <a name="introduction"></a>Introducción
 
-Insights es un panel de informes unificado en el centro de partners para asociados comerciales de Microsoft que están inscritos en el programa Microsoft Partner Network (MPN). El panel Insights proporciona una vista de 360 grados de los indicadores clave de rendimiento (KPI) a través de productos en la nube como Office, Azure, Dynamics y modelos de licencia como CSP y EA. Expone un completo conjunto de informes de KPI que pueden ayudarle a tomar decisiones controladas por datos para su organización. 
+El panel de información es un panel de informes unificado en el centro de partners para los asociados comerciales de Microsoft que están inscritos en el programa Microsoft Partner Network (MPN). El panel Insights proporciona una vista de 360 grados de los indicadores clave de rendimiento (KPI) a través de productos en la nube como Office, Azure, Dynamics y modelos de licencia como CSP y EA. Expone un completo conjunto de informes de KPI que pueden ayudarle a tomar decisiones controladas por datos para su organización. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Control de acceso basado en roles al panel Insights
 
@@ -78,7 +79,7 @@ Los informes siguientes están disponibles como parte del panel de información.
 
 - Products: lista de todos los productos Microsoft Cloud vendidos/administrados por su organización, por ejemplo, O365, Azure, D365, EMS, Power BI, etc.
 - Mercados de clientes: lista de países de clientes
-- Atribuciones de asociados: el tipo de asociación con las suscripciones de los clientes, por ejemplo, el asociado digital del registro (DPOR), el privilegio de administrador delegado (DAP), el vínculo de administrador del asociado (PAL), etc. 
+- Atribuciones de asociados: el tipo de asociación con las suscripciones de sus clientes, por ejemplo, el asociado digital del registro (DPOR), el privilegio de administrador delegado (DAP) y el vínculo de administrador del asociado (PAL). 
 - Ubicaciones de asociados: lista de todas las ubicaciones de MPN de la organización.
 - Canales de ventas: todos los canales de ventas y precios a través de los cuales se compran o aprovisionan productos y servicios, es decir, CSP, EA, CSP indirecto, directo, asesor, abierto, otros
 - Segmentos de clientes: lista de segmentos de clientes en la base de clientes de asociados.

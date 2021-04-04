@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182518"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179435"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver los fondos de la Co-op disponibles, reclamados y restantes
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de incentivos
 - Usuario de incentivos
@@ -36,7 +36,7 @@ Puede realizar el seguimiento, la supervisión y la conciliación de los fondos 
 
 Si cree que hay discrepancias en las cantidades mostradas en el Resumen, puede descargar el informe de transacciones del período anterior. Este informe le ayudará a determinar la cantidad de fondos de cooperación obtenidos durante el período de uso seleccionado. Para descargar informes de transacciones o validar las notificaciones enviadas para asegurarse de que el importe de la Co-op restante es preciso, consulte [historial de transacciones](./payout-statement.md#transaction-history).
 
-Si sigue teniendo problemas para conciliar los importes, o si algunos fondos de cooperación no están visibles, puede abrir la incidencia de soporte técnico. Para ello, seleccione el icono de signo de interrogación en la esquina superior derecha de la página y, a continuación, seleccione **incentivos**.
+Si sigue teniendo problemas para conciliar los importes, o si algunos fondos de cooperación no están visibles, puede abrir una incidencia de soporte técnico. Para ello, seleccione el icono de signo de interrogación en la esquina superior derecha de la página y, a continuación, seleccione **incentivos**.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

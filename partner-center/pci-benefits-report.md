@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea qué tipos de ventajas de los asociados de Microsoft se le han concedido para ayudar a crecer su negocio, mejorar la eficacia y mejorar los conocimientos del equipo.
+description: Vea qué tipos de ventajas de asociados de Microsoft se le han concedido para ayudar a aumentar su negocio, mejorar la eficacia y mejorar las aptitudes del equipo.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444884"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087015"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Informe de beneficios disponible en el panel del centro de Partners Insights
 
@@ -39,7 +39,7 @@ Puede visualizar los siguientes gráficos en el informe de beneficios:
 - Comercialización
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
 
 ## <a name="summary"></a>Resumen
 
@@ -74,7 +74,7 @@ Seleccione una pestaña en la parte superior del gráfico para ver la tendencia 
 
 Este gráfico presenta la tendencia mensual de las ventajas de soporte técnico concedidas durante el intervalo de fechas seleccionado.
 
-Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una ventaja de soporte técnico específica que se le concede. El gráfico de líneas representa las horas generales de soporte técnico asignadas para la ventaja de soporte técnico seleccionada.
+Seleccione una pestaña en la parte superior del gráfico para ver la tendencia de una ventaja de soporte técnico específica que se le haya concedido. El gráfico de líneas representa las horas generales de soporte técnico asignadas para la ventaja de soporte técnico seleccionada.
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="ventajas técnicas":::
 

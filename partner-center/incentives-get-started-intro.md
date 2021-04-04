@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492609"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179130"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Usar estos recursos para ayudarle a empezar a trabajar con incentivos
-
-**Se aplica a**
-
-- Centro de partners
-- Asociados en el Microsoft Partner Network (MPN)
 
 **Roles adecuados**
 

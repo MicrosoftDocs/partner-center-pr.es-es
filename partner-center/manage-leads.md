@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944482"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133121"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Administrar distintos clientes potenciales, como las consultas de clientes, los clientes potenciales cualificados y los clientes potenciales de ventas
-
-**Se aplica a**
-
-- Centro de partners
-- Referencias
-- Proveedor de soluciones de Microsoft
-- Perfiles de negocio
 
 **Roles adecuados**
 
@@ -46,9 +39,9 @@ El requisito previo para recibir clientes potenciales es [crear un perfil de neg
 
 Hay tres pestañas de nivel superior en la sección de clientes potenciales. 
 
-**Clientes potenciales de Marketplace** : todos los clientes potenciales proceden de las búsquedas de páginas del proveedor de soluciones de Microsoft, que son consultas de clientes.
+**Clientes potenciales de Marketplace** : son todos los clientes potenciales que se originan en las búsquedas de páginas del proveedor de soluciones de Microsoft, que son consultas de clientes.
 
-**Clientes potenciales calificados** : todos los clientes potenciales del tipo de marketing calificado y de las ventas calificadas están disponibles en esta pestaña.
+**Clientes potenciales cualificados** : todos los clientes potenciales del tipo de marketing calificado y las ventas calificadas.
 
 **Favoritos** : en esta pestaña se mostrarán todos los clientes potenciales que estén marcados como favoritos en la pestaña clientes potenciales de Marketplace o clientes potenciales calificados. Puede marcar cualquier cliente potencial como favorito; para ello, haga clic en el icono de corazón del cliente potencial en la vista de lista. Puede quitar el cliente potencial de favoritos haciendo clic de nuevo en el mismo icono.
 
@@ -62,7 +55,7 @@ En esta fase, ha recibido un nuevo cliente potencial directamente del cliente o 
 
 Puede realizar dos acciones en esta fase: aceptar o rechazar la referencia:
 
-- **Aceptar:** Escriba un nombre para el contrato, el valor del negocio estimado y el período de duración estimado de la compra. También debes proporcionar información en el campo **Notas** para explicar mejor lo que busca el cliente. También puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing, que dio como resultado el cliente potencial respectivo y agregar contactos adicionales de su empresa. Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a la **siguiente fase**, lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro. 
+- **Aceptar**: escriba un nombre para el contrato, el valor de negocio estimado y el período de tiempo de compra estimado. También debes proporcionar información en el campo **Notas** para explicar mejor lo que busca el cliente. También puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing, que dio como resultado el cliente potencial respectivo y agregar contactos adicionales de su empresa. Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a la **siguiente fase**, lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro. 
 
 - **Rechazar**: seleccione el motivo por el que va a rechazar el trato y agregue las notas que quiera incluir y, después, seleccione **cerrar** trato. Lo archivaremos como **rechazado** y notificaremos al cliente que elija otro asociado.
 
@@ -79,21 +72,21 @@ Cuando haya terminado, puede realizar una de las dos acciones, que marcan el tra
 
 ### <a name="archived-stage"></a>Fase de archivado
 
-Se trata de una fase de terminal donde finalmente se alcanzan todas las oportunidades. En esta fase puede ver todos los clientes potenciales que se encuentran en **ganada, perdida, rechazada**y que han **expirado** . No hay acciones que pueda realizar en esta fase.
+Se trata de una fase de terminal donde finalmente se alcanzan todas las oportunidades. En esta fase puede ver todos los clientes potenciales que se encuentran en **ganada, perdida, rechazada** y que han **expirado** . No hay acciones que pueda realizar en esta fase.
 
 ## <a name="getting-more-leads"></a>Obtener más clientes potenciales
 
 Estas son algunas sugerencias que le ayudarán a obtener referencias más adecuadas:
 
-- **Elige las palabras clave y preferencias que representan tu experiencia y modelo de negocio únicos** en tu [perfil de negocio](create-a-marketing-profile.md). Quite las palabras clave que generarían referencias que no le interesan. Si no le interesa trabajar con empresas de un determinado tamaño, actualice esta preferencia.
+- **Elija Palabras clave y preferencias que representen su experiencia y modelo de negocio únicos en su [Perfil de negocio](create-a-marketing-profile.md)**. Quite las palabras clave que generarían referencias que no le interesan. Si no le interesa trabajar con empresas de un determinado tamaño, actualice esta preferencia.
 
-- **Revisar su información de contacto en su [Perfil de negocio](create-a-marketing-profile.md) para cada ubicación** Asegúrese de que el equipo obtiene las alertas entrantes.
+- **Revise su información de contacto en su [Perfil de negocio](create-a-marketing-profile.md) para cada ubicación**. Asegúrese de que el equipo obtiene las alertas entrantes.
 
-- **Responder rápidamente a las referencias** Cuando responda de manera oportuna a las solicitudes entrantes, aumentaremos su visibilidad en futuros resultados de la búsqueda de clientes. Asegúrate de que tu equipo responde rápidamente con tu propósito.
+- **Responde rápidamente a las referencias**. Cuando responda de manera oportuna a las solicitudes entrantes, aumentaremos su visibilidad en futuros resultados de la búsqueda de clientes. Asegúrate de que tu equipo responde rápidamente con tu propósito.
 
-- **Sea choosy con los acuerdos que acepta** Supervisamos los tipos de tratos que acepta y rechaza y usa esta información para ayudarle a encontrar tratos similares. La aceptación de contratos que no sean una buena opción no mejorará los resultados de la búsqueda y podría afectar a la calidad de los clientes potenciales que recibe.
+- **Sé selectivo con las ofertas que aceptas**. Supervisamos los tipos de tratos que acepta y rechaza y usa esta información para ayudarle a encontrar tratos similares. La aceptación de contratos que no sean una buena opción no mejorará los resultados de la búsqueda y podría afectar a la calidad de los clientes potenciales que recibe.
 
-- **Informa del tamaño estimado del negocio, las fechas de cierre y el estado final de tus ofertas** (ganadas o perdidas). Usaremos esta información para seguir proporcionando las referencias de calidad.
+- **Informe de los tamaños estimados de las ofertas, fechas de cierre y el estado final de las operaciones (ganadas o perdidas)**. Usaremos esta información para seguir proporcionando las referencias de calidad.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712175"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179230"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determinar la elegibilidad del programa de incentivos
 
-**Roles adecuados**:
+**Roles adecuados**
 
 - Administrador global
 - Administrador de incentivos
@@ -40,7 +40,7 @@ Puede encontrar los requisitos de idoneidad específicos para su programa en la 
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="La captura de pantalla es un ejemplo de los requisitos de incentivos.":::
 
-5. Debe completar todas las áreas que están desactivadas para cumplir con los requisitos. Cada programa de incentivos tiene su propio conjunto de requisitos.
+5. Complete todas las áreas que están desactivadas para cumplir con los requisitos. Cada programa de incentivos tiene su propio conjunto de requisitos.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

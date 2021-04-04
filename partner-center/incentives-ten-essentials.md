@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714566"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179112"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Los 10 elementos esenciales para trabajar con incentivos
-
-**Se aplica a**
-
-- Centro de partners
-- Asociados en el Microsoft Partner Network (MPN)
 
 **Roles adecuados**
 
@@ -49,7 +44,7 @@ Es importante conocer los roles y los permisos que conlleva el programa incentiv
 
 ## <a name="5-review-the-incentives-faq"></a>5. Revise las preguntas más frecuentes sobre incentivos
 
-Obtenga respuestas a preguntas comunes sobre incentivos antes de que las solicite. Actualizamos las preguntas más frecuentes sobre incentivos con frecuencia usando información de Soporte técnico de Microsoft así como comunicación directa con los asociados. Puede ver las preguntas más frecuentes [aquí](incentives-faq.md).
+Obtenga respuestas a preguntas comunes sobre incentivos antes de que las solicite. Actualizamos las preguntas más frecuentes sobre incentivos con frecuencia mediante la información de Soporte técnico de Microsoft y la comunicación directa con los asociados. Puede ver las preguntas más frecuentes [aquí](incentives-faq.md).
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. confirmar el derecho del programa
 

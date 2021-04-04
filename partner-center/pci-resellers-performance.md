@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280544"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086896"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Panel de rendimiento del reseller en información del centro de Partners
 
@@ -68,7 +68,7 @@ El micro gráfico presenta la tendencia mensual de los ingresos durante el inter
 
 ## <a name="geographical-spread-of-resellers"></a>Dispersión geográfica de distribuidores
 
-La vista * * revendedores por geografía proporciona la distribución geográfica de los distribuidores. Con este widget, los asociados pueden ver los **revendedores**totales, los **nuevos distribuidores**y los **ingresos facturados (USD)**, divididos por diversas zonas geográficas.
+La vista * * revendedores por geografía proporciona la distribución geográfica de los distribuidores. Con este widget, los asociados pueden ver los **revendedores** totales, los **nuevos distribuidores** y los **ingresos facturados (USD)**, divididos por diversas zonas geográficas.
 
 Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Presione la opción **Inicio** en el mapa para revertir a la vista original. Mantenga el puntero sobre el mapa para ver los **ingresos facturados (USD)** por país. El campo ingresos facturados (USD) de la cuadrícula se va a ordenar.
 
@@ -76,7 +76,7 @@ Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación
 
 ## <a name="resellers-addchurns"></a>Distribuidores Add/paginación
 
-Esta vista proporciona un mes de división mensual del número de **nuevos revendedores**, **revendedores renovados**y **distribuidores existentes**. 
+Esta vista proporciona un mes de división mensual del número de **nuevos revendedores**, **revendedores renovados** y **distribuidores existentes**. 
 
 - Nuevos distribuidores: recuento de los distribuidores que se inscribieron recientemente con el proveedor indirecto durante el intervalo de fechas seleccionado.
 - Revendedores rotados: recuento de distribuidores que no han tenido una transacción durante los últimos seis meses, excepto el mes en curso.
@@ -92,7 +92,7 @@ Esta vista proporciona una tendencia mensual de la división de ingresos factura
 
 ## <a name="reseller-performance-by-products"></a>Rendimiento del reseller por productos
 
-Esta vista proporciona una división de las métricas clave, como los ingresos facturados, el recuento de suscripciones y el recuento de licencias de varios productos al mes. El gráfico circular de la derecha indica la División Global de las métricas por varios productos, de modo que el socio comercial obtiene una visión rápida de la descomposición de los distintos productos que vende el revendedor.
+Esta vista proporciona una división de las métricas clave, como los ingresos facturados, el recuento de suscripciones y el recuento de licencias de varios productos al mes. El gráfico circular de la derecha indica la División Global de las métricas por varios productos, de modo que el socio obtenga una visión rápida de la descomposición de los distintos productos que vende el revendedor.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Rendimiento del reseller por productos":::
 

@@ -2,27 +2,26 @@
 title: Facturación basada en licencia
 description: Obtenga información sobre cómo la facturación basada en licencias difiere de la facturación basada en el uso en el centro de Partners, incluido cómo se factura por licencia (no por el uso de licencias).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367489"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179418"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Facturación basada en licencias en el centro de Partners
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
-- Partners del programa CSP
-
-**Roles adecuados** : administrador global
-- Administrador de usuarios
+- Administrador global
+- Administrador del control de usuarios
 - Administrador de facturación
 - Agente de administrador
 
@@ -34,7 +33,7 @@ Puede elegir que se le facture por licencias una vez al mes (**facturación mens
 
 ## <a name="billing-date-for-licenses"></a>Fecha de facturación de las licencias
 
-Las suscripciones basadas en licencias se facturan por adelantado en la **fecha de aniversario**de la suscripción. La fecha de aniversario es el día del mes en que adquirió la suscripción.
+Las suscripciones basadas en licencias se facturan por adelantado en la **fecha de aniversario** de la suscripción. La fecha de aniversario es el día del mes en que adquirió la suscripción.
 
 Por ejemplo:
 
@@ -51,7 +50,7 @@ Puede cancelar una licencia en cualquier momento durante el [período de licenci
 
 Si suspende una suscripción en el mes 1, se le abonará el 100%.
 
-Si suspende una suscripción en los meses 2-12, se le abonará con una cuota prorrateada.
+Si suspende una suscripción en los meses 2 al 12, se le abonará con una cuota prorrateada.
 
 ## <a name="license-renewal"></a>Renovación de licencias
 

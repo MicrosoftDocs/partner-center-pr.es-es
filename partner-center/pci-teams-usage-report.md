@@ -8,16 +8,17 @@ description: Vea lo que está haciendo bien y dónde puede mejorar en relación 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146811"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086726"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Teams disponible en el panel de Partner Center Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes
@@ -51,19 +52,19 @@ En la sección Resumen se presenta una vista de instantánea de los indicadores 
 
 ## <a name="conversations-trend"></a>Tendencia de conversaciones
 
-La tendencia de las conversaciones representa la tendencia mensual de las reuniones de los equipos, las llamadas y los sistemas telefónicos junto con la duración media de la reunión en minutos.
+El informe tendencias de conversaciones muestra la tendencia mensual de reuniones de equipos, llamadas y sistemas telefónicos junto con la duración media de la reunión en minutos.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="tendencias de conversación del uso de equipos":::
 
 ## <a name="teams-usage-by-workloads"></a>Uso de equipos por cargas de trabajo
 
-El uso de los equipos por las cargas de trabajo representa la división mensual de los usuarios de escritorio, móviles y Web de los equipos divididos por cargas de trabajo.
+El informe uso de equipos por cargas de trabajo muestra la división mensual de usuarios de escritorio, móviles y Web de los equipos dividida por cargas de trabajo.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Uso de equipos por cargas de trabajo":::
 
 ## <a name="top-customers-by-usage"></a>Principales clientes por uso
 
-Los principales clientes por uso representan el uso de los clientes principales en términos de reuniones de equipos, llamadas y sistemas telefónicos y aplicaciones de terceros.
+En el informe principales clientes por uso se muestra el uso de los principales clientes para las reuniones de equipos, llamadas y sistemas telefónicos y aplicaciones de terceros.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principales clientes por uso":::
 

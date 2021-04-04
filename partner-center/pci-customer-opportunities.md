@@ -8,20 +8,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175285"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086964"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent informes de propens disponibles en el panel del centro de Partners
 
 **Roles adecuados**
+
 - Visor de informes ejecutivos
 - Visor de informes
 
-El panel del centro de Partners proporciona datos de propens que se pueden descargar del programa CloudAscent. Los datos muestran la propens de los clientes para comprar productos de Microsoft.  En este artículo se describe el desglose de estos datos, cómo utilizar la puntuación y lo que significa.
+El panel del centro de Partners proporciona datos de propens que se pueden descargar del programa CloudAscent. Los datos muestran la propens de los clientes para comprar productos de Microsoft.  En este artículo se describe el desglose de estos datos, el uso de la puntuación y su significado.
 
 ## <a name="summary-definitions"></a>Definiciones de Resumen
 
@@ -40,22 +41,22 @@ El segmento de pequeñas a medianas empresas (SMB) se divide aún más en tres s
 
    Definimos las dos maneras principales no administradas:
 
-   - **Principales basados en usuarios no administrados**: incluye cuentas con 300 o más empleados. User-Based cuentas son objetivos excelentes para la compra por primera vez o la expansión de productos de suscripción basados en usuario como M365, D365 o Surface.
+   - **Principales basados en usuarios no administrados**: incluye cuentas con 300 o más empleados. User-Based cuentas son objetivos excelentes para la compra inicial o la expansión de productos de suscripción basados en el usuario como Microsoft 365, Dynamics 365 o Surface.
    - **Basado en el proceso superior no administrado** : incluye cuentas con un potencial de Azure mayor que $10k. Las cuentas basadas en procesos incluyen Azure existente. cuentas con un potencial de año futuro significativo y cuentas que aún no han adquirido Azure pero que tienen un potencial para Azure mayor que $10k.
 
 2. La **empresa mediana** incluye a los clientes existentes y a las cuentas de cliente con 25 a 300 empleados.
 
 3. La **pequeña empresa** incluye todas las empresas restantes con menos de 25 empleados.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Cliente por tipo de SMC.":::
 
-Los principales subsegmentos de empresa sin **administrar** y **medianas** representan a los clientes de valor de tiempo de vida (LTV) de Microsoft y de los asociados de Microsoft. Por lo tanto, son las principales áreas de enfoque para impulsar el crecimiento en este segmento. En estos dos subsegmentos, estamos mejor posicionados para adquirir el socket con M365, rentabilizar aún más con las aplicaciones de línea de negocio (LOB) de D365/Azure y darse de alta LTV para Microsoft.
+Los principales subsegmentos de empresa sin **administrar** y **medianas** representan a los clientes de valor de tiempo de vida (LTV) de Microsoft y de los asociados de Microsoft. Por este motivo, son las principales áreas de enfoque para impulsar el crecimiento en este segmento. En estos dos subsegmentos, estamos mejor posicionados para adquirir el socket con Microsoft 365, rentabilizar aún más con las aplicaciones de línea de negocio (LOB) de D365/Azure y obtener una gran LTV para Microsoft.
 
-Hoy tenemos dos áreas clave de la oportunidad: 1. nuestro cliente agrega crecimiento; dos. Aunque hacemos bien adquirir Sockets en la nube que conducen a M365, tenemos una gran oportunidad en D365 y Azure.
+Hoy tenemos dos áreas clave de la oportunidad: 1. nuestro cliente agrega crecimiento; dos. Aunque hacemos bien adquirir Sockets en la nube que conducen a Microsoft 365, tenemos una gran oportunidad en D365 y Azure.
 
 La siguiente captura de pantalla representa los tres subsegmentos SMB y las rutas optimizadas al mercado. CloudAscent priorizar la generación de perfiles, la puntuación y el modelado de todas las cuentas principales no administradas y medianas.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Captura de pantalla de subsegmentos SMB.":::
 
 ## <a name="cloudascent-machine-learning"></a>Machine Learning CloudAscent
 
@@ -67,7 +68,7 @@ SMB usa tecnología de aprendizaje automático para impulsar predicciones de cli
 
 - **Optimización**: el sistema de machine learning optimiza los modelos mediante el consumo de los datos de la transacción mensualmente y los datos de la suscripción trimestralmente.  Mediante el uso de los datos de ganancia y pérdida, el Machine Learning ajusta los algoritmos y valida que los modelos funcionan según lo previsto mediante la comparación de las recomendaciones de clúster con las oportunidades en las que se ha actuado en el servidor principal.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Captura de pantalla del aprendizaje automático de SMB.":::
 
 ## <a name="cloudascent-propensity"></a>Propens CloudAscent
 
@@ -91,7 +92,7 @@ Mediante el uso de señales recopiladas a través de rastreadores web y datos pr
 
    - La puntuación de intención se actualiza mensualmente.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Modelos de predicción SMB CloudAscent.":::
 
 3. Agrupación en clústeres
 
@@ -112,16 +113,16 @@ Mediante el uso de señales recopiladas a través de rastreadores web y datos pr
          |---------|:---------|
          |Alto|75-100|
          |Media|55-74|
-         |Baja|30 - 54|
+         |Bajo|30 - 54|
          |Muy bajo|0 - 29|
 
       2. Mediante el uso de la regla anterior, clasificamos las empresas como altas, medias, bajas y muy bajas en las señales de ajuste y intención de los clientes.
 
-      3. Trazamos las señales de ajuste y intención de los clientes en una matriz 2D con cada intersección que representa la propens.     Por ejemplo, alto ajuste + intención alta = a1, que representa la mayor propens.
+      3. Trazamos las señales de ajuste y intención de los clientes en una matriz 2D con cada intersección que representa la propens. Por ejemplo, alto ajuste + intención alta = a1, que representa la mayor propens.
 
       4. Por último, estos segmentos se agrupan para crear clústeres.  Por ejemplo, a1, a2, a3, A4 forman el clúster de ACT Now.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Modelos CloudAscent.":::
 
    Para estos clientes, recomendamos que el destino sea ahora y evalúe a los clientes.
 
@@ -129,10 +130,10 @@ Mediante el uso de señales recopiladas a través de rastreadores web y datos pr
 
 En el gráfico siguiente se proporciona una vista de cada modelo de propens en CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Captura de pantalla del panel de Resumen oportunidades de clientes.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Modelo de propens de CloudAscent.":::
 
 Los modelos de espacio en blanco se componen de predicciones para los clientes de Microsoft existentes en los que no tienen un producto y/o son clientes de nuevas perspectivas netas.
 
-Los modelos de venta incremental usan datos de transacciones para predecir la posibilidad de aumentar la capacidad de venta en SKU de Azure y M365.
+Los modelos de venta incremental usan datos de transacciones para predecir el potencial de ventas adicionales en Azure y Microsoft 365 SKU.
 
-EOS comparte los clientes de fin de servicio para Win 7, Office 2010, SQL Server y Windows Server. Los datos de EOS se extraen de MS Sales y se superpondrán con el modelado de propens CloudAscent cuando estén disponibles. Los datos de EOS residen en el trabajo moderno y se reproducen las ventas de Azure.
+EOS comparte los clientes de fin de servicio para Windows 7, Office 2010, SQL Server y Windows Server. Los datos de EOS se extraen de MS Sales y se superpondrán con el modelado de propens CloudAscent cuando estén disponibles. Los datos de EOS residen en el trabajo moderno y se reproducen las ventas de Azure.

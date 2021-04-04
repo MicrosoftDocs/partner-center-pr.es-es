@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo fabricantes de software independientes (ISV) hacen que determinadas ofertas sean exclusivas y solo estén disponibles para asociados de CSP específicos.
+description: Obtenga información acerca de cómo los fabricantes de software independientes (ISV) hacen ciertas ofertas exclusivas y solo están disponibles para asociados de CSP específicos.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000119"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179469"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Ofertas exclusivas de Marketplace de fabricantes de software independientes
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Agente de ventas
 
-Un fabricante de software independiente (ISV) tiene la opción de hacer ofertas exclusivas que solo están disponibles para determinados asociados de CSP.
+Un fabricante de software independiente (ISV) puede hacer ofertas exclusivas que solo están disponibles para determinados asociados de CSP.
 
-Los asociados de CSP pueden ver todas las ofertas de ISV en el Marketplace comercial del centro de Partners. No obstante, las ofertas marcadas como **exclusivas**solo pueden ser adquiridas por asociados específicos seleccionados por el ISV. Si una oferta no está marcada como **exclusiva**, todos los asociados pueden adquirirla.
+Los asociados de CSP pueden ver todas las ofertas de ISV en el Marketplace comercial del centro de Partners. No obstante, las ofertas marcadas como **exclusivas** solo pueden ser adquiridas por asociados específicos seleccionados por el ISV. Si una oferta no está marcada como **exclusiva**, todos los asociados pueden adquirirla.
 
 Los asociados de CSP específicos identificados por un ISV pueden:
 

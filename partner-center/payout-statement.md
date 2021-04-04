@@ -1,22 +1,22 @@
 ---
 title: Extractos de pagos
 description: Obtenga información sobre las instrucciones y los resúmenes de pago, y cómo ver y exportar los datos de pago del centro de Partners de Microsoft.
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549250"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087100"
 ---
 # <a name="payout-statements"></a>Extractos de pagos
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de cuentas
 - Administrador global
@@ -73,7 +73,7 @@ Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se enc
 
 ### <a name="transaction-history-summary"></a>Resumen de historial de transacciones
 
-Esto muestra la obtención de detalles, incluido el origen de la obtención del producto vendido de fechas, Estados y meses de pago estimados.
+En esta vista se muestra la obtención de detalles, incluido el origen de la obtención del producto vendido de fechas, Estados y meses de pago estimados.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historial de transacciones.":::
 
@@ -98,7 +98,7 @@ El mes de pago estimado está disponible actualmente para todos los tipos de obt
 
 En la tabla siguiente se muestra un ejemplo de mes de pago estimado.
 
-| Mes | Amount |
+| Month (Mes) | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -111,7 +111,7 @@ El importe estimado puede variar con respecto a la cantidad real por diversos mo
 - Cambio de reglas: un cambio en las reglas puede reflejar el recálculo en la cantidad real pagada
 - Pagadera: si se produce un error de pago, la cantidad real podría ser diferente
 
-Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las reglas de elegibilidad de pago y umbral del programa. Estas reglas incluyen, entre otras, la siguiente lista:
+Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las reglas de elegibilidad de pago y umbral del programa. Estas reglas incluyen pero no se limitan a la lista siguiente:
 
 - Su perfil fiscal debe estar actualizado
 - Los beneficios deben cumplir o superar el umbral de ganancia mínimo definido en la guía de programas.
