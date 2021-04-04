@@ -93,6 +93,8 @@
         - name: Demostraciones para partners de MPN
           href: mpn-demos.md
           displayName: mpn
+        - name: 'Directiva de ventajas y uso: preguntas frecuentes'
+          href: benefits-faq-new.md
         - name: Preguntas frecuentes sobre ventajas
           href: benefits-faq.md
           displayName: 'renew, license,'
