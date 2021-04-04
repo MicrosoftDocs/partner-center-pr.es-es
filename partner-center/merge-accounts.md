@@ -2,20 +2,22 @@
 title: Combinar la cuenta de asociado con otra cuenta de asociado
 description: Obtenga información acerca de cómo combinar su cuenta de asociado con otra cuenta de socio comercial en el centro de partners para empresas que son asociados de Microsoft activos en el centro de Partners.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182603"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133070"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Combinar la cuenta de asociado con otra cuenta de asociado
 
-**Roles aplicables**
+**Roles adecuados**
 
 - Administrador de cuentas
 
@@ -35,7 +37,7 @@ Dos o más compañías que son asociados de Microsoft activos y tienen cuentas e
 
 - Los roles del usuario se han trasladado. Por ejemplo, si un usuario hubiera sido el administrador de incentivos para una ubicación específica, seguiría teniendo ese rol después de la fusión y podrá ver los incentivos que vimos antes de la fusión.
 
-- Azure AD los inquilinos y las cuentas de CSP no se combinan y no tienen ningún impacto.
+- Azure AD los inquilinos y las cuentas de CSP no se combinan y no tienen ningún efecto.
 
 - Se conservan las ofertas publicadas y los datos de canalización de venta conjunta asociados a ambas empresas
 
@@ -65,7 +67,7 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
   - Competencia: la empresa asociada recibirá un paquete de ventajas principales, asociado a su mayor logro, además de ventajas específicas para la competencia, el asociado es válido para cada cuenta global de socio comercial.
 
-- Todas las ventajas están sujetas a la [Guía de uso de Microsoft Partner Network beneficios](https://aka.ms/partner-benefits-use-guide). Por ejemplo: un token de O365 E3 activado es funcional durante doce (12) meses después de la activación. Una vez que se ha activado un token para las licencias de un inquilino, es posible que dichas licencias no se muevan a otro inquilino.
+- Todas las ventajas están sujetas a la [Guía de uso de Microsoft Partner Network beneficios](https://aka.ms/partner-benefits-use-guide). Por ejemplo: un token de O365 E3 activado es funcional durante 12 meses después de la activación. Una vez que se ha activado un token para las licencias de un inquilino, es posible que dichas licencias no se muevan a otro inquilino.
 
 - Las asociaciones de ID. de MCP de ambas empresas se conservarán y se asociarán con el identificador de MPN de PGA.
 
@@ -77,7 +79,7 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
 - Los vales de software Assurance se conservan en ambas cuentas. 
 
-- No hay ningún impacto en la Asociación de DPOR o PAL. Las contribuciones de ingresos asociadas comenzarán a fluir en la nueva cuenta global de socio comercial
+- No hay ningún efecto en la Asociación de DPOR o PAL. Las contribuciones de ingresos asociadas comenzarán a fluir en la nueva cuenta global de socio comercial
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Invitar a una compañía para que combine su cuenta del centro de Partners con su cuenta del centro de Partners
 
@@ -88,43 +90,43 @@ Si decide aceptar la invitación para combinar cuentas: · Los IDENTIFICADOres y
 
 2. Seleccione **combinación de cuentas**.
 
-3. Agregue el identificador de MPN ubicado en el **Perfil de socio comercial** de la cuenta a la que desea invitar a combinar con usted. Debe usar su identificador de MPN global de socio. No se puede usar un identificador de MPN de ubicación.
+3. Agregue el identificador de MPN ubicado en el **Perfil de socio comercial** de la cuenta que desea invitar a combinar con usted. Debe usar su identificador de MPN global de socio. No se puede usar un identificador de MPN de ubicación.
 
 4. Al seleccionar **fusionar mediante combinación**, se envía una invitación a la empresa asociada. Cuando acepten su solicitud, puede iniciar la combinación de cuentas dentro del centro de Partners. Si la empresa rechaza su solicitud para fusionar mediante combinación cuentas, puede explicar por qué rechazó la solicitud. En el **historial de combinación** está disponible una lista de todas las combinaciones de cuentas.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Ejemplo de dos empresas combinando cuentas
 
-1. Contoso tiene 
+1. Contoso, Ltd. 
 
     a. un [identificador de MPN global de 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) y uno [de los identificadores MPN de ubicación subordinada de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. un inquilino de Azure AD = @contoso.com
  
     c. una competencia Gold que expira el 1 de octubre de 2020
-2. Fabricam tiene
+2. Fabrikam, Inc. tiene
  
     a.  un ID. de MPN global de 3333333 y dos identificadores de MPN de ubicación subordinada de 4444444 y 5555555
 
-    b.  un inquilino de Azure AD = @fabricam.com
+    b.  un inquilino de Azure AD = @fabrikam.com
 
     c.  dos competencias Gold que expiran el 1 de diciembre de 2020
-3.  Contoso compra Fabricam y va [aquí](https://partner.microsoft.com/dashboard/account/merger) para iniciar una solicitud de combinación.
-4.  Fabricam inicia sesión en el centro de Partners y se dirige a la misma página que Contoso en el paso #3 para aprobar la solicitud de contoso.
+3.  Contoso compra Fabrikam y va [aquí](https://partner.microsoft.com/dashboard/account/merger) para iniciar una solicitud de combinación.
+4.  Fabrikam inicia sesión en el centro de Partners y dirige a la misma página que Contoso en el paso #3 para aprobar la solicitud de contoso.
 5.  Contoso revisa los detalles de la combinación en esa misma página y proporciona confirmación para continuar con la fusión de cuentas.
 6.  Después de la fusión, la cuenta de empresa se mostrará como:
 
     a.  Una empresa llamada contoso con un identificador de MPN global de 1111111 y 4 identificadores de MPN de ubicación subordinada de 2222222, 3333333, 4444444 y 5555555
     
-    b.  Tendrá dos Azure AD inquilinos ( @contoso.com + @fabricam.com ) que tienen acceso a la misma cuenta del centro de Partners.
+    b.  Tendrá dos Azure AD inquilinos ( @contoso.com + @fabrikam.com ) que tienen acceso a la misma cuenta del centro de Partners.
     
     c.  Tendrá dos paquetes de ventajas de la competencia: uno que expire el 1 de octubre de 2020 y otro que expire el 1 de diciembre de 2020. Podrán renovarse como un paquete de ventajas de una sola competencia el 1 de diciembre de 2020. Cuando se renuevan, contoso conservará las tres competencias, aunque solo pueda mantener un único paquete de beneficios.
     
-7.  Los administradores de Contoso seguirán administrando los roles del centro de partners para @contoso.com los usuarios de. Los administradores de Fabricam seguirán administrando los roles del centro de partners para @fabricam.com los usuarios de. Los administradores de Contoso solo pueden administrar los usuarios de Fabricam si están invitados como invitados al inquilino de Fabricam.
-8.  Contoso podría decidir omitir el @fabricam.com inquilino y volver a emitir las nuevas credenciales de los empleados de Fabricam @contoso.com con nuevos roles y permisos.
+7.  Los administradores de Contoso seguirán administrando los roles del centro de partners para @contoso.com los usuarios de. Los administradores de Fabrikam seguirán administrando los roles del centro de partners para @fabrikam.com los usuarios de. Los administradores de Contoso solo pueden administrar los usuarios de Fabrikam si están invitados como invitados al inquilino de fabrikam.
+8.  Contoso podría decidir omitir el @fabrikam.com inquilino y volver a emitir las nuevas credenciales de los empleados de Fabrikam @contoso.com con nuevos roles y permisos.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Asignación de roles y permisos a los usuarios](permissions-overview.md)
+- [Asignar roles y permisos de usuarios](permissions-overview.md)
 
 - [Comprobación de la información del perfil de partner](update-your-partner-profile.md)
 

@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea lo que está haciendo bien y dónde puede mejorar en relación con el uso de las suscripciones de Azure que vende o administra para sus clientes.
+description: Vea lo que está haciendo bien y dónde puede mejorar el uso de las suscripciones de Azure que vende o administra para sus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220733"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086216"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Azure disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
-El informe de uso de Azure presenta métricas relacionadas con las suscripciones de Azure de sus clientes. Esto incluye los ingresos y el uso de Azure por categorías de medidor. Puede ver las siguientes secciones en el informe de uso de Azure.
+El informe de uso de Azure presenta métricas relacionadas con las suscripciones de Azure de sus clientes. Este informe incluye los ingresos de consumo de Azure y el uso por categorías de medidor. Puede ver las siguientes secciones en el informe de uso de Azure.
 
 - Resumen
 - Uso de Azure por geografía
@@ -37,9 +38,10 @@ El informe de uso de Azure presenta métricas relacionadas con las suscripciones
 
 En la sección Resumen se presenta una vista de instantánea de los indicadores clave de rendimiento (KPI) relacionados con las suscripciones de Azure vendidas o administradas por usted para sus clientes.  
 
-- Suscripciones de Azure: recuento actual de las suscripciones de clientes de Azure vendidas o administradas por el porcentaje de crecimiento o disminución de las suscripciones de Azure durante el intervalo de fechas seleccionado.
+- Suscripciones de Azure: recuento actual de las suscripciones de clientes de Azure vendidas o administradas por el usuario.
+Porcentaje de crecimiento o disminución de estas suscripciones de Azure durante el intervalo de fechas seleccionado.
 
-El micro Chart presenta una tendencia de mes a mes en el recuento de suscripciones de Azure para el intervalo de fechas seleccionado.
+El micro gráfico presenta una tendencia de mes a mes en el recuento de suscripciones de Azure para el intervalo de fechas seleccionado.
 - Suscripciones activas de Azure: recuento actual de las suscripciones de Azure vendidas o administradas por el usuario que tenía el uso activo durante los últimos 30 días.
 Porcentaje de crecimiento o disminución de estas suscripciones durante el intervalo de fechas seleccionado.
 

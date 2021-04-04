@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000079"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132662"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Mover varias empresas al centro de Partners desde el centro de pertenencia de asociados (PMC)
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Agente de ventas
 
@@ -80,7 +80,7 @@ Los datos se basan en la información de PMC y se comprobarán para asegurarse d
 
 Si la cuenta que vas a migrar está en el mismo país o región que la existente, puedes decidir si quieres utilizar esa dirección o agregar otra. Si decides usar otra dirección, se comprobará. Si quieres utilizar la misma, se usarán la dirección existente y el contacto principal.
 
-Una vez que hayas comprobado o editado la información de esta pantalla, haz clic en Enviar y se consolidarán las cuentas.
+Una vez que haya comprobado o editado la información de esta pantalla, seleccione **Enviar** y se consolidarán las cuentas.
 
 ## <a name="partner-profile"></a>Perfil de partner
 

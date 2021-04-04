@@ -2,28 +2,30 @@
 title: Archivos de conciliación basada en licencia
 ms.topic: article
 ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo leer archivos de conciliación basados en licencias en el centro de Partners. En este artículo se explica el significado de cada campo en el archivo de conciliación basado en licencias.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444915"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178925"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Descripción de los campos de los archivos de conciliación basados en licencias del centro de Partners
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 **Roles adecuados**
+
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Administrador de facturación
 - Agente de administrador
 
@@ -44,14 +46,14 @@ Para conciliar los cambios con los pedidos de un cliente, compare el **Syndicati
 | OfferId | Identificador único de la oferta. Identificador de la oferta estándar, tal como se define en la lista de precios. *Este valor no coincide con el identificador de la **oferta** de la lista de precios. Vea **DurableOfferID** en su lugar.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | Identificador único de la oferta durable, tal como se define en la lista de precios. *Este valor coincide con el identificador de la **oferta** de la lista de precios.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | Fecha de inicio de la suscripción. La hora es siempre el principio del día, 00:00. Este campo se establece en el día después de enviar el pedido. Se usa junto con **SubscriptionEndDate** para determinar: Si el cliente sigue en el primer año de la suscripción, o si la suscripción se ha renovado durante el año siguiente. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Fecha de inicio de la suscripción. La hora es siempre el principio del día, 00:00. Este campo se establece en el día después de enviar el pedido. Se usa con **SubscriptionEndDate** para determinar: Si el cliente sigue en el primer año de la suscripción, o si la suscripción se ha renovado durante el año siguiente. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Fecha de finalización de la suscripción. La hora es siempre el principio del día, 00:00. *12 meses más **x** días después de la fecha de inicio* para alinearse con la fecha de facturación del socio o *12 meses a partir de la fecha de renovación*. En el momento de la renovación, los precios se actualizan según la lista de precios actual. Es posible que se necesite una comunicación con el cliente antes de la renovación automatizada. | *2/1/2019 0:00* |
-| ChargeStartDate | Día de inicio de los cargos. La hora es siempre el principio del día, 00:00. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de licencia. | *2/1/2019 0:00* |
-| ChargeEndDate | Día de finalización de los cargos. La hora siempre corresponde al fin del día, 23:59. Se usa para calcular los cargos diarios (cargos*prorrateados* ) cuando un cliente cambia los números de licencia. | *2/28/2019 23:59* |
+| ChargeStartDate | Día de inicio de los cargos. La hora es siempre el principio del día, 00:00. Se usa para calcular los cargos diarios (cargos *prorrateados* ) cuando un cliente cambia los números de licencia. | *2/1/2019 0:00* |
+| ChargeEndDate | Día de finalización de los cargos. La hora siempre corresponde al fin del día, 23:59. Se usa para calcular los cargos diarios (cargos *prorrateados* ) cuando un cliente cambia los números de licencia. | *2/28/2019 23:59* |
 | ChargeType | [Tipo de cargo](recon-file-charge-types.md) o ajuste. | Consulte [tipos de cargos](recon-file-charge-types.md). |
-| UnitPrice | Precio por licencia, tal y como se publica en el pricelist en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *6,82* |
+| UnitPrice | Precio por licencia, tal como se publicó en la lista de precios en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *6,82* |
 | Cantidad | Número de licencias. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *2* |
-| Importe | Total del precio para la cantidad. Se usa para comprobar si el cálculo de cantidad coincide con la forma de calcular este valor para los clientes. | *13.32* |
+| Amount | Total del precio para la cantidad. Se usa para comprobar si el cálculo de cantidad coincide con la forma de calcular este valor para los clientes. | *13.32* |
 | TotalOtherDiscount | Cantidad de descuento que se aplica a estos cargos. Las licencias de producto incluidas en una competencia o en MAPS, o en nuevas suscripciones para un incentivo, también contendrán un importe de descuento en esta columna. | *2,32* |
 | Subtotal | Total sin impuestos. Comprueba si el subtotal coincide con el total esperado, en caso de que se trate de un descuento. | *11* |
 | Impuesto | Cargo del importe de los impuestos. En función de las reglas de impuestos y las circunstancias específicas de su mercado. | *0* |

@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712909"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133036"
 ---
 # <a name="technical-support-benefits"></a>Ventajas del soporte técnico
 
 **Roles adecuados**
--   Administrador global 
--   Administrador de partners de MPN 
--   Agente de administrador 
+
+- Administrador global
+- Administrador de partners de MPN
+- Agente de administrador
 
 ## <a name="overview"></a>Información general
 
@@ -38,11 +39,11 @@ Para ver y activar sus ventajas técnicas en el centro de Partners:
 2. Expanda beneficios en el menú de navegación izquierdo, seleccione **ventajas técnicas**. Aparece la página ventajas técnicas con una lista de los beneficios de soporte técnico disponibles para las ofertas de suscripción Gold, Silver o Microsoft Action Pack. 
 
     > [!NOTE]
-    >Si no tiene ninguna oferta de pertenencia activa, verá el mensaje "parece que todavía no tiene ninguna ventaja". Si su empresa tiene ofertas de pertenencia activa, pero no puede verlas, es posible que haya iniciado sesión con una cuenta incorrecta. Para comprobar su cuenta, haga clic en el icono de la **cuenta** en la parte superior derecha de la página y haga clic en **iniciar sesión con otra cuenta** (si es necesario).
+    >Si no tiene ninguna oferta de pertenencia activa, verá el mensaje "parece que todavía no tiene ninguna ventaja". Si su empresa tiene ofertas de pertenencia activa, pero no puede verlas, es posible que haya iniciado sesión con una cuenta incorrecta. Para comprobar su cuenta, seleccione el icono de la **cuenta** en la parte superior derecha de la página y seleccione **iniciar sesión con otra cuenta** (si es necesario).
 
 3. Para empezar a usar el soporte técnico de productos de Microsoft o la firma, debe activar la ventaja. El identificador de acceso y el identificador de contrato se mostrarán después de la activación correcta. 
 
-    -   Para activar la ventaja, haga clic en el botón activar. La cuenta de usuario usada para la activación requiere los roles de administrador global o de administrador de asociados de MPN. Deje pasar unos días para que se procese la solicitud de activación. 
+    -   Para activar la ventaja, seleccione el botón activar. La cuenta de usuario usada para la activación requiere los roles de administrador global o de administrador de asociados de MPN. Deje pasar unos días para que se procese la solicitud de activación. 
 
     - Puede usar el soporte técnico de productos de Microsoft y la compatibilidad con los productos de firma (Gold y Silver) cuando se muestren el identificador de acceso y el identificador de contrato. 
 
@@ -73,7 +74,7 @@ Necesitará el identificador de acceso y el identificador de contrato la primera
 
 Cualquier cuenta de usuario (AAD o MSA) puede usar el soporte técnico para los productos locales si tienen el identificador de acceso y el identificador de contrato.
 
-Haga clic en [soporte técnico para empresas](https://support.serviceshub.microsoft.com/supportforbusiness/create) para crear una solicitud de soporte técnico para un producto local.
+Seleccione [soporte técnico para empresas](https://support.serviceshub.microsoft.com/supportforbusiness/create) para crear una solicitud de soporte técnico para un producto local.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Compatibilidad con la nube de firmas (solo en la nube)
 
@@ -83,13 +84,13 @@ Necesitará el identificador de acceso y el identificador de contrato la primera
 
 Los asociados de CSP que crean solicitudes de Azure pueden usar el plan de soporte técnico "proveedor de soluciones en la nube" sin agregar un contrato de soporte técnico.
 
-Los usuarios con el rol de **agente de administración** pueden seleccionar [clientes](https://partner.microsoft.com/commerce/customers/list) en CSP en el menú de navegación izquierdo, seleccionar **Administración de servicios** y hacer clic en **nueva solicitud**.  Al seleccionar la carga de trabajo correspondiente, se abrirá el portal específico de la carga de trabajo y agregará un contrato de soporte técnico y creará una solicitud.
+Los usuarios con el rol de **agente de administración** pueden seleccionar [clientes](https://partner.microsoft.com/commerce/customers/list) en CSP en el menú de navegación izquierdo, seleccionar **Administración de servicios** y seleccionar **nueva solicitud**.  Al seleccionar la carga de trabajo correspondiente, se abrirá el portal específico de la carga de trabajo y agregará un contrato de soporte técnico y creará una solicitud.
 
 ## <a name="partner-support-plans"></a>Planes de soporte técnico para asociados
 
 Puede obtener soporte técnico de pago de Microsoft, que incluye soporte técnico y una variedad de opciones de servicio adicionales. 
 
-Puede [comparar los planes de soporte técnico de asociados](https://partner.microsoft.com/support/partnersupport) o ver a continuación los planes específicos de asociados:
+Puede [comparar los planes de soporte técnico de asociados](https://partner.microsoft.com/support/partnersupport) o ver a continuación los planes específicos de los asociados:
 
 - [Soporte técnico Premier para asociados](https://partner.microsoft.com/support/microsoft-services-premier-support) : el nivel superior de soporte técnico de Microsoft
 - [Soporte técnico avanzado para asociados](https://partner.microsoft.com/support/advanced-cloud-support) : solo productos en la nube

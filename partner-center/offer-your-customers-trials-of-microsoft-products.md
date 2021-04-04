@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999219"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132339"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Ofrezca a los clientes versiones de evaluación gratuitas de los productos de Microsoft durante 30 días
 
-**Se aplica a**
-
-- Centro de partners
-
 **Roles adecuados**
--   Administrador global 
--   Administrador de usuarios
--   Agente de ventas
+
+- Administrador global
+- Administrador del control de usuarios
+- Agente de ventas
 
 Una buena manera de presentar a los clientes de nuevos productos de Microsoft es ofrecer pruebas gratuitas de 30 días. Puede registrarse para las pruebas en el catálogo del mismo modo que otros muchos servicios en línea. Todos los partners pueden participar.
 
@@ -54,12 +51,12 @@ Las licencias de prueba deben asignarse a los usuarios de la misma manera que se
 Obtenga una versión de prueba para su cliente en el centro de Partners:
 
 1. Desde **vender** en el centro de Partners, vaya a **Catálogo**. 
-2. En el catálogo, desde **frecuencia de facturación**, haga clic en **oferta de evaluación**. Esto permite que solo aparezcan las pruebas gratuitas y se deshabilitan otras ofertas que no son gratuitas. Las pruebas se mostrarán en la pestaña de **pruebas** del catálogo.
-3. Seleccione la evaluación gratuita que quiera ofrecer y, a continuación, seleccione **submit (enviar**). Todas las pruebas son durante treinta días durante los cuales no se le cobrará. También puede convertirla en una suscripción de pago en cualquier momento durante la prueba.
+2. En el catálogo, desde **frecuencia de facturación**, seleccione **oferta de evaluación**. Esto permite que solo aparezcan las pruebas gratuitas y se deshabilitan otras ofertas que no son gratuitas. Las pruebas se mostrarán en la pestaña de **pruebas** del catálogo.
+3. Seleccione la evaluación gratuita que quiera ofrecer y, a continuación, seleccione **submit (enviar**). Todas las pruebas son durante 30 días durante los cuales no se le facturará. También puede convertirla en una suscripción de pago en cualquier momento durante la prueba.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversión de pruebas en suscripciones de pago
 
-Una evaluación gratuita no se convierte automáticamente en una suscripción de pago. Después de treinta días, una evaluación gratuita se debe convertir en una suscripción de pago o [expirará](#expiring-offers). Las evaluaciones gratuitas no se pueden ampliar.
+Una evaluación gratuita no se convierte automáticamente en una suscripción de pago. Después de 30 días, una evaluación gratuita se debe convertir en una suscripción de pago o [expirará](#expiring-offers). Las evaluaciones gratuitas no se pueden ampliar.
 
 Deberá convertir la versión de prueba en una suscripción de pago. Para ello, puede [usar el centro de Partners](#convert-trials-using-partner-center) o [las API del centro de Partners](#convert-trials-using-apis).
 
@@ -73,7 +70,7 @@ Puede convertir las pruebas en suscripciones de pago mediante el centro de Partn
 1. Vaya a la página de suscripción del cliente y seleccione la evaluación gratuita.
 2. Seleccione **convertir evaluación en suscripción de pago**.
 3. Escriba la cantidad de licencias deseada y la frecuencia de facturación y seleccione **aplicar**.
-4. La facturación de la suscripción de pago comienza en la fecha de conversión y la suscripción se renueva en 12 meses a partir de la fecha de conversión. 
+4. La facturación de la suscripción de pago comienza en la fecha de conversión y la suscripción se renueva automáticamente 12 meses a partir de la fecha de conversión. 
 
 ### <a name="convert-trials-using-apis"></a>Conversión de pruebas mediante API
 
@@ -88,7 +85,7 @@ No todas las pruebas se pueden convertir en suscripciones de pago. Los asociados
 
 |**Versión de prueba**   |**Ofertas de pequeñas empresas compatibles**   |**Ofertas Enterprise compatibles**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Evaluación de la nube comercial de Microsoft Teams (Iniciado por el usuario)   |Microsoft 365 Empresa Basic, Microsoft 365 Empresa Standard, Microsoft 365 Empresa Premium   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 y E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Evaluación de la nube comercial de Microsoft Teams (Iniciado por el usuario)   |Microsoft 365 Empresa Basic, Microsoft 365 Empresa Standard, Microsoft 365 Empresa Premium   | F3 (anteriormente F1), Office 365 para empresas (E1, E3 y E5), Microsoft 365 F1/F3 Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >Las ofertas anteriores tienen planes de servicio similares con una funcionalidad similar, pero puede haber algunas diferencias entre las ofertas.
@@ -107,7 +104,7 @@ La facturación anual y las evaluaciones gratuitas son las mismas en las nubes i
 
 Las evaluaciones gratuitas se pueden usar para las suscripciones facturadas mensuales y anuales. Puede seleccionar la frecuencia de facturación al convertir la versión de prueba en una suscripción de pago.
 
-La fecha de inicio de la suscripción se basa en la fecha de conversión. Si la evaluación gratuita se convierte en una oferta de pago con facturación anual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de conversión. Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de facturación tras la fecha de conversión.
+La fecha de inicio de la suscripción se basa en la fecha de conversión. Si la evaluación gratuita se convierte en una oferta de pago con una facturación anual, la fecha de renovación de la suscripción será de 12 meses a partir de la fecha de conversión. Si la evaluación gratuita se convierte en una oferta pagada con facturación mensual, la fecha de renovación de la suscripción será a los doce meses a partir de la fecha de facturación tras la fecha de conversión.
 
 ### <a name="invoices"></a>Facturas
 

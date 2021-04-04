@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436834"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132645"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migración de ofertas de Dynamics 365 Business Edition a versiones más recientes
 
-**Se aplica a**
-
-- Centro de partners
-
 **Roles adecuados**
+
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Agente de ventas
 

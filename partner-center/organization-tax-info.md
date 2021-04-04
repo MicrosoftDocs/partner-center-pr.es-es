@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624211"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132764"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Agregar un ID. de IVA al perfil de facturación
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Administrador de facturación
 - Agente de administrador
 - Agente de ventas
@@ -31,10 +31,10 @@ Puede usar el siguiente procedimiento para actualizar el perfil de facturación 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Actualice su perfil de facturación con su ID. de IVA
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
-2. En el menú **configuración** (icono de engranaje), elija Configuración de la **cuenta**.
-3. En la página Configuración de la **cuenta** , elija Perfil de **facturación del asociado** en el menú de la página.
-4. En la sección **datos financieros** , elija **Actualizar**.
-5. En **ID**. de impuesto de la empresa, especifique el número de identificación de IVA.
+2. En el menú **Configuración** (icono de engranaje), elija **Configuración de cuenta**.
+3. En la página **Configuración de cuenta**, elija **Perfil de facturación del partner** en el menú de la página.
+4. En la sección **Datos financieros**, seleccione **Actualizar**.
+5. En **Identificación fiscal de la empresa**, especifique el CIF.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

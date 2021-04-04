@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220333"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086199"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel de Partner Center Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
-El informe de suscripciones de producto presenta análisis sobre las suscripciones en la nube que ha vendido o que administra para sus clientes. Se trata de un informe específico del producto que incluye el rendimiento de las suscripciones asociadas a productos en la nube como Office 365, Azure, Dynamics, etc.
+El informe de suscripciones de producto presenta análisis sobre las suscripciones en la nube que ha vendido o que administra para sus clientes. Se trata de un informe específico del producto que incluye el rendimiento de las suscripciones asociadas a productos en la nube como Office 365, Azure, Dynamics y otros.
 
 Puede ver las secciones siguientes del informe de suscripciones de productos.
 
@@ -44,7 +45,7 @@ En la sección Resumen se presenta una vista de instantánea de los indicadores 
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Resumen del informe de suscripciones":::
 
-Consulte a continuación para obtener más información acerca de cada sección del Resumen.
+Para obtener más información acerca de cada sección del Resumen, vea a continuación:
 
 - Suscripciones:
   - Recuento actual de las suscripciones de productos en la nube vendidas o administradas por el usuario.
@@ -82,19 +83,19 @@ Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación
 
 Esta vista presenta una tendencia de suscripciones. Estas se dividen en distintas categorías (nuevas, existentes y renovadas) para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado. El eje Y representa el recuento de suscripciones. Las suscripciones rotadas se representan en la escala negativa del eje Y. 
 
-El gráfico de columnas apiladas presenta un desglose de las suscripciones nuevas, existentes y renovadas del mes. Puede volver a generar el gráfico de columnas, desglosado con elementos de pila concretos. Para ello, seleccione los elementos específicos en la leyenda. También puede utilizar el control deslizante de la parte superior del gráfico para acercar un período específico.
+El gráfico de columnas apiladas presenta un desglose de las suscripciones nuevas, existentes y renovadas del mes. Puede volver a generar el gráfico de columnas, desglosado con elementos de pila concretos. Para ello, seleccione los elementos específicos en la leyenda. También puede usar el control deslizante situado en la parte superior del gráfico para acercar un período específico.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="agregación de suscripciones y paginación":::
 
 ## <a name="subscription-distribution"></a>Distribución de suscripciones
 
-Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de MPN, los segmentos de cliente, el canal de ventas o el modelo de precios de Azure y el tipo de atribución (por ejemplo, DPOR, DAP, etc.). Haga clic en las pestañas correspondientes para ver el desglose por estas categorías. Para generar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
+Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de MPN, los segmentos de cliente, el canal de ventas o el modelo de precios de Azure y el tipo de atribución (por ejemplo, DPOR, DAP y otros). Seleccione las pestañas correspondientes para ver el desglose por estas categorías. Para generar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribución de suscripciones":::
 
 ## <a name="subscription-state-distribution"></a>Distribución de estado de suscripción
 
-Esta vista muestra la distribución de las suscripciones de clientes actuales por Estado o estado de la suscripción. Esto incluye los siguientes Estados de suscripción: **activo**, **deshabilitado**, **desaprovisionado**, **abierto**, **gracia**, **cerrado**y **otros**.
+Esta vista muestra la distribución de las suscripciones de clientes actuales por Estado o estado de la suscripción. Esto incluye los siguientes Estados de suscripción: **activo**, **deshabilitado**, **desaprovisionado**, **abierto**, **gracia**, **cerrado** y **otros**.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="distribución de estado de suscripción":::
 

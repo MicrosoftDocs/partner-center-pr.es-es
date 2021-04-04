@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949049"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132628"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrar suscripciones de Office 365 E4 a las versiones más recientes de Office 365
 
-**Se aplica a**
-
--  Centro de partners
-
 **Roles adecuados**
--   Administrador global
--   Administrador de usuarios
--   Agente de administrador
--   Agente de ventas
+
+- Administrador global
+- Administrador del control de usuarios
+- Agente de administrador
+- Agente de ventas
 
 El plan Office 365 Enterprise E4 se ha retirado, en vigor el 7 de abril de 2017. Ya no se pueden comprar nuevas suscripciones a Office 365 E4 después de esta fecha, y las suscripciones de E4 existentes no se renovarán automáticamente cuando expiren.
 
@@ -87,7 +84,7 @@ Siga estos pasos para migrar la suscripción Office 365 Enterprise E4 de un clie
 
 1. En el menú del **centro de Partners** , seleccione **clientes**, seleccione el cliente que desea migrar y, a continuación, seleccione **usuarios y licencias**. Se abre la página usuarios y licencias del cliente.
 
-2. Para reasignar licencias de usuario, selecciona el usuario para reasignar y, a continuación, selecciona **Administrar licencias**.
+2. Para reasignar licencias de usuario, seleccione el usuario que desea reasignar y, a continuación, seleccione **administrar licencias**.
 
 3. En la página **administrar licencias** , desactive la casilla **Office 365 Enterprise E4** License y seleccione un nuevo plan de servicio para la suscripción a la que está pasando el cliente.
 
@@ -109,7 +106,7 @@ La suscripción anterior se suspende y la nueva suscripción está activa. La su
 
 
 
- 
+ 
 
 
 

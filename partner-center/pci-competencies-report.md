@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220473"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086267"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes
 - Visor de informes ejecutivos
 
-Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales. Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, los derechos de los productos en la nube como O365, soporte técnico, ofertas de comercialización, etc. Actualmente, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**. Las competencias se dividen en niveles Silver o Gold, por ejemplo. Existe una barra superior para la competencia Gold y un mayor nivel de recursos de marketing, ofertas y programas disponibles.  
+Las competencias permiten a su empresa demostrar su capacidad técnica para ofrecer soluciones de Microsoft. Las competencias de Microsoft están diseñadas para satisfacer las necesidades de sus clientes y exhibir sus conocimientos a clientes potenciales. Incluyen una gran cantidad de ventajas de Microsoft, como las cantidades incluidas de consumo de Azure, derechos para productos en la nube como Office 365, soporte técnico, ofertas de comercialización y otros. En la actualidad, hay un total de 19 competencias en las siguientes categorías: **aplicación e infraestructura**, **aplicaciones empresariales**, **datos e inteligencia artificial** y **área de trabajo moderna**. Las competencias se dividen en niveles Silver o Gold, por ejemplo. Existe una barra superior para la competencia Gold y un mayor nivel de recursos de marketing, ofertas y programas disponibles.  
 
 Obtendrá más uso del informe de competencia si obtiene más información sobre el ciclo de vida de la competencia, la obtención de Aptitudes y otros detalles del informe de competencia.
 
 ## <a name="competency-life-cycle"></a>Ciclo de vida de la competencia
 
-Desde el punto de vista del ciclo de vida, los asociados comienzan por la creación de los indicadores clave de rendimiento (KPI) necesarios para lograr competencias específicas. Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se **califican** para una competencia. A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para lograr la competencia y estar **activa** en esa competencia. El estado **activo** de la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se conoce como la **fecha de aniversario** de la competencia). Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia. Si no cumplen estos requisitos de nuevo, perderán la competencia. Un estado de **riesgo** para una competencia contratada previamente significa que ciertas métricas clave están previstas por debajo del umbral en la **fecha de aniversario**de la competencia.
+Desde el punto de vista del ciclo de vida, los asociados comienzan por la creación de los indicadores clave de rendimiento (KPI) necesarios para lograr competencias específicas. Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se **califican** para una competencia. A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para lograr la competencia y estar **activa** en esa competencia. El estado **activo** de la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se conoce como la **fecha de aniversario** de la competencia). Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia. Si no cumplen estos requisitos de nuevo, perderán la competencia. Un estado de **riesgo** para una competencia contratada previamente significa que ciertas métricas clave están previstas por debajo del umbral en la **fecha de aniversario** de la competencia.
 
 ## <a name="competency-attainment"></a>Obtención de aptitudes
 
@@ -53,7 +54,7 @@ Puede ver las siguientes secciones del informe competencias:
 
 ### <a name="summary"></a>Resumen
 
-La vista de Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (oro/plata) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **iniciado**, **calificado**, **activo**y **en riesgo**. Ejemplo: los requisitos de capacidad de la nube se dividen en dos categorías: habilidades y rendimiento.
+La vista de Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (oro/plata) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **iniciado**, **calificado**, **activo** y **en riesgo**. Ejemplo: los requisitos de capacidad de la nube se dividen en dos categorías: habilidades y rendimiento.
 
 - Iniciado: recuento de las competencias para las que tiene uno o varios de los requisitos subyacentes en curso.
 El desglose de las competencias iniciadas cuenta por nivel de competencia (Silver/Gold) con los nombres de competencia.
@@ -73,7 +74,7 @@ Esta vista muestra el estado de las métricas de competencia con respecto a los 
 
 El informe se puede dinamizar con los dos intervalos de fechas siguientes:
 
-1. Vista de TTM: muestra el rendimiento de los asociados durante los últimos doce meses (TTM).
+1. Vista de TTM: muestra el rendimiento del socio comercial en los últimos 12 meses (TTM).
 2. Vista de año de aniversario: muestra el rendimiento del socio comercial de la fecha de aniversario anterior a la fecha de aniversario siguiente.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Análisis de métricas de competencia":::

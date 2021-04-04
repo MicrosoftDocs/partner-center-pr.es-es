@@ -1,22 +1,22 @@
 ---
 title: Procesos y programaciones de pagos
 description: Obtenga información sobre los pagos y transacciones, como los planes de pago y los procesos de rerecuperación para el Marketplace comercial y otras transacciones.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756855"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086182"
 ---
 # <a name="payout-schedules-and-processes"></a>Procesos y programaciones de pagos
 
-**Roles adecuados:**
+**Roles adecuados**
 
 - Administrador de cuentas
 - Administrador global
@@ -67,13 +67,13 @@ Todas las compras con una tarjeta de crédito o una factura mensual tienen un pe
 
 ## <a name="process-for-customer-non-payment"></a>Proceso en caso de impago de los clientes
 
-En raras ocasiones, Microsoft no puede cobrar los pagos a los clientes por sus compras en Marketplace comercial. Cuando un cliente no puede pagar a Microsoft según su programación de facturación, comienza el proceso de cobro. Este proceso tarda aproximadamente cuatro meses e implica una comunicación continua con Microsoft. Si al final de este proceso no se recibe el pago, Microsoft cancela los fondos y los considera no cobrados.
+En raras ocasiones, Microsoft no puede cobrar los pagos a los clientes por sus compras en Marketplace comercial. Cuando un cliente no puede pagar a Microsoft según su programación de facturación, comienza el proceso de cobro. Este proceso tarda aproximadamente cuatro meses e implica una comunicación continua con Microsoft. Si el pago no se recibe al final de este proceso, Microsoft escribe los fondos como no recopilables.
 
 Según el proceso de pago articulado aquí, es posible que Microsoft ya haya pagado fondos a los anunciantes (usted) que finalmente no se podrán cobrar. Por lo tanto, tenemos un proceso para conciliar estos importes. Para asegurarse de que tiene la advertencia de que su pago (ya recibido) se puede conciliar, se le avisará cuando un cliente se encuentre en el proceso de cobro y es probable que se cancelen las compras.
 
 Microsoft recuperará los pagos que ya se le hayan pagado a usted con uno de los siguientes métodos: (1) Microsoft puede restar los importes no pagados de los pagos futuros; por ejemplo, si se considera que 1000 dólares USA de los pagos no se pueden cobrar ni cancelar, se retienen los pagos futuros hasta que se recupere este importe; o bien, (2) Microsoft puede solicitar un reembolso o los importes no cobrados a los anunciantes de la factura.
 
-A continuación, se muestra una programación de ejemplo:
+La siguiente programación es un ejemplo:
 
 | Evento | Fecha aproximada * | Visibilidad de los asociados |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ A continuación, se muestra una programación de ejemplo:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Número de días para que los pagos lleguen a la cuenta de pago
 
-Normalmente enviamos todos los pagos con vencimiento en un mes determinado a día 15 de ese mes, aunque el pago tardará más tiempo en llegar a su cuenta. El número de días depende del método de pago que usamos para su cuenta, como se describe a continuación.
+Por lo general, enviamos cualquier pago debido a un mes determinado el día 15 de ese mes, pero el pago tardará otro tiempo en llegar a su cuenta. El número de días depende del método de pago que usamos para su cuenta, como se describe a continuación.
 
 > [!NOTE]
 > Los días que se muestran a continuación son aproximados; cualquier pago puede tardar más o menos tiempo en llegar a su cuenta.

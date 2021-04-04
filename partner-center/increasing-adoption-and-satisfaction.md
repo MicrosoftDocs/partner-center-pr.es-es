@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691374"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178942"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use las métricas del centro de partners para aumentar la adopción y la satisfacción
-
-**Se aplica a**
-
-- Centro de partners
-- Programa Proveedor de soluciones en la nube
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Agente de ventas
 
@@ -61,7 +56,7 @@ Puede encontrar licencias y datos de usuario para un solo cliente o en toda su c
 
 Terminología:
 
-- **Derecho** = licencia que el usuario tiene derecho a usar (no se suspende por fraude o no pago, no se ha actualizado a una licencia diferente, no se ha cancelado por el usuario, etc.).
+- **Derecho** = licencia que el usuario tiene derecho a usar (no se suspende por fraude o sin pago, no se ha actualizado a una licencia diferente, no se ha cancelado por el usuario u otro problema).
 
 - **Active** = si el usuario suscrito ha usado el derecho para una tarea en los últimos 28 días del calendario.
 
@@ -69,7 +64,7 @@ Terminología:
 
 - **% De uso** = usuarios activos/total de usuarios
 
-   A veces el porcentaje de uso es excesivo, o mayor que 100 %. Esto puede ocurrir por varios motivos:
+   A veces el porcentaje de uso es excesivo, o mayor que 100 %. Este problema puede producirse por varias razones:
 
   - Si el cliente tuviera empleados y la licencia se hubiera transferido a un nuevo usuario.
 
@@ -77,7 +72,7 @@ Terminología:
 
   - Si el cliente tiene una suscripción de prueba, la actividad se cuenta pero la suscripción no cuenta como parte del total de derechos.
 
-  - Si los clientes usan Yammer mucho más de lo que se les ha concedido según su licencia, los datos pueden distorsionarse de forma considerable.
+  - Si algunos clientes usan Yammer significativamente más de lo que están autorizados por su licencia, puede sesgar los datos drásticamente.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
@@ -87,7 +82,7 @@ Si tiene una gran cantidad de preguntas de ayuda y procedimientos, los números 
 
 **Problema**: la tasa de adopción del usuario es baja y no se están usando muchas licencias.
 
-**Qué debe tener en cuenta**: es posible que los clientes no conozcan el valor que el software podría proporcionar. Necesitan ayuda para aprovisionar las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.
+**Qué debe tener en cuenta**: es posible que los clientes no conozcan el valor que el software podría proporcionar. Necesitan ayuda con la idea de las formas en que pueden incorporarlo en el día para simplificar las tareas que ya están realizando o para permitir nuevos tipos de productividad.
 
 **Qué probar**: casos prácticos, testimonios de usuario sobre escenarios específicos, blogs de tutoriales o vídeos.
 

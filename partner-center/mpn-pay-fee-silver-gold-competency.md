@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757399"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132492"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Cómo pagar la cuota asociada con una competencia Silver o Gold
 
 **Roles adecuados**
 
 - Administrador de partners de MPN
-- Administrador de cuentas MPN
+- Administrador de cuentas
 
 En este artículo se describe cómo y cuándo pagar la cuota asociada a la obtención de una competencia Microsoft Partner Network Silver o Gold. En el artículo también se describe cómo cambiar el método de pago preferido, cómo cancelar un pedido y cómo recibir un descuento por cuota del 25 por ciento al pasar de una competencia Silver a Gold.
 

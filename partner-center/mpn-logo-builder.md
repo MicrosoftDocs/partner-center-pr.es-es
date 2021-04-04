@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909306"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132407"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Creación de un logotipo de asociado, una carta certificada o un premio mediante el generador de logotipos
 
 **Roles adecuados**
 
-- Todos los usuarios del centro de Partners interesados en obtener más información sobre el generador de logotipos
+- Todos los asociados interesados en obtener más información sobre el generador de logotipos
 
 El valor de lograr una competencia Silver o Gold es la oportunidad de diferenciar con los clientes. En las ventajas de la competencia se incluye un logotipo que puede usar en sus materiales de ventas y marketing y su perfil de negocio en el centro de partners para exhibir la competencia o las competencias que ha conseguido. 
 
@@ -28,7 +28,7 @@ Si ha sido aceptado en el programa MSP de Azure Expert, ha recibido un socio del
 
 ## <a name="what-is-available-in-logo-builder"></a>Qué está disponible en el generador de logotipos
 
-Lo que está disponible para su empresa en el generador de logotipos se alinea con la pertenencia a Microsoft Partner Network (MPN). Se tarda hasta 24 horas en reflejarse un cambio en la pertenencia a MPN, como la obtención de una nueva competencia.  
+Los logotipos disponibles para su empresa en el generador de logotipos se alinean con la pertenencia a Microsoft Partner Network (MPN). Se tarda hasta 24 horas en reflejarse un cambio en la pertenencia a MPN, como la obtención de una nueva competencia.
 
 Entre los recursos que se pueden crear en el generador de logotipos se incluyen los siguientes:
 
@@ -44,7 +44,7 @@ Entre los recursos que se pueden crear en el generador de logotipos se incluyen 
 
 - Logotipo para asociados que han adquirido Microsoft Action Pack
 
-## <a name="create-a-logo-using-logo-builder"></a>Creación de un logotipo con el generador de logotipos
+## <a name="create-a-logo-using-logo-builder"></a>Creación de un logotipo con el Generador de logotipos
 
 Su perfil de creador de logotipos contiene información que el generador de logotipos almacena sobre su organización y es solo para su información.
 

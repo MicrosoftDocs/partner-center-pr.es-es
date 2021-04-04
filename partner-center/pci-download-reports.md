@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175272"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086233"
 ---
-# <a name="download-reports"></a>Descargar informes
+# <a name="download-reports"></a>Descarga de informes
 
 **Roles adecuados**
+
 - Visor de informes ejecutivos
 - Visor de informes
 
@@ -34,7 +35,7 @@ Para generar un informe, seleccione primero el informe en la lista desplegable *
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Crear nuevo informe":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Crear nuevo informe":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Informes generados":::
 
 >[!NOTE] 
 >Solo los usuarios que sean ejecutivos de informes pueden descargar informes. Para más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [roles de PCI](pci-roles.md). 
@@ -43,7 +44,7 @@ Para generar un informe, seleccione primero el informe en la lista desplegable *
 
 Los informes siguientes están disponibles para su descarga:
 
-**Perfil de socio comercial** proporciona los detalles relacionados con el socio. En el informe se encuentran disponibles detalles como el ID. de Partner, el nombre de asociado, la ciudad de socio comercial, el país asociado, etc. No se aplicará ninguna agregación o lookback para este informe.
+**Perfil de socio comercial** proporciona los detalles relacionados con el socio. En el informe se encuentran disponibles detalles como el ID. de Partner, el nombre del asociado, la ciudad del asociado y el país del asociado. No se aplicará ninguna agregación o lookback para este informe.
 
 **Detalles del cliente** proporciona los detalles de los clientes a los que está asociado un socio comercial. También proporciona métricas clave como licencias vendidas, ACR agregados, etc. El informe se agrega mensualmente.
 

@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322124"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132271"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Compatibilidad con varios socios para los clientes que desean trabajar con más de un asociado
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de ventas
 
 La característica de varios asociados del centro de Partners admite escenarios en los que un cliente desea trabajar con más de un asociado. Por ejemplo, un cliente puede querer contratar a un asociado por su experiencia en Office 365, pero contratar a un partner diferente que se especializa en Microsoft Azure.
@@ -46,4 +45,4 @@ La funcionalidad multipartner no sirve para:
 - Cambiar el socio comercial del registro de una suscripción
 
 > [!IMPORTANT]  
-> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Esta restricción solo se aplica al inquilino que se usa para realizar transacciones de CSP. Los asociados de CSP que usan un inquilino no CSP para su uso corporativo pueden adquirir servicios en línea de otro asociado de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).
+> Actualmente, un partner del programa CSP no puede revender servicios en línea a otro partner del programa CSP. Esta restricción se aplica solo al inquilino que se usa para llevar a cabo las transacciones de CSP. Los partners de CSP que usan un inquilino no relacionado con CSP para su uso corporativo, pueden adquirir servicios en línea de otro partner de CSP. Microsoft revisa continuamente las directivas y las funcionalidades de todos los programas. Las noticias sobre las versiones de la característica o los cambios en la directiva se anunciarán a través de los canales de comunicación habituales, incluidos [los anuncios del Centro de partners](announcements/index.md).

@@ -8,16 +8,17 @@ description: Vea lo que está haciendo bien y dónde puede mejorar en relación 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146823"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086284"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security informe de uso disponible en el panel del centro de Partners Insights
 
 **Roles adecuados**
+
 - Administrador global
 - Agente de administrador
 - Visor de informes

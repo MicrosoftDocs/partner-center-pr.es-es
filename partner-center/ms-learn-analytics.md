@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333817"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132322"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>En el informe de Microsoft Learn Analytics se muestra el estado de los aprendidos en su empresa.
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>En el informe de Microsoft Learn Analytics se muestra el estado de los aprendidos en su empresa
 
 **Roles adecuados**
--   Administrador global
--   Administrador de partners de MPN
+
+- Administrador global
+- Administrador de partners de MPN
 
 En el informe de Microsoft Learn se proporciona información sobre los aprendizajes de la empresa, incluidos los módulos que se han completado y las rutas de aprendizaje en las que se encuentran. El informe muestra el estado de cada estudiante individual. El administrador global y el administrador de MPN para su empresa pueden ver los datos.
 
@@ -73,7 +74,7 @@ Estos datos son la tendencia de las rutas de aprendizaje completadas por los usu
 
 **Pestaña módulo**
 
-Esta pestaña incluye el desglose de los módulos completados en su empresa por los 5 nombres de módulos principales; producto al que está asociado el módulo; y el rol de usuario pertinente para el módulo.  
+Esta pestaña incluye el desglose de los módulos completados en su empresa por los cinco nombres de módulo principales; producto al que está asociado el módulo; y el rol de usuario pertinente para el módulo.  
 
 - Gráfico de anillos de finalizaciones de módulos: desglose de las finalizaciones del módulo (recuento mostrado en la sección de resumen) por los nombres de módulo.
 
@@ -89,7 +90,7 @@ El número que se muestra en el centro del gráfico es el número de productos d
 
 **Pestaña ruta de aprendizaje**   
 
-Esta pestaña incluye un desglose de las rutas de aprendizaje completadas en su empresa por los 5 nombres de módulos principales. el producto al que está asignada la ruta de aprendizaje; y el rol pertinente para esta ruta de aprendizaje.  
+Esta pestaña incluye un desglose de las rutas de aprendizaje completadas en su empresa por los cinco nombres de módulo principales. el producto al que está asignada la ruta de aprendizaje; y el rol pertinente para esta ruta de aprendizaje.  
 
 - Gráfico de anillos de finalización de rutas de aprendizaje: desglose de las finalizaciones de ruta de aprendizaje (recuento mostrado en la sección de resumen) por nombre.
 
@@ -127,11 +128,11 @@ Una vez que el administrador global agrega un nuevo usuario, dicho usuario debe 
 
 - Seleccione el icono de **su cuenta** en la esquina derecha del panel y, a continuación, seleccione **mi perfil**. 
 
--  En **su aprendizaje** , un usuario podrá asociar su cuenta de aprendizaje de Microsoft y conectar su cuenta de Microsoft a la Universidad de Partners.
+-  En **su aprendizaje** , un usuario podrá asociar su cuenta de aprendizaje de Microsoft y conectar su cuenta Microsoft a la Universidad de Partners.
 
 3. ¿Puedo ver todos los usuarios de la empresa que inician sesión en Microsoft Learn con una cuenta de MSA en este informe?
 
-Actualmente, la mejor manera de hacerlo es agregar estos usuarios al inquilino de Azure AD y agregarlos al centro de partners para que puedan asociar su cuenta de Microsoft Learn a través de **mi perfil en el** centro de Partners. 
+Actualmente, la mejor manera de hacerlo es agregar estos usuarios al inquilino de Azure AD y, a continuación, agregarlos al centro de partners para que puedan asociar su cuenta de Microsoft Learn a través de **mi perfil en el** centro de Partners. 
 
 Para los usuarios que solo usan su cuenta de MSA para el entrenamiento, en un futuro próximo, el equipo de Microsoft Learn permitirá a ellos asociar el correo electrónico del trabajo a su perfil de Microsoft Learn. 
 

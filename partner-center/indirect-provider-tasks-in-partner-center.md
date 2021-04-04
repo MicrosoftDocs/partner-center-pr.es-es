@@ -9,19 +9,19 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880776"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178959"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Agente de ventas
 
@@ -45,7 +45,7 @@ Para obtener información sobre lo que se necesita para participar en el program
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tareas del proveedor indirecto en el Centro de partners
 
-Complete los pasos siguientes para establecer y administrar su asociación con revendedores y clientes indirectos. Los pasos dos y tres se describen con más detalle a continuación.
+Complete los pasos siguientes para establecer y administrar su asociación con revendedores y clientes indirectos. Los pasos 2 y 3 se describen con más detalle a continuación.
 
 1. Revise el perfil de su empresa en la [lista de proveedores indirectos oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Para quitar la asociación con el revendedor indirecto existente, siga estos pas
 
 1. En el menú del centro de partners del panel, seleccione **distribuidores indirectos**. 
 
-2. En la página **distribuidores indirectos** , seleccione **quitar Asociación**. Aparecerá un mensaje en el que se solicita confirmación, seleccione Sí para continuar.
+2. En la página **distribuidores indirectos** , seleccione **quitar Asociación**. Aparecerá un mensaje que le pedirá confirmación. Para continuar, seleccione **sí**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Quitar Asociación":::
 
@@ -151,7 +151,7 @@ Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la 
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Agregar nuevas suscripciones a las cuentas de cliente
 
-Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, debe realizar estos cambios en la cuenta del cliente a través del portal de M365. No se puede hacer esto en el Azure Portal.
+Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, realice estos cambios en la cuenta del cliente a través del portal de Microsoft 365. No se puede hacer esto en el Azure Portal.
 
 1. Seleccione **clientes** en el menú del **centro de Partners** .
 
@@ -171,7 +171,7 @@ Cuando los clientes desean comprar nuevas suscripciones, actualizar las existent
 
 Encuentre respuestas a sus preguntas sobre el contrato de asociados de Microsoft
 
-- [Cómo los proveedores indirectos pueden ayudar a sus revendedores a adoptar el contrato de asociados de Microsoft: preguntas más frecuentes](mpa-indirect-provider-faq.md)
+- [Cómo pueden los proveedores indirectos ayudar a sus revendedores a adoptar Microsoft Partner Agreement: preguntas más frecuentes](mpa-indirect-provider-faq.md)
 
 Para obtener más información acerca de la administración de cuentas y suscripciones de clientes, consulte:
 

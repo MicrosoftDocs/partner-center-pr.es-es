@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474094"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103798"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analice las suscripciones y licencias para ayudarle a impulsar decisiones empresariales y nuevos objetivos
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474094"
 Data impulsa las decisiones empresariales. Use las métricas de la página de **análisis de licencias y licencias** para identificar sus éxitos y áreas que requieren más atención. Use esta información a medida que planee nuevos objetivos empresariales.
 
 **Ingresos por TTM de CSP (USD)**: esta métrica representa los ingresos por factura de CSP agregados (USD) para los doce meses finales (TTM) de las cuentas de ubicación de asociados y la cuenta global de socio comercial (PGA) a la que está asociada esta cuenta de CSP. Si tiene otras cuentas de CSP con un formato PGA diferente, debe iniciar sesión en cada una de ellas para ver los ingresos de TTM agregados correspondientes.  Haga clic en el vínculo detalles de la descarga para obtener un desglose de los ingresos de TTM (USD) por identificador de MPN.
+
+>[!NOTE]
+>Los precios de las divisas locales (comercio FX heredado) en el mercado comercial se administran entre el 5 y el 5% de los dólares estadounidenses. La tasa de intercambio de Comercio (FX) heredada es diferente de las tasas de facturación de FX usadas por Azure en la experiencia de comercio moderno. Las tarifas de FX de facturación de comercio moderno se basan en las tarifas de Microsoft P&L (tasas FX de Reuters de la fuente de tesorería). Las tarifas heredadas de Commerce FX son confidenciales de Microsoft.
+
 
 El resto del informe puede dinamizar en función de los siguientes productos:
 
@@ -82,6 +86,8 @@ Estamos realizando el seguimiento de las siguientes métricas:
 **Suscripciones de prueba que acaban en 30 días**  
 
  - Lista de las pruebas que se iniciaron, donde la fecha de finalización es de 30 días y no hay ninguna fecha de inicio de pago asociada a la suscripción.  
+
+
 
 ## <a name="next-steps"></a>Pasos siguientes
 

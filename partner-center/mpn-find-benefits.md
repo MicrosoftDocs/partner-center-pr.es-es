@@ -9,20 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812839"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132985"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Busque sus ventajas Microsoft Partner Network. 
 
-### <a name="applies-to"></a>Se aplica a
-
-- Centro de partners
-
-### <a name="appropriate-roles"></a>Roles adecuados
+**Roles adecuados**
 
 - Administrador de partners de MPN
 - Administrador global
@@ -45,7 +41,7 @@ Como miembro de Microsoft Partner Network, su empresa tiene acceso a muchas de l
    - Suscripciones de Visual Studio
    - Ventajas técnicas
    - Comercialización
-   - Recompensas de Marketplace
+   - Marketplace Rewards
    - Generador de logotipos
 
 3. Al expandir (+) una ventaja, encontrará información adicional para ayudarle a activar la ventaja específica.

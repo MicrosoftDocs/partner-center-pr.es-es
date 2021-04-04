@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390652"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132730"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Compatibilidad con varios canales: uso de otros socios para admitir las suscripciones de clientes adquiridas en otro lugar
 
 **Se aplica a**
 
-- Centro de partners
-- Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para la nube de Microsoft Government
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de ventas
 
 La característica de varios canales del centro de Partners admite escenarios en los que un cliente desea contratar a un socio para que administre y admita una suscripción que haya adquirido en otro lugar. La compatibilidad con varios canales se aplica cuando el cliente:

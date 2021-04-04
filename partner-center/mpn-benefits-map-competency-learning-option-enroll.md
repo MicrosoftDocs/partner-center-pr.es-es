@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756131"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133053"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Usar el centro de partners para inscribirse como asociado de Microsoft Learning
 
 **Roles adecuados**
 
 - Administrador de partners de MPN
-- Administrador de cuentas MPN
+- Administrador de cuentas
 
 En este artículo se describen las distintas formas en que un asociado en el Microsoft Partner Network puede inscribirse en el programa de asociados de aprendizaje.
 
@@ -50,7 +50,7 @@ Aprendizaje Action Pack es la entrada de nivel básico en el programa de asociad
 
 Learning Action Pack es compatible con los asociados que desean ofrecer servicios de aprendizaje, ofertas o descuentos en Marketplace de cursos, y ventajas para ayudar a los asociados a ser expertos en varias líneas de productos de Microsoft.
 
-Los asociados que no son de aprendizaje pueden adquirir los cursos de aprendizaje automático a precio completo solo para cursos internos. Si desea ofrecer el contenido fuera de su organización, necesita un Microsoft Certified Trainer (1 MCT) y tendrá que registrarse para obtener la Action Pack de aprendizaje.
+Los asociados que no son de aprendizaje pueden adquirir los cursos de aprendizaje automático a precio completo solo para cursos internos. Si desea ofrecer el contenido fuera de su organización, necesita un Microsoft Certified Trainer (uno MCT) y tendrá que registrarse para obtener la Action Pack de aprendizaje.
 
 Una vez que llegue a los KPI necesarios, puede completar los requisitos adicionales y tener la opción de actualizar a una opción de aprendizaje Silver/Gold.
 
@@ -109,7 +109,7 @@ Póngase en contacto con el [soporte técnico de Frontline](https://partner.micr
 
 Los informes de KPI se actualizan una vez al mes durante la mitad del mes. La idoneidad de la renovación del programa de aprendizaje se mide para los KPI obtenidos durante los 12 meses anteriores de actividad de rendimiento, según la fecha de aniversario. Por ejemplo, a partir del 15 de enero de 2020, se mostrarán los datos del KPI durante el período comprendido entre el 2019 de enero y el 2019 de diciembre. Si la factura tenía fecha 2020 de enero, los KPI correspondientes serían visibles a partir del 15 de febrero de 2019. **No se aceptarán las confirmaciones de pedidos y los informes de asociados.** Solo se aceptarán las facturas reales.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. ¿Un entrenamiento de un día equivale a 1 KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. ¿Un entrenamiento de un día equivale a un KPI?
 
 La reunión de un KPI no se refiere a la duración del entrenamiento. Para obtener más información sobre cómo se miden los KPI, consulte los ejemplos de rendimiento en la [Guía de inscripción de asociados de aprendizaje](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

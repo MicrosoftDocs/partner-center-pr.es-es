@@ -1,19 +1,19 @@
 ---
 title: 'Facturación del operador móvil: Microsoft Store'
 description: El Microsoft Store ofrece la facturación del operador móvil como método de pago para los operadores móviles que admiten esta funcionalidad.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, operadores móviles, facturación móvil, facturación de operadores móviles
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335757"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178823"
 ---
 # <a name="mobile-operator-billing"></a>Facturación de operadores de telefonía móvil
 
@@ -29,23 +29,25 @@ Estamos trabajando con los operadores de telefonía móvil para ampliar la dispo
 
 Los siguientes operadores móviles admiten actualmente la facturación de operadores móviles.
 
-| País/región       | Operadores de telefonía móvil                                        |
+| País/región       | Operadores móviles                                        |
 |----------------------|---------------------------------------------------------|
 | Australia            | Optus                                                   |
 | Austria              | A1 Telekom, Hutchison 3G Austria, T-Mobile/tele. ring  |
 | Bélgica              | Base, Proximus                                          |
 | Canadá               | Telus                                                   |
-| Chequia              | T-Mobile                                                |
+| Chequia              | T-Mobile, Vodafone, O2                                  |
 | Dinamarca              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finlandia              | DNA, Elisa                                              |
 | Francia               | Naranja                                                  |
 | Alemania              | O2, Telekom Deutschland, Vodafone                       |
 | Hungría              | Telenor                                                 |
-| Italia                | Tre, viento                                               |
+| Italia                | Tre, viento, Vodafone                                     |
+| Corea                | SK Telecom                                              |
 | Malasia             | Digi                                                    |
-| Países Bajos          | KPN/Telfort                                           |
+| Países Bajos          | KPN/Telfort, Vodafone                                 |
 | Noruega               | Telenor/Talkmore, Telia/OneCall                     |
-| Polonia               | Naranja, reproducir                                            |
+| Polonia               | Naranja, reproducir, T-Mobile                                  |
+| Arabia Saudí         | STC                                                     |
 | Singapur            | M1 limitado, StarHub                                     |
 | Eslovaquia             | Telekom eslovaco                                          |
 | Sudáfrica         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Los siguientes operadores móviles admiten actualmente la facturación de operad
 | Turquía               | Turkcell                                                |
 | Emiratos Árabes Unidos | Etisalat                                                |
 | Estados Unidos        | Sprint, Verizon                                         |
-| Reino Unido       | 3 RU, EE, O2, Vodaphone                                 |
+| Reino Unido       | 3 RU, EE, O2, Vodafone                                 |

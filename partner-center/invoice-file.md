@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Comprenda los campos del archivo de factura para la facturación del centro de Partners. Se incluyen los campos y las definiciones de todos los campos de factura y los campos de cargos de un solo tiempo.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556300"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178908"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Descripción de los campos de factura de facturación del centro de Partners
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Administrador de facturación
 - Agente del departamento de soporte técnico
 
@@ -33,7 +35,7 @@ Los siguientes campos aparecen en los archivos de factura.
 | ----- | ---------- |
 | US FEIN | El número de identificación de la empresa federal (FEIN). Este es el número de identificación de impuesto federal de Estados Unidos. |
 | Número de cliente | Su número de cliente. |
-| Dirección de facturación | La dirección a la que enviamos tu factura. Puede cambiar el nombre o la dirección de la empresa en el perfil de facturación del centro de Partners. |
+| Dirección de facturación | La dirección a la que enviamos tu factura. Puede cambiar el nombre y la dirección de la empresa en el perfil de facturación del centro de Partners. |
 | Cargos basados en licencias | Los cargos fijos mensuales o anuales de las licencias basadas en uso compradas, facturadas por adelantado del servicio. Este número es la suma de todos los cargos de la columna de **subtotal** (columna **T**) del archivo de conciliación basado en licencias. |
 | Cargos basados en el uso | El uso de Azure. Esto incluye nuevos servicios o aplicaciones habilitados y usados durante el período de facturación. Este número es la suma de todos los cargos de la columna **PretaxCharges** (columna **Z**) del archivo de conciliación basado en el uso. |
 | Descuentos | Descuento que el cliente recibe del precio normal de la suscripción. Este número se muestra como una *cantidad plana*, no como un precio por unidad o licencia. |
@@ -63,6 +65,6 @@ Los campos siguientes solo se aplican a **cargos** únicos en el centro de Partn
 | Cantidad | El número de productos (como reservas) adquiridos. |
 | Precio unitario | Precio por producto (por ejemplo, una reserva). |
 | Descuentos | Cualquier descuento aplicable. |
-| Importe de impuestos previos | Subtotal de las compras antes de los impuestos. |
+| Importe de impuestos previos | Subtotal de las compras anteriores a los impuestos. |
 | Impuestos de ventas | Importe de los impuestos. |
 | Total | Importe total que se va a pagar. |

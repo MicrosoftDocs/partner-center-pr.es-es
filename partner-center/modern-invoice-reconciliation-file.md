@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712263"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103781"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compra única de CSP
 
@@ -51,8 +51,8 @@ Para obtener más información sobre los archivos de conciliación, vea [usar lo
 | PublisherId | Identificador único que usa el centro de partners para identificar al publicador. | *NA* |
 | SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. Esta columna es un campo idéntico a Nombredeoferta. | *Plan de Azure* |
 | SubscriptionId | Identificador único para una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. Tenga en cuenta que este identificador no es el mismo que el identificador de suscripción en la consola de administración de socios comerciales. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | La fecha en que el centro de Partners cobra la cuota de suscripción. Si la suscripción se compra con un período de facturación anual y un plan de facturación mensual, en el primer archivo de conciliación, este es el día en el que se adquiere la suscripción. A partir del siguiente archivo de conciliación, se incrementará en 30 días. | *9/1/2020* |
-| ChargeEndDate | Final del ciclo de facturación de la suscripción. Si la suscripción se compra con un período de facturación anual y un plan de facturación mensual, en el primer archivo de conciliación, este es el trigésimo día después de la compra de la suscripción. A partir del siguiente archivo de conciliación, se incrementará en 30 días. | *30/09/2020* |
+| ChargeStartDate | Fecha de inicio del período de facturación de una suscripción. | *9/1/2020* |
+| ChargeEndDate | Fecha de finalización del período de facturación de una suscripción. | *30/09/2020* |
 | TermAndBillingCycle | El compromiso de duración para continuar con la suscripción en el momento de la compra. | *Datos almacenados (GB/mes)* |
 | EffectiveUnitPrice | El precio unitario prorrateado para calcular el costo del ciclo de facturación. Los descuentos, los ajustes de los días de facturación y otros factores determinan el precio por unidad vigente. Para obtener más información, consulte [cálculo del precio unitario en vigor](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Tipo de unidad en la que se carga el medidor. | *1 GB/mes* |
