@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215907"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633835"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre el plan de Azure para clientes y acceda a los servicios de Azure más recientes con tarifas de pago por uso
 
 **Roles adecuados**
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de ventas
 
 Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners de CSP podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Un partner puede tener varias suscripciones de Azure en un plan de Azure. 
@@ -79,7 +79,7 @@ Las reservas de Azure deben estar asociadas con un plan de Azure activo. Elige e
 >Si el cliente aún no tiene un plan de Azure activo, selecciona Azure para agregar uno ahora. Para obtener más instrucciones, consulta [Comprar reservas de Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Actualmente, el ámbito de la reserva solo se puede establecer en **Compartido** en el Centro de partners. Para seleccionar el ámbito de una sola suscripción o actualizar el ámbito de suscripción compartida a suscripción única, vaya al **portal de administración de Microsoft Azure** mediante las siguientes instrucciones. 
+>Actualmente, el ámbito de la reserva solo se puede establecer en **Compartido** en el Centro de partners. Para seleccionar el ámbito de una sola suscripción o actualizar el ámbito de suscripción compartida a suscripción única, vaya al **portal de administración de Microsoft Azure** mediante las siguientes instrucciones. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Configuración de reservas de ámbito compartido":::
 

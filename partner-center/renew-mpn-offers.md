@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624143"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549114"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renueve las ofertas de MPN para las competencias y las especializaciones avanzadas durante la ventana de renovación.
-
-### <a name="applies-to"></a>Se aplica a
-
-- Centro de partners
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respuesta a la COVID-19: actualización de Microsoft Partner Network
 
@@ -42,7 +38,7 @@ Si renuevas durante la ventana de renovación, tu nueva fecha de aniversario ser
 
 4. Para beneficiarte de esta oferta, ve a **Ofertas de suscripción**. Es posible que debas pagar la tarifa de competencia para completar el proceso, en función del estado de compra o renovación de la competencia.
 
-Para beneficiarte de la extensión, debes haber migrado la pertenencia de Partner Membership Center (PMC) al Centro de partners para renovar la competencia y pagar la tarifa. Si no has trasladado tu pertenencia, [obtén más información](prepare-pmc-pc-migration.md) y [realiza la transición](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoy mismo.  
+Para beneficiarte de la extensión, debes haber migrado la pertenencia de Partner Membership Center (PMC) al Centro de partners para renovar la competencia y pagar la tarifa. Si no ha trasladado su pertenencia, [obtenga más información](prepare-pmc-pc-migration.md) y [haga la transición](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoy mismo.  
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756495"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549267"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
-**Se aplica a**
-
-- Oportunidades de venta conjunta
-- Ofertas privadas
-
-La página **Oportunidades de venta conjunta** de la sección **Análisis** de las referencias le permite ver el rendimiento de las referencias. Revisa estas métricas periódicamente para identificar tendencias o áreas que requieran atención, y empieza a avanzar hacia tus objetivos empresariales.
+La página **Oportunidades de venta conjunta** de la sección **Análisis** de las referencias le permite ver cómo van las referencias. Revisa estas métricas periódicamente para identificar tendencias o áreas que requieran atención, y empieza a avanzar hacia tus objetivos empresariales.
 
 Para ver las conclusiones de las oportunidades de venta conjunta, en el menú del Centro de partners, vaya a **Referencias > Análisis > Oportunidades de venta conjunta**.
 
@@ -32,9 +27,9 @@ Para ver las conclusiones de las oportunidades de venta conjunta, en el menú de
 
 ## <a name="apply-filters"></a>Aplicación de filtros
 
-Cerca de la parte superior de la página **Oportunidades de venta conjunta**, puede seleccionar el período para el que quiere mostrar los datos. La selección predeterminada es **3M** (3 meses), pero también puede optar por mostrar los datos de un período de 6 meses o 1 año. También puede seleccionar la opción **Personalizado** para ver los datos de todas las referencias para un período de tiempo específico.
+Cerca de la parte superior de la página **Oportunidades de venta conjunta**, puede seleccionar el período para el que quiere mostrar los datos. La selección predeterminada es **3M** (3 meses), pero también puede optar por mostrar datos de 6 meses o 1 año. También puede seleccionar la opción **Personalizado** para ver los datos de todas las referencias para un período de tiempo específico.
 
-Puede hacer clic en el botón Filtros para abrir el panel que le permite filtrar todos los datos de esta página por Nombre del cliente, País, Tipo de oferta, Dirección de la oferta, Nombre de la solución y Estado. A continuación se indican los detalles de estos filtros.
+Puede seleccionar el botón **Filtros** para abrir el panel que le permite filtrar todos los datos de esta página por Nombre del cliente, País, Tipo de oferta, Dirección de la oferta, Nombre de la solución y Estado. A continuación se indican los detalles de estos filtros.
 
 - **Nombre del cliente**: el valor predeterminado es **Todos**, pero puedes limitar los datos a uno o varios clientes que seleccione.
 - **País**: el valor predeterminado es **Todos**, pero puede limitar los datos a uno o varios países de clientes que seleccione.
@@ -43,11 +38,11 @@ Puede hacer clic en el botón Filtros para abrir el panel que le permite filtrar
 - **Nombre de la solución**: el valor predeterminado es **Todos**, pero puede elegir limitar los datos a las referencias que contengan una o varias soluciones que seleccione.
 - **Estado**: el valor predeterminado es **Todos**, pero puede elegir limitar los datos a las referencias que contengan uno o varios tipos de estado de referencia, como aceptada, rechazada, expirada, perdida y ganada, que seleccione.
 
-La información de todos los gráficos que aparecen a continuación reflejará el intervalo de fechas y los filtros que hayas seleccionado, excepto según se indique a continuación. Algunas secciones también te permiten aplicar filtros adicionales, como el filtrado a una solución específica.
+La información de todos los gráficos que aparecen a continuación reflejará el intervalo de fechas y los filtros que hayas seleccionado, excepto según se indique a continuación. Algunas secciones también le permiten aplicar filtros adicionales, como el filtrado a una solución específica.
 
 ## <a name="referrals-summary"></a>Resumen de las referencias
 
-Esta tarjeta muestra una visión general del rendimiento de las oportunidades de venta conjunta.
+Esta tarjeta muestra información general de cómo van las oportunidades de venta conjunta.
 
 En el gráfico se muestra el número total de ofertas, el número que se ganó y se perdió y el volumen total de las ofertas (en USD) para el período de tiempo seleccionado.
 
@@ -63,7 +58,7 @@ En esta sección se muestra un indicador visual de cómo se mueven las ofertas d
 
 ## <a name="deals-by-geography"></a>Ofertas por zonas geográficas
 
-En esta sección se muestran los países o regiones de donde provienen las ofertas, junto con los detalles de cada país o región. Hay una vista de tabla de los detalles de la oferta para cada país, junto con una vista de mapa de todos los países. Puede hacer clic en un país específico de la tabla o en la vista del mapa para hacer zoom en un país específico.
+En esta sección se muestran los países o regiones de donde provienen las ofertas, junto con los detalles de cada país o región. Hay una vista de tabla de los detalles de la oferta para cada país, junto con una vista de mapa de todos los países. Puede seleccionar un país específico de la tabla o seleccionar la vista del mapa para hacer zoom en un país específico.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagen que muestra la distribución geográfica de las referencias.":::
 
@@ -94,7 +89,7 @@ Las tres dimensiones que puede elegir para comparar datos son
 - Mercados
 - Soluciones
 
-Cuando se selecciona Tipo de oferta, tiene la opción de comparar el rendimiento de las referencias respecto a las oportunidades de venta conjunta y las ofertas privadas. Para ambos mercados y soluciones, puede elegir hasta tres opciones diferentes para comparar su rendimiento. El primer gráfico, que es un gráfico de barras, incluirá los datos presentados con una tendencia mes en mes basada en el control dinámico principal, que es el volumen o el valor de las ofertas ganadas. También hay un gráfico circular a la derecha del gráfico de barras, que muestra la distribución por porcentaje de los mismos datos.
+Cuando se selecciona un tipo de oferta, puede comparar el rendimiento de las referencias respecto a las oportunidades de venta conjunta y las ofertas privadas. Para ambos mercados y soluciones, puede elegir hasta tres opciones diferentes para comparar su rendimiento. El primer gráfico, que es un gráfico de barras, incluirá los datos presentados con una tendencia mes en mes basada en el control dinámico principal, que es el volumen o el valor de las ofertas ganadas. También hay un gráfico circular a la derecha del gráfico de barras, que muestra la distribución por porcentaje de los mismos datos.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagen que muestra la sección de comparación.":::
 
