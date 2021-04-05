@@ -1,6 +1,6 @@
 ---
-title: 'Ventajas de MPN: preventas técnicas e implementación (TPD)'
-description: Más información sobre las ventajas de Microsoft Partner Network (MPN) para servicios técnicos de preventa y de implementación (TPD)
+title: 'Ventajas de Microsoft Partner Network: Preventa técnica e implementación (TPD)'
+description: Más información sobre las ventajas de Microsoft Partner Network (MPN) para servicios de preventa técnica e implementación (TPD)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.topic: article
@@ -8,70 +8,72 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
-ms.translationtype: MT
+ms.date: 03/30/2021
+ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768727"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086658"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore las preventas técnicas y los servicios de implementación (TPD) 
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore los servicios de preventa técnica e implementación 
 
-Obtenga información sobre las ventajas de Microsoft Partner Network (MPN) que obtiene para los servicios de implementación y las preventas técnicas, incluidas las consultas, la asistencia de preventas, las horas de asesoramiento y mucho más.
+Obtenga información sobre las ventajas de Microsoft Partner Network que puede conseguir con los servicios de preventa técnica e implementación, entre las que cabe destacar, las consultas, la asistencia de preventa, las horas de asesoramiento, etc.
 
 ## <a name="develop-your-technical-know-how"></a>Desarrollo de conocimientos técnicos
 
-Use los servicios de implementación y preventa (TPD) para obtener consultas de uno a uno personalizadas remotas con el fin de crear sus capacidades técnicas más rápido para aumentar las ventas, implementar de forma más eficaz y acelerar el desarrollo de aplicaciones. [Más información](https://aka.ms/TPD).
+Use los servicios de preventa técnica e implementación para conseguir consultas individuales y personalizadas remotas que te permitan mejorar tus capacidades técnicas más rápidamente y aumentar las ventas, implementar de forma más eficaz y acelerar el desarrollo de aplicaciones. [Más información](https://aka.ms/TPD).
 
-Se admiten todas las soluciones híbridas o en la nube, además de Windows 10, Windows Server y Microsoft SQL Server local. 
+Se admiten todas las soluciones híbridas o en la nube, además de Windows 10, Windows Server y Microsoft SQL Server locales. 
 
-- Los asociados con ofertas Gold, Silver y Action Pack pueden usar las horas de asesoramiento para asociados para las consultas. 
+- Los partners con ofertas de los paquetes Gold, Silver y Action pueden usar las horas de asesoría de partners para realizar consultas. 
 
-- Los asociados Gold y Silver reciben asistencia ilimitada de preventas. 
+- Los partners Gold y Silver disfrutan de asistencia técnica de preventa ilimitada. 
 
-- Los miembros de la red pueden adquirir [Action Pack](https://partner.microsoft.com/membership/action-pack) para recibir cinco horas de consulta.  
+- Los miembros de la red pueden adquirir [Action Pack](https://partner.microsoft.com/membership/action-pack) para recibir cinco horas de asesoría.  
 
-|     Tipo de oferta    | Número de horas de consulta |   Preventas técnicas   |
+|     Tipo de oferta    | Número de horas de asesoría |   Preventa técnica   |
 |:-----------------:|:------------------------:|:----------------------:|
 |        Oro       |            50            |        Sin límite       |
 |       Plata      |            20            |        Sin límite       |
-| Action Pack (MAPS) |             5            | Deducción de horas de asesoría |
+| Action Pack(MAPS) |             5            | Deducción de horas de asesoría |
 
-Inicie sesión con cualquier cuenta de usuario asociada a MPN para **[crear una solicitud de servicios de implementación y Preventas (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (no se requiere la activación de la ventaja técnica).
+Inicie sesión con cualquier cuenta de usuario asociada a MPN para **[crear una solicitud de servicios de preventa técnica e implementación (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (no se requiere la activación de la ventaja técnica).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Ventajas técnicas de preventa y de implementación" border="false":::
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Ventajas técnicas de preventa y de implementación" :::
 
-## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Enviar una solicitud de servicios de implementación y preventa 
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Envío de una solicitud de servicio de preventa técnica e implementación 
 
-Sus beneficios técnicos de preventas y servicios de implementación (TPD) se activan automáticamente y están disponibles para todos los usuarios asociados a MPN. 
+Las ventajas de los servicios de preventa técnica e implementación se activan automáticamente y están disponibles para todos los usuarios asociados a MPN. 
 
-Para ver las ventajas técnicas del centro de Partners:
+Para ver las ventajas técnicas en el Centro de partners:
 
-1. Inicie sesión con la cuenta asociada a MPN en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. 
-
-   > [!NOTE]
-   > Si su cuenta solo está asociada a CSP y no está asociada a MPN, verá un mensaje de error que indica que no está autorizado para esta acción. Debe tener una cuenta asociada a MPN.
-
-2. Expanda **beneficios** en el menú de navegación izquierdo, seleccione **ventajas técnicas**. Aparece la página ventajas técnicas con una lista de los beneficios de soporte técnico disponibles para las ofertas de suscripción Gold, Silver o Microsoft Action Pack. 
+1. Inicie sesión con la cuenta asociada a MPN en el [panel](https://partner.microsoft.com/dashboard)del Centro de partners. 
 
    > [!NOTE]
-   > Si no tiene ninguna oferta de pertenencia activa, verá el mensaje "parece que todavía no tiene ninguna ventaja". Si su empresa tiene ofertas de pertenencia activa, pero no puede verlas, es posible que haya iniciado sesión con una cuenta incorrecta. Para comprobar su cuenta, haga clic en el icono de la **cuenta** en la parte superior derecha de la página y haga clic en **iniciar sesión con otra cuenta** (si es necesario).
+   > Si su cuenta solo está asociada al Proveedor de soluciones en la nube de Microsoft y no está asociada a MPN, recibirá un mensaje de error que indica que no está autorizado para realizar esta acción. Debe tener una cuenta asociada a MPN.
 
-3. Seleccione **[Enviar solicitud de preventas técnicas e implementación](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.
-
-4. Use **Buscar productos** y escriba el producto correspondiente. Si obtiene demasiados resultados, puede filtrar según el área de la solución o examinar los temas para filtrar cada nivel de taxonomía.
+2. Expanda **Beneficios** en el menú de navegación izquierdo y seleccione **Ventajas técnicas**. Aparece la página de las ventajas técnicas con una lista de las ventajas de soporte técnico disponibles para las ofertas Gold, Silver o Microsoft Action Pack. 
 
    > [!NOTE]
-   > Si necesita una consulta en la nube como parte del plan de soporte técnico de ASfP o PSfP, póngase en contacto con el administrador de cuentas de soporte técnico (SAM).
+   > Si no tiene ninguna oferta de pertenencia activa, verá el mensaje "Parece que aún no tiene ninguna ventaja". Si su empresa tiene ofertas de pertenencia activas, pero no puede verlas, es posible que haya iniciado sesión con una cuenta incorrecta. Para comprobar su cuenta, haga clic en el icono de la **cuenta** en la parte superior derecha de la página y haga clic en **Iniciar sesión con otra cuenta** (si es necesario).
 
-5. **Rellene el formulario y envíelo.** Asegúrese de incluir el código de marcado internacional completo con su número de teléfono. En el caso de los países que cubren varias zonas horarias, por ejemplo, EE. UU., Rusia, indican la zona horaria y las horas de trabajo preferidas.
+3. Seleccione **[Enviar solicitud técnica de preventas e implementación](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** .
+
+4. Use **Buscar productos** y escriba el producto pertinente. Si obtiene demasiados resultados, puede filtrar según el área de la solución o examinar los temas para filtrar por cada nivel de la taxonomía.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Ventajas de preventa técnica e implementación: Buscar productos":::
+
+   > [!NOTE]
+   > Si necesita una consulta en la nube como parte del plan de soporte técnico ASfP o PSfP, póngase en contacto con el administrador de cuentas de soporte técnico (SAM).
+
+5. **Rellene el formulario y envíelo**. No olvide incluir el código de marcado internacional completo con su número de teléfono. En el caso de los países que cubren varias zonas horarias, por ejemplo, EE. UU. o Rusia, indique la zona horaria y las horas de trabajo preferidas.
 
    > [!IMPORTANT]
-   > Asegúrese de seleccionar el país o la región correspondiente y el idioma, ya que determinan dónde se enruta la solicitud.
+   > Asegúrese de que selecciona el país o región correspondiente y el idioma, ya que estos datos determinan dónde se enruta la solicitud.
 
-6. La página Confirmación muestra el número y la descripción de la solicitud de soporte técnico. También recibirá un correo electrónico de confirmación del centro de Partners con el número de caso.
+6. La página de confirmación muestra el número y la descripción de la solicitud de soporte técnico. También recibirá un correo electrónico de confirmación del Centro de partners con el número del caso.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Administre sus ventajas y ofertas de Microsoft Partner Network](manage-your-partner-network-benefits.md)
+[Administración de las ventajas y ofertas de Microsoft Partner Network](manage-your-partner-network-benefits.md)
