@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000559"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441479"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Preguntas más frecuentes sobre el centro de partners para Microsoft Cloud para el gobierno de EE. UU.
 
@@ -27,11 +27,11 @@ Use estas preguntas más frecuentes para obtener más información sobre el prog
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>¿Qué es Microsoft Cloud for US Government?
 
-Diseñado desde cero para el gobierno de los Estados Unidos, Microsoft Cloud para el gobierno permite que los clientes del sector público de los Estados Unidos (desde grandes agencias federales grandes hasta ayuntamientos de pueblos pequeños) elijan entre una variedad de servicios de informática en la nube. Para satisfacer mejor las necesidades específicas de sus clientes, Microsoft ha realizado una inversión importante en los centros de datos y está dedicada a cumplir con las directivas federales y de estado, las exigencias y los requisitos.
+Diseñado para el gobierno de EE. UU. desde cero, Microsoft Cloud para el gobierno de EE. UU. permite a los clientes del sector público en el Estados Unidos, desde agencias federales grandes hasta gobiernos de la ciudad, elegir entre una amplia gama de servicios informáticos en la nube. Para satisfacer mejor las necesidades específicas de sus clientes, Microsoft ha realizado una inversión importante en los centros de datos y está dedicada a cumplir con las directivas federales y de estado, las exigencias y los requisitos.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>¿Quién puede participar en el programa CSP de Microsoft Cloud for US Government?
 
-Los asociados en el Estados Unidos que atienden a entidades gubernamentales locales, estatales y federales de EE. UU. en sus capacidades gubernamentales son válidas para el programa CSP de Microsoft Government Cloud. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government. Para poder participar, necesitas demostrar que trabajas con los clientes del gobierno. El proceso de registro en el programa CSP en Microsoft Cloud for US Government se ha aumentado para capturar datos adicionales para realizar la validación. Los tipos de prueba pueden incluir, pero no se limitan a, números de contrato de gobierno y una carta de patrocinio del cliente del gobierno.
+Los asociados en el Estados Unidos que atienden a entidades gubernamentales locales, estatales y federales de EE. UU. en sus capacidades gubernamentales son válidas para el programa CSP para Microsoft Cloud para el gobierno de EE. UU. Microsoft cuenta con un estricto programa de validación para determinar la idoneidad antes de que los asociados puedan acceder a Microsoft Cloud para el gobierno de EE. UU. Para poder participar, necesitas demostrar que trabajas con los clientes del gobierno. El proceso de registro en el programa CSP en Microsoft Cloud for US Government se ha aumentado para capturar datos adicionales para realizar la validación. Los tipos de prueba pueden incluir, pero no se limitan a, números de contrato de gobierno y una carta de patrocinio del cliente del gobierno.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>¿Son los precios de cliente los mismos que para CSP Commercial?
 
@@ -43,13 +43,13 @@ Sí. El modelo de descuento de asociados para el programa CSP para Microsoft Clo
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP Commercial es un programa de partners ya existente. ¿En qué se diferencia del programa CSP de Microsoft Government Cloud?
 
-El programa CSP de Microsoft Government Cloud es diferente del programa CSP Commercial en las siguientes áreas:
+El programa CSP para Microsoft Cloud para el gobierno de EE. UU. es diferente de CSP Commercial en las siguientes áreas:
 
-- Elegibilidad: el programa CSP de Microsoft Government Cloud solo está disponible para los partners en Estados Unidos que sirven entidades gubernamentales locales, estatales y federeles de los Estados Unidos en sus capacidades gubernamentales. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government.
+- Elegibilidad: el programa CSP para Microsoft Cloud para el gobierno de EE. UU. solo está disponible para los asociados de Estados Unidos que prestan servicio a entidades gubernamentales locales, estatales y federales de EE. UU. en sus capacidades gubernamentales. Microsoft tiene un estricto programa de validación para determinar quién puede participar antes de que los partners puedan acceder a la nube de Microsoft Government.
 
 - Incorporación: los partners deben incorporarse al programa CSP de Microsoft Cloud for US Government independientemente del programa CSP Commercial.
 
-- Disponibilidad del producto: los servicios de Azure Government y basados en licencia como Office 365, Enterprise Mobility + Security y Dynamics 365 están disponibles en el programa CSP de Microsoft Government Cloud.
+- Disponibilidad del producto: los servicios de Azure Government y basados en licencia como Office 365, Enterprise Mobility + Security y Dynamics 365 están disponibles en el programa CSP para Microsoft Cloud para el gobierno de EE. UU.
 
 - Contrato: El contrato de Revendedor de nube de Microsoft (MCRA) se ha actualizado para reflejar las condiciones únicas del gobierno.
 
@@ -93,7 +93,7 @@ Existen dos diferencias entre el MCDA para Microsoft Cloud for US Government y e
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>¿Cuáles son las calificaciones para vender Microsoft Cloud for US Government?
 
-Los criterios de cualificación para vender el programa CSP de Microsoft Government Cloud son los mismos que para CSP Commercial, abierto para partners y revendedores indirectos. No es necesario ser designado de nuevo para ser un revendedor indirecto del programa CSP de Microsoft Government Cloud si estás aprobado como revendedor indirecto del programa CSP en Commercial.
+Los criterios de cualificación para vender el programa CSP por Microsoft Cloud para el gobierno de EE. UU. son los mismos que los criterios de cualificación de los proveedores de servicios criptográficos de CSP, abiertos tanto a los socios directos como a los revendedores indirectos No es necesario que se vuelva a definir para que sea un revendedor indirecto para el programa CSP por Microsoft Cloud para el gobierno de EE. UU. Si está aprobado como revendedor indirecto para CSP comerciales.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Soy un partner existente. ¿Qué tengo que hacer para vender Microsoft Cloud for US Government?
 

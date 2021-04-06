@@ -3,22 +3,23 @@ title: Archivos de conciliación de uso clasificados diariamente
 ms.topic: article
 ms.date: 06/12/2020
 description: Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners. Incluye descripciones de campos específicos en el archivo de conciliación.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712246"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441904"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Obtenga información sobre cómo leer archivos de conciliación de uso clasificados diariamente en el centro de Partners
 
 **Se aplica a**
 
-- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**

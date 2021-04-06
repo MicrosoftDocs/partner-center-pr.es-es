@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000459"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441445"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Uso de las API para las notificaciones de servicio automatizadas para Azure Insights & las comunicaciones de servicio de Office 365
-
-**Se aplica a**
-
--  Centro de partners
 
 **Roles adecuados**
 
 - Agente de administrador
-- Global 
+- Administrador global
 - Agente de ventas
 - Agente del departamento de soporte técnico
 
@@ -33,11 +29,9 @@ Office 365 y Microsoft Azure proporcionan una API que los partners pueden usar p
 
 Estas API están disponibles para los desarrolladores:
 
-[API de comunicación de servicio de Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [API de comunicación de servicio de Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- Referencia de la [API](/rest/api/monitor/) de REST de Azure Insights
 
+ 
 
-Referencia de la [API](/rest/api/monitor/) de REST de Azure Insights
-
- 
-
- 
+ 

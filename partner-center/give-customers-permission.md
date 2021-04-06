@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000469"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441309"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dar permiso a los clientes en el centro de partners para comprar sus propios productos o servicios
-
-**Se aplica a**
-
-- Centro de partners
-- Partners del programa CSP
 
 **Roles adecuados**
 
@@ -78,7 +73,7 @@ Ahora tiene la opción de comprar reservas de Azure en nombre de sus clientes, y
 
 2. Compruebe que el cliente tiene asignado el rol de **propietario** para esta suscripción.
 
-3. Habilite los permisos de clientes (Active esta característica) para comprar sus propias reservas **de**Azure.
+3. Habilite los permisos de clientes (Active esta característica) para comprar sus propias reservas **de** Azure.
 
 Cada paso aparece a continuación.
 
@@ -103,7 +98,7 @@ Para comprobar que el cliente tiene asignado el rol de **propietario** para una 
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-2. Seleccione **CSP**y luego **clientes** y seleccione el cliente específico.
+2. Seleccione **CSP** y luego **clientes** y seleccione el cliente específico.
 
 3. Seleccione **suscripciones** para ese cliente y busque la suscripción de Azure específica.
 
@@ -119,7 +114,7 @@ Para activar (o desactivar) los permisos del cliente en el centro de Partners:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-2. En el menú de navegación izquierdo, seleccione **CSP**y luego **clientes**. Aparece una lista de clientes.
+2. En el menú de navegación izquierdo, seleccione **CSP** y luego **clientes**. Aparece una lista de clientes.
 
 3. Seleccione un nombre de cliente específico.
 

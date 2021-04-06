@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549182"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441649"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Herramienta de diagnóstico y solicitudes del portal del centro de Partners
 
 **Se aplica a**
 
-- Centro de partners para la nube de Microsoft Government
+- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 

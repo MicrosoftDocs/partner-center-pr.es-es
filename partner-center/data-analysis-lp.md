@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626079"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441887"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Uso de Analytics para obtener más información sobre los ingresos de suscripción
 
@@ -36,9 +36,9 @@ Para planear cómo desarrollar su negocio como CSP es necesario comprender cómo
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Ingresos del CSP de Twelve-Month final (TTM)
 
-Los ingresos del CSP de 12 meses finales representan los ingresos del programa del proveedor de soluciones en la nube finales en USD en un nivel de cuenta global de socio comercial. Los datos se actualizan el 8 de cada mes, para mostrar los ingresos de doce meses finales hasta el mes anterior. Por ejemplo, en el noveno de septiembre de 2020, debería poder ver el TTM durante el período fijo del 2019 de septiembre al 2020 de agosto.
+Los ingresos del CSP de 12 meses finales representan los ingresos del programa del proveedor de soluciones en la nube finales en USD en un nivel de cuenta global de socio comercial. Los datos se actualizan el octavo de cada mes, para mostrar los ingresos de doce meses finales hasta el mes anterior. Por ejemplo, el 9 de septiembre de 2020, debería poder ver el TTM durante el período fijo del 2019 de septiembre al 2020 de agosto.
 
-Los ingresos mostrados en el centro de Partners se calculan para un intervalo de tiempo fijo de doce meses y no se pueden modificar a un período de tiempo más corto.
+Los ingresos mostrados en el centro de Partners se calculan para un intervalo de tiempo fijo de 12 meses y no se pueden modificar a un período de tiempo más corto.
 
 Para ver un desglose de los ingresos en el nivel de cuenta de la ubicación del asociado:
 
@@ -51,14 +51,14 @@ Para ver un desglose de los ingresos en el nivel de cuenta de la ubicación del 
 
 En la mitad inferior de la pantalla se muestra un resumen de las suscripciones. Use los siguientes filtros para ver los detalles de suscripción necesarios:  
 
-1. **Duración** : puede optar por ver el Resumen de suscripción para 
+1. **Duración**: puede optar por ver el Resumen de suscripción para 
 
 - 30D: últimos 30 días
 - 3M: últimos 3 meses
 - 6 M: últimos 6 meses
 - 12M: últimos 12 meses
 
-2. **Tipo de producto** :
+2. **Tipo de producto**:
  
 - Office 365
 - Microsoft 365

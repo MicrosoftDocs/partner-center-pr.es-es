@@ -9,18 +9,17 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545856"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441853"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escale problemas a Microsoft y sepa qué problemas son más adecuados para la extensión de Microsoft.  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Escalar los problemas a Microsoft y saber qué problemas son más adecuados para escalar a Microsoft.  
 
 **Se aplica a**
 
-- Centro de partners
 - Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
@@ -48,7 +47,7 @@ Sin embargo, existen varias categorías de problemas que tendrás que escalar Mi
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-2. En el menú del centro de Partners, seleccione **clientes**y, a continuación, seleccione el cliente que necesita soporte técnico.
+2. En el menú del centro de Partners, seleccione **clientes** y, a continuación, seleccione el cliente que necesita soporte técnico.
 
 3. Seleccione **Administración de servicios** y seleccione **solicitudes de servicio**.
 

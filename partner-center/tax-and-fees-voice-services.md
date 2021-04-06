@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594467"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441496"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impuestos regionales, normativas para los servicios públicos de red telefónica conmutada (PTSN)
 
-**Se aplica a**
-
-- Centro de partners
-- Office 365 partners que transaccionen Microsoft 365 productos de voz
-
 **Roles adecuados**
--    Administrador global
--    Administrador de usuarios
--    Agente de administrador
+
+- Administrador global
+- Administrador de usuarios
+- Agente de administrador
 
 Los servicios de red telefónica conmutada (RTC) públicos en algunas jurisdicciones pueden estar sujetos a requisitos normativos y de impuestos especiales que pueden afectar al pedido y la facturación de los asociados. En el Estados Unidos, incluido el Puerto Rico, los servicios RTC, que incluyen la audioconferencia, los planes de llamada y los créditos de comunicación, están sujetos a los requisitos de impuestos y normativas especiales. En el Estados Unidos y Puerto Rico, Microsoft precios de los servicios RTC como impuestos-inclusivos.  Los impuestos y regulaciones RTC únicos afectarán a los asociados de Office 365 que transaccionan Microsoft 365 productos de voz.  Si un partner marca el precio de un servicio RTC de Microsoft, puede ser responsable del cálculo y de la remesa de impuestos y tasas de RTC.
 
@@ -49,7 +45,7 @@ Office 365 Enterprise E5 presenta el archivo de conciliación como dos elementos
 |**ID_oferta_durable**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Tarifa de ciclo   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Tarifa de ciclo   |2.00   |
 
 **Ejemplo de conciliación de asociados #2**
 

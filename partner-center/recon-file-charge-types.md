@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549233"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441609"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Comprender los distintos tipos de cargos en los archivos de conciliación del centro de Partners
 
 **Se aplica a**
 
-- Centro de partners para la nube de Microsoft Government
+- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
