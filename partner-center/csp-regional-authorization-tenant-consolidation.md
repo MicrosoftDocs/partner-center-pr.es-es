@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006776"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502577"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para Microsoft Cloud for US Government
 
 **Roles adecuados**
 
@@ -46,9 +45,9 @@ Puede consolidar los inquilinos para su empresa. Usa estas instrucciones para co
 
 1. Inicie sesión en el **centro de Partners**  con la cuenta de **transición** (nueva) (aquella en la que va a realizar la transición de los clientes).
 
-2. Seleccione **Clientes**.
+2. Selecciona **Clientes**.
 
-3. Haz clic en **Solicitar una relación de revendedor**. Se le presentará un mensaje de correo electrónico predeterminado para enviarlo a sus clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
+3. Seleccione **solicitar una relación de revendedor**. Se le presentará un mensaje de correo electrónico predeterminado para enviarlo a sus clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
 
 4. **Acción de cliente:** Asegúrate de que todos los clientes activos que deseas migrar visitan esta dirección URL. Al abrir la dirección URL, al cliente se le pedirá que inicie sesión en el portal de Office 365. El cliente iniciará sesión usando el mismo identificador de organización que utilice para acceder a los portales de administración de Azure y de Office 365.
 
@@ -60,7 +59,7 @@ Los clientes aparecerán en la lista de clientes del asociado después de haber 
 
 1. Cuando el cliente haya firmado el contrato, puedes volver a crear sus suscripciones en tu inquilino de partner centralizado.
 
-2. En **centro de Partners** , seleccione **clientes**.
+2. En **centro de Partners**, seleccione **clientes**.
 
 3. Abre el nombre de la compañía del cliente que deseas migrar.
 
@@ -70,7 +69,7 @@ Los clientes aparecerán en la lista de clientes del asociado después de haber 
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
 
-6. Haga clic en **enviar.**
+6. Seleccione **submit (enviar).**
 
    Ahora los servicios se proporcionan al cliente desde la cuenta de partner de **Transición a**.
 
@@ -89,7 +88,7 @@ Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición d
 
 2. Abre al cliente cuyas suscripciones quieras deshabilitar y, a continuación, selecciona la primera oferta que deshabilitar.
 
-3. Establece la suscripción en **suspendida**y, a continuación, haz clic en **enviar**.
+3. Establezca la suscripción en **Suspended** y, a continuación, seleccione **submit (enviar**).
 
    >[!Note]
    >Suspender la suscripción garantiza que no se produzca la facturación.
@@ -102,7 +101,7 @@ Deshabilitar la suscripción de CSP de las cuentas de partner de **Transición d
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migración de suscripciones basadas en uso de Azure
 
-A diferencia de las suscripciones de CSP de Office 365, no es necesario migrar manualmente las suscripciones de CSP basadas en el uso de Azure. Microsoft Azure soporte técnico migrará las suscripciones de Azure, así como todos los servicios o recursos implementados desde la **transición de** las cuentas de revendedores de CSP **a la cuenta** de revendedor de CSP. Durante esta transición, el cliente no experimentará ninguna interrupción del servicio.
+A diferencia de las suscripciones de CSP de Office 365, no es necesario migrar manualmente las suscripciones de CSP basadas en el uso de Azure. Microsoft Azure soporte técnico migrará las suscripciones de Azure y todos los servicios o recursos implementados desde la **transición de** las cuentas de revendedores de CSP a la cuenta de revendedor de CSP a **transición** . Durante esta transición, el cliente no experimentará ninguna interrupción del servicio.
 
 1. Asegúrese de que las cuentas de cliente que tendrán las suscripciones de Azure migradas han aceptado el contrato que se va a asociar a la nueva cuenta **de transición a** CSP.
 
@@ -134,11 +133,11 @@ A diferencia de las suscripciones de CSP de Office 365, no es necesario migrar m
 
 Si usas la **Función de exportación**, puedes capturar las suscripciones que necesites usar en tu nueva estructura consolidada:
 
-1. Haga clic en **clientes** en el centro de partners para ver la lista de clientes. 
+1. Seleccione **clientes** en el centro de partners para ver la lista de clientes. 
 
 2. Abre el nombre del cliente deseado.
 
-3. En la página **Suscripciones**, haz clic en **Exportar suscripciones** para exportar los detalles de las suscripciones a un archivo de Excel.
+3. En la página **suscripciones** , seleccione **exportar suscripciones** para exportar los detalles de las suscripciones a un archivo de Excel.
 
 4. Usa esta lista para volver a crear las suscripciones en el nuevo inquilino consolidado.
 

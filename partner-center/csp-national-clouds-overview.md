@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979573"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502908"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Solicitar la venta en nubes nacionales de Microsoft como parte del programa CSP
 
 **Se aplica a**
 
-- Centro de partners para la nube de Microsoft Government
+- Centro de partners para Microsoft Cloud for US Government
 - Centro de partners para Microsoft Cloud Alemania
-
 
 **Roles adecuados**
 
 - Administrador global
 
-Además de vender a los clientes como parte del programa de proveedores de soluciones en la nube global, los asociados de Microsoft cualificados también pueden vender soluciones en la nube a los clientes en tres nubes nacionales independientes. Las nubes nacionales son instancias físicas y lógicas aisladas de la red de servicios en la nube de la empresa de Microsoft, que están limitadas dentro de los límites geográficos de países específicos y operados por personal local. 
+Además de vender a los clientes como parte del programa de proveedores de soluciones en la nube global, los asociados de Microsoft cualificados también pueden vender soluciones en la nube a los clientes en tres nubes nacionales independientes. Las nubes nacionales son instancias físicas y lógicas aisladas de la red de servicios en la nube de la empresa de Microsoft, que están limitadas dentro de los límites geográficos de países específicos y operados por personal local.
 
 Para obtener más información acerca de las ofertas nacionales de nube de Microsoft, consulte [nubes nacionales de Microsoft](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 

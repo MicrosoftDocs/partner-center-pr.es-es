@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434764"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502754"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Cómo los asociados del programa CSP pueden vender suscripciones a los clientes
-
-**Se aplica a**
-
--  Centro de partners
 
 **Roles adecuados**
 
@@ -33,11 +29,11 @@ Como asociado de CSP, una de las cosas centrales que realiza es ofrecer suscripc
 
 |**Para**   |**Lee esto**   |
 |----------------------|:----------------------|
-|Crear y administrar suscripciones para clientes existentes en el centro de Partners|[Crear una nueva suscripción](create-a-new-subscription.md)|
+|Crear y administrar suscripciones para clientes existentes en el centro de Partners.|[Crear una nueva suscripción](create-a-new-subscription.md)|
 |Una vez que haya agregado la suscripción, puede asignar licencias a los empleados del cliente.  |[Asignar licencias a usuarios](assign-licenses-to-users.md)|
-|También puede administrar las actualizaciones de licencias masivas   |[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)|
-|A medida que el cliente agrega nuevos empleados, puede agregar licencias adicionales a las suscripciones existentes.   |[Agregar licencias o servicios a una suscripción existente](add-licenses-or-services-to-an-existing-subscription.md)|
+|También puede administrar las actualizaciones de licencias masivas.   |[Asignar o revocar licencias a varios usuarios](bulk-license-provisioning-for-multiple-users.md)|
+|A medida que el cliente agrega nuevos empleados, puede agregar más licencias a las suscripciones existentes.   |[Agregar licencias o servicios a una suscripción existente](add-licenses-or-services-to-an-existing-subscription.md)|
 |Es posible que el cliente desee probar el software antes de confirmarlo, por lo que debe ofrecer suscripciones de prueba.    |[Ofrecer a los clientes pruebas de productos de Microsoft](offer-your-customers-trials-of-microsoft-products.md)|
 |Puede iniciar el proceso de suscripción de Azure en el centro de Partners.   |[Asignación de suscripciones de Azure en el centro de Partners](assign-azure-subscriptions.md)|
-|Obtenga información sobre los precios especiales de las ofertas   |[Obtener precios especiales para ofertas](get-special-pricing-for-offers.md)|
+|Obtenga información sobre los precios especiales de las ofertas.   |[Obtener precios especiales para ofertas](get-special-pricing-for-offers.md)|
 |Obtenga información sobre cómo sus clientes usan su software para ayudarles a ser más eficaces.   | [Aumentar la adopción y la satisfacción](increasing-adoption-and-satisfaction.md)   |
