@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280860"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374423"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de abril de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Capacidades|[Nuevo formato para la nueva factura de comercio de PDF en CSP](2021-april.md#3)|5 de abril|
 |Capacidades|[Cambios en los requisitos de incorporación de clientes del Proveedor de soluciones en la nube (CSP)](2021-april.md#2)|2 de abril|
 |Capacidades|[Ver ofertas y lanzamientos de productos de este mes](2021-april.md#1)|1 de abril|
 |**Categoría**|**Anuncios de marzo de 2021**|**Fecha del anuncio**|
