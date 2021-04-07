@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474179"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557739"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Asesores: compilar la base de clientes con invitaciones de evaluación de Office 365 y ofertas de compra
 
 
 **Roles adecuados**
 
-- Asesores
+- Advisor
 
 
 Como asesor autorizado de Microsoft, el **centro de Partners** le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con sus clientes. Con el centro de Partners, puede enviar a sus clientes invitaciones de evaluación y ofertas de compra, y ofrecer servicios de administración delegados, en función de los servicios que esté autorizado a proporcionar.
@@ -45,7 +45,7 @@ Para obtener más información acerca de las invitaciones de prueba, vea [crear 
 > [!NOTE]
 > Esta característica solo está disponible para los asociados de Microsoft que son asesores de suscripción autorizados.
 
-Después de enviar una invitación de evaluación a sus clientes, puede realizar el seguimiento con una oferta de compra. Puede personalizar una oferta para que incluya los servicios específicos que necesita el cliente, así como el número correcto de licencias de usuario. Si tiene certificación para ofrecer administración delegada, puede Agregar una opción a la oferta de compra que le permita administrar la suscripción en nombre del cliente.
+Después de enviar una invitación de evaluación a sus clientes, puede realizar el seguimiento con una oferta de compra. Puede personalizar una oferta para que incluya los servicios específicos que necesita el cliente y el número correcto de licencias de usuario. Si tiene certificación para ofrecer administración delegada, puede Agregar una opción a la oferta de compra que le permita administrar la suscripción en nombre del cliente.
 
 Al crear la oferta de compra, se crea una dirección URL personalizada. La dirección URL tiene un código incrustado que le identifica como asesor de la suscripción. Puede usar esta dirección URL para un cliente o para muchos clientes. Envíe la dirección URL a su cliente en un correo electrónico o publíquelo en el sitio Web.
 

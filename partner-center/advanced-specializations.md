@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658406"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557773"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenga una especialización avanzada para exhibir sus funcionalidades validadas
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de cuentas MPN
+- Administrador de cuentas
 
-Microsoft Advanced especializations se basa en las [competencias Gold](learn-about-competencies.md) relacionadas que un asociado puede obtener. La obtención de competencias Gold, junto con sus especializaciones avanzadas relacionadas, permite a los asociados diferenciar aún más sus capacidades con los clientes.
+Las especializaciones avanzadas de Microsoft se basan en las [competencias de oro](learn-about-competencies.md) relacionadas que un asociado puede ganar. La obtención de competencias Gold, junto con sus especializaciones avanzadas relacionadas, permite a los asociados diferenciar aún más sus capacidades con los clientes.
 
 Para obtener una especialización avanzada, un asociado a menudo tiene que cumplir requisitos exigentes, como la obtención de referencias de clientes, la realización de una auditoría de terceros, la prueba de la obtención de un conjunto de aptitudes relevante y el cumplimiento de ciertas mediciones de rendimiento.
 
