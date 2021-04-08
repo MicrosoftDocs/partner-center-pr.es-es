@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633767"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964432"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Precios y ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, etc.
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633767"
 - Agente de ventas
 - Administrador de facturación
 
-Para ver los programas y ofertas más recientes del proveedor de soluciones en la nube, desde el portal de Partners, vaya a **vender > precios y ofertas**. Encontrará listas de precios independientes para los diferentes tipos de productos que están disponibles. Las siguientes listas de precios están disponibles en la página **precios y ofertas** :
+Para ver los programas y ofertas más recientes del proveedor de soluciones en la nube, en el panel del portal de Partners, vaya a **vender > precios y ofertas**. Encontrará listas de precios independientes para los diferentes tipos de productos que están disponibles. Las siguientes listas de precios están disponibles en la página **precios y ofertas** :
 
 - Los **servicios basados en licencias** incluyen información de precios para Office 365, Enterprise Mobility y Security E3, así como y Dynamics 365. La sección de precios basada en licencia incluye los precios actuales y de vista previa, así como la matriz de la lista de ofertas. Las listas de precios incluyen precio de venta y precios de venta (ERP) estimados para ofertas en todas las monedas admitidas. La matriz de la lista de ofertas incluye la disponibilidad del mercado y otra información importante acerca de las ofertas. Estos archivos se actualizan el primer día de cada mes.
 - Los **servicios basados en el uso** incluyen información de precios para Microsoft Azure y Visual Studio. También puedes usar la [Calculadora de precios de servicios de Azure en el CSP](https://azure.microsoft.com/pricing/calculator/). La descarga basada en el uso incluye las listas de precios de CSP para todas las divisas admitidas, así como los archivos de precios de servicios compartidos en ERP. Estos archivos se actualizan el primer día de cada mes.
@@ -71,7 +71,7 @@ Sin embargo, los precios basados en el uso de Azure no tienen vista previa. Los 
 |**Tipo de producto**   |**Ejemplos de productos**  |**Vista previa disponible** |**Cambiar detalles**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Basado en licencia|Office, Dynamics, Intune, Windows Enterprise|30 días|Lista de cambios de precios marcados como CHNG en las listas de precios de vista previa|
-|Basado en uso|recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
+|Basado en uso|Recursos de Azure|No disponible|Registro de cambios disponible en la pestaña **historial de cambios** de la lista de precios del mes anterior|
 |Software||No disponible|Comparar listas de precios manualmente de un mes a otro|
 |Reservations|Máquinas virtuales, prepago|No disponible|Comparar listas de precios manualmente de un mes a otro|
 
@@ -89,7 +89,7 @@ CSP ofrece algunos servicios a segmentos de mercado especiales, por ejemplo, edu
 |Education|Customer|No, Microsoft llevará a cabo la calificación del cliente |Solo basado en licencia|
 |Sin ánimo de lucro|Customer|No, el cliente se califica fuera del centro de Partners|Solo basado en licencia|
 |Government Community Cloud (GCC)|Socio comercial y cliente|Una vez habilitado GCC, el asociado puede crear clientes GCC| Solo basado en licencia|
-|Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|recursos de Azure|
+|Azure Government|Asociado|Una vez calificado, el asociado funciona en un inquilino de CSP específico para Azure Government|Recursos de Azure|
 
 Los márgenes asociados, la diferencia entre el precio de venta y los precios de venta estimados, pueden variar de segmento a segmento. Normalmente, la educación y los no beneficios suelen tener márgenes inferiores o no para los asociados de CSP. Consulte la lista de precios basada en licencias para ver los valores exactos. 
 

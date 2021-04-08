@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570165"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964401"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crea un perfil empresarial para obtener clientes potenciales de Microsoft y ayuda a los clientes a encontrarte
 
@@ -84,16 +84,7 @@ Empiece agregando sus propias etiquetas en la sección de la experiencia de part
 
 Otras etiquetas que se usan en la búsqueda:
 
--  **Etiquetas de competencia**: son una designación merecida que presenta las capacidades de tu empresa.
--  **Etiquetas de aprobación**: se obtienen cuando Microsoft o los clientes que han trabajado con usted avalan su trabajo.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Permitir a Microsoft avalar mis áreas de experiencia
-
-Se recomienda que deje marcado este ajuste. 
-
-A medida que demuestres tu éxito con los clientes a través del Centro de partners o participes en otros programas o certificaciones de Microsoft, agregaremos automáticamente recomendaciones de tus productos, servicios y sectores específicos que contribuyen a ese éxito. Las recomendaciones son un factor importante en los resultados de búsqueda.
-
-Sin embargo, si proporcionas servicios para productos que prefieres que no aparezcan en tu perfil, puedes desactivar esta casilla y administrar manualmente el perfil. Estas recomendaciones no serán visibles para los clientes, pero puede agregarlos a su perfil en cualquier momento.
+- **Etiquetas de competencia**: son una designación merecida que presenta las capacidades de tu empresa.
 
 ### <a name="customer-preferences"></a>Preferencias del cliente
 
@@ -121,13 +112,12 @@ Si ya tiene cinco ubicaciones principales y necesita cambiar una, primero **elim
 
 Después de publicar el perfil, aparecen actualizaciones en las búsquedas de [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home) en el plazo de 24 horas.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Mejora de la visibilidad del perfil 
+## <a name="improve-the-visibility-of-your-profile"></a>Mejora de la visibilidad del perfil
 
 - **[Responda rápidamente a las solicitudes](manage-leads.md)** . Cuando reciba una referencia del cliente, una respuesta más rápida puede provocar mejores resultados en las páginas de búsqueda para los futuros clientes.
 
 - **Sea selectivo con las etiquetas**.  Es mejor tener menos etiquetas que representen mejor las ofertas de tu empresa, soluciones, propuestas de valor y una posición única donde puedas demostrar coherentemente éxito.  De esta forma, tendrá sus frutos en los futuros resultados de búsqueda.
 - **Consiga etiquetas de competencias** a través de Microsoft para demostrar la competencia en nuestros productos.
-- **Consiga etiquetas de aprobación** de los clientes que aprecian su trabajo.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215822"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964364"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Descripción del archivo de conciliación y facturación: Obtenga información sobre cómo encontrarlos en el centro de Partners.
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215822"
 
 
 La **factura** es un **Resumen de todos los cargos del centro de Partners** (en todo el programa, todos los productos y todos los clientes). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Busque el archivo de facturación y conciliación 
+
+Puede encontrar la factura en la página facturación del panel del centro de Partners. También puede buscar el historial de facturación, las tendencias de gasto y los archivos de conciliación en esta página. 
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners. 
+
+2. En el menú de la izquierda, seleccione **facturación**. 
+
+3. En la página de estado de facturación, selecciona una factura o un archivo de conciliación para ver información más detallada. 
+
+Puede encontrar un vínculo a la factura más reciente en la parte superior de la página en saldo de cuenta en la fecha de la última factura. 
+
+Puede encontrar facturas anteriores en la sección historial de facturación. Elija el año adecuado y, a continuación, seleccione la flecha desplegable situada junto al período de facturación adecuado. Seleccione el vínculo situado junto a facturas (. pdf) para descargar la factura de ese período. 
 
 ## <a name="invoice-types"></a>Tipos de factura
 
@@ -52,19 +66,6 @@ Por ejemplo,
 
 - El asociado recibirá otro PDF de factura y un archivo de conciliación que cubra los cargos de la oferta 145p en euros (o en la moneda de facturación de los asociados). 
 
-## <a name="find-your-bill"></a>Búsqueda de tu factura 
-
-Puede encontrar la factura en la página facturación del panel del centro de Partners. También puede buscar el historial de facturación, las tendencias de gasto y los archivos de conciliación en esta página. 
-
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners. 
-
-2. En el menú de la izquierda, seleccione **facturación**. 
-
-3. En la página facturación, seleccione la factura que desea descargar. 
-
-Puede encontrar un vínculo a la factura más reciente en la parte superior de la página en saldo de cuenta en la fecha de la última factura. 
-
-Puede encontrar facturas anteriores en la sección historial de facturación. Elija el año adecuado y, a continuación, seleccione la flecha desplegable situada junto al período de facturación adecuado. Seleccione el vínculo situado junto a facturas (. pdf) para descargar la factura de ese período. 
 
 ## <a name="understanding-invoice-pdf"></a>Descripción de la factura PDF 
 
