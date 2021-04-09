@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474271"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132441"
 ---
 # <a name="using-the-skills-report"></a>Uso del informe de aptitudes
 
@@ -59,9 +59,9 @@ Siga estos pasos para ver los datos del informe de aptitudes del Centro de partn
 
 1. Con la cuenta de usuario con el rol adecuado del Centro de partners, inicie sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 2. En el menú de navegación izquierdo, seleccione **MPN** seguido de **Competencias**.
-3. Busque las siguientes opciones en la parte superior derecha de la página Competencias:  **Competency performance report** (Informe de rendimiento de la competencia) y **Descargar informe de aptitudes**. Tiene la opción de ver los datos del informe de aptitudes en la interfaz de usuario del Centro de partners o como una hoja de cálculo descargada.
+3. Busque las siguientes opciones en la parte superior derecha de la página Competencias: **Informe de rendimiento de la competencia** y **Descargar informe de aptitudes**. Tiene la opción de ver los datos del informe de aptitudes en la interfaz de usuario del Centro de partners o como una hoja de cálculo descargada.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Página Competencias del Centro de partners con dos opciones resaltadas en la esquina superior derecha." border="true":::
-   - Para obtener una vista de fácil lectura de los datos de los informes de aptitudes, seleccione **Competency performance report** (Informe de rendimiento de la competencia) seguido de **User skills data** (Datos de conocimientos de usuario) en la parte superior izquierda de la página del informe de competencias. 
+   - Para obtener una vista de fácil lectura de los datos de los informes de aptitudes, seleccione **Informe de rendimiento de la competencia** seguido de **Datos de conocimientos de usuario** en la parte superior izquierda de la página del informe de competencias. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Página del informe de competencias del Centro de partners con la opción de datos de aptitudes del usuario en la esquina superior izquierda." border="true":::
    - Para descargar el informe en formato de hoja de cálculo, seleccione **Descargar informe de aptitudes**. Cuando el archivo se descargue y se abra, verá una tabla con detalles sobre las aptitudes de cada usuario. Las columnas **Associated to PMC** (Asociadas a PMC) y **Associated to PC** (Asociadas a PC) indican si las aptitudes del usuario ya se han asociado a sus cuentas de Partner Membership Center (PMC) y Centro de partners (PC). Si aún tiene usuarios operativos en PMC, consulte la última sección sobre usuarios de PMC.
    

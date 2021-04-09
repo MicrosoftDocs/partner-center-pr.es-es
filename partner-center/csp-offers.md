@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943932"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502874"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
-
-**Se aplica a**
-
-- Partners de CSP
 
 **Roles adecuados**
 
@@ -28,7 +24,7 @@ ms.locfileid: "86943932"
 - Administrador global
 - Agente de ventas
 
-Los partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP) tienen a su disposición un catálogo de ofertas cada vez mayor. Puedes vender toda la gama de [servicios en la nube de Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), así como una variedad de ofertas adicionales que cambian con frecuencia. Para ver las ofertas de CSP para el mes actual, inicia sesión en el Centro de partners y, luego, ve a la página [**Precios y ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
+Los partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP) tienen a su disposición un catálogo de ofertas cada vez mayor. Puede vender toda la gama de [servicios en la nube de Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), así como una variedad de ofertas adicionales que cambian con frecuencia. Para ver las ofertas de CSP para el mes actual, inicia sesión en el Centro de partners y, luego, ve a la página [**Precios y ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 
 ¿Todavía no te has inscrito en el programa Proveedor de soluciones en la nube? Visita [Proveedor de soluciones en la nube](https://partner.microsoft.com/cloud-solution-provider) para obtener más información sobre cómo inscribirte. 
 
@@ -101,7 +97,7 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 
 4. Ajusta los filtros disponibles para encontrar más fácilmente los productos que estás buscando. Para ver la lista completa de lo que está disponible, establece los filtros correspondientes en **cualquiera**.
 
-5. Selecciona el producto que quiere el cliente, escribe la cantidad deseada y, luego, selecciona **Agregar al carro**.
+5. Selecciona el producto que quiere el cliente, escribe la cantidad deseada y, luego, seleccione **Agregar al carro**.
 
 6. Repite los pasos 4 y 5 hasta que hayas agregado al carro todos los elementos necesarios. Selecciona **Revisar** para verificar que el pedido esté correcto.  
 
@@ -111,16 +107,16 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 
 ## <a name="rules-for-special-segments"></a>Reglas para segmentos especiales
 
-Algunas ofertas basadas en licencias solo se pueden adquirir en determinadas condiciones. Las ofertas de segmentos especiales incluyen ofertas de Educación, Sin ánimo de lucro o Government Community Cloud (GCC). Puede encontrar más información sobre estas condiciones de compra en el [tema sobre las reglas de compra para segmentos especiales](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Algunas ofertas basadas en licencias solo se pueden adquirir en determinadas condiciones. Las ofertas de segmentos especiales incluyen ofertas de Educación, organizaciones sin ánimo de lucro o Government Community Cloud (GCC). Puede encontrar más información sobre estas condiciones de compra en el [tema sobre las reglas de compra para segmentos especiales](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Solución de problemas de compras de catálogo
 
 Puede haber diferentes razones por las que no puede encontrar la oferta que está buscando en el catálogo. A continuación se indican los aspectos que se deben comprobar si no encuentra la oferta que espera.
 
-- **Compruebe que el cliente está calificado**. Muchas ofertas requieren calificaciones especiales que se van a vender a los clientes. Estos segmentos especiales incluyen empresas de educación, sin ánimo de lucro y Government Community Cloud (GCC). Antes de registrar un problema, compruebe primero que las calificaciones del cliente se establecen en consecuencia. Para comprobarlo, haga clic en el cliente en la lista de clientes y vea la cuenta. Si procede, la cuenta tendrá un conjunto de cualificaciones especial. Si está intentando comprar Educación para un cliente que no está calificado, no verá esas ofertas en el catálogo. Consulte la [documentación de segmentos especiales](get-special-pricing-for-offers.md) para obtener más información sobre cómo calificar a los clientes.
-- **Decida si está intentando adquirir un complemento o una oferta base**. Muchos de los servicios basados en licencias, como Microsoft 365 y Dynamics 365, permiten comprar catálogos de las ofertas base, así como complementos. En el catálogo solo se pueden adquirir ofertas base. Para comprar complementos, asegúrese de comprar primero la oferta base en el catálogo y, a continuación, seleccione el cliente en la lista de clientes y, a continuación, seleccione la suscripción de la oferta base. Los complementos se pueden aplicar a la oferta base en esta página administrar suscripciones. 
+- **Compruebe que el cliente está calificado**. Muchas ofertas requieren calificaciones especiales que se van a vender a los clientes. Estos segmentos especiales incluyen Educación, organizaciones sin ánimo de lucro y Government Community Cloud (GCC). Antes de registrar un problema, compruebe primero que las calificaciones del cliente se establecen en consecuencia. Para comprobarlo, seleccione el cliente en la lista de clientes y vea la cuenta. Si procede, la cuenta tendrá un conjunto de cualificaciones especial. Si está intentando comprar educación para un cliente que no está calificado, no verá esas ofertas en el catálogo. Para obtener más información sobre cómo calificar a los clientes, consulte la [documentación de segmentos especiales](get-special-pricing-for-offers.md).
+- **Decida si está intentando adquirir un complemento o una oferta básica**. Muchos de los servicios basados en licencias, como Microsoft 365 y Dynamics 365, permiten comprar catálogos de las ofertas base y complementos. En el catálogo solo se pueden adquirir ofertas base. Para comprar complementos, asegúrese de comprar primero la oferta base en el catálogo y, a continuación, seleccione el cliente en la lista de clientes y, luego, seleccione la suscripción de la oferta base. Los complementos se pueden aplicar a la oferta base en esta página administrar suscripciones. 
 - **Compruebe que los productos están disponibles en su mercado**. Muchos productos y servicios están configurados para venderse solo a los clientes de países concretos. Puede encontrar la lista de países admitidos en los distintos archivos de lista de precios. Los países compatibles con los servicios basados en licencias se encuentran en la matriz de la lista de ofertas en la página precios y ofertas.
-- **Compruebe que las ofertas están disponibles en la lista de precios**. La lista de ofertas disponibles puede cambiar de un mes a otro. Si no puede encontrar una oferta en el catálogo, asegúrese de comprobar que está disponible en las listas de precios actuales de la página **Vender > Precios y ofertas**.
+- **Compruebe que las ofertas están disponibles en la lista de precios**. La lista de ofertas disponibles puede cambiar de un mes a otro. Si no puede encontrar una oferta en el catálogo, compruebe que está disponible en las listas de precios actuales de la página **Vender > Precios y ofertas**.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documentos recomendados relacionados con los artículos de compra del Centro de partners
 

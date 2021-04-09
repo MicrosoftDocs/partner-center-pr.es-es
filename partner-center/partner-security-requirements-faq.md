@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133055"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087083"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Preguntas comunes acerca de los requisitos de seguridad para partners
 
-**Se aplica a**
+**Roles adecuados**
 
-- Centro de partners
-
-**Usuarios adecuados**
-
-- Todos los usuarios habilitados, incluidos los invitados
-
+- Todos los usuarios del Centro de partners
 
 En este artículo se responden algunas preguntas comunes acerca de los [requisitos de seguridad para partners](partner-security-requirements.md).
 
@@ -53,14 +48,14 @@ No, no es posible excluir ninguna cuenta de usuario del requisito de aplicación
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>¿Cómo puedo saber si cumplo los requisitos de seguridad del partner?
 
-Debe completar los pasos siguientes:
+Complete los pasos siguientes:
 
 - Debe cumplir todos los requisitos descritos [de seguridad para partners](partner-security-requirements.md).
 - Debes asegurarte de que todas las cuentas de usuario del inquilino del partner tienen aplicada la autenticación multifactor.
 
 Para ayudar a identificar las áreas principales en las que se pueden realizar acciones, proporcionamos el [informe de estado de los requisitos de seguridad](https://partner.microsoft.com/commerce/security/compliance), que está disponible en el Centro de partners.
 
-Consulta el [estado de los requisitos de seguridad del partner](partner-security-compliance.md) para obtener más información sobre el informe de estado.
+Para obtener más información sobre el informe de estado, consulte el [estado de los requisitos de seguridad del asociado](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Acciones necesarias
 
@@ -98,7 +93,7 @@ Todos los partners del programa CSP (factura directa, proveedor indirecto y reve
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>¿Qué es la autenticación multifactor (MFA)?
 
-MFA es un mecanismo de seguridad a través del cual los usuarios se autentican con más de un procedimiento obligatorio de seguridad y validación. Funciona al requerir dos o varios de los siguientes métodos de autenticación:
+MFA es un mecanismo de seguridad para autenticar los usuarios con más de un procedimiento obligatorio de seguridad y validación. Funciona al requerir dos o varios de los siguientes métodos de autenticación:
 
 - Un elemento que conoce (normalmente una contraseña).
 - Un elemento del que dispone (un dispositivo de confianza que no se puede duplicar con facilidad, como un teléfono).
@@ -106,7 +101,7 @@ MFA es un mecanismo de seguridad a través del cual los usuarios se autentican c
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>¿Cuál es el costo de habilitar MFA?
 
-Microsoft proporciona MFA sin coste alguno a través de la implementación de los valores predeterminados de seguridad de Azure AD. La única opción de comprobación disponible a través de esta versión de MFA es una aplicación autenticadora. Si se requiere una llamada telefónica o un mensaje SMS, se deberá adquirir una licencia de [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). Como alternativa, puedes usar una solución de terceros para proporcionar MFA para cada usuario del inquilino de partner: en este caso, es tu responsabilidad asegurarte de que la solución de MFA se aplique y que sea compatible.
+Microsoft proporciona MFA sin coste alguno a través de la implementación de los valores predeterminados de seguridad de Azure AD. La única opción de comprobación disponible con esta versión de MFA es una aplicación autenticadora. Si se requiere una llamada telefónica o un mensaje SMS, se deberá adquirir una licencia de [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium). Como alternativa, puedes usar una solución de terceros para proporcionar MFA para cada usuario del inquilino de partner: en este caso, es tu responsabilidad asegurarte de que la solución de MFA se aplique y que sea compatible.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>¿Qué acciones debo llevar a cabo si ya tengo una solución de MFA?
 
@@ -145,7 +140,7 @@ Para obtener más información, consulta la [Lista de compatibilidad de federaci
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>¿Cómo puedo probar MFA en nuestro espacio aislado de integración?
 
-La característica de valores predeterminados de seguridad de Azure AD debe estar habilitada o, como alternativa, puedes utilizar una solución de terceros que utilice la federación.
+La característica de valores predeterminados de seguridad de Azure AD debe estar habilitada o, como alternativa, puede utilizar una solución de terceros que use la federación.
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>¿Afectará la habilitación de MFA a mi forma de interactuar con el inquilino de mi cliente?
 
@@ -187,7 +182,7 @@ No, la cuenta de servicio usada por Azure AD Connect no se verá afectada por lo
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>¿Quién debe adoptar el modelo de aplicaciones seguras para cumplir con los requisitos?
 
-Microsoft está introduciendo un marco seguro y escalable para autenticar los partners de Proveedor de soluciones en la nube (CSP) y Proveedores de panel de control (CPV) que utiliza Multi-Factor Authentication. Para más información, consulta la [guía del modelo de aplicaciones seguras ](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Todos los partners que hayan desarrollado una integración personalizada con cualquier API (como Azure Resource Manager, Microsoft Graph, Partner Center API, etc.) o que hayan implementado la automatización personalizada mediante herramientas como PowerShell, deberán adoptar el [marco de modelo de aplicaciones seguras](/partner-center/develop/enable-secure-app-model) para integrarse con los servicios en la nube de Microsoft.
+Microsoft presenta un marco seguro y escalable para autenticar los asociados de Proveedor de soluciones en la nube (CSP) y Proveedores de panel de control (CPV) que utiliza Multi-Factor Authentication. Para más información, consulte la [guía del modelo de aplicaciones seguras](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Todos los partners que hayan desarrollado una integración personalizada con cualquier API (como Azure Resource Manager, Microsoft Graph, Partner Center API, etc.) o que hayan implementado la automatización personalizada mediante herramientas como PowerShell, deberán adoptar el [marco de modelo de aplicaciones seguras](/partner-center/develop/enable-secure-app-model) para integrarse con los servicios en la nube de Microsoft.
 
 ### <a name="what-is-the-secure-application-model"></a>¿Qué es el modelo de aplicaciones seguras?
 
@@ -210,7 +205,7 @@ Los proveedores de panel de control deben [incorporarse](enroll-as-cpv.md) al Ce
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>¿Se tiene que implementar el modelo de aplicaciones seguras para la API/SDK del Centro de partners únicamente?
 
-Al aplicar la autenticación multifactor para todas las cuentas de usuario, cualquier automatización o integración que esté diseñada para ejecutarse de forma no interactiva se verá afectada. Aunque los requisitos de seguridad de partner requieren que habilite el modelo de aplicaciones seguras para la API del Centro de partners, se puede aprovechar para solucionar la necesidad de un segundo factor de autenticación con automatización e integración.
+Al aplicar la autenticación multifactor para todas las cuentas de usuario, cualquier automatización o integración que esté diseñada para ejecutarse de forma no interactiva se verá afectada. Aunque los requisitos de seguridad de asociado requieren que habilite el modelo de aplicaciones seguras para la API del Centro de partners, se puede usar para solucionar la necesidad de un segundo factor de autenticación con automatización e integración.
 
 >[!Note] 
 >Los recursos a los que se tiene acceso tendrán que ser compatibles con la autenticación basada en tokens de acceso.

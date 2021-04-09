@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624007"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087134"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Administrador de facturación
 - Agente de ventas
 
-El crédito obtenido del partner para los servicios administrados (PEC) reconoce y recompensa a aquellos partners que poseen el control operativo de TI las 24 horas del día los 7 días de la semana, y la administración de ciertas partes o de todo el entorno de Azure de sus clientes. De manera predeterminada, en CSP, a los partners se les otorgan los derechos de acceso necesarios a la suscripción del cliente, lo que les permite realizar una administración operativa las 24 horas y los 7 días de la semana, además de controlar los recursos de la suscripción. En la siguiente sección se describen formas adicionales mediante las cuales el cliente puede proporcionar acceso al partner con el que realizará la transacción. El importe de la factura mensual es al cantidad neta del crédito obtenido del partner. Los partners pueden ver los detalles del PEC en su archivo de conciliación mensual. Para conocer formas adicionales en las que el cliente puede proporcionar acceso al partner con el que realizará la transacción, consulta [Administración de suscripciones y recursos del plan de Azure](azure-plan-manage.md).
+El crédito obtenido del partner para los servicios administrados (PEC) reconoce y recompensa a aquellos partners que poseen el control operativo de TI las 24 horas del día los 7 días de la semana, y la administración de ciertas partes o de todo el entorno de Azure de sus clientes. De manera predeterminada, en CSP, a los partners se les otorgan los derechos de acceso necesarios a la suscripción del cliente, lo que les permite realizar una administración operativa las 24 horas y los 7 días de la semana, además de controlar los recursos de la suscripción. En la siguiente sección se describen otras formas mediante las cuales el cliente puede proporcionar acceso al asociado con el que realizará la transacción. El importe de la factura mensual es al cantidad neta del crédito obtenido por el asociado. Los partners pueden ver los detalles del PEC en su archivo de conciliación mensual. Para conocer formas adicionales en las que el cliente puede proporcionar acceso al partner con el que realizará la transacción, consulta [Administración de suscripciones y recursos del plan de Azure](azure-plan-manage.md).
 
 Lee también [Restablecer los privilegios de administrador para las suscripciones de Azure CSP](revoke-reinstate-csp.md)
 
@@ -66,7 +66,7 @@ Azure Cost Management (ACM) con Análisis de costos te permite, como partner, ve
 
    La vista Análisis de costos mostrará los costos de la cuenta de facturación para todos los servicios adquiridos y consumidos con los precios que paga a Microsoft.
 
-4. Selecciona **PartnerEarnedCreditApplied** en el menú desplegable de un gráfico dinámico para ver los costos que tienen el PEC aplicado. Si la propiedad propiedad **PartnerEarnedCreditApplied** es True, el costo asociado tiene la ventaja del crédito obtenido del partner. 
+4. Seleccione **PartnerEarnedCreditApplied** en la lista desplegable de un gráfico dinámico para ver los costos que tienen el PEC aplicado. Si la propiedad propiedad **PartnerEarnedCreditApplied** es True, el costo asociado tiene la ventaja del crédito obtenido del partner. 
 
    Si la propiedad PartnerEarnedCreditApplied es False, el costo asociado no cumple los requisitos necesarios para el crédito o el servicio adquirido no es apto para el crédito obtenido por el partner.
 
@@ -79,7 +79,7 @@ Azure Cost Management (ACM) con Análisis de costos te permite, como partner, ve
 
 - [Créditos obtenidos del partner: introducción](partner-earned-credit.md)
 
-- En la lista de precios puedes encontrar ejemplos detallados de los cálculos de créditos obtenidos del partner, a los que puedes acceder a través del panel del Centro de partners (es necesario iniciar sesión).
+- En la lista de precios puede encontrar ejemplos detallados de los cálculos de créditos obtenidos por los asociados, a los que puede acceder a través del panel del Centro de partners (es necesario iniciar sesión).
 
 - [Cambiar al plan de Azure: introducción](azure-plan-get-started.md)
 

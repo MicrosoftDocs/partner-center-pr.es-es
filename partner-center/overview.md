@@ -8,18 +8,18 @@ description: Uso del Centro de partners para realizar transacciones de la empres
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582655"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132254"
 ---
 # <a name="what-is-partner-center"></a>¿Qué es el Centro de partners?
 
-##### <a name="appropriate-roles"></a>Roles adecuados
+**Roles adecuados**
 
-- Todos los partners interesados en el Centro de partners
+- Todos los asociados interesados en el Centro de partners
 
 [El Centro de partners](https://partner.microsoft.com/dashboard/home) simplifica varios procesos empresariales para que los partners de Microsoft puedan administrar con facilidad la relación que tienen con Microsoft y sus clientes. El Centro de partners le permite acceder fácilmente a las herramientas que necesita para realizar el trabajo. Usa el Centro de partners para:
 
@@ -53,7 +53,7 @@ Cree su perfil de negocio para mostrar las áreas de especialización de su empr
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Venta conjunta con Microsoft y otros partners
 
-La venta conjunta es una ruta óptima para que los partners vendan con Microsoft y otros partners y, de esta manera, mejorar las ventas y los resultados positivos con los clientes. La venta conjunta le permite aprovechar la marca global de Microsoft, los equipos de ventas, las funcionalidades de generación de demanda y el marketplace comercial para llegar a nuevos clientes de todo el mundo. Venda con otros partners y con nosotros. Para obtener más información, consulte [Administración de las oportunidades de venta conjunta](manage-co-sell-opportunities.md).
+La venta conjunta es una ruta óptima para que los partners vendan con Microsoft y otros partners y, de esta manera, mejorar las ventas y los resultados positivos con los clientes. La venta conjunta le permite usar la marca global de Microsoft, los equipos de ventas, las funcionalidades de generación de demanda y el marketplace comercial para llegar a nuevos clientes de todo el mundo. Venda con otros partners y con nosotros. Para obtener más información, consulte [Administración de las oportunidades de venta conjunta](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Administración de las necesidades de software del cliente
 

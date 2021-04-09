@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880810"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441275"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Más información acerca de Microsoft Partner Agreement (MPA) para partners del programa CSP
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880810"
 
 Microsoft Partner Agreement proporciona a los partners de Microsoft un acuerdo de partners unificado y aceptado digitalmente. Microsoft Partner Agreement contiene un conjunto básico de términos perpetuos que ayudan a Microsoft, los partners y los clientes a proteger la privacidad y seguridad de los datos, promover el cumplimiento e impulsar prácticas empresariales correctas.
 
-Los partners del programa Proveedor de soluciones en la nube (incluidos los proveedores indirectos, los revendedores indirectos y los partners de facturación directa) pueden completar la firma del MPA en línea en el Centro de partners. Los asociados de facturación directa y los proveedores indirectos que operan en la nube de la Administración pública también pueden firmar el MPA desde el Centro de partners.
+Los partners del programa Proveedor de soluciones en la nube (incluidos los proveedores indirectos, los revendedores indirectos y los partners de facturación directa) pueden completar la firma del MPA en línea en el Centro de partners. Los asociados de facturación directa y los proveedores indirectos que operan en Microsoft Cloud for US Government también pueden firmar el MPA desde el Centro de partners.
 
 Para seguir participando en el programa CSP, debes firmar el acuerdo Microsoft Partner Agreement antes del 31 de enero de 2020. El Centro de partners te recordará que ahora puedes firmar el contrato fácilmente desde el Centro de partners.
 
@@ -60,11 +60,11 @@ Para seguir participando en el programa CSP, debes firmar el acuerdo Microsoft P
 
 1. Compruebe la sección **Información del programa**. Si en la información no se muestra el estado **Revendedor indirecto**, debe [inscribirse como revendedor indirecto](indirect-reseller-tasks-in-partner-center.md).
 
-1. Si el estado **Revendedor indirecto** es **Activo**, es un revendedor indirecto activo en el Centro de partners.
+1. Si el estado de **Revendedor indirecto** es **Activo**, es un revendedor indirecto activo en el Centro de partners.
  
 4. Si el estado **Revendedor indirecto** es **Calificado**, vaya a [**Información general del panel**](https://partner.microsoft.com/pcv/dashboard/overview) para aceptar el MPA y activar su cuenta.
  
-1. Si el estado de Revendedor indirecto es **Rechazado**, no ha superado la comprobación de la cuenta. Lea el [proceso de comprobación](verification-responses.md) para averiguar cómo resolver el problema de comprobación.
+1. Si el estado de Revendedor indirecto es **Rechazado** o **Denegado**, no ha superado la comprobación de la cuenta. Lea el [proceso de comprobación](verification-responses.md) para averiguar cómo resolver el problema de comprobación.
 
 1. Si ya se había pasado al Centro de partners como revendedor indirecto, acepte el contrato Microsoft Partner Agreement en la información general del panel del Centro de partners mediante credenciales de administrador global. Puede confirmar si Microsoft Partner Agreement ya se ha firmado en [Perfil de partner](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **Información del programa** o la notificación de banner en la página de información general de CSP.
 
@@ -75,7 +75,7 @@ Recuerde aceptar la solicitud de la relación de CSP con el proveedor indirecto.
 1. Inicie sesión en el Centro de partners con su cuenta CSP Indirect Reseller. Debe ser el administrador global.
 1. Vaya a la página **[Información general de CSP](https://partner.microsoft.com/pcv/dashboard/overview)** .  Si no ve la opción **Aceptar y continuar** o el banner verde que indica que el contrato MPA está firmado, significa que no tiene el rol correcto para firmarlo. Póngase en contacto con el administrador global para firmar el contrato MPA.
 
-1. Para ver y descargar el contrato **Microsoft Partner Agreement** antes de firmarlo, haga clic en el vínculo de Microsoft Partner Agreement, como se muestra a continuación.
+1. Para ver y descargar el contrato **Microsoft Partner Agreement** antes de firmarlo, seleccione el vínculo de Microsoft Partner Agreement, como se muestra a continuación.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nueva ubicación del contrato MPA":::
 

@@ -9,29 +9,25 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475201"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502559"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Venta de suscripciones de software a través del programa Proveedor de soluciones en la nube (CSP)
-
-**Se aplica a**
-
-- Proveedores de soluciones en la nube
 
 **Roles adecuados**
 
 - Agente de administrador
 - Administrador global
 
-Con las reservas de Azure y las suscripciones de servidor (Windows Server y SQL Server), los partners del programa CSP pueden solucionar mejor la creciente demanda que los clientes hacen de soluciones más rentables para soportar cargas de trabajo en la nube altamente predecibles y persistentes. 
+Con las reservas de Azure y las suscripciones de servidor (Windows Server y SQL Server), los partners del programa CSP pueden solucionar mejor la creciente demanda que los clientes hacen de soluciones más rentables para soportar cargas de trabajo en la nube altamente predecibles y persistentes. 
 
 Ahora puedes adquirir, aprovisionar y administrar reservas de Azure y suscripciones de servidor en nombre de los clientes comerciales a través del Centro de partners y Azure Portal aprovechando la Ventaja híbrida de Azure.
 
-La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias de Windows Server y a ahorrar hasta un 40 por ciento en máquinas virtuales. Puedes usar la ventaja con las licencias de las ediciones Standard y Datacenter de Windows Server cubiertas con Software Assurance. Según la edición, puedes convertir las licencias o volver a usarlas para ejecutar máquinas virtuales de Windows Server en Azure y pagar una tarifa de proceso base inferior (por ejemplo, tarifas de máquinas virtuales Linux).
+La Ventaja híbrida de Azure te ayudará a obtener más valor de las licencias de Windows Server y a ahorrar hasta un 40 por ciento en máquinas virtuales. Puedes usar la ventaja con las licencias de las ediciones Standard y Datacenter de Windows Server cubiertas con Software Assurance. Según la edición, puede convertir las licencias o volver a usarlas para ejecutar máquinas virtuales de Windows Server en Azure y pagar una tarifa de proceso base inferior (por ejemplo, tarifas de máquinas virtuales Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Mercados no disponibles de reservas de Azure
 
@@ -101,7 +97,7 @@ Una vez que haya adquirido el software, usted o sus clientes deben descargarlo (
 
 2. Elija la **versión**, el **idioma** y los **bits** del producto y seleccione **Obtener descargas y claves**. 
 
-3. Elija **Obtener clave**, que mostrará el producto de 32 dígitos en un cuadro de diálogo emergente que puede copiar y enviar al cliente. 
+3. Elija **Obtener clave** para mostrar el producto de 32 dígitos en un cuadro de diálogo emergente que puede copiar y enviar al cliente. 
 
 4. Elija **Descargar** para descargar los bits. 
 

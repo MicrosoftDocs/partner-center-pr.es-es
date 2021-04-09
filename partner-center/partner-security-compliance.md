@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624160"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086556"
 ---
 # <a name="security-requirements-status-report"></a>Informe de estado de requisitos de seguridad
 
 **Roles adecuados**
-- Proveedores del Panel de control
-- Administradores globales
+- Administración de CPV
+- Administrador global
 
-En este artículo se explica el informe de estado de los requisitos de seguridad del Centro de partners. Este informe proporciona métricas sobre el cumplimiento de los [requisitos de seguridad de los partners](partner-security-requirements.md) para la autenticación multifactor (MFA) para los usuarios del inquilino de partner.
+En este artículo se explica el informe de estado de los requisitos de seguridad del Centro de partners. Este informe proporciona métricas sobre el cumplimiento de los [requisitos de seguridad de los asociados](partner-security-requirements.md) para la autenticación multifactor (MFA) para los usuarios del inquilino de asociado.
 
 Para obtener acceso a este informe en el [Centro de partners](https://partner.microsoft.com/dashboard), vaya a **Configuración** > **Configuración de cuenta** > **Estado de requisitos de seguridad**. El informe se actualiza diariamente y refleja los datos de inicio de sesión de los últimos siete días.
 
@@ -53,7 +53,7 @@ La métrica **Through Partner Center portal** (Mediante el portal del Centro de 
 - El segundo día, Juan inicia sesión en el panel del Centro de partners sin verificación MFA y realiza cinco operaciones.
 - El tercer día, Julia inicia sesión en el panel del Centro de partners con verificación MFA y realiza dos operaciones.
 - Los otros cuatro días, ningún agente realiza operaciones.
-- De las 10 operaciones realizadas en el periodo de siete días, dos las realizó un usuario con verificación MFA. Por lo tanto, la métrica muestra un 20 %.
+- De las diez operaciones realizadas en el periodo de siete días, dos las realizó un usuario con verificación MFA. Por lo tanto, la métrica muestra un 20 %.
 
 Usa el archivo **Portal requests without MFA** para averiguar qué usuario inició sesión en el panel del Centro de partners sin verificación MFA y la hora de la última visita en el período notificado.
 
@@ -82,7 +82,7 @@ Algunos partners que hayan implementado MFA podrían ver métricas de informe po
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>Se implementó MFA para el inquilino del partner
 
-Para lograr el cumplimiento, debe implementar MFA para el inquilino del partner. Para obtener información detallada sobre cómo implementar MFA, consulte [Requisitos de seguridad para usar el Centro de partners o las API del Centro de partners](partner-security-requirements.md).
+Para lograr el cumplimiento, debe implementar MFA para el inquilino del asociado. Para obtener información detallada sobre cómo implementar MFA, consulte [Requisitos de seguridad para usar el Centro de partners o las API del Centro de partners](partner-security-requirements.md).
 
 >[!NOTE]
 > Las métricas de MFA se calculan cada día y tienen en cuenta las operaciones realizadas en los últimos siete días. Si solo ha completado recientemente la implementación de MFA para el inquilino del partner, puede que las métricas aún no sean del 100 %.

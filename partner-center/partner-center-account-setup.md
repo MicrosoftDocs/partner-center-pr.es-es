@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712867"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132288"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
-**Roles apropiados**: administrador global
-- Administrador de cuentas MPN
+**Roles adecuados** 
+
+- Administrador global
+- Administrador de cuentas
 
 La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de su compañía también incluirá las cuentas de usuario de cualquier persona del equipo que vaya a usar el Centro de partners. El trabajo que pueden hacer es agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos, proporcionar soporte técnico y mucho más.
 
@@ -48,7 +50,7 @@ Al seleccionar el icono de **Configuración** y abrir el menú de **Configuraci�
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="El menú muestra pestañas para partners y revendedores":::
 
-La pestaña Partner incluirá toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
+La pestaña Asociado incluye toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
 
 Si la compañía no participa en CSP, la vista predeterminada solo mostrará la pestaña **Partner**, que incluirá el **Perfil de asistencia al cliente**.
 
@@ -60,7 +62,7 @@ Puedes formar parte de más de una cuenta. Puede comprobar si forma parte de var
 
 Si no ve el selector de cuentas, significa que solo forma parte de una cuenta. 
 
-Al hacer clic en este selector, todas las cuentas de las que forma parte aparecen como una lista. Después, puede hacer clic en cualquiera de ellas para cambiar a la que quiera. Todo lo que haya después aparecerá en el contexto de esa cuenta.  
+Al seleccionar este selector, todas las cuentas de las que forma parte aparecen como una lista. Después, puede seleccionar cualquiera de ellas para cambiar a la que quiera. Todo lo que haya después aparecerá en el contexto de esa cuenta.  
 
 En el ejemplo siguiente, el usuario que inició sesión forma parte de las tres cuentas resaltadas. Para cambiar entre ellas, puede hacer clic en la que quiera.
 
@@ -74,7 +76,7 @@ Use estas páginas para administrar áreas detalladas del negocio, incluidos el 
 
 ### <a name="legal-info"></a>Información legal
 
-La primera vez que se una al Centro de partners, su empresa se someterá a un proceso de verificación de Microsoft. Puede realizar un seguimiento del estado de la verificación en la página de **Información legal**. Se muestra el contacto principal (la persona con la que se pondrá en contacto Microsoft con respecto a las preguntas de los partners) y el contacto principal legal (la persona que administra su información legal y estado). Todas las ubicaciones empresariales de su negocio se muestran y se pueden agregar aquí. 
+La primera vez que se una al Centro de partners, su empresa se someterá a un proceso de verificación de Microsoft. Puede realizar un seguimiento del estado de la verificación en la página de **Información legal**. Se muestra el contacto principal (la persona con la que se pondrá en contacto Microsoft con respecto a las preguntas de los asociados) y el contacto principal legal (la persona que administra su información legal y estado). Todas las ubicaciones empresariales de su negocio se muestran y se pueden agregar aquí. 
 
 ### <a name="provide-your-companys-legal-business-details"></a>Proporción de los detalles empresariales legales de la compañía
 

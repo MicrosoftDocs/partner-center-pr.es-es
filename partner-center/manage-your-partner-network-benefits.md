@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932851"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133104"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners
-
-**Se aplica a**
-
-- Centro de partners
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de usuarios
+- Administrador del control de usuarios
 - Agente de administrador
 - Administrador de partners de MPN
 
@@ -41,11 +37,11 @@ Tras comprar un paquete de beneficios de suscripción, deberás obtener claves d
 >[!IMPORTANT]
 >Aunque no tienes que ser un administrador global de la organización para comprar beneficios, tienes que ser el administrador global para asignarlos a los empleados. Si es necesario, puedes convertirte en un administrador global siguiendo las instrucciones de tu [página **Ventajas**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (es necesario iniciar sesión). Es posible que tu empresa ya tenga un administrador global; por tanto, asegúrate de comprobarlo con el equipo.
 
-Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos de comercialización, ofertas y programas relacionados con el mercado. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
+Los paquetes de beneficios incluyen asignaciones de software con licencia, servicios en la nube, suscripciones a Visual Studio y soporte técnico. Los paquetes de beneficios también pueden incluir determinados recursos de comercialización, ofertas y programas relacionados con el mercado. Puedes obtener detalles de la suscripción de Action Pack en el sitio de [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software).  
 
 Para ver y administrar todos sus beneficios de suscripción, vaya a la [página **Beneficios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (se requiere iniciar sesión). Como alternativa, puedes iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners, selecciona la [**opción Beneficios**] en el menú de la izquierda y, a continuación, selecciona entre las opciones de beneficios que se muestran.  
 
-Para activar la mayoría de los beneficios o descargar claves de software relacionadas, etc., el Centro de partners normalmente requiere que alguien tenga asignado el rol de administrador global o administrador de asociados de MPN. Si no puede ver ningún beneficio o no puede activar algún beneficio, consulte con el administrador global del Centro de partners para asegurarse de tener los permisos adecuados. [Obtenga más información sobre los roles del Centro de partners](permissions-overview.md).
+Para activar la mayoría de los beneficios o descargar claves de software relacionadas, el Centro de partners normalmente requiere que alguien tenga asignado el rol de administrador global o administrador de asociados de MPN. Si no puede ver ningún beneficio o no puede activar alguno, póngase en contacto con el administrador global del Centro de partners para asegurarse de tener los permisos adecuados. [Obtenga más información sobre los roles del Centro de partners](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Administrar los beneficios de software
 
@@ -85,9 +81,9 @@ En el caso del crédito masivo de Azure (anual), la opción de quitar no está d
 
 ## <a name="license-based-subscriptions"></a>Suscripciones basadas en licencias
 
-En la sección de suscripciones basadas en licencias de la pestaña Azure y productos de la nube, encontrará todos los productos de la nube que requieren una clave de producto para la activación, como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI, etc., que se le proporcionan en función del tipo de oferta que tiene activo como asociado de MPN: MAPS, Silver o Gold.
+La sección de suscripciones basadas en licencias de la pestaña Productos en la nube y de Azure muestra todos los productos en la nube que requieren una clave de producto para la activación, como Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic y Power BI. El tipo de oferta que tiene activa como asociado de MPN: MAPS, Silver o Gold: controla qué productos aparecen en la lista.
 
-Para activar las suscripciones basadas en licencias, haga clic en el símbolo de lista desplegable en línea con el producto de interés y lea las instrucciones sobre cómo canjear las claves. Después de leer las instrucciones, seleccione el vínculo que le redirigirá al portal para canjear las claves, así como la clave asignada para el producto.
+Para activar las suscripciones basadas en licencias, haga clic en el símbolo de lista desplegable en línea con el producto de interés y lea las instrucciones sobre cómo canjear las claves. Después de leer las instrucciones, seleccione el vínculo que le redirigirá al portal para canjear las claves y la clave asignada para el producto.
 
 >[!IMPORTANT]
 >Tenga en cuenta que una vez que se canjea una clave, esta no se puede canjear por segunda vez, por lo que debe asegurarse de tener claro si necesita agregar más licencias (puestos) o prorrogar la fecha de finalización. Si decide agregar más licencias y no prorrogar la fecha de finalización, el sistema le proporcionará menos de 12 meses de suscripción activa. Asegúrese de que ha iniciado sesión con las credenciales correctas para activar las claves en el inquilino correcto.

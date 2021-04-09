@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712552"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280928"
 ---
 # <a name="december-2020-announcements"></a>Anuncios de diciembre de 2020
 
@@ -189,15 +189,14 @@ El anuncio completo solo está disponible para los partners de Microsoft. [Inici
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Cambios en los requisitos de incorporación de clientes de Proveedor de soluciones en la nube (CSP)
-
 ### <a name="categories"></a>Categorías
 
-- Fecha: 17-12-2020
+- Fecha: 02/04/2021
 - Ofertas/mercados
- 
+
 ### <a name="summary"></a>Resumen
 
-Como parte de nuestro compromiso para ayudar a los partners y los clientes a llevar a cabo sus actividades empresariales basándose en la confianza, solicitaremos información adicional del cliente. Esto entrará en vigor a finales de marzo de 2021.
+Como parte de nuestro compromiso para ayudar a los asociados y los clientes a llevar a cabo sus actividades empresariales basándose en la confianza, solicitaremos información adicional del cliente. Esto entrará en vigor el 25 de marzo de 2021.
 
 ### <a name="impacted-audience"></a>Audiencia afectada
 
@@ -205,11 +204,12 @@ Partners de factura directa y proveedores indirectos de CSP con clientes nuevos 
 
 ### <a name="details"></a>Detalles
 
-Microsoft funciona con confianza. Nos comprometemos a proporcionar un método compatible, seguro y protegido para la validación de clientes durante las operaciones de transacción con suscripciones de clientes en el programa CSP. A finales de marzo de 2021, introduciremos mejoras en la interfaz de usuario y la API del Centro de partners que afectarán a los partners que cumplan los criterios siguientes:
+Microsoft funciona con confianza. Nos comprometemos a proporcionar un método compatible, seguro y protegido para la validación de clientes durante las operaciones de transacción con suscripciones de clientes en el programa CSP. El 25 de marzo de 2021, presentaremos mejoras en la interfaz de usuario y la API del Centro de partners que afectarán a los partners que cumplan los criterios siguientes:
 
 1. El partner tiene una relación de factura directa con Microsoft (lo que significa que se trata de un partner de factura directa o de un proveedor indirecto).
 
 2. El asociado hace negocios con clientes nuevos o existentes en los siguientes países:
+
     - Tailandia
     - Vietnam
     - Turquía
@@ -224,7 +224,9 @@ Microsoft funciona con confianza. Nos comprometemos a proporcionar un método co
     - Emiratos Árabes Unidos
     - Venezuela
 
-Los partners que cumplan los criterios tendrán que enviar el **identificador legal** (también conocido como **INN de la organización** del cliente) y el **número de teléfono** del cliente la próxima vez que actualicen o creen una suscripción para ese cliente. Estos partners también pueden escribir un **segundo nombre** opcional para el cliente.
+Los asociados que cumplan los criterios tendrán que enviar el identificador de registro de la compañía (también conocido como INN de la organización del cliente) y el número de teléfono del cliente la próxima vez que actualicen o creen una suscripción para ese cliente. Estos partners también pueden escribir un segundo nombre opcional para el cliente.
+
+Tenga en cuenta que, al agregar el identificador de registro de la compañía, debe usar el id. de impuesto empresarial y no el identificador personal del cliente.
 
 Los partners que llevan a cabo actividades empresariales con clientes nuevos o existentes de los países siguientes ya se incorporaron con una versión anterior en noviembre de 2020.
 
@@ -240,7 +242,7 @@ Los partners que llevan a cabo actividades empresariales con clientes nuevos o e
 - Ucrania
 - Uzbekistán
 
-Los partners con clientes en el resto del mundo podrán, a finales de marzo de 2021, escribir el **identificador legal**, el **número de teléfono** y el **segundo nombre** de los clientes como detalles opcionales.
+Los asociados con clientes en el resto del mundo podrán, a finales de marzo de 2021, escribir el identificador de registro de la compañía, el número de teléfono y el segundo nombre de los clientes como detalles opcionales.
 
 ### <a name="next-steps"></a>Pasos siguientes
 
@@ -251,9 +253,19 @@ Los partners con clientes en el resto del mundo podrán, a finales de marzo de 2
 
 ### <a name="questions"></a>¿Tiene alguna pregunta?
 
-Si tiene alguna pregunta relacionada con el identificador legal (también denominado INN o CIF/NIF), póngase en contacto con su asesor fiscal o con la agencia tributaria local. Microsoft no puede proporcionar orientación sobre cuestiones fiscales. 
+Si tiene alguna pregunta relacionada con el identificador de registro de la compañía (también denominado INN o CIF/NIF), póngase en contacto con su asesor fiscal o con la agencia tributaria local. Microsoft no puede proporcionar orientación sobre cuestiones fiscales.
 
 Si necesita soporte técnico con relación a sus operaciones con Microsoft, [abra una solicitud de servicio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Registro de cambios:
+
+17 de diciembre de 2020: fecha de publicación original
+
+Actualizaciones del 2 de abril:
+
+- Se ha proporcionado la fecha de lanzamiento.
+- El título de INN de la organización se ha actualizado a Identificador de registro de la compañía.
+- Se ha agregado una nota para proporcionar una aclaración sobre el identificador de registro de la compañía.
 
 ______________
 
