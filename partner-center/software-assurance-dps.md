@@ -1,31 +1,43 @@
 ---
-title: Servicios de planeación de Software Assurance
+title: Retirada de servicios de planeación de software Assurance
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información sobre cómo inscribirse y tener la seguridad en las contrataciones de Microsoft Planning Services para que pueda ofrecer aprendizaje y otros servicios a los clientes con software Assurance.
+description: Microsoft Planning Services se está retirando.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028236"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107025000"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Servicios de planeación de Software Assurance del Centro de partners
+# <a name="software-assurance-planning-services-retirement"></a>Retirada de servicios de planeación de software Assurance
 
 **Roles adecuados**
 
 - Administrador global
 - Administrador de partners de MPN
 
-Como partner de Planning Services aprobado, Microsoft le compensa por proporcionar compromisos de planeación previa a la implementación para clientes empresariales. Participar en este programa puede ayudarle a atraer a más clientes, convertirse en su asociado de planificación de confianza y conducir a otras contrataciones de clientes.
 
-## <a name="get-started"></a>Primeros pasos
+Los servicios de planeación se retiran completamente de las ventajas de software Assurance, pero los clientes pueden seguir trabajando con los asociados para usar los días de servicios de planeación para las negociaciones mientras los vales son válidos. Estas son las fechas significativas que conducen a la retirada de programas: 
+
+- 1 de febrero de 2020: se han retirado los servicios de planeación de Cloud Engagement.  
+- 1 de febrero de 2020: los vales de entrenamiento ya no se pueden convertir a días de servicios de planeación.  
+- 1 de febrero de 2021: los clientes ya no acumulan los beneficios de Planning Services. 
+- 30 de junio de 2021: último día para que los clientes creen o asignen los asientos de Planning Services. Todos los días restantes de servicios de planeación se quitarán el 1 de julio de 2021.
+- 1 de enero de 2022: último día para asociados que canjeen los asientos de Planning Services. El asociado tendrá 60 días después del canje para completar el proceso de solicitud de pago.  
+
+>[!NOTE]
+>No hay ningún cambio en el ciclo de vida del vale. Una vez que se crea o se asigna un asiento, se debe completar la reserva del asiento, el compromiso del cliente y el canje del asiento en un plazo de 180 días antes de la expiración del asiento.  Para obtener más información sobre la retirada de programas de Planning Services, consulte las preguntas más frecuentes que se encuentran [aquí](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obtener más información (es necesario iniciar sesión).  Dirija cualquier pregunta al equipo de soporte técnico de asociados regionales: [soporte técnico para asociados de EMEA](mailto:savoucher@msdirectservices.com); [Compatibilidad con asociados generales](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Hasta el 30 de junio de 2021
+
+### <a name="get-started"></a>Primeros pasos
 
 Si no está familiarizado con los servicios de planeación de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en los programas de Planning Services, comience cada nuevo compromiso en el paso cuatro (4) a continuación.
 
@@ -62,8 +74,6 @@ Una vez que su empresa cumple los requisitos de idoneidad, está listo para firm
 
 En primer lugar, asegúrese de revisar todas [las directivas de programas de Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984). A continuación, siga las instrucciones del [paso 2](https://go.microsoft.com/fwlink/?linkid=2115983) del flujo de trabajo para completar el proceso de inscripción de Planning Services en el centro de Partners.
 
->[!NOTE]
-> Tendrá que renovar sus requisitos y volver a inscribirse en los programas de Planning Services cada año.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crear o actualizar el perfil de negocio de su empresa (nuevos asociados)
 

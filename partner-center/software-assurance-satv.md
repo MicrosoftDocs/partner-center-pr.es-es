@@ -1,28 +1,37 @@
 ---
-title: Programa de justificante de aprendizaje de software Assurance
+title: Retirada del programa de aprendizaje de software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información acerca de cómo inscribirse en el programa de justificante de aprendizaje de software Assurance para que pueda compensar la entrega de cursos y el planeamiento a los clientes empresariales.
+description: Se está retirando el programa de justificante de aprendizaje de software Assurance.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926618"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024983"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Programa de vales de formación de Software Assurance (SATV) del Centro de partners
+# <a name="training-vouchers-program-retirement"></a>Retirada del programa de los vales de entrenamiento
 
-Haz crecer tu negocio mediante la inscripción en programas de partners de Software Assurance. Microsoft compensa a los partners que ofrecen formación, planeamiento y otros servicios a los clientes empresariales que tienen Software Assurance.
+Los vales de aprendizaje se están retirando por completo de las ventajas de software Assurance, pero los clientes pueden seguir usando los días del asiento para cursos dirigidos por un instructor mientras los vales son válidos. Estas son las fechas significativas que conducen a la retirada de programas: 
 
-Como partner autorizado de formación de Software Assurance, Microsoft te compensa por proporcionar formación técnica a los clientes empresariales a cambio de los vales que obtienen con Software Assurance. La participación en este programa puede ayudarte a atraer más clientes y a convertirte en su partner de formación de confianza.
+- 1 de febrero de 2020: el entrenamiento de Azure se ha retirado del catálogo de asientos de entrenamiento.
+- 1 de febrero de 2020: los vales de entrenamiento ya no se pueden convertir a días de servicios de planeación.  
+- 1 de febrero de 2021: los clientes ya no acumulan beneficios de aprendizaje. 
+- 30 de junio de 2021: último día para que los clientes creen o asignen Justificadores de entrenamiento. Todos los días restantes del cupón de entrenamiento se quitarán el 1 de julio de 2021.
+- 1 de enero de 2022: último día para que los socios canjeen los Justificadores de entrenamiento. El asociado tendrá 60 días después del canje para completar el proceso de solicitud de pago.  
 
-## <a name="get-started"></a>Primeros pasos
+>[!NOTE]
+>No hay ningún cambio en el ciclo de vida del vale. Una vez que se crea o se asigna un asiento, la reserva de asientos, las sesiones de entrenamiento y el canje del asiento deben completarse en un plazo de 180 días antes de la expiración del vale.  Para obtener más información sobre la retirada del justificante del entrenamiento, consulte las preguntas más frecuentes que se encuentran [aquí](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obtener más información (inicio de sesión obligatorio).  Consulte la lista completa de los cursos de aprendizaje válidos para SATV en el catálogo de productos de las ventajas de aprendizaje.  Dirija cualquier pregunta al equipo de soporte técnico de asociados regionales: [soporte técnico para asociados de EMEA](mailto:savoucher@msdirectservices.com); [Compatibilidad con asociados generales](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Hasta el 30 de junio de 2021
+
+### <a name="get-started"></a>Primeros pasos
 
 Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje, empiece en el paso cuatro (4) a continuación. 
 
