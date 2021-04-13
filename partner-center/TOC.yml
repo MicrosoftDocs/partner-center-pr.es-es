@@ -12,8 +12,6 @@
     - name: Creación de una cuenta de MPN en el Centro de partners
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Obtención de un correo electrónico del trabajo
-      href: buy-email-domain.md
     - name: Solucionar problemas de configuración de la cuenta
       href: troubleshoot-account-sign-n.md
     - name: Movimientos al Centro de partners
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Restablecimiento de mi contraseña
           href: reset-my-pasword.md
-        - name: El usuario no puede iniciar sesión
+        - name: Solución de problemas con el inicio de sesión
           href: unable-to-sign-in.md
         - name: El usuario no tiene ningún administrador de MPN
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: Conceptos básicos de facturación
       href: billing-basics.md
       displayName: invoice
-    - name: Tipos de facturación del Centro de partners
-      href: billing-different-types.md
     - name: Descripción de la factura
       href: read-your-bill.md
       displayName: invoice

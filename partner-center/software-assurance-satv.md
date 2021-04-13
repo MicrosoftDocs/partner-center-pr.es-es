@@ -31,7 +31,7 @@ Los vales de aprendizaje se están retirando por completo de las ventajas de sof
 
 ## <a name="until-june-30-2021"></a>Hasta el 30 de junio de 2021
 
-### <a name="get-started"></a>Primeros pasos
+### <a name="get-started"></a>Introducción
 
 Si no está familiarizado con los servicios de aprendizaje de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en el programa del justificante de aprendizaje, empiece en el paso cuatro (4) a continuación. 
 

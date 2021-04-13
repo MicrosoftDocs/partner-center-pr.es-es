@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107025000"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266510"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Retirada de servicios de planeación de software Assurance
 
@@ -35,9 +35,8 @@ Los servicios de planeación se retiran completamente de las ventajas de softwar
 >[!NOTE]
 >No hay ningún cambio en el ciclo de vida del vale. Una vez que se crea o se asigna un asiento, se debe completar la reserva del asiento, el compromiso del cliente y el canje del asiento en un plazo de 180 días antes de la expiración del asiento.  Para obtener más información sobre la retirada de programas de Planning Services, consulte las preguntas más frecuentes que se encuentran [aquí](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obtener más información (es necesario iniciar sesión).  Dirija cualquier pregunta al equipo de soporte técnico de asociados regionales: [soporte técnico para asociados de EMEA](mailto:savoucher@msdirectservices.com); [Compatibilidad con asociados generales](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Hasta el 30 de junio de 2021
 
-### <a name="get-started"></a>Primeros pasos
+### <a name="get-started"></a>Introducción
 
 Si no está familiarizado con los servicios de planeación de software Assurance, siga todos los pasos que se indican a continuación. Si ya está activo en los programas de Planning Services, comience cada nuevo compromiso en el paso cuatro (4) a continuación.
 
