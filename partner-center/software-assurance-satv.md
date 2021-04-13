@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024983"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266493"
 ---
 # <a name="training-vouchers-program-retirement"></a>Retirada del programa de los vales de entrenamiento
 
@@ -29,7 +29,7 @@ Los vales de aprendizaje se están retirando por completo de las ventajas de sof
 >[!NOTE]
 >No hay ningún cambio en el ciclo de vida del vale. Una vez que se crea o se asigna un asiento, la reserva de asientos, las sesiones de entrenamiento y el canje del asiento deben completarse en un plazo de 180 días antes de la expiración del vale.  Para obtener más información sobre la retirada del justificante del entrenamiento, consulte las preguntas más frecuentes que se encuentran [aquí](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) para obtener más información (inicio de sesión obligatorio).  Consulte la lista completa de los cursos de aprendizaje válidos para SATV en el catálogo de productos de las ventajas de aprendizaje.  Dirija cualquier pregunta al equipo de soporte técnico de asociados regionales: [soporte técnico para asociados de EMEA](mailto:savoucher@msdirectservices.com); [Compatibilidad con asociados generales](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Hasta el 30 de junio de 2021
+
 
 ### <a name="get-started"></a>Introducción
 
