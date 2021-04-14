@@ -6,15 +6,15 @@ description: Obtén información sobre cómo comprobar la información de tu emp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712603"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315884"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Comprobar o actualizar la información del perfil de empresa 
 
@@ -92,6 +92,17 @@ Para actualizar el id. de MPN asociado a la cuenta de CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Actualización de la dirección de facturación legal de CSP
 
 Si es el administrador global, el administrador de facturación o el agente de administración, puede cambiar la dirección que aparece en la factura en **Payout and tax profile** (Perfil de pago y fiscal). Sin embargo, no puedes cambiar el nombre de la empresa en la factura debido a una limitación con el sistema de facturación.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Captura de pantalla del área donde se agrega la información de facturación.":::
+
+|**Campo**  |**Descripción**|  
+|---------------------|:------------------|
+|Nombre de la compañía de facturación|Nombre de la compañía que aparece en la información de facturación de la factura de CSP.  Esta información no es editable en el Centro de partners.  Para actualizarla, debe crear una incidencia de soporte técnico.|
+|Dirección de facturación|Dirección de facturación que se muestra en la factura de CSP. Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Contacto de facturación|Detalles del contacto de facturación (nombre, apellidos, número principal) de la cuenta de CSP.  Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Número de pedido de compra|Número de pedido de compra que se muestra en la factura del partner.  Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Id. fiscal de la compañía|Las empresas de algunos países pueden proporcionar su [número de IVA (valor añadido) o el equivalente local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Para actualizar el CIF o IVA, debe ser un administrador global, un administrador de facturación o un agente de administración.|
+|Divisa de facturación|La moneda de facturación de la cuenta de CSP viene determinada por el país legal de la cuenta de CSP.  Esto no se puede cambiar una vez creada la cuenta de CSP.|
 
 
 ## <a name="next-steps"></a>Pasos siguientes

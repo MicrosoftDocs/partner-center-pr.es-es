@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502874"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964347"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
 
@@ -105,6 +105,15 @@ Para comprar productos y servicios en nombre de los clientes de CSP, selecciona 
 
 8. Los detalles de tu pedido, incluido el número del pedido, se muestran en la página siguiente. Selecciona **Listo** para ir a tu página **Historial de pedidos**.
 
+### <a name="customer-order-history"></a>Historial de pedidos del cliente
+
+Para ver el historial de pedidos de un cliente:
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
+2. En el menú de la izquierda, elige **Clientes**.
+3. En la página **Clientes**, busca el cliente cuyo historial de pedidos quieras ver. Selecciona la flecha hacia abajo para expandir el registro del cliente.
+4. Elige **Ver pedidos** para mostrar el historial de pedidos del cliente.
+ 
 ## <a name="rules-for-special-segments"></a>Reglas para segmentos especiales
 
 Algunas ofertas basadas en licencias solo se pueden adquirir en determinadas condiciones. Las ofertas de segmentos especiales incluyen ofertas de Educación, organizaciones sin ánimo de lucro o Government Community Cloud (GCC). Puede encontrar más información sobre estas condiciones de compra en el [tema sobre las reglas de compra para segmentos especiales](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
