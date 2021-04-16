@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042725"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964382"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Información general sobre facturación para los partners de programas de CSP que trabajan en el Centro de partners 
 
@@ -67,11 +67,7 @@ En el caso de la facturación única y periódica, el período de facturación s
 
 Las listas de precios se actualizan mensualmente. La vista previa de las listas de precios está disponible con un (1) mes de antelación.
 
-Para ver las listas de precios:
-
-1. [Inicia sesión en el panel del Centro de partners](https://partner.microsoft.com/dashboard/home).
-2. En el menú de la izquierda, elige **Vender** y después selecciona **Precios y ofertas**.
-3. En la página **Precios y ofertas**, puedes ver 6 meses de listas de precios (incluido el mes actual) y obtener la vista previa de las listas de precios (si procede).
+Para ver las ofertas y programas de Proveedor de soluciones en la nube más recientes, en el panel del Portal de partners, vaya a **Vender > Precios y ofertas**. Encontrará listas de precios independientes para los distintos tipos de productos que están disponibles. Las siguientes listas de precios están disponibles en la página **Precios y ofertas**:
 
 Los precios **basados en licencia** están garantizados para el período de la suscripción; normalmente 12 meses desde la fecha de compra. 
 
@@ -99,19 +95,6 @@ Para **exenciones del impuesto sobre el valor añadido (IVA)** , tienes que envi
 
 Puedes obtener más información fiscal en la agencia tributaria local o de tu asesor fiscal.
 
-### <a name="change-billing-frequency"></a>Cambio de la frecuencia de facturación
-
-La frecuencia de facturación se cambia en el nivel de pedido y, una vez que se cambia la frecuencia, el ciclo de facturación revisado se aplicará a todas las suscripciones del pedido. 
-
-Para cambiar la frecuencia de facturación de un servicio en línea para un cliente:
-
-1. [Inicia sesión en el panel del Centro de partners](https://partner.microsoft.com/dashboard/home).
-2. En el menú de la izquierda, elige **Clientes**.
-3. Selecciona el cliente cuya frecuencia de facturación de suscripción quieras cambiar.
-4. En la página **Suscripciones** del cliente, selecciona la suscripción que quieres cambiar.
-5. En la página **Detalles**, en **Frecuencia de facturación**, selecciona **Mensual** o **Anual**. Verás una página de confirmación con información importante sobre cómo cambiar la frecuencia de facturación, así como una lista de las suscripciones que vas a cambiar.
-6. Elige **Aceptar** para hacer el cambio (o **Cancelar** para deshacerlo).
-
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelaciones
 
 Los créditos de cancelación para los servicios basados en licencias se prorratean para los días sin usar en el caso de cancelaciones a mitad de ciclo, así como la reducción de licencias según la fórmula:
@@ -121,6 +104,7 @@ Los créditos de cancelación para los servicios basados en licencias se prorrat
 Microsoft no cobra tarifas por cancelación anticipada en los casos de cancelación de servicios basados en licencia.
 
 ### <a name="billing-rules"></a>Reglas de facturación
+
 Existen dos tipos de frecuencias de facturación hoy: anual y mensual.  
 Las tarifas de servicio de uso medido pueden cambiar durante el ciclo de facturación.
 
@@ -146,24 +130,6 @@ Las tarifas de servicio de uso medido pueden cambiar durante el ciclo de factura
 
 - La factura que recibas solo tendrá los cargos acumulados para ese mes. 
 
-## <a name="manage-one-time-billing"></a>Administración de la facturación de un solo uso
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Estado de la facturación, facturas y archivos de conciliación
-
-Para ver el estado actual de la facturación, las facturas y los archivos de conciliación:
-
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
-2. En el menú de la izquierda, elige **Facturación** y, a continuación, selecciona **Compras periódicas y únicas**.
-3. En la página de estado de facturación, selecciona una factura o un archivo de conciliación para ver información más detallada.
-
-### <a name="customer-order-history"></a>Historial de pedidos del cliente
-
-Para ver el historial de pedidos de un cliente:
-
-1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners.
-2. En el menú de la izquierda, elige **Clientes**.
-3. En la página **Clientes**, busca el cliente cuyo historial de pedidos quieras ver. Selecciona la flecha hacia abajo para expandir el registro del cliente.
-4. Elige **Ver pedidos** para mostrar el historial de pedidos del cliente.
 
 ### <a name="credit-notes"></a>Notas de crédito
 
@@ -178,3 +144,6 @@ Puede que tengas que solicitar un crédito o una nueva facturación por los sigu
 
 - [Descripción del archivo de conciliación y facturación](read-your-bill.md)
 - [Escenarios comunes de facturación para asociados del programa CSP](common-billing-scenarios.md)
+- [Cambio de la frecuencia de facturación](common-billing-scenarios.md)
+- [Historial de pedidos del cliente](csp-offers.md) 
+- [Precios y ofertas](pricing-and-offers.md)

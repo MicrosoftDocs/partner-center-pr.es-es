@@ -1,7 +1,7 @@
 ---
 title: Creación de una cuenta de MPN en el Centro de partners
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo los miembros de Microsoft Partner Network pueden crear una cuenta en el Centro de partners para administrar sus ventajas y competencias en la red.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712926"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266544"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta de MPN en el Centro de partners para administrar las ventajas y las competencias en la red
 
@@ -25,7 +25,7 @@ Si no está familiarizado con Microsoft Partner Network (MPN) y no tiene un id. 
 
 Cuando esté listo para crear una cuenta en el Centro de partners, necesitará tener los siguientes elementos a mano.  Tómate unos minutos para recopilar estos datos antes de comenzar:
 
-- El correo electrónico de trabajo de la empresa o la cuenta profesional de Office 365. Para obtener más información, consulte [Cuenta profesional de la compañía y Centro de partners](azure-active-directory-tenants-and-partner-center.md). 
+- El correo electrónico de trabajo de la empresa o la cuenta profesional de Office 365. Su empresa puede comprar un dominio de correo electrónico para poder configurar las direcciones de correo electrónico laborales para los empleados. Para obtener más información, lee [Your company work account and Partner Center](azure-active-directory-tenants-and-partner-center.md) (Cuenta profesional de la compañía y Centro de partners). 
  
 - Nombre legal y dirección de tu empresa.
 

@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374440"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266527"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
 En esta página se encuentran los anuncios del Centro de partners de Microsoft de abril de 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Recordatorio: desuso de calificación GET para el 4 de mayo de 2021
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 09/04/2021
+- Funcionalidades
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Asociados que venden ofertas académicas, sin ánimo de lucro y de Government Community Cloud (GCC) a través del programa Proveedor de soluciones en la nube mediante la API del Centro de partners.
+
+### <a name="details"></a>Detalles
+
+Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST, y como resultado, la calificación GET existente se retirará el 4 de mayo de 2021. En ese momento, tendrá que haber realizado la transición para usar las nuevas API POST del Centro de partners, para poder comprar ofertas educativas y las nuevas API de calificación GET para adquirir ofertas sin ánimo de lucro y GCC calificadas previamente.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Actualice las nuevas API para conseguir una transición correcta y oportuna.
+
+- Revise los nuevos cambios en la API del Centro de partners y consulte la Guía sobre los recursos de preparación de operaciones: [Mejoras en el proceso de validación de clientes de Educación del Centro de partners](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Comparta esta información con los equipos adecuados de su organización y con sus revendedores para ayudarlos a prepararse para estos cambios.
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene alguna pregunta relacionada con esta notificación, póngase en contacto con el [soporte técnico del Centro de partners](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Registro de cambios
+
+- Abril: recordatorio de la próxima entrada en desuso de la calificación GET 
+- Febrero: escalas de tiempo actualizadas y que dejarán en desuso las calificaciones GET y PUT.
+- Enero: recordatorio de la próxima entrada en desuso de las calificaciones de GET & PUT
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nuevo formato para la nueva factura de comercio en PDF en CSP
