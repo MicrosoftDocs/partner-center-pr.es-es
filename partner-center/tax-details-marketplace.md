@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715925"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894067"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Información sobre impuestos para los publicadores de Marketplace comercial
 
@@ -25,11 +25,11 @@ En esta página se establecen las responsabilidades fiscales y las consideracion
 
 Las responsabilidades de microsoft y publicadores/desarrolladores en relación con las ventas, el uso, los bienes ylos servicios, el valor agregado o los impuestos similares, si los hubiera, en las ventas de los clientes finales (impuestos al cliente final) dependen del país en el que los anunciantes o desarrolladores deciden poner productos o ofertas a disposición de los clientes finales a través de las Microsoft Marketplace(s). En la tabla siguiente se establecen las circunstancias y la responsabilidad de los impuestos del cliente final en los países con ventas aptas Microsoft Marketplace(s).  La información siguiente está sujeta a cambios y los publicadores o desarrolladores son responsables de revisar esta página para obtener información actual y precisa.
 
-En **los países administrados por** el publicador o el desarrollador, Microsoft actúa como agente o responsable (según corresponda) del publicador o desarrollador. Los anunciantes y desarrolladores reconocen y aceptan que los anunciantes o desarrolladores tienen la responsabilidad exclusiva de determinar todo el cumplimiento necesario para y administrar los impuestos del cliente final, incluidos, entre otros, el registro, el cálculo de impuestos, la recopilación de impuestos, la remesa fiscal, la validación del estado empresarial de los clientes y la entrega de facturas fiscales a los clientes. Los anunciantes y desarrolladores reconocen que, con respecto a cualquier venta en un país administrado por el publicador o desarrollador, microsoft actualmente no puede proporcionar los detalles de transacción necesarios para que los publicadores o desarrolladores proporcionen facturas fiscales a los clientes. 
+En **los países administrados por** el publicador o el desarrollador, Microsoft actúa como agente o responsable (según corresponda) del publicador o desarrollador. Los publicadores y desarrolladores reconocen y aceptan que los anunciantes o desarrolladores son los únicos responsables de determinar todo el cumplimiento necesario para y administrar los impuestos del cliente final, incluidos, entre otros, el registro, el cálculo de impuestos, la recopilación de impuestos, la remesa fiscal, la validación del estado empresarial de los clientes y el suministro de facturas fiscales a los clientes. Los anunciantes y desarrolladores reconocen que, con respecto a cualquier venta en un país administrado por el publicador o desarrollador, microsoft actualmente puede no poder proporcionar los detalles de transacción necesarios para que los publicadores o desarrolladores proporcionen facturas fiscales a los clientes. 
 
 En **los países administrados por Microsoft,** Microsoft actúa como agente del publicador o desarrollador. Microsoft asume la responsabilidad de administrar los impuestos del cliente final, incluido el cálculo, la recopilación o la remisión de determinados impuestos. Para Marketplace comercial, esto también puede incluir validar el estado empresarial de los clientes finales mediante la obtención de números de registro de impuestos o certificados de exención. Microsoft administra los impuestos al cliente final a través de filiales locales o filiales remotas que se registran localmente. Facturas de Microsoft en el número de registro de Microsoft. Microsoft incluye los impuestos que se cobran a los clientes finales en la declaración de impuestos de Microsoft.
 
-Microsoft no garantiza que las acciones de Microsoft satisfagan completamente las obligaciones del publicador o desarrollador en los países administrados por Microsoft.  En todos los países administrados por Microsoft, Microsoft recomienda encarecidamente que los anunciantes o desarrolladores trabajen con sus propios asesores fiscales para determinar si la remesa fiscal administrada por Microsoft aborda suficientemente los requisitos de cumplimiento de los anunciantes o desarrolladores. Esto es especialmente crítico para los países administrados por Microsoft desde los que los anunciantes o desarrolladores venden sus productos o ofertas.  Microsoft actúa como agente de publicador o desarrollador en países administrados por Microsoft.
+Microsoft no garantiza que las acciones de Microsoft satisfagan completamente las obligaciones del publicador o desarrollador en los países administrados por Microsoft.  En todos los países administrados por Microsoft, Microsoft recomienda encarecidamente a los anunciantes o desarrolladores que trabajen con sus propios asesores fiscales para determinar si la remesa fiscal administrada por Microsoft aborda suficientemente los requisitos de cumplimiento de los anunciantes o desarrolladores. Esto es especialmente crítico para los países administrados por Microsoft desde los que los publicadores o desarrolladores venden sus productos o ofertas.  Microsoft actúa como agente de publicador o desarrollador en países administrados por Microsoft.
 
 En los países **revendedores,** Microsoft actúa como revendedor, en lugar de como agente del publicador o desarrollador, para poner a disposición de los clientes finales los productos o ofertas del publicador o desarrollador a través de las Microsoft Marketplace(s).  Los anunciantes o desarrolladores son responsables de las ventas, el uso, los bienes y los servicios, el valor agregado o los impuestos similares, si los hubiera, de la venta de productos o ofertas a Microsoft, y Microsoft es responsable de todos los impuestos al cliente final en la reventa a los clientes finales.
 
@@ -39,22 +39,22 @@ En los países **revendedores,** Microsoft actúa como revendedor, en lugar de c
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |Islas Vírgenes de EE. UU.|Congo (RDC)|Jersey|Isla Norfolk|
-|Afganistán|Islas Cook|Jordania|Ucrania|
-|Albania|Costa Rica|Kazajistán|Vanuatu|
-|Argelia|Cote d'Ivore|Kenia|Ciudad del Vaticano|
-|Samoa Americana|Curazao|Kiribati|Venezuela|
-|Andorra|Dübouti|Kuwait|Vietnam|
-|Angola|Dominica|Kirguistán|Wallis & Fununa|
-|Anguila|República Dominicana|Laos|Yemen|
-|Antártida|Ecuador|Líbano|Zambia|
-|Antigua y Barbuda|Egipto|Lesoto|Uruguay||Macedonia del Norte|
-|Aruba|El Salvador|Liberia|
+|Afganistán|Islas Cook|Jordania|Macedonia del Norte|
+|Albania|Costa Rica|Kazajistán|Ucrania|
+|Argelia|Cote d'Ivore|Kenia|Vanuatu|
+|Samoa Americana|Curazao|Kiribati|Ciudad del Vaticano|
+|Andorra|Dübouti|Kuwait|Venezuela|
+|Angola|Dominica|Kirguistán|Vietnam|
+|Anguila|República Dominicana|Laos|Wallis & Fununa|
+|Antártida|Ecuador|Líbano|Yemen|
+|Antigua y Barbuda|Egipto|Lesoto|Zambia|
+|Aruba|El Salvador|Liberia|Uruguay|
 |Azerbaiyán|Guinea Ecuatorial|Libia|
 |Bangladés|Eritrea|RAE de Macao |
 |Barbados|Etiopía|Madagascar|
-|Belice|Islas Malvinas|Malawi|
+|Belice|Islas Malvinas|Malaui|
 |Benín|Islas Feroe|Maldivas|
-|Bermudas|Fiyi|Mali|
+|Bermudas|Islas Fiji|Malí|
 |Bután|Gabón|Islas Marshall|
 |Bolivia|Ghana|Martinque|
 |Bonaire|Georgia|Mauritania|
@@ -66,14 +66,14 @@ En los países **revendedores,** Microsoft actúa como revendedor, en lugar de c
 |Burkina Faso|Guatemala|Montenegro|
 |Burundi|Guernsey|Montserrat|
 |Cabo Verde|Guinea|Marruecos|
-|Camboya|Guinea-Bissau|Mozambique|
-|Camerún|Guyana|Myanmar|
+|Camboya|Guinea-Bisáu|Mozambique|
+|Camerún|Guayana|Myanmar|
 |Islas Caimán|Haití|Namibia|
 |República Centroafricana|Islas Heard & McDonald|Nauru|
 |Chad|Honduras|Nepal|
 |Isla de Navidad|Iraq|Nicaragua|
 |Islas Cocos (Keeling)Islands|Israel|Níger|
-|Comoras|Jamaica|Nigeria|
+|Comores|Jamaica|Nigeria|
 |Congo|Japón|Niue|
 
 
@@ -104,7 +104,7 @@ Chequia|Letonia|Rusia|Emiratos Árabes Unidos|
 |México|Administrado por Microsoft excepto: revendedor para compras a través de un escenario de compra de cliente de contrato Enterprise|Administrado por Microsoft|
 |Australia|Administrado por Microsoft excepto: revendedor para compras a través de un escenario de compra de cliente de contrato Enterprise|Administrado por Microsoft|
 China|Marketplace no habilitado|Revendedor habilitado excepto: desarrollador administrado para dispositivos de comunicaciones móviles que ejecutan Windows Phone 7.x y en equipos personales que ejecutan Windows 8.x|
-|Baréin|Publicador administrado|Administrado por Microsoft|
+|Bahréin|Publicador administrado|Administrado por Microsoft|
 |Omán|Publicador administrado|Administrado por Microsoft|
 
 
@@ -112,7 +112,7 @@ China|Marketplace no habilitado|Revendedor habilitado excepto: desarrollador adm
 
 En los países administrados por publicadores o desarrolladores, el pago de Microsoft a los anunciantes o desarrolladores es neto de la tarifa de la tienda y de los impuestos aplicables, que pueden incluir cualquiera de los siguientes: retención de impuestos y ventas, uso, bienes y servicios, valor agregado o impuestos similares en el precio de la tienda.
 
-En los países y revendedores administrados por Microsoft aplicables, el pago de Microsoft a los anunciantes o desarrolladores es neto de la tarifa de la tienda y de los impuestos aplicables, que pueden incluir cualquiera de los siguientes: Impuesto al cliente final, retención de impuestos y ventas, uso, bienes y servicios, valor agregado o impuestos similares en el precio de la tienda. Los [informes](payout-statement.md) que Microsoft pone a disposición de los publicadores o desarrolladores identifican el importe de estos impuestos. 
+En los países y revendedores administrados por Microsoft aplicables, el pago de Microsoft a los anunciantes o desarrolladores es neto de la tarifa de la tienda y de los impuestos aplicables, que pueden incluir cualquiera de los siguientes: Impuesto al cliente final, retención de impuestos y ventas, uso, bienes y servicios, valor agregado o impuestos similares en la tarifa de la tienda. Los [informes](payout-statement.md) que Microsoft pone a disposición de los publicadores o desarrolladores identifican el importe de estos impuestos. 
 
 Microsoft cobra impuestos sobre las tarifas de las tiendas en los siguientes países en los que los anunciantes o desarrolladores deciden poner los productos o ofertas a disposición de los clientes finales a través de Microsoft Marketplace(s):
 
