@@ -10,17 +10,179 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266527"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728936"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
 En esta página se encuentran los anuncios del Centro de partners de Microsoft de abril de 2021.
+
+________________
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programa Open License: transición de revendedores al programa Proveedor de soluciones en la nube (CSP)
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 19/04/2021
+- Hacer crecer el negocio
+
+### <a name="summary"></a>Resumen
+
+En esta comunicación se detalla cómo prepararse para los cambios que se van a realizar próximamente en el programa Open License.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Asociados de Open License y CSP
+
+### <a name="details"></a>Detalles
+
+En 2020, Microsoft [anunció](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) que las licencias perpetuas de software estarán disponibles ampliamente para asociados y clientes a través del programa Proveedor de soluciones en la nube (CSP). El primer hito se alcanzó en enero de 2021, cuando las ofertas perpetuas de software comerciales se pusieron disponibles. El siguiente hito clave se realizará en julio de 2021, cuando las ofertas del [sector público](https://aka.ms/openlicensepublicsector) estén disponibles. También se ha [comunicado](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) que, a partir del 1 de enero de 2022, no se pueden realizar nuevas compras ni renovaciones de licencias de software de Software Assurance o servicios en línea a través del programa Open License.
+
+La transición del software perpetuo al programa CSP en la nueva experiencia comercial ayudará a los asociados a ampliar las oportunidades de ofrecer diversas soluciones y servicios administrados. Esto también acelerará la transición de los clientes a la nube.  Para ayudar a garantizar una transición sin problemas para nuestros asociados y clientes, hemos realizado estos ajustes y materiales para acelerar esta transformación digital:
+
+#### <a name="april-2021"></a>Abril de 2021
+
+[Ya disponible](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): materiales de transición de Open License a CSP para revendedores.
+
+#### <a name="july-2021"></a>Julio de 2021
+
+##### <a name="csp"></a>CSP
+
+- 1 de julio: licencias perpetuas de software disponibles para los clientes del sector público.
+
+- 7 de julio: licencias perpetuas de software de Visual Studio Pro y Get Genuine Windows Agreement disponibles para todos los segmentos.
+
+##### <a name="open-value"></a>Open Value
+
+- 1 de julio: SKU adicionales disponibles en el programa Open Value para centros educativos y organizaciones sin ánimo de lucro, que proporcionan ofertas similares al programa Open License.
+
+##### <a name="open-license"></a>Open License
+
+- 1 de julio: Microsoft ya no lanzará nuevas ofertas en el programa Open License.
+
+#### <a name="january-2022"></a>Enero de 2022
+
+- A partir del 1 de enero de 2022, no se pueden realizar nuevas compras ni renovaciones mediante el programa Open License.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+#### <a name="csp-indirect-providers"></a>Proveedores indirectos de CSP
+
+Dedique los próximos meses a ayudar a los revendedores de Open License a orientarse en el programa CSP mediante la asistencia a eventos de la comunidad de asociados y el uso de los materiales de transición de Open License a CSP para revendedores:
+
+- [Materiales de transición de Open License a CSP para revendedores](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): presentación de información general personalizable, plantilla de correo electrónico, guía de incorporación de revendedores indirectos de CSP y mucho más para ayudarle a impulsar la adopción de los revendedores a gran escala.
+
+- [Eventos de la comunidad de asociados de CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) hospedados por Microsoft Business Operations.  Únase a las distintas sesiones para obtener información sobre los conceptos básicos de CSP (aspectos básicos de CSP) o mantenerse al día y hacer preguntas sobre el software en CSP (sesiones de preguntas y respuestas).
+
+- (Próximamente) Sesión de entrenamiento centrada en revendedores indirectos de CSP hospedada por Microsoft Business Operations.
+
+#### <a name="open-license-resellers"></a>Revendedores de Open License
+
+- Si su organización no está actualmente inscrita en el programa CSP, póngase en contacto con el distribuidor para obtener información sobre cómo empezar. Conéctese con un proveedor indirecto [aquí](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+
+- Si su organización ya está inscrita en el programa CSP, obtenga más información sobre el software perpetuo en CSP [aquí](https://partner.microsoft.com/resources/collection/software-in-csp).
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene alguna pregunta más sobre estas ofertas, consulte con las comunidades de Yammer correspondientes.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Ya disponible: guía de preparación para la promoción global
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 16/04/2021
+- Capacidades
+
+### <a name="summary"></a>Resumen
+
+La preparación de lanzamiento ha publicado una nueva [guía global de preparación para la promoción](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) en la galería de recursos de preparación de operaciones. En esta guía se proporciona una vista consolidada de todas las [promociones globales](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) activas.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Todos los asociados de licencias por volumen (VL), lista de precios de Dynamics (DPL) y Proveedor de soluciones en la nube (CSP)
+
+### <a name="details"></a>Detalles
+
+Los asociados de Microsoft han compartido con nosotros la necesidad de proporcionar una vista consolidada de todas las promociones globales con detalles de soporte técnico. Querían que esta guía consolidada le ayudara a usar promociones con la confianza de que toda la información disponible fuese fácilmente accesible en una ubicación central y cómoda.
+
+A partir de abril de 2021, Microsoft actualizará esta guía mensualmente y estará disponible en una colección dedicada de preparación para la promoción global en la galería de recursos de preparación de operaciones.
+
+Los vínculos a esta guía también se incluirán en las colecciones siguientes:
+
+- [Colección de calendario de lanzamientos](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/), que proporciona una vista centralizada de los próximos cambios y lanzamientos.
+
+- [Colecciones de la comunidad](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), que contienen materiales de apoyo para nuestras llamadas mensuales de asociados, que resaltan los próximos cambios y temas oportunos de interés operativo.
+
+- [Boletines de asociados](https://partner.microsoft.com/resources/collection/csp-monthly-update#/), como la actualización mensual de CSP.
+
+Como recordatorio mensual, también publicaremos un anuncio del Centro de partners con cada nuevo problema de la guía de preparación para la promoción global.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Al principio de cada mes, encontrará la [guía de preparación para la promoción global](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) más reciente en la [galería de recursos de preparación de operaciones](https://partner.microsoft.com/resources).
+
+Comparta esta información con los contactos adecuados de sus organizaciones y háganos saber lo útil que es la guía a través del artículo "¿Ha sido útil esta página?" situado al final de cada página.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Actualización y recordatorios de la comunidad de Proveedor de soluciones en la nube (CSP) de abril
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 16/04/2021
+- Comunidad | Invitaciones y recordatorios
+
+### <a name="summary"></a>Resumen
+
+Los recursos de la comunidad de CSP están disponibles a petición y se actualizan mensualmente para mantenerlo informado y preparado para el cambio en el programa CSP.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Proveedores indirectos o asociados de factura directa de CSP
+
+### <a name="details"></a>Detalles
+
+Este mes, los recursos incluyen los siguientes temas clave:
+
+- [Actualización a la evolución del programa CSP y cambios en el programa Open License](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [Cambios en los requisitos de incorporación de clientes de CSP en determinadas regiones](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [Nuevo formato para la nueva factura de comercio en PDF en el programa CSP](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+Dentro de la [colección de la comunidad de CSP](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), encontrará:
+
+- El [boletín de actualización mensual de CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global) descargable, que agrega anuncios, actualizaciones, eventos y recordatorios recientes de CSP en un documento fácil de leer.
+
+- El [calendario de anuncios de CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021), que proporciona una vista de escala de tiempo de los próximos cambios que afectan al programa.
+
+- El nuevo [calendario de lanzamientos de productos](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf), donde puede ver las próximas ofertas y lanzamientos de productos.
+
+- [Recursos de actualización de lanzamientos de CSP](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) con contenido fácil de consumir en los cambios operativos clave.
+
+- [Actualizadores y recordatorios](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) sobre temas clave de CSP que reciben interés y consultas.
+
+#### <a name="csp-community-call-qas"></a>Preguntas y respuestas de llamadas de la comunidad de CSP
+
+Las preguntas y respuestas de llamadas de la comunidad están disponibles para ayudarle con preguntas relacionadas con los próximos cambios. Regístrese ahora para las preguntas y respuestas de llamadas de la comunidad que tendrán lugar en abril, mayo y junio. Se centrarán en los lanzamientos más recientes, los actualizadores importantes y los recordatorios.
+
+[Regístrese aquí](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Revise los recursos de la comunidad y regístrese para las preguntas y respuestas de llamadas de la comunidad.
+
+Para asegurarse de que obtiene el máximo partido de las preguntas y respuestas de llamadas de la comunidad, revise el contenido de la comunidad a petición y envíe sus preguntas hasta 48 horas antes de la llamada.
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Las preguntas y respuestas de llamadas de la comunidad de CSP mensuales son el mejor lugar para las preguntas relacionadas con los cambios en el programa CSP. Cada mes, revise el material y envíe sus preguntas de antemano para que podamos dedicar la sesión a los temas más importantes para usted.
+
+Para obtener más información, póngase en contacto con el [soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Recordatorio: desuso de calificación GET para el 4 de mayo de 2021

@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894067"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927754"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Información sobre impuestos para los publicadores de Marketplace comercial
 
@@ -31,12 +31,12 @@ En **los países administrados por Microsoft,** Microsoft actúa como agente del
 
 Microsoft no garantiza que las acciones de Microsoft satisfagan completamente las obligaciones del publicador o desarrollador en los países administrados por Microsoft.  En todos los países administrados por Microsoft, Microsoft recomienda encarecidamente a los anunciantes o desarrolladores que trabajen con sus propios asesores fiscales para determinar si la remesa fiscal administrada por Microsoft aborda suficientemente los requisitos de cumplimiento de los anunciantes o desarrolladores. Esto es especialmente crítico para los países administrados por Microsoft desde los que los publicadores o desarrolladores venden sus productos o ofertas.  Microsoft actúa como agente de publicador o desarrollador en países administrados por Microsoft.
 
-En los países **revendedores,** Microsoft actúa como revendedor, en lugar de como agente del publicador o desarrollador, para poner a disposición de los clientes finales los productos o ofertas del publicador o desarrollador a través de las Microsoft Marketplace(s).  Los anunciantes o desarrolladores son responsables de las ventas, el uso, los bienes y los servicios, el valor agregado o los impuestos similares, si los hubiera, de la venta de productos o ofertas a Microsoft, y Microsoft es responsable de todos los impuestos al cliente final en la reventa a los clientes finales.
+En **los** países revendedores, Microsoft actúa como revendedor, en lugar de como agente del publicador o desarrollador, para poner a disposición de los clientes finales los productos o ofertas del publicador o desarrollador a través de las Microsoft Marketplace(s).  Los anunciantes o desarrolladores son responsables de las ventas, el uso, los bienes y los servicios, el valor agregado o los impuestos similares, si los hubiera, de la venta de productos o ofertas a Microsoft, y Microsoft es responsable de todos los impuestos al cliente final en la reventa a los clientes finales.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Países administrados por el publicador o el desarrollador: 
 
-|   |    |    |   |
+| Países | Países (continuación) | Países (continuación) | Países (continuación) |
 |---------------|:------------------|:--------|:----------|
 |Islas Vírgenes de EE. UU.|Congo (RDC)|Jersey|Isla Norfolk|
 |Afganistán|Islas Cook|Jordania|Macedonia del Norte|
@@ -69,17 +69,17 @@ En los países **revendedores,** Microsoft actúa como revendedor, en lugar de c
 |Camboya|Guinea-Bisáu|Mozambique|
 |Camerún|Guayana|Myanmar|
 |Islas Caimán|Haití|Namibia|
-|República Centroafricana|Islas Heard & McDonald|Nauru|
+|República Centroafricana|Islas Heard & Islas McDonald|Nauru|
 |Chad|Honduras|Nepal|
 |Isla de Navidad|Iraq|Nicaragua|
-|Islas Cocos (Keeling)Islands|Israel|Níger|
+|Islas Cocos (Keeling)|Israel|Níger|
 |Comores|Jamaica|Nigeria|
 |Congo|Japón|Niue|
 
 
 ### <a name="microsoft-managed-countries"></a>Países administrados por Microsoft
 
-| | |  |  |
+| Países | Países (continuación) | Países (continuación) | Países (continuación) |
 |---------|-----------|--------|----|
 |Armenia|Finlandia|Luxemburgo|Singapur|
 |Austria|Francia|Malasia|Eslovaquia|
@@ -101,8 +101,8 @@ Chequia|Letonia|Rusia|Emiratos Árabes Unidos|
 |**País**|**Marketplace comercial (Azure Marketplace & AppSource)**| **Marketplace de consumidores (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
 |Brasil|Revendedor excepto: publicador administrado para las compras realizadas a través del escenario de compra de clientes de CSP|Administrado por el desarrollador excepto: revendedor para las compras realizadas a través de dispositivos que se ejecutan en Windows 10|
-|México|Administrado por Microsoft excepto: revendedor para compras a través de un escenario de compra de cliente de contrato Enterprise|Administrado por Microsoft|
-|Australia|Administrado por Microsoft excepto: revendedor para compras a través de un escenario de compra de cliente de contrato Enterprise|Administrado por Microsoft|
+|México|Administrado por Microsoft, excepto: revendedor para las compras a través del escenario de compra de clientes del contrato Enterprise|Administrado por Microsoft|
+|Australia|Administrado por Microsoft, excepto: revendedor para las compras a través del escenario de compra de clientes del contrato Enterprise|Administrado por Microsoft|
 China|Marketplace no habilitado|Revendedor habilitado excepto: desarrollador administrado para dispositivos de comunicaciones móviles que ejecutan Windows Phone 7.x y en equipos personales que ejecutan Windows 8.x|
 |Bahréin|Publicador administrado|Administrado por Microsoft|
 |Omán|Publicador administrado|Administrado por Microsoft|
