@@ -2,85 +2,90 @@
 title: Solicitar un crédito de contrato de nivel de servicio de Microsoft
 ms.topic: article
 ms.date: 03/31/2021
-description: Obtenga información sobre las ventajas, restricciones y procedimientos para solicitar un crédito de contrato de nivel de servicio (SLA) de Microsoft si los clientes experimentan una interrupción del servicio.
+description: Conozca las ventajas, restricciones y procedimientos para solicitar un crédito de contrato de nivel de servicio (SLA) a Microsoft si los clientes experimentan una interrupción del servicio.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103832"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018159"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Cómo y cuándo solicitar un crédito de contrato de nivel de servicio (SLA) de Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Cómo y cuándo solicitar un crédito de contrato de nivel de servicio (SLA) a Microsoft
 
-Puede solicitar **créditos de contrato de nivel de servicio (SLA)** de Microsoft si un servicio que está proporcionando para sus clientes tiene una interrupción.
+**Roles adecuados**
 
-## <a name="sla-credit-calculation"></a>Cálculo del contrato de nivel de servicio
+- Agente de administrador
+- Administrador global
 
-Los créditos de contrato de nivel de servicio de Microsoft se determinan en función de los servicios afectados. Por ejemplo, si el cliente tiene un conjunto de Office 365 pero solo se ha producido una interrupción de SharePoint, el crédito del contrato de nivel de servicio se aprueba solo para SharePoint y no para el plan completo del cliente.
+Puede solicitar créditos de contrato de nivel de servicio **(SLA)** a Microsoft si un servicio que está proporcionando a los clientes tiene una interrupción.
 
-*Los créditos se prorratean en función del servicio afectado y de la duración de la interrupción.* Para ver los tipos de escenarios que reúnen los créditos del contrato de nivel de servicio, consulte el [documento de SLA consolidado de servicios en línea](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Esta información se aplica también a los servicios que se venden a través del programa proveedor de soluciones en la nube.
+## <a name="sla-credit-calculation"></a>Cálculo del crédito del Acuerdo de Nivel de Servicio
+
+Los créditos del Acuerdo de Nivel de Servicio de Microsoft se determinan en función de los servicios que se han afectado. Por ejemplo, si el cliente tiene un conjunto de Office 365 pero solo ha experimentado una interrupción de SharePoint, el crédito del Acuerdo de Nivel de Servicio solo se aprueba para SharePoint y no para todo el plan del cliente.
+
+*Los créditos se prorratea según el servicio afectado y la duración de la interrupción.* Para ver los tipos de escenarios que reúnen los requisitos para los créditos del Acuerdo de Nivel de Servicio, consulte el documento de Acuerdo de Nivel de [Servicio consolidado de Online Services](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). Esta información también se aplica a los servicios vendidos a través Proveedor de soluciones en la nube programa.
 
 
-## <a name="request-an-sla-credit"></a>Solicitar un crédito de contrato de nivel de servicio
+## <a name="request-an-sla-credit"></a>Solicitud de un crédito del Acuerdo de Nivel de Servicio
 
-*El asociado del proveedor de soluciones en la nube (CSP) debe enviar la demanda y toda la información necesaria hasta el final del mes natural siguiente al mes en el que se produjo el incidente.* Por ejemplo, si el incidente se produjo el 15 de febrero, Microsoft debe recibir la demanda y toda la información necesaria antes del 31 de marzo. Los clientes finales y los distribuidores indirectos no pueden enviar notificaciones de crédito del contrato de nivel de servicio. el proveedor indirecto o el asociado directo de factura debe enviar notificaciones en su nombre.
+*El Proveedor de soluciones en la nube (CSP) debe enviar la notificación y toda la información necesaria al final del mes natural siguiente al mes en el que se produjo el incidente.* Por ejemplo, si el incidente se produjo el 15 de febrero, Microsoft debe recibir la notificación y toda la información necesaria antes del 31 de marzo. Los clientes finales y revendedores indirectos no pueden enviar notificaciones de crédito del Acuerdo de Nivel de Servicio. el proveedor indirecto o el asociado de facturación directa deben enviar notificaciones en su nombre.
 
 >[!NOTE]
->Los incidentes de asesoramiento ([Cómo comprobar el estado del servicio Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) no son válidos para los créditos del contrato de nivel de servicio.
+>Los incidentes de asesoramiento[(cómo comprobar Microsoft 365 estado](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)del servicio) no son aptos para los créditos del Acuerdo de Nivel de Servicio.
 
 ### <a name="required-information"></a>Información necesaria
 
-El nombre del cliente, el identificador del inquilino, el vale del socio comercial y la marca de fecha y hora de creación de vales no son suficientes para que se procese una solicitud.
+El nombre del cliente, el identificador de inquilino, el número de vale de partner y la marca de fecha y hora creadas no son suficientes para que se procese una notificación.
 
-Antes de [enviar una solicitud de crédito de contrato](#submit-sla-credit-request) de nivel de servicio a Microsoft, debe recopilar **toda** la información siguiente para incluirla en la incidencia de soporte técnico:
+Antes de enviar una solicitud de crédito  del [Acuerdo](#submit-sla-credit-request) de Nivel de Servicio a Microsoft, debe recopilar toda la información siguiente para incluirla en la vale de soporte técnico:
 
 - GUID del inquilino del cliente
-- ¿El [identificador del incidente de interrupción](#outage-incident-identifier)?
-- Evidencia de que el cliente se ha visto afectado por la interrupción y ha solicitado un crédito del contrato de nivel de servicio.
-- ¿Las suscripciones afectadas se han adquirido a través de CSP? (*sí* o *no*)
+- El identificador [de incidente de interrupción](#outage-incident-identifier)?
+- Evidencia de que el cliente se ha afectado por la interrupción y ha solicitado un crédito del Acuerdo de Nivel de Servicio.
+- ¿Se compraron las suscripciones afectadas a través de CSP? (*sí* o *no*)
 
-#### <a name="evidence-that-proves-customer-impact"></a>Evidencia que demuestra el impacto del cliente
+#### <a name="evidence-that-proves-customer-impact"></a>Evidencia que demuestra el impacto en el cliente
 
 - Información sobre el tiempo y la duración del tiempo de inactividad
-- El número y la ubicación de los usuarios afectados (si es aplicable)
-- Descripciones de los intentos de resolver el incidente en el momento de la aparición
+- Número y ubicación de los usuarios afectados (si procede)
+- Descripciones de los intentos de resolver el incidente en el momento de la repetición
 - Un correo electrónico del cliente afectado que solicita soporte técnico y, posteriormente, crédito
-- El número de incidencias de soporte técnico y los detalles del contacto del cliente con respecto a la resolución del impacto del servicio
+- El número de vale de soporte técnico y los detalles del contacto del cliente con respecto a la resolución del impacto en el servicio
 
 
 #### <a name="outage-incident-identifier"></a>Identificador de incidente de interrupción
 
-Puede encontrar el identificador del incidente de interrupción en la página **Service Health** del centro de administración de Microsoft 365. El **identificador del incidente de interrupción** es un número precedido por una abreviatura de dos letras que indica el servicio afectado (por ejemplo, *EX25194* para una interrupción de Exchange Online). En la tabla siguiente se describen las abreviaturas de servicio comunes:
+Puede encontrar el identificador del incidente de interrupción en la **Service Health** de la Centro de administración de Microsoft 365. El **identificador de incidente** de interrupción es un número precedido por una abreviatura de dos letras que indica el servicio afectado (por ejemplo, *EX25194* para una interrupción de Exchange Online). En la tabla siguiente se describen las abreviaturas de servicio comunes:
 
 | Abreviatura de dos letras | Servicio de Microsoft |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
 | FO | Protección de Exchange Online |
-| SB | Skype empresarial online (anteriormente, Lync Online) |
+| SB | Skype Empresarial Online (anteriormente Lync Online) |
 | SO | Suscripción a Office |
 | PB | Power BI para Office 365 |
 | SP | SharePoint Online |
-| Cherokee | Yammer Enterprise |
+| YA | Yammer Enterprise |
 | MO | Error del portal |
 
-### <a name="submit-sla-credit-request"></a>Enviar solicitud de crédito del contrato de nivel de servicio
+### <a name="submit-sla-credit-request"></a>Envío de una solicitud de crédito del Acuerdo de Nivel de Servicio
 
-Para enviar la solicitud de crédito del contrato de nivel de servicio a Microsoft a través del panel del centro de Partners:
+Para enviar la solicitud de crédito del Acuerdo de Nivel de Servicio a Microsoft a través Centro de partners panel:
 
 1. Inicie sesión en el panel del Centro de partners.
-2. En el menú de la izquierda, elija **solicitudes de servicio** y, a continuación, seleccione **solicitudes de soporte técnico de asociados**.
-3. En la página **solicitud de socio comercial** , elija **nueva solicitud**.
-4. En la página **iniciar la solicitud** , busque la sección **CSP-clientes, pedidos y suscripciones**. En esta sección, elija **seleccionar un tipo de problema** y, a continuación, seleccione **solicitudes de crédito de servicios de cliente**.
-5. En la página **soluciones recomendadas** , en **¿necesita más ayuda?**, elija **sí**.
-6. En la página **detalles** , rellene la sección **detalles del problema** . En el cuadro de texto **detalles** , asegúrese de escribir la [información necesaria](#required-information) que recopiló anteriormente.
-7. Elija **submit (enviar** ) para enviar la solicitud de crédito del contrato de nivel de servicio.
+2. En el menú de la izquierda, elija **Solicitudes de servicio y,** a continuación, **seleccione Solicitudes de soporte técnico para asociados.**
+3. En la **página Solicitud de** asociado, elija Nueva **solicitud.**
+4. En la **página Iniciar la solicitud,** busque la sección **CSP : clientes, pedidos y suscripciones.** En esta sección, elija **Seleccionar un tipo de problema y,** a continuación, seleccione Solicitudes de crédito de servicios de **cliente**.
+5. En la **página Soluciones recomendadas,** en **¿Necesita más ayuda?**, elija **Sí.**
+6. En la **página Detalles,** rellene la sección **Detalles del** problema. En el **cuadro de** texto Detalles, asegúrese de escribir la [información necesaria](#required-information) que ha recopilado anteriormente.
+7. Elija **Enviar para** enviar la solicitud de crédito del Acuerdo de Nivel de Servicio.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Informar de problemas en nombre del cliente](report-problems-on-behalf-of-a-customer.md)
+- [Informe de problemas en nombre del cliente](report-problems-on-behalf-of-a-customer.md)
