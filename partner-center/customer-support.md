@@ -1,6 +1,6 @@
 ---
-title: Proporcionar soporte técnico a sus clientes
-description: Obtenga información sobre las responsabilidades de soporte al cliente para asociados en el programa CSP. Cubre la compatibilidad con la facturación, la administración de suscripciones y los problemas técnicos.
+title: Proporcionar soporte técnico a los clientes
+description: Obtenga información sobre las responsabilidades de soporte al cliente para los asociados en el programa CSP. Abarca la compatibilidad con la facturación, la administración de suscripciones y los problemas técnicos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: Kim-Davis
@@ -9,46 +9,48 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541037"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172275"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Proporcionar diferentes tipos de soporte técnico a sus clientes
 
 **Se aplica a**
 
--  Centro de partners
 -  Centro de partners para Microsoft Cloud for US Government
 
+**Roles adecuados**
 
-## <a name="microsoft-partner-support-guidance"></a>Guía de soporte técnico de Microsoft Partner
+- Agente de ayuda
 
-Los asociados que transaccionen el modelo de CSP son el asesor de confianza para sus clientes y, si usted es un asociado de factura directo, es el propietario de la relación de un extremo a otro. Los revendedores indirectos deberían trabajar con sus proveedores indirectos para dar soporte a los clientes. Esta relación incluye ofrecer soporte técnico a los clientes cuando tienen preguntas o problemas. Al proporcionar soporte técnico a los clientes, tiene la oportunidad de obtener más información sobre ellos y su negocio. Esto le ayudará a identificar nuevos servicios y soluciones que conforman el valor de la unidad.
+## <a name="microsoft-partner-support-guidance"></a>Guía de soporte técnico para asociados de Microsoft
 
-Para cumplir los requisitos de soporte técnico, puede revender soporte técnico de otra compañía, externalizar toda o parte de la estructura de soporte técnico o configurar una estructura para proporcionar soporte técnico directamente. Puede cobrar por toda o parte del soporte técnico proporcionado a los clientes. Asegúrese de indicar a los clientes los tipos de soporte técnico que proporcionará, las horas de servicio, el método de contacto y los precios (si cobra por soporte técnico).
+Los asociados que realizan transacciones en el modelo CSP son el asesor de confianza para sus clientes y, si es un asociado de factura directa, poseen la relación de un extremo a otro. Los revendedores indirectos deben trabajar con sus proveedores indirectos para dar soporte a los clientes. Esta relación incluye la compatibilidad con los clientes cuando tienen preguntas o problemas. Al proporcionar soporte técnico a los clientes, tiene la oportunidad de obtener más información sobre ellos y su negocio. Esto le ayuda a identificar nuevos servicios y soluciones que impulsan el valor.
 
-Los clientes de CSP no pueden crear vales de soporte técnico ellos mismos. Deben ponerse en contacto con usted para obtener soporte técnico. Los asociados de CSP son necesarios para recibir solicitudes de soporte técnico entrantes de sus clientes, diagnosticar problemas a lo mejor de su capacidad y, a continuación, resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si no puede resolver un problema, puede remitir problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
+Para satisfacer el requisito de soporte técnico, puede revender el soporte técnico de otra empresa, externalizar todo o parte de la estructura de soporte técnico o configurar una estructura para proporcionar soporte técnico directamente. Puede cobrar por todo o parte del soporte técnico proporcionado a los clientes. Asegúrese de que le dice a los clientes los tipos de soporte técnico que va a proporcionar, las horas de servicio, el método de contacto y los precios (si cobra por el soporte técnico).
 
-- El soporte técnico de problemas **comerciales** está disponible para todos los asociados del programa CSP
+Los clientes de CSP no pueden crear vales de soporte técnico por sí mismos. Deben ponerse en contacto con usted para obtener soporte técnico. Los asociados de CSP deben recibir solicitudes de soporte técnico entrantes de sus clientes, diagnosticar los problemas de la mejor manera posible y, a continuación, resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si no puede resolver un problema, puede escalar los problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
-- Soporte **técnico** de problemas: puede [comparar planes de soporte](https://partner.microsoft.com/support/partnersupport) técnico de asociados o para obtener más información, consulte los siguientes vínculos sobre un plan de soporte técnico específico:
+- **La compatibilidad** con problemas comerciales está disponible para todos los asociados del programa CSP
 
-  - [Soporte técnico Premier para asociados](https://partner.microsoft.com/support/microsoft-services-premier-support) (tarifa base, usar para todos los productos)
+- **Soporte** técnico de problemas: puede comparar los planes de [soporte técnico](https://partner.microsoft.com/support/partnersupport) de asociados o, para más información, consulte los vínculos siguientes sobre un plan de soporte técnico específico:
 
-  - [Soporte técnico avanzado para asociados](https://partner.microsoft.com/support/advanced-cloud-support) (solo tarifas, uso para productos en la nube)
+  - [soporte técnico Premier para asociados](https://partner.microsoft.com/support/microsoft-services-premier-support) (base de cuota, uso para todos los productos)
 
-  - [Compatibilidad con la nube de firmas](manage-your-partner-network-benefits.md) (incluida con las ventajas de MPN para las competencias Gold o Silver, uso solo para productos en la nube)
+  - [Soporte avanzado para asociados](https://partner.microsoft.com/support/advanced-cloud-support) (base de cuota, uso solo para productos en la nube)
 
-  - [Incidentes de soporte](manage-your-partner-network-benefits.md) técnico de productos (incluidos con las ventajas de MPN para los asociados de Gold, Silver o Microsoft Action Pack, que solo se usan para los productos locales recientes)
+  - [Soporte técnico Signature Cloud](manage-your-partner-network-benefits.md) (se incluye con las ventajas de MPN para las competencias Gold o Silver, se usa solo para productos en la nube)
+
+  - [Incidentes de soporte técnico del](manage-your-partner-network-benefits.md) producto (incluidos con las ventajas de MPN para asociados gold, silver o microsoft Action Pack, solo para productos locales recientes)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
 Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, vea los siguientes documentos.
 
-- [Suscripciones a Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Suscripciones de Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Suscripciones de Azure vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 

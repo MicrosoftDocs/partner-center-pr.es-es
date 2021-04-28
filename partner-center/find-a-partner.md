@@ -8,42 +8,42 @@ description: Como asociado de Microsoft, puede tener preguntas sobre cómo ayuda
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041109"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172343"
 ---
-# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Busque un asociado o proveedor de soluciones para responder a preguntas sobre programas, licencias o negocios del cliente 
+# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Buscar un asociado o proveedor de soluciones para responder preguntas sobre programas, licencias o ofertas de clientes 
 
-**Se aplica a**
+**Roles adecuados**
 
-- Asociados de Microsoft MPN, asociados de CSP y otros
+- Todos los asociados de Microsoft
 
-En este artículo se indica a los asociados de Microsoft cómo encontrar a otros asociados que puedan ayudarles a tener éxito con los productos y servicios de Microsoft.
+En este artículo se indica a los asociados de Microsoft cómo buscar otros asociados que puedan ayudarles a ellos y a sus clientes a tener éxito con los productos y servicios de Microsoft.
 
-## <a name="different-microsoft-partners-and-solution-providers"></a>Distintos asociados y proveedores de soluciones de Microsoft
+## <a name="different-microsoft-partners-and-solution-providers"></a>Diferentes asociados de Microsoft y proveedores de soluciones
 
-Hay muchos tipos de socios o distribuidores en el ecosistema de asociados de Microsoft. Algunos de los descritos en este artículo incluyen:
+Hay muchos tipos de asociados o distribuidores en el ecosistema de asociados de Microsoft. Algunas de las que se tratan en este artículo incluyen:
 
-- Los revendedores indirectos del programa proveedor de soluciones en la nube (CSP) y sus proveedores indirectos
-- Distribuidores de programas de licencias por volumen
-- Distribuidores OEM
+- Proveedor de soluciones en la nube revendedores indirectos del programa (CSP) y sus proveedores indirectos
+- Distribuidores del programa de licencias por volumen
+- Distribuidores de OEM
 
-Para obtener más información acerca de las relaciones de socios comerciales en el programa CSP, consulte [diferentes formas de trabajar con otros asociados en el centro de Partners](work-with-other-partners.md).
+Para obtener más información sobre las relaciones de asociados en el programa CSP, vea Diferentes formas de trabajar con [otros asociados en Centro de partners](work-with-other-partners.md).
 
-## <a name="find-a-partner-solution-provider-or-distributor"></a>Buscar un asociado, un proveedor de soluciones o un distribuidor
+## <a name="find-a-partner-solution-provider-or-distributor"></a>Búsqueda de un asociado, proveedor de soluciones o distribuidor
 
-Vea la tabla siguiente para ayudarle a localizar un socio comercial o un distribuidor.
+Consulte la tabla siguiente para ayudarle a encontrar un asociado o distribuidor.
 
 |Para hacer esto  | Lea este  |
 |:------------------|:--------------- |
-|Buscar un proveedor indirecto *de CSP (para los revendedores indirectos de CSP que todavía no tienen un proveedor indirecto asignado)* | [Microsoft Partner Network página de búsqueda de proveedor indirecto](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
-|Buscar un proveedor o distribuidor de soluciones de programas de licencias por volumen  | [Página de búsqueda de proveedores de soluciones de Microsoft](https://www.microsoft.com/solution-providers/home)  |
-|Buscar un distribuidor de canal OEM autorizado por Microsoft  | [Página de búsqueda OEM de centro de Partners de dispositivos de Microsoft](https://devicepartner.microsoft.com/connect/distributor)  |
+|Buscar un proveedor indirecto de CSP *(para revendedores indirectos* de CSP que aún no tienen un proveedor indirecto asignado) | [Microsoft Partner Network de búsqueda de proveedores indirectos](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Buscar un distribuidor o proveedor de soluciones del programa de licencias por volumen  | [Página de búsqueda del proveedor de soluciones de Microsoft](https://www.microsoft.com/solution-providers/home)  |
+|Buscar un distribuidor de canales OEM autorizado por Microsoft  | [Página de búsqueda Centro de partners OEM de Microsoft Device](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Convertirse en un revendedor indirecto en el programa CSP](https://partner.microsoft.com/licensing)
-- [Más información sobre revendedores indirectos y proveedores indirectos en el programa CSP](work-with-other-partners.md)
+- [Convertirse en revendedor indirecto en el programa CSP](https://partner.microsoft.com/licensing)
+- [Más información sobre los revendedores indirectos y los proveedores indirectos en el programa CSP](work-with-other-partners.md)
