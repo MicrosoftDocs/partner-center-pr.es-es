@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266544"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120807"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta de MPN en el Centro de partners para administrar las ventajas y las competencias en la red
 
+**Roles adecuados**
+
+- Administrador de partners de MPN
 
 Si no está familiarizado con Microsoft Partner Network (MPN) y no tiene un id. de MPN, puede realizar la inscripción siguiendo las [instrucciones de inscripción](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
