@@ -1,116 +1,123 @@
 ---
-title: Panel de información general de Partner Center Insights
+title: panel de información general de Centro de partners Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea una instantánea de cómo realiza las ventas e implementación, el crecimiento de los clientes y el crecimiento de los ingresos con licencias, suscripciones y consumo de Azure.
+description: Vea una instantánea de cómo está haciendo con las ventas y la implementación, el crecimiento de los clientes y el crecimiento de los ingresos con licencias, suscripciones y consumo de Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220493"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120824"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Información general sobre los informes del panel disponibles en la información del centro de Partners
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Revisar los informes del panel disponibles en la Información acerca del Centro de partners
  
-El panel Información general de Insights proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure, licencias, etc. Puede visualizar los siguientes gráficos en el informe de información general.
+**Roles adecuados**
+
+- Administrador global
+- Agente de administrador
+- Visor de informes
+- Visor de informes ejecutivos
+
+El panel Información general proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure y licencias. Puede visualizar los gráficos siguientes en el informe De información general.
 
 - Resumen  
-- Distribución geográfica de sus clientes, suscripciones y licencias  
+- Propagación geográfica de sus clientes, suscripciones y licencias  
 - Tendencia de crecimiento de los clientes 
 - Tendencia de crecimiento de suscripciones 
-- Tendencia de crecimiento de ingresos consumido de Azure 
+- Tendencia de crecimiento de los ingresos consumidos por Azure 
 - Tendencia de crecimiento de licencias 
 
 ## <a name="summary"></a>Resumen
 
-El resumen incluye información sobre los clientes, ingresos consumidos de Azure (ACR), suscripciones vendidas, suscripciones activas y licencias implementadas. 
+El resumen incluye información sobre los clientes, Ingresos por consumo de Azure (ACR), las suscripciones vendidas, las suscripciones activas y las licencias implementadas. 
 
 :::image type="content" source="images/pci/summary.png" alt-text="Resumen de licencias":::
 
-Consulte a continuación para obtener más información acerca de cada sección del Resumen.
+A continuación se proporciona más información sobre cada sección del resumen.
 
 ### <a name="customers"></a>Clientes
 
-El área **clientes** incluye:
+El **área Clientes** incluye:
 
-- El recuento actual de todos los clientes con al menos una suscripción activa asociada a su empresa a través de diferentes tipos de atribución y en todos los productos en la nube.
-- El porcentaje de crecimiento de los clientes durante el intervalo de fechas seleccionado.
-- El micro gráfico presenta la tendencia de mes a mes del recuento de clientes en el intervalo de fechas seleccionado.
+- Recuento actual de todos los clientes con al menos una suscripción activa asociada a su empresa a través de diferentes tipos de atribución y en todos los productos en la nube.
+- Porcentaje de crecimiento de los clientes durante el intervalo de fechas seleccionado.
+- El micro chart presenta la tendencia mensual del recuento de clientes dentro del intervalo de fechas seleccionado.
 
-### <a name="azure-consumed-revenue-acr"></a>Ingresos consumidos por Azure (ACR)
+### <a name="azure-consumed-revenue-acr"></a>Ingresos por consumo de Azure (ACR)
 
-El área **ingresos consumidos de Azure (ACR)** del resumen incluye:
+El **área Ingresos por consumo de Azure (ACR)** del resumen incluye:
 
-- El total de ingresos consumidos de Azure (en EE. UU. $) le atribuye el intervalo de fechas seleccionado.
-- Porcentaje de crecimiento o disminución del ACR con atributos (en US $) durante el intervalo de fechas seleccionado.
-- El micro gráfico presenta una tendencia mensual del ACR que nos atribuye al usuario sobre el intervalo de fechas seleccionado. 
+- El total Ingresos por consumo de Azure (en US $) que se le atribuyó en el intervalo de fechas seleccionado.
+- Porcentaje de crecimiento o disminución de ACR con atributos (en US $) durante el intervalo de fechas seleccionado.
+- El micro chart presenta una tendencia mensual de ACR US$ que se le atribuyó en el intervalo de fechas seleccionado. 
 
 > [!NOTE]
-> Los datos de ingresos consumidos de Azure (ACR) están disponibles para los usuarios a los que se ha asignado el rol ejecutivo de visor de informes. 
+> Ingresos por consumo de Azure (ACR) están disponibles para los usuarios a los que se ha asignado el rol visor de informes ejecutivos 
  
 ### <a name="subscriptions-sold"></a>Suscripciones vendidas
 
-El área **suscripciones vendidas** en el resumen incluye:
+El **área Suscripciones vendidas** del resumen incluye:
 
-- El número total actual de suscripciones de productos en la nube (activas e inactivas) que le vendió o administra.  
-- El crecimiento porcentual o el rechazo en las suscripciones durante el intervalo de fechas seleccionado.
-- El micro gráfico presenta la tendencia de mes a mes de las suscripciones totales sobre el intervalo de fechas seleccionado.
+- Recuento total actual de suscripciones de productos en la nube (activas e inactivas) vendidas o administradas por usted.  
+- Porcentaje de crecimiento o disminución de suscripciones durante el intervalo de fechas seleccionado.
+- El micro gráfico presenta la tendencia de mes a mes del total de suscripciones durante el intervalo de fechas seleccionado.
 
 ### <a name="active-subscriptions"></a>Suscripciones activas
 
-El área **suscripciones activas** del resumen incluye:
+El **área Suscripciones activas** del resumen incluye:
 
-- El recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.  
-- El porcentaje de crecimiento de las suscripciones activas en el intervalo de fechas seleccionado.
+- Recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.  
+- Porcentaje de crecimiento de suscripciones activas en el intervalo de fechas seleccionado.
 - El micro gráfico presenta la tendencia de mes a mes de las suscripciones activas en el intervalo de fechas seleccionado.
  
 ### <a name="licenses-deployed"></a>Licencias implementadas
 
-El área de **licencias implementadas** en el resumen incluye:
+El **área Licencias implementadas** en el resumen incluye:
  
-- El recuento de todas las licencias de productos en la nube implementadas en las suscripciones de clientes durante el período de tiempo seleccionado. 
-- El crecimiento porcentual o el rechazo en estas licencias durante el intervalo de fechas seleccionado. 
+- Recuento de todas las licencias de productos en la nube implementadas en las suscripciones de los clientes durante el período de tiempo seleccionado. 
+- Porcentaje de crecimiento o disminución de estas licencias durante el intervalo de fechas seleccionado. 
 - El micro gráfico muestra la tendencia de mes a mes de estas licencias asignadas en el intervalo de fechas seleccionado.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Distribución geográfica de sus clientes, suscripciones y licencias
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Propagación geográfica de sus clientes, suscripciones y licencias
 
-Esta vista es una distribución geográfica del total de clientes, suscripciones y licencias por país del cliente. Haga clic en las distintas pestañas para ver cada una de estas perspectivas en el mapa. Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Vuelva a la vista original presionando el botón Inicio en el mapa. Al hacer clic en cada pestaña (por ejemplo, clientes, suscripciones), se muestra el valor de la métrica para cada país, así como el% del total del país.  
+Esta vista es una distribución geográfica del total de clientes, suscripciones y licencias por país del cliente. Seleccione las distintas pestañas para ver cada una de estas conclusiones en el mapa. Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Vuelva a la vista original presionando el botón Inicio del mapa. Al hacer clic en cada pestaña (por ejemplo, Clientes, Suscripciones) se muestra el valor de la métrica de cada país y el porcentaje del total del país.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Resumen geográfico":::
 
 ## <a name="customers-growth-trend"></a>Tendencia de crecimiento de los clientes
 
-Tendencia mensual de recuentos totales de clientes para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento total de clientes para ese mes. 
+Tendencia mensual del número total de clientes para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento total de clientes para ese mes. 
 
 :::image type="content" source="images/pci/customergrowth.png" alt-text="tendencia de crecimiento de los clientes":::
 
 ## <a name="subscriptions-growth-trend"></a>Tendencia de crecimiento de suscripciones
 
-Esto indica la tendencia del recuento de suscripciones de clientes para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de suscripciones del producto seleccionado. Desplácese por el control deslizante situado en la parte superior del gráfico para acercar el gráfico hasta un período de tiempo específico. 
+Esto indica la tendencia del recuento de suscripciones de cliente para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de suscripciones del producto seleccionado. Desplácese por el control deslizante de la parte superior del gráfico para acercar el gráfico a un período de tiempo específico. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendencia de crecimiento de suscripciones":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendencia de crecimiento de la suscripción":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Tendencia de crecimiento de ingresos consumido de Azure
+## <a name="azure-consumed-revenue-growth-trend"></a>Ingresos por consumo de Azure tendencia de crecimiento
 
-Tendencia mensual de los ingresos consumidos por Azure $ con el atributo en el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el total de ingresos consumidos de Azure $ atribuidos a usted durante el mes.
+Tendencia mensual de los ingresos consumidos por Azure en US$ que se le atribuyó en el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa los ingresos totales consumidos por Azure en US$ que se le atribuyen durante el mes.
 
 > [!NOTE]
-> Los ingresos consumidos por Azure (ACR) solo estarán visibles para los usuarios a los que se haya asignado el rol Executive Report Viewer. 
+> Ingresos por consumo de Azure (ACR) solo será visible para los usuarios a los que se haya asignado el rol visor de informes ejecutivos. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo de Azure":::
 
 ## <a name="licenses-growth-trend"></a>Tendencia de crecimiento de licencias
  
-Tendencia de las licencias asignadas por todos los clientes durante el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de licencias del producto que ha seleccionado. Desplácese por el control deslizante situado en la parte superior del gráfico para acercar el gráfico hasta un período de tiempo específico.  
+Tendencia de licencias asignadas por todos los clientes durante el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado y el eje Y representa el recuento de licencias del producto que ha seleccionado. Desplácese por el control deslizante de la parte superior del gráfico para acercar el gráfico a un período de tiempo específico.  
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="licencias":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).
+Para obtener más informes, [vea Centro de partners Insights](partner-center-insights.md).

@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Cuando registre un trato que haya ganado en el centro de Partners, ayudará a Microsoft a proporcionarle más oportunidades en el futuro.
+description: Al registrar una oferta que ha ganado en Centro de partners, ayuda a Microsoft a proporcionarle más oportunidades en el futuro.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549199"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120756"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre los acuerdos que ha ganado en el centro de partners para que pueda obtener más oportunidades más adelante
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre las ofertas que ha ganado en Centro de partners para que pueda obtener más oportunidades más adelante.
 
 Para registrar las ofertas que has ganado en el Centro de partners, puedes proporcionar información adicional sobre el contrato. Esta información nos ayudará a proporcionarte más oportunidades en el futuro.
 
-En el caso de ciertas soluciones válidas, después de seleccionar **gana** en el [proceso de respuesta de referencia](manage-leads.md), se le pedirá que proporcione información adicional para registrar su negocio. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
+Para determinadas soluciones aptas, después de seleccionar **Ganada** en el proceso de respuesta de [referencia,](manage-leads.md)se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
 
 También puedes registrar nuevas ofertas que no hayas ganado y que utilicen una de tus soluciones, aunque no se hayan originado a través de una [referencia](referrals.md). 
 
@@ -30,17 +30,17 @@ Para registrar una nueva oferta, ve a **Referencias > Registrar las ofertas > Ac
 
 En la página **Nueva oferta**, proporciona la siguiente información.
 
-- **Detalles del cliente**: escriba el nombre de la **compañía** del cliente y seleccione su **país o región**. A continuación, escribe su **Ciudad** y su **Estado o provincia**.
-- **Solución**: seleccione la solución que se utilizará para el trato. Si no ves la solución adecuada en la lista, ponte en contacto con el soporte técnico.
-- **Tipo de contrato**: especifique si se trata de un **nuevo** contrato o de una **renovación** de un contrato anterior.
-- **Valor total del contrato**: el valor total esperado para la negociación. Debes incluir todas las tarifas de software y servicios, pero no los costos de hardware. Asegúrate de seleccionar la moneda adecuada.
-- **Valor** de la solución: el valor total de la solución en la nube que se usará para el trato. Asegúrate de incluir todos los costos asociados con las tarifas de software y mantenimiento, pero no incluyas artículos reembolsables, tarifas de personalización no recurrentes ni cuotas de licencias de CSP directamente asociadas que abone Microsoft.
-- **Implementado en**: seleccione **Azure** u **otros**.
-- ¿ **Dónde se implementará la solución?**: seleccione el **inquilino de cliente** o el **inquilino de asociado**.
-- **Fecha de inicio del contrato**: fecha en la que comenzará el contrato.
-- **Fecha de finalización del contrato**: Si el contrato termina en una fecha concreta, seleccione **tiene una fecha de finalización** y proporcione esa fecha. De lo contrario, selecciona **Perpetual** (Perpetuo).
-- **Fecha firmada del contrato**: fecha en la que la organización y el cliente firmaron el contrato final.
-- **Contacto de registro**: el **nombre**, el **Apellido**, el **número de teléfono** y el **correo electrónico** de una persona de la organización a la que podamos ponernos en contacto si necesitamos más detalles sobre la información que se proporciona aquí.
+- **Detalles del** cliente: escriba el **nombre de la compañía** del cliente y seleccione su país o **región.** A continuación, escribe su **Ciudad** y su **Estado o provincia**.
+- **Solución:** seleccione la solución que se usará para la oferta. Si no ves la solución adecuada en la lista, ponte en contacto con el soporte técnico.
+- **Tipo de** contrato: especifique si se trata de un **contrato** nuevo o de **una renovación** de un contrato anterior.
+- **Valor total del contrato:** el valor total esperado para la interacción. Debes incluir todas las tarifas de software y servicios, pero no los costos de hardware. Asegúrate de seleccionar la moneda adecuada.
+- **Valor de** la solución: el valor total de la solución en la nube que se usará para la oferta. Asegúrate de incluir todos los costos asociados con las tarifas de software y mantenimiento, pero no incluyas artículos reembolsables, tarifas de personalización no recurrentes ni cuotas de licencias de CSP directamente asociadas que abone Microsoft.
+- **Implementado en**: seleccione **Azure** u **otro**.
+- **¿Dónde se implementará la solución?**: seleccione el inquilino **Customer** o **partner tenant**.
+- **Fecha de inicio del contrato:** la fecha en la que se iniciará el contrato. Para las ofertas de pago por uso (PAYG), use la fecha de la primera factura.
+- **Fecha de finalización del** contrato: si el contrato finalizará en una fecha específica, seleccione **Tiene una** fecha de finalización y proporcione esa fecha. Si el contrato no tiene una fecha de finalización específica, seleccione **Perpetuo.** Para las ofertas de pago por uso (PAYG), use la fecha de la última factura o la más reciente.
+- **Fecha de firma del** contrato: la fecha en la que la organización y el cliente firmaron el contrato final. Para las ofertas de pago por uso (PAYG), use la fecha de la primera factura.
+- **Contacto de** registro: **el** **nombre,** los  **apellidos,** el número de teléfono y el correo electrónico de una persona de la organización con la que podemos ponerse en contacto si necesitamos más detalles sobre cualquiera de los datos que se proporcionan aquí.
 
 Cuando hayas completado todas las secciones de la página, selecciona **Registrar**. A continuación, el registro de la oferta se pasará a la página **En curso**. A continuación, Microsoft revisará la información proporcionada.
 
@@ -52,7 +52,7 @@ Puedes revisar los registros de ofertas nuevas, activas y cerradas en las difere
 
 ### <a name="action-required"></a>Acción requerida
 
-En la página **Referencias > Registrar las ofertas > Acción requerida**, verás los nuevos registros que todavía no se han registrado o que requieren una actualización. Puedes usar los filtros para mostrar solo los registros de ofertas **Incompletos** o **Actualización necesaria**. Los registros de ofertas con el estado **Incompleto** son aquellos originados a partir de referencias, pero que aún no se han registrado. La actualización de los registros de acuerdo **necesarios** son los que se han creado y registrado, pero que requieren que se actualice la información proporcionada.
+En la página **Referencias > Registrar las ofertas > Acción requerida**, verás los nuevos registros que todavía no se han registrado o que requieren una actualización. Puedes usar los filtros para mostrar solo los registros de ofertas **Incompletos** o **Actualización necesaria**. Los registros de ofertas con el estado **Incompleto** son aquellos originados a partir de referencias, pero que aún no se han registrado. **Los registros** de la oferta necesarios son los que se crearon y registraron, pero que requieren que actualice la información proporcionada.
 
 ### <a name="in-progress"></a>En curso
 
@@ -62,4 +62,4 @@ Si es necesario actualizar cualquier información, es posible que movamos el reg
 
 ### <a name="closed"></a>Closed
 
-En las **referencias > los registros de trato > página cerrada** , verá los acuerdos que Microsoft registró y revisó correctamente. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado **o** Rechazado**.
+En la **página Referrals > Deal registrations > Closed** (Referencias > ofertas cerradas), verá las ofertas registradas y revisadas correctamente por Microsoft. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado **o** Rechazado**.
