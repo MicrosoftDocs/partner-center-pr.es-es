@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549114"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018091"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renueve las ofertas de MPN para las competencias y las especializaciones avanzadas durante la ventana de renovación.
 
+**Roles adecuados**
+
+- Administrador de partners de MPN
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respuesta a la COVID-19: actualización de Microsoft Partner Network
 
-Microsoft ofrece una extensión de competencia (a excepción de la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario (AD) que oscilen entre el 1 de enero de 2021 y el 30 de junio de 2021. Consulte nuestra [entrada de blog de partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para obtener más información.
+Microsoft ofrece una extensión de competencia (excepto por la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario (AD) que oscilen entre el 1 de enero de 2021 y el 30 de junio de 2021. Para obtener más información, consulte la [entrada de blog para partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Recordatorios de renovación
 

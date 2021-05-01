@@ -4,24 +4,27 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo Microsoft espera las comunicaciones de los clientes entre clientes y asociados en el programa proveedor de soluciones en la nube.
+description: Obtenga información sobre cómo Microsoft espera que se produzcan comunicaciones entre clientes y asociados en el Proveedor de soluciones en la nube cliente.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545836"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284356"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Directrices para la comunicación de clientes correcta con Microsoft
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Directrices para una comunicación correcta del cliente con Microsoft
 
 **Se aplica a**
 
--  Centro de partners
--  Centro de partners para Microsoft Cloud for US Government
+- Centro de partners para Microsoft Cloud for US Government
+
+**Roles adecuados**
+
+- Agente del departamento de soporte técnico
 
 En general, esperamos que todas las comunicaciones con el cliente provengan del partner de Proveedor de soluciones en la nube. Dado que tú eres el responsable de la relación de facturación de los clientes, Microsoft no enviará comunicaciones directamente a tus clientes en relación con sus suscripciones.
 
@@ -31,4 +34,4 @@ Para los clientes que ya tienen relaciones comerciales existentes con Microsoft,
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Asistencia automática del cliente a través del centro de administración de Microsoft Office 365 o a través de la Azure Portal](customer-self-support.md)
+- [Soporte técnico al cliente a través Microsoft Office centro de administración 365 o a través del Azure Portal](customer-self-support.md)

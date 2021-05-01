@@ -151,6 +151,8 @@
     - name: 'Contratos, listas de precios y ofertas de CSP'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: Información del id. de registro
+      href: reg-number-id.md
     - name: Mercados y monedas regionales de CSP
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

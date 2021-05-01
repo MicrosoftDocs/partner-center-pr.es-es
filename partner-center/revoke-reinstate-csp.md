@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315854"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018194"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Restablecer los privilegios de administrador para las suscripciones de del programa CSP de Azure de un cliente  
 
-**Roles aplicables**
+**Roles adecuados**
 
 - Administrador global
 - Agente de administrador
@@ -29,7 +29,7 @@ Como partner de CSP, tus clientes suelen esperar que administres el uso que hace
 
 Hay dos niveles de privilegios de administrador para Azure en CSP.
 
-**Privilegios de administrador de nivel de inquilino** (**privilegios de administrador delegado**): los partners de CSP obtienen estos privilegios al establecer una relación de revendedor de CSP con los clientes. Los privilegios de administrador delegado proporcionan a los asociados de CSP acceso a los inquilinos de sus clientes, lo que les permite desarrollar funciones administrativas, como agregar o administrar usuarios, restablecer contraseñas y administrar licencias de usuario.
+**Privilegios de administrador de nivel de inquilino** (**privilegios de administrador delegado**): los partners de CSP obtienen estos privilegios al establecer una relación de revendedor de CSP con los clientes. Los privilegios de administrador delegado proporcionan a los partners de CSP acceso a los inquilinos de sus clientes, lo que les permite desarrollar funciones administrativas, como agregar o administrar usuarios, restablecer contraseñas y administrar licencias de usuario.
 
 **Privilegios de administrador de nivel de suscripción**: los partners de CSP obtienen estos privilegios al crear suscripciones de Azure CSP para sus clientes. Estos privilegios proporcionan a los partners de CSP acceso completo a estas suscripciones, lo que les permite aprovisionar y administrar los recursos de Azure.
 
@@ -79,7 +79,7 @@ El cliente puede volver a crear la asignación de roles de CSP siempre que se le
     ```
 
 
-Si se desea conceder permiso de rol de propietario en el nivel de grupo de recursos o en el nivel de recurso en lugar del ámbito de la suscripción, pueden funcionar los siguientes comandos:
+Si quiere conceder el permiso de rol de propietario a nivel del grupo de recursos o a nivel del recurso en lugar del ámbito de la suscripción, pueden funcionar los siguientes comandos:
 
 
 ```powershell

@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728936"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823391"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
 En esta página se encuentran los anuncios del Centro de partners de Microsoft de abril de 2021.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Directiva del período de devolución de software para Proveedor de soluciones en la nube (CSP) y aviso de expiración del vínculo de descarga
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 21/04/2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumen
+
+Hay cambios en la directiva del período de devolución de software para CSP y en la expiración del vínculo de descarga.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Partners que realizan transacciones con ofertas de software perpetuo o suscripciones de software en CSP
+
+### <a name="details"></a>Detalles
+
+Tenga en cuenta las siguientes notificaciones importantes relacionadas con las compras de software perpetuo y suscripciones de software a través del Centro de partners:
+
+#### <a name="software-return-period-policy"></a>Directiva del período de devolución de software
+
+A partir del 1 de junio de 2021, el período de devolución de las ofertas de software en CSP, como se indica en el Microsoft Partner Agreement (MPA), cambiará de 60 días desde la fecha de pedido a 30 días desde la fecha de pedido.
+
+Después de enviar un pedido para una oferta de software, los partners tendrán 30 días a partir de la fecha de pedido para enviar cualquier modificación de dicho pedido:
+
+- Toda licencia de software perpetuo devuelta dentro del período de devolución de 30 días recibirá un crédito completo del precio de compra pagado.
+
+- Todo producto de suscripción de software devuelto dentro del período de devolución de 30 días recibirá un crédito prorrateado del precio de compra pagado.
+
+Este mensaje es la continuación de los comunicados enviados por correo electrónico en diciembre de 2020 y abril de 2021 a todos los partners de CSP con respecto al período de devolución y otras actualizaciones al MPA. Consulte esos avisos para obtener detalles completos sobre los cambios que afectan al MPA.
+
+#### <a name="software-download-link-expiry"></a>Expiración del vínculo de descarga de software
+
+A partir del 3 de junio de 2021, los vínculos de descarga de software para las compras de productos de software perpetuo y suscripciones de software a través del Centro de partners tendrán una fecha de expiración de cinco días a partir de la descarga inicial. El período de expiración se aplicará a todas las compras anteriores al 3 de junio de 2021, así como a partir del 3 de junio de 2021 en adelante.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Revise las [Preguntas frecuentes sobre el período de devolución de CSP y la expiración del vínculo de descarga](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf), e informe de estos cambios a todos los equipos pertinentes de su organización:
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene preguntas sobre estas ofertas, consúltelas a las comunidades de Yammer correspondientes.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programa Open License: transición de revendedores al programa Proveedor de soluciones en la nube (CSP)

@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712807"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067514"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Vinculación o desvinculación de un identificador de perfil de certificación de Microsoft (MCID) respecto a una cuenta de Microsoft Partner Network (MPN)
 
@@ -73,9 +73,9 @@ El administrador global debe eliminar la cuenta del usuario después de que este
 
 En primer lugar, el administrador debe comprobar la dirección de correo electrónico usada y, a continuación, ponerse en contacto con el usuario al que se proporcionó la información de la cuenta.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Un usuario intenta asociar su cuenta de Learning de MCP a su perfil en el Centro de partners y recibe un mensaje que indica que su asociación está limitada.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Un usuario intenta asociar su cuenta de Learning de MCP a su perfil en el Centro de partners y recibe un mensaje que indica que su asociación está limitada. Por ejemplo: "Ha intentado asociarse con la organización de un partner. Sin embargo, se requiere un período de 30 días entre las asociaciones. La siguiente fecha disponible para una asociación posterior es el XXX".
 
-Para prevenir cualquier posible abuso, cada persona de MCP tiene un número limitado de asociaciones permitidas al año. Cada usuario puede comprobar la fecha en su perfil para ver cuándo puede iniciar una nueva asociación. Si el usuario tiene problemas para realizar una asociación después de esa fecha, debe ponerse en contacto con el servicio de soporte técnico.  
+Para protegerse frente a abusos, una persona de MCP tiene un número limitado de tres asociaciones permitidas cada año, y hay un período de espera de 30 días entre cada asociación, que comienza al principio de la asociación. Cada usuario puede comprobar la fecha en su perfil para ver cuándo puede iniciar una nueva asociación. Si el usuario tiene problemas para realizar una asociación después de esa fecha, debe ponerse en contacto con el servicio de soporte técnico.  
 
 ## <a name="how-to-get-support"></a>Cómo obtener soporte técnico
 

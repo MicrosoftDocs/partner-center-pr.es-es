@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/22/2021
-ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
-ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
+ms.date: 04/27/2021
+ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107917623"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172441"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de abril de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Nueva ubicación para la documentación del Swagger de las API del Centro de partners](2021-april.md#9)|26 de abril|
 |Capacidades|[Directiva del período de devolución de software para Proveedor de soluciones en la nube (CSP) y aviso de expiración del vínculo de descarga](2021-april.md#8)|21 de abril|
 |Hacer crecer el negocio|[Programa Open License: Transición de revendedores al programa Proveedor de soluciones en la nube (CSP)](2021-april.md#7)|19 de abril|
 |Capacidades|[Ya disponible: guía de preparación para la promoción global](2021-april.md#6)|16 de abril|

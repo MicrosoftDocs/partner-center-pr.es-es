@@ -4,142 +4,142 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga respuestas a preguntas habituales sobre el uso de conectores de venta conjunta. Lea estas preguntas más frecuentes sobre cómo solucionar problemas de conectores de venta conjunta.
+description: Obtenga respuestas a preguntas comunes sobre el uso de conectores de venta co-sell. Lea estas preguntas más frecuentes sobre cómo solucionar problemas de conectores de venta co-sell.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354549"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284220"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solución de problemas de conectores de referencias de venta conjunta
 
-**Se aplica a:**
+**Se aplica a**
 
 - Dynamics 365 CRM
-- CRM de Salesforce
+- Salesforce CRM
 
 **Roles adecuados**
 
 - Administrador de referencias
-- Administrador del sistema o Personalizador del sistema en CRM
+- Administrador del sistema o personalizador del sistema en CRM
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Preguntas y respuestas sobre los requisitos previos
 
-1. ¿Puede usar una solución de conectores de referencias de venta conjunta de prueba para su entorno?
+1. ¿Puede usar una solución de conectores de referencia de venta co-venta de prueba para su entorno?
 
-Si está en el entorno de prueba o ensayo, puede optar por la solución de prueba. La versión de pago de los conectores está disponible en AppSource en US $15/month. Con la conexión de pago, obtendrá 10 000 llamadas API al día. Los conectores son contenedores que se encuentran en la parte superior de las API de referencia del centro de Partners. Cada vez que se ejecutan las soluciones de conector para un evento de **creación** o **actualización** sobre las oportunidades en el centro de Partners o en el lado de CRM, se realiza una llamada API.
+Si se encuentra en el entorno de prueba o ensayo, puede optar por la solución de prueba. La versión de pago de los conectores está disponible en AppSource a 15 USD/mes. Con la conexión de pago, recibirá 10 000 llamadas API al día. Los conectores son contenedores además de Centro de partners API de referencia. Cada vez que las  soluciones  de conector se ejecutan para un evento de creación o actualización en las oportunidades de Centro de partners o crm, se realiza una llamada API.
 
-2. ¿Qué rol necesita para crear secciones en el entorno de CRM?
+2. ¿Qué rol necesita para crear secciones en el entorno crm?
 
-Los usuarios que son administradores del sistema o personalizadores del sistema pueden aplicar cambios para todos. Sin embargo, todos los usuarios de la aplicación pueden personalizar el sistema e incluso compartir algunas de sus personalizaciones con otras personas. 
+Los usuarios que son administradores del sistema o personalizadores del sistema pueden aplicar cambios para todos los usuarios. Sin embargo, todos los usuarios de la aplicación pueden personalizar el sistema e incluso compartir algunas de sus personalizaciones con otros usuarios. 
 
-3. ¿Los vendedores de asociados necesitan roles especiales para trabajar en el centro de Partners?
+3. ¿Los vendedores de asociados necesitan roles especiales para trabajar Centro de partners?
  
-A los vendedores asociados se les debe asignar el rol de administrador de referencias. Para obtener más información, consulte la siguiente [información general sobre los permisos] (Create-User-accounts-and-set-permissions).
+Los vendedores de asociados deben tener asignado el rol "Administrador de referencias". Para obtener más información, vea [Información general sobre permisos.](create-user-accounts-and-set-permissions.md)
 
-4. ¿Qué campos deben configurarse en primer lugar en el entorno de CRM? 
+4. ¿Qué campos se deben configurar primero en el entorno crm? 
 
-• Asegúrese de que la moneda sea adecuada para su ubicación y que se encuentra en el entorno de CRM con precisión. • El equipo de ventas debe aparecer en el entorno de CRM como usuarios de CRM.
+• Asegúrese de que la moneda es adecuada para su ubicación y que se encuentra en el entorno de CRM con precisión. • El equipo de ventas debe aparecer en el entorno de CRM como usuarios de CRM.
 
-5. ¿Cuáles son los requisitos previos necesarios para automatizar la creación de entornos?
+5. ¿Qué requisitos previos son necesarios para crear Power Automate entorno?
 
-Para usar el entorno de automatización de energía, necesita:
+Para usar el Power Automate, necesita:
 
-- Se necesita una licencia de Power Automatic.
-- Se requiere un mínimo de 1 GB de almacenamiento.
+- Se requiere Power Automate licencia.
+- Se requiere un almacenamiento mínimo de 1 GB.
 
-6.  ¿Necesita una suscripción a Dynamics 365 para usar la solución de conectores de Salesforce?
+6.  ¿Necesita una suscripción de Dynamics 365 para usar la solución Salesforce Connectors?
 
-La solución de conector de Salesforce es de tipo "flujo de Dynamics" que admite la sincronización con otros sistemas CRM. La solución no requiere que tenga una instancia de Dynamics 365 o una suscripción. Al instalar la solución Salesforce, puede aparecer una lista desplegable con el entorno de CDS existente en la empresa. Debe seleccionar ese entorno. Además, si obtiene el error "no encontramos una organización de Dynamics 365 conectada al usuario que inició sesión", deberá crear un nuevo entorno para el conector.
+La solución Salesforce Connector es de tipo "Dynamics Flow", que admite la sincronización con otros sistemas CRM. La solución no requiere que tenga una instancia de Dynamics 365 o una suscripción. Al instalar la solución salesforce, puede aparecer una lista desplegable con el entorno de CDS existente en su empresa. Debe seleccionar ese entorno. Además, si recibe el error "No se pudo encontrar una organización de Dynamics 365 conectada al usuario que ha iniciado sesión", deberá crear un nuevo entorno para el conector.
 
-## <a name="questions-and-answers-about-configuration"></a>Preguntas y respuestas acerca de la configuración
+## <a name="questions-and-answers-about-configuration"></a>Preguntas y respuestas sobre la configuración
 
-1. ¿Qué debe hacer si se plantea el siguiente error al activar los flujos en Power automatization Platform?
+1. ¿Qué debe hacer si se enfrenta al siguiente error al activar flujos en Power Automate Platform?
 
-Error: no se pudo realizar la solicitud a Azure Resource Manager: "{" error ": {" Code ":" WorkflowTriggerNotFound "," message ":" no se encontró el desencadenador "e14d00f1-1fdf-4b1b-AAAC-54a5064093d3" del flujo de trabajo "manual". "}}". 
+Error: Error al solicitar Azure Resource Manager error: '{"error":{"code":"WorkflowTriggerNotFound","message":"The workflow 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' trigger 'manual' could not be found."}}'. 
 
 Siga estos pasos de solución de problemas:
 
-- Elimine la conexión de CDS y, a continuación, vuelva a crear las conexiones de CDS.
-- Activar y desactivar el flujo secundario 
-- Elimine la solución y, a continuación, vuelva a instalar la solución. 
+- Elimine la conexión de CDS y vuelva a crear las conexiones DE CDS.
+- Desactivar y activar el flujo secundario 
+- Elimine la solución y vuelva a instalarla. 
 
-2.  ¿Qué debe hacer si se plantea el error "iniciar sesión" al agregar un conector del centro de partners a la plataforma de automatización de energía?
+2.  ¿Qué debe hacer si se encuentra con el error "Iniciar sesión" al agregar un conector Centro de partners en Power Automate Platform?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensaje de error que requiere inicio de sesión":::
 
 Siga este paso de solución de problemas:
 
-- Use las credenciales del centro de partners para iniciar sesión en el entorno de Flow (flow.microsoft.com).
+- Use sus Centro de partners para iniciar sesión en el entorno de flujo una vez (flow.microsoft.com).
 
 
-3. ¿Qué debe hacer si recibe el siguiente error al activar el flujo del centro de partners a CRM en la plataforma de automatización de energía?
+3. ¿Qué debe hacer si recibe el siguiente error al activar el flujo de Centro de partners a CRM en Power Automate Platform?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensaje de error que requiere actualizaciones":::
 
 Siga estos pasos de solución de problemas:
 
-- Active los dos flujos secundarios siguientes antes de activar el flujo de CRM al centro de Partners.
-      - Centro de partners a CRM: Ayudante (versión preliminar de Insider)
-      - Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft a CRM (versión preliminar de Insider)
+- Active primero los dos flujos secundarios siguientes antes de activar el flujo Centro de partners a CRM.
+      - Centro de partners a CRM- Helper (Insider Preview)
+      - Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a CRM (versión preliminar de Insider)
 
-4. ¿Qué debe hacer si no puede agregar conexiones al flujo al intentar editar el flujo?
+4. ¿Qué debe hacer cuando no puede agregar conexiones al flujo al intentar editar el flujo?
 
-Puede agregar conexiones al flujo mientras el flujo se está ejecutando y agregar cada flujo por separado.  Si el cuadro de diálogo para agregar conexiones no se abre automáticamente mientras se edita el flujo, puede editar cada uno de los pasos y subpasos de los flujos individualmente.
+Las conexiones se agregan al flujo mientras se ejecuta y se agregan a cada flujo por separado.  Si el cuadro de diálogo para agregar conexiones no se abre automáticamente al editar el flujo, puede editar cada uno de los pasos y sub pasos de los flujos individualmente.
 
-- Seleccione cada flujo y edítelo de forma individual.
-- Expanda todos los pasos del flujo 
+- Seleccione cada flujo y edéelo individualmente.
+- Expandir todos los pasos del flujo 
 
 :::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Pasos que necesitan conexiones":::
 
-- Seleccione los pasos en los que verá un icono de advertencia pidiéndole asociar conexiones y agregue conexiones. 
+- Seleccione los pasos en los que verá un icono de advertencia que le pide que asocie conexiones y agregue conexiones. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar flujo paso a paso":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Edición del flujo paso a paso":::
 
 
-5. ¿Qué debe hacer si los flujos de la solución de conectores de las referencias de venta conjunta no se activan?
+5. ¿Qué debe hacer si los flujos de la solución Co-sell Referrals Connectors no se encienden?
 
-A. En Power Automate, tendrá que editar los flujos en el siguiente orden y actualizarlos para que usen las conexiones correctas:
+A. En Power Automate, deberá editar flujos en el orden siguiente y actualizarlos para usar las conexiones correctas:
 
-- Registro del webhook del centro de Partners (versión preliminar de Insider)
-- Creación de una referencia de venta conjunta: Salesforce al centro de Partners (versión preliminar de Insider)
-- Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
+- Centro de partners webhook Registration (Insider Preview)
+- Creación de una referencia de venta co-venta: Salesforce Centro de partners (versión preliminar de Insider)
+- Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a Salesforce (versión preliminar de Insider)
 - Centro de partners a Salesforce (versión preliminar de Insider)
-- Salesforce a Partner Center (versión preliminar de Insider)
-- Oportunidad de Salesforce para el centro de Partners (versión preliminar de Insider)
-- Soluciones de Salesforce de Microsoft para el centro de Partners (versión preliminar de Insider)
+- Salesforce to Centro de partners (Insider Preview)
+- Salesforce Opportunity to Centro de partners (Insider Preview)
+- Salesforce Microsoft Solutions to Centro de partners (Insider Preview)
 
- B. Para cada flujo, seleccione la opción **ejecutar solo usuarios** . Seleccione **Usar conexión** en lugar de **proporcionados por el usuario de solo ejecución**.  
+ B. Para cada flujo, seleccione la **opción Ejecutar solo usuarios.** Seleccione **Usar conexión en** lugar de Proporcionado por el usuario de solo **ejecución.**  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para activar un flujo":::
 
 
-C. Active estos flujos que se indican a continuación:
+C. Active estos flujos mencionados a continuación:
 
- - Centro de Partners: actualizaciones de referencia de venta conjunta de Microsoft en Salesforce (versión preliminar de Insider)
+ - Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a Salesforce (versión preliminar de Insider)
 
-- Salesforce a Partner Center (versión preliminar de Insider)
+- Salesforce to Centro de partners (Insider Preview)
 
     
 D. Active todos los flujos restantes.
 
-E. En el registro del webhook del centro de Partners de Flow, seleccione **Ejecutar**. Proporcione la **dirección URL http** de la primera acción del **centro de Partners al flujo de Salesforce** . Seleccione las cuatro opciones en **eventos para registrarse** y seleccione **sí** para sobrescribir.
+E. En flow Centro de partners registro de webhook, seleccione **Ejecutar**. Proporcione la **dirección URL http** de la primera acción en Centro de partners flujo de **Salesforce.** Seleccione las cuatro opciones en **Eventos para registrar y** seleccione Sí **en** Sobrescribir.
 
-## <a name="questions-and-answers-about-runmaintenance"></a>Preguntas y respuestas sobre la ejecución/mantenimiento
+## <a name="questions-and-answers-about-runmaintenance"></a>Preguntas y respuestas sobre ejecución/mantenimiento
 
-1. ¿Cómo se solucionan los problemas en caso de que se produzcan errores durante la ejecución del flujo de energía automatizada?
+1. ¿Cómo se solucionan los errores durante la Power Automate de flujo?
 
-Para asegurarse de que los flujos de energía automatizada se ejecutan como se espera y para solucionar errores durante la ejecución, consulte [solucionar errores de flujo](/power-automate/fix-flow-failures).
+Para asegurarse de que los flujos de Power Automate se ejecutan según lo previsto y para solucionar los errores durante la ejecución, consulte [Corrección de errores de flujo](/power-automate/fix-flow-failures).
 
-2. ¿Qué debe hacer si ve referencias que no están sincronizadas correctamente en el centro de Partners o en el entorno de CRM?
+2. ¿Qué debe hacer si ve referencias que no están sincronizadas correctamente en Centro de partners o crm?
  
-Para determinar el estado de la sincronización de referencias, seleccione **Auditoría**. 
+Para determinar el estado de la sincronización de referencias, seleccione **Auditar**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Cómo sincronizar referencias":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Sincronización de referencias":::
 
 Asegúrese de que se cumplen las condiciones siguientes:
 
@@ -147,61 +147,61 @@ Asegúrese de que se cumplen las condiciones siguientes:
 
 - Se requiere código de país de dos letras.
 
-- Cuando se selecciona ayuda de Microsoft para la oportunidad, se requiere la información de contacto del cliente.
+- Cuando se selecciona ayuda de Microsoft para la oportunidad, se requiere información de contacto del cliente.
 
-3. Cómo asegurarse de que una referencia se va a sincronizar de forma bidireccional
+3. ¿Cómo asegurarse de que una referencia se sincronizará bidireccionalmente?
 
 Siga estos pasos:
 
-- Los vendedores asociados deben asegurarse de que tienen habilitada la opción **sincronizar con el centro de Partners** en la sección CRM.
+- Los vendedores asociados deben asegurarse de que han habilitado la opción **Sync with Centro de partners** en la sección CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Asegúrese de que ha habilitado la sincronización":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Asegúrese de que ha habilitado Synch.":::
 
 - Los vendedores deben proporcionar los ingresos y la fecha de cierre al calificar a un cliente potencial.
 
-- Si se proporciona el identificador de CRM en la fase de **creación** o **actualización** de la oportunidad de venta conjunta, pero no se encuentra una oportunidad de cliente con ese identificador en CRM, se omitirá actualizar o crear.
+- Si el identificador de  CRM  se proporciona en la fase de creación o actualización de la oportunidad de venta en colaboración, pero no se encuentra una oportunidad de cliente potencial con ese identificador en CRM, se omitirá la actualización o la creación.
 
 - Asegúrese de que el campo de moneda de referencia está configurado en el entorno de Salesforce. 
 
-4. ¿Qué debe hacer si el conector se desconecta y se pierde la sincronización de una referencia. 
+4. ¿Qué debe hacer si el conector se desconecta y se pierde una sincronización de referencias?
 
-A continuación se muestran algunas de las opciones que puede probar:
+Estas son algunas de las opciones que puede probar:
 
-- Compruebe si el nombre de usuario o la contraseña han expirado para el usuario del centro de Partners con roles de administrador de referencias.
+- Compruebe si el nombre de usuario o la contraseña han expirado para Centro de partners usuario con roles de administrador de referencias.
 
-- Puede ir a la oportunidad no sincronizada, realizar una actualización menor y observar si la referencia se ha sincronizado.
+- Puede ir a la oportunidad no sincronizada, realizar una actualización secundaria y observar si la referencia se ha sincronizado.
 
-- Si los flujos se han ejecutado y han dado error, seleccione el flujo y vuelva a enviar la ejecución que ha producido un error.
+- Si los flujos se han ejecutado y han dado error, seleccione el flujo y vuelva a enviar la ejecución que ha dado error.
 
-5. ¿Qué debe hacer cuando se produce un error de acceso denegado?
+5. ¿Qué debe hacer cuando se producen errores de acceso denegado?
 
-Asegúrese de que existen los roles adecuados
+Asegúrese de que existen los roles adecuados.
 
-- Rol de administrador de referencias para el vendedor del centro de Partners 
+- Rol administrador de referencias para Centro de partners vendedor 
  
-- Rol de administrador del sistema o del Personalizador del sistema en la instancia de CRM
+- Rol Administrador del sistema o Personalizador del sistema en la instancia de CRM
 
-- Asegúrese de que el usuario de la cuenta de flujo de Power Automate inicia sesión https://flow.microsoft.com al menos una vez de antemano.
+- Asegúrese de que el Power Automate usuario de la cuenta de flujo de trabajo inicia sesión al https://flow.microsoft.com menos una vez con antelación.
 
-6. Si ve que falta el código de país de la **cuenta de cliente** al crear una oportunidad de venta conjunta, ¿qué debe hacer?
+6. Si ve que falta el **código de país** de la cuenta de cliente al crear una oportunidad de venta en colaboración, ¿qué debe hacer?
 
-Tendrá que agregar el código de país de dos letras ISO a la cuenta de cliente en CRM.
+Deberá agregar el código de país iso de dos letras a la cuenta de cliente en CRM.
 
-7. ¿Qué debe hacer si ve el error el identificador de la **solución es necesario** al crear una oportunidad de venta conjunta?
+7. ¿Qué debe hacer si ve el error de que el identificador de **solución es necesario** al crear una oportunidad de venta en colaboración?
 
-Con el fin de crear una referencia de venta conjunta, necesita una solución lista para participar de Microsoft. 
+Para crear una referencia de venta en colaboración, necesita una solución preparada para la venta en colaboración de Microsoft. 
 
-8. ¿Qué debe hacer cuando vea oportunidades de venta conjunta creadas en el centro de partners que no se sincronizan con CRM aunque no se produzcan errores de flujo:
+8. ¿Qué debe hacer cuando vea que se crean oportunidades de venta Centro de partners que no están sincronizadas con CRM aunque no haya errores de flujo?
 
 Haga lo siguiente:
 
-- Una vez que haya creado un nuevo trato de venta conjunta en el centro de Partners, compruebe si se invoca el flujo del centro de partners a Dynamics 365 (es posible que se invoque varias veces).
+- Después de haber creado una nueva oferta de venta Centro de partners en Centro de partners, compruebe si se invoca el flujo de Centro de partners a Dynamics 365 (es posible que se invoque varias veces).
 
-- Si se invoca el flujo, compruebe todos los flujos invocados e identifique la ejecución de flujo que actualizaría el CRM. Puede seguir las acciones y comprobar si se ha actualizado el CRM o si se ha producido un problema.
+- Si se invoca el flujo, compruebe todos los flujos invocados e identifique la ejecución del flujo que actualizaría el CRM. Puede seguir las acciones y comprobar si ha actualizado crm o ha detectado un problema.
 
-- Consulte *nuevo trato** en el centro de partners para ver si se rellena con el identificador de CRM.
+- Active **Nueva oferta** en Centro de partners para ver si se rellena con el identificador de CRM.
 
-- Asegúrese de que el trato no se cierra accidentalmente como "ganada" o "perdida" en el centro de Partners.
+- Asegúrese de que la oferta no se cierre accidentalmente como **Ganada** o **Perdida** en Centro de partners.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
