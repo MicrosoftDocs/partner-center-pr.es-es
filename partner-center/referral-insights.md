@@ -1,7 +1,7 @@
 ---
 title: Obtener información de referencia
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Revise la información de referencia periódicamente en el Centro de partners para ver las tendencias que se deben abordar o las áreas de mejora para ayudarle a alcanzar sus objetivos empresariales.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120858"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328090"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
@@ -27,7 +27,7 @@ La página **Oportunidades de venta conjunta** de la sección **Análisis** de l
 Para ver las conclusiones de las oportunidades de venta conjunta, en el menú del Centro de partners, vaya a **Referencias > Análisis > Oportunidades de venta conjunta**.
 
 > [!Important]
-> El filtro de tipo de oferta está preaplicado con el tipo **Venta conjunta** seleccionado para todos los datos. Quite el filtro para analizar los datos relacionados con las ofertas privadas y las ofertas dirigidas por partners.
+> El filtro de tipo de oferta se aplica previamente con el tipo **Venta conjunta** seleccionado para todos los datos. Quite el filtro para analizar los datos relacionados con las ofertas privadas y las ofertas dirigidas por partners.
 
 ## <a name="apply-filters"></a>Aplicación de filtros
 
@@ -56,7 +56,7 @@ Las métricas de cambio de porcentaje (mostradas en rojo o verde con un indicado
 
 ## <a name="conversion-funnel"></a>Embudo de conversión
 
-En esta sección se muestra un indicador visual de cómo se mueven las ofertas de un estado a otro a lo largo del ciclo de vida. Puede ver todo el ciclo de vida en función del volumen de ofertas, y el valor de la oferta en USD en función del control dinámico principal de esta sección. La primera sección se etiqueta con el estado y el tipo de la oferta para ofrecerle un indicador visual del volumen o valor por tipo. También hay una sección, **Referencias pasadas**, que se usa para indicar las ofertas para las que ha realizado una acción, bien para aceptarlas o rechazarlas, o bien para marcarlas como ganadas o perdidas en el período de tiempo seleccionado para el informe. Puede aplicar filtros para ver el progreso de los acuerdos en varias fases de su ciclo de vida.
+En esta sección se muestra un indicador visual de cómo se mueven las ofertas de un estado a otro a lo largo del ciclo de vida. Puede ver todo el ciclo de vida en función del volumen de ofertas, y el valor de la oferta en importe monetario en función del control dinámico principal de esta sección. La primera sección se etiqueta con el estado y el tipo de la oferta para ofrecerle un indicador visual del volumen o valor por tipo. También hay una sección, **Referencias pasadas**, que se usa para indicar las ofertas para las que ha realizado una acción, bien para aceptarlas o rechazarlas, o bien para marcarlas como ganadas o perdidas en el período de tiempo seleccionado para el informe. Puede aplicar filtros para ver el progreso de los acuerdos en varias fases de su ciclo de vida.
 
 Las ofertas entrantes de venta conjunta pueden combinarse en Aceptado, Rechazado o Expirado, ya que los partners tienen que aceptar o rechazar las ofertas entrantes de venta conjunta.
 
@@ -94,8 +94,7 @@ Esta sección le ayudará a analizar los motivos por los que la empresa marcó l
 
 ## <a name="comparison-charts"></a>Gráficos de comparación
 
-La sección de comparación le ayudará a comparar los datos relacionados con las referencias en función de varias dimensiones tanto en el volumen como en el valor de las ofertas ganadas en el control dinámico USD.
-Las tres dimensiones que puede elegir para comparar datos son
+La sección de comparación le ayudará a comparar los datos relacionados con las referencias en función de varias dimensiones tanto en el volumen como en el valor de las ofertas ganadas en el control dinámico USD. Las tres dimensiones que puede elegir para comparar datos son:
 
 - Tipo de oferta
 - Mercados
@@ -128,3 +127,8 @@ Puede haber varios motivos por los que obtiene un gráfico en blanco como el que
 
 > [!TIP]
 > Para ver el rendimiento de tu perfil de negocios en la experiencia [Buscar un proveedor de soluciones](https://www.microsoft.com/solution-providers/home), revisa la página [Información de perfil de negocio](analyze-your-marketing-profile.md).
+
+## <a name="next-steps"></a>Pasos siguientes
+
+- [Crecimiento del negocio con referencias de Microsoft](referrals.md)
+- [Análisis de los clientes potenciales](analyze-your-marketing-profile.md)

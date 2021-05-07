@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120725"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702797"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compras únicas de CSP
 
@@ -38,7 +38,7 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | MpnId | Identificador de MPN del asociado de CSP. Para obtener más información, [vea cómo agregar elementos por asociado.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
 | ResellerMpnId | Identificador de MPN del revendedor del registro de la suscripción. | *6048879* |
 | OrderId | Identificador único para un pedido en la plataforma de facturación de Microsoft. Puede ser útil para identificar el pedido al ponerse en contacto con el soporte técnico. No se usa para la conciliación. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Fecha en que se ha realizado el pedido. | *10/3/2020* |
+| OrderDate | Fecha en UTC en la que se ha realizado el pedido. | *10/3/2020* |
 | ProductId | Identificador único del producto. | *DZH318Z0BNZ5* |
 | SkuId | Identificador único de SKU. | *006G* |
 | AvailabilityId | Identificador único de disponibilidad. | *DZH318Z08B80* |
@@ -53,7 +53,7 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | Moneda | La factura se genera en el contexto de la moneda del cliente. Esto significa que, si eres un partner que está realizando transacciones con clientes con distintas monedas de facturación, recibirás una factura por cada tipo de moneda de cliente.  | *EUR* |
 | PriceAdjustmentDescription | Los motivos de los ajustes en el precio unitario. Estas son las razones principales, pero no se limitan a determinar el precio unitario efectivo. | *["15,0 % crédito obtenido del partner por los servicios administrados"]* |
 | PublisherName | Publicador del producto.  | *Microsoft* |
-| PublisherId | Identificador único que el Centro de partners usa para identificar al publicador. | *N/D* |
+| PublisherId | Identificador único que el Centro de partners usa para identificar al publicador. | *Na* |
 | SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. Esta columna es un campo idéntico a OfferName. | *Plan de Azure* |
 | SubscriptionId | Identificador único para una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. Tenga en cuenta que este identificador no es el mismo que el identificador de suscripción en la consola de administración del asociado. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Fecha en que se inicia el período de facturación de una suscripción. | *9/1/2020* |
@@ -63,7 +63,7 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | UnitType | Tipo de unidad en la que se cobra el medidor. | *1 GB/mes* |
 | AlternateId | Identificador alternativo del elemento de línea de pedido al que se hace referencia. | *6dc5c039750a* |
 | BillableQuantity | Cantidad total que se está facturando.  | *0.005001* |
-| BillingFrequency | Plan de facturación seleccionado en el momento de la compra. | *N/D*  |
+| BillingFrequency | Plan de facturación seleccionado en el momento de la compra. | *Na*  |
 | PricingCurrency | Moneda de la lista de precios. | *USD* |
 | PCToBCExchangeRate | Tipo de cambio aplicado para la moneda de precios a la moneda de facturación. | *0.846202666* |
 | PCToBCExchangeRateDate | Fecha en la que se determina la moneda de precios a la moneda de facturación. | *30/09/2020* |
@@ -72,7 +72,7 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | CreditReasonCode | Descripción del crédito. | *Crédito de consumo de Azure* |
 
 >[!NOTE]
->Puede conciliar el consumo de Azure en el archivo de conciliación de una sola compra. Para ello, vaya al archivo de conciliación de uso clasificado diariamente y busque subscriptionID. Esto mostrará todos los costos asociados con el identificador del plan de Azure. El identificador de suscripción de Azure se muestra como EntitlementID.
+>Puede conciliar el consumo de Azure en el archivo de conciliación de una sola compra. Para ello, vaya al archivo de conciliación de uso clasificado diariamente y busque subscriptionID. Esto mostrará todos los costos asociados con el identificador del plan de Azure. El Identificador de suscripción de Azure se muestra como EntitlementID.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

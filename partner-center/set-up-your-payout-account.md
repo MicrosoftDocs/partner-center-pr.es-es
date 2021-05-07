@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028441"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702814"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
@@ -34,20 +34,20 @@ Una vez que haya configurado la cuenta, debe hacer dos cosas antes de poder vend
 - [Configuración de la cuenta de pago](#payout-account)
 
 > [!NOTE]
-> Para obtener más información sobre cómo y cuándo se pagará por el dinero que realice su oferta, consulte el artículo sobre [el pago en el Marketplace comercial](marketplace-get-paid.md).
+> Para obtener más información sobre cómo y cuándo se le pagará por el dinero que gana su oferta, consulte Getting paid in the commercial marketplace (Obtención de pagos [en marketplace comercial).](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Formularios de impuestos
 
-El perfil fiscal y los formularios fiscales se administran en la página **pago y impuestos** del centro de Partners. Los permisos de su organización determinarán los perfiles y la información que vea.
+Puede administrar el perfil fiscal y los formularios fiscales en la **página pago e impuestos** de Centro de partners. Los permisos de la organización determinarán los perfiles y la información que vea.
 
-### <a name="create-or-update-your-tax-profile"></a>Crear o actualizar el perfil fiscal
+### <a name="create-or-update-your-tax-profile"></a>Creación o actualización del perfil fiscal
 
-En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en los que participe. Use los pasos siguientes para crear o actualizar el *perfil fiscal* en el centro de Partners. Puede completar y enviar los formularios fiscales electrónicamente en el panel del centro de Partners. en la mayoría de los casos, no es necesario imprimir y enviar por correo ningún formulario.
+En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en los que participe. Siga estos pasos para crear o actualizar el perfil *fiscal* en Centro de partners. Puede completar y enviar los formularios fiscales electrónicamente en el panel Centro de partners datos; En la mayoría de los casos, no es necesario imprimir ni enviar ningún formulario por correo electrónico.
 
 > [!IMPORTANT]
 > Los distintos países y regiones tienen requisitos fiscales diferentes. El importe exacto que debe pagar en impuestos dependerá de los países y regiones en los que desea vender sus ofertas. Consulte el [Contrato para editores de Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) para averiguar para qué países o regiones Microsoft remite las ventas y los impuestos sobre el consumo en su nombre. En otros países o regiones, según donde esté registrado, puede que tenga que remitir las ventas de ofertas y los impuestos sobre el consumo de estas directamente ante la autoridad fiscal local. Además, los ingresos por ventas de la aplicación que recibe pueden estar sujetos a impuestos como ingresos. Le recomendamos encarecidamente que se ponga en contacto con la autoridad pertinente del país o región que mejor le pueda ayudar a determinar la información fiscal adecuada para sus actividades de Marketplace comercial.
 
-1. En el [panel del centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, después, configuración de la **cuenta**.
+1. En el [panel Centro de partners ,](https://partner.microsoft.com/dashboard)seleccione el icono **de** engranaje Configuración en la esquina superior derecha y, a continuación, Configuración de **la cuenta.**
 
 2. En el menú de navegación izquierdo, seleccione **Pago e impuestos** y, a continuación, seleccione **Asignaciones de perfiles fiscales y de pago**.
 
@@ -55,7 +55,7 @@ En primer lugar, deberá crear un perfil fiscal y asignarlo a los programas en l
 
 4. Si desea utilizar un perfil fiscal existente, selecciónelo en la lista desplegable. En caso contrario, seleccione **Crear nuevo perfil** y presione **Enviar**. Accederá a la página de perfiles fiscales.
 
-5. Seleccione el botón **Editar** para editar la información fiscal.
+5. Seleccione el **botón Editar** para editar la información fiscal.
 
 6. Seleccione el botón de radio adecuado, así como su país o región si se le solicita. Este paso determina la entidad empresarial de Microsoft que se usará para realizar pagos en su cuenta.
 
@@ -84,7 +84,7 @@ Una cuenta de pago es la cuenta bancaria a la que se envían los ingresos de sus
 
 ### <a name="create-a-payment-profile"></a>Creación de un perfil de pago
 
-1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la **cuenta**.
+1. En [Centro de partners](https://partner.microsoft.com/dashboard), seleccione el icono **de engranaje** Configuración en la esquina superior derecha y, a continuación, Configuración de la **cuenta.**
 2. Debajo del encabezado *Pago e impuestos* fiscal, seleccione **Asignación de perfiles fiscales y de pago**.
 
     > [!NOTE]
@@ -92,7 +92,7 @@ Una cuenta de pago es la cuenta bancaria a la que se envían los ingresos de sus
 
 3. Seleccione el método de pago que quiere configurar.
 
-4. Seleccione un perfil de pago existente o seleccione **crear un nuevo perfil de pago** para crear un nuevo perfil para el método de pago elegido.
+4. Seleccione un perfil de pago existente o seleccione Crear un nuevo perfil **de pago** para crear un nuevo perfil para el método de pago elegido.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Creación de un perfil de pago basado en el banco
 
@@ -112,7 +112,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
 
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
 
-6. Seleccione Submit (enviar) para guardar los cambios.
+6. Seleccione Enviar para guardar los cambios.
 
    > [!NOTE]
    > Microsoft puede tardar hasta 48 horas en validar la información de su perfil. Cuando se complete este proceso, *Estado de la comprobación* mostrará **Completado**.
@@ -127,14 +127,14 @@ Para garantizar que el pago se realiza correctamente, asegúrese de lo siguiente
 
 Puede editar los perfiles de pago existentes si necesita realizar cambios o corregir cualquier información incorrecta.
 
-1. En el [centro de Partners](https://partner.microsoft.com/dashboard), seleccione el icono de engranaje **configuración** en la esquina superior derecha y, a continuación, configuración de la  **cuenta**.
+1. En [Centro de partners](https://partner.microsoft.com/dashboard), seleccione el icono **de engranaje** Configuración en la esquina superior derecha y, a continuación, Configuración de la **cuenta.**
 
 2. Debajo del encabezado *Pago e impuestos* fiscal, seleccione **Perfiles fiscales y de pago**.
 
-3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y seleccione **Editar** en el extremo derecho.
+3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y seleccione **Editar en** el extremo derecho.
 
 > [!IMPORTANT]
-> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Para más información, consulte el artículo sobre [el pago en Marketplace comercial](marketplace-get-paid.md).
+> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Getting paid in the commercial marketplace (Obtención de](marketplace-get-paid.md)pago en marketplace comercial) para obtener más información.
 
 ### <a name="paypal-info"></a>Información de PayPal
 
@@ -145,7 +145,7 @@ En la selección de países y regiones, puede crear una cuenta de pago indicando
 
 Preguntas comunes sobre el uso de PayPal como método de pago:
 
-- **¿Qué configuración de PayPal necesito tener para recibir pagos?** Asegúrese de que la cuenta de PayPal no bloquee los pagos por cheque electrónico. Esta configuración se administra en la página de preferencias de recepción de pagos de PayPal. Consulte la [página de configuración de la cuenta de PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) para más información.
+- **¿Qué configuración de PayPal necesito tener para recibir pagos?** Asegúrese de que la cuenta de PayPal no bloquee los pagos por cheque electrónico. Esta configuración se administra en la página de preferencias de recepción de pagos de PayPal. Consulte la [página de configuración de la cuenta de PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) para más información.
 
 - **¿Se admite mi país o región?** Consulte [Umbrales, métodos y períodos de tiempo de pago](payment-thresholds-methods-timeframes.md) para averiguar dónde se admite PayPal como método de pago.
 
@@ -204,7 +204,7 @@ Si ha elegido usar una cuenta bancaria para recibir pagos, deberá completar el 
 3. Proporcione los detalles del beneficiario.
 4. De nuevo en la página de *asignación de perfil*, seleccione la moneda que desea usar cuando emita sus pagos.
 5. Tendrá que seleccionar un perfil de pago para cada programa en el que participe, aunque puede usar el mismo perfil para varios programas.
-6. Seleccione Submit (enviar) para guardar los cambios.
+6. Seleccione Enviar para guardar los cambios.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

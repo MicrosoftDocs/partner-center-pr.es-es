@@ -1,7 +1,7 @@
 ---
 title: Administración de las ubicaciones en tu cuenta de partner
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Aprenda a agregar una nueva ubicación y cómo se usa el identificador de MPN de ubicación en programas de incentivos, empresas de CSP, suscripciones y otras transacciones.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441341"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702899"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición (eliminación) de una ubicación
 
@@ -50,7 +50,7 @@ Para agregar una nueva cuenta de empresa de CSP, empiece por asegurarse de cumpl
 
 1. Si desea inscribirse como partner de facturación directa, consulte [Requisitos para partners de facturación directa](direct-partner-new-requirements.md).
 
-## <a name="view-your-mpn-locations"></a>Visualización de las ubicaciones de MPN
+## <a name="view-and-update-your-mpn-locations"></a>Visualización y actualización de las ubicaciones de MPN
 
 1. Inicie sesión en el [panel](https://partner.microsoft.com/dashboard/home) del Centro de partners con las credenciales de la cuenta de MPN. (Las credenciales de MPN pueden ser diferentes de las credenciales del programa CSP). 
  
@@ -100,6 +100,37 @@ Actualice los campos siguientes:
 > [!NOTE]
 > Una vez agregada una ubicación en el Centro de partners, no se puede quitar. Verá **MPN** en el menú izquierdo del Centro de partners si ha usado el identificador de MPN correcto para iniciar sesión.
 
+## <a name="add-the-registration-number-id"></a>Adición del identificador numérico de registro
+
+Si es proveedor indirecto, partner de facturación directa o revendedor indirecto y hace negocios con clientes nuevos o existentes en los siguientes países, tiene que proporcionar los números de identificación del registro para su empresa. Si el país en el que hace negocios no aparece a continuación, la identificación del registro es opcional.
+
+- Armenia 
+- Azerbaiyán 
+- Belarús 
+- Brasil 
+- Hungría 
+- India 
+- Iraq 
+- Kazajistán 
+- Kirguistán 
+- Moldova 
+- Myanmar 
+- Polonia 
+- Rusia 
+- Arabia Saudí 
+- Sudáfrica 
+- Sudán del Sur  
+- Tayikistán 
+- Tailandia
+- Turquía 
+- Ucrania 
+- Emiratos Árabes Unidos 
+- Uzbekistán 
+- Venezuela
+- Vietnam 
+
+
+Para obtener más información, lea [Información del id. de registro.](reg-number-id.md)
 
 ## <a name="delete-a-location"></a>Eliminación de una ubicación
 

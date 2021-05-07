@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Como asociado de Microsoft cualificado, puede colaborar con Microsoft. Obtenga información sobre cómo definir acuerdos, invitar a Microsoft a colaborar o ver ofertas enviadas.
+description: Como asociado de Microsoft cualificado, puede vender en colaboración con Microsoft. Obtenga información sobre cómo definir ofertas, invitar a Microsoft a colaborar o ver las ofertas enviadas.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480075"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702933"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center"></a>Administrar oportunidades de venta conjunta en el centro de Partners
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>Administración de oportunidades de venta Centro de partners
 
 
 **Roles adecuados**
@@ -24,232 +24,234 @@ ms.locfileid: "99480075"
 - Administrador de partners de MPN
 - Administrador de referencias
 
-Aproveche las ventajas de las oportunidades de venta conjunta.  Una oportunidad de venta conjunta es una colaboración de varias partes para vender productos que satisfagan las necesidades de los clientes. Este artículo le ayudará a comprender cómo puede usar el potencial de la venta conjunta en el centro de partners para vender de forma eficaz y adquirir nuevos clientes.
+Aproveche las oportunidades de venta en colaboración.  Una oportunidad de venta conjunta es una colaboración de varias partes para vender productos que satisfagan las necesidades de un cliente. Este artículo le ayudará a comprender cómo puede usar la eficacia de la venta Centro de partners para la venta en colaboración y la adquisición de nuevos clientes de forma eficaz.
 
-## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de venta conjunta
+## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de venta en colaboración
 
-**Oportunidad de venta conjunta** : aquí es donde uno o más representantes de ventas de Microsoft participan activamente en el trato para ayudar a resolver un problema del cliente. Las oportunidades pueden originarse en una cuenta de cliente en la que un representante de ventas de Microsoft invite al socio a participar en una actividad de venta conjunta o de un asociado en el que necesiten más ayuda de las ventas de Microsoft para cerrar el trato.
+**Oportunidad de venta en** colaboración: aquí es donde uno o varios representantes de ventas de Microsoft se dedican activamente al acuerdo para ayudar a resolver un problema de los clientes. Las oportunidades pueden originarse en una cuenta de cliente en la que un representante de ventas de Microsoft invita al partner a participar en una actividad de venta cruzada o desde un asociado en el que necesite más ayuda de las ventas de Microsoft para cerrar el contrato.
 
-**Asociado a socio (P2P)** : aquí es donde un asociado puede invitar a otros asociados en el ecosistema de venta conjunta de Microsoft para que colaboren. Los asociados pueden invitar opcionalmente a un representante de ventas de Microsoft al trato para ayudar a cerrar el trato. Se puede invitar a ambos asociados y a Microsoft incluso después de crear un trato, siempre y cuando sea anterior a su finalización. (Tenga en cuenta que complete incluye ganada, perdida, rechazada y expirada).
+**Partner to Partner (P2P):** aquí es donde un asociado puede invitar a otros asociados del ecosistema de venta co-venta de Microsoft para colaborar. Opcionalmente, los asociados pueden invitar a un representante de ventas de Microsoft a la oferta para ayudar a cerrar el acuerdo. Tanto los asociados como Microsoft pueden ser invitados incluso después de crear un acuerdo, siempre que sea antes de completarse. (Tenga en cuenta que complete incluye won, lost, declined y expired).
 
-**Trato privado** : esto se debe a que un asociado decide trabajar de forma independiente en un trato que se ha creado en el centro de Partners. Los asociados pueden ofrecer visibilidad al equipo de ventas de Microsoft o invitar a los vendedores de Microsoft a buscar ayuda activa después de crear el trato. Los detalles del trato no se comparten con el equipo de ventas de Microsoft hasta que los asociados de tiempo seleccionen explícitamente sí en la pregunta "¿desea que los vendedores de Microsoft vean este trato?". o solicitar ayuda al equipo de ventas de Microsoft eligiendo una de las opciones de la pregunta "identificar el tipo de ayuda que necesita de Microsoft?".
+**Oferta privada:** es cuando un asociado decide trabajar de forma independiente en una oferta que se ha creado en Centro de partners. Los partners pueden dar visibilidad al equipo de ventas de Microsoft o invitar a vendedores de Microsoft que buscan ayuda activa después de crear el contrato. Los detalles de la oferta no se comparten con el equipo de ventas de Microsoft hasta que los asociados seleccionen explícitamente sí para la pregunta "¿Desea que los vendedores de Microsoft vea este contrato?". o solicite ayuda al equipo de ventas de Microsoft eligiendo una de las opciones para la pregunta "¿Identificar el tipo de ayuda que necesita de Microsoft?".
 
-**Negocios:** se trata de acuerdos en los que un asociado decide trabajar de forma independiente en un trato, pero es adecuado para ofrecer visibilidad de los detalles del contrato a los miembros del equipo de ventas de Microsoft. Los asociados pueden invitar a los vendedores de Microsoft después de crear el contrato. Estos acuerdos son válidos para el registro de trato cuando una solución que reúne los incentivos es parte del trato. La invitación a un vendedor de Microsoft no es necesaria para el registro del contrato si se cumplen los criterios de la solución aptas para incentivos. Puede realizar un trato dirigido por asociados de negocio respondiendo sí a la pregunta "¿desea que los vendedores de Microsoft vean este trato?".
+**Oferta dirigida por** asociados: se trata de ofertas en las que un partner decide trabajar de forma independiente en un contrato, pero está de acuerdo con dar visibilidad de los detalles del contrato a los miembros del equipo de ventas de Microsoft. Los partners pueden invitar a vendedores de Microsoft después de crear la oferta. Estas ofertas son aptas para el registro de ofertas cuando una solución apta para incentivos forma parte de la oferta. No es necesario invitar a vendedores de Microsoft para el registro de la oferta si se cumplen los criterios de solución aptos para incentivos. Puede hacer un acuerdo dirigido por un asociado respondiendo sí a la pregunta "¿Desea que los vendedores de Microsoft lo consulten?".
 
-**Evaluación de la solución (SA)** : estos tipos de contratos pueden crearse solo por un conjunto de asociados que probado el equipo empresarial de valoraciones de la solución para realizar evaluaciones tecnológicas para los clientes que usan o planean usar tecnologías de Microsoft.
+Evaluación de soluciones **(SA):** estos tipos de ofertas solo pueden crearse mediante un conjunto de asociados que el equipo empresarial de evaluaciones de soluciones ha visto para realizar evaluaciones de tecnología para los clientes que usan o planean usar tecnologías de Microsoft.
 
 > [!NOTE]
-> Los negocios privados, aunque no son realmente colaborativos, se incluyen en la pestaña de oportunidades de venta conjunta para proporcionar una ruta de acceso sencilla para actualizar cualquier canalización en una oportunidad de venta conjunta en cualquier etapa que no sea de terminal (**ganada, perdida, rechazada y expirada**).
+> Las ofertas privadas, aunque no sean realmente colaborativas, se incluyen en la pestaña oportunidades de venta conjunta para proporcionar una ruta de acceso sencilla para actualizar cualquier oferta de canalización a una oportunidad de venta conjunta en cualquier fase no terminal **(ganada, perdida,** rechazada y expirada).
 
-## <a name="navigating-the-co-sell-section"></a>Navegar por la sección de venta conjunta
+## <a name="navigating-the-co-sell-section"></a>Navegar por la sección Venta co-venta
 
-Para acceder a la sección de venta conjunta, siga estos pasos:
+Para acceder a la sección Venta co-venta, siga estos pasos:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
-2. En el menú de navegación izquierdo, seleccione **referencias** y, a continuación, **oportunidades de venta conjunta**.
+2. En el menú de navegación izquierdo, seleccione **Referencias,** seguido de **Oportunidades de venta en colaboración.**
 
    Verá tres pestañas de nivel superior en esta sección:
 
-   - **Entrante** : en esta pestaña se encuentran disponibles todas las oportunidades que se envían al socio comercial de los vendedores de Microsoft para la venta en colaboración.
+   - **Entrante:** todas las oportunidades que se envían al asociado desde vendedores de Microsoft para la venta colaborativa están disponibles en esta pestaña.
 
-   - **Saliente** : todas las oportunidades que crea el asociado están disponibles en esta pestaña. Los asociados pueden crear tres categorías diferentes de oportunidades: venta conjunta, privada y socio comercial.
+   - **Saliente:** todas las oportunidades creadas por el asociado están disponibles en esta pestaña. Los asociados pueden crear tres categorías diferentes de oportunidades: venta en colaboración, privadas y de asociado a asociado.
 
-   - **Favoritos** : en esta pestaña se mostrarán las oportunidades marcadas como favoritos en las pestañas oportunidades de venta conjunta entrantes o salientes. Marque cualquier oportunidad como favorita; para ello, haga clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
+   - **Favoritos:** las oportunidades marcadas como favoritas en las pestañas Oportunidades de venta de entrada o salida se mostrarán en esta pestaña. Marque cualquier oportunidad como favorita haciendo clic en el icono de corazón de la oportunidad en la vista de lista. Puede quitar la oportunidad de favoritos haciendo clic de nuevo en el mismo icono.
 
-## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta conjunta
+## <a name="creating-a-co-sell-opportunity"></a>Creación de una oportunidad de venta en colaboración
 
 > [!IMPORTANT]
-> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas implicado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [la lista de distribución conjunta](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Para realizar la venta conjunta con Microsoft, los asociados necesitan una solución comercial, un equipo de ventas implicado y una sólida estrategia de comercialización. También deben cumplir criterios adicionales específicos. Para obtener más información, consulte [Preparar la venta en colaboración.](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)
 
 Puede crear tres tipos de oportunidades.
 
-### <a name="select-your-customer"></a>Seleccione su cliente
+### <a name="select-your-customer"></a>Selección del cliente
 
-Seleccione el cliente para un trato específico. Escriba su ubicación y comience a escribir el nombre. El cuadro sugerencia comenzará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad empresarial en la misma ubicación, puede ver varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
+Seleccione el cliente para una oferta específica. Escriba su ubicación y comience a escribir el nombre. El cuadro de sugerencias empezará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad de negocio en la misma ubicación, es posible que vea varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez que haga clic en **seleccionar el cliente**, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es el punto de contacto principal de este trato. Estos detalles son opcionales y solo se requieren si planea invitar a las ventas de Microsoft para ayudarle con la interacción. Seleccione **Next** (Siguiente).
+Una vez **que** haga clic en Seleccionar el cliente, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es su principal punto de contacto para esta oferta. Estos detalles son opcionales y solo son necesarios si tiene previsto invitar a ventas de Microsoft para ayudarle con el compromiso. Seleccione **Next** (Siguiente).
 
 > [!IMPORTANT]
-> Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para el trato. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
+> Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para la oferta. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
 
-### <a name="deal-details"></a>Detalles del trato
+### <a name="deal-details"></a>Detalles de la oferta
 
-Especifique los detalles de la transacción actual. Los campos que se definen a continuación pueden cambiar a medida que trabaje activamente con el cliente para cerrar el trato.
+Escriba los detalles de la oferta actual. Los campos, definidos a continuación, pueden cambiar a medida que trabaja activamente con el cliente para cerrar la oferta.
 
 | **Nombre del campo** | **Obligatorio/opcional** | **Detalles** |
 |-------------|--------|-------|
-|**Nombre del trato** | Mandatory | El nombre descriptivo para identificar el trato en un momento posterior. |
-|**Ubicación**| Mandatory | El ámbito de ubicación de MPN de la referencia. Los usuarios de referencia con este ámbito de ubicación pueden ver las referencias si forman parte del equipo. Los administradores de referencia y los administradores de referencia con ámbito global pueden ver las referencias independientemente de la ubicación. No se puede editar la ubicación después de crear la referencia.|
-|**Valor estimado** | Mandatory | El valor del trato en función de la información disponible durante la creación de la transacción.|
-|**Fecha de cierre estimada**| Mandatory| Fecha en la que se espera que se cierre el trato con el cliente. |
-|**IDENTIFICADOR DE CRM**| Opcional | Etiquete el trato con el identificador de la oportunidad en su CRM correspondiente para el seguimiento.|
-|**ID. de campaña de marketing**| Opcional | Capture la campaña de marketing que resultó en el trato. Este archivado puede ayudarle a realizar un seguimiento de la rentabilidad de una determinada campaña si etiqueta todos los tratos que se originan en la campaña con el mismo identificador.|
-|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de la empresa que trabajan en el mismo trato o intentan comprender el estado actual del trato. También puede usarlo como una comunicación en el registro para las conversaciones entre los vendedores de Microsoft y otros asociados de su empresa.|
+|**Nombre de la oferta** | Mandatory | Nombre descriptivo para identificar la oferta en un momento posterior. |
+|**Ubicación**| Mandatory | Ámbito de ubicación de MPN de la referencia. Los usuarios de referencia con este ámbito de ubicación pueden ver las referencias si forman parte del equipo. Los administradores de referencias y los administradores de referencias con ámbito global pueden ver las referencias con independencia de la ubicación. No se puede editar la ubicación después de crear la referencia.|
+|**Valor estimado** | Mandatory | Valor de la oferta en función de la información disponible al crear la oferta.|
+|**Fecha de cierre estimada**| Mandatory| Fecha en la que espera cerrar el contrato con el cliente. |
+|**Id. de CRM**| Opcional | Etiquete el acuerdo con el identificador de la oportunidad en su CRM correspondiente con fines de seguimiento.|
+|**Identificador de campaña de marketing**| Opcional | Capture la campaña de marketing que dio lugar a la oferta. Este archivo puede ayudarle a realizar un seguimiento de la rentabilidad de la inversión de una campaña determinada si etiqueta todas las ofertas que se originen en la campaña con el mismo identificador.|
+|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de su empresa que trabajan en el mismo acuerdo o intentan comprender el estado actual del acuerdo. También puede usarlo como una comunicación en el registro para las conversaciones entre vendedores de Microsoft u otros asociados con su empresa.|
 
 ### <a name="add-team-members"></a>Agregar miembros del equipo
 
-Después de agregar los detalles del trato, agregue los empleados que van a trabajar en este trato específico. Tendrá que escribir el nombre, el número de teléfono y la dirección de correo electrónico del empleado. Estos detalles son obligatorios y debe tener al menos un contacto con todos los detalles especificados para que pueda crear un trato. Estos detalles se pueden cambiar incluso después de crear un trato. Los contactos recientes de sus acuerdos anteriores se muestran en el lado derecho para que los agregue rápidamente a la transacción. En el caso de los tratos P2P, el equipo puede tener empleados de la empresa y la empresa que envía la invitación.
+Después de agregar los detalles de la oferta, agregue los empleados que trabajarán en este acuerdo específico. Deberá escribir el nombre, el número de teléfono y la dirección de correo electrónico del empleado. Estos detalles son obligatorios y debe tener al menos un contacto con todos los detalles especificados para crear un contrato. Estos detalles se pueden cambiar incluso después de crear una oferta. Los contactos recientes de las ofertas anteriores se muestran en el lado derecho para que los agregue rápidamente a la oferta. En el caso de las ofertas de P2P, el equipo puede hacer que los empleados de su empresa y de la empresa envíen la invitación.
 
 ### <a name="add-solutions"></a>Agregar soluciones
 
-En esta sección, debe proporcionar la información relacionada con las soluciones que formarán parte de este contrato. Se trata de una sección obligatoria en la que debe agregar al menos una solución para crear un trato. Los detalles de la solución se pueden cambiar después de crear un trato. Hay varios tipos de soluciones que se pueden agregar a un contrato, que se describen a continuación
+En esta sección, debe proporcionar la información relacionada con las soluciones que formarán parte de este acuerdo. Se trata de una sección obligatoria en la que debe agregar al menos una solución para crear una oferta. Los detalles de la solución se pueden cambiar después de crear una oferta. Hay varios tipos de soluciones que se pueden agregar a una oferta, que se describen a continuación.
 
-- **Soluciones de mi empresa:** Se trata de soluciones listas para la venta conjunta publicadas por su empresa
+- **Soluciones de mi empresa:** Se trata de soluciones listas para la venta en colaboración publicadas por su empresa.
 - **Microsoft:** Se trata de soluciones propiedad de Microsoft
-- **Otras soluciones de terceros:** Se trata de soluciones listas para la venta conjunta publicadas por otros asociados en el ecosistema de venta conjunta de Microsoft.
-- **Evaluaciones de soluciones:** Estos son los tipos de evaluación, que un asociado válido puede seleccionar en función de la necesidad del cliente
+- **Otras soluciones de terceros:** Se trata de soluciones listas para la venta en colaboración publicadas por otros asociados en el ecosistema de venta en colaboración de Microsoft.
+- **Evaluaciones de soluciones:** Estos son los tipos de evaluación que un asociado apto puede seleccionar en función de las necesidades del cliente.
 
 > [!Important]
-> Solo se puede seleccionar un tipo de evaluación para un contrato de evaluación de la solución y no se pueden agregar otras soluciones. Una vez que se selecciona una evaluación de la solución, el asociado tiene que elegir la ubicación para la que se crea la evaluación. Esto es necesario para los pagos de incentivos correctos.
+> Solo se puede seleccionar un tipo de evaluación para una oferta de evaluación de soluciones y no se puede agregar ninguna otra solución. Una vez que se selecciona una evaluación de la solución, el asociado tiene que elegir la ubicación para la que se va a crear la evaluación. Esto es necesario para los pagos de incentivos correctos.
 
-Una vez que haya proporcionado la información de la solución, seleccione siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene cuatro opciones si elige soluciones de las tres primeras opciones en el tipo de solución y no una evaluación de la solución:
+Una vez que haya proporcionado la información de la solución, seleccione Siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene cuatro opciones si elige soluciones entre las tres primeras opciones del tipo de solución y no una evaluación de la solución:
 
-**Trato privado**: Si no invita a Microsoft y crea una interacción en este paso, será del tipo de canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de este trato. Puede crear un trato privado seleccionando **no se requiere ayuda en este momento** para la pregunta **"identificar el tipo de ayuda que necesita de Microsoft?"** y **no** para la pregunta **"¿desea que los vendedores de Microsoft vean este trato?"**. Siempre puede actualizar un trato privado a un contrato de venta guiada por un socio o un negocio de ventas de venta activas antes de que el trato alcance un estado de terminal (ganada y perdida).
+**Oferta privada:** si no invita a Microsoft y crea una interacción en este paso, será de tipo canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de esta oferta. Puede crear un contrato privado seleccionando **No help required at this point of time (No** se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **No** para la pregunta "¿Desea que los **vendedores de Microsoft vea este negocio?".** Siempre puede actualizar una oferta privada a una oferta de venta co-venta activa o dirigida por un asociado antes de que la oferta alcance un estado terminal (ganado, perdido).
 
 > [!Important]
-> El registro del trato no es aplicable a las ofertas privadas. Tenga cuidado a la vez que crea un trato privado con soluciones válidas para incentivos, ya que no será válida para el registro de trato en el centro de Partners.
+> El registro de ofertas no es aplicable a las ofertas privadas. Tenga cuidado al crear un contrato privado con soluciones aptas para incentivos, ya que no serán aptas para el registro de la oferta en Centro de partners.
 
-**Trato presencial**: Si desea no buscar ayuda activa del equipo de ventas de Microsoft, pero desea darles visibilidad en su canalización, puede crear un trato dirigido por el socio. Puede crear un trato orientado a asociados si selecciona **no se requiere ayuda en este momento** para la pregunta **"identifique el tipo de ayuda que necesita de Microsoft?"** . y **sí** para la pregunta **"¿desea que los vendedores de Microsoft vean este trato?"**. Estos acuerdos son válidos para el registro de trato, aunque el vendedor de Microsoft no esté implicado activamente en ayudar al socio. Los requisitos para el registro del trato son la existencia de una solución de incentivos para el trato y el estado ganado del trato.
+**Oferta dirigida por** asociados: si no desea buscar ayuda activa del equipo de ventas de Microsoft, pero quiere darle visibilidad sobre la canalización, puede crear un contrato dirigido por asociados. Puede crear una oferta dirigida por asociados seleccionando **No help required at this point of time (No** se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **Sí** para la **pregunta "¿Desea que los vendedores de Microsoft vea este contrato?".** Estas ofertas son aptas para el registro de ofertas aunque el vendedor de Microsoft no participe activamente en la ayuda del asociado. Los requisitos para el registro de la oferta son tener una solución apta para incentivos en el contrato y el estado ganado de la oferta.
 
-**Contrato de venta conjunta:** Si selecciona una opción distinta de la selección predeterminada para la pregunta **"identificar el tipo de ayuda que le gustaría de Microsoft"**, el trato se convierte en un trato de venta conjunta en el que un vendedor de Microsoft puede ayudarle a cerrar el trato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el trato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección Notas, asegúrese de identificar el tipo de ayuda que desee.
+**Oferta de venta co-venta:** Si selecciona cualquier opción que no sea la predeterminada para la pregunta "Identificar el tipo de ayuda que le gustaría de **Microsoft",** la oferta se convierte en una oferta de venta coventa en la que un vendedor de Microsoft puede ayudarle potencialmente a cerrar el contrato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el contrato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección de notas, asegúrese de identificar el tipo de ayuda que desea.
 
-Contrato entre socios comerciales **(P2P)**: puede invitar a otros asociados al trato haciendo clic en el vínculo invitar al socio. A continuación se muestra el proceso para crear un trato P2P.
+**Oferta de partner a partner (P2P):** puede invitar a otros asociados a la oferta haciendo clic en el vínculo Invitar a asociado. A continuación se muestra el proceso para crear una oferta P2P.
 
-- **Seleccione un asociado:** Después de hacer clic en invitar Partner, podrá empezar a escribir el nombre del asociado para obtener una lista sugerida de asociados que coincidan con el nombre que está escribiendo. Seleccione el socio que le interese para rellenar más detalles para ese socio. Solo puede buscar asociados que estén en el ecosistema de venta conjunta de Microsoft y que estén transaccionando en el centro de Partners.
+- **Seleccione un asociado:** Después de hacer clic en Invitar asociado, podrá empezar a escribir el nombre del asociado para obtener una lista sugerida de asociados que coincidan con el nombre que está escribiendo. Seleccione el asociado que le interesa para rellenar más detalles para ese asociado. Solo puede buscar asociados que se encuentran en el ecosistema de venta co-venta de Microsoft y que realizan transacciones en Centro de partners.
 
-- **Fecha de cierre estimada:** Esta es la fecha en la que espera que el socio invitado complete su parte del contrato. La fecha se rellena de antemano para que pueda elegir modificar la fecha solo si es necesario. Es un campo obligatorio y puede ser editado por el socio al que invita después de crear el contrato. No se puede modificar este campo después de crear el contrato.
+- **Fecha de cierre estimada:** Esta es la fecha en la que espera que el asociado invitado complete su parte de la oferta. La fecha se rellena previamente para que pueda modificar la fecha solo si es necesario. Es un campo obligatorio y puede ser editado por el asociado al que está invitando después de crear la oferta. No se puede modificar este campo después de crear la oferta.
 
-- **Valor y moneda estimados:** Este es el valor del trato que tendrá el socio invitado en el trato global. Asegúrese de escribir el valor correcto aquí para que el asociado invitado pueda decidir si desea formar parte del trato o no. El socio invitado puede cambiar este valor después de crear el contrato. No se puede modificar este campo después de crear el contrato.
+- **Valor estimado y moneda:** Este es el valor de la oferta que tendrá el asociado invitado en el acuerdo general. Asegúrese de escribir aquí el valor correcto para que el asociado invitado pueda decidir si quiere formar parte de la oferta o no. El asociado invitado puede cambiar este valor después de crear la oferta. No se puede modificar este campo después de crear la oferta.
 
-- **Notas:** Agregue los detalles del motivo por el que va a invitar al socio para que forme parte de este contrato. La información detallada ayudará al socio invitado a decidir si desea participar.
+- **Notas:** Agregue los detalles de por qué está invitando al asociado a formar parte de este acuerdo. La información detallada ayudará al asociado invitado a decidir si desea participar.
 
-- **Agregue su equipo:** Agregue los empleados de la empresa que vayan a trabajar con el socio invitado. Si el socio invitado acepta el trato, puede agregar sus propios empleados para que ambas empresas dispongan de una vista de todo el equipo que colabora en el trato. Solo puede modificar estos detalles antes de crear el trato. Los detalles de los empleados especificados en los datos de los negocios se rellenan previamente para facilitar la elección de los empleados que trabajan con este socio específico.
+- **Agregue el equipo:** Agregue los empleados de su empresa que trabajarán con el asociado invitado. Si el asociado invitado acepta el acuerdo, puede agregar sus propios empleados para que ambas empresas tengan una visión de todo el equipo que colabora en el acuerdo. Solo puede modificar estos detalles antes de crear la oferta. Los detalles de los empleados especificados en los datos del contrato se rellenan previamente para facilitar la elección de los empleados que trabajan con este asociado específico.
 
-- **Agregar soluciones:**  Agregue las soluciones que desea que el socio invitado incorpore a la tabla. Al menos una solución es obligatoria. El socio invitado puede modificar las soluciones una vez que acepten la invitación.
+- **Agregar soluciones:**  Agregue las soluciones que desea que el asociado invitado traiga a la tabla. Al menos una solución es obligatoria. El asociado invitado puede modificar las soluciones una vez que acepte la invitación.
 
-- **Identifique el tipo de ayuda:** Identifique el tipo de ayuda: por último, identifique la ayuda específica que necesita del socio invitado.
+- **Identifique el tipo de ayuda:** Identificar el tipo de ayuda: por último, identifique la ayuda específica que necesita del asociado invitado.
 
-Repita este procedimiento con todos los asociados a los que desea invitar. Un asociado a un socio comercial también puede tener a Microsoft un vendedor en el que esté invitando a Microsoft y a los asociados. También puede invitar a Microsoft y a los asociados más adelante, después de crear el contrato.
+Repita esta operación para todos los asociados a los que quiera invitar a esta oferta. Un contrato de partner a asociado también puede implicar a los vendedores de Microsoft en los que invita tanto a Microsoft como a los asociados a la oferta. También puede invitar a Microsoft y a los asociados más adelante, después de crear la oferta.
 
-## <a name="responding-to-a-co-sell-opportunity"></a>Respuesta a una oportunidad de venta conjunta
+## <a name="responding-to-a-co-sell-opportunity"></a>Respuesta a una oportunidad de venta en colaboración
 
-Cada oportunidad se mueve a través de un ciclo de vida propio.
+Cada oportunidad pasa por un ciclo de vida propio.
 
 ### <a name="received-stage"></a>Fase recibida
 
-En esta fase, si ha recibido una nueva oportunidad de venta conjunta de un vendedor de Microsoft o de otros asociados en el ecosistema de venta conjunta de Microsoft, revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información sobre sus necesidades empresariales. En esta fase puede realizar dos acciones. acepte o rechace la referencia:
+En esta fase, si ha recibido una nueva oportunidad de venta coventa de un vendedor de Microsoft o de otros asociados del ecosistema de venta coventa de Microsoft, revise los detalles y no dude en ponerse en contacto con el cliente si desea obtener más información sobre sus necesidades empresariales. Puede realizar dos acciones en esta fase. acepte o rechace la referencia:
 
-- **Aceptar:** Escriba un nombre para el contrato, edite el valor del negocio estimado y el período de tiempo de compra estimado en función de la revisión. Una vez que haya establecido el contacto con el cliente, debe proporcionar información en el campo **notas** para explicar mejor lo que busca el cliente. Opcionalmente, puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing que dio lugar a la oportunidad respectiva y agregar contactos de la empresa que trabajarán en este trato.
+- **Aceptar:** Escriba un nombre para la oferta, edite el valor estimado de la oferta y el período de tiempo de compra estimado en función de la revisión. Una vez establecido el contacto con el cliente, debe proporcionar información en el campo **Notas** para explicar más sobre lo que busca el cliente. Opcionalmente, puede escribir aquí el identificador de CRM (solo para su referencia), el identificador de la campaña de marketing que dio como resultado la oportunidad correspondiente y agregar contactos de su empresa que trabajarán en esta oferta.
 
-- Cuando haya finalizado, seleccione **Siguiente**. Trasladaremos la referencia a **la siguiente fase**, lo que significa que tiene previsto interactuar activamente con el cliente para satisfacer sus necesidades. También usaremos esta información para ayudarle a encontrar tratos similares en el futuro.
+- Cuando haya finalizado, seleccione **Siguiente**. Pasaremos la referencia a la siguiente **fase,** lo que significa que tiene previsto interactuar activamente con el cliente para abordar sus necesidades. También usaremos esta información para ayudarle a encontrar ofertas similares en el futuro.
 
-- **Rechazar**: seleccione el motivo por el que va a rechazar el trato y agregue las notas que quiera incluir y, después, seleccione **cerrar trato**. Lo archivaremos como **rechazado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
+- **Rechazar:** seleccione el motivo por el que va a rechazar la oferta y agregue las notas que quiera incluir y, a continuación, **seleccione Cerrar oferta.** Lo archivaremos como **Rechazado** y notificaremos a Microsoft o al asociado que le envió esta oportunidad.
 
-- Si no responde en el tiempo asignado (actualmente, 14 días), lo archivaremos como **expirado** y le notificaremos a Microsoft o al asociado que le envió esta oportunidad.
+- Si no responde dentro del tiempo asignado (actualmente 14 días), lo  archivaremos como Expirado y notificaremos a Microsoft o al asociado que le envió esta oportunidad.
 
 ### <a name="accepted-stage"></a>Fase aceptada
 
-Trabaja para cerrar la oferta con el cliente. Si desea cambiar cualquiera de la información que ha proporcionado para una referencia aceptada, seleccione **Editar**. Después, puede actualizar el nombre del trato, la fecha de compra estimada, el valor estimado, las notas, el ID. de CRM o el ID. de campaña de marketing.  También puede seleccionar **Agregar su equipo** para proporcionar el nombre, el número de teléfono y las direcciones de correo electrónico de las personas que trabajan en el trato. Las soluciones también se pueden editar en función de las necesidades del cliente.
+Trabaja para cerrar la oferta con el cliente. Si desea cambiar cualquiera de la información que ha proporcionado para una referencia aceptada, seleccione **Editar.** A continuación, puede actualizar el nombre de la oferta, la fecha de compra estimada, el valor estimado, las notas, el identificador de CRM o el identificador de la campaña de marketing.  También puede seleccionar Agregar **su equipo** para proporcionar el nombre, el número de teléfono y las direcciones de correo electrónico de cualquier otra persona que trabaje en la oferta. Las soluciones también se pueden editar en función de las necesidades del cliente.
 
-De forma predeterminada, todos los acuerdos que ha creado se encuentran en la fase aceptado.
+Todas las ofertas que ha creado se encuentran en la fase Aceptado de forma predeterminada.
 
-Una vez que empiece a trabajar en el trato, puede proporcionar los detalles del progreso que está realizando marcando las fases de ventas en el ciclo de vida del trabajo. Hay cuatro fases en el ciclo de vida de la negociación, aparte de la aceptación o la creación inicial, y las fases finales ganadas o perdidas, como se menciona a continuación. Proporcionar estos detalles es opcional, pero le recomendamos que los comparta para obtener la ayuda adecuada de los representantes de ventas de Microsoft en un trato de venta conjunta.
+Una vez que haya empezado a trabajar en el contrato, puede proporcionar los detalles del progreso que está realizando marcando las fases de ventas en el ciclo de vida de la oferta. Hay cuatro fases en el ciclo de vida de la oferta aparte de la aceptación o creación iniciales y las fases finales ganadas o perdidas, como se menciona a continuación. Proporcionar estos detalles es opcional, pero le recomendamos encarecidamente que los comparta para obtener la ayuda adecuada de los representantes de ventas de Microsoft en un acuerdo de venta coventa.
 
-:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagen que muestra el ciclo de vida del negocio en el que se puede marcar la fase de venta.":::
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagen que muestra el ciclo de vida de la oferta donde se puede marcar la fase de venta.":::
 
 > [!Note]
-> Las fases de ventas variarán si el trato es un contrato de evaluación de la solución. El marcado de la fase de ventas también es **obligatorio** para las ofertas de evaluación de la solución. El botón **Won** solo se habilitará después de que el socio haya marcado todas las fases de ventas.
+> Las fases de ventas variarán si la oferta es una oferta de evaluación de soluciones. El marcado de la fase de ventas **también es obligatorio para** las ofertas de evaluación de soluciones. **El** botón Won solo se habilitará después de que el asociado marque todas las fases de ventas como completadas.
 
-A continuación se muestra la tabla en la que se muestran las fases de ventas y los porcentajes correspondientes para los contratos distintos de las evaluaciones de soluciones, según lo determinado por el sistema de referencias del centro de Partners de Microsoft.
+A continuación se muestra la tabla en la que se muestran las fases de ventas y los porcentajes correspondientes para ofertas distintas de las evaluaciones de soluciones, según lo determinado por el sistema de referencias de Centro de partners Microsoft.
 
 |**Nombre de la fase de ventas**|**Porcentaje de fase de ventas**|**Definición de la fase de ventas**|
 |:----|:-----|:-----|
-|Creado|10 %|Crear un trato saliente.|
-|Aceptado|10 %|Aceptación de un trato entrante.|
-|Apto|20%|Calificar el valor de los requisitos de trato y cliente antes de continuar.|
-|Elabora|40%|Desarrollar el trato aún más para comprender los requisitos detallados para preparar una POC o cualquier otro artefacto necesario para una propuesta formal.|
-|Propuesto|60%|Realización de una propuesta formal al cliente en función de sus requisitos.|
-|Negotiated|80 %|Negociar los términos finales en función de la propuesta para llegar al estado final: ganar o perder el trato.|
-|Ganado|100 %|Marcar el trato como ganado.|
+|Creado|10 %|Creación de una oferta de salida.|
+|Aceptado|10 %|Aceptación de una oferta entrante.|
+|Apto|20%|Calificar el valor de la oferta y los requisitos del cliente antes de continuar.|
+|Desarrollado|40%|Desarrollar el acuerdo para comprender aún más los requisitos detallados para preparar un POC o cualquier otro artefacto necesario para una propuesta formal.|
+|Propuesto|60%|Realizar una propuesta formal al cliente en función de sus requisitos.|
+|Negotiated|80 %|Negociar los términos finales en función de la propuesta para llegar al estado final: ganar o perder la oferta.|
+|Ganado|100 %|Marcar la oferta como ganada.|
 
-Cuando haya terminado, puede realizar una de las dos acciones, que marcan el trato como **ganada** o **perdida** para informar del resultado.
+Cuando haya terminado, puede realizar una de las dos acciones,  que marcan la oferta como Ganada o **Perdida** para notificar el resultado.
+
+No es necesario que la empresa siga las mismas fases de ventas. Así es Centro de partners las fases de ventas de la oferta y asignará automáticamente las fases de su empresa a estas fases estándar si pasa estos valores mediante la API. Si usa la experiencia Centro de partners usuario, los porcentajes que se muestran en la tabla se usan para marcar las fases de ventas.
 
 > [!Note]
-> No es necesario que su compañía siga las mismas fases de ventas. Este es el modo en que el centro de Partners reconoce las fases de ventas del negocio y asignará automáticamente las fases de la empresa a estas fases estándar si pasa estos valores mediante la API. Si usa la experiencia del usuario del centro de Partners, los porcentajes que se muestran en la tabla se usan para marcar las fases de ventas.
+> En el caso de determinadas soluciones aptas, después de seleccionar Ganada, se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión. Para obtener más información, consulta [Registrar las ofertas](register-deals.md).
 
 > [!Important]
-> En el caso de ciertas soluciones válidas, después de seleccionar ganad, se le pedirá que proporcione información adicional para registrar su negocio. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión. Para obtener más información, consulta [Registrar las ofertas](register-deals.md).
+> Si la oferta es apta para el registro de la oferta, asegúrese de que hay un intervalo de 72 horas entre la creación de la oferta y la obtención de la oferta como ganada. Cerrar la oferta como ganada antes de eso puede dar lugar a que se rechacen los registros de la oferta.
 
-Un trato será válido para el registro de trato solo si cumple todos los criterios siguientes.
+Una oferta solo será apta para el registro de la oferta si cumple todos los criterios siguientes.
 
-- El tipo de trato es el de venta conjunta o de socio comercial.
-- Existe una solución de incentivos que reúne el trato.
-- Se gana el estado del trato.
-- Si el tipo de trato es de venta conjunta, Microsoft ha aceptado la invitación o ha marcado el trato como ganada. Para comprender el estado de Microsoft, consulte la tarjeta de Microsoft debajo de los detalles del contrato.
-
-> [!Important]
-> Registre el trato solo si el nombre de su empresa y la solución de incentivos que cumpla con el trato se mencionan claramente en el contrato con el cliente.
-
-Si el trato es válido para el registro de trato, habrá otro hito agregado al ciclo de vida del trato denominado "registro de trato", como se muestra a continuación.
-
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen en la que se muestra el ciclo de vida del negocio, la ubicación desde donde se puede iniciar el registro del contrato.":::
-
-Puede optar por registrar el trato inmediatamente después de marcar el trato como ganado o en un momento posterior a través del botón registrar ciclo de vida **ahora** .
-Una vez registrado el contrato, puede ver el progreso de la validación del contrato desde el mismo ciclo de vida. Si se requiere alguna acción de la empresa, se mostrarán los errores correspondientes en la vista ciclo de vida del negocio. El trato entra en el estado cerrado cuando se completa la validación del contrato.
+- El tipo de oferta es co-sell o partner-led.
+- Hay una solución apta para incentivos en el contrato.
+- Se gana el estado de la oferta.
+- Si el tipo de la oferta es la venta en colaboración, Microsoft ha aceptado la invitación o ha marcado la oferta como ganada. Para comprender el estado de Microsoft, puede ver la tarjeta de Microsoft debajo de los detalles de la oferta.
 
 > [!Important]
-> Tanto la revisión del contrato como el estado final de la validación solo se aplican a las ofertas de venta conjunta de IP.
+> Registre la oferta solo si el nombre de la empresa y la solución apta para incentivos del contrato se mencionan claramente en el contrato con el cliente.
 
-### <a name="combinations"></a>Posibles
+Si la oferta es apta para el registro de la oferta, se agregará otro hito al ciclo de vida de la oferta denominado "Registro de la oferta", como se muestra a continuación.
 
-En la tabla siguiente se muestran las combinaciones de personas a las que se puede invitar en esta fase del trato.
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagen que muestra el ciclo de vida de la oferta, la ubicación desde la que se puede iniciar el registro de la oferta.":::
 
-|**Tipo de trato original**|**Personas a las que se puede invitar**|**Notas**|
+Puede optar por registrar la oferta inmediatamente después de marcar la oferta como ganada o en un momento posterior a través del botón Registrar **ahora** del ciclo de vida de la oferta.
+Una vez registrada la oferta, puede ver el progreso de la validación de la oferta del mismo ciclo de vida. Si se requiere alguna acción de su empresa, se muestran los errores adecuados en la vista del ciclo de vida de la oferta. La oferta entra en estado cerrado cuando se completa la validación de la oferta.
+
+> [!Important]
+> Tanto la revisión de la oferta como el estado de validación final solo son aplicables a las ofertas de venta co-venta de IP.
+
+### <a name="combinations"></a>Combinaciones
+
+En la tabla siguiente se muestran las combinaciones de quién se puede invitar en esta fase del acuerdo.
+
+|**Tipo de oferta original**|**A quién se puede invitar**|**Notas**|
 |-----|:-----|:-----|
-|Private|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
-|Private|Equipo de ventas de Microsoft para ver los negocios|El trato se actualizará a un LED de asociados cuando el equipo de ventas de Microsoft tenga visibilidad para los negocios.|
-|Dirigido por asociados|Microsoft y/u otros asociados|El trato se actualizará a la venta conjunta si se le invita a Microsoft.|
-|Venta conjunta|Otros asociados|Se puede invitar a otros asociados solo si su empresa inició el trato. No se puede invitar a los asociados a los contratos en la pestaña entrante.|
-|Asociado al asociado sin Microsoft|Microsoft|El trato se actualizará a un trato de venta conjunta.|
-|Asociado al asociado sin Microsoft|Otros asociados||
+|Private|Microsoft u otros asociados|Si se invita a Microsoft, el acuerdo se actualizará a Venta en colaboración.|
+|Private|Equipo de ventas de Microsoft para ver las ofertas|La oferta se actualizará a dirigida por el partner cuando el equipo de ventas de Microsoft tenga visibilidad sobre las ofertas.|
+|Dirigido por asociados|Microsoft u otros asociados|Si se invita a Microsoft, el acuerdo se actualizará a Venta en colaboración.|
+|Venta conjunta|Otros asociados|Solo se puede invitar a otros asociados si su empresa inició el acuerdo. No se puede invitar a los asociados para obtener ofertas en la pestaña Entrada.|
+|Asociación para asociarse sin Microsoft|Microsoft|La oferta se actualizará a una oferta de venta co-venta.|
+|Partner to partner without Microsoft|Otros asociados||
 
 ### <a name="closed-stage"></a>Fase cerrada
 
-Esta es la fase final de todas las oportunidades. Puede ver todos los acuerdos que se encuentran en las versiones **ganadas, perdidas, rechazadas** y **expiradas** en la fase cerrada. No hay acciones que pueda realizar en esta fase.
+Esta es la fase final de todas las oportunidades. Puede ver todas las ofertas **ganadas, perdidas, rechazadas** **y** expiradas en la fase cerrada. No hay ninguna acción que pueda realizar en esta fase.
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-**Respuestas. ¿Se puede editar una vez que se ha marcado como ganada o perdida?**
+**Q. ¿Se puede editar una oferta después de marcarla como Ganada o perdida?**
 
-No, los contratos no se pueden modificar una vez que pasan a un estado de terminal. Caducado, rechazo, ganada y perdida son Estados de terminal en los que no es posible realizar más actualizaciones para el trato. Tenga cuidado al trasladar el trato a cualquiera de estos Estados de terminal.
+No, las ofertas no se pueden modificar una vez que pasen a un estado terminal. Expirado, disminución, ganado y perdido son estados terminales en los que no es posible realizar más actualizaciones en el contrato. Tenga cuidado al mover la oferta a cualquiera de estos estados terminales.
 
-**Respuestas. ¿Quién recibe una notificación por correo electrónico del centro de Partners?**
+**Q. ¿Quién recibe una notificación por correo electrónico Centro de partners?**
 
-En el flujo de trabajo siguiente se explica cómo se envían los mensajes de correo electrónico a los asociados desde el sistema de referencias del centro de partners para las nuevas referencias de entrada de socios comerciales.
+En el flujo de trabajo siguiente se explica cómo se envían los correos electrónicos a los asociados desde el sistema de referencias del Centro de partners para nuevas referencias entrantes de asociados.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para las nuevas referencias entrantes.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para nuevas referencias entrantes.":::
 
-**Respuestas. ¿Qué tipo de incentivos son válidos para el registro de trato?**
+**Q. ¿Qué tipo de incentivos son aptos para el registro de contratos?**
 
-Solo los incentivos IP son válidos para el registro de trato. Entre ellas se incluyen las siguientes:
+Solo los incentivos de IP son aptos para el registro de la oferta. Entre ellas se incluyen las siguientes:
 
-- Co-venta de IP de Azure
-- Aplicaciones de negocios Premium
-- Aplicaciones de negocios estándar
+- Venta co-venta de IP de Azure
+- Aplicaciones de Biz Premium
+- Aplicaciones de Biz estándar
 
-## <a name="get-more-co-sell-opportunities"></a>Obtenga más oportunidades de venta conjunta
+## <a name="get-more-co-sell-opportunities"></a>Obtener más oportunidades de venta en colaboración
 
-Estas son algunas sugerencias que le ayudarán a obtener más oportunidades de venta conjunta adecuadas para su empresa:
+Estas son algunas sugerencias que le ayudarán a obtener más oportunidades de venta en colaboración que sean adecuadas para su negocio:
 
-- **Responda rápidamente a las ofertas**. Cuando responde de forma oportuna a las solicitudes entrantes, aumentaremos su visibilidad en futuros resultados de la búsqueda de asociados de manera progresiva. Asegúrate de que tu equipo responde rápidamente con tu propósito.
-- **Sé selectivo con las ofertas que aceptas**. Supervisamos los tipos de tratos que acepta y rechaza y usa esta información para ayudarle a encontrar tratos similares. La aceptación de acuerdos que no son una buena opción no mejora los resultados de la búsqueda y puede afectar a la calidad de las oportunidades que recibe.
-- **Informa del tamaño estimado del negocio, las fechas de cierre y el estado final de tus ofertas** (ganadas o perdidas). Usaremos esta información para seguir proporcionando las referencias de calidad.
+- **Responda rápidamente a las ofertas**. Cuando responda de forma oportuna a las solicitudes entrantes, aumentaremos progresivamente la visibilidad de los resultados futuros de la búsqueda de asociados. Asegúrate de que tu equipo responde rápidamente con tu propósito.
+- **Sé selectivo con las ofertas que aceptas**. Supervisamos los tipos de ofertas que acepta y rechaza, y usamos esta información para ayudarle a encontrar ofertas similares. Aceptar ofertas que no son una buena opción no mejorará los resultados de búsqueda y podría afectar a la calidad de las oportunidades que recibe.
+- **Informa del tamaño estimado del negocio, las fechas de cierre y el estado final de tus ofertas** (ganadas o perdidas). Usaremos esta información para seguir a proporcionar referencias de calidad.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Administrar los clientes potenciales](manage-leads.md)
 
-- [Obtención del conector de venta conjunta para Dynamics 365 CRM](connector-dynamics.md)
+- [Obtener el conector de venta co-sell para Dynamics 365 CRM](connector-dynamics.md)
 
-- [Obtención del conector de venta conjunta para Salesforce CRM](connector-salesforce.md)
+- [Obtener el conector de venta co-sell para Salesforce CRM](connector-salesforce.md)

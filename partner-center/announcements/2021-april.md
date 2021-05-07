@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823391"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328056"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
 En esta página se encuentran los anuncios del Centro de partners de Microsoft de abril de 2021.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Preparación: Se ha actualizado la API de validación de direcciones de clientes de CSP que se publicará en junio. La funcionalidad de pruebas ya está disponible.
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 30/04/2021
+- Preparación
+
+### <a name="summary"></a>Resumen
+
+Para ayudar a los partners y clientes a dirigir sus negocios basándose en la confianza, invitaremos a los partners a probar los cambios en la API de validación de direcciones para todos los países en todo el mundo.
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Partners de facturación directa de CSP y proveedores indirectos que crean o actualizan los detalles actuales de dirección de los clientes.
+
+### <a name="details"></a>Detalles
+
+Microsoft funciona con confianza. Nos comprometemos a proporcionar un método compatible, seguro y protegido para la validación de la dirección de los clientes durante las operaciones de transacción con suscripciones de clientes en el programa CSP. A partir del 31 de marzo de 2021, hemos introducido cambios en la API de validación de direcciones. Invitamos a los partners a probar la API antes de la publicación a finales de junio de 2021. 
+
+Tenga en cuenta que estos cambios solo afectan a la API de validación de direcciones. Las API de creación de clientes y actualización del perfil de facturación no se ven afectadas. Aunque la dirección sugerida no tiene que usarse actualmente con la API de creación de clientes, se recomienda encarecidamente.
+
+La respuesta devolverá uno de los siguientes mensajes de estado:
+
+| Status     | Descripción |    Número de direcciones sugeridas devueltas |
+|-------|---------------|-------------------|
+|Verified shippable | La dirección está comprobada y puede recibir envíos. | Single |
+|Verified | La dirección está comprobada. | Single |
+|Interaction required | La dirección sugerida se ha cambiado significativamente y se necesita la confirmación del usuario. | Single |
+|Street partial | La calle indicada en la dirección es parcial y necesita más información. | Varias: tres como máximo |
+|Premises partial | Los locales especificados (número de edificio, número de suite, etc.) son parciales y se necesita más información. | Varias: tres como máximo |
+|Múltiple | La dirección tiene varios campos que son parciales (también puede incluir Street partial y Premises partial). | Varias: tres como máximo |
+|Ninguno | La dirección es incorrecta. | Ninguno |
+|No validado | No se pudo enviar la dirección a través del proceso de validación. | Ninguno |
+
+Los códigos postales de EE. UU. devolverán cuatro dígitos adicionales más un guion, por ejemplo, 12345-6789.
+
+### <a name="next-steps"></a>Pasos siguientes
+
+- Revise la documentación técnica y las preguntas más frecuentes en la [colección específica para asociados](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) a fin de obtener instrucciones más detalladas.
+- Prepárese para incorporar los cambios mediante la API del Centro de partners y la experiencia de usuario web. 
+- Comparta su id. de inquilino de espacio aislado con nuestro experto en la materia, Ali Khaki, para que se incluya en el piloto de prueba, de modo que pueda empezar a preparar la actualización. 
+- Si usa una solución de proveedor de panel de control (CPV), consulte a su CPV.
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si necesita soporte técnico para las operaciones con Microsoft, póngase en contacto con el grupo de Yammer de soporte técnico al partner o abra una [solicitud de servicio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nueva ubicación para la documentación de Swagger de las API del Centro de partners
+
+### <a name="categories"></a>Categorías
+
+- Fecha: 26/04/2021
+- Funcionalidades
+
+### <a name="summary"></a>Resumen
+
+Los documentos de Swagger de las API del Centro de partners se han migrado desde el [sitio de documentación de Swagger anterior](https://apidocs.microsoft.com/services/partnercenter) a un [nuevo sitio de documentación de Swagger](https://docs.microsoft.com/rest/api/partner-center-rest/).
+
+### <a name="impacted-audience"></a>Audiencia afectada
+
+Partners de factura directa y proveedores indirectos que participan en el programa Proveedor de soluciones en la nube (CSP) y que usan las API del Centro de partners.
+
+### <a name="details"></a>Detalles
+
+A partir del 26 de abril de 2021, la documentación de Swagger de las API del Centro de partners, incluido el contenido de la API REST, se encuentra en un [nuevo sitio](https://docs.microsoft.com/rest/api/partner-center-rest/). El sitio antiguo dejará de ser accesible después de varias semanas.
+
+### <a name="benefits"></a>Ventajas
+
+La documentación de Swagger de las API del Centro de partners proporciona una función **Pruébalo**. Para usar esta función, deberá tener un token de portador, que puede generar siguiendo los pasos indicados en [Autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+
+### <a name="next-steps"></a>Pasos siguientes
+
+Comparta esta información en su organización para que el equipo adecuado pueda revisar y actualizar sus procesos.
+
+### <a name="questions"></a>¿Tiene alguna pregunta?
+
+Si tiene preguntas sobre estas ofertas, consúltelas a las comunidades de Yammer correspondientes.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Directiva del período de devolución de software para Proveedor de soluciones en la nube (CSP) y aviso de expiración del vínculo de descarga

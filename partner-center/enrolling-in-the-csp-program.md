@@ -1,7 +1,7 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a su negocio, como revendedor indirecto o partner de facturación directa.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441819"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213387"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -92,6 +92,38 @@ Consulte [Transition from Cloud Solution Provider (CSP) direct bill partner to C
 
 La ubicación de la empresa determina el mercado. El mercado incluye las regiones o los países en los que puede vender ofertas de CSP. Consulte [Mercados regionales del programa Proveedor de soluciones en la nube y monedas](regional-authorization-overview.md) para obtener información sobre monedas y ubicaciones de mercados.
 Asegúrese de leer [Requisitos previos para agregar una nueva ubicación para una empresa de CSP](manage-locations.md).
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Indicación del número de identificación del registro de partner para países específicos
+
+Si es proveedor indirecto, partner de facturación directa o revendedor indirecto y hace negocios con clientes nuevos o existentes en los siguientes países, tiene que proporcionar los números de identificación del registro para su empresa. Si el país en el que hace negocios no aparece a continuación, la identificación del registro es opcional.
+
+- Armenia 
+- Azerbaiyán 
+- Belarús 
+- Brasil 
+- Hungría 
+- India 
+- Iraq 
+- Kazajistán 
+- Kirguistán 
+- Moldova 
+- Myanmar 
+- Polonia 
+- Rusia 
+- Arabia Saudí 
+- Sudáfrica 
+- Sudán del Sur  
+- Tayikistán 
+- Tailandia
+- Turquía 
+- Ucrania 
+- Emiratos Árabes Unidos 
+- Uzbekistán 
+- Venezuela
+- Vietnam 
+
+
+Para obtener más información, lea [Información del id. de registro.](reg-number-id.md)
 
 ## <a name="next-steps"></a>Pasos siguientes
 

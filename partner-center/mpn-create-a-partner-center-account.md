@@ -1,7 +1,7 @@
 ---
 title: Creación de una cuenta de MPN en el Centro de partners
 ms.topic: article
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Obtenga información sobre cómo los miembros de Microsoft Partner Network pueden crear una cuenta en el Centro de partners para administrar sus ventajas y competencias en la red.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120807"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213404"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Creación de una cuenta de MPN en el Centro de partners para administrar las ventajas y las competencias en la red
 
@@ -64,6 +64,41 @@ Asimismo, puede buscar el perfil de la empresa o escribir la información de est
 Si su compañía se encuentra en **Armenia**, **Hungría**, **Kirguistán**, **Moldavia**, **Uzbekistán** o **Rusia** y escribe su dirección manualmente, validaremos automáticamente su dirección. Si la que escribe es diferente de la validada, se recomienda usar la dirección validada. Esto garantiza que los elementos de la dirección están normalizados, según lo definido por la autoridad postal del país, con el formato correcto y que se pueden enviar.  
 
 Una vez que haya proporcionado la información de la compañía, escriba la información del contacto principal. El contacto principal debe ser la persona de su compañía con la que podamos ponernos en contacto respecto a la aplicación (puede ser usted u otra persona de la compañía).
+
+## <a name="registration-id-numbers-by-country"></a>Números de identificación del registro por país
+
+Si es proveedor indirecto, partner de facturación directa o revendedor indirecto y hace negocios con clientes nuevos o existentes en los siguientes países, tiene que proporcionar los números de identificación del registro para su empresa. Si el país en el que hace negocios no aparece a continuación, la identificación del registro es opcional.
+
+En la tabla siguiente encontrará ejemplos de los números de registro recopilados para cada país. En los casos donde se enumeren varios identificadores, solo se requiere uno.
+
+| **País o región** | **Detalles** | 
+|:--|:--|:--|:--|:--|:--|
+| **Armenia** | INN: número de identificación fiscal.<br>Número de IVA: también conocido como número de registro de IVA. Este es el número único que identifica a una persona gravable (empresa) o una persona jurídica no gravable que está inscrita en el registro de IVA.<br>Número de servicio público. |  |  | |  |
+| **Azerbaiyán**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf): número de identificación fiscal.<br>INN: número de identificación fiscal. |  |  |  |  |
+| **Belarús**  | UNP: se trata de un número de nueve dígitos (numérico para organizaciones, alfanumérico para personas físicas) que contiene un identificador de región, una serie por región y un dígito de control. |  |  |  |  |
+|**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf): (Cadastro Nacional da Pessoa Jurídica, o Registro nacional de entidades legales). Se trata de un número de identificación emitido para empresas brasileñas por la Secretaría de Ingresos Federales de Brasil.  |  |  |  |  |
+| **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf): número de identificación fiscal. |  |  |  |  |
+| **Hungría**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf): número de identificación fiscal. |  |  |  |  |
+| **India** | NIF/CIF<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) (Número de cuenta permanente): Participación en PAN India significa que una organización funciona en varias ubicaciones en la India. |  |  |  |  |
+| **Iraq** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): número de identificación fiscal. |  |  |  |  |
+| **Kazajistán**  | BIN: número de identificación bancaria.<br>IIN: número de identificación de emisor. |  |  |  |  |
+| **Kirguistán**  | INN: número de identificación fiscal. |  |  |  |  |
+| **Moldova**  | IDNO: número de identificación estatal único que se asigna a la persona jurídica (también conocido como código fiscal).<br>IDNP: código personal de nacimiento ("Numarul de Identificare"). |  |  |  |  |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): número de identificación fiscal. |  |  |  |  |
+| **Polonia**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf): número de identificación fiscal.<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf): número de identificación nacional que se usa en Polonia (Powszechny Elektroniczny System Ewidencji Ludności, sistema electrónico universal para el registro de la población). |  |  |  |  |
+| **Rusia**  | [INN:](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) número de identificación fiscal (en ruso, "Individualiy Nomer Nalogoplatelshika") |  |  |  |  |
+| **Arabia Saudí** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf): número de identificación fiscal. |  |  |  |  |
+| **Sudáfrica** | TRN: número de registro de tráfico. |  |  |  |  |
+| **Sudán del Sur** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): número de identificación fiscal. |  |  |  |  |
+| **Tayikistán**  | INN: número de identificación fiscal.<br>CIF/NIF: número de identificación de la empresa.<br>KPP: se trata de un código que refleja el motivo del registro de la organización. |  |  |  |  |
+| **Tailandia** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): número de identificación fiscal. |  |  |  |  |
+| **Turquía** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf): número de identificación fiscal.<br>NIN. |  |  |  |  |
+| **Ucrania**  | EGRPOU.<br>EDRPOU: identificador local. |  |  |  |  |
+| **Emiratos Árabes Unidos** | NIF/CIF<br>[Número de IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf): también conocido como número de registro de IVA. Este es el número único que identifica a una persona gravable (empresa) o una persona jurídica no gravable que está inscrita en el registro de IVA. |  |  |  |  |
+| **Estados Unidos** | [CIF/NIF](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce): número de identificación de la empresa. |  |  |  |  |
+| **Uzbekistán**  | INN: número de identificación fiscal. |  |  |  |  |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): número de identificación fiscal. |  |  |  |  |
+| **Venezuela** | RIF: Registro de Identificación Fiscal. |  |  |  |  |
 
 4. Selecciona **Inscribirse ahora**.
 
