@@ -1,43 +1,43 @@
 ---
-title: Compra de software y soluciones desde Azure Marketplace
-description: Obtenga información sobre las herramientas que simplifican y agilizan las compras y la administración de software en Azure Marketplace.
+title: Compra de software y soluciones de Azure Marketplace
+description: Obtenga información sobre las herramientas que simplifican y simplifican las compras y la administración de software en Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 04/15/2021
+ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412580"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630090"
 ---
-# <a name="azure-marketplace-purchasing"></a>Compras de Azure Marketplace
+# <a name="azure-marketplace-purchasing"></a>Azure Marketplace compra
 
-Azure Marketplace tiene numerosas herramientas y características que simplifican y simplifican el proceso de compra, facturación y administración de directivas de compra.
+Azure Marketplace tiene numerosas herramientas y características que simplifican y simplifican el proceso de compra, facturación y administración de la directiva de compra.
 
 ## <a name="simplified-procurement"></a>Adquisición simplificada
 
-Azure Marketplace le ayuda a simplificar el proceso de adquisición a través de diferentes opciones de compra. Si compra productos con una tarjeta de crédito asociada a su cuenta de Azure, todas las compras se consolidarán en una sola factura y se facturarán a la tarjeta de crédito que elija. Si es un cliente de gran tamaño, puede comprar mediante una Contrato Enterprise. Con un contrato Enterprise, las compras de software se incluyen automáticamente en la factura de Azure. La factura contendrá los cargos de uso de Azure en primer lugar, seguidos de los de Azure Marketplace.
+Azure Marketplace le ayuda a simplificar el proceso de adquisición a través de diferentes opciones de compra. Si compra productos con una tarjeta de crédito asociada a su cuenta de Azure, todas las compras se consolidarán en una sola factura y se facturarán en la tarjeta de crédito que prefiera. Si es un cliente grande, puede comprar mediante un Contrato Enterprise. Con un EA, las compras de software se incluyen automáticamente en la factura de Azure. La factura contendrá los cargos de uso de Azure en primer lugar, seguidos de los de Azure Marketplace.
 
-Al comprar a través de Azure Marketplace, elimina la complejidad de la administración de las relaciones y las facturas de los proveedores individuales. Obtendrá una factura mensual única y consolidada de Microsoft que incluye las compras de Azure Marketplace y los cargos de Azure.
+Al comprar a través de Azure Marketplace, se elimina la complejidad de administrar las relaciones y facturas de proveedores individuales. Obtiene una única factura mensual consolidada de Microsoft que incluye las compras Azure Marketplace y los cargos de Azure.
 
 ## <a name="permission-to-purchase"></a>Permiso para comprar
 
-Una vez que haya encontrado la aplicación de software correcta, la finalización de la compra es sencilla. Sin embargo, tendrá permisos adecuados en la suscripción de Azure. Dado que Azure funciona en un modelo de [Access Control basado en roles](/azure/role-based-access-control/overview) (RBAC), la cuenta necesita permisos de **propietario** o **colaborador** de la suscripción para hacer una compra.
+Una vez que haya encontrado la aplicación de software adecuada, completar la compra es sencillo. Sin embargo, necesitará permisos adecuados dentro de la suscripción de Azure. Dado que Azure funciona en un modelo de Access Control [basado](/azure/role-based-access-control/overview) en  rol  (RBAC), la cuenta necesita permisos de propietario o colaborador de la suscripción para realizar una compra.
 
 Antes de completar una compra, asegúrese de que el usuario tiene la configuración correcta en el inquilino de Azure. Esto ayudará a evitar errores durante la compra.
 
-En la experiencia de Azure Marketplace en el Azure Portal, busque la aplicación que quiere comprar y seleccione **crear** o **configurar + suscribirse**. Se le pedirá que complete la información antes de poder usar la nueva solución.
+En la Azure Marketplace en la Azure Portal, busque la aplicación que quiere  comprar y seleccione Crear o Configurar **+ suscribirse.** Se le pedirá que complete alguna información antes de poder usar la nueva solución.
 
-:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Botón de creación de la oferta.":::
+:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Botón Crear oferta.":::
 
-:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="El botón Configurar + suscribir.":::
+:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="El botón Configurar y suscribirse.":::
 
-Si desea implementar una solución desde la tienda en línea de Azure Marketplace, seleccione **obtenerla ahora** en la página Descripción del producto y, a continuación, inicie sesión con las credenciales de su cuenta de Azure.
+Si quiere implementar una solución desde la tienda en  línea de Azure Marketplace, seleccione Obtenerla ahora en la página de descripción del producto y, a continuación, inicie sesión con las credenciales de la cuenta de Azure.
 
-:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="El cuadro de diálogo de inicio de sesión de Azure Marketplace.":::
+:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Cuadro Azure Marketplace de diálogo de inicio de sesión único.":::
 
 Una vez que inicie sesión, se le redirigirá al producto en el Azure Portal para completar la compra.
 
@@ -45,35 +45,35 @@ Una vez que inicie sesión, se le redirigirá al producto en el Azure Portal par
 
 Microsoft le permite administrar las compras de usuarios a través de su perfil de facturación como administrador de suscripciones de Azure. Elija una de las tres opciones:
 
-- **Gratis + pago** : permite a los usuarios adquirir cualquier aplicación de software de Azure Marketplace.
-- **Gratis** : permite a los usuarios implementar solo software gratuito de Azure Marketplace.
-- **No** : impide que los usuarios implementen software desde Azure Marketplace.
+- **Gratis + de pago:** permite a los usuarios adquirir cualquier Azure Marketplace de software.
+- **Gratis:** permite a los usuarios implementar solo software gratuito desde Azure Marketplace.
+- **No:** impide que los usuarios implemente software Azure Marketplace.
 
-Esta configuración se aplica a todos los usuarios con acceso a su suscripción de Azure, lo que le ofrece la capacidad de controlar la adquisición de ti a través de la Azure Portal.
+Esta configuración se aplica a todos los usuarios con acceso a su suscripción de Azure, lo que le ofrece la capacidad de controlar la adquisición de TI a través del Azure Portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Control de la adquisición de ti a través del Azure Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Control de la adquisición de IT a través del Azure Portal":::
 
 ## <a name="cost-management"></a>Administración de costos
 
-A medida que compra productos de Azure Marketplace, querrá obtener información que le ayude a administrar los costos. Azure Cost Management es una herramienta gratuita para ver información sobre los productos que ha adquirido. Puede usar Cost Management para ver detalles de los servicios con los que está gastando dinero a lo largo del tiempo y cómo esos costos realizan un seguimiento de los presupuestos que ha establecido. Además de establecer presupuestos, puede programar informes y analizar los costos de las suscripciones. Para obtener más información sobre Azure Cost Management, complete el módulo de Microsoft Learn en [análisis de costos y creación de presupuestos con Azure cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+A medida que compra productos Azure Marketplace, quiere obtener información que le ayude a administrar los costos. Azure Cost Management es una herramienta gratuita para ver información sobre los productos que ha adquirido. Puede usar Cost Management para ver los detalles de los servicios en los que está gastando dinero a lo largo del tiempo y cómo se realiza el seguimiento de esos costos con respecto a los presupuestos que ha establecido. Además de establecer presupuestos, puede programar informes y analizar los costos de la suscripción. Obtenga más información sobre Azure Cost Management completando el módulo Microsoft Learn análisis de costos y creación de [presupuestos con Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Puede ver los cargos y las facturas de Azure Marketplace en la herramienta de análisis de costos en Azure Cost Management.
 
-:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Use Azure Cost Management para obtener información sobre los productos adquiridos.":::
+:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Use Azure Cost Management para obtener información sobre los productos comprados.":::
 
-## <a name="purchase-validation-checks"></a>Comprar comprobaciones de validación
+## <a name="purchase-validation-checks"></a>Comprobaciones de validación de compra
 
-La compra de una oferta a través de Azure Marketplace puede producir un error por distintos motivos. Es más probable que el uso de la interfaz de la línea de comandos (CLI) para una compra provoque errores, ya que es posible que esté intentando comprar una oferta que no está disponible o está visible en Azure Marketplace. A continuación se enumeran las comprobaciones que pueden provocar un error en la compra:
+La compra de una oferta mediante Azure Marketplace puede producir un error por diferentes motivos. Es más probable que el uso de la interfaz de la línea de comandos (CLI) para una compra cause errores, ya que es posible que esté intentando comprar una oferta que no está disponible o visible en Azure Marketplace. Estas son las comprobaciones que pueden provocar un error en una compra:
 
-1. La suscripción pertenece a una Contrato Enterprise (EA) y el administrador de EA deshabilitó las compras de Azure Marketplace.
+1. La suscripción pertenece a un Contrato Enterprise (EA) y el administrador de EA deshabilitado Azure Marketplace compras.
 1. El administrador de EA ha habilitado las compras solo para las ofertas gratuitas y la oferta es una oferta de pago.
 1. La oferta no se encuentra en Marketplace.
-1. El fabricante de software independiente (ISV) dejó de vender la oferta, al menos en su región.
-1. La suscripción que está usando pertenece a una cuenta de facturación en una región en la que la oferta no está disponible.
-1. La cuenta de facturación o suscripción no está asociada a ningún instrumento de pago válido (por ejemplo, una tarjeta de crédito válida).
-1. La suscripción pertenece a un proveedor de soluciones en la nube (CSP) y el ISV rechazó vender a través de un CSP.
-1. El Marketplace privado está habilitado para la suscripción y la oferta no está en la lista de ofertas permitidas.
-1. La oferta es privada o de vista previa para determinados clientes y la suscripción no está en la lista de clientes permitidos.
+1. El proveedor de software independiente (ISV) desusó (anteriormente detuvo la venta) de la oferta, al menos en su región.
+1. La suscripción que usa pertenece a una cuenta de facturación de una región en la que la oferta no está disponible.
+1. La cuenta de suscripción o facturación no está asociada a un instrumento de pago válido (por ejemplo, una tarjeta de crédito válida).
+1. La suscripción pertenece a un Proveedor de soluciones en la nube (CSP) y el ISV rechazó vender a través de un CSP.
+1. Marketplace privado está habilitado para la suscripción y la oferta no está en la lista de ofertas permitidas.
+1. La oferta es privada o preliminar para clientes específicos y la suscripción no está en la lista de clientes permitidos.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
