@@ -1,82 +1,83 @@
 ---
-title: Cómo afectan las directivas de impuestos al pago de Azure Marketplace
-description: Obtenga información sobre cómo las directivas de impuestos afectan al pago de Azure Marketplace.
+title: Cómo afectan las directivas fiscales al pago de Azure Marketplace
+description: Obtenga información sobre cómo afectan las directivas fiscales al pago Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768829"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686320"
 ---
-# <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Cómo afectan las directivas de impuestos al pago de Azure Marketplace
+# <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Cómo afectan las directivas fiscales al pago de Azure Marketplace
 
 **Roles adecuados**
--    Administrador global
--    Administrador del control de usuarios
--    Agente de administrador
+
+- Administrador global
+- Administrador del control de usuarios
+- Agente de administrador
 
 ## <a name="introduction"></a>Introducción
 
-Microsoft Commercial Marketplace tiene alcance global. Las transacciones se producen entre los bordes y, en función de dónde se encuentre el ISV y el cliente, las implicaciones fiscales pueden variar. Microsoft AppSource y Azure Marketplace usan la información del perfil fiscal del centro de partners para determinar el país del ISV. Para determinar el país del cliente, use la información de facturación del cliente o, si el cliente está en la UE, usamos dos fragmentos de información diferentes.
+El marketplace comercial de Microsoft tiene alcance global. Las transacciones se producen a través de fronteras y, en función de dónde se encuentran el ISV y el cliente, las implicaciones fiscales pueden variar. Microsoft AppSource y Azure Marketplace usar la Centro de partners del perfil fiscal para determinar el país del ISV. Para determinar el país del cliente, use la información de facturación del cliente o, si el cliente está en la UE, usamos dos datos diferentes.
 
-Para comprender mejor los escenarios siguientes, consulte la tabla de [detalles de impuestos](tax-details-marketplace.md) , que muestra si Microsoft recopila y paga impuestos en nombre del publicador o si esa responsabilidad pertenece al publicador.
+Para comprender mejor los escenarios [](tax-details-marketplace.md) siguientes, consulte la tabla Detalles fiscales, que muestra si Microsoft cobra y paga impuestos en nombre del publicador o si esa responsabilidad pertenece al publicador.
 
 > [!NOTE]
-> Todos los ejemplos de ventas y los porcentajes de impuestos de este tema son solo para fines ilustrativos, no figuras exactas.
+> Todos los ejemplos de valores de venta y porcentajes fiscales de este tema son solo con fines ilustrativos, no con cifras exactas.
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>El publicador se comporta en el país de impuestos administrado por Microsoft
+## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Transacciones del publicador en el país fiscal administrado por Microsoft
 
-**Escenario A** : transacciones que tienen lugar entre un publicador y un cliente en un [país de impuestos administrado por Microsoft](tax-details-marketplace.md#microsoft-managed-countries). Estas transacciones tendrán impuestos aplicables en el momento de la venta y Microsoft enviará dicho impuesto al país correspondiente. No se retiene ningún impuesto del pago y los cálculos de pago son impuestos exclusivos.
+**Escenario A:** transacciones que tienen lugar entre un publicador y un cliente en un país fiscal [administrado por Microsoft.](tax-details-marketplace.md#microsoft-managed-countries) Estas transacciones tendrán impuestos aplicables agregados en el momento de la venta y Microsoft envía ese impuesto al país aplicable. No se retiene ningún impuesto del pago y los cálculos de pago son exclusivos de impuestos.
 
-Vea el [escenario D](#foreign-publisher-transacts-with-us-customer) para las transacciones entre un publicador que no es de Estados Unidos y un cliente de EE. UU.
+Consulte [escenario D para](#foreign-publisher-transacts-with-us-customer) las transacciones entre un publicador que no es de EE. UU. y un cliente de EE. UU.
 
 :::image type="content" source="images/tax-policies/payout-scenario-a.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago A.":::
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>El publicador actúa en el país de impuestos administrado por Microsoft, donde la cuota de Marketplace es servicio gravable
+## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Transacciones del publicador en un país fiscal administrado por Microsoft en el que el precio de Marketplace es un servicio imponible
 
-**Escenario B** : las transacciones que tienen lugar entre un publicador basado en Estados Unidos (según se define en la información del perfil fiscal del centro de Partners) a un cliente en un país de impuestos administrado por Microsoft en el que el país impone un impuesto sobre la cuota de Marketplace (un servicio gravable). En este escenario, el impuesto sobre la cuota de servicio de la tienda se resta del pago del anunciante.
+**Escenario B:** transacciones que tienen lugar entre un publicador basado en Estados Unidos (tal y como se define en su información de perfil fiscal de Centro de partners) a un cliente en un país fiscal administrado por Microsoft donde el país impone un impuesto sobre la cuota de Marketplace (un servicio imponible). En este escenario, el impuesto sobre la tarifa del servicio de tienda se resta del pago del anunciante.
 
-:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago B.":::
+:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Muestra el flujo de trabajo del escenario B del proceso de pago.":::
 
-## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>El publicador actúa en el país de impuestos administrado por el publicador
+## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Transacciones del publicador en el país fiscal administrado por el publicador
 
-**Escenario C** : las transacciones que tienen lugar entre un publicador y un cliente en un país de impuestos administrado por el publicador que no impone un impuesto de retención a los clientes. Los clientes no pagan ningún impuesto en el punto de venta y es la obligación del anunciante de pagar todos los impuestos aplicables.
+**Escenario C:** transacciones que tienen lugar entre un publicador y un cliente en un país fiscal administrado por el publicador que no impone una retención de impuestos a los clientes. Los clientes no pagan ningún impuesto en el momento de la venta y es obligación del anunciante pagar todos los impuestos aplicables.
 
-Para obtener más información sobre los precios específicos de cada país (por ejemplo, para desplazar la siguiente tributación), consulte [planes y precios de ofertas comerciales de Marketplace](/azure/marketplace/plans-pricing#custom-prices).
+Para obtener más información sobre los precios específicos del país (por ejemplo, para compensar los próximos impuestos), consulte Planes y precios de ofertas [de marketplace comercial.](/azure/marketplace/plans-pricing#custom-prices)
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago C.":::
 
-## <a name="foreign-publisher-transacts-with-us-customer"></a>El publicador externo se comporta con el cliente de EE. UU.
+## <a name="foreign-publisher-transacts-with-us-customer"></a>Transacciones del publicador externo con el cliente de EE. UU.
 
-**Escenario D** : todos los publicadores externos (según se define en la información del perfil fiscal del centro de Partners) en países sin un tratado estadounidense (vea el [escenario E](#foreign-publisher-with-a-treaty-transacts-with-us-customer)) que realizan una venta a un cliente basado en Estados Unidos (según se define en la dirección de su cuenta de cliente). El gobierno de EE. UU. requiere la retención de impuestos de Microsoft en nombre del publicador. Los impuestos retenidos del pago al publicador se calculan en función del precio de la oferta.
+**Escenario D:** todos los anunciantes externos (tal y como se define en su información de perfil fiscal de Centro de partners) en países sin permiso de Ee. UU. (consulte el escenario [E)](#foreign-publisher-with-a-treaty-transacts-with-us-customer)que realiza una venta a un cliente basado en Estados Unidos (tal y como se define en su dirección de cuenta de cliente). El gobierno de EE. UU. requiere que Microsoft retenga los impuestos en nombre del anunciante. Los impuestos que se retienen del pago al publicador se calculan en función del precio de la oferta.
 
-:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago D.":::
+:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Muestra el flujo de trabajo para el escenario D del proceso de pago.":::
 
-## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>Publicador externo con un tratado que se comporta con el cliente de EE. UU.
+## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>Publicador externo con una transacción de transacción con un cliente de EE. UU.
 
-**Escenario E** : todos los publicadores externos (según se define en la información del perfil fiscal del centro de Partners) en países con un Tratado de EE. UU. que realizan una venta a un cliente basado en EE. UU. (según se define en la dirección de su cuenta de cliente). El gobierno de EE. UU. no requiere que Microsoft retenga impuestos en nombre del publicador.
+**Escenario E:** todos los anunciantes externos (tal y como se define por su información de perfil fiscal de Centro de partners) en países con un tratado de Ee. UU. que realiza una venta a un cliente basado en Estados Unidos (tal y como se define en su dirección de cuenta de cliente). El gobierno de EE. UU. no requiere que Microsoft retenga los impuestos en nombre del anunciante.
 
 :::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago E.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>El publicador externo vende a un cliente de IVA registrado de la UE en un país administrado por Microsoft (fuera de Irlanda)
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>El anunciante externo vende a un cliente registrado en el IVA de la UE en un país administrado por Microsoft (fuera de Irlanda)
 
-**Escenario F** : todas las transacciones entre publicadores externos y clientes registrados en el IVA de la UE (fuera de Irlanda) en un Microsoft-Managed país. El cliente no paga impuestos sobre la venta.
+**Escenario F:** todas las transacciones entre editores externos y clientes registrados en el IVA de la UE (fuera de Irlanda) en un Microsoft-Managed país. El cliente no paga impuestos por la venta.
 
 :::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago F.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>El publicador externo vende a un cliente de IVA registrado de la UE en un país administrado por Microsoft (en Irlanda)
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>El anunciante externo vende a un cliente registrado en el IVA de la UE en un país administrado por Microsoft (en Irlanda)
 
-**Escenario G** : todas las transacciones entre publicadores externos y clientes registrados en el IVA de la UE (dentro de Irlanda) en un Microsoft-Managed país. El cliente paga el IVA irlandés y Microsoft paga este impuesto al Gobierno irlandés.
+**Escenario G:** todas las transacciones entre anunciantes externos y clientes registrados en el IVA de la UE (dentro de Irlanda) en un Microsoft-Managed país. El cliente paga el IVA imposiario y Microsoft paga este impuesto al gobierno de Irlanda.
 
-:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Muestra el flujo de trabajo para el escenario de proceso de pago G.":::
+:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Muestra el flujo de trabajo para el escenario G del proceso de pago.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Preguntas más frecuentes del publicador](/azure/marketplace/marketplace-faq-publisher-guide)
-- [Instrucciones para crear perfiles de pago y de impuestos](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [Preguntas más frecuentes sobre el publicador](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Instrucciones para crear perfiles fiscales y de pago](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

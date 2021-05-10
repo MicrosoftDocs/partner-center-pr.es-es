@@ -1,6 +1,6 @@
 ---
 title: Conectar con sus clientes
-description: Si es un revendedor indirecto en el programa CSP, este artículo le ayudará a conectarse con los clientes nuevos y existentes.
+description: Si es un revendedor indirecto del programa CSP, este artículo le ayudará a conectarse con sus clientes nuevos y existentes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492660"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686201"
 ---
 # <a name="connect-with-customers"></a>Conexión con los clientes
 
 
- **Roles adecuados**
+**Roles adecuados**
 
 - Administrador global
 - Agente de administrador
@@ -59,7 +59,7 @@ Para administrar las suscripciones y los servicios en nombre de un cliente, debe
 
 Para obtener permisos de administrador para administrar las suscripciones y los servicios de un cliente nuevo **y** permitir que tu proveedor indirecto envíe nuevos pedidos en su nombre, puedes invitar al cliente a que establezca una relación de revendedor contigo y con tu proveedor a la vez.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Invite a un cliente a establecer una relación de revendedor con usted y su proveedor indirecto al mismo tiempo
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Invitar a un cliente a establecer una relación de revendedor con usted y su proveedor indirecto al mismo tiempo
 
 1. Selecciona **Proveedores indirectos** en el **menú Centro de partners**.
 

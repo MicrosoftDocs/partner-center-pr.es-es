@@ -1,75 +1,75 @@
 ---
-title: Solución de problemas de configuración de la cuenta del centro de Partners o problemas de renovación de MPN
+title: Solución de problemas de configuración de la Centro de partners o de renovación de MPN
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Solucionar problemas al intentar inscribirse en el centro de Partners. Responde a los desafíos relacionados con los métodos de pago, olvidar las contraseñas, etc.
+description: Solucione problemas al intentar inscribirse en Centro de partners. Las respuestas abordan los desafíos con los métodos de pago, las contraseñas y mucho más.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768710"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686269"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solucionar problemas de configuración de cuenta o de renovación de MPN
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Solución de problemas de configuración de cuentas o renovación de MPN
 
 
 **Roles adecuados**
 
 - Administrador global
-- Administrador de partners de MPN 
+- Administrador de partners de MPN
  
-Estas son algunas sugerencias para solucionar problemas comunes que surgen al configurar la cuenta del centro de Partners.
+Estas son algunas sugerencias para solucionar problemas comunes que surgen al configurar la cuenta Centro de partners usuario.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>¿Qué ocurre si está migrando desde el centro de pertenencia de socios comerciales y no puede editar los campos de información de la compañía?
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>¿Qué ocurre si va a migrar desde Partner Membership Center no puede editar ningún campo de información de empresa?
 
-En los casos en los que su empresa ya tiene una presencia en el centro de Partners (por ejemplo, una cuenta de CSP), se mostrará una pantalla de solo lectura. Esta pantalla mostrará toda la información acerca de la empresa tal como existe en el centro de Partners.
+En los casos en los que la empresa ya tenga presencia en Centro de partners (por ejemplo, una cuenta de CSP): se mostrará una pantalla de solo lectura. Esta pantalla mostrará toda la información sobre su empresa tal como existe en Centro de partners.
 
-No se pueden cambiar los detalles de esta pantalla. Esto es así por diseño y no un error.
+No puede cambiar los detalles en esta pantalla. Esto es por diseño y no un error.
 
-Seleccione **Aceptar** y **continúe** para continuar.
-
-
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si el Departamento de ti ha desactivado **registrarse en el centro de Partners**
-
-Verá este mensaje porque los usuarios virales están deshabilitados o porque se ha deshabilitado el registro viral en el inquilino de Azure AD. El administrador global de su cuenta de Azure AD puede habilitar las características necesarias ejecutando el siguiente comando de PowerShell:
-
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
-
-Para obtener más información, lea [el registro de autoservicio](/azure/active-directory/users-groups-roles/directory-self-service-signup).
-
-## <a name="you-forgot-your-password"></a>Olvidó su contraseña
-
-Si ha olvidado la contraseña, seleccione el vínculo **¿no puede acceder a su cuenta?** en la página de inicio de sesión. Esta opción le permite restablecer la contraseña o pedir al administrador global que le asigne nuevas credenciales.
-
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>En la pantalla de información general, recibirá un error que indica que se ha producido algún problema
-
-Este mensaje de error suele mostrarse si utiliza accidentalmente caracteres especiales, espacios o código de país en el número de teléfono de la empresa. El valor especificado en el campo número de teléfono solo puede contener un máximo de 10 caracteres.
+Seleccione **Aceptar** y **continuar** para continuar.
 
 
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>La compra de la tarjeta de crédito recibe un mensaje de error que indica que "el pedido se ha rechazado. Compruebe la información "
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Si el departamento de TI ha desactivado **el registro para Centro de partners**
+
+Verá este mensaje porque los usuarios virales están deshabilitados o porque el registro viral está deshabilitado en Azure AD inquilino. El administrador global de la cuenta Azure AD puede habilitar las características necesarias mediante la ejecución del siguiente comando de PowerShell:
+
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
+
+Para obtener más información, lea [Registro de autoservicio.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+
+## <a name="you-forgot-your-password"></a>Olvidó la contraseña.
+
+Si ha olvidado la contraseña, seleccione el vínculo **¿No se puede acceder a su cuenta?** en la página de inicio de sesión. Esta opción le permite restablecer la contraseña o pedir al administrador global que le asigne nuevas credenciales.
+
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>En la pantalla "Cuéntenos sobre su empresa", recibe el error "Algo salió mal".
+
+Este mensaje de error suele aparecer si usa accidentalmente caracteres especiales, espacios o código de país en el número de teléfono de la empresa. El valor especificado en el campo Número de teléfono solo puede contener un máximo de 10 caracteres.
 
 
-Use siempre la dirección correspondiente a su tarjeta de crédito en lugar de la entidad legal. Además, asegúrese de que el código postal sea correcto y corresponda a la dirección que use.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>La compra de la tarjeta de crédito recibe un mensaje de error que indica que se ha rechazado el pedido. Compruebe su información"
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Quiere cambiar de pago sin conexión a método de pago en línea 
 
-Tendrá que cancelar el pedido original y volver a comprar con el método de pago preferido.
+Use siempre la dirección correspondiente a la tarjeta de crédito en lugar de la entidad legal. Además, asegúrese de que el código postal es correcto y corresponde a la dirección que usa.
+
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Quiere cambiar del pago sin conexión al método de pago en línea. 
+
+Deberá cancelar el pedido original y volver a comprar mediante el método de pago preferido.
 
 Para cancelar un pedido:
 
-1. Seleccione la pestaña **ofertas de pertenencia** en el panel.
+1. Seleccione **la pestaña Ofertas de** pertenencia en el panel.
 
-2. Seleccione **Cancelar orden**
+2. Seleccione **Cancelar pedido.**
 
-3. Aparecerá una ventana de confirmación que debe confirmar para cancelar el pedido inicial.
+3. Aparecerá una ventana de confirmación y debe confirmar para cancelar el pedido inicial.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Administrar la cuenta del Centro de partners](partner-center-account-setup.md)
-- [Cómo leer el archivo de factura y concil](read-your-bill.md)
+- [Cómo leer el archivo de facturación y conciliación](read-your-bill.md)

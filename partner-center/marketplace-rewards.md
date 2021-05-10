@@ -4,33 +4,33 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los asociados que publican ofertas en el Marketplace comercial pueden beneficiarse de las ventajas que ofrecen soporte técnico de marketing.
+description: Los partners que publican ofertas en el marketplace comercial son aptos para las ventajas que ofrecen soporte técnico de marketing.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624262"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686252"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administre las recompensas de Marketplace en el centro de Partners & activar marketing, ventas y beneficios técnicos
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Administración Marketplace Rewards en Centro de partners & activar el marketing, las ventas y las ventajas técnicas
 
-Roles adecuados:
+**Roles adecuados**
 
 - Administrador de partners de MPN
 - Administrador global
 - Agente de administrador
 
-Si publica ofertas de software en nuestro Marketplace comercial, las recompensas de Marketplace proporcionan soporte dirigido para todas sus ofertas con marketing, ventas y ventajas técnicas.
+Si publica ofertas de software en nuestro marketplace comercial, Marketplace Rewards soporte técnico específico para todas las ofertas con ventajas técnicas, ventas y marketing.
 
-La idoneidad de las recompensas de Marketplace se calcula en función de todos los perfiles de publicador vinculados a la empresa de formato MPN. Para comprobar su idoneidad para el programa de premios de Marketplace, vaya a la [Página de premios de Marketplace](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)del centro de Partners.
+Marketplace Rewards la idoneidad se calcula en función de todos los perfiles de publicador vinculados a la empresa PGA MPN. Para comprobar su idoneidad para el programa Marketplace Rewards, vaya a la página Centro de partners [Marketplace Rewards .](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)
 
 ## <a name="sales-and-marketing-benefits"></a>Ventajas de ventas y marketing
 
-1. En el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners, seleccione la pestaña **beneficios de ventas y marketing** en la página de recompensas de Marketplace para ver la lista de ventajas. 
+1. En el panel [Centro de partners,](https://partner.microsoft.com/dashboard)seleccione la pestaña **Sales and Marketing benefits (Ventajas** de ventas y marketing) Marketplace Rewards página para ver la lista de ventajas. 
 
 2. Para activar las ventajas de marketing y ventas, primero debe asignar un contacto de marketing de la empresa. Este contacto recibirá comunicaciones de seguimiento sobre Marketplace Rewards.
 
@@ -54,19 +54,19 @@ La idoneidad de las recompensas de Marketplace se calcula en función de todos l
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>¿Por qué no puedo ver el programa de premios Commercial Marketplace en mi panel?
 
-La información de recompensas de Marketplace está disponible a través del inquilino de Azure AD y el ID. de MPN que se usó para crear la cuenta del centro de Partners. Esta cuenta se denomina cuenta global de socio comercial (PGA) de su empresa. Si el inquilino de Azure AD es diferente del que se usa para la incorporación de MPN, para que pueda ver el menú de Marketplace de premios comerciales, tendrá que asociarlo con el PGA de su empresa.
+La información de recompensas de Marketplace está disponible a través Azure AD inquilino y el identificador de MPN que se usó para crear la cuenta Centro de partners cliente. Esta cuenta se denomina cuenta global de asociado (PGA) de su empresa. Si el inquilino de Azure AD es diferente del que se usa para la incorporación de MPN, para que vea el menú marketplace de Recompensas comerciales, deberá asociarlo a la PGA de su empresa.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para asociar un inquilino de Azure AD con el PGA de su empresa
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Para asociar un inquilino Azure AD a la PGA de su empresa
 
-1. Como administrador global o administrador de cuenta, inicie sesión en el PGA en el centro de Partners.
+1. Como administrador global o administrador de cuenta, inicie sesión en la PGA en Centro de partners.
 
-2. Seleccione **configuración** (en la parte superior derecha), configuración de la **cuenta**, **inquilinos**. 
+2. Seleccione **Configuración** (en la parte superior derecha), **Configuración de la cuenta**, **Inquilinos**. 
 
-3. Seleccione **asociar otro inquilino de Azure ad** y seleccione el inquilino Azure ad que desea asociar con el PGA.
+3. Seleccione **Asociar otro Azure AD inquilino** y seleccione el Azure AD que quiere asociar a la PGA.
 
-4. Agregue el nombre de usuario y la contraseña de cualquier usuario del inquilino Azure AD que desee asociar y seleccione **submit (enviar**).
+4. Agregue el nombre de usuario y la contraseña de cualquier usuario del Azure AD que desee asociar y seleccione **Enviar**.
 
-5. Cierre la sesión del centro de Partners y, a continuación, inicie sesión con el nombre de usuario y la contraseña del inquilino que acaba de asociar a la PGA.
+5. Cerrar sesión Centro de partners y, a continuación, iniciar sesión con el nombre de usuario y la contraseña del inquilino que acaba de asociar a la PGA.
 
-6. Ahora podrá ver la información del programa de Marketplace de premios comerciales en el menú de navegación izquierdo.
+6. Ahora podrá ver la información del programa Marketplace de Recompensas comerciales en el menú de navegación izquierdo.
 
