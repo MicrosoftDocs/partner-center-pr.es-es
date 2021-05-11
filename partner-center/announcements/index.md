@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630141"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712522"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,7 +22,10 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de mayo de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
-|Capacidades|[Actualización: Se ha retrasado el lanzamiento del producto Scheduler](2021-may.md#6)|5 de mayo|
+|Funcionalidades|[Análisis de ofertas de venta conjunta dirigidas por partners](2021-may.md#9)|10 de mayo|
+|Funcionalidades|[Programas de hospedaje y de incentivos para revendedores de SPLA ampliados hasta el 30 de septiembre de 2021](2021-may.md#8)|7 de mayo|
+|Funcionalidades|[La funcionalidad predeterminada del perfil bancario está disponible en el Centro de partners para la inscripción de incentivos](2021-may.md#7)|7 de mayo|
+|Funcionalidades|[Actualización: Se ha retrasado el lanzamiento del producto Scheduler](2021-may.md#6)|5 de mayo|
 |Capacidades|[Software perpetuo de CSP próximamente en China](2021-may.md#5)|5 de mayo|
 |Capacidades|[Recordatorio final: Desuso de calificación GET para el 6 de mayo de 2021](2021-may.md#4)|4 de mayo|
 |Ofertas/mercados|[Correcciones a la lista de precios de servicios basados en licencias del 1 de mayo de 2021](2021-may.md#3)|4 de mayo|
@@ -59,11 +62,11 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Funcionalidades|[Nuevos productos y ofertas de Microsoft Dynamics 365 disponibles el 1 de abril de 2021](2021-march.md#2)|4 de marzo|
 |Funcionalidades|[Microsoft universal Print ahora está disponible en algunos conjuntos](2021-march.md#1)|3 de marzo|
 |**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
-|Capacidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
-|Capacidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
-|Capacidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
-|Capacidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
-|Capacidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
+|Funcionalidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
+|Funcionalidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
+|Funcionalidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
+|Funcionalidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
+|Funcionalidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
 |Funcionalidades|[Ya disponible: Migración de DocuSign a Adobe Sign para partners con contratos de Microsoft Partner Agreement (MPA)](2021-february.md#9)|16 de febrero|
 |Hacer crecer el negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-february.md#8)|16 de febrero|
 |Funcionalidades|[Presentación de Temas Microsoft Viva](2021-february.md#7)|12 de febrero|
@@ -104,12 +107,12 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Ofertas/mercados|[Próximamente tendrá disponible la actualización de la oferta de Microsoft 365 Business Voice con plan de llamadas para EE. UU.](2020-december.md#2)|3 de diciembre|
 |Funcionalidades|[Ya disponibles: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-december.md#1)|3 de diciembre|
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
-|Capacidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
+|Funcionalidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
-|Capacidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
-|Capacidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
-|Capacidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
-|Capacidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
+|Funcionalidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
+|Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
+|Funcionalidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
+|Funcionalidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
 |Funcionalidades|[Pruebas disponibles: actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para el proceso de validación de clientes de Education](2020-november.md#7)|10 de noviembre|
 |Funcionalidades|[Expansión del contenido del asociado de licencia comercial en la galería de preparación de operaciones](2020-november.md#6)|2 de noviembre|
 |Ofertas/mercados|[Lanzamiento de la SKU de Salas de Microsoft Teams Premium](2020-november.md#5)|2 de noviembre|
