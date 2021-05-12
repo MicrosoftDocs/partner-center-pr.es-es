@@ -10,26 +10,21 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284526"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794979"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud Alemania
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud Alemania
 
-- Centro de partners para Microsoft Cloud Alemania
-
-**Roles adecuados**
-
-- Administrador global
-- Administrador de cuentas
+**Roles adecuados:** administrador global | Administrador de cuenta
 
 > [!IMPORTANT]
-> En función de la evolución de las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las nuevas regiones en la nube de Alemania que sean coherentes con nuestra oferta de nube global. Siguiendo este enfoque, ya no aceptaremos nuevos clientes ni implementaremos ningún nuevo servicio desde Microsoft Cloud Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actuales disponibles actualmente, que se mantendrán con las actualizaciones de seguridad necesarias.
+> En función de la evolución de las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las nuevas regiones en la nube de Alemania que son coherentes con nuestra oferta de nube global. Siguiendo este enfoque, ya no aceptaremos nuevos clientes ni implementaremos ningún nuevo servicio desde Microsoft Cloud Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actuales disponibles actualmente, que se mantendrán con las actualizaciones de seguridad necesarias.
 >  
 > Todavía más, los nuevos clientes tienen la opción de usar las regiones europeas actualmente disponibles o las nuevas regiones en Alemania cuando estén disponibles. Para obtener más información, consulta [Microsoft entregará servicios en la nube desde nuevos centros de datos en Alemania](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
