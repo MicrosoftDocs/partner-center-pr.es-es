@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315905"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740393"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
@@ -163,5 +163,5 @@ Para obtener más información acerca de la inscripción en los programas del Ce
 - [Asignar roles y permisos de usuarios](permissions-overview.md)
 - [Administrar la cuenta de MPN: ubicaciones](manage-locations.md)
 - [Restablecer una contraseña de usuario](reset-a-user-password.md)
-- [API: obtener el perfil de negocio legal de un asociado](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API: obtener el perfil de negocio legal de un asociado](/partner-center/develop/get-legal-business-profile)
 - [Descubrir ofertas y precios en el Marketplace comercial del Centro de partners](csp-commercial-marketplace-discover.md)

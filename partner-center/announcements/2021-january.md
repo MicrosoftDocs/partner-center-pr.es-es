@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280843"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740308"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -383,7 +383,7 @@ El Centro de partners está diseñado para controlar un gran volumen de solicitu
 
 | Operación | Documentación del Centro de partners |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Obtención de todas las suscripciones de un cliente](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Obtención de todas las suscripciones de un cliente](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Obtener una suscripción según el id.](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Obtención de todos los pedidos de un cliente](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obtener un pedido en función del id.](/partner-center/develop/get-an-order-by-id) |

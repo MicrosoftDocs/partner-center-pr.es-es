@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266476"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740342"
 ---
 # <a name="february-2021-announcements"></a>Anuncios de febrero de 2021
 
@@ -36,7 +36,7 @@ Asociados que venden ofertas académicas, sin ánimo de lucro y de Government Co
 
 ### <a name="details"></a>Detalles
 
-Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST, y como resultado, la calificación GET existente se retirará el 4 de mayo de 2021. En ese momento, tendrá que haber realizado la transición para usar las nuevas API POST del Centro de partners, para poder comprar ofertas educativas y las nuevas API de calificación GET para adquirir ofertas sin ánimo de lucro y GCC calificadas previamente.
+Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](2020-december.md#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST, y como resultado, la calificación GET existente se retirará el 4 de mayo de 2021. En ese momento, tendrá que haber realizado la transición para usar las nuevas API POST del Centro de partners, para poder comprar ofertas educativas y las nuevas API de calificación GET para adquirir ofertas sin ánimo de lucro y GCC calificadas previamente.
 
 ### <a name="next-steps"></a>Pasos siguientes
 
@@ -320,7 +320,7 @@ El Centro de partners está diseñado para controlar un gran volumen de solicitu
 
 | Operación | Documentación del Centro de partners |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Obtención de todas las suscripciones de un cliente](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Obtención de todas las suscripciones de un cliente](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Obtener una suscripción según el id.](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Obtención de todos los pedidos de un cliente](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obtener un pedido en función del id.](/partner-center/develop/get-an-order-by-id) |

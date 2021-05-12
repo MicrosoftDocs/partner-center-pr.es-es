@@ -1,7 +1,7 @@
 ---
 title: Inscribirse en el programa Proveedor de soluciones en la nube
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo inscribirse en el modelo de ventas del programa Proveedor de soluciones en la nube (CSP) que mejor se adapte a su negocio, como revendedor indirecto o partner de facturación directa.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213387"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712488"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Inscribirse en el programa Proveedor de soluciones en la nube
 
@@ -76,7 +76,7 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 
 ### <a name="verify-direct-bill-eligibility"></a>Comprobación de la elegibilidad de factura directa
 
-Después de verificar que cumple los requisitos mínimos para inscribirse como partner de facturación directa, puede continuar con el [formulario de inscripción](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
+Después de verificar que cumple los requisitos mínimos para inscribirse como partner de facturación directa, puede continuar con el [formulario de inscripción](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu).
 
 Tras comprobar que su empresa cumple los requisitos de elegibilidad para inscribirse como partner de factura directa y tras haber completado la solicitud de inscripción, revisaremos y comprobaremos la información empresarial que ha proporcionado en el proceso de inscripción. Como parte de esta revisión, comprobaremos el crédito de la empresa. Le enviaremos un correo electrónico para informarle cuando la empresa haya superado la comprobación de crédito.
 >[!IMPORTANT]
