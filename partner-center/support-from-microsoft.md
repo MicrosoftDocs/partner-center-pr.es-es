@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284152"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854781"
 ---
 # <a name="support-from-microsoft"></a>Soporte técnico de Microsoft
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government
 
-- Centro de partners para Microsoft Cloud for US Government
-
-**Roles adecuados**
-
-- Agente del departamento de soporte técnico
+**Roles adecuados:** agente del departamento de soporte técnico
 
 Si tiene problemas con un servicio de Microsoft o con Centro de partners, puede notificar el problema a Microsoft, escalar el problema a Microsoft para obtener ayuda y realizar un seguimiento del problema hasta que se resuelva.
 
@@ -40,5 +36,5 @@ Si tiene problemas con un servicio de Microsoft o con Centro de partners, puede 
 
 - [Ver más recursos de soporte técnico](https://partner.microsoft.com/support/?stage=1)
 - [Buscar un asociado](find-a-partner.md)
-- [Más información sobre el programa MPN o inscribirse en él](https://partner.microsoft.com/membership)
+- [Obtenga información sobre el programa MPN o inscríbase en él.](https://partner.microsoft.com/membership)
 - [Obtenga información sobre el programa CSP o inscríbase en él.](https://partner.microsoft.com/membership/cloud-solution-provider)

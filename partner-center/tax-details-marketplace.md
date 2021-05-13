@@ -6,20 +6,18 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067487"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854815"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Información sobre impuestos para los publicadores de Marketplace comercial
 
-**Roles adecuados**
+**Roles adecuados:** administrador global
 
-- Administrador global
-
-En esta página se establecen las responsabilidades fiscales y las consideraciones fiscales para anunciantes de Marketplace comercial (publicadores) y desarrolladores de Marketplace de consumidores (desarrolladores) en relación con las compras por parte del cliente final de productos de publicador y desarrollador conforme al Contrato de publicador de [Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) y [el Acuerdo para desarrolladores de aplicaciones ,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  La información siguiente se suma a los términos y condiciones del Contrato del publicador de Microsoft y del Acuerdo para desarrolladores de aplicaciones, y no está pensado para reemplazarlos.  A menos que se indique lo contrario, la información siguiente se aplica tanto a los anunciantes de Marketplace comercial como a los desarrolladores de Marketplace de consumidores que hacen que sus productos o ofertas estén disponibles para su venta a través de Microsoft Marketplace. 
+En esta página se establecen las responsabilidades fiscales y las consideraciones fiscales para anunciantes de Marketplace comercial (publicadores) y desarrolladores de Marketplace de consumidores (desarrolladores) en relación con las compras por parte del cliente final de productos de publicador y desarrollador conforme al Contrato de publicador de [Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) y [el Acuerdo para desarrolladores de aplicaciones ,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  La información siguiente se suma a los términos y condiciones del Contrato del publicador de Microsoft y del Acuerdo para desarrolladores de aplicaciones.  A menos que se indique lo contrario, la información siguiente se aplica tanto a los anunciantes de Marketplace comercial como a los desarrolladores de Marketplace de consumidores que hacen que sus productos o ofertas estén disponibles para su venta a través de Microsoft Marketplace. 
 
 ## <a name="end-customer-taxation"></a>End Customer Taxation
 
@@ -31,7 +29,7 @@ En **los países administrados por Microsoft,** Microsoft actúa como agente del
 
 Microsoft no garantiza que las acciones de Microsoft satisfagan completamente las obligaciones del publicador o desarrollador en los países administrados por Microsoft.  En todos los países administrados por Microsoft, Microsoft recomienda encarecidamente a los anunciantes o desarrolladores que trabajen con sus propios asesores fiscales para determinar si la remesa fiscal administrada por Microsoft aborda suficientemente los requisitos de cumplimiento de los anunciantes o desarrolladores. Esto es especialmente crítico para los países administrados por Microsoft desde los que los publicadores o desarrolladores venden sus productos o ofertas.  Microsoft actúa como agente de publicador o desarrollador en países administrados por Microsoft.
 
-En los países **revendedores,** Microsoft actúa como revendedor, en lugar de como agente del publicador o desarrollador, para poner a disposición de los clientes finales los productos o ofertas del publicador o desarrollador a través de las Microsoft Marketplace(s).  Los anunciantes y desarrolladores son responsables de las ventas, el uso, los bienes y los servicios, el valor agregado o los impuestos similares, si los hubiera, de la venta de productos o ofertas a Microsoft, y Microsoft es responsable de todos los impuestos del cliente final en la reventa a los clientes finales.
+En **los** países revendedores, Microsoft actúa como revendedor, en lugar de como agente del publicador o desarrollador, para poner a disposición de los clientes finales los productos o ofertas del publicador o desarrollador a través de las Microsoft Marketplace(s).  Los anunciantes y desarrolladores son responsables de las ventas, el uso, los bienes y los servicios, el valor agregado o los impuestos similares, si los hubiera, de la venta de productos o ofertas a Microsoft, y Microsoft es responsable de todos los impuestos del cliente final en la reventa a los clientes finales.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Países administrados por el publicador o el desarrollador: 
@@ -120,7 +118,7 @@ Microsoft cobra impuestos sobre las tarifas de las tiendas en los siguientes pa�
 |----------------|-----------------------------|-----------------------|
 |Australia|Impuestos sobre el precio del servicio|Impuestos sobre el precio del servicio|
 |Canadá|Impuestos sobre el precio del servicio|Impuestos sobre el precio del servicio|
-|México|N/D|Impuestos sobre los honorarios del servicio|
+|México|N/A|Impuestos sobre los honorarios del servicio|
 |Nueva Zelanda|Impuestos sobre el precio del servicio|Impuestos sobre el precio del servicio|
 |Singapur|Impuestos sobre el precio del servicio|Impuestos sobre el precio del servicio|
 
@@ -150,7 +148,7 @@ Microsoft cobra impuestos sobre las tarifas de las tiendas en los siguientes pa�
 
 ### <a name="withholding-tax"></a>Retención de impuestos
 
-- Escenario uno: El anunciante externo (sin beneficios fiscales aplicables en el perfil fiscal) realiza la venta al cliente de EE. UU. 
+- Escenario uno: El publicador externo (sin beneficios fiscales aplicables en el perfil fiscal) realiza la venta al cliente de Estados Unidos. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Gráfico que muestra la retención de impuestos sin impuestos":::
 

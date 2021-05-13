@@ -4,28 +4,23 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los registros de clientes se encuentran entre los recursos de información más importantes. Obtenga información sobre cómo ver, buscar, actualizar & exportar información en la Centro de partners de clientes.
+description: Los registros de clientes se encuentran entre los recursos de información más importantes. Obtenga información sobre cómo ver, buscar, actualizar, & exportar información en la Centro de partners de clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002848"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854509"
 ---
-# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Administración de la lista de clientes: búsqueda, actualización o exportación de clientes en Centro de partners
+# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Administración de la lista de clientes: buscar, actualizar o exportar clientes en Centro de partners
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government
 
-- Centro de partners para Microsoft Cloud for US Government
-
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador global
+**Roles adecuados:** agente de administración | Administrador global
 
 Los registros de cliente son unos de los recursos de información más importantes del Centro de partners. Puedes buscar en la base de datos de cuentas de cliente, exportar la base de datos de clientes completa o un subconjunto a un formato de archivo de valores separados por comas (.csv) compatible con Excel. También puedes exportar información de las suscripciones de un cliente a un archivo .csv.
 
@@ -52,7 +47,7 @@ En el **menú Centro de partners,** seleccione **Clientes.**
    El Centro de partners convierte la lista de clientes completa en un archivo .csv y lo carga en la carpeta de descarga predeterminada de tu equipo. También puedes exportar subconjuntos de datos de clientes. Las columnas de datos incluyen lo siguiente:
 
    - **Identificador de Microsoft**;
-   - **Nombre de la compañía**;
+   - **Nombre de la empresa**;
    - **Nombre de dominio principal**;
    - **Relación**: relación comercial del partner con cada cliente de la lista.
 
@@ -71,7 +66,7 @@ En el **menú Centro de partners,** seleccione **Clientes.**
    - **Id. de suscripción**;
    - **Suscripción**: el nombre de producto para la suscripción;
    - **Cantidad**: número de licencias compradas;
-   - **Estado**;
+   - **Status**;
    - **Revendedor**: el identificador del revendedor que posee y administra la suscripción.
 
 > [!NOTE]  

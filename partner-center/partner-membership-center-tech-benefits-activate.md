@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172190"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818650"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Activar Microsoft Partner Network ventajas técnicas fuera de Centro de partners
 
@@ -25,7 +25,7 @@ ms.locfileid: "108172190"
 
 Este artículo es para los Microsoft Partner Network (MPN) que todavía usan Partner Membership Center (PMC). Estos miembros necesitan ayuda para activar ciertas ventajas de pertenencia a MPN, como ventajas técnicas, fuera del [panel Centro de partners actual.](https://partner.microsoft.com/dashboard)
 
-Muchos Microsoft Partner Network miembros de Microsoft Partner Network (MPN) ya se han migrado de [Partner Membership Center a Centro de partners](prepare-pmc-pc-migration.md) para ayudar a administrar sus usuarios, clientes y ventajas de MPN.
+**La mayoría Microsoft Partner Network miembros (MPN) ya se han migrado de [Partner Membership Center a Centro de partners](prepare-pmc-pc-migration.md) para ayudar a administrar sus usuarios, clientes y ventajas de MPN.**
 
 Si la pertenencia a MPN sigue Partner Membership Center (PMC), necesitará ayuda para activar algunas de las ventajas de MPN.
 
@@ -33,7 +33,7 @@ Si la pertenencia a MPN sigue Partner Membership Center (PMC), necesitará ayuda
 
 Si es un usuario de PMC, consulte esta tabla para obtener ayuda con la activación de las ventajas técnicas.
 
-(Sin embargo, si ya tiene una cuenta Centro de partners con acceso de administrador global o administrador de asociados de MPN, consulte Administración de [las ventajas técnicas.](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Si ya tiene una cuenta de Centro de partners con acceso de administrador global o administrador de asociados de MPN, consulte Visualización y activación de las ventajas [de soporte técnico).](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits)
 
 |Para esta región  | Contacto |
 |:--------|:------------|

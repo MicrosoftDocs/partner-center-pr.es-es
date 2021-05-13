@@ -1,92 +1,87 @@
 ---
-title: Informe de uso de Power BI del centro de Partners
+title: Información detallada del Centro de partners Power BI de uso
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Vea lo que está haciendo bien y dónde puede mejorar en relación con el uso de Power BI suscripciones que vende o administra para sus clientes.
+description: Vea lo que está haciendo bien y dónde puede mejorar con respecto al uso de Power BI suscripciones que vende o administra para sus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086301"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854597"
 ---
-# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI informe de uso disponible en el panel del centro de Partners Insights
+# <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI de uso disponible en el panel Centro de partners Insights
 
-**Roles adecuados**
+**Roles adecuados:** administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
-- Administrador global
-- Agente de administrador
-- Visor de informes
-- Visor de informes ejecutivos
-
-El informe de uso de Power BI proporciona datos de uso para las suscripciones Power BI que ha vendido o administrado para sus clientes. Puede ver las siguientes secciones en el informe de uso de Power BI.
+El Power BI de uso proporciona datos de uso para las suscripciones Power BI que ha vendido o administra para los clientes. Puede ver las secciones siguientes en el informe Power BI de uso.
 
 - Resumen
-- Uso de Power BI por geografía
-- Uso de Power BI por SKU
+- Power BI por geografía
+- Power BI uso por SKU
 - Rendimiento de las suscripciones
-- Power BI distribución del uso
+- Power BI distribución de uso
 
  > [!NOTE]
- > Este informe está disponible en el panel de información. Para ver este informe, debe tener asignado un rol específico en el centro de Partners, como administrador global, administrador de la cuenta, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. los tipos específicos de datos de este informe también pueden estar disponibles para los usuarios con privilegios ejecutivos del visor de informes.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea El administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios del Visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 
-En la sección Resumen se presenta una vista de instantánea de los indicadores clave relacionados con las suscripciones de uso de Power BI que ha vendido o administrado para sus clientes. 
+En la sección de resumen se presenta una vista de instantánea de los indicadores clave relacionados con Power BI suscripciones de uso que ha vendido o administra para sus clientes. 
 
 - Puestos disponibles: número total de licencias vendidas durante el período de tiempo seleccionado.
 
-   El micro gráfico presenta una tendencia de mes a mes de recuento de puestos disponibles para el intervalo de fechas seleccionado.
+   El gráfico Micro presenta una tendencia de mes a mes del número de puestos disponibles para el intervalo de fechas seleccionado.
 
 - Puestos asignados: número total de licencias asignadas durante el período de tiempo seleccionado.
 
-   El micro gráfico presenta una tendencia de mes a mes de los recuentos de puestos asignados durante el intervalo de fechas seleccionado.
+   El gráfico Micro presenta una tendencia de mes a mes del número de puestos asignados durante el intervalo de fechas seleccionado.
 
-- Puestos activos: número total de licencias que se usaron durante el período de tiempo seleccionado. 
+- Puestos activos: número total de licencias que han tenido uso durante el período de tiempo seleccionado. 
 
-   El micro gráfico presenta una tendencia mensual de asientos activos mensuales durante el período de tiempo seleccionado.
+   El gráfico Micro presenta una tendencia mensual de puestos activos mensuales durante el período de tiempo seleccionado.
 
-- % De uso activo: número total de puestos activos expresado como un porcentaje de los puestos disponibles para el período de tiempo seleccionado. 
+- %de uso activo: número total de puestos activos expresado como porcentaje de los puestos disponibles para el período de tiempo seleccionado. 
 
-   El micro gráfico presenta una tendencia mensual del porcentaje de uso activo durante el período de tiempo seleccionado.
+   El gráfico Micro presenta una tendencia mensual del porcentaje de uso activo durante el período de tiempo seleccionado.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Resumen de uso de Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI resumen de uso":::
 
-## <a name="power-bi-usage-by-geography"></a>Uso de Power BI por geografía
+## <a name="power-bi-usage-by-geography"></a>Power BI por geografía
 
-**En el Power BI uso por geografía** se describe la distribución de puestos disponibles y puestos activos por país del cliente. Los colores más claros del mapa representan valores inferiores, mientras que los colores más oscuros representan valores más altos. Puede buscar y seleccionar un país en la cuadrícula para hacer zoom.
+El **Power BI por geografía** muestra la distribución de puestos disponibles y puestos activos por país del cliente. Los colores más claros del mapa representan valores más bajos, mientras que los colores más oscuros representan valores más altos. Puede buscar y seleccionar un país en la cuadrícula al que hacer zoom.
 
-La tabla **número de países o** regiones presenta los países o regiones totales en los que se generan los eventos de uso de Azure.
+La **tabla Number of countries/region (Número** de países o regiones) presenta el total de países o regiones donde se generan eventos de uso de Azure.
 
-Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Seleccione la opción **Inicio** en el mapa para revertir a la vista original.
+Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Seleccione la **opción** Inicio del mapa para volver a la vista original.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Uso de Power BI por geografía":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI por geografía":::
 
-## <a name="power-bi-usage-by-sku"></a>Uso de Power BI por SKU
+## <a name="power-bi-usage-by-sku"></a>Power BI uso por SKU
 
-El uso de Power BI por SKU muestra la tendencia mensual de puestos disponibles, puestos activos y puestos asignados por SKU.
+El Power BI por SKU muestra la tendencia mensual de puestos disponibles, puestos activos y puestos asignados por SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Uso de Power BI por SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI uso por SKU":::
 
 ## <a name="subscriptions-performance"></a>Rendimiento de las suscripciones
 
-El rendimiento de las suscripciones muestra la tendencia mensual del uso activo por suscripción de cliente. Los datos de los principales 100 clientes facturados por ingresos se muestran en la tabla y puede buscar cualquier cliente o descargar los datos sin procesar para ver los detalles de todas las suscripciones.
+El rendimiento de suscripciones muestra la tendencia mensual de uso activo por suscripción de cliente. Los datos de los 100 principales clientes por ingresos facturados se muestran en la tabla y puede buscar cualquier cliente o descargar los datos sin procesar para ver los detalles de todas las suscripciones.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Rendimiento de suscripciones Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI rendimiento de la suscripción":::
 
-## <a name="power-bi-usage-distribution"></a>Power BI distribución del uso
+## <a name="power-bi-usage-distribution"></a>Power BI de uso
 
-La distribución del uso de Power BI describe el desglose de puestos disponibles, puestos activos y puestos asignados por SKU.
+La Power BI de uso muestra el desglose de puestos disponibles, puestos activos y puestos asignados por SKU.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI distribución del uso":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI distribución de uso":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener más informes, consulte [información del centro de Partners](partner-center-insights.md).
+- Para obtener más informes, [vea Centro de partners Insights](partner-center-insights.md).
 
-- Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md) 
+- Puede descargar los datos sin procesar que se están generando en este informe desde la sección Descargar informes del panel de Insights. [Más información](pci-download-reports.md) 

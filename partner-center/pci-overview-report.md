@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120824"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855206"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Revisar los informes del panel disponibles en la Información acerca del Centro de partners
  
-**Roles adecuados**
-
-- Administrador global
-- Agente de administrador
-- Visor de informes
-- Visor de informes ejecutivos
+**Roles adecuados:** Administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
 El panel Información general proporciona una vista de instantánea de los indicadores clave de rendimiento, como clientes, suscripciones, ingresos de consumo de Azure y licencias. Puede visualizar los gráficos siguientes en el informe De información general.
 
@@ -46,9 +41,9 @@ A continuación se proporciona más información sobre cada sección del resumen
 
 El **área Clientes** incluye:
 
-- Recuento actual de todos los clientes con al menos una suscripción activa asociada a su empresa a través de diferentes tipos de atribución y en todos los productos en la nube.
+- El recuento actual de todos los clientes con al menos una suscripción activa asociada a su empresa a través de diferentes tipos de atribución y en todos los productos en la nube.
 - Porcentaje de crecimiento de los clientes durante el intervalo de fechas seleccionado.
-- El micro chart presenta la tendencia mensual del recuento de clientes dentro del intervalo de fechas seleccionado.
+- El micro gráfico presenta la tendencia mensual del recuento de clientes dentro del intervalo de fechas seleccionado.
 
 ### <a name="azure-consumed-revenue-acr"></a>Ingresos por consumo de Azure (ACR)
 

@@ -1,67 +1,62 @@
 ---
-title: Usar promociones para atraer a los clientes
+title: Uso de promociones para atraer clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Descubra cómo los asociados de Microsoft en el programa proveedor de soluciones en la nube pueden adquirir suscripciones a precios de promoción y pasarlo a sus clientes.
+description: Descubra cómo los asociados de Microsoft del programa Proveedor de soluciones en la nube pueden comprar suscripciones con precios de promoción y pasar ahorros a sus clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215873"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854985"
 ---
-# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promociones para atraer nuevos clientes y pasar el ahorro a ellos.
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Uso de promociones para atraer a nuevos clientes y pasarles el ahorro
 
 
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de partners de MPN
-- Administrador de facturación
-- Agente de ventas
+**Roles adecuados:** agente de administración | Administrador de asociados de MPN | Administrador de facturación | Agente de ventas
 
 
 En ocasiones, Microsoft ofrece promociones en las suscripciones basadas en licencias, lo que te permite trasladar los ahorros a los clientes y hacer crecer tu negocio. 
 
-Microsoft ofrece dos tipos de promociones: las que están disponibles para todos los asociados que cumplan las condiciones del programa proveedor de soluciones en la nube (CSP) y las que solo están disponibles para los asociados de una región geográfica determinada.
+Microsoft ofrece dos tipos de promociones: las que están disponibles para todos los asociados aptos en el programa Proveedor de soluciones en la nube (CSP) y las que solo están disponibles para los asociados de una región geográfica determinada.
 
-Los precios de promoción se aplican automáticamente a su precio neto cuando adquiere nuevas suscripciones con el precio de promoción. Además, las licencias que agregue a una suscripción comprada con precios de promoción se agregan al precio de promoción. 
+Los precios de promoción se aplican automáticamente al precio neto al comprar nuevas suscripciones al precio de promoción. Además, las licencias que agregue a una suscripción comprada con precios de promoción se agregarán al precio de promoción. 
 
-Dedique un momento a revisar estos aspectos importantes sobre las promociones:
+Tómese un momento para revisar estos hechos importantes sobre las promociones:
 
-- El precio de promoción de una suscripción solo se aplica a la duración de la suscripción. Cuando expire la suscripción que ha adquirido con un precio promocional, el precio de la suscripción de renovación se revierte al precio de la lista de precios. Esto significa que todas las suscripciones configuradas para la renovación automática se renovarán con el precio que prevalezca. Puede encontrar la lista de precios en la página **precios y ofertas** .
+- El precio de promoción de una suscripción solo se aplica durante la duración de la suscripción. Cuando expira una suscripción comprada con precios promocionales, el precio de la suscripción de renovación se revierte al precio de la lista de precios. Esto significa que las suscripciones configuradas para la renovación automática se renovarán con el precio que se está generando. Puede encontrar la lista de precios en la **página Precios y** ofertas.
 
-- Si una suscripción es válida para varias promociones, se aplica automáticamente la promoción con el porcentaje más alto desactivado.
+- Si una suscripción es apta para varias promociones, se aplica automáticamente la promoción con el porcentaje más alto desactivado.
 
-- Las cancelaciones de suscripciones con precios de promoción siguen el mismo proceso y la misma directiva que las suscripciones con precios regulares.
+- Las cancelaciones de suscripciones con precios de promoción siguen el mismo proceso y directiva que las suscripciones con precios regulares.
 
 ## <a name="see-available-promotions"></a>Ver promociones disponibles
 
-Puede ver las promociones a las que puede optar, si las hay, en la página **Promociones**. Seleccione **promociones** en el menú del **centro de Partners** para ver una lista de las promociones actuales, junto con el descuento, el tipo de promoción y las fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verá un mensaje que lo indica. 
+Puede ver las promociones a las que puede optar, si las hay, en la página **Promociones**. Seleccione **Promociones** en el **menú Centro de partners** para ver una lista de promociones actuales, junto con el descuento, el tipo de promoción y las fechas de inicio y finalización de la suscripción. Si no hay promociones disponibles, verá un mensaje que lo indica. 
 
 > [!NOTE]  
 > También puede ver promociones al hacer una compra. Al seleccionar una suscripción, los precios de promoción aparecen en la página **Revisión**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Adquirir suscripciones a precios de promoción
 
-1. En el menú del **centro de Partners** , seleccione **clientes** y, a continuación, seleccione el cliente que está comprando la suscripción. 
+1. En el **Centro de partners,** seleccione **Clientes** y, a continuación, seleccione el cliente que compra la suscripción. 
 
 2. Seleccione **Agregar suscripción**.
 
-3. En la página **nueva suscripción** , seleccione la suscripción a la que se aplica la promoción.
+3. En la **página Nueva suscripción,** seleccione la suscripción a la que se aplica la promoción.
 
 4. Escriba el número de licencias que necesita el cliente. 
 
-5. Revise el orden. Verá los precios de promoción que se aplicarán en la columna **descuento** .  
+5. Revise el pedido. Verá los precios de promoción que se aplicarán en la **columna Descuento.**  
 
-6. Seleccione **submit (enviar** ) para comprar. El cliente verá el precio de promoción en la siguiente factura.  
+6. Seleccione **Enviar** para comprar. El cliente verá el precio de la promoción en su próxima factura.  
 
 
 ## <a name="next-steps"></a>Pasos siguientes

@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702814"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854850"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configuración de la cuenta de pago y los formularios de impuestos
 
-**Roles adecuados**
-
-- Administrador de cuentas
-- Administrador global
+**Roles adecuados:** administrador de | Administrador global
 
 Para recibir dinero de las ventas de sus ofertas en Marketplace comercial, debe configurar la cuenta de pago y rellenar los formularios de impuestos necesarios en el [Centro de partners](https://partner.microsoft.com/dashboard).
 
@@ -134,7 +131,7 @@ Puede editar los perfiles de pago existentes si necesita realizar cambios o corr
 3. Los perfiles de pago se mostrarán junto con su estado. Busque el perfil que desea editar y seleccione **Editar en** el extremo derecho.
 
 > [!IMPORTANT]
-> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Getting paid in the commercial marketplace (Obtención de](marketplace-get-paid.md)pago en marketplace comercial) para obtener más información.
+> El hecho de cambiar la cuenta de pago puede dar lugar a retrasos en los pagos de hasta un ciclo completo. Este retraso se produce porque es necesario comprobar el cambio de la cuenta, al igual que hicimos cuando configuró por primera vez la cuenta de pago. Aunque se le seguirá pagando el importe completo después de que se haya comprobado la cuenta, los pagos pendientes del ciclo actual se agregarán al siguiente. Consulte [Getting paid in the commercial marketplace (Obtención](marketplace-get-paid.md)de pago en marketplace comercial) para obtener más información.
 
 ### <a name="paypal-info"></a>Información de PayPal
 

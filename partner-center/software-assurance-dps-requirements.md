@@ -1,57 +1,54 @@
 ---
-title: Idoneidad para la planeación de compromisos de servicios
+title: Elegibilidad para las interacciones de Planning Services
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información sobre los requisitos de idoneidad para cada compromiso de servicios de planeación de software Assurance que una empresa podría querer ofrecer a los clientes empresariales.
+description: Obtenga información sobre los requisitos de idoneidad para cada interacción Software Assurance Planning Services que una empresa podría querer ofrecer a los clientes empresariales.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028271"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855257"
 ---
-# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver los requisitos de idoneidad para los compromisos de Planning Services
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Visualización de los requisitos de idoneidad para las interacciones de Planning Services
 
-**Roles adecuados**
+**Roles adecuados:** administrador global | Administrador de asociados de MPN
 
-- Administrador global
-- Administrador de partners de MPN
-
-Este artículo le ayudará a conocer los requisitos de idoneidad que debe cumplir antes de que su empresa pueda inscribir o ofrecer compromisos de servicios de planeación de software Assurance para Microsoft.
+Este artículo le ayuda a obtener información sobre los requisitos de idoneidad que debe cumplir antes de que su empresa pueda inscribirse o entregar Software Assurance Planning Services para Microsoft.
 
 >[!NOTE]
-> Además de satisfacer los requisitos de idoneidad para una oferta de servicios de planeación, también debe seguir otros pasos para poder ofrecer compromisos de servicios de planeación de software Assurance. Para obtener información general de todos los pasos necesarios, consulte [servicios de planeación de software Assurance en el centro de Partners](software-assurance-dps.md).
+> Además de satisfacer los requisitos de idoneidad de una oferta de Planning Services, también debe seguir otros pasos para poder entregar Software Assurance Planning Services. Para obtener información general de todos los pasos necesarios, [vea Software Assurance Planning Services en Centro de partners](software-assurance-dps.md).
 
-## <a name="learn-more-about-each-engagement"></a>Más información sobre cada compromiso
+## <a name="learn-more-about-each-engagement"></a>Más información sobre cada interacción
 
-Cada compromiso de servicios de planeación tiene sus propios requisitos de elegibilidad específicos y sus propias Duraciones máximas permitidas.
+Cada interacción de Planning Services tiene sus propios requisitos de idoneidad específicos y sus propias duraciones máximas permitidas.
 
-Para obtener más información acerca de estos requisitos de competencia específicos de Engagement, consulte la tabla siguiente.
+Para obtener más información sobre estos requisitos de competencia específicos de engagement, consulte la tabla siguiente.
 
-| Nombre de Engagement | Competencias necesarias para esta contratación | Para obtener más información, consulte la hoja de datos de esta oferta. |
+| Nombre de la interacción | Competencias necesarias para esta interacción | Para más información, consulte la hoja de datos de esta oferta. |
 |:--- |:--- |:--- |
-| Planeación de la implementación de Windows y Office  | Dispositivos y ventanas Silver o Gold  |  [Compromisos de servicios de planeación de la implementación de escritorio (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Planeación de la implementación de productividad móvil  | Administración de movilidad empresarial Silver o Gold o Windows y dispositivos  | [Compromisos de servicios de planeación de la implementación de escritorio (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Prueba de concepto de seguridad empresarial moderna |  Administración de la movilidad empresarial Silver o Gold  | [Compromisos de servicios de planeación de la implementación de escritorio (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Actualización de Microsoft Dynamics 365 for Customer Engagement  | Business Applications en la nube Silver o Gold administración de relaciones con los clientes de la nube  | [Compromisos de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migración a Microsoft Dynamics 365 para Customer Engagement  | Business Applications en la nube Silver o Gold administración de relaciones con los clientes de la nube  | [Compromisos de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Actualización de Microsoft Dynamics 365 para finanzas y operaciones  | Planeación de recursos empresariales Gold (ERP)  | [Compromisos de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernización de la plataforma de Windows Server | Centro de centros de recursos Silver o Gold | [Compromisos de servicios de planeación de virtualización, administración y nube privada (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planeación de la implementación de SharePoint  | Colaboración y contenido Silver o Gold  | [Engagements de SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planeación de la solución Project and Portfolio Management (PPM)  | Administración de proyectos y cartera Silver o Gold (PPM)  | [Engagements de SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planeación de la implementación de Exchange  | Mensajería Silver o Gold  | [Interacciones de Skype empresarial y servicios de planeación de implementación de Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Planeación de la implementación de Skype empresarial  | Comunicaciones Silver o Gold  | [Interacciones de Skype empresarial y servicios de planeación de implementación de Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Modernización de datos inmobiliarios  | Análisis de datos Gold o plataforma de datos  | [SQL Server Engagements de servicios de planeación de implementación (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Planeamiento de la implementación de Windows y Office  | Windows y dispositivos Silver o Gold  |  [Interacciones de Desktop Deployment Planning Services (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planeamiento de la implementación de productividad móvil  | Silver o Gold Enterprise Mobility Management O Windows y dispositivos  | [Interacciones de Desktop Deployment Planning Services (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Prueba de concepto de seguridad de la empresa de IT moderna |  Silver o Gold Enterprise Mobility Management  | [Interacciones de Desktop Deployment Planning Services (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Actualización de Microsoft Dynamics 365 for Customer Engagement  | Silver o Gold Cloud Business Applications o administración de relaciones con el cliente en la nube  | [Interacciones de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migración a Microsoft Dynamics 365 for Customer Engagement  | Silver o Gold Cloud Business Applications o administración de relaciones con el cliente en la nube  | [Interacciones de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Actualización de Microsoft Dynamics 365 for Finance and Operations  | Gold Enterprise Resource Planning (ERP)  | [Interacciones de Dynamics Deployment Planning Services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernización de la plataforma Windows Server | Centro de datos Silver o Gold | [Interacciones de Cloud Privada, Management and Virtualization Planning Services (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Planeamiento de la implementación de SharePoint  | Colaboración silver o gold y contenido  | [Interacciones de SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planeamiento de soluciones de administración de proyectos y carteras (PPM)  | Administración de proyectos y carteras Silver o Gold (PPM)  | [Interacciones de SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planeamiento de la implementación de Exchange  | Mensajería Silver o Gold  | [Interacciones de Los Servicios de planeamiento de la implementación de Skype Empresarial e Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Planeamiento de la implementación de Skype Empresarial  | Comunicaciones Silver o Gold  | [Interacciones de Los Servicios de planeamiento de la implementación de Skype Empresarial e Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernización del patrimonio de datos  | Gold Data Analytics O Data Platform  | [SQL Server interacciones de Deployment Planning Services (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Flujo de trabajo de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Preguntas más frecuentes sobre servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [Directivas de servicios de planeación de software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Compromisos retirados de software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Software Assurance flujo de trabajo de Planning Services](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [preguntas más frecuentes Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Software Assurance planning services](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Software Assurance Planning Services retiradas](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

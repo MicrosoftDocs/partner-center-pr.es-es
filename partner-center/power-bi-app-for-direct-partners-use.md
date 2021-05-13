@@ -1,169 +1,164 @@
 ---
-title: Usar el análisis del centro de partners para Power BI
+title: Uso de Centro de partners Analytics para Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo ver los datos empresariales con la aplicación de análisis del centro de partners para Power BI (para asociados directos en CSP).
+description: Obtenga información sobre cómo ver los datos empresariales mediante el Aplicación de análisis del Centro de partners para Power BI (para asociados directos en CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633869"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855036"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Vea los datos empresariales con la aplicación de análisis del centro de partners para Microsoft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualización de los datos empresariales con la aplicación Centro de partners Analytics para Microsoft Power BI
 
 
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador del control de usuarios
-- Agente de ventas
-- Agente de administrador
+**Roles adecuados:** administrador global | Administrador de administración de | Agente de ventas | Agente de administración
 
 ## <a name="view-your-business-data"></a>Visualización de los datos empresariales
 
-Obtenga una representación visual de los datos empresariales con la aplicación del centro de partners para Power BI, entre las que se incluyen:
+Obtenga una representación visual de los datos empresariales con el Aplicación de análisis del Centro de partners para Power BI, incluidos:
 
-- Crecimiento de la base de clientes, las suscripciones y las licencias
+- Crecimiento de la base de clientes, suscripciones y licencias
 
 - El uso que se hace de productos de Office 365, Microsoft Dynamics y Microsoft Azure
 
 - Las unidades de consumo diarias de cada recurso limitado en cada suscripción de Azure durante los últimos 60 días
 
-- Costo estimado (basado en la última carta de tarifa)
+- Costo estimado (basado en la tarjeta de tarifa más reciente)
 
-- Capacidad de exportar conjuntos de valores y crear informes personalizados, incluidos por cliente.
+- Capacidad de exportar conjuntos de datos y crear informes personalizados, incluidos por cliente.
 
-### <a name="about-the-partner-center-analytics-app-preview-release"></a>Acerca de la versión preliminar de la aplicación de análisis de Partner Center
+### <a name="about-the-partner-center-analytics-app-preview-release"></a>Acerca de la versión preliminar de Centro de partners Analytics
 
-- Esta aplicación es para asociados directos solo en el programa proveedor de soluciones en la nube. Otros asociados de CSP (por ejemplo, los revendedores indirectos) no podrán iniciar sesión.
+- Esta aplicación es solo para asociados directos Proveedor de soluciones en la nube programa. Otros asociados de CSP (revendedores indirectos, por ejemplo) no podrán iniciar sesión.
 
-- Los costos estimados son los datos de facturación y facturación previas a los impuestos y no son legalmente vinculantes. Los costos estimados están pensados para usarse solo para información de datos.
+- Los costos estimados son datos de facturación o factura previas a impuestos y no son legalmente obligatorios. Los costos estimados están diseñados para usarse solo para la información de datos.
 
-- La información del cliente se basa en las suscripciones. Los clientes que hayan creado recientemente cuentas para, pero que aún no tengan suscripciones, no se incluyen en los recuentos.
+- La información del cliente se basa en las suscripciones. Los clientes para los que ha creado recientemente cuentas, pero que aún no tienen suscripciones, no se incluyen en los recuentos.
 
-- El costo estimado se basa en la tarjeta de tarifas más reciente, que se basa en los precios de CSP.
+- El costo estimado se basa en la tarjeta de tarifa más reciente, que se basa en los precios de CSP.
 
-- Los días son días del calendario.
+- Los días son días naturales.
 
-### <a name="business-insights-report"></a>Informe de Business Insights
+### <a name="business-insights-report"></a>Información de la empresa informe
 
-- **Inquilinos de cliente**: el número de distintos inquilinos de Azure ad de clientes que han adquirido suscripciones.
+- **Inquilinos de clientes:** número de inquilinos Azure AD inquilinos de clientes que han adquirido suscripciones
 
-- **Nuevo (últimos 30 días)**: nuevos clientes que compran al menos una suscripción en los últimos 30 días
+- **Nuevo (últimos 30 días):** nuevos clientes que compran al menos una suscripción en los últimos 30 días
 
-- **Renovación (últimos 30 días)**: clientes sin ninguna suscripción "activa", "en período de gracia" o "deshabilitado"
+- **Renovación (últimos 30 días):** clientes sin suscripciones "activas", "en gracia" o "deshabilitadas".
 
-- **Nuevo (últimas 24 horas)**: nuevos clientes que compran al menos una suscripción en las últimas 24 horas
+- **Nuevo (últimas 24 horas):** nuevos clientes que compran al menos una suscripción en las últimas 24 horas
 
-- **Costo mensual estimado en los últimos 12 meses**: tendencia de mes a mes del importe de dólar estimado de la factura anterior a los impuestos que se suma mensualmente durante el período de los últimos 12 meses
+- Costo mensual estimado durante los últimos **12** meses: tendencia mensual del importe estimado en dólares de factura previa a impuestos agregado mensualmente durante el período de los últimos 12 meses
 
-- **Costo estimado por producto en los últimos 12 meses**: productos vendidos ordenados por importe en dólares estimado de la factura de impuestos previos agregada en el período de los últimos 12 meses. Este estado indica los principales productos que aportan más ingresos.
+- Costo estimado por producto en los últimos **12** meses: los productos vendidos se ordenan según el importe estimado en dólares de factura previa a impuestos agregado durante el período de los últimos 12 meses. Este estado indica los productos principales que más ingresos tienen.
 
-- **Clientes de más de 12 meses**: tendencia de mes a mes de nuevos clientes y renovación de clientes agregados mensualmente durante el período de los últimos 12 meses
+- **Clientes de los últimos 12** meses: tendencia mensual de nuevos clientes y clientes de renovación agregados mensualmente durante el período de los últimos 12 meses
 
-- **Costo estimado por cliente durante los últimos 12 meses**: clientes ordenados por importe de dólar estimado de factura previa de impuestos en el período de los últimos 12 meses. Este estado indica que los clientes principales aportan más ingresos.
+- Costo estimado por cliente durante los últimos **12** meses: los clientes se ordenan por importe estimado en dólares de factura antes de impuestos agregado durante el período de los últimos 12 meses. Este estado indica que los principales clientes traen la mayoría de los ingresos.
 
-- **Recuento de clientes por producto**: productos vendidos ordenados por clientes asociados. Este estado indica los principales productos que se venden a la mayoría de los clientes.
+- **Recuento de clientes por producto:** productos vendidos ordenados por clientes asociados. Este estado indica los principales productos vendidos a la mayoría de los clientes.
 
-### <a name="subscription-insights-report"></a>Informe de información de suscripción
+### <a name="subscription-insights-report"></a>Informe de Subscription Insights
 
-- **Estado** de la suscripción:
+- **Estado de la suscripción:**
 
-- Active: suscripciones que pertenecen a un estado "activo" o "en período de gracia"
+- Activo: suscripciones que pertenecen al estado "activo" o "en gracia".
 
   - Suspendido: suscripciones que pertenecen al estado "deshabilitado"
 
   - Desaprovisionado: suscripciones que pertenecen al estado "desaprovisionado" o "expirado"
 
-- **Estado de expiración**:
+- **Estado de expiración:**
 
-  - Expired: suscripciones que ya han expirado (donde la fecha de finalización de la suscripción está en el pasado)
+  - Expirado: suscripciones que ya han expirado (donde la fecha de finalización de la suscripción es anterior)
 
-  - Expiración después de 30 días: suscripciones que expirarán después de 30 días (donde la fecha de finalización de la suscripción es posterior a los 30 días)
+  - Expiración después de 30 días: suscripciones que expirarán después de 30 días (donde la fecha de finalización de la suscripción es posterior a los 30 días siguientes)
 
   - Expiración en 30 días: suscripciones que expirarán en los próximos 30 días (donde la fecha de finalización de la suscripción está entre hoy y los próximos 30 días)
 
-- **Total de suscripciones**: suscripciones en estado "activo", "en período de gracia" o "deshabilitado"
+- **Total de suscripciones:** suscripciones en estado "activo", "en gracia" o "deshabilitado"
 
-- **Nuevo (últimos 30 días)**: nuevas suscripciones compradas por los clientes en los últimos 30 días
+- **Nuevo (últimos 30 días):** nuevas suscripciones adquiridas por los clientes en los últimos 30 días
 
-- **Nuevo (últimas 24 horas)**: nuevas suscripciones adquiridas por los clientes en las últimas 24 horas
+- **Nuevo (últimas 24 horas):** nuevas suscripciones adquiridas por los clientes en las últimas 24 horas
 
-- **Expiración en 30 días**: suscripciones que expirarán en los próximos 30 días
+- **Expiración en 30 días:** suscripciones que expirarán en los próximos 30 días
 
-- **Renovación (últimos 30 días)**: las suscripciones que se han desaprovisionado o suspendido (deshabilitado) en los últimos 30 días
+- **Renovación (últimos 30 días):** suscripciones que se han desaprovisionado o suspendido (deshabilitado) en los últimos 30 días
 
-- **Distribución por tipos de suscripción**:% distribución de suscripciones totales por licencia y tipo de suscripción basado en el uso
+- **Distribución por tipos de suscripción:**% de distribución del total de suscripciones por tipo de suscripción basada en licencia y por uso
 
-- **Número de suscripciones activas por producto**: productos vendidos ordenados por recuento de suscripciones activas
+- **Recuento de suscripciones activas por producto:** productos vendidos ordenados por recuento de suscripciones activas
 
-- **Suscripciones en los últimos 12 meses**: tendencia de mes a mes de nuevas suscripciones y suscripciones de renovación agregadas mensualmente durante el período de los últimos 12 meses
+- **Suscripciones de los últimos 12** meses: tendencia mes a mes de nuevas suscripciones y suscripciones de renovación agregadas mensualmente durante el período de los últimos 12 meses
 
-- **Detalles** de la suscripción del cliente: vista detallada de los clientes, las suscripciones y las ofertas
+- **Detalles de la suscripción del** cliente: vista detallada de los clientes, suscripciones y ofertas
 
-### <a name="license-insights-report"></a>Informe de información de licencias:
+### <a name="license-insights-report"></a>Informe de License Insights:
 
-- **Total de licencias**: número total de licencias agregadas en todas las suscripciones basadas en licencias
+- **Total de licencias:** número total de licencias agregadas en todas las suscripciones basadas en licencias
 
-- **Nuevo (últimos 30 días)**: adición de licencias en los últimos 30 días
+- **Nuevo (últimos 30 días):** adición de licencias en los últimos 30 días
 
-- **Renovación (últimos 30 días)**: reducción de la licencia en los últimos 30 días
+- **Renovación (últimos 30 días):** reducción de licencias en los últimos 30 días
 
-- **Nuevo (últimas 24 horas)**: adición de licencias en las últimas 24 horas
+- **Nuevo (últimas 24 horas):** adición de licencias en las últimas 24 horas
 
-- **Licencias en los últimos 90 días**: tendencia de mes a mes de adiciones y reducciones de licencias agregadas mensualmente durante el período de los últimos 90 días
+- **Licencias de los últimos 90** días: tendencia mes a mes de adiciones y reducciones de licencias agregadas mensualmente durante el período de los últimos 90 días
 
-- **Recuento de licencias activas por producto**: productos vendidos ordenados por recuento de licencias activas
+- **Recuento de licencias activas por producto:** productos vendidos ordenados por recuento de licencias activas
 
-- **Recuento de licencias activas por cliente**: clientes ordenados por recuento de licencias activas
+- **Número de licencias activas por cliente:** clientes ordenados por recuento de licencias activas
 
-- **Detalles de evento de licencia de cliente en los últimos 90 días**: vista detallada de los clientes, las suscripciones y los eventos de suscripción, incluida la fecha del evento, el nombre del evento, la cantidad y el cambio en la cantidad.
+- Detalles del evento de licencia del cliente durante los últimos **90** días: vista detallada de los clientes, las suscripciones y los eventos de suscripción, incluida la fecha del evento, el nombre del evento, la cantidad y el cambio en la cantidad.
 
 ### <a name="licenses-usage-report"></a>Informe de uso de licencias:
 
-- **Licencias asignadas por producto**: productos vendidos ordenados por número de asignación de licencias
+- **Licencias asignadas por producto: productos vendidos ordenados** por recuento de asignaciones de licencias
 
-- **Licencias en uso por producto**: productos vendidos ordenados por recuento de uso de licencias
+- **Licencias en uso por producto: productos vendidos ordenados** por recuento de uso de licencias
 
-- **Distribución de clientes con licencias asignadas**:% distribución de los clientes totales rotos en cubos del 20% según la asignación de licencias%
+- **Distribución por cliente de licencias asignadas:**% de distribución del total de clientes divididos en cubos del intervalo del 20 % por % de asignación de licencias
 
-- **Distribución del cliente de licencias en uso**:% distribución de los clientes totales rotos en cubos del 20% por uso de licencias%
+- **Distribución por cliente de licencias en uso:**% de distribución del total de clientes divididos en cubos del intervalo del 20 % por porcentaje de uso de licencias
 
-- **Licencias asignadas por el cliente**: vista detallada de licencias vendidas y licencias asignadas por clientes y productos
+- **Licencias asignadas por el cliente:** vista detallada de las licencias vendidas y las licencias asignadas por clientes y productos
 
-- **Licencias en uso por el cliente**: vista detallada de licencias vendidas y licencias en uso por clientes y productos
+- **Licencias en uso por parte del cliente:** vista detallada de las licencias vendidas y las licencias en uso por clientes y productos
 
 ### <a name="azure-insights-report"></a>Informe de Azure Insights:
 
-- **Clientes basados en el uso durante los últimos 12 meses**: tendencia de mes a mes de nuevos clientes basados en el uso y de clientes basados en el uso renovados que se han agregado mensualmente durante el período de los últimos 12 meses
+- Clientes basados en el uso en los últimos **12** meses: tendencia mes a mes de nuevos clientes basados en el uso y clientes basados en el uso renovación agregados mensualmente durante el período de los últimos 12 meses
 
-- **Suscripciones basadas en el uso en los últimos 12 meses**: tendencia de mes a mes de nuevas suscripciones basadas en el uso y suscripciones basadas en el uso renovadas que se agregan mensualmente durante el período de los últimos 12 meses
+- Suscripciones basadas en el uso en los últimos **12** meses: tendencia mensual de nuevas suscripciones basadas en el uso y suscripciones basadas en el uso renovación agregadas mensualmente durante el período de los últimos 12 meses
 
-- **Costo estimado de uso por cliente durante los últimos 60 días**: clientes basados en el uso ordenados por importe de dólar estimado de factura previa de impuestos en el período de los últimos 60 días. Este estado indica que los clientes principales basados en el uso aportan la mayor parte de los ingresos
+- Costo estimado de uso por cliente durante los últimos **60** días: los clientes basados en el uso se ordenan por el importe estimado de la factura antes de impuestos agregado durante el período de los últimos 60 días. Este estado indica que los principales clientes basados en el uso traen la mayoría de los ingresos.
 
-- **Costo estimado de uso por Categoría en los últimos 60 días**: categorías de medida de las suscripciones basadas en el uso ordenadas por importe de dólar estimado de la factura de impuestos previos agregada en el período de los últimos 60 días.
+- Costo estimado de uso por categoría en los últimos **60** días: categorías de medidores de suscripciones basadas en el uso ordenadas por importe estimado en dólares de factura antes de impuestos agregado durante el período de los últimos 60 días.
 
-- **Costo estimado de uso por suscripción en los últimos 60 días**: las suscripciones basadas en el uso por importe en dólares estimado de la factura de impuestos previos sumadas en el período de los últimos 60 días.
+- Costo estimado de uso por suscripción durante los últimos **60** días: suscripciones basadas en el uso por importe estimado de dólares de factura previa a impuestos agregado durante el período de los últimos 60 días.
 
-- **Costo de uso estimado del cliente por presupuesto de gasto**: clientes ordenados por porcentaje de su presupuesto de gasto de uso actual que supera el umbral (100%).
+- **Costo de uso estimado por el cliente por presupuesto** de gasto: los clientes ordenados por porcentaje de su presupuesto de gasto de uso actual supera el umbral (100 %).
 
 ### <a name="azure-resource-usage-report"></a>Informe de uso de recursos de Azure:
 
-- **Uso de recursos de Azure por día para el período seleccionado**: unidades de consumo diarias para cada recurso medido en cada suscripción basada en el uso para el período seleccionado en los últimos 60 días.
+- **Uso de recursos de Azure** por día durante el período seleccionado: unidades de consumo diarias para cada recurso de uso de cada suscripción basada en el uso durante el período seleccionado en los últimos 60 días.
 
-- **Costo de uso estimado de los recursos de Azure para el período seleccionado**: costo estimado basado en la última tarjeta de frecuencia para cada recurso medido en cada suscripción basada en el uso para el período seleccionado en los últimos 60 días. 
+- **Costo** de uso estimado de los recursos de Azure para el período seleccionado: costo estimado basado en la tarjeta de tarifa más reciente para cada recurso de uso de cada suscripción basada en el uso durante el período seleccionado en los últimos 60 días. 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Información general de la aplicación de análisis del centro de partners para Power BI](power-bi-app-for-direct-partners.md)
+- [Centro de partners Analytics for Power BI introducción a la aplicación](power-bi-app-for-direct-partners.md)
 
 - [Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)

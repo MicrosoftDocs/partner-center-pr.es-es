@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018159"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855563"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Cómo y cuándo solicitar un crédito de contrato de nivel de servicio (SLA) a Microsoft
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador global
+**Roles adecuados:** agente de administración | Administrador global
 
 Puede solicitar créditos de contrato de nivel de servicio **(SLA)** a Microsoft si un servicio que está proporcionando a los clientes tiene una interrupción.
 

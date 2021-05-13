@@ -9,22 +9,18 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: da1b93e757ad923f8a1c11e21ed2b957ecf1ad11
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002831"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854764"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar una cuenta suspendida del Centro de partners: Aprenda por qué sucede y qué hacer con él.
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government
 
-- Centro de partners para Microsoft Cloud for US Government
-
-**Roles adecuados**
-
-- Administrador global
+**Roles adecuados:** Administrador global
 
 En este artículo se explica qué hacer si su cuenta del Centro de partners está suspendida.
 
@@ -44,7 +40,7 @@ Microsoft suspenderá una cuenta del Centro de partners por cualquiera de los si
 
 Si sabe que la cuenta está actualizada, compruebe la configuración del perfil [de](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) partner para confirmar que la información activa está completa. 
 
-Si no está seguro de si la cuenta está actualizada, seleccione **Facturación** en el **menú Centro de partners** para comprobar la factura. La página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
+Si no está seguro de si la cuenta está actualizada, seleccione **Facturación** en el **Centro de partners** de facturación para comprobar la factura. La página de facturación muestra tu historial de facturación y las tendencias, el saldo adeudado del mes actual, vínculos a tu factura y archivos de conciliación y el pago más reciente.
 
 Si la cuenta está vencida, siga las instrucciones de la factura para organizar el pago y, a continuación, envíe una solicitud de soporte técnico para restablecer la cuenta. 
 

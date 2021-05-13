@@ -1,49 +1,47 @@
 ---
-title: No se puede iniciar sesión en el centro de Partners
+title: No se puede iniciar sesión en Centro de partners
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 'Solucionar posibles causas y obtener información sobre las soluciones de cuando no se puede iniciar sesión en el centro de Partners: Obtenga más información sobre el restablecimiento de contraseñas, la comprobación de roles y la comprobación de credenciales.'
+description: Solucione posibles causas y obtenga información sobre las soluciones para cuando no puede iniciar sesión en Centro de partners; obtenga más información sobre el restablecimiento de contraseñas, la comprobación de roles y la comprobación de credenciales.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266578"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818803"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Solucionar problemas de inicio de sesión del centro de Partners
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Solución de problemas de inicio de sesión para Centro de partners
 
-**Roles adecuados**
+**Roles adecuados:** todos los asociados interesados en Centro de partners
 
-- Todos los asociados interesados en el Centro de partners
+Este artículo contiene soluciones para problemas comunes de inicio de sesión para Centro de partners.
 
-Este artículo contiene soluciones para problemas comunes de inicio de sesión del centro de Partners.
+## <a name="youve-forgotten-your-password-for-partner-center"></a>Ha olvidado la contraseña para Centro de partners
 
-## <a name="youve-forgotten-your-password-for-partner-center"></a>Ha olvidado la contraseña del centro de Partners
+Si ha olvidado la contraseña y no puede iniciar sesión en Centro de partners, póngase en contacto con el soporte técnico. Busque el contacto adecuado en [Soporte técnico para productos empresariales](/microsoft-365/admin/contact-support-for-business-products).
 
-Si olvidó su contraseña y no puede iniciar sesión en el centro de Partners, póngase en contacto con el servicio de soporte técnico. Busque el contacto adecuado en [Support for Business Products](/microsoft-365/admin/contact-support-for-business-products).
+Si es un asociado de MPN, pida al administrador global que cree una contraseña. Si es revendedor indirecto de CSP, pida a su proveedor indirecto que cree un nuevo administrador global en su inquilino de Azure AD o que cree una contraseña con sus privilegios de administrador delegados.
 
-Si es un asociado de MPN, pida a su administrador global que cree una nueva contraseña. Si es un revendedor indirecto de CSP, pida a su proveedor indirecto que cree un nuevo administrador global en su inquilino de Azure AD o cree una nueva contraseña para usted con sus privilegios de administrador delegado.
+Para obtener más información sobre cómo puede restablecer la contraseña y recuperar el acceso a su cuenta de trabajo, lea Restablecer la contraseña del trabajo o la escuela [con la información de seguridad](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
 
-Para obtener más información acerca de cómo restablecer la contraseña y recuperar el acceso a su cuenta profesional, lea [restablecimiento de la contraseña profesional o educativa con la información de seguridad](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password).
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>No puede ver ni administrar las páginas o funcionalidades esperadas en Centro de partners
 
-## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>No puede ver ni administrar las páginas o capacidades esperadas en el centro de Partners
-
-El acceso a las páginas del centro de Partners se controla mediante los roles asignados. Para comprobar qué roles está asignado, en el centro de Partners, seleccione el icono de configuración, seleccione Configuración de la **cuenta** y, a continuación, en configuración de la cuenta, seleccione **Administración de usuarios**. En buscar, escriba su nombre y, a continuación, vea los resultados.
+El acceso a las Centro de partners se controla mediante los roles que se le asignan. Para comprobar qué roles tiene asignados, en Centro de partners el icono Configuración, seleccione Configuración de la cuenta y, a continuación, en Configuración de la cuenta, seleccione **Administración de usuarios.** En Buscar, escriba su nombre y, a continuación, vea los resultados.
 
 Si no puede ver ni administrar las competencias, los clientes, los incentivos o los usuarios que espera, pruebe las siguientes soluciones:
 
-- Para acceder a las funcionalidades de MPN, CSP y referencias, póngase en contacto con el administrador global o el administrador de la cuenta. Para obtener más información acerca de los roles y las tareas que habilitan en el centro de Partners, consulte [asignación de roles & permisos a los usuarios](permissions-overview.md).
-- Para acceder a las funcionalidades de Marketplace comercial y de Windows & Xbox, la tienda Office, Microsoft Edge y los programas de desarrollo de hardware, póngase en contacto con la persona en el rol de propietario o administrador de su organización. Para obtener más información acerca de los roles y los permisos, consulte [Administración de una cuenta comercial de Marketplace en el centro de Partners de Microsoft](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
+- Para acceder a las funcionalidades de MPN, CSP y referencias, póngase en contacto con el administrador global o el administrador de la cuenta. Para obtener más información sobre los roles y las tareas que habilitan en Centro de partners, vea Asignación [de roles & permisos a los usuarios.](permissions-overview.md)
+- Para acceder a las funcionalidades de Marketplace comercial y los programas para desarrolladores de Windows & Xbox, Office Store, Microsoft Edge y Hardware, póngase en contacto con la persona con el rol Propietario o Administrador de su organización. Para más información sobre los roles y permisos, consulte [Administración de una cuenta de Marketplace comercial en Microsoft Centro de partners](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
 
-## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>No puede ver su oferta o ventajas en el centro de Partners
+## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>No puede ver la oferta ni las ventajas en Centro de partners
 
-Confirme que está usando las credenciales correctas para iniciar sesión. Por ejemplo, sus cuentas profesionales y personales pueden tener el mismo aspecto (como abc@contoso.com ), pero puede ser una cuenta personal que haya creado y otra puede ser una cuenta de empresa configurada en su nombre. En este caso, si ha iniciado sesión, pero no puede ver las funcionalidades esperadas relacionadas con MPN, CSP, Marketplace comercial, pruebe a seleccionar su cuenta profesional.
+Confirme que usa las credenciales correctas para iniciar sesión. Por ejemplo, las cuentas personales y de trabajo pueden tener el mismo aspecto (por ejemplo, ), pero una puede ser una cuenta personal que ha creado y otra puede ser una cuenta empresarial configurada abc@contoso.com en su nombre. En este caso, si ha iniciado sesión, pero no puede ver las funcionalidades esperadas relacionadas con MPN, CSP, Marketplace comercial, intente seleccionar su cuenta de trabajo.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

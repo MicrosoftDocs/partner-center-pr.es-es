@@ -4,66 +4,63 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explore el panel de aprendizaje del centro de Partners. El entrenamiento es uno de los informes disponibles en el área del centro de Partners (PCI).
+description: Explore Centro de partners de entrenamiento. El entrenamiento es uno de los informes disponibles en el área Centro de partners Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086250"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854560"
 ---
-# <a name="trainings-dashboard"></a>Panel de aprendizaje
+# <a name="trainings-dashboard"></a>Panel de entrenamientos
 
-**Roles adecuados**
+**Roles adecuados:** Visor de informes ejecutivos | Visor de informes
 
-- Visor de informes ejecutivos
-- Visor de informes
-
-En el panel de cursos se proporciona información sobre las certificaciones, las evaluaciones y los exámenes realizados por la empresa de empleados de la empresa. En el panel de aprendizaje se incluyen las siguientes secciones:
+El panel de entrenamientos proporciona información sobre las certificaciones, evaluaciones y exámenes que ha llevado a cabo la empresa de los empleados de la empresa. El panel Entrenamientos incluye las secciones siguientes:
 
 - Resumen
-- Rendimiento de aprendizaje dividido por certificaciones, evaluaciones, exámenes
-- Personas por credenciales como certificaciones, evaluaciones, exámenes
+- Rendimiento del entrenamiento dividido por certificaciones, evaluaciones, exámenes
+- Individuos por credenciales, como certificaciones, evaluaciones, exámenes
 - Detalles de actividad
 
 >[!NOTE] 
->Este informe está disponible en el concentrador Insights del centro de Partners. Para ver este informe, debe tener asignado el rol del visor de informes o del visor de informes ejecutivos. Algunas secciones de este informe solo estarán visibles para los usuarios que sean visores de informes ejecutivos. Para obtener más información sobre el control de acceso para los informes de Insights, consulte [roles de PCI](pci-roles.md).
+>Este informe está disponible en el centro de Insights en Centro de partners. Para ver este informe, se le debe asignar el rol Visor de informes o Visor de informes ejecutivos. Algunas secciones de este informe solo serán visibles para los usuarios que son visores de informes ejecutivos. Para obtener más información sobre el control de acceso para los informes de Insights, consulte [Roles pci](pci-roles.md).
 
 ## <a name="summary"></a>Resumen
 
-En la sección Resumen se presenta una vista numérica de una instantánea de varios indicadores de rendimiento relacionados con los cursos. Los diversos indicadores de rendimiento son individuos certificados, certificaciones, usuarios con credenciales de examen, credenciales de examen, usuarios con credenciales de evaluación y credenciales de evaluación. Los datos de esta sección se actualizan en función del intervalo de fechas seleccionado, que puede ser de tres meses (3M), seis meses (6 M) y 12 meses (1) o un intervalo de datos personalizado (personalizado). 
+En la sección de resumen se presenta una vista de instantánea numérica de varios indicadores de rendimiento relacionados con los entrenamientos. Los distintos indicadores de rendimiento son Individuos certificados, Certificaciones, Individuos con credenciales de examen, Credenciales de examen, Personas con credenciales de evaluación y Credenciales de evaluación. Los datos de esta sección se actualizan en función del intervalo de fechas seleccionado, que puede ser de tres meses (3 M), seis meses (6 M) y 12 meses (1Y) o un intervalo de datos personalizado (personalizado). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Resumen":::
 
-- **Personas con certificaciones**: representa el número de personas distintas con certificaciones de su empresa.
-- Número de **certificaciones**: representa el número total de certificaciones tomadas por los usuarios de su empresa.
-- **Personas con evaluaciones**: representa el número de personas distintas con credenciales de evaluación de su empresa. 
-- **Recuento de evaluaciones**: representa el número total de evaluaciones tomadas por las personas de su empresa.
-- **Personas con exámenes**: representa el número de personas distintas con las credenciales de examen de la empresa. 
-- **Recuento de exámenes**: representa el número total de exámenes realizados por las personas de su empresa.
+- **Personas con certificaciones:** representa el número de individuos distintos con certificaciones en su empresa.
+- **Recuento de certificaciones:** representa el número total de certificaciones realizadas por personas de su empresa.
+- **Individuos con evaluaciones:** representa el número de individuos distintos con credenciales de evaluación en su empresa. 
+- **Recuento de evaluaciones:** representa el número total de evaluaciones realizadas por individuos de su empresa.
+- **Individuos con exámenes:** representa el número de individuos distintos con credenciales de examen en su empresa. 
+- **Recuento de** exámenes: representa el número total de exámenes que han realizado las personas de su empresa.
 
-## <a name="training-performance"></a>Rendimiento de aprendizaje
+## <a name="training-performance"></a>Rendimiento del entrenamiento
 
-El rendimiento del entrenamiento presenta el número mensual de personas y los cursos que han realizado los usuarios de su empresa. Se divide por certificaciones, evaluaciones y exámenes en forma de gráfico para el intervalo de fechas seleccionado. El eje X representa los meses para el intervalo de fechas seleccionado. El eje Y representa el recuento distintivo de personas y el número de entrenamientos tomados por el tipo de entrenamiento seleccionado. Seleccione las pestañas respectivas que aparecen encima del gráfico para ver el desglose por tipo de entrenamiento. Los datos del gráfico se pueden descargar mediante el icono de descarga en formato. TSV para el intervalo de fechas seleccionado.
+El rendimiento del entrenamiento presenta el recuento mensual de individuos y los entrenamientos completados por individuos de su empresa. Se divide por certificaciones, evaluaciones y exámenes en forma de gráfico para el intervalo de fechas seleccionado. El eje X representa los meses del intervalo de fechas seleccionado. El eje Y representa el recuento distinto de individuos y el número de entrenamientos que se han realizado para el tipo de entrenamiento seleccionado. Seleccione las pestañas correspondientes encima del gráfico para ver el desglose por tipo de entrenamiento. Los datos del gráfico se pueden descargar a través del icono de descarga en formato .tsv para el intervalo de fechas seleccionado.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Rendimiento de aprendizaje":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Rendimiento del entrenamiento":::
 
 ## <a name="individuals-performance"></a>Rendimiento de los usuarios
 
-La sección de rendimiento de los usuarios presenta los detalles del entrenamiento realizado por las personas de la empresa, para el intervalo de fechas seleccionado. Busque y seleccione el nombre de un individuo en el panel izquierdo de la sección. Los detalles de aprendizaje de la persona seleccionada se muestran en el panel derecho de la sección.
+En la sección Rendimiento de los usuarios se presentan los detalles del entrenamiento realizado por personas de su empresa para el intervalo de fechas seleccionado. Busque y seleccione el nombre de una persona en el panel izquierdo de la sección. Los detalles de entrenamiento del individuo seleccionado se muestran en el panel derecho de la sección.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Rendimiento de individual":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Rendimiento individual":::
 
 >[!NOTE] 
-> La sección de rendimiento de los individuos solo está disponible para los usuarios que son ejecutivos de informes. 
+> La sección Rendimiento de individuos solo está disponible para los usuarios que son visores de informes ejecutivos. 
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Informes en la información del centro de Partners](partner-center-insights.md)
+[Informes en Centro de partners Insights](partner-center-insights.md)
 
 >[!NOTE] 
-> Puede descargar los datos sin procesar que alimentan este informe desde la sección Descargar informes en el panel de información. [Más información](pci-download-reports.md)
+> Puede descargar los datos sin procesar que se están generando en este informe desde la sección Descargar informes del panel de Insights. [Más información](pci-download-reports.md)
