@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: Cálculo del precio unitario vigente
       href: effective-unit-price-calculation.md
+    - name: Cumplimiento del límite de crédito
+      href: credit-limit-enforcement.md
     - name: Escenarios comunes de facturación
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
