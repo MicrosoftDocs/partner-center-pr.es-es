@@ -8,19 +8,16 @@ description: Solicite una relación con un cliente para escenarios multicanal de
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018142"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856124"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el Centro de partners
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador global
+**Roles adecuados:** agente de administración | Administrador global
 
 Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el Contrato de cliente de Microsoft.
 
@@ -51,11 +48,11 @@ Puede solicitar una relación de revendedor con un cliente desde su país o su m
 6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
 
 > [!IMPORTANT]  
-> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a menos que y hasta que renegocie su contrato con el cliente, seguirá siendo responsable de proporcionar soporte técnico al cliente y de cumplir los términos del Contrato microsoft partner, incluso después de que un cliente reasigna o quita los permisos de administrador. En esta situación, si el cliente requiere ayuda, puede llamar al soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a menos que y hasta que renegocie el contrato con el cliente, seguirá siendo responsable de proporcionar soporte técnico al cliente y de cumplir los términos del Contrato microsoft partner, incluso después de que un cliente reasigna o quita los permisos de administrador. En esta situación, si el cliente requiere ayuda, puede llamar al soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación del cliente
 
-La experiencia del cliente para aceptar una invitación de relación de revendedor de un Proveedor de soluciones en la nube asociado se hospeda en diferentes portales orientados al cliente. La ubicación del portal depende de si un cliente está en una nube pública de Microsoft o en una nube nacional:
+La experiencia del cliente para aceptar una invitación de relación de revendedor de un Proveedor de soluciones en la nube asociado se hospeda en distintos portales orientados al cliente. La ubicación del portal depende de si un cliente está en una nube pública de Microsoft o en una nube nacional:
 
 |Tipos de clientes en la nube  | ¿Dónde acepta un cliente una invitación de relación de revendedor? |
 |---------|---------

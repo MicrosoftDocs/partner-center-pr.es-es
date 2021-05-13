@@ -1,26 +1,24 @@
 ---
-title: Hacer crecer su negocio con referencias de Microsoft
+title: Crecimiento del negocio con referencias de Microsoft
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo crear un perfil de negocio para generar clientes potenciales a través de la característica Centro de partners referencias y, a continuación, responder a estas referencias.
+description: Obtenga información sobre cómo crear un perfil de negocio para generar clientes potenciales de ventas a través de la característica Centro de partners Referencias y, a continuación, responder a estas referencias.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120738"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855869"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Hacer crecer tu negocio con referencias de Microsoft
 
-**Roles adecuados**
-
-- Administrador de referencias
+**Roles adecuados:** administrador de referencias
 
 Muchos clientes buscan expertos cualificados para que les ayuden a implementar las soluciones empresariales y de tecnología de Microsoft. Aquí en Microsoft, recibimos a menudo solicitudes directas de los clientes solicitando ayuda a través de nuestras actividades de marketing y desde los agentes de ventas internos de Microsoft. Los clientes también usan la [experiencia **Buscar un proveedor de soluciones**](https://www.microsoft.com/solution-providers/search) para buscar empresas que pueden ayudarlos a cubrir sus necesidades empresariales. 
 

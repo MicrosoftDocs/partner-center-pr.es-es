@@ -8,18 +8,16 @@ description: Como asociado de Microsoft, puede tener preguntas sobre el uso de d
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002913"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856090"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guía para los recursos de licencias de los asociados de Microsoft 
 
-**Roles adecuados**
-
-- Agente de ayuda
+**Roles adecuados:** Agente de ayuda
 
 En este artículo se comparten recursos que pueden ayudar a responder a preguntas sobre licencias de asociados.
 
@@ -34,12 +32,12 @@ Si tiene preguntas sobre cómo funcionan estos programas, estos recursos pueden 
 >
 > También puede comunicarse con los contactos de Microsoft para aprovechar un equipo interno de expertos en licencias. Si no tiene contactos específicos de [](https://partner.microsoft.com/support/v2/?stage=1) Microsoft, vaya a Soporte técnico para partners y escriba **licencias** en el campo Problemas de la **página** Soporte técnico. 
 
-## <a name="general-resources-about-licensing-and-license-training"></a>Recursos generales sobre licencias y aprendizaje de licencias
+## <a name="general-resources-about-licensing-and-license-training"></a>Recursos generales sobre licencias y entrenamiento de licencias
 
 Puede obtener más información sobre programas de licencias específicos de los siguientes recursos.
 
 >[!NOTE]
-> Es posible que tenga que inscribirse en determinados programas para poder acceder a todos los recursos que se muestran aquí. Obtenga más información sobre la inscripción en el [programa MPN o](https://partner.microsoft.com/membership) [en el programa CSP](https://partner.microsoft.com/membership/cloud-solution-provider).
+> Es posible que deba inscribirse en determinados programas para poder acceder a todos los recursos que se muestran aquí. Obtenga más información sobre la inscripción en el [programa MPN o](https://partner.microsoft.com/membership) [en el programa CSP](https://partner.microsoft.com/membership/cloud-solution-provider).
 
 |Para hacer esto  | Lea este  |
 |:------------------|:--------------- |
@@ -57,12 +55,12 @@ Estos otros recursos pueden resultar útiles. Para acceder a algunos de estos re
 |Para hacer esto  | Lea este  |
 |:------------------|:--------------- |
 |Revise o descargue la versión actual de los Términos del producto de Microsoft para productos o servicios en el programa licencias por volumen de Microsoft. | [Busque su producto o servicio o](https://www.microsoft.com/licensing/terms/) busque [aquí.](http://www.microsoftvolumelicensing.com/)  |
-|Obtenga más información sobre el programa Software Assurance y la licencia asociada junto con cómo funcionan los pagos y los vales.  | [Introducción a Software Assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) o [Software Assurance y requisitos](software-assurance-lp.md) |
+|Obtenga más información sobre el programa Software Assurance y la licencia asociada junto con cómo funcionan los pagos y los vales.  | [Introducción a Software Assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) [o Software Assurance y requisitos](software-assurance-lp.md) |
 |Revise los detalles sobre los derechos o ventajas de uso interno de MPN.  | [Guía de programas de Microsoft Partner Network](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
 |Busque materiales de asociados de OEM, como los kits de preins instalación o el entrenamiento.  | [Microsoft Device Centro de partners](https://devicepartner.microsoft.com/)  |
-|Responda a preguntas de uso para clientes OEM o clientes minoristas (también conocidos como clientes de producto empaquetado completo o de FPP). Esto es para los clientes cuyo software les concronó Microsoft o un fabricante de equipos. *(Estos términos no se aplican a los clientes del programa de licencias por volumen).*  | [Términos de uso del comercio minorista (FPP)](https://www.microsoft.com/useterms)  |
+|Responda a preguntas de uso para clientes oem o clientes minoristas (también conocidos como clientes de producto empaquetado completo o FPP). Esto es para los clientes cuyo software les ha concedido Microsoft o un fabricante de equipos. *(Estos términos no se aplican a los clientes del programa de licencias por volumen).*  | [Términos de uso del comercio minorista (FPP)](https://www.microsoft.com/useterms)  |
 
-## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Recursos asociados con las opciones de suministro de licencias o de suministro de licencias
+## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Recursos asociados con las opciones de suministro de licencias o de suministro
 
 Si tiene preguntas específicas sobre el cumplimiento de licencias, el pago o la empresa, el primer punto de contacto es el proveedor indirecto (para el programa CSP) o el distribuidor del programa. También puede encontrar útiles los siguientes recursos.
 
@@ -90,7 +88,7 @@ El proveedor indirecto (para el programa CSP) o el distribuidor del programa deb
 
 ## <a name="help-from-microsoft-support"></a>Ayuda de Soporte técnico de Microsoft
 
-Como asociado de Microsoft, puede solicitar ayuda a otros asociados implicados en su éxito. También puede solicitar ayuda a Soporte técnico de Microsoft. Los expertos en soporte técnico están disponibles para ayudarle con problemas del programa de asociados, asistencia para preventas, problemas con productos de Microsoft, preguntas de facturación, etc.
+Como asociado de Microsoft, puede solicitar ayuda a otros asociados implicados en su éxito. También puede solicitar ayuda a Soporte técnico de Microsoft. Los expertos en soporte técnico están disponibles para ayudarle con problemas del programa de asociados, asistencia de preventa, problemas con productos de Microsoft, preguntas de facturación, etc.
 
 Vaya a [Soporte técnico para partners de Microsoft](https://partner.microsoft.com/support/?stage=1) para ver las opciones de soporte técnico o para iniciar una vale de soporte técnico.
 
@@ -98,5 +96,5 @@ Vaya a [Soporte técnico para partners de Microsoft](https://partner.microsoft.c
 
 - [Ver más recursos de soporte técnico](https://partner.microsoft.com/support/?stage=1)
 - [Buscar un asociado](find-a-partner.md)
-- [Obtenga información sobre el programa MPN o inscríbase en él.](https://partner.microsoft.com/membership)
+- [Más información sobre el programa MPN o inscribirse en él](https://partner.microsoft.com/membership)
 - [Obtenga información sobre el programa CSP o inscríbase en él.](https://partner.microsoft.com/membership/cloud-solution-provider)

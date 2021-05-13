@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284475"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856039"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Obtenga información sobre los impuestos y los detalles de exención fiscal por región o país para asociados en el programa CSP.
 
-**Roles adecuados**
-
-- Administrador global
+**Roles adecuados:** Administrador global
 
 El Proveedor de soluciones en la nube cliente (CSP) es un canal de ventas centrado en la reventa de productos de asociados. Como resultado, Microsoft no siempre tiene que cobrar impuestos de ventas en facturas de asociados. Las reglas varían según el país o la región. Puede revisar los [detalles específicos del país y de la región para las exenciones fiscales.](#country-and-region-tax-details)
 
@@ -59,9 +57,9 @@ Antes de presentar una exención fiscal, asegúrese de comprender los siguientes
 
 - Debe presentar una exención fiscal para cada inquilino de CSP.
 
-- Deberá enviar el número de identificación fiscal o el número de identificación federal del trabajador (FEIN). Este número suele aparecer en el certificado fiscal.
+- Deberá enviar el número de identificación fiscal o el número de identificación del patrón federal (FEIN). Este número suele aparecer en el certificado fiscal.
 
-- En función de su país, región o estado, la exención fiscal de ventas tiene directrices legales específicas para el Departamento local de ingresos fiscales (o departamento similar) y debe administrarse en consecuencia. Aunque muchas ubicaciones tienen certificados fiscales que se renuevan anualmente, algunas ubicaciones pueden renovarse a dos o más años. Debe comprobar esta y otra información comprobando el certificado o ponerse en contacto con la autoridad fiscal local.
+- En función de su país, región o estado, la exención fiscal de ventas tiene directrices legales específicas para el Departamento de Ingresos Fiscales local (o departamento similar) y debe administrarse en consecuencia. Aunque muchas ubicaciones tienen certificados fiscales que se renuevan anualmente, algunas ubicaciones pueden renovarse a dos o más años. Debe comprobar esta y otra información comprobando el certificado o ponerse en contacto con la autoridad fiscal local.
 
 Cuando esté listo para presentar la exención fiscal, abra un vale con Soporte técnico de Microsoft [y](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) proporcione la información adecuada.
 

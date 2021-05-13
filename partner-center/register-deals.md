@@ -9,22 +9,20 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172443"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855750"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre las ofertas que ha ganado en Centro de partners para que pueda obtener más oportunidades más adelante.
 
-**Roles adecuados**
-
-- Administrador de referencias
+**Roles adecuados:** administrador de referencias
 
 Para registrar las ofertas que has ganado en el Centro de partners, puedes proporcionar información adicional sobre el contrato. Esta información nos ayudará a proporcionarte más oportunidades en el futuro.
 
-Para determinadas soluciones aptas, después de seleccionar **Ganada** en el proceso de respuesta de [referencia,](manage-leads.md)se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
+Para determinadas soluciones aptas, después de seleccionar **Ganado** en el proceso de respuesta de [referencia,](manage-leads.md)se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
 
 También puedes registrar nuevas ofertas que no hayas ganado y que utilicen una de tus soluciones, aunque no se hayan originado a través de una [referencia](referrals.md). 
 
@@ -64,6 +62,6 @@ En la página **Referencias > Registrar las ofertas > En curso**, verás los reg
 
 Si es necesario actualizar cualquier información, es posible que movamos el registro de la oferta a la página **Acción requerida**.
 
-### <a name="closed"></a>Closed
+### <a name="closed"></a>Cerrado
 
 En la **página Referrals > Deal registrations > Closed** (Referencias > ofertas cerradas), verá las ofertas registradas y revisadas correctamente por Microsoft. Puedes usar los filtros para mostrar solo los registros de ofertas con el estado **Aprobado **o** Rechazado**.
