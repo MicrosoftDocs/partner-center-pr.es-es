@@ -1,94 +1,90 @@
 ---
-title: Herramienta de diagnóstico y solicitudes del portal del centro de Partners
+title: Centro de partners de diagnóstico y solicitudes del portal
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Obtenga información acerca de cómo notificar problemas con el centro de Partners y cómo recopilar información de diagnóstico para el equipo de soporte técnico de asociados.
+description: Obtenga información sobre cómo notificar problemas con Centro de partners y cómo recopilar información de diagnóstico para el equipo de soporte técnico para partners.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441649"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855614"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a><span data-ttu-id="8a169-103">Herramienta de diagnóstico y solicitudes del portal del centro de Partners</span><span class="sxs-lookup"><span data-stu-id="8a169-103">Partner Center portal requests and diagnostic tool</span></span>
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a><span data-ttu-id="5507d-103">Centro de partners de diagnóstico y solicitudes del portal</span><span class="sxs-lookup"><span data-stu-id="5507d-103">Partner Center portal requests and diagnostic tool</span></span>
 
-<span data-ttu-id="8a169-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="8a169-104">**Applies to**</span></span>
+<span data-ttu-id="5507d-104">**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="5507d-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="8a169-105">Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="8a169-105">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="5507d-105">**Roles adecuados:** todos los asociados interesados en Centro de partners</span><span class="sxs-lookup"><span data-stu-id="5507d-105">**Appropriate roles**: All partners interested in Partner Center</span></span>
 
-<span data-ttu-id="8a169-106">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="8a169-106">**Appropriate roles**</span></span>
+<span data-ttu-id="5507d-106">Todos los usuarios Centro de partners sesión pueden crear una solicitud de soporte técnico para asociados.</span><span class="sxs-lookup"><span data-stu-id="5507d-106">All logged in Partner Center users can create a partner support request.</span></span> <span data-ttu-id="5507d-107">Los usuarios solo pueden ver las solicitudes de soporte técnico que han enviado después de iniciar sesión Centro de partners.</span><span class="sxs-lookup"><span data-stu-id="5507d-107">Users can only view support requests they have submitted after logging into Partner Center.</span></span>
+<span data-ttu-id="5507d-108">Póngase en contacto Centro de partners soporte técnico si encuentra problemas o necesita ayuda con Centro de partners del portal.</span><span class="sxs-lookup"><span data-stu-id="5507d-108">Contact Partner Center Support if you find problems or need help with Partner Center portal errors.</span></span> <span data-ttu-id="5507d-109">Envíe diagnósticos para que el problema se corrigiera más rápido.</span><span class="sxs-lookup"><span data-stu-id="5507d-109">Send diagnostics to enable the problem to be fixed quicker.</span></span>
 
-- <span data-ttu-id="8a169-107">Todos los asociados interesados en el centro de Partners</span><span class="sxs-lookup"><span data-stu-id="8a169-107">All partners interested in Partner Center</span></span>
+## <a name="report-a-problem-with-the-partner-center"></a><span data-ttu-id="5507d-110">Notificar un problema con el Centro de partners</span><span class="sxs-lookup"><span data-stu-id="5507d-110">Report a problem with the Partner Center</span></span>
 
-<span data-ttu-id="8a169-108">Todos los usuarios registrados en el centro de partners pueden crear una solicitud de soporte técnico para asociados.</span><span class="sxs-lookup"><span data-stu-id="8a169-108">All logged in Partner Center users can create a partner support request.</span></span> <span data-ttu-id="8a169-109">Los usuarios solo pueden ver las solicitudes de soporte técnico enviadas después de iniciar sesión en el centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="8a169-109">Users can only view support requests they have submitted after logging into Partner Center.</span></span>
-<span data-ttu-id="8a169-110">Póngase en contacto con el soporte técnico del centro de partners si encuentra problemas o necesita ayuda con los errores del portal del centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="8a169-110">Contact Partner Center Support if you find problems or need help with Partner Center portal errors.</span></span> <span data-ttu-id="8a169-111">Envíe diagnósticos para permitir que se solucione el problema más rápido.</span><span class="sxs-lookup"><span data-stu-id="8a169-111">Send diagnostics to enable the problem to be fixed quicker.</span></span>
+1. <span data-ttu-id="5507d-111">En el **panel Centro de partners,** seleccione **Soporte técnico y,** a continuación, **seleccione Solicitudes de soporte técnico para asociados.**</span><span class="sxs-lookup"><span data-stu-id="5507d-111">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
 
-## <a name="report-a-problem-with-the-partner-center"></a><span data-ttu-id="8a169-112">Notificar un problema con el centro de Partners</span><span class="sxs-lookup"><span data-stu-id="8a169-112">Report a problem with the Partner Center</span></span>
+2. <span data-ttu-id="5507d-112">Seleccione **Nueva solicitud** y busque el tipo de problema que mejor describe el problema.</span><span class="sxs-lookup"><span data-stu-id="5507d-112">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="5507d-113">Seleccione el tipo de problema y **revise las soluciones**.</span><span class="sxs-lookup"><span data-stu-id="5507d-113">Select the issue type and **Review solutions**.</span></span>
 
-1. <span data-ttu-id="8a169-113">En el panel del **centro de Partners** , seleccione **soporte técnico** y, a continuación, seleccione **solicitudes de soporte técnico para asociados**.</span><span class="sxs-lookup"><span data-stu-id="8a169-113">From your **Partner Center** dashboard, select **Support** and then select **Partner support requests**.</span></span>
+3. <span data-ttu-id="5507d-114">Revise la **página Soluciones recomendadas** para ver los pasos o documentos relacionados que pueden ayudarle a resolver el problema.</span><span class="sxs-lookup"><span data-stu-id="5507d-114">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
 
-2. <span data-ttu-id="8a169-114">Seleccione **nueva solicitud** y busque el tipo de problema que mejor describa el problema.</span><span class="sxs-lookup"><span data-stu-id="8a169-114">Select **New request** and then search for the issue type that best describes your problem.</span></span> <span data-ttu-id="8a169-115">Seleccione el tipo de problema y **Revise las soluciones**.</span><span class="sxs-lookup"><span data-stu-id="8a169-115">Select the issue type and **Review solutions**.</span></span>
+4. <span data-ttu-id="5507d-115">Si las **soluciones recomendadas** resolvieron el problema, puede seleccionar **Volver al panel**.</span><span class="sxs-lookup"><span data-stu-id="5507d-115">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="5507d-116">Si todavía necesita ayuda, puede continuar y proporcionar **los detalles del problema.**</span><span class="sxs-lookup"><span data-stu-id="5507d-116">If you still need help you can continue and **Provide issue details**.</span></span>
 
-3. <span data-ttu-id="8a169-116">Revise la página de **soluciones recomendadas** para ver los pasos o documentos relacionados que pueden ayudarle a resolver el problema.</span><span class="sxs-lookup"><span data-stu-id="8a169-116">Review the **Recommended solutions** page for steps or related documents that may help you solve your issue.</span></span>
+5. <span data-ttu-id="5507d-117">Complete los detalles **del problema y,** a continuación, **envíe .**</span><span class="sxs-lookup"><span data-stu-id="5507d-117">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="5507d-118">Un representante de soporte técnico para partners le hará un seguimiento.</span><span class="sxs-lookup"><span data-stu-id="5507d-118">A Partner Support representative will follow up with you.</span></span>
 
-4. <span data-ttu-id="8a169-117">Si las **soluciones recomendadas** resolvieron el problema, puede seleccionar **volver al panel**.</span><span class="sxs-lookup"><span data-stu-id="8a169-117">If the **Recommended solutions** solved your problem, you can select **return to the Dashboard**.</span></span> <span data-ttu-id="8a169-118">Si sigue necesitando ayuda, puede continuar y **proporcionar detalles del problema**.</span><span class="sxs-lookup"><span data-stu-id="8a169-118">If you still need help you can continue and **Provide issue details**.</span></span>
+## <a name="schedule-a-support-appointment"></a><span data-ttu-id="5507d-119">Programar una cita de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="5507d-119">Schedule a support appointment</span></span> 
 
-5. <span data-ttu-id="8a169-119">Complete los **detalles del problema** y, a continuación, **envíe**.</span><span class="sxs-lookup"><span data-stu-id="8a169-119">Complete the **issue details** and then **Submit**.</span></span> <span data-ttu-id="8a169-120">Un representante de soporte técnico del asociado realizará un seguimiento con usted.</span><span class="sxs-lookup"><span data-stu-id="8a169-120">A Partner Support representative will follow up with you.</span></span>
+<span data-ttu-id="5507d-120">\**Actualmente en versión preliminar*</span><span class="sxs-lookup"><span data-stu-id="5507d-120">\**Currently in preview*</span></span>
 
-## <a name="schedule-a-support-appointment"></a><span data-ttu-id="8a169-121">Programar una cita de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="8a169-121">Schedule a support appointment</span></span> 
-
-<span data-ttu-id="8a169-122">\**Actualmente en versión preliminar*</span><span class="sxs-lookup"><span data-stu-id="8a169-122">\**Currently in preview*</span></span>
-
-<span data-ttu-id="8a169-123">Si su problema requiere una conversación con el defensor de soporte técnico, puede programar la cita a partir de los detalles del vale.</span><span class="sxs-lookup"><span data-stu-id="8a169-123">If your issue requires a conversation with your support advocate, you can schedule the appointment from your ticket details.</span></span>
+<span data-ttu-id="5507d-121">Si su problema requiere una conversación con su promotor de soporte técnico, puede programar la cita a partir de los detalles de la incidencia.</span><span class="sxs-lookup"><span data-stu-id="5507d-121">If your issue requires a conversation with your support advocate, you can schedule the appointment from your ticket details.</span></span>
 
 :::image type="content" source="images/support/ticket.png" alt-text="Programar una cita de soporte técnico":::
 
-1.  <span data-ttu-id="8a169-125">En la página Detalles del vale del centro de Partners, seleccione una fecha y una hora disponibles en el calendario del defensor de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="8a169-125">From the ticket details page in Partner Center, select an available date and time on the support advocate's calendar.</span></span> <span data-ttu-id="8a169-126">Solo verá las fechas y horas disponibles en la zona horaria local.</span><span class="sxs-lookup"><span data-stu-id="8a169-126">You will see only available dates and times in your local time zone.</span></span>
+1.  <span data-ttu-id="5507d-123">En la página de detalles de la Centro de partners, seleccione una fecha y hora disponibles en el calendario del promotor de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="5507d-123">From the ticket details page in Partner Center, select an available date and time on the support advocate's calendar.</span></span> <span data-ttu-id="5507d-124">Solo verá las fechas y horas disponibles en la zona horaria local.</span><span class="sxs-lookup"><span data-stu-id="5507d-124">You will see only available dates and times in your local time zone.</span></span>
 
 :::image type="content" source="images/support/ticket2.png" alt-text="Programar cita":::
 
-2. <span data-ttu-id="8a169-128">El centro de Partners comprueba la disponibilidad del calendario del defensor de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="8a169-128">Partner Center checks the support advocate’s  calendar for availability.</span></span>
+2. <span data-ttu-id="5507d-126">Centro de partners comprueba la disponibilidad del calendario del promotor de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="5507d-126">Partner Center checks the support advocate’s  calendar for availability.</span></span>
 
-1. <span data-ttu-id="8a169-129">Al programar una cita, el centro de Partners le envía una invitación de calendario con información sobre el modo en que el defensor de soporte técnico se pondrá en contacto con usted, de modo que pueda realizar el seguimiento de esta cita en su propio calendario de trabajo.</span><span class="sxs-lookup"><span data-stu-id="8a169-129">When you schedule an appointment, Partner Center sends you a calendar invitation with information on how the support advocate will contact you, so you can track this appointment on your own work calendar.</span></span>  <span data-ttu-id="8a169-130">Aunque esta funcionalidad todavía está en versión preliminar, el correo electrónico y la invitación de calendario estarán en inglés, pero el abogado podrá ayudarle en el idioma que seleccionó al crear el vale.</span><span class="sxs-lookup"><span data-stu-id="8a169-130">While this capability is still in Preview, the email and calendar invitation will be in English, but the advocate will be able to support you in the language you selected when creating your ticket.</span></span>
+1. <span data-ttu-id="5507d-127">Cuando programe una cita, Centro de partners le enviará una invitación de calendario con información sobre cómo se pondrá en contacto con usted el promotor de soporte técnico, para que pueda realizar un seguimiento de esta cita en su propio calendario laboral.</span><span class="sxs-lookup"><span data-stu-id="5507d-127">When you schedule an appointment, Partner Center sends you a calendar invitation with information on how the support advocate will contact you, so you can track this appointment on your own work calendar.</span></span>  <span data-ttu-id="5507d-128">Aunque esta funcionalidad todavía está en versión preliminar, la invitación de calendario y correo electrónico estará en inglés, pero el promotor podrá admitirlo en el idioma que seleccionó al crear el vale.</span><span class="sxs-lookup"><span data-stu-id="5507d-128">While this capability is still in Preview, the email and calendar invitation will be in English, but the advocate will be able to support you in the language you selected when creating your ticket.</span></span>
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora":::
 
-## <a name="hours-of-operation"></a><span data-ttu-id="8a169-132">Horas de operación</span><span class="sxs-lookup"><span data-stu-id="8a169-132">Hours of operation</span></span>
+## <a name="hours-of-operation"></a><span data-ttu-id="5507d-130">Horas de operación</span><span class="sxs-lookup"><span data-stu-id="5507d-130">Hours of operation</span></span>
 
-<span data-ttu-id="8a169-133">**Soporte técnico del asociado**</span><span class="sxs-lookup"><span data-stu-id="8a169-133">**Partner support**</span></span>
+<span data-ttu-id="5507d-131">**Soporte técnico del asociado**</span><span class="sxs-lookup"><span data-stu-id="5507d-131">**Partner support**</span></span>
 
-:::image type="content" source="images/support/hoop.png" alt-text="Horas de soporte técnico":::
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de operación de soporte técnico":::
 
-## <a name="send-diagnostics"></a><span data-ttu-id="8a169-135">Enviar diagnósticos</span><span class="sxs-lookup"><span data-stu-id="8a169-135">Send diagnostics</span></span>
+## <a name="send-diagnostics"></a><span data-ttu-id="5507d-133">Enviar diagnósticos</span><span class="sxs-lookup"><span data-stu-id="5507d-133">Send diagnostics</span></span>
 
-<span data-ttu-id="8a169-136">Si se produce un error mientras se encuentra en una página del centro de Partners, es posible que se le pida que recopile la información de registro.</span><span class="sxs-lookup"><span data-stu-id="8a169-136">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="8a169-137">Seleccione **recopilar más información** en el vínculo que se despliega en la parte superior de la página para abrir la herramienta de diagnóstico de cliente.</span><span class="sxs-lookup"><span data-stu-id="8a169-137">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="8a169-138">Esta herramienta recopila la información que necesita el equipo de soporte técnico de partners para determinar la causa del error.</span><span class="sxs-lookup"><span data-stu-id="8a169-138">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
+<span data-ttu-id="5507d-134">Si se produce un error mientras se encuentra en una Centro de partners, es posible que se le pida que recopila la información del registro.</span><span class="sxs-lookup"><span data-stu-id="5507d-134">If an error occurs while you're on a Partner Center page, you may be prompted to gather log information.</span></span> <span data-ttu-id="5507d-135">Seleccione **Recopilar más información en** el vínculo que se coloca en la parte superior de la página para abrir la herramienta Diagnóstico de cliente.</span><span class="sxs-lookup"><span data-stu-id="5507d-135">Select **Collect more information** from the link that drops down from the top of the page to open the Client Diagnostic tool.</span></span> <span data-ttu-id="5507d-136">Esta herramienta recopila la información que necesita el equipo de soporte técnico de partners para determinar la causa del error.</span><span class="sxs-lookup"><span data-stu-id="5507d-136">This tool gathers information that the Partner Support team needs to determine the cause of the error.</span></span> 
 
 >[!NOTE]
-><span data-ttu-id="8a169-139">En las páginas del centro de partners que incluyen **/PCV/** en la dirección URL, puede abrir la herramienta manualmente para recopilar esta información.</span><span class="sxs-lookup"><span data-stu-id="8a169-139">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
+><span data-ttu-id="5507d-137">En Centro de partners que incluyen **/pcv/** en la dirección URL, puede abrir la herramienta manualmente para recopilar esta información.</span><span class="sxs-lookup"><span data-stu-id="5507d-137">On Partner Center pages that include **/pcv/** in the URL, you can open the tool manually to collect this information.</span></span>
 
-1. <span data-ttu-id="8a169-140">Ve a la página con el problema.</span><span class="sxs-lookup"><span data-stu-id="8a169-140">Go to the page with the issue.</span></span>
+1. <span data-ttu-id="5507d-138">Ve a la página con el problema.</span><span class="sxs-lookup"><span data-stu-id="5507d-138">Go to the page with the issue.</span></span>
 
-2. <span data-ttu-id="8a169-141">Presione **Ctrl + Alt + D** para abrir la herramienta de diagnóstico de cliente.</span><span class="sxs-lookup"><span data-stu-id="8a169-141">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
+2. <span data-ttu-id="5507d-139">Presione **Ctrl+Alt+D para** abrir la herramienta Diagnóstico de cliente.</span><span class="sxs-lookup"><span data-stu-id="5507d-139">Press **Ctrl+Alt+D** to open the Client Diagnostic tool.</span></span>
 
-<span data-ttu-id="8a169-142">Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="8a169-142">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="8a169-143">Para enviar la información:</span><span class="sxs-lookup"><span data-stu-id="8a169-143">To send us the information:</span></span>
+<span data-ttu-id="5507d-140">Puedes obtener una vista previa de la información de diagnóstico y luego guardarla en un archivo que se puede adjuntar a la solicitud de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="5507d-140">You can preview the diagnostic information and then save it to a file that you can attach in your support request.</span></span> <span data-ttu-id="5507d-141">Para enviar la información:</span><span class="sxs-lookup"><span data-stu-id="5507d-141">To send us the information:</span></span>
 
-3. <span data-ttu-id="8a169-144">Revise la información del archivo antes de enviarlo, ya que puede contener datos personales que puede querer quitar.</span><span class="sxs-lookup"><span data-stu-id="8a169-144">Review the information in the file before sending it as it can contain personal data that you may want to remove.</span></span>
+3. <span data-ttu-id="5507d-142">Revise la información del archivo antes de enviarla, ya que puede contener datos personales que puede desear quitar.</span><span class="sxs-lookup"><span data-stu-id="5507d-142">Review the information in the file before sending it as it can contain personal data that you may want to remove.</span></span>
 
     >[!NOTE]
-    ><span data-ttu-id="8a169-145">En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía.</span><span class="sxs-lookup"><span data-stu-id="8a169-145">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="8a169-146">Esto es correcto.</span><span class="sxs-lookup"><span data-stu-id="8a169-146">This is OK.</span></span>
+    ><span data-ttu-id="5507d-143">En algunos exploradores, la sección **Vista de página** en la parte inferior de la página **Vista previa** puede estar vacía.</span><span class="sxs-lookup"><span data-stu-id="5507d-143">In some browsers, the **Page View** section at the bottom of the **Preview** page may appear empty.</span></span> <span data-ttu-id="5507d-144">Esto es correcto.</span><span class="sxs-lookup"><span data-stu-id="5507d-144">This is OK.</span></span>
 
-4. <span data-ttu-id="8a169-147">Sigue las instrucciones en pantalla para guardar el archivo.</span><span class="sxs-lookup"><span data-stu-id="8a169-147">Follow the on-screen instructions to save the file.</span></span>
+4. <span data-ttu-id="5507d-145">Sigue las instrucciones en pantalla para guardar el archivo.</span><span class="sxs-lookup"><span data-stu-id="5507d-145">Follow the on-screen instructions to save the file.</span></span>
 
-5. <span data-ttu-id="8a169-148">Adjunte el archivo a la solicitud de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="8a169-148">Attach the file to your support request.</span></span>
+5. <span data-ttu-id="5507d-146">Adjunte el archivo a la solicitud de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="5507d-146">Attach the file to your support request.</span></span>
 
-<span data-ttu-id="8a169-149">La compatibilidad con asociados puede pedirle que ejecute esta herramienta varias veces para poder obtener la información más actualizada.</span><span class="sxs-lookup"><span data-stu-id="8a169-149">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
+<span data-ttu-id="5507d-147">El soporte técnico para partners puede pedirle que ejecute esta herramienta varias veces para que pueda obtener la información más actualizada.</span><span class="sxs-lookup"><span data-stu-id="5507d-147">Partner Support may ask you to run this tool several times so they can get the most up-to-date information.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="8a169-150">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="8a169-150">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="5507d-148">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="5507d-148">Next steps</span></span>
 
-- [<span data-ttu-id="8a169-151">Notificar un problema del servicio en nombre de un cliente</span><span class="sxs-lookup"><span data-stu-id="8a169-151">Report a service problem on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
+- [<span data-ttu-id="5507d-149">Notificar un problema de servicio en nombre de un cliente</span><span class="sxs-lookup"><span data-stu-id="5507d-149">Report a service problem on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
