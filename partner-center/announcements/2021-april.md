@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328056"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702831"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
@@ -308,11 +308,12 @@ Las preguntas y respuestas de llamadas de la comunidad de CSP mensuales son el m
 Para obtener más información, póngase en contacto con el [soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Recordatorio: desuso de calificación GET para el 4 de mayo de 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Recordatorio final: Desuso de calificación GET para el 6 de mayo de 2021
 
 ### <a name="categories"></a>Categorías
 
-- Fecha: 09/04/2021
+- Fecha: 04/05/2021
+
 - Funcionalidades
 
 ### <a name="impacted-audience"></a>Audiencia afectada
@@ -321,13 +322,13 @@ Asociados que venden ofertas académicas, sin ánimo de lucro y de Government Co
 
 ### <a name="details"></a>Detalles
 
-Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST, y como resultado, la calificación GET existente se retirará el 4 de mayo de 2021. En ese momento, tendrá que haber realizado la transición para usar las nuevas API POST del Centro de partners, para poder comprar ofertas educativas y las nuevas API de calificación GET para adquirir ofertas sin ánimo de lucro y GCC calificadas previamente.
+Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST y, como resultado, **la calificación GET existente se retirará el 6 de mayo de 2021**. En ese momento, deberá haber pasado a las nuevas API de POST del Centro de partners. Las nuevas API de POST le permitirán comprar ofertas para educación, mientras que las nuevas API de GET le permitirán comprar ofertas sin ánimo de lucro y GCC previamente calificadas.
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- Actualice las nuevas API para conseguir una transición correcta y oportuna.
+- **Actualice las nuevas API** para conseguir una transición correcta y oportuna.
 
-- Revise los nuevos cambios en la API del Centro de partners y consulte la Guía sobre los recursos de preparación de operaciones: [Mejoras en el proceso de validación de clientes de Educación del Centro de partners](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Revise los nuevos cambios en la API del Centro de partners y consulte la Guía** sobre los recursos de preparación de operaciones: [Mejoras en el proceso de validación de clientes de Educación del Centro de partners](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Comparta esta información con los equipos adecuados de su organización y con sus revendedores para ayudarlos a prepararse para estos cambios.
 
@@ -337,8 +338,12 @@ Si tiene alguna pregunta relacionada con esta notificación, póngase en contact
 
 ### <a name="change-log"></a>Registro de cambios
 
-- Abril: recordatorio de la próxima entrada en desuso de la calificación GET 
+- 4 de mayo de 2021: recordatorio final de la próxima entrada en desuso de la calificación GET
+
+- 9 de abril de 2021: recordatorio de la próxima entrada en desuso de la calificación GET 
+
 - Febrero: escalas de tiempo actualizadas y que dejarán en desuso las calificaciones GET y PUT.
+
 - Enero: recordatorio de la próxima entrada en desuso de las calificaciones de GET & PUT
 
 ________________

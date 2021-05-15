@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315884"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818616"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Comprobar o actualizar la información del perfil de empresa 
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador de cuentas MPN
+**Roles apropiados**: administrador global | administrador de cuentas de MPN
 
 La primera vez que inicies sesión en el Centro de partners como administrador global, tienes que confirmar que todos los detalles de la compañía son correctos. Estos incluyen el contacto principal, la denominación y la dirección legal de la empresa y la información del programa. Si tu empresa tiene más de una ubicación, revisa los datos de ubicación para comprobar su precisión. Como administrador global, administrador de facturación o agente de administración, también podrás ver y actualizar la información de facturación y de impuestos.
 
