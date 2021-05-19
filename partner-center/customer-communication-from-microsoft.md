@@ -9,29 +9,25 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284356"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147452"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a><span data-ttu-id="a5697-103">Directrices para una comunicación correcta del cliente con Microsoft</span><span class="sxs-lookup"><span data-stu-id="a5697-103">Guidelines for successful customer communication with Microsoft</span></span>
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a><span data-ttu-id="d72f2-103">Directrices para una comunicación correcta del cliente con Microsoft</span><span class="sxs-lookup"><span data-stu-id="d72f2-103">Guidelines for successful customer communication with Microsoft</span></span>
 
-<span data-ttu-id="a5697-104">**Se aplica a**</span><span class="sxs-lookup"><span data-stu-id="a5697-104">**Applies to**</span></span>
+<span data-ttu-id="d72f2-104">**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="d72f2-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="a5697-105">Centro de partners para Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="a5697-105">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="d72f2-105">**Roles adecuados:** agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="d72f2-105">**Appropriate roles**: Helpdesk agent</span></span>
 
-<span data-ttu-id="a5697-106">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="a5697-106">**Appropriate roles**</span></span>
+<span data-ttu-id="d72f2-106">En general, esperamos que todas las comunicaciones con el cliente provengan del partner de Proveedor de soluciones en la nube.</span><span class="sxs-lookup"><span data-stu-id="d72f2-106">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="d72f2-107">Dado que tú eres el responsable de la relación de facturación de los clientes, Microsoft no enviará comunicaciones directamente a tus clientes en relación con sus suscripciones.</span><span class="sxs-lookup"><span data-stu-id="d72f2-107">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
 
-- <span data-ttu-id="a5697-107">Agente del departamento de soporte técnico</span><span class="sxs-lookup"><span data-stu-id="a5697-107">Helpdesk agent</span></span>
+<span data-ttu-id="d72f2-108">Microsoft podría comunicarse directamente con los clientes sobre incidentes del servicio u otra información operativa.</span><span class="sxs-lookup"><span data-stu-id="d72f2-108">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
 
-<span data-ttu-id="a5697-108">En general, esperamos que todas las comunicaciones con el cliente provengan del partner de Proveedor de soluciones en la nube.</span><span class="sxs-lookup"><span data-stu-id="a5697-108">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="a5697-109">Dado que tú eres el responsable de la relación de facturación de los clientes, Microsoft no enviará comunicaciones directamente a tus clientes en relación con sus suscripciones.</span><span class="sxs-lookup"><span data-stu-id="a5697-109">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
+<span data-ttu-id="d72f2-109">Para los clientes que ya tienen relaciones comerciales existentes con Microsoft, Microsoft seguirá comunicándose directamente con ellos sobre sus productos y servicios no relacionados con CSP.</span><span class="sxs-lookup"><span data-stu-id="d72f2-109">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
 
-<span data-ttu-id="a5697-110">Microsoft podría comunicarse directamente con los clientes sobre incidentes del servicio u otra información operativa.</span><span class="sxs-lookup"><span data-stu-id="a5697-110">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="d72f2-110">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="d72f2-110">Next steps</span></span>
 
-<span data-ttu-id="a5697-111">Para los clientes que ya tienen relaciones comerciales existentes con Microsoft, Microsoft seguirá comunicándose directamente con ellos sobre sus productos y servicios no relacionados con CSP.</span><span class="sxs-lookup"><span data-stu-id="a5697-111">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
-
-## <a name="next-steps"></a><span data-ttu-id="a5697-112">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="a5697-112">Next steps</span></span>
-
-- [<span data-ttu-id="a5697-113">Soporte técnico al cliente a través Microsoft Office centro de administración 365 o a través del Azure Portal</span><span class="sxs-lookup"><span data-stu-id="a5697-113">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>](customer-self-support.md)
+- [<span data-ttu-id="d72f2-111">Soporte técnico al cliente a través Microsoft Office centro de administración 365 o a través del Azure Portal</span><span class="sxs-lookup"><span data-stu-id="d72f2-111">Customer self-support through Microsoft Office 365 admin center or through the Azure portal</span></span>](customer-self-support.md)
