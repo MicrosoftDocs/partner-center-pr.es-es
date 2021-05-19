@@ -9,39 +9,36 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 53ca3c05b2df3de1b0a2373580b28e139f297b82
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702933"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151770"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Administración de oportunidades de venta Centro de partners
 
 
-**Roles adecuados**
-
-- Administrador de partners de MPN
-- Administrador de referencias
+**Roles adecuados:** administrador de asociados de MPN | Administrador de referencias
 
 Aproveche las oportunidades de venta en colaboración.  Una oportunidad de venta conjunta es una colaboración de varias partes para vender productos que satisfagan las necesidades de un cliente. Este artículo le ayudará a comprender cómo puede usar la eficacia de la venta Centro de partners para la venta en colaboración y la adquisición de nuevos clientes de forma eficaz.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de venta en colaboración
 
-**Oportunidad de venta en** colaboración: aquí es donde uno o varios representantes de ventas de Microsoft se dedican activamente al acuerdo para ayudar a resolver un problema de los clientes. Las oportunidades pueden originarse en una cuenta de cliente en la que un representante de ventas de Microsoft invita al partner a participar en una actividad de venta cruzada o desde un asociado en el que necesite más ayuda de las ventas de Microsoft para cerrar el contrato.
+**Oportunidad de venta en** colaboración: aquí es donde uno o varios representantes de ventas de Microsoft se dedican activamente al acuerdo para ayudar a resolver un problema de los clientes. Las oportunidades pueden originarse en una cuenta de cliente en la que un representante de ventas de Microsoft invita al partner a participar en una actividad de venta en colaboración o desde un asociado en el que necesita más ayuda de las ventas de Microsoft para cerrar el contrato.
 
-**Partner to Partner (P2P):** aquí es donde un asociado puede invitar a otros asociados del ecosistema de venta co-venta de Microsoft para colaborar. Opcionalmente, los asociados pueden invitar a un representante de ventas de Microsoft a la oferta para ayudar a cerrar el acuerdo. Tanto los asociados como Microsoft pueden ser invitados incluso después de crear un acuerdo, siempre que sea antes de completarse. (Tenga en cuenta que complete incluye won, lost, declined y expired).
+**Partner to Partner (P2P):** aquí es donde un asociado puede invitar a otros asociados del ecosistema de venta co-venta de Microsoft para que colaboren. Opcionalmente, los asociados pueden invitar a un representante de ventas de Microsoft a la oferta para ayudar a cerrar el acuerdo. Tanto los asociados como Microsoft pueden ser invitados incluso después de crear una oferta, siempre que sea antes de completarse. (Tenga en cuenta que complete incluye won, lost, declined y expired).
 
 **Oferta privada:** es cuando un asociado decide trabajar de forma independiente en una oferta que se ha creado en Centro de partners. Los partners pueden dar visibilidad al equipo de ventas de Microsoft o invitar a vendedores de Microsoft que buscan ayuda activa después de crear el contrato. Los detalles de la oferta no se comparten con el equipo de ventas de Microsoft hasta que los asociados seleccionen explícitamente sí para la pregunta "¿Desea que los vendedores de Microsoft vea este contrato?". o solicite ayuda al equipo de ventas de Microsoft eligiendo una de las opciones para la pregunta "¿Identificar el tipo de ayuda que necesita de Microsoft?".
 
-**Oferta dirigida por** asociados: se trata de ofertas en las que un partner decide trabajar de forma independiente en un contrato, pero está de acuerdo con dar visibilidad de los detalles del contrato a los miembros del equipo de ventas de Microsoft. Los partners pueden invitar a vendedores de Microsoft después de crear la oferta. Estas ofertas son aptas para el registro de ofertas cuando una solución apta para incentivos forma parte de la oferta. No es necesario invitar a vendedores de Microsoft para el registro de la oferta si se cumplen los criterios de solución aptos para incentivos. Puede hacer un acuerdo dirigido por un asociado respondiendo sí a la pregunta "¿Desea que los vendedores de Microsoft lo consulten?".
+**Oferta dirigida por** el partner: se trata de ofertas en las que un partner decide trabajar de forma independiente en un contrato, pero está de acuerdo con dar visibilidad de los detalles del contrato a los miembros del equipo de ventas de Microsoft. Los partners pueden invitar a vendedores de Microsoft después de crear la oferta. Estas ofertas son aptas para el registro de ofertas cuando una solución apta para incentivos forma parte de la oferta. No es necesario invitar a vendedores de Microsoft para el registro de la oferta si se cumplen los criterios de solución aptos para incentivos. Puede hacer un acuerdo dirigido por un asociado respondiendo sí a la pregunta "¿Desea que los vendedores de Microsoft lo consulten?".
 
-Evaluación de soluciones **(SA):** estos tipos de ofertas solo pueden crearse mediante un conjunto de asociados que el equipo empresarial de evaluaciones de soluciones ha visto para realizar evaluaciones de tecnología para los clientes que usan o planean usar tecnologías de Microsoft.
+Evaluación de soluciones **(SA):** estos tipos de ofertas solo pueden crearse mediante un conjunto de asociados que son vistos por el equipo empresarial de evaluaciones de soluciones para realizar evaluaciones de tecnología para los clientes que usan o planean usar tecnologías de Microsoft.
 
 > [!NOTE]
 > Las ofertas privadas, aunque no sean realmente colaborativas, se incluyen en la pestaña oportunidades de venta conjunta para proporcionar una ruta de acceso sencilla para actualizar cualquier oferta de canalización a una oportunidad de venta conjunta en cualquier fase no terminal **(ganada, perdida,** rechazada y expirada).
 
-## <a name="navigating-the-co-sell-section"></a>Navegar por la sección Venta co-venta
+## <a name="navigating-the-co-sell-section"></a>Navegación por la sección Venta co-venta
 
 Para acceder a la sección Venta co-venta, siga estos pasos:
 
@@ -66,9 +63,9 @@ Puede crear tres tipos de oportunidades.
 
 ### <a name="select-your-customer"></a>Selección del cliente
 
-Seleccione el cliente para una oferta específica. Escriba su ubicación y comience a escribir el nombre. El cuadro de sugerencias empezará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad de negocio en la misma ubicación, es posible que vea varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
+Seleccione el cliente para una oferta específica. Escriba su ubicación y empiece a escribir el nombre. El cuadro de sugerencias empezará a mostrar recomendaciones basadas en los criterios de búsqueda. Dado que muchas empresas tienen más de una entidad de negocio en la misma ubicación, es posible que vea varios resultados. Si no está seguro de cuál elegir, puede confirmar qué número D-U-N-S pertenece al cliente. Asegúrese de seleccionar la coincidencia exacta del cliente con el que está trabajando.
 
-Una vez **que** haga clic en Seleccionar el cliente, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es su principal punto de contacto para esta oferta. Estos detalles son opcionales y solo son necesarios si tiene previsto invitar a ventas de Microsoft para ayudarle con el compromiso. Seleccione **Next** (Siguiente).
+Una vez **que** haga clic en Seleccionar el cliente, se le pedirá que escriba el nombre, el número de teléfono y la dirección de correo electrónico de la persona que es su principal punto de contacto para esta oferta. Estos detalles son opcionales y solo son necesarios si tiene previsto invitar a ventas de Microsoft para ayudarle con el compromiso. Seleccione **Siguiente**.
 
 > [!IMPORTANT]
 > Asegúrese de que ha obtenido el consentimiento del cliente para proporcionar su información de contacto a Microsoft para la oferta. Microsoft puede usar esta información para ponerse en contacto directamente con el cliente.
@@ -85,7 +82,7 @@ Escriba los detalles de la oferta actual. Los campos, definidos a continuación,
 |**Fecha de cierre estimada**| Mandatory| Fecha en la que espera cerrar el contrato con el cliente. |
 |**Id. de CRM**| Opcional | Etiquete el acuerdo con el identificador de la oportunidad en su CRM correspondiente con fines de seguimiento.|
 |**Identificador de campaña de marketing**| Opcional | Capture la campaña de marketing que dio lugar a la oferta. Este archivo puede ayudarle a realizar un seguimiento de la rentabilidad de la inversión de una campaña determinada si etiqueta todas las ofertas que se originen en la campaña con el mismo identificador.|
-|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de su empresa que trabajan en el mismo acuerdo o intentan comprender el estado actual del acuerdo. También puede usarlo como una comunicación en el registro para las conversaciones entre vendedores de Microsoft u otros asociados con su empresa.|
+|**Notas**| Opcional | Actualice toda la información más reciente para proporcionar visibilidad a otros empleados de su empresa que trabajan en el mismo acuerdo o intentan comprender el estado actual del acuerdo. También puede usarlo como una comunicación de registro para las conversaciones entre vendedores de Microsoft u otros asociados con su empresa.|
 
 ### <a name="add-team-members"></a>Agregar miembros del equipo
 
@@ -105,14 +102,14 @@ En esta sección, debe proporcionar la información relacionada con las solucion
 
 Una vez que haya proporcionado la información de la solución, seleccione Siguiente para ir a la sección donde puede decidir el tipo de venta. Tiene cuatro opciones si elige soluciones entre las tres primeras opciones del tipo de solución y no una evaluación de la solución:
 
-**Oferta privada:** si no invita a Microsoft y crea una interacción en este paso, será de tipo canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de esta oferta. Puede crear un contrato privado seleccionando **No help required at this point of time (No** se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **No** para la pregunta "¿Desea que los **vendedores de Microsoft vea este negocio?".** Siempre puede actualizar una oferta privada a una oferta de venta co-venta activa o dirigida por un asociado antes de que la oferta alcance un estado terminal (ganado, perdido).
+**Oferta privada:** si no invita a Microsoft y crea una interacción en este paso, será de tipo canalización privada. Los vendedores de Microsoft no tendrán visibilidad sobre los detalles de esta oferta. Puede crear un contrato privado seleccionando **No help required at this point of time (No** se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **No** para la **pregunta "¿Desea que los vendedores de Microsoft vea este negocio?".** Siempre puede actualizar una oferta privada a una oferta de venta co-venta activa o dirigida por un asociado antes de que la oferta alcance un estado terminal (ganado, perdido).
 
 > [!Important]
 > El registro de ofertas no es aplicable a las ofertas privadas. Tenga cuidado al crear un contrato privado con soluciones aptas para incentivos, ya que no serán aptas para el registro de la oferta en Centro de partners.
 
-**Oferta dirigida por** asociados: si no desea buscar ayuda activa del equipo de ventas de Microsoft, pero quiere darle visibilidad sobre la canalización, puede crear un contrato dirigido por asociados. Puede crear una oferta dirigida por asociados seleccionando **No help required at this point of time (No** se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **Sí** para la **pregunta "¿Desea que los vendedores de Microsoft vea este contrato?".** Estas ofertas son aptas para el registro de ofertas aunque el vendedor de Microsoft no participe activamente en la ayuda del asociado. Los requisitos para el registro de la oferta son tener una solución apta para incentivos en el contrato y el estado ganado de la oferta.
+**Oferta dirigida por** asociados: si no desea buscar ayuda activa del equipo de ventas de Microsoft, pero quiere darle visibilidad sobre la canalización, puede crear un contrato dirigido por asociados. Puede crear un acuerdo dirigido por asociados seleccionando **No help required at this point of time** (No se requiere ayuda en este momento) para la pregunta "¿Identificar el tipo de ayuda que necesita de **Microsoft?".** y **Sí** para la **pregunta "¿Desea que los vendedores de Microsoft vea este contrato?".** Estas ofertas son aptas para el registro de ofertas, aunque el vendedor de Microsoft no participa activamente en la ayuda del asociado. Los requisitos para el registro de la oferta son tener una solución apta para incentivos en el contrato y el estado ganado de la oferta.
 
-**Oferta de venta co-venta:** Si selecciona cualquier opción que no sea la predeterminada para la pregunta "Identificar el tipo de ayuda que le gustaría de **Microsoft",** la oferta se convierte en una oferta de venta coventa en la que un vendedor de Microsoft puede ayudarle potencialmente a cerrar el contrato. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el contrato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección de notas, asegúrese de identificar el tipo de ayuda que desea.
+**Oferta de venta co-venta:** Si selecciona cualquier opción que no sea la predeterminada para la pregunta "Identificar el tipo de ayuda que desea de **Microsoft",** la oferta se convierte en una oferta de venta coventa en la que un vendedor de Microsoft puede ayudarle potencialmente a cerrar la oferta. Una solicitud de ayuda de Microsoft no garantiza que un vendedor de Microsoft participe en el contrato. Los representantes de ventas de Microsoft tienen 14 días para decidir si quieren participar. En la sección de notas, asegúrese de identificar el tipo de ayuda que desea.
 
 **Oferta de partner a partner (P2P):** puede invitar a otros asociados a la oferta haciendo clic en el vínculo Invitar a asociado. A continuación se muestra el proceso para crear una oferta P2P.
 
@@ -122,7 +119,7 @@ Una vez que haya proporcionado la información de la solución, seleccione Sigui
 
 - **Valor estimado y moneda:** Este es el valor de la oferta que tendrá el asociado invitado en el acuerdo general. Asegúrese de escribir aquí el valor correcto para que el asociado invitado pueda decidir si quiere formar parte de la oferta o no. El asociado invitado puede cambiar este valor después de crear la oferta. No se puede modificar este campo después de crear la oferta.
 
-- **Notas:** Agregue los detalles de por qué está invitando al asociado a formar parte de este acuerdo. La información detallada ayudará al asociado invitado a decidir si desea participar.
+- **Notas:** Agregue los detalles de por qué está invitando al asociado a formar parte de esta oferta. La información detallada ayudará al asociado invitado a decidir si desea participar.
 
 - **Agregue el equipo:** Agregue los empleados de su empresa que trabajarán con el asociado invitado. Si el asociado invitado acepta el acuerdo, puede agregar sus propios empleados para que ambas empresas tengan una visión de todo el equipo que colabora en el acuerdo. Solo puede modificar estos detalles antes de crear la oferta. Los detalles de los empleados especificados en los datos del contrato se rellenan previamente para facilitar la elección de los empleados que trabajan con este asociado específico.
 
@@ -159,9 +156,9 @@ Una vez que haya empezado a trabajar en el contrato, puede proporcionar los deta
 :::image type="content" source="images/pscmigration/salesstage.png" alt-text="Imagen que muestra el ciclo de vida de la oferta donde se puede marcar la fase de venta.":::
 
 > [!Note]
-> Las fases de ventas variarán si la oferta es una oferta de evaluación de soluciones. El marcado de la fase de ventas **también es obligatorio para** las ofertas de evaluación de soluciones. **El** botón Won solo se habilitará después de que el asociado marque todas las fases de ventas como completadas.
+> Las fases de ventas variarán si la oferta es una oferta de evaluación de soluciones. El marcado de la fase de ventas **también es obligatorio para** las ofertas de evaluación de soluciones. **El** botón Won (Ganado) solo se habilitará después de que todas las fases de ventas estén marcadas como completadas por el asociado.
 
-A continuación se muestra la tabla en la que se muestran las fases de ventas y los porcentajes correspondientes para ofertas distintas de las evaluaciones de soluciones, según lo determinado por el sistema de referencias de Centro de partners Microsoft.
+A continuación se muestra la tabla en la que se muestran las fases de ventas y los porcentajes correspondientes para ofertas distintas de las valoraciones de soluciones, según lo determinado por el sistema de referencias de Centro de partners Microsoft.
 
 |**Nombre de la fase de ventas**|**Porcentaje de fase de ventas**|**Definición de la fase de ventas**|
 |:----|:-----|:-----|
@@ -169,7 +166,7 @@ A continuación se muestra la tabla en la que se muestran las fases de ventas y 
 |Aceptado|10 %|Aceptación de una oferta entrante.|
 |Apto|20%|Calificar el valor de la oferta y los requisitos del cliente antes de continuar.|
 |Desarrollado|40%|Desarrollar el acuerdo para comprender aún más los requisitos detallados para preparar un POC o cualquier otro artefacto necesario para una propuesta formal.|
-|Propuesto|60%|Realizar una propuesta formal al cliente en función de sus requisitos.|
+|Propuesto|60 %|Realizar una propuesta formal al cliente en función de sus requisitos.|
 |Negotiated|80 %|Negociar los términos finales en función de la propuesta para llegar al estado final: ganar o perder la oferta.|
 |Ganado|100 %|Marcar la oferta como ganada.|
 
@@ -181,7 +178,7 @@ No es necesario que la empresa siga las mismas fases de ventas. Así es Centro d
 > En el caso de determinadas soluciones aptas, después de seleccionar Ganada, se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporciones y puede solicitarte más detalles durante el proceso de revisión. Para obtener más información, consulta [Registrar las ofertas](register-deals.md).
 
 > [!Important]
-> Si la oferta es apta para el registro de la oferta, asegúrese de que hay un intervalo de 72 horas entre la creación de la oferta y la obtención de la oferta como ganada. Cerrar la oferta como ganada antes de eso puede dar lugar a que se rechacen los registros de la oferta.
+> Si la oferta es apta para el registro de la oferta, asegúrese de que hay un intervalo de 72 horas entre la creación de la oferta y la obtención de la marca como ganada. Cerrar la oferta como ganada antes de eso puede dar lugar a que se rechacen los registros de la oferta.
 
 Una oferta solo será apta para el registro de la oferta si cumple todos los criterios siguientes.
 
@@ -210,10 +207,10 @@ En la tabla siguiente se muestran las combinaciones de quién se puede invitar e
 |**Tipo de oferta original**|**A quién se puede invitar**|**Notas**|
 |-----|:-----|:-----|
 |Private|Microsoft u otros asociados|Si se invita a Microsoft, el acuerdo se actualizará a Venta en colaboración.|
-|Private|Equipo de ventas de Microsoft para ver las ofertas|La oferta se actualizará a dirigida por el partner cuando el equipo de ventas de Microsoft tenga visibilidad sobre las ofertas.|
-|Dirigido por asociados|Microsoft u otros asociados|Si se invita a Microsoft, el acuerdo se actualizará a Venta en colaboración.|
-|Venta conjunta|Otros asociados|Solo se puede invitar a otros asociados si su empresa inició el acuerdo. No se puede invitar a los asociados para obtener ofertas en la pestaña Entrada.|
-|Asociación para asociarse sin Microsoft|Microsoft|La oferta se actualizará a una oferta de venta co-venta.|
+|Private|Equipo de ventas de Microsoft para ver las ofertas|La oferta se actualizará a dirigida por el partner cuando el equipo de ventas de Microsoft tenga visibilidad de las ofertas.|
+|Dirigido por asociados|Microsoft u otros asociados|La oferta se actualizará a Venta en colaboración si se invita a Microsoft.|
+|Venta conjunta|Otros asociados|Solo se puede invitar a otros asociados si su empresa inició la oferta. No se puede invitar a los asociados para obtener ofertas en la pestaña Entrada.|
+|Partner to partner without Microsoft|Microsoft|La oferta se actualizará a una oferta de venta co-venta.|
 |Partner to partner without Microsoft|Otros asociados||
 
 ### <a name="closed-stage"></a>Fase cerrada
@@ -224,7 +221,7 @@ Esta es la fase final de todas las oportunidades. Puede ver todas las ofertas **
 
 **Q. ¿Se puede editar una oferta después de marcarla como Ganada o perdida?**
 
-No, las ofertas no se pueden modificar una vez que pasen a un estado terminal. Expirado, disminución, ganado y perdido son estados terminales en los que no es posible realizar más actualizaciones en el contrato. Tenga cuidado al mover la oferta a cualquiera de estos estados terminales.
+No, las ofertas no se pueden modificar una vez que pasen a un estado terminal. Expirado, declive, ganado y perdido son estados terminales en los que no es posible realizar más actualizaciones en el contrato. Tenga cuidado al mover la oferta a cualquiera de estos estados terminales.
 
 **Q. ¿Quién recibe una notificación por correo electrónico Centro de partners?**
 
@@ -232,7 +229,7 @@ En el flujo de trabajo siguiente se explica cómo se envían los correos electr�
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagen que muestra la lógica de cómo se envían los correos electrónicos a los asociados para nuevas referencias entrantes.":::
 
-**Q. ¿Qué tipo de incentivos son aptos para el registro de contratos?**
+**Q. ¿Qué tipo de incentivos son aptos para el registro de la oferta?**
 
 Solo los incentivos de IP son aptos para el registro de la oferta. Entre ellas se incluyen las siguientes:
 

@@ -4,68 +4,63 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo migrar ofertas de Dynamics 365 Business Edition calificadas a versiones más recientes antes de que expiren.
+description: Obtenga información sobre cómo migrar ofertas de Dynamics 365 Business Edition a versiones más recientes antes de que expiren.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132645"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151532"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migración de ofertas de Dynamics 365 Business Edition a versiones más recientes
 
-**Roles adecuados**
+**Roles adecuados:** administrador global | Administrador de administración de | Agente de administración | Agente de ventas
 
-- Administrador global
-- Administrador del control de usuarios
-- Agente de administrador
-- Agente de ventas
+A partir del 1 de enero de 2019, los clientes con suscripciones de Dynamics 365 Business Edition ya no pueden renovarse en estas ofertas heredadas. Las suscripciones existentes no se renovarán automáticamente cuando expiren. En la página de detalles de la suscripción, el estado de la suscripción cambiará a "Expira el [fecha]" de "Renovación automática el [fecha]".
 
-A partir del 1 de enero de 2019, los clientes con suscripciones de Dynamics 365 Business Edition ya no podrán renovar en estas ofertas heredadas. las suscripciones existentes no se renovarán automáticamente cuando expiren. En la página de detalles de la suscripción, el estado de la suscripción cambiará a "expira el [fecha]" de "se renueva automáticamente en [fecha]".
+Para garantizar la continuidad de los clientes, debe realizar la transición de los que tienen suscripciones que expiran a una opción compatible, que se muestra a continuación. Se recomienda mover clientes a nuevas suscripciones antes de la fecha de finalización anual de la suscripción para evitar interrupciones del servicio para los clientes.
 
-Para garantizar la continuidad de los clientes, debe realizar la transición de las suscripciones que van a expirar a una opción admitida, que se enumera a continuación. Se recomienda mover a los clientes a nuevas suscripciones antes de la fecha de finalización anual de la suscripción para evitar interrupciones de servicio para los clientes.
+Si usa la API (YA SEATE o Centro de partners), puede encontrar suscripciones que expiran evaluando la fecha de finalización de la suscripción junto con la propiedad renovación automática = False. Las suscripciones en cuestión se establecerán en auto renew=False el 1 de enero de 2019. Puede trasladar clientes a un nuevo plan en cualquier momento. 
 
-Si usa la API (de la cresta o del centro de Partners), puede encontrar suscripciones que van a expirar mediante la evaluación de la fecha de finalización de la suscripción junto con la propiedad auto Renew = false. Las suscripciones en cuestión se establecerán en renovación automática = false el 1 de enero de 2019. Puede trasladar a los clientes a un nuevo plan en cualquier momento. 
-
-## <a name="the-dynamics-365-business-editions-being-retired"></a>Las ediciones Business de Dynamics 365 que se están retirando
+## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Edition que se va a retirar
 
 - Dynamics 365 for Finance and Operations, Business Edition
 - Dynamics 365 for Team Members, edición Business
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business central: las ofertas nuevas de Dynamics 365 Business Edition
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central: nuevas ofertas de Dynamics 365 Business Edition
 
-Con las nuevas ofertas de Dynamics Business central, sus clientes pueden conectar sus finanzas, ventas, servicios y operaciones para simplificar los procesos empresariales, mejorar las interacciones de los clientes y tomar mejores decisiones. Dynamics 365 Business central se basa en la nube y está disponible a través de los asociados de programas del proveedor de soluciones en la nube (CSP).
-Los clientes de Dynamics 365 Business Edition pueden recibir precios de transición con descuento para las nuevas ofertas de Business central hasta el 30 de junio de 2020.
+Con las nuevas ofertas de Dynamics Business Central, los clientes pueden conectar sus finanzas, ventas, servicio y operaciones para optimizar los procesos empresariales, mejorar las interacciones de los clientes y tomar mejores decisiones. Dynamics 365 Business Central está basado en la nube y solo está disponible a través Proveedor de soluciones en la nube asociados del programa csp (CSP).
+Los clientes de Dynamics 365 Business Edition pueden recibir precios de transición con descuento para las nuevas ofertas de Business Central hasta el 30 de junio de 2020.
 
 ## <a name="transition-customers-to-new-product-plans"></a>Clientes de transición hacia los nuevos planes de productos
 
- El traslado de los clientes de las SKU retiradas a otras más recientes requiere los pasos siguientes en este orden:
+ El traslado de clientes de SKU retiradas a otras más recientes requiere los pasos siguientes en este orden:
 
 - Comprar la nueva suscripción
-- Reasignar licencias de usuario actuales
-- Cancelar suscripción anterior
+- Reasignación de licencias de usuario actuales
+- Cancelación de una suscripción antigua
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>Compre el nuevo plan para su cliente
+## <a name="purchase-the-new-plan-for-your-customer"></a>Compra del nuevo plan para el cliente
 
-1. Seleccione **customers (clientes** ) en el panel de navegación izquierdo y, a continuación, seleccione el cliente que desea desplazar a la nueva suscripción.
-2. Seleccione **Agregar suscripción**.
-3. Seleccione la suscripción que desea comprar en el catálogo (en este caso, una de las opciones anteriores), escriba el número de licencias y, a continuación, seleccione **submit (enviar**). 
+1. Seleccione **Clientes** en el panel de navegación izquierdo y, a continuación, seleccione el cliente que desea trasladar a la nueva suscripción.
+2. Seleccione **Agregar suscripción.**
+3. Seleccione la suscripción que desea comprar en el catálogo (en este caso, una de las opciones anteriores), escriba el número de licencias y, a continuación, **seleccione Enviar**. 
 
-El cliente tendrá ahora la suscripción antigua y la nueva. El siguiente paso consiste en volver a asignar las licencias a los usuarios del cliente.
+El cliente tendrá ahora la suscripción anterior y la nueva. El siguiente paso consiste en reasignar licencias a los usuarios del cliente.
 
-1. Seleccione **customers (clientes** ) en el panel de navegación izquierdo y, a continuación, seleccione el cliente que va a mover.
-2. Seleccione **usuarios y licencias**.
-3. Para reasignar una licencia a un usuario, seleccione el usuario y, a continuación, seleccione **administrar licencias**. 
-4. En la página **administrar licencias** , desactive la casilla Dynamics 365 for sales/Customer Engagement plan from Basic (oferta calificada) y seleccione un nuevo plan de servicio para la suscripción a la que está pasando el cliente. 
+1. Seleccione **Clientes** en el panel de navegación izquierdo y, a continuación, seleccione el cliente que va a mover.
+2. Seleccione **Usuarios y licencias.**
+3. Para reasignar una licencia a un usuario, selecciónelo y, a continuación, **seleccione Administrar licencias.** 
+4. En  la página Administrar licencias, desactive la casilla Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) license (Plan de Dynamics 365 for Sales/Customer Engagement plan from Basic [Oferta calificada]) y seleccione un nuevo plan de servicio para la suscripción a la que se traslada el cliente. 
 5. Seleccione **Submit** (Enviar). Lo hará para cada usuario que necesite la nueva licencia. 
 
-Una vez que haya migrado las licencias a la nueva suscripción, puede cancelar la suscripción anterior. 
+Una vez que haya movido las licencias a la nueva suscripción, puede cancelar la suscripción anterior. 
 
-1. Seleccione **customers (clientes** ) en el panel de navegación izquierdo y, a continuación, seleccione el cliente que va a mover.
-2. En la página de detalles de la suscripción, establezca la suscripción antigua en **Suspended** y seleccione **submit (enviar**).
+1. Seleccione **Clientes** en el panel de navegación izquierdo y, a continuación, seleccione el cliente que va a mover.
+2. En la página de detalles de la suscripción, establezca la suscripción antigua en **Suspendido** y seleccione **Enviar**.
 
-La suscripción anterior se ha suspendido y la nueva suscripción está activa. La suscripción suspendida se desaprovisionará automáticamente después de 120 días. El cliente no incurrirá en costos adicionales por la suscripción anterior.
+La suscripción anterior ahora está suspendida y la nueva suscripción está activa. La suscripción suspendida se desaprovisionará automáticamente después de 120 días. El cliente no incurrirá en costos adicionales por la suscripción anterior.

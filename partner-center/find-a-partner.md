@@ -8,20 +8,18 @@ description: Como asociado de Microsoft, puede tener preguntas sobre cómo ayuda
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172343"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150954"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Buscar un asociado o proveedor de soluciones para responder preguntas sobre programas, licencias o ofertas de clientes 
 
-**Roles adecuados**
+**Roles adecuados:** todos los asociados de Microsoft
 
-- Todos los asociados de Microsoft
-
-En este artículo se indica a los asociados de Microsoft cómo buscar otros asociados que puedan ayudarles a ellos y a sus clientes a tener éxito con los productos y servicios de Microsoft.
+En este artículo se indica a los asociados de Microsoft cómo encontrar otros asociados que puedan ayudarles a ellos y a sus clientes a tener éxito con los productos y servicios de Microsoft.
 
 ## <a name="different-microsoft-partners-and-solution-providers"></a>Diferentes asociados de Microsoft y proveedores de soluciones
 
@@ -46,4 +44,4 @@ Consulte la tabla siguiente para ayudarle a encontrar un asociado o distribuidor
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Convertirse en revendedor indirecto en el programa CSP](https://partner.microsoft.com/licensing)
-- [Más información sobre los revendedores indirectos y los proveedores indirectos en el programa CSP](work-with-other-partners.md)
+- [Más información sobre revendedores indirectos y proveedores indirectos en el programa CSP](work-with-other-partners.md)

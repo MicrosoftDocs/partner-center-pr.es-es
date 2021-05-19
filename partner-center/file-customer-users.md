@@ -1,32 +1,30 @@
 ---
-title: Campos del archivo. csv para importar varios usuarios para una cuenta de cliente
+title: Campos del archivo .csv para importar varios usuarios para una cuenta de cliente
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Para agregar varios usuarios a una cuenta de cliente, cree un archivo de valores separados por comas (. csv) con los campos correspondientes.
+description: Para agregar varios usuarios a una cuenta de cliente, cree un archivo de valores separados por comas (.csv) con los campos adecuados.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441428"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150988"
 ---
-# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Agregar varios usuarios a una cuenta de cliente mediante la creación de un archivo. csv
+# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Agregar varios usuarios a una cuenta de cliente mediante la creación de un archivo .csv
 
-**Roles adecuados**
+**Roles apropiados**: administrador global
 
-- Administrador global
-
-Agregue varios usuarios a la cuenta de un cliente a la vez, cargando un archivo de datos en el formato de archivo de valores separados por comas (. csv) en el centro de Partners. Puede descargar un archivo de datos de ejemplo del centro de Partners y editarlo para su uso, o puede crear un nuevo archivo de datos con el modelo de datos definido a continuación.
+Agregue varios usuarios a la cuenta de un cliente a la vez, cargando un archivo de datos con el formato de archivo de valores separados por comas (.csv) en el Centro de partners. Puede descargar un archivo de datos de ejemplo de la Centro de partners y, a continuación, editarlo para su uso, o puede crear un nuevo archivo de datos mediante el modelo de datos definido a continuación.
 
 ## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Requisitos del archivo de datos:
 
-Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, debe cumplir los siguientes requisitos:
+Para agregar varios usuarios a la cuenta de un cliente mediante el proceso de carga masiva, deberá cumplir los siguientes requisitos:
 
 - Debes tener permisos de administrador global para la cuenta de cliente.
 - Cada usuario debe tener una dirección de correo electrónico exclusiva, anexa a los dominios de correo electrónico del cliente.
@@ -40,8 +38,8 @@ Escribe los siguientes datos en el archivo de datos:
 |:-------- |:------  |:----- |
 | Nombre  | Nombre del usuario (campo opcional)  | límite de 50 caracteres  |
 | Apellido  | Los apellidos del usuario (campo opcional)  | límite de 50 caracteres  |
-| Nombre para mostrar    | Nombre mostrado en el centro de Partners (campo obligatorio)                            | límite de 50 caracteres                         |
-| Email   | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
+| Nombre para mostrar    | Nombre que se muestra en la Centro de partners (campo obligatorio)                            | límite de 50 caracteres                         |
+| Correo electrónico   | Dirección de correo electrónico empresarial del usuario en la empresa del cliente (campo obligatorio)           | Cada usuario debe tener una dirección de correo electrónico única |
 | Actualización del estado   | Se usa para indicar si el nuevo registro de usuario se creó correctamente | \*\*Dejar vacío\*\*                        |
 
 ## <a name="next-steps"></a>Pasos siguientes

@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, operadores móviles, facturación móvil, facturación de operadores móviles
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172394"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151549"
 ---
 # <a name="mobile-operator-billing"></a>Facturación de operadores de telefonía móvil
 
-**Roles adecuados**
-
-- Administrador global
+**Roles apropiados**: administrador global
 
 > [!NOTE]
 > Si busca soporte técnico en relación con los pagos, incluidos la configuración de cuentas de pago, los pagos que faltan, la puesta en espera de los pagos o cualquier otra cosa, póngase en contacto con el servicio de soporte técnico [aquí](https://developer.microsoft.com/windows/support).
@@ -56,13 +54,13 @@ Los siguientes operadores móviles admiten actualmente la facturación de operad
 | Polonia               | Orange, Play, T-Mobile                                  |
 | Arabia Saudí         | Stc                                                     |
 | Singapur            | M1 Limited, StarHub                                     |
-| Eslovaquia             | Telekom incoal                                          |
+| Eslovaquia             | Telekom checo                                          |
 | Sudáfrica         | Vodacom                                                 |
 | España                | Naranja                                                  |
 | Suecia               | 3, Telenor                                              |
-| Suiza          | Desconsulte,Com                                       |
+| Suiza          | Descerrón,Com                                       |
 | Taiwán               | FarEasTone                                              |
 | Turquía               | Turkcell                                                |
 | Emiratos Árabes Unidos | Etisalat                                                |
 | Estados Unidos        | Sprint, Verizon                                         |
-| Reino Unido       | 3 Uk, EE, O2, Vodafone                                 |
+| Reino Unido       | 3 Reino Unido, EE, O2, Vodafone                                 |

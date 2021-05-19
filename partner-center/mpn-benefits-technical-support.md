@@ -9,20 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: fa99b66e9b30c349be8fc5cca6dfeeed9eca34ae
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630124"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151413"
 ---
 # <a name="technical-support-benefits"></a>Ventajas de soporte técnico
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador de partners de MPN
-- Agente de administrador
+**Roles adecuados:** Administrador global | Administrador de asociados de MPN | Agente de administración
 
 ## <a name="overview"></a>Información general
 
@@ -70,20 +66,20 @@ Como parte de la suscripción Microsoft Partner Network, los asociados son aptos
 
 Puede usar soporte  **técnico de Microsoft** para obtener soporte técnico en productos locales recientes. 
 
-Necesitará el identificador de acceso y el identificador de contrato la primera vez que use la ventaja. Las ventajas están asociadas a su cuenta de usuario hasta que expiren o no haya más incidentes de soporte técnico restantes.
+Necesitará el identificador de acceso y el identificador de contrato la primera vez que use la ventaja. Las ventajas están asociadas a su cuenta de usuario hasta que expiran o no quedan más incidentes de soporte técnico.
 
 Cualquier cuenta de usuario (AAD o MSA) puede usar soporte técnico para productos locales si tienen el identificador de acceso y el identificador de contrato.
 
 Seleccione [Soporte técnico para](https://support.serviceshub.microsoft.com/supportforbusiness/create) empresas para crear una solicitud de soporte técnico para un producto local.
 
 ## <a name="how-many-partner-support-incidents-are-remaining"></a>Cuántos incidentes de soporte técnico de asociados quedan
-Solo puede obtener esta información en el portal de soporte técnico local de Soporte técnico para empresas. Desafortunadamente, los portales en la nube, como Azure, LCS, etc., no muestran esta información.
+Solo puede obtener esta información en el portal de soporte técnico local de Soporte técnico para empresas. Desafortunadamente, los portales en la nube (por ejemplo, Azure, LCS y otros) no muestran esta información.
 
 Debe usar Soporte técnico para empresas e iniciar el proceso para crear un incidente de soporte técnico local. No creamos una solicitud de soporte técnico porque no completamos el proceso. La información que necesitamos se muestra en el paso 2.
 
 Paso 1: Abra [Soporte técnico para empresas,](https://support.serviceshub.microsoft.com/supportforbusiness/create) seleccione Windows 10 y escriba información ficticia.
 
-Paso 2 Si el contrato de soporte técnico ya está asociado a su cuenta, debería ver los incidentes de soporte técnico mostrados. En el caso del soporte técnico local, debería ver que se muestra el contrato de soporte técnico para partners (a menos que ya no sea válido) y esto incluye la fecha de inicio, la fecha de finalización y los incidentes restantes. Si necesita asociar el contrato de soporte técnico, expanda "Do you need to purchase or add more support plans" (¿Necesita comprar o agregar más planes de soporte técnico?) y haga clic en el botón Agregar contrato para escribir el identificador de acceso y el identificador del contrato. Expanda "Would you like to see unavailable support plans?" (¿Desea ver los planes de soporte técnico no disponibles?) sección para ver la información de la firma de asociado. Solo verá el soporte técnico para partners que se muestra aquí si los contratos han expirado, no queda ningún incidente o ha seleccionado un producto local antiguo (consulte aka.ms/n-1 para productos de soporte técnico). [](https://aka.ms/n-1)
+Paso 2 Si el contrato de soporte técnico ya está asociado a su cuenta, debería ver los incidentes de soporte técnico mostrados. Para obtener soporte técnico local, debería ver el contrato de soporte técnico para partners (a menos que ya no sea válido) y esto incluye la fecha de inicio, la fecha de finalización y los incidentes restantes. Si necesita asociar el contrato de soporte técnico, expanda "Do you need to purchase or add more support plans" (¿Necesita comprar o agregar más planes de soporte técnico?) y haga clic en el botón Agregar contrato para escribir el identificador de acceso y el identificador del contrato. Expanda "Would you like to see unavailable support plans?" (¿Desea ver planes de soporte técnico no disponibles?) sección para ver la información de la firma de asociado. Solo verá el soporte técnico para partners que se muestra aquí si los contratos han expirado, no queda ningún incidente o ha seleccionado un producto local antiguo (consulte aka.ms/n-1 para productos de soporte técnico). [](https://aka.ms/n-1)
 
 **Para obtener información más detallada, consulte [¿Cuántos incidentes de soporte técnico de asociados quedan?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -91,7 +87,7 @@ Paso 2 Si el contrato de soporte técnico ya está asociado a su cuenta, deberí
 
 Los asociados de las competencias Gold o Silver pueden usar **Soporte técnico Signature Cloud** soporte técnico en productos en la nube. 
 
-Necesitará el identificador de acceso y el identificador de contrato la primera vez que use la ventaja. Las ventajas están asociadas a su cuenta de usuario hasta que expiran o no quedan más incidentes de soporte técnico.
+Necesitará el identificador de acceso y el identificador de contrato la primera vez que use la ventaja. Las ventajas están asociadas a su cuenta de usuario hasta que expiren o no haya más incidentes de soporte técnico restantes.
 
 Los asociados de CSP que crean solicitudes de Azure pueden usar Proveedor de soluciones en la nube plan de soporte técnico "Proveedor de soluciones en la nube" sin agregar un contrato de soporte técnico.
 
@@ -107,11 +103,11 @@ Es posible que vea el mensaje de error *"Este identificador de acceso ya está a
 
 Verá el valor anterior "El identificador de acceso ya está asociado..." error si asocia un contrato de soporte técnico a una cuenta más de una vez al usar el Azure Portal. Consulte los escenarios siguientes:
 
-1. Si tiene ventajas técnicas gold o silver y ha agregado previamente el contrato para soporte técnico local, use el Azure Portal y agregue el contrato una segunda vez a la misma cuenta. Solo necesita asociar el contrato de soporte técnico a una cuenta una vez y, por tanto, no es necesario vincular las ventajas de soporte técnico en Azure. Si usa las ventajas de soporte técnico de Link cuando el contrato ya está asociado a la cuenta, verá el error y se debe omitir. Use + New Support Request y cree un incidente de soporte técnico con normalidad y se mostrará el plan de soporte técnico.
+1. Si tiene ventajas técnicas gold o silver y ha agregado previamente el contrato para el soporte técnico local, use el Azure Portal y agregue el contrato una segunda vez a la misma cuenta. Solo necesita asociar el contrato de soporte técnico a una cuenta una vez y, por tanto, no es necesario vincular las ventajas de soporte técnico en Azure. Si usa las ventajas de soporte técnico de Link cuando el contrato ya está asociado a la cuenta, verá el error y se debe omitir. Use + New Support Request y cree un incidente de soporte técnico con normalidad y se mostrará el plan de soporte técnico.
 
-2. Si el contrato de soporte técnico ha expirado o la firma 10pack (competencia híbrida Gold) o signature 5pack (competencia híbrida Silver) no tienen incidentes restantes, el contrato de soporte técnico se ocultará porque no es válido. Si vincula las ventajas de soporte técnico de nuevo, verá el error porque el contrato ya está asociado. Debe adquirir un nuevo plan de soporte técnico para obtener incidentes de soporte técnico de Azure. 
+2. Si el contrato de soporte técnico ha expirado o los paquetes signature 10 (competencia híbrida Gold) o Signature 5-pack (competencia híbrida Silver) no tienen incidentes restantes, el contrato de soporte técnico se ocultará porque no es válido. Si vincula las ventajas de soporte técnico de nuevo, verá el error porque el contrato ya está asociado. Debe adquirir un nuevo plan de soporte técnico para obtener incidentes de soporte técnico de Azure. 
 
-Consulte planes de soporte técnico para partners a continuación para obtener ofertas de soporte técnico de pago de asociados.
+Consulte los planes de soporte técnico para partners a continuación para obtener ofertas de soporte técnico de pago de asociados.
 
 ## <a name="partner-support-plans"></a>Planes de soporte técnico para asociados
 

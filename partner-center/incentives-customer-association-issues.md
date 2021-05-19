@@ -1,6 +1,6 @@
 ---
 title: Problemas de asociación de clientes a incentivos
-description: Obtenga información acerca de cómo solucionar los problemas que surgen al trabajar con las asociaciones de clientes de los asociados de registro (CPOR).
+description: Obtenga información sobre cómo solucionar los problemas que se pueden encontrar al trabajar con asociaciones de clientes de asociados de registro reclamados (CPOR).
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,86 +8,82 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179220"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152178"
 ---
-# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas con las asociaciones de cliente de socio de registro (CPOR)
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas con las asociaciones de clientes de asociados de registro reclamados (CPOR)
 
-**Roles adecuados**
+**Roles adecuados:** Administrador de facturación | Administrador global | Administrador de incentivos
 
-- Administrador de facturación
-- Administrador global
-- Administrador de incentivos
+El contenido siguiente le ayudará a resolver los problemas que pueden llegar al trabajar con asociaciones de clientes.
 
-El contenido que aparece a continuación le ayudará a solucionar los problemas que pueden aparecer al trabajar con las asociaciones de clientes.
+## <a name="domain-tenant-mismatch"></a>Error de coincidencia entre dominio y inquilino
 
-## <a name="domain-tenant-mismatch"></a>Error de coincidencia de inquilino de dominio
+En el flujo de notificación de asociación del asociado de registro reclamado (CPOR), se le pedirá que proporcione el identificador de inquilino y el subdominio del cliente. Si recibe un error que indica que no coinciden, póngase en contacto con el cliente para asegurarse de que tiene los detalles correctos.
 
-En el flujo de notificaciones de asociación del socio de registro (CPOR), se le pedirá que proporcione el identificador y el subdominio del inquilino del cliente. Si recibe un error que indica que no coinciden, póngase en contacto con su cliente para asegurarse de que tiene los detalles correctos.
+## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Errores de suscripción en el flujo de notificación de asociación de CPOR
 
-## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Errores de suscripción en el flujo de notificaciones de Asociación de CPOR
+En el flujo de notificación de asociación de CPOR, es posible que se le pida que proporcione una suscripción para un producto que está intentando reclamar a través de Business Applications (Dynamics 365). Solicitamos la suscripción porque estamos comprobando dinámicamente que el producto y la suscripción pertenecen al inquilino para el que se está reclamando. También estamos comprobando que la suscripción está activa o en estado de gracia.
 
-En el flujo de notificaciones de Asociación de CPOR, es posible que se le pida que proporcione una suscripción a un producto que está intentando reclamar a través de Business Applications (Dynamics 365). Solicitamos la suscripción, ya que estamos comprobando de forma dinámica que el producto y la suscripción pertenecen al inquilino que se va a solicitar. También estamos comprobando que la suscripción se encuentra en estado activo/en gracia.
-
-Si recibe el error, podría deberse a varios motivos:
+Si recibe el error, podría deberse a varias razones:
 
 - El producto seleccionado no existe en el inquilino del cliente.
 - La suscripción proporcionada no es para Dynamics
 - La suscripción proporcionada es para CSP.
-- El cliente todavía no ha activado o aprovisionado los productos para esa suscripción
+- El cliente aún no ha activado ni aprovisionado los productos para esa suscripción.
 - La suscripción ya se ha notificado.
 - El identificador proporcionado no es un identificador de suscripción
 
-Si tiene alguna pregunta sobre la precisión de su suscripción, trabaje con el cliente para asegurarse de que la suscripción es correcta y de que está usando el identificador de inquilino correcto.
+Si tiene alguna pregunta sobre la precisión de la suscripción, trabaje con el cliente para asegurarse de que la suscripción es correcta y de que usa el identificador de inquilino correcto.
 
-Si esta ruta no ha resuelto el problema, póngase en contacto [con el servicio de soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Si esta ruta no ha resuelto el problema, póngase en contacto con el [soporte técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
-## <a name="when-subscriptions-will-be-available-to-claim"></a>Cuándo estarán disponibles las suscripciones para la demanda
+## <a name="when-subscriptions-will-be-available-to-claim"></a>Cuándo estarán disponibles las suscripciones para la notificación
 
-Al solicitar una suscripción, recibirá un error si aún no se ha aprovisionado la suscripción. Hay varios pasos que el cliente debe llevar a cabo para que la suscripción esté disponible para que la plataforma CPOR la seleccione y la ponga a disposición de la demanda. Si recibe un error al intentar reclamar una suscripción, póngase en contacto con su cliente para asegurarse de que se ha aprovisionado y de que la suscripción que va a notificar es correcta. Si ya ha tomado esta ruta, póngase en contacto [con el servicio de soporte técnico](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Al reclamar una suscripción, recibirá un error si la suscripción aún no se ha aprovisionado. Hay varios pasos que el cliente debe seguir para que la suscripción esté disponible para que la plataforma CPOR la reclame y que esté disponible para la reclamación. Si recibe un error al intentar reclamar una suscripción, póngase en contacto con el cliente para asegurarse de que se ha aprovisionado y de que la suscripción que está reclamando es correcta. Si ya ha realizado esta ruta, póngase en contacto con el [soporte técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
-## <a name="which-activity-do-i-choose"></a>¿Qué actividad elijo?
+## <a name="which-activity-do-i-choose"></a>¿Qué actividad se elige?
 
-La plataforma de reclamación de CPOR permite notificaciones de Asociación de CPOR relacionadas con Business Applications y Microsoft 365 áreas de la solución. A continuación se muestran las actividades que se aplican a cada área de solución. Seleccione la actividad correcta en función de las descripciones para evitar tener que reclamar en el futuro. La reivindicación de una actividad incorrecta puede dar lugar a pérdidas de elegibilidad y beneficios.
+La plataforma de reclamación de CPOR permite notificaciones de asociación de CPOR relacionadas con Business Applications y Microsoft 365 de soluciones. A continuación se muestran las actividades que son aplicables a cada área de solución. Seleccione la actividad correcta en función de las descripciones para evitar tener que reclamar en el futuro. Reclamar con una actividad incorrecta puede dar lugar a la falta de elegibilidad y las ganancias de incentivos.
 
 
-| Área de solución | Actividad | Aplicable para |
+| Área de solución | Actividad | Aplicable a |
 | ------ | ----------- | ----------- |
-| Aplicaciones empresariales      | Soporte preventa   | Seleccione si influye en su compra de un producto válido y desea solicitar los incentivos de preventa. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
-|    |  Uso  | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct. |
-|    | Asociación de ingresos   | Seleccione esta opción si influye en la selección de un producto válido como Influenciante empresarial. Esta opción es solo para la Asociación de ingresos, no para los pagos por incentivos. Esta opción solo es aplicable si el cliente compró estos productos a través del contrato de licencias por volumen o de web-Direct.   |
-| Microsoft 365   | Uso   | Seleccione esta información si desea impulsar la adopción y el uso de una carga de trabajo válida y desea aplicar los incentivos de uso. |
+| Aplicaciones empresariales      | Preventa   | Seleccione si influyó en la compra de un producto apto y desea solicitar incentivos de venta previa. Esta opción solo es aplicable si el cliente compró estos productos mediante el contrato de licencia por volumen o Web-Direct. |
+|    |  Uso  | Seleccione si impulsa su adopción y uso de una carga de trabajo apta y quiere solicitar incentivos de uso. Esta opción solo es aplicable si el cliente compró estos productos mediante el contrato de licencia por volumen o Web-Direct. |
+|    | Asociación de ingresos   | Seleccione si ha influenciado su selección de un producto apto como influenciador empresarial. Esta opción es solo para la asociación de ingresos, no para los pagos de incentivos. Esta opción solo es aplicable si el cliente compró estos productos mediante el contrato de licencia por volumen o Web-Direct.   |
+| Microsoft 365   | Uso   | Seleccione si impulsa su adopción y uso de una carga de trabajo apta y quiere solicitar incentivos de uso. |
 
-## <a name="which-mpn-do-i-choose"></a>¿Qué MPN elegir?
+## <a name="which-mpn-do-i-choose"></a>¿Qué MPN se elige?
 
-En el flujo de notificaciones de Asociación de CPOR, se le pedirá que elija un MPN de empresa que se debe asociar al trabajo que está reclamando en el cliente final. Su empresa puede tener muchos MPNs, algunos de los cuales pueden inscribirse en programas de incentivos y otros asociados a un tipo de socio comercial como FRP FastTrack. El flujo de notificaciones de Asociación de CPOR identificará qué MPNs está inscrito en un programa de incentivos, pero no le indicará si es un tipo de asociado específico MPN. Es importante seleccionar el MPN correcto para evitar tener que reclamar en el futuro. La reivindicación de un MPN incorrecto puede dar lugar a una falta de elegibilidad y a una ganancia de incentivos.
+En el flujo de notificación de asociación de CPOR, se le pedirá que elija un MPN de empresa que se debe asociar al trabajo que está reclamando al cliente final. Su empresa puede tener muchos MPN, algunos de los cuales pueden estar inscritos en programas de incentivos y otros asociados a un tipo de asociado, como FRP FastTrack. El flujo de notificación de asociación de CPOR identificará qué MPN están inscritos en un programa de incentivos, pero no le mostrará si es un MPN de tipo asociado específico. Es importante seleccionar el MPN correcto para evitar tener que reclamar en el futuro. La reclamación con un MPN incorrecto puede dar lugar a la falta de elegibilidad y las ganancias de incentivos.
 
 Si no sabe qué MPN usar, póngase en contacto con el administrador global.
 
-Si el MPN que quiere usar no está inscrito, puede administrarlo en la [pestaña Información general sobre incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (es necesario iniciar sesión).
+Si el MPN que quiere usar no está inscrito, puede administrarlo en la pestaña Información general de [incentivos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (se requiere inicio de sesión).
 
-## <a name="choosing-a-product-vs-entering-a-subscription"></a>Elección de un producto frente a la entrada de una suscripción
+## <a name="choosing-a-product-vs-entering-a-subscription"></a>Elección de un producto frente a la especificación de una suscripción
 
-Cuando se reclama y aprueba un producto de Dynamics, el asociado puede ver el identificador de la suscripción en la propia declaración de Asociación de CPOR. Cuando se solicita esta suscripción, está en estado activo o en período de gracia, pero puede haber una hora en la que la suscripción finaliza y las nuevas suscripciones se deben solicitar en una declaración de asociación CPOR independiente.
+Cuando se reclama y aprueba un producto de Dynamics, el asociado puede ver el identificador de suscripción en la propia notificación de asociación de CPOR. Cuando se reclama esta suscripción, está activa o en estado de gracia, pero puede que haya un momento en el que la suscripción finalice y las nuevas suscripciones deban reclamarse en una notificación de asociación de CPOR independiente.
 
-## <a name="competing-claims"></a>Notificaciones competitivas
+## <a name="competing-claims"></a>Notificaciones de la competencia
 
-Si va a crear una notificaciones de Asociación de CPOR para un cliente y sus productos que ya están asociados a otro asociado, su demanda pasará por el arbitraje:
+Si va a crear una reclamación de asociación de CPOR para un cliente y sus productos que ya están asociados a otro asociado, su reclamación pasará por el procedimiento de conciliación:
 
 1. Después de crear una nueva asociación de cliente, Microsoft comprobará los detalles de la asociación y la prueba de ejecución que se proporcionan para garantizar su precisión.
 
-2. Si usted y otro socio reclaman al mismo cliente y producto o carga de trabajo, Microsoft revisará la documentación de prueba de ejecución de cada asociado para determinar qué socio comercial debe aprobar.
+2. Si usted y otro asociado reclaman el mismo cliente y producto o carga de trabajo, Microsoft revisará la documentación de prueba de ejecución de cada asociado para determinar qué asociado aprobar.
 
 3. Es posible que se solicite información adicional a ambos asociados, lo que podría provocar retrasos en el procesamiento de la solicitud de asociación.
 
-4. La demanda de la Asociación CPOR se seguirá revisando en un plazo de cinco días laborables, aunque su estado puede permanecer como _en revisión_ durante un período de tiempo más largo. Este escenario puede ocurrir cuando Microsoft trabaja con el asociado que posee actualmente el producto o la carga de trabajo. Si es así, se le notificará en la sección de comentarios de la notificación. 
+4. La notificación de asociación de CPOR se seguirá revisando  en un plazo de cinco días laborables, aunque su estado puede permanecer en Revisión durante un período de tiempo más largo. Este escenario puede ocurrir cuando Microsoft trabaja con el asociado que posee actualmente el producto o la carga de trabajo. Si es así, se le notificará en la sección de comentarios de la notificación. 
 
 >[!IMPORTANT]
->Si necesitamos información adicional para comprobar la prueba de ejecución de la Asociación CPOR (PoE), nos pondremos en contacto con usted a través de la sección de comentarios de notificaciones de CPOR Association.
+>Si necesitamos información adicional para comprobar la prueba de ejecución (PoE) de la asociación de CPOR, nos comunicaremos con usted a través de la sección de comentarios de notificación de asociación de CPOR.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
