@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284305"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147197"
 ---
 # <a name="view-digitally-signed-invoices"></a>Visualización de facturas firmadas digitalmente
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners India
 
-- Centro de partners India
-
-**Roles adecuados**
-
-- Administrador de cuentas
-- Agente de facturación
-- Agente de ventas
+**Roles adecuados:** administrador de | Agente de facturación | Agente de ventas
 
 Los asociados de la India ahora ven que Microsoft tiene facturas firmadas digitalmente. Debe usar Adobe Acrobat Reader Document Cloud (DC) para ver una firma.
 
@@ -54,7 +48,7 @@ Los asociados de la India ahora ven que Microsoft tiene facturas firmadas digita
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Información adicional sobre facturas y firmas digitales
 
-Se enviará una copia digital a la persona que creó el pedido en Centro de partners. No puede obtener facturas firmadas digitalmente para las facturas emitidas antes del 17 de julio de 2020. Además, las facturas firmadas manualmente no estarán disponibles.
+Se enviará una copia digital a la persona que creó el pedido en Centro de partners. No se pueden obtener facturas firmadas digitalmente para las facturas emitidas antes del 17 de julio de 2020. Además, las facturas firmadas manualmente no estarán disponibles.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

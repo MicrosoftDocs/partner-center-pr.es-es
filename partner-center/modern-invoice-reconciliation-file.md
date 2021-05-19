@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702797"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146262"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compras únicas de CSP
 
-**Roles adecuados**
-
-- Administrador de cuentas
-- Agente de facturación
+**Roles adecuados:** Administrador de | Agente de facturación
 
 ## <a name="using-the-recon-file"></a>Uso del archivo de conciliación
 En la tabla siguiente se muestran las descripciones y los valores de ejemplo de los campos del archivo de conciliación para las compras únicas de CSP.

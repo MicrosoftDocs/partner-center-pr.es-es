@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284186"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147469"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Soporte técnico al cliente a través Microsoft Office centro de administración 365 o a través del Azure Portal
 
-**Se aplica a**
+**Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government
 
-- Centro de partners para Microsoft Cloud for US Government
-
-**Roles adecuados**
-
-- Agente del departamento de soporte técnico
+**Roles adecuados:** agente del departamento de soporte técnico
 
 Los clientes pueden iniciar sesión en su propio centro de administración Microsoft Office 365 o en Azure Portal para administrar sus propias cuentas:
 

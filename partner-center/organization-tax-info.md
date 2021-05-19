@@ -1,34 +1,28 @@
 ---
-title: Agregar un NIF para los impuestos empresariales
+title: Adición de un identificador de IVA para impuestos empresariales
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Los impuestos para las compras del Centro de partners vienen determinados por la dirección de su empresa. En algunos países, las empresas pueden proporcionar su número de IVA o equivalente local.
+description: Los impuestos para las compras del Centro de partners vienen determinados por la dirección de su empresa. Las empresas de algunos países pueden proporcionar su número de IVA o equivalente local.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132764"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146942"
 ---
-# <a name="add-a-vat-id-to-your-billing-profile"></a>Agregar un ID. de IVA al perfil de facturación
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Adición de un identificador de IVA al perfil de facturación
 
-**Roles adecuados**
+**Roles adecuados:** Administrador global | Administrador de administración de | Administrador de facturación | Agente de administración | Agente de ventas
 
-- Administrador global
-- Administrador del control de usuarios
-- Administrador de facturación
-- Agente de administrador
-- Agente de ventas
+Puede usar el procedimiento siguiente para actualizar el perfil de facturación para incluir su identificador de IVA. (Tenga en cuenta que esto puede no ser posible en su país o región).
 
-Puede usar el siguiente procedimiento para actualizar el perfil de facturación para incluir el identificador de IVA. (Tenga en cuenta que es posible que esto no sea posible en su país o región).
-
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Actualice su perfil de facturación con su ID. de IVA
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Actualización del perfil de facturación con el identificador de IVA
 
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 2. En el menú **Configuración** (icono de engranaje), elija **Configuración de cuenta**.

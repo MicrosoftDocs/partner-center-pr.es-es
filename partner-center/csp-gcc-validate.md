@@ -4,65 +4,61 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Conozca los pasos para que los asociados directos de facturación (revendedores directos, proveedores indirectos) validen a los asociados y clientes de Office 365 Government GCC for CSP.
+description: Obtenga información sobre los pasos para que los asociados de factura directa (revendedores directos, proveedores indirectos) validen asociados y clientes para Office 365 Government GCC para CSP.
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979644"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147707"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC para los criterios de idoneidad para clientes y asociados de CSP 
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>GCC de Office 365 Government para los criterios de elegibilidad de asociados y clientes de CSP 
 
-**Roles adecuados**
-
-- Administrador global
-- Agente de administrador
-- Agente de ventas
+**Roles adecuados:** administrador global | Agente de administración | Agente de ventas
 
 >[!NOTE]
->El proceso de validación y los criterios que se describen a continuación son específicos para los asociados directos de facturación. Los asociados directos de facturación incluyen revendedores directos y proveedores indirectos.  Si es un revendedor indirecto, trabaje con su proveedor indirecto.
+>El proceso de validación y los criterios que se describen a continuación son específicos de los asociados de facturación directa. Los asociados de factura directa incluyen revendedores directos y proveedores indirectos.  Si es un revendedor indirecto, trabaje con su proveedor indirecto.
 
-Si le interesa tener aprobado su empresa (o la empresa del cliente) para Office 365 Government GCC for CSP, revise los requisitos siguientes.
+Si está interesado en que su empresa (o la empresa de su cliente) estén aprobadas para Office 365 Government GCC for CSP, revise los requisitos siguientes.
 
-Podría ser aprobado si es un asociado que presta servicio a entidades gubernamentales federales, estatales, locales o Tribals. Para que las organizaciones cumplan los requisitos de idoneidad, complete el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Podría aprobarse si es un asociado que atiende entidades gubernamentales federales, estatales, locales o tribales de Estados Unidos. Para que se valide la idoneidad de las organizaciones, complete el breve formulario que se encuentra [aquí.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
-Su cliente podría ser aprobado si se trata de una organización que administra datos controlados por el gobierno o es una entidad de gobierno federal, estatal, local o tribal de EE. UU. Para que se validen los requisitos de las organizaciones de sus clientes, complete el formulario breve que se encuentra [aquí](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+El cliente podría ser aprobado si es una organización que controla los datos controlados por el gobierno o si es una entidad gubernamental federal, estatal, local o tribal de Ee. UU. Para que se valide la idoneidad de las organizaciones de sus clientes, complete el breve formulario que se encuentra [aquí.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
 
--   Su organización debe [inscribirse](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa proveedor de soluciones en la nube, ya que es un requisito previo para ser aprobado para Office 365 Government GCC for CSP.
--   [Aquí](https://go.microsoft.com/fwlink/?linkid=2007323)encontrará una guía del proceso de validación paso a paso para Office 365 Government GCC for CSP.
--   Póngase en contacto [con el soporte técnico de RSC](mailto:usgcce@microsoft.com) para preguntas o dudas de validación adicionales.
+-   Su organización debe [inscribirse](https://partnercenter.microsoft.com/partner/cloud-solution-provider) en el programa Proveedor de soluciones en la nube, ya que es un requisito previo para la aprobación de Office 365 Government GCC para CSP.
+-   Aquí se encuentra una guía paso a paso del proceso de validación para Office 365 Government GCC [para](https://go.microsoft.com/fwlink/?linkid=2007323)CSP.
+-   Póngase en [contacto con las escalaciones de soporte técnico de RSC](mailto:usgcce@microsoft.com) para obtener preguntas o problemas de validación adicionales.
 
-Office 365 Government GCC para asociados y clientes de CSP se validará para satisfacer los requisitos específicos de la reunión que se describen a continuación.
+Se validará la idoneidad del GCC de Office 365 Government para asociados y clientes de CSP en función de los criterios específicos que se describen a continuación.
 
-**Criterios de socio comercial**
-1.  Proporciona servicios o soluciones a clientes del gobierno de EE. UU. a través de contratos directos o indirectos.
-2.  Presta servicio a los clientes de la administración pública de Estados Unidos a través de GSA u otros vehículos
+**Criterios de asociado**
+1.  Proporciona servicios o soluciones a los clientes del Gobierno de EE. UU. a través de contratos directos o indirectos.
+2.  Sirve a los clientes de la Administración General de Estados Unidos a través de GSA u otros vehículos de contrato
 
 **Criterios de los clientes**
-1.  Entidad del gobierno de EE. UU. en su capacidad gubernamental. Por ejemplo:
+1.  entidad gubernamental de ESTADOS UNIDOS en su capacidad gubernamental. Por ejemplo:
  
-    -  Agencia Federal (por ejemplo, oficina, agencia, departamento u otra entidad del gobierno de EE. UU.)
-    -   Entidad de estado o local 
+    -  Agencia federal (por ejemplo, oficina, agencia, departamento u otra entidad del gobierno de EE. UU.)
+    -   Entidad local o de estado 
     -   Entidad tribal
-    -   Entidades de gobierno regional o interestatal (pero no entidades internacionales)
-    -   Centros de investigación y desarrollo de financiamiento federal (Ffrdc)
+    -   Entidades gubernamentales regionales o gubernamentales (pero ninguna entidad internacional)
+    -   Centros de investigación y desarrollo (FERDC) con fondos federales
 
-2.  Entidad privada comercial con datos que están sujetos a regulaciones. Tipos de datos gubernamentales aceptados: 
-    -   Tráfico internacional de armas (ITAR)
-    -   Información no clasificada controlada (CUI)
-    -   Información nuclear controlada sin clasificar del Departamento de defensa (DoD) (UCNI)
-    -   Departamento de energía (DoE) UCNI
-    -   Información de Justicia Penal (CJI)
-    -   Datos de nivel de impacto en el Departamento de defensa
+2.  Entidad privada comercial con datos sujetos a normativas. Tipos de datos gubernamentales aceptados: 
+    -   Tráfico internacional de vehículos (ITAR)
+    -   Información sin clasificar controlada (CUI)
+    -   Información controlada sin clasificar (UCNI) del Departamento de Defensa (DoD)
+    -   UCNI del Departamento de Energía (DoE)
+    -   Información delictiva (CJI)
+    -   Datos de nivel de impacto del Departamento de Defensa
     -   Otros tipos de datos que requieren Azure Government
 
-Una entidad comercial internacional puede calificar si cumple los requisitos indicados anteriormente y ha verificado la presencia de EE. UU. (por ejemplo, la dirección de correo electrónico, la ubicación física, etc.).
+Una entidad comercial internacional puede calificar si cumple los requisitos indicados anteriormente y ha comprobado la presencia de Estados Unidos (como la dirección de correo, la ubicación física, etc.).
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Venda Office 365 Government GCC para suscripciones de CSP a clientes cualificados](csp-gcc-overview.md)
+- [Venta de GCC de Office 365 Government para suscripciones de CSP a clientes cualificados](csp-gcc-overview.md)

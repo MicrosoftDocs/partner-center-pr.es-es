@@ -9,28 +9,26 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819217"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148115"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Cumplimiento del límite de crédito (CLE)
 
-**Roles adecuados**
-
-- Administrador de facturación
+**Roles adecuados:** Administrador de facturación
 
 ## <a name="your-credit-limit-and-how-it-works"></a>El límite de crédito y cómo funciona
 
-El límite de crédito es la cantidad máxima (en dólares estadounidenses) que usted como asociado puede gastar para comprar productos o suscripciones en Centro de partners. Si supera el límite de crédito, no podrá realizar nuevas compras hasta que se haya realizado un pago suficiente. Las suscripciones existentes seguirán sin interrupciones.
+El límite de crédito es la cantidad máxima (en dólares estadounidenses) que usted como asociado puede gastar para comprar productos o suscripciones en Centro de partners. Si supera el límite de crédito, no podrá realizar nuevas compras hasta que se haya realizado el pago suficiente. Las suscripciones existentes continuarán sin interrupciones.
 
 Los límites de crédito se aplican a las ofertas del plan de Azure, reservas de Azure, software, Marketplace, productos de Azure 145 P, Office y Dynamics. Los límites de crédito no se aplican a las renovaciones ni al consumo continuo.
 
 Asignamos el límite de crédito en el nivel de inquilino durante el período de incorporación. La basamos en los ingresos previstos, las ventajas de compra y el historial de pagos. A continuación, usamos la siguiente fórmula para calcular el saldo disponible:
 
-**[Límite de crédito – (Compra entrante + Facturas pendientes no pagadas + Cargos no facturados – Pago por encima del pago)]**
+**[Límite de crédito – (compra entrante + facturas pendientes no pagadas + cargos no facturados – pago por encima del pago)]**
 
 ## <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -52,7 +50,7 @@ Debería poder reanudar la compra en un plazo de 24 horas a partir del pago, sup
 
 ### <a name="how-can-i-check-my-credit-limit"></a>¿Cómo puedo comprobar el límite de crédito?
 
-Póngase en [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) contacto con para ver el límite de crédito y obtener información sobre las compras recientes.
+Póngase [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) en contacto con para ver el límite de crédito y obtener información sobre las compras recientes.
 
 ### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>¿Las facturas que están en conflicto cuentan con el límite de crédito?
 

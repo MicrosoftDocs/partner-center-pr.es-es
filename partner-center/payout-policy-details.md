@@ -1,73 +1,70 @@
 ---
 title: Procesos y programaciones de pagos
-description: Obtenga información sobre los pagos y transacciones, como los planes de pago y los procesos de rerecuperación para el Marketplace comercial y otras transacciones.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Obtenga información sobre pagos y transacciones, como programaciones de pago y procesos de recuperación para marketplace comercial y otras transacciones.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086182"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146959"
 ---
 # <a name="payout-schedules-and-processes"></a>Procesos y programaciones de pagos
 
-**Roles adecuados**
+**Roles adecuados:** Administrador de | Administrador global
 
-- Administrador de cuentas
-- Administrador global
-
-En este artículo se describe la programación de pago de Microsoft, dónde encontrar el estado de un pago y el proceso de no pago del cliente.
+En este artículo se describe la programación de pago de Microsoft, dónde encontrar el estado de un pago y el proceso de impago del cliente.
 
 ## <a name="payment-schedules"></a>Programaciones de pago
 
-En las secciones siguientes se describe el proceso de pago de las transacciones de **contrato Enterprise** y de la **tarjeta de crédito/factura** .
+En las secciones siguientes se describe el proceso de pago para **Contrato Enterprise** y transacciones de tarjeta de **crédito/factura.**
 
-### <a name="enterprise-agreement-transactions"></a>Transacciones de Contrato Enterprise
+### <a name="enterprise-agreement-transactions"></a>Contrato Enterprise transacciones
 
-Cuando un cliente compra un producto desde Microsoft AppSource o Azure Marketplace usando su Contrato Enterprise de Microsoft actual para las transacciones, se emitirán pagos en el siguiente ciclo de pago 30 días después de la factura del cliente. Las transacciones en las que un cliente utiliza una tarjeta de crédito tienen un período de retención de 30 días antes del pago.
+Cuando un cliente compra un producto de Microsoft AppSource o Azure Marketplace mediante su microsoft Contrato Enterprise existente para transacciones, emitiremos pagos en el siguiente ciclo de pago 30 días después de la factura del cliente. Las transacciones en las que un cliente usa una tarjeta de crédito tienen un período de retención de 30 días antes del pago.
 
-A menudo se producirá un pago antes de que Microsoft recopile el pago del cliente. Vea el [proceso de no pago](#process-for-customer-non-payment) a través de los clientes a continuación para las acciones que tomamos si el cliente no paga a Microsoft, pero ya hemos emitido un pago.
+A menudo se producirá un pago antes de que Microsoft recopile el pago del cliente. Consulte [Proceso de impago](#process-for-customer-non-payment) del cliente a continuación para conocer las acciones que se llevan a cabo si el cliente no puede pagar a Microsoft, pero ya hemos emitido un pago.
 
-| Evento | Descripción | Visibilidad de informes | Agotamiento |
+| Evento | Descripción | Visibilidad de informes | Tiempo* |
 | --- | --- | --- | --- |
-| Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
-| Microsoft calcula el importe de facturación | Determinar el uso total, total de transacciones | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
-| Pago registrado | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
-| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3 (primera semana)** |
-| **Pago enviado** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la [instrucción de pago](payout-statement.md)** | **Mes 3 (no posterior al 15)** |
+| Uso o mes de transacción | El cliente usa o compra un servicio. | [Panel de](/azure/marketplace/partner-center-portal/usage-dashboard) uso [u](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mes 1** |
+| Microsoft calcula el importe de facturación | Determinación del uso total, total de transacciones | [Panel de](/azure/marketplace/partner-center-portal/usage-dashboard) uso [u](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mes 2** |
+| Pago publicado | Determinación de la cuota de la agencia y las ganancias de pago | Marcado como Sin procesar en el historial de transacciones en el [extracto de pago](payout-statement.md) | **Mes 3 (primera semana)** |
+| Preparación del pago | Las ganancias se preparan para el pago mensual | Marcado como Próximo en el historial de transacciones en el [extracto de pago](payout-statement.md) | **Mes 3 (primera semana)** |
+| **Pago enviado** | **El pago se envía al publicador** | **Marcado como Enviado en el historial de transacciones y en la sección Pagos del [extracto de pago](payout-statement.md)** | **Mes 3 (no posterior al 15)** |
 | Factura pagada por el cliente | Microsoft recopila el pago del cliente | Sin cambios | **Mes 4 a 12** |
 |
 
 \* La fecha de pago está en hora estándar del Pacífico (PST).
 
-:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Escala de tiempo de los pagos de los clientes con contrato Enterprise.":::
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Escala de tiempo de los pagos para los clientes del contrato Enterprise.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transacciones con tarjeta de crédito o factura (comprobación/conexión)
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transacciones con tarjeta de crédito o factura (cheque o conexión)
 
-Todas las compras con una tarjeta de crédito o una factura mensual tienen un período de retención de 30 días para garantizar que los fondos se recopilan del cliente.
+Todas las compras con una tarjeta de crédito o una factura mensual tienen un período de retención de 30 días para asegurarse de que los fondos se recopilan del cliente.
 
-| Evento | Descripción | Visibilidad de informes | Agotamiento |
+| Evento | Descripción | Visibilidad de informes | Tiempo* |
 | --- | --- | --- | --- |
-| Uso o mes de la transacción | El cliente usa o compra un servicio. | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 1** |
-| Factura pagada por el cliente | Determinar el uso total, el valor total de la transacción y el cliente paga la factura | Panel [uso](/azure/marketplace/partner-center-portal/usage-dashboard) u [orden](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mes 2** |
-| Pago registrado | Determinar el precio de la Agencia y los ingresos de pago | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 2** |
-| período de retención de 30 días | Garantizar la recopilación de fondos, los posibles contracargos y las solicitudes de reembolso | Marcado como no procesado en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 3** |
-| Preparación del pago | Los ingresos están preparados para el pago mensual | Marcado como próximo en el historial de transacciones de la [instrucción de pago](payout-statement.md) | **Mes 4 (primera semana)** |
-| **Pago enviado** | **El pago se envía al publicador** | **Marcado como enviado en el historial de transacciones y en la sección de pagos de la [instrucción de pago](payout-statement.md)** | **Mes 4 (no posterior al 15)** |
+| Uso o mes de transacción | El cliente usa o compra un servicio. | [Panel de](/azure/marketplace/partner-center-portal/usage-dashboard) uso [u](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mes 1** |
+| Factura pagada por el cliente | Determinación del uso total, el valor total de la transacción y el cliente paga la factura | [Panel de](/azure/marketplace/partner-center-portal/usage-dashboard) uso [u](/azure/marketplace/partner-center-portal/orders-dashboard) pedido | **Mes 2** |
+| Pago publicado | Determinación de los honorarios de la agencia y las ganancias de pago | Marcado como Sin procesar en el historial de transacciones en el [extracto de pago](payout-statement.md) | **Mes 2** |
+| Período de retención de 30 días | Garantizar la recopilación de fondos, posibles contra reembolsos y solicitudes de reembolso | Marcado como Sin procesar en el historial de transacciones en el [extracto de pago](payout-statement.md) | **Mes 3** |
+| Preparación del pago | Las ganancias se preparan para el pago mensual | Marcado como Próximo en el historial de transacciones en el [extracto de pago](payout-statement.md) | **Mes 4 (primera semana)** |
+| **Pago enviado** | **El pago se envía al publicador** | **Marcado como Enviado en el historial de transacciones y en la sección Pagos del [extracto de pago](payout-statement.md)** | **Mes 4 (no posterior al 15)** |
 |
 
 \* La fecha de pago está en hora estándar del Pacífico (PST).
 
-:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Escala de tiempo de los pagos de los clientes de la tarjeta de crédito y de la factura.":::
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Escala de tiempo de pagos para clientes con tarjeta de crédito y factura.":::
 
 ## <a name="process-for-customer-non-payment"></a>Proceso en caso de impago de los clientes
 
-En raras ocasiones, Microsoft no puede cobrar los pagos a los clientes por sus compras en Marketplace comercial. Cuando un cliente no puede pagar a Microsoft según su programación de facturación, comienza el proceso de cobro. Este proceso tarda aproximadamente cuatro meses e implica una comunicación continua con Microsoft. Si el pago no se recibe al final de este proceso, Microsoft escribe los fondos como no recopilables.
+En raras ocasiones, Microsoft no puede cobrar los pagos a los clientes por sus compras en Marketplace comercial. Cuando un cliente no puede pagar a Microsoft según su programación de facturación, comienza el proceso de cobro. Este proceso tarda aproximadamente cuatro meses e implica una comunicación continua con Microsoft. Si el pago no se recibe al final de este proceso, Microsoft escribe los fondos como no recuperables.
 
 Según el proceso de pago articulado aquí, es posible que Microsoft ya haya pagado fondos a los anunciantes (usted) que finalmente no se podrán cobrar. Por lo tanto, tenemos un proceso para conciliar estos importes. Para asegurarse de que tiene la advertencia de que su pago (ya recibido) se puede conciliar, se le avisará cuando un cliente se encuentre en el proceso de cobro y es probable que se cancelen las compras.
 
@@ -75,7 +72,7 @@ Microsoft recuperará los pagos que ya se le hayan pagado a usted con uno de los
 
 La siguiente programación es un ejemplo:
 
-| Evento | Fecha aproximada * | Visibilidad de los asociados |
+| Evento | Fecha aproximada* | Visibilidad de los asociados |
 | --- | --- | --- |
 | Ejemplo de fecha de pago | 15/10/2020 | Se marca como **Enviado** en el historial de transacciones y en la sección de pagos del panel de pago. |
 | <font color="red">Si el cliente no paga a Microsoft</font> | 2/12/2020 – 5/12/2020 | Sin cambios, igual que antes. |
@@ -84,15 +81,15 @@ La siguiente programación es un ejemplo:
 | Es probable que el anunciante reciba una notificación de una probable cancelación. | 07/01/2021 | Notificación por correo electrónico enviada al anunciante de que su cliente aún no ha enviado el pago. Se incluyen el identificador de la transacción y el importe en dólares. |
 | El cliente recibe el aviso de cancelación. | 01/02/2021 | None |
 | El proceso de cobro finaliza o los fondos se cancelan. | 15/02/2021 | Notificación por correo electrónico enviada al anunciante de que los fondos se han cancelado. Se incluyen el identificador de la transacción y el importe en dólares. |
-| El pago se deduce. | 01/03/2021 | El publicador verá una transacción negativa en la declaración de pago del centro de Partners |
-| El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en la declaración de pago del centro de Partners. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
+| El pago se deduce. | 01/03/2021 | El publicador verá una transacción negativa en Centro de partners de pago |
+| El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en Centro de partners de pago. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
 |||
 
 \* La fecha de pago está en hora estándar del Pacífico (PST).
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Número de días para que los pagos lleguen a la cuenta de pago
 
-Por lo general, enviamos cualquier pago debido a un mes determinado el día 15 de ese mes, pero el pago tardará otro tiempo en llegar a su cuenta. El número de días depende del método de pago que usamos para su cuenta, como se describe a continuación.
+Normalmente, se envía cualquier pago que se deba en un mes determinado el día 15 de ese mes, pero el pago tarda otro tiempo en llegar a su cuenta. El número de días depende del método de pago que usemos para su cuenta, como se describe a continuación.
 
 > [!NOTE]
 > Los días que se muestran a continuación son aproximados; cualquier pago puede tardar más o menos tiempo en llegar a su cuenta.

@@ -1,6 +1,6 @@
 ---
-title: Asociado con distribuidores indirectos en CSP
-description: Como proveedor o distribuidor indirecto, obtenga información sobre cómo ampliar asociados con distribuidores indirectos. Esto incluye las tareas que puede realizar en el centro de Partners.
+title: Asociación con revendedores indirectos en CSP
+description: Como proveedor o distribuidor indirecto, aprenda a expandirse mediante la asociación con revendedores indirectos. Esto incluye las tareas que puede realizar en Centro de partners.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,170 +9,165 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178959"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146687"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Trabajar junto a revendedores indirectos en el programa de Proveedor de soluciones en la nube
 
-**Roles adecuados**
+**Roles adecuados:** administrador global | Administrador de administración de | Agente de administración | Agente de ventas
 
-- Administrador global
-- Administrador del control de usuarios
-- Agente de administrador
-- Agente de ventas
+Con un marketplace tecnológico tan complejo y que cambia rápidamente, los clientes quieren la ventaja competitiva que las soluciones tecnológicas pueden darles. En este clima, tiene sentido que los asociados inviertan en la interacción entre asociados para ampliar las ofertas y permitir que los clientes hagan aún más.
 
-Con un Marketplace de tecnología tan complejo y con un cambio rápido, los clientes quieren tener el límite competitivo que las soluciones tecnológicas pueden proporcionar. En este clima, tiene sentido que los asociados inviertan en la interacción entre socios comerciales para ampliar las ofertas y permitir que los clientes hagan aún más.
+Los nuevos revendedores entran en el mercado y buscan formas de ofrecer sus soluciones a los clientes fuera de sus mercados y configuraciones regionales. Como proveedor de tecnología establecido, está bien posicionado para ser su ruta de comercialización. Asociación con revendedores indirectos en el programa Proveedor de soluciones en la nube (CSP) para conectarse con otros asociados, aportar nuevas soluciones al mercado y avanzar en la adopción de los servicios en la nube por parte de los clientes.
 
-Los nuevos distribuidores están entrando en el mercado y buscan formas de ofrecer sus soluciones a clientes fuera de sus mercados y configuraciones regionales. Como proveedor de tecnología establecido, está bien posicionado para ser su ruta al mercado. Asociado con revendedores indirectos en el programa del proveedor de soluciones en la nube (CSP) para conectarse con otros asociados, incorporar nuevas soluciones al mercado y adelantar la adopción de servicios en la nube por parte de los clientes.
+En el modelo de proveedor-revendedor indirecto (dos niveles), se asocia con revendedores indirectos para ofrecer soluciones en la nube de Microsoft a los clientes. Compra productos y suscripciones directamente de Microsoft y, a continuación, ofrece estas soluciones a los clientes a través de sus revendedores.
 
-En el modelo indirecto-Reseller (de dos niveles), se asocia a los revendedores indirectos para ofrecer soluciones en la nube de Microsoft a los clientes. Compre productos y suscripciones directamente de Microsoft y, a continuación, ofrezca estas soluciones a los clientes a través de sus revendedores.
+Como proveedor indirecto, se usa el Centro de partners para:
 
-Como proveedor indirecto, use el centro de partners para:
+- Conéctese con revendedores indirectos que pueden ayudar a ampliar su alcance y su base de clientes.
 
-- Póngase en contacto con distribuidores indirectos que puedan ayudar a ampliar su alcance y la base de clientes
+- Establezca asociaciones con revendedores indirectos que le permitan atender a clientes comunes.
 
-- Establecer asociaciones con distribuidores indirectos que le permitan atender a clientes comunes
+- Designe revendedores indirectos para administrar clientes y suscripciones específicos
 
-- Designar a los revendedores indirectos para administrar suscripciones y clientes específicos
+- Administrar las relaciones con Microsoft, los clientes y los revendedores indirectos en un solo lugar
 
-- Administre sus relaciones con Microsoft, los clientes y los revendedores indirectos en un solo lugar
-
-Para obtener información sobre lo que se necesita para participar en el programa CSP como revendedor indirecto, consulte Introducción al [revendedor indirecto](https://partner.microsoft.com/membership/cloud-solution-provider/) en el [sitio web de Microsoft Partner Network](https://partner.microsoft.com).
+Para obtener información sobre lo que se necesita para participar [](https://partner.microsoft.com/membership/cloud-solution-provider/) en el programa CSP como revendedor indirecto, consulte Introducción como revendedor indirecto en el sitio [web de Microsoft Partner Network .](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Tareas del proveedor indirecto en el Centro de partners
 
 Complete los pasos siguientes para establecer y administrar su asociación con revendedores y clientes indirectos. Los pasos 2 y 3 se describen con más detalle a continuación.
 
-1. Revise el perfil de su empresa en la [lista de proveedores indirectos oficiales de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Revise el perfil de su empresa en la [lista oficial de proveedores indirectos de Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
    - Para realizar cambios en el perfil de proveedor indirecto de la empresa, póngase en contacto con su representante de Microsoft.
 
-2. Conexión con distribuidores indirectos
+2. Conexión con revendedores indirectos
 
-   - Antes de interactuar con los distribuidores, debe establecer asociaciones con ellos en el centro de Partners.
+   - Para poder interactuar y realizar transacciones con los revendedores, debe establecer asociaciones con ellos en la Centro de partners.
 
 3. Conexión con los clientes
 
-   - Asociar nuevos clientes y suscripciones a los distribuidores
+   - Asociación de nuevos clientes y suscripciones a revendedores
 
-   - Establecer relaciones entre distribuidores y clientes existentes
+   - Establecimiento de relaciones de revendedor con clientes existentes
 
-Después de completar estos pasos, puede administrar sus asociaciones del reseller en la página **distribuidores indirectos** del menú del **centro de Partners** .
+Después de completar estos pasos, puede administrar las asociaciones de revendedores en la página Revendedores **indirectos** **desde Centro de partners** menú.
 
 > [!IMPORTANT]
-> Antes de poder empezar a trabajar con los distribuidores, deben inscribirse como revendedores indirectos en el programa CSP y tener cuentas del centro de Partners. Señale a los revendedores para que se [asocian con proveedores indirectos en CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP.
+> Para poder empezar a trabajar con revendedores, deben inscribirse como revendedores indirectos en el programa CSP y tener Centro de partners cuentas. Apunte a los revendedores a Partner with indirect providers in CSP (Asociarse con [proveedores indirectos en CSP)](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obtener información sobre la inscripción en CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Conexión con distribuidores indirectos
+## <a name="connect-with-indirect-resellers"></a>Conexión con revendedores indirectos
 
-Para interactuar con los revendedores indirectos del centro de Partners y realizar transacciones con ellos, debe establecer una asociación con ellos. Tener una asociación con un revendedor indirecto le permite a usted y al revendedor prestar servicio a los clientes comunes.
+Para interactuar y realizar transacciones con revendedores indirectos en la Centro de partners, debe establecer una asociación con ellos. Tener una asociación con un revendedor indirecto permite que usted y el revendedor atienden a clientes comunes.
 
-Para establecer una asociación, envíe por correo electrónico una solicitud de asociación al distribuidor. Asegúrese de que la dirección de correo electrónico del reseller esté disponible antes de empezar.
+Para establecer una asociación, envíe por correo electrónico una solicitud de asociación al revendedor. Asegúrese de tener a mano la dirección de correo electrónico del revendedor antes de empezar.
 
-En la página Detalles de la suscripción, en el campo Reseller (ID. de MPN), agregue el revendedor con el que desea trabajar. Asegúrese de usar el identificador de MPN asociado a la cuenta de ubicación de socio comercial del reseller que usó para incorporar al centro de Partners. Esto garantiza que el revendedor recibirá los incentivos adecuados y que tenga un contrato de asociado de Microsoft activo para participar en la transacción.
+En la página de detalles de la suscripción, en el campo Reseller (MPN ID) (Revendedor [id. de MPN]), agregue el revendedor con el que desea trabajar. Asegúrese de usar el identificador de MPN asociado a la cuenta de ubicación del partner del revendedor que usó para incorporar a Centro de partners. Esto garantiza que el revendedor recibirá los incentivos adecuados y que tiene un Contrato de asociados de Microsoft activo para participar en la transacción.
 
-1. Seleccione **revendedores indirectos** en el menú del **centro de Partners** .
+1. Seleccione **Revendedores indirectos** **en** Centro de partners menú.
 
-2. En la página **distribuidores indirectos** , seleccione **solicitar una asociación**. Aparece un mensaje de correo electrónico de borrador.
+2. En la **página Revendedores indirectos,** seleccione **Solicitar una asociación.** Aparece un mensaje de correo electrónico de borrador.
 
-3. Seleccione **abrir en correo electrónico** para abrir el mensaje en la aplicación de correo electrónico predeterminada o seleccione **copiar al portapapeles** para copiar y, a continuación, pegue el mensaje en un correo electrónico. Cuando haya terminado, seleccione **Listo**.
+3. Seleccione **Abrir en correo electrónico** para abrir el  mensaje en la aplicación de correo electrónico predeterminada o seleccione Copiar en el Portapapeles para copiar y, a continuación, pegue el mensaje en un correo electrónico. Cuando haya terminado, seleccione **Listo**.
     > [!IMPORTANT]  
-    >  Puede editar el texto del mensaje de correo electrónico, pero asegúrese de incluir el vínculo tal como está personalizado para la cuenta del centro de Partners.
+    >  Puede editar el texto en el mensaje de correo electrónico, pero asegúrese de incluir el vínculo, ya que está personalizado para su cuenta Centro de partners correo electrónico.
 
-4. Una vez que el revendedor acepte la solicitud de asociación, aparecerá en la lista de distribuidores indirectos y podrá:
+4. Una vez que el revendedor acepte la solicitud de asociación, aparecerán en la lista de revendedores indirectos y, a continuación, podrá:
 
    - Agregar nuevos clientes en su nombre
 
    - Envío de pedidos en nombre de sus clientes
 
-   - Asociarlos a una suscripción para que puedan administrarla en nombre del cliente que la adquirió
+   - Asócialos a una suscripción para que puedan administrarla en nombre del cliente que la adquirió.
 
-   - Designarlos como el contacto de soporte técnico del cliente para suscripciones específicas
+   - Designe como contacto de soporte técnico del cliente para suscripciones específicas.
 
-Según el nivel de acceso y la implicación que desee que tenga el revendedor, puede que desee realizar una o varias de las acciones descritas a continuación.
+Según el nivel de acceso y la participación que quiera que tenga el revendedor, puede que desee realizar una o varias de las acciones que se describen a continuación.
 
 En el caso de las suscripciones existentes, si decide trabajar con un revendedor indirecto, puede actualizar los detalles de la suscripción para incluir el revendedor indirecto.
 
-- En la página Detalles de la suscripción, en el campo **Reseller (ID. de MPN)** , agregue el revendedor con el que desea trabajar. Esto garantiza que el revendedor recibirá los incentivos adecuados.
+- En la página de detalles de la suscripción, en el campo **Reseller (MPN ID) (Revendedor [id.** de MPN]), agregue el revendedor con el que desea trabajar. Esto garantiza que el revendedor recibirá los incentivos adecuados.
 
-| **Para lograr esto** | **Haga esto** | **Where** |
+| **Para ello,** | **Haga esto** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Permite que el revendedor administre la cuenta de un cliente y tenga permisos de administrador para administrar sus suscripciones. | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la página **nuevo cliente** |
-| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En el **portal de servicios de Azure**, seleccione [configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de **propietario de inquilino** de revendedor indirecto|
-| Conceda al reseller el crédito para obtener incentivos | Asociar el revendedor a la suscripción (nuevo o existente) | En la página **nueva suscripción** |
-| Delegación del soporte al cliente para suscripciones específicas al distribuidor | Seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . | En la página de detalles de la suscripción: seleccione la página cliente de su **clientes** y, a continuación, seleccione la suscripción en la página **suscripciones** del cliente. |
+| Permitir al revendedor administrar la cuenta de un cliente y tener permisos de administrador para administrar sus suscripciones | Asociación de un revendedor a una cuenta de cliente al agregar un nuevo cliente | En la **página Nuevo** cliente |
+| Habilitación del revendedor para administrar la cuenta de un cliente de Azure|Asociación de un revendedor a una cuenta de cliente de Azure al agregar un nuevo cliente|En **el Portal de servicios de Azure,** seleccione [Configuración de usuario](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para conceder permisos de propietario del inquilino **del** revendedor indirecto.|
+| Dar crédito al revendedor para incentivos | Asociar el revendedor a la suscripción (nueva o existente) | En la **página Nueva** suscripción |
+| Delegación del soporte al cliente para suscripciones específicas al revendedor | Selección del revendedor en la **lista de contactos de soporte técnico designado** | En la página de detalles de la suscripción: seleccione el cliente en la página **Clientes** y, a continuación, seleccione la suscripción en la página **Suscripciones del** cliente. |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Eliminación de la asociación con distribuidores indirectos
 
 Para quitar la asociación con el revendedor indirecto existente, siga estos pasos. 
 
-1. En el menú del centro de partners del panel, seleccione **distribuidores indirectos**. 
+1. En el Centro de partners del panel, seleccione **Revendedores indirectos.** 
 
-2. En la página **distribuidores indirectos** , seleccione **quitar Asociación**. Aparecerá un mensaje que le pedirá confirmación. Para continuar, seleccione **sí**.
+2. En la **página Revendedores indirectos,** seleccione **Quitar asociación.** Aparecerá un mensaje que pide confirmación. Para continuar, seleccione **Sí.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Quitar Asociación":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Eliminación de la asociación":::
 
 >[!IMPORTANT]
->No se quitarán los clientes asociados al revendedor indirecto. Los privilegios de administrador delegados concedidos permanecerán sin cambios.
->Representa que la decisión de dejar de responder con el socio comercial se hizo de buena fe, para un propósito comercial legítimo y de acuerdo con su contrato con su cliente o socio comercial, y se compromete a defender y sostener a Microsoft de las reclamaciones de terceros en lo contrario.
+>Los clientes asociados al revendedor indirecto no se quitarán. Los privilegios de administrador delegados concedidos permanecerán sin cambios.
+>Usted representa que la decisión de interrumpir su relación con el asociado se tomó de buena fe, con un propósito comercial legítimo y de acuerdo con su contrato con su cliente o asociado, y acepta defender y mantener inofensivo a Microsoft frente a cualquier reclamación de terceros al contrario.
 >Si su contrato lo requiere, debe proporcionar un aviso legal de terminación a su cliente o partner. Esta herramienta no genera ningún aviso al cliente o al partner.
 
-3. El revendedor indirecto cuya Asociación haya quitado no aparecerá en la lista.
-Según el nivel de acceso y la implicación, puede que desee comunicarse con el revendedor indirecto, así como con el cliente final sobre este cambio.
+3. El revendedor indirecto cuya asociación ha quitado no aparecerá en la lista.
+En función del nivel de acceso e implicación, es posible que quiera comunicarse con el revendedor indirecto y con el cliente final sobre este cambio.
 
 
 ## <a name="connect-with-customers"></a>Conexión con los clientes
 
-Al obtener nuevos clientes, debe crear cuentas para ellos en el centro de Partners. Al agregar una nueva cuenta de cliente, puede designar a un revendedor específico para administrar la cuenta y administrar las suscripciones y servicios de los clientes en su nombre.
+Cuando obtenga nuevos clientes, debe crear cuentas para ellos en Centro de partners. Al agregar una nueva cuenta de cliente, puede designar un revendedor específico para administrar la cuenta y administrar las suscripciones y servicios de los clientes en su nombre.
 
-Cuando asocia un revendedor con una cuenta de cliente nueva, está delegando la administración de cuentas y suscripciones al distribuidor. Esto significa que el revendedor tiene acceso de administrador a las suscripciones y servicios del cliente y puede administrarlos en nombre del cliente.
+Al asociar un revendedor a una nueva cuenta de cliente, va a delegar la administración de cuentas y suscripciones al revendedor. Esto significa que el revendedor tiene acceso de administrador a las suscripciones y servicios del cliente y puede administrarlos en nombre del cliente.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Agregar nuevos clientes y asociarlos con distribuidores indirectos
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Agregar nuevos clientes y asociarlos a revendedores indirectos
 
-1. Seleccione **revendedores indirectos** en el menú del **centro de Partners** .
+1. Seleccione **Revendedores indirectos** **en** Centro de partners menú.
 
-2. Busque el revendedor indirecto al que desea asignar nuevos clientes y, a continuación, seleccione **Agregar nuevo cliente**. Tenga en cuenta que el revendedor indirecto ya está seleccionado en el formulario de detalles del cliente. Proporcione los detalles del cliente y, a continuación, seleccione **siguiente: suscripciones**.
+2. Busque el revendedor indirecto al que desea asignar nuevos clientes y, a continuación, **seleccione Agregar nuevo cliente.** Tenga en cuenta que el revendedor indirecto ya está seleccionado automáticamente en el formulario de detalles del cliente. Proporcione los detalles del cliente y, a continuación, **seleccione Siguiente: Suscripciones.**
 
-3. En la página **nueva suscripción** , seleccione las suscripciones que el cliente desea comprar y, a continuación, escriba el número de licencias que necesita el cliente.
+3. En la **página Nueva** suscripción, seleccione las suscripciones que el cliente quiere comprar y, a continuación, escriba el número de licencias que necesita el cliente.
 
 4. Seleccione **Siguiente: Review** (Siguiente: revisar).
 
-5. Si el orden es correcto, seleccione **submit (enviar**). Si el orden es incorrecto, seleccione **Cancelar** para cancelar la operación completa y empezar de nuevo.
+5. Si el pedido es correcto, seleccione **Enviar**. Si el pedido es incorrecto, seleccione **Cancelar para** cancelar toda la operación e iniciar de nuevo.
 
-6. Después de enviar el pedido, aparece la página de **confirmación** . En **información de instalación**, se muestran el nombre de la cuenta de usuario de administrador y la contraseña temporal. Copie la información del nombre y la contraseña de la cuenta de usuario para que pueda enviarla al nuevo cliente.
+6. Después de enviar el pedido, aparece **la página** Confirmación. En **Información de configuración**, se muestran el nombre de la cuenta de usuario administrador y la contraseña temporal. Copie la información de nombre y contraseña de la cuenta de usuario para poder enviarla al nuevo cliente.
 
     > [!IMPORTANT]  
-    > Asegúrese de anotar el nombre y la contraseña de la cuenta de usuario, ya que no puede tener acceso a esta información de nuevo después de cerrar esta página.
+    > Asegúrese de tomar nota del nombre y la contraseña de la cuenta de usuario, ya que no puede volver a acceder a esta información después de cerrar esta página.
 
-7. Seleccione **Listo**. El nuevo cliente aparece en la lista de clientes, asociado al revendedor indirecto. Ahora, el distribuidor tiene acceso de administrador a la información de la cuenta y las suscripciones del cliente, y puede administrar las suscripciones en nombre del cliente.
+7. Seleccione **Listo**. El nuevo cliente aparece en la lista de clientes, asociado al revendedor indirecto. El revendedor ahora tiene acceso de administrador a la información y las suscripciones de la cuenta del cliente y puede administrar las suscripciones en nombre del cliente.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Agregar nuevas suscripciones a las cuentas de cliente
+### <a name="add-new-subscriptions-to-customer-accounts"></a>Adición de nuevas suscripciones a cuentas de cliente
 
-Cuando los clientes desean comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, realice estos cambios en la cuenta del cliente a través del portal de Microsoft 365. No se puede hacer esto en el Azure Portal.
+Cuando los clientes quieran comprar nuevas suscripciones, actualizar las existentes o comprar licencias adicionales, realice estos cambios en la cuenta del cliente a través del portal Microsoft 365 cliente. No puede hacerlo en el Azure Portal.
 
-1. Seleccione **clientes** en el menú del **centro de Partners** .
+1. Seleccione **Customers** (Clientes) **en Centro de partners** menú.
 
-2. Busque el cliente cuya cuenta desea cambiar. Puede filtrar la lista por revendedor indirecto para restringir las opciones. Expanda el registro del cliente; para ello, seleccione la flecha abajo y, a continuación, seleccione **Agregar suscripción**.
+2. Busque el cliente cuya cuenta desea cambiar. Puede filtrar la lista por revendedor indirecto para restringir sus opciones. Expanda el registro del cliente; para ello, seleccione la flecha abajo y, a continuación, **seleccione Agregar suscripción.**
 
-3. En la página **nueva suscripción** , seleccione las suscripciones y escriba el número de licencias que el cliente desea comprar.
+3. En la **página Nueva** suscripción, seleccione las suscripciones y escriba el número de licencias que el cliente quiere comprar.
 
-4. Para asociar la suscripción a un revendedor, seleccione el nombre del distribuidor en la lista y, a continuación, seleccione **Enviar**. La Asociación del revendedor a la suscripción les permite ganar incentivos, si procede.
+4. Para asociar la suscripción a un revendedor, seleccione el nombre del revendedor en la lista y, a continuación, **seleccione Enviar**. La asociación del revendedor a la suscripción les permite obtener incentivos, si procede.
 
 5. Las nuevas suscripciones aparecen en la lista de suscripciones del cliente.
 
-6. Si desea que el revendedor controle las solicitudes de soporte al cliente de la nueva suscripción, seleccione la suscripción y, a continuación, seleccione el distribuidor de la lista de **contactos de soporte técnico designado** . 
+6. Si desea que el revendedor controle las solicitudes de soporte al cliente para la nueva suscripción, seleccione la suscripción y, a continuación, seleccione el revendedor en la lista De contacto **de soporte técnico designado.** 
 
-7. Seleccione **Enviar** cuando termine.
+7. Seleccione **Enviar** cuando haya terminado.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Encuentre respuestas a sus preguntas sobre el contrato de asociados de Microsoft
+Encuentre respuestas a sus preguntas sobre el Contrato microsoft partner
 
 - [Cómo pueden los proveedores indirectos ayudar a sus revendedores a adoptar Microsoft Partner Agreement: preguntas más frecuentes](mpa-indirect-provider-faq.md)
 
-Para obtener más información acerca de la administración de cuentas y suscripciones de clientes, consulte:
+Para obtener más información sobre la administración de suscripciones y cuentas de cliente, consulte:
 
 - [Suscripciones de cliente](customer-subscriptions.md)

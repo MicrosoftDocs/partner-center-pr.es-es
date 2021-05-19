@@ -8,30 +8,24 @@ description: Obtenga respuestas a preguntas comunes sobre el uso de conectores d
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284220"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148353"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Solución de problemas de conectores de referencias de venta conjunta
 
-**Se aplica a**
+**Se aplica a**: Dynamics 365 CRM | Salesforce CRM
 
-- Dynamics 365 CRM
-- Salesforce CRM
-
-**Roles adecuados**
-
-- Administrador de referencias
-- Administrador del sistema o personalizador del sistema en CRM
+**Roles adecuados:** administrador de referencias | Administrador del sistema o personalizador del sistema en CRM
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Preguntas y respuestas sobre los requisitos previos
 
 1. ¿Puede usar una solución de conectores de referencia de venta co-venta de prueba para su entorno?
 
-Si se encuentra en el entorno de prueba o ensayo, puede optar por la solución de prueba. La versión de pago de los conectores está disponible en AppSource a 15 USD/mes. Con la conexión de pago, recibirá 10 000 llamadas API al día. Los conectores son contenedores además de Centro de partners API de referencia. Cada vez que las  soluciones  de conector se ejecutan para un evento de creación o actualización en las oportunidades de Centro de partners o crm, se realiza una llamada API.
+Si se encuentra en el entorno de prueba o ensayo, puede optar por la solución de prueba. La versión de pago de los conectores está disponible en AppSource a 15 USD/mes. Con la conexión de pago, recibirá 10 000 llamadas API al día. Los conectores son contenedores sobre Centro de partners API de referencia. Cada vez que las  soluciones  de conector se ejecutan para un evento de creación o actualización en las oportunidades de Centro de partners o crm, se realiza una llamada API.
 
 2. ¿Qué rol necesita para crear secciones en el entorno crm?
 
@@ -54,7 +48,7 @@ Para usar el Power Automate, necesita:
 
 6.  ¿Necesita una suscripción de Dynamics 365 para usar la solución Salesforce Connectors?
 
-La solución Salesforce Connector es de tipo "Dynamics Flow", que admite la sincronización con otros sistemas CRM. La solución no requiere que tenga una instancia de Dynamics 365 o una suscripción. Al instalar la solución salesforce, puede aparecer una lista desplegable con el entorno de CDS existente en su empresa. Debe seleccionar ese entorno. Además, si recibe el error "No se pudo encontrar una organización de Dynamics 365 conectada al usuario que ha iniciado sesión", deberá crear un nuevo entorno para el conector.
+La solución Salesforce Connector es de tipo "Dynamics Flow" que admite la sincronización con otros sistemas CRM. La solución no requiere que tenga una instancia de Dynamics 365 o una suscripción. Al instalar la solución salesforce, puede aparecer una lista desplegable con el entorno de CDS existente en su empresa. Debe seleccionar ese entorno. Además, si recibe el error "No se pudo encontrar una organización de Dynamics 365 conectada al usuario que ha iniciado sesión", deberá crear un nuevo entorno para el conector.
 
 ## <a name="questions-and-answers-about-configuration"></a>Preguntas y respuestas sobre la configuración
 
@@ -85,7 +79,7 @@ Siga estos pasos de solución de problemas:
 
 - Active primero los dos flujos secundarios siguientes antes de activar el flujo Centro de partners a CRM.
       - Centro de partners a CRM- Helper (Insider Preview)
-      - Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a CRM (versión preliminar de Insider)
+      - Centro de partners actualizaciones de referencia de venta co-venta de Microsoft a CRM (versión preliminar de Insider)
 
 4. ¿Qué debe hacer cuando no puede agregar conexiones al flujo al intentar editar el flujo?
 
@@ -107,7 +101,7 @@ A. En Power Automate, deberá editar flujos en el orden siguiente y actualizarlo
 
 - Centro de partners webhook Registration (Insider Preview)
 - Creación de una referencia de venta co-venta: Salesforce Centro de partners (versión preliminar de Insider)
-- Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a Salesforce (versión preliminar de Insider)
+- Centro de partners microsoft co-sell Referral Updates to Salesforce (Insider Preview)
 - Centro de partners a Salesforce (versión preliminar de Insider)
 - Salesforce to Centro de partners (Insider Preview)
 - Salesforce Opportunity to Centro de partners (Insider Preview)
@@ -120,7 +114,7 @@ A. En Power Automate, deberá editar flujos en el orden siguiente y actualizarlo
 
 C. Active estos flujos mencionados a continuación:
 
- - Centro de partners actualizaciones de referencias de venta co-venta de Microsoft a Salesforce (versión preliminar de Insider)
+ - Centro de partners de referencias de venta co-venta de Microsoft a Salesforce (versión preliminar de Insider)
 
 - Salesforce to Centro de partners (Insider Preview)
 
@@ -133,7 +127,7 @@ E. En flow Centro de partners registro de webhook, seleccione **Ejecutar**. Prop
 
 1. ¿Cómo se solucionan los errores durante la Power Automate de flujo?
 
-Para asegurarse de que los flujos de Power Automate se ejecutan según lo previsto y para solucionar los errores durante la ejecución, consulte [Corrección de errores de flujo](/power-automate/fix-flow-failures).
+Para asegurarse de que los flujos de Power Automate se ejecutan según lo previsto y para solucionar los errores durante la ejecución, consulte [Corrección de](/power-automate/fix-flow-failures)errores de flujo .
 
 2. ¿Qué debe hacer si ve referencias que no están sincronizadas correctamente en Centro de partners o crm?
  
@@ -145,7 +139,7 @@ Asegúrese de que se cumplen las condiciones siguientes:
 
 - El identificador de la solución se proporciona como parte de la oportunidad.
 
-- Se requiere código de país de dos letras.
+- Se requiere un código de país de dos letras.
 
 - Cuando se selecciona ayuda de Microsoft para la oportunidad, se requiere información de contacto del cliente.
 
@@ -167,7 +161,7 @@ Siga estos pasos:
 
 Estas son algunas de las opciones que puede probar:
 
-- Compruebe si el nombre de usuario o la contraseña han expirado para Centro de partners usuario con roles de administrador de referencias.
+- Compruebe si el nombre de usuario o la contraseña han expirado para Centro de partners usuario con roles de administrador de referencia.
 
 - Puede ir a la oportunidad no sincronizada, realizar una actualización secundaria y observar si la referencia se ha sincronizado.
 
@@ -187,7 +181,7 @@ Asegúrese de que existen los roles adecuados.
 
 Deberá agregar el código de país iso de dos letras a la cuenta de cliente en CRM.
 
-7. ¿Qué debe hacer si ve el error de que el identificador de **solución es necesario** al crear una oportunidad de venta en colaboración?
+7. ¿Qué debe hacer si ve el error de que el identificador **de solución es necesario** al crear una oportunidad de venta en colaboración?
 
 Para crear una referencia de venta en colaboración, necesita una solución preparada para la venta en colaboración de Microsoft. 
 
@@ -195,13 +189,13 @@ Para crear una referencia de venta en colaboración, necesita una solución prep
 
 Haga lo siguiente:
 
-- Después de haber creado una nueva oferta de venta Centro de partners en Centro de partners, compruebe si se invoca el flujo de Centro de partners a Dynamics 365 (es posible que se invoque varias veces).
+- Después de crear una nueva oferta de venta en Centro de partners, compruebe si se invoca Centro de partners al flujo de Dynamics 365 (es posible que se invoque varias veces).
 
 - Si se invoca el flujo, compruebe todos los flujos invocados e identifique la ejecución del flujo que actualizaría el CRM. Puede seguir las acciones y comprobar si ha actualizado crm o ha detectado un problema.
 
 - Active **Nueva oferta** en Centro de partners para ver si se rellena con el identificador de CRM.
 
-- Asegúrese de que la oferta no se cierre accidentalmente como **Ganada** o **Perdida** en Centro de partners.
+- Asegúrese de que la oferta no se cierre accidentalmente como **Ganada** o **Perdida en** Centro de partners.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

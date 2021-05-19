@@ -1,6 +1,6 @@
 ---
 title: Inscribirse como proveedor del Panel de control
-description: Obtenga información acerca de cómo inscribirse como proveedor del panel de control (CPV) en el centro de partners para que pueda integrar mejor los sistemas de asociados de CSP con las API del centro de Partners.
+description: Obtenga información sobre cómo inscribirse como Panel de control Proveedor de aplicaciones (CPV) en Centro de partners para que pueda integrar mejor los sistemas asociados de CSP con Centro de partners API.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,40 +9,38 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147146"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Inscribirse como proveedor de panel de control para facilitar la integración de sistemas de partners de CSP con las API del Centro de partners
 
 
-**Roles adecuados**
+**Roles apropiados**: administrador global
 
-- Administrador global
+Un Panel de control Vendor (CPV) es un proveedor de software independiente que desarrolla aplicaciones para su uso por parte de asociados de Proveedor de soluciones en la nube (CSP) para permitirles integrar sus sistemas con Centro de partners API. Un Panel de control proveedor no es un asociado de CSP con acceso directo al panel de Centro de partners o Centro de partners API.
 
-Un proveedor del panel de control (CPV) es un proveedor de software independiente que desarrolla aplicaciones para que las usen los asociados del proveedor de soluciones en la nube (CSP) para permitirles integrar sus sistemas con las API del centro de Partners. Un proveedor del panel de control no es un asociado de CSP con acceso directo al panel del centro de Partners o a las API del centro de Partners.
+Tanto si es un proveedor de Panel de control (CPV) actual como un nuevo CPV que quiere trabajar con asociados de Microsoft, Microsoft ahora requiere que se inscriba en Centro de partners para registrar las aplicaciones y dar soporte técnico a Proveedor de soluciones en la nube asociados. Para crear una cuenta, un asociado de CPV puede usar un inquilino de asociado de CSP existente o un inquilino CPV existente o puede crear un nuevo inquilino como parte del proceso de incorporación. Si el asociado de CPV decide usar el inquilino de CSP existente, deberá crear aplicaciones multiinquilino independientes y registrarlas en Centro de partners para las actividades de CPV. Una aplicación no se puede registrar como una aplicación CSP y CPV. Una vez que se haya inscrito Centro de partners y registrado las aplicaciones, tendrá acceso a las API Centro de partners aplicaciones.  Póngase en contacto con Microsoft a través Soporte técnico de Microsoft solicitud si necesita una cuenta de espacio aislado. Si ya tiene una cuenta de espacio aislado, siga usla. No necesitará un nuevo espacio aislado.
 
-Tanto si es un proveedor de panel de control (CPV) actual como si es un nuevo CPV que desea trabajar con asociados de Microsoft, Microsoft ahora requiere inscribirse en el centro de partners para registrar sus aplicaciones y ofrecer soporte técnico a los asociados del proveedor de soluciones en la nube. Para crear una cuenta, un asociado de CPV puede usar un inquilino de asociado de CSP existente o un inquilino de CPV existente o puede crear un nuevo inquilino como parte del proceso de incorporación. Si el asociado del CPV decide usar el inquilino de CSP existente, tendrá que crear aplicaciones multiinquilino independientes y registrarlas en el centro de partners para actividades del CPV. Una aplicación no se puede registrar como un CSP y una aplicación CPV. Una vez inscrito en el centro de Partners y registrado las aplicaciones, tendrá acceso a las API del centro de Partners.  Póngase en contacto con Microsoft a través de una solicitud de Soporte técnico de Microsoft si necesita una cuenta de espacio aislado. Si ya tiene una cuenta de espacio aislado, siga utilizándola. No necesitará un espacio aislado nuevo
-
-Revisar el [contrato de proveedor del panel de control de Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
+Revisión del [contrato Panel de control proveedor de Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
 ## <a name="working-in-partner-center"></a>Uso del Centro de partners
 
-Una vez que haya inscrito en la experiencia de CPV del centro de Partners y haya aceptado el contrato CPV, puede:
+Una vez que se haya inscrito en Centro de partners experiencia de CPV y haya aceptado el contrato CPV, puede hacer lo siguiente:
 
-- Administrar aplicaciones de varios inquilinos (agregar aplicaciones a Azure Portal, registrar y anular el registro de aplicaciones en el centro de Partners).
+- Administrar aplicaciones multiinquilino (agregar aplicaciones para Azure Portal, registrar y anular el registro de aplicaciones en Centro de partners).
 
     >[!Note] 
-    >CPVs debe registrar sus aplicaciones en el centro de partners para obtener autorización para las API del centro de Partners. Agregar aplicaciones a Azure Portal solo no autoriza a las aplicaciones de CPV para las Partner Center API. 
+    >Las CPU deben registrar sus aplicaciones en Centro de partners para obtener autorización para Centro de partners API. Agregar aplicaciones a Azure Portal solo no autoriza a las aplicaciones de CPV para las Partner Center API. 
 
 - Ver y administrar el perfil de CPV 
 
-- Puedes ver y administrar los usuarios que necesitan acceso a las funcionalidades de CPV. El administrador global es el único rol que puede tener el CPV.
+- Puedes ver y administrar los usuarios que necesitan acceso a las funcionalidades de CPV. El administrador global es el único rol que puede tener un CPV.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
--[Agregar inquilinos adicionales a la cuenta del centro de Partners](multi-tenant-account.md)
+-[Adición de inquilinos adicionales a Centro de partners cuenta](multi-tenant-account.md)

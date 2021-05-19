@@ -1,34 +1,31 @@
 ---
-title: Confirmar elegibilidad de ganancias
+title: Confirmación de la elegibilidad de las ganancias
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Asegúrese de que es válido para crear ganancias y recibir el pago en el programa incentivos. Compruebe las reglas de elegibilidad y ingresos del centro de Partners.
+description: Asegúrese de que es apto para crear ganancias y recibir pagos en el programa de incentivos. Compruebe la elegibilidad de las ganancias y las reglas de ingresos en Centro de partners.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179282"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146823"
 ---
-# <a name="confirm-your-incentives-earnings-eligibility"></a>Confirme su elegibilidad de ganancias de incentivos
+# <a name="confirm-your-incentives-earnings-eligibility"></a>Confirmación de la elegibilidad de las ganancias de incentivos
 
-**Roles adecuados**
+**Roles adecuados:** administrador de incentivos | Administrador global
 
-- Administrador de incentivos
-- Administrador global
-
-Antes de poder pagar por su trabajo en el programa incentivos, primero debe completar todos los requisitos de idoneidad necesarios.
+Para poder recibir el pago por su trabajo en el programa de incentivos, primero debe completar todos los requisitos de idoneidad necesarios.
 
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>¿Cómo compruebo las reglas de ingresos y elegibilidad de mis ganancias?
 
-1. Inicie sesión en los [incentivos para asociados](https://partner.microsoft.com/membership/partner-incentives).
-2. Desplácese hacia abajo para obtener acceso a los documentos del programa interesado y seleccione el vínculo del documento para el programa correspondiente.
-3. En el documento, consulte las secciones **elegibilidad de asociados** y **reglas de ingresos válidas**.
+1. Inicie sesión en [Incentivos para partners.](https://partner.microsoft.com/membership/partner-incentives)
+2. Desplácese hacia abajo para acceder a los documentos del programa interesado y seleccione el vínculo de documento para el programa correspondiente.
+3. En el documento, consulte las secciones Elegibilidad del **partner y** Reglas de **ingresos elegibles.**
 
 ## <a name="next-steps"></a>Pasos siguientes
 
