@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818616"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153062"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Comprobar o actualizar la información del perfil de empresa 
 
@@ -98,9 +98,8 @@ Si es el administrador global, el administrador de facturación o el agente de a
 |Dirección de facturación|Dirección de facturación que se muestra en la factura de CSP. Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Contacto de facturación|Detalles del contacto de facturación (nombre, apellidos, número principal) de la cuenta de CSP.  Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Número de pedido de compra|Número de pedido de compra que se muestra en la factura del partner.  Se puede actualizar desde el [Perfil de facturación](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|Id. fiscal de la compañía|Las empresas de algunos países pueden proporcionar su [número de IVA (valor añadido) o el equivalente local](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Para actualizar el CIF o IVA, debe ser un administrador global, un administrador de facturación o un agente de administración.|
+|Id. fiscal de la compañía|Las empresas de algunos países pueden proporcionar su [número de IVA (valor añadido) o el equivalente local](./organization-tax-info.md). Para actualizar el CIF o IVA, debe ser un administrador global, un administrador de facturación o un agente de administración.|
 |Divisa de facturación|La moneda de facturación de la cuenta de CSP viene determinada por el país legal de la cuenta de CSP.  Esto no se puede cambiar una vez creada la cuenta de CSP.|
-
 
 ## <a name="next-steps"></a>Pasos siguientes
 

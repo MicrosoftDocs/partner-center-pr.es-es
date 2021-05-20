@@ -1,5 +1,5 @@
 ---
-title: 'Centro de partners Insights: informe del cliente'
+title: 'Centro de partners Insights: informe de cliente'
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120841"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152909"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Informes del panel de clientes de Centro de partners Insights
 
-**Roles adecuados**
-
-- Administrador global
-- Agente de administrador
-- Visor de informes
-- Visor de informes ejecutivos
+**Roles adecuados:** administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
 El panel Clientes presenta los datos de los clientes que han adquirido productos en la nube, como Office, Azure, Dynamics, etc., a través de usted o que lo han usado para implementar y administrar estos productos en sus inquilinos. 
  
@@ -74,7 +69,7 @@ En la sección de resumen se presenta una vista de instantáneas de varios KPI r
 
 El recuento de clientes actuales, los clientes activos actuales y los clientes recién agregados durante el intervalo de fechas seleccionado se asignan geográficamente mediante el país del cliente. Los porcentajes mostrados debajo de la métrica indican la contribución porcentual de ese país del total para esa métrica. Puede mantener el puntero sobre el mapa para ver los clientes totales, activos y nuevos de ese país. Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Vuelva a la vista original seleccionando el **botón Inicio** en el mapa. Todas las columnas de la cuadrícula se pueden ordenar.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="Captura de Centro de partners informe de clientes de Centro de partners Insights por geografía muestra el mapa del mundo y la lista de clientes totales, agregados y nuevos por región.":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Captura de pantalla Centro de partners informe del cliente de Insights por geografía muestra el mapa del mundo y la lista de clientes totales, agregados y nuevos por región.":::
 
 ## <a name="customer-adds-and-churns"></a>Agregaciones y abandonos de clientes
 

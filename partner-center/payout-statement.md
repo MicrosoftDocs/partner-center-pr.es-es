@@ -1,34 +1,31 @@
 ---
 title: Extractos de pagos
-description: Obtenga información sobre las instrucciones y los resúmenes de pago, y cómo ver y exportar los datos de pago del centro de Partners de Microsoft.
-ms.subservice: partnercenter-mpn
-ms.service: partner-dashboard
+description: Obtenga información sobre los extractos y resúmenes de pago y cómo ver y exportar los datos de pago de Microsoft Centro de partners
+ms.subservice: partnercenter-marketplace-publisher
+ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087100"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152603"
 ---
 # <a name="payout-statements"></a>Extractos de pagos
 
-**Roles adecuados**
+**Roles adecuados:** Administrador de | Administrador global
 
-- Administrador de cuentas
-- Administrador global
-
-La **declaración de pago** presenta una visión general de los pagos de ofertas vendidas a través del Marketplace comercial. Muestra el historial transaccional de los ingresos, calcula el siguiente pago y muestra las tendencias de pago. También puede descargar el historial de transacciones y las instrucciones de pago. En este artículo se explica cómo acceder a la declaración de pago y las distintas páginas de pago y descargas a las que se puede acceder en el centro de Partners.
+El **extracto de pago** presenta información general de los pagos de las ofertas vendidas a través del marketplace comercial. Muestra el historial transaccional de las ganancias, calcula el siguiente pago y muestra las tendencias de pago. También puede descargar el historial de transacciones y los extractos de pago. En este artículo se explica cómo acceder a su extracto de pago y a las distintas páginas de pago y descargas a las que puede acceder Centro de partners.
 
 >[!NOTE]
->Solo verá los datos de los ID. de MPN y los programas a los que está asociado. Si desea ver datos adicionales, trabaje con el administrador de la cuenta para obtener permisos. 
+>Solo verá los datos de los IDs y programas de MPN a los que está asociado. Si desea ver datos adicionales, trabaje con el administrador de la cuenta para obtener permisos. 
 
 ## <a name="roles-and-permissions"></a>Roles y permisos
 
-Para tener acceso a una declaración de pago, debe tener asignado el rol propietario de la **cuenta** o **colaborador financiero** .
+Para acceder a un extracto de pago, debe tener asignado el rol **Propietario** de la cuenta **o** Colaborador financiero.
 
 | Informes/páginas | Propietario de cuenta | Manager | Desarrollador | Colaborador empresarial | Colaborador financiero | Vendedor |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,94 +38,94 @@ Para tener acceso a una declaración de pago, debe tener asignado el rol propiet
 | Resumen de pagos | Puede ver | Sin acceso | Sin acceso | Sin acceso | Puede ver | Sin acceso |
 |
 
-## <a name="access-your-payout-statement"></a>Acceder a su declaración de pago
+## <a name="access-your-payout-statement"></a>Acceso al extracto de pago
 
-Inicie sesión en el [centro de Partners](https://partner.microsoft.com/dashboard/home) y seleccione el icono de pago en la esquina superior derecha de la pantalla para obtener acceso a los distintos resúmenes:
+Inicie sesión en [Centro de partners](https://partner.microsoft.com/dashboard/home) seleccione el icono de pago en la esquina superior derecha de la pantalla para acceder a estos resúmenes diferentes:
 
 - Historial de transacciones
 - Pagos
 - Exportar datos
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Muestra el icono de pago en la esquina superior derecha del portal del centro de Partners.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Muestra el icono de pago en la esquina superior derecha del Centro de partners portal.":::
 
-También puede usar la [API de pago de socios comerciales](https://apidocs.microsoft.com/services/partnerpayouts) para conectarse y obtener datos de pagos y transacciones de pago directamente.
+También puede usar partner [payout API](https://apidocs.microsoft.com/services/partnerpayouts) para conectarse y obtener datos de transacción y pago directamente.
 
 
 ## <a name="transaction-history"></a>Historial de transacciones
 
-La página **historial de transacciones** muestra el Resumen de los ingresos, el siguiente pago estimado y la tendencia de ganancias y pagos en los últimos 36 meses. También puede descargar los detalles de la transacción en esta sección.<br><br>Este informe muestra todos los beneficios que se reúnen para el pago, incluidos los pagos que todavía no se han enviado. Las ganancias son válidas para el pago cuando un ISV ha completado toda la información bancaria y fiscal del centro de Partners, ha obtenido >$50, la cuenta de ISV está activa y el cliente se ha facturado (para transacciones de EA) o se ha recibido el pago (para transacciones no de Asia oriental).
+La **página Historial de** transacciones muestra el resumen de las ganancias, el siguiente pago estimado y la tendencia de ganancias y pagos de los últimos 36 meses. También puede descargar los detalles de la transacción de esta sección.<br><br>En este informe se muestran todas las ganancias aptas para el pago, incluidos los pagos que aún no se han enviado. Las ganancias son aptas para el pago cuando un ISV ha completado toda la información bancaria y fiscal de Centro de partners, ha ganado >50 USD, la cuenta de ISV está activa y se ha facturado al cliente (para transacciones de EA) o se ha recibido el pago (para transacciones que no son ea).
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Información general sobre transacciones.":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Introducción a la transacción.":::
 
-- **Ganancias enviadas este año** : ingresos totales y desglose de los ingresos que se han pagado y se pagarán en el próximo mes.
-- **Mes de pago estimado** : total de ganancias esperadas en los próximos meses.
-- **Ingresos y tendencias de pago** : importes de pago y de ganancias mensuales durante los últimos 36 meses.
-- **Descargar** : Descargue los detalles de la transacción en formato. csv o. TSV.
+- **Ganancias enviadas este año:** las ganancias totales y el desglose de las ganancias que se han pagado y se pagarán en el próximo mes.
+- **Mes de pago estimado:** ganancias totales esperadas en los próximos meses.
+- **Tendencia de ganancias y pagos:** ganancias mensuales y importes de pago de los últimos 36 meses.
+- **Descargar:** descargue los detalles de la transacción en formato .csv o .tsv.
 
-Use la selección de intervalo de fechas en la esquina superior derecha de la página para filtrar el resultado de la página para mostrar los últimos 3, 6, 12 o 36 meses. O bien, seleccione un intervalo de fechas personalizado hasta 36 meses. El intervalo de fechas predeterminado es de 12 meses. También puede filtrar por ID. de inscripción, programa, ID. de pago, tipo de ganancia, palanca y estado. Los datos están disponibles para el año fiscal actual (el 1 de julio del 30 de junio) y los dos años fiscales anteriores.
+Use la selección de intervalo de fechas en la esquina superior derecha de la página para filtrar la salida de la página para mostrar los últimos 3, 6, 12 o 36 meses. O bien, seleccione un intervalo de fechas personalizado de hasta 36 meses. El intervalo de fechas predeterminado es de 12 meses. También puede filtrar por identificador de inscripción, programa, identificador de pago, tipo de ganancia, maneta y estado. Los datos están disponibles para el año fiscal actual (del 1 de julio al 30 de junio) y los dos años fiscales anteriores.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="El filtro de búsqueda en la parte superior derecha de la página.":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Filtro de búsqueda en la parte superior derecha de la página.":::
 
-Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se encuentra en el lado derecho de la página. Si lo hace, se mostrará la palanca, el importe de los ingresos, el producto y el cliente. Si, por alguna razón, alguno de estos datos no está disponible, pero necesita acceder a él, póngase en contacto con el soporte técnico. Si la ganancia es el resultado de un ajuste, y no una transacción, no se mostrarán los campos producto y cliente.
+Para ver más detalles sobre una ganancia, seleccione la flecha abajo que se encuentra en el lado derecho de la página. Si lo hace, se mostrará el beneficio, la cantidad de ingresos, el producto y el cliente. Si por algún motivo alguno de estos datos no está disponible, pero necesita acceso a ellos, póngase en contacto con el soporte técnico. Si la ganancia es el resultado de un ajuste y no de una transacción, no se mostrarán los campos Producto y Cliente.
 
-### <a name="transaction-history-summary"></a>Resumen de historial de transacciones
+### <a name="transaction-history-summary"></a>Resumen del historial de transacciones
 
-En esta vista se muestra la obtención de detalles, incluido el origen de la obtención del producto vendido de fechas, Estados y meses de pago estimados.
+Esta vista muestra los detalles de la ganancia, incluido el origen de la ganancia de las fechas de ganancias de ventas del producto, el estado y el mes de pago estimado.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historial de transacciones.":::
 
-- **Fecha acumulada** : la fecha de compra.
-- **Tipo de ganancia** : el tipo de ganancia, como la venta, el descuento o la Co-op.
-- **Importe total** : la cantidad neta ganada. En el Marketplace comercial, esto significa que, después de deducir la cuota de mercado estándar.
-- **Estado** : tiene tres opciones:
-    - **Próximos** : las ganancias se encuentran en un período de enfriamiento pendiente.
-    - **Procesado** : las ganancias están preparadas para el siguiente pago.
-    - **Enviado** : se han pagado las ganancias.
-- **Mes de pago estimado** : el mes en el que se espera que se paguen los ingresos. Vea la [sección siguiente](#estimated-payment-month) para obtener más información.
+- **Fecha de adquisición:** la fecha de compra.
+- **Tipo de ganancia:** el tipo de ganancia, como Venta, Reembolso o Cooperación.
+- **Importe total:** el importe neto de la ganancia. En el marketplace comercial, esto significa después de deducir la tarifa estándar de Marketplace.
+- **Estado:** tiene tres opciones:
+    - **Próximamente:** las ganancias están en un período de refrigeración pendiente.
+    - **Procesado:** las ganancias se preparan para el siguiente pago.
+    - **Enviado:** se han pagado las ganancias.
+- **Mes de pago estimado:** el mes en el que se espera que se paguen las ganancias. Consulte la [sección siguiente](#estimated-payment-month) para obtener más información.
 
-Las transacciones de obtención se muestran una vez que la transacción cumple la elegibilidad del pago. Para comprender por qué es posible que haya ganancias inesperadas o inesperadas, consulte [preguntas comunes sobre los pagos comerciales de Marketplace](payout-faq.md#why-are-my-earnings-missing).
+Las transacciones de ganancias se muestran una vez que la transacción cumple los requisitos de pago. Para entender por qué puede que falten ganancias o haya ganancias [inesperadas,](payout-faq.md#why-are-my-earnings-missing)consulte Preguntas comunes sobre los pagos del marketplace comercial.
 
 #### <a name="estimated-payment-month"></a>Mes de pago estimado
 
-La página historial de transacciones incluye ahora una tabla que muestra los importes de pago estimados durante los próximos meses. También puede ver y descargar esta información en las exportaciones historial de transacciones y informe de resumen. Esta información facilita la conciliación y las proyecciones de pago.
+La página Historial de transacciones ahora incluye una tabla que muestra los importes de pago estimados para los próximos meses. También puede ver y descargar esta información en las exportaciones del historial de transacciones y del informe Resumen. Esta información facilita las conciliaciones y las proyecciones de pago.
 
-El mes de pago estimado se calcula en función de las reglas de configuración del programa y de las escalas de tiempo, y se procesa en el siguiente ciclo de pago o próximo.
+El mes de pago estimado se calcula en función de las reglas de configuración del programa y las escalas de tiempo, y se procesa en el siguiente ciclo de pago o en el próximo.
 
-El mes de pago estimado está disponible actualmente para todos los tipos de obtención, excepto la cooperación, que se mostrará como **no aplicable**. En el caso de las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá como **no disponible**.
+El mes de pago estimado está disponible actualmente para todos los tipos de ganancias, excepto la cooperación, que se mostrará como **No aplicable.** Para las ganancias anteriores al 1 de julio de 2020, el mes de pago estimado aparecerá **como No disponible.**
 
 En la tabla siguiente se muestra un ejemplo de mes de pago estimado.
 
-| Month (Mes) | Amount |
+| Mes | Amount |
 | ------ | :-----------: |
-|  Sep-2020 |  $7.273,99   |
-|  Oct-2020 | $8.692,30  |
-|  Noviembre de 2020 | $107,89  |
+|  Sep-2020 |  7273,99 USD   |
+|  Octubre de 2020 | 8692,30 USD  |
+|  Noviembre de 2020 | 107,89 USD  |
 
-El importe estimado puede variar con respecto a la cantidad real por diversos motivos:
+La cantidad estimada puede variar de la cantidad real por diversos motivos:
 
-- Obteniendo restateización: si se vuelven a calcular las ganancias, el importe real será diferente.
+- Reestado de ganancias: si se vuelven a calcular las ganancias, el importe real será diferente.
 - Ajustes: la cantidad real varía en función de los ajustes que se produjeron o se enviaron.
-- Cambio de reglas: un cambio en las reglas puede reflejar el recálculo en la cantidad real pagada
-- Pagadera: si se produce un error de pago, la cantidad real podría ser diferente
+- Cambio de reglas: un cambio en las reglas puede reflejar el recálculo en el importe real pagado
+- Pago por pagar: si se produce un error de pago, el importe real podría ser diferente.
 
-Tenga en cuenta que el pago solo se publica en el mes previsto si se cumplen las reglas de elegibilidad de pago y umbral del programa. Estas reglas incluyen pero no se limitan a la lista siguiente:
+Tenga en cuenta que el pago solo se libera en el mes proyectado si se cumplen las reglas de elegibilidad de pago y el umbral del programa. Estas reglas incluyen, entre otras, la lista siguiente:
 
-- Su perfil fiscal debe estar actualizado
-- Los beneficios deben cumplir o superar el umbral de ganancia mínimo definido en la guía de programas.
-- Pago en espera: Si selecciona la opción "mantener el pago" en la página asignación de perfiles.
-- El instrumento de pago no está disponible: no se ha completado el perfil de pago o de impuestos.
+- El perfil fiscal debe estar actualizado
+- Las ganancias deben cumplir o superar el umbral mínimo de ganancia definido en la guía del programa.
+- Pago en espera: si selecciona la opción "Retener mi pago" en la página de asignación de perfiles.
+- Instrumento de pago no disponible: el perfil de pago o de impuestos no se ha completado.
 
 ### <a name="transaction-history-download"></a>Descarga del historial de transacciones
 
 Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte superior de la página. En la tabla siguiente se explica cada columna del informe.
 
 >[!NOTE]
->La exportación del historial de transacciones descarga tiene dos campos nuevos a partir del 2020 de agosto:
+>La exportación de descarga del historial de transacciones tiene dos nuevos campos a partir de agosto de 2020:
 >
->- **lastPaymentCurrency**  La moneda en la que se recibió el pago más reciente, en todos los MPNs en los que el asociado que tiene la sesión iniciada tiene acceso. Si no se recibe ningún pago, la última moneda de pago será de US USD.
->- **earningAmountInLastPaymentCurrency**  Importe de la ganancia en la última moneda del pago.
+>- **lastPaymentCurrency**  Moneda en la que se recibió el pago más reciente, en todos los MPN a los que tiene acceso el asociado que ha iniciado sesión actualmente. Si no se recibe ningún pago, la moneda del último pago será dólares estadounidenses.
+>- **earningAmountInLastPaymentCurrency**  Importe de la ganancia en la moneda del último pago.
 
-| Nombre de la columna | Descripción | Aplicabilidad de programas de incentivos/Marketplace |
+| Nombre de la columna | Descripción | Aplicabilidad para programas de incentivos o marketplaces |
 | --- | --- | --- |
 | agreementEndDate | Fecha de finalización del acuerdo. | Incentivos: solo algunos programas |
 | agreementNumber | Número de acuerdo. | Incentivos: solo algunos programas |
@@ -137,7 +134,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | claimId | Identificador único de una notificación. | Incentivos: solo algunos programas |
 | customerCountry | País o región del cliente. | marketplaces |
 | customerEmail |  |  |
-| customerName | Puede estar en blanco | Solo programas de incentivos (excepción: OEM) y Marketplaces. En el caso de las transacciones de CSP, Marketplace mostrará el nombre del CSP |
+| customerName | Puede estar en blanco | Solo programas de incentivos (excepción: OEM) y marketplaces. En el caso de las transacciones de CSP, marketplaces mostrará el nombre del CSP. |
 | customerTenantId |  |  |
 | distributorId | Identificador de distribuidor. | Incentivos: solo algunos programas |
 | distributorName | Nombre del distribuidor. | Incentivos: solo algunos programas |
@@ -150,30 +147,30 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | earningRate | Tasa de incentivos aplicada en el importe de la transacción para generar una ganancia | All |
 | earningType | Indica si se trata de honorarios, devolución, cooperativo, venta, etc. | All |
 | exchangeRateDate | Fecha del tipo de cambio usada para calcular earningAmountUSD. | All |
-| externalReferenceId | Identificador único del programa. | Programas de pago directo (incentivos y Marketplace) |
-| externalReferenceIdLabel | Etiqueta del identificador único. | Programas de pago directo (incentivos y Marketplace) |
+| externalReferenceId | Identificador único del programa. | Programas de pago directo (incentivos y marketplaces) |
+| externalReferenceIdLabel | Etiqueta del identificador único. | Programas de pago directo (incentivos y marketplaces) |
 | instantRebateAmount |  |  |
-| Fechafactura |  |  |
-| invoiceNumber | Número de factura (aplicable solo para empresas) | Incentivos y Marketplace: solo algunos programas |
+| invoiceDate |  |  |
+| invoiceNumber | Número de factura (aplicable solo para empresas) | Incentivos y marketplaces: solo algunos programas |
 | lastPaymentCurrency | Moneda del último pago (el campo estará vacío si no ha habido ningún pago anterior). |  |
 | lever | Indica la regla de negocios de la ganancia. | All |
 | LicensingProgramName | Nombre del programa de licencias. |  |
 | LineItemId | Línea individual en la factura de un cliente. |  |
 | localProviderSeller | Proveedor o vendedor local del registro. |  |
-| Mes de madurez | El mes de pago estimado | All |
+| Mes de madurez | Mes de pago estimado | Todo |
 | OrderId | Se relaciona con la factura de un cliente.  | marketplaces |
 | parentProductId | Identificador único del producto principal. Si no hay un producto principal para la transacción, el identificador del producto principal es igual al identificador del producto. | marketplaces |
 | parentProductName | Nombre del producto principal. Si no hay un producto principal para la transacción, el nombre del producto principal es igual al nombre del producto. | marketplaces |
 | participantId | Identidad principal del asociado que gana con el programa. | All |
-| participantIdType | Principalmente el identificador de programa para los programas de incentivos y el vendedor si se trata de Marketplace | All |
+| participantIdType | Identificador de programa principalmente para programas de incentivos y Seller IF para marketplaces | All |
 | participantName | Nombre del asociado que gana. | All |
 | partnerCountryCode | Ubicación, país o región del asociado que gana. | All |
-| partNumber | Siempre estará en blanco. | Algunos programas de incentivos y Marketplace |
-| paymentId | Identificador único para correlacionar todas las transacciones del informe de transacciones con un pago específico en el informe de pago | All |
+| partNumber | Siempre estará en blanco. | Algunos programas de incentivos y marketplaces |
+| paymentId | Identificador único para correlacionar todas las transacciones del informe de transacciones con un pago específico en el informe de pago | Todo |
 | paymentStatus | Estado del pago. | All |
 | paymentStatusDescription | Descripción detallada del estado del pago. | All |
 | productId | Identificador único del producto. | marketplaces |
-| ProductName | Nombre del producto vinculado a la transacción. | All |
+| ProductName | Nombre del producto vinculado a la transacción. | Todo |
 | productType | Tipo de producto, como, por ejemplo, aplicación, complemento o juego. | marketplaces |
 | Código de programa. | Cadena que se va a asignar con el nombre del programa. |  |
 | programName | Nombre del programa de incentivos/tienda. | All |
@@ -197,7 +194,7 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | taxRemitted | Importe del impuesto remitido (ventas, uso o impuestos de IVA/GST). | marketplaces |
 | taxState | Estado del cliente. |  |
 | taxZipCode | Código postal del cliente. |  |
-| tpan | Indica la red de anuncios de terceros. | solo anuncios de Marketplace |
+| tpan | Indica la red de anuncios de terceros. | Solo anuncios de marketplaces |
 | transactionAmount | Importe de la transacción en la moneda original de la transacción en función de la ganancia generada. | All |
 | transactionAmountUSD | Importe de la transacción en USD. | All |
 | transactionCountryCode | Código de país o región en el que se ha producido la transacción. |  |
@@ -210,83 +207,83 @@ Para ver más detalles sobre una ganancia, seleccione **Descargar** en la parte 
 | carga de trabajo | Carga de trabajo | Incentivos: solo algunos programas |
 |
 
-### <a name="transaction-adjustment-codes"></a>Códigos de ajuste de transacciones
+### <a name="transaction-adjustment-codes"></a>Códigos de ajuste de transacción
 
 En la tabla siguiente se enumeran los códigos de motivo de los ajustes y sus descripciones.
 
 |**Código de motivo**   |**Descripción**   |
 |------------------|:-------------------------------------|
-| Compatibilidad de AR | Ajuste que reduce las ganancias cuando el asociado no paga las facturas de Microsoft a tiempo. |
-| Sustitución de la Co-op | Ajuste que transfiere las ganancias de la Co-op a otro período, o bien convierte las ganancias de la Co-op al tipo de descuento. |
+| Cumplimiento de AR | Ajuste que reduce las ganancias cuando el partner no paga las facturas de Microsoft a tiempo. |
+| Suversión de cooperación | Ajuste que transfiere las ganancias de cooperación a otro período o convierte las ganancias de cooperación en ganancias. |
 | Ajuste de operaciones | Ajuste que corrige los errores de cálculo del sistema de Microsoft. |
-| Ajuste de operaciones de cálculo incorrecto de Microsoft | Ajuste que corrige los cálculos erróneos. |
-| Ajuste de operaciones de inscripción incorrecta de Microsoft | Ajuste para los cálculos erróneos relacionados con la inscripción. |
-| Asignación de asociados (suscripción) MCI/CSP | Ajuste que corrige la desalineación de la suscripción. |
-| Excepción de Directiva | Ajuste que invalida una regla de programa.  |
-| Ingresos del período anterior | Ajuste para las ganancias fuera del período de obtención actual. |
+| Cálculo incorrecto de Ajuste de operaciones de Microsoft | Ajuste que corrige cálculos erróneos. |
+| Ajuste de operaciones Inscripción incorrecta de Microsoft | Ajuste para cálculos erróneos relacionados con la inscripción. |
+| MCI/CSP de asignación de asociados (suscripción) | Ajuste que corrige el desalineamiento de la suscripción. |
+| Excepción de directiva | Ajuste que invalida una regla de programa.  |
+| Ganancias del período anterior | Ajuste de ganancias fuera del período de ganancias actual. |
 
 ## <a name="payments"></a>Pagos
 
-En la página **pagos** se detalla el dinero que ha obtenido con Microsoft. También muestra Cuándo y cuánto se pagará.
+En **la página** Pagos se detalla el dinero que ha ganado con Microsoft. También muestra cuándo y cuánto se le pagará.
 
 >[!Note]
-> Para poder acceder a esta opción, sus ganancias deben alcanzar el [umbral de pago](payment-thresholds-methods-timeframes.md) de 50 USD. Para obtener más información, vea el [contrato de Microsoft Publisher](https://go.microsoft.com/fwlink/?LinkID=699560).
+> Para poder acceder a esta opción, sus ganancias deben alcanzar el [umbral de pago](payment-thresholds-methods-timeframes.md) de 50 USD. Para obtener más información, vea El [Contrato del publicador de Microsoft](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Pantalla de información general de pagos.":::
 
-- **Total de pago de este año** : el total combinado abonado a su año, en dólares estadounidenses, para todos sus programas.
-- **Siguiente pago estimado** : el siguiente pago que le llega (aunque haya otros que estén disponibles próximamente), en dólares estadounidenses.
-- **Último pago** : la cantidad (en dólares estadounidenses), el nombre del programa y el programa del pago más reciente.
-- **Pago por origen** : cantidad de pagos (en dólares estadounidenses), por programa, en los últimos 12 meses.
+- **Total pagado este año:** el total combinado que se le ha pagado este año, en dólares estadounidenses, para todos los programas.
+- **Siguiente pago estimado:** el siguiente pago único que le llega (aunque pronto haya otros), en dólares estadounidenses.
+- **Último pago:** el importe (en dólares estadounidenses), el nombre del programa y el programa del pago más reciente.
+- **Pago por origen:** cantidad de pagos (en dólares estadounidenses) por programa durante los últimos 12 meses.
 
 ### <a name="payments-list"></a>Lista de pagos
 
-La tabla **de la lista de pagos** muestra pagos pendientes y de pago. Puede descargar la información fiscal de tarifas de servicio en formato PDF y ver los detalles de obtención de un pago determinado.
+En **la tabla Lista de pagos** se muestran los pagos pagados y pendientes. Puede descargar la información fiscal de los honorarios del servicio en formato PDF y ver los detalles de ganancias de un pago determinado.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportar historial de transacciones":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportación del historial de transacciones":::
 
-- **Pagado** : todos los pagos se enviaron correctamente. Elija el año en el menú desplegable para filtrar los pagos liberados en ese año.
-- **Pendiente** : próximos pagos.
-- **Impuesto de la cuota de servicio (formulario pdf)** : disponible para los pagos que se someten a impuestos sobre la tarifa de servicio. Los impuestos de la cuota de servicio se muestran en **otros impuestos**.
-- **Ver** : redirige al historial de transacciones con una lista de ganancias incluidas en el pago.
+- **Pago:** todos los pagos enviados correctamente. Elija el año en el menú desplegable para filtrar por los pagos publicados en ese año.
+- **Pendiente:** próximos pagos.
+- **Impuestos de tarifas de servicio (formulario PDF):** disponibles para los pagos sujetos a impuestos de tarifas de servicio. Los impuestos de tarifa de servicio se muestran en **Otros impuestos.**
+- **Ver:** redirige al historial de transacciones con una lista de ganancias incluidas en el pago.
 
-Para comprender por qué es posible que haya ganancias inesperadas o inesperadas, consulte [preguntas comunes sobre los pagos comerciales de Marketplace](payout-faq.md#why-are-my-earnings-missing).
+Para entender por qué puede que falten ganancias o haya ganancias [inesperadas,](payout-faq.md#why-are-my-earnings-missing)consulte Preguntas comunes sobre los pagos del marketplace comercial.
 
 ### <a name="payment-status"></a>Estado del pago.
 
-En la tabla siguiente se explican los distintos Estados de la ganancia.
+En la tabla siguiente se explican los distintos estados de ganancia.
 
 | Estado de la ganancia | Motivo | ¿Se requiere una acción del asociado? |
 | --- | --- | --- |
-| Sin procesar | La ganancia es válida para el pago. Permanece en este estado durante un período de enfriamiento, tal y como se define en la guía de programas para el programa incentivos. | No |
-| Próximamente | El pedido de pago generó revisiones internas pendientes antes de que se procese el pago. | No |
-| Factura de impuestos pendiente | La factura de impuestos está incompleta o no es válida. | Debe actualizar su factura de impuestos antes de recibir el pago. |
-| Rechazado durante la revisión | Se rechazó el pago durante la revisión. | Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft. |
-| Con error | No se pudo realizar el pago debido a un error del sistema de Microsoft. | Póngase en contacto con el soporte técnico de Microsoft para obtener detalles |
+| Sin procesar | La ganancia es válida para el pago. Permanece en este estado durante un período de refrigeración, tal como se define en la guía del programa para la Programa Incentivos. | No |
+| Próximamente | El pedido de pago generó revisiones internas pendientes antes de procesar el pago. | No |
+| Factura de impuestos pendiente | La factura fiscal está incompleta o no es válida. | Debe actualizar su factura de impuestos antes de recibir el pago. |
+| Rechazado durante la revisión | El pago se rechazó durante la revisión. | Para obtener información, póngase en contacto con el servicio de soporte técnico de Microsoft. |
+| Failed | Error en el pago debido a un error del sistema de Microsoft. | Póngase en contacto con el soporte técnico de Microsoft para obtener más información. |
 | En curso | El pago está en curso. | No |
-| Pago incorrecto | La regresión del pago está en curso. | No |
+| Pago incorrecto | La recuperación del pago está en curso. | No |
 | Enviado | El pago se ha enviado al banco. | No |
-| Reprocesamiento | El pago encontró un error del sistema de Microsoft y se está reprocesando. | No |
-| Reversed | El banco invirtió el pago y se enviará de nuevo en el siguiente ciclo de pago. | No |
-| Factura de impuestos rechazada | Se rechazó su factura de impuestos durante la revisión. Todos los pagos pendientes se pondrán en espera hasta que se complete la revisión de la factura de impuestos. | Póngase en contacto con el soporte técnico de Microsoft para obtener detalles |
+| Reprocesamiento | El pago encontró un error del sistema de Microsoft y se está reprocesado. | No |
+| Reversed | El banco revirtió el pago y se enviará de nuevo en el siguiente ciclo de pago. | No |
+| Factura de impuestos rechazada | Se rechazó su factura de impuestos durante la revisión. Todos los pagos pendientes se pondrán en espera hasta que se complete la revisión de la factura de impuestos. | Póngase en contacto con el soporte técnico de Microsoft para obtener más información. |
 | Factura de impuestos en revisión | Se está revisando su factura de impuestos. El pago se publicará una vez que se haya aprobado la factura de impuestos. | No |
-| Rechazada | El Banco rechazó el pago. | Póngase en contacto con su banco para obtener información. |
+| Rechazada | El banco rechazó el pago. | Póngase en contacto con su banco para obtener información. |
 |
 
 ### <a name="payments-download"></a>Descarga de pagos
 
- En la tabla siguiente se explica cada columna del informe. Para ver más detalles sobre los pagos, seleccione **Descargar** en la parte superior de la página pagos.
+ En la tabla siguiente se explica cada columna del informe. Para ver más detalles sobre los pagos, seleccione **Descargar en** la parte superior de la página Pagos.
 
 | Nombre de la columna | Descripción |
 | --- | --- |
 | participantID | Identidad principal del asociado que gana con el programa. |
-| participantIDType | Normalmente, el ID. de programa para los programas de incentivos y el identificador de vendedor para los programas de tienda |
+| participantIDType | Normalmente, el identificador del programa para los programas de incentivos y el identificador de vendedor para los programas de la Tienda |
 | participantName | Nombre del asociado que gana. |
-| programName | Incentivos/nombre del programa de tienda |
+| programName | Nombre del programa de incentivos/tienda |
 | earned | Importe obtenido en la moneda del destinatario del pago para ese programa/participantID. |
 | earnedUSD | Importe obtenido para el programa/identificador de participante, en dólares estadounidenses. |
 | withheldTax | Importe de los impuestos retenidos en la moneda del destinatario del pago para el programa/participantID. |
-| salesTax | Importe total del impuesto de ventas en el pago por moneda para el programa/participantID (aplicable solo a los programas de incentivos) |
+| salesTax | Importe total de los impuestos de ventas en la moneda de pago a para el programa o participantID (aplicable solo para programas de incentivos) |
 | serviceFeeTax | Importe total de serviceFeeTax en la moneda del destinatario del pago para el programa/participantID (aplicable solo para programas de la Tienda y Azure Marketplace). |
 | totalPayment | Pago total en la moneda local que excluye la retención de impuestos e incluye el impuesto sobre las ventas (si es necesario) para el programa/participantID. |
 | currencyCode | Código de la moneda del destinatario del pago. |
@@ -299,25 +296,25 @@ En la tabla siguiente se explican los distintos Estados de la ganancia.
 
 ## <a name="export-data"></a>Exportar datos
 
-La página **exportar datos** no se actualiza por sí misma. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes. Seleccione una de las tres pestañas para exportar el **historial de transacciones**, los **pagos**, el **Resumen de transacciones** o la **instrucción histórica**.
+La **página Exportar** datos no se actualiza por sí sola. Es posible que tenga que actualizar la página manualmente para ver los datos más recientes. Seleccione una de las tres pestañas para exportar **el** historial de transacciones, **pagos,** **resumen de transacciones** o **instrucción histórica.**
 
-El filtro podría producir un error **no hay datos disponibles** . Esto puede ocurrir si se deja el período de tiempo predeterminado seleccionado en tres meses y después se selecciona un ID. de pago de una ganancia que está fuera de ese período. Si esto ocurre, expanda el período de tiempo y vuelva a intentarlo.
+El filtro podría producir un error **No hay datos disponibles.** Esto puede ocurrir si deja el período de tiempo predeterminado seleccionado en tres meses y, a continuación, selecciona un identificador de pago de una ganancia que está fuera de ese período. Si esto sucede, expanda el período de tiempo e inténtelo de nuevo.
 
-A continuación se muestra un ejemplo de exportación de pagos:
+Esta es una exportación de pagos de ejemplo:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Informe de los pagos exportados.":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Exportar informe de pagos.":::
 
 ### <a name="historical-statements"></a>Extractos históricos
 
-El Resumen **exportar datos** también proporciona acceso a las instrucciones históricas.
+El **resumen exportar datos** también proporciona acceso a las instrucciones históricas.
 
 > [!NOTE]
-> Una instrucción histórica es una instantánea y no se actualiza. Póngase en contacto [con el soporte técnico](https://partner.microsoft.com/support/v2/?stage=1) y solicite los datos más recientes, si es necesario.
+> Una instrucción histórica es una instantánea y no se actualiza. Póngase en contacto [con el soporte](https://partner.microsoft.com/support/v2/?stage=1) técnico y solicite los datos más recientes si es necesario.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportar instrucciones históricas.":::
 
-- El historial de transacciones desde antes del 1 de julio de 2019 se administra por separado y usa distintos campos de informes de historial posteriores.
-- El historial de transacciones heredadas tiene una columna denominada "reservada" que corresponde a la columna "beneficios" del historial moderno, con la salvedad de que excluye todas las ganancias cuyo estado es "pago enviado".
+- El historial de transacciones anterior al 1 de julio de 2019 se controla por separado y usa campos diferentes de los informes de historial posteriores.
+- El historial de transacciones heredado tiene una columna denominada "Reservado" que corresponde a la columna "Ganancias" del historial moderno, salvo que excluye todas las ganancias con el estado igual a "Pago enviado".
 - Filtros como 3 M, 6 M o 12 M no se aplicarán a la sección Extractos históricos.
 
 ### <a name="historical-statement-downloads"></a>Descargas de instrucciones históricas
@@ -327,7 +324,7 @@ En la tabla siguiente se explica cada columna de una instrucción histórica.
 | Nombre del campo | Descripción |
 | --- | --- |
 | Origen de ingresos | El origen de los ingresos en función de dónde se ha producido la transacción, como, por ejemplo, Microsoft Store, la Tienda Windows Phone, la Tienda Windows 8 o publicidad. |
-| Identificador del pedido | Identificador único del pedido. Este identificador permite identificar las transacciones de compra con sus transacciones que no son de compra correspondientes, como, por ejemplo, reembolsos o contracargos. El identificador del pedido será el mismo en ambos casos. Además, si hay un cargo dividido en el que se usaron varios métodos de pago para una sola compra, le permite vincular las transacciones de compra. |
+| Identificador del pedido | Identificador único del pedido. Este identificador permite identificar las transacciones de compra con sus transacciones que no son de compra correspondientes, como, por ejemplo, reembolsos o contracargos. El identificador del pedido será el mismo en ambos casos. Además, si hay un cargo dividido en el que se usaron varios métodos de pago para una sola compra, permite vincular las transacciones de compra. |
 | Transaction ID | Identificador único de la transacción. |
 | Fecha y hora de la transacción | La fecha y la hora de la transacción (UTC). |
 | Id. del producto principal | Identificador único del producto principal. Si no hay un producto principal para la transacción, el identificador del producto principal es igual al identificador del producto. |

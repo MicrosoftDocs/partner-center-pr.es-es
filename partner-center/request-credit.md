@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855563"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152960"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Cómo y cuándo solicitar un crédito de contrato de nivel de servicio (SLA) a Microsoft
 
@@ -31,10 +31,10 @@ Los créditos del Acuerdo de Nivel de Servicio de Microsoft se determinan en fun
 
 ## <a name="request-an-sla-credit"></a>Solicitud de un crédito del Acuerdo de Nivel de Servicio
 
-*El Proveedor de soluciones en la nube (CSP) debe enviar la notificación y toda la información necesaria al final del mes natural siguiente al mes en el que se produjo el incidente.* Por ejemplo, si el incidente se produjo el 15 de febrero, Microsoft debe recibir la notificación y toda la información necesaria antes del 31 de marzo. Los clientes finales y revendedores indirectos no pueden enviar notificaciones de crédito del Acuerdo de Nivel de Servicio. el proveedor indirecto o el asociado de facturación directa deben enviar notificaciones en su nombre.
+*El Proveedor de soluciones en la nube (CSP) debe enviar la notificación y toda la información necesaria al final del mes natural siguiente al mes en el que se produjo el incidente.* Por ejemplo, si el incidente se produjo el 15 de febrero, Microsoft debe recibir la notificación y toda la información necesaria antes del 31 de marzo. Los clientes finales y los revendedores indirectos no pueden enviar notificaciones de crédito del Acuerdo de Nivel de Servicio. el proveedor indirecto o el asociado de facturación directa deben enviar notificaciones en su nombre.
 
 >[!NOTE]
->Los incidentes de asesoramiento[(cómo comprobar Microsoft 365 estado](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)del servicio) no son aptos para los créditos del Acuerdo de Nivel de Servicio.
+>Los incidentes de asesoramiento[(cómo comprobar Microsoft 365 estado](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)del servicio) no son aptos para los créditos del Acuerdo de Nivel de Servicio.
 
 ### <a name="required-information"></a>Información necesaria
 
@@ -53,12 +53,12 @@ Antes de enviar una solicitud de crédito  del [Acuerdo](#submit-sla-credit-requ
 - Número y ubicación de los usuarios afectados (si procede)
 - Descripciones de los intentos de resolver el incidente en el momento de la repetición
 - Un correo electrónico del cliente afectado que solicita soporte técnico y, posteriormente, crédito
-- El número de vale de soporte técnico y los detalles del contacto del cliente con respecto a la resolución del impacto en el servicio
+- Número de incidencia de soporte técnico y detalles del contacto del cliente con respecto a la resolución del impacto en el servicio
 
 
 #### <a name="outage-incident-identifier"></a>Identificador de incidente de interrupción
 
-Puede encontrar el identificador del incidente de interrupción en la **Service Health** de la Centro de administración de Microsoft 365. El **identificador de incidente** de interrupción es un número precedido por una abreviatura de dos letras que indica el servicio afectado (por ejemplo, *EX25194* para una interrupción de Exchange Online). En la tabla siguiente se describen las abreviaturas de servicio comunes:
+Puede encontrar el identificador del incidente de interrupción en la **Service Health** del Centro de administración de Microsoft 365. El **identificador de incidente** de interrupción es un número precedido por una abreviatura de dos letras que indica el servicio afectado (por ejemplo, *EX25194* para una interrupción de Exchange Online). En la tabla siguiente se describen las abreviaturas de servicio comunes:
 
 | Abreviatura de dos letras | Servicio de Microsoft |
 | ----------------------- | ----------------- |
@@ -76,13 +76,13 @@ Puede encontrar el identificador del incidente de interrupción en la **Service 
 Para enviar la solicitud de crédito del Acuerdo de Nivel de Servicio a Microsoft a través Centro de partners panel:
 
 1. Inicie sesión en el panel del Centro de partners.
-2. En el menú de la izquierda, elija **Solicitudes de servicio y,** a continuación, **seleccione Solicitudes de soporte técnico para asociados.**
-3. En la **página Solicitud de** asociado, elija Nueva **solicitud.**
-4. En la **página Iniciar la solicitud,** busque la sección **CSP : clientes, pedidos y suscripciones.** En esta sección, elija **Seleccionar un tipo de problema y,** a continuación, seleccione Solicitudes de crédito de servicios de **cliente**.
-5. En la **página Soluciones recomendadas,** en **¿Necesita más ayuda?**, elija **Sí.**
+2. En el menú de la izquierda, elija **Solicitudes de servicio y,** a continuación, **seleccione Solicitudes de soporte técnico para partners.**
+3. En la **página Solicitud de asociado,** elija **Nueva solicitud.**
+4. En la **página Iniciar la solicitud,** busque la sección **CSP : clientes, pedidos y suscripciones.** En esta sección, elija **Seleccionar un tipo de problema y,** a continuación, seleccione Solicitudes de crédito de servicios al **cliente.**
+5. En la **página Soluciones recomendadas,** **en ¿Necesita más ayuda?**, elija **Sí.**
 6. En la **página Detalles,** rellene la sección **Detalles del** problema. En el **cuadro de** texto Detalles, asegúrese de escribir la [información necesaria](#required-information) que ha recopilado anteriormente.
 7. Elija **Enviar para** enviar la solicitud de crédito del Acuerdo de Nivel de Servicio.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Informe de problemas en nombre del cliente](report-problems-on-behalf-of-a-customer.md)
+- [Notificar problemas en nombre del cliente](report-problems-on-behalf-of-a-customer.md)

@@ -9,18 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740291"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150869"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Buscar los id. importantes de un usuario
 
-**Roles adecuados**
-
-- Administrador global
+**Roles apropiados**: administrador global
 
 En este artículo se describe cómo usar el [Azure Portal](https://portal.azure.com/) para buscar la siguiente información para un usuario:
 
@@ -30,7 +28,7 @@ En este artículo se describe cómo usar el [Azure Portal](https://portal.azure.
 
 - El identificador de objeto de usuario
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Busque el identificador Microsoft Azure AD inquilino y el nombre de dominio principal.
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Buscar el identificador Microsoft Azure AD inquilino y el nombre de dominio principal
 
 Siga estos pasos para buscar el identificador Azure AD inquilino o el nombre de dominio principal dentro del Azure Portal. (Si desea encontrar un identificador de inquilino mediante programación, consulte Buscar el identificador de inquilino [con PowerShell o la CLI).](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)
 
@@ -47,7 +45,7 @@ Siga estos pasos para buscar el identificador Azure AD inquilino o el nombre de 
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Muestra la página Información general con dos campos resaltados, el identificador de inquilino y el nombre de dominio principal.":::
 
-4. Puede encontrar el identificador de inquilino en la Azure Portal de otras maneras. Seleccione **Azure Active Directory** en el menú. A continuación, busque **la sección** Administrar en el menú y seleccione **Propiedades.**
+4. Puede encontrar el identificador de inquilino en el Azure Portal de otras maneras. Seleccione **Azure Active Directory** en el menú. A continuación, busque **la sección** Administrar en el menú y seleccione **Propiedades.**
 
    La página Propiedades también muestra el identificador de inquilino asociado del usuario.
 

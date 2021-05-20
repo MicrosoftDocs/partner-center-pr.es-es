@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855784"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153011"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Proveedor de soluciones en la nube mercados regionales del programa y monedas donde puede vender ofertas de CSP
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Proveedor de soluciones en la nube mercados regionales y monedas del programa en los que puede vender ofertas de CSP
 
-**Roles adecuados:** Administrador global
+**Roles apropiados**: administrador global
 
 La ubicación de la empresa determina el mercado. El mercado incluye las regiones o países en los que puede vender ofertas Proveedor de soluciones en la nube programa csp (CSP).
 
@@ -31,7 +31,7 @@ Para poder hacer un pedido de ofertas del programa CSP en nombre de un cliente, 
 El plan de Azure para CSP está disponible en menos regiones que Azure Software for CSP. Para obtener las actualizaciones más recientes sobre la disponibilidad regional del plan de Azure, consulte [Compra del plan de Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Debe confirmar que un cliente ha aceptado el Contrato de cliente de Microsoft proporcionando información sobre la persona que la firmó. Para más información, consulta [Confirmar la aceptación del cliente del Contrato de cliente de Microsoft](confirm-consent.md).
+> Debe confirmar que un cliente ha aceptado el Contrato de cliente de Microsoft proporcionando información sobre la persona que la firmó. Para más información, consulta [Confirmar la aceptación del cliente del Contrato de cliente de Microsoft](./confirm-customer-agreement.md).
 
 Para determinar dónde puede vender ofertas de CSP, busque la ubicación de su empresa en una de las listas siguientes. Debe tener un identificador de Microsoft Partner Network (MPN) activo para la ubicación en la que desea vender.  
 
@@ -42,11 +42,11 @@ Si no se admite su país, establezca la relación de CSP del cliente mediante la
 
 - Los asociados de facturación directa usan la siguiente dirección URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Reemplace **partnertenantguid por** el identificador de inquilino. 
 
-- La dirección URL de los revendedores indirectos es: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Reemplace **IRteplaceguid por** el identificador de inquilino. Reemplace **IRMPNID por** el identificador de MPN y **reemplace IPtenantguid** por el identificador de inquilino del proveedor indirecto.
+- La dirección URL de los revendedores indirectos es: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Reemplace **IRteplaceguid por** el identificador de inquilino. Reemplace **IRMPNID por** el identificador de MPN y **reemplace IPtenantguid por** el identificador de inquilino del proveedor indirecto.
 
 ## <a name="africa-region-and-market"></a>Región y mercado de África
 
-Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes en todas las ubicaciones de la lista.
+Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes de todas las ubicaciones de la lista.
 
 | País/región           | Moneda |
 | ------------------------ |:--------:|
@@ -167,7 +167,7 @@ Si la ubicación de su empresa es Brasil, puede vender ofertas de CSP a los clie
 
 ## <a name="canada-region-and-market"></a>Región y mercado de Canadá
 
-Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes en todas las ubicaciones de la lista.
+Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes de todas las ubicaciones de la lista.
 
 |  País/región | Moneda |
 |  -------------- |:--------:|
@@ -230,7 +230,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 
 ## <a name="india-region-and-market"></a>Región y mercado de la India
 
-Si la ubicación de su empresa es india, puede vender ofertas de CSP a los clientes de la India.
+Si la ubicación de su empresa es India, puede vender ofertas de CSP a los clientes de la India.
 
 |  País/región | Moneda |
 |  -------------- |:--------:|
@@ -246,16 +246,16 @@ Si la ubicación de su empresa es Japón, puede vender ofertas de CSP a los clie
 |  Japón          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Corea del Sur, República de la región y el mercado
+## <a name="korea-republic-of-region-and-market"></a>Corea, República de la región y el mercado
 
-Si la ubicación de su empresa es Corea del Sur, República de, puede vender ofertas de CSP a clientes de Corea del Sur, República de.
+Si la ubicación de su empresa es Corea, República de, puede vender ofertas de CSP a los clientes de Corea, República de.
 
 |  País/región    | Moneda |
 |  --------------    |:--------:|
 |  Corea, República de|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>América Latina y la región y el mercado del Pacífico
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>América Latina región y mercado del Pacífico
 
 Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes en todas las ubicaciones de la lista.
 
@@ -371,7 +371,7 @@ Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas
 
 ## <a name="new-zealand-region-and-market"></a>Región y mercado de Nueva Zelanda
 
-Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes de todas las ubicaciones de la lista.
+Si la ubicación de su empresa está en la lista siguiente, puede vender ofertas de CSP a los clientes en todas las ubicaciones de la lista.
 
 |  País/región | Moneda |
 |  -------------- |:--------:|

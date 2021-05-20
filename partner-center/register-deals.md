@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855750"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152994"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registre las ofertas que ha ganado en Centro de partners para que pueda obtener más oportunidades más adelante.
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855750"
 
 Para registrar las ofertas que has ganado en el Centro de partners, puedes proporcionar información adicional sobre el contrato. Esta información nos ayudará a proporcionarte más oportunidades en el futuro.
 
-Para determinadas soluciones aptas, después de seleccionar **Ganado** en el proceso de respuesta de [referencia,](manage-leads.md)se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
+Para determinadas soluciones aptas, después de seleccionar **Ganada** en el proceso de respuesta de [referencia,](manage-leads.md)se le pedirá que proporcione información adicional para registrar la oferta. Microsoft revisará la información que proporcione y puede solicitar detalles adicionales durante el proceso de revisión.
 
 También puedes registrar nuevas ofertas que no hayas ganado y que utilicen una de tus soluciones, aunque no se hayan originado a través de una [referencia](referrals.md). 
 
@@ -37,12 +37,12 @@ En la página **Nueva oferta**, proporciona la siguiente información.
 - **Tipo de contrato:** especifique si se trata de un **contrato** nuevo o de **una renovación** de un contrato anterior.
 - **Valor total del contrato:** el valor total esperado para la interacción. Debes incluir todas las tarifas de software y servicios, pero no los costos de hardware. Asegúrate de seleccionar la moneda adecuada.
 - **Valor de** la solución: el valor total de la solución en la nube que se usará para la oferta. Asegúrate de incluir todos los costos asociados con las tarifas de software y mantenimiento, pero no incluyas artículos reembolsables, tarifas de personalización no recurrentes ni cuotas de licencias de CSP directamente asociadas que abone Microsoft.
-- **Implementado en**: seleccione **Azure** u **Otros**.
-- **¿Dónde se implementará la solución?**: seleccione el inquilino **Customer o** **partner tenant**.
-- **Fecha de inicio del** contrato: la fecha en que se iniciará el contrato. Para las ofertas de pago por uso (PAYG), use la fecha de la primera factura.
-- **Fecha de finalización del** contrato: si el contrato finalizará en una fecha específica, seleccione **Tiene una fecha de finalización** y proporcione esa fecha. Si el contrato no tiene una fecha de finalización específica, seleccione **Perpetuos.** Para las ofertas de pago por uso (PAYG), use la fecha de la última factura o la más reciente.
+- **Implementado en**: seleccione **Azure** u **otro**.
+- **¿Dónde se implementará la solución?**: seleccione el inquilino **Customer** o **partner tenant**.
+- **Fecha de inicio del contrato:** la fecha en la que se iniciará el contrato. Para las ofertas de pago por uso (PAYG), use la fecha de la primera factura. Por diseño, Centro de partners no le permitirá especificar una fecha de inicio anterior a la fecha de firma del contrato. Esto puede afectar a algunas ofertas, como las implementaciones de IP que se inician antes de la fecha de inicio de sesión. Para especificar correctamente estas ofertas, use la  fecha de firma del contrato para los campos de fecha de inicio y fecha de inicio al enviar. (El contrato debe especificar explícitamente la duración de la oferta para que ACV se pueda calcular correctamente).
+- **Fecha de finalización del** contrato: si el contrato finalizará en una fecha específica, seleccione **Tiene una** fecha de finalización y proporcione esa fecha. Si el contrato no tiene una fecha de finalización específica, seleccione **Perpetuo.** Para las ofertas de pago por uso (PAYG), use la fecha de la última factura o la más reciente.
 - **Fecha de firma del** contrato: la fecha en la que la organización y el cliente firmaron el contrato final. Para las ofertas de pago por uso (PAYG), use la fecha de la primera factura.
-- **Contacto de** registro: **el** **nombre,** el  **apellido,** el número de teléfono y el correo electrónico de una persona de su organización con la que podemos ponerse en contacto si necesitamos más detalles sobre cualquiera de la información proporcionada aquí.
+- **Contacto de** registro: **el** **nombre,** los  **apellidos,** el número de teléfono y el correo electrónico de una persona de su organización con la que podamos ponerse en contacto si necesitamos más detalles sobre cualquiera de las información proporcionadas aquí.
 
 Cuando hayas completado todas las secciones de la página, selecciona **Registrar**. A continuación, el registro de la oferta se pasará a la página **En curso**. A continuación, Microsoft revisará la información proporcionada.
 
@@ -54,7 +54,7 @@ Puedes revisar los registros de ofertas nuevas, activas y cerradas en las difere
 
 ### <a name="action-required"></a>Acción requerida
 
-En la página **Referencias > Registrar las ofertas > Acción requerida**, verás los nuevos registros que todavía no se han registrado o que requieren una actualización. Puedes usar los filtros para mostrar solo los registros de ofertas **Incompletos** o **Actualización necesaria**. Los registros de ofertas con el estado **Incompleto** son aquellos originados a partir de referencias, pero que aún no se han registrado. **Los registros** de oferta necesarios para actualizar son los que se crearon y registraron, pero que requieren que actualice la información proporcionada.
+En la página **Referencias > Registrar las ofertas > Acción requerida**, verás los nuevos registros que todavía no se han registrado o que requieren una actualización. Puedes usar los filtros para mostrar solo los registros de ofertas **Incompletos** o **Actualización necesaria**. Los registros de ofertas con el estado **Incompleto** son aquellos originados a partir de referencias, pero que aún no se han registrado. **Los registros** de oferta necesarios son los que se crearon y registraron, pero que requieren que actualice la información proporcionada.
 
 ### <a name="in-progress"></a>En curso
 
