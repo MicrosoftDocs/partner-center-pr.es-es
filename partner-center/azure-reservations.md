@@ -1,6 +1,6 @@
 ---
 title: Vender clientes Microsoft Azure reservas
-description: Como proveedor de soluciones en la nube, puede comprar, vender o administrar las reservas de Azure para los clientes. Use el centro de Partners, el Azure Portal o la API del centro de Partners.
+description: Como Proveedor de soluciones en la nube, puede comprar, vender o administrar reservas de Azure para los clientes. Use Centro de partners, el Azure Portal o la API de Centro de partners.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,52 +9,46 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149475"
 ---
-# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda Microsoft Azure reservas a los clientes mediante el centro de Partners, el Azure Portal o las API
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Vender Microsoft Azure reservas a los clientes mediante Centro de partners, Azure Portal o API
 
-**Roles adecuados**
+**Roles adecuados:** agente de administración | Administrador global | Agente del departamento de soporte técnico | Agente de ventas | Administrador de administración de usuarios
 
-- Agente de administrador
-- Administrador global
-- Agente del departamento de soporte técnico
-- Agente de ventas
-- Administrador del control de usuarios
-
-Como asociado en el programa proveedor de soluciones en la nube (CSP), puede comprar, vender o administrar las reservas de Azure para los clientes. Use el centro de Partners, el Azure Portal o la API del centro de Partners.
+Como asociado del programa de Proveedor de soluciones en la nube (CSP), puede comprar, vender o administrar reservas de Azure para los clientes. Use Centro de partners, el Azure Portal o la API de Centro de partners.
 
 > [!NOTE]
-> Este artículo solo se aplica a los asociados en CSP. Los clientes que usen otros tipos de suscripciones (como, por ejemplo, pago por uso, individuo, contrato de cliente de Microsoft o suscripciones Contrato Enterprise), en su lugar, deberán leer [esta documentación](/azure/cost-management-billing/reservations)de las reservas de Azure.
+> Este artículo solo se aplica a los asociados de CSP. Los clientes que usan otros tipos de suscripciones (por ejemplo, suscripciones de pago por uso, individuales, Contrato de cliente de Microsoft o Contrato Enterprise) deben leer en su lugar esta documentación de [reservas de Azure](/azure/cost-management-billing/reservations).
 
-Los asociados del programa CSP pueden ofrecer a sus clientes Microsoft Azure reservas. Los clientes pueden obtener ahorros significativos cuando se reservan de antemano. Las reservas de Azure ofrecen simplicidad y flexibilidad a los clientes de las siguientes maneras:
+Los asociados del programa CSP pueden ofrecer a sus clientes Microsoft Azure reservas. Los clientes pueden obtener ahorros significativos cuando reservan de antemano. Las reservas de Azure ofrecen a los clientes simplicidad y flexibilidad de las siguientes maneras:
 
 - Términos de reserva de uno o tres años
-- Fácil de empezar; Instalación completada en segundos
-- Cancelar o intercambiar instancias reservadas en cualquier momento para el reembolso ajustado
-- Administrar el uso de instancias reservadas en el nivel de Departamento individual o de la organización
+- Fácil de empezar; configuración completada en segundos
+- Cancelación o intercambio de instancias reservadas en cualquier momento para el reembolso ajustado
+- Administración del uso de instancias reservadas en el nivel de organización o departamento individual
 
-Las reservas de Azure pueden apelar a los clientes de las siguientes maneras:
+Las reservas de Azure pueden atraer a los clientes de las maneras siguientes:
 
-- Las reservas pueden ofrecer ahorros significativos en los precios de pago por uso (PAYG)
-- Mejores presupuestos y previsiones con el pago por adelantado de los términos de un año o de tres años
+- Las reservas pueden ofrecer ahorros significativos en los precios de pago por uso (PAYG).
+- Mejor presupuestación y previsión con pago por adelantado para plazos de uno o tres años
 - Capacidad informática con prioridad en la región de Azure más cercana a sus oficinas
-- Las reservas de Azure proporcionan la base para las soluciones de infraestructura de un extremo a otro cuando se combinan con software como Microsoft Windows Server y Azure SQL Database
+- Las reservas de Azure proporcionan la base para soluciones de infraestructura de un extremo a otro cuando se combinan con software como Microsoft Windows Server y Azure SQL Database
 
 >[!NOTE]
-> Puede comprar, vender y administrar las reservas de Azure en el centro de Partners y en el Azure Portal, y mediante la API del centro de Partners. También puede conceder a sus clientes permiso para comprar sus propias reservas de Azure a partir de una suscripción de Azure que haya adquirido. Siga los vínculos siguientes para obtener información sobre cómo hacerlo.
+> Puede comprar, vender y administrar reservas de Azure tanto en el Centro de partners como en el Azure Portal, y mediante Centro de partners API. También puede conceder permiso a los clientes para comprar sus propias reservas de Azure en una suscripción de Azure que haya adquirido para ellos. Siga los vínculos siguientes para obtener información sobre cómo hacerlo.
 
 ## <a name="azure-reservations-resources"></a>Recursos de reservas de Azure
 
 |**Para información acerca de**   |**Lee esto**    |
 |:-----------------------------|:-----------------|
-| Documentación de reservas de Azure para sus clientes | [¿Qué son las reservas de Azure?](/azure/billing/billing-save-compute-costs-reservations)
-|Compra de reservas de Azure para sus clientes en el centro de Partners   |[Comprar reservas de Azure](azure-reservations-buying.md)
-|Administración de las reservas de Azure en el centro de Partners | [Administración de las reservas de Azure en el centro de Partners](azure-reservations-manage.md)
-|Determinación del tamaño correcto de la máquina virtual y comprobación del uso de la máquina virtual del cliente   |[Tamaño de máquina virtual para el uso máximo de reserva de Azure](azure-usage.md)   |
-|Compra de reservas de Azure mediante la API del centro de Partners | [Comprar Azure Reserved VM instances](/partner-center/develop/purchase-azure-reservations) en la documentación para desarrolladores del centro de Partners   |
-|Otorgar a los clientes permiso para comprar sus propias reservas de Azure desde la suscripción de CSP. | [Conceder permiso a los clientes para que compren sus propias reservas de Azure](give-customers-permission.md)   |
+| Documentación de reservas de Azure para los clientes | [¿Qué es Azure Reservations?](/azure/billing/billing-save-compute-costs-reservations)
+|Compra de reservas de Azure para los clientes en Centro de partners   |[Compra de reservas de Azure](azure-reservations-buying.md)
+|Administración de reservas de Azure en Centro de partners | [Administración de reservas de Azure en Centro de partners](azure-reservations-manage.md)
+|Determinar el tamaño correcto de la máquina virtual y comprobar el uso de la máquina virtual del cliente   |[Tamaño de máquina virtual para el uso máximo de reservas de Azure](azure-usage.md)   |
+|Compra de reservas de Azure mediante Centro de partners API | [Comprar Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) en la documentación Centro de partners desarrolladores   |
+|Conceder a los clientes permiso para comprar sus propias reservas de Azure en su suscripción de CSP. | [Conceder a los clientes permiso para comprar sus propias reservas de Azure](give-customers-permission.md)   |

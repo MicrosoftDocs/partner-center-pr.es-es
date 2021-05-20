@@ -2,53 +2,51 @@
 title: Idoneidad para la evaluación de soluciones
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Aprenda a comprobar los requisitos de idoneidad para participar en el programa incentivos de evaluación de soluciones.
+description: Obtenga información sobre cómo comprobar los requisitos de idoneidad para participar en el Solution Assessment Incentives programa.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354481"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148812"
 ---
-# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de elegibilidad para el programa incentivos de evaluación de soluciones
+# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de idoneidad para el Solution Assessment Incentives programa
 
-**Roles adecuados**
+**Roles adecuados:** contacto principal o administrador del programa
 
-- Contacto principal o administrador de programas
+Los asociados con estado activo e inscrito en el Programa de incentivos de evaluación de soluciones en el año fiscal 2020 seguirán siendo aptos para los incentivos en el año fiscal 2021 si tienen una pertenencia a MPN activa y una competencia activa de MPN Silver o Gold. Las calificaciones de los asociados se revisan anualmente para obtener la idoneidad. Si los asociados establecidos no cumplen los requisitos de elegibilidad y participación en el año actual, se quitarán en la próxima revisión anual. Todos los nuevos asociados se incorporarán a través del especialista en evaluación de soluciones (SAS) local en su área. La SAS identificará los asociados que se incorporarán en función de la coincidencia de aptitudes y conocimientos de la empresa asociada y las necesidades empresariales de las subsidiarias compatibles con la SAS.
 
-Los asociados con el estado activo e inscrito en el programa de incentivos de evaluación de soluciones en FY20 seguirán siendo válidos para incentivos en FY21 si tienen una suscripción activa a MPN y una competencia de MPN Silver o Gold activa. Las calificaciones de los asociados se revisan para su elegibilidad anualmente. Si los asociados establecidos no cumplen los requisitos de idoneidad y participación en el año actual, se quitarán en la siguiente revisión anual. Todos los asociados nuevos se incorporan a través del especialista de evaluación de soluciones (SAS) local en su área. La SAS identificará los asociados que se incorporarán en función de la coincidencia de Aptitudes y conocimientos de la empresa asociada y de las necesidades empresariales de las subsidiarias admitidas por la SAS.
+Antes de iniciar el proceso de incorporación, los asociados tendrán que analizar con la SAS las funcionalidades que tiene su empresa para respaldar las evaluaciones en sus localidades.
 
-Antes de comenzar el proceso de incorporación, los asociados deberán analizar con la SAS las capacidades que su empresa tiene para respaldar las evaluaciones en sus configuraciones regionales.
-
-Los asociados que actualmente no están inscritos en un programa de incentivos deben cumplir los criterios de incentivos de FY21 para poder incorporarlos a la incorporación de incentivos de evaluación de soluciones.
+Los asociados que no están inscritos actualmente en un programa de incentivos deben cumplir los criterios de incentivos del año fiscal 21 para ser aptos para la incorporación de incentivos de evaluación de soluciones.
 
 ## <a name="requirements"></a>Requisitos
 
 |**Requisitos de elegibilidad**|**Criterios**|
 |-----------------------|------------------|
-|Pertenencia a Active Microsoft Partner Network (MPN)|La idoneidad en el programa de incentivos de evaluación de soluciones requiere la pertenencia activa a MPN|
-|Una competencia Silver o Gold|Puede ser activo o activo aprobado previamente|
-|Socio de especialización avanzada de Azure Expert MSP|A partir del 15 de abril de 2021, las evaluaciones de soluciones de Azure, incluidos los datos & la migración de la infraestructura, la modernización de aplicaciones, las bases de Azure, Azure Express y la optimización de costos de Azure, requerirán y la certificación de Azure experto MSP/Advanced Specialty.|
+|Pertenencia Microsoft Partner Network activo (MPN)|La idoneidad en el Programa de incentivos de evaluación de soluciones requiere la pertenencia activa a MPN|
+|Una competencia silver o gold|Puede ser activo o activo aprobado previamente|
+|MSP experto de Azure/Asociado de especialización avanzada|A partir del 15 de abril de 2021, las evaluaciones de soluciones de Azure, incluidas la migración de la infraestructura de Data &, la modernización de aplicaciones, Azure Foundations, Azure Express y La optimización de costos de Azure, requerirán y MSP experto de Azure/Advanced Certification.|
 
 |**Requisito de participación**|**Criterios**|
 |-------------------------|-------------------------------------|
-|Actividad de incentivos|Los asociados deben participar activamente en el programa de incentivos de evaluación de la solución del año fiscal actual para seguir siendo válidos para ganar incentivos de evaluación de soluciones en el siguiente año fiscal. Esto equivale al menos a un contrato de incentivos de evaluación de soluciones aprobado.|
+|Actividad de incentivos|Los asociados deben participar activamente en el programa de incentivos de evaluación de soluciones en el año fiscal actual para seguir siendo aptos para obtener incentivos de evaluación de soluciones en el siguiente año fiscal. Esto equivale a al menos un acuerdo de incentivos aprobado para la evaluación de soluciones.|
 
-## <a name="work-with-solution-assessment-specialist"></a>Trabajar con el especialista de evaluación de soluciones
+## <a name="work-with-solution-assessment-specialist"></a>Trabajar con el especialista en evaluación de soluciones
 
-Una vez que se comprueba la idoneidad de un asociado para participar en el programa de incentivos de evaluación de soluciones, recibirá una invitación de su especialista en evaluación de la solución (SAS) para participar en el proceso de incorporación mensual.
+Una vez que se comprueba la idoneidad de un asociado para participar en el Programa de incentivos de evaluación de soluciones, recibirá una invitación de su especialista en evaluación de soluciones (SAS) para participar en el proceso de incorporación mensual.
 
-Para obtener detalles adicionales o información relacionada con el programa incentivos de evaluación de soluciones, póngase en contacto con su especialista en evaluación de soluciones (SAS).
+Para obtener más detalles o información sobre el programa Solution Assessment Incentives, póngase en contacto con el especialista en evaluación de soluciones (SAS).
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Estado de la oportunidad de las evaluaciones de soluciones](chip-solution-assessment.md)
+- [Estado de oportunidad de las evaluaciones de soluciones](chip-solution-assessment.md)
 - [Soporte técnico](report-problems-with-partner-center.md)
 
 

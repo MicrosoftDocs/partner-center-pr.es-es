@@ -2,46 +2,44 @@
 title: Ver ganancias en CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Obtenga información sobre cómo ver el informe de incentivos y las ganancias en la herramienta de plataforma de incentivos de canal (CHIP).
+description: Obtenga información sobre cómo ver la declaración de incentivos y las ganancias en la herramienta Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354498"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149033"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Visualización de ganancias mediante la herramienta CHIP
 
-**Roles adecuados**
+**Roles adecuados:** contacto principal o administrador del programa
 
-- Contacto principal o administrador de programas
+Puede acceder a la declaración de incentivos a través de la herramienta Channel Incentives Platform (CHIP).
 
-Puede tener acceso a su declaración de incentivos a través de la herramienta de plataforma de incentivos de canal (CHIP).
+## <a name="view-earnings"></a>Visualización de ganancias
 
-## <a name="view-earnings"></a>Ver ganancias
+1. Inicie sesión en CHIP con su cuenta Microsoft (live ID anterior).
 
-1. Inicie sesión en el CHIP mediante el cuenta de Microsoft (Live ID anterior).
+2. Seleccione el programa de incentivos que le interesa.
 
-2. Seleccione el programa de incentivos que le interese.
-
-3. En **Resumen del programa** , seleccione período o mes. 
-1. Seleccione detalles de cálculo en la lista desplegable.
-1.  Haga clic en **abrir** en la barra de notificación para abrir la instrucción.
+3. En **Resumen del programa,** seleccione período o mes. 
+1. Seleccione Detalles del cálculo en la lista desplegable.
+1.  Haga **clic en** Abrir en la barra de notificación para abrir la instrucción.
 
 ### <a name="explanation-of-details-tabs"></a>Explicación de las pestañas de detalles
 
-|**Tabulación**|**Definición**|
+|**Tabulador**|**Definición**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Incluye detalles del programa incentivos para el período de tiempo seleccionado, incluidos el nombre del cliente, el contrato, los detalles de la palanca|
-|DeltaReport-Pivot|Actualizaciones de la última instrucción publicada solo para empresas|
-|DetailReport-Pivot|Resumen de los detalles de pago, incluidos el importe de moneda y de pago|
-|Detalles de logros|Valor de línea base, logro y porcentaje de crecimiento solo para SPLAR|
+|DetailReport-Flatfile|Incluye detalles del programa de incentivos para el período de tiempo seleccionado, incluidos el nombre del cliente, el contrato y los detalles de la maneta.|
+|DeltaReport-pivot|Actualizaciones de la última instrucción publicada solo para Enterprise|
+|DetailReport-pivot|Resumen de los detalles de pago, incluida la moneda y el importe del pago|
+|Detalles del logros|Valor de línea base, logros y porcentaje de crecimiento solo para SPLAR|
 
 ## <a name="next-steps"></a>Pasos siguientes
 

@@ -1,31 +1,24 @@
 ---
-title: Obtener información sobre los registros de actividad de los clientes
+title: Obtención de información con los registros de actividad del cliente
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información acerca de cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de clientes y otras actividades de administración de asociados relacionadas con el cliente.
+description: Obtenga información sobre cómo ver y exportar registros de actividad para obtener información sobre las transacciones de cuentas de cliente y otras actividades de administración de asociados relacionadas con el cliente.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474247"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150597"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver o exportar registros de actividad del cliente para obtener más información sobre las transacciones del cliente
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Visualización o exportación de registros de actividad del cliente para obtener más información sobre las transacciones de los clientes
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador de facturación
-- Administrador del control de usuarios
-- Agente de administrador
-- Agente de ventas
-- Agente del departamento de soporte técnico
+**Roles adecuados:** administrador global | Administración de facturación | Administrador de administración de | Agente de administración | Agente de ventas | Agente del departamento de soporte técnico
 
 Los registros de actividades proporcionan información sobre las transacciones y las acciones de administración de partners para los clientes. Los registros de las transacciones proporcionan información detallada acerca de la transacción, incluidas las suscripciones compradas. También puedes exportar los registros de actividades a un formato de archivo de valores separados por comas (.csv) compatible con Excel.
 
@@ -53,4 +46,4 @@ Los registros de actividades proporcionan registros respecto a las acciones de l
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Analice las suscripciones y licencias para ayudar a impulsar decisiones empresariales](analyze-subscriptions-licenses.md)
+- [Análisis de suscripciones y licencias para ayudar a impulsar las decisiones empresariales](analyze-subscriptions-licenses.md)

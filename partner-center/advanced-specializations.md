@@ -1,38 +1,35 @@
 ---
-title: Más información sobre especializaciones avanzadas
+title: Más información sobre las especializaciones avanzadas
 ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Fortalezca su perfil de negocio en el directorio de asociados de Microsoft. Obtenga información sobre las especializaciones avanzadas que puede alcanzar junto con sus competencias Gold y Silver existentes.
+description: Refuerce el perfil de negocio en el directorio de asociados de Microsoft. Obtenga información sobre las especializaciones avanzadas que puede alcanzar junto con sus competencias Gold y Silver existentes.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557773"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150461"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtenga una especialización avanzada para exhibir sus funcionalidades validadas
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Obtención de una especialización avanzada para mostrar las funcionalidades validadas
 
-**Roles adecuados**
+**Roles adecuados:** Administrador global | Administrador de cuenta
 
-- Administrador global
-- Administrador de cuentas
+Las especializaciones avanzadas de Microsoft se basa en las [competencias gold relacionadas](learn-about-competencies.md) que un asociado puede ganar. La obtención de competencias gold, junto con sus especializaciones avanzadas relacionadas, permite a los asociados diferenciar aún más sus capacidades con los clientes.
 
-Las especializaciones avanzadas de Microsoft se basan en las [competencias de oro](learn-about-competencies.md) relacionadas que un asociado puede ganar. La obtención de competencias Gold, junto con sus especializaciones avanzadas relacionadas, permite a los asociados diferenciar aún más sus capacidades con los clientes.
+Para obtener una especialización avanzada, un asociado a menudo tiene que cumplir requisitos exigentes, como obtener referencias de clientes, someterse a una auditoría de terceros, demostrar la obtención de un conjunto de aptitudes pertinente y cumplir ciertas medidas de rendimiento.
 
-Para obtener una especialización avanzada, un asociado a menudo tiene que cumplir requisitos exigentes, como la obtención de referencias de clientes, la realización de una auditoría de terceros, la prueba de la obtención de un conjunto de aptitudes relevante y el cumplimiento de ciertas mediciones de rendimiento.
+Al cumplir estos estrictos requisitos, los asociados pueden validar su profundo conocimiento, amplia experiencia y éxito demostrado al ofrecer soluciones de cliente personalizadas para áreas de alta demanda y relevancia de los clientes.
 
-Al cumplir estos requisitos estrictos, los asociados pueden validar su conocimiento profundo, la amplia experiencia y la eficacia comprobada en la entrega de soluciones personalizadas para el cliente para áreas de alta demanda de los clientes y relevancia.
-
-Los asociados que obtienen una especialización avanzada obtendrán una etiqueta orientada al cliente que pueden mostrar en su perfil de negocio en el [buscador de proveedores de soluciones de Microsoft](https://www.microsoft.com/solution-providers/home). Esta etiqueta valida aún más las capacidades del asociado, a la vez que les proporciona acceso a las ventajas asociadas, el alcance del cliente ampliado y una mayor confianza del cliente.
+Los partners que obtengan una especialización avanzada obtendrán una etiqueta orientada al cliente que pueden mostrar en su perfil de negocio en el buscador del proveedor de [soluciones de Microsoft](https://www.microsoft.com/solution-providers/home). Esta etiqueta valida aún más las funcionalidades del asociado, a la vez que les proporciona acceso a las ventajas asociadas, al alcance ampliado del cliente y a una mayor confianza del cliente.
 
 > [!NOTE]
-> Para obtener más información sobre las especializaciones avanzadas, visite la [página Microsoft Partner Network especializaciones avanzadas](https://partner.microsoft.com/membership/advanced-specialization).
+> Para más información sobre las especializaciones avanzadas, visite la [página Microsoft Partner Network advanced specializations (Especializaciones avanzadas).](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="advanced-specialization-areas"></a>Áreas de especialización avanzadas
 
@@ -43,7 +40,7 @@ Cada especialización avanzada corresponde a un área de solución:
 - Trabajo moderno
 - Seguridad
 
-Las especializaciones avanzadas de **Azure** incluyen:
+**Las especializaciones** avanzadas de Azure incluyen:
 
 - Análisis en Microsoft Azure
 - Migración de Data Warehouse a Microsoft Azure
@@ -59,27 +56,27 @@ Las especializaciones avanzadas de **Azure** incluyen:
 - Desarrollo de aplicaciones de código bajo
 - Administración de pequeñas y medianas empresas
 
-Las especializaciones avanzadas de **trabajo moderno** incluyen:
+**Entre las especializaciones** avanzadas del trabajo moderno se incluyen:
 
 - Adopción y administración de cambios
 - Llamada a Microsoft Teams
 - Reuniones y salas de reunión para Microsoft Teams
 - Implementación de Teamwork
 
-Las especializaciones avanzadas de **seguridad** incluyen:
+**Entre las** especializaciones avanzadas de seguridad se incluyen:
 
 - Administración de identidades y acceso
 - Protección contra amenazas
 
 > [!NOTE]
-> Para obtener información sobre cada especialización avanzada, junto con sus requisitos previos y requisitos, visite la [Página especializaciones avanzadas](https://partner.microsoft.com/membership/advanced-specialization). Cuando esté listo para solicitar una especialización avanzada, compruebe su progreso iniciando sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners. Para obtener más información acerca de cómo obtener acceso a esta área del centro de Partners, consulte [Apply for a Advanced Especialization](advanced-specializations-apply.md).
+> Para obtener información sobre cada especialización avanzada, junto con sus requisitos previos y requisitos, visite la [página Especializaciones avanzadas](https://partner.microsoft.com/membership/advanced-specialization). Cuando esté listo para solicitar una especialización avanzada, compruebe su progreso iniciando sesión en Centro de partners [panel](https://partner.microsoft.com/dashboard). Para obtener más información sobre el acceso a esta área de Centro de partners, vea [Aplicar para obtener una especialización avanzada.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Usar el centro de partners para [solicitar y comprobar el estado de las especializaciones avanzadas](advanced-specializations-apply.md)
+- Use Centro de partners para [solicitar y comprobar el estado de las especializaciones avanzadas.](advanced-specializations-apply.md)
 
 - Más información sobre [especializaciones avanzadas, sus ventajas y requisitos únicos](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Obtener información sobre la [obtención de competencias de pertenencia a Microsoft Silver o Gold](learn-about-competencies.md)
+- Más información sobre [la obtención de competencias de suscripción Silver o Gold de Microsoft](learn-about-competencies.md)
 
-- Más información sobre las [competencias de Microsoft Partner Network](https://partner.microsoft.com/membership/competencies)
+- Más información sobre [Microsoft Partner Network competencias](https://partner.microsoft.com/membership/competencies)

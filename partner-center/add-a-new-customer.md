@@ -1,5 +1,5 @@
 ---
-title: Adición de un nuevo registro de cliente
+title: Cómo agregar un nuevo registro de cliente
 ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
@@ -9,30 +9,25 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941782"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150563"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Cómo agregar un nuevo registro de cliente en el Centro de partners
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador del control de usuarios
-- Agente de administrador
-- Agente de ventas
+**Roles adecuados:** Administrador global | Administrador de administración de | Agente de administración | Agente de ventas
 
 En este artículo se describe cómo agregar un nuevo cliente a la lista de clientes de Centro de partners. Estos pasos son necesarios para poder vender suscripciones, administrar la facturación o proporcionar soporte técnico a un cliente.
 
 >[!NOTE]
->Para los clientes existentes, incluidos aquellos que ya [](multichannel.md) tienen registros de clientes en Centro de partners a través de un escenario multicanal o [multipartista,](multipartner.md) debe solicitar una relación con [ellos,](request-a-relationship-with-a-customer.md)en lugar de seguir los pasos que se indican aquí.
+>Para los clientes existentes, incluidos los que ya [](multichannel.md) tienen registros de cliente en Centro de partners a través de un escenario multicanal o [multipartista,](multipartner.md) debe solicitar una relación con [ellos,](request-a-relationship-with-a-customer.md)en lugar de seguir los pasos que se indican aquí.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Cómo agregar un nuevo registro de cliente en el Centro de partners
 
-1. Seleccione **Clientes** en el menú Centro de partners y, a continuación, **seleccione Agregar cliente.**
+1. Seleccione **Clientes** en el Centro de partners y, a continuación, **seleccione Agregar cliente.**
 
 2. En la **página Información de** la cuenta, escriba los detalles del cliente y la información de contacto principal. Compruebe también que el cliente ha aceptado y firmado la [última](agreements.md)Contrato de cliente de Microsoft .
 
@@ -46,9 +41,9 @@ En este artículo se describe cómo agregar un nuevo cliente a la lista de clien
    >- Proporcione una dirección completa y exacta (detalles de ubicación, ciudad, estado, país y código postal o postal)
 
    >[!IMPORTANT]
-   > El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Obtenga información sobre la [Contrato de cliente de Microsoft y cómo confirmar el consentimiento](confirm-customer-agreement.md)
+   > El 1 de octubre de 2019, Microsoft incorporó el **Contrato de cliente de Microsoft** en el programa CSP para reemplazar el Contrato de Microsoft Cloud. Obtenga información sobre el [Contrato de cliente de Microsoft y cómo confirmar el consentimiento](confirm-customer-agreement.md)
   
-3. Si es un proveedor indirecto, seleccione en la lista el revendedor indirecto que desea asociar a las suscripciones de este cliente.
+3. Si es un proveedor indirecto, seleccione el revendedor indirecto que desea asociar a las suscripciones de este cliente en la lista.
 
 4. Seleccione **Siguiente: Suscripciones** cuando haya terminado de escribir toda la información necesaria.
 
@@ -57,11 +52,11 @@ En este artículo se describe cómo agregar un nuevo cliente a la lista de clien
 6. En la **página Revisar,** compruebe la precisión de las entradas y seleccione **Enviar** si la información es correcta.
 
    >[!NOTE]
-   >Si necesita cambiar los detalles del cliente, seleccione **Actualizar en** la sección Información **de la** cuenta. Si necesita cambiar las ofertas seleccionadas, seleccione **Actualizar en** la **sección** Suscripciones.
+   >Si necesita cambiar los detalles del cliente, seleccione **Actualizar en** la sección Información **de la** cuenta. Si necesita cambiar las ofertas seleccionadas, seleccione **Actualizar en** la **sección Suscripciones.**
 
 7. Seleccione **Listo** cuando haya terminado de agregar la información del cliente y haya adquirido las suscripciones necesarias.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener más información sobre lo que puede vender a los clientes a través del programa Proveedor de soluciones en la nube, consulte Ofertas de asociados en [el Proveedor de soluciones en la nube cliente.](csp-offers.md)
+- Para obtener más información sobre lo que puede vender a los clientes a través del programa Proveedor de soluciones en la nube, consulte Ofertas de asociados [en el Proveedor de soluciones en la nube.](csp-offers.md)
 
