@@ -1,6 +1,6 @@
 ---
-title: Analice el uso de Azure para ayudar a aumentar su negocio
-description: Aprenda a usar el centro de partners para obtener datos sobre el uso de las suscripciones de Azure de sus clientes. Los datos incluyen suscripciones vendidas, en riesgo y en uso.
+title: Análisis del uso de Azure para ayudar a hacer crecer su negocio
+description: Aprenda a usar Centro de partners para obtener datos sobre el uso de las suscripciones de Azure de los clientes. Los datos incluyen suscripciones vendidas, en riesgo y en uso.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,64 +9,59 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150240"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a><span data-ttu-id="17846-104">Obtener datos sobre el rendimiento de los clientes y las suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="17846-104">Get data about how well your customers and Azure subscriptions are doing</span></span>
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a><span data-ttu-id="8e3ed-104">Obtener datos sobre el buen estado de los clientes y las suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="8e3ed-104">Get data about how well your customers and Azure subscriptions are doing</span></span>
 
 
 
-<span data-ttu-id="17846-105">**Roles adecuados**</span><span class="sxs-lookup"><span data-stu-id="17846-105">**Appropriate roles**</span></span>
+<span data-ttu-id="8e3ed-105">**Roles adecuados:** administrador global | Administrador de administración de | Agente de administración | Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="8e3ed-105">**Appropriate roles**: Global admin | User management admin | Admin agent | Sales agent</span></span>
 
-- <span data-ttu-id="17846-106">Administrador global</span><span class="sxs-lookup"><span data-stu-id="17846-106">Global admin</span></span>
-- <span data-ttu-id="17846-107">Administrador del control de usuarios</span><span class="sxs-lookup"><span data-stu-id="17846-107">User management admin</span></span>
-- <span data-ttu-id="17846-108">Agente de administrador</span><span class="sxs-lookup"><span data-stu-id="17846-108">Admin agent</span></span>
-- <span data-ttu-id="17846-109">Agente de ventas</span><span class="sxs-lookup"><span data-stu-id="17846-109">Sales agent</span></span>
+<span data-ttu-id="8e3ed-106">Los datos impulsan las decisiones empresariales.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-106">Data drives business decisions.</span></span> <span data-ttu-id="8e3ed-107">Use las métricas de la **página uso de Azure** para identificar los éxitos y las áreas que necesitan más atención.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-107">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="8e3ed-108">Use esta información a medida que planee nuevos objetivos empresariales.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-108">Use this information as you plan new business goals.</span></span>
 
-<span data-ttu-id="17846-110">Data impulsa las decisiones empresariales.</span><span class="sxs-lookup"><span data-stu-id="17846-110">Data drives business decisions.</span></span> <span data-ttu-id="17846-111">Use las métricas de la página **uso de Azure** para identificar sus éxitos y áreas que requieren más atención.</span><span class="sxs-lookup"><span data-stu-id="17846-111">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="17846-112">Use esta información a medida que planee nuevos objetivos empresariales.</span><span class="sxs-lookup"><span data-stu-id="17846-112">Use this information as you plan new business goals.</span></span>
-
-<span data-ttu-id="17846-113">Para acceder al **uso de Azure**, inicie sesión en el [Panel](https://partner.microsoft.com/dashboard)del centro de Partners.</span><span class="sxs-lookup"><span data-stu-id="17846-113">To get to the **Azure usage**, sign into Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> <span data-ttu-id="17846-114">Seleccione **Analytics** en el menú del centro de Partners y seleccione **uso de Azure**.</span><span class="sxs-lookup"><span data-stu-id="17846-114">Select **Analytics** from the Partner Center menu, and then select **Azure usage**.</span></span>
+<span data-ttu-id="8e3ed-109">Para llegar al uso **de Azure,** inicie sesión Centro de partners [panel](https://partner.microsoft.com/dashboard).</span><span class="sxs-lookup"><span data-stu-id="8e3ed-109">To get to the **Azure usage**, sign into Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> <span data-ttu-id="8e3ed-110">Seleccione **Analytics en** el menú Centro de partners y, a continuación, seleccione Uso de **Azure.**</span><span class="sxs-lookup"><span data-stu-id="8e3ed-110">Select **Analytics** from the Partner Center menu, and then select **Azure usage**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="17846-115">El análisis de uso de Azure solo está disponible para los asociados del programa proveedor de soluciones en la nube.</span><span class="sxs-lookup"><span data-stu-id="17846-115">Azure usage analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="8e3ed-111">El análisis de uso de Azure solo está disponible para los asociados del Proveedor de soluciones en la nube programa.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-111">Azure usage analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
-<span data-ttu-id="17846-116">Estamos realizando el seguimiento de las siguientes métricas:</span><span class="sxs-lookup"><span data-stu-id="17846-116">We are tracking the following metrics:</span></span>
+<span data-ttu-id="8e3ed-112">Estamos siguiendo las métricas siguientes:</span><span class="sxs-lookup"><span data-stu-id="8e3ed-112">We are tracking the following metrics:</span></span>
 
-## <a name="summary"></a><span data-ttu-id="17846-117">Resumen</span><span class="sxs-lookup"><span data-stu-id="17846-117">Summary</span></span>
+## <a name="summary"></a><span data-ttu-id="8e3ed-113">Resumen</span><span class="sxs-lookup"><span data-stu-id="8e3ed-113">Summary</span></span>
 
-- <span data-ttu-id="17846-118">**Total de suscripciones de Azure vendidas**: número de suscripciones vendidas en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="17846-118">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
-- <span data-ttu-id="17846-119">**Clientes con uso**: número de clientes con uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="17846-119">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
-- <span data-ttu-id="17846-120">**Clientes sin uso**: número de clientes sin uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="17846-120">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
+- <span data-ttu-id="8e3ed-114">**Total de suscripciones de Azure vendidas:** número de suscripciones vendidas en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="8e3ed-114">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
+- <span data-ttu-id="8e3ed-115">**Clientes con uso:** número de clientes con uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="8e3ed-115">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
+- <span data-ttu-id="8e3ed-116">**Clientes sin uso:** número de clientes sin uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="8e3ed-116">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
 
-## <a name="top-5-customers-in-category"></a><span data-ttu-id="17846-121">5 clientes principales en categoría</span><span class="sxs-lookup"><span data-stu-id="17846-121">Top 5 customers in category</span></span>
+## <a name="top-5-customers-in-category"></a><span data-ttu-id="8e3ed-117">Cinco clientes principales de la categoría</span><span class="sxs-lookup"><span data-stu-id="8e3ed-117">Top 5 customers in category</span></span>
 
-- <span data-ttu-id="17846-122">Los 5 clientes principales para la categoría especificada</span><span class="sxs-lookup"><span data-stu-id="17846-122">The top 5 customers for the specified category</span></span>  
+- <span data-ttu-id="8e3ed-118">Los 5 clientes principales de la categoría especificada</span><span class="sxs-lookup"><span data-stu-id="8e3ed-118">The top 5 customers for the specified category</span></span>  
 
-## <a name="azure-subscriptions-at-risk"></a><span data-ttu-id="17846-123">Suscripciones de Azure en riesgo</span><span class="sxs-lookup"><span data-stu-id="17846-123">Azure subscriptions at risk</span></span>
+## <a name="azure-subscriptions-at-risk"></a><span data-ttu-id="8e3ed-119">Suscripciones de Azure en riesgo</span><span class="sxs-lookup"><span data-stu-id="8e3ed-119">Azure subscriptions at risk</span></span>
 
-<span data-ttu-id="17846-124">En esta sección se indica el riesgo de renovación previsto para las suscripciones de Azure.</span><span class="sxs-lookup"><span data-stu-id="17846-124">This section indicates the predicted churn risk to Azure subscriptions.</span></span> <span data-ttu-id="17846-125">Los asociados pueden usar esta información para interactuar con los clientes y minimizar la renovación</span><span class="sxs-lookup"><span data-stu-id="17846-125">This information can be used by partners to engage with customers and minimize churn</span></span>
+<span data-ttu-id="8e3ed-120">En esta sección se indica el riesgo de renovación previsto para las suscripciones de Azure.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-120">This section indicates the predicted churn risk to Azure subscriptions.</span></span> <span data-ttu-id="8e3ed-121">Los asociados pueden usar esta información para interactuar con los clientes y minimizar la renovación.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-121">This information can be used by partners to engage with customers and minimize churn</span></span>
 
-## <a name="subscriptions-without-usage"></a><span data-ttu-id="17846-126">Suscripciones sin uso</span><span class="sxs-lookup"><span data-stu-id="17846-126">Subscriptions without usage</span></span>
+## <a name="subscriptions-without-usage"></a><span data-ttu-id="8e3ed-122">Suscripciones sin uso</span><span class="sxs-lookup"><span data-stu-id="8e3ed-122">Subscriptions without usage</span></span>
 
-- <span data-ttu-id="17846-127">Lista de suscripciones específicas sin uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="17846-127">List of specific subscriptions without Azure usage in the specified time period</span></span>  
+- <span data-ttu-id="8e3ed-123">Lista de suscripciones específicas sin uso de Azure en el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="8e3ed-123">List of specific subscriptions without Azure usage in the specified time period</span></span>  
 
-## <a name="azure-subscription-churn"></a><span data-ttu-id="17846-128">Renovación de suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="17846-128">Azure subscription churn</span></span>
+## <a name="azure-subscription-churn"></a><span data-ttu-id="8e3ed-124">Renovación de suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="8e3ed-124">Azure subscription churn</span></span>
 
-- <span data-ttu-id="17846-129">**Suscripciones activas**: recuento de suscripciones activas por fecha</span><span class="sxs-lookup"><span data-stu-id="17846-129">**Active subscriptions**: Count of active subscriptions by date</span></span>  
-- <span data-ttu-id="17846-130">**Suscripciones desaprovisionadas**: recuento de suscripciones desaprovisionadas o suspendidas por fecha</span><span class="sxs-lookup"><span data-stu-id="17846-130">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+- <span data-ttu-id="8e3ed-125">**Suscripciones activas:** recuento de suscripciones activas por fecha</span><span class="sxs-lookup"><span data-stu-id="8e3ed-125">**Active subscriptions**: Count of active subscriptions by date</span></span>  
+- <span data-ttu-id="8e3ed-126">**Suscripciones desaprovisionadas:** recuento de suscripciones desaprovisionadas o suspendidas por fecha</span><span class="sxs-lookup"><span data-stu-id="8e3ed-126">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-## <a name="customer-count"></a><span data-ttu-id="17846-131">Recuento de clientes</span><span class="sxs-lookup"><span data-stu-id="17846-131">Customer count</span></span>
+## <a name="customer-count"></a><span data-ttu-id="8e3ed-127">Recuento de clientes</span><span class="sxs-lookup"><span data-stu-id="8e3ed-127">Customer count</span></span>
 
-- <span data-ttu-id="17846-132">Nuevos clientes adquiridos durante el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="17846-132">New customers acquired during the specified time period</span></span>  
+- <span data-ttu-id="8e3ed-128">Nuevos clientes adquiridos durante el período de tiempo especificado</span><span class="sxs-lookup"><span data-stu-id="8e3ed-128">New customers acquired during the specified time period</span></span>  
 
-## <a name="azure-subscription-retention"></a><span data-ttu-id="17846-133">Retención de suscripción de Azure</span><span class="sxs-lookup"><span data-stu-id="17846-133">Azure subscription retention</span></span>
+## <a name="azure-subscription-retention"></a><span data-ttu-id="8e3ed-129">Retención de suscripciones de Azure</span><span class="sxs-lookup"><span data-stu-id="8e3ed-129">Azure subscription retention</span></span>
 
-- <span data-ttu-id="17846-134">Número de suscripciones que se han renovado.</span><span class="sxs-lookup"><span data-stu-id="17846-134">The number of subscriptions that were renewed.</span></span>
+- <span data-ttu-id="8e3ed-130">Número de suscripciones que se renovaron.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-130">The number of subscriptions that were renewed.</span></span>
 
- ## <a name="next-steps"></a><span data-ttu-id="17846-135">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="17846-135">Next steps</span></span>
+ ## <a name="next-steps"></a><span data-ttu-id="8e3ed-131">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="8e3ed-131">Next steps</span></span>
 
-- [<span data-ttu-id="17846-136">Compre el plan de Azure para los clientes & acceder a los servicios de Azure más recientes a las tarifas de pago por uso</span><span class="sxs-lookup"><span data-stu-id="17846-136">Purchase the Azure plan for customers & access the latest Azure services at pay-as-you-go rates</span></span>](purchase-azure-plan.md)
+- [<span data-ttu-id="8e3ed-132">Compre el plan de Azure para los & acceder a los servicios de Azure más recientes con tarifas de pago por uso.</span><span class="sxs-lookup"><span data-stu-id="8e3ed-132">Purchase the Azure plan for customers & access the latest Azure services at pay-as-you-go rates</span></span>](purchase-azure-plan.md)
