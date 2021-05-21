@@ -9,48 +9,46 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bd6ab7359dc295d075be937f2760e55bd7e6f3e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8486e16d9979a1c1482577248334c1854b116273
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794911"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236107"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Comprobación de la información de la cuenta al inscribirse en un nuevo programa del Centro de partners
 
 **Roles adecuados:** Administrador global | Administrador de asociados de MPN
 
-Cuando se inscribe en un nuevo programa en Centro de partners, Microsoft comprueba la información de inscripción de la cuenta que ha proporcionado, como el nombre de la empresa, la dirección de la empresa y los detalles de contacto principales. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para informarle del estado y solicitar más documentación de verificación.
+Cuando se inscribe en un nuevo programa en Centro de partners, Microsoft comprueba la inscripción, como el nombre de la empresa, la dirección de la empresa y los detalles de contacto principal. Durante este proceso, Microsoft puede enviar un correo electrónico a su contacto principal para solicitar más documentación de verificación.
 
 >[!NOTE]
 >Para asegurarse de que recibe el correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y active Carpetas de correo no deseado.
 
-Si es el contacto principal (administrador global o administrador de cuenta), se recomienda ir a su perfil de partner para supervisar el estado de comprobación y realizar un seguimiento del progreso.
+Si es el contacto principal (administrador global o administrador de cuenta), se recomienda ir a su perfil de partner para supervisar el estado de verificación y realizar un seguimiento del progreso.
 
-Para el programa MPN, vaya a la [página Información legal.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
-
-Para el programa CSP, vaya a la [página Información legal.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+- Para el programa MPN, vaya a [Información legal](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+- Para el programa CSP, vaya a [Información legal](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 
 ## <a name="what-is-verified-and-how-to-respond"></a>Qué se comprueba y cómo responder
 
 |**Tipo de comprobación**   |**Qué se comprueba**   |**Qué hacer si se rechaza**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|Propiedad del correo electrónico   |La propiedad de correo electrónico comprueba que la dirección de contacto principal (correo electrónico principal) es válida. La dirección de correo electrónico de contacto principal debe ser una cuenta profesional supervisada y puede enviar y recibir correo electrónico. **Los asociados no deben usar**: (1) Una dirección de correo electrónico personal no asociada con el dominio de la empresa. (2) Una credencial de usuario de inquilino no asociada al correo electrónico (por ejemplo, jsmith@testcompany.onmicrosoft.com ).  |Si no recibe el mensaje de correo electrónico de comprobación de propiedad de correo electrónico en un plazo de un día laborable, puede solicitar que se vuelva a enviar mediante los vínculos siguientes: para [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile), para [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). En la página del perfil, seleccione el vínculo "Volver a enviar correo electrónico de verificación" para que Microsoft le vuelva a enviar el correo electrónico. Para asegurarse de que recibe el mensaje de correo electrónico, asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y compruebe las carpetas de correo no deseado.|
-|Empleo |La comprobación del empleo confirma que el contacto principal es un empleado de la empresa que se inscribe en virtud de tener una dirección de correo electrónico activa en un dominio de correo electrónico propiedad de la empresa.|Si se rechaza la comprobación del empleo, el contacto principal (normalmente su administrador global o de cuenta) deberá proporcionar documentación que confirme que el dominio de correo electrónico del contacto está bajo la propiedad de su patrón. [Cree una vale de soporte técnico.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)|
-|Business   | La comprobación empresarial confirma que la empresa que se inscribe es una entidad empresarial legítima y se encuentra en la dirección utilizada para la inscripción.|Confirme que el nombre y la dirección de la empresa en su perfil de negocio [legal](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) no tienen errores ortográficos ni abreviaturas, y que coinciden exactamente con los registros formales de registro empresarial de la empresa. Al contacto principal (normalmente su administrador global o de cuenta) se le pedirá que proporcione documentación oficial, como un registro empresarial o un certificado o recibo de registro fiscal, del país de origen o del país de origen de la empresa que confirme que la empresa está autorizada para hacer negocios con ese nombre de entidad y se encuentra en la dirección de inscripción. [Creación de una vale de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Propiedad del correo electrónico   |La propiedad de correo electrónico comprueba que la dirección de contacto principal (correo electrónico principal) es válida. La dirección de correo electrónico de contacto principal debe ser una cuenta profesional supervisada y puede enviar y recibir correo electrónico. **Evite usar una** dirección de correo electrónico personal no asociada al dominio de la empresa o una credencial de usuario de inquilino no asociada al correo electrónico. (Por ejemplo, jsmith@testcompany.onmicrosoft.com).  |Si no recibe el mensaje de correo electrónico de verificación de propiedad de correo electrónico en un plazo de un día laborable, puede solicitar que el correo electrónico se envíe de nuevo. Vaya a la página de perfil de [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) o [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) y seleccione Volver a enviar el correo **electrónico de verificación.** Asegúrese de marcar el correo electrónico de Microsoft.com como un dominio "seguro" y active Carpetas de correo no deseado. Para obtener más ayuda, [cree una vale de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=b818ac05-8091-44a0-f9b4-6bb008a1ef54).|
+|Empleo |La comprobación del empleo confirma que el contacto principal es un empleado de la empresa que se inscribe. El contacto necesita una dirección de correo electrónico activa en un dominio de correo electrónico propiedad de la empresa.|Si se rechaza la comprobación del empleo, el contacto principal (normalmente su administrador global o de cuenta) deberá proporcionar documentación que confirme que el dominio de correo electrónico del contacto está bajo la propiedad de su patrón. Para obtener más ayuda, [cree una vale de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).|
+|Business   | La comprobación empresarial confirma que la empresa que se inscribe es una entidad empresarial legítima y en la dirección indicada.|Confirme que el nombre y la dirección de la empresa en su [perfil de negocio legal](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) están libres de errores ortográficos y abreviaturas. Deben coincidir exactamente con los registros formales de registro empresarial de la empresa. Microsoft pedirá al contacto principal (normalmente su administrador global o de cuenta) que proporcione documentación oficial. La documentación puede ser un certificado de registro empresarial o de registro fiscal o un recibo del país de origen o del territorio de la empresa. Microsoft usa esta documentación para validar que la empresa está autorizada para hacer negocios con ese nombre de entidad específico y se encuentra en la dirección proporcionada. Para obtener más ayuda, [cree una vale de soporte técnico](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).|
 
->[!NOTE]
->Obtenga información sobre cómo actualizar [el perfil legal de negocio (dirección).](update-your-partner-profile.md)
+> [!NOTE]
+> Obtenga información sobre cómo actualizar [el perfil legal de negocio (dirección).](update-your-partner-profile.md)
 
-## <a name="when-verification-concludes"></a>Cuándo finaliza la comprobación
+## <a name="after-verification"></a>Después de la comprobación
 
-Una vez completado el proceso de comprobación, el estado de comprobación de la inscripción en la página del perfil cambiará de "pendiente" a "autorizado", y los pasos del proceso con el estado mostrado en esa página desaparecerán.
-El contacto principal recibirá un correo electrónico de Microsoft en unos días laborables después de que se complete la comprobación. 
+Una vez completada la comprobación, el estado de verificación en el perfil cambiará de "pendiente" a "autorizado" y los pasos de proceso con el estado mostrado en esa página desaparecerán. El contacto principal recibirá un correo electrónico de Microsoft en unos días laborables. 
 
 Después de iniciar sesión en el perfil, si ve **Acciones pendientes,** complete los cambios necesarios de la manera siguiente:
 
 - Para el programa MPN, vaya a la [página Información legal.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)  
 - Para el programa CSP, vaya a la [página Información legal.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-Si necesita ayuda para completar estos pasos en Centro de partners, puede ponerse en contacto con el equipo de soporte técnico de asociados abriendo una entrada en la sección Soporte técnico de Centro de partners. Para ello, comience en la página [Ayuda y](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3) soporte técnico.
+Si necesita ayuda para completar estos pasos en Centro de partners, puede ponerse en contacto con el equipo de soporte técnico de asociados abriendo una entrada en la sección Soporte técnico de Centro de partners. Para ello, vaya a Ayuda [y soporte técnico.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)
