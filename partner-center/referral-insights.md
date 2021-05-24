@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328090"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855955"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenga información de referencia en el Centro de partners y descubra qué consiguen sus referencias
 
-**Roles adecuados**
-
-- Administrador de referencias
+**Roles adecuados**: Administrador global
 
 La página **Oportunidades de venta conjunta** de la sección **Análisis** de las referencias le permite ver cómo van las referencias. Revisa estas métricas periódicamente para identificar tendencias o áreas que requieran atención, y empieza a avanzar hacia tus objetivos empresariales.
 

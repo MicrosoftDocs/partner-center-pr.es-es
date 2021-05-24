@@ -134,6 +134,8 @@
     - name: Cambio de factura directa a revendedor indirecto de CSP
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Los partners ya no pueden inscribirse como asesores
+      href: advisors-no-csp.md
 - name: Contratos de CSP
   href: microsoft-partner-agreement.md
   items:

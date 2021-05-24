@@ -9,26 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151787"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición (eliminación) de una ubicación
 
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador de cuentas
+**Roles adecuados**: Administrador global | Administrador de cuentas
 
 Los identificadores de MPN de ubicación identifican cada ubicación específica de la empresa. Use el identificador de MPN de ubicación para inscribirse en programas de incentivos, para realizar transacciones de empresas del programa Proveedor de soluciones en la nube (CSP) y para otras transacciones comerciales. El identificador de MPN global se usa para actividades no transaccionales, como las solicitudes de soporte técnico.
 
 ## <a name="the-following-scenario-is-typical"></a>El escenario siguiente es típico:
 
-Contoso tiene su cuenta global de partner (PGA) en el Reino Unido. La PGA es su empresa legal registrada, cuyo identificador de MPN global se usa para administrar todos los negocios no transaccionales. Contoso también tiene cuentas de ubicación de partner (PLA) equivalentes a subsidiarias o divisiones en otras ubicaciones del Reino Unido, Francia y EE. UU. En la estructura de cuentas de MPN, estas PLA se representan como identificadores de MPN de ubicación únicos. Las PLA se usan para negocios transaccionales, como los programas de CSP o de incentivos. Los pagos están vinculados a ubicaciones específicas. 
+Contoso tiene su cuenta global de partner (PGA) en el Reino Unido. La PGA indica la empresa legal registrada, cuyo identificador de MPN global se usa para administrar todos los negocios no transaccionales. Contoso también tiene cuentas de ubicación de partner (PLA) equivalentes a subsidiarias o divisiones en otras ubicaciones del Reino Unido, Francia y EE. UU. En la estructura de cuentas de MPN, estas PLA se representan como identificadores de MPN de ubicación únicos. Las PLA se usan para negocios transaccionales, como los programas de CSP o de incentivos. Los pagos están vinculados a ubicaciones específicas. 
 
 >[!NOTE]
 >Hay una relación 1-1 entre un inquilino de CSP y un identificador de ubicación de MPN.
@@ -85,7 +82,7 @@ Actualice los campos siguientes:
 
 ## <a name="add-an-mpn-location"></a>Agregar una ubicación de MPN
 
-1. Iniciar sesión con la cuenta de MPN en el Centro de partners. (Las credenciales de MPN pueden ser diferentes de las credenciales del programa CSP). La cuenta de MPN debe tener privilegios de administrador global o de cuenta. 
+1. Iniciar sesión con la cuenta de MPN en el Centro de partners. (Las credenciales de MPN pueden ser diferentes de las credenciales de CSP). La cuenta de MPN debe tener privilegios de Administrador global o de Administrador de cuentas. 
 
 1. Desde el **icono de Configuración**, seleccione **Configuración de la cuenta** y, a continuación, elija **Perfil de la organización**.
 
@@ -93,7 +90,7 @@ Actualice los campos siguientes:
 
 3. Proporcione los detalles necesarios, como el nombre, la dirección y el contacto de la empresa correspondientes a la ubicación que desea agregar a la empresa.
  
-1. Haga clic en **Agregar ubicación**. Se creará un nuevo ID de MPN para la nueva ubicación, que puede utilizar para las transacciones y los incentivos del programa CSP.
+1. Selecciona **Agregar ubicación**. Se creará un nuevo id. de MPN para la nueva ubicación, que puede usar para las transacciones y los incentivos del programa CSP.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Agregar un nuevo perfil legal de la empresa":::
 
@@ -138,17 +135,17 @@ Para eliminar una ubicación de la cuenta, deberá ponerse en contacto con el [s
 
 ## <a name="change-country-of-partner-global-account"></a>Cambiar el país de la cuenta global del asociado 
 
-1. Iniciar sesión con la cuenta de MPN en el Centro de partners. (Las credenciales de MPN pueden ser diferentes de las credenciales del programa CSP). La cuenta de MPN debe tener privilegios de administrador global o de cuenta. 
+1. Iniciar sesión con la cuenta de MPN en el Centro de partners. (Las credenciales de MPN pueden ser diferentes de las credenciales de CSP). La cuenta de MPN debe tener privilegios de Administrador global o de Administrador de cuentas. 
 
 2. En la pestaña **Partner**, diríjase a **Ubicaciones de la empresa** y compruebe la lista de ubicaciones para asegurarse de que se muestra la ubicación que quiere como entidad jurídica. 
  
 1. Para agregar una ubicación, haga clic en **Agregar una ubicación** y, en el control flotante, proporcione los detalles necesarios, como el nombre, la dirección y el contacto principal de la empresa correspondientes a la ubicación que desea agregar a la empresa. 
  
-1. Seleccione **Cambiar el país** junto al menú desplegable **País o región** y siga los pasos que se indican. 
+1. Seleccione **Cambiar el país** junto a la lista desplegable **País o región** y siga los pasos que se indican. 
 
 :::image type="content" source="images/lbp.png" alt-text="Control flotante de datos del perfil legal de la empresa":::
 
-5. Haga clic en **Guardar**.
+5. Seleccione **Guardar**.
 
 6. El país de la cuenta global de MPN se cambiará por el país del nuevo perfil legal.
   

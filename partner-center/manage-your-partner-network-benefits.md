@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133104"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818769"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Administración de las ventajas y ofertas de la suscripción a Microsoft Partner Network en el Centro de partners
 
@@ -104,11 +104,11 @@ Para activar las suscripciones basadas en licencias, haga clic en el símbolo de
    >[!Note]
    >Los administradores de suscripciones de Visual Studio pueden reasignar las suscripciones de un suscriptor a otro si han transcurrido 90 días desde el momento de la asignación original. Para obtener información adicional, lea la [guía de programas de Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
 
-## <a name="manage-technical-benefits"></a>Administrar las ventajas técnicas
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Administración de ventajas técnicas: Soporte técnico de productos de Microsoft
 
-En esta sección se describe cómo activar y administrar las ventajas del soporte técnico en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners. Sin embargo, si su pertenencia a Microsoft Partner Network todavía está en Partner Membership Center (PMC), tendrá que ponerse en contacto con otro recurso, como Partner Frontline, para recibir ayudar para activar sus ventajas técnicas. Consulte [Activar las ventajas técnicas fuera del Centro de partners](partner-membership-center-tech-benefits-activate.md).
+En esta sección se describe cómo activar y administrar las ventajas del soporte técnico en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners. Sin embargo, si su pertenencia a Microsoft Partner Network todavía está en Partner Membership Center (PMC), tendrá que ponerse en contacto con otro recurso, como Partner Frontline, para recibir ayudar para activar sus ventajas técnicas. Consulte [Activar las ventajas técnicas fuera del Centro de partners](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
 
-Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
+Para ver las ventajas técnicas del Soporte técnico de productos en el Centro de partners, haga lo siguiente:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
@@ -120,7 +120,7 @@ Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
    - **Active la ventaja técnica.** Después de expandir los detalles de una ventaja, seleccione **Activar**. Deje pasar unos días para que se procese la solicitud de activación.
 
-   - **Vea y comparta el id. de acceso y el id. de contrato de soporte técnico del producto.** Una vez que se procese la solicitud de activación, verá los detalles sobre el **Id. de acceso** y el **Id. de contrato** la próxima vez que expanda esa ventaja técnica. Es posible que usted, o los usuarios de su empresa, tenga que compartir esta información la primera vez que se envíe una solicitud de soporte técnico para determinados tipos de productos o servicios.
+   - **Vea y comparta el id. de acceso y el id. de contrato de soporte técnico del producto.** Una vez que se procese la solicitud de activación, verá los detalles sobre el **Id. de acceso** y el **Id. de contrato** la próxima vez que expanda esa ventaja técnica. Es posible que usted o los usuarios de su empresa tengan que compartir esta información la primera vez que se envíe una solicitud de soporte técnico para determinados tipos de productos o servicios.
 
 4. Una vez activada, puede usar las ventajas técnicas para diferentes tipos de soporte técnico. Para enviar solicitudes de soporte técnico para los servicios siguientes, lea las instrucciones detalladas en la página Ventajas técnicas: Consulte también los detalles a continuación.
 
@@ -134,10 +134,23 @@ Para ver las ventajas técnicas en el Centro de partners, haga lo siguiente:
 
      >[!NOTE]
      > El identificador de acceso y el identificador de contrato son necesarios para las solicitudes de soporte técnico de productos locales, de Azure (no CSP) y de Dynamics. En el futuro, para encontrar el identificador de acceso y el identificador de contrato, también puede leer [Búsqueda de las ventajas](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits).
+     > 
+[Más información sobre el Soporte técnico para productos locales o en la nube](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **Servicios técnicos de preventas e implementación.**  Use este tipo de soporte para consultar o pedir asesoramiento relativos a los servicios técnicos de ventas o implementación. Estos servicios se pueden solicitar directamente desde el [Centro de partners](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest).
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Administración de ventajas técnicas: Horas de asesoría de partners
+Las Horas de asesoría de partners son la moneda que se usa en los **Servicios de preventa técnica e implementación (TPD)** ; solo tiene que iniciar sesión para enviar una solicitud (no es necesario activar ni asignar usuarios).
 
-   - En el caso de los partners de Action Pack y de la competencia Gold/Silver, use **Servicios técnicos de preventa e implementación** para soluciones híbridas y en la nube.
+Para ver las ventajas técnicas de las Horas de asesoría de partners en el Centro de partners, haga lo siguiente:
+
+1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
+
+2. Seleccione **Ventajas** y, a continuación, **Ventajas técnicas** para ver las Horas de asesoría de partners.
+
+3. En la parte inferior derecha de la página, haga clic en **[Enviar solicitud de preventa técnicas e implementación](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** para enviar la solicitud.
+     >[!NOTE]
+     > Si la página de ventajas técnicas muestra el mensaje *"Parece que aún no tiene ningún beneficio"* , quiere decir que ha iniciado sesión con una cuenta de partner que no tiene ofertas de tipo Gold, Silver o Microsoft Action Pack y que no es apto para usar el servicio o que ha usado la cuenta incorrecta para iniciar sesión.
+     > 
+[Más información acerca de los servicios de preventa técnica e implementación (TDP)](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>Administrar ofertas de comercialización
 
