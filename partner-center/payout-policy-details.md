@@ -1,18 +1,18 @@
 ---
 title: Procesos y programaciones de pagos
-description: Obtenga información sobre pagos y transacciones, como programaciones de pago y procesos de recuperación para marketplace comercial y otras transacciones.
+description: Obtenga información sobre pagos y transacciones, como programaciones de pago y procesos de recuperación para Azure Marketplace y otras transacciones.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 12/04/2020
-ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/25/2021
+ms.openlocfilehash: bcecd4c31d80a4130331c652491e7951af180c67
+ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146959"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "110582430"
 ---
 # <a name="payout-schedules-and-processes"></a>Procesos y programaciones de pagos
 
@@ -22,9 +22,9 @@ En este artículo se describe la programación de pago de Microsoft, dónde enco
 
 ## <a name="payment-schedules"></a>Programaciones de pago
 
-En las secciones siguientes se describe el proceso de pago para **Contrato Enterprise** y transacciones de tarjeta de **crédito/factura.**
+En las secciones siguientes se describe el proceso de pago **para Contrato Enterprise** transacciones Contrato de cliente de Microsoft **o CSP.**
 
-### <a name="enterprise-agreement-transactions"></a>Contrato Enterprise transacciones
+### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>Transacciones cuando el cliente tiene una Contrato Enterprise
 
 Cuando un cliente compra un producto de Microsoft AppSource o Azure Marketplace mediante su microsoft Contrato Enterprise existente para transacciones, emitiremos pagos en el siguiente ciclo de pago 30 días después de la factura del cliente. Las transacciones en las que un cliente usa una tarjeta de crédito tienen un período de retención de 30 días antes del pago.
 
@@ -44,7 +44,7 @@ A menudo se producirá un pago antes de que Microsoft recopile el pago del clien
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Escala de tiempo de los pagos para los clientes del contrato Enterprise.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transacciones con tarjeta de crédito o factura (cheque o conexión)
+### <a name="transactions-when-customer-has-a-microsoft-customer-agreement-or-csp"></a>Transacciones cuando el cliente tiene un Contrato de cliente de Microsoft o CSP
 
 Todas las compras con una tarjeta de crédito o una factura mensual tienen un período de retención de 30 días para asegurarse de que los fondos se recopilan del cliente.
 
@@ -66,7 +66,7 @@ Todas las compras con una tarjeta de crédito o una factura mensual tienen un pe
 
 En raras ocasiones, Microsoft no puede cobrar los pagos a los clientes por sus compras en Marketplace comercial. Cuando un cliente no puede pagar a Microsoft según su programación de facturación, comienza el proceso de cobro. Este proceso tarda aproximadamente cuatro meses e implica una comunicación continua con Microsoft. Si el pago no se recibe al final de este proceso, Microsoft escribe los fondos como no recuperables.
 
-Según el proceso de pago articulado aquí, es posible que Microsoft ya haya pagado fondos a los anunciantes (usted) que finalmente no se podrán cobrar. Por lo tanto, tenemos un proceso para conciliar estos importes. Para asegurarse de que tiene la advertencia de que su pago (ya recibido) se puede conciliar, se le avisará cuando un cliente se encuentre en el proceso de cobro y es probable que se cancelen las compras.
+Según el proceso de pago articulado aquí, es posible que Microsoft ya haya pagado fondos a los anunciantes (usted) que finalmente no se podrán cobrar. Por lo tanto, tenemos un proceso para conciliar estos importes.
 
 Microsoft recuperará los pagos que ya se le hayan pagado a usted con uno de los siguientes métodos: (1) Microsoft puede restar los importes no pagados de los pagos futuros; por ejemplo, si se considera que 1000 dólares USA de los pagos no se pueden cobrar ni cancelar, se retienen los pagos futuros hasta que se recupere este importe; o bien, (2) Microsoft puede solicitar un reembolso o los importes no cobrados a los anunciantes de la factura.
 
@@ -78,9 +78,9 @@ La siguiente programación es un ejemplo:
 | <font color="red">Si el cliente no paga a Microsoft</font> | 2/12/2020 – 5/12/2020 | Sin cambios, igual que antes. |
 | El cliente recibe el primer correo electrónico de pago atrasado. | 12/6/2020 | None |
 | El cliente recibe mensajes de correo electrónico periódicos cada vez más urgentes. | 07/12/2020 – 31/01/2021 | None |
-| Es probable que el anunciante reciba una notificación de una probable cancelación. | 07/01/2021 | Notificación por correo electrónico enviada al anunciante de que su cliente aún no ha enviado el pago. Se incluyen el identificador de la transacción y el importe en dólares. |
+| Es probable que el anunciante reciba una notificación de una probable cancelación. | 07/01/2021 | - |
 | El cliente recibe el aviso de cancelación. | 01/02/2021 | None |
-| El proceso de cobro finaliza o los fondos se cancelan. | 15/02/2021 | Notificación por correo electrónico enviada al anunciante de que los fondos se han cancelado. Se incluyen el identificador de la transacción y el importe en dólares. |
+| El proceso de cobro finaliza o los fondos se cancelan. | 15/02/2021 | Notificación por correo electrónico enviada al anunciante de que los fondos se han cancelado. |
 | El pago se deduce. | 01/03/2021 | El publicador verá una transacción negativa en Centro de partners de pago |
 | El pago se retiene. | 15/03/2021 | Los pagos futuros se mostrarán en Centro de partners de pago. El anunciante no recibirá ningún pago hasta que el saldo deje de ser negativo.  |
 |||
