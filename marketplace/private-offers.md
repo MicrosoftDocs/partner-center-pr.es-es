@@ -5,46 +5,42 @@ ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412665"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534181"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Ofertas privadas en Azure Marketplace
+# <a name="private-plans-in-azure-marketplace"></a>Planes privados en Azure Marketplace
 
-Las ofertas privadas son el modo en que los publicadores proporcionan planes personalizados a clientes específicos. Esta opción solo se admite actualmente en la experiencia de Azure Marketplace en el Azure Portal. Las ofertas privadas solo están disponibles para las ofertas de pago que se pueden adquirir e instalar directamente desde el Azure Portal. El publicador no puede crear ofertas privadas para servicios de consultoría, ningún servicio que se haya puesto **en contacto** como una llamada a una acción o cualquier servicio gratuito, independientemente de si se puede instalar desde el portal o no.
+Los planes privados son la forma en que los publicadores proporcionan planes personalizados a clientes específicos. Los planes privados solo están disponibles para las ofertas de pago que se pueden adquirir e instalar directamente desde el Azure Portal. Los publicadores no pueden crear planes privados para servicios de consultoría, ningún servicio que tenga **Contacto** conmigo como llamada a la acción ni ningún servicio gratuito, independientemente de si se puede instalar desde el portal o no.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Busque ofertas privadas en el Azure Portal
+## <a name="find-private-plans-in-the-azure-portal"></a>Busque planes privados en el Azure Portal
 
-Cuando un asociado publica una oferta privada, solo es visible para los usuarios válidos en la sección **Marketplace** de la Azure portal. Estos usuarios se definen mediante el identificador de suscripción o el identificador de inquilino, según el tipo de oferta. Si es válido para las ofertas privadas, hay dos maneras de encontrarlas en el portal.
+Cuando un asociado publica un plan privado, solo es visible para los usuarios aptos en la **sección Marketplace** de la Azure Portal. Estos usuarios se definen mediante el identificador de suscripción o el identificador de inquilino, según el tipo de oferta. Si es apto para planes privados, hay dos maneras de encontrarlos en el portal.
 
 > [!NOTE]
-> Actualmente, las ofertas privadas no se pueden buscar ni filtrar (por categoría) en el Azure Portal.
+> Los planes privados se pueden buscar pero no se pueden filtrar (por categoría) en el Azure Portal.
 
-En el Azure Portal, seleccione **+ crear un recurso** o busque "Marketplace" para ir a la página de **Marketplace** . Si es válido para las ofertas privadas, verá el banner **tiene ofertas privadas disponibles** en la parte superior de la página. Seleccione **Ver ofertas privadas** para ir a la página de ofertas privadas.
+En la Azure Portal, seleccione **+ Crear un recurso** o busque "Marketplace" para ir a la página **marketplace.** Si es apto para planes privados, verá el banner You **have private plans available (Tiene** planes privados disponibles) en la parte superior de la página. Seleccione **Ver ofertas privadas y planes para** ir a la página de planes privados.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="El banner que aparece cuando tiene ofertas privadas disponibles.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Banner que se muestra cuando hay planes privados disponibles.":::
 
-Como alternativa, si ve el banner de ofertas privadas, también puede desplazarse a la parte inferior de la página de la galería de productos y verá un subconjunto de las ofertas privadas. Seleccione el vínculo para **Ver más información** para ir a la página de ofertas privadas.
+## <a name="review-private-plans"></a>Revisión de planes privados
 
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="Muestra las ofertas privadas en la parte inferior de la pantalla, junto con el vínculo ver más.":::
+Un plan privado forma parte de varios planes de una oferta. Cada oferta puede tener varios planes, tanto públicos como privados, pero los planes privados se muestran en una lista independiente de los planes públicos.
 
-## <a name="review-private-plans"></a>Revisar planes privados
+Puede ver los planes privados disponibles en la **pestaña Planes,** marcados con un distintivo **privado** distintivo:
 
-Una oferta privada es realmente un plan privado dentro de una oferta. Cada oferta puede tener varios planes, tanto públicos como privados, pero los planes privados se muestran en una lista independiente de los planes públicos.
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="Página de planes marcada como Privada.":::
 
-Puede ver los planes privados disponibles en la pestaña **planes** , marcados con un distintivo **privado** distintivo:
+Si tiene más de una suscripción, verá todos los planes privados disponibles para todas las suscripciones. Al seleccionar **Crear**, se le enruta a la página de creación de recursos para empezar a configurar el recurso.
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="Página de planes marcada como privada.":::
+Si selecciona **Crear** y tiene varias suscripciones, pero no todas se agregan al plan privado, es posible que la suscripción predeterminada no sea la suscripción apta para este plan privado. En este caso, seleccione la suscripción correcta.
 
-Si tiene más de una suscripción, verá todas las ofertas privadas disponibles para todas las suscripciones. Al seleccionar **crear**, se le dirigirá a la página de creación de recursos para comenzar a configurar el recurso.
-
-Si selecciona **crear** y tiene varias suscripciones, pero no todas ellas se agregan al plan privado, es posible que la suscripción predeterminada no sea la suscripción válida para esta oferta privada. En este caso, seleccione la suscripción correcta.
-
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="El vínculo que muestra hay más ofertas privadas disponibles.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Vínculo que muestra que hay más planes privados disponibles.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
