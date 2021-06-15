@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
+ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146262"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112073805"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Campos de archivo de conciliación de compras únicas de CSP
 
-**Roles adecuados:** Administrador de | Agente de facturación
+**Roles adecuados:** administrador de | Agente de facturación
 
 ## <a name="using-the-recon-file"></a>Uso del archivo de conciliación
-En la tabla siguiente se muestran las descripciones y los valores de ejemplo de los campos del archivo de conciliación para las compras únicas de CSP.
+La tabla siguiente proporciona descripciones y valores de ejemplo para los campos del archivo de conciliación para las compras únicas de CSP.
 
 Para obtener más información sobre los archivos de conciliación, [vea Usar los archivos de conciliación](use-the-reconciliation-files.md).
 
@@ -41,16 +41,16 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | AvailabilityId | Identificador único de disponibilidad. | *DZH318Z08B80* |
 | SkuName | Nombre de la SKU. | *Tablas: LRS* |
 | ProductName | Nombre del producto. | *Tablas* |
-| ChargeType | Tipo [de cargo o](./recon-file-charge-types.md) ajuste. | *Nuevo* |
-| UnitPrice | Precio por licencia, tal como se publicó en la lista de precios en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *0.045* |
+| ChargeType | Tipo [de cargo](./recon-file-charge-types.md) o ajuste. | *Nuevo* |
+| UnitPrice | Precio por licencia, tal como se publica en la lista de precios en el momento de la compra. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *0.045* |
 | Cantidad | Número de licencias. Asegúrese de que coincide con la información almacenada en el sistema de facturación durante la conciliación. | *1* |
 | Subtotal | Total sin impuestos. El subtotal debe ser igual a la cantidad facturable multiplicada por el precio unitario efectivo. | *0* |
 | TaxTotal | Cargo por importe de impuestos. En función de las reglas fiscales del mercado y las circunstancias específicas. | *0* |
 | Total | El importe total es igual al subtotal más el importe de impuestos. | *0* |
-| Moneda | La factura se genera en el contexto de la moneda del cliente. Esto significa que, si eres un partner que está realizando transacciones con clientes con distintas monedas de facturación, recibirás una factura por cada tipo de moneda de cliente.  | *EUR* |
-| PriceAdjustmentDescription | Los motivos de los ajustes en el precio unitario. Estas son las razones principales, pero no se limitan a determinar el precio unitario efectivo. | *["15,0 % crédito obtenido del partner por los servicios administrados"]* |
+| Moneda | La factura se genera en el contexto de la moneda del cliente. Esto significa que, si eres un partner que está realizando transacciones con clientes con distintas monedas de facturación, recibirás una factura por cada tipo de moneda de cliente.  | *Eur* |
+| PriceAdjustmentDescription | Los motivos de los ajustes en el precio unitario. Estos son los motivos principales, pero no se limitan a determinar el precio unitario efectivo. | *["15,0 % Crédito obtenido del partner por los servicios administrados"]* |
 | PublisherName | Publicador del producto.  | *Microsoft* |
-| PublisherId | Identificador único que el Centro de partners usa para identificar al publicador. | *Na* |
+| PublisherId | Identificador único que el Centro de partners usa para identificar el publicador. | *Na* |
 | SubscriptionDescription | Nombre de la oferta de servicio adquirida por el cliente, según se define en la lista de precios. Esta columna es un campo idéntico a OfferName. | *Plan de Azure* |
 | SubscriptionId | Identificador único para una suscripción en la plataforma de facturación de Microsoft. No se usa para la conciliación. Tenga en cuenta que este identificador no es el mismo que el identificador de suscripción en la consola de administración del asociado. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Fecha en que se inicia el período de facturación de una suscripción. | *9/1/2020* |
@@ -67,9 +67,19 @@ Para obtener más información sobre los archivos de conciliación, [vea Usar lo
 | MeterDescription | Descripción del medidor.  | *Tablas: datos LRS almacenados (GB/mes)* |
 | ReservationOrderId | Identificador del pedido de reserva. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Descripción del crédito. | *Crédito de consumo de Azure* |
+| SubscriptionStartDate | Fecha en que se adquiere una suscripción. | *5/1/2021* |
+| SubscriptionEndDate | Fecha en que expira una suscripción. | *4/30/2022* |
+| Referenceid | Vinculación a todas las transacciones que se producen durante las actualizaciones. | *025d68a6-1bd6-42ab-9636-15e8d776a30e* |
+| ProductQualifiers | Identificador para conocer las compras de complementos o pruebas. | *["Add-on"]* |
+| PromotionID | Identificador que se va a usar para capturar la información de la promoción. | *78bcf906-b945-4210-8818-cfb93caf12a1* |
 
 >[!NOTE]
->Puede conciliar el consumo de Azure en el archivo de conciliación de una sola compra. Para ello, vaya al archivo de conciliación de uso clasificado diariamente y busque subscriptionID. Esto mostrará todos los costos asociados con el identificador del plan de Azure. El Identificador de suscripción de Azure se muestra como EntitlementID.
+>Puede conciliar el consumo de Azure en el archivo de conciliación de una sola compra. Para ello, vaya al archivo de conciliación de uso clasificado diariamente y busque subscriptionID. Esto mostrará todos los costos asociados con el identificador del plan de Azure. El identificador de suscripción de Azure se muestra como EntitlementID.
+>
+
+## <a name="how-to-connect-the-base-subscription-with-the-upgraded-subscription"></a>¿Cómo conectar la suscripción base con la suscripción actualizada?
+
+Debe usar el identificador de suscripción del producto base para buscar los identificadores de referencia correspondientes y usarlos para capturar todas las transacciones asociadas. Combinado con el identificador de suscripción y el identificador de referencia, puede conectar todas las actualizaciones que se produjeron en un solo evento.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
