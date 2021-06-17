@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855614"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277800"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Centro de partners de diagnóstico y solicitudes del portal
 
@@ -22,14 +22,14 @@ ms.locfileid: "109855614"
 
 **Roles adecuados:** todos los asociados interesados en Centro de partners
 
-Todos los usuarios Centro de partners sesión pueden crear una solicitud de soporte técnico para asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico que han enviado después de iniciar sesión Centro de partners.
-Póngase en contacto Centro de partners soporte técnico si encuentra problemas o necesita ayuda con Centro de partners del portal. Envíe diagnósticos para que el problema se corrigiera más rápido.
+Todos los usuarios que han iniciado Centro de partners pueden crear una solicitud de soporte técnico para asociados. Los usuarios solo pueden ver las solicitudes de soporte técnico que han enviado después de iniciar sesión en Centro de partners.
+Póngase en contacto Centro de partners soporte técnico si encuentra problemas o necesita ayuda con Centro de partners del portal. Envíe diagnósticos para que el problema se corrigiera más rápidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Notificar un problema con el Centro de partners
 
-1. En el **panel Centro de partners,** seleccione **Soporte técnico y,** a continuación, **seleccione Solicitudes de soporte técnico para asociados.**
+1. En el **panel Centro de partners,** seleccione **Soporte técnico y,** a continuación, **seleccione Solicitudes de soporte técnico para partners.**
 
-2. Seleccione **Nueva solicitud** y busque el tipo de problema que mejor describe el problema. Seleccione el tipo de problema y **revise las soluciones**.
+2. Seleccione **Nueva solicitud** y busque el tipo de problema que mejor describa el problema. Seleccione el tipo de problema y **Revise las soluciones**.
 
 3. Revise la **página Soluciones recomendadas** para ver los pasos o documentos relacionados que pueden ayudarle a resolver el problema.
 
@@ -43,23 +43,23 @@ Póngase en contacto Centro de partners soporte técnico si encuentra problemas 
 
 Si su problema requiere una conversación con su promotor de soporte técnico, puede programar la cita a partir de los detalles de la incidencia.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Programar una cita de soporte técnico":::
+:::image type="content" source="images/support/ticket.png" alt-text="Programar una cita de soporte técnico.":::
 
 1.  En la página de detalles de la Centro de partners, seleccione una fecha y hora disponibles en el calendario del promotor de soporte técnico. Solo verá las fechas y horas disponibles en la zona horaria local.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Programar cita":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Programar cita.":::
 
 2. Centro de partners comprueba la disponibilidad del calendario del promotor de soporte técnico.
 
-1. Cuando programe una cita, Centro de partners le enviará una invitación de calendario con información sobre cómo se pondrá en contacto con usted el promotor de soporte técnico, para que pueda realizar un seguimiento de esta cita en su propio calendario laboral.  Aunque esta funcionalidad todavía está en versión preliminar, la invitación de calendario y correo electrónico estará en inglés, pero el promotor podrá admitirlo en el idioma que seleccionó al crear el vale.
+1. Cuando programe una cita, Centro de partners le enviará una invitación de calendario con información sobre cómo se pondrá en contacto con usted el promotor de soporte técnico, para que pueda realizar un seguimiento de esta cita en su propio calendario laboral.  Aunque esta funcionalidad todavía está en versión preliminar, la invitación de calendario y correo electrónico estará en inglés, pero el promotor podrá admitirlo en el idioma que seleccionó al crear la vale.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Fecha y hora.":::
 
 ## <a name="hours-of-operation"></a>Horas de operación
 
 **Soporte técnico del asociado**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Horas de operación de soporte técnico":::
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de operación de soporte técnico.":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 

@@ -2,24 +2,24 @@
 title: Solución de problemas de pagos y ganancias
 ms.topic: article
 ms.date: 02/05/2021
-description: Obtenga información sobre cómo resolver problemas como pérdidas o ganancias incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de los incentivos.
+description: Obtenga información sobre cómo resolver problemas como ganancias que faltan o incorrectas, problemas de elegibilidad y cómo conciliar las ganancias de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151957"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277868"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Solución de problemas de pagos que faltan, ganancias incorrectas y otros problemas
 
 **Roles adecuados:** Administrador de incentivos
 
-Este artículo le ayudará a resolver las ganancias o problemas de pago del programa de incentivos. Entre los asuntos tratados se incluyen los plazos de pago, la comprobación de la idoneidad de las ganancias y la importancia de configurar correctamente los perfiles fiscales y de pago.
+Este artículo le ayudará a resolver las ganancias o problemas de pago en el programa de incentivos. Entre los temas tratados se incluyen los plazos de los pagos, la comprobación de la idoneidad de las ganancias y la importancia de configurar correctamente los perfiles fiscales y de pago.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>¿Quién puede crear o actualizar perfiles fiscales y de pago para mi organización?
 
@@ -27,11 +27,11 @@ Los usuarios que tienen el rol de administrador de incentivos en Centro de partn
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>¿Cuánto tiempo tarda Microsoft en aprobar mis perfiles fiscales o de pago pendientes?
 
-La validación puede tardar hasta 48 horas. Durante este tiempo, el estado del perfil en la página de información general se mostrará como Validating enrollment (Validando inscripción). Una vez completado el proceso, el  estado se mostrará como Inscrito si se realiza correctamente o Acción necesaria: actualizar los detalles de pago o **impuestos** si es necesario.
+La validación puede tardar hasta 48 horas. Durante este tiempo, el estado del perfil en la página de información general se mostrará como Validating enrollment (Validando inscripción). Una vez completado el proceso, el  estado se mostrará como Inscrito si se realiza correctamente o Acción necesaria: actualizar el pago o los detalles fiscales si **es** necesario.
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Cómo saber si he completado mi perfil fiscal y de pago correctamente?
 
-El estado de la inscripción se muestra en la página de información general. Cuando haya terminado de crear los perfiles, su estado será **Validación de la inscripción.** Una vez validada la información, el estado cambia **a Inscrito.** Este estado indica que el perfil fiscal y de pago y la inscripción se han completado correctamente.
+El estado de la inscripción se muestra en la página de información general. Cuando haya terminado de crear los perfiles, el estado será **Validación de la inscripción.** Una vez validada la información, el estado cambia **a Inscrito.** Este estado indica que el pago y el perfil fiscal y la inscripción se han completado correctamente.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>¿Por qué es necesario actualizar mi perfil fiscal para usarlo con un nuevo programa de incentivos?
 
@@ -46,7 +46,7 @@ Microsoft no admite actualmente la posibilidad de eliminar los perfiles fiscales
 Si faltan pagos o son incorrectos, suele deberse a uno de los siguientes motivos:
 
 - **Es posible que no sea apto.**  Las ganancias solo estarán disponibles si se cumplen los requisitos de idoneidad operativa, es decir, estar inscrito en el período de ganancias del programa correspondiente.
-- **Es posible que no haya cumplido los requisitos.**  Compruebe si ha cumplido las reglas de ingresos aptos y de elegibilidad para el incentivo que está buscando.
+- **Es posible que no haya cumplido los requisitos.**  Compruebe si ha cumplido las reglas de elegibilidad y de ingresos elegibles para el incentivo que está buscando.
 
   **Para comprobar su idoneidad**
 
@@ -56,17 +56,17 @@ Si faltan pagos o son incorrectos, suele deberse a uno de los siguientes motivos
   
   3. Seleccione el vínculo de documento que desee y, a continuación, revise las secciones. 
 
-**Reglas de ingresos aptos** y elegibilidad **de los asociados.**
+**Reglas de elegibilidad de asociados** **y ingresos válidos**.
 
 - **El perfil de pago puede estar incompleto.** La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020.
-- **Es posible que tenga una acción pendiente.**  Podría deberse a que los incentivos no se están procesando porque existe una acción pendiente.
+- **Es posible que tenga una acción pendiente**.  Podría deberse a que los incentivos no se están procesando porque existe una acción pendiente.
 
   **Para ver las acciones pendientes**
 
   1. Inicie sesión en [Incentivos para partners.](https://partner.microsoft.com/membership/partner-incentives)
-  2. Abra la **página Historial de transacciones.** Revise los campos de esta página para ver las acciones pendientes que se deben completar, como El perfil de impuestos **pendiente,** Perfil de pago pendiente o Envío de **facturas fiscales pendientes.**
+  2. Abra la página **Historial de transacciones.** Revise los campos de esta página para ver si se deben completar las acciones pendientes, como el perfil de impuestos **pendiente,** el perfil de pago pendiente o el envío de **facturas fiscales pendientes.**
 
-Si estas acciones no ayudan y los pagos siguen faltando o son incorrectos, póngase en contacto con el servicio [de soporte técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Si estas acciones no ayudan y los pagos siguen faltando o son incorrectos, póngase en contacto con el [soporte técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="how-can-i-reconcile-my-adjustments"></a>¿Cómo puedo conciliar mis ajustes?
 
@@ -75,14 +75,14 @@ Puede buscar y conciliar los ajustes descargando los detalles de ganancias y tra
 1. Inicie sesión en el [panel del Centro de partners](https://partner.microsoft.com/dashboard/).
 2. En la barra de navegación superior, seleccione el icono money y, a continuación, seleccione **Historial de transacciones.**
 3. Aplique los filtros adecuados. (Consulte la **nota** importante a continuación).
-4. Una vez filtrados los datos, seleccione **Iniciar descarga y,** a continuación, **exportar datos.** Los datos se abrirán en un archivo CSV.
-5. En el archivo CSV, vaya a Columna P, **Tipo de ganancia**.
-6. Filtre esta columna por **Adjustment-Desajuste**. Puede ver el mes de cada ajuste en la columna S.
+4. Una vez filtrados los datos, seleccione **Iniciar descarga y,** a continuación, **seleccione Exportar datos.** Los datos se abrirán en un archivo CSV.
+5. En el archivo CSV, vaya a Columna P, **Tipo de ganancia.**
+6. Filtre esta columna por **Ajuste y desajuste.** Puede ver el mes de cada ajuste en la columna S.
 
 >[!IMPORTANT]
->Los ajustes aplicados a períodos de ganancias anteriores no serán visibles en las ganancias del mes en el que se aplicó el ajuste. Los ajustes siempre reflejarán en el informe de ganancias del mes al que se aplicó el ajuste.
+>Los ajustes aplicados a períodos de ganancias anteriores no estarán visibles en las ganancias del mes en el que se aplicó el ajuste. Los ajustes siempre se reflejarán en el informe de ganancias del mes al que se aplicó el ajuste.
 >
->Por ejemplo, un ajuste de las ganancias de enero de 2019 que se procesó en septiembre de 2019 no reflejará el importe de las ganancias de septiembre de 2019. Sin embargo, cuando se reciba el pago de septiembre de 2019, incluirá el ajuste de enero de 2019 que se aplicó en septiembre. En este escenario, tendría que descargar los detalles de la transacción de enero de 2019 para ver el ajuste que se aplicó.
+>Por ejemplo, un ajuste de las ganancias de enero de 2019 que se procesó en septiembre de 2019 no se reflejará en el importe de las ganancias de septiembre de 2019. Sin embargo, cuando se reciba el pago de septiembre de 2019, incluirá el ajuste de enero de 2019 que se aplicó en septiembre. En este escenario, tendría que descargar los detalles de la transacción de enero de 2019 para ver el ajuste que se aplicó.
 >
 >Tenga esto en cuenta al establecer los filtros de fecha. Como se mencionó anteriormente, los ajustes de períodos anteriores solo estarán visibles en el mes al que se aplicó el ajuste. Compruebe que el intervalo de fechas seleccionado corresponde al mes del ajuste que está intentando localizar. Es posible que tenga que seleccionar **Borrar todo** para quitar los filtros y, a continuación, aplicar otros nuevos.
 
@@ -114,13 +114,13 @@ Los beneficios que faltan o son incorrectos pueden deberse a uno de los siguient
 
 Las ganancias se muestran tanto en la página **Historial de transacciones** como en **la página Pagos.** Para acceder a ambas páginas, seleccione el icono **pago** en la barra de navegación Centro de partners.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Información de la transacción":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Información de transacción.":::
 
 Es posible que los importes de ganancias mensuales de la vista Historial de transacciones no se alineen con el importe de pago recibido durante un mes específico. Esto se debe a los recálculos y ajustes de los períodos de ganancias anteriores que se aplican a pagos futuros.
 
 Por ejemplo, un ajuste de las ganancias de enero de 2019 que se procesó en septiembre de 2019 no se reflejará en el importe de las ganancias de septiembre de 2019. sin embargo, cuando se reciba el pago de septiembre de 2019, incluirá el ajuste de enero de 2019 que se aplicó en septiembre.
 
-En este escenario, tendría que descargar los detalles de la transacción para obtener una vista completa de todas las ganancias incluidas en el pago.  Además, puede ir a la vista Pagos para descargar las transacciones de cada pago.
+En este escenario, tendría que descargar los detalles de la transacción para obtener una vista completa de todas las ganancias incluidas en el pago.  Además, puede navegar a la vista Pagos para descargar las transacciones de cada pago.
 
 ### <a name="transaction-history"></a>Historial de transacciones
 
@@ -132,14 +132,14 @@ Esta vista le permite ver los pagos de todos los programas y los ID de MPN. Los 
 
 | Para hacer esto | Vaya aquí |
 | ------ | :----------- | 
-| Ver la información de pago por línea, incluidas las ganancias y los importes de pago en la moneda local  | Consulte el **campo Lista de** pagos.   |
-| Descarga de una letra de remesa   |  Seleccione **Pago remesa.**  |
-| Visualización de los detalles del nivel de transacción para un pago específico |  Seleccionar **vista**  |
-| Exportación de detalles de transacción a Excel  |  Seleccione **Iniciar descarga** y, a continuación, seleccione Exportar **datos.** Todos los filtros seleccionados se aplicarán a los datos exportados. Una vez que el estado haya cambiado a Completado, seleccione **Descargar** y siga las indicaciones para exportar el informe detallado de transacciones. Actualice la página si el estado no se actualiza en un plazo de cinco minutos.  |
+| Visualización de la información de pago por línea, incluidas las ganancias y los importes de pago en moneda local  | Consulte el **campo Lista de** pagos.   |
+| Descarga de una letra de remesa   |  Seleccione **Pago remesa**  |
+| Visualización de los detalles del nivel de transacción para un pago específico |  Seleccione **Ver.**  |
+| Exportación de los detalles de la transacción a Excel  |  Seleccione **Iniciar descarga y,** a continuación, **seleccione Exportar datos.** Todos los filtros seleccionados se aplicarán a los datos exportados. Una vez que el estado haya cambiado a Completado, seleccione **Descargar** y siga las indicaciones para exportar el informe detallado de transacciones. Actualice la página si el estado no se actualiza en un plazo de cinco minutos.  |
 
-### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganancias y pagos incorrectos o ausentes
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganancias y pagos que faltan o son incorrectos
 
-Si no puede encontrar los detalles de un pago o transacción, compruebe si ha aplicado los filtros correctos. Dado que algunos nombres de programa han cambiado (por ejemplo, el asociado directo de CSP 1T ahora CSP Direct Bill Partner), es posible que tenga que usar varias selecciones.
+Si no puede encontrar los detalles de un pago o transacción, compruebe si ha aplicado los filtros correctos. Dado que algunos nombres de programa han cambiado (por ejemplo, CSP 1T Direct Partner ahora está CSP Direct Bill Partner), es posible que tenga que usar varias selecciones.
 
 Si todavía no encuentra sus ganancias o cree que las ganancias mostradas son incorrectas, póngase en contacto con el soporte [técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
@@ -151,7 +151,7 @@ Si hay alguna discrepancia en sus ganancias, realice los pasos siguientes:
 
 2. **Compruebe que el perfil de pago está completo.**  La fecha de inicio de sus ingresos de incentivos será el primer día del mes en el que haya completado todos los requisitos de idoneidad, incluida la incorporación con los detalles fiscales y de pago. Los beneficios no estarán disponibles durante los meses anteriores a la finalización fiscal y de pago. Por ejemplo, si completa todos los requisitos durante el mes de abril de 2020, la fecha de inicio de las ganancias será el 1 de abril de 2020. 
 
-3. **Compruebe que reúne los requisitos.**  Compruebe si ha cumplido las reglas de ingresos [aptos](#my-payment-is-missing-or-incorrect) y de elegibilidad para el programa de incentivos.
+3. **Compruebe que reúne los requisitos.**  Compruebe si ha cumplido [](#my-payment-is-missing-or-incorrect) las reglas de ingresos aptos y de elegibilidad para el programa de incentivos.
 
 Si estas acciones no ayudan y las ganancias todavía no se concilian, póngase en contacto con el soporte [técnico.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 

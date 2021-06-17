@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152892"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277545"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel Centro de partners Insights
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Informe de competencias disponible en el panel de Centro de partners Insights
 
 **Roles adecuados:** Administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
@@ -26,15 +26,15 @@ Obtendrá más uso del informe de competencias si aprende más sobre el ciclo de
 
 ## <a name="competency-life-cycle"></a>Ciclo de vida de la competencia
 
-Desde el punto de vista del ciclo de vida, los asociados comienzan por crear los indicadores clave de rendimiento (KPI) necesarios para alcanzar competencias específicas. Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se convierten en **calificados** para una competencia. A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para alcanzar la competencia y convertirse en **activos** en esa competencia. El estado activo **de** la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se denomina fecha de aniversario **de** la competencia). Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia. Si no cumplen estos requisitos de nuevo, perderán la competencia. Un **estado En** riesgo para una competencia previamente alcanzada significa que se prevé que ciertas métricas clave se encuentran por debajo del umbral en esa fecha de aniversario de **competencias.**
+Desde el punto de vista del ciclo de vida, los asociados comienzan por crear los indicadores clave de rendimiento (KPI) necesarios para alcanzar competencias específicas. Una vez que alcanzan el umbral establecido para una competencia determinada en todas las métricas necesarias, se convierten **en** calificados para una competencia. A continuación, los asociados pueden pagar por la oferta de competencia (Silver o Gold) para alcanzar la competencia y convertirse **en activos** en esa competencia. El estado activo **de** la competencia es válido durante un año a partir de la fecha de obtención de la competencia (esto se denomina fecha de aniversario **de** la competencia). Al final del año de aniversario, los asociados deben cumplir los requisitos de competencia. Si no cumplen estos requisitos de nuevo, perderán la competencia. Un **estado en riesgo** para una competencia previamente alcanzada significa que se prevé que ciertas métricas clave se encuentran por debajo del umbral en esa fecha de aniversario de **competencias.**
 
-## <a name="competency-attainment"></a>Alcance de la competencia
+## <a name="competency-attainment"></a>Nivel de competencia
 
-Cada competencia tiene un conjunto específico de requisitos que cumplir. Los requisitos de competencia en la nube se divide en dos categorías: aptitudes y rendimiento.
+Cada competencia tiene un conjunto específico de requisitos que se deben cumplir. Los requisitos de competencias en la nube se divide en dos categorías: aptitudes y rendimiento.
 
-- Aptitudes: los requisitos suelen incluir exámenes, evaluaciones o certificaciones que las personas de su empresa deben aprobar.
+- Aptitudes: los requisitos suelen incluir exámenes, evaluaciones o certificaciones que deben superar los usuarios de su empresa.
 
-- Rendimiento: para poder optar a una competencia, la empresa debe cumplir determinados umbrales de rendimiento alineados con el área de competencia. Por ejemplo, es posible que su empresa necesite satisfacer una cantidad mínima de consumo de Azure durante los 12 meses siguientes.
+- Rendimiento: para poder optar a una competencia, la empresa debe cumplir determinados umbrales de rendimiento alineados con el área de competencia. Por ejemplo, es posible que su empresa tenga que satisfacer una cantidad mínima de consumo de Azure durante los 12 meses siguientes.
 
 ## <a name="competencies-report-details"></a>Detalles del informe de competencias
 
@@ -45,11 +45,11 @@ Puede ver las secciones siguientes en el informe Competencias:
 - Historial de competencias
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea El administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios del Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, se le debe asignar un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea Administrador global de la empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de Visor de informes ejecutivos.
 
 ### <a name="summary"></a>Resumen
 
-La vista Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (Gold/Silver) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **Iniciado,** **Calificado,** **Activo** y **En riesgo.** Ejemplo: Los requisitos de la competencia en la nube se enso de dos categorías: aptitudes y rendimiento.
+La vista Resumen presenta un recuento de competencias con sus nombres en cada nivel de competencia (Gold/Silver) en todas las fases del ciclo de vida de la competencia. Las fases del ciclo de vida de la competencia incluyen: **Iniciado,** **Calificado,** **Activo** y **En riesgo.** Ejemplo: Los requisitos de competencias en la nube se ensoyán en dos categorías: aptitudes y rendimiento.
 
 - Iniciado: recuento de competencias para las que tiene uno o varios de los requisitos subyacentes en curso.
 Desglose del recuento de competencias iniciadas por nivel de competencia (Silver/Gold) con nombres de competencia.
@@ -61,7 +61,7 @@ Desglose del recuento de competencias iniciadas por nivel de competencia (Silver
 - En riesgo (año siguiente): recuento de  competencias  que están activas actualmente pero también en riesgo de no cumplir los requisitos para el próximo año.
 Desglose de las competencias (por nivel de competencia, como Silver/Gold, con nombres de competencia) que están en riesgo de no calificar para el próximo año.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumen de competencias":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Resumen de competencias.":::
 
 ### <a name="competency-metric-analysis"></a>Análisis de métricas de competencia
 
@@ -72,7 +72,7 @@ El informe puede dinamizado por los dos intervalos de fechas siguientes:
 1. Vista de TTM: enumera el rendimiento de los asociados en los últimos 12 meses (TTM).
 2. Vista Año de aniversario: enumera el rendimiento del asociado desde la fecha de aniversario anterior hasta la siguiente fecha de aniversario.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análisis de métricas de competencia":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análisis de métricas de competencia.":::
 
 > [!NOTE]
  > No todas las métricas se tratan en el análisis. Actualmente, las métricas asociadas con el aprendizaje y la certificación no se admiten en el informe de competencias. Las competencias Business Applications nube (CBA) tampoco se admiten actualmente en el análisis de métricas para el **estado de** la competencia activa.
@@ -81,11 +81,11 @@ El informe puede dinamizado por los dos intervalos de fechas siguientes:
 
 En esta vista se muestra una tabla detallada de todas las competencias que ha alcanzado hasta ahora, con el nivel de competencia y la fase de competencia.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="historial de competencias":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="historial de competencias.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - Para obtener más informes, [vea Centro de partners Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> Puede descargar los datos sin procesar que encenderán este informe desde la sección Descargar informes del panel de Insights. [Más información](pci-download-reports.md) 
+> Puede descargar los datos sin procesar que potencian este informe desde la sección Descargar informes del panel de Conclusiones. [Más información](pci-download-reports.md) 

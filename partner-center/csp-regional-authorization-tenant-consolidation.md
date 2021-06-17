@@ -10,45 +10,45 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147588"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276882"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrucciones para la consolidación de los inquilinos de autorización regional de CSP
 
 **Se aplica a**: Centro de partners | Centro de partners para Microsoft Cloud for US Government
 
-**Roles adecuados:** administrador global | Agente de administración
+**Roles adecuados**: Administrador global | Agente de administración
 
-\[Parte de la información está relacionada con el producto publicado previamente que puede modificarse considerablemente antes de su lanzamiento comercial. Microsoft no otorga ninguna garantía, explícita o implícita, con respecto a la información proporcionada aquí.\]
+\[Parte de la información está relacionada con el producto publicado previamente que se puede modificar considerablemente antes de su lanzamiento comercial. Microsoft no otorga ninguna garantía, explícita o implícita, con respecto a la información proporcionada aquí.\]
 
 Puede consolidar los inquilinos para su negocio. Usa estas instrucciones para consolidar los inquilinos para diferentes países o regiones.
 
 >[!NOTE]  
->Debe tener en cuenta todos los recuentos de licencias y suscripciones aprovisionadas para cada uno de los clientes de la cuenta desde la que va a realizar la transición. Volverá a aprovisionar esas mismas suscripciones exactas con los mismos recuentos de licencias en la nueva cuenta de CSP central como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado.  Una vez completada la consolidación, no se puede revertir al estado de inquilino anterior. También puede ser necesaria la acción del cliente.
+>Debe tener en cuenta todos los recuentos de suscripciones y licencias aprovisionadas para cada uno de los clientes de la cuenta desde la que va a realizar la transición. Volverá a aprovisionar esas mismas suscripciones exactas con los mismos recuentos de licencias en la nueva cuenta central de CSP como parte del proceso de migración. Usa la característica de lista de exportación para ayudar a crear una lista de clientes que trasladar al inquilino centralizado.  Una vez completada la consolidación, no se puede revertir al estado de inquilino anterior. También puede ser necesaria una acción del cliente.
 
 ## <a name="prepare-for-migration"></a>Preparación para la migración
 
-- Inicie sesión en **Centro de partners** con  la cuenta de transición (la que realizará la transición a la nueva cuenta) y revise todos los clientes y todos los servicios aprovisionados para esos clientes.
+- Inicie sesión en **Centro de partners** con  la cuenta de transición (la que va a realizar la transición a la nueva cuenta) y revise todos los clientes y todos los servicios aprovisionados para esos clientes.
 
 - Cerrar sesión en esta cuenta.
 
 ## <a name="migrate-customer-accounts"></a>Migración de las cuentas de cliente
 
-1. Inicie sesión en **Centro de partners**  con **la cuenta de** transición (nueva) (a la que va a realizar la transición de los clientes).
+1. Inicie sesión **en Centro de partners**  con la cuenta **de** transición (nueva) (a la que va a realizar la transición de los clientes).
 
 2. Seleccione **Clientes**.
 
-3. Seleccione **Solicitar una relación de revendedor.** Se le muestra un mensaje de correo electrónico predeterminado para enviarlo a los clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
+3. Seleccione **Solicitar una relación de revendedor.** Aparece un mensaje de correo electrónico predeterminado para enviarlo a los clientes. Este mensaje contiene una dirección URL con el identificador de organización exclusivo para tu nueva cuenta del centro de partners.
 
 4. **Acción de cliente:** Asegúrate de que todos los clientes activos que deseas migrar visitan esta dirección URL. Al abrir la dirección URL, al cliente se le pedirá que inicie sesión en el portal de Office 365. El cliente iniciará sesión usando el mismo identificador de organización que utilice para acceder a los portales de administración de Azure y de Office 365.
 
 5. Después de iniciar sesión,  se solicita al administrador global de la cuenta de cliente que envíe un contrato que concede privilegios de administrador delegado a la nueva cuenta de CSP. Si acepta, el cliente seleccionará la casilla y autorizará la relación.
 
-Los clientes aparecerán en la lista de clientes del asociado después de haber enviado el contrato, uno por uno.
+Los clientes aparecerán en la lista de clientes del asociado después de haber enviado el contrato, uno a uno.
 
 ## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migración de suscripciones basadas en uso de Office 365 y que no sean de Azure
 
@@ -60,9 +60,9 @@ Los clientes aparecerán en la lista de clientes del asociado después de haber 
 
 4. Seleccione **Agregar suscripción**.
 
-5. Agregue las suscripciones y los recuentos de licencias correctos desde el catálogo. Verifica los datos con la información proporcionada en las cuentas de partner de **Transición desde**.
+5. Agregue las suscripciones y los recuentos de licencias correctos del catálogo. Verifica los datos con la información proporcionada en las cuentas de partner de **Transición desde**.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes.":::
 
 6. Seleccione **Enviar.**
 
@@ -119,7 +119,7 @@ A diferencia de las suscripciones de CSP de Office 365, no es necesario migrar m
 
 - El cliente no puede usar las suscripciones y no generan cargos cuando se suspenden o cancelan.
 
-- Actualmente no hay ninguna manera de quitar completamente un cliente de la **lista Clientes.**
+- Actualmente no hay ninguna manera de quitar un cliente por completo de la **lista** De clientes.
 - 
     >[!Note]
     > Los asociados deben  suspender las suscripciones en la cuenta de inquilino de transición desde el  asociado en Centro de partners el mismo día en que esas suscripciones se transiciónn a la cuenta de transición a y configurarse en ella para asegurarse de que no se produce la doble facturación. Microsoft no admitirá solicitudes de crédito debido a cualquier superposición en  la facturación que se produzca al no establecer correctamente la transición de suscripciones a suspendidas.
@@ -142,4 +142,4 @@ Para obtener más información sobre el registro de API, consulte [Configuració
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Proveedor de soluciones en la nube mercados regionales del programa y monedas donde puede vender ofertas de CSP](regional-authorization-overview.md)
+- [Proveedor de soluciones en la nube mercados regionales y monedas del programa en los que puede vender ofertas de CSP](regional-authorization-overview.md)

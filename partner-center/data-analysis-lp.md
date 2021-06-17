@@ -1,5 +1,5 @@
 ---
-title: Uso de análisis para la información de suscripciones
+title: Uso de análisis para información de suscripción
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147214"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276865"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Uso de análisis para obtener más información sobre los ingresos de la suscripción
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Uso de análisis para obtener más información sobre los ingresos de suscripción
 
 **Roles adecuados:** Administrador global | Administrador de asociados de MPN
 
@@ -29,7 +29,7 @@ Para planear cómo desarrollar su negocio como CSP es necesario comprender cómo
 
 1. Los ingresos finales de CSP de doce meses se mostrarán en la parte superior de la página.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Pantalla suscripción":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Pantalla de suscripción.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Ingresos finales Twelve-Month CSP (TTM)
 
@@ -51,7 +51,7 @@ La mitad inferior de la pantalla muestra un resumen de las suscripciones. Use lo
 1. **Duración:** puede optar por ver el resumen de la suscripción para 
 
 - 30D : últimos 30 días
-- 3 MILLONES : últimos 3 meses
+- 3 M – Últimos 3 meses
 - 6 MILLONES : últimos 6 meses
 - 12 MILLONES : últimos 12 meses
 

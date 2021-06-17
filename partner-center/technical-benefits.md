@@ -9,18 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
-ms.translationtype: HT
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284492"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276389"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore los servicios de preventa técnica e implementación 
 
-**Roles adecuados**
-
-- Administrador de partners de MPN
+**Roles adecuados:** Administrador de partners de MPN
 
 Obtenga información sobre las ventajas de Microsoft Partner Network que puede conseguir con los servicios de preventa técnica e implementación, entre las que cabe destacar, las consultas, la asistencia de preventa, las horas de asesoramiento, etc.
 
@@ -44,7 +42,21 @@ Se admiten todas las soluciones híbridas o en la nube, además de Windows 10, 
 
 Inicie sesión con cualquier cuenta de usuario asociada a MPN para **[crear una solicitud de servicios de preventa técnica e implementación (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (no se requiere la activación de la ventaja técnica).
 
-:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Ventajas técnicas de preventa y de implementación" :::
+## <a name="delivery-scenarios"></a>Escenarios de entrega
+
+- Las **consultas de** preventas técnicas se usan para definir la propuesta de valor, proporcionar estimaciones de costos, administrar las opiniones de los clientes, responder a la mensajería de la competencia, mostrar soluciones técnicas, pruebas de conceptos o planeamiento y diseño de la arquitectura que conduce a una declaración de trabajo.
+
+  - *No compatible:* Planeamiento de canalizaciones de ventas, precios y listas de precios.
+
+
+- **Las consultas de implementación** se usan para la guía de diseño y planeamiento de la arquitectura, los procedimientos recomendados, la guía de implementación, las referencias de productos y la documentación.
+
+  - *No compatible:* Solución de problemas y soporte técnico de break-fix, servicios en el sitio, consultoría a largo plazo, directo al soporte técnico al cliente o soporte técnico práctica en un entorno de producción. 
+
+
+- **Las consultas de Marketplace** se usan para publicar la solución para la generación continua de clientes potenciales en el marketplace comercial de Microsoft. Para desarrolladores, consulte la configuración del servicio, la arquitectura o el diseño, la migración desde soluciones locales, la revisión de código y la ayuda para la publicación de aplicaciones.
+
+  - *No compatible:* Depuración de código, desarrollo de aplicaciones más allá de una prueba ligera de conceptos.
 
 ## <a name="in-scope-products-and-services"></a>Productos y servicios que están dentro del ámbito del programa
 
@@ -54,9 +66,10 @@ Los siguientes productos y servicios están dentro del ámbito de los servicios 
 - **Aplicaciones empresariales**: Microsoft Dynamics 365 (en línea), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Fuera del ámbito: Versiones exclusivamente locales de Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Todas las soluciones de Microsoft Azure y los servicios relacionados, como infraestructura como servicio, plataforma como servicio, plataforma de datos, análisis de BI, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server**: Windows Server estándar compatible (según el **[ciclo de vida del producto](https://docs.microsoft.com/lifecycle/policies/fixed)** )
+- **Windows Server**: Windows Server estándar compatible (según el **[ciclo de vida del producto](/lifecycle/policies/fixed)** )
   - System Center incluye productos relacionados, como SCCM, si se relacionan con escenarios híbridos o en la nube.
 - **Windows 10**: Sistema operativo, dispositivos, aplicaciones universales de Windows 10
+- **Productos en versión preliminar pública** o privada: la ayuda se proporciona en función de los mejores esfuerzos, en entornos que no son de producción y sin garantía de disponibilidad de la información o tiempo de respuesta
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Envío de una solicitud de servicio de preventa técnica e implementación 
 
@@ -76,9 +89,11 @@ Para ver las ventajas técnicas en el Centro de partners:
 
 3. Seleccione **[Enviar solicitud técnica de preventas e implementación](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** .
 
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Ventajas técnicas y de implementación." :::
+
 4. Use **Buscar productos** y escriba el producto pertinente. Si obtiene demasiados resultados, puede filtrar según el área de la solución o examinar los temas para filtrar por cada nivel de la taxonomía.
 
-:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Ventajas de preventa técnica e implementación: Buscar productos":::
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Ventajas técnicas y de implementación: buscar productos.":::
 
    > [!NOTE]
    > Si necesita una consulta en la nube como parte del plan de soporte técnico ASfP o PSfP, póngase en contacto con el administrador de cuentas de soporte técnico (SAM).

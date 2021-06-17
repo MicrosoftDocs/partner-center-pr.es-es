@@ -2,25 +2,25 @@
 title: Buscar el número de escritorios y el nivel de cuota
 ms.topic: how-to
 ms.date: 02/18/2021
-description: Obtenga información sobre cómo usar la plataforma de incentivos de canal (CHIP) para encontrar la información de nivel de cuota y recuento de escritorio para un contrato.
+description: Obtenga información sobre cómo usar la plataforma de incentivos de canal (CHIP) para buscar la información de nivel de cuota y recuento de escritorio para un contrato.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148999"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276949"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Búsqueda del número de dispositivos de escritorio y el nivel de recargo de un contrato
 
 **Roles adecuados:** contacto principal o administrador del programa
 
-Puede iniciar sesión en [explore.ms](https://www.explore.ms/) revisar el contrato o descargar un archivo que proporcione los detalles del contrato para el número de escritorios y el nivel de cuota.
+Puede iniciar sesión en [explore.ms](https://www.explore.ms/) revisar el contrato o descargar un archivo que proporcione los detalles del contrato para el recuento de escritorio y el nivel de tarifa.
 
 ## <a name="to-locate-the-information"></a>Para buscar la información
 
@@ -31,17 +31,17 @@ Puede iniciar sesión en [explore.ms](https://www.explore.ms/) revisar el contra
 >[!Note]
 >No puede realizar esta función en Google Chrome ni en Microsoft Edge.
 
-2. Inicie sesión con su cuenta de trabajo o educativa o con el identificador en directo.  
+2. Inicie sesión con su cuenta de trabajo o escuela o con el identificador en directo.  
 
-3. En el **campo Informes,** seleccione **Acuerdos**.
+3. En el campo **Informes,** seleccione **Contratos**.
 
 4. En la página resultante, escriba el número de contrato en el **campo Buscar** y, a continuación, **seleccione Seleccionar/Ordenar columnas**.
 
-5. En la ventana emergente,  seleccione Recuento de escritorios de contrato en la lista de columnas disponibles y, a continuación, seleccione la flecha derecha para agregar la columna. Seleccione **Aceptar**.
+5. En la ventana emergente,  seleccione Recuento de escritorio del contrato en la lista de columnas disponibles y, a continuación, seleccione la flecha derecha para agregar la columna. Seleccione **Aceptar**.
 
 6. Seleccione **Buscar.**
 
-7. En la pantalla resultante, desplácese por los resultados para buscar la **columna Recuento de escritorios del** contrato. 
+7. En la pantalla resultante, desplácese por los resultados para buscar la **columna Recuento de escritorio del** contrato. 
 
 8. Use el recuento de escritorios para determinar el nivel de tarifa en función de la tabla de tarifas siguiente.  
 
@@ -65,13 +65,13 @@ Después de buscar el número de contrato en explore.ms los pasos descritos ante
 
 2. En la **página Resumen de pago** de asociados, seleccione el  mes de informes que desea ver y, a continuación, seleccione Detalles de cálculo en la lista desplegable bajo Exportar **a Excel:**
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Buscar detalles del programa":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Busque los detalles del programa.":::
 
 3. Se iniciará la exportación y puede abrir el archivo o guardar o guardar como en un destino.
 
 4. Cuando el informe esté abierto, vaya a la pestaña **DetailReport-FlatFile** en la parte inferior izquierda:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Descarga de archivos planos":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Descarga de archivos planos.":::
 
 Ahora puede buscar el número de contrato que busca en la columna J. y encontrará el número de escritorio asignado en la columna R, con la etiqueta Agreement_DesktopCount. También puede confirmar el nivel de tarifa de este contrato en la columna "AI" con la etiqueta Tier(Nivel).
 
