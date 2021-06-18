@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276389"
+ms.locfileid: "112318102"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore los servicios de preventa técnica e implementación 
 
-**Roles adecuados:** Administrador de partners de MPN
+**Roles adecuados:** cualquier cuenta de usuario de MPN siempre que la organización tenga una competencia activa o Microsoft Action Pack.
 
 Obtenga información sobre las ventajas de Microsoft Partner Network que puede conseguir con los servicios de preventa técnica e implementación, entre las que cabe destacar, las consultas, la asistencia de preventa, las horas de asesoramiento, etc.
 
@@ -44,17 +44,17 @@ Inicie sesión con cualquier cuenta de usuario asociada a MPN para **[crear una 
 
 ## <a name="delivery-scenarios"></a>Escenarios de entrega
 
-- Las **consultas de** preventas técnicas se usan para definir la propuesta de valor, proporcionar estimaciones de costos, administrar las opiniones de los clientes, responder a la mensajería de la competencia, mostrar soluciones técnicas, pruebas de conceptos o planeamiento y diseño de la arquitectura que conduce a una declaración de trabajo.
+- Las **consultas de** preventas técnicas se usan para definir la propuesta de valor, proporcionar estimaciones de costos, licencias técnicas, administrar las ofposiciones de los clientes, responder a la mensajería de la competencia, mostrar soluciones técnicas, pruebas de conceptos o planeamiento y diseño de la arquitectura que conduce a una declaración de trabajo.
 
-  - *No compatible:* Planeamiento de canalizaciones de ventas, precios y listas de precios.
+  - *No compatible:* Planeamiento de canalizaciones de ventas, discusiones de clientes finales, precios de licencias y listas de precios.
 
 
 - **Las consultas de implementación** se usan para la guía de diseño y planeamiento de la arquitectura, los procedimientos recomendados, la guía de implementación, las referencias de productos y la documentación.
 
-  - *No compatible:* Solución de problemas y soporte técnico de break-fix, servicios en el sitio, consultoría a largo plazo, directo al soporte técnico al cliente o soporte técnico práctica en un entorno de producción. 
+  - *No compatible:* Soporte técnico y solución de problemas de break-fix, revisiones, servicios en el sitio, consultoría a largo plazo (menos de 25 horas por compromiso), directo al soporte técnico al cliente o al soporte técnico práctica en un entorno de producción. 
 
 
-- **Las consultas de Marketplace** se usan para publicar la solución para la generación continua de clientes potenciales en el marketplace comercial de Microsoft. Para desarrolladores, consulte la configuración del servicio, la arquitectura o el diseño, la migración desde soluciones locales, la revisión de código y la ayuda para la publicación de aplicaciones.
+- **Las consultas de Marketplace** se usan para publicar la solución para la generación continua de clientes potenciales en el marketplace comercial de Microsoft. Para desarrolladores, la configuración del servicio, la arquitectura o el diseño consultan, la migración desde soluciones locales, la revisión de código y la ayuda para la publicación de aplicaciones.
 
   - *No compatible:* Depuración de código, desarrollo de aplicaciones más allá de una prueba ligera de conceptos.
 
@@ -66,7 +66,7 @@ Los siguientes productos y servicios están dentro del ámbito de los servicios 
 - **Aplicaciones empresariales**: Microsoft Dynamics 365 (en línea), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Fuera del ámbito: Versiones exclusivamente locales de Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Todas las soluciones de Microsoft Azure y los servicios relacionados, como infraestructura como servicio, plataforma como servicio, plataforma de datos, análisis de BI, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server**: Windows Server estándar compatible (según el **[ciclo de vida del producto](/lifecycle/policies/fixed)** )
+- **Windows Server y SQL Server**: dentro del soporte estándar, según se rige por el ciclo **[de vida del producto](/lifecycle/policies/fixed)**)
   - System Center incluye productos relacionados, como SCCM, si se relacionan con escenarios híbridos o en la nube.
 - **Windows 10**: Sistema operativo, dispositivos, aplicaciones universales de Windows 10
 - **Productos en versión preliminar pública** o privada: la ayuda se proporciona en función de los mejores esfuerzos, en entornos que no son de producción y sin garantía de disponibilidad de la información o tiempo de respuesta
@@ -106,5 +106,6 @@ Para ver las ventajas técnicas en el Centro de partners:
 6. La página de confirmación muestra el número y la descripción de la solicitud de soporte técnico. También recibirá un correo electrónico de confirmación del Centro de partners con el número del caso.
 
 ## <a name="next-steps"></a>Pasos siguientes
+[Soporte técnico para productos locales o en la nube](/mpn-benefits-technical-support.md)
 
 [Administración de las ventajas y ofertas de Microsoft Partner Network](manage-your-partner-network-benefits.md)
