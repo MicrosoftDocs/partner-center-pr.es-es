@@ -1,7 +1,7 @@
 ---
 title: Cómo agregar un nuevo registro de cliente
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenga información sobre cómo agregar un nuevo registro de cliente en Centro de partners. A continuación, puede vender las suscripciones de los clientes, administrar la facturación o proporcionar soporte técnico al cliente.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150563"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373365"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Cómo agregar un nuevo registro de cliente en el Centro de partners
 
@@ -52,11 +52,11 @@ En este artículo se describe cómo agregar un nuevo cliente a la lista de clien
 6. En la **página Revisar,** compruebe la precisión de las entradas y seleccione **Enviar** si la información es correcta.
 
    >[!NOTE]
-   >Si necesita cambiar los detalles del cliente, seleccione **Actualizar en** la sección Información **de la** cuenta. Si necesita cambiar las ofertas seleccionadas, seleccione **Actualizar en** la **sección Suscripciones.**
+   >Si necesita cambiar los detalles del cliente, seleccione **Actualizar en** la sección **Información de** la cuenta. Si necesita cambiar las ofertas seleccionadas, seleccione **Actualizar en** la **sección** Suscripciones.
 
 7. Seleccione **Listo** cuando haya terminado de agregar la información del cliente y haya adquirido las suscripciones necesarias.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- Para obtener más información sobre lo que puede vender a los clientes a través del programa Proveedor de soluciones en la nube, consulte Ofertas de asociados [en el Proveedor de soluciones en la nube.](csp-offers.md)
+- Para obtener más información sobre lo que puede vender a los clientes a través del programa Proveedor de soluciones en la nube, consulte Ofertas de asociados en [el Proveedor de soluciones en la nube cliente.](csp-offers.md)
 
