@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 26cdd01597b1cea49b36bb06c6d7b4d38c1b7879
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146840"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431472"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Administración de usuarios y licencias en el Centro de partners para Microsoft Cloud for US Government
 
@@ -25,21 +25,21 @@ ms.locfileid: "110146840"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Administración de usuarios en el Azure Portal para Microsoft Cloud for US Government
 
-Si ha iniciado sesión en Centro de partners para Microsoft Cloud for US Government, puede abrir la Azure Portal for Microsoft Cloud for US Government sin tener que volver a iniciar sesión. Sin embargo, si necesita iniciar sesión directamente en Azure Portal for Microsoft Cloud for US Government, vaya a ( e inicie sesión con credenciales de administrador global para el inquilino de https://portal.azure.us/) Azure AD para Microsoft Cloud for US Government.
+Si ha iniciado sesión en Centro de partners para Microsoft Cloud for US Government, puede abrir la Azure Portal for Microsoft Cloud for US Government sin tener que volver a iniciar sesión. Sin embargo, si necesita iniciar sesión directamente en Azure Portal for Microsoft Cloud for US Government, vaya a ( e inicie sesión con las credenciales de administrador global para el inquilino de https://portal.azure.us/) Azure AD para Microsoft Cloud for US Government.
 
 Una vez que haya iniciado sesión correctamente en Azure Portal for Microsoft Cloud for US Government, abra la página de información general de Azure Active Directory (Azure AD) y siga las instrucciones de estos artículos:
 
 > [!NOTE]  
 > Al seleccionar los vínculos siguientes, se le llevará a otro sitio web. 
 
--  [**Adición de nuevos usuarios a Azure Active Directory**](/azure/active-directory/active-directory-users-create-azure-portal)
+- [Adición de nuevos usuarios a Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Asignación de un usuario a roles de administrador en Azure Active Directory**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+- [Asignación de un usuario a roles de administrador en Azure Active Directory](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Restablecer la contraseña de un usuario en Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+- [Restablecimiento de la contraseña de un usuario en Azure Active Directory](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Pasos siguientes
 
--  [**Centro de partners para Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
+- [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Inscribirse en el programa Proveedor de soluciones en la nube para Microsoft Cloud for US Government**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+- [Inscribirse en el programa Proveedor de soluciones en la nube para Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)

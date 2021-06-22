@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794962"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431569"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Obtenga información sobre cómo leer los elementos de línea en los archivos Centro de partners conciliación
 
-**Roles adecuados:** Administración de facturación | Administrador global
+**Roles adecuados:** Administrador de facturación | Administrador global
 
-Puede descargar los archivos de conciliación Centro de partners obtener una vista detallada de los elementos de línea de cada cargo en un ciclo de facturación. Los detalles del elemento de línea incluyen cargos por las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición a medio plazo de licencias a una suscripción).
+Puede descargar los archivos de conciliación Centro de partners obtener una vista detallada de cada cargo en un ciclo de facturación. Los detalles del elemento de línea incluyen cargos por las suscripciones de cada cliente y eventos detallados (por ejemplo, una adición a medio plazo de licencias a una suscripción).
 
 Para obtener información sobre cómo leer la **factura,** vea [Leer la factura.](read-your-bill.md)
 
@@ -41,7 +41,7 @@ En ocasiones, un archivo de conciliación puede contener problemas de formato. P
 
 Siga estos pasos para corregir cualquier problema de formato en los archivos de conciliación:
 
-1. Abra el archivo de conciliación (en formato .csv) en Microsoft Excel.
+1. Abra el archivo de conciliación (.csv formato) en Microsoft Excel.
 2. Seleccione la primera columna del archivo.
 3. Abra el **Asistente para convertir texto en columnas**. En la cinta de opciones, **seleccione Datos** y, a continuación, seleccione Texto **a columnas.**
 4. En el asistente, seleccione **Tipo de archivo delimitado**. Después, seleccione **Siguiente**.
@@ -60,7 +60,7 @@ Si puede descargar un archivo de conciliación pero no abrirlo en Microsoft Exce
 ### <a name="open-a-recon-file-in-power-bi"></a>Abra un archivo de conciliación en Power BI
 
 1. Descargue el archivo de conciliación como lo haría normalmente.
-2. Descargue, instale y abra una instancia de Power BI.
+2. Descargue, instale y abra una instancia de Microsoft Power BI.
 3. En la Power BI **Inicio,** seleccione **Obtener datos.**
 4. En la lista de **orígenes de datos comunes,** seleccione **Texto/CSV.**
 5. Cuando se le solicite, abra el archivo de conciliación.
@@ -71,7 +71,7 @@ Si puede descargar un archivo de conciliación pero no abrirlo en Microsoft Exce
 2. Abra un nuevo archivo en Microsoft Excel.
 3. En la **pestaña Datos,** seleccione **Obtener datos,** **Desde archivo** y, a continuación, **texto/CSV.**
 4. Cuando se le solicite, abra el archivo de conciliación. Aparecerán los datos.
-5. En el **menú desplegable** Cargar, seleccione **Cargar en** y, a continuación, **Aceptar.**
+5. En el **menú desplegable** Cargar, seleccione **Cargar en** y, a continuación, **seleccione Aceptar.**
 6. En el **cuadro de diálogo Importar** datos, seleccione Informe de tabla **dinámica** para abrir el archivo.
 
 ## <a name="negative-amount-displayed"></a>Cantidad negativa mostrada
@@ -87,21 +87,21 @@ Para obtener más información acerca de esta transacción, revise su atributo d
 
 Para asignar impuestos o impuestos al valor agregado (IVA) a la factura:
 
-- Sumar **la columna** Impuestos del archivo basado en licencia.
-- Sumar **la columna TaxAmount** del archivo basado en el uso.
+- Sumar la **columna** Impuestos del archivo basado en licencia.
+- Sumar **la columna TaxAmount** del archivo basado en uso.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Descripción de los archivos de conciliación por asociado
+## <a name="itemize-reconciliation-files-by-partner"></a>Elementos de los archivos de conciliación por asociado
 
 Los asociados **del modelo indirecto** pueden usar estos campos adicionales en los archivos de conciliación basados en licencias y basados en el uso para especificar los archivos por revendedor.
 
 | Identificador de MPN | Descripción |
 | ------ | ----------- |
 | Identificador de MPN | Identificador Microsoft Partner Network (MPN) del asociado de Proveedor de soluciones en la nube (CSP) (directo o indirecto). |
-| [Id. de MPN del revendedor](#reseller-mpn-id) | Identificador [de MPN del revendedor del registro de la suscripción.](#reseller-mpn-id) Este campo corresponde al identificador de revendedor que aparece para la suscripción específica de Centro de partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
+| [Id. de MPN del revendedor](#reseller-mpn-id) | Identificador [de MPN del revendedor del registro de la suscripción.](#reseller-mpn-id) Este campo corresponde al identificador de revendedor que aparece para la suscripción específica en Centro de partners. Solo aparece en los archivos de conciliación de partners en el modelo indirecto. |
 
 ### <a name="reseller-mpn-id"></a>Id. de MPN del revendedor
 
-Si un asociado de CSP vende la suscripción directamente al cliente, su identificador **de MPN** aparece dos veces, como el identificador de **MPN** y el id. **de MPN de revendedor.**
+Si un asociado de CSP vende la suscripción directamente al cliente, su identificador **de MPN** aparece dos veces, como el identificador de **MPN** y el identificador **de MPN del revendedor.**
 
 Si un asociado de CSP tiene un revendedor sin identificador **de MPN,** este valor se establece en el identificador **de MPN del** asociado en su lugar.
 
@@ -118,4 +118,4 @@ Para ver o actualizar el identificador **de MPN del revendedor:**
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Cómo leer el archivo de conciliación & factura](read-your-bill.md) 
+- [Cómo leer el archivo de conciliación & facturación](read-your-bill.md) 
