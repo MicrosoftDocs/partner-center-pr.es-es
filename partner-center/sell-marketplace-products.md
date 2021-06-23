@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: df8ec36dbd88ff6b9ddbcbfcc9ef2e246112a548
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855393"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551336"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Usar el Centro de partners para vender suscripciones de clientes a productos de Marketplace comercial
 
 **Roles adecuados:** Agente de ventas
 
-Como asociado del programa CSP, puede usar Centro de partners para vender suscripciones de clientes a productos de software como servicio (SaaS) publicados en el marketplace comercial[(Microsoft AppSource](https://appsource.microsoft.com/) [y Azure Marketplace)](https://azuremarketplace.microsoft.com/)por fabricantes de software independientes (ISV).
+Como asociado del programa Proveedor de soluciones en la nube (CSP), puede usar Centro de partners para vender suscripciones de clientes a productos de software como servicio (SaaS) publicados en el marketplace comercial[(Microsoft AppSource](https://appsource.microsoft.com/) [y Azure Marketplace)](https://azuremarketplace.microsoft.com/)por proveedores de software independientes (ISV).
 
 De esta manera puedes diferenciar tu negocio y ofrecer a tus clientes paquetes de software que den respuesta a sus necesidades empresariales específicas. Puedes administrar las licencias y suscripciones de estos productos de SaaS de Marketplace de la misma forma que lo haces con otros productos de Microsoft.
 

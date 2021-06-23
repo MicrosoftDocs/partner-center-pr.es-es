@@ -9,16 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855699"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551476"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Cómo quitar una relación de revendedor con un cliente en el Centro de partners
 
-**Roles adecuados:** Administrador global
+**Roles apropiados**: administrador global
 
 En este artículo se describe cómo quitar una relación de revendedor con un cliente en Centro de partners.
 
@@ -33,7 +33,7 @@ Quitar una relación tiene las siguientes consecuencias:
 
 ## <a name="how-to-remove-a-relationship"></a>Cómo quitar una relación
 
-Para quitar la relación, deberá cancelar las reservas de instancias reservadas de Azure, cancelar las compras de software y suspender primero las suscripciones activas restantes.
+Para quitar la relación, deberá cancelar las reservas de instancias reservadas (RI) de Azure, cancelar las compras de software y suspender primero las suscripciones activas restantes.
 
 1. **Suspenda las suscripciones activas.**
 
@@ -47,7 +47,7 @@ Para quitar la relación, deberá cancelar las reservas de instancias reservadas
 
 2. **Quite la relación en Centro de partners:**
 
-   a. En el Centro de partners, vaya a **Clientes** y seleccione un cliente.
+   a. En la Centro de partners, vaya a **Clientes** y seleccione un cliente.
 
    b. Seleccione la **Cuenta**.
 

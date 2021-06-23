@@ -1,19 +1,19 @@
 ---
-title: Solicitar relación con un cliente
+title: Solicitar una relación de revendedor con un cliente
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Solicite una relación con un cliente para escenarios multicanal de varios asociados o si es necesario restaurar los privilegios de administrador delegados para un cliente.
+description: Solicite una relación con un cliente para escenarios de varios asociados y varios canales o si es necesario restaurar los privilegios de administrador delegados para un cliente.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856124"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551646"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Cómo solicitar una relación de revendedor de un cliente en el Centro de partners
 
@@ -21,10 +21,10 @@ ms.locfileid: "109856124"
 
 Si desea administrar el servicio o la suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio o suscripción y firmar el Contrato de cliente de Microsoft.
 
-Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisiona, no es necesario obtener permisos de administrador.
+Si desea establecer una relación de revendedor con un cliente y administrar solo las suscripciones de Azure que aprovisione, no es necesario obtener permisos de administrador.
 
 >[!NOTE] 
->La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud for US Government o Microsoft Cloud Germany. Para más información, consulte Clientes que [delegan privilegios de administración en asociados.](customers-revoke-admin-privileges.md)
+>La opción de no solicitar permisos no está disponible para los asociados que operan en Microsoft Cloud for US Government o Microsoft Cloud Germany. Para más información, consulte Los [clientes delegan privilegios de administración a los asociados.](customers-revoke-admin-privileges.md)
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Invitar a un cliente a establecer una relación de revendedor contigo
 
@@ -48,17 +48,17 @@ Puede solicitar una relación de revendedor con un cliente desde su país o su m
 6. Para administrar la cuenta, los servicios, los usuarios y las licencias del cliente, expande el registro del cliente seleccionando la flecha abajo situada junto a su nombre.
 
 > [!IMPORTANT]  
-> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a menos que y hasta que renegocie el contrato con el cliente, seguirá siendo responsable de proporcionar soporte técnico al cliente y de cumplir los términos del Contrato microsoft partner, incluso después de que un cliente reasigna o quita los permisos de administrador. En esta situación, si el cliente requiere ayuda, puede llamar al soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
+> Los clientes pueden reasignar o quitar permisos de administrador en el portal de administración del servicio. Sin embargo, a menos que y hasta que vuelva a negociar el contrato con el cliente, seguirá siendo responsable de proporcionar asistencia al cliente y de cumplir los términos del Contrato microsoft partner, incluso después de que un cliente reasigna o quita los permisos de administrador. En esta situación, si el cliente requiere ayuda, puede llamar al soporte técnico de Microsoft para abrir una solicitud de servicio en nombre del cliente.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Cambios en la experiencia de invitación del cliente
 
-La experiencia del cliente para aceptar una invitación de relación de revendedor de un Proveedor de soluciones en la nube asociado se hospeda en distintos portales orientados al cliente. La ubicación del portal depende de si un cliente está en una nube pública de Microsoft o en una nube nacional:
+La experiencia del cliente para aceptar una invitación de relación de revendedor de un asociado de Proveedor de soluciones en la nube (CSP) se hospeda en distintos portales orientados al cliente. La ubicación del portal depende de si un cliente está en una nube pública de Microsoft o en una nube nacional:
 
 |Tipos de clientes en la nube  | ¿Dónde acepta un cliente una invitación de relación de revendedor? |
 |---------|---------
 | Clientes en la nube pública | Centro de administración de Microsoft 365 |
-| Clientes de Centro de partners para Microsoft Cloud Alemania | Microsoft Office portal de administración |
-| Clientes de Centro de partners para Microsoft Cloud for US Government | Microsoft Office portal de administración |
+| Clientes de Centro de partners para Microsoft Cloud Alemania | Microsoft Office Portal de administración |
+| Clientes de Centro de partners para Microsoft Cloud for US Government | Microsoft Office Portal de administración |
 |
 
 ## <a name="next-steps"></a>Pasos siguientes

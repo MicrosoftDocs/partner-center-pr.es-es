@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre el soporte técnico de facturación de clientes que necesitan los asociados del programa CSP. Este soporte técnico incluye la propiedad de la relación de facturación del cliente y la respuesta a las preguntas de facturación.
+description: Obtenga información sobre el soporte técnico de facturación de clientes necesario Proveedor de soluciones en la nube asociados del programa CSP. Este soporte técnico incluye la propiedad de la relación de facturación del cliente y la respuesta a las preguntas de facturación.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854135"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551335"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Proporcionar soporte de facturación para sus clientes y ayudar a responder sus preguntas de facturación
 
@@ -31,7 +31,7 @@ Usted es el propietario de la relación de facturación con sus clientes y usted
 
 ## <a name="microsoft-partner-support-guidance"></a>Guía de soporte técnico para asociados de Microsoft
 
-Los asociados que realizan transacciones en el modelo CSP son el asesor de confianza para sus clientes y poseen la relación de un extremo a otro, incluido el soporte técnico cuando su cliente tiene una pregunta o un problema. A través del soporte técnico, los asociados pueden obtener más información sobre el cliente y su empresa para identificar nuevos servicios y soluciones que impulsan el valor.
+Los asociados que realizan transacciones en el modelo Proveedor de soluciones en la nube (CSP) son el asesor de confianza para sus clientes y poseen la relación de un extremo a otro, incluido el soporte técnico cuando su cliente tiene una pregunta o un problema. A través del soporte técnico, los asociados pueden obtener más información sobre el cliente y su empresa para identificar nuevos servicios y soluciones que impulsan el valor.
 
 Para cumplir el requisito de soporte técnico, el asociado puede revender el soporte técnico de otra entidad, puede externalizar todo o parte de su estructura de soporte técnico o puede configurar una estructura para proporcionar soporte técnico directamente.  El asociado puede cobrar por todo o parte del soporte técnico proporcionado a los clientes. El asociado debe expresar a sus clientes el soporte técnico que proporcionarán, las horas de servicio y el método de contacto, y los precios (si se cobra por el soporte técnico). 
 
@@ -40,17 +40,17 @@ Para cumplir el requisito de soporte técnico, el asociado puede revender el sop
 
 Los partners deben recibir solicitudes de soporte técnico entrantes de los clientes, diagnosticar los problemas de la mejor manera posible y, a continuación, resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si el asociado no puede resolver un problema, puede escalar los problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
-- **La compatibilidad** con problemas comerciales está disponible para todos los asociados del programa CSP.
+- **La compatibilidad** con problemas comerciales está disponible para todos los asociados del programa CSP
 
 - **El soporte** técnico para problemas técnicos está disponible a través de:
 
-  - soporte técnico Premier asociados (base de cuota)
-  - Soporte avanzado para asociados (base de cuota)
+  - soporte técnico Premier para asociados (PSfP) (base de cuota)
+  - Soporte técnico avanzado para asociados (ASfP) (base de cuota)
   - Soporte técnico Signature Cloud (incluido con la competencia Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
-Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, consulte:
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para más información, consulte:
 
 - [Suscripciones de Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

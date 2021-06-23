@@ -1,5 +1,5 @@
 ---
-title: Cómo leer el archivo de conciliación & facturación
+title: Cómo leer el archivo de conciliación & factura
 ms.topic: article
 ms.date: 06/05/2020
 description: Obtenga información sobre los archivos de conciliación & factura. La factura muestra Centro de partners cargos en el programa, los productos y los clientes durante ese período mensual.
@@ -9,17 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855920"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551204"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Comprender el archivo de facturación y conciliación: aprenda a encontrarlos en Centro de partners
 
 
-**Roles adecuados:** administrador global | Administrador de facturación | Agente de administración
+**Roles adecuados:** administrador global | Administración de facturación | Agente de administración
 
 
 La **factura** es un **resumen de todos los** cargos Centro de partners cliente (en todo el programa, todos los productos y todos los clientes). 
@@ -44,21 +44,21 @@ Microsoft emitirá una factura por los cargos basados en licencias (como Office 
 
 Por ejemplo,  
 
-**Escenario 1 [moneda única]:** el partner tiene compras para ofertas 145P y licencias de O365,  
+**Escenario 1 [moneda única]:** el partner tiene compras para ofertas 145P y licencias de Office 365,  
 
-- El asociado recibirá un PDF de factura y dos archivos de conciliación que cubren los cargos de O365 y Azure (145p).  
+- El asociado recibirá un PDF de factura y dos archivos de conciliación que cubren los cargos de Office 365 y Azure (145p).  
 
 **Escenario 2 [moneda única]:** el partner tiene compras para instancias reservadas de Azure, Marketplace o un plan de Azure junto con compras de 145p.
 
-- El asociado recibirá un PDF de factura y un archivo de conciliación que cubre los cargos de Azure (145p). 
+- El asociado recibirá un pdf de factura y un archivo de conciliación que cubre los cargos de Azure (145p). 
 
-- El asociado recibirá otro PDF de factura y un archivo de conciliación que cubre los cargos de Azure RI, Marketplace y el plan de Azure. 
+- El asociado recibirá otro PDF de factura y un archivo de conciliación que cubre los cargos de la instancia reservada (RI) de Azure, Marketplace y el plan de Azure. 
 
-**Escenario 3 [moneda múltiple]:** el asociado tiene compras de Instancias reservadas de Azure en DKK y un plan de Azure en EUR junto con compras de 145p en EUR.
+**Escenario 3 [moneda múltiple]:** el partner tiene compras para Instancias reservadas de Azure en DKK y el plan de Azure en EUR junto con compras de 145p en EUR.
 
-- El asociado recibirá un PDF de factura y un archivo de conciliación que cubre los cargos de la instancia reservada de Azure en DKK. 
+- El asociado recibirá un pdf de factura y un archivo de conciliación que cubre los cargos de instancias reservadas de Azure en DKK. 
 
-- El asociado recibirá un PDF de factura y un archivo de conciliación que cubre los cargos del plan de Azure en EUR. 
+- El asociado recibirá un pdf de factura y un archivo de conciliación que cubre los cargos del plan de Azure en EUR. 
 
 - El partner recibirá otro PDF de factura y un archivo de conciliación que cubre los cargos de la oferta de 145p en EUR (o moneda de facturación del asociado). 
 
@@ -67,7 +67,7 @@ Por ejemplo,
 
 **Facturas por** uso y cargos basados en licencias: las facturas de los cargos de servicios como Office 365 y Azure estarán disponibles en un plazo de dos (2) días a partir de la fecha de facturación seleccionada [UTC].  
 
-**Facturas por gastos** únicos y periódicos: las facturas de los cargos de servicios como Azure RI, plan de Azure, Marketplace estarán disponibles a más tardar el 8 de cada mes.  
+**Facturas de cargos únicos** y periódicos: las facturas de cargos por servicios como Azure RI, el plan de Azure y Marketplace estarán disponibles no más tarde del octavo de cada mes.  
 
 A continuación se muestran algunos de los campos clave del documento PDF de factura:
 
@@ -81,15 +81,15 @@ A continuación se muestran algunos de los campos clave del documento PDF de fac
 
 **Cargos:** importe a pagar en la moneda de facturación para el período de facturación correspondiente. 
 
-**Créditos:** créditos (como contratos de nivel de servicio) o ajustes para los cambios realizados en las suscripciones (por ejemplo, aumentos o disminuciones de licencias). 
+**Créditos:** créditos (como contrato de nivel de servicio )) o ajustes para los cambios realizados en las suscripciones (por ejemplo, aumentos o disminuciones de licencias). 
 
 **Instrucciones de** pago: descripción de cómo pagar la factura en función de su región. Asegúrese siempre de incluir el número de factura al realizar un pago. 
 
-Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos de cargos únicos), consulte [Campos de archivo de factura](invoice-file.md). 
+Para obtener una descripción detallada de todos los campos del archivo de factura (incluidos los campos para cargos únicos), consulte [Campos de archivo de factura](invoice-file.md). 
 
 ## <a name="understand-reconciliation-files"></a>Información sobre los archivos de conciliación
 
- Los archivos de conciliación, que proporcionan una exploración en profundidad o detalles de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen identificadores de cliente e identificadores de suscripción que puede usar para crear facturas de cliente. Consulte Uso de  [los archivos de conciliación](use-the-reconciliation-files.md) para obtener más detalles sobre los archivos de conciliación. 
+ Los archivos de conciliación, que proporcionan una exploración en profundidad o detalles de los cargos, están disponibles para su descarga junto con el PDF de factura. Los archivos de conciliación incluyen identificadores de cliente e identificadores de suscripción que puede usar para crear facturas de cliente. Para obtener más información sobre los archivos de conciliación, [vea Cómo usar los archivos de conciliación](use-the-reconciliation-files.md). 
 
 ## <a name="next-steps"></a>Pasos siguientes
 

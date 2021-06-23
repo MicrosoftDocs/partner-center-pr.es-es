@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855002"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551238"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Proporcionar soporte técnico para ayudar a los clientes a configurar, administrar y usar sus suscripciones
 
 
 **Roles adecuados:** administrador global | Administrador de administración de | Agente de soporte técnico | Agente de administración
 
-Como asociado Proveedor de soluciones en la nube, tiene privilegios de administrador delegados que le dan acceso a los entornos de los clientes. Estos privilegios le proporcionan la capacidad de admitir, configurar y administrar directamente las suscripciones de los clientes.
+Como asociado Proveedor de soluciones en la nube (CSP), tiene privilegios de administrador delegados que le dan acceso a los entornos de los clientes. Estos privilegios le proporcionan la capacidad de admitir, configurar y administrar directamente las suscripciones de los clientes.
 
 En el Centro de partners, puedes:
 
@@ -44,17 +44,17 @@ Para cumplir el requisito de soporte técnico, el asociado puede revender el sop
 
 Los asociados deben recibir solicitudes de soporte técnico entrantes de los clientes, diagnosticar problemas de la mejor manera posible y, a continuación, resolver los problemas que se encuentran dentro del ámbito de los límites de soporte técnico de línea de base. Si el asociado no puede resolver un problema, puede escalar los problemas a Microsoft a través de los siguientes vehículos de soporte técnico:
 
-- **La compatibilidad** con problemas comerciales está disponible para todos los asociados del programa CSP.
+- **La compatibilidad** con problemas comerciales está disponible para todos los asociados del programa CSP
 
 - **El soporte** técnico para problemas técnicos está disponible a través de:
 
   - soporte técnico Premier para asociados (basado en cuotas)
-  - Soporte avanzado para asociados (basado en cuotas)
+  - Soporte técnico avanzado para asociados (basado en cuotas)
   - Soporte técnico Signature Cloud (incluido con la competencia Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Proporcionar facturación, administración de suscripciones y soporte técnico 
 
-Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para obtener más información, consulte:
+Cada servicio en línea tiene requisitos específicos y detallados para proporcionar facturación, administración de suscripciones y soporte técnico a los clientes. Para más información, consulte:
 
 - [Suscripciones de Dynamics 365 vendidas a través de CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
