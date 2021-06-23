@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856039"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489924"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Obtenga información sobre los impuestos y los detalles de exención fiscal por región o país para asociados en el programa CSP.
 
-**Roles adecuados:** Administrador global
+**Roles apropiados**: administrador global
 
 El Proveedor de soluciones en la nube cliente (CSP) es un canal de ventas centrado en la reventa de productos de asociados. Como resultado, Microsoft no siempre tiene que cobrar impuestos de ventas en facturas de asociados. Las reglas varían según el país o la región. Puede revisar los [detalles específicos del país y de la región para las exenciones fiscales.](#country-and-region-tax-details)
 
@@ -33,9 +33,9 @@ Si se encuentra en otro país o región que cobra [impuestos, consulte la inform
 
 ### <a name="canada"></a>Canadá
 
-La mayoría de revendedores no están exentos de los impuestos de bienes y servicios (GST), impuestos armonizados (HST) e impuestos sobre las ventas de Quebec (QST). Consulte a su asesor fiscal para determinar si está cualificado para la exención y qué documentación debe proporcionar a Microsoft.
+La mayoría de los revendedores no están exentos del impuesto sobre bienes y servicios (GST)/impuesto de ventas desasistido (HST)/Impuesto de ventas de Quebec (QST). Consulte a su asesor fiscal para determinar si está cualificado para la exención y qué documentación debe proporcionar a Microsoft.
 
-En el caso de una exención de BC PST, presentar una exención fiscal como se describe. Proporciona tu número de BC PST o un *certificado de exención general* completado y firmado.
+En el caso de una exención de impuestos de ventas (PST) de BC, presentar una exención fiscal como se describe. Proporciona tu número de BC PST o un *certificado de exención general* completado y firmado.
 
 ### <a name="united-states"></a>Estados Unidos
 
@@ -57,7 +57,7 @@ Antes de presentar una exención fiscal, asegúrese de comprender los siguientes
 
 - Debe presentar una exención fiscal para cada inquilino de CSP.
 
-- Deberá enviar el número de identificación fiscal o el número de identificación del patrón federal (FEIN). Este número suele aparecer en el certificado fiscal.
+- Deberá enviar el número de identificación fiscal o el número de identificación federal del trabajador (FEIN). Este número suele aparecer en el certificado fiscal.
 
 - En función de su país, región o estado, la exención fiscal de ventas tiene directrices legales específicas para el Departamento de Ingresos Fiscales local (o departamento similar) y debe administrarse en consecuencia. Aunque muchas ubicaciones tienen certificados fiscales que se renuevan anualmente, algunas ubicaciones pueden renovarse a dos o más años. Debe comprobar esta y otra información comprobando el certificado o ponerse en contacto con la autoridad fiscal local.
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450754"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489890"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Proporcionar diferentes tipos de soporte técnico a sus clientes
 
@@ -36,7 +36,7 @@ Los clientes de CSP no pueden crear vales de soporte técnico por sí mismos. De
 
   - [soporte técnico Premier para asociados (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (base de cuota, uso para todos los productos)
 
-  - [Soporte técnico avanzado para asociados (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (base de cuota, uso solo para productos en la nube)
+  - [Soporte avanzado para asociados (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (base de tarifas, uso solo para productos en la nube)
 
   - [Soporte técnico Signature Cloud](manage-your-partner-network-benefits.md) (incluido con las ventajas de MPN para las competencias Gold o Silver, use solo para productos en la nube. Consulte [Ventajas técnicas](mpn-benefits-technical-support.md).
 

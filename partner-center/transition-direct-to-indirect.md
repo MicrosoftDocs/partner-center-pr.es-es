@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo un asociado del programa CSP puede usar Centro de partners para realizar la transición de un asociado de factura directa a un revendedor indirecto.
+description: Obtenga información sobre cómo un asociado Proveedor de soluciones en la nube programa (CSP) puede usar Centro de partners para realizar la transición de un asociado de factura directa a un revendedor indirecto.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276423"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490060"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transición de asociado de factura directa del Proveedor de soluciones en la nube (CSP) a revendedor indirecto de CSP
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276423"
 
 >[!Note]
 >Este artículo está destinado a los partners de facturación directa que han decidido realizar la transición a revendedores indirectos. Sin embargo, incluso si aún no ha tomado una decisión explícita de inscribirse [](direct-partner-new-requirements.md) como revendedor indirecto, Microsoft informará a los asociados de facturación directa que no cumplan los nuevos requisitos del programa de asociados de factura directa de CSP cuando sus funcionalidades de factura directa se restringirán. [](restricted-direct-bill-capabilities.md)
-<br>A partir de enero de 2021, se agregará un nuevo requisito de ingresos. Los asociados inscritos como asociados de factura directa deberán haber negociado al menos 300 000 USD en los ingresos del programa de Proveedor de soluciones en la nube en un nivel de cuenta global de asociado durante los 12 meses anteriores.
+<br>A partir de enero de 2021, se agregará un nuevo requisito de ingresos. Los asociados inscritos como asociados de factura directa deberán haber negociado al menos 300 000 USD en los ingresos del programa CSP en un nivel de cuenta global de asociado durante los 12 meses anteriores.
 
 Podrá inscribirse en el programa de revendedor indirecto mediante el inquilino de factura directa existente.
 
-## <a name="get-started"></a>Primeros pasos
+## <a name="get-started"></a>Introducción
 
-1. Asegúrese de que el perfil de asociado en Centro de partners y el identificador de MPN están actuales.
+1. Asegúrese de que el perfil de asociado en Centro de partners y Microsoft Partner Network (MPN) están actuales.
 
 2. Inicie sesión en Centro de partners administrador global del inquilino de factura directa al que va a realizar la transición a revendedor indirecto.
 
@@ -38,7 +38,7 @@ Podrá inscribirse en el programa de revendedor indirecto mediante el inquilino 
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Inscríbase ahora.":::
 
-4. Selecciona Inscribirse ahora. Su empresa de revendedores indirectos usará el mismo inquilino de AAD que usa para su negocio directo.
+4. Selecciona Inscribirse ahora. Su empresa de revendedor indirecto usará el mismo Microsoft Azure Active Directory (Azure AD) que usa para su negocio directo.
 
     > [!NOTE]
     > En principio, esta nueva funcionalidad de transición estará disponible para los partners con fechas de aniversario entre septiembre y diciembre. Si no tiene una fecha de aniversario entre septiembre y diciembre, no verá la funcionalidad en este momento. Los partners con fechas aniversario posteriores a diciembre de 2018 recibirán notificación una vez que la función esté habilitada para estos partners.
@@ -160,26 +160,26 @@ Puede usar la característica de extensión de relación de revendedor para esta
 
 - El proveedor indirecto no se proporciona con [privilegios de administración delegados](customers-revoke-admin-privileges.md) al inquilino del cliente. Si el proveedor indirecto requiere privilegios de administración delegados, debe enviar una invitación de revendedor indirecto al cliente en su lugar.
 
-- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como asociado de CSP para el cliente en la página Relaciones de asociados del Centro de administración de [Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) [y Microsoft Store para Empresas](/microsoft-store/work-with-partner-microsoft-store-business).
+- Una vez establecida la relación de revendedor, el proveedor indirecto aparecerá como asociado de CSP al cliente en la página Relaciones de asociados del Centro de administración de [Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) y [Microsoft Store para Empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Para evitar confusiones y desconciertos, el contrato de asociado le obliga a informar y obtener el consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un cliente de factura directa existente y un proveedor indirecto.
+    > Para evitar confusiones y desaprobación, el contrato de asociado le obliga contractualmente a informar y obtener el consentimiento del cliente de factura directa antes de usar la característica de extensión de relación para establecer la relación de revendedor entre un cliente de factura directa existente y un proveedor indirecto.
 
 Para usar esta característica en un inquilino de cliente existente:
 
 1. Inicie sesión en Centro de partners como agente **de administración.**
 
-2. En la **página Clientes**, seleccione un cliente existente y haga clic en el icono **Vínculos** rápidos para expandir la vista de resumen del cliente.
+2. En la **página Clientes**, seleccione un cliente existente y seleccione su **icono Vínculos rápidos** para expandir la vista de resumen del cliente.
 
-3. En **Proveedores indirectos, haga** clic en Transferir cliente en un proveedor **indirecto.**
+3. En **Proveedores indirectos, seleccione** Transferir cliente en un proveedor **indirecto.**
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transfiera el cliente a un proveedor indirecto.":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transferir el cliente a un proveedor indirecto.":::
 
 4. En el cuadro de diálogo emergente, seleccione **el proveedor indirecto** que le gustaría tener relación de revendedor con el cliente.
 
-5. Haga clic en **Guardar y continuar**.
+5. Selecciona **Guardar y continuar**.
 
-6. Compruebe que el proveedor indirecto seleccionado aparece en **Proveedores indirectos.**
+6. Compruebe que el proveedor indirecto seleccionado aparece en **Proveedor indirecto.**
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="Proveedor indirecto enumerado.":::
 
@@ -193,7 +193,7 @@ El proveedor indirecto no puede enviar pedidos para los clientes de factura dire
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Invitar a nuevos clientes.":::
 
-3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje por correo electrónico o copiarlo en el Portapapeles y pegarlo en un correo electrónico.
+3. En la siguiente página, revisa el borrador del mensaje de correo electrónico. Puede abrir el borrador del mensaje en el correo electrónico o copiarlo en el Portapapeles y pegarlo en un correo electrónico.
 
 4. Edite el texto del correo electrónico para decir lo que necesita, pero asegúrese de incluir el vínculo, ya que está personalizado para conectar al cliente directamente a su cuenta y a la cuenta del proveedor. A continuación, seleccione **Done** (Listo).
 
@@ -205,11 +205,11 @@ El proveedor indirecto no puede enviar pedidos para los clientes de factura dire
 
 Contrato de Microsoft Cloud válido hasta el 31 de enero de 2020. Después de esa fecha, todos los clientes, existentes y nuevos, deben firmar el nuevo [Contrato de cliente de Microsoft](confirm-customer-agreement.md). Para los clientes de transición, si:
 
-- **El cliente aún no Contrato de cliente de Microsoft ha aceptado**
+- **El cliente aún no ha Contrato de cliente de Microsoft**
 
    Trabaje con el proveedor indirecto para que el [cliente acepte el Contrato de cliente de Microsoft](confirm-customer-agreement.md).
 
-- **El cliente ha aceptado Contrato de cliente de Microsoft con usted a través del Centro Microsoft 365 administración**
+- **El cliente ha aceptado Contrato de cliente de Microsoft con usted a través del Centro de Microsoft 365 Administración**
 
    La aceptación se conservará una vez establecida la relación de revendedor con el proveedor indirecto. No es necesario hacer nada.
 
@@ -219,7 +219,7 @@ Contrato de Microsoft Cloud válido hasta el 31 de enero de 2020. Después de es
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Transferencia de suscripciones de factura directa existentes al proveedor indirecto
 
-En el modelo indirecto de CSP, los revendedores indirectos no tienen relaciones de facturación con Microsoft. En su lugar, los revendedores indirectos obtienen suscripciones para sus clientes a través de sus proveedores indirectos. Durante la transición de un asociado de factura directa a un revendedor indirecto, debe transferir las suscripciones existentes que tiene como asociado de factura directa a su proveedor indirecto. Puede usar la característica de transferencia de suscripciones autoatendidas en Centro de partners panel para hacerlo.
+En el modelo indirecto de CSP, los revendedores indirectos no tienen relaciones de facturación con Microsoft. En su lugar, los revendedores indirectos obtienen suscripciones para sus clientes a través de sus proveedores indirectos. Al realizar la transición de un asociado de factura directa a un revendedor indirecto, debe transferir las suscripciones existentes que tiene como asociado de facturación directa a su proveedor indirecto. Para ello, puede usar la característica de transferencia de suscripciones Centro de partners panel.
 
 ### <a name="prerequisites"></a>Requisitos previos
 
@@ -231,7 +231,7 @@ En el modelo indirecto de CSP, los revendedores indirectos no tienen relaciones 
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Transición al estado de revendedor indirecto
 
-La característica es un proceso de 4 pasos, donde:
+La característica es un proceso de cuatro pasos, donde:
 
 - El asociado de transición crea una solicitud de transferencia de suscripción. La solicitud contiene una o varias suscripciones existentes asociadas al mismo cliente y se dirige a un proveedor indirecto.
 
@@ -244,7 +244,7 @@ La característica es un proceso de 4 pasos, donde:
 ### <a name="transitioning-partner"></a>Asociado de transición
 
 > [!NOTE]
-> También puede usar Centro de partners [API/SDK](/partner-center/develop/manage-customers) para transferir las suscripciones existentes a su proveedor indirecto.
+> También puede usar Centro de partners [API/SDK](/partner-center/develop/manage-customers) para transferir las suscripciones existentes al proveedor indirecto.
 >
 > - [Obtener la idoneidad de la transferencia de suscripciones de un cliente](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [Crear una transferencia de un cliente](/partner-center/develop/create-a-transfer)
@@ -260,15 +260,15 @@ Para crear una solicitud de transferencia como asociado de transición:
 
 1. Inicie sesión en Centro de partners como agente **de administración.**
 
-2. En la **página Clientes,** seleccione el cliente previsto y haga clic en el icono Vínculos rápidos para expandir la vista de resumen del cliente.
+2. En la **página** Clientes, seleccione el cliente previsto y seleccione el icono Vínculos rápidos para expandir la vista de resumen del cliente.
 
-3. En **Proveedores indirectos,** confirme que aparece el proveedor indirecto previsto.
+3. En **Proveedores indirectos**, confirme que aparece el proveedor indirecto previsto.
 
-4. Haga clic **en Ver suscripciones.**
+4. Seleccione **Ver suscripciones.**
 
 5. En la **página Suscripciones,** busque **Transferencia de suscripciones.**
 
-6. En **Transferencia de suscripción,** haga clic **en Solicitar transferencia de suscripción.**
+6. En **Transferencia de suscripción,** seleccione **Solicitar transferencia de suscripción.**
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Solicitud de transferencia de suscripción.":::
 
@@ -276,33 +276,33 @@ Para crear una solicitud de transferencia como asociado de transición:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Crear solicitud de transferencia.":::
 
-8. Haga clic en **Crear**.
+8. Seleccione **Crear**.
 
 9. Aparecerá una solicitud de transferencia de suscripción activa en **Transferencia de suscripción.**
 
     :::image type="content" source="images/direct/direct10.png" alt-text="Lista de solicitudes de transferencia.":::
 
-10. Informe a su proveedor indirecto de que ha creado una solicitud de transferencia de suscripción.
+10. Informe al proveedor indirecto de que ha creado una solicitud de transferencia de suscripción.
 
 ### <a name="indirect-provider---accept-transfer-request"></a>Proveedor indirecto: aceptación de la solicitud de transferencia
 
 Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
-1. Inicie sesión en Centro de partners como agente **de administración** o agente **de ventas.**
+1. Inicie sesión en Centro de partners agente de **administración** o agente **de ventas.**
 
-2. En la **página Clientes,** seleccione el cliente previsto y haga clic en el icono Vínculos rápidos para expandir la vista de resumen del cliente.
+2. En la **página** Clientes, seleccione el cliente previsto y seleccione su icono Vínculos rápidos para expandir la vista de resumen del cliente.
 
 3. En **Revendedores indirectos,** confirme que aparece el asociado en transición.
 
-4. Haga clic **en Ver suscripciones.**
+4. Seleccione **Ver suscripciones.**
 
 5. En la **página Suscripciones,** busque **Transferencia de suscripciones.**
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Ver solicitud de transferencia.":::
 
-6. En **Transferencia de suscripción**, haga clic en la solicitud de transferencia que desea revisar.
+6. En **Transferencia de suscripción,** seleccione la solicitud de transferencia que desea revisar.
 
-7. Haga **clic en** Aceptar (o **Rechazar)** según corresponda.
+7. Seleccione **Aceptar** (o **Rechazar)** según corresponda.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Acepte la solicitud de transferencia.":::
 
@@ -310,19 +310,19 @@ Para revisar y aceptar una solicitud de transferencia como proveedor indirecto:
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Proveedor indirecto: compruebe que la solicitud de transferencia se ha completado.
 
-1. Una vez completada correctamente la solicitud de transferencia, compruebe que puede ver que las suscripciones aparecen en **Suscripciones**.
+1. Una vez completada correctamente la solicitud de transferencia, compruebe que puede ver que las suscripciones aparecen en **Suscripciones.**
 
 2. Informe al asociado en transición.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Asociado de transición: comprobación de que la solicitud de transferencia se ha completado
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Asociado de transición: compruebe que la solicitud de transferencia se ha completado.
 
 El asociado de transición debe hacer lo siguiente:
 
-1. Inicie sesión Centro de partners como agente **de administración o** agente de **ventas.**
+1. Inicie sesión en Centro de partners agente **de administración o** agente de **ventas.**
 
-2. En la **página Clientes,** seleccione el cliente previsto y haga clic en el icono **Vínculos** rápidos para expandir la vista de resumen del cliente.
+2. En la **página** Clientes, seleccione el cliente previsto y seleccione el **icono Vínculos** rápidos para expandir la vista de resumen del cliente.
 
-3. Haga clic **en Ver suscripciones.**
+3. Seleccione **Ver suscripciones.**
 
 4. En la **página Suscripciones,** busque **Transferencia de suscripciones.**
 
@@ -338,13 +338,13 @@ El asociado de transición debe hacer lo siguiente:
 
 ### <a name="considerations"></a>Consideraciones
 
-- **El identificador de suscripción será diferente después de la transferencia.** Si se trata de una suscripción de Azure (MS-AZR-0145P), además, tendrá un identificador de suscripción de Azure, que se conserva del propietario anterior y aparecerá en el Portal de administración de Azure.
+- **El identificador de suscripción será diferente después de la transferencia.** Si es una suscripción de Azure (MS-AZR-0145P), además, tendrá un identificador de suscripción de Azure, que se conserva del propietario anterior y aparecerá en el Portal de administración de Azure.
 
 - **Varias solicitudes de transferencia no pueden hacer referencia a la misma suscripción.** Después de crear una solicitud de transferencia, que incluye una suscripción existente, no puede crear solicitudes de transferencia adicionales, incluida la misma suscripción, hasta que se cancele la primera solicitud de transferencia.
 
 - **Los complementos de las suscripciones basadas en licencias deben transferirse junto con su suscripción base.** Al crear una solicitud de transferencia, si elige una suscripción existente con uno o varios complementos, los complementos se incluirán automáticamente en la solicitud de transferencia.
 
-- **Los cambios en el recuento de licencias de una suscripción no se reflejarán en la solicitud de transferencia existente.** Después de crear una solicitud de transferencia que incluye una suscripción existente, debe evitar actualizar la cantidad de licencias de la suscripción (o complementos asociados). Si lo hace, la nueva cantidad no se reflejará en la solicitud de transferencia. Después de que el proveedor indirecto acepte la solicitud de transferencia, la suscripción resultante tendrá la cantidad anterior. Si desea que la nueva cantidad se transfiera al proveedor indirecto, debe cancelar la solicitud de transferencia existente y volver a crear una nueva.
+- **Los cambios en el número de licencias de una suscripción no se reflejarán en la solicitud de transferencia existente.** Después de crear una solicitud de transferencia que incluye una suscripción existente, debe evitar actualizar la cantidad de licencias de la suscripción (o complementos asociados). Si lo hace, la nueva cantidad no se reflejará en la solicitud de transferencia. Después de que el proveedor indirecto acepte la solicitud de transferencia, la suscripción resultante tendrá la cantidad anterior. Si desea que la nueva cantidad se transfiera al proveedor indirecto, debe cancelar la solicitud de transferencia existente y volver a crear una nueva.
 
 - **No todas las compras se pueden transferir mediante la transferencia de suscripción autoatendidas.** Actualmente, solo puede transferir suscripciones de O365 y suscripciones de Azure PAYG (MS-AZR-0145P) mediante esta característica. No se admiten otras compras, incluidos los planes de Azure, las instancias reservadas de Azure, las suscripciones basadas en términos y las suscripciones de SaaS Azure Marketplace. Verá un motivo por el que no se puede transferir una suscripción en la página de solicitud de transferencia de envío. Para transferir estas suscripciones, [](create-a-new-subscription.md#suspend-or-cancel-a-subscription) deberá cancelar la suscripción existente y comprar una nueva oferta para el cliente a través del proveedor indirecto.
 

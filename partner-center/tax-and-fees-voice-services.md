@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854730"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490077"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impuestos regionales, normativas para los servicios de red telefónica conmutada pública (PTSN)
 
@@ -26,7 +26,7 @@ Implique a su asesor fiscal y legal para comprender la responsabilidad de su org
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Presentación de facturas y archivo de conciliación de asociados
 
-Las facturas de CSP y los archivos de conciliación de CSP de Estados Unidos, Puerto Rico y Canadá, que incluyen los servicios RTC de Skype Empresarial y Microsoft 365 Voice, proporcionarán elementos de línea independientes para los componentes RTC y no RTC.
+las facturas de Proveedor de soluciones en la nube (CSP) y los archivos de conciliación de CSP en Estados Unidos, Puerto Rico y Canadá, que incluyen los servicios RTC de Skype Empresarial y Microsoft 365 Voice, proporcionarán elementos de línea independientes para los componentes RTC y no RTC.
 
 Además, las facturas de CSP mostrarán la siguiente nota al pie:
 
@@ -34,7 +34,7 @@ Además, las facturas de CSP mostrarán la siguiente nota al pie:
 
 ## <a name="reconciliation-file-example"></a>Ejemplo de archivo de conciliación
 
-Office 365 Enterprise E5 se presenta en el archivo de conciliación como dos elementos de línea con nombres idénticos e identificadores idénticos, pero cada elemento de línea tiene un precio unitario único (por ejemplo: 28,40 USD y 2,00 USD). Esto separa el componente Conferencia RTC de Skype Empresarial de la oferta de Office 365, para que puedas aplicar correctamente los impuestos.
+Office 365 Enterprise E5 presenta en el archivo de conciliación dos elementos de línea con nombres idénticos e identificadores idénticos, pero cada elemento de línea tiene un precio unitario único (por ejemplo: 28,40 USD y 2,00 USD). Esto separa el componente Conferencia RTC de Skype Empresarial de la oferta de Office 365, para que puedas aplicar correctamente los impuestos.
 
 **Ejemplo de conciliación #1 asociados (seleccionar columnas):**
 
@@ -45,7 +45,7 @@ Office 365 Enterprise E5 se presenta en el archivo de conciliación como dos ele
 
 **Ejemplo de conciliación de asociados #2**
 
-Microsoft 365 Business Voice disponible en Canadá tiene componentes imponibles rtcN adicionales que se consolidan en la factura de CSP (de forma similar a Office 365 E5, se presentan dos elementos de línea, uno para los componentes RTC y el otro para los componentes que no son RTC).  El archivo de conciliación de CSP para Microsoft 365 Business Voice mostrará todos los componentes imponibles de RTC individualmente (los componentes RTC individuales no se consolidarán en . CSV o herramienta de API).  La suma de los detalles del pedido y los importes facturados de los clientes que se encuentran en el archivo de conciliación coincidirá con la factura de CSP.
+Microsoft 365 Business Voice disponible en Canadá tiene componentes imponibles de RTC adicionales que se consolidan en la factura de CSP (similar a Office 365 E5, se presentan dos elementos de línea, uno para componentes RTC y otro para componentes que no son RTC).  El archivo de conciliación de CSP para Microsoft 365 Business Voice mostrará todos los componentes imponibles de RTC individualmente (los componentes de RTC individuales no se consolidarán en .CSV o herramienta de API).  La suma de los detalles del pedido y los importes facturados de los clientes que se encuentran en el archivo de conciliación coincidirán con la factura de CSP.
 
 ## <a name="additional-resources"></a>Recursos adicionales
 Para más información, visite el sitio [de Microsoft 365 for Partners.](https://www.microsoft.com/microsoft-365/partners/)
