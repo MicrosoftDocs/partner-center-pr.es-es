@@ -8,18 +8,18 @@ description: Vea lo que está haciendo bien y dónde puede mejorar con respecto 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277511"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565464"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Dynamics disponible en el panel Centro de partners Insights
 
 **Roles adecuados:** Administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
-El informe de uso de Dynamics proporciona datos de uso para las suscripciones de Dynamics 365 que ha vendido o administra para sus clientes. Puede ver las secciones siguientes en el informe de uso de Dynamics.
+El informe de uso de Dynamics proporciona datos de uso para las suscripciones de Microsoft Dynamics 365 que ha vendido o administra para sus clientes. Puede ver las secciones siguientes en el informe de uso de Dynamics.
 
 - Resumen
 - Uso de Dynamics por geografía
@@ -28,7 +28,7 @@ El informe de uso de Dynamics proporciona datos de uso para las suscripciones de
 - Distribución de uso de Dynamics
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, se le debe asignar un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea Administrador global de la empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 

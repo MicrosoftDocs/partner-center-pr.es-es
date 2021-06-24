@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431544"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565192"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace compra
 
@@ -77,6 +77,8 @@ La compra de una oferta mediante Azure Marketplace puede producir un error por d
 1. La suscripción pertenece a un Proveedor de soluciones en la nube (CSP) y el ISV rechazó vender a través de un CSP.
 1. Marketplace privado está habilitado para la suscripción y la oferta no está en la lista de ofertas permitidas.
 1. La oferta es Privada/Versión preliminar para clientes específicos y la suscripción no está en la lista de clientes permitidos.
+
+La compra de ofertas de Marketplace podría producir un error si entra en conflicto con los Azure Policy definidos por el administrador de Azure en su organización. Por ejemplo, no puede comprar Microsoft.SaaS si no está en la lista de permitidos **de su** organización. Para obtener más información, [consulte Azure Policy documentación](/azure/governance/policy/).
 
 ## <a name="next-steps"></a>Pasos siguientes
 

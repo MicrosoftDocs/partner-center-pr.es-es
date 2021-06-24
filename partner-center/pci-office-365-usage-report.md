@@ -1,5 +1,5 @@
 ---
-title: Informe de uso de Office 365 de Conclusiones del Centro de partners
+title: Informe de uso de Office 365 de conclusiones del Centro de partners
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
@@ -8,16 +8,16 @@ description: Vea lo que está haciendo bien y dónde puede mejorar con respecto 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 43ac7763b32eed5c63fd3766262ad1649ae81e11
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277817"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565379"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Office 365 disponible en el panel Centro de partners Insights
 
-**Roles adecuados:** Administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
+**Roles adecuados:** administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
 El informe de uso de Office 365 proporciona datos de uso para las suscripciones de Office 365 que ha vendido o administra para sus clientes. Puede ver las secciones siguientes en el informe de uso de Office 365.
 
@@ -28,19 +28,19 @@ El informe de uso de Office 365 proporciona datos de uso para las suscripciones 
 - Distribución de uso de Office 365
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, se le debe asignar un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea Administrador global de la empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como administrador global, administrador de cuentas, visor de informes o visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 
-La sección de resumen presenta una vista de instantánea de los indicadores clave relacionados con las suscripciones de Office 365 que ha vendido o administra para sus clientes.  
+En la sección de resumen se presenta una vista de instantánea de los indicadores clave relacionados con las suscripciones de Office 365 que ha vendido o administra para sus clientes.  
 
 - Nuevas suscripciones: número total de suscripciones vendidas o administradas durante el período de tiempo seleccionado.
 
-   El gráfico Micro presenta una tendencia mensual del recuento de nuevas suscripciones para el intervalo de fechas seleccionado.
+   El gráfico Micro presenta una tendencia de mes a mes del recuento de nuevas suscripciones para el intervalo de fechas seleccionado.
 
 - Puestos disponibles: número total de licencias vendidas durante el período de tiempo seleccionado.
 
-   El gráfico Micro presenta una tendencia mensual del recuento de licencias vendidas durante el intervalo de fechas seleccionado.
+   El gráfico Micro presenta una tendencia de mes a mes del recuento de licencias vendidas durante el intervalo de fechas seleccionado.
 
 - Usuarios activos mensuales: número de usuarios que usaron la carga de trabajo durante el mes anterior. 
 
@@ -52,7 +52,7 @@ La sección de resumen presenta una vista de instantánea de los indicadores cla
 
 El **uso de Office 365** por geografía muestra la distribución de usuarios activos mensuales (MAU) y unidades disponibles de pago (PAU) por país del cliente. MAU hace referencia al número de licencias usadas durante el mes anterior y PAU hace referencia al número de puestos de pago vendidos o administrados durante el período de tiempo seleccionado. Los colores más claros del mapa representan valores más bajos, mientras que los colores más oscuros representan valores más altos. Puede buscar y seleccionar un país en la cuadrícula. También puede acercar para obtener un aspecto más cercano.
 
-La **tabla Number of countries/region (Número** de países o regiones) presenta el total de países o regiones donde se generan eventos de uso de Azure.
+La **tabla Number of countries/region** (Número de países o regiones) presenta el total de países o regiones donde se generan eventos de uso de Azure.
 
 Puede buscar y seleccionar un país en la cuadrícula para ampliar la ubicación en el mapa. Seleccione la **opción** Inicio del mapa para volver a la vista original.
 
@@ -81,4 +81,4 @@ La distribución de uso de Office 365 muestra el desglose de PAU y suscripciones
 
 - Para obtener más informes, [vea Centro de partners Insights](partner-center-insights.md).
 
-- Puede descargar los datos sin procesar que potencian este informe desde la sección Descargar informes del panel de Conclusiones. [Más información](pci-download-reports.md) 
+- Puede descargar los datos sin procesar que se están generando en este informe desde la sección Descargar informes del panel de Insights. [Más información](pci-download-reports.md) 

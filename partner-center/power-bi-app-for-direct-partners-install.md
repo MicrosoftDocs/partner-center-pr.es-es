@@ -1,5 +1,5 @@
 ---
-title: Instale Centro de partners Analytics para Power BI
+title: Instalación de Centro de partners Analytics para Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
@@ -10,21 +10,21 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854492"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565054"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI
 
 
-**Roles adecuados:** Administrador global | Administrador de administración de | Agente de ventas | Agente de administración
+**Roles adecuados:** Administrador global | Administrador de usuarios | Agente de ventas | Agente de administración
 
 ## <a name="before-you-begin"></a>Antes de empezar
 
-Seleccione la aplicación más relevante para su negocio en la siguiente lista de aplicaciones Power BI disponibles:
+Seleccione la aplicación más relevante para su empresa en la siguiente lista de aplicaciones de Microsoft Power BI disponibles:
 
 - [Proveedor directo](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -36,13 +36,13 @@ Antes de instalar la versión preliminar de Centro de partners Analytics, asegú
 
 - Elija la aplicación de Power BI correcta para su empresa.
 
-- Tiene una licencia Power BI Pro.
+- Tiene una licencia Power BI pro.
 
 - Tiene permisos para instalar aplicaciones de plantilla en el inquilino.
 
 - Puede iniciar sesión en Power BI.
 
-- Puede iniciar sesión como administrador global, agente de administración o administrador de facturación en el inquilino Azure Active Directory [(Azure AD) de la empresa.](azure-active-directory-tenants-and-partner-center.md)
+- Puede iniciar sesión como administrador global, agente de administración o administrador de facturación en el inquilino de Azure Active Directory [(Azure AD) de la empresa.](azure-active-directory-tenants-and-partner-center.md)
 
 ## <a name="to-install-the-app"></a>Para instalar la aplicación
 
@@ -52,9 +52,9 @@ Antes de instalar la versión preliminar de Centro de partners Analytics, asegú
 
 3. Acepte los términos y condiciones seleccionando **Continuar.**
 
-4. En ¿Ya tiene una cuenta? seleccione **Iniciar sesión.**
+4. En ¿Ya tiene una cuenta? Seleccione **Iniciar sesión.**
 
-5. En la página siguiente, escriba el nombre de Power BI y la contraseña y, a continuación, **seleccione Iniciar sesión.**
+5. En la página siguiente, escriba el nombre Power BI usuario y la contraseña y, a continuación, **seleccione Iniciar sesión.**
 
 6. Instale el área de trabajo proporcionando el nombre del área de trabajo.
 
@@ -66,18 +66,18 @@ Antes de instalar la versión preliminar de Centro de partners Analytics, asegú
 
 10. Para conectarse a los datos, seleccione **Conectar.**
 
-11. En la **ventana emergente Conectarse a Centro de partners Analytics,** compruebe que el método de autenticación está establecido en  **oAuth2** o seleccione **oAuth2** en la lista si no lo está. 
+11. En la ventana emergente Connect to Centro de partners Analytics (Conectarse a **Centro de partners Analytics),** compruebe que el método **de** autenticación está establecido en **oAuth2** o seleccione **oAuth2** en la lista si no lo está. 
 
 > [!NOTE]  
 >  Esta ventana puede tardar unos minutos en aparecer.
 
-12. En la **página Centro de partners Analytics Connector,** inicie sesión con las credenciales de administrador global, agente de administración o administrador de facturación para el inquilino de Azure AD de la empresa y, a continuación, seleccione **Iniciar sesión.**
+12. En la **página Centro de partners Analytics Connector,** inicie sesión con credenciales de administrador global, agente de administración o administrador de facturación para el inquilino de Azure AD de la empresa y, a continuación, seleccione **Iniciar sesión.**
  
 13. Cuando se le solicite acceso, seleccione **Aceptar.** 
 
-Una vez que Centro de partners Analytics está conectado a Power BI, los datos comenzarán a cargarse. Dependiendo de la cantidad de datos, esto puede tardar hasta 10 minutos. 
+Una vez Centro de partners el servicio Analytics esté conectado a Power BI, los datos comenzarán a cargarse. Dependiendo de la cantidad de datos, esto puede tardar hasta 10 minutos. 
 
-Una vez que los datos terminen de cargarse, puede empezar a usar el panel de la aplicación Centro de partners Analytics y los informes de Power BI.
+Una vez que los datos terminen de cargarse, puede empezar a usar el panel de Centro de partners analytics y los informes de Power BI.
 
 ## <a name="next-steps"></a>Pasos siguientes
 

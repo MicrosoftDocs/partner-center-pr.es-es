@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276287"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565107"
 ---
 # <a name="trainings-dashboard"></a>Panel de entrenamientos
 
@@ -28,7 +28,7 @@ El panel de entrenamientos proporciona información sobre las certificaciones, e
 - Detalles de actividad
 
 >[!NOTE] 
->Este informe está disponible en el centro insights en Centro de partners. Para ver este informe, se le debe asignar el rol Visor de informes o Visor de informes ejecutivos. Algunas secciones de este informe solo serán visibles para los usuarios que son visores de informes ejecutivos. Para obtener más información sobre el control de acceso para los informes de Insights, consulte [Roles de PCI.](pci-roles.md)
+>Este informe está disponible en el centro insights en Centro de partners. Para ver este informe, se le debe asignar el rol de Visor de informes o Visor de informes ejecutivos. Algunas secciones de este informe solo serán visibles para los usuarios que son visores de informes ejecutivos. Para obtener más información sobre el control de acceso para los informes de Insights, consulte [Roles de PCI.](pci-roles.md)
 
 ## <a name="summary"></a>Resumen
 

@@ -8,18 +8,18 @@ description: Vea lo que está haciendo bien y dónde puede mejorar con respecto 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 75aa86ebc768b9d6d252a29eb84aef97ab99ab0c
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276304"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565345"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI de uso disponible en el panel Centro de partners Insights
 
 **Roles adecuados:** Administrador global | Agente de administración | Visor de informes | Visor de informes ejecutivos
 
-El Power BI de uso proporciona datos de uso para las Power BI que ha vendido o administra para sus clientes. Puede ver las secciones siguientes en el informe Power BI uso.
+El Power BI de uso proporciona datos de uso para las suscripciones de Microsoft Power BI que ha vendido o administra para sus clientes. Puede ver las secciones siguientes en el informe Power BI uso.
 
 - Resumen
 - Power BI por geografía
@@ -28,7 +28,7 @@ El Power BI de uso proporciona datos de uso para las Power BI que ha vendido o a
 - Power BI distribución de uso
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, se le debe asignar un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea Administrador global de la empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 

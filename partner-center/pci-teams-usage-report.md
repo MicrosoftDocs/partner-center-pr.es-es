@@ -8,12 +8,12 @@ description: Vea lo que está haciendo bien y dónde puede mejorar con respecto 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277341"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565022"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Informe de uso de Teams disponible en el panel Centro de partners Insights
 
@@ -27,7 +27,7 @@ El informe Uso de Teams presenta métricas relacionadas con las cargas de trabaj
 - Principales clientes por uso
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea El administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios del Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd226122f8e69e0667006f274d2ef080bbe47b9b
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276321"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565430"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Informe de suscripciones de productos disponible en el panel Centro de partners Insights
 
@@ -32,7 +32,7 @@ Puede ver las secciones siguientes en el informe Suscripciones de productos.
 - Tendencia de productos
 
  > [!NOTE]
- > Este informe está disponible en el panel de Insights. Para ver este informe, se le debe asignar un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, vea Administrador global de la empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de Visor de informes ejecutivos.
+ > Este informe está disponible en el panel de Insights. Para ver este informe, debe tener asignado un rol específico en Centro de partners, como Administrador global, Administrador de cuentas, Visor de informes o Visor de informes ejecutivos. Para obtener más información, consulte el administrador global de su empresa. Los tipos específicos de datos de este informe también pueden estar disponibles solo para los usuarios con privilegios de visor de informes ejecutivos.
 
 ## <a name="summary"></a>Resumen
 
@@ -48,7 +48,7 @@ Para obtener más información sobre cada sección del resumen, consulte a conti
   - El gráfico Micro presenta una tendencia mensual del recuento de suscripciones durante el intervalo de fechas seleccionado.
 
 - Suscripciones activas:
-  - Recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba en el caso de las suscripciones de Azure.
+  - Recuento actual de suscripciones de productos en la nube con uso activo medido en función de la telemetría del producto. Esto excluye todas las suscripciones de prueba para las suscripciones de Azure.
   - Porcentaje de crecimiento o disminución de suscripciones activas durante el período de tiempo seleccionado.
   - El gráfico Micro presenta una tendencia mensual de suscripciones activas durante el intervalo de fechas seleccionado.
 
@@ -84,7 +84,7 @@ El gráfico de columnas apiladas presenta un desglose de las suscripciones nueva
 
 ## <a name="subscription-distribution"></a>Distribución de suscripciones
 
-Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de MPN, segmentos de clientes, canal de ventas/modelo de precios de Azure y el tipo de atribución (por ejemplo, DPOR, DAP, etc.). Seleccione las pestañas correspondientes para ver el desglose por estas categorías. Para compilar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
+Esta vista presenta un desglose de las suscripciones actuales por las ubicaciones de Microsoft Partner Network (MPN), los segmentos de cliente, el canal de ventas o el modelo de precios de Azure y el tipo de atribución. Seleccione las pestañas correspondientes para ver el desglose por estas categorías. Para compilar el gráfico circular con un desglose de categorías de elementos específicas, seleccione esas categorías de elementos en la leyenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribución de suscripciones.":::
 
@@ -96,7 +96,7 @@ Esta vista muestra la distribución de las suscripciones de cliente actuales por
 
 ## <a name="products-trend"></a>Tendencia de productos
 
-Esta vista muestra un gráfico de barras y dos gráficos circulares. El gráfico de barras presenta una tendencia mensual de suscripciones desglosadas por productos comerciales, como Azure, Office, Dynamics, etc.
+Esta vista muestra un gráfico de barras y dos gráficos circulares. El gráfico de barras presenta una tendencia mensual de suscripciones desglosadas por productos comerciales, como Azure, Office y Dynamics.
 
 Los dos gráficos circulares muestran un desglose de las suscripciones de cliente actuales. El primer gráfico circular desglosa las suscripciones por productos. El segundo gráfico circular desglosa las suscripciones por SKU o planes. Al seleccionar un producto  en el desglose por gráfico circular Productos, el gráfico circular adyacente mostrará un desglose de las suscripciones de ese producto por SKU.
 

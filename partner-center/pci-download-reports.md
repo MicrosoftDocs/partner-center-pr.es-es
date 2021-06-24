@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: bf9d158ce2d1e25923d94e5f9c80e408fef29aa4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276241"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565481"
 ---
 # <a name="download-reports"></a>Descarga de informes
 
@@ -24,7 +24,7 @@ ms.locfileid: "112276241"
 
 El centro Descargar informes del panel de Insights permite exportar los conjuntos de datos sin procesar que potencian los informes de Centro de partners Insights, en formato de valores separados por tabulaciones (TSV). Esto le permite realizar un análisis más profundo de los datos, en función de las necesidades empresariales.
 
-Una vez generado, el informe estará disponible en la **sección Informes generados** para que pueda descargarlo y analizarlo mediante herramientas como Microsoft Excel.
+Una vez generado, el informe estará disponible en la **sección Informes** generados para que pueda descargarlo y analizarlo mediante herramientas como Microsoft Excel.
 
 **Creación de un nuevo informe**
 
@@ -35,33 +35,33 @@ Para generar un informe, seleccione primero el informe en **la** lista desplegab
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Informes generados.":::
 
 >[!NOTE] 
->Solo los usuarios que son visores de informes ejecutivos pueden descargar informes. Para obtener más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [Roles pci](pci-roles.md). 
+>Solo los usuarios que son visores de informes ejecutivos pueden descargar informes. Para obtener más información sobre el acceso basado en roles a los informes del panel de Insights, consulte [Roles de PCI.](pci-roles.md) 
 
 ## <a name="available-reports"></a>Informes disponibles
 
 Los informes siguientes están disponibles para su descarga:
 
-**El perfil del** asociado proporciona los detalles relacionados con el asociado. En el informe Id. de asociado puede encontrar detalles como el nombre del asociado, la ciudad del asociado y el país del asociado. No se aplicará ninguna agregación o retroceso a este informe.
+**El perfil de** partner proporciona los detalles relacionados con el asociado. En el informe se Id. de asociado detalles, como el nombre del asociado, la ciudad del asociado y el país del asociado. No se aplicará ninguna agregación ni reversión para este informe.
 
-**Los detalles del** cliente proporcionan los detalles de los clientes a los que está asociado un asociado. También proporciona métricas clave, como licencias vendidas, ACR agregado, entre otras. El informe se agrega mensualmente.
+**Los detalles del** cliente proporcionan los detalles de los clientes a los que está asociado un asociado. También proporciona métricas clave, como licencias vendidas, ingresos consumidos agregados de Azure (ACR), y así sucesivamente. El informe se agrega mensualmente.
 
-**Los detalles de** suscripciones proporcionan los detalles de las suscripciones vendidas o administradas por el asociado junto con la información del cliente. El informe se agrega mensualmente.
+**Los detalles de** las suscripciones proporcionan los detalles de las suscripciones vendidas o administradas por el asociado junto con la información del cliente. El informe se agrega mensualmente.
 
-**El uso de Azure** proporciona los detalles de uso de Azure. Estos detalles son para las suscripciones de Azure vendidas o administradas por el asociado. Los detalles de uso se dividen por categoría de medidor y otras dimensiones clave. El informe se agrega mensualmente.
+**Uso de Azure** proporciona los detalles de uso de Azure. Estos detalles son para las suscripciones de Azure vendidas o administradas por el asociado. Los detalles de uso se dividen por categoría de medidor y otras dimensiones clave. El informe se agrega mensualmente.
 
-**Office365- Uso de licencias** proporciona los detalles de uso de las licencias de Office 365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos calificados, entre otras. El informe se agregará mensualmente.
+**Office 365- Uso de** licencias proporciona los detalles de uso de las licencias de Office 365 vendidas o administradas por el asociado. También proporciona información al cliente y métricas clave, como Usuarios activos mensuales (MAU), derechos calificados, entre otras. El informe se agregará mensualmente.
 
-**Enterprise Mobility: uso de licencias**  proporciona los detalles de uso de las licencias de Enterprise Mobility vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos calificados, entre otras. El informe se agrega mensualmente.
+**Enterprise Mobility: uso de licencias**  proporciona los detalles de uso de las licencias de Enterprise Mobility vendidas o administradas por el asociado. También proporciona información al cliente y métricas clave, como MAU, derechos calificados, entre otras. El informe se agrega mensualmente.
 
-**Dynamics 365: uso** de licencias proporciona los detalles de uso de las licencias D365 vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos calificados, entre otras. El informe se agrega mensualmente.
+**Dynamics 365: uso de licencias** proporciona los detalles de uso de las licencias D365 vendidas o administradas por el asociado. También proporciona información al cliente y métricas clave, como MAU, derechos calificados, entre otras. El informe se agrega mensualmente.
 
-**Power BI: Uso de licencias** proporciona los detalles de uso de Power BI licencias vendidas o administradas por el asociado. También proporciona información del cliente y métricas clave, como usuarios activos mensuales (MAU), derechos calificados, entre otras. El informe se agrega mensualmente.
+**Power BI: Uso de licencias** proporciona los detalles de uso de Power BI licencias vendidas o administradas por el asociado. También proporciona información al cliente y métricas clave, como MAU, derechos calificados, entre otras. El informe se agrega mensualmente.
 
-**Los entrenamientos** proporcionan detalles como exámenes, certificaciones, evaluaciones, pistas, cursos completados o ocupados por empleados del asociado.
+Los cursos proporcionan detalles como exámenes, certificaciones, evaluaciones, pistas, cursos **completados** o ocupados por empleados del asociado.
 
 **Microsoft Learn** proporciona los detalles sobre los módulos, los detalles de finalización de la ruta de aprendizaje junto con los detalles del usuario para el asociado.
 
-**Competencias: resumen** e historial proporciona detalles de todas las competencias que están activas, en curso o en riesgo para este asociado. También incluye el historial de todas las competencias logradas por el asociado.
+**Competencias: resumen e** historial proporciona detalles de todas las competencias que están activas, en curso o en riesgo para este partner. También incluye el historial de todas las competencias logradas por el asociado.
 
-**Competencias: detalles de rendimiento** proporciona detalles sobre cómo funciona el asociado con respecto a los KPI para lograr un determinado conjunto de competencias.
+**Competencias: los detalles** de rendimiento proporcionan detalles sobre cómo funciona el asociado con respecto a los indicadores clave de rendimiento (KPI) para lograr un determinado conjunto de competencias.
 

@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre cómo ver los datos empresariales mediante el Aplicación de análisis del Centro de partners para Power BI (para asociados directos en CSP).
+description: Obtenga información sobre cómo ver los datos empresariales mediante Aplicación de análisis del Centro de partners para Power BI (para asociados directos en el programa Proveedor de soluciones en la nube (CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855036"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564988"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Visualización de los datos empresariales con la aplicación Centro de partners Analytics para Microsoft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Vea los datos empresariales con la aplicación Centro de partners Analytics para Microsoft Power BI
 
 
 
-**Roles adecuados:** administrador global | Administrador de administración de | Agente de ventas | Agente de administración
+**Roles adecuados:** Administrador global | Administrador de usuarios | Agente de ventas | Agente de administración
 
 ## <a name="view-your-business-data"></a>Visualización de los datos empresariales
 
-Obtenga una representación visual de los datos empresariales con el Aplicación de análisis del Centro de partners para Power BI, incluidos:
+Obtenga una representación visual de los datos empresariales con la aplicación Centro de partners Analytics para Microsoft Power BI, incluidos:
 
 - Crecimiento de la base de clientes, suscripciones y licencias
 
@@ -39,11 +39,11 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Acerca de la versión preliminar de Centro de partners Analytics
 
-- Esta aplicación es solo para asociados directos Proveedor de soluciones en la nube programa. Otros asociados de CSP (revendedores indirectos, por ejemplo) no podrán iniciar sesión.
+- Esta aplicación es solo para asociados directos del programa Proveedor de soluciones en la nube (CSP). Otros asociados de CSP (revendedores indirectos, por ejemplo) no podrán iniciar sesión.
 
-- Los costos estimados son datos de facturación o factura previas a impuestos y no son legalmente obligatorios. Los costos estimados están diseñados para usarse solo para la información de datos.
+- Los costos estimados son datos de facturación o factura antes de impuestos y no son legalmente obligatorios. Los costos estimados están diseñados para usarse solo para la información de datos.
 
-- La información del cliente se basa en las suscripciones. Los clientes para los que ha creado recientemente cuentas, pero que aún no tienen suscripciones, no se incluyen en los recuentos.
+- La información del cliente se basa en las suscripciones. Los clientes para los que haya creado cuentas recientemente, pero que aún no tengan suscripciones, no se incluyen en los recuentos.
 
 - El costo estimado se basa en la tarjeta de tarifa más reciente, que se basa en los precios de CSP.
 
@@ -51,7 +51,7 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 ### <a name="business-insights-report"></a>Información de la empresa informe
 
-- **Inquilinos de clientes:** número de inquilinos Azure AD inquilinos de clientes que han adquirido suscripciones
+- **Inquilinos de** clientes: número de inquilinos Azure Active Directory (Azure AD) de clientes que han adquirido suscripciones
 
 - **Nuevo (últimos 30 días):** nuevos clientes que compran al menos una suscripción en los últimos 30 días
 
@@ -61,11 +61,11 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 - Costo mensual estimado durante los últimos **12** meses: tendencia mensual del importe estimado en dólares de factura previa a impuestos agregado mensualmente durante el período de los últimos 12 meses
 
-- Costo estimado por producto en los últimos **12** meses: los productos vendidos se ordenan según el importe estimado en dólares de factura previa a impuestos agregado durante el período de los últimos 12 meses. Este estado indica los productos principales que más ingresos tienen.
+- Costo estimado por producto en los últimos **12** meses: los productos vendidos se ordenan según el importe estimado de la factura antes de impuestos agregado durante el período de los últimos 12 meses. Este estado indica los productos principales que más ingresos tienen.
 
 - **Clientes de los últimos 12** meses: tendencia mensual de nuevos clientes y clientes de renovación agregados mensualmente durante el período de los últimos 12 meses
 
-- Costo estimado por cliente durante los últimos **12** meses: los clientes se ordenan por importe estimado en dólares de factura antes de impuestos agregado durante el período de los últimos 12 meses. Este estado indica que los principales clientes traen la mayoría de los ingresos.
+- Costo estimado por cliente durante los últimos **12** meses: los clientes se ordenan por el importe estimado de la factura antes de impuestos agregado durante el período de los últimos 12 meses. Este estado indica que los principales clientes traen la mayoría de los ingresos.
 
 - **Recuento de clientes por producto:** productos vendidos ordenados por clientes asociados. Este estado indica los principales productos vendidos a la mayoría de los clientes.
 
@@ -99,9 +99,9 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 - **Distribución por tipos de suscripción:**% de distribución del total de suscripciones por tipo de suscripción basada en licencia y por uso
 
-- **Recuento de suscripciones activas por producto:** productos vendidos ordenados por recuento de suscripciones activas
+- **Número de suscripciones activas por producto:** productos vendidos ordenados por recuento de suscripciones activas
 
-- **Suscripciones de los últimos 12** meses: tendencia mes a mes de nuevas suscripciones y suscripciones de renovación agregadas mensualmente durante el período de los últimos 12 meses
+- **Suscripciones de los últimos 12** meses: tendencia mensual de nuevas suscripciones y suscripciones de renovación agregadas mensualmente durante el período de los últimos 12 meses
 
 - **Detalles de la suscripción del** cliente: vista detallada de los clientes, suscripciones y ofertas
 
@@ -115,13 +115,13 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 - **Nuevo (últimas 24 horas):** adición de licencias en las últimas 24 horas
 
-- **Licencias de los últimos 90** días: tendencia mes a mes de adiciones y reducciones de licencias agregadas mensualmente durante el período de los últimos 90 días
+- **Licencias de los últimos 90** días: tendencia mensual de adiciones y reducciones de licencias agregadas mensualmente durante el período de los últimos 90 días
 
-- **Recuento de licencias activas por producto:** productos vendidos ordenados por recuento de licencias activas
+- **Número de licencias activas por producto:** productos vendidos ordenados por recuento de licencias activas
 
 - **Número de licencias activas por cliente:** clientes ordenados por recuento de licencias activas
 
-- Detalles del evento de licencia del cliente durante los últimos **90** días: vista detallada de los clientes, las suscripciones y los eventos de suscripción, incluida la fecha del evento, el nombre del evento, la cantidad y el cambio en la cantidad.
+- Detalles del evento de licencia de cliente durante los últimos **90** días: vista detallada de los clientes, suscripciones y eventos de suscripción, incluida la fecha del evento, el nombre del evento, la cantidad y el cambio en la cantidad.
 
 ### <a name="licenses-usage-report"></a>Informe de uso de licencias:
 
@@ -143,7 +143,7 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 - Suscripciones basadas en el uso en los últimos **12** meses: tendencia mensual de nuevas suscripciones basadas en el uso y suscripciones basadas en el uso renovación agregadas mensualmente durante el período de los últimos 12 meses
 
-- Costo estimado de uso por cliente durante los últimos **60** días: los clientes basados en el uso se ordenan por el importe estimado de la factura antes de impuestos agregado durante el período de los últimos 60 días. Este estado indica que los principales clientes basados en el uso traen la mayoría de los ingresos.
+- Costo estimado del uso por el cliente durante los últimos **60** días: los clientes basados en el uso se ordenan por el importe estimado de la factura antes de impuestos agregado durante el período de los últimos 60 días. Este estado indica que los principales clientes basados en el uso traen la mayoría de los ingresos.
 
 - Costo estimado de uso por categoría en los últimos **60** días: categorías de medidores de suscripciones basadas en el uso ordenadas por importe estimado en dólares de factura antes de impuestos agregado durante el período de los últimos 60 días.
 
@@ -159,6 +159,6 @@ Obtenga una representación visual de los datos empresariales con el Aplicación
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-- [Centro de partners Analytics for Power BI introducción a la aplicación](power-bi-app-for-direct-partners.md)
+- [Centro de partners Analytics for Power BI app overview](power-bi-app-for-direct-partners.md)
 
 - [Instalación y versión preliminar de la Aplicación de análisis del Centro de partners para Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
