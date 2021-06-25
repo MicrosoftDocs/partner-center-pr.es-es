@@ -1,6 +1,6 @@
 ---
 title: Vender en sectores especializados
-description: Obtenga información sobre los precios especiales y reducidos de Microsoft para determinados grupos de clientes, incluidos los clientes de educación, los sin ánimo de lucro y los usuarios gubernamentales.
+description: Obtenga información sobre los precios especiales y reducidos de Microsoft para determinados grupos de clientes, incluidos los clientes de educación, los clientes sin ánimo de lucro y los usuarios gubernamentales.
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150801"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915582"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Venda a industrias especializadas como educación, sin ánimo de lucro y usuarios gubernamentales
 
-**Roles adecuados:** Administrador global | Agente de administración | Agente de ventas
+**Roles adecuados:** administrador global | Agente de administración | Agente de ventas
 
 Microsoft proporciona precios especiales y reducidos para grupos selectos de clientes, incluidos clientes de educación, clientes sin ánimo de lucro, pequeñas empresas y entidades gubernamentales. Tanto usted como el cliente deben estar cualificados para poder ofrecerles precios especiales. Actualmente, estas ofertas  con precios especiales solo están disponibles para servicios basados en licencias, como Microsoft 365, Dynamics, Intune, etc. No está disponible para otros tipos (suscripciones de software, software perpetuo o productos de Azure).
 
@@ -27,16 +27,17 @@ Microsoft proporciona precios especiales y reducidos para grupos selectos de cli
 |**Precio especial**   |**Calificaciones requeridas del revendedor**   |**Requisitos del cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Ninguno   | Debe ser un [usuario de educación calificado.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Gobierno   |Para vender Azure, inscríbase mediante el formulario de validación en la nube de [Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias al gobierno, no se requiere ninguna calificación.|   Ninguno|
-|Sin ánimo de lucro  |Ninguno<br/> Debe tener un inquilino sin Azure Active Directory beneficios.<br/> Más información acerca de las [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese a través del programa [sin ánimo de lucro de Microsoft](https://nonprofit.microsoft.com/#/register) para ser apto.   |
+| US Federal Government   |Para vender Azure, inscríbase con el formulario de validación en la nube [de Microsoft US Government](https://azuregov.microsoft.com/csp). Para vender suscripciones basadas en licencias a la administración gubernamental, no se requiere ninguna calificación.|   Ninguno|
+| Todas las demás entidades gubernamentales | Ninguno<br />Los partners deben aprovisionar mediante ofertas "corporativas". | Ninguno
+|Sin ánimo de lucro  |Ninguno<br/> Debe tener una cuenta sin ánimo de Azure Active Directory inquilino.<br/> Más información acerca de las [ofertas especiales para organizaciones sin ánimo de lucro](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Regístrese a través del programa [sin ánimo de lucro de Microsoft](https://nonprofit.microsoft.com/#/register) para ser apto.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Comprueba tus calificaciones de revendedor
 
-Los pasos siguientes solo son aplicables a proveedores indirectos y asociados de facturación directa. Los revendedores indirectos deben conectarse con un proveedor indirecto para ofrecer ofertas con precios académicos a usuarios de educación cualificados.
+Los pasos siguientes solo son aplicables a proveedores indirectos y asociados de factura directa. Los revendedores indirectos deben conectarse con un proveedor indirecto para ofrecer ofertas con precios académicos a usuarios de educación cualificados.
 
-1. En el panel Centro de partners [,](https://partner.microsoft.com/dashboard)seleccione el icono de engranaje en la esquina superior derecha de la ventana para abrir Configuración de la **cuenta.**
+1. En el panel Centro de partners [,](https://partner.microsoft.com/dashboard)seleccione el icono de engranaje en la esquina superior derecha de la ventana para abrir **Configuración de la cuenta.**
 
-2. En el **perfil legal,** en la **sección Información del programa,** busque **Calificaciones de revendedor.**
+2. En el **perfil legal,** en la **sección Información del programa,** busque **Reseller qualifications (Calificaciones de revendedor).**
 
 3. Si no ves **Calificaciones de revendedor**, no tienes autorización para comprar ofertas especiales.
 
@@ -44,9 +45,9 @@ Los pasos siguientes solo son aplicables a proveedores indirectos y asociados de
 
 1. En el **menú Centro de partners,** seleccione **Clientes.** Elija el cliente de la lista.
 
-2. En el menú cliente, seleccione **Cuenta.** En la sección **Información de la compañía**, buscar **Calificaciones especiales**.
+2. En el menú del cliente, seleccione **Cuenta.** En la sección **Información de la compañía**, buscar **Calificaciones especiales**.
 
-3. Si **Las calificaciones especiales** se establecen en **Ninguno,** pero el  cliente cumple de hecho las calificaciones, puede actualizar sus detalles para incluirlos.
+3. Si **Las calificaciones especiales se** establecen en **Ninguno,** pero el  cliente cumple de hecho las calificaciones, puede actualizar sus detalles para incluirlos.
 
 ## <a name="where-to-find-special-offers"></a>Dónde encontrar ofertas especiales
 
@@ -68,13 +69,12 @@ Reglas de compra para vender ofertas especiales a los clientes:
 | Comercial |Comercial | Sin ánimo de lucro, Educación o Government Community Cloud |
 | Sin ánimo de lucro |Comercial, sin ánimo de lucro | Educación o Government Community Cloud |
 | Education |Comercial, Educación | Sin ánimo de lucro o Government Community Cloud |
-| Government Community Cloud |Government Community Cloud | Sin ánimo de lucro, educación o comercial |
+| Government Community Cloud |Government Community Cloud | Organizaciones sin ánimo de lucro, educativas o comerciales |
 | Entidad de propiedad del estado  | Comercial  | Sin ánimo de lucro, Educación o Government Community Cloud  |
-| If Education and State Owned Entity | Comercial, Educación | Sin ánimo de lucro o Government Community Cloud |
-| Si state owned entity (Entidad de propiedad del estado) y Government Community Cloud | Government Community Cloud | Sin ánimo de lucro, educación o comercial |
+| If Education y State Owned Entity | Comercial, Educación | Sin ánimo de lucro o Government Community Cloud |
+| Si state owned entity (Entidad de propiedad del estado) Government Community Cloud | Government Community Cloud | Organizaciones sin ánimo de lucro, educativas o comerciales |
 
 ## <a name="next-steps"></a>Pasos siguientes
 
 - [Vender suscripciones a Minecraft: Education Edition a clientes del sector educativo](minecraft-subscriptions.md)
-
 - [Centro de partners para Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
