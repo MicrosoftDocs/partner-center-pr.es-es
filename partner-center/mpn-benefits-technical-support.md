@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373313"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105046"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Soporte técnico para productos locales o en la nube
 
@@ -52,12 +52,12 @@ Cómo ver o activar las ventajas técnicas en Centro de partners:
    > [!NOTE]
    > Si su cuenta solo está asociada a CSP y no está asociada a MPN, verá un mensaje de error "No está autorizado para esta acción". Debe tener una cuenta asociada a MPN.
 
-2. Expanda **Beneficios** en el menú de navegación izquierdo y seleccione **Ventajas técnicas**. En la página Ventajas técnicas se mostrarán las ofertas activas de suscripción Gold, Silver o Microsoft Action Pack suscripción.
+2. Expanda **Beneficios en** el menú de navegación izquierdo y seleccione Ventajas [**técnicas.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) En la página Ventajas técnicas se mostrarán las ofertas activas de suscripción Gold, Silver o Microsoft Action Pack suscripción.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="A continuación, expanda Ventajas técnicas." :::
 
    > [!NOTE]
-   > Si no tiene ofertas de pertenencia activa, verá el mensaje "Parece que aún no tiene ninguna beneficio". Si su empresa tiene ofertas de pertenencia activa, pero no puede verlas, ha iniciado sesión con la cuenta incorrecta. Para comprobar la cuenta, seleccione el icono **Cuenta** en la parte superior derecha de la página y seleccione Iniciar sesión con **otra** cuenta (si es necesario).
+   > Si no tiene ofertas de pertenencia activa, verá el mensaje "Parece que aún no tiene ninguna beneficios". Si su empresa tiene ofertas de pertenencia activa, pero no puede verlas, ha iniciado sesión con la cuenta incorrecta. Para comprobar la cuenta, seleccione el icono **Cuenta** en la parte superior derecha de la página y seleccione Iniciar sesión con **otra** cuenta (si es necesario).
 
 3. Para usar soporte técnico de productos de Microsoft o soporte técnico de firma, debe activar la ventaja. Para activar la ventaja, seleccione el **botón** Activar. La cuenta de usuario usada para la activación requiere los roles administrador global o administrador de asociados de MPN.
 
@@ -70,7 +70,7 @@ Cómo ver o activar las ventajas técnicas en Centro de partners:
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Las ventajas técnicas activadas muestran el identificador de acceso y el identificador de contrato" :::
 
    > [!NOTE]
-   > Necesitará el identificador de acceso y el identificador de contrato la primera vez que use soporte técnico de productos de Microsoft o soporte técnico de firma para cada cuenta. Una vez asociadas las ventajas a su cuenta, no es necesario volver a usar el identificador de acceso y el identificador de contrato.  
+   > Necesitará el identificador de acceso y el identificador de contrato la primera vez que use soporte técnico del producto de Microsoft o soporte técnico de firma para cada cuenta. Una vez asociadas las ventajas a su cuenta, no es necesario volver a usar el identificador de acceso y el identificador de contrato.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Derechos de soporte técnico y productos admitidos
 
@@ -90,7 +90,7 @@ Las competencias en la nube incluyen: Competencia de seguridad, Cloud Business A
 
 ## <a name="microsoft-product-support-on-premises"></a>Soporte técnico de Microsoft (local)
 
-Puede usar soporte **técnico de Microsoft** para obtener soporte técnico en productos locales recientes. Los productos locales recientes incluyen solo el producto actual (N) y la versión anterior del producto (N-1). La versión anterior del producto solo se admite si está dentro del [soporte estándar](/lifecycle/policies/fixed); según la directiva [de compatibilidad N-1.](https://aka.ms/n-1) En el caso de los productos y versiones no compatibles, use la opción de soporte técnico de pago correspondiente o compre un plan de soporte técnico para partners.
+Puede usar soporte **técnico de Microsoft** para obtener soporte técnico en productos locales recientes. Los productos locales recientes incluyen solo el producto actual (N) y la versión anterior del producto (N-1). La versión anterior del producto solo se admite si está dentro del [soporte estándar](/lifecycle/policies/fixed); según la directiva [de soporte técnico N-1.](https://aka.ms/n-1) Para productos y versiones no compatibles, use la opción de soporte técnico de pago pertinente o compre un plan de soporte técnico para partners.
 
 Necesitará el identificador de acceso y el identificador de contrato la primera vez que use la ventaja. Las ventajas están asociadas a su cuenta de usuario hasta que expiren o no haya más incidentes de soporte técnico restantes.
 
@@ -108,7 +108,7 @@ Debe usar soporte técnico para empresas e iniciar el proceso para crear un inci
 
 2. Si el contrato de soporte técnico ya está asociado a su cuenta, debería ver los incidentes de soporte técnico mostrados. En el caso del soporte técnico local, debería ver que se muestra el contrato de soporte técnico para partners (a menos que ya no sea válido), incluida la fecha de inicio, la fecha de finalización y los incidentes restantes.
 
-Si necesita asociar el contrato de soporte técnico, expanda "Do you need  to purchase or add more support plans" (¿Necesita comprar o agregar más planes de soporte técnico?) y seleccione el botón Agregar contrato para escribir el identificador de acceso y el identificador del contrato. Expanda **¿Desea ver los planes de soporte técnico no disponibles?**" sección para ver información sobre la firma de asociados. Solo verá el soporte técnico para partners que se muestra aquí si los contratos han expirado, no queda ningún incidente o ha seleccionado un producto local antiguo (consulte aka.ms/n-1 para ver los productos de soporte técnico). [](https://aka.ms/n-1)
+Si necesita asociar el contrato de soporte técnico, expanda "Do you need  to purchase or add more support plans" (¿Necesita comprar o agregar más planes de soporte técnico?) y seleccione el botón Agregar contrato para escribir el identificador de acceso y el identificador del contrato. Expanda **¿Desea ver los planes de soporte técnico no disponibles?** sección para ver información sobre la firma de asociados. Solo verá el soporte técnico para partners que se muestra aquí si los contratos han expirado, no queda ningún incidente o ha seleccionado un producto local antiguo (consulte aka.ms/n-1 para ver los productos de soporte técnico). [](https://aka.ms/n-1)
 
 Para obtener información más detallada, consulte [¿Cuántos incidentes de soporte técnico de asociados quedan?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3).
 
@@ -121,7 +121,7 @@ Necesitará el identificador de acceso y el identificador de contrato la primera
 > [!NOTE]  
 > Cuando se usa mediante el Azure Portal. Si el contrato de soporte técnico ya está asociado a la cuenta, verá un mensaje de error "El identificador de acceso ya está asociado..." al agregar el identificador de acceso y el identificador de contrato. vea a continuación
 
-Los asociados de CSP que crean solicitudes de Azure pueden usar el plan de soporte técnico "Proveedor de soluciones en la nube" sin agregar un contrato de soporte técnico.
+Los asociados de CSP que crean solicitudes de Azure pueden usar Proveedor de soluciones en la nube plan de soporte técnico "Proveedor de soluciones en la nube" sin agregar un contrato de soporte técnico.
 
 Los usuarios **con el rol agente de** administración pueden seleccionar [Clientes](https://partner.microsoft.com/commerce/customers/list) en CSP en el menú de navegación izquierdo, seleccionar **Administración** de servicios y **nueva solicitud.**  Al seleccionar la carga de trabajo correspondiente, se abrirá el portal específico de la carga de trabajo, se agregará un contrato de soporte técnico y se creará una solicitud.
 
@@ -140,7 +140,7 @@ Verá el error anterior si asocia un contrato de soporte técnico a una cuenta m
 
 2. Si el contrato de soporte técnico ha expirado o los paquetes signature 10 (competencia híbrida Gold) o Signature 5-pack (competencia híbrida Silver) no tienen incidentes restantes, el contrato de soporte técnico se ocultará porque no es válido. Si vincula las ventajas de soporte técnico de nuevo, verá el error porque el contrato ya está asociado. Puede comprar un nuevo plan de soporte técnico para obtener incidentes de soporte técnico de Azure.
 
-Consulte los planes de soporte técnico para partners a continuación para obtener ofertas de soporte técnico de pago de asociados.
+Consulte planes de soporte técnico para partners a continuación para obtener ofertas de soporte técnico de pago de asociados.
 
 ## <a name="partner-support-plans"></a>Planes de soporte técnico para asociados
 
