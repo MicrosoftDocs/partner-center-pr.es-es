@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855835"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551170"
 ---
 # <a name="registration-id-number-information"></a>Información del id. de registro
 
@@ -26,7 +26,7 @@ Si es proveedor indirecto, asociado de facturación directa o revendedor indirec
 
 | **País o región** | **Detalles** |
 |:--|:--|
-| **Armenia** | INN: número de identificación fiscal.<br>Número de IVA: también conocido como número de registro de IVA. Este valor es el número único que identifica a una persona gravable (empresa) o una persona jurídica no gravable que está inscrita en el registro de IVA.<br>Número de servicio público. |
+| **Armenia** | INN: número de identificación fiscal.<br>Número del impuesto sobre el valor añadido (IVA): también conocido como número de registro de IVA. Este valor es el número único que identifica a una persona gravable (empresa) o una persona jurídica no gravable que está inscrita en el registro de IVA.<br>Número de servicio público. |
 | **Azerbaiyán**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf): número de identificación fiscal.<br>INN: número de identificación fiscal. |
 | **Belarús**  | UNP: este valor es un número de nueve dígitos (numérico para organizaciones, alfanumérico para personas físicas) que contiene un identificador de región, una serie por región y un dígito de control. |
 |**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf): (Cadastro Nacional da Pessoa Jurídica, o Registro nacional de entidades legales). Este valor es un número de identificación emitido para empresas brasileñas por la Secretaría de Ingresos Federales de Brasil.  |

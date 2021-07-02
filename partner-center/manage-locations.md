@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151787"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276831"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Administración de las ubicaciones de la cuenta de MPN y adición (eliminación) de una ubicación
 
@@ -30,7 +30,7 @@ Contoso tiene su cuenta global de partner (PGA) en el Reino Unido. La PGA indica
 >[!NOTE]
 >Hay una relación 1-1 entre un inquilino de CSP y un identificador de ubicación de MPN.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Estructura de ubicaciones de MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Estructura de ubicaciones de MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Requisitos previos para agregar una nueva cuenta para una empresa de CSP
 
@@ -92,7 +92,7 @@ Actualice los campos siguientes:
  
 1. Selecciona **Agregar ubicación**. Se creará un nuevo id. de MPN para la nueva ubicación, que puede usar para las transacciones y los incentivos del programa CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Agregar un nuevo perfil legal de la empresa":::
+:::image type="content" source="images/legal-biz.png" alt-text="Agregue una nueva razón social de la empresa.":::
 
 > [!NOTE]
 > Una vez agregada una ubicación en el Centro de partners, no se puede quitar. Verá **MPN** en el menú izquierdo del Centro de partners si ha usado el identificador de MPN correcto para iniciar sesión.
@@ -143,7 +143,7 @@ Para eliminar una ubicación de la cuenta, deberá ponerse en contacto con el [s
  
 1. Seleccione **Cambiar el país** junto a la lista desplegable **País o región** y siga los pasos que se indican. 
 
-:::image type="content" source="images/lbp.png" alt-text="Control flotante de datos del perfil legal de la empresa":::
+:::image type="content" source="images/lbp.png" alt-text="Control flotante de datos del perfil legal de la empresa.":::
 
 5. Seleccione **Guardar**.
 
