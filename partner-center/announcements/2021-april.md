@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702831"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150138"
 ---
 # <a name="april-2021-announcements"></a>Anuncios de abril de 2021
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>Resumen
 
-Los documentos de Swagger de las API del Centro de partners se han migrado desde el [sitio de documentación de Swagger anterior](https://apidocs.microsoft.com/services/partnercenter) a un [nuevo sitio de documentación de Swagger](https://docs.microsoft.com/rest/api/partner-center-rest/).
+Los documentos de Swagger de las API del Centro de partners se han migrado desde el [sitio de documentación de Swagger anterior](https://apidocs.microsoft.com/services/partnercenter) a un [nuevo sitio de documentación de Swagger](/rest/api/partner-center-rest/).
 
 ### <a name="impacted-audience"></a>Audiencia afectada
 
@@ -87,11 +87,11 @@ Partners de factura directa y proveedores indirectos que participan en el progra
 
 ### <a name="details"></a>Detalles
 
-A partir del 26 de abril de 2021, la documentación de Swagger de las API del Centro de partners, incluido el contenido de la API REST, se encuentra en un [nuevo sitio](https://docs.microsoft.com/rest/api/partner-center-rest/). El sitio antiguo dejará de ser accesible después de varias semanas.
+A partir del 26 de abril de 2021, la documentación de Swagger de las API del Centro de partners, incluido el contenido de la API REST, se encuentra en un [nuevo sitio](/rest/api/partner-center-rest/). El sitio antiguo dejará de ser accesible después de varias semanas.
 
 ### <a name="benefits"></a>Ventajas
 
-La documentación de Swagger de las API del Centro de partners proporciona una función **Pruébalo**. Para usar esta función, deberá tener un token de portador, que puede generar siguiendo los pasos indicados en [Autenticación del Centro de partners](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication).
+La documentación de Swagger de las API del Centro de partners proporciona una función **Pruébalo**. Para usar esta función, deberá tener un token de portador, que puede generar siguiendo los pasos indicados en [Autenticación del Centro de partners](/partner-center/develop/partner-center-authentication#app--user-authentication).
 
 ### <a name="next-steps"></a>Pasos siguientes
 
@@ -322,7 +322,7 @@ Asociados que venden ofertas académicas, sin ánimo de lucro y de Government Co
 
 ### <a name="details"></a>Detalles
 
-Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](https://docs.microsoft.com/partner-center/announcements/2020-december#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST y, como resultado, **la calificación GET existente se retirará el 6 de mayo de 2021**. En ese momento, deberá haber pasado a las nuevas API de POST del Centro de partners. Las nuevas API de POST le permitirán comprar ofertas para educación, mientras que las nuevas API de GET le permitirán comprar ofertas sin ánimo de lucro y GCC previamente calificadas.
+Este anuncio es un seguimiento de las [mejoras publicadas en diciembre](./2020-december.md#1) en el Centro de partners. Como parte de ese lanzamiento, se han implementado nuevas API de calificación GET y POST y, como resultado, **la calificación GET existente se retirará el 6 de mayo de 2021**. En ese momento, deberá haber pasado a las nuevas API de POST del Centro de partners. Las nuevas API de POST le permitirán comprar ofertas para educación, mientras que las nuevas API de GET le permitirán comprar ofertas sin ánimo de lucro y GCC previamente calificadas.
 
 ### <a name="next-steps"></a>Pasos siguientes
 
@@ -390,7 +390,7 @@ Los elementos siguientes no se verán afectados:
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-Revise la información sobre este tema en la [galería de recursos de preparación de operaciones](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) en el sitio web para asociados de Microsoft. Para más información sobre facturación e impuestos, así como recursos de facturación, facturas, facturación de CSP e impuestos, visite la [sección de facturación](https://docs.microsoft.com/partner-center/billing) del Centro de partners.
+Revise la información sobre este tema en la [galería de recursos de preparación de operaciones](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) en el sitio web para asociados de Microsoft. Para más información sobre facturación e impuestos, así como recursos de facturación, facturas, facturación de CSP e impuestos, visite la [sección de facturación](../billing.md) del Centro de partners.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Cambios en los requisitos de incorporación de clientes de Proveedor de soluciones en la nube (CSP)

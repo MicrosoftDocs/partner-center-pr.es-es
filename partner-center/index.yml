@@ -6,15 +6,15 @@ metadata:
   description: El Centro de partners es donde haces crecer tu negocio a través de Microsoft Partner Network (MPN), el programa Proveedor de soluciones en la nube (CSP), etc.
   ms.service: partner-dashboard
   ms.topic: landing-page
-  author: LauraBrenner
-  ms.author: labrenne
+  author: JasonGroce
+  ms.author: jasongroce
   ms.date: 02/01/2021
-  ms.openlocfilehash: 95a3e09cd265b9e09970b3f7c57261efb9b21221
-  ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+  ms.openlocfilehash: 430f009e1fd7391ae06e49cb90611346a02b9f6c
+  ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 04/16/2021
-  ms.locfileid: "107528512"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "111446879"
 landingContent:
 - title: Introducción al Centro de partners
   linkLists:
