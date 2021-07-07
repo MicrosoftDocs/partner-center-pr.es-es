@@ -1,27 +1,42 @@
 ---
 title: Anuncios del Centro de partners
 description: 'Anuncios del Centro de partners: Mantente al tanto de los avances y cambios en el Centro de partners, los programas para partners y las ofertas de productos.'
-ms.topic: article
+ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/14/2021
-ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 06/30/2021
+ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150019"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221464"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
 Más información sobre las actualizaciones importantes del Centro de partners. Esta información se actualiza con frecuencia, así que asegúrate de revisarla de vez en cuando.
 
-|**Categoría**|**Anuncios de mayo de 2021**|**Fecha del anuncio**|
+|**Categoría**|**Anuncios de julio de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Capacidades|[Ver ofertas y lanzamientos de productos de este mes](2021-july.md#2)|1 de julio|
+|Funcionalidades|[Promoción de Dynamics 365 Cloud Migration y retiro de ofertas con descuento](2021-july.md#1)|1 de julio|
+|**Categoría**|**Anuncios de junio de 2021**|**Fecha del anuncio**|
+|Funcionalidades|[Actualización de la fase 2: cambio en UE/AELC y Reino Unido de la moneda de facturación de partners para nuevas ofertas comerciales](2021-june.md#9)|24 de junio|
+|Funciones|[Visualización de las promociones y ofertas más recientes](2021-june.md#8)|22 de junio|
+|Funciones|[Fase 1: cambios en la disponibilidad de la oferta de Azure en el Proveedor de soluciones en la nube (CSP) relacionados con la nueva experiencia comercial próximamente](2021-june.md#7)|21 de junio|
+|Hacer crecer el negocio|[Actualización y recordatorios de la comunidad del Proveedor de soluciones en la nube (CSP) de junio](2021-june.md#6)|11 de junio|
+|Ofertas y mercados|[Extensiones promocionales del Proveedor de soluciones en la nube (CSP) para la Audioconferencia de Microsoft 365 y Microsoft 365 Business Voice](2021-june.md#5)|11 de junio|
+|Funciones|[Lista de precios de software perpetuo corregida y republicada](2021-june.md#4)|4 de junio|
+|Funciones|[Correcciones en la versión preliminar de la lista de precios de servicios basados en licencias de julio](2021-june.md#3)|4 de junio|
+|Funciones|[Columnas adicionales para obtener información más completa de los informes de uso de Azure](2021-june.md#2)|2 de junio|
+|Capacidades|[Ver ofertas y lanzamientos de productos de este mes](2021-june.md#1)|1 de junio|
+|**Categoría**|**Anuncios de mayo de 2021**|**Fecha del anuncio**|
+|Funcionalidades|[Compatibilidad del espacio aislado con el modelo indirecto para habilitar pruebas de API de un extremo a otro](2021-may.md#15)|25 de mayo|
+|Funcionalidades, mejora de Security & Compliance |[Actualizaciones de junio de Online Services (OLS) y guía de autorización del canal de software](2021-may.md#14)|25 de mayo|
 |Capacidades|[Actualizaciones sobre realización de transacciones con software perpetuo en CSP y cambios en el programa Open License](2021-may.md#13)|17 may|
 |Capacidades|[Próximamente llegará la fase 2: Cambio en UE/AELC y Reino Unido de la moneda de facturación de partners para nuevas ofertas comerciales](2021-may.md#12)|17 may|
 |Capacidades|[Desuso del Asistente para introducción (GSW) de Microsoft 365 Business Voice](2021-may.md#11)|14 de mayo|
@@ -66,11 +81,11 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Funcionalidades|[Nuevos productos y ofertas de Microsoft Dynamics 365 disponibles el 1 de abril de 2021](2021-march.md#2)|4 de marzo|
 |Funcionalidades|[Microsoft universal Print ahora está disponible en algunos conjuntos](2021-march.md#1)|3 de marzo|
 |**Categoría**|**Anuncios de febrero de 2021**|**Fecha del anuncio**|
-|Capacidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
-|Capacidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
-|Capacidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
-|Capacidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
-|Capacidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
+|Funcionalidades|[Las API de calificación PUT se han retirado; las GET se retirarán en mayo](2021-february.md#14)|25 de febrero|
+|Funcionalidades|[Comparta acuerdos de venta conjunta a escala mediante la funcionalidad de operaciones masivas del Centro de partners](2021-february.md#13)|25 de febrero|
+|Funcionalidades|[Migre sus acuerdos de Partner Sales Connect (PSC) con la nueva característica de migración de acuerdos](2021-february.md#12)|25 de febrero|
+|Funcionalidades|[Mayor flexibilidad con las ofertas de venta conjunta dirigidas a partners](2021-february.md#11)|25 de febrero|
+|Funcionalidades|[Cambios en los requisitos de incorporación de clientes en el Proveedor de soluciones en la nube (CSP)](2021-february.md#10)|25 de febrero|
 |Funcionalidades|[Ya disponible: Migración de DocuSign a Adobe Sign para partners con contratos de Microsoft Partner Agreement (MPA)](2021-february.md#9)|16 de febrero|
 |Hacer crecer el negocio|[Recordatorio: Presentación de la limitación de API para los partners que llaman a las API del Centro de partners](2021-february.md#8)|16 de febrero|
 |Funcionalidades|[Presentación de Temas Microsoft Viva](2021-february.md#7)|12 de febrero|
@@ -111,12 +126,12 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 |Ofertas/mercados|[Próximamente tendrá disponible la actualización de la oferta de Microsoft 365 Business Voice con plan de llamadas para EE. UU.](2020-december.md#2)|3 de diciembre|
 |Funcionalidades|[Ya disponibles: Actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario para el proceso de validación de clientes de Educación](2020-december.md#1)|3 de diciembre|
 | **Categoría** | **Anuncios de noviembre de 2020** | **Fecha del anuncio** |
-|Capacidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
+|Funcionalidades|[Experiencia de administración de cuentas unificada, nueva](2020-november.md#13)|18 de noviembre|
 |Ofertas/mercados|[Office 365 E1 para la promoción en mercados medianos (LATAM, APAC e India)](2020-november.md#12)|18 de noviembre|
-|Capacidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
-|Capacidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
-|Capacidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
-|Capacidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
+|Funcionalidades|[Actualizaciones de API del Centro de partners y mejoras de la interfaz de usuario (UI) para fortalecer el filtrado de clientes en determinados países](2020-november.md#11)|17 de noviembre|
+|Funcionalidades|[Cambio en EU/EFTA de la moneda de facturación de partners para nuevas ofertas de comercio](2020-november.md#10)|17 de noviembre|
+|Funcionalidades|[Limitación de API para las API del Centro de partners](2020-november.md#9)|17 de noviembre|
+|Funcionalidades|[409 errores debidos a la duplicación de solicitudes de MCA](2020-november.md#8)|16 de noviembre|
 |Funcionalidades|[Pruebas disponibles: actualizaciones de la API del Centro de partners y mejoras de la interfaz de usuario (UI) para el proceso de validación de clientes de Education](2020-november.md#7)|10 de noviembre|
 |Funcionalidades|[Expansión del contenido del asociado de licencia comercial en la galería de preparación de operaciones](2020-november.md#6)|2 de noviembre|
 |Ofertas/mercados|[Lanzamiento de la SKU de Salas de Microsoft Teams Premium](2020-november.md#5)|2 de noviembre|
@@ -188,50 +203,3 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 | Funcionalidades | [Actualización de medios de las suscripciones de software de Windows Server para CSP](2020-june.md#2) | 12 de junio |
 | Ofertas/mercados | [Ofertas y productos nuevos y que terminarán su ciclo de vida de Microsoft Dynamics 365 y Power Platform](2020-june.md#1) | 11 de junio |
 | Funcionalidades | [Combinación de dos o más cuentas de empresa en el Centro de partners](../merge-accounts.md) | 9 de junio |
-| **Categoría** | **Anuncios de mayo de 2020** | **Fecha** |
-| Funcionalidades | [Microsoft 365 A3: corrección de la licencia para uso desatendido en la oferta para Educación](2020-may.md#5). | 28 de mayo |
-| Funcionalidades | [Los clientes activos pueden renovar su plan de mejoras (EP) en el programa Proveedor de soluciones en la nube (CSP) y recibir licencias en línea](2020-may.md#4). | 26 de mayo |
-| Funcionalidades | [Cambio de dirección de Americas Operations Center](2020-may.md#3). | 15 de mayo |
-| Funcionalidades | [Microsoft dejará de vender la SKU independiente de Microsoft Kaizala Pro](2020-may.md#2). | 7 de mayo |
-| Funcionalidades | [Nuevas ofertas de automatización de procesos robóticos (RPA) disponibles en los programas de Education](2020-may.md#1). | 1 de mayo |
-| **Categoría** | **Anuncios de abril de 2020** | **Fecha** |
-| Funcionalidades | [Promociones de CSP actualizadas para Office 365](2020-april.md#14). | 30 de abril |
-| Funcionalidades | [Nueva funcionalidad de autoservicio de las reservas de Azure con permiso del partner](2020-april.md#13). | 29 de abril |
-| Ofertas/mercados | [Microsoft revirtió el precio del CSP en euros para Microsoft 365 E3](2020-april.md#12). | 24 de abril |
-| Funcionalidades | [RECORDATORIO: Activación de medidas de seguridad para las transacciones del Centro de partners en CSP](2020-april.md#11). | 23 de abril |
-| Funcionalidades | [Cambio de lugar de las modificaciones estándar del Contrato de cliente de Microsoft](2020-april.md#10). | 21 de abril |
-| Ofertas/mercados | [Anuncio de la oferta de Protección contra amenazas avanzada de Microsoft Defender (MDATP) para servidores, disponible para CSP el 1 de abril de 2020](2020-april.md#9). | 17 de abril |
-| Funcionalidades | [Cambio de dirección de Americas Operations Center](2020-april.md#8). |14 de abril |
-| Funcionalidades | [La licencia Microsoft 365 E3 comercial para uso desatendido se volverá a lanzar el 1 de mayo de 2020](2020-april.md#7). |10 de abril |
-| Ofertas/mercados | [Nuevas oportunidades para tus clientes de Microsoft 365 Educación con Cumplimiento de Microsoft 365 A5](2020-april.md#6). | 10 de abril|
-| Ofertas/mercados | [La evaluación de Office 365 E1 ya está disponible para los partners del programa CSP](2020-april.md#5). | 7 de abril |
-| Ofertas/mercados | [Dynamics 365: nuevos productos publicados](2020-april.md#4). | 6 de abril |
-| Funcionalidades | [Ahora disponible: recursos de preparación para operaciones en un solo lugar](2020-april.md#3). | 3 de abril |
-| Ofertas/mercados | [Microsoft 365 Business Voice está disponible para los partners de CSP desde el 1 de abril de 2020](2020-april.md#2). | 1 de abril |
-| Funcionalidades | [Es necesario que los partners hayan aceptado el contrato Microsoft Partner Agreement](2020-april.md#1). | 1 de abril |
-| **Categoría** | **Anuncios de marzo de 2020** | **Fecha** |
-| Ofertas/mercados | [Microsoft cambió el nombre de las ofertas de Office 365 para pequeñas y medianas empresas (pymes) el 21 de abril de 2020](2020-march.md#7). | 30 de marzo |
-| Funcionalidades | [Nuevas funcionalidades del Centro de partners que ayudan a los partners de facturación directa a realizar la transición a revendedor indirecto](2020-march.md#6). | 20 de marzo |
-| Ofertas/mercados | [Nueva SKU de nivel básico de Microsoft 365 para trabajadores de primera línea, CSP](2020-march.md#5). | 10 de marzo |
-| Funcionalidades | [Actualización: Cambios en la validación de clientes de Education en el programa CSP](2020-march.md#4). | 10 de marzo |
-| Ofertas/mercados | [Actualizaciones de Microsoft 365 para Proveedores de servicios en la nube: abril de 2020](2020-march.md#3). |9 de marzo |
-| Ofertas/mercados | [Los nuevos productos de Dynamics 365 se publicarán el 1 de abril de 2020](2020-march.md#2). |2 de marzo |
-| Ofertas/mercados | [Protección contra amenazas avanzada de Microsoft Defender (MDATP) independiente está ahora disponible para CSP](2020-march.md#1). | 2 de marzo |
-| **Categoría** | **Anuncios de febrero de 2020** | **Fecha** |
-| Ofertas/mercados | [Nuevo proceso para enviar las solicitudes de crédito por la retención de impuestos](2020-february.md#9). | 25 de febrero |
-| Funcionalidades | [Ya está disponible la nueva funcionalidad de aceptación del Contrato de cliente de Microsoft.](2020-february.md#8) | 25 de febrero |
-| Ofertas/mercados | [Versión preliminar de marzo de la lista de precios basada en licencias actualizada](2020-february.md#7). | 19 de febrero |
-| Funcionalidades | [Transición de las directivas de base de referencia a los valores predeterminados de seguridad antes del 29 de febrero de 2020](2020-february.md#6). | 12 de febrero |
-| Ofertas/mercados | [Presentación de ofertas de Audioconferencia a clientes multinacionales con usuarios en India el 1 de febrero de 2020](2020-february.md#5). | 5 de febrero |
-| Funcionalidades | [Nuevas API de hoja de precios y tipos de cambio para los precios de los planes de Azure](2020-february.md#4). |4 de febrero |
-| Funcionalidades | [Cambios en la experiencia de soporte técnico del Centro de partners](2020-february.md#3). | 4 de febrero |
-| Funcionalidades | [Ahora se requiere: la aceptación del Contrato de cliente de Microsoft en el programa CSP](2020-february.md#2). | 4 de febrero |
-| Ofertas/mercados | [Microsoft publicó nuevos productos de Dynamics 365 el 1 de febrero de 2020](2020-february.md#1). | 3 de febrero |
-| **Categoría** | **Anuncios de enero de 2020** | **Fecha** |
-| Ofertas/mercados | [Disponibilidad de las suscripciones de Windows Server y SQL Server para los partners del programa Proveedor de soluciones en la nube (CSP) en Rusia desde el 1 de febrero de 2020](2020-january.md#7). | 31 de enero |
-| Ofertas/mercados | [Sala de reuniones y Complemento de reuniones para Microsoft 365 F1 ahora están disponibles en Government Community Cloud (GCC)](2020-january.md#6). | 29 de enero |
-| Funcionalidades | [¡Ya está disponible! Compra de autoservicio para Power Apps y Power Automate para clientes comerciales de EE. UU.](2020-january.md#5) | 28 de enero |
-| Funcionalidades | [Anuncio de un nuevo panel de informes en el Centro de partners](2020-january.md#4). |27 de enero |
-| Funcionalidades | [No olvides confirmar la aceptación del Contrato de cliente de Microsoft antes del 31 de enero de 2020](2020-january.md#3). | 27 de enero |
-| Funcionalidades | [Lista de precios y programación de actualizaciones de ofertas para enero de 2020](2020-january.md#2). | 7 de enero |
-| Ofertas/mercados | [Microsoft lanzó nuevos productos de Dynamics 365 y lanzará más el 1 de febrero de 2020](2020-january.md#1). | 2 de enero |
