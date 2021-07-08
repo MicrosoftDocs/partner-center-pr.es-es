@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277001"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510200"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Cambio de tamaño de VM de Microsoft Azure para el uso de reserva máximo
 
@@ -23,7 +23,7 @@ ms.locfileid: "112277001"
 En este artículo se explica cómo cambiar el tamaño de una máquina virtual (VM) a las necesidades informáticas de los clientes al comprar Microsoft Azure reservas para ellos.
  
 > [!NOTE]
-> Este artículo solo se aplica a los asociados del programa Proveedor de soluciones en la nube (CSP). Los clientes que usan otros tipos de suscripciones (por ejemplo, suscripciones de pago por uso, individuales, Contrato de cliente de Microsoft o Contrato Enterprise) deben leer en su lugar esta documentación de [reservas de Azure](/azure/cost-management-billing/reservations).
+> Este artículo solo se aplica a los asociados del programa Proveedor de soluciones en la nube (CSP). Los clientes que usan otros tipos de suscripciones (por ejemplo, suscripciones de pago por [uso,](/azure/cost-management-billing/reservations)individuales, Contrato de cliente de Microsoft o Enterprise Agreement) deben leer en su lugar esta documentación de reservas de Azure .
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Determinación del tamaño de máquina virtual de la reserva de Azure de un cliente
 
@@ -48,11 +48,11 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 
 2. Para obtener más información, consulte [Obtener los registros de](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) uso de un cliente para Azure en Centro de partners [API](/partner-center/develop/).
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Obtener información de tamaño de máquina virtual mediante el Microsoft Azure Portal
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Obtener información de tamaño de máquina virtual mediante Microsoft Azure portal
 
 1. En Centro de partners, vaya a la **página** Clientes.
 
-2. Busque el cliente que quiere comprar reservas de máquinas virtuales de Azure y, a continuación, seleccione la flecha abajo para expandir la información del cliente. Seleccione **Portal de administración de Microsoft Azure** para abrir el registro del cliente en el Azure Portal.
+2. Busque el cliente que quiere comprar reservas de máquinas virtuales de Azure y, a continuación, seleccione la flecha abajo para expandir la información del cliente. Seleccione **Microsoft Azure Portal de administración** para abrir el registro del cliente en el Azure Portal.
 
 3. Seleccione **Máquinas virtuales en** el menú del portal y, a continuación, seleccione la máquina virtual para la que quiere comprar una reserva.
 
@@ -70,7 +70,7 @@ Use la información de la imagen siguiente para obtener la ubicación y el tama�
 
 1. Con ARMClient o las API de ARM, llame al cliente de ARM para la máquina virtual para la que desea comprar una reserva.
 
-2. /subscriptions/ <Subscription ID> /resourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ?api-version=2017-12-01
+2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
 3. La llamada devuelve los valores de **vmSize** y **location**, como se muestra a continuación.
 
@@ -91,11 +91,11 @@ A continuación se proporcionan instrucciones para usar cada uno de estos métod
 >[!NOTE]
 >Solo la API de uso de Azure muestra a qué máquina virtual se aplica el descuento.  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Compruebe el uso de reservas del cliente en la Microsoft Azure Portal
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Comprobación del uso de reservas del cliente en el portal Microsoft Azure cliente
 
 1. En Centro de partners, vaya a la **página** Clientes.
 
-2. Busque el cliente cuyo descuento y uso de reserva desea comprobar y, a continuación, seleccione la flecha abajo para expandir la información del cliente. Seleccione **Portal de administración de Microsoft Azure** para abrir el registro del cliente en el Azure Portal.
+2. Busque el cliente cuyo descuento y uso de reserva desea comprobar y, a continuación, seleccione la flecha abajo para expandir la información del cliente. Seleccione **Microsoft Azure Portal de administración** para abrir el registro del cliente en el Azure Portal.
 3. Seleccione **Reservas en el** menú del portal y, a continuación, seleccione la reserva para la que desea comprobar el uso.
 4. En la **página Información** general, compruebe el gráfico de uso de la reserva, que muestra la cantidad de la reserva que se aplicó a las máquinas virtuales.
 
@@ -124,7 +124,7 @@ Puede obtener datos de uso de reservas con la API de uso de Azure para comprobar
 Para obtener más información, consulte [Obtener los registros de](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) uso de un cliente para Azure en Centro de partners [API](/partner-center/develop/).
 
 >[!IMPORTANT]
->Los costos de software, como Microsoft Windows Server, no se incluyen actualmente en el precio de una reserva de máquina virtual y aparecerán como elementos de línea independientes en el registro de pedido y en la factura. Sin embargo, si un cliente tiene la Ventaja de uso híbrido de Azure, no se aplicarán los costos de software. Para obtener más información, vea [Costos de software de Windows no incluidos con instancias reservadas.](/azure/billing/billing-reserved-instance-windows-software-costs)  
+>Los costos de software, como Microsoft Windows Server, no se incluyen actualmente en el precio de una reserva de máquina virtual y aparecerán como elementos de línea independientes en el registro de pedido y en la factura. Sin embargo, si un cliente tiene la Ventaja de uso híbrido de Azure, no se aplicarán los costos de software. Para obtener más información, [vea Windows costos de software no incluidos con instancias reservadas.](/azure/billing/billing-reserved-instance-windows-software-costs)  
 
 ## <a name="next-steps"></a>Pasos siguientes
 
