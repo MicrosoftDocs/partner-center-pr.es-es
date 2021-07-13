@@ -9,18 +9,16 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 7ceba7e72b78b5bedb89209105c3819f90cf8153
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740325"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147163"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para inscribirse como partner de facturación directa de CSP
 
-**Roles adecuados**
-
-- Administrador global
+**Roles apropiados**: administrador global
 
 ## <a name="enroll-as-a-direct-partner"></a>Inscribirse como partner directo
 
@@ -33,7 +31,7 @@ Como partner de factura directa, tiene la relación integral con el cliente y co
 |**Id. de MPN**   |Una pertenencia a Microsoft Partner Network activa y un id. de MPN para la ubicación en la que quiera realizar las ventas.   |
 |**Aprobación**   |Autoridad para aceptar y firmar contratos legales en nombre de tu organización.|
 |**Soporte técnico**   |Capacidad para proporcionar el primer nivel de soporte técnico de producto en la nube a los clientes. <br/>Un plan de soporte técnico de Microsoft, ya sea Soporte técnico avanzado para partners (ASfP) o Soporte Premier para partners (PSfP), dependiendo de tus necesidades. [Comparar planes de soporte técnico](https://partner.microsoft.com/support/partnersupport).<br/>IMPORTANTE: Debes superar una comprobación de crédito para poder comprar un plan de soporte técnico. Le enviaremos un correo electrónico cuando supere la comprobación de crédito. |
-|**Requisito de ingresos**|Debe tener unos ingresos anuales de al menos 300 000 USD en el programa Proveedor de soluciones en la nube durante los últimos doce meses como revendedor indirecto. Compruebe que su organización cumple los requisitos de [análisis del Centro de partners](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). Los asociados pueden revisar los ingresos de los últimos doce meses en el Centro de partners.<br/>Las ventas que componen los ingresos de 300 000 USD de los últimos doce meses están sujetas a revisiones y verificación por parte de Microsoft y es posible que se le pida que proporcione información adicional. El requisito de ingresos de 300 000 USD se calcula en función de los ingresos en la nube y excluirá el software perpetuo en CSP.|
+|**Requisito de ingresos**|Debe tener unos ingresos anuales de al menos 300 000 USD en el programa Proveedor de soluciones en la nube durante los últimos doce meses como revendedor indirecto. Compruebe que su organización cumple los requisitos de [análisis del Centro de partners](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). Los partners pueden revisar los ingresos de los últimos doce meses en el Centro de partners.<br/>Las ventas que componen los ingresos de 300 000 USD de los últimos doce meses están sujetas a revisiones y verificación por parte de Microsoft y es posible que se le pida que proporcione información adicional. El requisito de ingresos de 300 000 USD se calcula en función de los ingresos en la nube y excluirá el software perpetuo en CSP.|
 |**Requisito de CSP**|Debe realizar transacciones como revendedor indirecto durante un mínimo de 12 meses.| 
 |**Clientes** |Infraestructura organizativa destinada a administrar la facturación y el aprovisionamiento a clientes|
 |**Recomendación**|             |

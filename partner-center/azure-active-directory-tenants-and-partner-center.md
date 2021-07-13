@@ -8,20 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534801"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318068"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crea una cuenta profesional que vincule tu empresa con tu cuenta del Centro de partners.
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador del control de usuarios
+**Roles adecuados**: Administrador global | Administrador de control de usuarios
 
 ## <a name="why-you-need-a-work-account"></a>¿Por qué se necesitas una cuenta profesional?
 
@@ -34,7 +31,7 @@ Tu cuenta profesional o correo electrónico del trabajo es la dirección de corr
 Si tienes más de una dirección de correo electrónico del trabajo válida, usa la que esté asociada a tu sede corporativa en lugar de al departamento regional. Por ejemplo, usa el correo electrónico `contoso.com` en lugar de la dirección `contoso.uk`.
 
 > [!NOTE]  
-> Antes de decidir si usar una cuenta profesional existente, piensa en cuántos usuarios de la cuenta necesitarán trabajar en el Centro de partners. Si tienes usuarios en la cuenta que no tendrán que trabajar en el Centro de partners, piensa en crear una nueva cuenta para solo aquellos usuarios que tendrán que trabajar en el Centro de partners.
+> Antes de usar una cuenta profesional existente, piense en cuántos usuarios de la cuenta profesional necesitarán acceso al Centro de partners. Si tiene usuarios en la cuenta profesional que no necesitarán acceso al Centro de partners, piense en crear una nueva cuenta solo para aquellos usuarios que sí lo necesitarán.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>¿No estás seguro de si tu empresa ya tiene una cuenta profesional?
 
@@ -42,7 +39,7 @@ Si no estás seguro de si tu empresa tiene una cuenta profesional, sigue estos p
 
 1. Inicie sesión en [Azure Portal](https://portal.azure.com).
 
-2. Selecciona Azure Active Directory en el menú y luego selecciona Nombres de dominio.
+2. Seleccione Azure Active Directory en el menú de navegación y elija **Nombres de dominio personalizados**.
 
 3. Si ya tienes una cuenta profesional, se mostrará tu nombre de dominio.
 

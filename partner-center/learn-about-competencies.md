@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178874"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989349"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Destaque su negocio consiguiendo competencias de Microsoft
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador del control de usuarios
+**Roles adecuados**: Administrador global | Administrador de control de usuarios
 
 Demuestre su experiencia probada en ofrecer soluciones de calidad en una o más áreas especializadas de negocio. Las competencias de Microsoft están diseñadas para prepararte para satisfacer las necesidades de los clientes y para ayudarte a atraer a nuevos clientes que buscan proveedores de soluciones certificados por Microsoft. Únase al nivel élite de partners de Microsoft y destaque entre sus compañeros.
 
@@ -74,4 +71,4 @@ Para más información sobre lo que se necesita para obtener las competencias Si
 
 - Vea un [informe de competencias](pci-competencies-report.md) del Centro de partners en el que se muestra el estado actual de sus competencias.
 
-- Encuentre respuestas a [preguntas frecuentes](competencies-faq.md) acerca de las competencias.
+- Encuentre respuestas a [preguntas frecuentes](competencies-faq.yml) acerca de las competencias.

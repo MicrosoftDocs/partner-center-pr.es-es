@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: Preguntas frecuentes sobre incentivos de evaluación de soluciones
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Obtenga respuestas a las preguntas más frecuentes sobre la evaluación de soluciones en Channel Incentives Platform (CHIP).
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113657382"
+title: Preguntas más frecuentes sobre los incentivos de evaluación de soluciones para Channel Incentives Platform (CHIP)
+summary: >
+  **Roles adecuados:** contacto principal o administrador del programa
+
+
+  A continuación encontrará respuestas a las preguntas más frecuentes.
+sections:
+- name: Omitido
+  questions:
+  - question: >
+      ¿Cuáles son los requisitos de idoneidad para el programa de incentivos de evaluación de soluciones?
+    answer: "Los asociados con estado activo e inscrito en el Programa de incentivos de evaluación de soluciones en el año fiscal 20 seguirán siendo aptos para los incentivos en el año fiscal 21 si tienen una pertenencia a MPN activa y una competencia de MPN Silver o Gold activa. Las calificaciones de los asociados se revisarán anualmente para que sean elegibles.  Si los asociados establecidos no cumplen los requisitos de elegibilidad y participación en el año actual, se quitarán en la próxima revisión anual.  Todos los nuevos asociados se incorpora a través del especialista en evaluación de soluciones (SAS) local en su área.  La SAS identificará los asociados que se incorporarán en función de la coincidencia de aptitudes y conocimientos en la empresa asociada y las necesidades empresariales de las subsidiarias compatibles con la SAS.\nAntes de iniciar el proceso de incorporación, los asociados tendrán que analizar con la SAS las funcionalidades que tiene su empresa para respaldar las evaluaciones en sus localidades. \n\nLos asociados que no están inscritos actualmente en el programa de incentivos deben cumplir los siguientes criterios de incentivos del año fiscal 21 para poder optar a la incorporación del incentivo de evaluación de soluciones. Para obtener más información, [lea Elegibilidad de evaluación de soluciones.](chip-solutions-assessment-eligible.md)\n"
+  - question: >
+      Cómo inscribirse en el programa de incentivos de evaluaciones de soluciones?
+    answer: >
+      Póngase en contacto con el especialista en evaluación de soluciones (SAS) local para iniciar el proceso.
+  - question: >
+      Cómo enviar mis detalles bancarios y fiscales?
+    answer: >
+      Lea [Navegación por chip para](chip-intro.md) obtener instrucciones paso a paso sobre cómo enviar los perfiles fiscales y bancarios.
+  - question: >
+      Mi estado de la oferta se ha aprobado en CHIP. ¿Por qué aún no se ha pagado?
+    answer: >
+      Además del estado de la oferta, el estado de poE también debe aprobarse en CHIP antes de que se pueda enviar la oportunidad para el pago. Revise su oportunidad en CHIP para asegurarse de que el equipo de validación de POE en CHIP ha cargado y aprobado la POE. Para ver el estado de poE, inicie sesión en CHIP y seleccione **Buscar ofertas** en **I Need To...** . Escriba el identificador **de oportunidad** y seleccione **Buscar.** En los resultados de la búsqueda, seleccione el hipervínculo "Editar" en POE. En la página resultante, desplácese hasta la sección "Revisar" para ver el estado de poE. Revise también el campo "Comentarios" en caso de que el equipo de POE haya solicitado información adicional sobre la POE.
+  - question: >
+      ¿Por qué no he recibido ningún pago por el hito 1 por mi oportunidad?
+    answer: >
+      A partir del 15 de agosto de 2020, el hito 1 se paga en el 0 % del nivel de incentivo aprobado y el hito 2 se paga al 100 % del nivel de incentivo aprobado. Todas las interacciones abiertas registradas con CHIP anteriores al 15 de agosto de 2020 se seguirán recibiendo según las instrucciones del año 2020. Revise las preguntas [más frecuentes sobre asociados](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) para obtener instrucciones sobre los cambios en el proceso de hito.
+  - question: >
+      ¿Cómo disito de una oportunidad o pago que he recibido?
+    answer: >
+      Póngase en contacto con su SAS, que puede proporcionar instrucciones con esta solicitud.
+  - question: >
+      La oportunidad se cierra en CHIP, lo que me impide cargar poE. ¿Qué puedo hacer para obtener la oportunidad pagada?
+    answer: >
+      Una vez cerrada una oportunidad, ya no es apta para incentivos. Para obtener más instrucciones, puede comunicarse con su SAS.
+  - question: >
+      Cómo agregar un nuevo administrador o usuario a CHIP?
+    answer: >
+      El contacto principal del asociado (administrador) tiene la responsabilidad de invitar a todos los demás usuarios de la empresa a inscribirse en CHIP. También son responsables del acceso de los usuarios, incluida la desactivación de los usuarios que abandonan la empresa. Lea la Guía [de la plataforma de incentivos de canal](chip-intro.md).
+  - question: >
+      El administrador principal ha dejado nuestra empresa. ¿Cómo se cambia el administrador principal en CHIP?
+    answer: >
+      El administrador principal de CHIP debe ser el contacto principal del asociado en MPN. Asegúrese de que MPN está actualizado con el nuevo contacto y póngase en contacto con el equipo de soporte técnico regional para solicitar el cambio en CHIP.
+
+
+      En el panel Centro de partners, seleccione **Soporte técnico** en el menú izquierdo. Seleccione **Incentivos como** categoría o busque el nombre del programa en el área "Examinar temas".
+
+
+      Después de ver la ayuda específica del tema disponible, si todavía necesita ayuda, puede crear una vale directamente desde la opción Documentos recomendados : crear una vale **de soporte** técnico.
+additionalContent: "\n## <a name=\"next-steps\"></a>Pasos siguientes\n\n- [Navegación por CHIP](chip-intro.md)"

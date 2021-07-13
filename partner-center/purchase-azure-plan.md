@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854968"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013342"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre el plan de Azure para clientes y acceda a los servicios de Azure más recientes con tarifas de pago por uso
 
+**Se aplica a**: Centro de partners 
+
 **Roles adecuados:** Administrador global | Administrador de usuarios | Agente de ventas
 
-Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners de CSP podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Un partner puede tener varias suscripciones de Azure en un plan de Azure. 
+Cuando compres un plan de Azure para tus clientes en virtud del Acuerdo de cliente de Microsoft, tendrás acceso al catálogo completo de los últimos servicios de Azure con las tarifas de pago por uso. Los partners del programa Proveedor de soluciones en la nube (CSP) podrán acceder a cualquier servicio de Azure cuando esté disponible de forma general. Un partner puede tener varias suscripciones de Azure en un plan de Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilidad de país y región
 
@@ -31,9 +33,9 @@ La nueva experiencia comercial en CSP para Azure está actualmente programada pa
 La forma de comprar el plan de Azure es similar a la compra de cualquier otra suscripción. La diferencia clave es que antes de realizar tu pedido, debes confirmar que tu cliente haya firmado el Acuerdo de cliente de Microsoft.
 
 1. Selecciona **Segment Commercial** (Segmento Comercial) y escribe **Microsoft Azure**. 
-2. En el plan Azure, selecciona **Add to cart** (Agregar al carrito).
+2. En el plan de Azure, seleccione **Agregar al carro**.
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Compra":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Compra.":::
 
 El partner debe confirmar que el cliente haya leído y aceptado los términos del Acuerdo de cliente de Microsoft. Para obtener más información sobre cómo el partner puede hacer esto, consulta [Confirmar la aceptación del cliente del Acuerdo de cliente de Microsoft](confirm-customer-agreement.md). Tienes otros recursos disponibles en la [galería de recursos](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -78,7 +80,7 @@ Las reservas de Azure deben estar asociadas con un plan de Azure activo. Elige e
 >[!Note]
 >Actualmente, el ámbito de la reserva solo se puede establecer en **Compartido** en el Centro de partners. Para seleccionar el ámbito de una sola suscripción o actualizar el ámbito de suscripción compartida a suscripción única, vaya al **portal de administración de Microsoft Azure** mediante las siguientes instrucciones. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Configuración de reservas de ámbito compartido":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Configuración de reservas de ámbito compartido.":::
 
 Para administrar la reserva del cliente en Azure Portal: 
 
@@ -90,12 +92,12 @@ Para administrar la reserva del cliente en Azure Portal:
 
 Desde la página de **suscripciones** , en la sección basada en el uso, amplía el **plan de Azure** para ver las suscripciones de Azure asociadas al plan de Azure en cuestión.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Ver la lista de suscripciones a Azure"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Ver la lista de suscripciones a Azure."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Agregar suscripciones y configurar recursos
 
-Podrás agregar suscripciones y configurar recursos para tu cliente en Azure Portal. También puedes separar el entorno del cliente en función de la carga de trabajo o el proyecto. Es posible administrar las suscripciones mediante [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/), así como Azure Portal. 
+Podrás agregar suscripciones y configurar recursos para tu cliente en Azure Portal. También puedes separar el entorno del cliente en función de la carga de trabajo o el proyecto. Es posible administrar las suscripciones mediante [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) y Azure Portal. 
 
 Para administrar los recursos y las suscripciones del cliente, necesitarás privilegios de tipo **Administrar en nombre de** (AOBO). Para obtener información sobre cómo administrar el acceso, consulta [Administrar suscripciones y recursos mediante el plan de Azure](azure-plan-manage.md)
 

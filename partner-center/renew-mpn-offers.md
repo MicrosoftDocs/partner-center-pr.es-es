@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855682"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551680"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renueve las ofertas de MPN para las competencias y las especializaciones avanzadas durante la ventana de renovación.
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855682"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respuesta a la COVID-19: actualización de Microsoft Partner Network
 
-Microsoft ofrece una extensión de competencia (excepto por la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario (AD) que oscilen entre el 1 de enero de 2021 y el 30 de junio de 2021. Para obtener más información, consulte la [entrada de blog para partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Microsoft ofrece una extensión de competencia (excepto para la competencia de las aplicaciones empresariales de nube) y una extensión de especialización avanzada para partners con fechas de aniversario entre el 1 de enero de 2021 y el 30 de junio de 2021. Para obtener más información, consulte la [entrada de blog para partners](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Recordatorios de renovación
 
@@ -40,7 +40,7 @@ Si renuevas durante la ventana de renovación, tu nueva fecha de aniversario ser
 
 4. Para beneficiarte de esta oferta, ve a **Ofertas de suscripción**. Es posible que debas pagar la tarifa de competencia para completar el proceso, en función del estado de compra o renovación de la competencia.
 
-Para beneficiarte de la extensión, debes haber migrado la pertenencia de Partner Membership Center (PMC) al Centro de partners para renovar la competencia y pagar la tarifa. Si no ha trasladado su pertenencia, [obtenga más información](prepare-pmc-pc-migration.md) y [haga la transición](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoy mismo.  
+Para beneficiarte de la extensión, debes haber migrado la pertenencia de Partner Membership Center (PMC) al Centro de partners para renovar la competencia y pagar la tarifa. Si no ha trasladado su pertenencia, [obtenga más información](partner-membership-center-retirement-faq.md) y [haga la transición](https://partners.microsoft.com/partnerprogram/Welcome.aspx) hoy mismo.  
 
 ## <a name="next-steps"></a>Pasos siguientes
 

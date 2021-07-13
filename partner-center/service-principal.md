@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854934"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551561"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Incorporación de una aplicación de Azure AD (entidad de servicio) en el Centro de partners
 
 **Roles apropiados**: administrador global
 
-En el programa de Marketplace comercial del Centro de partners, ahora puedes agregar una aplicación de Azure AD (entidad de servicio) como usuario en tu cuenta del Centro de partners. (Antes podía hacerlo en la cuenta de Cloud Partner Portal, o CPP. Ahora que ha migrado al Centro de partners, la cuenta de CPP es de solo lectura).
+En el programa Marketplace comercial del Centro de partners, ahora puede agregar una aplicación (entidad de servicio) de Microsoft Azure Active Directory (Azure AD) como usuario en su cuenta del Centro de partners. (Antes podía hacerlo en la cuenta de Cloud Partner Portal, o CPP. Ahora que ha migrado al Centro de partners, la cuenta de CPP es de solo lectura).
  
 >[!Note] 
 >La entidad de servicio es sinónimo de aplicación de Azure AD.
@@ -33,7 +33,7 @@ En el programa de Marketplace comercial del Centro de partners, ahora puedes agr
 
 3. Selecciona una aplicación de Azure AD existente o crea una nueva.
 
-4. Si creas una nueva aplicación de Azure AD, incluye la siguiente información:  
+4. Si crea una nueva aplicación de Azure AD, incluya la siguiente información:  
 
    - **URL de respuesta**: dirección URL en la que los usuarios pueden iniciar sesión para usar la aplicación de Azure AD.
 

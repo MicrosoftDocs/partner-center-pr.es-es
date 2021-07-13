@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924970"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277121"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de precios para la nueva experiencia comercial en CSP para Azure
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de facturación
-- Administrador global
-- Agente del departamento de soporte técnico
-- Agente de ventas
-- Administrador del control de usuarios
+**Roles adecuados**: Agente de administración | Administrador de facturación | Administrador global | Agente de soporte técnico | Agente de ventas | Administrador de control de usuarios
 
 La lista de precios para la nueva experiencia comercial de Azure en CSP se publica en el Centro de partners. Asimismo, esta lista de precios se entrega dinámicamente en un archivo preciso en tiempo real y los precios se muestran solo en USD. A partir del 28 de enero de 2021, se facturará a los partners de la región de la UE/AELC y el Reino Unido que tengan nuevos clientes y clientes de CSP existentes que adquieran nuevas ofertas de comercio por primera vez y cuyos inquilinos se hayan creado antes del 11 de mayo de 2020 por esas compras en la moneda de la ubicación del partner.  A los partners situados fuera de la región de la UE/AELC y el Reino Unido se les seguirá facturando en la moneda de la ubicación del partner. Para obtener más información, consulte [Plan de Azure: facturación](azure-plan-billing.md).
 
@@ -42,7 +35,7 @@ La lista de precios para la nueva experiencia comercial de Azure en CSP se publi
 
 4. Junto a **Pricing for date** (Precios en función de la fecha), selecciona la fecha que quieras; por ejemplo, **Current** (Actual).
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="Específico del país":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="Específico del país.":::
 
 >[!NOTE] 
 >Puedes exportar dos listas de precios diferentes: precios del plan de Azure y precios de terceros de Marketplace.

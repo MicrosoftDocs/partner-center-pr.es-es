@@ -1,7 +1,7 @@
 ---
 title: 'Facturación del plan de Azure: facturas y archivos de conciliación'
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprende a obtener acceso y a comprender la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure.
@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924998"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551527"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nueva experiencia comercial en CSP: facturación de Azure 
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de facturación
-- Administrador global
+**Roles adecuados**: Agente de administración | Administrador de facturación | Administrador global
 
 En este artículo se describe cómo acceder a la estructura del archivo de conciliación y facturación relacionado con la facturación del plan de Azure, así cómo comprenderla. La facturación del plan Azure es una experiencia de facturación simplificada que usa una fecha de facturación única alineada y un período de facturación basado en los meses del calendario.
 
@@ -52,7 +48,7 @@ Para acceder a la factura y al archivo de conciliación:
 
 3. Selecciona la pestaña de **Periódico** y **Una vez** y la moneda que te interese.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="facturación":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Facturación.":::
 
 4. Selecciona **Factura** o **Archivo de conciliación**.  
 
@@ -106,7 +102,7 @@ Para acceder a la factura y al archivo de conciliación:
 
 5. Revisa el archivo de conciliación de facturas y el archivo de uso con clasificación diaria para obtener los detalles adicionales de facturación.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="factura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Factura.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Lectura del archivo de conciliación de facturas
 
@@ -117,6 +113,9 @@ Para acceder a la factura y al archivo de conciliación:
 3. Si no existen recursos para un medidor concreto que es apto para el descuento o el crédito obtenido del partner, el archivo de conciliación solo contendrá una línea de facturación y el precio por unidad vigente será el precio de venta al por menor (que es el precio por unidad).
 
 4. Si el medidor (o cualquier recurso que este emita) es apto para el **crédito obtenido del partner para los servicios administrados** durante una parte del mes, el archivo de conciliación contendrá dos líneas de facturación. Una línea representará los días que el medidor haya calificado y la segunda línea representará los días que el medidor no calificó.
+
+>[!NOTE]
+>Puede conciliar el consumo de Azure en el archivo de conciliación de una sola compra. Para ello, vaya al archivo de conciliación de uso clasificado diariamente y busque su subscriptionID. Se mostrarán todos los costos asociados con su identificador del plan de Azure. Su SubscriptionID de Azure se muestra como EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Leer el archivo de uso diario
 
@@ -134,13 +133,15 @@ Para acceder a la factura y al archivo de conciliación:
 
   - El medidor es apto para el **crédito obtenido del partner por los servicios administrados** del 8/7 al 31/7 (ten en cuenta que el precio unitario efectivo es el precio del minorista menos el crédito obtenido del partner).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Factura en la moneda del cliente
 
 Los servicios de Azure a través de un plan de Azure tendrán un precio de USD y se facturarán en la moneda asignada en el país del cliente. Si la moneda de facturación no es USD, el tipo de cambio usado se mostrará en la última página de la factura. Los tipos de cambio se determinan mensualmente y se aplican a la factura siguiente. Para obtener una lista completa de las monedas de los países, consulta la [matriz de moneda del cliente y la disponibilidad de los países en cuanto a las nuevas ofertas comerciales](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Microsoft realiza la conversión de acuerdo con la Bolsa de Londres. El tipo de cambio usado equivale al tipo de cambio capturado el último segundo del último día laborable del mes en la Bolsa de Londres. Los tipos de cambio se actualizarán y estarán disponible el día anterior al primer día del mes para el que se aplican.
+Microsoft aplica un tipo de cambio predeterminado a los precios en USD base para llegar a los cargos totales en los que se incurre por los servicios de Azure adquiridos o consumidos cada mes natural. El tipo de cambio mensual es el tipo de cambio medio publicado por Thomson Reuters (normalmente) dos días laborables antes del fin de mes anterior a las 16:00 GMT. 
+
+**Por ejemplo,** el tipo de cambio de diciembre de Microsoft sería el tipo de cambio medio de Thomson Reuters el 29 de noviembre o una fecha aproximadamente para una moneda determinada. Dicho tipo se aplicará a todas las compras en esa moneda del 1 al 31 de diciembre. 
 
 ## <a name="azure-reservations"></a>Reservas de Azure
 
@@ -158,7 +159,7 @@ La experiencia existente de gasto de Azure se ha actualizado para admitir la nue
 
 Dado que el modelo de facturación para los servicios de Azure a través de un plan de Azure es el consumo de pago posterior, para evitar recibir una factura más grande de lo previsto, los partners pueden aplicar un presupuesto mensual y realizar un seguimiento del porcentaje de uso. Se puede aplicar un presupuesto a un cliente o a varios clientes al mismo tiempo. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos de Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos de Azure.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

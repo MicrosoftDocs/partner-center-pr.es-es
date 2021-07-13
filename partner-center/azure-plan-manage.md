@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534937"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277154"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Administración de suscripciones y recursos en el plan de Azure
 
-**Roles adecuados**
-
-- Agente de administrador
+**Roles adecuados**: Agente de administración
 
 
 Obtenga información sobre cómo los asociados de CSP pueden usar diferentes opciones de control de acceso basado en roles (RBAC) para obtener el control operativo y poder administrar los recursos de Azure de un cliente. Al realizar la transición de un cliente al plan de Azure, se le asignan derechos de administrador con privilegios en Azure (derechos de propietario de la suscripción a través de administración en nombre de) de manera predeterminada.
@@ -38,7 +36,7 @@ Obtenga información sobre cómo los asociados de CSP pueden usar diferentes opc
 
 Microsoft recomienda que los usuarios tengan los permisos mínimos que necesitan para realizar su trabajo como práctica de seguridad. Consulte [Recursos de Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Vinculación del id. de partner (identificador de MPN) con las credenciales para administrar los recursos de Azure del cliente
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Vinculación del id. de partner (identificador de MPN) con las credenciales para administrar los recursos de Azure del cliente
 
 En la tabla siguiente se muestran los métodos que se usan para asociar el id. de partner con diversas opciones de acceso RBAC.
 
@@ -61,11 +59,11 @@ Necesita acceso de administrador para administrar los servicios del cliente y re
 
 1. Cree la alerta.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="Alerta de Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Alerta de Azure.":::
 
 2. Seleccione el tipo de acción que quiere que lleve a cabo la alerta. Por ejemplo, si especifica que quiere un correo electrónico, recibirá un mensaje de correo electrónico en el que se le notificará si se elimina alguna asignación de roles.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configuración de la alerta":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Configuración de la alerta.":::
 
 ### <a name="aobo-removal"></a>Eliminación de AOBO
 

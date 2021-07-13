@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740393"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277715"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Administrar la cuenta del Centro de partners: perfil, información bancaria, roles, permisos y otros aspectos de la empresa
 
-**Roles adecuados** 
-
-- Administrador global
-- Administrador de cuentas
+**Roles adecuados**: Administrador global | Administrador de cuentas
 
 La cuenta que crea en el Centro de partners al inscribirse es el correo electrónico del trabajo junto con la información de la empresa. Después de crear una cuenta, tendrá que finalizar la configuración del perfil completo de su empresa, incluidos los detalles de soporte técnico, además de presentar las exenciones fiscales, si fuera necesario, y la información de contacto principal. La cuenta de su compañía también incluirá las cuentas de usuario de cualquier persona del equipo que vaya a usar el Centro de partners. El trabajo que pueden hacer es agregar o administrar clientes, vender suscripciones, trabajar con la facturación, crear perfiles de negocio, administrar referencias, trabajar con programas de incentivos, proporcionar soporte técnico y mucho más.
 
@@ -34,7 +31,7 @@ Consulte también los artículos [Invitar a los empleados a unirse al Centro de 
 
 Todos los partners comerciales y desarrolladores, para acceder a la **Administración de cuentas** en el Centro de partners, deben iniciar sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners y seleccionar **Configuración** (icono de engranaje) en la esquina superior derecha de la pantalla y, a continuación, pulsar en **Configuración de la cuenta**. Ya no tiene que elegir entre la configuración de Partner y Desarrollador. Ahora se combinan todos los perfiles y configuraciones.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="icono de configuración":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Icono de configuración.":::
 
 Esto muestra la página de configuración de la cuenta.
 
@@ -48,7 +45,7 @@ Tanto si es un partner como un desarrollador, puede usar el id. de MPN como regi
 
 Al seleccionar el icono de **Configuración** y abrir el menú de **Configuración de la cuenta**, la vista predeterminada, si la empresa forma parte del programa Proveedor de soluciones en la nube, es **Información legal**, que muestra dos pestañas: **Partner** y **Revendedor**. Cada pestaña incluye aspectos del negocio.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="El menú muestra pestañas para partners y revendedores":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="El menú muestra pestañas para partners y revendedores.":::
 
 La pestaña Asociado incluye toda la información empresarial legal, como el nombre legal registrado y la dirección de la empresa, así como el contacto principal y las ubicaciones empresariales. La pestaña Revendedor para partners que realizan negocios de CSP incluye el **Perfil de asistencia al cliente**.
 
@@ -58,7 +55,7 @@ Si la compañía no participa en CSP, la vista predeterminada solo mostrará la 
 
 Puedes formar parte de más de una cuenta. Puede comprobar si forma parte de varias cuentas mediante la presencia del "selector de cuentas" en el menú de navegación izquierdo.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificación del selector de cuentas":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identificación del selector de cuentas.":::
 
 Si no ve el selector de cuentas, significa que solo forma parte de una cuenta. 
 
@@ -66,7 +63,7 @@ Al seleccionar este selector, todas las cuentas de las que forma parte aparecen 
 
 En el ejemplo siguiente, el usuario que inició sesión forma parte de las tres cuentas resaltadas. Para cambiar entre ellas, puede hacer clic en la que quiera.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Cuentas de las que forma parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Cuentas de las que forma parte.":::
 
 ## <a name="organization-profile"></a>Perfil de la organización
 

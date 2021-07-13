@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086369"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276015"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Requisito de autenticación multifactor (MFA) para el inquilino del partner
 
-**Roles adecuados**
-
-- Agente de administrador
-- Agente de ventas
-- Agente del departamento de soporte técnico
-- Administrador de facturación
-- Administrador global
+**Roles adecuados**: Agente de administración | Agente de ventas | Agente de soporte técnico | Administrador de facturación | Administrador global
 
 En este artículo se proporcionan ejemplos detallados e instrucciones para requerir la autenticación multifactor (MFA) en el Centro de partners. La intención de esta característica es ayudar a los partners a proteger su acceso a los recursos de clientes frente al riesgo de las credenciales. Los partners tienen la obligación de aplicar MFA a todas las cuentas de usuario de su inquilino de partner, incluidos los usuarios invitados. Los usuarios deberán completar la verificación de MFA para las siguientes áreas:
 
@@ -184,11 +178,11 @@ Esta característica afecta a todas las aplicaciones de partner que se integran 
 
 Durante la comprobación de MFA, si la cuenta de partner no se ha registrado para MFA previamente, Azure AD le pedirá al usuario que complete primero el registro de MFA:
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="Paso 1 del registro de MFA":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="Paso 1 del registro de MFA.":::
 
 Después de hacer clic en **Siguiente**, se le pedirá al usuario que elija entre una lista de métodos de verificación.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Paso 2 del registro de MFA":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Paso 2 del registro de MFA.":::
 
 Después de que el registro se haya realizado correctamente, es necesario que el usuario complete la comprobación de MFA en función de la comprobación haya elegido.
  
