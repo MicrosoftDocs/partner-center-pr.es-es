@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: Preguntas más frecuentes sobre incentivos
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Preguntas más frecuentes sobre los incentivos de Microsoft. En este artículo se incluyen preguntas sobre los roles de usuario, cómo inscribirse o qué hacer con los mensajes de error.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753548"
+title: Preguntas más frecuentes sobre incentivos
+summary: >
+  **Roles adecuados:** Administración de incentivos | Usuario de incentivos
+sections:
+- name: Omitido
+  questions:
+  - question: >
+      ¿Necesito ser el administrador global para inscribirme en incentivos?
+    answer: >
+      No. Tanto el administrador global como el administrador de cuenta pueden asignar usuarios como administradores de incentivos. Los administradores de incentivos administran los programas de incentivos de la empresa a través Centro de partners. Para obtener más información, vea [Información general sobre permisos.](permissions-overview.md)
+  - question: >
+      ¿Qué debo hacer si encuentro que mi empresa ya es miembro de la Microsoft Partner Network (MPN)?
+    answer: >
+      Si intenta unirse a MPN y su empresa ya es miembro, MPN reconocerá el dominio y le asociará a la cuenta existente. La cuenta existente puede ser la misma empresa o una empresa relacionada que use el mismo dominio de correo electrónico o el mismo directorio de actividad de Azure (Azure AD) para administrar varios dominios.
+
+
+      Puede identificar el contacto principal desde la página Perfil legal. Si su ubicación es la ubicación de MPNPQ, solo tiene que configurarse con los permisos necesarios para administrar los incentivos. Para obtener más información sobre los roles y permisos, vea la [introducción a los permisos.](permissions-overview.md)
+
+
+      Si no se encuentra en el mismo país que la [](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) ubicación de MPNPQ, consulte instrucciones para cuentas nacionales múltiples para obtener más detalles sobre este escenario.
+  - question: >
+      ¿Qué roles de usuario están disponibles?
+    answer: >
+      La persona que inscribe la empresa en Centro de partners pasa a ser el contacto principal y el administrador global de forma predeterminada. El administrador puede invitar y administrar usuarios en el portal.
+
+
+      Los roles clave para los incentivos son Administrador de incentivos y Usuario de incentivos. El administrador de incentivos puede inscribirse en programas de incentivos y administrar los detalles bancarios y fiscales del asociado. El usuario de incentivos puede ver informes en la herramienta para ver lo que se ha pagado y el desglose de cada pago, pero no puede ver ni editar los detalles bancarios. Ambos roles se pueden aplicar a todas las ubicaciones de la cuenta global del asociado.
+
+
+      Para obtener más información, vea [Información general sobre permisos.](permissions-overview.md)
+  - question: >
+      ¿Cómo puedo averiguar quién tiene derechos de administrador global o de cuenta para mi empresa?
+    answer: "Para buscar un administrador global o un administrador de cuenta que pueda realizar cambios de rol o asignar roles a un nuevo usuario:\n\n1. En el icono Configuración de la cuenta en la parte superior derecha de la Centro de partners, seleccione **Administración de usuarios.**\n2. Filtre por Administrador **global o** Administrador **de cuenta.**\n3. También puede ir a **Mi perfil**, seleccionar Roles y permisos y ver una lista de los **distintos** administradores que pueden ayudarle a elevar los permisos.\n \nPara obtener más información, [vea Buscar el rol](find-your-role.md).  \n"
+  - question: >
+      No puedo acceder a incentivos con mis credenciales.
+    answer: >
+      La razón probable por la que no puede ver incentivos es que no tiene los permisos correctos. Use el procedimiento siguiente para corregirlo.
+
+
+      1. Inicie sesión en [el Centro de partners con](https://partner.microsoft.com/dashboard/) sus credenciales Azure AD inquilino (sus credenciales de trabajo). Si no puede iniciar sesión, póngase en contacto con el administrador global de su empresa.
+
+
+      2. Al iniciar sesión, si se le pide  que seleccione una cuenta de trabajo o una cuenta **personal,** seleccione **Cuenta de trabajo.**
+
+
+      3. En el menú Centro de partners, seleccione **Incentivos** y, a continuación, seleccione **Información general.** Si no tiene permisos de usuario de incentivos o administrador de incentivos, se le mostrará la información de contacto de todos los administradores globales y de cuentas de su empresa. Póngase en contacto con uno de estos administradores para obtener el rol de incentivo para los programas de incentivos y los IDs de MPN necesarios.
+
+
+      4. Si ya tiene un rol de administrador de incentivos, verá las inscripciones de su empresa para los IDs de MPN y los programas de incentivos a los que tiene acceso.
+  - question: >
+      Faltan algunas inscripciones en la página de información general de los incentivos.
+    answer: >
+      Si ha recibido una invitación de o se ha inscrito en un programa de incentivos que ya no está visible en el panel, debe comprobar que tiene el acceso adecuado. Solo los usuarios con el rol de usuario de incentivos o administrador de incentivos pueden ver el programa. Consulte [Buscar el rol](./find-your-role.md).
+
+
+      Si necesita cambiar su rol o permisos, póngase en contacto con el administrador global o de la cuenta de su empresa. Para saber quién son estas personas, lea Find your global admin (Buscar [el administrador global).](./find-your-role.md#find-your-global-admin)
+
+
+      La página Información general solo mostrará las inscripciones asociadas a la cuenta global de asociados (PGA) asociada al Azure AD asociado. Si su empresa tiene más de una PGA, deberá tener credenciales diferentes para cada una.
+  - question: >
+      Quién debo comunicarme si aparece un mensaje de error o necesito ayuda durante el proceso de inscripción?
+    answer: >
+      Hay un servicio de soporte técnico en línea si encuentra algún problema en la sección Incentivos del panel; consulte la opción de soporte técnico (? Icono) en la parte superior derecha.
+additionalContent: "\n## <a name=\"next-steps\"></a>Pasos siguientes\n\n- [Introducción a los incentivos](incentives-get-started-intro.md)"
