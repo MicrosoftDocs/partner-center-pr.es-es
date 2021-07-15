@@ -4,15 +4,15 @@ description: Obtenga información sobre cómo recibir pagos de ganancias como as
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684396"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798143"
 ---
 # <a name="getting-paid-in-partner-center"></a>Obtener el pago en Centro de partners
 
@@ -27,7 +27,7 @@ La obtención del pago requiere que se cumplan los contratos y la directiva de p
 - [Microsoft Azure marketplace Publisher:](/legal/marketplace/msft-publisher-agreement)antes de recibir el pago, debe aceptar este contrato de publicador. En este contrato se explica la relación entre usted y Microsoft en lo que se refiere a las ofertas de vendedores del marketplace comercial, incluida la cuota de tienda que Microsoft cobra por cada venta realizada.
 - [La directiva de pago](payout-policy-details.md) muestra las directivas de pago, incluida la programación de pago y los métodos de pago. La directiva también explica el proceso de impagos del cliente.
 - [En Los detalles fiscales](tax-details-marketplace.md) se explica la consideración fiscal de la selección de precios y la responsabilidad fiscal en el Contrato Publisher [Microsoft](/legal/marketplace/msft-publisher-agreement).
-- **Las tarifas** de la tienda se definen oficialmente en el Publisher de almacenamiento. El precio de la tienda se aplica a todas las ventas de ofertas recopiladas por el marketplace comercial, incluidos los complementos.
+- **Las tarifas de** la tienda se proporcionan oficialmente en [Precios de Marketplace comercial.](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations)
 - **Los** pagos se realizan mensualmente (siempre que se haya cumplido el umbral de pago). Normalmente, los pagos que se deben pagar en un mes determinado se envían el día 15 de ese mes. Los pagos suelen tardar entre 3 y 10 días laborables adicionales en llegar a su cuenta de pago. Para conocer los detalles, consulte [Umbrales de pago, métodos e intervalos de tiempo](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Pasos previos antes de recibir el pago
