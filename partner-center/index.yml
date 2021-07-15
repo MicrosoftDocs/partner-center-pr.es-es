@@ -9,12 +9,12 @@ metadata:
   author: JasonGroce
   ms.author: jasongroce
   ms.date: 02/01/2021
-  ms.openlocfilehash: 430f009e1fd7391ae06e49cb90611346a02b9f6c
-  ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
   ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "111446879"
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113684379"
 landingContent:
 - title: Introducción al Centro de partners
   linkLists:
@@ -60,6 +60,10 @@ landingContent:
       url: azure-plan-lp.md
     - text: Obtención de soporte técnico de Microsoft
       url: support-from-microsoft.md
+    - text: Más información sobre Microsoft 365 Lighthouse
+      url: /microsoft-365/lighthouse/m365-lighthouse-overview
+    - text: Más información acerca de Azure Lighthouse
+      url: /azure/lighthouse/overview
   - linkListType: how-to-guide
     links:
     - text: Administración de las ubicaciones de cuenta de MPN
