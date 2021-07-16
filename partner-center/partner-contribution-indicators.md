@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Obtenga información sobre siete indicadores de contribución de asociados (PCI) que muestran a los asociados cómo lograr una competencia de nube Business Applications silver o gold.
+description: Obtenga información sobre siete indicadores de contribución de asociados (PCI) que muestran a los asociados cómo lograr una competencia de nube Business Applications oro.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb81cf9caaaf9d5c64168b39e52ad010c50630cd
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d69c72984ecf6e87c5ad119d188021c34d0fa801
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276032"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373838"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Usar indicadores de contribución asociados para lograr la competencia de Business Applications en la nube
 
@@ -39,7 +39,7 @@ En este artículo se incluye información sobre:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Información general de los indicadores de contribución de asociados para esta competencia
 
-Los indicadores de contribución de asociados proporcionan una medida holística del impacto de un asociado en la conducción de resultados de clientes correctos y, por tanto, una mayor diferencia en el mercado cuando un partner alcanza o conserva la competencia silver o gold cloud Business Applications.
+Los indicadores de contribución de asociados proporcionan una medida holística del impacto de un partner en la conducción de resultados de clientes correctos y, por tanto, una mayor diferencia en el mercado cuando un partner alcanza o conserva la competencia silver o gold cloud Business Applications.
 
 Con PCI, los asociados reciben crédito por las medidas clave de éxito del cliente, como implementaciones correctas y aumento del uso. Se recompensan por seguir invirtiendo y escalando horizontalmente sus funcionalidades técnicas.
 
@@ -101,7 +101,7 @@ Cada indicador aporta una puntuación que se agrega al total. Estas son las punt
 |Éxito del cliente: crecimiento mensual de usuarios activos  | 25 puntos |
 
 La imagen siguiente ofrece una referencia visual rápida.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Muestra un gráfico con las puntuaciones máximas posibles para cada uno de los siete indicadores de contribución de asociados (PCI)." border="false":::
+:::image type="content" source="images/insights/perfnew.png" alt-text="Muestra un gráfico con las puntuaciones máximas posibles para cada uno de los siete indicadores de contribución de asociados (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Umbrales para cada métrica de PCI para esta competencia
 
@@ -111,12 +111,12 @@ Tenga en cuenta que 4 métricas se miden en función de la ubicación en la que 
 
 En la tabla siguiente se muestra qué ubicación se aplica por métrica.
 
-| Nombre de métrica | Location |
+| Nombre de métrica | Ubicación |
 |:-------|:--------|
 | Ingresos netos nuevos | Ubicación del cliente |
 | Net customer add | Ubicación del cliente |
 | Consultor funcional | Ubicación de partner |
-| Developer | Ubicación de partner |
+| Desarrollador | Ubicación de partner |
 | Crecimiento de consultores funcionales | Ubicación de partner |
 | Crecimiento de MAU | Ubicación del cliente |
 | Nuevas implementaciones de gran tamaño | Ubicación del cliente |
@@ -183,7 +183,7 @@ Use la siguiente lista para ir rápidamente a una definición específica:
 - [Definiciones de nuevos ingresos netos](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
 - [Definiciones de net customer adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
 - [Definiciones de consultores funcionales](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
-- [Definiciones para el crecimiento del consultor funcional](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+- [Definiciones para el crecimiento de consultores funcionales](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
 - [Definiciones para desarrolladores](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 - [Definiciones de nuevas implementaciones grandes](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
 - [Definiciones para el crecimiento mensual de usuarios activos](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
@@ -192,117 +192,117 @@ Use la siguiente lista para ir rápidamente a una definición específica:
 
 Los nuevos ingresos netos son un [indicador de rendimiento.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
-- Los nuevos ingresos netos se definen como nuevos ingresos netos facturados en todos los canales de ventas para productos de Dynamics 365 aptos.
-- Los nuevos ingresos netos se suman durante un período final de 12 meses con una ganancia máxima posible de 10 puntos.
-- Los puntos de ingresos nuevos netos se calculan como facturaciones menos créditos y se agregan durante 12 meses.
-- Los ingresos netos nuevos se calculan en función de los siguientes productos calificados:
+- Los nuevos ingresos netos se definen como nuevos ingresos netos facturados en todos los canales de ventas para los productos de Dynamics 365 aptos.
+- Los nuevos ingresos netos se suman en un período final de 12 meses con una ganancia máxima posible de 10 puntos.
+- Los puntos de ingresos netos nuevos se calculan como facturaciones menos créditos y se agregan durante 12 meses.
+- Los nuevos ingresos netos se calculan en función de los siguientes productos calificados:
   - Los productos aptos para Customer Engagement incluyen: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent y Enterprise Team Member.
   - Los productos aptos para finanzas y operaciones incluyen: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent y Enterprise Team Member.
 
-- Los canales de ventas incluyen Contrato Enterprise (EA), Proveedor de soluciones en la nube (CSP) y Web Direct.
-- Por Contrato Enterprise solo ingresos: estos ingresos incluyen los ingresos del primer año del contrato. No se incluyen los ingresos recurrentes del segundo y el tercer año.
+- Los canales de ventas Enterprise Agreement (EA), Proveedor de soluciones en la nube (CSP) y Web Direct.
+- Por Enterprise Agreement solo ingresos: estos ingresos incluyen los ingresos del primer año del contrato. No se incluyen los ingresos recurrentes del segundo y el tercer año.
 
-### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definiciones de métricas de PCI #2: agrega un cliente neto
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definiciones de métricas de PCI #2: agrega un cliente neto.
 
 Net customer adds es un [indicador de rendimiento.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
-- Las sumas netas de clientes se suman durante un período final de 12 meses con un máximo de ganancias posibles de 10 puntos. 
+- Las sumas netas del cliente se suman durante un período final de 12 meses con un máximo de ganancias posibles de 10 puntos. 
 
 - Los clientes netos se agregan en todos los canales de ventas. 
 
 - Los puntos para las sumas netas de clientes se calculan mensualmente a medida que los clientes agregan menos los clientes perdidos y se agregan durante 12 meses. 
 
-- Un **complemento de** cliente se define en estas condiciones: cuando un cliente no tiene puestos de pago en todas sus suscripciones en un mes anterior, pero tiene al menos un puesto de pago en el mes actual.
+- Una **adición de** cliente se define en estas condiciones: cuando un cliente no tiene puestos de pago en todas sus suscripciones en un mes anterior, pero tiene al menos un puesto de pago en el mes actual.
 
-- Un **cliente** perdido se define en estas condiciones: cuando un cliente tiene al menos un puesto de pago en todas sus suscripciones en un mes anterior **y** no tiene ningún puesto de pago en el mes actual.
+- Un **cliente** perdido se define en estas condiciones: cuando un cliente tiene al menos un puesto de pago en todas sus suscripciones en un mes anterior **y** no tiene puestos de pago en el mes actual.
 
-- Se pueden obtener puntos máximos y parciales para las sumas netas del cliente. A continuación se muestran los requisitos para obtener los puntos máximos para una competencia determinada:
+- Se pueden obtener puntos máximos y parciales para las sumas netas del cliente. A continuación se muestran los requisitos para ganar puntos máximos para una competencia determinada:
 
-  | Para esta ruta | El cliente neto agrega para ganar un máximo de 10 puntos. |
+  | Para esta ruta | El cliente neto agrega para ganar un máximo de 10 puntos |
   |---------------------|----------------------------|
-  | Customer Engagement | - 10 clientes netos agregados (para asociados en *mercados desarrollados);*</br>- 5 net customer adds (para asociados en *mercados en* desarrollo)  |
-  | Finance and Operations | - 3 clientes netos agregados (para asociados en *mercados desarrollados);*</br>- Adición de un nuevo cliente (para asociados en *mercados en* desarrollo) |
+  | Customer Engagement | - 10 clientes netos agregados (para asociados en *mercados desarrollados);*</br>- 5 clientes netos agregados (para asociados *en mercados en* desarrollo)  |
+  | Finance and Operations | - 3 agregados netos de clientes (para asociados en *mercados desarrollados);*</br>- 1 nueva adición de cliente (para asociados *en mercados de* desarrollo) |
 
   > [!NOTE]
-  > Para obtener más información sobre los mercados desarrollados y en desarrollo, consulte [estas Microsoft Partner Network definiciones de .](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  > Para obtener más información sobre los mercados desarrollados frente al desarrollo, vea [estas Microsoft Partner Network definiciones de .](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
-- Los canales de ventas incluyen Contrato Enterprise (EA), Proveedor de soluciones en la nube (CSP) y Web Direct.
+- Los canales de ventas Enterprise Agreement (EA), Proveedor de soluciones en la nube (CSP) y Web Direct.
 
-- Para varios asociados/mismo cliente o cliente que trabaja  directamente con  Microsoft: hay diferentes cálculos de agregaciones de clientes y pérdida de clientes en casos en los que varios asociados están asociados al mismo cliente a través de suscripciones diferentes o en casos en los que el cliente ya puede estar trabajando directamente con Microsoft. Estos cálculos aparecen a continuación.
+- Para varios asociados/mismo cliente o cliente que trabajan  directamente con  Microsoft: hay diferentes cálculos de agregaciones de clientes y clientes perdidos para los casos en los que varios asociados están asociados con el mismo cliente a través de suscripciones diferentes o en casos en los que el cliente ya puede estar trabajando directamente con Microsoft. Estos cálculos aparecen a continuación.
 
-  **Para varios asociados, el mismo cliente, suscripciones diferentes:**
+  **Para varios asociados, el mismo cliente y suscripciones diferentes:**
 
 - El cliente se agrega por primera vez:
-    - Todos los asociados con el cliente recibirán crédito por un nuevo cliente agregado en el mes en que se agregue el cliente.
-    - Los asociados subsiguientes que se asocie con el mismo cliente a través de suscripciones antiguas o nuevas no recibirán crédito de adición de cliente nuevo para ese cliente.
-- Se pierde el cliente: todos los asociados que, en los 12 meses anteriores, recibieron crédito para la adición del cliente perderán ese crédito en el mes en que se pierda el cliente.
-- El cliente, anteriormente perdido, se ha vuelto a agregar: todos los asociados asociados al cliente recibirán crédito por un nuevo cliente agregado en el mes en que se vuelva a agregar el cliente.
+    - Todos los asociados asociados al cliente recibirán crédito para un nuevo cliente agregado en el mes en que se agregue el cliente.
+    - Los asociados posteriores que se asocie con el mismo cliente a través de suscripciones antiguas o nuevas no recibirán crédito de adición de cliente nuevo para ese cliente.
+- Se pierde el cliente: todos los asociados que, en los 12 meses anteriores, recibieron crédito por la adición del cliente, perderán ese crédito en el mes en que se pierda el cliente.
+- El cliente, que anteriormente se perdió, se ha vuelto a agregar: todos los asociados asociados con el cliente recibirán crédito para un nuevo cliente agregado en el mes en que se vuelva a agregar el cliente.
   
   **Cuando el cliente ya está trabajando directamente con Microsoft:**
 
-   - Si un cliente ya está trabajando directamente con Microsoft y ha cumplido los criterios de adición del nuevo cliente, los asociados que se asocie al mismo cliente posteriormente, a través de suscripciones antiguas o nuevas, no recibirán crédito de adición de cliente nuevo para ese cliente.
+   - Si un cliente ya está trabajando directamente con Microsoft y ha cumplido los criterios de adición del nuevo cliente, los asociados que se asocian con el mismo cliente posteriormente, a través de suscripciones antiguas o nuevas, no recibirán crédito de adición de cliente nuevo para ese cliente.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definiciones de métricas de PCI #3: consultores funcionales
 
-Los consultores funcionales son [un indicador de capacidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
+Los consultores funcionales son [un indicador de funcionalidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
 - Los puntos de indicador del consultor funcional se basan en la instantánea del mes actual con un máximo de ganancias posibles de 15 puntos.
 
-- Los consultores funcionales se definen como el número de personas que tienen una certificación de Consultor funcional Associate activa actualmente, como una certificación de Customer Engagement Consultor funcional o una certificación finance and operations Consultor funcional.
+- Los consultores funcionales se definen como el número de personas que tienen una certificación Consultor funcional Associate activa actualmente, como una certificación de Customer Engagement Consultor funcional o una certificación finance and operations Consultor funcional.
 
 - La certificación Consultor funcional Customer Engagement requiere que un usuario pase:
   - MB-200 \* o PL-200<br/>
   **y** uno de los siguientes exámenes:
   - MB-210, MB-220, MB-230, MB-240 o MB6-898 \* \* .
 
-- La certificación de Finance and Operations Consultor funcional requiere que un usuario pase:
+- La certificación finance and operations Consultor funcional requiere que un usuario pase:
   - MB-300<br/>
   **y** uno de los siguientes exámenes:
   - MB-310, MB-320, MB-330, MB-897 \* \* o MB6-898 \* \* .
 
 > [!NOTE]
-> Los exámenes marcados con un asterisco ( ) se retirarán o \* reemplazarán en los próximos meses. Consulte a continuación para obtener detalles específicos:
+> Los exámenes marcados con un asterisco \* () se retirarán o reemplazarán en los próximos meses. Consulte a continuación para obtener detalles específicos:
 >
 > - Los exámenes marcados con un solo asterisco \* () se retiraron el 31 de diciembre de 2020. Los exámenes retirados el 31 de diciembre de 2020 seguirán siendo aptos para el nivel de competencia y renovación hasta el 31 de diciembre de 2021, si se toman antes de retirarse.
-> - Los exámenes marcados con dos asteriscos () se retirarán el \* \* 31 de enero de 2021. Los exámenes que se retiren el 31 de enero de 2021 seguirán siendo aptos para la obtención y renovación de competencias hasta el 31 de enero de 2022, si se toman antes de retirarse.
+> - Los exámenes marcados con dos asteriscos () se retirarán el \* \* 31 de enero de 2021. Los exámenes que se retiren el 31 de enero de 2021 seguirán siendo aptos para el nivel de competencia y renovación hasta el 31 de enero de 2022, si se toman antes de retirarse.
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definiciones de métricas de PCI #4 crecimiento del consultor funcional
 
-El crecimiento del consultor funcional es un [indicador de capacidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
+El crecimiento del consultor funcional es [un indicador de funcionalidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
-Un asociado tiene una de las dos opciones para alcanzar los puntos todo o nada (15 o 0 puntos) disponibles para esta métrica. No se concederá ningún punto parcial.
+Un asociado tiene una de estas dos opciones para alcanzar los puntos de todo o nada (15 o 0 puntos) disponibles para esta métrica. No se concederá ningún punto parcial.
 
 **Opción uno para obtener puntos:**
 
-- El crecimiento funcional del consultor se define como el crecimiento en el número de asociados certificados Consultor funcional asociados desde una instantánea de línea base. La fecha de instantánea de línea de base se toma el 1 de octubre de 2020.
+- El crecimiento funcional del consultor se define como el crecimiento en número de asociados certificados Consultor funcional asociados desde una instantánea de línea de base. La fecha de instantánea de línea de base se toma el 1 de octubre de 2020.
 
 - Los puntos de indicador de crecimiento del consultor funcional se basan en la instantánea del mes actual en comparación con la línea base del 1 de octubre de 2020. Los asociados pueden lograr 0 o 15 puntos con este indicador.
 
-- La instantánea de línea de base se restablecerá posteriormente en la siguiente fecha de renovación Business Applications de competencias en la nube.
+- La instantánea de línea de base se restablecerá posteriormente en la siguiente fecha de renovación Business Applications la competencia cloud.
 
-- Para poder optar a puntos, debe tener un mínimo de **15** Consultor funcional Associates para asociados de mercado desarrollados y **5** para Desarrollar asociados de mercado cuando se toma la instantánea de línea de base.
+- Para poder optar a puntos, debe tener un mínimo de **15** Consultor funcional Asociados para asociados de mercado desarrollados y **5** para Desarrollar asociados de mercado cuando se toma la instantánea de línea de base.
 
-- **No se concederá ningún punto parcial.** El crecimiento sobre la instantánea de línea base debe cumplir o superar los umbrales indicados en la tabla siguiente. En la tabla se **muestra una columna Desarrollo** y **desarrollo** con la línea base del consultor funcional necesaria para ser apto para ganar puntos.
+- **No se concederá ningún punto parcial.** El crecimiento sobre la instantánea de línea base debe cumplir o superar los umbrales indicados en la tabla siguiente. En la tabla se muestra **una columna Desarrollo** **y desarrollo** con la línea de base del consultor funcional necesaria para ser apto para ganar puntos.
 
   | Desarrollado | Desarrollo | Crecimiento necesario para ganar los 15 puntos
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30-49 | 15-24 | 25 % |
-  | 50 y posteriores | 25 y posteriores | Consulte las opciones a continuación. |
+  | 50 y posteriores | 25 y posteriores | Consulte las opciones siguientes. |
 
 **Opción dos para obtener puntos:**
 
-- Los asociados de mercado desarrollados pueden certificar 50 o más consultores funcionales a tiempo para su primer aniversario de la Business Applications de la nube basada en PCI. (El desarrollo de asociados de mercado puede certificar a 25 o más consultores funcionales a tiempo para su primer aniversario de la Business Applications de la nube basada en PCI).
+- Los asociados de mercado desarrollados pueden certificar 50 o más consultores funcionales a tiempo para su primer aniversario de la competencia cloud Business Applications PCI. (El desarrollo de asociados de mercado puede certificar a 25 o más consultores funcionales a tiempo para su primer aniversario de competencias basadas en la nube Business Applications PCI).
 
-- Si alcanza este umbral, recibirá los 15 puntos completos para Consultor funcional crecimiento durante 24 meses a partir de esa fecha. De hecho, esto significa que se obtienen los puntos máximos para el Consultor funcional para dos Business Applications competencias en la nube.
+- Si alcanza este umbral, recibirá los 15 puntos completos para el Consultor funcional durante 24 meses a partir de esa fecha. Esto significa que se obtienen puntos máximos para el crecimiento Consultor funcional para dos Business Applications competencias en la nube.
 
-### <a name="definitions-for-pci-metric-5---developers"></a>Definiciones de métricas de PCI #5: desarrolladores
+### <a name="definitions-for-pci-metric-5---developers"></a>Definiciones de métricas pci #5: desarrolladores
 
-Los desarrolladores son [un indicador de funcionalidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
+Los desarrolladores son [un indicador de capacidad.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
-- Los desarrolladores se definen como el número de personas que tienen una certificación Developer Associate activa actualmente.
+- Los desarrolladores se definen como el número de personas que tienen una certificación developer Associate activa actualmente.
 
-- Los puntos para el indicador Desarrolladores se basan en la instantánea del mes actual con un máximo de 5 puntos disponibles.
+- Los puntos del indicador Desarrolladores se basan en la instantánea del mes actual con un máximo de 5 puntos disponibles.
 
 - Los desarrolladores de Customer Engagement obtienen crédito cuando pasan:
   - PL-400<br/>**or**
@@ -315,36 +315,36 @@ Los desarrolladores son [un indicador de funcionalidad.](partner-contribution-in
   - MB-500 o MB-894\*\*
 
 > [!NOTE]
-> Los exámenes marcados con un asterisco \* () se retirarán o reemplazarán en los próximos meses. Consulte a continuación para obtener detalles específicos:
+> Los exámenes marcados con un asterisco ( ) se retirarán o \* reemplazarán en los próximos meses. Consulte a continuación para obtener detalles específicos:
 >
-> - Los exámenes marcados con un solo asterisco \* () se retiraron el 31 de diciembre de 2020. Los exámenes retirados el 31 de diciembre de 2020 seguirán siendo aptos para el nivel de competencia y renovación hasta el 31 de diciembre de 2021, si se realizaron antes de retirarse.
-> - Los exámenes marcados con dos asteriscos () se retirarán el \* \* 31 de enero de 2021. Los exámenes que se retiren el 31 de enero de 2021 seguirán siendo aptos para el nivel de competencia y renovación hasta el 31 de enero de 2022, si se toman antes de retirarse.
+> - Los exámenes marcados con un solo asterisco \* () se retiraron el 31 de diciembre de 2020. Los exámenes retirados el 31 de diciembre de 2020 seguirán siendo aptos para la obtención y renovación de competencias hasta el 31 de diciembre de 2021, si se realizaron antes de retirarse.
+> - Los exámenes marcados con dos asteriscos () se retirarán el \* \* 31 de enero de 2021. Los exámenes que se retiren el 31 de enero de 2021 seguirán siendo aptos para la obtención y renovación de competencias hasta el 31 de enero de 2022, si se toman antes de retirarse.
 
-### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definiciones de métricas de PCI #6: nuevas implementaciones grandes
+### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definiciones de métricas pci #6 nuevas implementaciones grandes
 
 Las nuevas implementaciones grandes son un [indicador de éxito del cliente.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Los puntos de este indicador se calculan para la competencia cloud Business Applications como se indica a continuación:
 
-- Las nuevas implementaciones grandes se suman en un período final de 12 meses con un máximo de 20 puntos disponibles.
+- Las nuevas implementaciones de gran tamaño se resumen en un período final de 12 meses con un máximo de 20 puntos disponibles.
 
-- Las nuevas implementaciones de gran tamaño se definen de forma  diferente para Customer Engagement frente a Finance and Operations y para los asociados que operan en mercados desarrollados frente *a mercados en* desarrollo:
+- Las nuevas implementaciones grandes se definen de forma diferente para  Customer Engagement frente a Finance and Operations y para los asociados que operan en mercados desarrollados frente *a mercados en* desarrollo:
 
-  - Para Customer Engagement, las nuevas implementaciones grandes se definen como el número de instancias de producción de un inquilino que han superado los **250** usuarios activos mensuales (para asociados de mercado desarrollados) y **150** usuarios activos mensuales (para los asociados de mercado en desarrollo).
+  - Para Customer Engagement, las nuevas implementaciones grandes se definen como el número de instancias de producción en un inquilino que han superado **los 250** usuarios activos mensuales (para asociados de mercado desarrollados) y **150** usuarios activos mensuales (para el desarrollo de asociados de mercado).
 
-  - Para Finance and Operations, las nuevas implementaciones grandes se definen como el número de instancias de producción en un inquilino que han superado **los 100** usuarios activos mensuales (para asociados de mercado desarrollados) y **50** usuarios activos mensuales (para asociados de mercado en desarrollo).
+  - Para Finance and Operations, las nuevas implementaciones de gran tamaño se definen como el número de instancias de producción en un inquilino que han superado **los 100** usuarios activos mensuales (para asociados de mercado desarrollados) y **50** usuarios activos mensuales (para el desarrollo de asociados de mercado).
   
-  (Para obtener más información sobre los mercados desarrollados frente al desarrollo, vea [estas Microsoft Partner Network de desarrollo).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  (Para más información sobre los mercados desarrollados y en desarrollo, consulte [estas Microsoft Partner Network de desarrollo).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 - Se considera que un inquilino ha superado el umbral de usuario activo mensual si el inquilino era:
 
   - Por debajo del umbral especificado hace 12 meses, **y**
 
-  - Se superó ese umbral al menos una vez durante los 11 meses siguientes.
+  - Superó ese umbral al menos una vez durante los 11 meses siguientes.
 
 - Los usuarios activos mensuales se cuentan en el nivel de inquilino y se suman solo en las suscripciones de pago del inquilino.
 
 - Los usuarios activos mensualmente se calculan al final de cada mes.
 
-- Los asociados están asociados a inquilinos en el nivel de suscripción. Las suscripciones se asignan a los siguientes productos calificados de Customer Engagement o a los productos Finance and Operations:
+- Los asociados están asociados a inquilinos en el nivel de suscripción. Las suscripciones se asignan a los siguientes productos de Customer Engagement y a los productos de Finance and Operations:
   - Los productos aptos para Customer Engagement incluyen: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent y Enterprise Team Member.
   - Los productos aptos para finanzas y operaciones incluyen: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent y Enterprise Team Member.
 - Todos los asociados asociados a cualquier suscripción de pago de un inquilino recibirán crédito para todas las instancias de producción de Customer Engagement u Finance and Operations de ese inquilino.
@@ -357,19 +357,19 @@ El crecimiento mensual de usuarios activos es un [indicador de éxito del client
 
 - Los usuarios activos mensuales se cuentan en el nivel de inquilino y se suman solo en las suscripciones de pago del inquilino.
 
-- El indicador de crecimiento mensual de usuarios activos compara el mes actual con una línea base de hace 12 meses. Hay 25 puntos máximos disponibles.
+- El indicador de crecimiento del usuario activo mensual compara el mes actual con una línea de base de hace 12 meses. Hay 25 puntos máximos disponibles.
 
 - Los usuarios activos mensualmente se calculan al final de cada mes.
 
-- El crecimiento mensual de usuarios activos se define de forma diferente para las  rutas de participación del cliente frente a las de finanzas y operaciones, y para los asociados que operan en mercados desarrollados frente *a mercados en* desarrollo:
+- El crecimiento mensual de usuarios activos se define de forma diferente para customer  engagement frente a las rutas de finanzas y operaciones, y para los asociados que operan en mercados desarrollados frente *a mercados en* desarrollo:
 
-  - Para que Customer Engagement sea apto para puntos, los asociados de mercado desarrollados deben tener una línea base de al menos **250** usuarios activos mensuales, y los asociados de mercado en desarrollo deben tener una línea base de **150** usuarios activos mensuales en toda la base de clientes hace 12 meses.
+  - Para que Customer Engagement sea apto para los puntos, los asociados de mercado desarrollados deben tener una línea base de al menos **250** usuarios activos mensuales, y los asociados de mercado en desarrollo deben tener una base de referencia de **150** usuarios activos mensuales en toda la base de clientes hace 12 meses.
 
-  - Para que Finance and Operations pueda optar a puntos, los asociados de mercado desarrollados deben tener una línea base de al menos **100** usuarios activos mensuales y los asociados de mercado en desarrollo deben tener una línea base de **50** usuarios activos mensuales en toda la base de clientes hace 12 meses.
+  - Para que Finance and Operations sea apto para los puntos, los asociados de mercado desarrollados deben tener una base de referencia de al menos **100** usuarios activos mensuales, y los asociados de mercado en desarrollo deben tener una línea base de **50** usuarios activos mensuales en toda la base de clientes hace 12 meses.
   
-  (Para obtener más información sobre los mercados desarrollados y en desarrollo, vea [estas Microsoft Partner Network definiciones de .](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  (Para obtener más información sobre los mercados desarrollados frente al desarrollo, vea [estas definiciones Microsoft Partner Network desarrollo.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
-- Los asociados están asociados a inquilinos en el nivel de suscripción. Las suscripciones se asignan a productos aptos de Customer Engagement o a productos de Finance and Operations calificados.
+- Los asociados están asociados a inquilinos en el nivel de suscripción. Las suscripciones se asignan a productos aptos de Customer Engagement o a productos de Finance and Operations aptos.
 
 - Todos los asociados asociados a cualquier suscripción de pago de un inquilino recibirán crédito para todos los usuarios activos mensuales de Customer Engagement u Finance and Operations sumados en todas las suscripciones de pago de ese inquilino.
 
@@ -377,7 +377,7 @@ El crecimiento mensual de usuarios activos es un [indicador de éxito del client
 
 En esta sección se describe cómo acceder a los indicadores de contribución de asociados desde Centro de partners panel y cómo leer los gráficos asociados.
 
-Para ver los gráficos de indicadores de contribución de asociados y el progreso, siga estos pasos:
+Para ver los gráficos y el progreso de los indicadores de contribución de asociados, siga estos pasos:
 
 1. Inicia sesión en el [panel](https://partner.microsoft.com/dashboard) del Centro de partners.
 
@@ -385,13 +385,13 @@ Para ver los gráficos de indicadores de contribución de asociados y el progres
 
    Debería ver el panel Indicadores de contribución de asociados con gráficos asociados.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Cómo leer el gráfico.":::
+   :::image type="content" source="images/insights/howto.png" alt-text="Cómo leer el gráfico.":::
 
    > [!NOTE]
    > Si no ve estas opciones, intente seleccionar **MPN** en el menú, seguido de **Indicadores de contribución de asociados**. Si todavía no encuentra estas opciones, es posible que no tenga asignado el rol de usuario adecuado en Centro de partners. Póngase en contacto Centro de partners administrador global o administrador de asociados de MPN para obtener ayuda.
 
-Para obtener más información sobre el uso de esta área, consulte la colección de recursos y vídeos que se encuentran al final de este artículo.
+Para obtener más información sobre el uso de esta área, consulte la colección de recursos y vídeos que se encuentra al final de este artículo.
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-Vea más vídeos de entrenamiento de PCI y [recursos informativos](https://partner.microsoft.com/asset/collection/pci-learn#/) sobre la obtención de las competencias Gold o Silver Cloud Business Applications nube.
+Vea más vídeos de entrenamiento de PCI y [recursos informativos](https://partner.microsoft.com/asset/collection/pci-learn#/) sobre cómo alcanzar la competencia Gold o Silver Cloud Business Applications nube.
