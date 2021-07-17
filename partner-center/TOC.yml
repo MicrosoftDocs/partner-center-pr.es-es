@@ -273,7 +273,7 @@
     - name: Introducción a los incentivos
       items:
         - name: P+F sobre incentivos
-          href: incentives-faq.yml
+          href: incentives-faq.md
           displayName: mpn
         - name: Introducción a los incentivos
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Preguntas más frecuentes sobre perfiles fiscales y pagos
-      href: payout-faq.yml
+      href: payout-faq.md
 - name: Conexión con los clientes
   items:
     - name: Conectar con sus clientes
