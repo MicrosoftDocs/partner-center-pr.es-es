@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
-ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113648372"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684277"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de julio de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Funcionalidades|[Software en el programa Proveedor de soluciones en la nube (CSP) de Microsoft China Corporation Limited (MCCL) y cambio en Open License](2021-july.md#9)| 13 de julio |
 |Preparación|[Cambios en la API de validación de direcciones de cliente de Proveedor de soluciones en la nube (CSP) que se harán realidad el 13 de julio de 2021](2021-july.md#8)| 12 de julio |
 |Funcionalidades|[Actualización y recordatorios de la comunidad de Proveedor de soluciones en la nube (CSP) de julio](2021-july.md#7)| 12 de julio |
 |Funcionalidades|[Mantenimiento como activas de las certificaciones de Microsoft con ayuda del Centro de partners](2021-july.md#6)| 9 de julio |
