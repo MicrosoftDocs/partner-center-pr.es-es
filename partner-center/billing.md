@@ -9,21 +9,16 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756726"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149203"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Información general: artículos principales sobre facturación e impuestos en el Centro de partners
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de facturación
-- Administrador global
-- Agente de ventas
+**Roles adecuados**: Agente de administración | Administrador de facturación | Administrador global | Agente de ventas
 
 En este artículo se proporcionan vínculos con información sobre facturación e impuestos del Centro de partners, así como recursos de facturación, facturas, facturación de CSP e impuestos.
 
@@ -31,7 +26,7 @@ En este artículo se proporcionan vínculos con información sobre facturación 
 | Tema | Descripción |
 | ----- | ----------- |
 | [Conceptos básicos de la facturación](billing-basics.md) | Aspectos básicos de la facturación en el Centro de partners (incluidos los pagos, las facturas y los archivos de conciliación). |
-| [Tipos de facturación](billing-different-types.md) | Explicación de los distintos tipos de facturación en el Centro de partners. |
+| [Tipos de facturación](./billing-basics.md) | Explicación de los distintos tipos de facturación en el Centro de partners. |
 | [Comprensión de la factura](read-your-bill.md) | Cómo leer y comprender la factura del Centro de partners. |
 | [Pruebas gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Cómo ofrecer evaluaciones gratuitas a tus clientes y cómo se facturan. |
 | [Archivo de conciliación](use-the-reconciliation-files.md) | Cómo leer y usar el archivo de conciliación para los elementos de línea. |

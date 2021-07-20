@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964382"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149237"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Información general sobre facturación para los partners de programas de CSP que trabajan en el Centro de partners 
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de facturación
-- Administrador global
-- Agente del departamento de soporte técnico
-- Agente de ventas
+**Roles adecuados**: Agente de administración | Administrador de facturación | Administrador global | Agente de soporte técnico | Agente de ventas
 
 En este artículo se proporciona información básica sobre la facturación y las facturas de los asociados de CSP en el Centro de Partners, incluido cómo realizar facturas a clientes y cómo buscar y leer las facturas.
 

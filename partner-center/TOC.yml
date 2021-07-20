@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: Cómo pueden ayudar los proveedores indirectos a sus revendedores a adoptar la MPA
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'Contratos, listas de precios y ofertas de CSP'
       href: csp-documents-and-learning-resources.md
@@ -273,7 +273,7 @@
     - name: Introducción a los incentivos
       items:
         - name: P+F sobre incentivos
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Introducción a los incentivos
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Preguntas más frecuentes sobre perfiles fiscales y pagos
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: Conexión con los clientes
   items:
     - name: Conectar con sus clientes
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Acceso basado en roles de Insights
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Informes de Insights
           items:
             - name: Información general
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Customer
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Rendimiento de revendedores
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Suscripciones de producto
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Uso de Azure
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Uso de equipos
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Uso de Office 365
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Uso de Dynamics
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Uso de Enterprise Mobility + Security
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Uso de Power BI
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Cursos
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Análisis de Microsoft Learn
               href: ms-learn-analytics.md
             - name: Competencias
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Ventajas
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: Tendencia de CloudAscent
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Licencias de producto
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: 'Insights: preguntas más frecuentes'
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Descargar informes de Insights
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Acceso mediante programación al análisis
+          items:
+            - name: Introducción
+              href: insights-programmatic-get-started.md
+            - name: Requisitos previos para el acceso mediante programación
+              href: insights-programmatic-prerequisites.md
+            - name: Paradigma del acceso mediante programación
+              href: insights-programmatic-access-paradigm.md
+            - name: Realice su primera llamada API mediante programación
+              href: insights-programmatic-first-api-call.md
+            - name: Lista de consultas del sistema
+              href: insights-programmatic-system-queries.md
+            - name: Consultas de ejemplo
+              href: insights-programmatic-sample-queries.md
+            - name: Especificación de consulta personalizada
+              href: insights-programmatic-custom-query.md
+            - name: Aplicación de ejemplo
+              href: insights-programmatic-sample-application.md
+            - name: Preguntas más frecuentes
+              href: insights-programmatic-faq.md
+            - name: Referencias de API
+              items:
+                - name: API disponibles
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Obtener todos los conjuntos de datos
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Obtención de consultas de informe
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Eliminación de consultas de informe
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Prueba de consultas de informe
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Obtener informe
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Actualización de informes
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Eliminar informe
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Pausa de ejecuciones de informes
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Reanudación de ejecuciones de informes
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Definiciones de datos de Insights
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Indicadores de contribución de partners
       items:
         - name: Para la competencia de aplicaciones empresariales de nube

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740359"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424999"
 ---
 # <a name="december-2020-announcements"></a>Anuncios de diciembre de 2020
 
@@ -368,7 +368,7 @@ La oferta de promoción de Power Apps inicialmente planeada para el 1 de diciemb
 - La oferta estará disponible para su compra hasta el 30 de junio de 2021.
 - La oferta estará a un precio reducido durante un plazo de 12 meses, como otras ofertas de CSP.
 - Esta oferta no se renovará automáticamente y expirará al cabo del período de 12 meses. Inicialmente, la propiedad de renovación automática estará establecida en **True**, pero se cambiará para que la oferta expire al finalizar el período de 12 meses de la oferta.
-- Los partners deberán adquirir la oferta con el precio sin promoción (identificador de oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes de que expire el período de 12 meses si quieren seguir usando los servicios proporcionados por la oferta de promoción inicial.
+- Los partners deberán adquirir la oferta con el precio sin promoción (id. de oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes de que expire el período de 12 meses si quieren seguir usando los servicios proporcionados por la oferta de promoción inicial.
 
 **Detalles de precios**
 
@@ -397,8 +397,7 @@ Los detalles de la oferta que se indican a continuación para esta oferta se inc
 
 ### <a name="next-steps"></a>Pasos siguientes
 
-- La oferta de promoción estará disponible en la lista de precios y la matriz de la lista de ofertas basadas en precios oficiales del Centro de Partners de CSP del 1 de enero de 2021. 
-- Si tiene preguntas sobre esta promoción, puede enviarlas al [anuncio de la comunidad de Microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- La oferta de promoción estará disponible en la lista de precios y la matriz de la lista de ofertas basadas en precios oficiales del Centro de Partners de CSP del 1 de enero de 2021.
 
 ______________
 

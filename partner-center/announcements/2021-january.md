@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740308"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297693"
 ---
 # <a name="january-2021-announcements"></a>Anuncios de enero de 2021
 
@@ -541,9 +541,7 @@ Asociados del programa CSP que operen en la India.
 
 ### <a name="details"></a>Detalles 
 
-Microsoft está realizando cambios en la lista de precios de la rupia india para alinear los precios del software comercial y los servicios en línea en la India y en la región de Asia.
-
-El anuncio completo solo está disponible para los asociados de Microsoft. [Inicie sesión para obtener acceso al anuncio completo](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
+Microsoft está realizando cambios en la lista de precios de la rupia india para alinear los precios del software comercial y los servicios en línea en la India y en la región de Asia. Publicaremos más detalles a medida que estén disponibles. Si necesita ayuda mientras tanto, póngase en contacto con [soporte técnico del Centro de partners](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 

@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d1544333cd2251dd26223bebf20ef08723e976fb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444588"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148540"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Comparación de las diferencias entre las ofertas de Azure en el programa de CSP
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador de facturación
-- Administrador global
-- Agente del departamento de soporte técnico
-- Agente de ventas
+**Roles adecuados**: Agente de administración | Administrador de facturación | Administrador global | Agente de soporte técnico | Agente de ventas
 
 En este artículo se describen las diferencias principales entre las ofertas de Azure en el programa Proveedor de soluciones en la nube (CSP).
 

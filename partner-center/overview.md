@@ -5,23 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Uso del Centro de partners para realizar transacciones de la empresa con Microsoft y sus clientes
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132254"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353727"
 ---
 # <a name="what-is-partner-center"></a>¿Qué es el Centro de partners?
 
-**Roles adecuados**
+**Roles adecuados**: Todos los partners interesados en el Centro de partners
 
-- Todos los asociados interesados en el Centro de partners
-
-[El Centro de partners](https://partner.microsoft.com/dashboard/home) simplifica varios procesos empresariales para que los partners de Microsoft puedan administrar con facilidad la relación que tienen con Microsoft y sus clientes. El Centro de partners le permite acceder fácilmente a las herramientas que necesita para realizar el trabajo. Usa el Centro de partners para:
+[El Centro de partners](https://partner.microsoft.com/dashboard/home) simplifica varios procesos empresariales para que los partners de Microsoft puedan administrar con facilidad la relación que tienen con Microsoft y sus clientes. El Centro de partners le brinda acceso a las herramientas que necesita para hacer el trabajo. Usa el Centro de partners para:
 
 - Administrar la cuenta de Microsoft y los usuarios
 - Interactuar con los clientes
@@ -33,7 +31,7 @@ ms.locfileid: "106132254"
 - Póngase en contacto con el soporte técnico.
 - Publicar o explorar ofertas en el [marketplace comercial de Microsoft](/azure/marketplace), un catálogo de miles de aplicaciones y servicios procesables, orientados al cliente y que compilan y entregan nuestros partners de fabricantes de software independiente (ISV).
 
-:::image type="content" source="images/home.png" alt-text="Información general del Centro de partners":::
+:::image type="content" source="images/home.png" alt-text="Información general del Centro de partners.":::
 
 ## <a name="manage-your-account"></a>Administración de la cuenta
 
@@ -70,7 +68,7 @@ Acceda a diferentes tipos de informes de datos desde el panel del Centro de part
 - Los indicadores de contribución de partners (PCI) muestran el impacto de los partners en siete medidas clave de éxito del cliente.
 - Los informes de datos de conclusiones de partners identifican los productos que tienen unas ventas altas, le permiten averiguar qué clientes han implementado sus suscripciones o necesitan soporte técnico y muestran si se venden bien sus productos.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine dónde están las licencias":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine dónde están las licencias.":::
 
 ## <a name="next-steps"></a>Pasos siguientes
 

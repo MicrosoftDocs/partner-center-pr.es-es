@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964347"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147639"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Información general sobre las ofertas de partners en el programa Proveedor de soluciones en la nube
 
-**Roles adecuados**
-
-- Agente de administrador
-- Administrador global
-- Agente de ventas
+**Roles adecuados**: Agente de administración | Administrador global | Agente de ventas
 
 Los partners de Microsoft en el programa Proveedor de soluciones en la nube (CSP) tienen a su disposición un catálogo de ofertas cada vez mayor. Puede vender toda la gama de [servicios en la nube de Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services), así como una variedad de ofertas adicionales que cambian con frecuencia. Para ver las ofertas de CSP para el mes actual, inicia sesión en el Centro de partners y, luego, ve a la página [**Precios y ofertas**](https://partnercenter.microsoft.com/pcv/sales).  
 

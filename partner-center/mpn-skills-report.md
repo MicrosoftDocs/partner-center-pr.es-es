@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f8da6e1d1ff80776c71b3f3795ff19fbbab6f112
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132441"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151345"
 ---
 # <a name="using-the-skills-report"></a>Uso del informe de aptitudes
 
-**Roles adecuados**
-
-- Administrador de partners de MPN
-- Administrador global
+**Roles adecuados**: Administrador de partners de MPN | Administrador global
 
 El informe de aptitudes permite a los partners de Microsoft Partner Network valorar las aptitudes completadas por los usuarios de la empresa partner. Las aptitudes del informe pueden incluir valoraciones, certificaciones o exámenes realizados por los usuarios técnicos del partner. 
 

@@ -9,18 +9,16 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: b5487addd5bf4cd53eacaa95c4e2e602a7279bad
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151243"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Vinculación o desvinculación de un identificador de perfil de certificación de Microsoft (MCID) respecto a una cuenta de Microsoft Partner Network (MPN)
 
-**Roles adecuados**
-
-- Todos los usuarios del Centro de partners
+**Roles adecuados**: Todos los usuarios del Centro de partners
 
 En este artículo se describe cómo los clientes que mantienen certificaciones activas en el programa de certificación de Microsoft pueden vincular o desvincular su identificador de perfil de certificación de Microsoft (MCID) respecto a una organización de Microsoft Partner Network (MPN).
 

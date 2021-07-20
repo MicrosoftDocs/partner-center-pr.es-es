@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 12684ee4949102ebbae5ce3e98ea38decfd34bb7
+ms.sourcegitcommit: b347181a7dd577395b47ef2c0fc680e9cfb3711f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684277"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "114394288"
 ---
 # <a name="partner-center-announcements"></a>Anuncios del Centro de partners
 
@@ -22,6 +22,7 @@ Más información sobre las actualizaciones importantes del Centro de partners. 
 
 |**Categoría**|**Anuncios de julio de 2021**|**Fecha del anuncio**|
 |---------|:---------|:---------|
+|Ofertas/mercados|[Correcciones en la versión preliminar de la lista de precios de servicios basados en licencias de agosto para Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 de julio |
 |Funcionalidades|[Software en el programa Proveedor de soluciones en la nube (CSP) de Microsoft China Corporation Limited (MCCL) y cambio en Open License](2021-july.md#9)| 13 de julio |
 |Preparación|[Cambios en la API de validación de direcciones de cliente de Proveedor de soluciones en la nube (CSP) que se harán realidad el 13 de julio de 2021](2021-july.md#8)| 12 de julio |
 |Funcionalidades|[Actualización y recordatorios de la comunidad de Proveedor de soluciones en la nube (CSP) de julio](2021-july.md#7)| 12 de julio |

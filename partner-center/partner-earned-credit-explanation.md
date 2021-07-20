@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087134"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145871"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Cómo se calcula y paga el crédito que obtiene el partner
 
-**Roles adecuados**
-
-- Administrador global
-- Administrador del control de usuarios
-- Agente de administrador
-- Administrador de facturación
-- Agente de ventas
+**Roles adecuados**: Administrador global | Administrador de control de usuarios | Agente administrador | Administrador de facturación | Agente de ventas
 
 El crédito obtenido del partner para los servicios administrados (PEC) reconoce y recompensa a aquellos partners que poseen el control operativo de TI las 24 horas del día los 7 días de la semana, y la administración de ciertas partes o de todo el entorno de Azure de sus clientes. De manera predeterminada, en CSP, a los partners se les otorgan los derechos de acceso necesarios a la suscripción del cliente, lo que les permite realizar una administración operativa las 24 horas y los 7 días de la semana, además de controlar los recursos de la suscripción. En la siguiente sección se describen otras formas mediante las cuales el cliente puede proporcionar acceso al asociado con el que realizará la transacción. El importe de la factura mensual es al cantidad neta del crédito obtenido por el asociado. Los partners pueden ver los detalles del PEC en su archivo de conciliación mensual. Para conocer formas adicionales en las que el cliente puede proporcionar acceso al partner con el que realizará la transacción, consulta [Administración de suscripciones y recursos del plan de Azure](azure-plan-manage.md).
 

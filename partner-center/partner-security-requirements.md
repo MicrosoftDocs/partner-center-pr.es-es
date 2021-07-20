@@ -9,18 +9,16 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087066"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145854"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Requisitos de seguridad para usar el Centro de partners o las API del Centro de partners
 
-**Roles adecuados**
-
-- Todos los usuarios del Centro de partners
+**Roles adecuados**: Todos los usuarios del Centro de partners
 
 En este artículo se explican los requisitos de seguridad obligatorios para asesores, proveedores de panel de control y partners participantes en el programa Proveedor de soluciones en la nube, así como las opciones de autenticación y otras consideraciones de seguridad. La seguridad y la protección de la privacidad se encuentran entre nuestras principales prioridades. Sabemos que la mejor defensa es la prevención y que somos tan seguros como lo sea nuestro vínculo más débil. Esta es la razón por la que necesitamos que todos los usuarios de nuestro ecosistema actúen y se aseguren de tener las protecciones de seguridad adecuadas.
 
